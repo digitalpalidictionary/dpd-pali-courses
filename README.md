@@ -24,3 +24,4 @@
 
 [Intermediate Pāḷi Course Exercises](https://docs.google.com/document/d/15x3PRqzW5VRuFQSJ-oOvKOZ2y1tNIgwYdhDWd-plHRI/)
 
+[Intermediate Pāḷi Course Key](https://docs.google.com/document/d/1AXSKpmYYuiinQYTBJ133rMZJc53qbZSLr_7UE-syofg/)
