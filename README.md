@@ -18,6 +18,8 @@
 
 [Beginner Pāḷi Course Key](https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/)
 
+[Beginner Pāḷi Course: Vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/vocab_bpc.html)
+
 ### Intermediate Pāḷi Course
 
 [Intermediate Pāḷi Course](https://docs.google.com/document/d/1qsYPFOifOUN2HIbFCH7kaglJyI2CVd9MH9A6Kt9rSxg/)
@@ -25,3 +27,5 @@
 [Intermediate Pāḷi Course Exercises](https://docs.google.com/document/d/15x3PRqzW5VRuFQSJ-oOvKOZ2y1tNIgwYdhDWd-plHRI/)
 
 [Intermediate Pāḷi Course Key](https://docs.google.com/document/d/1AXSKpmYYuiinQYTBJ133rMZJc53qbZSLr_7UE-syofg/)
+
+[Intermediate Pāḷi Course: Vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/vocab_ipc.html)
