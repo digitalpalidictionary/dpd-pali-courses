@@ -1,0 +1,61 @@
+name: Create Document Release
+
+on:
+  # push: # Removed to prevent auto-build on push
+  #   branches:
+  #     - main 
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  build_and_release_documents:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessary to create releases and push tags
+    
+    env:
+      PYTHON_SCRIPT_NAME: download_all_materials.py # Assuming this is the name of your python script in the repo
+      OUTPUT_DIR: output_documents # Must match OUTPUT_BASE_DIR in the Python script
+      BPC_PDF_ARCHIVE: beginner_pali_course_pdfs.zip 
+      BPC_DOCX_ARCHIVE: beginner_pali_course_docx.zip
+      IPC_PDF_ARCHIVE: intermediate_pali_course_pdfs.zip
+      IPC_DOCX_ARCHIVE: intermediate_pali_course_docx.zip
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Specify a Python version
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Run script to download and package documents
+        run: python ${{ env.PYTHON_SCRIPT_NAME }}
+
+      - name: Generate release tag
+        id: tag_generator
+        run: echo "TAG_NAME=release-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          name: "Pāli Course Documents (${{ env.TAG_NAME }})"
+          body: |
+            Automated release of Pāli course documents.
+            
+            This release includes:
+            - Beginner Pāli Course documents (PDF): '${{ env.BPC_PDF_ARCHIVE }}'
+            - Beginner Pāli Course documents (DOCX): '${{ env.BPC_DOCX_ARCHIVE }}'
+            - Intermediate Pāli Course documents (PDF): '${{ env.IPC_PDF_ARCHIVE }}'
+            - Intermediate Pāli Course documents (DOCX): '${{ env.IPC_DOCX_ARCHIVE }}'
+          files: |
+            ${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Provided by GitHub Actions
