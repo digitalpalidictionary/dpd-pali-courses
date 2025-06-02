@@ -2,6 +2,7 @@ import requests
 import os
 import zipfile
 import re
+import sys # Added for sys.exit()
 
 # --- Configuration ---
 BPC_INFO = [
@@ -90,6 +91,7 @@ def process_course_documents(course_docs_info, course_name_prefix, output_dir):
     """
     Downloads PDF and DOCX versions of documents for a specific course.
     Returns a tuple of (list_of_pdf_paths, list_of_docx_paths).
+    If any download fails, it prints an error and returns (None, None) to signal failure.
     """
     downloaded_pdfs = []
     downloaded_docx_files = []
@@ -113,23 +115,40 @@ def process_course_documents(course_docs_info, course_name_prefix, output_dir):
         pdf_filepath = download_google_doc(doc_id, base_filename, "pdf", output_dir)
         if pdf_filepath:
             downloaded_pdfs.append(pdf_filepath)
+        else:
+            print(f"ERROR: Failed to download PDF for '{original_name}'. Aborting this course processing.")
+            return None, None # Signal failure
 
         # Download as DOCX
         docx_filepath = download_google_doc(doc_id, base_filename, "docx", output_dir)
         if docx_filepath:
             downloaded_docx_files.append(docx_filepath)
+        else:
+            print(f"ERROR: Failed to download DOCX for '{original_name}'. Aborting this course processing.")
+            return None, None # Signal failure
             
     return downloaded_pdfs, downloaded_docx_files
 
 def main():
     # Ensure the base output directory exists
     os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
+    all_downloads_successful = True
 
     # Process Beginner Pāli Course
     bpc_pdfs, bpc_docx_files = process_course_documents(BPC_INFO, "Beginner", OUTPUT_BASE_DIR)
+    if bpc_pdfs is None or bpc_docx_files is None:
+        print("ERROR: Failures occurred during Beginner Pāli Course document processing.")
+        all_downloads_successful = False
     
     # Process Intermediate Pāli Course
     ipc_pdfs, ipc_docx_files = process_course_documents(IPC_INFO, "Intermediate", OUTPUT_BASE_DIR)
+    if ipc_pdfs is None or ipc_docx_files is None:
+        print("ERROR: Failures occurred during Intermediate Pāli Course document processing.")
+        all_downloads_successful = False
+
+    if not all_downloads_successful:
+        print("\n--- Critical errors encountered during document download. Aborting release process. ---")
+        sys.exit(1) # Exit with a non-zero status code to indicate failure
 
     # Create ZIP archives for Beginner Pāli Course
     if bpc_pdfs:
