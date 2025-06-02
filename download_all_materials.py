@@ -8,7 +8,6 @@ BPC_INFO = [
     {"name": "Beginner Pāli Course", "url": "https://docs.google.com/document/d/1FOKjmABrz6reeFDBWwpjDq1_J3m83-bd1TMXPcgEHmY/"},
     {"name": "BPC Exercises", "url": "https://docs.google.com/document/d/1jqKL8Nlghi1T2m9y0BAN17yk2Na-34fFan1tMI4mrGw/"},
     {"name": "BPC Key to Exercises", "url": "https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/"},
-    {"name": "BPC Vocab", "url": "https://docs.google.com/document/d/1AX4wqoVokRfTfr89EKxHPC1Yb80HKa2sqxX4q-nofso/"},
 ]
 
 IPC_INFO = [
