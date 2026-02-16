@@ -1,4 +1,3 @@
-
 # Class 3 Exercises
 | Pāli | POS | Grammar | English |
 |------|-----|---------|---------|

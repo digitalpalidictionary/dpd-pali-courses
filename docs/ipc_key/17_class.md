@@ -1,6 +1,3 @@
-
-
-
 # Class 17 Exercises
 
 | **Join the following words**    |   |                           |
@@ -421,7 +418,6 @@ Break up all the sandhis in the following sentences.
 | Even if it is spoken this way, monks, it is still evident: "Ignorance is on account of a specific condition".                                                                                                                                                                                      |              |                  |                                                               |                                 |
 |                                                                                                                                                                                                                                                                                                    |              |                  |                                                               |                                 |
 
-## 
 
 ## Class 17 Extra Examples
 
@@ -561,5 +557,3 @@ Break up all the sandhis in the following sentences.
 | \#vehāsaṃ                                                                                              | noun | masc.acc.sg | through the sky                                  |                                 |
 | \#gamo                                                                                                 | adj  | masc.nom.sg | going                                            | √gam･1 a (go)                   |
 | Once upon a time, sir, I was a sage called Rohitassa, son of Bhoja, a sky walker with psychic powers.  |      |             |                                                  |                                 |
-
-## 

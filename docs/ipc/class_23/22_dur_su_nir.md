@@ -1,16 +1,7 @@
-
 # dur, su, nir & etc.
-
 ***
-
 Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**
-
 ***
-
-***
-
-***
-
 | dur- <br>**bad, difficult**, unwholesome, negative, poor, ill, mean |              |            |                      |
 |---------------------------------------------------------------------|--------------|------------|----------------------|
 | √man                                                                | to think     | domanassa  | mental suffering     |
@@ -24,9 +15,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dam                                                                | to tame      | duddama    | hard to tame         |
 | √dis                                                                | to see       | duddasa    | difficult to see     |
 | √gam                                                                | to go        | duggati    | hell, bad place      |
-
 ***
-
 | su- <br>**good**, well, thoroughly, **easily**, auspiciously, abundance |            |           |                      |
 |-------------------------------------------------------------------------|------------|-----------|----------------------|
 | √man                                                                    | to think   | somanassa | happiness, good mind |
@@ -36,9 +25,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √car                                                                    | to act     | sucarita  | good conduct         |
 | √dam                                                                    | to tame    | sudanta   | well tamed           |
 | √dis                                                                    | to see     | sudiṭṭha  | well-seen            |
-
 ***
-
 | nir-<br>not, without, no, negative |              |           |                       |
 |------------------------------------|--------------|-----------|-----------------------|
 | √van                               | to desire    | nibbana   | without craving       |

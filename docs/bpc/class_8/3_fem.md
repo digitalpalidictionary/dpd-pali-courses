@@ -17,9 +17,7 @@
 ### Feminine Nouns ending in -ī
 
 This is a common way of forming feminine versions of masculine nouns.
-
 ***
-
 | brahmaṇa | Brahman   | brahmaṇ**ī** | Brahman woman  |
 |----------|-----------|--------------|----------------|
 | sakha    | friend    | sakh**ī**    | female friend  |
@@ -30,15 +28,9 @@ This is a common way of forming feminine versions of masculine nouns.
 | deva     | king, god | dev**ī**     | queen, goddess |
 
 this group also includes common feminine nouns like:
-
 ***
-
 **itthī** (woman), **pathavī** (earth), **bhaginī** (sister) etc.
-
 ***
-
-***
-
 | 1.nom  | kumār**ī**                    | kumār**ī** <br>kumār**iyo**   |
 |--------|-------------------------------|-------------------------------|
 | 2.acc  | kumār**iṃ**                   | kumār**ī** <br>kumār**iyo**   |
@@ -62,21 +54,13 @@ this group also includes common feminine nouns like:
 | 6.gen  | yāg**uyā**                 | yāg**ūnaṃ**               |
 | 7.loc  | yāg**uyā** <br>yāg**uyaṃ** | yāg**usu** <br>yāg**ūsu** |
 | 8.voc  | yāg**u**                   | yāg**ū** <br>yāg**uyo**   |
-
 ***
-
 the most common feminine noun in this group - **dhātu**
-
 ***
-
-***
-
 ### Feminine nouns mātu (mātar) and dhītu (dhītar)
 
 These are irregular in form
-
 ***
-
 | 1.nom  | māt**ā**                   | māt**aro**                                    |
 |--------|----------------------------|-----------------------------------------------|
 | 2.acc  | māt**araṃ**                | māt**aro**                                    |
@@ -90,9 +74,7 @@ These are irregular in form
 ### Feminine Nouns ending in -ikā
 
 A common way to create masculine nouns is with **-aka** suffix. The feminine version of this is **-ikā**. These nouns are declined like **vedanā**
-
 ***
-
 | dāy**aka**     | giver, donor | dāy**ikā**     | fem. giver       |
 |----------------|--------------|----------------|------------------|
 | dār**aka**     | young boy    | dār**ikā**     | young girl       |
@@ -106,9 +88,7 @@ A common way to create masculine nouns is with **-aka** suffix. The feminine ver
 ### Feminine Nouns ending in -inī
 
 Masculine nouns ending in **-ī** having the feminine form of **-inī**. They are declined like **kumarī**.
-
 ***
-
 | hatth**ī**   | elephant | hatth**inī**   | fem. elephant |
 |--------------|----------|----------------|---------------|
 | sām**ī**     | master   | sām**inī**     | mistress      |

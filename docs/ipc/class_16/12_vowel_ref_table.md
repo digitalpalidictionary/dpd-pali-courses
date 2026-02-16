@@ -20,9 +20,7 @@
 | **ā** | e\>ā  |       |       |       |       | **o** | o\<a |                             |     |
 | **ā** | o\>+a |       |       |       |       | **o** | o\<i |                             |     |
 |       |       |       |       |       |       | **o** | o\<e |                             |     |
-
 ***
-
 How to use the reference table: First try to figure it out for yourself! If you can’t, then refer to the table.
 
 Please deconstruct the following:
@@ -88,9 +86,7 @@ khvāssa
 | **ū**   | o             |       |            |       |           |       |             |             |
 | **e**   | e             | ā ari | e          |       | u ve      |       | e           | e o         |
 | **o**   | o             |       | o          |       |           |       |             |             |
-
 ***
-
 Example of usage:
 
 when **a** meets **ī** the result can be **e**, but when **ī** meets **a** result can be **yā**
@@ -98,67 +94,30 @@ when **a** meets **ī** the result can be **e**, but when **ī** meets **a** res
 when **i** meets **u** the result can be **o**, but when **u** meets **i** result can be **u** or **ū**
 
 ## Some Common Punctuation Related to Sandhi
-
 ***
-
 In many chanting books, **conjunction** of words is denoted with a **dash ( - )**, and **elision** is denoted with an **apostrophe( ’ )**. This can make reading and pronunciation easier. Also note the use of the **ṁ**, **ṃ** or **ŋ.**
-
 ***
-
-***
-
 karaṇīyam’attha-kusalena
-
 ***
-
 yaṁ taṁ santaṁ padaṁ abhisamecca
-
 ***
-
 sakko ujū ca suhujū ca
-
 ***
-
 suvaco c’assa mudu an-atimānī
-
 ***
-
-***
-
 In most Roman script texts, a **macron** **( ¯ )** is used to denote all long vowels. In older texts, and in **PTS** dictionary, when two vowels are joined to form a long vowel, they are denoted with **a circumflex ( \^ )** over the long vowel instead of a macron ( ¯ ). The circumflex means the long vowel is a result of sandhi.
-
 ***
-
-***
-
 n**a a**haṃ \> n**â**haṃ = n**ā**haṃ
-
 ***
-
 dhamm**a a**nupassī \> dhamm**â**nupassī = dhamm**ā**nupassī
-
 ***
-
 n**a a**paraṃ \> n**â**paraṃ = n**ā**paraṃ
-
 ***
-
 itar**a i**taraṃ \> itar**î**taraṃ = itar**ī**taraṃ
-
 ***
-
 aggi iva \> agg**î**va = agg**ī**va
-
 ***
-
 āhāra upahāra \> āhār**û**pahāra = āhār**ū**pahāra
-
 ***
-
 idha upapanna \> idh**û**papanna = idh**ū**papanna
-
-***
-
-***
-
 ***

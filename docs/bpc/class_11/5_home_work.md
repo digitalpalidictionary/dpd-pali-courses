@@ -1,5 +1,3 @@
-
-
 # Homeless work
 
 1.  Exercises for class 11
@@ -30,5 +28,4 @@ att’atthaṃ ca par’atthaṃ ca sampassamānā mayaṃ hitesikuṭiyā sāsa
 —
 
 [give your English translation here]
-
 ***

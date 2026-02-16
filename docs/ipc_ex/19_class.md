@@ -1,4 +1,3 @@
-
 # Class 19
 
 **Disjoin the samāsa**
@@ -332,7 +331,6 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 |                                                                                                                                                                                                                              |   |   |   |   |
 |                                                                                                                                                                                                                              |   |   |   |   |
 
-## 
 
 ## Class 19 Extra Examples
 
@@ -463,5 +461,3 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 |                                                                                                                                |   |   |   |   |
 |                                                                                                                                |   |   |   |   |
 |                                                                                                                                |   |   |   |   |
-
-## 

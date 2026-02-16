@@ -1,5 +1,3 @@
-
-
 # Homeless work
 
 1.  Exercises for class 12
@@ -10,5 +8,4 @@
     **Extra:**
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of SBS kuṭis.
-
 ***

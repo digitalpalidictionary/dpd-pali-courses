@@ -9,5 +9,4 @@
 | 6.gen  | vedan**āya**                    | vedan**ānaṃ**                |
 | 7.loc  | vedan**āya** <br>vedan**āyaṃ**  | vedan**āsu**                 |
 | 8.voc  | vedan**e**                      | vedan**ā** <br>vedan**āyo**  |
-
 ***

@@ -1,5 +1,3 @@
-
-
 # Class 1
 
 
@@ -9,17 +7,11 @@
 -   How to set up basic digital tools
 -   Digital Resources
 -   Homeless work
-
 ***
-
 **Why study Pāli ?**
-
 ***
-
 **What is your Pāli name?**
-
 ***
-
 ## Course Structure
 
 1.  Weekly Class (2h / class)

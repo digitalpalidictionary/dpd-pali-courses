@@ -1,4 +1,3 @@
-
 # Homeless work
 
 1.  Exercises for class 13
@@ -10,7 +9,6 @@
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of SBS kuṭis.
 
-## 
 
 ### Extra Reading
 
@@ -18,4 +16,3 @@
 |-----------------------------------------------------------------|--------------------------------------------------|
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                           |
-

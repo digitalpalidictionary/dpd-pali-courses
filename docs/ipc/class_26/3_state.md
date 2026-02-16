@@ -1,4 +1,3 @@
-
 # State of Being (bhāvataddhita)
 
 ### tā (state of) abstract feminine nouns
@@ -15,7 +14,6 @@
 | subhara | + tā | subhara**tā** | being easy to support |
 | suñña   | + tā | suñña**tā**   | emptiness             |
 
-### 
 
 ### tta (state of) abstract neuter nouns
 
@@ -31,11 +29,7 @@
 | duggahita | + tta | duggahita**tta** | wrongly grasped state            |
 | dvi       | + tta | dvi**tta**       | state of two, reduplication      |
 | eka       | + tta | eka**tta**       | state of one, solitude           |
-
 ***
-
-***
-
 ### tha (state of) abstract masculine nouns
 
 | dama   | **+ tha** | dama**tha**   | taming, control, mastery   |
@@ -43,11 +37,7 @@
 | dara   | **+ tha** | dara**tha**   | anxiety, uneasiness, angst |
 | kilama | **+ tha** | kilama**tha** | fatigue, tiredness         |
 | sama   | **+ tha** | sama**tha**   | stillness, peace           |
-
 ***
-
-***
-
 ### iya (state of) abstract neuter nouns
 
 | na agāra | + iya | anagār**iya**  | homelessness        |
@@ -57,7 +47,6 @@
 | paviveka | + iya | pavivek**iya** | state of solitude   |
 | thāvara  | + iya | thāvar**iya**  | stability, order    |
 
-### 
 
 ### \*ya (state of) abstract neuter nouns
 
@@ -82,7 +71,6 @@
 | su manas  | + \*ya | s**o**mana**ssa**  | good mind state, happiness |
 | tatha     | + \*ya | t**accha**         | true state, truth          |
 
-### 
 
 ### \*eyya (state of) abstract neuter nouns
 
@@ -96,11 +84,7 @@
 | pisuṇa   | + \*eyya | p**e**suṇ**eyya**   | slandering state       |
 | saṭha    | + \*eyya | s**ā**ṭh**eyya**    | fraud state, treachery |
 | suci     | + \*eyya | s**o**c**eyya**     | pure state, purity     |
-
 ***
-
-***
-
 ### \*a (state of)
 
 | dvi    | + \*a | dv**aya**      | two state, duality      |
@@ -110,5 +94,4 @@
 | surata | + \*a | s**o**rat**a** | mild state, politeness  |
 | tapas  | + \*a | t**ā**pas**a** | austere state, ascetic  |
 | ti     | + \*a | t**aya**       | three state, triad      |
-
 ***

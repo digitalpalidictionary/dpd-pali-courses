@@ -1,4 +1,3 @@
-
 # Class 22 Exercises
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
@@ -323,7 +322,6 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | anuppaveccheyya                                                                                                                                                                                                                                          | verb         | opt.3rd.sg            | would give; would bestow                                                                     | √yam･1 a (support, stretch)     |
 | If there were no water inflow from the eastern direction... and if the rain clouds would not provide thorough downpour from time to time                                                                                                                 |              |                       |                                                                                              |                                 |
 
-## 
 
 ## Class 22 Extra Examples
 
@@ -534,5 +532,3 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | \#siṅgālā (ca)                                                                                                                                                                                                                                                                                                                                                                             | noun       | masc.nom.pl          | jackals                                             |                                 |
 | If these two wholesome principles did not protect the world, it would not be clear, (this is my) mother, (this is my) mother's sister, (this is my) uncle's wife, (these are) wives of teachers. The world would become confused like goats and sheep, chickens and pigs, dogs and jackals.                                                                                                |            |                      |                                                     |                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                            |            |                      |                                                     |                                 |
-
-## 

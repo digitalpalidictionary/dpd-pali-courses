@@ -16,9 +16,7 @@ Nouns are declined in **8 cases.**
 
 
 You will become very familiar with these cases in the upcoming weeks
-
 ***
-
 ### Some Basic Vocabulary to illustrate the case endings
 
 | thera    | masc. | elder     |
@@ -34,9 +32,7 @@ You will become very familiar with these cases in the upcoming weeks
 | khādati  | masc. | eats      |
 | carati   | masc. | walks     |
 | deti     | masc. | gives     |
-
 ***
-
 ### 1. Nominative Case (paṭhamā)
 
 The **subject** of the sentence is in the nominative case.
@@ -49,10 +45,7 @@ The **subject** of the sentence is in the nominative case.
 
 
 **thero** carati.
-
 ***
-
-
 ### 2. Accusative Case (dutiyā)
 
 The **object** of a sentence is in the accusative case.
@@ -104,11 +97,7 @@ thero magg**aṃ** carati.
 
 
 This is called “**the accusative of motion**” and is very common.
-
-
-
 ***
-
 **3. The Instrumental Case (tatiyā & karaṇa)**
 
 
@@ -146,10 +135,7 @@ thero ākās**ena** gāmaṃ gacchati.
 The disciple is being eaten **by the lion**.
 
 sāvako sīh**ena** khajjati
-
 ***
-
-
 ### 4. Dative Case (catutthī)
 
 Refers to an object given or directed to someone.
@@ -173,111 +159,57 @@ thero **upāsakassa** pattaṃ deti.
 
 
 thero **sāvakāya** cīvaraṃ deti.
-
 ***
-
 (translate)
-
 ***
-
 namo **tassa** **bhagavato**.
-
 ***
-
 (translate)
-
 ***
-
 ### 5. Ablative Case (pañcamī)
 
 The opposite of the Dative case.
-
 ***
-
 Usually translated using **from, away from**
-
 ***
-
-***
-
 The lay devotee walks **from the residence.**
-
 ***
-
 upāsako **āvāsamhā** gacchati.
-
 ***
-
 upāsako **āvāsā** gacchati.
-
 ***
-
 upāsako **āvāsasmā** gacchati.
-
 ***
-
-***
-
 ### 6. Genitive Case (chaṭṭhī)
 
 Denotes possession. Usually translated using **of** or **‘s.**
-
 ***
-
 A noun in the Genitive Case always comes **before** the object it qualifies.
-
 ***
-
-***
-
 The **elder’s** disciple goes to the village.
 
 **therassa** sāvako gāmaṃ gacchati.
-
 ***
-
-
-
 ### 7. Locative Case (sattamī)
 
 Refers to location. Usually translated using **in**, **on**, **at**, or **among**.
-
 ***
-
-***
-
 The lion walks **in the village**.
-
 ***
-
 sīho gām**e** carati.
-
 ***
-
 sīho gām**asmiṃ** carati.
-
 ***
-
 ### 8. Vocative Case (ālapana)
 
 Used when addressing people directly.
-
 ***
-
-***
-
 **O, lay devotee,** come here!
-
 ***
-
 ehi **upāsaka**!
-
 ***
-
 ehi **paññādhammika!**
-
 ***
-
 | In Summary      |                                     |                           |
 |-----------------|-------------------------------------|---------------------------|
 | 1. Nominative   | nar**o**                            | the man (subject)         |
@@ -288,29 +220,15 @@ ehi **paññādhammika!**
 | 6. Genitive     | nar**assa**                         | of the man, the man’s     |
 | 7. Locative     | nar**e,** nar**amhi**, nar**asmiṃ** | in, on, at the man        |
 | 8. Vocative     | nar**a**, nar**ā**                  | hey, man! o, man!         |
-
 ***
-
 What’s the difference between Thai and Sri Lankan bhikkhu names?
-
 ***
-
 Sumedh**o**
-
 ***
-
 Sumedh**a**
-
 ***
-
-***
-
 Which one is correct?
-
 ***
-
-***
-
 | Declension of -a masc |                                     |             |
 |-----------------------|-------------------------------------|-------------|
 |                       | Singular                            | Plural      |
@@ -322,15 +240,9 @@ Which one is correct?
 | 6. Genitive           | nar**assa**                         | nar**ānaṃ** |
 | 7. Locative           | nar**e,** nar**amhi**, nar**asmiṃ** | nar**esu**  |
 | 8. Vocative           | nar**a**, nar**ā**                  | nar**ā**    |
-
 ***
-
 Please learn this table by heart. Why?
-
 ***
-
-***
-
 |                                           | **Frequency of appearance in Tipiṭaka[^3]** |
 |-------------------------------------------|---------------------------------------------|
 | masculine nouns ending in **-a**          | **11834**                                   |
@@ -339,17 +251,12 @@ Please learn this table by heart. Why?
 | masculine nouns ending in **-a**          | **88%**                                     |
 
 [^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
-
 ***
-
 | neuter nouns ending in **-aṃ**   | **14747** |
 |----------------------------------|-----------|
 | neuter nouns ending in **-i -u** | 452       |
 | neuter nouns total               | **15199** |
 |                                  | **97%**   |
-
 ***
-
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
-
 ***

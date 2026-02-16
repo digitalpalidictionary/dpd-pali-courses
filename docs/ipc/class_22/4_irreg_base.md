@@ -1,18 +1,9 @@
-
 # Irregular Verbal Bases
-
 ***
-
 Most verbs in Pāli are quite predictable in their formation, but there are a few irregularities. Here follows a list of a few common ones. You will be quite familiar with many of these by now, but some will seem strange.
-
 ***
-
-***
-
 **Irregular Present Tense Bases**
-
 ***
-
 | **√as**    | sa     | santi          | there are               |
 |------------|--------|----------------|-------------------------|
 | **√chand** | chāde  | chādeti        | pleases; gives pleasure |
@@ -36,27 +27,17 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√var**   | pura   | pāpurati       | covers, wraps with      |
 | **√vid**   | binda  | nibbindati     | is dis-enchanted        |
 | **√yam**   | veccha | anuppavecchati | gives, supports         |
-
 ***
-
-***
-
 **Irregular Aorist Bases**
-
 ***
-
 | **√kus**  | koccha | akkocchi | abused                  |
 |-----------|--------|----------|-------------------------|
 | **√labh** | lattha | alatthuṃ | they got; they obtained |
 | **√vac**  | voca   | avocuṃ   | they said               |
 | **√su**   | so     | assosi   | heard                   |
-
 ***
-
 **Irregular Future Bases**
-
 ***
-
 | **√bhā**  | bhāhi   | bhāhiti      | will shine    |
 |-----------|---------|--------------|---------------|
 | **√dā**   | dassa   | dassati      | will give     |
@@ -78,7 +59,4 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√vac**  | vakkha  | vakkhati     | will say      |
 | **√vas**  | vaccha  | vacchati     | will live     |
 | **√vis**  | vekkha  | pavekkhati   | will enter    |
-
-***
-
 ***

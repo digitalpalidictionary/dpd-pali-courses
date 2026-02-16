@@ -1,4 +1,3 @@
-
 | abhi- abbh-<br>to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, **highly**, strongly  |            |              |                          |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|--------------------------|
 | √dham                                                                                                                                      | to blow    | abhidhamati  | fans, blows on           |

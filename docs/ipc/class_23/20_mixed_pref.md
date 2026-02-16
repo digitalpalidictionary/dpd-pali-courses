@@ -1,4 +1,3 @@
-
 | Mixed Prefixes |        |            |                 |                   |
 |----------------|--------|------------|-----------------|-------------------|
 | abhi + ā       | √cikkh | to show    | abbhācikkhati   | misrepresents     |

@@ -1,37 +1,9 @@
 # Cardinal Numbers (saṅkhyā-padhāna)
-
 ***
-
 Cardinal Numbers are very common in the Tipiṭaka. The Buddha’s teachings very often consist of numerical lists, so numbers are extensively used.
-
 ***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 If you want to study numbers, just open the Aṅguttara Nikāya.
-
 ***
-
-***
-
 | **eko** dhammo               | **one** thing                      |
 |------------------------------|------------------------------------|
 | **dve** api jātiyo           | just **two** lives                 |
@@ -45,31 +17,17 @@ If you want to study numbers, just open the Aṅguttara Nikāya.
 | **dasa**-kamma-patha         | **ten** courses of action          |
 | **ekādasahi** aṅgehi         | with **eleven** factors            |
 | **dvādasa** aṇḍāni           | **twelve** eggs                    |
-
 ***
-
 “*Good news*” : Almost each number has its own unique declensions and attributes,
-
 ***
-
 so let’s have a closer look at them individually.
-
 ***
-
-***
-
 ### eka “one”
-
 ***
-
 three genders – singular
-
 ***
-
 agrees in gender & case
-
 ***
-
 |         | Masculine                   | Feminine                 | Neuter                      |
 |---------|-----------------------------|--------------------------|-----------------------------|
 | 1.nom   | ek**o**                     | ek**ā**                  | ek**aṃ**                    |
@@ -79,45 +37,21 @@ agrees in gender & case
 | 5.abl   | ek**amhā** <br>ek**asmā**   | ek**āya**                | ek**amhā** <br>ek**asmā**   |
 | 6.gen   | ek**assa**                  | ek**issā** <br>ek**āya** | ek**assa**                  |
 | 7.loc   | ek**amhi** <br>ek**asmiṃ**  | ek**āyaṃ** <br>ek**āya** | ek**amhi** <br>ek**asmiṃ**  |
-
 ***
-
 declined in the plural, “**eka**” functions as pronoun meaning “*some*”
-
 ***
-
-***
-
 **eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *DN 9.6*
-
 ***
-
 **some** holy men and priests speak like this and have this view.
-
 ***
-
-***
-
 declension is the same as **ye**
-
 ***
-
-***
-
-***
-
 ### dve “two”
-
 ***
-
 no gender, plural
-
 ***
-
 agrees in case only
-
 ***
-
 | 1.nom   | dv**e** duv**e** |
 |---------|------------------|
 | 2.acc   | dv**e** duv**e** |
@@ -129,17 +63,11 @@ agrees in case only
 
 
 ### ti “three”
-
 ***
-
 three genders, plural
-
 ***
-
 agrees in gender and case
-
 ***
-
 |         | Masculine                    | Feminine      | Neuter                       |
 |---------|------------------------------|---------------|------------------------------|
 | 1.nom   | t**ayo**                     | t**isso**     | t**īni**                     |
@@ -152,17 +80,11 @@ agrees in gender and case
 
 
 ### catu “four”
-
 ***
-
 three genders & plural
-
 ***
-
 agrees in gender and case
-
 ***
-
 |         | Masculine                  | Feminine                 | Neuter                   |
 |---------|----------------------------|--------------------------|--------------------------|
 | 1.nom   | catt**āro** <br>cat**uro** | cat**asso**              | catt**āri**              |
@@ -175,17 +97,11 @@ agrees in gender and case
 
 
 ### pañca “five”
-
 ***
-
 no gender, plural
-
 ***
-
 agrees in case only
-
 ***
-
 | 1.nom   | pañc**a**     |
 |---------|---------------|
 | 2.acc   | pañc**a**     |
@@ -197,13 +113,9 @@ agrees in case only
 
 
 ### cha “six” to aṭṭharasa “eighteen”
-
 ***
-
 same as *pañca*. no gender, plural. agrees in case only
-
 ***
-
 | 6  | cha                              |
 |----|----------------------------------|
 | 7  | satta                            |
@@ -228,17 +140,11 @@ same as *pañca*. no gender, plural. agrees in case only
 
 
 ### ekūnavīsati “19” to aṭṭhanavuti “98”
-
 ***
-
 (one less than twenty)
-
 ***
-
 feminine singular, agree in case only
-
 ***
-
 |         | 20 (like bhūmi)            | 20 (like vedanā)       |
 |---------|----------------------------|------------------------|
 | 1.nom   | vīsat**i**                 | vīs**ā** vīs**aṃ**     |
@@ -248,37 +154,19 @@ feminine singular, agree in case only
 | 5.abl   | vīsat**iyā**               | vīs**āya**             |
 | 6.gen   | vīsat**iyā**               | vīs**āya**             |
 | 7.loc   | vīsat**iyā** vīsati**yaṃ** | vīs**āya** vīs**āyaṃ** |
-
 ***
-
 I see **twenty men**   vīsatiṃ purise
-
 ***
-
 **with twenty feelings** vīsatiyā vedanāhi
-
 ***
-
 i**n twenty minds** vīsatiyaṃ cittesu
-
 ***
-
-***
-
-***
-
 ### sata “100”, sahasa “1000” and lakkha “100 000”
-
 ***
-
 neuter singular and plural
-
 ***
-
 agrees in case and number
-
 ***
-
 | 1.nom   | sat**aṃ**                               | sat**ā** sat**āni** |
 |---------|-----------------------------------------|---------------------|
 | 2.acc   | sat**aṃ**                               | sat**e** sat**āni** |
@@ -291,17 +179,11 @@ agrees in case and number
 
 
 ### koṭi “10 000 000”
-
 ***
-
 feminine singular, sometimes plural
-
 ***
-
 agrees in case only
-
 ***
-
 | 1.nom   | koṭ**i**                   | koṭ**ī** <br>koṭ**iyo**  |
 |---------|----------------------------|--------------------------|
 | 2.acc   | koṭ**iṃ**                  | koṭ**ī** <br>koṭ**iyo**  |
@@ -328,11 +210,7 @@ agrees in case only
 | 9 999 999 - 10 000000 |            | ✔          |           | ✔        | (✔)     |
 
 These are the only numbers encountered in the Tipiṭaka that have been *actually* covered by DPD so far.
-
 ***
-
-***
-
 | 1          | eka                                      |
 |------------|------------------------------------------|
 | 2          | dvi, dve, duve                           |
@@ -373,23 +251,11 @@ These are the only numbers encountered in the Tipiṭaka that have been *actuall
 | 10 000     | dasasahassa                              |
 | 100 000    | satasahassa                              |
 | 10 000 000 | koṭi                                     |
-
 ***
-
 In summary learn declensions 1, 2, 3, 4, 5, 20, 100
-
 ***
-
-***
-
-***
-
 That, of course, excludes all the “amazing” numbers which you’ll come across in some parts of the Tipiṭaka
-
 ***
-
-***
-
 | pakoṭi     | 1014 | 1 00 000 000 000 000                                                                                    |
 |------------|------|---------------------------------------------------------------------------------------------------------|
 | akkhobhinī | 1042 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000                                               |
@@ -397,7 +263,4 @@ That, of course, excludes all the “amazing” numbers which you’ll come acro
 | nirabbuda  | 1063 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000                   |
 | ahaha      | 1070 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000          |
 | ababa      | 1076 | 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-
-***
-
 ***

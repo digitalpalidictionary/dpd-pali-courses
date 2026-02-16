@@ -1,4 +1,3 @@
-
 # Class 5 Exercises
 
 | Pāli                                                                                                                 | POS   | Grammar     | English | Root   |
@@ -399,5 +398,3 @@
 | ekodiṃ                                                                                                                 | adj  | nt.         |   |   |
 | karohi                                                                                                                 |      |             |   |   |
 |                                                                                                                        |      |             |   |   |
-
-## 

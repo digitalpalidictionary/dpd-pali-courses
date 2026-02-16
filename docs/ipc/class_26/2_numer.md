@@ -1,4 +1,3 @@
-
 # Numerical (saṅkhyātaddhita)
 
 ### ma (ordinal numbers)
@@ -11,41 +10,25 @@
 | dasa    | + ma | dasa**ma**    | tenth    |
 | ekādasa | + ma | ekādasa**ma** | eleventh |
 | dvādasa | + ma | dvādasa**ma** | twelfth  |
-
 ***
-
-***
-
 ### tiya (ordinal numbers)
 
 | dvi | + tiya | du**tiya** | second |
 |-----|--------|------------|--------|
 | ti  | + tiya | ta**tiya** | third  |
-
 ***
-
-***
-
 ### ttha & ṭṭha (ordinal numbers)
 
 | catu | + ttha | catu**ttha** | fourth |
 |------|--------|--------------|--------|
 | cha  | + ṭṭha | cha**ṭṭha**  | sixth  |
-
 ***
-
-***
-
 ### \*ī (ordinal numbers)
 
 | pañcadasa | + \*ī | p**a**ṇṇaras**ī** | fifteenth  |
 |-----------|-------|-------------------|------------|
 | catuddasa | + \*ī | c**ā**tuddas**ī** | fourteenth |
-
 ***
-
-### 
-
 ### ka (collective numerals)
 
 | dvi   | + ka | dvi**ka**   | consisting of two     |
@@ -58,15 +41,9 @@
 | nava  | + ka | nava**ka**  | consisting of nine    |
 | dasa  | + ka | dasa**ka**  | consisting of ten     |
 | sata  | + ka | sata**ka**  | consisting of hundred |
-
 ***
-
-***
-
 ### ika (collective numerals)
 
 | sata    | + ika | sat**ika**    | consisting of hundred  |
 |---------|-------|---------------|------------------------|
 | sahassa | + ika | sahass**ika** | consisting of thousand |
-
-## 

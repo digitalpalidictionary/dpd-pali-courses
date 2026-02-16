@@ -1,5 +1,3 @@
-
-
 # Class 18 Exercises
 
 **Dis-join the sandhis**
@@ -349,7 +347,6 @@ Break up all the sandhis in the following sentences.
 | \#vipallāso                                                                                                                                                                                                                                   | noun   | masc.nom.sg    | distortion, inversion                                               | √as･3 ya (throw, hurl)               |
 | "In regard to what is not (a) self, "(This is) self". (is) the distortion of perception, the distortion of thought, the distortion of view.                                                                                                   |        |                |                                                                     |                                      |
 
-## 
 
 ## Class 18 Extra Examples
 
@@ -498,5 +495,3 @@ Break up all the sandhis in the following sentences.
 [^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single
 
     word or name or expression; a list"
-
-## 

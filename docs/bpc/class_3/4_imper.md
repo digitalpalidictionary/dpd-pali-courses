@@ -1,23 +1,13 @@
 # Imperative Verbs!
 
 The imperative mood can express a command, gentle advice, a blessing, a curse, a wish or a prayer.
-
 ***
-
 e.g. gacch**a**! (Go! You must go!)
-
 ***
-
 phāsu vihar**atu** (Let him live comfortably!)
-
 ***
-
 vassasataṃ jīv**a** (May you live 100 years!)
-
 ***
-
-***
-
 | Conjugation of -ati imp                                             |                         |                |             |                    |
 |---------------------------------------------------------------------|-------------------------|----------------|-------------|--------------------|
 | 3rd                                                                 | vada**tu**              | he must speak  | vad**antu** | they must speak    |

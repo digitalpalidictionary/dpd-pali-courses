@@ -1,5 +1,3 @@
-
-
 # Irregular Causative Bases
 
 | √jan  | to be born   | \*e   | jane     | janeti         | generates              |
@@ -39,5 +37,3 @@
 | √vij  | to shake     | \*e   | beje     | ubbejetar      | agitator               |
 | √vīj  | to fan       | \*aya | bījaya   | bījayamāna     | fanning                |
 | √yat  | to arrange   | \*āpe | yādāpe   | paṭiyādāpetvā  | having organised       |
-
-### 

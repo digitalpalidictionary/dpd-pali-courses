@@ -1,4 +1,3 @@
-
 # Class 27
 
 **Find all the primary and secondary derivatives (participles) and show their construction.**
@@ -243,7 +242,6 @@ kita + ka
 |                                                                                                                                                                                     |   |   |   |        |
 |                                                                                                                                                                                     |   |   |   |        |
 
-## 
 
 ## Class 27 Extra Examples
 
@@ -367,5 +365,3 @@ kita + ka
 | tathā                                                                                                                                                  |   |   |   |   |
 | vadānaṃ                                                                                                                                                |   |   |   |   |
 |                                                                                                                                                        |   |   |   |   |
-
-## 

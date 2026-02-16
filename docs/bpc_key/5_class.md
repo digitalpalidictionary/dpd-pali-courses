@@ -1,4 +1,3 @@
-
 # Class 5 Exercises
 
 | Pāli | POS | Grammar | English | Root |
@@ -397,4 +396,3 @@
 | ekodiṃ                                                                                                                       | adj  | nt.acc.sg     | (mentally) unified; single                                                         |                                  |
 | karohi                                                                                                                       | verb | imp.2nd.sg    | do!; make!                                                                         | √kar･7 o (do, make)              |
 | Monk, don't be careless about meditation, you must make [your] mind stable in meditation, you must make [your] mind unified! |      |               |                                                                                    |                                  |
-

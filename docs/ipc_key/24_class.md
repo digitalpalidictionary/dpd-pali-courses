@@ -1,4 +1,3 @@
-
 # Class 24 Exercises
 
 **In the exercises, break up every verb and participle into prefix + root + root sign + verbal ending / suffix.**

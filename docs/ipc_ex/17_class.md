@@ -1,4 +1,3 @@
-
 # Class 17
 
 | **Join the following words**    |   |
@@ -401,9 +400,7 @@ Break up all the sandhis in the following sentences.
 |                                                                                                                                                                      |   |   |   |   |
 |                                                                                                                                                                      |   |   |   |   |
 
-## 
 
-## 
 
 ## Class 17 Extra Examples
 

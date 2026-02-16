@@ -1,7 +1,5 @@
-
 **Please construct and deconstruct:**
 
-# 
 
 | na + anu + √vad + ya    | ananuvajja      |
 |-------------------------|-----------------|
@@ -22,5 +20,3 @@
 | uddhata                 | ud √dhar ta     |
 | ava + √nadh + ta        | onaddha         |
 | bhattar                 | √bhar tar       |
-
-## 

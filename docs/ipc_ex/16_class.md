@@ -1,5 +1,3 @@
-
-
 # Class 16
 
 **Disjoin the sandhis**
@@ -501,11 +499,8 @@ Break up all the sandhis in the following sentences.
 |                                                                                                                                |   |   |   |   |
 |                                                                                                                                |   |   |   |   |
 
-## 
 
-## 
 
-## 
 
 ## Class 16 Extra Examples
 

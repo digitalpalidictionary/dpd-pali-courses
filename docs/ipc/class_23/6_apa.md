@@ -1,4 +1,3 @@
-
 | apa-<br>off, **away**, away from, badly, negatively, wrongly, forth, reverentially, less, down |            |           |                       |
 |------------------------------------------------------------------------------------------------|------------|-----------|-----------------------|
 | √ci                                                                                            | to collect | apacināti | discards, sheds       |

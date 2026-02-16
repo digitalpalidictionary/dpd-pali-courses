@@ -1,71 +1,38 @@
-
 # The Infinitive (tumanta)
 
 Another verbal form without declensions is the **infinitive**. It most commonly expresses a **purpose**.
-
 ***
-
-***
-
 I will go to the forest **to see** the Buddha
-
 ***
-
 ahaṃ buddhaṃ **passituṃ** araññaṃ gacchissāmi
-
 ***
-
-***
-
 The infinitive can be translated as
-
 ***
-
 *“to see”*
-
 ***
-
 *“in order to see”*
-
 ***
-
 *“for the purpose of seeing”*
-
 ***
-
-***
-
-***
-
 ### How to form the infintive
 
 
 
 #### 1. root + -tuṃ
-
 ***
-
 The infinitive can be formed by adding the suffix **-tuṃ** to the root
-
 ***
-
 | √dā  | + tuṃ | dātuṃ      | to give        |
 |------|-------|------------|----------------|
 | √gam | + tuṃ | ga**n**tuṃ | to go          |
 | √han | + tuṃ | hantuṃ     | to kill        |
 | √kar | + tuṃ | k**ā**tuṃ  | to do, to make |
 | √ñā  | + tuṃ | ñātuṃ      | to know        |
-
 ***
-
 #### 2. root + -ituṃ
-
 ***
-
 The infinitive can be formed by added the suffix **-ituṃ** to the root.
-
 ***
-
 | √bandh  | + ituṃ | bandhituṃ  | to tie, bind |
 |---------|--------|------------|--------------|
 | √bhakkh | + ituṃ | bhakkhituṃ | to eat       |
@@ -77,32 +44,20 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 | √pucch  | + ituṃ | pucchituṃ  | to ask       |
 
 #### 3. base + -ituṃ
-
 ***
-
 Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
-
 ***
-
-***
-
 | √bhuj | bhuñja | + ituṃ | bhuñjituṃ | to eat    |
 |-------|--------|--------|-----------|-----------|
 | √bhū  | bhava  | + ituṃ | bhavituṃ  | to be     |
 | √dis  | passa  | + ituṃ | passituṃ  | to see    |
 | √pā   | piva   | + ituṃ | pivituṃ   | to drink  |
 | √suc  | soca   | + ituṃ | socituṃ   | to grieve |
-
 ***
-
 #### 4. bases ending in -e + tuṃ
 
 In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is added to the base ending in -*e*.
-
 ***
-
-***
-
 | √bhū  | bhāve | + tuṃ | bhāvetuṃ | to develop     |
 |-------|-------|-------|----------|----------------|
 | √dhar | dhāre | + tuṃ | dhāretuṃ | to hold, carry |
@@ -111,43 +66,19 @@ In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is
 | √pūj  | pūje  | + tuṃ | pūjetuṃ  | to worship     |
 | √pus  | pose  | + tuṃ | posetuṃ  | to look after  |
 | √sudh | sodhe | + tuṃ | sodhetuṃ | to clean       |
-
 ***
-
-***
-
-
-
 ### Some verbs always take an infinitive
-
 ***
-
 Some verbs like **arahati** (he deserves, is worthy), **sakkoti** (he is able) almost always take an infinitive, just like in English.
-
 ***
-
-***
-
 na te ahaṃ *sakkomi* vitthārena dhammaṃ **desetuṃ** (VIN 4.1.14)
-
 ***
-
 I *am* not *able* **to preach** the Dhamma in detail to you.
-
 ***
-
-***
-
 samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** (DN 5.2)
-
 ***
-
 Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
-
 ***
-
-***
-
 ### More words which always take an infinitive
 
 | alaṃ          | ind | it is suitable (to) ; one is able (to) |
@@ -172,23 +103,13 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 [^23]: Words from here onwards are present mostly in later literature
 
 Some other words can also occasionally take +inf.
-
 ***
-
 Pāli prose is usually very consistent in the usage of infinitives.
-
 ***
-
-***
-
-***
-
 ### Infinitive + kāma
 
 Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”
-
 ***
-
 | aññātuṃ + kāmo      | aññāt**u**kāmo   | wanting to know    |
 |---------------------|------------------|--------------------|
 | na + marituṃ + kāmo | amarit**u**kāmo  | not wanting to die |
@@ -198,5 +119,4 @@ Another very common construction in the Tipiṭaka is to make a compound out of 
 | dātuṃ + kāmo        | dāt**u**kāmo     | wanting to give    |
 | pucchituṃ + kāmo    | pucchit**u**kāmo | wanting to ask     |
 | sotuṃ + kāmo        | sot**u**kāmo     | wanting to hear    |
-
 ***

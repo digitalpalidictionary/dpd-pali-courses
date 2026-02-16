@@ -1,4 +1,3 @@
-
 # Class 19
 
 -   Compounds *(samāsa)*
@@ -8,4 +7,3 @@
 -   *Tappurisa-samāsa* or Case Compounds
 -   *Dvanda Samāsa* or Copulative Compounds
 -   General “Rules” for Compounds
-

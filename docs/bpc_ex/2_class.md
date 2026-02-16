@@ -1,4 +1,3 @@
-
 # Class 2 Exercises
 
 | Pāli                                                                                                                                                                       | POS       | Grammar                    | English                      | Root   |

@@ -1,4 +1,3 @@
-
 # Class 1 Exercises
 
 namo tassa bhagavato arahato sammā-sambuddhassa

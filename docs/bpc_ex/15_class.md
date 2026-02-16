@@ -1,6 +1,3 @@
-
-
-
 # Class 15
 
 **Translation Assignment**

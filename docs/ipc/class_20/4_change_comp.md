@@ -1,4 +1,3 @@
-
 # Changes Of Certain Words In Compounds
 
 | aha     | day         | ahu    | tadahu        | that very day                                            |
@@ -21,5 +20,3 @@
 | saka    | one’s own   | saya   | sayasaṃvuta   | enclosed in one’s own opinion; lit. wrapped in one's own |
 
 [^9]: Not a textual example
-
-## 

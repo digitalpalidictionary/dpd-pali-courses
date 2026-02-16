@@ -1,4 +1,3 @@
-
 | nī-<br>away from, off, **out**, removal |               |            |                        |
 |-----------------------------------------|---------------|------------|------------------------|
 | √veth                                   | to twist      | nibbeṭheti | wriggles out, untwists |

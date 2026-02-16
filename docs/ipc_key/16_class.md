@@ -1,4 +1,3 @@
-
 # Class 16 Exercises
 
 **Dis-join the sandhis**
@@ -517,7 +516,6 @@ Break up all the sandhis in the following sentences.
 | dhanaṃ                                                                                                                                             | noun   | nt.nom.sg             | wealth                                                |                                 |
 | A fool suffers hardship, [thinking], 'I have sons, I have wealth'; He even does not own himself, let alone sons, let alone wealth.                 |        |                       |                                                       |                                 |
 
-## 
 
 ## Class 16 Extra Examples
 
@@ -726,5 +724,3 @@ Break up all the sandhis in the following sentences.
 | \#iti                                                                                                                                                                       | ind    | -           | ""                                                       |                                |
 | As soon as he saw the Fortunate One he said, "Stay right there, baldy! Stay right there, low ascetic! Stay right there, outcast!"                                           |        |             |                                                          |                                |
 |                                                                                                                                                                             |        |             |                                                          |                                |
-
-## 

@@ -1,5 +1,3 @@
-
-
 # Class 21
 
 -   Review of Verbs

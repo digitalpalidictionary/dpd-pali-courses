@@ -1,4 +1,3 @@
-
 # Class 26 Exercises
 
 **Find all the secondary derivatives and show their construction.**
@@ -444,5 +443,3 @@ ta + [d] + hita
 | hotu                                                                                                                                                                                                                                                     | verb     | imp.3rd.sg    | may there be!                  |                           |
 | Although he may do an evil deed by body speech or mind, he is unable to hide that, it is said (to be) an impossibility for one who has seen the path – this sublime jewel also exists in the community, by the truth of this statement, may you be well! |          |               |                                |                           |
 |                                                                                                                                                                                                                                                          |          |               |                                |                           |
-
-## 

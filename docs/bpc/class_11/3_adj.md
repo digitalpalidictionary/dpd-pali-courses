@@ -1,47 +1,21 @@
 # Adjectives (guṇanāma, guṇavacana, visesana)
-
 ***
-
 Adjectives are a class of words that give more information about a noun.
-
 ***
-
-***
-
 vatthaṃ (a cloth)
-
 ***
-
 **odātaṃ** vatthaṃ (a **white** cloth)
-
 ***
-
 **parisuddhaṃ odātaṃ** vatthaṃ (a **clean** **white** cloth)
-
 ***
-
-***
-
 Adjectives are declined just like nouns. They agree with the noun that they qualify in **gender, case & number.**
-
 ***
-
-***
-
 If you know your noun declensions, you’ll have no problem with adjectives. (The reverse is also true).
-
 ***
-
-***
-
 ### How to form an adjective
-
 ***
-
 Adjectives are formed by adding various suffixes to the root. You’ll look at those in a lot more detail when you study derivatives. Some of the suffixes are:
-
 ***
-
 | √bal  | to be strong | √bal + **a**            | bala    | strong              |
 |-------|--------------|-------------------------|---------|---------------------|
 | √mā   | to measure   | sa + √mā + **ana**      |  samāna |  same ; similar     |
@@ -53,9 +27,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | √bah  | to increase  | √bah + **u**            | bahu    | many                |
 | √dhuv | to be stable | √dhuv + **a**           | dhuva   | eternal             |
 | √div  | to shine     | √div + **ya**           | dibba   | divine              |
-
 ***
-
 | Adjectives ending in -a (singular) |                                           |                                              |                                                             |
 |------------------------------------|-------------------------------------------|----------------------------------------------|-------------------------------------------------------------|
 |                                    | **masc** [(-a)](#declension-of--a-masc)   | **fem** [(-ā)](#feminine-nouns-ending-in--ā) | **neuter** [(aṃ)](#declension-of-neuter-nouns-ending-in--a) |
@@ -67,9 +39,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 6.gen                              | dīgh**assa**                              | dīgh**āya**                                  | dīgh**assa**                                                |
 | 7.loc                              | dīgh**e** <br>dīgh**amhi** dīgh**asmiṃ**  | dīgh**āyaṃ** <br>dīgh**āya**                 | dīgh**e** <br>dīgh**amhi** dīgh**asmiṃ**                    |
 | 8.voc                              | dīgh**a** dīgh**ā**                       | dīgh**e**                                    | dīgh**a** dīgh**ā**                                         |
-
 ***
-
 | Adjectives ending in -a (plural) |               |                            |                            |
 |----------------------------------|---------------|----------------------------|----------------------------|
 |                                  | **masc**      | **fem**                    | **neuter**                 |

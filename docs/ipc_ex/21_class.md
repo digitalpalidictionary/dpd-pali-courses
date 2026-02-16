@@ -1,4 +1,3 @@
-
 # Class 21
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
@@ -327,9 +326,7 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | nappaṭiggaṇhāti                                                                                                                                                                                                               |   |   |   |        |
 |                                                                                                                                                                                                                               |   |   |   |        |
 
-## 
 
-## 
 
 ## Class 21 Extra Examples
 

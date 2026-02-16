@@ -1,4 +1,3 @@
-
 # Class 4 Exercises
 
 | Pāli | POS | Grammar | English |
@@ -272,5 +271,3 @@
 |                                                                                                                      |      |             |   |
 
 [^8]: Here and in other examples, this means that the sutta sentences have been significantly modified to fit the topic covered in the current class.
-
-## 

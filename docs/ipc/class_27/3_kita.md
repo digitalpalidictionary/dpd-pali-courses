@@ -1,14 +1,7 @@
-
 # Kita
-
 ***
-
 Kita are a large group of suffixes which include present and past particles, as well as all the common noun and adjective suffixes.
-
 ***
-
-***
-
 ### nta (prp)
 
 | √añch  | añcha  | **+ nta** | añcha**nta**  | turning; cutting    |
@@ -21,11 +14,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √khād  | khāda  | **+ nta** | khāda**nta**  | chewing             |
 | √nad   | nada   | **+ nta** | nada**nta**   | shouting, roaring   |
 | √pā    | piva   | **+ nta** | piva**nta**   | drinking            |
-
 ***
-
-***
-
 ### āna (prp)
 
 | √ādā | ādiya  | **+ āna** | ādiy**āna**   | grasping           |
@@ -37,11 +26,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √sas | sasa   | **+ āna** | āsas**āna**   | wishing            |
 | √sī  | saya   | **+ āna** | say**āna**    | lying down         |
 | √vad | vada   | **+ āna** | vad**āna**    | speaking           |
-
 ***
-
-***
-
 ### māna (prp)
 
 | √as    | sa        | **+ māna** | sa**māna**     | being              |
@@ -57,11 +42,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √tar   | tara      | **+ māna** | tara**māna**   | crossing, hurrying |
 | √vaḍḍh | vaḍḍha    | **+ māna** | vaḍḍha**māna** | growing            |
 | √yaj   | yaja      | **+ māna** | yaja**māna**   | sacrificing        |
-
 ***
-
-***
-
 ### ta (pp)
 
 | √bhañj | **+ ta** | bha**gga**   | broken, shattered   |
@@ -79,9 +60,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √phus  | **+ ta** | phuṭ**ṭha**  | touched             |
 | √raj   | **+ ta** | rat**ta**    | dyed                |
 
-### 
 
-### 
 
 ### ita (pp)
 
@@ -100,9 +79,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √vas  | **+ ita** | v**u**s**ita** | lived, completed     |
 | √yāc  | **+ ita** | yāc**ita**     | asked for, begged    |
 
-### 
 
-### 
 
 ### na (pp)
 
@@ -120,7 +97,5 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √sad  | **+ na** | sa**nna**      | sunk, immersed        |
 | √sad  | **+ na** | nis**inna**    | seated                |
 | √tir  | **+ na** | nitthi**ṇṇa**  | crossed over          |
-
 ***
-
 please **review** all the **sandhi** and **assimilation rules** in the first lessons of this course so that you understand these morphological changes!

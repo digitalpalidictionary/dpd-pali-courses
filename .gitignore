@@ -3,3 +3,5 @@ website_example/
 .gemini/
 conductor/
 GEMINI.md
+__pycache__
+uv.lock

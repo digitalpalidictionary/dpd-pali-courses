@@ -1,5 +1,3 @@
-
-
 # Homeless work
 
 1.  Exercises for class 14
@@ -17,5 +15,4 @@
 |-----------------------------------------------------------------|------------------------------------------------------------------------|
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | Causative Verbs (p112 - 114)                                           |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                                                 |
-
 ***

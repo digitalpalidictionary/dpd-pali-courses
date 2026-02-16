@@ -1,34 +1,15 @@
-
 # Niggahīta Sandhi
-
 ***
-
 Niggahīta sandhi takes place when a word **ending in ṃ** is followed by a word **beginning with a vowel or a consonant.**
-
 ***
-
-***
-
 ### Possibility \#1
-
 ***
-
 When **ṃ** is followed by a **consonant**, it may remain **unchanged**.
-
 ***
-
-***
-
 e.g. eva**ṃ v**utte \> eva**ṃ v**utte
-
 ***
-
-***
-
 In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
-
 ***
-
 | **ṃ + consonant** |   |                  |                             |
 |-------------------|---|------------------|-----------------------------|
 |                   |   |                  |                             |
@@ -62,9 +43,6 @@ In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
 | sa**ṃ**           |   | **kh**itta       | saṃkhitta                   |
 | sa**ṃ**           |   | **s**andati      | saṃsandati                  |
 | eva**ṃ**          |   | **d**iṭṭhī       | evaṃdiṭṭhī                  |
-
 ***
-
 Why make a rule if it remains unchanged?
-
 ***

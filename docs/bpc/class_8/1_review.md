@@ -1,7 +1,5 @@
 # Review
-
 ***
-
 1.  cakkhumā puriso sakaṃ mukha-nimittaṃ yathābhūtaṃ na jāneyya na
 
 passeyya.
@@ -19,7 +17,4 @@ SN 46.55 simpl
 4.  "mama eva ativasā assu" iti bālassa saṅkappo
 
 DHP 74 simpl
-
-***
-
 ***

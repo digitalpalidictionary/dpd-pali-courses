@@ -1,59 +1,28 @@
-
 # Possibility \#2
 
 When a dissimilar vowel follows another vowel, it is sometimes elided.
-
 ***
-
-***
-
 cakkh**u![](media/d56a613230aeb071a406e67d672343ec.png)i**ndriyaṃ **\>** cakkh**u**ndriyaṃ
-
 ***
-
-***
-
 **u![](media/d56a613230aeb071a406e67d672343ec.png)i \> u**
-
 ***
-
 This means:
-
 ***
-
 when a word ends in **u**,
-
 ***
-
 and the next word starts with **i**,
-
 ***
-
 the **i** can be elided,
-
 ***
-
 and only the **u** will remain.
-
 ***
-
-***
-
 In Kaccāyana this is called (13) **vā paro asarūpo.**
-
 ***
-
-***
-
-***
-
 | **a![](media/d56a613230aeb071a406e67d672343ec.png)i \> a** |         |                    |
 |------------------------------------------------------------|---------|--------------------|
 | iti’ss**a**                                                | **i**me | itiss**a**me       |
 | thus for him                                               | these   | thus for him these |
-
 ***
-
 | **ā![](media/d56a613230aeb071a406e67d672343ec.png)i \> ā** |         |               |
 |------------------------------------------------------------|---------|---------------|
 |                                                            |         |               |
@@ -62,9 +31,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |         |               |
 | att**ā**                                                   | **i**ti | att**ā**ti    |
 | self                                                       | thus/”  | “self”        |
-
 ***
-
 | **ā![](media/d56a613230aeb071a406e67d672343ec.png)e \> ā** |         |                |
 |------------------------------------------------------------|---------|----------------|
 |                                                            |         |                |
@@ -73,9 +40,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |         |                |
 | s**ā**                                                     | **e**va | s**ā**va       |
 | she                                                        | just    | just that      |
-
 ***
-
 | **i![](media/d56a613230aeb071a406e67d672343ec.png)a \> i** |             |                    |
 |------------------------------------------------------------|-------------|--------------------|
 |                                                            |             |                    |
@@ -91,9 +56,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |             |                    |
 | ut**u**                                                    | **a**kkhāna | ut**u**kkhāna      |
 | season                                                     | announcing  | announcing seasons |
-
 ***
-
 | **u![](media/d56a613230aeb071a406e67d672343ec.png)i \> u** |             |                  |
 |------------------------------------------------------------|-------------|------------------|
 |                                                            |             |                  |
@@ -102,25 +65,19 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |             |                  |
 | s**u**                                                     | **i**daṃ    | s**u**daṃ        |
 | indeed                                                     | this        | truly this       |
-
 ***
-
 | **u![](media/d56a613230aeb071a406e67d672343ec.png)e \> u** |           |            |
 |------------------------------------------------------------|-----------|------------|
 |                                                            |           |            |
 | n**u**                                                     | **e**ttha | n**u**ttha |
 | what?                                                      | here      | what here? |
-
 ***
-
 | **ū![](media/d56a613230aeb071a406e67d672343ec.png)a \> ū** |         |                                   |
 |------------------------------------------------------------|---------|-----------------------------------|
 |                                                            |         |                                   |
 | akataññ**ū**                                               | **a**si | akataññ**ū**si                    |
 | knower of the uncreated                                    | you are | you are a knower of the uncreated |
-
 ***
-
 | **e![](media/d56a613230aeb071a406e67d672343ec.png)a \> e** |         |            |
 |------------------------------------------------------------|---------|------------|
 |                                                            |         |            |
@@ -129,9 +86,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |         |            |
 | sac**e**                                                   | **a**pi | sac**e**pi |
 | if                                                         | even    | even if    |
-
 ***
-
 | **e![](media/d56a613230aeb071a406e67d672343ec.png)i \> e** |           |                      |
 |------------------------------------------------------------|-----------|----------------------|
 |                                                            |           |                      |
@@ -140,9 +95,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |           |                      |
 | ākās**e**                                                  | **i**va   | ākās**e**va          |
 | in the sky                                                 | just like | just like in the sky |
-
 ***
-
 | **o![](media/d56a613230aeb071a406e67d672343ec.png)a \> o** |               |                |
 |------------------------------------------------------------|---------------|----------------|
 |                                                            |               |                |
@@ -151,11 +104,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |               |                |
 | s**o**                                                     | **a**pi       | s**o**pi       |
 | he                                                         | also, even    | also, even he  |
-
 ***
-
-***
-
 | **o![](media/d56a613230aeb071a406e67d672343ec.png)i \> o** |          |               |
 |------------------------------------------------------------|----------|---------------|
 |                                                            |          |               |
@@ -171,22 +120,8 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 |                                                            |          |               |
 | pāt**o**                                                   | **e**va  | pāt**o**va    |
 | morning                                                    | just     | early morning |
-
 ***
-
-***
-
-***
-
-***
-
 what is **Possibility \#2**?
-
 ***
-
-***
-
 When a dissimilar vowel follows another vowel, it is sometimes elided.
-
 ***
-

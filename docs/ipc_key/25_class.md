@@ -1,4 +1,3 @@
-
 # Class 25 Exercises
 
 **Find all the secondary derivatives and show their construction.**
@@ -298,7 +297,6 @@ ta + [d] + hita
 | Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, nor sink down in the middle, nor wash up on dry land ...                                                       |           |                      |                                        |                           |
 |                                                                                                                                                                                                          |           |                      |                                        |                           |
 
-## 
 
 ## Class 25 Extra Examples
 
@@ -445,5 +443,3 @@ ta + [d] + hita
 | yāti                                                                                                                    | verb | pr.3rd.sg   | he goes                     |              |
 | brāhmaṇo                                                                                                                | noun | masc.nom.sg | Brahman                     |              |
 | Having killed mother and father,<br>two learned kings,<br>and a tiger as the fifth,<br>the Brahman wanders untroubled.  |      |             |                             |              |
-
-## 

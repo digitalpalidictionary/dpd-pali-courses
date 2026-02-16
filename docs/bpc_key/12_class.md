@@ -1,4 +1,3 @@
-
 # Class 12 Exercises
 
 | Pāli | POS | Grammar | English | Root |
@@ -464,7 +463,3 @@
 | parābhavato                                                                                                                                                                                                                                               | noun   | masc.abl.sg             | for/of the downfall                             | √bhū･1 a (be, become)           |
 | mukhaṃ                                                                                                                                                                                                                                                    | noun   | nt.nom.sg               | the cause                                       |                                 |
 | Indeed this we understand, [that] this [is] the ninth downfall. May the Blessed One tell [us] the tenth: What [is] the cause of the downfall?                                                                                                             |        |                         |                                                 |                                 |
-
-## 
-
-## 

@@ -6,16 +6,4 @@
 -   Declension of Nouns
 -   Examples from the Tipiṭaka
 -   How to do the exercises
-
-
-
-
-
 ***
-
-
-
-
-
-
-

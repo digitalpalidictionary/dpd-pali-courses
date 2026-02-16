@@ -1,4 +1,3 @@
-
 # Class 27 Exercises
 
 **Find all the primary and secondary derivatives (participles) and show their construction.**
@@ -262,7 +261,6 @@ kita + ka
 
 [^42]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"
 
-## 
 
 ## Class 27 Extra Examples
 

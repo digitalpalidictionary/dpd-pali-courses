@@ -1,4 +1,3 @@
-
 less frequent *kita*:
 
 # tar
@@ -6,7 +5,6 @@ less frequent *kita*:
 | **total** | 95 |
 |-----------|----|
 
-### 
 
 | **+ tar masculine agent nouns** |                 |           |              |                    |
 |---------------------------------|-----------------|-----------|--------------|--------------------|
@@ -39,18 +37,13 @@ less frequent *kita*:
 | **+ u masculine nouns** |                |         |              |                    |
 | √bandh                  | to bind, tie   | **+ u** | bandh**u**   | relative, relation |
 | √gar                    | to be heavy    | **+ u** | gar**u**     | teacher            |
-
 ***
-
-***
-
 | **+ u neuter nouns** |               |         |          |                      |
 |----------------------|---------------|---------|----------|----------------------|
 | √cakkh               | to see        | **+ u** | cakkhu   | eye                  |
 | √ghaṇḍ               | to speak      | **+ u** | nighaṇḍu | glossary, dictionary |
 | √sādh                | to accomplish | **+ u** | asādhu   | badness, evil        |
 
-### 
 
 ### ya
 
@@ -83,7 +76,6 @@ less frequent *kita*:
 | √gidh                    | to be greedy | **+ ya** | gij**jha** | vulture          |
 | √vap                     | to sow       | **+ ya** | vap**pa**  | planting, sowing |
 
-### 
 
 ### ma
 
@@ -95,19 +87,11 @@ less frequent *kita*:
 | √bhū                     | to be    | **+ ma** | bhū**ma**  | earth, ground    |
 | √dhū                     | to shake | **+ ma** | dhū**ma**  | smoke            |
 | √ghar                    | to burn  | **+ ma** | gham**ma** | heat, hot season |
-
 ***
-
-***
-
 | **+ ma neuter nouns** |             |          |           |                   |
 |-----------------------|-------------|----------|-----------|-------------------|
 | √kar                  | to do, make | **+ ma** | kam**ma** | action, deed, etc |
-
 ***
-
-***
-
 ### itar
 
 | **total** | 49 |
@@ -122,11 +106,7 @@ less frequent *kita*:
 | √pucch                           | to ask      | **+ itar** | pucch**itar**     | questioner, asker |
 | √sar                             | to remember | **+ itar** | anussar**itar**   | memorizer         |
 | √sikkh                           | to learn    | **+ itar** | sikkh**itar**     | practitioner      |
-
 ***
-
-***
-
 ### ra
 
 | **total** | 47 |
@@ -148,9 +128,7 @@ less frequent *kita*:
 | √dhī                     | to think   | **+ ra** | dhī**ra**   | wise man, sage |
 | √suc                     | to be pure | **+ ra** | suk**ka**   | planet Venus   |
 | √ud                      | to be wet  | **+ ra** | samud**da** | ocean          |
-
 ***
-
 ### ikā
 
 | **total** | 35 |
@@ -188,7 +166,6 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 |---------------------------|----------------|-----------|----------|------|
 | √ku                       | to sing, sound | **+ \*i** | k**avi** | poet |
 
-### 
 
 ### iya
 
@@ -211,7 +188,6 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | √kar                   | to do, make  | **+ iya** | akir**iya**   | non-doing                 |
 | √vīr                   | to be heroic | **+ iya** | vīr**iya**    | effort, energy, might     |
 
-### 
 
 ### \*aṇa
 
@@ -269,11 +245,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √tap                                | to burn       | **+ as** | tap**as** | self-mortification |
 | √vā                                 | to blow       | **+ as** | vāy**as** | wind, air          |
 | √vac                                | to say, speak | **+ as** | vac**as** | word, statement    |
-
 ***
-
-***
-
 ### \*anā
 
 | **total** | 21 |
@@ -288,9 +260,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √vid                       | to sense  | **+ \*anā** | v**e**d**anā**   | feeling      |
 | √vis                       | to enter  | **+ \*anā** | niv**e**s**anā** | attachment   |
 
-### 
 
-### 
 
 ### ū
 
@@ -303,7 +273,6 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √vid                          | to know | **+ ū** | vid**ū**  | who knows, wise man |
 | √ñā                           | to know | **+ ū** | viññ**ū** | who knows, sage     |
 
-### 
 
 ### ika
 
@@ -320,9 +289,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kath                     | to speak | **+ ika** | kathika | story teller    |
 | √phal                     | to split | **+ ika** | phalika | crystal, quartz |
 
-### 
 
-### 
 
 ### ala
 
@@ -334,9 +301,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kur                                  | to sound    | **+ ala** | kul**ala** | eagle; hawk |
 | √bah                                  | to increase | **+ ala** | bah**ala** | intense     |
 
-### 
 
-### 
 
 ### tta
 
@@ -353,7 +318,6 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √as                       | to be      | **+ tta** | satta   | being      |
 | √mā                       | to measure | **+ tta** | nimitta | mark; sign |
 
-### 
 
 ### \*ā
 
@@ -392,7 +356,6 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √bhās                | to shine | **+ ara** | pabhassara  | bright, brilliant |
 | √ṭhā                 | to stand | **+ ara** | thāv**ara** | stationary        |
 
-### 
 
 ### yā
 
@@ -405,7 +368,6 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kan                  | to shine | + yā | kañ**ñā** | young girl |
 | √yuj                  | to yoke  | + yā | yog**gā** | training   |
 
-### 
 
 ### \*tta
 
@@ -417,9 +379,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √khi                     | to live  | + \***tta** | kh**etta** | field      |
 | √yu                      | to unite | + \***tta** | y**otta**  | rope; cord |
 
-### 
 
-### 
 
 ### \*ta
 
@@ -445,7 +405,6 @@ suffix **tāvī** is used to form **active past participles**
 | √ji   | to conquer | **+ tāvī** | viji**tāvī**     | has conquered  |
 | √i    | to come    | **+ tāvī** | abhisame**tāvī** | has realised   |
 
-### 
 
 ### \*ikā
 
@@ -462,7 +421,6 @@ suffix **tāvī** is used to form **active past participles**
 | √nī                              | to lead | **+ \*ikā** | n**āy**ikā     | mistress         |
 | √car                             | to walk | **+ \*ikā** | paric**ā**rikā | female attendant |
 
-### 
 
 ### tī
 

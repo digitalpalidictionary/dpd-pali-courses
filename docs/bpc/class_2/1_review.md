@@ -1,5 +1,3 @@
-
-
 # Review
 
 1.  anusaya
@@ -29,4 +27,3 @@
 25. nibbidā
 26. adv.
 27. catumadhura
-

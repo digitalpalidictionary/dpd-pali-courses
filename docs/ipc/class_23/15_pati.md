@@ -1,4 +1,3 @@
-
 | pati- paṭi- (sk prati)<br>against, **back to**, return, oppositely, towards, personally, similarly, near  |             |              |                        |
 |-----------------------------------------------------------------------------------------------------------|-------------|--------------|------------------------|
 | √i                                                                                                        | to go       | pacceti      | returns to             |
@@ -12,5 +11,4 @@
 | √pucch                                                                                                    | to question | paṭipucchati | asks about             |
 | √vidh                                                                                                     | to pierce   | paṭivijjhati | penetrates through     |
 | √rūp                                                                                                      | to form     | patirūpaka   | resembling             |
-
 ***

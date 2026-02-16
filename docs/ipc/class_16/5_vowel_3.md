@@ -1,57 +1,25 @@
-
 # Lengthening of a Vowel
-
 ***
-
-
 #### Possibility \#3
 
 When the first vowel is elided, the following vowel may be lengthened.
-
 ***
-
-***
-
 tatr**a![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a**yaṃ **\>** tatr**ā**yaṃ
-
 ***
-
-***
-
 a![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā
-
 ***
-
 This means:
-
 ***
-
 when a word ends in **a**,
-
 ***
-
 and the next word starts with **a**,
-
 ***
-
 the first **a** can be elided,
-
 ***
-
 and the second **a** can be lengthened.
-
 ***
-
-***
-
 In Kaccāyana this is called (15) **dīghaṃ.**
-
 ***
-
-***
-
-***
-
 | **a![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā** |                |                      |
 |-----------------------------------------------------------------------------------------------------------|----------------|----------------------|
 |                                                                                                           |                |                      |
@@ -66,9 +34,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |                |                      |
 | suññ**a**                                                                                                 | **a**gāra      | suññ**ā**gāra        |
 | empty                                                                                                     | dwelling       | empty dwelling       |
-
 ***
-
 | **ā![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā** |                 |                      |
 |-----------------------------------------------------------------------------------------------------------|-----------------|----------------------|
 |                                                                                                           |                 |                      |
@@ -78,9 +44,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | manas**ā**                                                                                                | **a**nupekkhita | manas**ā**nupekkhita |
 | by mind                                                                                                   | recollected     | mentally recollected |
 |                                                                                                           |                 |                      |
-
 ***
-
 | **i![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā** |                 |                      |
 |-----------------------------------------------------------------------------------------------------------|-----------------|----------------------|
 |                                                                                                           |                 |                      |
@@ -92,9 +56,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |                 |                      |
 | idān**i**                                                                                                 | **a**haṃ        | idān**ā**haṃ         |
 | now                                                                                                       | I               | now I                |
-
 ***
-
 | **e![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā** |          |                |
 |-----------------------------------------------------------------------------------------------------------|----------|----------------|
 |                                                                                                           |          |                |
@@ -103,11 +65,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |          |                |
 | v**e**                                                                                                    | **a**pi  | v**ā**pi       |
 | certainly                                                                                                 | even     | most certainly |
-
 ***
-
-***
-
 | **o![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> ā** |          |                         |
 |-----------------------------------------------------------------------------------------------------------|----------|-------------------------|
 |                                                                                                           |          |                         |
@@ -116,32 +74,24 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |          |                         |
 | appassut**o**                                                                                             | **a**yaṃ | appassut**ā**yaṃ        |
 | unlearned                                                                                                 | this     | this unlearned (person) |
-
 ***
-
 | **ā![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)i \> ī** |          |               |
 |-----------------------------------------------------------------------------------------------------------|----------|---------------|
 |                                                                                                           |          |               |
 | saddh**ā**                                                                                                | **i**dha | saddh**ī**dha |
 | faith                                                                                                     | here     | faith here    |
-
 ***
-
 | **i![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)i \> ī** |          |              |
 |-----------------------------------------------------------------------------------------------------------|----------|--------------|
 |                                                                                                           |          |              |
 | yān**i**                                                                                                  | **i**dha | yān**ī**dha  |
 | whoever                                                                                                   | here     | whoever here |
-
 ***
-
 | **ī![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)i \> ī** |         |                 |
 |-----------------------------------------------------------------------------------------------------------|---------|-----------------|
 | kik**ī**                                                                                                  | **i**va | kik**ī**va      |
 | blue jay                                                                                                  | like    | like a blue jay |
-
 ***
-
 | **a![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> ū** |                 |                       |
 |-----------------------------------------------------------------------------------------------------------|-----------------|-----------------------|
 |                                                                                                           |                 |                       |
@@ -156,9 +106,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |                 |                       |
 | idh**a**                                                                                                  | **u**papanno    | idh**ū**papanno       |
 | here                                                                                                      | reborn          | reborn here           |
-
 ***
-
 | **ā![](media/3d038928799b8f96c87c5853191f4b18.png)![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> ū** |             |                 |
 |-----------------------------------------------------------------------------------------------------------|-------------|-----------------|
 |                                                                                                           |             |                 |
@@ -170,21 +118,8 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 |                                                                                                           |             |                 |
 | bah**u**                                                                                                  | **u**pakāra | bah**ū**pakāra  |
 | much                                                                                                      | help        | very helpful    |
-
 ***
-
-***
-
-***
-
-***
-
 what is **Possibility \#3 ?**
-
 ***
-
-***
-
 When the first vowel is elided, the following vowel may be lengthened.
-
 ***

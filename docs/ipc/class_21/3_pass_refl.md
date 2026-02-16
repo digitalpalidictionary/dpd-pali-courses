@@ -1,6 +1,4 @@
-
 ***
-
 # Passive Reflexive
 
 Today we are going to learn another way to form passive verbs, which is exactly the same, except with **attanopada** endings.
@@ -36,23 +34,12 @@ Sanskrit - vācya**te**
 In Pāli this is more flexible and either **parassapada** or **attanopada** verbal ending can be used.
 
 In summary, in Pāli you can find the passive voice with **parassapada** and **attanopada** endings; the meaning is the same.
-
 ***
-
-***
-
 Please explain how the **active voice** gets formed.
-
 ***
-
 Please explain how the **reflexive voice** gets formed.
-
 ***
-
 Please explain how the **passive voice** gets formed.
-
 ***
-
 What is the meaning of Pāli words **parassapada** and **attanopada.**
-
 ***

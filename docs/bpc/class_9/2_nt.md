@@ -1,12 +1,9 @@
-
 # Neuter Nouns
 
 These are very common, more than 17000 words in the current DPD database[^21].
 
 [^21]: Relevant for 2025 year
-
 ***
-
 | citta     | mind                  |
 |-----------|-----------------------|
 | rūpa      | matter; form          |
@@ -36,13 +33,9 @@ These are very common, more than 17000 words in the current DPD database[^21].
 | 6.gen  | citt**assa**                                  | citt**ānaṃ**              |
 | 7.loc  | citt**e** <br>citt**amhi** <br>citt**asmiṃ**  | citt**esu**               |
 | 8.voc  | citt**a** <br>citt**ā**                       | citt**āni**               |
-
 ***
-
 What do you notice in regard to the declension of neuter nouns?
-
 ***
-
 ### Comparison between Masculine and Neuter Nouns -a
 
 |        | Masc sing                                  | Neuter Sing                                   | Masc plural  | Neuter Plural              |
@@ -59,9 +52,7 @@ What do you notice in regard to the declension of neuter nouns?
 ### Neuter Nouns ending in -i
 
 These are very rare, there are only few of them in the Tipiṭaka.
-
 ***
-
 | ādi    | beginning, and so on, etc |
 |--------|---------------------------|
 | akkhi  | eye                       |
@@ -72,9 +63,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | asuci  | impurity                  |
 | vāri   | water                     |
 | byanti | end                       |
-
 ***
-
 ### Declension of Neuter Nouns ending in -i
 
 | 1.nom  | aṭṭh**i**                                       | aṭṭh**ī** <br>aṭṭh**īni**    |
@@ -86,11 +75,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | 6.gen  | aṭṭh**ino** <br>aṭṭh**issa**                    | aṭṭh**īnaṃ**                 |
 | 7.loc  | aṭṭh**ini** <br>aṭṭh**imhi** <br>aṭṭh**ismiṃ**  | aṭṭh**isu** <br>aṭṭh**īsu**  |
 | 8.voc  | aṭṭh**i**                                       | aṭṭh**ī** <br>aṭṭh**īni**    |
-
 ***
-
-***
-
 ### Comparison between Masculine and Neuter Nouns -i
 
 |        | Masc sing                                  | Neuter Sing                                    | Masc plural              | Neuter Plural                |
@@ -111,9 +96,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 These are also rare, at most 400 in the current DPD database[^22].
 
 [^22]: Relevant for 2025 year
-
 ***
-
 | vatthu | ground, land, case         |
 |--------|----------------------------|
 | cakkhu | eye                        |
@@ -138,9 +121,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 | 6.gen  | āy**uno** <br>āy**ussa**               | āy**ūnaṃ**             |
 | 7.loc  | āy**umhi** <br>āy**usmiṃ**             | āy**ūsu**              |
 | 8.voc  | āy**u**                                | āy**ū** <br>āy**ūni**  |
-
 ***
-
 ### Comparison between Masculine and Neuter Nouns -u
 
 |        | Masc sing                                      | Neuter Sing                            | Masc plural                                    | Neuter Plural          |
@@ -153,5 +134,4 @@ These are also rare, at most 400 in the current DPD database[^22].
 | 6.gen  | bhikkh**uno** bhikkh**ussa**                   | āy**uno** <br>āy**ussa**               | bhikkh**ūnaṃ**                                 | āy**ūnaṃ**             |
 | 7.loc  | bhikkh**umhi** bhikkh**usmiṃ**                 | āy**umhi** <br>āy**usmiṃ**             | bhikkh**ūsu**                                  | āy**ūsu**              |
 | 8.voc  | bhikkh**u**                                    | āy**u**                                | bhikkh**ū** <br>bhikkh**avo**<br>bhikkh**ave** | āy**ū** <br>āy**ūni**  |
-
 ***

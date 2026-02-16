@@ -1,31 +1,13 @@
 # Conjugation of Verbs
-
 ***
-
 *“***Conjugation***, or the inflection of verbs, consists in making the verbal root undergo* **certain changes in form***, by the addition to it of certain* **prefixes** *and* **terminations** *to show the difference of* **Voice***, of* **Tense***, of* **Mode***, of* **Person***, and of* **Number***.”*
-
 ***
-
 \- Charles Duroiselle
-
 ***
-
-***
-
 *“What does that mean!?”*
-
 ***
-
-***
-
-***
-
-***
-
 There are a number of tenses and moods of verbs in Pāli.
-
 ***
-
 | 1. | Present Tense       | dhāvati    | he runs, he is running                      |
 |----|---------------------|------------|---------------------------------------------|
 | 2. | Past Tense (Aorist) | dhāvi      | he ran                                      |

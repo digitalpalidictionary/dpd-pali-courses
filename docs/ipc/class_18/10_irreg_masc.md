@@ -1,22 +1,9 @@
-
 # Some Irregular Masculine Nouns
-
 ***
-
 All the nouns we looked at in the Beginner Pāli Course had regular and predictable declensions. We will now start looking at nouns that have unusual or irregular declensions. These are often influenced by the old Sanskrit declensions.
-
 ***
-
-***
-
 Today we will look at **manas**, **go, atta** and **rāja**
-
 ***
-
-***
-
-***
-
 | Declension of manas (mano) (masc & nt[^6]) |                                               |              |
 |--------------------------------------------|-----------------------------------------------|--------------|
 | 1.nom                                      | man**o**                                      | man**ā**     |
@@ -29,13 +16,9 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | 8.voc                                      | man**a** man**ā**                             | man**ā**     |
 
 [^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
-
 ***
-
 Similarly
-
 ***
-
 | **āpas**    | water             | **siras**  | head                     |
 |-------------|-------------------|------------|--------------------------|
 | **ayas**    | iron              | **tamas**  | darkness, ignorance      |
@@ -49,9 +32,7 @@ Similarly
 | **saras**   | lake, water       | **yasas**  | fame, reputation         |
 
 In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS dictionary, you will also find them listed as **mano** & **mana(s)**. If you study the following Sanskrit declension table, you will understand the reason for the unusual declensions in Pāli.
-
 ***
-
 |      | **Sg**     | **Du**    | **Pl**    |
 |------|------------|-----------|-----------|
 | Nom  | manaḥ      | manasī    | manāṃsi   |
@@ -62,15 +43,9 @@ In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS d
 | Gen  | manasaḥ    | manasoḥ   | manasām   |
 | Loc  | **manasi** | manasoḥ   | manaḥsu   |
 | Voc  | manaḥ      | manasī    | manāṃsi   |
-
 ***
-
 The main feature of this group of nouns is they take an **-o** ending in compounds
-
 ***
-
-***
-
 | āp**o**kāya       | body of water       |
 |-------------------|---------------------|
 | ay**o**guḷa       | iron ball           |
@@ -93,11 +68,7 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | 6.gen                               | gāv**assa** gav**assa**                                                 | gav**aṃ** gun**naṃ**           |
 | 7.loc                               | gāv**e** gāv**asmiṃ** gāv**amhi** <br>gav**e** gav**asmiṃ** gav**amhi** | gāv**esu** gav**esu** g**osu** |
 | 8.voc                               | g**o**                                                                  | gāv**o** gav**o**              |
-
 ***
-
-***
-
 | Declension of atta (masc) - self |                           |               |
 |----------------------------------|---------------------------|---------------|
 | 1.nom                            | att**ā**                  | att**āno**    |
@@ -108,17 +79,9 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | 6.gen                            | att**ano**                | att**ānaṃ**   |
 | 7.loc                            | att**ani**                | att**anesu**  |
 | 8.voc                            | att**ā** att**a**         | att**āno**    |
-
 ***
-
 similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
-
 ***
-
-***
-
-***
-
 | Declension of rāja (masc) - king |                                                |                                     |
 |----------------------------------|------------------------------------------------|-------------------------------------|
 | 1.nom                            | rāj**ā**                                       | rāj**āno**                          |
@@ -129,5 +92,4 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 6.gen                            | ra**ñño** rāj**ino**                           | ra**ññaṃ** rāj**ūnaṃ** rāj**ānaṃ**  |
 | 7.loc                            | rāj**ini** ra**ññe** rāj**amhi** rāj**asmiṃ**  | rāj**ūsu** rāj**esu**               |
 | 8.voc                            | rāj**a** rāj**ā**                              | rāj**āno**                          |
-
 ***

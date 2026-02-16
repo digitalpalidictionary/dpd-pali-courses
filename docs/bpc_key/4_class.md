@@ -1,4 +1,3 @@
-
 # Class 4 Exercises
 
 | Pāli | POS | Grammar | English |

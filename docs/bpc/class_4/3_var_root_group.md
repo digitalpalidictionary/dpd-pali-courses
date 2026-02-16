@@ -1,7 +1,5 @@
 # Different systems of root groups
-
 ***
-
 |   | **Padarūpasiddhi**<br>**Buddhadatta** | **Kaccāyana (7th CE)**<br>**Saddanīti (1154 CE)** |
 |---|---------------------------------------|---------------------------------------------------|
 | 1 | √bhū + **a**                          | √bhū + **a**                                      |
@@ -12,5 +10,4 @@
 | 6 | √tan + **o**                          | √gah + **ṇhā**                                    |
 | 7 | √cur + **e** <br>√cur + **aya**       | √tan + **o**                                      |
 | 8 | ---                                   | √cur + **e**<br>√cur + **aya**                    |
-
 ***

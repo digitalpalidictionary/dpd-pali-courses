@@ -1,4 +1,3 @@
-
 | pari- pali-<br>around, **all around**, about, all about, overall, **completely** |             |              |                          |
 |----------------------------------------------------------------------------------|-------------|--------------|--------------------------|
 | √khaṇ                                                                            | to dig      | palikhaṇati  | digs all around          |

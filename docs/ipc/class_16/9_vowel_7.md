@@ -1,42 +1,19 @@
-
 # Possibility \#7
 
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
-
 ***
-
-***
-
 s**o**![](media/600cdd2c0fa42269d4d2097fe97305d7.png)**a**haṃ \> s**vā**haṃ
-
 ***
-
-***
-
 **o![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> vā**
-
 ***
-
-***
-
 This means:
-
 ***
-
 when a word ends in **o**,
-
 ***
-
 and the next word starts with **a**,
-
 ***
-
 together they become **vā**
-
 ***
-
-***
-
 In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 | **o![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> va** |           |                      |
@@ -48,9 +25,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |           |                      |
 | s**o**                                                      | **a**haṃ  | s**va**haṃ           |
 | then                                                        | I         | so I                 |
-
 ***
-
 | **o![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> vā** |                 |                     |
 |-------------------------------------------------------------|-----------------|---------------------|
 |                                                             |                 |                     |
@@ -65,9 +40,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |                 |                     |
 | y**o**                                                      | **a**yaṃ        | y**vā**yaṃ          |
 | whoever                                                     | this            | whoever this        |
-
 ***
-
 | **u![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> va** |                |                   |
 |-------------------------------------------------------------|----------------|-------------------|
 |                                                             |                |                   |
@@ -76,9 +49,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |                |                   |
 | n**u**                                                      | **a**jja       | n**va**jja        |
 | (?)                                                         | today          | today?            |
-
 ***
-
 | **u![](media/600cdd2c0fa42269d4d2097fe97305d7.png)a \> vā** |             |                |
 |-------------------------------------------------------------|-------------|----------------|
 |                                                             |             |                |
@@ -87,9 +58,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |             |                |
 | s**u**                                                      | **a**kkhāto | s**vā**kkhāto  |
 | (well)                                                      | explained   | well explained |
-
 ***
-
 | **u![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ā \> vā** |            |                |
 |-------------------------------------------------------------|------------|----------------|
 |                                                             |            |                |
@@ -101,11 +70,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |            |                |
 | bah**u**                                                    | **ā**bādho | bah**vā**bādho |
 | much                                                        | sickness   | frequently ill |
-
 ***
-
-***
-
 | **u![](media/600cdd2c0fa42269d4d2097fe97305d7.png)e \> ve** |         |                   |
 |-------------------------------------------------------------|---------|-------------------|
 |                                                             |         |                   |
@@ -117,21 +82,8 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 |                                                             |         |                   |
 | t**u**                                                      | **e**va | t**ve**va         |
 | but/yet                                                     | just    | however           |
-
 ***
-
-***
-
-***
-
-***
-
 what is **Possibility \#7 ?**
-
 ***
-
-***
-
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
-
 ***

@@ -1,4 +1,3 @@
-
 **Please translate and determine the compound type of the following:**
 
 **kāmesumicchācārā** paṭivirato hoti

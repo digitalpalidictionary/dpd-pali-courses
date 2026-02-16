@@ -1,11 +1,7 @@
 # Personal Pronouns
 
 The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensively used in the Tipiṭaka.
-
 ***
-
-***
-
 | 1st person ahaṃ |                           |                      |
 |-----------------|---------------------------|----------------------|
 |                 | **singular “I”**          | **plural “We”**      |
@@ -45,11 +41,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | 5. Ablative     | tayā                   | tumhehi                |
 | 6. Genitive     | tava tuyhaṃ **te**     | tumhaṃ tumhākaṃ **vo** |
 | 7. Locative     | tayi                   | tumhesu                |
-
 ***
-
-***
-
 **Frequency[^15]**
 
 [^15]: In the mūla part of the 4 Nikāyas
@@ -64,9 +56,6 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | tumhe    | you all                                      | 461                          |
 | tumhākaṃ | you all, for you all, yours                  | 158                          |
 | **vo**   | you all, by you, for you, yours              | **893**                      |
-
 ***
-
 Exercises will give you a good workout with these pronouns.
-
 ***

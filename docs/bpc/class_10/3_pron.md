@@ -1,65 +1,25 @@
 # Pronouns (sabbanāma)
-
 ***
-
 I, we, you, you all, he, she, it, they, them, all of them, some, a certain, one of them, which of them, whoever, whatever, the former, the next, the other, another, both, who, what, which, such and such, so-and-so.
-
 ***
-
-***
-
 These are all **pronouns** which stand in the place of a noun.
-
 ***
-
-***
-
 When used by themselves, they behave like a noun.
-
 ***
-
-***
-
 na **sabbe** dhammaṃ jānissanti.
-
 ***
-
 Not **everyone** will understand the dhamma
-
 ***
-
-***
-
-***
-
 When they are used with another noun, they behave like an adjective
-
 ***
-
-***
-
 na **sabbe** **manussā** dhammaṃ jānissanti.
-
 ***
-
 Not **all people** will understand the dhamma
-
 ***
-
-***
-
-***
-
 Pronouns are declined in **all three genders** when standing by themselves.
-
 ***
-
 When used together with other nouns, they agree with the noun in **gender**, **case**, and **number**.
-
 ***
-
-***
-
 | tā bhikkhuniyo      | fem.nom.pl  | those nuns                 |
 |---------------------|-------------|----------------------------|
 | ko āhāro            | masc.nom.sg | what food?                 |
@@ -68,11 +28,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | amukasmiṃ gāme      | masc.loc.sg | in such and such a village |
 | etassa bhāsitassa   | nt.gen.sg   | of this speech             |
 | etaṃ cakkhu’ndriyaṃ | nt.acc.sg   | this faculty of sight      |
-
 ***
-
-***
-
 | ta “he, that” masculine |                           |            |
 |-------------------------|---------------------------|------------|
 | 1.nom                   | s**o**                    | t**e**     |
@@ -90,9 +46,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | namo **tassa** bhagavato       | homage **to him**, to the Blessed One                             |
 | **tamhā** gāmā nikkhamitvā     | having left **from** **that** village                             |
 | **tesu** dhammesu              | in those teachings                                                |
-
 ***
-
 | ta “she, that” feminine |                                          |                           |
 |-------------------------|------------------------------------------|---------------------------|
 | 1.nom                   | s**ā**                                   | t**ā**<br>t**āyo**        |
@@ -102,9 +56,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 5.abl                   | t**āya**                                 | t**āhi**                  |
 | 6.gen                   | t**assā**                                | t**āsaṃ** <br>**tāsānaṃ** |
 | 7.loc                   | t**issaṃ** <br>t**assaṃ** <br>t**āyaṃ**  | t**āsu**                  |
-
 ***
-
 | **tā** āpattiyo           | **those** offences             |
 |---------------------------|--------------------------------|
 | **tā** bhikkhuniyo        | **those** nuns                 |
@@ -126,28 +78,16 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 ### eta “this man, this woman, this thing”
 
 **ta** generally refers to something that is **absent or distant**.
-
 ***
-
 **eta** generally refers to something that is **present or close at hand**.
-
 ***
-
 It is declined exactly like ta, but with an initial *“***e***”*.
-
 ***
-
-***
-
 | **etad** ahosi              | lit. **this** was <br>(this thought occurred) |
 |-----------------------------|-----------------------------------------------|
 | **etena** brāhmaṇo hoti     | he is a Brahman **by this**                   |
 | **etassa** bhāsitassa attho | the meaning **of this** saying                |
-
 ***
-
-***
-
 | ima “this” masculine |                                        |             |
 |----------------------|----------------------------------------|-------------|
 | 1.nom                | ay**aṃ**                               | im**e**     |
@@ -157,15 +97,9 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 | 5.abl                | a**smā** <br>ima**mhā** <br>ima**smā** | im**ehi**   |
 | 6.gen                | a**ssa** <br>ima**ssa**                | im**esaṃ**  |
 | 7.loc                | a**smiṃ** im**amhi** im**asmiṃ**       | im**esu**   |
-
 ***
-
 Grammars give **many** forms, but these are the most common ones in the Tipiṭaka.
-
 ***
-
-***
-
 | **ayaṃ** loko                   | **this** world                  |
 |---------------------------------|---------------------------------|
 | **ime** sattā                   | **these** beings                |
@@ -177,11 +111,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **asmiṃ** padese                | **in this** region              |
 | **imamhi** saṅghe               | **in this** community           |
 | **imesu** āyasmantesu           | **in (among) these** venerables |
-
 ***
-
-***
-
 | ima “this” feminine  |                                       |                       |
 |----------------------|---------------------------------------|-----------------------|
 | 1.nom                | ay**aṃ**                              | im**ā**<br>im**āyo**  |
@@ -191,11 +121,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 5.abl                | im**āya**                             | im**āhi**             |
 | 6.gen                | a**ssā** <br>imi**ssā** <br>im**āya** | im**āsaṃ**            |
 | 7.loc                | imi**ssaṃ** <br>im**āyaṃ**            | im**āsu**             |
-
 ***
-
-***
-
 | **imā** aṭṭha parisā         | **these** eight assemblies |
 |------------------------------|----------------------------|
 | **imāhi** gāthāhi            | **with these** verses      |
@@ -203,9 +129,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **imissā** pathaviyā         | **of this** earth          |
 | **imāsaṃ** dvinnaṃ diṭṭhīnaṃ | **of these** two views     |
 | **imāsu** chasu dhātūsu      | **in these** six elements  |
-
 ***
-
 | ima “this” neuter |                                           |                       |
 |-------------------|-------------------------------------------|-----------------------|
 | 1.nom             | id**aṃ** <br>im**aṃ**                     | im**e** <br>im**āni** |
@@ -245,17 +169,9 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 5.abl               | y**amhā** <br>y**asmā**  | y**ehi**                  |
 | 6.gen               | y**assa**                | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc               | y**amhi** <br>y**asmiṃ** | y**esu**                  |
-
 ***
-
-***
-
 The good news is that all the rest of the pronouns follow the same declension pattern as **ya***, (-a pron)* which is very similar to the normal declension of masculine, feminine and neuter nouns, with a few exceptions. So keep this table in mind!
-
 ***
-
-***
-
 ### Comparison table for pronouns masc
 
 |        | ta                        | ima                                    | ya                       | ta         | ima         | ya                        |
@@ -331,5 +247,3 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | katamo   | which (of the many)?    |
 | aparo    | the next, the following |
 | kiṃ      | who? what? which?       |
-
-

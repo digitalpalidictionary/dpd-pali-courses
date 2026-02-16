@@ -1,4 +1,3 @@
-
 # Class 29 Exercises
 
 **Translation assignment**

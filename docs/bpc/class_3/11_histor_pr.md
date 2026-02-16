@@ -1,5 +1,3 @@
-
-
 # Historical Present
 
 

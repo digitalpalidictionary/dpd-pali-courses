@@ -1,4 +1,3 @@
-
 # Class 11 Exercises
 
 | Pāli | POS | Grammar | English | Root |
@@ -468,4 +467,3 @@
 | maṅgalam                                                                                                                                                                                                                                                                        | noun      | nt.nom.sg             | blessing                                                      | √maṅg×1 a (be auspicious)         |
 | uttamaṃ                                                                                                                                                                                                                                                                         | adj       | nt.nom.sg             | ultimate; supreme                                             |                                   |
 | A mind of [a person] who, touched by worldly matters, is not disturbed, [but rather] free from sadness, untainted, at peace – this [is] the ultimate blessing.                                                                                                                  |           |                       |                                                               |                                   |
-

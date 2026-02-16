@@ -1,4 +1,3 @@
-
 # Class 28 Exercises
 
 **Find all the primary and secondary derivatives and show their construction.**

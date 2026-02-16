@@ -1,56 +1,25 @@
-
 # Abyayībhāva-samāsa or Adverbial Compounds
 
 (indeclinable-nature-compounds)
-
 ***
-
-***
-
 **Kaccāyana 319. upasagga-nipāta-pubbako abyayībhāvo.**
-
 ***
-
 preposition or indeclinable particle in front (is an) indeclinable-nature (compound)
-
 ***
-
-***
-
 1.  the first member of these compounds is an **adverb** or **preposition** or other **indeclinable particle**.
-
 ***
-
 e.g. **yāva**. ind, prep. as long as, as far as
-
 ***
-
-***
-
 2.  the second member is generally a **noun** or **adjective**
-
 ***
-
 e.g. **jīva**. m. life
-
 ***
-
-***
-
 3.  The resulting compound is most commonly an **adverb ending in an accusative case.**
-
 ***
-
 e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
-
 ***
-
-***
-
 **yāvajīvaṃ \> yāva + jīva + aṃ**
-
 ***
-
 ### Some abyayībhāva compounds
 
 | **anu**    | following | **vassa**   | year     | **anuvassaṃ**     | adv | annually, yearly                |
@@ -65,12 +34,9 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **yathā**  | like, as  | **bhūta**   | become   | **yathābhūtaṃ**   | adv | as it is, lit. as it has become |
 | **yāva**   | as far as | **tatiya**  | third    | **yāvatatiyaṃ**   | adv | up to the third time            |
 
-### 
 
 ### Sometimes the original case ending is maintained
-
 ***
-
 | **pura**   | before    | **aruṇā**   | from dawn     | **purāruṇā**    | adv[^7] | before dawn                   |
 |------------|-----------|-------------|---------------|-----------------|---------|-------------------------------|
 | **ajja**   | today     | **aṇho**    | day           | **ajjaṇho**     | adv     | this day                      |
@@ -78,13 +44,9 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **antarā** | between   | **magge**   | on road       | **antarāmagge** | adv     | along the road,<br>on the way |
 
 [^7]: some grammatical books take them just as adjectives used adverbially in context
-
 ***
-
 ## Some prefixes and indeclinables used in abyayībhāva compounds
-
 ***
-
 | abhi-    | very, high, most         |
 |----------|--------------------------|
 | adhi-    | up, towards              |
@@ -116,11 +78,6 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | yattha   | where                    |
 | yāva     | as long as               |
 | yena     | where                    |
-
 ***
-
-***
-
 What makes a compound an abyayībhāva?
-
 ***

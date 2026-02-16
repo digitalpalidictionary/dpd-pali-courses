@@ -1,9 +1,7 @@
 # Ordinal Numbers (saṅkhyā-pūraṇa)
 
 Ordinal numbers describe the position of something; first, second, third etc. They are mostly formed from the cardinal numbers with **suffixes** and are declined like regular **adjectives**.
-
 ***
-
 | 1st   | paṭha**ma**                        | first      |
 |-------|------------------------------------|------------|
 | 2nd   | du**tiya**                         | second     |
@@ -29,13 +27,7 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 | 80th  | asīti**ma**                        | eightieth  |
 | 90th  | navuti**ma**                       | ninetieth  |
 | 100th | sata**ma**                         | hundredth  |
-
 ***
-
-***
-
-***
-
 | Declension - Singular |                                             |                              |                                 |                                                 |
 |-----------------------|---------------------------------------------|------------------------------|---------------------------------|-------------------------------------------------|
 |                       | **Masculine**                               | **Feminine ā**               | **Feminine ī**                  | **Neuter**                                      |
@@ -57,4 +49,3 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 | 6.gen                 | paṭham**ānaṃ**                              | paṭham**ānaṃ**               | catutth**īnaṃ**                 | paṭham**ānaṃ**                                  |
 | 7.loc                 | paṭham**esu**                               | paṭham**āsu**                | catutth**īsu**                  | paṭham**esu**                                   |
 | 8.voc                 | paṭham**ā**                                 | paṭham**ā** paṭham**āyo**    | catutth**iyo**<br>catutth**ī**  | paṭham**āni**                                   |
-

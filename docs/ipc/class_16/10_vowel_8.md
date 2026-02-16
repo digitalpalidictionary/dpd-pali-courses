@@ -1,36 +1,17 @@
-
 # Consonant Insertions
-
 ***
-
 #### Possibility \#8
 
 The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v.**
-
 ***
-
-***
-
 n**a**![](media/600cdd2c0fa42269d4d2097fe97305d7.png)**i**massa \> na**y**imassa
-
 ***
-
 **+ y**
-
 ***
-
-***
-
 This means:
-
 ***
-
 **y** may be inserted between two vowels
-
 ***
-
-***
-
 In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 | **y (common)** |                |                            |
@@ -57,11 +38,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                |                |                            |
 | s**u**         | **u**ṭṭhita    | su**v**uṭṭhita             |
 | (good)         | stood up       | good wake up               |
-
 ***
-
-***
-
 | **m (common)** |               |                    |
 |----------------|---------------|--------------------|
 |                |               |                    |
@@ -73,11 +50,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                |               |                    |
 | saññ**ī**      | **e**va       | saññ**īme**va      |
 | conscious      | just          | even conscious     |
-
 ***
-
-***
-
 | **d (common)**  |               |                                       |
 |-----------------|---------------|---------------------------------------|
 |                 |               |                                       |
@@ -100,11 +73,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                 |               |                                       |
 | s**a**          | **d**iṭṭhi    | sa**n**diṭṭhi                         |
 | own             | view          | one’s own belief                      |
-
 ***
-
-***
-
 | **t (rare)** |             |                          |
 |--------------|-------------|--------------------------|
 |              |             |                          |
@@ -113,11 +82,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |              |             |                          |
 | tasm**ā**    | **i**ha     | tasmā**t**iha            |
 | therefore    | here        | therefore in this regard |
-
 ***
-
-***
-
 | **r (common)** |           |                |
 |----------------|-----------|----------------|
 |                |           |                |
@@ -129,11 +94,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                |           |                |
 | pun**a**       | **e**ti   | puna**r**eti   |
 | again          | comes     | returns        |
-
 ***
-
-***
-
 | **ḷ (only with cha)** |             |                    |
 |-----------------------|-------------|--------------------|
 |                       |             |                    |
@@ -142,9 +103,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                       |             |                    |
 | cha \> s**a**         | **ā**yatanā | sa**ḷ**āyatanā     |
 | six                   | fields      | six sense fields   |
-
 ***
-
 | **h (very rare)** |             |                |
 |-------------------|-------------|----------------|
 |                   |             |                |
@@ -153,21 +112,8 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 |                   |             |                |
 | s**u**            | **u**jū     | su**h**ujū     |
 | (well)            | straight    | very straight  |
-
 ***
-
-***
-
-***
-
-***
-
 **what is Possibility \#8 ?**
-
 ***
-
-***
-
 The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v**.
-
 ***

@@ -1,5 +1,3 @@
-
-
 # Class 13 Exercises
 
 | Pāli | POS | Grammar | English | Root |
@@ -430,4 +428,3 @@
 | dukkhassā"ti                                                                                                                                                                                                       | noun       | nt.gen.sg +end quote         | of suffering"                                                             | √dukkh･1 a (be painful)            |
 | therefore, you, Bāhiya, [are] neither not here, nor in another world, nor in-between the two; just this is the end of suffering."                                                                                  |            |                              |                                                                           |                                    |
 |                                                                                                                                                                                                                    |            |                              |                                                                           |                                    |
-

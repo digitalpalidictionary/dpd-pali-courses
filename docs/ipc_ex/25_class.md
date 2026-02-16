@@ -1,4 +1,3 @@
-
 # Class 25
 
 **Find all the secondary derivatives and show their construction.**
@@ -428,5 +427,3 @@ ta + [d] + hita
 |                                                                                                                    |   |   |   |   |
 |                                                                                                                    |   |   |   |   |
 |                                                                                                                    |   |   |   |   |
-
-## 

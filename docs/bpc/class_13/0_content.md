@@ -1,5 +1,3 @@
-
-
 # Class 13
 
 -   Review

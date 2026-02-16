@@ -1,4 +1,3 @@
-
 # Homeless work
 
 1.  Please re-read this lesson
@@ -17,5 +16,4 @@
 
 | Duroiselle | Passive Voice (481-490)<br>Causative Verbs (491-497) |
 |------------|------------------------------------------------------|
-
 ***

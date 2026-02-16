@@ -12,15 +12,7 @@ There are about **400** of these nouns in the DPD[^12].
 | 6. Genitive                 | agg**ino** agg**issa**             | agg**īnaṃ**              |
 | 7. Locative                 | agg**imhi** agg**ismiṃ**           | agg**īsu**<br>agg**isu** |
 | 8. Vocative                 | agg**i**                           | agg**ī** agg**ayo**      |
-
 ***
-
 e.g. samādhi, gahapati, muni, gāmaṇi, isi, suci, ñāti, pāṇi, sārathi, añjali, upadhi, kāsi
-
 ***
-
-***
-
-
-
 [^12]: This statistic is relevant for the year 2023.

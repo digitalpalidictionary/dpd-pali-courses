@@ -1,56 +1,35 @@
-
 # Irregular Passive Bases
 
-### 
 
 | √jan | to produce | ya   | janya \> jāya     | jāyati         | is born             |
 |------|------------|------|-------------------|----------------|---------------------|
 | √kar | to do      | iya  | kariya \> kayira  | kayirati       | is done             |
 | √dis | to see     | iya  | disiya \> dassiya | sandassiyamāna | being seen together |
 
-### 
 
 ### Roots ending in -ā change to -ī
-
 ***
-
 Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam’ī**.
-
 ***
-
-***
-
 | √dā  | to give  | (ī)ya | d**ī**ya  | dīyati       | is given |
 |------|----------|-------|-----------|--------------|----------|
 | √dhā | to hold  | (ī)ya | dh**ī**ya | dhīyati[^21] | is held  |
 | √pā  | to drink | (ī)ya | p**ī**ya  | pīyati       | is drunk |
 
 [^21]: Commentary example
-
 ***
-
-### 
-
-### 
-
 ### In roots ending in a short vowel, that vowel gets lengthened
-
 ***
-
 | √ci | to gather  | (ī)ya | c**ī**ya | cīyati | is collected |
 |-----|------------|-------|----------|--------|--------------|
 | √ji | to conquer | (ī)ya | j**ī**ya | jīyati | is defeated  |
 | √lu | to reap    | (i)ya | l**ū**ya | lūyati | is reaped    |
 | √su | to hear    | (i)ya | s**ū**ya | sūyati | is heard     |
 
-### 
 
-### 
 
 ### Group 2 rudhādigaṇa roots sometimes keep their conjugational sign ṃa
-
 ***
-
 | √chid + ṃa | to cut      | īya | chi**n**dīya | chindīyati[^22]   | is cut                 |
 |------------|-------------|-----|--------------|-------------------|------------------------|
 | √muc + ṃa  | to free     | īya | mu**ñ**cīya  | muñcīyati\*       | is freed               |
@@ -79,32 +58,20 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 [^23]: Not a textual example
 
 ### Some roots with va- change to vu- or u-
-
 ***
-
 Kacc 487, 478. vaca vasa vah’ādīnam’ukāro vassa ye.
-
 ***
-
-***
-
 | √vac | to speak | ya  | v**u**cca                | vuccati     | is said    |
 |------|----------|-----|--------------------------|-------------|------------|
 | √vac | to speak | ya  | **u**cca                 | uccati      | is said    |
 | √vah | to carry | ya  | v**u**yha                | vuyhati     | is carried |
 | √var | to cover | īya | v**u**rīya \> p**u**rīya | avāpurīyati | is opened  |
 | √vas | to live  | ya  | v**u**ssa                | vussati     | is lived   |
-
 ***
-
-***
-
 ### va \> vu
 
 While on the topic, **va \> vu** is a very common phonetic change in Pāli, especially in past participles.
-
 ***
-
 | √**va**c   | to speak    | pp  | **vu**tta       | said, spoken        |
 |------------|-------------|-----|-----------------|---------------------|
 | √**va**ddh | to increase | f   | **vu**ddhi      | growth, increase    |
@@ -121,5 +88,4 @@ While on the topic, **va \> vu** is a very common phonetic change in Pāli, espe
 | √**va**tt  | to proceed  | m   | **vu**ttika     | livelihood          |
 | √**ph**ar  | to pervade  | pp  | **phu**ṭa       | pervaded            |
 | √**bha**r  | to support  | adj | pa**bhu**ti     | beginning with      |
-
 ***

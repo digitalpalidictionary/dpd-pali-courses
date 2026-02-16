@@ -1,5 +1,3 @@
-
-
 # How to ask a question with Adverbs & Indeclinable
 
 | api              | have? did?              |
@@ -15,4 +13,3 @@
 | kīva             | how far? how much?      |
 | kuhiṃ            | where?                  |
 | kuvaṃ            | where?                  |
-

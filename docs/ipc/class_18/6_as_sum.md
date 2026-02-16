@@ -1,4 +1,3 @@
-
 | Assimilation Summary |        |                       |                  |
 |----------------------|--------|-----------------------|------------------|
 | kk                   | k + y  | √sa**k y**a           | sa**kk**a        |
@@ -43,5 +42,3 @@
 | ll                   | l + y  | √**jal y**a           | ja**ll**a        |
 | ss                   | s + y  | √mu**s y**a ti        | mu**ss**ati      |
 | ḷh                   | h + t  | √mu**h t**a           | mū**ḷh**a        |
-
-# 

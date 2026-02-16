@@ -1,4 +1,3 @@
-
 # Class 18
 
 **Disjoin the sandhis**
@@ -327,9 +326,7 @@ Break up all the sandhis in the following sentences.
 |                                                                                                                                                                                                               |   |   |   |   |
 |                                                                                                                                                                                                               |   |   |   |   |
 
-## 
 
-## 
 
 ## Class 18 Extra Examples
 

@@ -1,14 +1,7 @@
-
 # More Secondary Derivatives
 
 Today we will look at the other categories of secondary derivatives, starting with possessing, having (atthyattha).
-
 ***
-
-***
-
-***
-
 ## Having & Possessing (atthyatthataddhita)
 
 ### \*a (having, possessing)
@@ -18,11 +11,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | saddhā  | + \*a | s**a**ddh**a**  | having faith, confident |
 | tivijja | + \*a | t**e**vijj**a** | having three knowledges |
 | vācā    | + \*a | v**ā**c**a**    | having speech           |
-
 ***
-
-***
-
 ### ika (having, possessing)
 
 | ābādha    | + ika | ābādh**ika**    | having sickness                       |
@@ -32,21 +21,13 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | jalla     | + ika | jall**ika**     | having mud, muddy                     |
 | mālā      | + ika | māl**ika**      | having garland                        |
 | maṅgala   | + ika | maṅgal**ika**   | having auspicious occasion, festivals |
-
 ***
-
-***
-
 ### ila (having, possessing)
 
 | kumbha | + ila | kumbh**īla** | with a pot |
 |--------|-------|--------------|------------|
 | pheṇa  | + ila | pheṇ**ila**  | soap plant |
-
 ***
-
-***
-
 ### ī (having, possessing) agent nouns
 
 | agāra      | + ī    | agār**ī**     | householder          |
@@ -56,11 +37,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | daṇḍa pāṇi | + ī    | daṇḍapāṇ**ī** | having staff in hand |
 | māyā       | + (v)ī | māyāv**ī**    | magician             |
 | medhā      | + (v)ī | medhāv**ī**   | wise person          |
-
 ***
-
-### 
-
 ### tana (belonging to) adjectives
 
 | ajja  | + tana | ajja**tana**  | belonging to today    |
@@ -68,11 +45,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | purā  | + tana | purā**tana**  | belonging to ancient  |
 | sanaṃ | + tana | sanan**tana** | belonging to ancient  |
 | sve   | + tana | svā**tana**   | belonging to tomorrow |
-
 ***
-
-***
-
 ### ka (having, possessing)
 
 | appa itthi | + ka | appitthi**ka** | having few women  |
@@ -83,9 +56,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | na gandha  | + ka | agandha**ka**  | having no scent   |
 | anukampā   | + ka | anukampa**ka** | having compassion |
 | na pāṇa    | + ka | appāṇa**ka**   | having no beings  |
-
 ***
-
 ### tara (comparative adjectives)
 
 | abhikkanta | + tara | abhikkanta**tara** | more wonderful       |
@@ -98,21 +69,13 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | paṇīta     | + tara | paṇīta**tara**     | more refined         |
 | sādu       | + tara | sādu**tara**       | sweeter              |
 | sīgha      | + tara | sīgha**tara**      | faster               |
-
 ***
-
-***
-
 ### tama (superlative adjectives)
 
 | ud | + tama | ut**tama**  | highest, ultimate |
 |----|--------|-------------|-------------------|
 | pa | + tama | pa**ṭhama** | first; prime      |
-
 ***
-
-***
-
 ### mant (having, possessing, having quality)
 
 | cakkhu | + mant | cakkhu**mant** | who has vision       |
@@ -122,9 +85,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | juti   | + mant | juti**mant**   | luminous, radiant    |
 | sati   | + mant | satī**mant**   | mindful              |
 | āyas   | + mant | āyas**mant**   | respectable          |
-
 ***
-
 ### vant (having, possessing, having quality)
 
 | bala   | + vant | bala**vant**   | powerful               |
@@ -137,29 +98,18 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | hima   | + vant | hima**vant**   | snowy                  |
 | paññā  | + vant | pañña**vant**  | wise                   |
 | suta   | + vant | suta**vant**   | learned                |
-
 ***
-
-***
-
 ### sa (having, possessing)
 
 | loma    | + sa | loma**sa** | hairy      |
 |---------|------|------------|------------|
 | nir āsā | + sa | nirāsāsa   | desireless |
-
 ***
-
-***
-
 ### sī (having, possessing)
 
 | tapas | + sī | tapa**ssī** | ascetic; lit. having burns |
 |-------|------|-------------|----------------------------|
 | yasas | + sī | yasa**ssī** | famous                     |
-
 ***
-
 what do you notice about these words?
-
 ***

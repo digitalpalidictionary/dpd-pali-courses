@@ -1,10 +1,7 @@
-
 # Phonetic changes of -n-
 
 This occurs with the **past participle** or **adjectives** ending -na, **neuter nouns ending** in -na, etc
-
 ***
-
 | **d + n \> nn**       |               |                    |
 |-----------------------|---------------|--------------------|
 |                       |               |                    |
@@ -22,5 +19,4 @@ This occurs with the **past participle** or **adjectives** ending -na, **neuter 
 | √jīr + na             | ji**ṇṇ**a     | pp. aged           |
 | √pūr + na             | pu**ṇṇ**a     | pp. filled         |
 | ava + √kir + na       | oki**ṇṇ**a    | pp. covered        |
-
 ***

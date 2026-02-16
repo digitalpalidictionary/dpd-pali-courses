@@ -1,0 +1,13 @@
+[project]
+name = "dpd-pali-courses"
+version = "0.1.0"
+description = "Pāḷi course materials and website"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "rich>=13.0.0",
+    "PyYAML>=6.0",
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]

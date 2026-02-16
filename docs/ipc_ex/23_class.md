@@ -1,4 +1,3 @@
-
 # Class 23
 
 | **Break up following words in suitable ways** |   |   |                                                                                                  |
@@ -384,7 +383,6 @@ extra task: underline the subject, *object(s),* and \*predicate\* of the sentenc
 |                                                                                                                                                                                                                                   |   |   |   |   |
 |                                                                                                                                                                                                                                   |   |   |   |   |
 
-## 
 
 ## Class 23 Extra Examples
 
@@ -697,5 +695,3 @@ extra task: underline the subject, object(s), and predicate of the sentences
 |                                                                                                                                                                                                                                                                                              |   |   |   |   |
 |                                                                                                                                                                                                                                                                                              |   |   |   |   |
 |                                                                                                                                                                                                                                                                                              |   |   |   |   |
-
-## 

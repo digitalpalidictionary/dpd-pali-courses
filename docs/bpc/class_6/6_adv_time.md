@@ -1,17 +1,11 @@
 # Adverbs of time
 
 They are part of the group of indeclinable words in Pāli.
-
 ***
-
 Adverbs of time describe **when** the action is done.
-
 ***
-
 They often come **first** in the sentence.
-
 ***
-
 | pubbe     | before, previously                       |
 |-----------|------------------------------------------|
 | āyatiṃ    | in future                                |
@@ -33,7 +27,4 @@ They often come **first** in the sentence.
 | ciraṃ     | for a long time                          |
 | atisāyaṃ  | too late (in the day); too late at night |
 | kālena    | at the proper time                       |
-
-
-
 ***

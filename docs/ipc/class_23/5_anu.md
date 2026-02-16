@@ -1,4 +1,3 @@
-
 | anu-<br>**following**, **after**, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly |             |              |                               |
 |---------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|-------------------------------|
 | √bandh                                                                                                                          | to tie      | anubandhati  | follows                       |

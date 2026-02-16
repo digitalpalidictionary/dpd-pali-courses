@@ -1,4 +1,3 @@
-
 # Class 21 Exercises
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
@@ -350,7 +349,6 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | nappaṭiggaṇhāti                                                                                                                                                                                                                                              | verb   | pr.3rd.sg        | he does not accept                                | √gah･6 ṇhā (grasp)                  |
 | And at that time two monks quarreled. There, one monk transgressed. Then that monk confessed his fault in the presence of that (other) monk, (but) that monk does not accept (his apology).                                                                  |        |                  |                                                   |                                     |
 
-## 
 
 ## Class 21 Extra Examples
 

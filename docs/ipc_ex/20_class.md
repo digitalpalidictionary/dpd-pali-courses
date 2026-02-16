@@ -1,4 +1,3 @@
-
 # Class 20
 
 Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.
@@ -309,7 +308,6 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 |                                                                                                                                                          |   |   |   |   |
 |                                                                                                                                                          |   |   |   |   |
 
-## 
 
 ## Class 20 Extra Examples
 
@@ -450,5 +448,3 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 |                                                                                                                                                                                               |   |   |   |        |
 |                                                                                                                                                                                               |   |   |   |        |
 |                                                                                                                                                                                               |   |   |   |        |
-
-## 

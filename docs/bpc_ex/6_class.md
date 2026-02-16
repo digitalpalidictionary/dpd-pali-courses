@@ -1,4 +1,3 @@
-
 # Class 6 Exercises
 
 | Pāli | POS | Grammar | English | Root |
@@ -779,5 +778,3 @@ brūmi
 |                                                                                                                                             |              |              |                     |   |
 |                                                                                                                                             |              |              |                     |   |
 |                                                                                                                                             |              |              |                     |   |
-
-## 
