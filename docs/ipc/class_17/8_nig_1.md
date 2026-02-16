@@ -10,9 +10,9 @@ e.g. eva**ṃ v**utte \> eva**ṃ v**utte
 ***
 In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
 ***
-| **ṃ + consonant** |   |                  |                             |
-|-------------------|---|------------------|-----------------------------|
-|                   |   |                  |                             |
+**ṃ + consonant**
+| | | | |
+|---|---|---|---|
 | ta**ṃ**           |   | **k**issa hetu   | why is that?                |
 | aya**ṃ**          |   | **kh**o          | this indeed                 |
 | parikkhaya**ṃ**   |   | **g**acchanti    | they get destroyed          |

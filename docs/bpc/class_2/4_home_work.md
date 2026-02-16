@@ -7,7 +7,7 @@ Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
 | purisassa                            | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | человека             |
 | goṇo                                 | masc.nom.sg                | the ox                   | бык                  |
 | **the man’s ox**<br>**бык человека** |                            |                          |                      |
-
+***
 [^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorize words.
 
 
@@ -23,8 +23,10 @@ Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
 ***
 ### Extra Reading
 
+| | |
+|---|---|
 | A.K. Warder <br>Introduction to Pāli                            | p1-9                                                                      |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------|
 | V. Perniola<br>Pāli Grammar                                     | p1-3 (alphabet & pronunciation) <br>p29 onwards (declension)              |
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p4-6 (alphabet & pronunciation)<br>p24-27 (declension of masculine nouns) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                                                    |
+***

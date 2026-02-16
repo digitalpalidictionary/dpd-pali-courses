@@ -18,8 +18,10 @@
 ***
 # Extra Reading
 
+| | |
+|---|---|
 | A.K. Warder Introduction to Pāli                                | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | V. Perniola<br>Pāli Grammar                                     | p70 – 84 (chapter 6 verbs)                                                                        |
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p83 – 93 (chapter 10 verbs)                                                                       |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                                                                            |
+***

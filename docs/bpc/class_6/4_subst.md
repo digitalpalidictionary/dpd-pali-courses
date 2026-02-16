@@ -2,8 +2,9 @@
 
 Substantives are formed by taking a noun and adding a suffix at the end.
 ***
+| | | | | |
+|---|---|---|---|---|
 | suta   | knowledge | suta**vant**   | has knowledge | well-studied    |
-|--------|-----------|----------------|---------------|-----------------|
 | vaṇṇa  | colour    | vaṇṇa**vant**  | has colour    | good-looking    |
 | bala   | power     | bala**vant**   | has power     | powerful person |
 | sati   | memory    | sati**mant**   | has memory    | mindful person  |

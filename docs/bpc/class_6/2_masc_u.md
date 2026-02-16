@@ -8,7 +8,7 @@
 | - tu / -tar (1) | sat**t**h**ar ;** bhāsi**tar** |
 | - tu / -tar (2) | pit**ar** ; bhāt**ar**         |
 | - ū             | vid**ū**                       |
-
+***
 ### Masculine nouns ending in -u like bhikkhu
 
 | 1. nom   | bhikkh**u**                                 | bhikkh**ū** bhikkh**avo**                  |
@@ -52,8 +52,9 @@ They are collectively known as **agent nouns** because they describe a person wh
 | √brūh  | to increase | √brūh + \*e + tar \> brūhetar             | who develops        |
 | √vas   | to live     | adhi + ā + √vas + a + tar \> ajjhāvasatar | who lives in a home |
 ***
-| Declension of -ar masc |                                               |                                   |
-|------------------------|-----------------------------------------------|-----------------------------------|
+**Declension of -ar masc**
+| | | |
+|---|---|---|
 | 1.nom                  | satth**ā**                                    | satth**āro**                      |
 | 2.acc                  | satth**āraṃ**                                 | satth**āre** <br>satth**āro**     |
 | 3.inst                 | satth**ārā** <br>satth**unā**                 | satth**ārehi**                    |
@@ -76,8 +77,9 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | bhātu (BD)<br>bhātar (PED) | bhrātṛ       |
 | pitu (BD)<br>pitar (PED)   | pitṛ         |
 ***
-| Declension of -ar2 masc |                                            |                               |
-|-------------------------|--------------------------------------------|-------------------------------|
+**Declension of -ar2 masc**
+| | | |
+|---|---|---|
 | 1.nom                   | bhāt**ā**                                  | bhāt**aro**                   |
 | 2.acc                   | bhāt**araṃ**                               | bhāt**are** <br>bhāt**aro**   |
 | 3.inst                  | bhāt**arā** <br>bhāt**unā**                | bhāt**ūhi**                   |
@@ -100,3 +102,4 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | 6.gen  | bhikkh**uno** bhikkh**ussa**                 | bhāt**u** <br>bhāt**uno** bhāt**ussa** | satth**u** <br>satth**uno** satth**ussa** | bhikkh**ūnaṃ**                          | bhāt**arānaṃ** bhāt**ānaṃ** bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ**  |
 | 7.loc  | bhikkh**umhi** bhikkh**usmiṃ**               | bhāt**ari**                            | satth**ari**                              | bhikkh**ūsu**                           | bhāt**aresu** bhāt**ūsu**                | satth**āresu**                    |
 | 8.voc  | bhikkh**u**                                  | bhāt**a** <br>bhāt**ā**                | satth**a** <br>satth**ā**                 | bhikkh**ū** bhikkh**avo** bhikkh**ave** | bhāt**aro**                              | satth**āro**                      |
+***

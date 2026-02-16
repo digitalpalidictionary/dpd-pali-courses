@@ -1,22 +1,23 @@
 # Passive Present Participles (pprp)
 
-| √labh 1 a (get) |           |                           |
-|-----------------|-----------|---------------------------|
+**√labh 1 a (get)**
+| | | |
+|---|---|---|
 | base            | labha     |                           |
 | pr              | labhati   | he gets, obtains          |
 | prp             | labhanta  | getting; obtaining        |
 | pass.pr         | labbhati  | it is got, is obtained    |
 | pass.prp        | labbhanta | being got; being obtained |
-
-
+***
 ### How To Form Passive Present Participles (pprp)
 
 **root + ya / iya / īya \> passive base**
 
 **passive base + māna \> passive present participle**
 
-| √muc 2 ṃa (release, free)  |                               |                              |
-|----------------------------|-------------------------------|------------------------------|
+**√muc 2 ṃa (release, free)**
+| | | |
+|---|---|---|
 | base                       | muñca                         | √muc + ṃa                    |
 | pr                         | muñca**ti**                   | he frees; releases           |
 | prp                        | muñca**nta**<br>muñca**māna** | freeing; releasing           |

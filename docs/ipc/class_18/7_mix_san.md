@@ -34,3 +34,4 @@
 | pātvākāsi   | pātu + a + kā + si         | displayed             |
 | udabbadhi   | ud + a + √vadh \> badh + i | destroyed             |
 | udabbahi    | ud + a + √vah + i          | pulled out            |
+***

@@ -13,7 +13,7 @@ When prefixes **ud- ; dur- ; nir-** combine with roots beginning with a consonan
 | nir        | √kuh     | r + k \> kk          | nikkuha   | not deceitful   |
 | nir        | √mal     | r + m \> mm          | nimmala   | spotless        |
 | sat        | dhamma   | t + dh \> ddh        | saddhamma | true doctrine   |
-
+***
 -   **Sanskrit influence assimilation**
 
 Some roots which in Sanskrit have a double consonant become one consonant in Pāli. The first consonant of such a root may duplicate in combination with a prefix(s) ending in a vowel.
@@ -24,5 +24,5 @@ Some roots which in Sanskrit have a double consonant become one consonant in Pā
 | upa        | √sthā       | √ṭhā          | upa**ṭṭh**āpeti | establishes     |
 | pati       | √grah       | √gah          | paṭi**gg**aheti | takes; accepts  |
 | pati       | √śru        | √su           | paṭi**ss**uṇāti | agrees; assents |
-
+***
 But, as usual, there are exceptions.

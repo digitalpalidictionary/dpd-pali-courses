@@ -17,5 +17,5 @@ There are a number of tenses and moods of verbs in Pāli.
 | 6. | Imperfect Past [^5] | dhāvā      | he ran (starting from yesterday, when seen) |
 | 7. | Perfect Past        | dadhāva    | he ran (unseen)                             |
 | 8. | Conditional         | dhāvissa   | if he would have run, then...               |
-
+***
 [^5]: Those are discussed in details in the Intermediate Pāli Course

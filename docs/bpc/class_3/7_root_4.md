@@ -32,8 +32,9 @@ pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
 ***
 sakuṇā + ti \> sakuṇāti (he is able)
 ***
-| Conjugation of -āti pr |            |          |             |              |
-|------------------------|------------|----------|-------------|--------------|
+**Conjugation of -āti pr**
+| | | | | |
+|---|---|---|---|---|
 |                        | singular   | plural   |             |              |
 | 3rd                    | suṇā**ti** | he hears | suṇa**nti** | they hear    |
 | 2nd                    | suṇā**si** | you hear | suṇā**tha** | you all hear |

@@ -9,4 +9,4 @@ namo tassa bhagavato arahato sammā-sambuddhassa
 | arahato                                         |   |   |   | |
 | sammā -                                         |   |   |   | |
 | sambuddhassa                                    |   |   |   | |
-|                                                 |   |   |   | |
+***

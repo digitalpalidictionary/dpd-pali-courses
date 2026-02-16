@@ -1,5 +1,6 @@
-| ati- acc-<br>**beyond**, across, **over**, past, very much, **very**, excessively |          |            |                         |
-|-----------------------------------------------------------------------------------|----------|------------|-------------------------|
+**ati- acc-<br>beyond, across, over, past, very much, very, excessively**
+| | | | |
+|---|---|---|---|
 | √i                                                                                | to go    | accayati   | goes beyond             |
 | √car                                                                              | to walk  | aticarati  | transgresses            |
 | √dhāv                                                                             | to run   | atidhāvati | runs past               |
@@ -9,3 +10,4 @@
 | √ruc                                                                              | to shine | atirocati  | outshines               |
 | √vass                                                                             | to rain  | ativassati | soaks                   |
 | √vatt                                                                             | to go on | ativattati | exceeds, surpasses      |
+***

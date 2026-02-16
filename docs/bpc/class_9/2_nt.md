@@ -4,8 +4,9 @@ These are very common, more than 17000 words in the current DPD database[^21].
 
 [^21]: Relevant for 2025 year
 ***
+| | |
+|---|---|
 | citta     | mind                  |
-|-----------|-----------------------|
 | rūpa      | matter; form          |
 | maraṇa    | death                 |
 | saṃyojana | fetter; chain         |
@@ -17,11 +18,7 @@ These are very common, more than 17000 words in the current DPD database[^21].
 | agāra     | dwelling; house       |
 | cīvara    | robe; cloth           |
 | dāna      | giving; offering      |
-
-
-
-
-
+***
 ### Declension of Neuter Nouns ending in -a
 
 | 1.nom  | citt**aṃ**                                    | citt**ā**<br>citt**āni**  |
@@ -48,7 +45,7 @@ What do you notice in regard to the declension of neuter nouns?
 | 6.gen  | nar**assa**                                | citt**assa**                                  | nar**ānaṃ**  | citt**ānaṃ**               |
 | 7.loc  | nar**e** <br>nar**amhi** <br>nar**asmiṃ**  | citt**e** <br>citt**amhi** <br>citt**asmiṃ**  | nar**esu**   | citt**esu**                |
 | 8.voc  | nar**a** <br>nar**ā**                      | citt**a** <br>citt**ā**                       | nar**ā**     | citt**āni**                |
-
+***
 ### Neuter Nouns ending in -i
 
 These are very rare, there are only few of them in the Tipiṭaka.
@@ -88,17 +85,16 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | 6.gen  | agg**ino** <br>agg**issa**                 | aṭṭh**ino** <br>aṭṭh**issa**                   | agg**īnaṃ**              | aṭṭh**īnaṃ**                 |
 | 7.loc  | agg**imhi** agg**ismiṃ**                   | aṭṭh**ini** <br>aṭṭh**imhi** aṭṭh**ismiṃ**     | agg**isu**<br>agg**īsu** | aṭṭh**isu** <br>aṭṭh**īsu**  |
 | 8.voc  | agg**i**                                   | aṭṭh**i**                                      | agg**ī**<br>agg**ayo**   | aṭṭh**ī** <br>aṭṭh**īni**    |
-
-
-
+***
 ### Neuter Nouns ending in -u
 
 These are also rare, at most 400 in the current DPD database[^22].
 
 [^22]: Relevant for 2025 year
 ***
+| | |
+|---|---|
 | vatthu | ground, land, case         |
-|--------|----------------------------|
 | cakkhu | eye                        |
 | āyu    | long life, age             |
 | massu  | beard                      |
@@ -109,7 +105,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 | dāru   | wood                       |
 | dhanu  | bow                        |
 | sādu   | delicious food; tasty food |
-
+***
 ### Declension of Neuter Nouns ending in -u
 
 | 1.nom  | āy**u**<br>āy**uṃ**                    | āy**ū** <br>āy**ūni**  |

@@ -10,8 +10,9 @@ kita + ka
 
 **Please pay attention to the syntax:** underline the subject, object(s), and predicate of the sentences
 
-| SNP 13<br>yathindakhīlo pathaviṃ sito siyā, catubbhi vātehi asampakampiyo. <br>tathūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.                                        |   |   |   |        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|--------|
+**SNP 13<br>yathindakhīlo pathaviṃ sito siyā, catubbhi vātehi asampakampiyo. <br>tathūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.**
+| | | | | |
+|---|---|---|---|---|
 | yathindakhīlo                                                                                                                                                                       |   |   |   |        |
 | pathaviṃ                                                                                                                                                                            |   |   |   |        |
 | sito                                                                                                                                                                                |   |   |   |        |
@@ -26,16 +27,7 @@ kita + ka
 | ariyasaccāni                                                                                                                                                                        |   |   |   |        |
 | avecca                                                                                                                                                                              |   |   |   |        |
 | passati                                                                                                                                                                             |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyasmante parisuddhāti vedissāmi.                                         |   |   |   |        |
+| VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyasmante parisuddhāti vedissāmi. |  |  |  |  |
 | yassa                                                                                                                                                                               |   |   |   |        |
 | siyā                                                                                                                                                                                |   |   |   |        |
 | āpatti                                                                                                                                                                              |   |   |   |        |
@@ -50,16 +42,7 @@ kita + ka
 | panāyasmante                                                                                                                                                                        |   |   |   |        |
 | parisuddhāti                                                                                                                                                                        |   |   |   |        |
 | vedissāmi                                                                                                                                                                           |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| MN 31<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, pānīyaṃ paribhojanīyaṃ upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti                           |   |   |   |        |
+| MN 31<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, pānīyaṃ paribhojanīyaṃ upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti |  |  |  |  |
 | idha                                                                                                                                                                                |   |   |   |        |
 | bhante                                                                                                                                                                              |   |   |   |        |
 | amhākaṃ                                                                                                                                                                             |   |   |   |        |
@@ -76,18 +59,14 @@ kita + ka
 | upaṭṭhāpeti                                                                                                                                                                         |   |   |   |        |
 | avakkārapātiṃ                                                                                                                                                                       |   |   |   |        |
 | upaṭṭhāpeti                                                                                                                                                                         |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| SN 46.53 <br>sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu                                                                                                          |   |   |   |        |
+| SN 46.53 <br>sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu |  |  |  |  |
 | sammodanīyaṃ                                                                                                                                                                        |   |   |   |        |
 | kathaṃ                                                                                                                                                                              |   |   |   |        |
 | sāraṇīyaṃ                                                                                                                                                                           |   |   |   |        |
 | vītisāretvā                                                                                                                                                                         |   |   |   |        |
 | ekamantaṃ                                                                                                                                                                           |   |   |   |        |
 | nisīdiṃsu                                                                                                                                                                           |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| DN 9.7<br>oḷārikassapi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathāpaṭipannānaṃ vo saṃkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti       |   |   |   |        |
+| DN 9.7<br>oḷārikassapi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathāpaṭipannānaṃ vo saṃkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti |  |  |  |  |
 | oḷārikassapi                                                                                                                                                                        |   |   |   |        |
 | kho                                                                                                                                                                                 |   |   |   |        |
 | ahaṃ                                                                                                                                                                                |   |   |   |        |
@@ -104,26 +83,14 @@ kita + ka
 | vodāniyā                                                                                                                                                                            |   |   |   |        |
 | dhammā                                                                                                                                                                              |   |   |   |        |
 | abhivaḍḍhissanti                                                                                                                                                                    |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| MN 131<br>ajjeva kiccamātappaṃ,<br>ko jaññā maraṇaṃ suve,                                                                                                                           |   |   |   |        |
+| MN 131<br>ajjeva kiccamātappaṃ,<br>ko jaññā maraṇaṃ suve, |  |  |  |  |
 | ajjeva                                                                                                                                                                              |   |   |   |        |
 | kiccamātappaṃ                                                                                                                                                                       |   |   |   |        |
 | ko                                                                                                                                                                                  |   |   |   |        |
 | jaññā                                                                                                                                                                               |   |   |   |        |
 | maraṇaṃ                                                                                                                                                                             |   |   |   |        |
 | suve                                                                                                                                                                                |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| DHP 316<br>alajjitāye lajjanti,<br>lajjitāye na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.                                                                      |   |   |   |        |
+| DHP 316<br>alajjitāye lajjanti,<br>lajjitāye na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ. |  |  |  |  |
 | alajjitāye                                                                                                                                                                          |   |   |   |        |
 | lajjanti                                                                                                                                                                            |   |   |   |        |
 | na                                                                                                                                                                                  |   |   |   |        |
@@ -132,12 +99,7 @@ kita + ka
 | sattā                                                                                                                                                                               |   |   |   |        |
 | gacchanti                                                                                                                                                                           |   |   |   |        |
 | duggatiṃ                                                                                                                                                                            |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| MN 35<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddhāvasittassa sakasmiṃ vijite vaso, ghātetāyaṃ vā ghātetuṃ, jāpetāyaṃ vā jāpetuṃ, pabbājetāyaṃ vā pabbājetuṃ?  |   |   |   |        |
+| MN 35<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddhāvasittassa sakasmiṃ vijite vaso, ghātetāyaṃ vā ghātetuṃ, jāpetāyaṃ vā jāpetuṃ, pabbājetāyaṃ vā pabbājetuṃ? |  |  |  |  |
 | taṃ                                                                                                                                                                                 |   |   |   |        |
 | kiṃ                                                                                                                                                                                 |   |   |   |        |
 | maññasi                                                                                                                                                                             |   |   |   |        |
@@ -158,10 +120,7 @@ kita + ka
 | pabbājetāyaṃ                                                                                                                                                                        |   |   |   |        |
 | vā                                                                                                                                                                                  |   |   |   |        |
 | pabbājetuṃ                                                                                                                                                                          |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| VIN PAT AN 1<br>nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā                                                  |   |   |   |        |
+| VIN PAT AN 1<br>nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā |  |  |  |  |
 | nisajjaṃ                                                                                                                                                                            |   |   |   |        |
 | bhikkhu                                                                                                                                                                             |   |   |   |        |
 | paṭijānamāno                                                                                                                                                                        |   |   |   |        |
@@ -175,8 +134,7 @@ kita + ka
 | vā                                                                                                                                                                                  |   |   |   |        |
 | pācittiyena                                                                                                                                                                         |   |   |   |        |
 | vā                                                                                                                                                                                  |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| SN 22.3<br>okaṃ pahāya aniketasārī,<br>gāme akubbaṃ muni santhavāni,<br>kāmehi ritto apurakkharāno,<br>kathaṃ na viggayha janena kayirāti.                                          |   |   |   |        |
+| SN 22.3<br>okaṃ pahāya aniketasārī,<br>gāme akubbaṃ muni santhavāni,<br>kāmehi ritto apurakkharāno,<br>kathaṃ na viggayha janena kayirāti. |  |  |  |  |
 | okaṃ                                                                                                                                                                                |   |   |   |        |
 | pahāya                                                                                                                                                                              |   |   |   |        |
 | aniketasārī                                                                                                                                                                         |   |   |   |        |
@@ -192,12 +150,7 @@ kita + ka
 | viggayha                                                                                                                                                                            |   |   |   |        |
 | janena                                                                                                                                                                              |   |   |   |        |
 | kayirāti                                                                                                                                                                            |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| VIN PAT SA<br>ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā                                                         |   |   |   |        |
+| VIN PAT SA<br>ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā |  |  |  |  |
 | ekenapi                                                                                                                                                                             |   |   |   |        |
 | ce                                                                                                                                                                                  |   |   |   |        |
 | ūno                                                                                                                                                                                 |   |   |   |        |
@@ -214,14 +167,7 @@ kita + ka
 | ca                                                                                                                                                                                  |   |   |   |        |
 | bhikkhū                                                                                                                                                                             |   |   |   |        |
 | gārayhā                                                                                                                                                                             |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-| VIN PAT NP 1<br>niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.                                 |   |   |   |        |
+| VIN PAT NP 1<br>niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ. |  |  |  |  |
 | niṭṭhitacīvarasmiṃ                                                                                                                                                                  |   |   |   |        |
 | bhikkhunā                                                                                                                                                                           |   |   |   |        |
 | ubbhatasmiṃ                                                                                                                                                                         |   |   |   |        |
@@ -233,23 +179,15 @@ kita + ka
 | atikkāmayato                                                                                                                                                                        |   |   |   |        |
 | nissaggiyaṃ                                                                                                                                                                         |   |   |   |        |
 | pācittiyaṃ                                                                                                                                                                          |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-|                                                                                                                                                                                     |   |   |   |        |
-
-
+***
 ## Class 27 Extra Examples
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-
-| SN 35.95<br>ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi, na ca te hoti phuseyyanti?                                      |   |   |   |   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
+***
+**SN 35.95<br>ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi, na ca te hoti phuseyyanti?**
+| | | | | |
+|---|---|---|---|---|
 | ye                                                                                                                                                     |   |   |   |   |
 | te                                                                                                                                                     |   |   |   |   |
 | kāyaviññeyyā                                                                                                                                           |   |   |   |   |
@@ -264,14 +202,7 @@ kita + ka
 | te                                                                                                                                                     |   |   |   |   |
 | hoti                                                                                                                                                   |   |   |   |   |
 | phuseyyanti                                                                                                                                            |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-| MN 43 <br>te ca hāvuso, āyusaṅkhārā abhaviṃsu te vedaniyā dhammā, nayidaṃ saññāvedayitanirodhaṃ samāpannassa bhikkhuno vuṭṭhānaṃ paññāyetha.           |   |   |   |   |
+| MN 43 <br>te ca hāvuso, āyusaṅkhārā abhaviṃsu te vedaniyā dhammā, nayidaṃ saññāvedayitanirodhaṃ samāpannassa bhikkhuno vuṭṭhānaṃ paññāyetha. |  |  |  |  |
 | te                                                                                                                                                     |   |   |   |   |
 | ca                                                                                                                                                     |   |   |   |   |
 | hāvuso                                                                                                                                                 |   |   |   |   |
@@ -286,18 +217,7 @@ kita + ka
 | bhikkhuno                                                                                                                                              |   |   |   |   |
 | vuṭṭhānaṃ                                                                                                                                              |   |   |   |   |
 | paññāyetha                                                                                                                                             |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-| VIN PAT PC 18 <br>yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.  |   |   |   |   |
+| VIN PAT PC 18 <br>yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ. |  |  |  |  |
 | yo                                                                                                                                                     |   |   |   |   |
 | pana                                                                                                                                                   |   |   |   |   |
 | bhikkhu                                                                                                                                                |   |   |   |   |
@@ -314,14 +234,7 @@ kita + ka
 | abhinipajjeyya                                                                                                                                         |   |   |   |   |
 | vā                                                                                                                                                     |   |   |   |   |
 | pācittiyaṃ                                                                                                                                             |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-| SNP 4 <br>gāthābhigītaṃ me abhojaneyyaṃ,<br>sampassataṃ brāhmaṇa nesa dhammo,<br>gāthābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vuttiresā.    |   |   |   |   |
+| SNP 4 <br>gāthābhigītaṃ me abhojaneyyaṃ,<br>sampassataṃ brāhmaṇa nesa dhammo,<br>gāthābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vuttiresā. |  |  |  |  |
 | gāthābhigītaṃ                                                                                                                                          |   |   |   |   |
 | me                                                                                                                                                     |   |   |   |   |
 | abhojaneyyaṃ                                                                                                                                           |   |   |   |   |
@@ -336,14 +249,7 @@ kita + ka
 | satī                                                                                                                                                   |   |   |   |   |
 | brāhmaṇa                                                                                                                                               |   |   |   |   |
 | vuttiresā                                                                                                                                              |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
-| SNP 42<br>diṭṭhena ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā vadānaṃ.     |   |   |   |   |
+| SNP 42<br>diṭṭhena ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā vadānaṃ. |  |  |  |  |
 | diṭṭhena                                                                                                                                               |   |   |   |   |
 | ce                                                                                                                                                     |   |   |   |   |
 | suddhi                                                                                                                                                 |   |   |   |   |
@@ -364,4 +270,4 @@ kita + ka
 | pāva                                                                                                                                                   |   |   |   |   |
 | tathā                                                                                                                                                  |   |   |   |   |
 | vadānaṃ                                                                                                                                                |   |   |   |   |
-|                                                                                                                                                        |   |   |   |   |
+***

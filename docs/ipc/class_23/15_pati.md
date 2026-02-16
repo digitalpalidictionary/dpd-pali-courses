@@ -1,5 +1,6 @@
-| pati- paṭi- (sk prati)<br>against, **back to**, return, oppositely, towards, personally, similarly, near  |             |              |                        |
-|-----------------------------------------------------------------------------------------------------------|-------------|--------------|------------------------|
+**pati- paṭi- (sk prati)<br>against, back to, return, oppositely, towards, personally, similarly, near**
+| | | | |
+|---|---|---|---|
 | √i                                                                                                        | to go       | pacceti      | returns to             |
 | √bhā                                                                                                      | to shine    | paṭibhāti    | comes to mind; occurs  |
 | √car                                                                                                      | to walk     | paṭicarati   | avoids, evades, dodges |

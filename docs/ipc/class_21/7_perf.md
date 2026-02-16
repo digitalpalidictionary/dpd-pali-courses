@@ -21,15 +21,17 @@ This is constructed by reduplicating the root, which then undergoes some morphol
 | √bhū | √bhū + bhū | babhū + a  | babhūva |
 |------|------------|------------|---------|
 ***
-| **Perfect Past Parassapada “had become; had existed”**<br>**(√bhū + bhū \> babhū)** |              |                 |
-|-------------------------------------------------------------------------------------|--------------|-----------------|
+**Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
+| | | |
+|---|---|---|
 |                                                                                     | **sg**       | **pl**          |
 | 3 paṭhama                                                                           | babhūv**a**  | babhūv**u**     |
 | 2 majjhima                                                                          | babhūv**e**  | babhūv**ittha** |
 | 1 uttama                                                                            | babhūv**aṃ** | babhūv**imha**  |
 ***
-| **Perfect Past Attanopada “had become by oneself;** <br>**had existed by oneself”**<br>**(√bhū + bhū \> babhū)** |                 |                |
-|------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
+**Perfect Past Attanopada “had become by oneself; <br>had existed by oneself”<br>(√bhū + bhū \> babhū)**
+| | | |
+|---|---|---|
 |                                                                                                                  | **sg**          | **pl**         |
 | 3 paṭhama                                                                                                        | babhūv**ittha** | babhūv**ire**  |
 | 2 majjhima                                                                                                       | babhūv**ittho** | babhūv**ivho** |

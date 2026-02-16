@@ -83,8 +83,9 @@ karo + ti \> karoti \> (he does, makes)
 ***
 These changes are very common in all areas of Pāli grammar and **worth learning by heart.**
 ***
+| | | |
+|---|---|---|
 | avuḍḍhika <br>(zero) | guṇa <br>(strengthened) | vuḍḍhi <br>(lengthened) |
-|----------------------|-------------------------|-------------------------|
 |                      | **a**                   | **ā**                   |
 | **i**                | **e / ay**              | **āy**                  |
 | **ī**                | **e / ay**              | **āy**                  |

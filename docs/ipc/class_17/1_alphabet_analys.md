@@ -6,20 +6,23 @@ Please learn the alphabetical-order, it will help you enormously with many of th
 ***
 Just to refresh your memory, there are 41 letters
 ***
-| **8 Vowels (sara)** |       |       |       |       |       |       |       |
-|---------------------|-------|-------|-------|-------|-------|-------|-------|
+**8 Vowels (sara)**
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
 | **a**               | **ā** | **i** | **ī** | **u** | **ū** | **e** | **o** |
 ***
-| **25 Consonants (vyañjana)** |        |       |        |       |
-|------------------------------|--------|-------|--------|-------|
+**25 Consonants (vyañjana)**
+| | | | | |
+|---|---|---|---|---|
 | **k**                        | **kh** | **g** | **gh** | **ṅ** |
 | **c**                        | **ch** | **j** | **jh** | **ñ** |
 | **ṭ**                        | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
 | **t**                        | **th** | **d** | **dh** | **n** |
 | **p**                        | **ph** | **b** | **bh** | **m** |
 ***
-| **8 Semi-Vowels (antaṭṭha)** |       |       |       |       |       |       |       |
-|------------------------------|-------|-------|-------|-------|-------|-------|-------|
+**8 Semi-Vowels (antaṭṭha)**
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
 | **y**                        | **r** | **l** | **v** | **s** | **h** | **ḷ** | **ṃ** |
 ***
 Let’s look at the consonants in more detail. Unlike the English alphabet, you will notice that the consonants are grouped according to the place where they are pronounced.
@@ -30,7 +33,7 @@ Let’s look at the consonants in more detail. Unlike the English alphabet, you 
 | Cerebral or Retroflex<br>(*muddhaja*) | ṭavagga | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
 | Dental<br>(*dantaja*)                 | tavagga | **t** | **th** | **d** | **dh** | **n** |
 | Labial<br>(*oṭṭhaja*)                 | pavagga | **p** | **ph** | **b** | **bh** | **m** |
-
+***
 Please make sure your tongue is in the correct place when you pronounce each letter.
 ***
 They are also grouped according to whether each letter is
@@ -47,7 +50,7 @@ They are also grouped according to whether each letter is
 | **ṭ**                      | **ṭh**                   | **ḍ**                      | **ḍh**                   | **ṇ**                    |
 | **t**                      | **th**                   | **d**                      | **dh**                   | **n**                    |
 | **p**                      | **ph**                   | **b**                      | **bh**                   | **m**                    |
-
+***
 [^3]: Please note the nasals of each group, you will need this information later on.
 ***
 In the end, we can combine the consonants into a complex table like this, which you should learn and understand.

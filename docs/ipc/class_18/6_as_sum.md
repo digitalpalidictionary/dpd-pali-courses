@@ -1,5 +1,6 @@
-| Assimilation Summary |        |                       |                  |
-|----------------------|--------|-----------------------|------------------|
+**Assimilation Summary**
+| | | | |
+|---|---|---|---|
 | kk                   | k + y  | √sa**k y**a           | sa**kk**a        |
 | kk                   | c + t  | √pa**c t**a           | pa**kk**a        |
 | kkh                  | j + s  | tijti**j s**a ti      | titi**kkh**ati   |
@@ -42,3 +43,4 @@
 | ll                   | l + y  | √**jal y**a           | ja**ll**a        |
 | ss                   | s + y  | √mu**s y**a ti        | mu**ss**ati      |
 | ḷh                   | h + t  | √mu**h t**a           | mū**ḷh**a        |
+***

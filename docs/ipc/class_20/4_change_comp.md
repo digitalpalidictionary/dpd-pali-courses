@@ -1,7 +1,8 @@
 # Changes Of Certain Words In Compounds
 
+| | | | | |
+|---|---|---|---|---|
 | aha     | day         | ahu    | tadahu        | that very day                                            |
-|---------|-------------|--------|---------------|----------------------------------------------------------|
 | akkhi   | eye         | akkha  | akkhadassa    | judge; lit. sees with eyes                               |
 | aṅguli  | finger      | aṅgula | caturaṅgula   | four fingers                                             |
 | attā    | self        | atta   | pahitatto     | resolute; lit. applied self                              |
@@ -18,5 +19,5 @@
 | saha    | with        | sa-    | sadevako      | with gods                                                |
 | saka    | one’s own   | sa     | samātar       | own mother                                               |
 | saka    | one’s own   | saya   | sayasaṃvuta   | enclosed in one’s own opinion; lit. wrapped in one's own |
-
+***
 [^9]: Not a textual example

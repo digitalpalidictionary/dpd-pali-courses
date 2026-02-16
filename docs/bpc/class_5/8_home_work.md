@@ -11,8 +11,10 @@
 
 ### Extra Reading
 
+| | |
+|---|---|
 | A.K. Warder Introduction to Pāli                                | p54-55 (future tense)     |
-|-----------------------------------------------------------------|---------------------------|
 | V. Perniola<br>Pāli Grammar                                     | p87-90 (future tense)     |
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p162 – 163 (future tense) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters    |
+***

@@ -42,7 +42,7 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 | √har    | + ituṃ | harituṃ    | to carry     |
 | √han    | + ituṃ | hanituṃ    | to kill      |
 | √pucch  | + ituṃ | pucchituṃ  | to ask       |
-
+***
 #### 3. base + -ituṃ
 ***
 Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
@@ -81,8 +81,9 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 ***
 ### More words which always take an infinitive
 
+| | | |
+|---|---|---|
 | alaṃ          | ind | it is suitable (to) ; one is able (to) |
-|---------------|-----|----------------------------------------|
 | atippago      | adv | too early (to)                         |
 | jegucchī      | m   | who disgusted (to)                     |
 | icchati       | pr  | wishes (for); desires (to)             |
@@ -99,7 +100,7 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 | vaṭṭati       | pr  | it is suitable (to), it is right (to)  |
 | anucchavika   | adj | suitable (to), proper (to)             |
 | kāmatā        | f   | desire (to), longing (to), wish (to)   |
-
+***
 [^23]: Words from here onwards are present mostly in later literature
 
 Some other words can also occasionally take +inf.
@@ -110,8 +111,9 @@ Pāli prose is usually very consistent in the usage of infinitives.
 
 Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”
 ***
+| | | |
+|---|---|---|
 | aññātuṃ + kāmo      | aññāt**u**kāmo   | wanting to know    |
-|---------------------|------------------|--------------------|
 | na + marituṃ + kāmo | amarit**u**kāmo  | not wanting to die |
 | gantuṃ + kāmo       | gant**u**kāmo    | wanting to go      |
 | codetuṃ + kāmo      | codet**u**kāmo   | wanting to accuse  |

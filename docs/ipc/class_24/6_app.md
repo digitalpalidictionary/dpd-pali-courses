@@ -35,7 +35,7 @@ base + āvī \> app
 | √bhuj | bhuñjati   | bhut**tāvī**     | has eaten                |
 | √ji   | vijināti   | viji**tāvī**     | has conquered            |
 | √i    | abhisameti | abhisame**tāvī** | has realized             |
-
+***
 ### How to Decline Active Past Participle
 
 Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, in **feminine** like **nadī** and the **neuter** like **aṭṭhi**
@@ -49,8 +49,7 @@ Active Past Participles are declined in all three genders. They are very regular
 | abl   | dass**āvinā**<br>dass**āvismā** dass**āvimhā** | dass**āvihi**<br>dass**āvīhi**   | dass**āviniyā**                  | dass**āvinīhi**  | dass**āvinā** dass**āvito** dass**āvismā** dass**āvimhā** | dass**āvihi** dass**āvīhi**   |
 | gen   | dass**āvino**                                  | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā**                  | dass**āvinīnaṃ** | dass**āvino** dass**āvissa**                              | dass**āvinaṃ** dass**āvīnaṃ** |
 | loc   | dass**āvini** dass**āvismiṃ** dass**āvimhi**   | dass**āvisu**<br>dass**āvīsu**   | dass**āviniyā** dass**āviniyaṃ** | dass**āvinīsu**  | dass**āvismiṃ** dass**āvimhi**                            | dass**āvisu** dass**āvīsu**   |
-|       |                                                |                                  |                                  |                  |                                                           |                               |
-
+***
 Please translate and highlight the syntax of the following:
 
 SN 3.13 doṇapākasuttaṃ

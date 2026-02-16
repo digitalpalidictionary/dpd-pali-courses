@@ -12,9 +12,9 @@ In Kaccāyana this is called (28) **para-dvebhāvo ṭhāne**
 ***
 and (26) **rassaṃ**.
 ***
-| **long vowel + consonant** |             |                |                          |
-|----------------------------|-------------|----------------|--------------------------|
-|                            |             |                |                          |
+**long vowel + consonant**
+| | | | |
+|---|---|---|---|
 | **ā**                      | **k**osa    | **akk**osa     | m. insult                |
 | **ā**                      | **kh**āyati | **akkh**āyati  | pr. is said to be        |
 | samm**ā**                  | **g**ata    | samm**agg**ata | adj. gone correctly      |

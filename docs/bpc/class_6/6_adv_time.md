@@ -6,8 +6,9 @@ Adverbs of time describe **when** the action is done.
 ***
 They often come **first** in the sentence.
 ***
+| | |
+|---|---|
 | pubbe     | before, previously                       |
-|-----------|------------------------------------------|
 | āyatiṃ    | in future                                |
 | dāni      | now                                      |
 | idāni     | now                                      |

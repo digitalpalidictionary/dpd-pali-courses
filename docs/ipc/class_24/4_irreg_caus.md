@@ -37,3 +37,4 @@
 | √vij  | to shake     | \*e   | beje     | ubbejetar      | agitator               |
 | √vīj  | to fan       | \*aya | bījaya   | bījayamāna     | fanning                |
 | √yat  | to arrange   | \*āpe | yādāpe   | paṭiyādāpetvā  | having organised       |
+***

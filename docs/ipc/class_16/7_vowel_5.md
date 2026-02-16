@@ -26,50 +26,47 @@ together they become **e**
 ***
 In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 ***
-| **a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)i \> e** |             |                          |
-|------------------------------------------------------------|-------------|--------------------------|
-|                                                            |             |                          |
+**a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)i \> e**
+| | | |
+|---|---|---|
 | up**a**                                                    | **i**kkhati | up**e**kkhati            |
 | towards, over                                              | looks       | looks over               |
-|                                                            |             |                          |
 | aññass**a**                                                | **i**va     | aññass**e**va            |
 | of another                                                 | like        | like of another (person) |
 ***
-| **a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ī \> e** |             |                   |
-|------------------------------------------------------------|-------------|-------------------|
-|                                                            |             |                   |
+**a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ī \> e**
+| | | |
+|---|---|---|
 | s**a**                                                     | **√ī**r + ī | s**e**rī          |
 | (with)                                                     | to move     | independent; free |
 ***
-| **ā![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ī \> e** |         |            |
-|------------------------------------------------------------|---------|------------|
+**ā![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ī \> e**
+| | | |
+|---|---|---|
 | mah**ā**                                                   | **ī**sī | mah**e**sī |
 | great                                                      | sage    | great sage |
-
-| **a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> o** |             |                        |
-|------------------------------------------------------------|-------------|------------------------|
-|                                                            |             |                        |
+***
+**a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> o**
+| | | |
+|---|---|---|
 | pād**a**                                                   | **u**daka   | pād**o**daka           |
 | foot                                                       | water       | water for washing feet |
-|                                                            |             |                        |
 | n**a**                                                     | **u**peti   | n**o**peti             |
 | not                                                        | approach    | does not approach      |
-|                                                            |             |                        |
 | c**a**                                                     | **u**ggate  | c**o**ggate            |
 | and                                                        | in risen up | and when risen up      |
 ***
-| **a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ū \> o** |         |                 |
-|------------------------------------------------------------|---------|-----------------|
-|                                                            |         |                 |
+**a![](media/600cdd2c0fa42269d4d2097fe97305d7.png)ū \> o**
+| | | |
+|---|---|---|
 | udak**a**                                                  | **ū**mi | udak**o**mi[^1] |
 | water                                                      | wave    | wave of water   |
-|                                                            |         |                 |
-
+***
 [^1]: not textual example
 ***
-| **i![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> o** |                |                       |
-|------------------------------------------------------------|----------------|-----------------------|
-|                                                            |                |                       |
+**i![](media/600cdd2c0fa42269d4d2097fe97305d7.png)u \> o**
+| | | |
+|---|---|---|
 | v**i**                                                     | **u**cchijjati | v**o**cchijjati       |
 | (very)                                                     | is cut up      | is completely cut off |
 ***

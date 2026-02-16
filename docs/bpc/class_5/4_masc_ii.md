@@ -6,8 +6,9 @@ This is identical to the **-in** ending in Sanskrit. In the PED dictionary, you 
 ***
 Many of these agent nouns can also be used as adjectives.
 ***
+| | | | | |
+|---|---|---|---|---|
 | hattha   | hand       | hatthī   | has a hand      | elephant          |
-|----------|------------|----------|-----------------|-------------------|
 | bhoga    | wealth     | bhogī    | has wealth      | wealthy person    |
 | bhoga    | pleasure   | bhogī    | has pleasure    | one who enjoys    |
 | sukha    | ease       | sukhī    | has ease        | happy one         |
@@ -24,8 +25,9 @@ Many of these agent nouns can also be used as adjectives.
 | macchara | stinginess | maccharī | has stinginess  | who is a stingy   |
 | ottappa  | regret     | ottappī  | has regret      | who conscientious |
 ***
-| Declension of -ī masc |                                                   |                              |
-|-----------------------|---------------------------------------------------|------------------------------|
+**Declension of -ī masc**
+| | | |
+|---|---|---|
 | 1. nom                | pakkh**ī**                                        | pakkh**ī** <br>pakkh**ino**  |
 | 2. acc                | pakkh**inaṃ** <br>pakkh**iṃ**                     | pakkh**ī** <br>pakkh**ino**  |
 | 3. instr              | pakkh**inā**                                      | pakkh**īhi**                 |
@@ -34,3 +36,4 @@ Many of these agent nouns can also be used as adjectives.
 | 6. gen                | pakkh**ino** <br>pakkh**issa**                    | pakkh**īnaṃ**                |
 | 7. loc                | pakkh**ini** <br>pakkh**imhi** <br>pakkh**ismiṃ** | pakkh**īsu**                 |
 | 8. voc                | pakkh**ī**                                        | pakkh**ī** <br>pakkh**ino**  |
+***

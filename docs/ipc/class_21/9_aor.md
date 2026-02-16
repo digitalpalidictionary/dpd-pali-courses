@@ -18,15 +18,17 @@ Let’s look at the present tense **reflexive** **voice** and **passive voice**.
 ***
 (Theory) How is the reflexive formed? How is the passive formed?
 ***
-| **Aorist Attanopada “gave by oneself”**<br>**√dā + dā + a \> dadā** |             |               |
-|---------------------------------------------------------------------|-------------|---------------|
+**Aorist Attanopada “gave by oneself”<br>√dā + dā + a \> dadā**
+| | | |
+|---|---|---|
 |                                                                     | **s**       | **pl**        |
 | 3 paṭhama                                                           | adad**ā**   | adad**ū**     |
 | 2 majjhima                                                          | adad**ise** | adad**ivhaṃ** |
 | 1 uttama                                                            | adad**aṃ**  | adad**imhe**  |
 ***
-| **Aorist Passive Attanopada “was cut** (by oneself)**”**<br>**√chid + ya \> chijja** |              |                |
-|--------------------------------------------------------------------------------------|--------------|----------------|
+**Aorist Passive Attanopada “was cut (by oneself)”<br>√chid + ya \> chijja**
+| | | |
+|---|---|---|
 |                                                                                      | **s**        | **pl**         |
 | 3 paṭhama                                                                            | chijj**ā**   | chijj**ū**     |
 | 2 majjhima                                                                           | chijj**ise** | chijj**ivhaṃ** |

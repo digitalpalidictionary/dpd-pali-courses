@@ -44,8 +44,7 @@ Passive Base + Verbal Ending \> Passive Verb
 | √ñā    | to know  | ya | ñāya    | ñāyati    | is known   |
 | √rup   | to break | ya | ruppa   | ruppati   | is broken  |
 | √vad   | to speak | ya | vajja   | vajjati   | is played  |
-
-
+***
 ### Root + iya
 ***
 | √dhar+ \*e | to carry   | iya | dh**ā**riya | dhāriyati[^20] | is carried    |
@@ -53,7 +52,7 @@ Passive Base + Verbal Ending \> Passive Verb
 | √pūj       | to honour  | iya | pūjiya      | pūjiyati       | is worshipped |
 | √cud       | to accuse  | iya | c**o**diya  | codiyati       | is accused    |
 | √add       | to afflict | iya | a**ṭṭ**iya  | aṭṭiyati       | is troubled   |
-
+***
 [^20]: These bases mostly exist in participle forms.
 
 
@@ -69,10 +68,12 @@ Passive Base + Verbal Ending \> Passive Verb
 ***
 Please remember that these passive bases apply to all forms of the verb and even nouns.
 
+| | | |
+|---|---|---|
 | pr  | vi**mucc**ati    | is freed     |
-|-----|------------------|--------------|
 | aor | vi**mucc**i      | was freed    |
 | fut | vi**mucc**issati | will be free |
 | prp | vi**mucc**amāna  | being freed  |
 | pp  | vi**mucc**ita    | freed        |
 | nt  | vi**mucc**ana    | release      |
+***

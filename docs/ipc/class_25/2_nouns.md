@@ -2,8 +2,9 @@
 ***
 1.  **concrete nouns** describe physical things related to the root, something you can perceive with at least one of your five senses.
 ***
-| **concrete nouns** |         |       |       |       |
-|--------------------|---------|-------|-------|-------|
+**concrete nouns**
+| | | | | |
+|---|---|---|---|---|
 | √nad               | to roar | + ī   | nadī  | river |
 | √akkh              | to see  | + i   | akkhi | eye   |
 | √añc               | to bend | + a   | aṅka  | lap   |
@@ -12,8 +13,9 @@
 ***
 2.  **process / action noun** is the action of doing the root, often translating with -ing
 ***
-| **action nouns** |                  |         |            |            |
-|------------------|------------------|---------|------------|------------|
+**action nouns**
+| | | | | |
+|---|---|---|---|---|
 | pa + √vatt       | to be, proceed   | + a     | pavattana  | happening  |
 | √bhar            | to support       | + aṇa   | bharaṇa    | supporting |
 | √cud             | to impel, accuse | + \*anā | c**o**danā | prompting  |
@@ -21,8 +23,9 @@
 ***
 3.  **abstract noun** is a concept derived from the root
 ***
-| **abstract nouns** |                      |       |        |            |
-|--------------------|----------------------|-------|--------|------------|
+**abstract nouns**
+| | | | | |
+|---|---|---|---|---|
 | √sad               | to sink, sit, settle | + \*a | pasāda | brightness |
 | √day               | to take pity         | + ā   | dayā   | compassion |
 | √iss               | to be envious        | + ā   | issā   | jealousy   |
@@ -32,8 +35,9 @@
 ***
 4.  **agent noun** is a person who does the action described in the root
 ***
-| **agent nouns** |              |         |         |                    |
-|-----------------|--------------|---------|---------|--------------------|
+**agent nouns**
+| | | | | |
+|---|---|---|---|---|
 | √mar            | to die       | + \*a   | māra    | death              |
 | √gaṇ            | to calculate | + aka   | gaṇaka  | accountant         |
 | √su             | to hear      | + \*aka | sāvaka  | pupil; lit. hearer |

@@ -14,8 +14,9 @@ Where have you come across this kind of construction before ?
 ***
 In the future, you might come across all the following constructions:
 ***
+| | |
+|---|---|
 | nominative singular   | yo so         |
-|-----------------------|---------------|
 | nominative plural     | yāni tāni     |
 | accusative singular   | yaṃ taṃ       |
 | instrumental singular | yena tena     |
@@ -25,3 +26,4 @@ In the future, you might come across all the following constructions:
 | ablative singular     | yasmā tasmā   |
 | locative singular     | yasmiṃ tasmiṃ |
 | locative plural       | yesu tesu     |
+***

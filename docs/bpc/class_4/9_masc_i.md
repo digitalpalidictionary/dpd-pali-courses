@@ -2,8 +2,9 @@
 
 There are about **400** of these nouns in the DPD[^12].
 
-| Declension of -i masc |                                                   |                              |
-|-----------------------|---------------------------------------------------|------------------------------|
+**Declension of -i masc**
+| | | |
+|---|---|---|
 | 1. Nominative               | agg**i**                           | agg**ī** agg**ayo**      |
 | 2. Accusative               | agg**iṃ**                          | agg**ī** agg**ayo**      |
 | 3. Instrumental             | agg**inā**                         | agg**īhi**               |

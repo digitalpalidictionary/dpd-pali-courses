@@ -60,8 +60,7 @@ agrees in case only
 | 5.abl   | dv**īhi**        |
 | 6.gen   | dv**innaṃ**      |
 | 7.loc   | dv**īsu**        |
-
-
+***
 ### ti “three”
 ***
 three genders, plural
@@ -77,8 +76,7 @@ agrees in gender and case
 | 5.abl   | t**īhi**                     | t**īhi**      | t**īhi**                     |
 | 6.gen   | t**iṇṇaṃ** <br>**tiṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ** <br>t**iṇṇannaṃ** |
 | 7.loc   | t**īsu**                     | t**īsu**      | t**īsu**                     |
-
-
+***
 ### catu “four”
 ***
 three genders & plural
@@ -94,8 +92,7 @@ agrees in gender and case
 | 5.abl   | cat**ūhi**                 | cat**ūhi**               | cat**ūhi**               |
 | 6.gen   | cat**unnaṃ**               | cat**assannaṃ**          | cat**unnaṃ**             |
 | 7.loc   | cat**usu**<br>cat**ūsu**   | cat**usu**<br>cat**ūsu** | cat**usu**<br>cat**ūsu** |
-
-
+***
 ### pañca “five”
 ***
 no gender, plural
@@ -110,8 +107,7 @@ agrees in case only
 | 5.abl   | pañc**ahi**   |
 | 6.gen   | pañc**annaṃ** |
 | 7.loc   | pañc**asu**   |
-
-
+***
 ### cha “six” to aṭṭharasa “eighteen”
 ***
 same as *pañca*. no gender, plural. agrees in case only
@@ -130,15 +126,7 @@ same as *pañca*. no gender, plural. agrees in case only
 | 16 | soḷasa                           |
 | 17 | sattarasa                        |
 | 18 | aṭṭhārasa                        |
-
-
-
-
-
-
-
-
-
+***
 ### ekūnavīsati “19” to aṭṭhanavuti “98”
 ***
 (one less than twenty)
@@ -175,9 +163,7 @@ agrees in case and number
 | 5.abl   | sat**ā** <br>sat**amhā**<br>sat**asmā** | sat**ehi**          |
 | 6.gen   | sat**assa**                             | sat**ānaṃ**         |
 | 7.loc   | sat**e**<br>sat**amhi**<br>sat**asmiṃ** | sat**esu**          |
-
-
-
+***
 ### koṭi “10 000 000”
 ***
 feminine singular, sometimes plural
@@ -192,9 +178,7 @@ agrees in case only
 | 5.abl   | koṭ**iyā**                 | koṭ**īhi**               |
 | 6.gen   | koṭ**iyā**                 | koṭ**īnaṃ**              |
 | 7.loc   | koṭ**iyā** <br>koṭi**yaṃ** | koṭ**īsu**               |
-
-
-
+***
 ### Summary of numbers gender and numbers
 
 |                       | **Gender** | **Number** |           |          |         |
@@ -208,7 +192,7 @@ agrees in case only
 | 19 - 98               |            | ✔          |           | ✔        |         |
 | 99 - 9 999 998        |            |            | ✔         | ✔        | ✔       |
 | 9 999 999 - 10 000000 |            | ✔          |           | ✔        | (✔)     |
-
+***
 These are the only numbers encountered in the Tipiṭaka that have been *actually* covered by DPD so far.
 ***
 | 1          | eka                                      |
@@ -256,8 +240,9 @@ In summary learn declensions 1, 2, 3, 4, 5, 20, 100
 ***
 That, of course, excludes all the “amazing” numbers which you’ll come across in some parts of the Tipiṭaka
 ***
+| | | |
+|---|---|---|
 | pakoṭi     | 1014 | 1 00 000 000 000 000                                                                                    |
-|------------|------|---------------------------------------------------------------------------------------------------------|
 | akkhobhinī | 1042 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000                                               |
 | abbuda     | 1056 | 1 00 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000                            |
 | nirabbuda  | 1063 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000                   |

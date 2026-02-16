@@ -91,8 +91,7 @@ DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapa
 | √kam  | to desire   | kāmaya | kāmay**āna** | desiring     |
 | √sī   | to lie down | saya   | say**āna**   | lying down   |
 | √vad  | to speak    | vada   | vad**āna**   | saying       |
-
-
+***
 ### Declension of present participles
 ***
 Present participles are declined in all 3 genders to agree with nouns in all three genders.
@@ -126,7 +125,7 @@ What do you notice?
 | 6.gen  | gaccha**mānāya**                   | gaccha**mānānaṃ**                    |
 | 7.loc  | gaccha**mānāyaṃ** gaccha**mānāya** | gaccha**mānāsu**                     |
 | 8.voc  | gaccha**māne**                     | gaccha**mānā** <br>gaccha**mānāyo**  |
-
+***
 **Neuter ending in -māna** (like cittaṃ)
 ***
 | 1.nom  | gaccha**mānaṃ**                                          | gaccha**mānā** <br>gaccha**mānāni**  |
@@ -150,7 +149,7 @@ What do you notice?
 | 6.gen  | gacch**ato** <br>gacch**antassa**                        | gacch**ataṃ**<br>gacch**antānaṃ**  |
 | 7.loc  | gacch**ante** <br>gacch**antamhi** <br>gacch**antasmiṃ** | gacch**antesu**                    |
 | 8.voc  | gacch**aṃ** <br>gacch**a**<br>gacch**ā**                 | gacch**anto** <br>gacch**antā**    |
-
+***
 **Feminine ending in -ntī** (like nadī)
 ***
 | 1.nom  | gaccha**ntī**                        | gaccha**ntī** <br>gaccha**ntiyo**  |

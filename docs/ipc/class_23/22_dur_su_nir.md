@@ -2,8 +2,9 @@
 ***
 Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**
 ***
-| dur- <br>**bad, difficult**, unwholesome, negative, poor, ill, mean |              |            |                      |
-|---------------------------------------------------------------------|--------------|------------|----------------------|
+**dur- <br>bad, difficult, unwholesome, negative, poor, ill, mean**
+| | | | |
+|---|---|---|---|
 | √man                                                                | to think     | domanassa  | mental suffering     |
 | √vac                                                                | to speak     | dubbacana  | harsh words, abuse   |
 | √bal                                                                | to be strong | dubbala    | frail, weak, feeble  |
@@ -16,8 +17,9 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dis                                                                | to see       | duddasa    | difficult to see     |
 | √gam                                                                | to go        | duggati    | hell, bad place      |
 ***
-| su- <br>**good**, well, thoroughly, **easily**, auspiciously, abundance |            |           |                      |
-|-------------------------------------------------------------------------|------------|-----------|----------------------|
+**su- <br>good, well, thoroughly, easily, auspiciously, abundance**
+| | | | |
+|---|---|---|---|
 | √man                                                                    | to think   | somanassa | happiness, good mind |
 | √bhar                                                                   | to support | subhara   | easy to support      |
 | √bhās                                                                   | to speak   | subhāsita | well spoken          |
@@ -26,8 +28,9 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dam                                                                    | to tame    | sudanta   | well tamed           |
 | √dis                                                                    | to see     | sudiṭṭha  | well-seen            |
 ***
-| nir-<br>not, without, no, negative |              |           |                       |
-|------------------------------------|--------------|-----------|-----------------------|
+**nir-<br>not, without, no, negative**
+| | | | |
+|---|---|---|---|
 | √van                               | to desire    | nibbana   | without craving       |
 | √chā                               | to be hungry | nicchāta  | satisfied, not hungry |
 | √dar                               | to fear      | niddara   | carefree, fearless    |
@@ -35,9 +38,10 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √kaṅkh                             | to doubt     | nikkaṅkha | doubtless, confident  |
 | √mal                               | to stain     | nimmala   | spotless              |
 | √pī                                | to love      | nippītika | without delight       |
-
-| kā- kad- ku<br>bad, negative, small, mean |           |               |                       |
-|-------------------------------------------|-----------|---------------|-----------------------|
+***
+**kā- kad- ku<br>bad, negative, small, mean**
+| | | | |
+|---|---|---|---|
 | kā                                        | lavaṇa    | kālavaṇa[^18] | pinch of salt         |
 | kā                                        | purisa    | kāpurisa      | evil man              |
 | kad                                       | ariya     | kadariya      | miserly, stingy       |
@@ -48,14 +52,16 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | ku                                        | magga     | kummagga      | wrong road, bad way   |
 | ku                                        | nadī      | kunnadī       | small stream          |
 | ku                                        | sobbha    | kusobbha      | small pool            |
-
+***
 [^18]: Not a textual example
 
 [^19]: Not a textual example
 
-| sa-<br>with, having, affected with |          |           |                             |
-|------------------------------------|----------|-----------|-----------------------------|
+**sa-<br>with, having, affected with**
+| | | | |
+|---|---|---|---|
 | bhaya                              | fear     | sabhaya   | dangerous                   |
 | kaṇṭaka                            | thorn    | sakaṇṭaka | problematic; with thorns    |
 | bala                               | strength | sabala    | with strength; having power |
 | dukkha                             | pain     | sadukkha  | afflicted; with pain        |
+***

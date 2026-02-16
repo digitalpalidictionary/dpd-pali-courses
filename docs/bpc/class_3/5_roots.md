@@ -64,6 +64,6 @@ These roots are grouped together because the verbs derived from them have simila
 | 6      | ṇhā                                                | √gah (grasp) + ṇhā \> gaṇhā<br>gaṇhā + ti \> gaṇhāti (he grabs)                                                                            |
 | 7      | o                                                  | √kar (do, make) + o \> karo<br>karo + ti \> karoti (he does, makes)                                                                        |
 | 8      | e, aya                                             | √cur (steal) + e \> c**o**re<br>core + ti \> coreti (he steals)<br>√cur (steal) + aya \> c**o**raya<br>coraya + ti \> corayati (he steals) |
-
+***
 [^8]: less common
 ***

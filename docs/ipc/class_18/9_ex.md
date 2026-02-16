@@ -1,8 +1,9 @@
 **Please construct and deconstruct:**
 
 
+| | |
+|---|---|
 | na + anu + √vad + ya    | ananuvajja      |
-|-------------------------|-----------------|
 | visujjhati              | vi √sudh ya ti  |
 | √raj + ta               | ratta           |
 | atta                    | √ādā + ta       |
@@ -20,3 +21,4 @@
 | uddhata                 | ud √dhar ta     |
 | ava + √nadh + ta        | onaddha         |
 | bhattar                 | √bhar tar       |
+***

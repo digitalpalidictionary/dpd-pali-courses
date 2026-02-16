@@ -14,8 +14,9 @@
 ***
 ### Extra Reading
 
+| | |
+|---|---|
 | V. Perniola<br>Pāli Grammar                                     | p122 – 126 (past gerund) |
-|-----------------------------------------------------------------|--------------------------|
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p105 - 110 (the gerund)  |
 | A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters   |
 ***

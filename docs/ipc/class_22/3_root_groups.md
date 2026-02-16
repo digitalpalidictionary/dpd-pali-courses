@@ -61,7 +61,7 @@ These roots **end in i ī u ū** and, when they take the conjugational sign **-a
 | √nī  | a | n**aya**  | nayati    | leads      |
 | √bhī | a | bh**āya** | bhāyati   | fears      |
 | √cu  | a | c**ava**  | cavati    | falls away |
-
+***
 **Group 1.4**
 ***
 These roots undergo reduplication to form the base.
@@ -86,8 +86,7 @@ These roots undergo reduplication to form the base.
 | √sic  | ṃa | siñca  | siñcati  | pours, sprinkles  |
 | √ric  | ṃa | riñca  | riñcati  | empties, abandons |
 | √vid  | ṃa | vinda  | vindati  | feels, likes      |
-
-
+***
 ### 3. divādigaṇa (-ya-)
 
 | √pad  | ya | pajja     | pajjati     | goes on              |
@@ -103,9 +102,7 @@ These roots undergo reduplication to form the base.
 | √raj  | ya | rajja     | rajjati     | is attached, desires |
 | √hā   | ya | hāya      | hāyati      | diminishes, dwindles |
 | √saj  | ya | sajja     | sajjati     | clings, is attached  |
-
-
-
+***
 ### 4. svādigaṇa (-ṇu- -ṇā- -uṇā-)
 ***
 | √su  | ṇā  | suṇā  | suṇāti   | hears   |
@@ -127,7 +124,7 @@ As you can see, these are quite rare.
 | √pu  | nā | punā  | punāti   | cleans, sifts     |
 | √thu | nā | thunā | thunāti  | praises, worships |
 | √lu  | nā | lunā  | lunāti   | cuts grass, reaps |
-
+***
 ### 6. gahādigaṇa (-ṇhā-)
 
 | √gah | ṇhā | gaṇhā   | gaṇhāti   | grabs   |
@@ -155,3 +152,4 @@ As you can see, these are quite rare.
 | √cit  | e | cete  | ceteti      | thinks               |
 | √lok  | e | loke  | oloketi     | looks at; looks down |
 | √mant | e | mante | manteti     | counsels, addresses  |
+***

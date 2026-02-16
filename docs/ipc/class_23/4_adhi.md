@@ -1,5 +1,6 @@
-| adhi- ajjh-<br>**over**, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside |             |              |                          |
-|------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------|
+**adhi- ajjh-<br>over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside**
+| | | | |
+|---|---|---|---|
 | √gam                                                                                                                         | to go       | adhigacchati | attains, gets, discovers |
 | √gah                                                                                                                         | to grasp    | adhiggaṇhāti | possesses, owns          |
 | √muc                                                                                                                         | to free     | adhimuccati  | is intent on, fixes on   |
@@ -8,3 +9,4 @@
 | √vas                                                                                                                         | to live     | adhivāsayati | endures, tolerates       |
 | √is                                                                                                                          | to wish     | ajjhesati    | requests, invites        |
 | atta                                                                                                                         | self        | ajjhattam    | internally               |
+***

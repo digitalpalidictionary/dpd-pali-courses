@@ -11,7 +11,8 @@
 
 ### Extra Reading
 
+| | |
+|---|---|
 | Duroiselle | samāsa |
-|------------|--------|
 | Perniola   | samāsa |
 ***

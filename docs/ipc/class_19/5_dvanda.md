@@ -26,16 +26,16 @@ samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
 ***
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
 ***
+| | | |
+|---|---|---|
 | devamanussā   | devā ca manussā ca    | gods and men               |
-|---------------|-----------------------|----------------------------|
 | ajeḷakā       | ajā ca eḷakā ca       | goats and sheep            |
 | kukkuṭasūkarā | kukkuṭā ca sūkarā ca  | chickens and pigs          |
 | mittāmaccā    | mittā ca amaccā ca    | friends and colleagues     |
 | ñātimittā     | ñātayo ca mittā ca    | family and friends         |
 | ñātisālohitā  | ñātayo ca sālohitā ca | family and blood-relatives |
 | soṇasiṅgālā   | soṇā ca siṅgālā ca    | dogs and jackals           |
-
-
+***
 ### samāhāra-dvanda-samāsa
 
 (collective twin compound)
@@ -46,8 +46,9 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 ***
 “grass, timber, branches, and leaves”
 ***
+| | |
+|---|---|
 | ahorattaṃ              | day and night                      |
-|------------------------|------------------------------------|
 | anayabyasanaṃ          | misfortune and disaster            |
 | bhattavetanaṃ          | food and wages                     |
 | dukkhadomanassaṃ       | pain and stress                    |

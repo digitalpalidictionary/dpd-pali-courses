@@ -2,8 +2,9 @@
 
 The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensively used in the Tipiṭaka.
 ***
-| 1st person ahaṃ |                           |                      |
-|-----------------|---------------------------|----------------------|
+**1st person ahaṃ**
+| | | |
+|---|---|---|
 |                 | **singular “I”**          | **plural “We”**      |
 | 1. Nominative   | ahaṃ                      | mayaṃ amhe           |
 | 2. Accusative   | maṃ mamaṃ **me**          | amhe amhākaṃ **no**  |
@@ -13,7 +14,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | 6. Genitive     | mama mayhaṃ mamaṃ **me**  | amhaṃ amhākaṃ **no** |
 | 7. Locative     | mayi                      | amhesu               |
 | 8. Vocative     | -                         | -                    |
-
+***
 **Frequency[^14]**
 
 [^14]: In the mūla part of the 4 Nikāyas
@@ -30,9 +31,10 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | mayaṃ    | we                                                     | **957**                     |
 | amhākaṃ  | us, for us, our                                        | 213                         |
 | **no**   | **us, by us, for us, our** <br>(no, isn't it?, indeed) | **3591**<br>(Including ind) |
-
-| 2nd person tvaṃ |                        |                        |
-|-----------------|------------------------|------------------------|
+***
+**2nd person tvaṃ**
+| | | |
+|---|---|---|
 |                 | singular “you”         | plural “you all”       |
 | 1. Nominative   | tvaṃ tuvaṃ             | tumhe                  |
 | 2. Accusative   | taṃ tuvaṃ tavaṃ **te** | tumhe tumhākaṃ **vo**  |
@@ -46,8 +48,9 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 [^15]: In the mūla part of the 4 Nikāyas
 
+| | | |
+|---|---|---|
 | tvaṃ     | you                                          | **16207**                    |
-|----------|----------------------------------------------|------------------------------|
 | **taṃ**  | **you,** <br>(that)                          | **6995** <br>(Including 3rd) |
 | tuvaṃ    | you                                          | 32                           |
 | tayā     | by you, from you                             | 44                           |

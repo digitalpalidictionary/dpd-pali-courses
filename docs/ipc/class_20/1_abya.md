@@ -33,8 +33,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **yathā**  | like, as  | **kamma**   | action   | **yathākammaṃ**   | adv | according to one’s actions      |
 | **yathā**  | like, as  | **bhūta**   | become   | **yathābhūtaṃ**   | adv | as it is, lit. as it has become |
 | **yāva**   | as far as | **tatiya**  | third    | **yāvatatiyaṃ**   | adv | up to the third time            |
-
-
+***
 ### Sometimes the original case ending is maintained
 ***
 | **pura**   | before    | **aruṇā**   | from dawn     | **purāruṇā**    | adv[^7] | before dawn                   |
@@ -42,13 +41,14 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **ajja**   | today     | **aṇho**    | day           | **ajjaṇho**     | adv     | this day                      |
 | **anu**    | following | **pubbena** | with previous | **anupubbena**  | adv     | gradually                     |
 | **antarā** | between   | **magge**   | on road       | **antarāmagge** | adv     | along the road,<br>on the way |
-
+***
 [^7]: some grammatical books take them just as adjectives used adverbially in context
 ***
 ## Some prefixes and indeclinables used in abyayībhāva compounds
 ***
+| | |
+|---|---|
 | abhi-    | very, high, most         |
-|----------|--------------------------|
 | adhi-    | up, towards              |
 | ajja     | today                    |
 | antarā   | inside, in-between       |

@@ -67,9 +67,7 @@ what do you notice about these words?
 |------|-----------|------------------|----------------------------|
 | √muh | + \*anīya | moh**anīya**     | to be deluded              |
 | √vid | + \*anīya | ved**anīya**     | to be felt                 |
-
-
-
+***
 ### anīya (ptp) \~73
 
 | √gam  | + anīya | gam**anīya**  | to be gone    |
@@ -77,26 +75,21 @@ what do you notice about these words?
 | √pā   | + anīya | p**ānīya**    | to be drunk   |
 | √vac  | + anīya | vac**anīya**  | to be said    |
 | √vajj | + anīya | vajj**anīya** | to be avoided |
-
-
-
+***
 ### \*aniya (ptp) \~3
 
 | √vid  | + \*aniya | ved**aniya**     | to be felt            |
 |-------|-----------|------------------|-----------------------|
 | √ghaṭ | + \*aniya | saṅghāt**aniya** | to be joined together |
 | √bhaj | + \*aniya | bhāj**aniya**    | to be divided         |
-
-
+***
 ### aniya (ptp) \~25
 
 | √ādā | + aniya | upād**āniya** | to be grasped  |
 |------|---------|---------------|----------------|
 | √pūj | + aniya | pūj**aniya**  | to be honoured |
 | √ṭhā | + aniya | ṭh**āniya**   | to be stood    |
-
-
-
+***
 ### aṇīya (ptp) \~28
 
 | √kar | + anīya | kar**aṇīya** | to be done    |
@@ -104,9 +97,7 @@ what do you notice about these words?
 | √ram | + anīya | ram**aṇīya** | to be enjoyed |
 | √tar | + aṇīya | tar**aṇīya** | to be crossed |
 | √raj | + aṇīya | sār**aṇīya** | to be desired |
-
-
-
+***
 ### aṇiya (ptp) \~2
 
 | √mar | + aṇiya | mār**aṇiya**    | to be killed  |
@@ -167,3 +158,4 @@ after roots ending in vowels, \***ya** become **eyya**
 |-------------|------------|-----------------|--------------------------|
 | √ghaṭ + \*e | + tāya     | ghāte**tāya**   | to be caused to be slain |
 | na + √bhuj  | + \*aneyya | abhoj**aneyya** | not to be eaten          |
+***

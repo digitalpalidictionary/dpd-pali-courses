@@ -1,5 +1,6 @@
-| Mixed Prefixes |        |            |                 |                   |
-|----------------|--------|------------|-----------------|-------------------|
+**Mixed Prefixes**
+| | | | | |
+|---|---|---|---|---|
 | abhi + ā       | √cikkh | to show    | abbhācikkhati   | misrepresents     |
 | abhi + ni      | √sad   | to sink    | abhinisīdati    | sit down hard     |
 | abhi + pa      | √atth  | to wish    | abhipatthayati  | longs for         |
@@ -24,5 +25,5 @@
 | upa + saṃ      | √kam   | to go      | upasaṅkamati    | approaches        |
 | vi + ā         | √kar   | to do      | byākaroti       | answers           |
 | vi + nī        | √bhuj  | to bend    | vinibbhujati    | unrolls           |
-
+***
 It is important to note that the prefixes are used not only with verbs but also with participles, verbal derivatives, nouns and adjectives.

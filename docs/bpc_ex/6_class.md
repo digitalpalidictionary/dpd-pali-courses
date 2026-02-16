@@ -2,32 +2,28 @@
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-| SN 22.59 <br>**bhagavā** **bhikkhū** āmantesi - “**bhikkhavo**’ti. “bhadante”ti |      |             |   |        |
+| SN 22.59 <br>**bhagavā** **bhikkhū** āmantesi - “**bhikkhavo**’ti. “bhadante”ti |  |  |  |  |
 | bhagavā                                                                         |      |             |   |        |
 | bhikkhū                                                                         |      |             |   |        |
 | āmantesi                                                                        |      |             |   |        |
 | bhikkhavo                                                                       |      |             |   |        |
 | bhadante                                                                        |      |             |   |        |
-|                                                                                 |      |             |   |        |
-| MN 2.2 <br>**bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā         |      |             |   |        |
+| MN 2.2 <br>**bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā |  |  |  |  |
 | bhikkhave                                                                       |      |             |   |        |
 | assutavā                                                                        |      |             |   |        |
 | puthujjano                                                                      |      |             |   |        |
 | na                                                                              |      |             |   |        |
 | parimuccati                                                                     |      |             |   |        |
 | jātiyā                                                                          | noun | fem.abl.sg  |   |        |
-|                                                                                 |      |             |   |        |
-| DN 11.6 <br>esa **bhagavato** sāvakasaṅgho                                      |      |             |   |        |
+| DN 11.6 <br>esa **bhagavato** sāvakasaṅgho |  |  |  |  |
 | esa                                                                             | pron | masc.nom.sg |   |        |
 | bhagavato                                                                       |      |             |   |        |
 | sāvaka-saṅgho                                                                   |      |             |   |        |
-|                                                                                 |      |             |   |        |
 | DN 16.17 <br>atha kho **āyasmato** ānandassa etad’ahosi[^9]<br>atha kho         | ind  | adv         |   |        |
 | āyasmato                                                                        |      |             |   |        |
 | ānandassa                                                                       |      |             |   | (name) |
 | etadahosi                                                                       |      |             |   |        |
-|                                                                                 |      |             |   |        |
-
+***
 [^9]: This is a common Pāli idiom.
 
 1.  VIN PAT SA 12
@@ -686,15 +682,14 @@ brūmi
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-| SNP 16 <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho                                                                                 |              |              |                     |   |
+| SNP 16 <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho |  |  |  |  |
 | mātāpitu                                                                                                                                    |              |              |                     |   |
 | upaṭṭhānaṃ                                                                                                                                  | noun         | nt.nom.sg    |                     |   |
 | puttassa                                                                                                                                    |              |              |                     |   |
 | ca                                                                                                                                          |              |              |                     |   |
 | dārassa                                                                                                                                     |              |              |                     |   |
 | saṅgaho                                                                                                                                     |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| MN 131 (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve                                                                          |              |              |                     |   |
+| MN 131 (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve |  |  |  |  |
 | ajja                                                                                                                                        |              |              |                     |   |
 | eva                                                                                                                                         | ind          | emph         | only; just          |   |
 | ātappaṃ                                                                                                                                     | noun         | nt.          |                     |   |
@@ -703,8 +698,7 @@ brūmi
 | jānāti                                                                                                                                      |              |              |                     |   |
 | maraṇaṃ                                                                                                                                     | noun         | nt.          |                     |   |
 | suve                                                                                                                                        |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| AN 4.171 <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ                                                                         |              |              |                     |   |
+| AN 4.171 <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ |  |  |  |  |
 | sattā                                                                                                                                       |              |              |                     |   |
 | tamhā                                                                                                                                       | pron         |              |                     |   |
 | kāyā                                                                                                                                        |              |              |                     |   |
@@ -713,8 +707,7 @@ brūmi
 | honti                                                                                                                                       |              |              |                     |   |
 | āgantāro                                                                                                                                    |              |              |                     |   |
 | itthattaṃ                                                                                                                                   | noun         | nt.          |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| VIN PAT NP 10 <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati  |              |              |                     |   |
+| VIN PAT NP 10 <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati |  |  |  |  |
 | yaṃ                                                                                                                                         | pron         |              |                     |   |
 | kho                                                                                                                                         | ind          | emph         |                     |   |
 | bhante                                                                                                                                      |              |              |                     |   |
@@ -730,8 +723,7 @@ brūmi
 | cīvarena                                                                                                                                    |              |              |                     |   |
 | taṃ                                                                                                                                         |              |              |                     |   |
 | acchādessati                                                                                                                                |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| VIN PAT PC 7 <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.                     |              |              |                     |   |
+| VIN PAT PC 7 <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ. |  |  |  |  |
 | bhikkhu                                                                                                                                     |              |              |                     |   |
 | mātugāmassa                                                                                                                                 | noun         |              |                     |   |
 | uttarichappañcavācāhi                                                                                                                       | noun         | fem.instr.pl |                     |   |
@@ -741,8 +733,7 @@ brūmi
 | viññunā                                                                                                                                     |              |              |                     |   |
 | purisaviggahena                                                                                                                             | noun         |              |                     |   |
 | pācittiyaṃ                                                                                                                                  | noun         | nt.          |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| DHP 76 (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi                                            |              |              |                     |   |
+| DHP 76 (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi |  |  |  |  |
 | nidhīnaṃ                                                                                                                                    |              |              |                     |   |
 | va                                                                                                                                          | ind          |              | as, like            |   |
 | pavattāraṃ                                                                                                                                  |              |              |                     |   |
@@ -751,8 +742,7 @@ brūmi
 | medhāviṃ                                                                                                                                    |              |              |                     |   |
 | paṇḍitaṃ                                                                                                                                    |              |              |                     |   |
 | bhajāhi                                                                                                                                     |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| SN 7.15 (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.                                             |              |              |                     |   |
+| SN 7.15 (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi. |  |  |  |  |
 | mātari                                                                                                                                      |              |              |                     |   |
 | pitari                                                                                                                                      |              |              |                     |   |
 | ca                                                                                                                                          |              |              |                     |   |
@@ -764,17 +754,11 @@ brūmi
 | na                                                                                                                                          |              |              |                     |   |
 | mānaṃ                                                                                                                                       |              |              |                     |   |
 | karohi                                                                                                                                      |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-| MN 131 (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti                                                                                 |              |              |                     |   |
+| MN 131 (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti |  |  |  |  |
 | tena                                                                                                                                        | pron         |              |                     |   |
 | mahāsenena                                                                                                                                  | adj          |              |                     |   |
 | maccunā                                                                                                                                     |              |              |                     |   |
 | saṅgaraṃ                                                                                                                                    | noun         | nt.nom.sg    |                     |   |
 | na                                                                                                                                          |              |              |                     |   |
 | hoti                                                                                                                                        |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
-|                                                                                                                                             |              |              |                     |   |
+***

@@ -84,11 +84,11 @@ root + **ya** + verbal ending
 | **√chid** | chinda | + īya | **chindīya** | ac**chindīya**ti   | is plundered                 |
 | **√muc**  | muñca  | + īya | **muñcīya**  | **muñcīya**ti      | is freed                     |
 | **√rudh** | rundha | + īya | **rundhīya** | **rundhīya**ti     | is obstructed                |
-
+***
 | **√pad** | pajja | + iya | **pajjiya** | up**pajjiya**ti | is brought into being |
 |----------|-------|-------|-------------|-----------------|-----------------------|
 | **√siv** | sibba | + iya | **sibbiya** | **sibbiya**ti   | is stitched           |
-
+***
 There are some exceptions and other forms, but that’s enough for now. Check out the extra reading to find out more.
 
 
@@ -130,8 +130,9 @@ Optative “it could be given”
 ***
 Please note that some passive verbs can look **very similar** to their active versions
 ***
+| | | | |
+|---|---|---|---|
 | pa**c**ati | he cooks    | pa**cc**ati | it is cooked    |
-|------------|-------------|-------------|-----------------|
 | ta**p**ati | he burns    | ta**pp**ati | it is burned    |
 | na**s**ati | he destroys | na**ss**ati | it is destroyed |
 ***

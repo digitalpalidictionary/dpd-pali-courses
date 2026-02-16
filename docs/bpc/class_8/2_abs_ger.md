@@ -64,9 +64,7 @@ Absolutive ending in **tvā** are very common and extensively used.
 | √ñā  | to know  | √ñā + tvā  | ñ**a**tvā  | having known  |
 | √su  | to hear  | √su + tvā  | sutvā      | having heard  |
 | √vad | to speak | √vad + tvā | v**a**tvā  | having spoken |
-
-
-
+***
 #### 2. itvā added to the root
 
 | √tar  | to cross   | √tar + itvā      | taritvā   | having crossed   |
@@ -77,9 +75,7 @@ Absolutive ending in **tvā** are very common and extensively used.
 | √car  | to walk    | √car + itvā      | caritvā   | having walked    |
 | √hā   | to abandon | √hā + itvā       | h**i**tvā | having abandoned |
 | √labh | to get     | √labh + itvā     | labhitvā  | having obtained  |
-
-
-
+***
 #### 3. tvā added to the verbal base
 
 Mostly group 8 verbs and causative verbs.
@@ -140,7 +136,7 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 | SN       | 48          | 0         | 1            |
 | AN       | 51          | 0         | 1            |
 | KN       | \>1000      | 4         | 17           |
-
+***
 [^20]: In the Mūla part
 ***
 Examples: **disvāna ; vatvāna ; sutvāna ; ovariyāna ; akātūna**

@@ -1,7 +1,8 @@
 # How to ask a question with Adverbs & Indeclinable
 
+| | |
+|---|---|
 | api              | have? did?              |
-|------------------|-------------------------|
 | api nu           | who? what? how? would?  |
 | nu               | (adds a question mark)  |
 | kahaṃ <br>katama | where?<br>what?; which? |
@@ -13,3 +14,4 @@
 | kīva             | how far? how much?      |
 | kuhiṃ            | where?                  |
 | kuvaṃ            | where?                  |
+***

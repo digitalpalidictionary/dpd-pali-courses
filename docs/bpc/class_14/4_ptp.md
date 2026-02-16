@@ -48,7 +48,7 @@ Potential Participles are easy to recognise. The most common endings are *-***ta
 | √sikkh        | to train    | sikkh**itabba** | trained                   |
 | √vand         | to worship  | vand**itabba**  | worshipped                |
 | √vid          | to know     | ved**itabba**   | known                     |
-
+***
 ### How To Form The Potential Participle
 
 The most common formation is equivalent to Sanskrit *-***tavya**
@@ -66,9 +66,7 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 | √dā        | to give     | + tabba  | dātabba        | given                     |
 | √es        | to look for | + itabba | esitabba       | looked for                |
 | √han       | to kill     | + tabba  | hantabba       | killed                    |
-
-
-
+***
 #### 2. √root + -anīya
 
 |        |            |         |            | **should be / fit to be** |
@@ -80,9 +78,7 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 | √pūj   | to worship | + anīya | pūjanīya   | worshipped                |
 | √vac   | to say     | + anīya | vacanīya   | said                      |
 | √vajj  | to avoid   | + anīya | vajjanīya  | avoided                   |
-
-
-
+***
 #### 3. √root + -ya or -iya
 
 Because of sandhi, these examples are tricky to spot unless you know them.
@@ -96,9 +92,7 @@ Because of sandhi, these examples are tricky to spot unless you know them.
 | √ji   | to conquer | + \*ya  | jeyya     | conquered                 |
 | √lih  | to lick    | + \*ya  | leyya     | licked                    |
 | √nī   | to lead    | + \*ya  | neyya     | led                       |
-
-
-
+***
 ### How To Decline Potential Participles
 ***
 |        | Masculine                                             | Feminine               | Neuter                           |                                  |                                                                     |                                 |

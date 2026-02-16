@@ -28,8 +28,9 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 | 90th  | navuti**ma**                       | ninetieth  |
 | 100th | sata**ma**                         | hundredth  |
 ***
-| Declension - Singular |                                             |                              |                                 |                                                 |
-|-----------------------|---------------------------------------------|------------------------------|---------------------------------|-------------------------------------------------|
+**Declension - Singular**
+| | | | | |
+|---|---|---|---|---|
 |                       | **Masculine**                               | **Feminine ā**               | **Feminine ī**                  | **Neuter**                                      |
 | 1.nom                 | paṭham**o**                                 | paṭham**ā**                  | catutth**ī**                    | paṭham**aṃ**                                    |
 | 2.acc                 | paṭham**aṃ**                                | paṭham**aṃ**                 | catutth**iṃ**                   | paṭham**aṃ**                                    |
@@ -49,3 +50,4 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 | 6.gen                 | paṭham**ānaṃ**                              | paṭham**ānaṃ**               | catutth**īnaṃ**                 | paṭham**ānaṃ**                                  |
 | 7.loc                 | paṭham**esu**                               | paṭham**āsu**                | catutth**īsu**                  | paṭham**esu**                                   |
 | 8.voc                 | paṭham**ā**                                 | paṭham**ā** paṭham**āyo**    | catutth**iyo**<br>catutth**ī**  | paṭham**āni**                                   |
+***

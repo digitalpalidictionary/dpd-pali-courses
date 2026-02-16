@@ -11,7 +11,8 @@
 
 ### Extra Reading
 
+| | |
+|---|---|
 | V. Perniola<br>Pāli Grammar    | p108-110 (the present participle) |
-|--------------------------------|-----------------------------------|
 | A Bhikkhu Māgadhabhāsā (Pāḷi)  | Corresponding chapters            |
 ***

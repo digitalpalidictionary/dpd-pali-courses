@@ -50,8 +50,9 @@ vi + √har + issa + tha \> viharissatha (you all will live)
 ***
 √gam + issa + āma \> gamissāma (we will go)
 ***
-| Conjugation of -issa fut |                |             |                 |                 |
-|--------------------------|----------------|-------------|-----------------|-----------------|
+**Conjugation of -issa fut**
+| | | | | |
+|---|---|---|---|---|
 |                          | singular       | plural      |                 |                 |
 | 3rd                      | bhav**issati** | he will be  | bhav**issanti** | they will be    |
 | 2nd                      | bhav**issasi** | you will be | bhav**issatha** | you all will be |
@@ -67,9 +68,11 @@ dhar**e** + **ssa** + ti \> **dhāressati** (he will hold)
 ***
 des**e** + **ssa** + āma \> des**essāma** (we will preach)
 ***
-| Conjugation of -essa fut |                |                  |                 |                   |
-|--------------------------|----------------|------------------|-----------------|-------------------|
+**Conjugation of -essa fut**
+| | | | | |
+|---|---|---|---|---|
 |                          | singular       | plural           |                 |                   |
 | 3rd                      | bhāve**ssati** | he will develop  | bhāve**ssanti** | they will develop |
 | 2nd                      | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop  |
 | 1st                      | bhāve**ssāmi** | I will develop   | bhāve**ssāma**  | we will develop   |
+***

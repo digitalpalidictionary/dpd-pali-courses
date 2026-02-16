@@ -20,8 +20,9 @@ from Kaccāyana:
 ***
 Here’s a large table of the full set of parassapada and attanopada verbal endings.
 ***
-| **Parassapada** |               |                |              |         |        |        |
-|-----------------|---------------|----------------|--------------|---------|--------|--------|
+**Parassapada**
+| | | | | | | |
+|---|---|---|---|---|---|---|
 |                 | **3 paṭhama** | **2 majjhima** | **1 uttama** |         |        |        |
 |                 | s             | pl             | s            | pl      | s      | pl     |
 | vattamānā       | ti            | anti           | si           | tha     | mi     | ma     |
@@ -33,8 +34,9 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 | bhavissantī     | ssati         | ssanti         | ssasi        | ssatha  | ssāmi  | ssāma  |
 | kālātipatti     | ssā           | ssaṃsu         | sse          | ssatha  | ssaṃ   | ssāmhā |
 ***
-| **Attanopada**  |               |                |              |         |       |          |
-|-----------------|---------------|----------------|--------------|---------|-------|----------|
+**Attanopada**
+| | | | | | | |
+|---|---|---|---|---|---|---|
 |                 | **3 paṭhama** | **2 majjhima** | **1 uttama** |         |       |          |
 |                 | **s**         | **pl**         | **s**        | **pl**  | **s** | **pl**   |
 | **vattamānā**   | te            | ante<br>re     | se           | vhe     | e     | mhe      |

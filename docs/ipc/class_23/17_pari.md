@@ -1,5 +1,6 @@
-| pari- pali-<br>around, **all around**, about, all about, overall, **completely** |             |              |                          |
-|----------------------------------------------------------------------------------|-------------|--------------|--------------------------|
+**pari- pali-<br>around, all around, about, all about, overall, completely**
+| | | | |
+|---|---|---|---|
 | √khaṇ                                                                            | to dig      | palikhaṇati  | digs all around          |
 | √veṭh                                                                            | to twist    | paliveṭheti  | encircles                |
 | √vaj                                                                             | to go on    | paribbajati  | wanders around           |
@@ -10,3 +11,4 @@
 | √ādā                                                                             | to take     | pariyādiyati | completely overcomes     |
 | √ap                                                                              | to reach    | pariyāpuṇāti | studies, masters         |
 | √yā                                                                              | to go       | pariyāyati   | flee in all directions   |
+***

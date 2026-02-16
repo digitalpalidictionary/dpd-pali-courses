@@ -12,8 +12,9 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 ***
 **Here are some examples**
 ***
-| √ṭhā･1 a (stand) |                     |            |                                                |
-|------------------|---------------------|------------|------------------------------------------------|
+**√ṭhā･1 a (stand)**
+| | | | |
+|---|---|---|---|
 | √ṭhā + ṭhā + a   | tiṭṭha              | tiṭṭhati   | stands                                         |
 | √ṭhā + \*āpe     | ṭhāpe \> ṭhape      | ṭhapeti    | sets aside; lit. causes to stand               |
 | ṭhape + īya      | ṭhāpīya \> ṭhapiyya | ṭhapiyyati | is kept; is set aside; lit. is caused to stand |
@@ -38,8 +39,9 @@ Please review [How To Form Passive Present Participles (pprp)](#passive-present-
 ***
 **passive base + māna \> passive present participle**
 ***
-| bhū 1 a (be)   |                                                   |                                     |
-|----------------|---------------------------------------------------|-------------------------------------|
+**bhū 1 a (be)**
+| | | |
+|---|---|---|
 | base           | bhava                                             |                                     |
 | pr             | bhava**ti**                                       | he is, it exists                    |
 | prp            | bhava**māna**<br>bhava**nta**                     | being, existing                     |

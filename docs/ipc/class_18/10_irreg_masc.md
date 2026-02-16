@@ -4,8 +4,9 @@ All the nouns we looked at in the Beginner Pāli Course had regular and predicta
 ***
 Today we will look at **manas**, **go, atta** and **rāja**
 ***
-| Declension of manas (mano) (masc & nt[^6]) |                                               |              |
-|--------------------------------------------|-----------------------------------------------|--------------|
+**Declension of manas (mano) (masc & nt[^6])**
+| | | |
+|---|---|---|
 | 1.nom                                      | man**o**                                      | man**ā**     |
 | 2.acc                                      | man**aṃ**<br>**mano**                         | man**e**     |
 | 3.inst                                     | man**asā** man**ena**                         | man**ehi**   |
@@ -14,7 +15,7 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | 6.gen                                      | man**aso** man**assa**                        | man**ānaṃ**  |
 | 7.loc                                      | man**asi** man**e** man**amhi** man**asmiṃ**  | man**esu**   |
 | 8.voc                                      | man**a** man**ā**                             | man**ā**     |
-
+***
 [^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
 ***
 Similarly
@@ -30,7 +31,7 @@ Similarly
 | **payas**   | milk, water       | **vāyas**  | wind, air                |
 | **rajas**   | dust, dirt        | **vayas**  | age, decline             |
 | **saras**   | lake, water       | **yasas**  | fame, reputation         |
-
+***
 In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS dictionary, you will also find them listed as **mano** & **mana(s)**. If you study the following Sanskrit declension table, you will understand the reason for the unusual declensions in Pāli.
 ***
 |      | **Sg**     | **Du**    | **Pl**    |
@@ -57,9 +58,10 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | tap**o**kamma     | ascetic practice    |
 | tej**o**dhātu     | fire state          |
 | vay**o**anuppatto | reached old age     |
-
-| Declension of go (masc) cow, cattle |                                                                         |                                |
-|-------------------------------------|-------------------------------------------------------------------------|--------------------------------|
+***
+**Declension of go (masc) cow, cattle**
+| | | |
+|---|---|---|
 | 1.nom                               | g**o**                                                                  | gāv**o** g**avo**              |
 | 2.acc                               | gāv**uṃ** gav**aṃ**                                                     | gāv**o** g**avo**              |
 | 3.inst                              | gāv**ena** gav**ena**                                                   | go**hi** go**bhi**             |
@@ -69,8 +71,9 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | 7.loc                               | gāv**e** gāv**asmiṃ** gāv**amhi** <br>gav**e** gav**asmiṃ** gav**amhi** | gāv**esu** gav**esu** g**osu** |
 | 8.voc                               | g**o**                                                                  | gāv**o** gav**o**              |
 ***
-| Declension of atta (masc) - self |                           |               |
-|----------------------------------|---------------------------|---------------|
+**Declension of atta (masc) - self**
+| | | |
+|---|---|---|
 | 1.nom                            | att**ā**                  | att**āno**    |
 | 2.acc                            | att**ānaṃ** att**aṃ**     | att**āno**    |
 | 3.inst                           | att**anā** <br>att**ena** | att**anehi**  |
@@ -82,8 +85,9 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 ***
 similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 ***
-| Declension of rāja (masc) - king |                                                |                                     |
-|----------------------------------|------------------------------------------------|-------------------------------------|
+**Declension of rāja (masc) - king**
+| | | |
+|---|---|---|
 | 1.nom                            | rāj**ā**                                       | rāj**āno**                          |
 | 2.acc                            | rāj**ānaṃ** rāj**aṃ**                          | rāj**āno**                          |
 | 3.inst                           | ra**ññā** rāj**ena**                           | rāj**ūhi** rāj**ehi**               |

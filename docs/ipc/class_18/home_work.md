@@ -10,8 +10,9 @@
 ***
 ### Extra Reading
 
+| | |
+|---|---|
 | Duroiselle          | Assimilation p20     |
-|---------------------|----------------------|
 | Perniola            | External Sandhi p285 |
 | Māgadhabhāsā (pāḷi) | Assimilation p37     |
 ***

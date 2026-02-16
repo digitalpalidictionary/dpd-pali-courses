@@ -15,7 +15,8 @@
 
 ### Extra Reading
 
+| | |
+|---|---|
 | A.K. Warder Introduction to Pāli | p209-212 (nouns ending in u / ar) |
-|----------------------------------|-----------------------------------|
 | A Bhikkhu Māgadhabhāsā (Pāḷi)    | Corresponding chapters            |
 ***

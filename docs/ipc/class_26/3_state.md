@@ -2,8 +2,9 @@
 
 ### tā (state of) abstract feminine nouns
 
+| | | | |
+|---|---|---|---|
 | asoka   | + tā | asoka**tā**   | sorrow-less-ness      |
-|---------|------|---------------|-----------------------|
 | bhabba  | + tā | bhabba**tā**  | capability            |
 | dhamma  | + tā | dhamma**tā**  | nature, character,    |
 | garu    | + tā | garu**tā**    | respectability        |
@@ -13,12 +14,12 @@
 | piya    | + tā | piya**tā**    | affection             |
 | subhara | + tā | subhara**tā** | being easy to support |
 | suñña   | + tā | suñña**tā**   | emptiness             |
-
-
+***
 ### tta (state of) abstract neuter nouns
 
+| | | | |
+|---|---|---|---|
 | agga      | + tta | agga**tta**      | high state, eminence             |
-|-----------|-------|------------------|----------------------------------|
 | araha     | + tta | araha**tta**     | worthy state, worthiness         |
 | āvila     | + tta | āvila**tta**     | disturbed state, agitation       |
 | āyāsita   | + tta | āyāsita**tta**   | affliction; lit. struggled state |
@@ -32,26 +33,28 @@
 ***
 ### tha (state of) abstract masculine nouns
 
+| | | | |
+|---|---|---|---|
 | dama   | **+ tha** | dama**tha**   | taming, control, mastery   |
-|--------|-----------|---------------|----------------------------|
 | dara   | **+ tha** | dara**tha**   | anxiety, uneasiness, angst |
 | kilama | **+ tha** | kilama**tha** | fatigue, tiredness         |
 | sama   | **+ tha** | sama**tha**   | stillness, peace           |
 ***
 ### iya (state of) abstract neuter nouns
 
+| | | | |
+|---|---|---|---|
 | na agāra | + iya | anagār**iya**  | homelessness        |
-|----------|-------|----------------|---------------------|
 | issara   | + iya | issar**iya**   | rulership, lordship |
 | manda    | + iya | mand**iya**    | doziness, stupidity |
 | paviveka | + iya | pavivek**iya** | state of solitude   |
 | thāvara  | + iya | thāvar**iya**  | stability, order    |
-
-
+***
 ### \*ya (state of) abstract neuter nouns
 
+| | | | |
+|---|---|---|---|
 | akiñcana  | + \*ya | **ā**kiñca**ñña**  | nothing state, nothingness |
-|-----------|--------|--------------------|----------------------------|
 | alasa     | + \*ya | **ā**las**ya**     | lazy state, laziness       |
 | anaṇa     | + \*ya | **ā**ṇaṇ**ya**     | debt free state            |
 | aroga     | + \*ya | **ā**rog**ya**     | healthy state, healthiness |
@@ -70,12 +73,12 @@
 | satata    | + \*ya | s**ā**ta**cca**    | always state, perseverance |
 | su manas  | + \*ya | s**o**mana**ssa**  | good mind state, happiness |
 | tatha     | + \*ya | t**accha**         | true state, truth          |
-
-
+***
 ### \*eyya (state of) abstract neuter nouns
 
+| | | | |
+|---|---|---|---|
 | adhipati | + \*eyya | **a**dhipat**eyya** | ruler state, lordship  |
-|----------|----------|---------------------|------------------------|
 | jimha    | + \*eyya | j**i**mh**eyya**    | crooked state, deceit  |
 | kūṭa     | + \*eyya | k**ū**ṭ**eyya**     | crooked state          |
 | muṇḍa    | + \*eyya | m**u**ṇḍ**eyya**    | bald state, baldness   |
@@ -87,8 +90,9 @@
 ***
 ### \*a (state of)
 
+| | | | |
+|---|---|---|---|
 | dvi    | + \*a | dv**aya**      | two state, duality      |
-|--------|-------|----------------|-------------------------|
 | garu   | + \*a | g**ā**rav**a** | respected state, esteem |
 | sahas  | + \*a | s**ā**has**a** | violent state, violence |
 | surata | + \*a | s**o**rat**a** | mild state, politeness  |

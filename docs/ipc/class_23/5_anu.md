@@ -1,5 +1,6 @@
-| anu-<br>**following**, **after**, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly |             |              |                               |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|-------------------------------|
+**anu-<br>following, after, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly**
+| | | | |
+|---|---|---|---|
 | √bandh                                                                                                                          | to tie      | anubandhati  | follows                       |
 | √bhū                                                                                                                            | to be       | anubhoti     | experiences                   |
 | √bruh                                                                                                                           | to increase | anubrūhayati | nurtures, develops            |
@@ -10,3 +11,4 @@
 | √sī                                                                                                                             | to sleep    | anuseti      | underlies                     |
 | √sikkh                                                                                                                          | to learn    | anusikkhati  | trains                        |
 | √vatt                                                                                                                           | to proceed  | anuvattati   | follows                       |
+***

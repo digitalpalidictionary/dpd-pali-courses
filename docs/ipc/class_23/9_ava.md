@@ -1,5 +1,6 @@
-| ava- o-<br>**down**, off, away, back, aside, inside, less, disrespect |              |            |                          |
-|-----------------------------------------------------------------------|--------------|------------|--------------------------|
+**ava- o-<br>down, off, away, back, aside, inside, less, disrespect**
+| | | | |
+|---|---|---|---|
 | √ñā                                                                   | to know      | avajānāti  | denies                   |
 | √man                                                                  | to think     | avamaññati | belittles                |
 | √sis                                                                  | to remain    | avasissati | is left over, remains    |
@@ -10,3 +11,4 @@
 | √ruh                                                                  | to climb     | orohati    | climbs down, descends    |
 | √sajj                                                                 | to let loose | ossajjati  | sets free; releases      |
 | √vad                                                                  | to speak     | ovadati    | advises; instructs       |
+***

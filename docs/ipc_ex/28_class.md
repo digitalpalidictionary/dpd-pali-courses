@@ -10,8 +10,9 @@ kita + ka
 
 Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences
 
-| KHP 5<br>gāravo ca nivāto ca,<br>santuṭṭhi ca kataññutā,<br>kālena dhammassavanaṃ,<br>etaṃ maṅgalamuttamaṃ.                                                        |   |   |   |   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
+**KHP 5<br>gāravo ca nivāto ca,<br>santuṭṭhi ca kataññutā,<br>kālena dhammassavanaṃ,<br>etaṃ maṅgalamuttamaṃ.**
+| | | | | |
+|---|---|---|---|---|
 | gāravo                                                                                                                                                             |   |   |   |   |
 | ca                                                                                                                                                                 |   |   |   |   |
 | nivāto                                                                                                                                                             |   |   |   |   |
@@ -23,12 +24,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | dhammassavanaṃ                                                                                                                                                     |   |   |   |   |
 | etaṃ                                                                                                                                                               |   |   |   |   |
 | maṅgalamuttamaṃ                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| SN 1.51<br>sīlaṃ yāva jarā sādhu,<br>saddhā sādhu patiṭṭhitā,<br>paññā narānaṃ ratanaṃ,<br>puññaṃ corehi dūharanti.                                                |   |   |   |   |
+| SN 1.51<br>sīlaṃ yāva jarā sādhu,<br>saddhā sādhu patiṭṭhitā,<br>paññā narānaṃ ratanaṃ,<br>puññaṃ corehi dūharanti. |  |  |  |  |
 | sīlaṃ                                                                                                                                                              |   |   |   |   |
 | yāva                                                                                                                                                               |   |   |   |   |
 | jarā                                                                                                                                                               |   |   |   |   |
@@ -42,10 +38,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | puññaṃ                                                                                                                                                             |   |   |   |   |
 | corehi                                                                                                                                                             |   |   |   |   |
 | dūharanti                                                                                                                                                          |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| MN 22<br>idha, bhikkhave, ekacce moghapurisā dhammaṃ pariyāpuṇanti, suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.  |   |   |   |   |
+| MN 22<br>idha, bhikkhave, ekacce moghapurisā dhammaṃ pariyāpuṇanti, suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. |  |  |  |  |
 | idha                                                                                                                                                               |   |   |   |   |
 | bhikkhave                                                                                                                                                          |   |   |   |   |
 | ekacce                                                                                                                                                             |   |   |   |   |
@@ -61,12 +54,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | jātakaṃ                                                                                                                                                            |   |   |   |   |
 | abbhutadhammaṃ                                                                                                                                                     |   |   |   |   |
 | vedallaṃ                                                                                                                                                           |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| THI 71 <br>madhurañca pavanti sabbaso,<br>kusumarajena samuṭṭhitā dumā,<br>paṭhamavasanto sukho utu,<br>ehi ramāma supupphite vane.                                |   |   |   |   |
+| THI 71 <br>madhurañca pavanti sabbaso,<br>kusumarajena samuṭṭhitā dumā,<br>paṭhamavasanto sukho utu,<br>ehi ramāma supupphite vane. |  |  |  |  |
 | madhurañca                                                                                                                                                         |   |   |   |   |
 | pavanti                                                                                                                                                            |   |   |   |   |
 | sabbaso                                                                                                                                                            |   |   |   |   |
@@ -80,16 +68,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | ramāma                                                                                                                                                             |   |   |   |   |
 | supupphite                                                                                                                                                         |   |   |   |   |
 | vane                                                                                                                                                               |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| AN 5.36 <br>āgantukassa dānaṃ deti, gamikassa dānaṃ deti, gilānassa dānaṃ deti, dubbhikkhe dānaṃ deti.                                                             |   |   |   |   |
+| AN 5.36 <br>āgantukassa dānaṃ deti, gamikassa dānaṃ deti, gilānassa dānaṃ deti, dubbhikkhe dānaṃ deti. |  |  |  |  |
 | āgantukassa                                                                                                                                                        |   |   |   |   |
 | dānaṃ                                                                                                                                                              |   |   |   |   |
 | deti                                                                                                                                                               |   |   |   |   |
@@ -102,10 +81,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | dubbhikkhe                                                                                                                                                         |   |   |   |   |
 | dānaṃ                                                                                                                                                              |   |   |   |   |
 | deti                                                                                                                                                               |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| SN 2.23<br>tassa mayhaṃ, bhante, catūsu dvāresu dānaṃ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ.                                                       |   |   |   |   |
+| SN 2.23<br>tassa mayhaṃ, bhante, catūsu dvāresu dānaṃ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ. |  |  |  |  |
 | tassa                                                                                                                                                              |   |   |   |   |
 | mayhaṃ                                                                                                                                                             |   |   |   |   |
 | bhante                                                                                                                                                             |   |   |   |   |
@@ -118,9 +94,6 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | kapaṇaddhika                                                                                                                                                       |   |   |   |   |
 | vanibbaka                                                                                                                                                          |   |   |   |   |
 | yācakānaṃ                                                                                                                                                          |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
 | eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ. MN 49                 |   |   |   |   |
 | eso                                                                                                                                                                |   |   |   |   |
 | hi                                                                                                                                                                 |   |   |   |   |
@@ -139,18 +112,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | vasī                                                                                                                                                               |   |   |   |   |
 | pitā                                                                                                                                                               |   |   |   |   |
 | bhūtabhabyānaṃ                                                                                                                                                     |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| AN 5.36<br>ye tattha anumodanti,<br>veyyāvaccaṃ karonti vā,<br>na tena dakkhiṇā ūnā,<br>tepi puññassa bhāgino.                                                     |   |   |   |   |
+| AN 5.36<br>ye tattha anumodanti,<br>veyyāvaccaṃ karonti vā,<br>na tena dakkhiṇā ūnā,<br>tepi puññassa bhāgino. |  |  |  |  |
 | ye                                                                                                                                                                 |   |   |   |   |
 | tattha                                                                                                                                                             |   |   |   |   |
 | anumodanti                                                                                                                                                         |   |   |   |   |
@@ -164,10 +126,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | tepi                                                                                                                                                               |   |   |   |   |
 | puññassa                                                                                                                                                           |   |   |   |   |
 | bhāgino                                                                                                                                                            |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| MN 12<br>sotatto sosinno ceva,<br>eko bhiṃsanake vane,<br>naggo na caggimāsīno,<br>esanāpasuto munīti.                                                             |   |   |   |   |
+| MN 12<br>sotatto sosinno ceva,<br>eko bhiṃsanake vane,<br>naggo na caggimāsīno,<br>esanāpasuto munīti. |  |  |  |  |
 | sotatto                                                                                                                                                            |   |   |   |   |
 | sosinno                                                                                                                                                            |   |   |   |   |
 | ceva                                                                                                                                                               |   |   |   |   |
@@ -179,17 +138,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | caggimāsīno                                                                                                                                                        |   |   |   |   |
 | esanāpasuto                                                                                                                                                        |   |   |   |   |
 | munīti                                                                                                                                                             |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| TH 133<br>accayanti ahorattā,<br>jīvitaṃ uparujjhati,<br>āyu khīyati maccānaṃ,<br>kunnadīnaṃva odakaṃ.                                                             |   |   |   |   |
+| TH 133<br>accayanti ahorattā,<br>jīvitaṃ uparujjhati,<br>āyu khīyati maccānaṃ,<br>kunnadīnaṃva odakaṃ. |  |  |  |  |
 | accayanti                                                                                                                                                          |   |   |   |   |
 | ahorattā                                                                                                                                                           |   |   |   |   |
 | jīvitaṃ                                                                                                                                                            |   |   |   |   |
@@ -199,14 +148,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | maccānaṃ                                                                                                                                                           |   |   |   |   |
 | kunnadīnaṃva                                                                                                                                                       |   |   |   |   |
 | odakaṃ                                                                                                                                                             |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| MN 131<br>evaṃ vihārimātāpiṃ, ahorattamatanditaṃ. <br>taṃ ve bhaddekarattoti, santo ācikkhate muni.                                                                |   |   |   |   |
+| MN 131<br>evaṃ vihārimātāpiṃ, ahorattamatanditaṃ. <br>taṃ ve bhaddekarattoti, santo ācikkhate muni. |  |  |  |  |
 | evaṃ                                                                                                                                                               |   |   |   |   |
 | vihārimātāpiṃ                                                                                                                                                      |   |   |   |   |
 | ahorattamatanditaṃ                                                                                                                                                 |   |   |   |   |
@@ -216,18 +158,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | santo                                                                                                                                                              |   |   |   |   |
 | ācikkhate                                                                                                                                                          |   |   |   |   |
 | muni                                                                                                                                                               |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| SN 46.3<br>samādhisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati. so tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti.                            |   |   |   |   |
+| SN 46.3<br>samādhisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati. so tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. |  |  |  |  |
 | samādhisambojjhaṅgo                                                                                                                                                |   |   |   |   |
 | tasmiṃ                                                                                                                                                             |   |   |   |   |
 | samaye                                                                                                                                                             |   |   |   |   |
@@ -240,16 +171,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | sādhukaṃ                                                                                                                                                           |   |   |   |   |
 | ajjhupekkhitā                                                                                                                                                      |   |   |   |   |
 | hoti                                                                                                                                                               |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| AN 7.61<br>no ce te evaṃ viharato taṃ middhaṃ pahīyetha tato tvaṃ, moggallāna, ubho kaṇṇasotāni āviñjeyyāsi pāṇinā gattāni anumajjeyyāsi                           |   |   |   |   |
+| AN 7.61<br>no ce te evaṃ viharato taṃ middhaṃ pahīyetha tato tvaṃ, moggallāna, ubho kaṇṇasotāni āviñjeyyāsi pāṇinā gattāni anumajjeyyāsi |  |  |  |  |
 | no                                                                                                                                                                 |   |   |   |   |
 | ce                                                                                                                                                                 |   |   |   |   |
 | te                                                                                                                                                                 |   |   |   |   |
@@ -267,10 +189,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | pāṇinā                                                                                                                                                             |   |   |   |   |
 | gattāni                                                                                                                                                            |   |   |   |   |
 | anumajjeyyāsi                                                                                                                                                      |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| SNP 51<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci diṭṭhaṃ va sutaṃ mutaṃ vā,<br>sa pannabhāro muni vippamutto,<br>na kappiyo nūparato na patthiyoti.            |   |   |   |   |
+| SNP 51<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci diṭṭhaṃ va sutaṃ mutaṃ vā,<br>sa pannabhāro muni vippamutto,<br>na kappiyo nūparato na patthiyoti. |  |  |  |  |
 | sa                                                                                                                                                                 |   |   |   |   |
 | sabbadhammesu                                                                                                                                                      |   |   |   |   |
 | visenibhūto                                                                                                                                                        |   |   |   |   |
@@ -290,18 +209,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | nūparato                                                                                                                                                           |   |   |   |   |
 | na                                                                                                                                                                 |   |   |   |   |
 | patthiyoti                                                                                                                                                         |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| ITI 76<br>sīlaṃ rakkheyya medhāvī,<br>patthayāno tayo sukhe,<br>pasaṃsaṃ vittalābhañca,<br>pecca sagge pamodanaṃ.                                                  |   |   |   |   |
+| ITI 76<br>sīlaṃ rakkheyya medhāvī,<br>patthayāno tayo sukhe,<br>pasaṃsaṃ vittalābhañca,<br>pecca sagge pamodanaṃ. |  |  |  |  |
 | sīlaṃ                                                                                                                                                              |   |   |   |   |
 | rakkheyya                                                                                                                                                          |   |   |   |   |
 | medhāvī                                                                                                                                                            |   |   |   |   |
@@ -313,12 +221,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | pecca                                                                                                                                                              |   |   |   |   |
 | sagge                                                                                                                                                              |   |   |   |   |
 | pamodanaṃ                                                                                                                                                          |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| SN 1.49<br>sace enti manussattaṃ,<br>dalidde jāyare kule,<br>coḷaṃ piṇḍo ratī khiḍḍā,<br>yattha kicchena labbhati.                                                 |   |   |   |   |
+| SN 1.49<br>sace enti manussattaṃ,<br>dalidde jāyare kule,<br>coḷaṃ piṇḍo ratī khiḍḍā,<br>yattha kicchena labbhati. |  |  |  |  |
 | sace                                                                                                                                                               |   |   |   |   |
 | enti                                                                                                                                                               |   |   |   |   |
 | manussattaṃ                                                                                                                                                        |   |   |   |   |
@@ -332,8 +235,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | yattha                                                                                                                                                             |   |   |   |   |
 | kicchena                                                                                                                                                           |   |   |   |   |
 | labbhati                                                                                                                                                           |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| DHP 326<br>idaṃ pure cittamacāri cārikaṃ,<br>yenicchakaṃ yatthakāmaṃ yathāsukhaṃ,<br>tadajjahaṃ niggahessāmi yoniso,<br>hatthippabhinnaṃ viya aṅkusaggaho.         |   |   |   |   |
+| DHP 326<br>idaṃ pure cittamacāri cārikaṃ,<br>yenicchakaṃ yatthakāmaṃ yathāsukhaṃ,<br>tadajjahaṃ niggahessāmi yoniso,<br>hatthippabhinnaṃ viya aṅkusaggaho. |  |  |  |  |
 | idaṃ                                                                                                                                                               |   |   |   |   |
 | pure                                                                                                                                                               |   |   |   |   |
 | cittamacāri                                                                                                                                                        |   |   |   |   |
@@ -347,25 +249,7 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | hatthippabhinnaṃ                                                                                                                                                   |   |   |   |   |
 | viya                                                                                                                                                               |   |   |   |   |
 | aṅkusaggaho                                                                                                                                                        |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-| TH 251<br>aṭṭhapadakatā kesā, nettā añjanamakkhitā. <br>alaṃ bālassa mohāya, no ca pāragavesino.                                                                   |   |   |   |   |
+| TH 251<br>aṭṭhapadakatā kesā, nettā añjanamakkhitā. <br>alaṃ bālassa mohāya, no ca pāragavesino. |  |  |  |  |
 | aṭṭhapadakatā                                                                                                                                                      |   |   |   |   |
 | kesā                                                                                                                                                               |   |   |   |   |
 | nettā                                                                                                                                                              |   |   |   |   |
@@ -376,11 +260,4 @@ Please pay attention to the syntax: underline the subject, object(s), and predic
 | no                                                                                                                                                                 |   |   |   |   |
 | ca                                                                                                                                                                 |   |   |   |   |
 | pāragavesino                                                                                                                                                       |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
-|                                                                                                                                                                    |   |   |   |   |
+***

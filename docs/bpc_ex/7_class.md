@@ -2,73 +2,64 @@
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-| MN 152 <br>**jivhāya** rasaṃ sāyitvā uppajjati manāpaṃ                                                                 |       |                      |                                         |          |
+| MN 152 <br>**jivhāya** rasaṃ sāyitvā uppajjati manāpaṃ |  |  |  |  |
 | jivhāya                                                                                                                | n     | f.instr.s            | by the t                                |          |
 | rasaṃ                                                                                                                  | n     | nt.ac.s              | flavour                                 |          |
 | sāyitvā                                                                                                                | verb  | abs                  | having tasted                           |          |
 | uppajjati                                                                                                              | v     | pr.3.s               | arises                                  | pad      |
 | manāpaṃ                                                                                                                | noun  | nt.nom.sg            | the agreable                            |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 16.27 <br>so tathāgataṃ pūjeti **paramāya** **pūjāya**                                                              |       |                      |                                         |          |
+| DN 16.27 <br>so tathāgataṃ pūjeti **paramāya** **pūjāya** |  |  |  |  |
 | so                                                                                                                     | pron  | masc.nom.sg          | he                                      |          |
 | tathāgataṃ                                                                                                             | n     | m.ac.s               | T                                       |          |
 | pūjeti                                                                                                                 | v     | pr.3.s               | worships                                |          |
 | paramāya                                                                                                               | adj   |                      | higest                                  |          |
 | pūjāya                                                                                                                 | n     | f.instr.s<br>f.dat.s | with h<br>for h                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 16.14 <br>assosuṃ mallā, bhagavā **kusinārāyaṃ** parinibbuto                                                        |       |                      |                                         |          |
+| DN 16.14 <br>assosuṃ mallā, bhagavā **kusinārāyaṃ** parinibbuto |  |  |  |  |
 | assosuṃ                                                                                                                |       |                      |                                         |          |
 | mallā,                                                                                                                 |       |                      |                                         | (name)   |
 | bhagavā                                                                                                                |       |                      |                                         |          |
 | kusinārāyaṃ                                                                                                            |       |                      |                                         | (name)   |
 | parinibbuto                                                                                                            | pp    |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| AN 8.53 <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-**sālāyaṃ**                                      |       |                      |                                         |          |
+| AN 8.53 <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-**sālāyaṃ** |  |  |  |  |
 | ekaṃ samayaṃ                                                                                                           | idiom |                      |                                         |          |
 | bhagavā                                                                                                                |       |                      |                                         |          |
 | vesāliyaṃ                                                                                                              |       |                      |                                         | (name)   |
 | viharati                                                                                                               |       |                      |                                         |          |
 | mahāvane                                                                                                               |       |                      |                                         | (name)   |
 | kūṭāgāra-sālāyaṃ                                                                                                       |       |                      |                                         | (name)   |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 22.7 <br>bhikkhu seyyathāpi **passeyya** sarīraṃ **sivathikāya** chaḍḍitaṃ                                          |       |                      |                                         |          |
+| DN 22.7 <br>bhikkhu seyyathāpi **passeyya** sarīraṃ **sivathikāya** chaḍḍitaṃ |  |  |  |  |
 | bhikkhu                                                                                                                | n     | m,n,s                | m                                       |          |
 | seyyathāpi                                                                                                             | idiom | ind                  | **just like; as if; imagine if**        |          |
 | passeyya                                                                                                               | v     | opt.3.s              | could see                               | dis      |
 | sarīraṃ                                                                                                                | n     | nt.ac.s              | body (corps)                            |          |
 | sivathikāya                                                                                                            | n     | f.l.s<br>f.d.s       | on the **charnel ground**<br>to the     |          |
 | chaḍḍitaṃ                                                                                                              | pp    | nt.ac.s              | thrown away                             | chadd    |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 14 <br>kinti me bhoge na corā **hareyyuṃ**                                                                          |       |                      |                                         |          |
+| MN 14 <br>kinti me bhoge na corā **hareyyuṃ** |  |  |  |  |
 | kinti                                                                                                                  | ind   | interr               | **how then?; what then?; in what way?** |          |
 | me                                                                                                                     | pn    | 1.gen.s              | mine, my                                |          |
 | bhoge                                                                                                                  | n     | m.ac.pl              | **riches**                              |          |
 | na                                                                                                                     | ind   | neg                  | not                                     |          |
 | corā                                                                                                                   | n     | m.n,pl               | **thieves**                             |          |
 | hareyyuṃ                                                                                                               | v     | opt.3.pl             | they could steal                        | har 1 a  |
-|                                                                                                                        |       |                      |                                         |          |
-| AN 7.61 <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi                                                |       |                      |                                         |          |
+| AN 7.61 <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi |  |  |  |  |
 | tvaṃ                                                                                                                   |       |                      |                                         |          |
 | moggallāna                                                                                                             |       |                      |                                         |          |
 | disā                                                                                                                   |       |                      |                                         |          |
 | anuvilokeyyāsi                                                                                                         |       |                      |                                         |          |
 | nakkhattāni                                                                                                            |       | nt.acc.pl            |                                         |          |
 | ullokeyyāsi                                                                                                            |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 2.19 <br>so aparena samayena tamhā ābādhā mucc**eyya**                                                              |       |                      |                                         |          |
+| DN 2.19 <br>so aparena samayena tamhā ābādhā mucc**eyya** |  |  |  |  |
 | so                                                                                                                     | pron  | masc.nom.sg          |                                         |          |
 | aparena samayena                                                                                                       | idiom |                      |                                         |          |
 | tamhā                                                                                                                  | pron  |                      |                                         |          |
 | ābādhā                                                                                                                 |       |                      |                                         |          |
 | mucceyya                                                                                                               |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| VIN PAT PC 57 <br>yo pana bhikkhu oren’addhamāsaṃ nahāy**eyya**, pācittiyaṃ                                            |       |                      |                                         |          |
+| VIN PAT PC 57 <br>yo pana bhikkhu oren’addhamāsaṃ nahāy**eyya**, pācittiyaṃ |  |  |  |  |
 | yo pana bhikkhu                                                                                                        | idiom |                      |                                         |          |
 | oren’addhamāsaṃ                                                                                                        | ind   | adv                  |                                         |          |
 | nahāyeyya                                                                                                              |       |                      |                                         |          |
 | pācittiyaṃ                                                                                                             |       | nt.nom.sg            |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| VIN PAT PA 2 <br>rājāno coraṃ gahetvā han**eyyuṃ** vā bandh**eyyuṃ** vā pabbāj**eyyuṃ** vā                             |       |                      |                                         |          |
+| VIN PAT PA 2 <br>rājāno coraṃ gahetvā han**eyyuṃ** vā bandh**eyyuṃ** vā pabbāj**eyyuṃ** vā |  |  |  |  |
 | rājāno                                                                                                                 | noun  | masc.nom.pl          |                                         |          |
 | coraṃ                                                                                                                  |       |                      |                                         |          |
 | gahetvā                                                                                                                | verb  | abs                  |                                         |          |
@@ -78,34 +69,29 @@
 | vā                                                                                                                     |       |                      |                                         |          |
 | pabbājeyyuṃ                                                                                                            |       |                      |                                         |          |
 | vā                                                                                                                     |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 10 <br>te tāvataken’eva attamanā assu                                                                               |       |                      |                                         |          |
+| DN 10 <br>te tāvataken’eva attamanā assu |  |  |  |  |
 | te                                                                                                                     |       |                      |                                         |          |
 | tāvataken’eva                                                                                                          |       |                      |                                         |          |
 | attamanā                                                                                                               |       |                      |                                         |          |
 | assu                                                                                                                   |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SN 22.3 <br>evaṃrūpo siyaṃ anāgatamaddhānaṃ                                                                            |       |                      |                                         |          |
+| SN 22.3 <br>evaṃrūpo siyaṃ anāgatamaddhānaṃ |  |  |  |  |
 | evaṃrūpo                                                                                                               |       |                      |                                         |          |
 | siyaṃ                                                                                                                  |       |                      |                                         |          |
-| anāgatam’<br>addhānaṃ                                                                                                  |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 10.16<br>aho vata mayaṃ na maraṇadhammā assāma                                                                      |       |                      |                                         |          |
+| anāgatam’<br>addhānaṃ |  |  |  |  |
+| MN 10.16<br>aho vata mayaṃ na maraṇadhammā assāma |  |  |  |  |
 | aho vata                                                                                                               |       |                      |                                         |          |
 | mayaṃ                                                                                                                  |       |                      |                                         |          |
 | na                                                                                                                     |       |                      |                                         |          |
 | maraṇadhammā                                                                                                           |       |                      |                                         |          |
 | assāma                                                                                                                 |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SN 8.11 (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi                                 |       |                      |                                         |          |
+| SN 8.11 (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi |  |  |  |  |
 | yaṃnūn'āhaṃ                                                                                                            | ind   |                      |                                         |          |
 | bhagavantaṃ                                                                                                            |       |                      |                                         |          |
 | sammukhā                                                                                                               | ind   | adv                  |                                         |          |
 | sāruppāya                                                                                                              |       |                      |                                         |          |
 | gāthāya                                                                                                                |       |                      |                                         |          |
 | abhitthaveyyāmi                                                                                                        |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SN 12.22 (simpl) <br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya                                           |       |                      |                                         |          |
+| SN 12.22 (simpl) <br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya |  |  |  |  |
 | evaṃ                                                                                                                   | ind   | adv                  |                                         |          |
 | no                                                                                                                     | ind   |                      | then, now, indeed                       |          |
 | ayaṃ                                                                                                                   | pron  | fem.nom.sg           |                                         |          |
@@ -114,8 +100,7 @@
 | avaṅkatā                                                                                                               | adj   |                      |                                         |          |
 | avañjhā                                                                                                                | adj   |                      |                                         |          |
 | bhaveyya                                                                                                               |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 107 (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat’ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ       |       |                      |                                         |          |
+| MN 107 (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat’ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ |  |  |  |  |
 | abhijjhaṃ                                                                                                              |       |                      |                                         |          |
 | loke                                                                                                                   |       |                      |                                         |          |
 | pajaheyyuṃ                                                                                                             |       |                      |                                         |          |
@@ -125,8 +110,7 @@
 | abhijjhāya                                                                                                             |       |                      |                                         |          |
 | cittaṃ                                                                                                                 | noun  | nt.                  |                                         |          |
 | parisodheyyuṃ                                                                                                          |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 16.36 (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.                               |       |                      |                                         |          |
+| DN 16.36 (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti. |  |  |  |  |
 | siyā                                                                                                                   |       |                      |                                         |          |
 | kho pana                                                                                                               | ind   | idiom                |                                         |          |
 | ananda                                                                                                                 |       |                      |                                         | (name)   |
@@ -137,35 +121,30 @@
 | no                                                                                                                     |       |                      |                                         |          |
 | satthā                                                                                                                 |       |                      |                                         |          |
 | iti                                                                                                                    |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| AN 8.53 <br>ye kho tvaṃ dhamme jāneyyāsi                                                                               |       |                      |                                         |          |
+| AN 8.53 <br>ye kho tvaṃ dhamme jāneyyāsi |  |  |  |  |
 | ye                                                                                                                     | pron  |                      | whatever; whichever                     |          |
 | kho                                                                                                                    |       |                      |                                         |          |
 | tvaṃ                                                                                                                   |       |                      |                                         |          |
 | dhamme                                                                                                                 |       |                      |                                         |          |
 | jāneyyāsi                                                                                                              |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SNP 16 <br>devatā bhagavantaṃ gāthāya ajjhabhāsi                                                                       |       |                      |                                         |          |
+| SNP 16 <br>devatā bhagavantaṃ gāthāya ajjhabhāsi |  |  |  |  |
 | devatā                                                                                                                 |       |                      |                                         |          |
 | bhagavantaṃ                                                                                                            |       |                      |                                         |          |
 | gāthāya                                                                                                                |       |                      |                                         |          |
 | ajjhabhāsi                                                                                                             |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 39 <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ                                                   |       |                      |                                         |          |
+| MN 39 <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ |  |  |  |  |
 | so                                                                                                                     | pron  | masc.nom.sg          |                                         |          |
 | tatonidānaṃ                                                                                                            | ind   | adv                  |                                         |          |
 | labheyya                                                                                                               |       |                      |                                         |          |
 | pāmojjaṃ                                                                                                               | noun  | nt.                  |                                         |          |
 | adhigaccheyya                                                                                                          |       |                      |                                         |          |
 | somanassaṃ                                                                                                             | noun  | nt.                  |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 131 <br>atītaṃ n’ānvāgameyya, nappaṭikaṅkhe anāgataṃ.                                                               |       |                      |                                         |          |
+| MN 131 <br>atītaṃ n’ānvāgameyya, nappaṭikaṅkhe anāgataṃ. |  |  |  |  |
 | atītaṃ                                                                                                                 | adj   |                      |                                         |          |
 | n’ānvāgameyya                                                                                                          |       |                      |                                         |          |
 | nappaṭikaṅkhe                                                                                                          |       |                      |                                         |          |
 | anāgataṃ                                                                                                               | adj   |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SN 22.80 <br>n’atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ.                                         |       |                      |                                         |          |
+| SN 22.80 <br>n’atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ. |  |  |  |  |
 | n’atthi                                                                                                                |       |                      |                                         |          |
 | taṃ                                                                                                                    | pron  | masc.acc.sg          |                                         |          |
 | kiñci                                                                                                                  | pron  | masc.acc.sg          |                                         |          |
@@ -176,8 +155,7 @@
 | na                                                                                                                     |       |                      |                                         |          |
 | vajjavā                                                                                                                | adj   |                      |                                         |          |
 | assaṃ                                                                                                                  |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| DN 1.1 <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo.                                             |       |                      |                                         |          |
+| DN 1.1 <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo. |  |  |  |  |
 | ce                                                                                                                     |       |                      |                                         |          |
 | tumhe                                                                                                                  |       |                      |                                         |          |
 | assatha                                                                                                                |       |                      |                                         |          |
@@ -188,8 +166,7 @@
 | tumhaṃ                                                                                                                 |       |                      |                                         |          |
 | tena                                                                                                                   | ind   | adv                  | on that account; thereby                |          |
 | antarāyo                                                                                                               |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| SN 22.3 <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ  |       |                      |                                         |          |
+| SN 22.3 <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ |  |  |  |  |
 | idha                                                                                                                   |       |                      |                                         |          |
 | gahapati                                                                                                               |       |                      |                                         |          |
 | ekaccassa                                                                                                              | pron  | masc.dat.sg          |                                         |          |
@@ -201,8 +178,7 @@
 | evaṃvedano                                                                                                             | adj   |                      |                                         |          |
 | siyaṃ                                                                                                                  |       |                      |                                         |          |
 | anāgatam'addhānaṃ                                                                                                      |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 25 (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.                                  |       |                      |                                         |          |
+| MN 25 (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti. |  |  |  |  |
 | mayaṃ                                                                                                                  |       |                      |                                         |          |
 | migajātānaṃ                                                                                                            |       |                      |                                         |          |
 | āsayaṃ                                                                                                                 |       |                      |                                         |          |
@@ -211,15 +187,13 @@
 | te                                                                                                                     | pron  | masc.nom.pl          | they                                    |          |
 | gāhaṃ                                                                                                                  |       |                      |                                         |          |
 | gaccheyyun'ti                                                                                                          |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| VIN PAT SA 3 (simpl) <br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya                                        |       |                      |                                         |          |
+| VIN PAT SA 3 (simpl) <br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya |  |  |  |  |
 | yo pana bhikkhu                                                                                                        | idiom |                      |                                         |          |
 | mātugāmaṃ                                                                                                              |       |                      |                                         |          |
 | duṭṭhullāhi                                                                                                            | adj   |                      |                                         |          |
 | vācāhi                                                                                                                 |       |                      |                                         |          |
 | obhāseyya                                                                                                              |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| AN 8.30 (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo            |       |                      |                                         |          |
+| AN 8.30 (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo |  |  |  |  |
 | idha                                                                                                                   | ind   | adv                  |                                         |          |
 | bhikkhuno                                                                                                              |       |                      |                                         |          |
 | pavivittassa                                                                                                           | adj   |                      |                                         |          |
@@ -229,21 +203,19 @@
 | bhikkhū                                                                                                                |       |                      |                                         |          |
 | upāsakā                                                                                                                |       |                      |                                         |          |
 | upāsikāyo                                                                                                              |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-| MN 2.4 <br>yāva’d’eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya                            |       |                      |                                         |          |
+| MN 2.4 <br>yāva’d’eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya |  |  |  |  |
 | yāva’d’eva                                                                                                             | ind   |                      |                                         |          |
 | uppannānaṃ                                                                                                             | pp    |                      |                                         |          |
 | veyyābādhikānaṃ                                                                                                        | adj   |                      |                                         |          |
 | vedanānaṃ                                                                                                              |       |                      |                                         |          |
 | paṭighātāya                                                                                                            |       |                      |                                         |          |
-| abyāpajjha-<br>paramatāya                                                                                              |       |                      |                                         |          |
-|                                                                                                                        |       |                      |                                         |          |
-
+| abyāpajjha-<br>paramatāya |  |  |  |  |
+***
 ## Class 7 Extra
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-| MN 104 <br>ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe n’ādhivāseyyātha?                      |                 |             |                                |   |
+| MN 104 <br>ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe n’ādhivāseyyātha? |  |  |  |  |
 | ime                                                                                                                                                                       | pron            | masc.acc.pl |                                |   |
 | ce                                                                                                                                                                        | ind             | cond        |                                |   |
 | tumhe                                                                                                                                                                     |                 |             |                                |   |
@@ -264,8 +236,7 @@
 | yaṃ                                                                                                                                                                       | pron            | masc.acc.sg | that which                     |   |
 | tumhe                                                                                                                                                                     |                 |             |                                |   |
 | n’ādhivāseyyātha                                                                                                                                                          |                 |             |                                |   |
-|                                                                                                                                                                           |                 |             |                                |   |
-| AN 7.23 <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: “kin’ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?” iti  |                 |             |                                |   |
+| AN 7.23 <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: “kin’ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?” iti |  |  |  |  |
 | bhikkhave                                                                                                                                                                 |                 |             |                                |   |
 | bhikkhū                                                                                                                                                                   |                 |             |                                |   |
 | paccattaṃ                                                                                                                                                                 | ind             | adv         |                                |   |
@@ -284,8 +255,7 @@
 | phāsuṃ                                                                                                                                                                    | ind             | adv         |                                |   |
 | vihareyyuṃ                                                                                                                                                                |                 |             |                                |   |
 | iti                                                                                                                                                                       |                 |             |                                |   |
-|                                                                                                                                                                           |                 |             |                                |   |
-| VIN PAT PC 49 <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya                                                                                               |                 |             |                                |   |
+| VIN PAT PC 49 <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya |  |  |  |  |
 | siyā                                                                                                                                                                      |                 |             |                                |   |
 | ca                                                                                                                                                                        |                 |             |                                |   |
 | tassa                                                                                                                                                                     | pron            | masc.dat.sg | to that; for that              |   |
@@ -294,8 +264,7 @@
 | paccayo                                                                                                                                                                   |                 |             |                                |   |
 | senaṃ                                                                                                                                                                     |                 |             |                                |   |
 | gamanāya                                                                                                                                                                  | noun            | nt.         |                                |   |
-|                                                                                                                                                                           |                 |             |                                |   |
-| UD 69 <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care?                                                                  |                 |             |                                |   |
+| UD 69 <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care? |  |  |  |  |
 | kiṃ                                                                                                                                                                       | ind             | interr      | what?                          |   |
 | kareyya                                                                                                                                                                   |                 |             |                                |   |
 | udapānena                                                                                                                                                                 |                 |             |                                |   |
@@ -309,8 +278,7 @@
 | kissa                                                                                                                                                                     | pron.<br>interr | masc.dat.sg | for what reason?; why?         |   |
 | pariyesanaṃ                                                                                                                                                               | ind             | adv         |                                |   |
 | care                                                                                                                                                                      |                 |             |                                |   |
-|                                                                                                                                                                           |                 |             |                                |   |
-| MN 26 <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti.                                       |                 |             |                                |   |
+| MN 26 <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti. |  |  |  |  |
 | desetu                                                                                                                                                                    |                 |             |                                |   |
 | bhante                                                                                                                                                                    |                 |             |                                |   |
 | bhagavā                                                                                                                                                                   |                 |             |                                |   |
@@ -324,4 +292,4 @@
 | assavanatā                                                                                                                                                                |                 |             |                                |   |
 | dhammassa                                                                                                                                                                 |                 |             |                                |   |
 | parihāyanti                                                                                                                                                               |                 |             |                                |   |
-|                                                                                                                                                                           |                 |             |                                |   |
+***

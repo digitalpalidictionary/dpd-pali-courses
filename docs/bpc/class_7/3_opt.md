@@ -42,12 +42,13 @@ kathe + **eyyātha** \> katheyyātha (you all might tell)
 ***
 suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 ***
-| Conjugation of -eyya opt |                        |                  |
-|--------------------------|------------------------|------------------|
+**Conjugation of -eyya opt**
+| | | |
+|---|---|---|
 | 3rd                      | gacche**yya** gacche   | gacche**yyuṃ**   |
 | 2nd                      | gacche**yyāsi** gacche | gacche**yyātha** |
 | 1st                      | gacche**yyāmi** gacche | gacche**yyāma**  |
-
+***
 ### Optative of √as
 
 It has two forms:

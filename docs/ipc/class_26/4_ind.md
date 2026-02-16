@@ -2,8 +2,9 @@
 
 ### khattuṃ (times) adverbs of manner
 
+| | | | |
+|---|---|---|---|
 | anekasata  | + kkhattuṃ | anekasata**kkhattuṃ**  | many 100’s of times |
-|------------|------------|------------------------|---------------------|
 | cha        | + kkhattuṃ | cha**kkhattuṃ**        | 6 times             |
 | chattiṃsā  | + kkhattuṃ | chattiṃsa**kkhattuṃ**  | **36 times**        |
 | dvatti     | + kkhattuṃ | dvatti**kkhattuṃ**     | 2 or 3 times        |
@@ -15,24 +16,25 @@
 ***
 ### thā (in such way) adverbs of manner
 
+| | | | |
+|---|---|---|---|
 | sabba  | + thā | sabba**thā**  | in every way   |
-|--------|-------|---------------|----------------|
 | añña   | + thā | añña**thā**   | in another way |
 | ta     | + thā | ta**thā**     | in that way    |
 | ya     | + thā | ya**thā**     | in which way   |
 | ubhaya | + thā | ubhaya**thā** | in both ways   |
-
-
-
+***
 ### thaṃ (in such way) adverbs of manner
 
+| | | | |
+|---|---|---|---|
 | ka | + thaṃ | ka**thaṃ** | in what way? how? |
-|----|--------|------------|-------------------|
 ***
 ### ttha (in such place) adverbs of place
 
+| | | | |
+|---|---|---|---|
 | añña  | + ttha | añña**ttha**  | in another place             |
-|-------|--------|---------------|------------------------------|
 | ima   | + ttha | e**ttha**     | in this place, here          |
 | ima   | + ttha | i**ttha**     | in this place, here          |
 | ka    | + ttha | ka**ttha**    | in what place, where?        |
@@ -44,8 +46,9 @@
 ***
 ### tra (in such place) adverbs of place
 
+| | | | |
+|---|---|---|---|
 | amu   | + tra | amu**tra**   | in such place,              |
-|-------|-------|--------------|-----------------------------|
 | añña  | + tra | añña**tra**  | in another place, elsewhere |
 | ima   | + tra | a**tra**     | in this place, here         |
 | ka    | + tra | ku**tra**    | in what place, where?       |
@@ -54,8 +57,9 @@
 ***
 ### dā & dāni (at such time) adverbs of time
 
+| | | | |
+|---|---|---|---|
 | eka   | + dā   | eka**dā**   | at one time, one day        |
-|-------|--------|-------------|-----------------------------|
 | ima   | + dāni | i**dāni**   | at this time, now           |
 | ka    | + dā   | ka**dā**    | at what time, when?         |
 | ka    | + dā   | ku**dā**    | at what time, when?         |
@@ -65,8 +69,9 @@
 ***
 ### dhā (ways, pieces) adverbs
 
+| | | | |
+|---|---|---|---|
 | eka   | + dhā | eka**dhā**   | in one way      |
-|-------|-------|--------------|-----------------|
 | neka  | + dhā | neka**dhā**  | in many ways    |
 | dasa  | + dhā | dasa**dhā**  | in ten ways     |
 | dvi   | + dhā | dve**dhā**   | in two ways     |
@@ -78,8 +83,9 @@
 ***
 ### so (in ways, by) distributive adverbs
 
+| | | | |
+|---|---|---|---|
 | bahu  | + so | bahu**so**  | in many ways    |
-|-------|------|-------------|-----------------|
 | bila  | + so | bila**so**  | into portions   |
 | pañca | + so | pañca**so** | in five ways    |
 | puthu | + so | puthu**so** | in diverse ways |
@@ -96,8 +102,9 @@
 ***
 ### to (as) adverbs
 
+| | | | |
+|---|---|---|---|
 | anicca | **+ to** | anicca**to** | as impermanent     |
-|--------|----------|--------------|--------------------|
 | asāra  | **+ to** | asāra**to**  | as essenceless     |
 | asubha | **+ to** | asubha**to** | as ugly            |
 | atta   | **+ to** | atta**to**   | as oneself         |
@@ -110,8 +117,9 @@
 ***
 ### to (from, in) adverbs
 
+| | | | |
+|---|---|---|---|
 | antara | **+ to** | antara**to** | from within                 |
-|--------|----------|--------------|-----------------------------|
 | dīgha  | **+ to** | dīgha**to**  | in length                   |
 | dūra   | **+ to** | dūra**to**   | from far away               |
 | eka    | **+ to** | eka**to**    | on one side, together       |
@@ -124,13 +132,15 @@
 ***
 ### haṃ (in such place) adverbs of place
 
+| | | | |
+|---|---|---|---|
 | ka | + haṃ | **kahaṃ** | in what place, where? |
-|----|-------|-----------|-----------------------|
 | ta | + haṃ | **tahaṃ** | in that place, there  |
 ***
 ### hiṃ (in such place) adverbs of place
 
+| | | | |
+|---|---|---|---|
 | ka | + hiṃ | **kuhiṃ** | in what place, where? |
-|----|-------|-----------|-----------------------|
 | ta | + hiṃ | **tahiṃ** | in that place, there  |
 ***

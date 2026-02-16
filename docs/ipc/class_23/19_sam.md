@@ -1,5 +1,6 @@
-| saṃ- sā- (sk sam)<br>with, along, **together**, well, fully, **perfectly**, intensely, by oneself, again  |             |             |                             |
-|-----------------------------------------------------------------------------------------------------------|-------------|-------------|-----------------------------|
+**saṃ- sā- (sk sam)<br>with, along, together, well, fully, perfectly, intensely, by oneself, again**
+| | | | |
+|---|---|---|---|
 | √iñj                                                                                                      | to move     | samiñjati   | bends back                  |
 | √mud                                                                                                      | to be happy | sammodati   | greets; is friendly         |
 | √var                                                                                                      | to obstruct | saṃvarati   | restrains, controls         |
@@ -11,3 +12,4 @@
 | √bhū                                                                                                      | to be       | sambhavati  | comes to be; happens        |
 | √idh                                                                                                      | to succeed  | samijjhati  | achieves, succeeds          |
 | √raj                                                                                                      | to desire   | sārajjati   | is infatuated (with)        |
+***

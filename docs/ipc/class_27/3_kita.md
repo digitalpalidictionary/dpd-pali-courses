@@ -59,9 +59,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √nhā   | **+ ta** | nhā**ta**    | bathed, washed      |
 | √phus  | **+ ta** | phuṭ**ṭha**  | touched             |
 | √raj   | **+ ta** | rat**ta**    | dyed                |
-
-
-
+***
 ### ita (pp)
 
 | √citt | **+ ita** | citt**ita**    | designed, created    |
@@ -78,9 +76,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √ujjh | **+ ita** | ujjh**ita**    | discarded, left      |
 | √vas  | **+ ita** | v**u**s**ita** | lived, completed     |
 | √yāc  | **+ ita** | yāc**ita**     | asked for, begged    |
-
-
-
+***
 ### na (pp)
 
 | √bhid | **+ na** | bhin**na**     | broken, damaged       |
