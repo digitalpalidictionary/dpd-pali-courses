@@ -1,5 +1,5 @@
 
-## Compounds (*samāsa)*
+# Compounds (*samāsa)*
 
 saṃ + √ās + a
 

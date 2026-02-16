@@ -1,5 +1,5 @@
 
-## Tappurisa-samāsa or Case Compounds
+# Tappurisa-samāsa or Case Compounds
 
 “madhouse”
 

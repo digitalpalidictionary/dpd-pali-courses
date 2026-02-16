@@ -1,4 +1,4 @@
-## Personal Pronouns
+# Personal Pronouns
 
 The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensively used in the Tipiṭaka.
 

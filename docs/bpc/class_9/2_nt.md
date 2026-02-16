@@ -1,5 +1,5 @@
 
-## Neuter Nouns
+# Neuter Nouns
 
 These are very common, more than 17000 words in the current DPD database[^21].
 

@@ -1,4 +1,4 @@
-## Ordinal Numbers (saṅkhyā-pūraṇa)
+# Ordinal Numbers (saṅkhyā-pūraṇa)
 
 Ordinal numbers describe the position of something; first, second, third etc. They are mostly formed from the cardinal numbers with **suffixes** and are declined like regular **adjectives**.
 

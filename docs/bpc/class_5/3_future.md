@@ -1,4 +1,4 @@
-## Future Tense
+# Future Tense
 
 The future tense in Pāli has the same meaning as in English – an action that will be done in the future.
 

@@ -1,4 +1,4 @@
-## Different systems of root groups
+# Different systems of root groups
 
 ***
 

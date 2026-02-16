@@ -1,4 +1,4 @@
-## Intransitive, Transitive and di-transitive verbs
+# Intransitive, Transitive and di-transitive verbs
 
 ***
 

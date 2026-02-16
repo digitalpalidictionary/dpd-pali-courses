@@ -1,6 +1,6 @@
 ***
 
-## Vowel Sandhi *(sara-sandhi)*
+# Vowel Sandhi *(sara-sandhi)*
 
 ***
 

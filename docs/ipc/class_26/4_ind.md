@@ -1,5 +1,5 @@
 
-## Indeclinable (abyayataddhita)
+# Indeclinable (abyayataddhita)
 
 ### khattuṃ (times) adverbs of manner
 

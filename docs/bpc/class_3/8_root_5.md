@@ -1,6 +1,6 @@
 
 
-### Root Group 5 - kiyādigaṇa
+# Root Group 5 - kiyādigaṇa
 
 = ki + ādi + gaṇa
 

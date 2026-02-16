@@ -1,5 +1,5 @@
 
-## Kahāpaṇāna![](media/b6c1973333da5540209c01b2c66c22b6.png)
+# Kahāpaṇāna![](media/b6c1973333da5540209c01b2c66c22b6.png)
 
 ***
 

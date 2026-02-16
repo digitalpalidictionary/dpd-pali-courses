@@ -1,5 +1,5 @@
 
-## Class 4 Exercises
+# Class 4 Exercises
 
 | Pāli | POS | Grammar | English |
 |------|-----|---------|---------|

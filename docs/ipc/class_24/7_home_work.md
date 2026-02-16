@@ -1,5 +1,5 @@
 
-### Homeless work
+# Homeless work
 
 1.  Please re-read this lesson
 2.  Complete exercises and examples from Tipiṭaka for class 24

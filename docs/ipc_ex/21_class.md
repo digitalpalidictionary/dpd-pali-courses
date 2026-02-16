@@ -1,5 +1,5 @@
 
-## Class 21
+# Class 21
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
 

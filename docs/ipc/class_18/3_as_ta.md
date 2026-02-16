@@ -1,5 +1,5 @@
 
-### Phonetic changes of -t-
+# Phonetic changes of -t-
 
 ***
 

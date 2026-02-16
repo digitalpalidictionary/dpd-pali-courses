@@ -1,5 +1,5 @@
 
-#### Possibility \#9
+# Possibility \#9
 
 When a word ends in a **long vowel** and the next word begins with **e**,
 

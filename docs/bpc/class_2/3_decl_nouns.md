@@ -1,4 +1,4 @@
-## Declension of Nouns
+# Declension of Nouns
 
 Declension is a system of adding inflections to a nominal stem indicating gender, number and the case. (rephrasing V. Perniola)
 

@@ -1,5 +1,5 @@
 
-## The Infinitive (tumanta)
+# The Infinitive (tumanta)
 
 Another verbal form without declensions is the **infinitive**. It most commonly expresses a **purpose**.
 

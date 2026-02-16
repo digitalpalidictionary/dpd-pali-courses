@@ -1,6 +1,6 @@
 
 
-### Irregular Causative Bases
+# Irregular Causative Bases
 
 | √jan  | to be born   | \*e   | jane     | janeti         | generates              |
 |-------|--------------|-------|----------|----------------|------------------------|

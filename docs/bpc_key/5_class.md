@@ -1,5 +1,5 @@
 
-## Class 5 Exercises
+# Class 5 Exercises
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|

@@ -1,5 +1,5 @@
 
-## Summary of Parassapada & Attanopada Conjugations
+# Summary of Parassapada & Attanopada Conjugations
 
 ***
 

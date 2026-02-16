@@ -1,5 +1,5 @@
 
-## The 8 Root Groups[^13]
+# The 8 Root Groups[^13]
 
 [^13]: All the roots that follow are in order from most common to less common
 

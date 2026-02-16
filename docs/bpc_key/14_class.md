@@ -1,6 +1,6 @@
 
 
-## Class 14 Exercises
+# Class 14 Exercises
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|

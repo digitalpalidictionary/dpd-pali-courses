@@ -1,5 +1,5 @@
 
-#### Possibility \#4
+# Possibility \#4
 
 When the second vowel is elided, the first vowel may be lengthened.
 

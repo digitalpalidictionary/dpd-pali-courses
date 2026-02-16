@@ -1,4 +1,4 @@
-## Passive Present Participles (pprp)
+# Passive Present Participles (pprp)
 
 | √labh 1 a (get) |           |                           |
 |-----------------|-----------|---------------------------|

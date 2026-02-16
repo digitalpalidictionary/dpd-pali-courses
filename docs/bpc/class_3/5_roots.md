@@ -1,4 +1,4 @@
-## Verbal roots (dhātu)
+# Verbal roots (dhātu)
 
 Almost all verbs are formed from a root
 

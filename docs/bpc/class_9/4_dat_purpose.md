@@ -1,5 +1,5 @@
 
-## The dative of purpose
+# The dative of purpose
 
 ***
 

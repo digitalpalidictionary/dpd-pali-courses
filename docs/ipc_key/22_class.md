@@ -1,5 +1,5 @@
 
-## Class 22 Exercises
+# Class 22 Exercises
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
 

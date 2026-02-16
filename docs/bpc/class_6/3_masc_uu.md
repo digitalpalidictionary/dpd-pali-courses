@@ -1,4 +1,4 @@
-### Masculine nouns ending in -ū
+# Masculine nouns ending in -ū
 
 ***
 

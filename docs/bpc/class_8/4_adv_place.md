@@ -1,4 +1,4 @@
-## Adverbs of place
+# Adverbs of place
 
 These get formed by adding some suffixes to common prepositions & pronouns. They are all indeclinable.
 

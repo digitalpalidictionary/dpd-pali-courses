@@ -1,4 +1,4 @@
-## Optative or Potential Verbs (sattamī)
+# Optative or Potential Verbs (sattamī)
 
 ***
 

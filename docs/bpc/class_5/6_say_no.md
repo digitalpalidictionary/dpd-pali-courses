@@ -1,4 +1,4 @@
-## How to say No!
+# How to say No!
 
 ### Negative particle “na”
 

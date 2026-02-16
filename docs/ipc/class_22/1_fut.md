@@ -1,5 +1,5 @@
 
-## Future Tense (*bhavissantī*)
+# Future Tense (*bhavissantī*)
 
 ***
 

@@ -1,5 +1,5 @@
 
-## Class 8 Exercises
+# Class 8 Exercises
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|

@@ -1,4 +1,4 @@
-## Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā)
+# Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā)
 
 You’ll be happy to hear that one of the most common forms of verbal adjectives in Pāli has **no declensions**.
 

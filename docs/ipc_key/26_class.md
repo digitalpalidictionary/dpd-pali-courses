@@ -1,5 +1,5 @@
 
-## Class 26 Exercises
+# Class 26 Exercises
 
 **Find all the secondary derivatives and show their construction.**
 

@@ -1,4 +1,4 @@
-## The Aorist or Past Tense (ajjatanī)
+# The Aorist or Past Tense (ajjatanī)
 
 The Aorist is the most common form of Past Tense in the Tipiṭaka. It is formed directly on the root or on the base.
 

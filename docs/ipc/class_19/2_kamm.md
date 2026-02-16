@@ -1,5 +1,5 @@
 
-## Kammadhāraya or Adjectival Compounds
+# Kammadhāraya or Adjectival Compounds
 
 **“blackbird”**
 

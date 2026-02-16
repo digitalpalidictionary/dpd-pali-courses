@@ -1,5 +1,5 @@
 
-## Class 27 Exercises
+# Class 27 Exercises
 
 **Find all the primary and secondary derivatives (participles) and show their construction.**
 

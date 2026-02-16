@@ -1,4 +1,4 @@
-## Root Group 7 – tanādigaṇa
+# Root Group 7 – tanādigaṇa
 
 = tan + ādi + gaṇa
 

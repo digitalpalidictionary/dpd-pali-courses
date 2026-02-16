@@ -1,5 +1,5 @@
 
-## Some Adverbs (nipāta) used as Prefixes
+# Some Adverbs (nipāta) used as Prefixes
 
 A few adverbs are used very much in the same way as the verbal prefixes, but they are much less common
 

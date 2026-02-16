@@ -1,4 +1,4 @@
-### Root Group 8 - curādigaṇa
+# Root Group 8 - curādigaṇa
 
 = cur + ādi + gaṇa
 

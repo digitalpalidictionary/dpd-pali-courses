@@ -1,5 +1,5 @@
 
-## Abyayībhāva-samāsa or Adverbial Compounds
+# Abyayībhāva-samāsa or Adverbial Compounds
 
 (indeclinable-nature-compounds)
 

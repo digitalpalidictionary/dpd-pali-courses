@@ -1,4 +1,4 @@
-## Root Group 2 - rudhādigaṇa
+# Root Group 2 - rudhādigaṇa
 
 ***
 

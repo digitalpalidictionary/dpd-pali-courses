@@ -1,6 +1,6 @@
 
 
-## Class 18 Exercises
+# Class 18 Exercises
 
 **Dis-join the sandhis**
 

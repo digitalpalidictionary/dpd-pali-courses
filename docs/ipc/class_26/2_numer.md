@@ -1,5 +1,5 @@
 
-## Numerical (saṅkhyātaddhita)
+# Numerical (saṅkhyātaddhita)
 
 ### ma (ordinal numbers)
 

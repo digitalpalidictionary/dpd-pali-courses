@@ -1,5 +1,5 @@
 
-## Types of nouns
+# Types of nouns
 
 ***
 

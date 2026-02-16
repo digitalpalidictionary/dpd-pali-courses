@@ -1,5 +1,5 @@
 
-## Some things that will help you when doing the exercises
+# Some things that will help you when doing the exercises
 
 ### Word Order
 

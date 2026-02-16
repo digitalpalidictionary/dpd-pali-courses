@@ -1,5 +1,5 @@
 
-## Class 20
+# Class 20
 
 Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.
 

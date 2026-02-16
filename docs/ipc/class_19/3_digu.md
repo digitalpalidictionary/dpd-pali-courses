@@ -1,5 +1,5 @@
 
-## Digu-samāsa or Numerical Compounds
+# Digu-samāsa or Numerical Compounds
 
 ***
 

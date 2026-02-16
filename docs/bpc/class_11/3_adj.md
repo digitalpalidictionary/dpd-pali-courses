@@ -1,4 +1,4 @@
-## Adjectives (guṇanāma, guṇavacana, visesana)
+# Adjectives (guṇanāma, guṇavacana, visesana)
 
 ***
 

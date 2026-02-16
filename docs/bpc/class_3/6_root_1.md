@@ -1,4 +1,4 @@
-### Root Group 1 - bhūvādigaṇa
+# Root Group 1 - bhūvādigaṇa
 
 = bhū + ādi + gaṇa
 

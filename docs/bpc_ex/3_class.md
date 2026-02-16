@@ -1,5 +1,5 @@
 
-## Class 3 Exercises
+# Class 3 Exercises
 
 | Pāli | POS | Grammar | English |
 |------|-----|---------|---------|

@@ -1,4 +1,4 @@
-## Causative Verbs
+# Causative Verbs
 
 This is a concept that exists in most Indian languages, but is foreign to English. Having said that, the idea is quite simple.
 

@@ -1,4 +1,4 @@
-## Some Basic Sandhi – The Assimilation of the Letter y
+# Some Basic Sandhi – The Assimilation of the Letter y
 
 In order to understand how verbs from group 3 get formed, you need to understand how the letter **y** gets assimilated when combined with other consonants. This is called consonant sandhi.
 

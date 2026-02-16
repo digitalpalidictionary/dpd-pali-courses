@@ -1,5 +1,5 @@
 
-## Imperative (*pañcamī*)
+# Imperative (*pañcamī*)
 
 ***
 

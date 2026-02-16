@@ -1,5 +1,5 @@
 
-### Phonetic changes of -n-
+# Phonetic changes of -n-
 
 This occurs with the **past participle** or **adjectives** ending -na, **neuter nouns ending** in -na, etc
 

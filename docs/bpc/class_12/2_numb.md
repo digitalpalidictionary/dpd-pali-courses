@@ -1,4 +1,4 @@
-## Numbers (*saṅkhyā*)
+# Numbers (*saṅkhyā*)
 
 Numbers are **adjectives** that describe how many of something there are, etc.
 

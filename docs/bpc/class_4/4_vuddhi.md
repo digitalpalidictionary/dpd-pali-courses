@@ -1,4 +1,4 @@
-## avuddhika / guṇa / vuḍḍhi
+# avuddhika / guṇa / vuḍḍhi
 
 (weak / strengthened / lengthened)
 

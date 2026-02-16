@@ -1,4 +1,4 @@
-## Imperative Verbs!
+# Imperative Verbs!
 
 The imperative mood can express a command, gentle advice, a blessing, a curse, a wish or a prayer.
 

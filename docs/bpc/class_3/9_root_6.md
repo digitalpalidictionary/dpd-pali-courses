@@ -1,6 +1,6 @@
 
 
-### Root Group 6 - gahādigaṇa
+# Root Group 6 - gahādigaṇa
 
 = gah + ādi + gaṇa
 

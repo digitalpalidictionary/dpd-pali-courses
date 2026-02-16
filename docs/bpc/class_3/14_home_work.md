@@ -24,7 +24,7 @@
 
 ***
 
-### Extra Reading
+# Extra Reading
 
 | A.K. Warder Introduction to Pāli                                | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
 |-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------|

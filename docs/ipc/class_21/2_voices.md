@@ -1,7 +1,7 @@
 
 ***
 
-## Three Voices: Active, Reflexive and Passive
+# Three Voices: Active, Reflexive and Passive
 
 ***
 

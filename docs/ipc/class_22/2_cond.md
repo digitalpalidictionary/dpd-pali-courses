@@ -1,5 +1,5 @@
 
-## Conditional Tense (*kālātipatti*)
+# Conditional Tense (*kālātipatti*)
 
 ***
 

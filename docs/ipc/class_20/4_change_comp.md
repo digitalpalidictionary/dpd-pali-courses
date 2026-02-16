@@ -1,5 +1,5 @@
 
-## Changes Of Certain Words In Compounds
+# Changes Of Certain Words In Compounds
 
 | aha     | day         | ahu    | tadahu        | that very day                                            |
 |---------|-------------|--------|---------------|----------------------------------------------------------|

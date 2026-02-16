@@ -1,4 +1,4 @@
-## Pāli Alphabet Analysis
+# Pāli Alphabet Analysis
 
 In order to understand some of the lessons that follow, you need to understand the Pāli Alphabet in a bit more detail. So each week there will be given a little more information.
 

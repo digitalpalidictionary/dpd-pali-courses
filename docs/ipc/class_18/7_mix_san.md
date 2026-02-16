@@ -1,5 +1,5 @@
 
-## Mixed Sandhi (vomissaka-sandhi)
+# Mixed Sandhi (vomissaka-sandhi)
 
 ***
 

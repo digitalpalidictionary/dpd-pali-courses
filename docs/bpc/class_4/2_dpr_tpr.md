@@ -1,4 +1,4 @@
-## How to use DPR
+# How to use DPR
 
 Digital Pāli Reader
 

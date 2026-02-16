@@ -1,4 +1,4 @@
-## (Passive) Past Participles
+# (Passive) Past Participles
 
 The past participle is another **verbal adjective** which describes the action that a noun did (in the past). It is extremely common in the Tipiṭaka.
 

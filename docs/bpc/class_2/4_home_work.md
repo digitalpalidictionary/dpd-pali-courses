@@ -1,5 +1,5 @@
 
-## How to do the exercises
+# How to do the exercises
 
 Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
 

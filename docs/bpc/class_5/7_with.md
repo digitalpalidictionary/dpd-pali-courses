@@ -1,4 +1,4 @@
-## With & together with “saddhiṃ” and “saha”
+# With & together with “saddhiṃ” and “saha”
 
 In Pāli only the instrumental case can express the meaning of **with** or **together with**.
 

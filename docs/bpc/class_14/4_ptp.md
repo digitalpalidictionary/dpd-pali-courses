@@ -1,4 +1,4 @@
-## Potential Participle (ptp)
+# Potential Participle (ptp)
 
 ***
 

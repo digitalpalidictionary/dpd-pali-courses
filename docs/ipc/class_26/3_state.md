@@ -1,5 +1,5 @@
 
-## State of Being (bhāvataddhita)
+# State of Being (bhāvataddhita)
 
 ### tā (state of) abstract feminine nouns
 

@@ -1,4 +1,4 @@
-## Masculine Noun ending in -i 
+# Masculine Noun ending in -i
 
 There are about **400** of these nouns in the DPD[^12].
 

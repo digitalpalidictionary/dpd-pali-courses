@@ -1,5 +1,5 @@
 
-### Root Group 4 - svādigaṇa
+# Root Group 4 - svādigaṇa
 
 ***
 

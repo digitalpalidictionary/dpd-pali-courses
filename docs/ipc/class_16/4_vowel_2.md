@@ -1,5 +1,5 @@
 
-#### Possibility \#2
+# Possibility \#2
 
 When a dissimilar vowel follows another vowel, it is sometimes elided.
 

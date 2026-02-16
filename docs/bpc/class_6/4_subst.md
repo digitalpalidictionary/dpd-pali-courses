@@ -1,4 +1,4 @@
-## Substantives (guṇanāma)
+# Substantives (guṇanāma)
 
 Substantives are formed by taking a noun and adding a suffix at the end.
 

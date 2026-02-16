@@ -1,4 +1,4 @@
-## Root Group 3 – divādigaṇa
+# Root Group 3 – divādigaṇa
 
 ***
 

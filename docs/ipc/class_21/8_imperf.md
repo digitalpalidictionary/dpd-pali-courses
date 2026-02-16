@@ -1,5 +1,5 @@
 
-## Imperfect Past Tense (*hiyyattanī*)
+# Imperfect Past Tense (*hiyyattanī*)
 
 ***
 

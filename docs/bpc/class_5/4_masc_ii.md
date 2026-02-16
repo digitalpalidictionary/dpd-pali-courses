@@ -1,4 +1,4 @@
-## Masculine nouns ending in -ī
+# Masculine nouns ending in -ī
 
 A large group of nouns is formed by adding the **ī** ending.
 

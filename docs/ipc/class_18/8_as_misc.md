@@ -1,5 +1,5 @@
 
-## Another consonant assimilation
+# Another consonant assimilation
 
 -   **Regressive Assimilation with prefixes ud- ; dur- ; nir-**
 

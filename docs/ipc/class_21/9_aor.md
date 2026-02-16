@@ -1,5 +1,5 @@
 
-## Aorist (*ajjatanī*)
+# Aorist (*ajjatanī*)
 
 ***
 

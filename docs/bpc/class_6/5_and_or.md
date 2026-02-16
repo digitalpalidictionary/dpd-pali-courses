@@ -1,4 +1,4 @@
-## Conjunction “ca”
+# Conjunction “ca”
 
 The most common word for “*and*” in the Tipiṭaka is “**ca**”.
 

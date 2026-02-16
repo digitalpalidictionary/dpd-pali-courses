@@ -1,5 +1,5 @@
 
-## Class 13 Exercises
+# Class 13 Exercises
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|

@@ -1,5 +1,5 @@
 
-## General “Rules” for Compounds
+# General “Rules” for Compounds
 
 ***
 

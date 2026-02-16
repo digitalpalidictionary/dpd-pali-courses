@@ -1,5 +1,5 @@
 
-#### Possibility \#7
+# Possibility \#7
 
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
 

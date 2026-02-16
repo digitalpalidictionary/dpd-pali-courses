@@ -1,4 +1,4 @@
-## Definite and indefinite article
+# Definite and indefinite article
 
 *A man* – here “a” is called the **indefinite article**, it refers to some unspecified man, not to a specific man.
 

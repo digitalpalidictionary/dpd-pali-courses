@@ -1,5 +1,5 @@
 
-## Optative (*sattamī*)
+# Optative (*sattamī*)
 
 ***
 

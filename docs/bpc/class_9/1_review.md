@@ -1,4 +1,4 @@
-### Review
+# Review
 
 1.  diṭṭhiṃ ca anupagamma, sīlavā dassanena sampanno, kāmesu vineyya gedhaṃ, na hi jātu gabbhaseyyaṃ puna eti
 

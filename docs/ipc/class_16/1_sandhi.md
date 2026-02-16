@@ -1,6 +1,6 @@
 ***
 
-## Sandhi
+# Sandhi
 
 saṃ + √dhā + i \> sandhi
 

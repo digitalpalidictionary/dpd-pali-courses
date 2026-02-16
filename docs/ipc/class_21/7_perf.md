@@ -1,5 +1,5 @@
 
-## Perfect Past Tense (*parokkhā*)
+# Perfect Past Tense (*parokkhā*)
 
 ***
 

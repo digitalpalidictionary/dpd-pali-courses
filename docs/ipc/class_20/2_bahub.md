@@ -1,5 +1,5 @@
 
-## Bahubbīhi-samāsa or Attributive Compounds
+# Bahubbīhi-samāsa or Attributive Compounds
 
 (much-paddy-compound)
 

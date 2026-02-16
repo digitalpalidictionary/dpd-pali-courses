@@ -1,5 +1,5 @@
 
-## Consonant Sandhi (*vyañjana-sandhi)*
+# Consonant Sandhi (*vyañjana-sandhi)*
 
 ***
 

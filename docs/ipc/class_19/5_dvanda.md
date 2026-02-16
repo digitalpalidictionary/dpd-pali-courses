@@ -1,5 +1,5 @@
 
-## Dvanda Samāsa
+# Dvanda Samāsa
 
 “twin compounds” or “copulative compounds”
 

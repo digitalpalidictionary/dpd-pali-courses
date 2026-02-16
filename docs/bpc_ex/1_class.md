@@ -1,4 +1,4 @@
-## Class 1 Exercises
+# Class 1 Exercises
 
 namo tassa bhagavato arahato sammā-sambuddhassa
 | Pāli                                                                                                                                                                       | POS       | Grammar                    | English                      | Root   |

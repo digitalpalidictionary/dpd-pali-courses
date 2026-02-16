@@ -1,4 +1,4 @@
-## Cardinal Numbers (saṅkhyā-padhāna)
+# Cardinal Numbers (saṅkhyā-padhāna)
 
 ***
 

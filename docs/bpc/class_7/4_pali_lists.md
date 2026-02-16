@@ -1,4 +1,4 @@
-## Traditional Pāli Root lists
+# Traditional Pāli Root lists
 
 -   Dhātupātha
 -   Dhātumañjūsa

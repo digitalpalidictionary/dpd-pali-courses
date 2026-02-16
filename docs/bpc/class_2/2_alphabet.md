@@ -1,4 +1,4 @@
-## The Alphabet & Pronunciation
+# The Alphabet & Pronunciation
 
 There are 8 vowels and 33 consonants in the Pāli alphabet.
 

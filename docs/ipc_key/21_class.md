@@ -1,5 +1,5 @@
 
-## Class 21 Exercises
+# Class 21 Exercises
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
 

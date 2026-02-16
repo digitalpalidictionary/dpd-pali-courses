@@ -1,4 +1,4 @@
-## Feminine Nouns ending in -ā
+# Feminine Nouns ending in -ā
 
 | 1.nom  | vedan**ā**                      | vedan**ā** <br>vedan**āyo**  |
 |--------|---------------------------------|------------------------------|

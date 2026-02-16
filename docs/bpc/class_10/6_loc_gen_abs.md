@@ -1,4 +1,4 @@
-## Locative Absolute
+# Locative Absolute
 
 When a **noun** or a **pronoun** in the **locative** case is used with a **participle** in the same case as itself, the construction is called Locative Absolute.
 
