@@ -1,0 +1,32 @@
+
+
+### Review
+
+1.  anusaya
+2.  pr.
+3.  aṭṭhakathā
+4.  pron.
+5.  hiri
+6.  adj.
+7.  pañcakkhandha
+8.  gen.
+9.  dhutaṅga
+10. inf.
+11. papañca
+12. ind.
+13. hitesī
+14. lit.
+15. indriyasaṃvara
+16. masc.
+17. kalyāṇamitta
+18. nom.
+19. dukkaṭa
+20. opt.
+21. manasikāra
+22. pl.
+23. muditā
+24. pp.
+25. nibbidā
+26. adv.
+27. catumadhura
+
