@@ -2,353 +2,373 @@ import argparse
 import sys
 import os
 import re
-import subprocess
 
 class BasicCleaner:
-    """Handles basic Markdown cleaning operations."""
-
     def remove_nbsp(self, text):
-        """Replaces &nbsp; with a standard space."""
         return text.replace("&nbsp;", " ")
 
     def standardize_headings(self, text):
-        """
-        Ensures ONLY the first heading in the file is an H1.
-        All other headings must be at least H2.
-        """
         lines = text.splitlines()
         first_heading_idx = -1
-        
-        # 1. Find the index of the first heading
         for idx, line in enumerate(lines):
             if re.match(r'^#+\s+', line):
                 first_heading_idx = idx
                 break
-        
-        if first_heading_idx == -1:
-            return text
-
+        if first_heading_idx == -1: return text
         new_lines = []
         for idx, line in enumerate(lines):
             match = re.match(r'^(#+)(\s+.*)$', line)
             if match:
                 level = len(match.group(1))
                 content = match.group(2).strip()
-                
                 if idx == first_heading_idx:
-                    # Always make the very first heading H1
                     new_lines.append("# " + content)
                 else:
-                    # All subsequent headings MUST be at least H2
-                    # If it was H1, it becomes H2. If it was H2+, it remains.
                     new_level = max(2, level)
                     new_lines.append("#" * new_level + " " + content)
             else:
                 new_lines.append(line)
-                
         return "\n".join(new_lines) + ("\n" if text.endswith("\n") else "")
 
-    def fix_links(self, text):
-        """Fixes broken internal links or image references (placeholder)."""
-        return text
-
     def clean_horizontal_rules(self, text):
-        """Reduces multiple consecutive horizontal rules (***) to a single one.
-        Ensures it only matches lines containing ONLY the horizontal rule.
-        """
-        # Match lines that are exactly '***' (with optional whitespace)
-        # We use re.MULTILINE to make ^ and $ match start/end of lines
         text = re.sub(r'^\s*\*\*\*\s*$', '___HR_MARKER___', text, flags=re.MULTILINE)
-        # Reduce multiple markers (optionally separated by whitespace/newlines) to one
         text = re.sub(r'(\s*___HR_MARKER___\s*)+', '\n***\n', text)
         return text.strip()
 
     def remove_empty_headings(self, text):
-        """Removes lines that consist only of '#' characters and whitespace."""
         lines = text.splitlines()
         new_lines = []
         for line in lines:
-            # Match lines with one or more '#' and nothing else
             if re.match(r'^\s*#+\s*$', line):
                 continue
             new_lines.append(line)
         return "\n".join(new_lines)
 
     def clean(self, text):
-        """Applies all basic cleaning operations."""
         text = self.remove_nbsp(text)
         text = self.standardize_headings(text)
-        text = self.fix_links(text)
         text = self.clean_horizontal_rules(text)
         text = self.remove_empty_headings(text)
         return text
 
 class TableFixer:
-    """Specialized class for fixing Markdown tables."""
-
-    @staticmethod
-    def count_cols(row):
-        """Robust column counting for piped tables."""
-        inner = row.strip()
-        if inner.startswith("|"): inner = inner[1:]
-        if inner.endswith("|"): inner = inner[:-1]
-        return len(inner.split("|"))
-
     @staticmethod
     def get_cells(row):
-        """Extracts cells from a table row."""
         inner = row.strip()
         if inner.startswith("|"): inner = inner[1:]
         if inner.endswith("|"): inner = inner[:-1]
         return [c.strip() for c in inner.split("|")]
 
-    def format_title(self, text):
-        """Wraps text in bold if not already bold. Smarter about internal boldness."""
-        text = text.strip()
-        # If already fully bolded
-        if text.startswith("**") and text.endswith("**") and text.count("**") == 2:
-            return text
+    def restructure_sentence_analysis(self, text, file_path=""):
+        is_ex_file = "_ex/" in file_path
+        no_numbering = any(f in file_path for f in ["15_class.md", "29_class.md"])
+        is_ipc_special_file = any(f"{n}_class" in file_path for n in range(16, 20))
         
-        # If has internal boldness, strip it and wrap whole thing
-        if "**" in text:
-            clean_text = text.replace("**", "")
-            return f"**{clean_text}**"
-            
-        return f"**{text}**"
-
-    def is_empty_row(self, row):
-        """Checks if a row consists only of pipes and whitespace."""
-        cells = self.get_cells(row)
-        return not any(c for c in cells)
-
-    def restructure_sentence_analysis(self, text):
-        """
-        Specialized logic for bpc_key/ etc. tables.
-        Spreads Pāli sentences and English translations across all columns.
-        """
         lines = text.splitlines()
         new_lines = []
+        sentence_counter = 0
+        sentence_active = False
+        in_exercises_section = False
         i = 0
+
+        def is_pali_sentence(s):
+            s = s.strip()
+            if not s: return False
+            if s.startswith("#") and "<br>" not in s: return False
+            
+            # Root and analysis symbols always mean it's NOT a Pāli sentence for numbering
+            if "√" in s or "+" in s: return False
+            
+            # Compound analysis without <br> is not a sentence
+            if ("<" in s or ">" in s) and "<br>" not in s: return False
+            
+            english_words = {
+                "the", "and", "with", "from", "for", "him", "her", "they", "was", "were", "been",
+                "is", "are", "to", "of", "in", "on", "at", "by", "as", "be", "it", "this",
+                "that", "which", "who", "not", "but", "or", "he", "she", "his", "her", "my", "your",
+                "i", "you", "we", "they", "them", "had", "have", "has", "do", "does", "did",
+                "all", "precedes", "chief", "states", "phenomena", "ruled", "created",
+                "brahmin", "monks", "noble", "truth", "suffering", "path", "attainment",
+                "wisdom", "knowledge", "light", "arose", "power", "body",
+                "stop", "enough", "don't", "don", "grieve", "lament", "happy", "joyful",
+                "passive", "verbs", "voice", "tense", "present", "future", "past", "aorist",
+                "imperative", "optative", "conditional", "participle", "gerund", "absolutive",
+                "infinitive", "noun", "adjective", "pronoun", "adverb", "preposition",
+                "conjunction", "interjection", "particle", "idiom", "common", "example",
+                "singular", "plural", "masculine", "feminine", "neuter", "nominative",
+                "accusative", "instrumental", "dative", "ablative", "genitive", "locative", "vocative",
+                "venerable", "make", "yourself", "unadmonishable", "should", "asked", "question",
+                "these", "four", "times", "being", "done", "routinely",
+                "cf", "collins", "page", "volume", "vol", "edition", "ed", "translated", "translation"
+            }
+            # Enhanced reference stripping
+            clean_s = re.sub(r'[A-Z]+\s+\d+\.\d+', '', s)
+            clean_s = re.sub(r'[A-Z][a-z]+\s+\d+', '', clean_s)
+            clean_s = re.sub(r'\[\^\d+\]', '', clean_s)
+            words_en = re.findall(r"\b[a-z']+\b", clean_s.lower())
+            if any(w in english_words for w in words_en): return False
+            
+            # Refined Pāḷi component count (splitting by space, hyphen, apostrophe)
+            pali_components = re.findall(r"[^\s\-']+", s)
+            comp_count = len(pali_components)
+            
+            return "<br>" in s or (re.match(r'^[A-Z0-9]', s) and comp_count >= 3) or comp_count >= 3
+
+        def is_translation(s):
+            s = s.strip()
+            if not s: return False
+            if s.startswith("#") and "<br>" not in s: return False
+            
+            # Compound analysis and root analysis lines are translations/notes
+            if "√" in s or "+" in s: return True
+            if ("<" in s or ">" in s) and "<br>" not in s: return True
+            
+            english_words = {
+                "the", "and", "with", "from", "for", "him", "her", "they", "was", "were", "been",
+                "is", "are", "to", "of", "in", "on", "at", "by", "as", "be", "it", "this",
+                "that", "which", "who", "not", "but", "or", "he", "she", "his", "her", "my", "your",
+                "i", "you", "we", "they", "them", "had", "have", "has", "do", "does", "did",
+                "all", "precedes", "chief", "states", "phenomena", "ruled", "created",
+                "brahmin", "monks", "noble", "truth", "suffering", "path", "attainment",
+                "wisdom", "knowledge", "light", "arose", "power", "body",
+                "stop", "enough", "don't", "don", "grieve", "lament", "happy", "joyful",
+                "passive", "verbs", "voice", "tense", "present", "future", "past", "aorist",
+                "imperative", "optative", "conditional", "participle", "gerund", "absolutive",
+                "infinitive", "noun", "adjective", "pronoun", "adverb", "preposition",
+                "conjunction", "interjection", "particle", "idiom", "common", "example",
+                "singular", "plural", "masculine", "feminine", "neuter", "nominative",
+                "accusative", "instrumental", "dative", "ablative", "genitive", "locative", "vocative",
+                "venerable", "make", "yourself", "unadmonishable", "should", "asked", "question",
+                "these", "four", "times", "being", "done", "routinely",
+                "cf", "collins", "page", "volume", "vol", "edition", "ed", "translated", "translation"
+            }
+            clean_s = re.sub(r'[A-Z]+\s+\d+\.\d+', '', s)
+            clean_s = re.sub(r'[A-Z][a-z]+\s+\d+', '', clean_s)
+            words = re.findall(r"\b[a-z']+\b", clean_s.lower())
+            if any(w in english_words for w in words) or s.endswith(":"): return True
+            
+            if "<" in s or ">" in s:
+                if "<br>" not in s: return False
+            
+            if re.match(r'^[A-Z]+\s+\d+\.\d+$', s): return False
+            return (re.match(r'^[A-Z\*\[\(\"\']', s) or s.startswith("**")) and len(s.split()) >= 2
+
+        def is_special_marker(s):
+            s = s.strip().lower()
+            return any(k in s for k in ["join the", "disjoin the", "dis-join the"])
+
+        def finalize_block():
+            nonlocal sentence_active
+            if is_ex_file and sentence_active:
+                new_lines.append("**&nbsp;**")
+                new_lines.append("")
+                new_lines.append("")
+                sentence_active = False
+
+        def split_combined_content(txt):
+            parts = re.split(r'<br>\s*(?=[A-Z]{2,}\s+\d+)', txt)
+            return [p.strip() for p in parts if p.strip()]
+
         while i < len(lines):
             line = lines[i]
-            # Detect table
+            stripped = line.strip()
+            if "**exercises**" in stripped.lower(): in_exercises_section = True
+            if stripped.startswith("#"):
+                finalize_block()
+                sentence_counter = 0
+                new_lines.append(line)
+                i += 1
+                continue
+
             if "|" in line and i + 1 < len(lines) and re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", lines[i+1]):
                 table_lines = []
-                j = i
-                while j < len(lines) and "|" in lines[j]:
-                    table_lines.append(lines[j])
-                    j += 1
-                
-                max_cols = self.count_cols(table_lines[1])
-                
-                fixed_table = []
-                for idx, row in enumerate(table_lines):
-                    if idx == 1:
-                        fixed_table.append(row)
-                        continue
-                    
-                    cells = self.get_cells(row)
-                    content_cells = [c for c in cells if c]
-                    
-                    # Heuristic for sentence/translation row: 
-                    # Only first cell has content, and it's long or contains <br> or starts with Cap
-                    is_pali_sentence = len(content_cells) == 1 and "<br>" in cells[0]
-                    is_english_trans = len(content_cells) == 1 and re.match(r'^[A-Z]', cells[0]) and len(cells[0].split()) > 3
-                    
-                    if is_pali_sentence or is_english_trans:
-                        # Spread across all columns: | Content | | | |
-                        new_row = "| " + cells[0] + " | " + " | ".join([""] * (max_cols - 1)) + " |"
-                        fixed_table.append(new_row)
-                    else:
-                        # Regular row normalization
-                        current_cols = self.count_cols(row)
-                        if current_cols < max_cols:
-                            row = row.strip()
-                            if not row.endswith("|"): row += " |"
-                            row += " |" * (max_cols - current_cols)
-                        fixed_table.append(row)
-                
-                new_lines.extend(fixed_table)
-                i = j
-                continue
-            
-            new_lines.append(line)
-            i += 1
-        return "\n".join(new_lines) + ("\n" if text.endswith("\n") else "")
-
-    def adjust_structure(self, text):
-        """
-        Adjusts table structure.
-        Ensures a horizontal rule follows every table.
-        """
-        lines = text.splitlines()
-        new_lines = []
-        i = 0
-        current_section = ""
-        
-        while i < len(lines):
-            line = lines[i]
-            
-            # Track current section to handle ### Extra Reading
-            if line.startswith("#"):
-                current_section = line.strip()
-
-            # Detect table start (Header + Separator)
-            if "|" in line and i + 1 < len(lines) and re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", lines[i+1]):
-                header_row = line
-                separator_row = lines[i+1]
-                col_count = self.count_cols(separator_row)
-                
-                header_cells = self.get_cells(header_row)
-                if len(header_cells) < col_count:
-                    header_cells.extend([''] * (col_count - len(header_cells)))
-                
-                non_empty_header = [c for c in header_cells if c]
-                first_cell = header_cells[0] if header_cells else ""
-                
-                # Logic for headless tables (Type 2 / Extra Reading)
-                is_extra_reading = "Extra Reading" in current_section
-                is_false_header = col_count > 1 and re.match(r'^[a-z]', first_cell) and len(non_empty_header) > 1
-                
-                if is_extra_reading or is_false_header:
-                    # Make it headless
-                    new_lines.append(("| " * col_count) + "|")
-                    new_lines.append("|---" + "|---" * (col_count - 1) + "|")
-                    if not self.is_empty_row(header_row):
-                        new_lines.append(header_row)
-                    i += 2 # Skip original header and separator
-                elif col_count > 1 and len(non_empty_header) == 1 and header_cells[0]:
-                    # Type 1: Spanning Header - Extract title
-                    new_lines.append(self.format_title(header_cells[0]))
-                    new_lines.append(("| " * col_count) + "|")
-                    new_lines.append("|---" + "|---" * (col_count - 1) + "|")
-                    i += 2 # Skip original header and separator
-                else:
-                    # Normal table
-                    new_lines.append(header_row)
-                    new_lines.append(separator_row)
-                    i += 2
-
-                # Process Table Body
                 while i < len(lines) and "|" in lines[i]:
-                    row = lines[i]
-                    if not row.strip() or "|" not in row:
-                        break
-                    
-                    # Skip empty data rows
-                    if self.is_empty_row(row):
-                        i += 1
-                        continue
-                        
-                    # Normalize column count
-                    current_cols = self.count_cols(row)
-                    if current_cols < col_count:
-                        row = row.strip()
-                        if not row.endswith("|"): row += " |"
-                        row += " |" * (col_count - current_cols)
-                    new_lines.append(row)
+                    table_lines.append(lines[i])
                     i += 1
                 
-                # End of table: Add horizontal rule
-                new_lines.append("***")
+                # SPECIAL TASK LOGIC
+                is_plus_table = any(" + " in tl for tl in table_lines)
+                is_task_header = is_special_marker(self.get_cells(table_lines[0])[0])
+                
+                if is_ipc_special_file and not in_exercises_section and (is_plus_table or is_task_header):
+                    data_rows = []
+                    for tl in table_lines:
+                        if re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", tl): continue
+                        cells = self.get_cells(tl)
+                        non_empty = [c for c in cells if c]
+                        if not non_empty: continue
+                        
+                        is_real_header = any(h.lower() in ["pāli", "pos", "grammar", "english", "root"] for h in cells)
+                        if is_real_header and len(non_empty) > 1: continue
+                        
+                        if is_special_marker(non_empty[0]) and len(non_empty) == 1:
+                            if data_rows:
+                                new_lines.append("| | |")
+                                new_lines.append("|---|---|")
+                                for dr in data_rows: new_lines.append(f"| {dr[0]} | {dr[-1]} |")
+                                new_lines.append("")
+                                data_rows = []
+                            new_lines.append(f"**{non_empty[0].replace('**','')}**")
+                            new_lines.append("")
+                        else:
+                            data_rows.append([non_empty[0], non_empty[-1]])
+                    if data_rows:
+                        new_lines.append("| | |")
+                        new_lines.append("|---|---|")
+                        for dr in data_rows: new_lines.append(f"| {dr[0]} | {dr[-1]} |")
+                        new_lines.append("")
+                    continue
+
+                # STANDARD TABLE LOGIC
+                max_cols = 0
+                for tl in table_lines:
+                    if re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", tl):
+                        max_cols = tl.count("|") - 1
+                        break
+                
+                header_cells = self.get_cells(table_lines[0])
+                is_real_header = any(h.lower() in ["pāli", "pos", "grammar", "english", "root"] for h in header_cells)
+                is_sentence_head = len([c for c in header_cells if c]) == 1 and is_pali_sentence(header_cells[0])
+                
+                start_k = 2 if (is_real_header and not is_sentence_head) else 0
+                is_false_head = (start_k == 0)
+
+                current_rows = []
+                first_sub = True
+                
+                for k in range(start_k, len(table_lines)):
+                    if k == 1 and start_k == 0: continue
+                    row = table_lines[k]
+                    if re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", row): continue
+                    
+                    cells = self.get_cells(row)
+                    non_empty = [c for c in cells if c]
+                    original_txt = cells[0] if cells else ""
+                    
+                    # Ensure single-cell rows stay in the table IF they are not sentences/translations
+                    # This primarily fixes the #ca issue.
+                    if len(non_empty) == 1:
+                        txt_parts = split_combined_content(original_txt)
+                        # If splitting results in multiple parts, we definitely split them out.
+                        # If it's just one part, check if it's a Pāli sentence or translation.
+                        if len(txt_parts) > 1:
+                            for txt in txt_parts:
+                                if current_rows:
+                                    # flush current table before splitting out
+                                    header_type = "| " + " | ".join(["Pāli", "POS", "Grammar", "English", "Root"][:max_cols]) + " |" if first_sub and not is_false_head else "|" + " |" * max_cols
+                                    new_lines.append(header_type)
+                                    new_lines.append("|" + "---|" * max_cols)
+                                    for cr in current_rows:
+                                        c_list = self.get_cells(cr)
+                                        while len(c_list) < max_cols: c_list.append("")
+                                        new_lines.append("| " + " | ".join(c_list[:max_cols]) + " |")
+                                    new_lines.append("")
+                                    finalize_block()
+                                    current_rows = []
+                                    first_sub = False
+                                
+                                if is_pali_sentence(txt) or (not is_translation(txt)):
+                                    sentence_counter += 1
+                                    clean_s = re.sub(r'^\d+\.\s*', '', txt)
+                                    new_lines.append(f"{clean_s}" if no_numbering else f"{sentence_counter}. {clean_s}")
+                                    new_lines.append("")
+                                    sentence_active = True
+                                else:
+                                    new_lines.append(f"**{txt.replace('**','')}**")
+                                    new_lines.append("")
+                                    sentence_active = False
+                        else:
+                            txt = txt_parts[0]
+                            # Only split out if it's clearly a sentence or translation, 
+                            # AND it's not a '#' line (which we want to keep in tables).
+                            if (is_pali_sentence(txt) or is_translation(txt)) and not txt.startswith("#"):
+                                if current_rows:
+                                    header_type = "| " + " | ".join(["Pāli", "POS", "Grammar", "English", "Root"][:max_cols]) + " |" if first_sub and not is_false_head else "|" + " |" * max_cols
+                                    new_lines.append(header_type)
+                                    new_lines.append("|" + "---|" * max_cols)
+                                    for cr in current_rows:
+                                        c_list = self.get_cells(cr)
+                                        while len(c_list) < max_cols: c_list.append("")
+                                        new_lines.append("| " + " | ".join(c_list[:max_cols]) + " |")
+                                    new_lines.append("")
+                                    finalize_block()
+                                    current_rows = []
+                                    first_sub = False
+                                
+                                if is_pali_sentence(txt):
+                                    sentence_counter += 1
+                                    clean_s = re.sub(r'^\d+\.\s*', '', txt)
+                                    new_lines.append(f"{clean_s}" if no_numbering else f"{sentence_counter}. {clean_s}")
+                                    new_lines.append("")
+                                    sentence_active = True
+                                else:
+                                    new_lines.append(f"**{txt.replace('**','')}**")
+                                    new_lines.append("")
+                                    sentence_active = False
+                            else:
+                                if any(cells): current_rows.append(row)
+                    else:
+                        if any(cells): current_rows.append(row)
+                
+                if current_rows:
+                    if first_sub and not is_false_head:
+                        std_h = ["Pāli", "POS", "Grammar", "English", "Root"][:max_cols]
+                        new_lines.append("| " + " | ".join(std_h) + " |")
+                        new_lines.append("|" + "---|" * max_cols)
+                    else:
+                        new_lines.append("|" + " |" * max_cols)
+                        new_lines.append("|" + "---|" * max_cols)
+                    for cr in current_rows:
+                        c_list = self.get_cells(cr)
+                        while len(c_list) < max_cols: c_list.append("")
+                        new_lines.append("| " + " | ".join(c_list[:max_cols]) + " |")
+                    new_lines.append("")
                 continue
 
-            new_lines.append(line)
+            if stripped:
+                parts = split_combined_content(stripped)
+                for part in parts:
+                    if is_special_marker(part):
+                        finalize_block()
+                        new_lines.append(f"**{part.replace('**','')}**")
+                        new_lines.append("")
+                    elif is_pali_sentence(part):
+                        finalize_block()
+                        sentence_counter += 1
+                        clean_s = re.sub(r'^\d+\.\s*', '', part)
+                        new_lines.append(f"{clean_s}" if no_numbering else f"{sentence_counter}. {clean_s}")
+                        new_lines.append("")
+                        sentence_active = True
+                    elif is_translation(part):
+                        new_lines.append(f"**{part.replace('**','')}**")
+                        new_lines.append("")
+                        sentence_active = False
+                    else:
+                        new_lines.append(part)
+            else:
+                new_lines.append(line)
             i += 1
-            
+        
+        finalize_block()
         return "\n".join(new_lines) + ("\n" if text.endswith("\n") else "")
 
-class AdvancedCleaner:
-    """Handles advanced Markdown cleaning operations."""
-    
-    def __init__(self):
-        self.table_fixer = TableFixer()
-
-    def clean(self, text, file_path=""):
-        """Applies all advanced cleaning operations."""
-        # Special restructuring for key/ex folders
-        if any(x in file_path for x in ["_key/", "_ex/"]):
-            text = self.table_fixer.restructure_sentence_analysis(text)
-            
-        text = self.table_fixer.adjust_structure(text)
-        return text
-
-def discover_files(path):
-    """Recursively lists all .md files in the given path."""
-    md_files = []
-    for root, dirs, files in os.walk(path):
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--path", default="docs")
+    args = parser.parse_args(sys.argv[1:])
+    bc = BasicCleaner()
+    tf = TableFixer()
+    for root, _, files in os.walk(args.path):
         for file in files:
             if file.endswith(".md"):
-                md_files.append(os.path.join(root, file))
-    return sorted(md_files)
+                fp = os.path.join(root, file)
+                if "ipc/class_18/11_ex.md" in fp: continue
+                with open(fp, "r") as f: content = f.read()
+                orig = content
+                content = bc.clean(content)
+                content = tf.restructure_sentence_analysis(content, fp)
+                if content != orig:
+                    with open(fp, "w") as f: f.write(content)
+                    print(f"  [FIXED] {fp}")
 
-def parse_arguments(args):
-    """Parses command line arguments."""
-    parser = argparse.ArgumentParser(description="Clean and reformat Markdown files in docs/ folder.")
-    parser.add_argument(
-        "--mode",
-        choices=["basic", "advanced", "both"],
-        default="basic",
-        help="Cleaning mode: 'basic', 'advanced', or 'both' (default: basic)"
-    )
-    parser.add_argument(
-        "--path",
-        default="docs",
-        help="Path to the directory containing Markdown files (default: docs)"
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Display changes without modifying files."
-    )
-    return parser.parse_args(args)
-
-def main():
-    args = parse_arguments(sys.argv[1:])
-    print(f"Running in {args.mode} mode on path: {args.path}{' (DRY RUN)' if args.dry_run else ''}")
-    
-    if not os.path.exists(args.path):
-        print(f"Error: Path '{args.path}' does not exist.")
-        sys.exit(1)
-        
-    files = discover_files(args.path)
-    
-    print(f"Found {len(files)} target Markdown files.")
-    
-    basic_cleaner = BasicCleaner()
-    advanced_cleaner = AdvancedCleaner()
-    
-    modified_count = 0
-    for file_path in files:
-        # User requested to skip docs/ipc/class_18/11_ex.md as its changes were wrong
-        if "ipc/class_18/11_ex.md" in file_path:
-            continue
-
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        
-        original_content = content
-        
-        if args.mode in ["basic", "both"]:
-            content = basic_cleaner.clean(content)
-            
-        if args.mode in ["advanced", "both"]:
-            content = advanced_cleaner.clean(content, file_path)
-            
-        # Final pass of basic cleaning to deduplicate rules that might have been added
-        if content != original_content:
-            content = basic_cleaner.clean_horizontal_rules(content)
-        
-        if content != original_content:
-            if not args.dry_run:
-                with open(file_path, "w", encoding="utf-8") as f:
-                    f.write(content)
-            modified_count += 1
-            print(f"  [FIXED] {file_path}")
-
-    print(f"\nProcessing complete.")
-    print(f"Total target files scanned: {len(files)}")
-    print(f"Files modified: {modified_count}")
-
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()

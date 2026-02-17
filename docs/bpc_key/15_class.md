@@ -1,326 +1,464 @@
-
-
 # Class 15
 
 **Translation Assignment**
 
-Please do a word-by-word grammatical analysis and translation of the following paragraphs.
+
+**Please do a word-by-word grammatical analysis and translation of the following paragraphs.**
+
 
 1\. AN 5.29 caṅkama-suttaṃ (paragraph 29)
 
-"pañcime (pañca + ime), bhikkhave, caṅkame ānisaṃsā. katame pañca? addhānakkhamo (addhānassa + khamo) hoti, padhānakkhamo (padhānassa + khamo) hoti, appābādho (appo + ābādho) hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato (caṅkamena + adhigato) samādhi ciraṭṭhitiko hoti. ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
+
+**"pañcime (pañca + ime), bhikkhave, caṅkame ānisaṃsā. katame pañca? addhānakkhamo (addhānassa + khamo) hoti, padhānakkhamo (padhānassa + khamo) hoti, appābādho (appo + ābādho) hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato (caṅkamena + adhigato) samādhi ciraṭṭhitiko hoti. ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.**
+
+
+"pañcime, bhikkhave, caṅkame ānisaṃsā.
 
 | Pāli | POS | Grammar | English | Root |
-|------|-----|---------|---------|------|
-| "pañcime, bhikkhave, caṅkame ānisaṃsā.                                                                                                                    |      |                    |                                                                                       |                              |
-| pañca-                                                                                                                                                    | card | x.nom.pl           | five                                                                                  |                              |
-| ime                                                                                                                                                       | pron | masc.nom.pl        | these                                                                                 |                              |
-| bhikkhave                                                                                                                                                 | noun | masc.voc.pl        | o monks!                                                                              | √bhikkh･1 a (beg)            |
-| caṅkame                                                                                                                                                   | noun | masc.loc.sg        | in walking meditation; on walking up and down (lit: in regard to walking meditation)  | √kam･1 a (go)                |
-| ānisaṃsā                                                                                                                                                  | noun | masc.nom.pl        | profits; merits; good results, benefits                                               | √saṃs･1 a (proclaim, praise) |
-| "Monks, [there are] these five benefits of walking meditation.                                                                                            |      |                    |                                                                                       |                              |
-| katame pañca?                                                                                                                                             |      |                    |                                                                                       |                              |
-| katame                                                                                                                                                    | pron | masc.nom.pl        | which; what; which of the many                                                        |                              |
-| pañca?                                                                                                                                                    | card | x.nom.pl           | five                                                                                  |                              |
-| Which five?                                                                                                                                               |      |                    |                                                                                       |                              |
-| addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti. |      |                    |                                                                                       |                              |
-| addhāna-                                                                                                                                                  | noun | nt                 | of a long path, time, or journey                                                      |                              |
-| khamo                                                                                                                                                     | adj  | masc.nom.sg (+gen) | patient, enduring, bearing                                                            | √kham･1 a (tolerate, endure) |
-| hoti                                                                                                                                                      | verb | pr.3rd.sg          | he is                                                                                 | √hū･1 a (be)                 |
-| he is able to endure a journey,                                                                                                                           |      |                    |                                                                                       |                              |
-| padhāna-                                                                                                                                                  | noun | nt                 | exertion, energetic effort, striving,                                                 |                              |
-| khamo                                                                                                                                                     | adj  | masc.nom.sg (+gen) | enduring; patient, bearing                                                            |                              |
-| hoti,                                                                                                                                                     | verb | pr.3rd.sg          | he is                                                                                 | √hū･1 a (be)                 |
-| he is capable of striving,                                                                                                                                |      |                    |                                                                                       |                              |
-| appa-                                                                                                                                                     | adj  |                    | not many                                                                              |                              |
-| ābādho                                                                                                                                                    | noun | masc.nom.sg        | affliction, illness, disease                                                          | √bādh･1 a (press, oppress)   |
-| hoti                                                                                                                                                      | v    | pr.3rd.sg          | he is                                                                                 | √hū･1 a (be)                 |
-| he is healthy (lit: of not many illnesses)                                                                                                                |      |                    |                                                                                       |                              |
-| asitaṃ                                                                                                                                                    | pp   | nt.acc.sg          | what has been eaten                                                                   | √as･1 a (eat)                |
-| pītaṃ                                                                                                                                                     | pp   | nt.acc.sg          | what has been drunk                                                                   | √pā･1 a (drink)              |
-| khāyitaṃ                                                                                                                                                  | pp   | nt.acc.sg          | what has been chewed                                                                  | √khād･1 a (chew)             |
-| sāyitaṃ                                                                                                                                                   | pp   | nt.acc.sg          | what has been tasted                                                                  | √sāy･1 a (taste)             |
-| sammā                                                                                                                                                     | ind  | adv                | properly; rightly; thoroughly                                                         |                              |
-| pariṇāmaṃ                                                                                                                                                 | noun | masc.acc.sg        | digestion                                                                             |                              |
-| gacchati,                                                                                                                                                 | v    | pr.3rd.sg          | he gets; lit. goes; moves                                                             | √gam･1 a (go)                |
-| what has been eaten, drunk, chewed, [and] tasted [is] gets digested thoroughly.                                                                           |      |                    |                                                                                       |                              |
-| caṅkama-                                                                                                                                                  | noun | masc.              | walking meditation; walking up and down                                               | √kam･1 a (go)                |
-| adhigato                                                                                                                                                  | pp   | masc.nom.sg        | attained; obtained; understood.                                                       | √gam･1 a (go)                |
-| samādhi                                                                                                                                                   | noun | masc.nom.sg        | concentration, stability of mind, unity                                               | √dhā･1 a (place, support)    |
-| ciraṭṭhitiko                                                                                                                                              | adj  | masc.nom.sg        | long-lasting; perpetual (lit: long-standing)                                          |                              |
-| hoti                                                                                                                                                      | verb | pr.3rd.sg          | is                                                                                    | √hū･1 a (be)                 |
-| The stability of mind attained from walking meditation is long-lasting.                                                                                   |      |                    |                                                                                       |                              |
-| ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.                                                                                                            |      |                    |                                                                                       |                              |
-| ime                                                                                                                                                       | pron | masc.nom.pl        | these                                                                                 |                              |
-| kho,                                                                                                                                                      | ind  | emph               | indeed                                                                                |                              |
-| bhikkhave,                                                                                                                                                | noun | masc.voc.pl        | o monks!                                                                              | √bhikkh･1 a (beg)            |
-| pañca                                                                                                                                                     | card | x.nom.pl           | five                                                                                  |                              |
-| caṅkame                                                                                                                                                   | noun | masc.loc.sg        | in walking meditation (in regard to…)                                                 | √kam･1 a (go)                |
-| ānisaṃsā                                                                                                                                                  | n    | m.n.pl             | profits; merits; good results, benefits                                               | √saṃs･1 a (proclaim, praise) |
-| "ti                                                                                                                                                       | ind  | endquote           | ""                                                                                    |                              |
-| Monks, these [are], indeed, the five benefits of walking meditation."                                                                                     |      |                    |                                                                                       |                              |
+|---|---|---|---|---|
+| pañca- | card | x.nom.pl | five |  |
+| ime | pron | masc.nom.pl | these |  |
+| bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
+| caṅkame | noun | masc.loc.sg | in walking meditation; on walking up and down (lit: in regard to walking meditation) | √kam･1 a (go) |
+| ānisaṃsā | noun | masc.nom.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
+
+**"Monks, [there are] these five benefits of walking meditation.**
+
+| | | | | |
+|---|---|---|---|---|
+| katame pañca? |  |  |  |  |
+| katame | pron | masc.nom.pl | which; what; which of the many |  |
+| pañca? | card | x.nom.pl | five |  |
+
+**Which five?**
+
+addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| addhāna- | noun | nt | of a long path, time, or journey |  |
+| khamo | adj | masc.nom.sg (+gen) | patient, enduring, bearing | √kham･1 a (tolerate, endure) |
+| hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
+
+**he is able to endure a journey,**
+
+| | | | | |
+|---|---|---|---|---|
+| padhāna- | noun | nt | exertion, energetic effort, striving, |  |
+| khamo | adj | masc.nom.sg (+gen) | enduring; patient, bearing |  |
+| hoti, | verb | pr.3rd.sg | he is | √hū･1 a (be) |
+
+**he is capable of striving,**
+
+| | | | | |
+|---|---|---|---|---|
+| appa- | adj |  | not many |  |
+| ābādho | noun | masc.nom.sg | affliction, illness, disease | √bādh･1 a (press, oppress) |
+| hoti | v | pr.3rd.sg | he is | √hū･1 a (be) |
+
+**he is healthy (lit: of not many illnesses)**
+
+| | | | | |
+|---|---|---|---|---|
+| asitaṃ | pp | nt.acc.sg | what has been eaten | √as･1 a (eat) |
+| pītaṃ | pp | nt.acc.sg | what has been drunk | √pā･1 a (drink) |
+| khāyitaṃ | pp | nt.acc.sg | what has been chewed | √khād･1 a (chew) |
+| sāyitaṃ | pp | nt.acc.sg | what has been tasted | √sāy･1 a (taste) |
+| sammā | ind | adv | properly; rightly; thoroughly |  |
+| pariṇāmaṃ | noun | masc.acc.sg | digestion |  |
+| gacchati, | v | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
+
+**what has been eaten, drunk, chewed, [and] tasted [is] gets digested thoroughly.**
+
+| | | | | |
+|---|---|---|---|---|
+| caṅkama- | noun | masc. | walking meditation; walking up and down | √kam･1 a (go) |
+| adhigato | pp | masc.nom.sg | attained; obtained; understood. | √gam･1 a (go) |
+| samādhi | noun | masc.nom.sg | concentration, stability of mind, unity | √dhā･1 a (place, support) |
+| ciraṭṭhitiko | adj | masc.nom.sg | long-lasting; perpetual (lit: long-standing) |  |
+| hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
+
+**The stability of mind attained from walking meditation is long-lasting.**
+
+ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
+
+| | | | | |
+|---|---|---|---|---|
+| ime | pron | masc.nom.pl | these |  |
+| kho, | ind | emph | indeed |  |
+| bhikkhave, | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
+| pañca | card | x.nom.pl | five |  |
+| caṅkame | noun | masc.loc.sg | in walking meditation (in regard to…) | √kam･1 a (go) |
+| ānisaṃsā | n | m.n.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
+| "ti | ind | endquote | "" |  |
+
+**Monks, these [are], indeed, the five benefits of walking meditation."**
+
 
 2\. AN 3.4 accaya-suttaṃ (paragraph 4)
 
-"tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti (na + paṭikaroti), parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti (na + paṭiggaṇhāti). imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 
-| Pāli | POS | Grammar | English | Root |
-|------|-----|---------|---------|------|
+**"tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti (na + paṭikaroti), parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti (na + paṭiggaṇhāti). imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.**
 
-| "tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.                                                                                             |      |                       |                                              |                                 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------------------|----------------------------------------------|---------------------------------|
-| tīhi                                                                                                                                               | card | masc.instr.pl         | with three                                   |                                 |
-| bhikkhave,                                                                                                                                         | noun | masc.voc.pl           | o monks!                                     | √bhikkh･1 a (beg)               |
-| dhammehi                                                                                                                                           | noun | masc.instr.pl         | with qualities                               | √dhar･1 a (hold, carry, endure) |
-| samannāgato                                                                                                                                        | adj  | masc.nom.sg (+instr)  | endowed with; possessed of; possessing       | √gam･1 a (go)                   |
-| bālo                                                                                                                                               | noun | masc.nom.sg           | fool                                         |                                 |
-| veditabbo                                                                                                                                          | ptp  | masc.noun.sg          | should be known                              | √vid･8 \*e (know, sense, feel)  |
-| Monks, one endowed with three qualities should be known as a fool.                                                                                 |      |                       |                                              |                                 |
-| katamehi tīhi?                                                                                                                                     |      |                       |                                              |                                 |
-| katamehi                                                                                                                                           | pron | masc.instr.pl         | with what; with which (of the many)          |                                 |
-| tīhi                                                                                                                                               | card | masc.instr.pl         | with three                                   |                                 |
-| With which three?                                                                                                                                  |      |                       |                                              |                                 |
-| accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. |      |                       |                                              |                                 |
-| accayaṃ                                                                                                                                            | noun | masc.acc.sg           | fault                                        | √i･1 a (come, go)               |
-| accayato                                                                                                                                           | noun | masc.abl.sg           | as fault                                     | √i･1 a (come, go)               |
-| na                                                                                                                                                 | ind  | neg                   | not                                          |                                 |
-| passati                                                                                                                                            | verb | pr.3rd.sg             | he sees                                      | √dis･1 a (see)                  |
-| He does not see a fault as a fault.                                                                                                                |      |                       |                                              |                                 |
-| accayaṃ                                                                                                                                            | noun | masc.acc.sg           | fault                                        | √i･1 a (come, go)               |
-| accayato                                                                                                                                           | noun | masc.abl.sg           | as fault                                     | √i･1 a (come, go)               |
-| disvā                                                                                                                                              | verb | abs                   | having seen; having found; having understood | √dis･1 a (see)                  |
-| yathā-                                                                                                                                             | ind  | adv                   | as; according to                             |                                 |
-| dhammaṃ                                                                                                                                            | noun | masc.acc.sg           | doctrine, teaching                           | √dhar･1 a (hold, carry, endure) |
-| na-                                                                                                                                                | ind  | neg                   | not                                          |                                 |
-| paṭikaroti,                                                                                                                                        | verb | pr.3rd.sg (+acc)      | redress, fix, make amends                    | √kar･7 o (do, make)             |
-| Having understood a fault as a fault, he does not redress it in accordance with the Doctrine.                                                      |      |                       |                                              |                                 |
-| parassa                                                                                                                                            | pron | masc.gen.sg (gen abs) | when another                                 |                                 |
-| kho                                                                                                                                                | ind  | ind                   | indeed                                       |                                 |
-| pana                                                                                                                                               | ind  | ind                   | and now, but, and next                       |                                 |
-| accayaṃ                                                                                                                                            | noun | masc.acc.sg           | fault                                        | √i･1 a (come, go)               |
-| desentassa                                                                                                                                         | prp  | masc.gen.sg (gen abs) | when pointing out; preaching; expounding     | √dis･1 \*e (point out, explain) |
-| yathā-                                                                                                                                             | ind  | adv                   | as; like; in relation to; according to       |                                 |
-| dhammaṃ                                                                                                                                            | noun | masc.acc.sg           | doctrine, teaching                           | √dhar･1 a (hold, carry, endure) |
-| na-                                                                                                                                                | ind  | neg                   | not                                          |                                 |
-| paṭiggaṇhāti                                                                                                                                       | verb | pr.3rd.sg             | takes; receives; accepts                     | pati + √gah･6 ṇhā (grasp)       |
-| Indeed, when another person is pointing out a fault, he does not accept [it] in accordance with the Doctrine.                                      |      |                       |                                              |                                 |
-| imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.                                                                         |      |                       |                                              |                                 |
-| imehi                                                                                                                                              | pron | masc.instr.pl         | with these                                   |                                 |
-| kho,                                                                                                                                               | ind  | emph                  | indeed; certainly                            |                                 |
-| Certainly, monks, one possessing these three qualities should be known as a fool.                                                                  |      |                       |                                              |                                 |
+
+
+"tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.
+
+| | | | | |
+|---|---|---|---|---|
+| tīhi | card | masc.instr.pl | with three |  |
+| bhikkhave, | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
+| dhammehi | noun | masc.instr.pl | with qualities | √dhar･1 a (hold, carry, endure) |
+| samannāgato | adj | masc.nom.sg (+instr) | endowed with; possessed of; possessing | √gam･1 a (go) |
+| bālo | noun | masc.nom.sg | fool |  |
+| veditabbo | ptp | masc.noun.sg | should be known | √vid･8 \*e (know, sense, feel) |
+
+**Monks, one endowed with three qualities should be known as a fool.**
+
+| | | | | |
+|---|---|---|---|---|
+| katamehi tīhi? |  |  |  |  |
+| katamehi | pron | masc.instr.pl | with what; with which (of the many) |  |
+| tīhi | card | masc.instr.pl | with three |  |
+
+**With which three?**
+
+accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti.
+
+| | | | | |
+|---|---|---|---|---|
+| accayaṃ | noun | masc.acc.sg | fault | √i･1 a (come, go) |
+| accayato | noun | masc.abl.sg | as fault | √i･1 a (come, go) |
+| na | ind | neg | not |  |
+| passati | verb | pr.3rd.sg | he sees | √dis･1 a (see) |
+
+**He does not see a fault as a fault.**
+
+| | | | | |
+|---|---|---|---|---|
+| accayaṃ | noun | masc.acc.sg | fault | √i･1 a (come, go) |
+| accayato | noun | masc.abl.sg | as fault | √i･1 a (come, go) |
+| disvā | verb | abs | having seen; having found; having understood | √dis･1 a (see) |
+| yathā- | ind | adv | as; according to |  |
+| dhammaṃ | noun | masc.acc.sg | doctrine, teaching | √dhar･1 a (hold, carry, endure) |
+| na- | ind | neg | not |  |
+| paṭikaroti, | verb | pr.3rd.sg (+acc) | redress, fix, make amends | √kar･7 o (do, make) |
+
+**Having understood a fault as a fault, he does not redress it in accordance with the Doctrine.**
+
+| | | | | |
+|---|---|---|---|---|
+| parassa | pron | masc.gen.sg (gen abs) | when another |  |
+| kho | ind | ind | indeed |  |
+| pana | ind | ind | and now, but, and next |  |
+| accayaṃ | noun | masc.acc.sg | fault | √i･1 a (come, go) |
+| desentassa | prp | masc.gen.sg (gen abs) | when pointing out; preaching; expounding | √dis･1 \*e (point out, explain) |
+| yathā- | ind | adv | as; like; in relation to; according to |  |
+| dhammaṃ | noun | masc.acc.sg | doctrine, teaching | √dhar･1 a (hold, carry, endure) |
+| na- | ind | neg | not |  |
+| paṭiggaṇhāti | verb | pr.3rd.sg | takes; receives; accepts | pati + √gah･6 ṇhā (grasp) |
+
+**Indeed, when another person is pointing out a fault, he does not accept [it] in accordance with the Doctrine.**
+
+imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
+
+| | | | | |
+|---|---|---|---|---|
+| imehi | pron | masc.instr.pl | with these |  |
+| kho, | ind | emph | indeed; certainly |  |
+
+**Certainly, monks, one possessing these three qualities should be known as a fool.**
+
 
 3\. AN 5.198 vācā-suttaṃ (paragraph 198)
 
+
 "pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ. katamehi pañcahi? kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti. imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.
 
-| Pāli | POS | Grammar | English | Root |
-|------|-----|---------|---------|------|
 
-| "pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ.                                       |                  |                 |                                                       |                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------|-------------------------------------------------------|-----------------------------|
-| pañcahi                                                                                                                                               | card             | x.instr.pl      | with five                                             |                             |
-| bhikkhave                                                                                                                                             | noun             | masc.voc.pl     | o monks!                                              | √bhikkh･1 a (beg)           |
-| aṅgehi                                                                                                                                                | noun             | nt.instr.pl     | with parts, factors; qualities                        | √añj･8 \*e (distinguish)    |
-| samannāgatā                                                                                                                                           | adj              | fem.nom.sg      | endowed with; possessed of, followed by               | √gam･1 a (go)               |
-| vācā                                                                                                                                                  | noun             | fem.nom.sg      | speech; saying, statement                             | √vac･1 a (say, speak)       |
-| subhāsitā                                                                                                                                             | pp               | fem.nom.sg      | well-spoken, eloquent                                 | √bhās･1 a (speak)           |
-| hoti,                                                                                                                                                 | verb             | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| no                                                                                                                                                    | ind              | neg             | not                                                   |                             |
-| dubbhāsitā,                                                                                                                                           | adj              | fem.nom.sg      | ill-spoken, badly spoken                              | √bhās･1 a (speak)           |
-| anavajjā                                                                                                                                              | adj(\<ptp)       | fem.nom.sg      | faultless; blameless; irreproachable                  | √vad･1 a (say, speak)       |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| ananuvajjā                                                                                                                                            | adj, <br>(\<ptp) | fem.nom.sg      | not to be blamed, not censurable, not blameworthy     | √vad･1 a (say, speak)       |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| viññūnaṃ.                                                                                                                                             | noun             | masc.gen.pl     | of wise people                                        | √ñā･5 nā (know)             |
-| Monks, speech endowed with five factors is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.                       |                  |                 |                                                       |                             |
-| katamehi pañcahi?                                                                                                                                     |                  |                 |                                                       |                             |
-| katamehi                                                                                                                                              | pron             | masc.instr.pl   | with what; with which (of the many)                   |                             |
-| pañcahi?                                                                                                                                              | card             | x.instr.pl      | with five                                             |                             |
-| With which five?                                                                                                                                      |                  |                 |                                                       |                             |
-| kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti.                   |                  |                 |                                                       |                             |
-| kālena                                                                                                                                                | ind              | adv             | at the proper time; at the right moment.              | √kal×8 \*e (spend time)     |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| bhāsitā                                                                                                                                               | pp               | fem.nom.sg      | said; spoken                                          | √bhās･1 a (speak)           |
-| hoti,                                                                                                                                                 | v                | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| saccā                                                                                                                                                 | adj              | fem.nom.sg      | true; reliable; honest                                | √as･1 a (be)                |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| bhāsitā                                                                                                                                               | pp               | fem.nom.sg      | said; spoken                                          | √bhās･1 a (speak)           |
-| hoti,                                                                                                                                                 | v                | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| saṇhā                                                                                                                                                 | adj              | fem.nom.sg      | smooth; soft; gentle                                  |                             |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| bhāsitā                                                                                                                                               | pp               | fem.nom.sg      | said; spoken                                          | √bhās･1 a (speak)           |
-| hoti,                                                                                                                                                 | verb             | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| attha-                                                                                                                                                | noun             | masc. (in comp) | good; welfare; prosperity, profit, benefit; goal      |                             |
-| saṃhitā                                                                                                                                               | pp               | fem.nom.sg      | connected with, having (lit: connected with the goal) | √dhā･1 a (place, support)   |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| bhāsitā                                                                                                                                               | pp               | fem.nom.sg      | said; spoken                                          | √bhās･1 a (speak)           |
-| hoti,                                                                                                                                                 | verb             | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| metta-                                                                                                                                                | adj              | masc (in comp)  | friendly, benevolent, kind                            | √mitt･1 a (be friendly)     |
-| cittena                                                                                                                                               | noun             | masc.instr.sg   | with mind                                             | √cit･8 \*e (think, intend)  |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| bhāsitā                                                                                                                                               | pp               | fem.nom.sg      | said; spoken                                          | √bhās･1 a (speak)           |
-| hoti.                                                                                                                                                 | v                | pr.3rd.sg       | it is                                                 | √hū･1 a (be)                |
-| It is (speech) spoken at the proper time, it is spoken truthfully, it is spoken gently, it is spoken beneficially, it is spoken with a friendly mind. |                  |                 |                                                       |                             |
-| imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.                           |                  |                 |                                                       |                             |
-| imehi                                                                                                                                                 | pron             | masc.instr.pl   | with these                                            |                             |
-| kho                                                                                                                                                   | ind              | emph            | indeed                                                |                             |
-| bhikkhave                                                                                                                                             | noun             | masc.voc.pl     | o monks!                                              | √bhikkh･1 a (beg)           |
-| pañcahi                                                                                                                                               | card             | x.instr.pl      | with five                                             |                             |
-| aṅgehi                                                                                                                                                | nom              | masc.instr.pl   | qualities                                             | √añj･8 \*e (distinguish)    |
-| samannāgatā                                                                                                                                           | adj              | fem.nom.sg      | endowed with                                          |                             |
-| vācā                                                                                                                                                  | noun             | fem.nom.sg      | speech                                                | √vac･1 a (say, speak)       |
-| subhāsitā                                                                                                                                             | pp               | fem.nom.sg      | well-spoken                                           | √bhās･1 a (speak)           |
-| hoti                                                                                                                                                  | verb             | pr.3rd.sg       | is                                                    | √hū･1 a (be)                |
-| no                                                                                                                                                    | ind              | neg             | not                                                   |                             |
-| dubbhāsitā                                                                                                                                            | adj              | fem.nom.sg      | ill-spoken, badly spoken                              | √bhās･1 a (speak)           |
-| anavajjā                                                                                                                                              | adj (\<ptp)      | fem.nom.sg      | faultless; blameless; irreproachable                  | √vad･8 \*e (salute, praise) |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| ananuvajjā                                                                                                                                            | adj, <br>(\<ptp) | fem.nom.sg      | not to be blamed, not censurable, not blameworthy     | √vad･8 \*e (salute, praise) |
-| ca                                                                                                                                                    | ind              | conj            | and                                                   |                             |
-| viññūnan"ti                                                                                                                                           | noun             | masc.gen.pl     | of wise people                                        | √ñā･5 nā (know)             |
-| Indeed, monks, speech endowed with these five qualities is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.       |                  |                 |                                                       |                             |
+
+"pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ.
+
+| | | | | |
+|---|---|---|---|---|
+| pañcahi | card | x.instr.pl | with five |  |
+| bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
+| aṅgehi | noun | nt.instr.pl | with parts, factors; qualities | √añj･8 \*e (distinguish) |
+| samannāgatā | adj | fem.nom.sg | endowed with; possessed of, followed by | √gam･1 a (go) |
+| vācā | noun | fem.nom.sg | speech; saying, statement | √vac･1 a (say, speak) |
+| subhāsitā | pp | fem.nom.sg | well-spoken, eloquent | √bhās･1 a (speak) |
+| hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
+| no | ind | neg | not |  |
+| dubbhāsitā, | adj | fem.nom.sg | ill-spoken, badly spoken | √bhās･1 a (speak) |
+| anavajjā | adj(\<ptp) | fem.nom.sg | faultless; blameless; irreproachable | √vad･1 a (say, speak) |
+| ca | ind | conj | and |  |
+| ananuvajjā | adj, <br>(\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･1 a (say, speak) |
+| ca | ind | conj | and |  |
+| viññūnaṃ. | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
+
+**Monks, speech endowed with five factors is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.**
+
+| | | | | |
+|---|---|---|---|---|
+| katamehi pañcahi? |  |  |  |  |
+| katamehi | pron | masc.instr.pl | with what; with which (of the many) |  |
+| pañcahi? | card | x.instr.pl | with five |  |
+
+**With which five?**
+
+kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| kālena | ind | adv | at the proper time; at the right moment. | √kal×8 \*e (spend time) |
+| ca | ind | conj | and |  |
+| bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
+| hoti, | v | pr.3rd.sg | it is | √hū･1 a (be) |
+| saccā | adj | fem.nom.sg | true; reliable; honest | √as･1 a (be) |
+| ca | ind | conj | and |  |
+| bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
+| hoti, | v | pr.3rd.sg | it is | √hū･1 a (be) |
+| saṇhā | adj | fem.nom.sg | smooth; soft; gentle |  |
+| ca | ind | conj | and |  |
+| bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
+| hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
+| attha- | noun | masc. (in comp) | good; welfare; prosperity, profit, benefit; goal |  |
+| saṃhitā | pp | fem.nom.sg | connected with, having (lit: connected with the goal) | √dhā･1 a (place, support) |
+| ca | ind | conj | and |  |
+| bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
+| hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
+| metta- | adj | masc (in comp) | friendly, benevolent, kind | √mitt･1 a (be friendly) |
+| cittena | noun | masc.instr.sg | with mind | √cit･8 \*e (think, intend) |
+| ca | ind | conj | and |  |
+| bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
+| hoti. | v | pr.3rd.sg | it is | √hū･1 a (be) |
+
+**It is (speech) spoken at the proper time, it is spoken truthfully, it is spoken gently, it is spoken beneficially, it is spoken with a friendly mind.**
+
+imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.
+
+| | | | | |
+|---|---|---|---|---|
+| imehi | pron | masc.instr.pl | with these |  |
+| kho | ind | emph | indeed |  |
+| bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
+| pañcahi | card | x.instr.pl | with five |  |
+| aṅgehi | nom | masc.instr.pl | qualities | √añj･8 \*e (distinguish) |
+| samannāgatā | adj | fem.nom.sg | endowed with |  |
+| vācā | noun | fem.nom.sg | speech | √vac･1 a (say, speak) |
+| subhāsitā | pp | fem.nom.sg | well-spoken | √bhās･1 a (speak) |
+| hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
+| no | ind | neg | not |  |
+| dubbhāsitā | adj | fem.nom.sg | ill-spoken, badly spoken | √bhās･1 a (speak) |
+| anavajjā | adj (\<ptp) | fem.nom.sg | faultless; blameless; irreproachable | √vad･8 \*e (salute, praise) |
+| ca | ind | conj | and |  |
+| ananuvajjā | adj, <br>(\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･8 \*e (salute, praise) |
+| ca | ind | conj | and |  |
+| viññūnan"ti | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
+
+**Indeed, monks, speech endowed with these five qualities is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.**
+
 
 4\. SN 12.15 kaccānagotta-suttaṃ
 
+
 "‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?
+
 
 "dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca. lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti. lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti. upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena. taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ na upeti na upādiyati n'ādhiṭṭhāti — ‘attā me'ti. ‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti. ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 
+
 "‘sabbaṃ atthī'ti kho, kaccāna, ayaṃ eko anto. ‘sabbaṃ n'atthī'ti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
 
-| Pāli | POS | Grammar | English | Root |
-|------|-----|---------|---------|------|
 
-| "‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?                                                                                              |           |                             |                                                     |                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------------|-----------------------------------------------------|---------------------------------|
-| sammādiṭṭhi                                                                                                                                                                                | noun      | fem.nom.sg                  | right view                                          |                                 |
-| sammādiṭṭhī'ti                                                                                                                                                                             | noun      | fem.nom.sg +endquote        | right view"                                         |                                 |
-| bhante                                                                                                                                                                                     | noun      | masc.voc.sg                 | venerable sir                                       | √bhad×1 a (be good, lucky)      |
-| vuccati                                                                                                                                                                                    | verb.pass | pr.3rd.sg                   | is called; is said to be                            | √vac･1 ya (say, speak)          |
-| kittāvatā                                                                                                                                                                                  | ind       | adv+interr                  | in what way                                         |                                 |
-| nu                                                                                                                                                                                         | ind       | interr                      | ?                                                   |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | indeed; truly                                       |                                 |
-| bhante                                                                                                                                                                                     | noun      | masc.voc.sg                 | venerable sir                                       | √bhad×1 a (be good, lucky)      |
-| sammādiṭṭhi                                                                                                                                                                                | noun      | fem.nom.sg                  | right view                                          |                                 |
-| hoti"ti                                                                                                                                                                                    | verb      | pr.3rd.sg + endquote        | there is                                            | √hū･1 a (be)                    |
-| Venerable sir, it is said, "right view, right view." In what way, venerable sir, is there truly "right view?"                                                                              |           |                             |                                                     |                                 |
-| "dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca.                                                                                                          |           |                             |                                                     |                                 |
-| dvayanissito                                                                                                                                                                               | adj       | masc.nom.sg                 | dependent on two things; dependent on a duality     |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | indeed                                              |                                 |
-| ayaṃ                                                                                                                                                                                       | pron      | masc.nom.sg                 | this                                                |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| loko                                                                                                                                                                                       | noun      | masc.nom.sg                 | world                                               | √lok･8 \*e (look)               |
-| yebhuyyena                                                                                                                                                                                 | ind       | adv (of means)              | mostly; generally; for the most part                |                                 |
-| atthitaṃ                                                                                                                                                                                   | noun      | fem.acc.sg                  | the idea of existence                               |                                 |
-| ca                                                                                                                                                                                         | ind       | conj                        | and                                                 |                                 |
-| eva                                                                                                                                                                                        | ind       | ind                         | also                                                |                                 |
-| n'atthitaṃ                                                                                                                                                                                 | noun      | fem.acc.sg                  | the idea of non-existence (lit: there is not state) |                                 |
-| ca                                                                                                                                                                                         | ind       | conj                        | and                                                 |                                 |
-| This world, Kaccāna, for the most part [is] dependent on a duality–on the idea of existence as well as the ideal of non-existence.                                                         |           |                             |                                                     |                                 |
-| lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti.                                                                                                |           |                             |                                                     |                                 |
-| lokasamudayaṃ                                                                                                                                                                              | noun      | masc.acc.sg                 | the source of the world                             |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | but; certainly                                      |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| yathābhūtaṃ                                                                                                                                                                                | adj       | masc.acc.sg                 | as it truly is; in reality (lit: like become)       |                                 |
-| sammappaññāya                                                                                                                                                                              | noun      | fem.dat.sg                  | with correct understanding; with perfect wisdom     |                                 |
-| passato                                                                                                                                                                                    | prp       | masc.dat.sg                 | to/for one seeing                                   | √dis･1 a (see)                  |
-| yā                                                                                                                                                                                         | pron      | fem.nom.sg                  | which                                               |                                 |
-| loke                                                                                                                                                                                       | noun      | masc.loc.sg                 | in regard to the world                              | √lok･8 \*e (look)               |
-| n'atthitā                                                                                                                                                                                  | noun      | fem.nom.sg                  | idea of non-existence                               |                                 |
-| sā                                                                                                                                                                                         | pron      | fem.nom.sg                  | that                                                |                                 |
-| na                                                                                                                                                                                         | ind       | neg                         | not                                                 |                                 |
-| hoti                                                                                                                                                                                       | verb      | pr.3rd.sg                   | there is                                            | √hū･1 a (be)                    |
-| Certainly, for one seeing the source of the world as it truly is with correct understanding there is not that idea of non-existence in regard to the world.                                |           |                             |                                                     |                                 |
-| lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.                                                                                                   |           |                             |                                                     |                                 |
-| lokanirodhaṃ                                                                                                                                                                               | noun      | masc.acc.sg                 | the cessation of the world                          |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | indeed                                              |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| yathābhūtaṃ                                                                                                                                                                                | adj       | masc.acc.sg                 | as it really is                                     |                                 |
-| sammappaññāya                                                                                                                                                                              | noun      | fem.dat.sg                  | with perfect wisdom; with correct understanding     |                                 |
-| passato                                                                                                                                                                                    | prp       | masc.dat.sg                 | for one seeing                                      | √dis･1 a (see)                  |
-| yā                                                                                                                                                                                         | pron      | fem.nom.sg                  | which                                               |                                 |
-| loke                                                                                                                                                                                       | noun      | masc.loc.sg                 | in regard to the world                              | √lok･8 \*e (look)               |
-| atthitā                                                                                                                                                                                    | noun      | fem.nom.sg                  | idea of existence                                   |                                 |
-| sā                                                                                                                                                                                         | pron      | fem.nom.sg                  | that                                                |                                 |
-| na                                                                                                                                                                                         | ind       | neg                         | not                                                 |                                 |
-| hoti                                                                                                                                                                                       | verb      | pr.3rd.sg                   | there is                                            | √hū･1 a (be)                    |
-| Indeed, for one seeing the cessation of the world as it really is with perfect wisdom, there is not that idea of existence in regard to the world.                                         |           |                             |                                                     |                                 |
-| upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena.                                                                                                                         |           |                             |                                                     |                                 |
-| upayupādānābhinivesavinibandho                                                                                                                                                             | adj       | masc.nom.sg                 | attached to engaging, grasping, and clinging        |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | certainly                                           |                                 |
-| ayaṃ                                                                                                                                                                                       | pron      | masc.nom.sg                 | this                                                |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| loko                                                                                                                                                                                       | noun      | masc.nom.sg                 | the world                                           | √lok･8 \*e (look)               |
-| yebhuyyena                                                                                                                                                                                 | ind       | adv                         | generally; for the most part                        |                                 |
-| Certainly, Kaccāna, this world is for the most part attached to engaging, grasping, and clinging.                                                                                          |           |                             |                                                     |                                 |
-| taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ na upeti na upādiyati n'ādhiṭṭhāti — ‘attā me'ti.                                                                           |           |                             |                                                     |                                 |
-| taṃ                                                                                                                                                                                        | pron      | masc.acc.sg                 | that                                                |                                 |
-| ca                                                                                                                                                                                         | ind       | ind                         | but                                                 |                                 |
-| ayaṃ                                                                                                                                                                                       | pron      | masc.nom.sg                 | this (person)                                       |                                 |
-| upayupādānaṃ                                                                                                                                                                               | noun      | nt.acc.sg                   | engaging/engagement and grasping                    |                                 |
-| cetaso                                                                                                                                                                                     | noun      | masc.gen.sg                 | of the mind                                         |                                 |
-| adhiṭṭhānaṃ                                                                                                                                                                                | noun      | nt.acc.sg                   | standpoint; prejudice; bias; preconception          |                                 |
-| abhinives'ānusayaṃ                                                                                                                                                                         | noun      | masc.acc.sg                 | adherence and underlying tendency                   |                                 |
-| na                                                                                                                                                                                         | ind       | neg                         | not                                                 |                                 |
-| upeti                                                                                                                                                                                      | verb      | pr.3rd.sg (+acc)            | engage in; get involved with                        | upa +√i･1 a (come, go)          |
-| na                                                                                                                                                                                         | ind       | neg                         | not                                                 |                                 |
-| upādiyati                                                                                                                                                                                  | verb      | pr.3rd.sg (+acc)            | grasp; cling to                                     | √ādā･3 ya (take, seize)         |
-| n'ādhiṭṭhāti                                                                                                                                                                               | verb      | pr.3rd.sg                   | does not take a stand                               | √ṭhā･1 a (stand)                |
-| attā                                                                                                                                                                                       | noun      | masc.nom.sg                 | self                                                |                                 |
-| me'ti                                                                                                                                                                                      | pron      | 1st.gen.sg <br>+endquote    | my"                                                 |                                 |
-| But this (person) does not grasp, does not get involved, with engagement and grasping, mental standpoint, adherence and underlying tendency, he does not take a stand "(this is) my self." |           |                             |                                                     |                                 |
-| ‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti.                                               |           |                             |                                                     |                                 |
-| dukkhaṃ                                                                                                                                                                                    | noun      | nt.nom.sg                   | suffering                                           | √cit･8 \*e (think, intend)      |
-| eva                                                                                                                                                                                        | ind       | emph                        | only                                                |                                 |
-| uppajjamānaṃ                                                                                                                                                                               | prp       | nt.nom.sg                   | arising                                             | √pad･3 ya (go, step)            |
-| uppajjati                                                                                                                                                                                  | verb      | pr.3rd.sg                   | arises                                              | √pad･3 ya (go, step)            |
-| dukkhaṃ                                                                                                                                                                                    | noun      | nt.nom.sg                   | suffering                                           |                                 |
-| nirujjhamānaṃ                                                                                                                                                                              | prp       | nt.nom.sg                   | ceasing                                             | √rudh･2 ya (obstruct)           |
-| nirujjhatī'ti                                                                                                                                                                              | verb      | pr.3rd.sg +endquote         | ceases                                              | √rudh･2 ya (obstruct)           |
-| Arise is only arising suffering, cease is (only) ceasing suffering.                                                                                                                        |           |                             |                                                     |                                 |
-| na                                                                                                                                                                                         | ind       | neg                         | not; no                                             |                                 |
-| kaṅkhati                                                                                                                                                                                   | verb      | pr.3rd.sg +loc              | has uncertainty                                     | √kaṅkh･1 a (doubt)              |
-| na                                                                                                                                                                                         | ind       | neg                         | not; no                                             |                                 |
-| vicikicchati                                                                                                                                                                               | verb      | pr.3rd.sg +loc              | has doubt                                           | √cit･8 cha (think, intend)      |
-| aparapaccayā                                                                                                                                                                               | ind       | adv                         | not relying on another; independent of others       |                                 |
-| ñāṇaṃ                                                                                                                                                                                      | noun      | nt.nom.sg                   | knowledge                                           |                                 |
-| eva                                                                                                                                                                                        | ind       | emph                        | just; only; exclusively                             |                                 |
-| assa                                                                                                                                                                                       | pron      | masc.dat.sg                 | for him                                             |                                 |
-| ettha                                                                                                                                                                                      | ind       | adv                         | in this case                                        |                                 |
-| hoti                                                                                                                                                                                       | verb      | pr.3rd.sg                   | there is                                            | √hū･1 a (be)                    |
-| He has no uncertainty, he has no doubt. He has knowledge in this case exclusively independent of others.                                                                                   |           |                             |                                                     |                                 |
-| ettāvatā kho, kaccāna, sammādiṭṭhi hoti.                                                                                                                                                   |           |                             |                                                     |                                 |
-| ettāvatā                                                                                                                                                                                   | ind       | adv                         | to this extent                                      |                                 |
-| kho                                                                                                                                                                                        | ind       | emph                        | indeed; truly                                       |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| sammādiṭṭhi                                                                                                                                                                                | noun      | fem.nom.sg                  | right view                                          |                                 |
-| hoti                                                                                                                                                                                       | verb      | pr.3rd.sg                   | there is                                            | √hū･1 a (be)                    |
-| Truly, Kaccāna, to this extent there is right view.                                                                                                                                        |           |                             |                                                     |                                 |
-| "‘sabbaṃ atthī'ti kho, kaccāna, ayaṃ eko anto.                                                                                                                                             |           |                             |                                                     |                                 |
-| sabbaṃ                                                                                                                                                                                     | pron      | nt.nom.sg                   | all, everything                                     |                                 |
-| atthī'ti                                                                                                                                                                                   | verb      | pr.3rd.sg +endquote         | there is; there exists"                             | √as･1 a (be)                    |
-| kho                                                                                                                                                                                        | ind       | emph                        | truly (not translated)                              |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| ayaṃ                                                                                                                                                                                       | pron      | masc.nom.sg                 | this                                                |                                 |
-| eko                                                                                                                                                                                        | card      | masc.nom.sg                 | one                                                 |                                 |
-| anto                                                                                                                                                                                       | noun      | masc.nom.sg                 | extreme, end                                        |                                 |
-| "Everything exists," Kaccāna: this is one extreme.                                                                                                                                         |           |                             |                                                     |                                 |
-| ‘sabbaṃ n'atthī'ti ayaṃ dutiyo anto.                                                                                                                                                       |           |                             |                                                     |                                 |
-| sabbaṃ                                                                                                                                                                                     | pron      | nt.nom.sg                   | all, everything                                     |                                 |
-| n'atthī'ti                                                                                                                                                                                 | verb      | pr.3rd.sg +neg<br>+endquote | there is not; it does not exist                     | √as･1 a (be)                    |
-| ayaṃ                                                                                                                                                                                       | pron      | masc.nom.sg                 | this                                                |                                 |
-| dutiyo                                                                                                                                                                                     | ordin     | masc.nom.sg                 | the second                                          |                                 |
-| anto                                                                                                                                                                                       | noun      | masc.nom.sg                 | extreme, end                                        |                                 |
-| "Everything does not exist": this is the second extreme.                                                                                                                                   |           |                             |                                                     |                                 |
-| ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.                                                                                                                   |           |                             |                                                     |                                 |
-| ete                                                                                                                                                                                        | pron      | masc.acc.pl                 | these                                               |                                 |
-| te                                                                                                                                                                                         | pron      | masc.acc.pl                 | them; those                                         |                                 |
-| kaccāna                                                                                                                                                                                    | noun      | masc.voc.sg                 | Kaccāna                                             |                                 |
-| ubho                                                                                                                                                                                       | pron      | masc.acc.pl                 | both                                                |                                 |
-| ante                                                                                                                                                                                       | noun      | masc.acc.pl                 | extremes                                            |                                 |
-| anupagamma                                                                                                                                                                                 | verb      | ger (+acc)                  | avoiding; not adopting                              | √gam･1 a (go)                   |
-| majjhena                                                                                                                                                                                   | adj       | masc.instr.sg               | by means of the middle                              |                                 |
-| tathāgato                                                                                                                                                                                  | noun      | masc.nom.sg                 | the Tathāgata (the Thus- Gone; Such Become)         | √dhar･1 a (hold, carry, endure) |
-| dhammaṃ                                                                                                                                                                                    | noun      | masc.acc.sg                 | the doctrine                                        |                                 |
-| deseti                                                                                                                                                                                     | verb      | pr.3rd.sg                   | teaches                                             | √dis･1 \*e (point out, explain) |
-| Avoiding both these extremes, Kaccāna, the Tathāgata teaches the doctrine by means of the middle.                                                                                          |           |                             |                                                     |                                 |
+
+"‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?
+
+| | | | | |
+|---|---|---|---|---|
+| sammādiṭṭhi | noun | fem.nom.sg | right view |  |
+| sammādiṭṭhī'ti | noun | fem.nom.sg +endquote | right view" |  |
+| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| vuccati | verb.pass | pr.3rd.sg | is called; is said to be | √vac･1 ya (say, speak) |
+| kittāvatā | ind | adv+interr | in what way |  |
+| nu | ind | interr | ? |  |
+| kho | ind | emph | indeed; truly |  |
+| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| sammādiṭṭhi | noun | fem.nom.sg | right view |  |
+| hoti"ti | verb | pr.3rd.sg + endquote | there is | √hū･1 a (be) |
+
+**Venerable sir, it is said, "right view, right view." In what way, venerable sir, is there truly "right view?"**
+
+"dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca.
+
+| | | | | |
+|---|---|---|---|---|
+| dvayanissito | adj | masc.nom.sg | dependent on two things; dependent on a duality |  |
+| kho | ind | emph | indeed |  |
+| ayaṃ | pron | masc.nom.sg | this |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| loko | noun | masc.nom.sg | world | √lok･8 \*e (look) |
+| yebhuyyena | ind | adv (of means) | mostly; generally; for the most part |  |
+| atthitaṃ | noun | fem.acc.sg | the idea of existence |  |
+| ca | ind | conj | and |  |
+| eva | ind | ind | also |  |
+| n'atthitaṃ | noun | fem.acc.sg | the idea of non-existence (lit: there is not state) |  |
+| ca | ind | conj | and |  |
+
+**This world, Kaccāna, for the most part [is] dependent on a duality–on the idea of existence as well as the ideal of non-existence.**
+
+lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| lokasamudayaṃ | noun | masc.acc.sg | the source of the world |  |
+| kho | ind | emph | but; certainly |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| yathābhūtaṃ | adj | masc.acc.sg | as it truly is; in reality (lit: like become) |  |
+| sammappaññāya | noun | fem.dat.sg | with correct understanding; with perfect wisdom |  |
+| passato | prp | masc.dat.sg | to/for one seeing | √dis･1 a (see) |
+| yā | pron | fem.nom.sg | which |  |
+| loke | noun | masc.loc.sg | in regard to the world | √lok･8 \*e (look) |
+| n'atthitā | noun | fem.nom.sg | idea of non-existence |  |
+| sā | pron | fem.nom.sg | that |  |
+| na | ind | neg | not |  |
+| hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
+
+**Certainly, for one seeing the source of the world as it truly is with correct understanding there is not that idea of non-existence in regard to the world.**
+
+lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| lokanirodhaṃ | noun | masc.acc.sg | the cessation of the world |  |
+| kho | ind | emph | indeed |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| yathābhūtaṃ | adj | masc.acc.sg | as it really is |  |
+| sammappaññāya | noun | fem.dat.sg | with perfect wisdom; with correct understanding |  |
+| passato | prp | masc.dat.sg | for one seeing | √dis･1 a (see) |
+| yā | pron | fem.nom.sg | which |  |
+| loke | noun | masc.loc.sg | in regard to the world | √lok･8 \*e (look) |
+| atthitā | noun | fem.nom.sg | idea of existence |  |
+| sā | pron | fem.nom.sg | that |  |
+| na | ind | neg | not |  |
+| hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
+
+**Indeed, for one seeing the cessation of the world as it really is with perfect wisdom, there is not that idea of existence in regard to the world.**
+
+upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena.
+
+| | | | | |
+|---|---|---|---|---|
+| upayupādānābhinivesavinibandho | adj | masc.nom.sg | attached to engaging, grasping, and clinging |  |
+| kho | ind | emph | certainly |  |
+| ayaṃ | pron | masc.nom.sg | this |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| loko | noun | masc.nom.sg | the world | √lok･8 \*e (look) |
+| yebhuyyena | ind | adv | generally; for the most part |  |
+
+**Certainly, Kaccāna, this world is for the most part attached to engaging, grasping, and clinging.**
+
+taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ na upeti na upādiyati n'ādhiṭṭhāti — ‘attā me'ti.
+
+| | | | | |
+|---|---|---|---|---|
+| taṃ | pron | masc.acc.sg | that |  |
+| ca | ind | ind | but |  |
+| ayaṃ | pron | masc.nom.sg | this (person) |  |
+| upayupādānaṃ | noun | nt.acc.sg | engaging/engagement and grasping |  |
+| cetaso | noun | masc.gen.sg | of the mind |  |
+| adhiṭṭhānaṃ | noun | nt.acc.sg | standpoint; prejudice; bias; preconception |  |
+| abhinives'ānusayaṃ | noun | masc.acc.sg | adherence and underlying tendency |  |
+| na | ind | neg | not |  |
+| upeti | verb | pr.3rd.sg (+acc) | engage in; get involved with | upa +√i･1 a (come, go) |
+| na | ind | neg | not |  |
+| upādiyati | verb | pr.3rd.sg (+acc) | grasp; cling to | √ādā･3 ya (take, seize) |
+| n'ādhiṭṭhāti | verb | pr.3rd.sg | does not take a stand | √ṭhā･1 a (stand) |
+| attā | noun | masc.nom.sg | self |  |
+| me'ti | pron | 1st.gen.sg <br>+endquote | my" |  |
+
+**But this (person) does not grasp, does not get involved, with engagement and grasping, mental standpoint, adherence and underlying tendency, he does not take a stand "(this is) my self."**
+
+‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| dukkhaṃ | noun | nt.nom.sg | suffering | √cit･8 \*e (think, intend) |
+| eva | ind | emph | only |  |
+| uppajjamānaṃ | prp | nt.nom.sg | arising | √pad･3 ya (go, step) |
+| uppajjati | verb | pr.3rd.sg | arises | √pad･3 ya (go, step) |
+| dukkhaṃ | noun | nt.nom.sg | suffering |  |
+| nirujjhamānaṃ | prp | nt.nom.sg | ceasing | √rudh･2 ya (obstruct) |
+| nirujjhatī'ti | verb | pr.3rd.sg +endquote | ceases | √rudh･2 ya (obstruct) |
+
+**Arise is only arising suffering, cease is (only) ceasing suffering.**
+
+| | | | | |
+|---|---|---|---|---|
+| na | ind | neg | not; no |  |
+| kaṅkhati | verb | pr.3rd.sg +loc | has uncertainty | √kaṅkh･1 a (doubt) |
+| na | ind | neg | not; no |  |
+| vicikicchati | verb | pr.3rd.sg +loc | has doubt | √cit･8 cha (think, intend) |
+| aparapaccayā | ind | adv | not relying on another; independent of others |  |
+| ñāṇaṃ | noun | nt.nom.sg | knowledge |  |
+| eva | ind | emph | just; only; exclusively |  |
+| assa | pron | masc.dat.sg | for him |  |
+| ettha | ind | adv | in this case |  |
+| hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
+
+**He has no uncertainty, he has no doubt. He has knowledge in this case exclusively independent of others.**
+
+ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
+
+| | | | | |
+|---|---|---|---|---|
+| ettāvatā | ind | adv | to this extent |  |
+| kho | ind | emph | indeed; truly |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| sammādiṭṭhi | noun | fem.nom.sg | right view |  |
+| hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
+
+**Truly, Kaccāna, to this extent there is right view.**
+
+"‘sabbaṃ atthī'ti kho, kaccāna, ayaṃ eko anto.
+
+| | | | | |
+|---|---|---|---|---|
+| sabbaṃ | pron | nt.nom.sg | all, everything |  |
+| atthī'ti | verb | pr.3rd.sg +endquote | there is; there exists" | √as･1 a (be) |
+| kho | ind | emph | truly (not translated) |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| ayaṃ | pron | masc.nom.sg | this |  |
+| eko | card | masc.nom.sg | one |  |
+| anto | noun | masc.nom.sg | extreme, end |  |
+
+**"Everything exists," Kaccāna: this is one extreme.**
+
+‘sabbaṃ n'atthī'ti ayaṃ dutiyo anto.
+
+| | | | | |
+|---|---|---|---|---|
+| sabbaṃ | pron | nt.nom.sg | all, everything |  |
+| n'atthī'ti | verb | pr.3rd.sg +neg<br>+endquote | there is not; it does not exist | √as･1 a (be) |
+| ayaṃ | pron | masc.nom.sg | this |  |
+| dutiyo | ordin | masc.nom.sg | the second |  |
+| anto | noun | masc.nom.sg | extreme, end |  |
+
+**"Everything does not exist": this is the second extreme.**
+
+ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
+
+| | | | | |
+|---|---|---|---|---|
+| ete | pron | masc.acc.pl | these |  |
+| te | pron | masc.acc.pl | them; those |  |
+| kaccāna | noun | masc.voc.sg | Kaccāna |  |
+| ubho | pron | masc.acc.pl | both |  |
+| ante | noun | masc.acc.pl | extremes |  |
+| anupagamma | verb | ger (+acc) | avoiding; not adopting | √gam･1 a (go) |
+| majjhena | adj | masc.instr.sg | by means of the middle |  |
+| tathāgato | noun | masc.nom.sg | the Tathāgata (the Thus- Gone; Such Become) | √dhar･1 a (hold, carry, endure) |
+| dhammaṃ | noun | masc.acc.sg | the doctrine |  |
+| deseti | verb | pr.3rd.sg | teaches | √dis･1 \*e (point out, explain) |
+
+**Avoiding both these extremes, Kaccāna, the Tathāgata teaches the doctrine by means of the middle.**
