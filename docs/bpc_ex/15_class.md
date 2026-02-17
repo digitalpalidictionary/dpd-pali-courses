@@ -1,3 +1,6 @@
+
+
+
 # Class 15
 
 **Translation Assignment**
@@ -16,19 +19,24 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | bhikkhave                                                                                                                                                 |   |   |   |   |
 | caṅkame                                                                                                                                                   |   |   |   |   |
 | ānisaṃsā.                                                                                                                                                 |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | katame pañca?                                                                                                                                             |   |   |   |   |
 | katame                                                                                                                                                    |   |   |   |   |
 | pañca?                                                                                                                                                    |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti. |   |   |   |   |
 | addhāna-                                                                                                                                                  |   |   |   |   |
 | khamo                                                                                                                                                     |   |   |   |   |
 | hoti,                                                                                                                                                     |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | padhāna-                                                                                                                                                  |   |   |   |   |
 | khamo                                                                                                                                                     |   |   |   |   |
 | hoti,                                                                                                                                                     |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | appa-                                                                                                                                                     |   |   |   |   |
 | ābādho                                                                                                                                                    |   |   |   |   |
 | hoti,                                                                                                                                                     |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | asitaṃ                                                                                                                                                    |   |   |   |   |
 | pītaṃ                                                                                                                                                     |   |   |   |   |
 | khāyitaṃ                                                                                                                                                  |   |   |   |   |
@@ -36,11 +44,13 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | sammā                                                                                                                                                     |   |   |   |   |
 | pariṇāmaṃ                                                                                                                                                 |   |   |   |   |
 | gacchati,                                                                                                                                                 |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | caṅkama-                                                                                                                                                  |   |   |   |   |
 | adhigato                                                                                                                                                  |   |   |   |   |
 | samādhi                                                                                                                                                   |   |   |   |   |
 | ciraṭṭhitiko                                                                                                                                              |   |   |   |   |
 | hoti.                                                                                                                                                     |   |   |   |   |
+|                                                                                                                                                           |   |   |   |   |
 | ime kho, bhikkhave, pañca caṅkame ānisaṃsā”ti.                                                                                                            |   |   |   |   |
 | ime                                                                                                                                                       |   |   |   |   |
 | kho,                                                                                                                                                      |   |   |   |   |
@@ -49,7 +59,8 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | caṅkame                                                                                                                                                   |   |   |   |   |
 | ānisaṃsā                                                                                                                                                  |   |   |   |   |
 | ”ti.                                                                                                                                                      |   |   |   |   |
-***
+|                                                                                                                                                           |   |   |   |   |
+
 2\. AN 3.4 accaya-suttaṃ (paragraph 4)
 
 “tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti (na + paṭikaroti), parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti (na + paṭiggaṇhāti). imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
@@ -63,14 +74,17 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | samannāgato                                                                                                                                         |   |   |   |   |
 | bālo                                                                                                                                                |   |   |   |   |
 | veditabbo.                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                     |   |   |   |   |
 | katamehi tīhi?                                                                                                                                      |   |   |   |   |
 | katamehi                                                                                                                                            |   |   |   |   |
 | tīhi?                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                     |   |   |   |   |
 | accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti , parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. |   |   |   |   |
 | accayaṃ                                                                                                                                             |   |   |   |   |
 | accayato                                                                                                                                            |   |   |   |   |
 | na                                                                                                                                                  |   |   |   |   |
 | passati,                                                                                                                                            |   |   |   |   |
+|                                                                                                                                                     |   |   |   |   |
 | accayaṃ                                                                                                                                             |   |   |   |   |
 | accayato                                                                                                                                            |   |   |   |   |
 | disvā                                                                                                                                               |   |   |   |   |
@@ -78,6 +92,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | dhammaṃ                                                                                                                                             |   |   |   |   |
 | na-                                                                                                                                                 |   |   |   |   |
 | paṭikaroti,                                                                                                                                         |   |   |   |   |
+|                                                                                                                                                     |   |   |   |   |
 | parassa                                                                                                                                             |   |   |   |   |
 | kho                                                                                                                                                 |   |   |   |   |
 | pana                                                                                                                                                |   |   |   |   |
@@ -87,11 +102,13 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | dhammaṃ                                                                                                                                             |   |   |   |   |
 | na-                                                                                                                                                 |   |   |   |   |
 | paṭiggaṇhāti.                                                                                                                                       |   |   |   |   |
+|                                                                                                                                                     |   |   |   |   |
 | imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.                                                                                     |   |   |   |   |
 | imehi                                                                                                                                               |   |   |   |   |
 | kho,                                                                                                                                                |   |   |   |   |
 | bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.                                                                                                |   |   |   |   |
-***
+|                                                                                                                                                     |   |   |   |   |
+
 3\. AN 5.198 vācā-suttaṃ (paragraph 198)
 
 “pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ. katamehi pañcahi? kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti. imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.
@@ -113,9 +130,11 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | ananuvajjā                                                                                                                          |   |   |   |   |
 | ca                                                                                                                                  |   |   |   |   |
 | viññūnaṃ.                                                                                                                           |   |   |   |   |
+|                                                                                                                                     |   |   |   |   |
 | katamehi pañcahi?                                                                                                                   |   |   |   |   |
 | katamehi                                                                                                                            |   |   |   |   |
 | pañcahi?                                                                                                                            |   |   |   |   |
+|                                                                                                                                     |   |   |   |   |
 | kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti. |   |   |   |   |
 | kālena                                                                                                                              |   |   |   |   |
 | ca                                                                                                                                  |   |   |   |   |
@@ -139,6 +158,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | ca                                                                                                                                  |   |   |   |   |
 | bhāsitā                                                                                                                             |   |   |   |   |
 | hoti.                                                                                                                               |   |   |   |   |
+|                                                                                                                                     |   |   |   |   |
 | imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.         |   |   |   |   |
 | imehi                                                                                                                               |   |   |   |   |
 | kho                                                                                                                                 |   |   |   |   |
@@ -156,7 +176,8 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | ananuvajjā                                                                                                                          |   |   |   |   |
 | ca                                                                                                                                  |   |   |   |   |
 | viññūnan”ti                                                                                                                         |   |   |   |   |
-***
+|                                                                                                                                     |   |   |   |   |
+
 4\. SN 12.15 kaccānagotta-suttaṃ
 
 “‘sammādiṭṭhi sammādiṭṭhī’ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī”ti?
@@ -178,6 +199,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | bhante                                                                                                                                        |   |   |   |        |
 | sammādiṭṭhi                                                                                                                                   |   |   |   |        |
 | hoti”ti                                                                                                                                       |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n’atthitaṃ ca.                                                              |   |   |   |        |
 | dvayanissito                                                                                                                                  |   |   |   |        |
 | kho                                                                                                                                           |   |   |   |        |
@@ -190,6 +212,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | eva                                                                                                                                           |   |   |   |        |
 | n’atthitaṃ                                                                                                                                    |   |   |   |        |
 | ca                                                                                                                                            |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n’atthitā sā na hoti.                                                   |   |   |   |        |
 | lokasamudayaṃ                                                                                                                                 |   |   |   |        |
 | kho                                                                                                                                           |   |   |   |        |
@@ -203,6 +226,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | sā                                                                                                                                            |   |   |   |        |
 | na                                                                                                                                            |   |   |   |        |
 | hoti                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.                                                      |   |   |   |        |
 | lokanirodhaṃ                                                                                                                                  |   |   |   |        |
 | kho                                                                                                                                           |   |   |   |        |
@@ -216,13 +240,15 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | sā                                                                                                                                            |   |   |   |        |
 | na                                                                                                                                            |   |   |   |        |
 | hoti                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | upaya-upādāna-abhinivesa-vinibandho kho ayaṃ, kaccāna, loko yebhuyyena.                                                                       |   |   |   |        |
-| upaya-<br>upādāna-<br>abhinivesa-<br>vinibandho |  |  |  |  |
+| upaya-<br>upādāna-<br>abhinivesa-<br>vinibandho                                                                                               |   |   |   |        |
 | kho                                                                                                                                           |   |   |   |        |
 | ayaṃ                                                                                                                                          |   |   |   |        |
 | kaccāna                                                                                                                                       |   |   |   | (name) |
 | loko                                                                                                                                          |   |   |   |        |
 | yebhuyyena                                                                                                                                    |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | taṃ ce ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesa-anusayaṃ na upeti na upādiyati na adhiṭṭhāti — ‘attā me’ti.                            |   |   |   |        |
 | taṃ                                                                                                                                           |   |   |   |        |
 | ce                                                                                                                                            |   |   |   |        |
@@ -230,7 +256,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | upayupādānaṃ                                                                                                                                  |   |   |   |        |
 | cetaso                                                                                                                                        |   |   |   |        |
 | adhiṭṭhānaṃ                                                                                                                                   |   |   |   |        |
-| abhinivesa-<br>anusayaṃ |  |  |  |  |
+| abhinivesa-<br>anusayaṃ                                                                                                                       |   |   |   |        |
 | na                                                                                                                                            |   |   |   |        |
 | upeti                                                                                                                                         |   |   |   |        |
 | na                                                                                                                                            |   |   |   |        |
@@ -238,6 +264,7 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | na adhiṭṭhāti                                                                                                                                 |   |   |   |        |
 | attā                                                                                                                                          |   |   |   |        |
 | me’ti                                                                                                                                         |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | ‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī’ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti.  |   |   |   |        |
 | dukkhaṃ                                                                                                                                       |   |   |   |        |
 | eva                                                                                                                                           |   |   |   |        |
@@ -256,12 +283,14 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | assa                                                                                                                                          |   |   |   |        |
 | ettha                                                                                                                                         |   |   |   |        |
 | hoti                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | ettāvatā kho, kaccāna, sammādiṭṭhi hoti.                                                                                                      |   |   |   |        |
 | ettāvatā                                                                                                                                      |   |   |   |        |
 | kho                                                                                                                                           |   |   |   |        |
 | kaccāna                                                                                                                                       |   |   |   | (name) |
 | sammādiṭṭhi                                                                                                                                   |   |   |   |        |
 | hoti                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | sabbaṃ atthī’ti kho, kaccāna, ayaṃ eko anto.                                                                                                  |   |   |   |        |
 | sabbaṃ                                                                                                                                        |   |   |   |        |
 | atthī’ti                                                                                                                                      |   |   |   |        |
@@ -270,12 +299,14 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | ayaṃ                                                                                                                                          |   |   |   |        |
 | eko                                                                                                                                           |   |   |   |        |
 | anto                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | ‘sabbaṃ n’atthī’ti ayaṃ dutiyo anto.                                                                                                          |   |   |   |        |
 | sabbaṃ                                                                                                                                        |   |   |   |        |
 | n’atthī’ti                                                                                                                                    |   |   |   |        |
 | ayaṃ                                                                                                                                          |   |   |   |        |
 | dutiyo                                                                                                                                        |   |   |   |        |
 | anto                                                                                                                                          |   |   |   |        |
+|                                                                                                                                               |   |   |   |        |
 | ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.                                                                      |   |   |   |        |
 | ete                                                                                                                                           |   |   |   |        |
 | te                                                                                                                                            |   |   |   |        |
@@ -287,4 +318,4 @@ Please do a word-by-word grammatical analysis and translation of the following p
 | tathāgato                                                                                                                                     |   |   |   |        |
 | dhammaṃ                                                                                                                                       |   |   |   |        |
 | deseti                                                                                                                                        |   |   |   |        |
-***
+|                                                                                                                                               |   |   |   |        |

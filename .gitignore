@@ -5,3 +5,4 @@ conductor/
 GEMINI.md
 __pycache__
 uv.lock
+.obsidian/

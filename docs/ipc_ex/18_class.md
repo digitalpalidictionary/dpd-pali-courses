@@ -1,10 +1,10 @@
+
 # Class 18
 
 **Disjoin the sandhis**
 
-**sākacchā**
-| | |
-|---|---|
+| sākacchā                                |   |
+|-----------------------------------------|---|
 | ākiñcañña                               |   |
 | muyhati                                 |   |
 | vuyhamāna                               |   |
@@ -22,7 +22,9 @@
 | gantar                                  |   |
 | pariyeṭṭhi                              |   |
 | jigiṃsanta                              |   |
+|                                         |   |
 | **Join the following in suitable ways** |   |
+|                                         |   |
 | tatha + ya                              |   |
 | √dam + ya                               |   |
 | √dus + ta                               |   |
@@ -44,14 +46,13 @@
 | √chad + na                              |   |
 | √car + na                               |   |
 | √pā + sa + ā                            |   |
-***
+
 **Exercises**
 
 Break up all the sandhis in the following sentences.
 
-**VIN PAT SA 10<br>yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.**
-| | | | | |
-|---|---|---|---|---|
+| VIN PAT SA 10<br>yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.                                          |   |   |   |        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|--------|
 | yāvatatiyañce                                                                                                                                                        |   |   |   |        |
 | samanubhāsiyamāno                                                                                                                                                    |   |   |   |        |
 | taṃ                                                                                                                                                                  |   |   |   |        |
@@ -62,14 +63,28 @@ Break up all the sandhis in the following sentences.
 | ce                                                                                                                                                                   |   |   |   |        |
 | paṭinissajjeyya                                                                                                                                                      |   |   |   |        |
 | saṅghādiseso                                                                                                                                                         |   |   |   |        |
-| SNP 58<br>ye kecime isayo manujā, (iccāyasmā puṇṇako) |  |  |  |  |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+| SNP 58<br>ye kecime isayo manujā, (iccāyasmā puṇṇako)                                                                                                                |   |   |   |        |
 | ye                                                                                                                                                                   |   |   |   |        |
 | kecime                                                                                                                                                               |   |   |   |        |
 | isayo                                                                                                                                                                |   |   |   |        |
 | manujā                                                                                                                                                               |   |   |   |        |
 | iccāyasmā                                                                                                                                                            |   |   |   |        |
 | puṇṇako                                                                                                                                                              |   |   |   | (name) |
-| SN 35.247<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe nādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso |  |  |  |  |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+| SN 35.247<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe nādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso  |   |   |   |        |
 | idha                                                                                                                                                                 |   |   |   |        |
 | bhikkhave                                                                                                                                                            |   |   |   |        |
 | bhikkhu                                                                                                                                                              |   |   |   |        |
@@ -86,7 +101,24 @@ Break up all the sandhis in the following sentences.
 | ca                                                                                                                                                                   |   |   |   |        |
 | viharati                                                                                                                                                             |   |   |   |        |
 | appamāṇacetaso                                                                                                                                                       |   |   |   |        |
-| DN 16.32<br>cattārome, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro? |  |  |  |  |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+| DN 16.32<br>cattārome, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?                                                                      |   |   |   |        |
 | cattārome                                                                                                                                                            |   |   |   |        |
 | bhikkhave                                                                                                                                                            |   |   |   |        |
 | acchariyā                                                                                                                                                            |   |   |   |        |
@@ -96,10 +128,12 @@ Break up all the sandhis in the following sentences.
 | cakkavattimhi                                                                                                                                                        |   |   |   |        |
 | katame                                                                                                                                                               |   |   |   |        |
 | cattāro                                                                                                                                                              |   |   |   |        |
-***
-**AN 5.51 <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.**
-| | | | | |
-|---|---|---|---|---|
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+|                                                                                                                                                                      |   |   |   |        |
+
+| AN 5.51 <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo **cetaso** ajjhāruho paññāya dubbalīkaraṇo.                                                                                                                  |   |   |   |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | byāpādo                                                                                                                                                                                                       |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                     |   |   |   |   |
 | āvaraṇo                                                                                                                                                                                                       |   |   |   |   |
@@ -108,12 +142,15 @@ Break up all the sandhis in the following sentences.
 | ajjhāruho                                                                                                                                                                                                     |   |   |   |   |
 | paññāya                                                                                                                                                                                                       |   |   |   |   |
 | dubbalīkaraṇo.                                                                                                                                                                                                |   |   |   |   |
-| SNP 54 <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ **manaso** vijaññā,<br>kaṇhassa pakkhoti vinodayeyya. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+| SNP 54 <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ **manaso** vijaññā,<br>kaṇhassa pakkhoti vinodayeyya.                                                           |   |   |   |   |
 | theyyaṃ                                                                                                                                                                                                       |   |   |   |   |
 | na                                                                                                                                                                                                            |   |   |   |   |
 | kāre                                                                                                                                                                                                          |   |   |   |   |
 | na                                                                                                                                                                                                            |   |   |   |   |
-| musā<br>bhaṇeyya |  |  |  |  |
+| musā<br>bhaṇeyya                                                                                                                                                                                              |   |   |   |   |
 | mettāya                                                                                                                                                                                                       |   |   |   |   |
 | phasse                                                                                                                                                                                                        |   |   |   |   |
 | tasathāvarāni                                                                                                                                                                                                 |   |   |   |   |
@@ -123,7 +160,13 @@ Break up all the sandhis in the following sentences.
 | kaṇhassa                                                                                                                                                                                                      |   |   |   |   |
 | pakkhoti                                                                                                                                                                                                      |   |   |   |   |
 | vinodayeyya                                                                                                                                                                                                   |   |   |   |   |
-| AN 8.2 <br>tathārūpāssa dhammā bahussutā honti dhātā **vacasā** paricitā **manasā**nupekkhitā diṭṭhiyā suppaṭividdhā. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+| AN 8.2 <br>tathārūpāssa dhammā bahussutā honti dhātā **vacasā** paricitā **manasā**nupekkhitā diṭṭhiyā suppaṭividdhā.                                                                                         |   |   |   |   |
 | tathārūpāssa                                                                                                                                                                                                  |   |   |   |   |
 | dhammā                                                                                                                                                                                                        |   |   |   |   |
 | bahussutā                                                                                                                                                                                                     |   |   |   |   |
@@ -134,7 +177,10 @@ Break up all the sandhis in the following sentences.
 | manasānupekkhitā                                                                                                                                                                                              |   |   |   |   |
 | diṭṭhiyā                                                                                                                                                                                                      |   |   |   |   |
 | suppaṭividdhā                                                                                                                                                                                                 |   |   |   |   |
-| DN 22.6 <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu **āpodhātu** **tejodhātu** **vāyodhātū**ti. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+| DN 22.6 <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu **āpodhātu** **tejodhātu** **vāyodhātū**ti.                      |   |   |   |   |
 | puna                                                                                                                                                                                                          |   |   |   |   |
 | caparaṃ                                                                                                                                                                                                       |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                     |   |   |   |   |
@@ -152,7 +198,25 @@ Break up all the sandhis in the following sentences.
 | āpodhātu                                                                                                                                                                                                      |   |   |   |   |
 | tejodhātu                                                                                                                                                                                                     |   |   |   |   |
 | vāyodhātūti                                                                                                                                                                                                   |   |   |   |   |
-| DHP 160<br>**attā** hi **attano** nātho,<br>ko hi nātho paro siyā,<br>**attanā** hi sudantena,<br>nāthaṃ labhati dullabhaṃ. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+| DHP 160<br>**attā** hi **attano** nātho,<br>ko hi nātho paro siyā,<br>**attanā** hi sudantena,<br>nāthaṃ labhati dullabhaṃ.                                                                                   |   |   |   |   |
 | attā                                                                                                                                                                                                          |   |   |   |   |
 | hi                                                                                                                                                                                                            |   |   |   |   |
 | attano                                                                                                                                                                                                        |   |   |   |   |
@@ -168,7 +232,8 @@ Break up all the sandhis in the following sentences.
 | nāthaṃ                                                                                                                                                                                                        |   |   |   |   |
 | labhati                                                                                                                                                                                                       |   |   |   |   |
 | dullabhaṃ                                                                                                                                                                                                     |   |   |   |   |
-| SN 22.1 <br>na rūpaṃ **attato** samanupassati, na rūpavantaṃ vā **attānaṃ**; na **attani** vā rūpaṃ, na rūpasmiṃ vā **attānaṃ**. ‘ahaṃ rūpaṃ, mama rūpanti na pariyuṭṭhaṭṭhāyī hoti. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+| SN 22.1 <br>na rūpaṃ **attato** samanupassati, na rūpavantaṃ vā **attānaṃ**; na **attani** vā rūpaṃ, na rūpasmiṃ vā **attānaṃ**. ‘ahaṃ rūpaṃ, mama rūpanti na pariyuṭṭhaṭṭhāyī hoti.                          |   |   |   |   |
 | na                                                                                                                                                                                                            |   |   |   |   |
 | rūpaṃ                                                                                                                                                                                                         |   |   |   |   |
 | attato                                                                                                                                                                                                        |   |   |   |   |
@@ -192,7 +257,12 @@ Break up all the sandhis in the following sentences.
 | na                                                                                                                                                                                                            |   |   |   |   |
 | pariyuṭṭhaṭṭhāyī                                                                                                                                                                                              |   |   |   |   |
 | hoti                                                                                                                                                                                                          |   |   |   |   |
-| AN 2.40<br>yasmiṃ, bhikkhave, samaye **rājāno** balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye **rañño** phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+| AN 2.40<br>yasmiṃ, bhikkhave, samaye **rājāno** balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye **rañño** phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ. |   |   |   |   |
 | yasmiṃ                                                                                                                                                                                                        |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                     |   |   |   |   |
 | samaye                                                                                                                                                                                                        |   |   |   |   |
@@ -218,7 +288,8 @@ Break up all the sandhis in the following sentences.
 | vā                                                                                                                                                                                                            |   |   |   |   |
 | janapade                                                                                                                                                                                                      |   |   |   |   |
 | anusaññātuṃ                                                                                                                                                                                                   |   |   |   |   |
-| AN 3.83 <br>tassa na tādiso vaṇṇo hoti seyyathāpi **gunnaṃ**, na tādiso saro hoti seyyathāpi **gunnaṃ**, na tādisaṃ padaṃ hoti seyyathāpi **gunnaṃ**. |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+| AN 3.83 <br>tassa na tādiso vaṇṇo hoti seyyathāpi **gunnaṃ**, na tādiso saro hoti seyyathāpi **gunnaṃ**, na tādisaṃ padaṃ hoti seyyathāpi **gunnaṃ**.                                                         |   |   |   |   |
 | tassa                                                                                                                                                                                                         |   |   |   |   |
 | na                                                                                                                                                                                                            |   |   |   |   |
 | tādiso                                                                                                                                                                                                        |   |   |   |   |
@@ -238,24 +309,37 @@ Break up all the sandhis in the following sentences.
 | hoti                                                                                                                                                                                                          |   |   |   |   |
 | seyyathāpi                                                                                                                                                                                                    |   |   |   |   |
 | gunnaṃ                                                                                                                                                                                                        |   |   |   |   |
-| AN 4.49 <br>**anattani**, bhikkhave, **attāti** **saññāvipallāso** **cittavipallāso** **diṭṭhivipallāso.** <br>(please deconstruct the word “vipallāso into prefixes + root + verbal ending) |  |  |  |  |
+|                                                                                                                                                                                                               |   |   |   |   |
+| AN 4.49 <br>**anattani**, bhikkhave, **attāti** **saññāvipallāso** **cittavipallāso** **diṭṭhivipallāso.** <br>(please deconstruct the word “vipallāso into prefixes + root + verbal ending)                  |   |   |   |   |
 | anattani                                                                                                                                                                                                      |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                     |   |   |   |   |
 | attāti                                                                                                                                                                                                        |   |   |   |   |
 | saññāvipallāso                                                                                                                                                                                                |   |   |   |   |
 | cittavipallāso                                                                                                                                                                                                |   |   |   |   |
 | diṭṭhivipallāso                                                                                                                                                                                               |   |   |   |   |
-***
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+|                                                                                                                                                                                                               |   |   |   |   |
+
+## 
+
+## 
+
 ## Class 18 Extra Examples
 
 Break up all the sandhis in the following sentences.
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-***
-**VIN PAT PC 57<br>tatthāyaṃ samayo diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā**
-| | | | | |
-|---|---|---|---|---|
+
+| VIN PAT PC 57<br>tatthāyaṃ samayo diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā                                                                                            |   |   |   |   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | tatthāyaṃ                                                                                                                                                                                                |   |   |   |   |
 | samayo                                                                                                                                                                                                   |   |   |   |   |
 | diyaḍḍho                                                                                                                                                                                                 |   |   |   |   |
@@ -267,7 +351,18 @@ Break up all the sandhis in the following sentences.
 | māso                                                                                                                                                                                                     |   |   |   |   |
 | iccete                                                                                                                                                                                                   |   |   |   |   |
 | aḍḍhateyyamāsā                                                                                                                                                                                           |   |   |   |   |
-| AN 5.140<br>idha, bhikkhave, rañño nāgo yamenaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti. |  |  |  |  |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+| AN 5.140<br>idha, bhikkhave, rañño nāgo yamenaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.  |   |   |   |   |
 | idha                                                                                                                                                                                                     |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                |   |   |   |   |
 | rañño                                                                                                                                                                                                    |   |   |   |   |
@@ -289,7 +384,18 @@ Break up all the sandhis in the following sentences.
 | samannāharitvā                                                                                                                                                                                           |   |   |   |   |
 | ohitasoto                                                                                                                                                                                                |   |   |   |   |
 | suṇāti                                                                                                                                                                                                   |   |   |   |   |
-| AN 3.71<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: ajja kho gāvo amukasmiñca amukasmiñca padese cariṃsu |  |  |  |  |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+| AN 3.71<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: ajja kho gāvo amukasmiñca amukasmiñca padese cariṃsu                                                                    |   |   |   |   |
 | gopālako                                                                                                                                                                                                 |   |   |   |   |
 | sāyanhasamaye                                                                                                                                                                                            |   |   |   |   |
 | sāmikānaṃ                                                                                                                                                                                                |   |   |   |   |
@@ -304,7 +410,16 @@ Break up all the sandhis in the following sentences.
 | amukasmiñca                                                                                                                                                                                              |   |   |   |   |
 | padese                                                                                                                                                                                                   |   |   |   |   |
 | cariṃsu                                                                                                                                                                                                  |   |   |   |   |
-| SN 7.9<br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ |  |  |  |  |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+| SN 7.9<br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ                                                                                                                                |   |   |   |   |
 | māno                                                                                                                                                                                                     |   |   |   |   |
 | hi                                                                                                                                                                                                       |   |   |   |   |
 | te                                                                                                                                                                                                       |   |   |   |   |
@@ -314,7 +429,12 @@ Break up all the sandhis in the following sentences.
 | dhūmo                                                                                                                                                                                                    |   |   |   |   |
 | bhasmani                                                                                                                                                                                                 |   |   |   |   |
 | mosavajjaṃ                                                                                                                                                                                               |   |   |   |   |
-| AN 3.51<br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti. |  |  |  |  |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+| AN 3.51<br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.                                                                                                                        |   |   |   |   |
 | idha                                                                                                                                                                                                     |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                |   |   |   |   |
 | mahācoro                                                                                                                                                                                                 |   |   |   |   |
@@ -324,7 +444,12 @@ Break up all the sandhis in the following sentences.
 | vā                                                                                                                                                                                                       |   |   |   |   |
 | nissito                                                                                                                                                                                                  |   |   |   |   |
 | hoti                                                                                                                                                                                                     |   |   |   |   |
-| MN 82<br>appekadāhaṃ, bho raṭṭhapāla, idha pādaṃ karissāmīti aññeneva pādaṃ karomīti. |  |  |  |  |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+| MN 82<br>appekadāhaṃ, bho raṭṭhapāla, idha pādaṃ karissāmīti aññeneva pādaṃ karomīti.                                                                                                                    |   |   |   |   |
 | appekadāhaṃ                                                                                                                                                                                              |   |   |   |   |
 | bho                                                                                                                                                                                                      |   |   |   |   |
 | raṭṭhapāla                                                                                                                                                                                               |   |   |   |   |
@@ -334,4 +459,15 @@ Break up all the sandhis in the following sentences.
 | aññeneva                                                                                                                                                                                                 |   |   |   |   |
 | pādaṃ                                                                                                                                                                                                    |   |   |   |   |
 | karomīti                                                                                                                                                                                                 |   |   |   |   |
-***
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |
+|                                                                                                                                                                                                          |   |   |   |   |

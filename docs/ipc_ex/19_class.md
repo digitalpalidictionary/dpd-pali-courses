@@ -1,10 +1,10 @@
+
 # Class 19
 
 **Disjoin the samāsa**
 
-**kunnadī**
-| | |
-|---|---|
+| kunnadī                                       |   |
+|-----------------------------------------------|---|
 | appamatta                                     |   |
 | abhirūpa                                      |   |
 | yānīkata                                      |   |
@@ -34,14 +34,13 @@
 | dvi + dasa                                    |   |
 | catu + āsīti                                  |   |
 | cha + pañca                                   |   |
-***
+
 **Exercises**
 
 Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.
 
-**DN 2.19<br>seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. tassa te kammantā samijjheyyuṃ.**
-| | | | | |
-|---|---|---|---|---|
+| DN 2.19<br>seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. tassa te kammantā samijjheyyuṃ.                                                 |   |   |   |   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | seyyathāpi                                                                                                                                             |   |   |   |   |
 | mahārāja                                                                                                                                               |   |   |   |   |
 | puriso                                                                                                                                                 |   |   |   |   |
@@ -53,7 +52,17 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | te                                                                                                                                                     |   |   |   |   |
 | kammantā                                                                                                                                               |   |   |   |   |
 | samijjheyyuṃ                                                                                                                                           |   |   |   |   |
-| MN 48<br>chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti. |  |  |  |  |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+| MN 48<br>chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.                               |   |   |   |   |
 | chayime                                                                                                                                                |   |   |   |   |
 | bhikkhave                                                                                                                                              |   |   |   |   |
 | dhammā                                                                                                                                                 |   |   |   |   |
@@ -65,7 +74,18 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | sāmaggiyā                                                                                                                                              |   |   |   |   |
 | ekībhāvāya                                                                                                                                             |   |   |   |   |
 | saṃvattanti                                                                                                                                            |   |   |   |   |
-| AN 3.24<br>puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati |  |  |  |  |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+| AN 3.24<br>puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati                   |   |   |   |   |
 | puggalo                                                                                                                                                |   |   |   |   |
 | āsavānaṃ                                                                                                                                               |   |   |   |   |
 | khayā                                                                                                                                                  |   |   |   |   |
@@ -79,13 +99,31 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | sacchikatvā                                                                                                                                            |   |   |   |   |
 | upasampajja                                                                                                                                            |   |   |   |   |
 | viharati                                                                                                                                               |   |   |   |   |
-| SN 12.22<br>alameva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ |  |  |  |  |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+| SN 12.22<br>alameva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ                                                                                    |   |   |   |   |
 | alameva                                                                                                                                                |   |   |   |   |
 | saddhāpabbajitena                                                                                                                                      |   |   |   |   |
 | kulaputtena                                                                                                                                            |   |   |   |   |
 | vīriyaṃ                                                                                                                                                |   |   |   |   |
 | ārabhituṃ                                                                                                                                              |   |   |   |   |
-| AN 10.58<br>satādhipateyyā sabbe dhammā, paññuttarā sabbe dhammā, vimuttisārā sabbe dhammā, amatogadhā sabbe dhammā, nibbānapariyosānā sabbe dhammāti |  |  |  |  |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+| AN 10.58<br>satādhipateyyā sabbe dhammā, paññuttarā sabbe dhammā, vimuttisārā sabbe dhammā, amatogadhā sabbe dhammā, nibbānapariyosānā sabbe dhammāti  |   |   |   |   |
 | satādhipateyyā                                                                                                                                         |   |   |   |   |
 | sabbe                                                                                                                                                  |   |   |   |   |
 | dhammā                                                                                                                                                 |   |   |   |   |
@@ -99,16 +137,35 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | nibbānapariyosānā                                                                                                                                      |   |   |   |   |
 | sabbe                                                                                                                                                  |   |   |   |   |
 | dhammāti                                                                                                                                               |   |   |   |   |
-| SN 55.31<br>ayaṃ paṭhamo puññābhisando kusalābhisando sukhassāhāro. |  |  |  |  |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+| SN 55.31<br>ayaṃ paṭhamo puññābhisando kusalābhisando sukhassāhāro.                                                                                    |   |   |   |   |
 | ayaṃ                                                                                                                                                   |   |   |   |   |
 | paṭhamo                                                                                                                                                |   |   |   |   |
 | puññābhisando                                                                                                                                          |   |   |   |   |
 | kusalābhisando                                                                                                                                         |   |   |   |   |
 | sukhassāhāro                                                                                                                                           |   |   |   |   |
-***
-**MN 10.3 <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.**
-| | | | | |
-|---|---|---|---|---|
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+|                                                                                                                                                        |   |   |   |   |
+
+| MN 10.3 <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.                                                                              |   |   |   |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | samudayadhammānupassī                                                                                                                                                                                                        |   |   |   |   |
 | vā                                                                                                                                                                                                                           |   |   |   |   |
 | kāyasmiṃ                                                                                                                                                                                                                     |   |   |   |   |
@@ -121,7 +178,18 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | vā                                                                                                                                                                                                                           |   |   |   |   |
 | kāyasmiṃ                                                                                                                                                                                                                     |   |   |   |   |
 | viharati                                                                                                                                                                                                                     |   |   |   |   |
-| MN 33 <br>idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṃ, na labhati dhammavedaṃ, na labhati dhammūpasaṃhitaṃ pāmojjaṃ. |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| MN 33 <br>idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṃ, na labhati dhammavedaṃ, na labhati dhammūpasaṃhitaṃ pāmojjaṃ.                                                           |   |   |   |   |
 | idha                                                                                                                                                                                                                         |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                                    |   |   |   |   |
 | bhikkhu                                                                                                                                                                                                                      |   |   |   |   |
@@ -138,7 +206,18 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | labhati                                                                                                                                                                                                                      |   |   |   |   |
 | dhammūpasaṃhitaṃ                                                                                                                                                                                                             |   |   |   |   |
 | pāmojjaṃ                                                                                                                                                                                                                     |   |   |   |   |
-| SN 20.7 <br>ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti. |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| SN 20.7 <br>ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti.                                                                                             |   |   |   |   |
 | ye                                                                                                                                                                                                                           |   |   |   |   |
 | te                                                                                                                                                                                                                           |   |   |   |   |
 | suttantā                                                                                                                                                                                                                     |   |   |   |   |
@@ -151,7 +230,16 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | bhaññamānesu                                                                                                                                                                                                                 |   |   |   |   |
 | na                                                                                                                                                                                                                           |   |   |   |   |
 | sussūsanti                                                                                                                                                                                                                   |   |   |   |   |
-| AN 3.126 <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti. |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| AN 3.126 <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.                                                                                                                                       |   |   |   |   |
 | imasmiñca                                                                                                                                                                                                                    |   |   |   |   |
 | pana                                                                                                                                                                                                                         |   |   |   |   |
 | veyyākaraṇasmiṃ                                                                                                                                                                                                              |   |   |   |   |
@@ -159,7 +247,12 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | sahassī                                                                                                                                                                                                                      |   |   |   |   |
 | lokadhātu                                                                                                                                                                                                                    |   |   |   |   |
 | akampitthāti                                                                                                                                                                                                                 |   |   |   |   |
-| AN 5.157 <br>dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| AN 5.157 <br>dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti.                                                                               |   |   |   |   |
 | dussīlo                                                                                                                                                                                                                      |   |   |   |   |
 | bhikkhave                                                                                                                                                                                                                    |   |   |   |   |
 | sīlakathāya                                                                                                                                                                                                                  |   |   |   |   |
@@ -172,7 +265,14 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | dosañca                                                                                                                                                                                                                      |   |   |   |   |
 | appaccayañca                                                                                                                                                                                                                 |   |   |   |   |
 | pātukaroti                                                                                                                                                                                                                   |   |   |   |   |
-| AN 6.62 <br>seyyathāpi vā panānanda, rattiyā paccūsasamayaṃ sūriye uggacchante, jāneyyāsi tvaṃ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatīti? |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| AN 6.62 <br>seyyathāpi vā panānanda, rattiyā paccūsasamayaṃ sūriye uggacchante, jāneyyāsi tvaṃ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatīti?                                                                  |   |   |   |   |
 | seyyathāpi                                                                                                                                                                                                                   |   |   |   |   |
 | vā                                                                                                                                                                                                                           |   |   |   |   |
 | panānanda                                                                                                                                                                                                                    |   |   |   |   |
@@ -187,7 +287,14 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | antaradhāyissati                                                                                                                                                                                                             |   |   |   |   |
 | āloko                                                                                                                                                                                                                        |   |   |   |   |
 | pātubhavissatīti                                                                                                                                                                                                             |   |   |   |   |
-| UD 45 <br>tatiyampi kho āyasmā ānando abhikkantāya rattiyā, nikkhante pacchime yāme, uddhaste aruṇe, nandimukhiyā rattiyā uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca. |  |  |  |  |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+| UD 45 <br>tatiyampi kho āyasmā ānando abhikkantāya rattiyā, nikkhante pacchime yāme, uddhaste aruṇe, nandimukhiyā rattiyā uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.  |   |   |   |   |
 | tatiyampi                                                                                                                                                                                                                    |   |   |   |   |
 | kho                                                                                                                                                                                                                          |   |   |   |   |
 | āyasmā                                                                                                                                                                                                                       |   |   |   |   |
@@ -211,17 +318,31 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | paṇāmetvā                                                                                                                                                                                                                    |   |   |   |   |
 | bhagavantaṃ                                                                                                                                                                                                                  |   |   |   |   |
 | etadavoca                                                                                                                                                                                                                    |   |   |   |   |
-***
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+|                                                                                                                                                                                                                              |   |   |   |   |
+
+## 
+
 ## Class 19 Extra Examples
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-***
-**SN 1.13<br>sāvatthinidānaṃ. ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi.**
-| | | | | |
-|---|---|---|---|---|
+
+| SN 1.13<br>sāvatthinidānaṃ. ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi.                                                                |   |   |   |   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | sāvatthinidānaṃ                                                                                                                                                |   |   |   |   |
 | ekamantaṃ                                                                                                                                                      |   |   |   |   |
 | ṭhitā                                                                                                                                                          |   |   |   |   |
@@ -233,13 +354,29 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | imaṃ                                                                                                                                                           |   |   |   |   |
 | gāthaṃ                                                                                                                                                         |   |   |   |   |
 | abhāsi                                                                                                                                                         |   |   |   |   |
-| MN 30<br>akuppā cetovimutti etadatthamidaṃ brāhmaṇa brahmacariyaṃ |  |  |  |  |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+| MN 30<br>akuppā cetovimutti etadatthamidaṃ brāhmaṇa brahmacariyaṃ                                                                                              |   |   |   |   |
 | akuppā                                                                                                                                                         |   |   |   |   |
 | cetovimutti                                                                                                                                                    |   |   |   |   |
 | etadatthamidaṃ                                                                                                                                                 |   |   |   |   |
 | brāhmaṇa                                                                                                                                                       |   |   |   |   |
 | brahmacariyaṃ                                                                                                                                                  |   |   |   |   |
-| MN 70<br>kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā. |  |  |  |  |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+| MN 70<br>kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.                                                                                  |   |   |   |   |
 | kīva                                                                                                                                                           |   |   |   |   |
 | dūrevime                                                                                                                                                       |   |   |   |   |
 | bhikkhave                                                                                                                                                      |   |   |   |   |
@@ -247,7 +384,15 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | apakkantā                                                                                                                                                      |   |   |   |   |
 | imamhā                                                                                                                                                         |   |   |   |   |
 | dhammavinayā                                                                                                                                                   |   |   |   |   |
-| VIN 1.1.2<br>ye te bhikkhū appicchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti |  |  |  |  |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+| VIN 1.1.2<br>ye te bhikkhū appicchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti                                                  |   |   |   |   |
 | ye                                                                                                                                                             |   |   |   |   |
 | te                                                                                                                                                             |   |   |   |   |
 | bhikkhū                                                                                                                                                        |   |   |   |   |
@@ -260,7 +405,12 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | ujjhāyanti                                                                                                                                                     |   |   |   |   |
 | khiyyanti                                                                                                                                                      |   |   |   |   |
 | vipācenti                                                                                                                                                      |   |   |   |   |
-| DN 22.18<br>vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. |  |  |  |  |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+| DN 22.18<br>vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.  |   |   |   |   |
 | vitakkavicārānaṃ                                                                                                                                               |   |   |   |   |
 | vūpasamā                                                                                                                                                       |   |   |   |   |
 | ajjhattaṃ                                                                                                                                                      |   |   |   |   |
@@ -275,10 +425,24 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | jhānaṃ                                                                                                                                                         |   |   |   |   |
 | upasampajja                                                                                                                                                    |   |   |   |   |
 | viharati                                                                                                                                                       |   |   |   |   |
-***
-**MN 18 <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.**
-| | | | | |
-|---|---|---|---|---|
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+|                                                                                                                                                                |   |   |   |   |
+
+| MN 18 <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu. |   |   |   |   |
+|--------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | yaṃ                                                                                                                            |   |   |   |   |
 | papañceti                                                                                                                      |   |   |   |   |
 | tatonidānaṃ                                                                                                                    |   |   |   |   |
@@ -288,4 +452,16 @@ Break up all the sandhis and compounds in the following sentences. Underneath th
 | atītānāgatapaccuppannesu                                                                                                       |   |   |   |   |
 | cakkhuviññeyyesu                                                                                                               |   |   |   |   |
 | rūpesu                                                                                                                         |   |   |   |   |
-***
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+|                                                                                                                                |   |   |   |   |
+
+## 

@@ -1,16 +1,23 @@
+
 # Class 21
 
 Break up every verb and participle into root, group and sign / prefix, base and verbal termination.
 
-**SNP 13<br>yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhimānantarikaññamāhu.**
-| | | | | |
-|---|---|---|---|---|
+| SNP 13<br>yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhimānantarikaññamāhu.                                                  |   |   |   |   |
+|---------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | yaṃ                                                                                                                       |   |   |   |   |
 | buddhaseṭṭho                                                                                                              |   |   |   |   |
 | parivaṇṇayī                                                                                                               |   |   |   |   |
 | suciṃ                                                                                                                     |   |   |   |   |
 | samādhimānantarikaññamāhu                                                                                                 |   |   |   |   |
-| SNP 13<br>khayaṃ virāgaṃ amataṃ paṇītaṃ, yadajjhagā sakyamunī samāhito. |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| SNP 13<br>khayaṃ virāgaṃ amataṃ paṇītaṃ, yadajjhagā sakyamunī samāhito.                                                   |   |   |   |   |
 | khayaṃ                                                                                                                    |   |   |   |   |
 | virāgaṃ                                                                                                                   |   |   |   |   |
 | amataṃ                                                                                                                    |   |   |   |   |
@@ -18,7 +25,12 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | yadajjhagā                                                                                                                |   |   |   |   |
 | sakyamunī                                                                                                                 |   |   |   |   |
 | samāhito                                                                                                                  |   |   |   |   |
-| SNP 22<br>khaṇo vo mā upaccagā, khaṇātītā hi socanti, nirayamhi samappitā. |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| SNP 22<br>khaṇo vo mā upaccagā, khaṇātītā hi socanti, nirayamhi samappitā.                                                |   |   |   |   |
 | khaṇo                                                                                                                     |   |   |   |   |
 | vo                                                                                                                        |   |   |   |   |
 | mā                                                                                                                        |   |   |   |   |
@@ -28,7 +40,10 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | socanti                                                                                                                   |   |   |   |   |
 | nirayamhi                                                                                                                 |   |   |   |   |
 | samappitā                                                                                                                 |   |   |   |   |
-| AN 4.67<br>sabbe sattā sabbe pāṇā, sabbe bhūtā ca kevalā. <br>sabbe bhadrāni passantu, mā kiñci pāpamāgamā. |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| AN 4.67<br>sabbe sattā sabbe pāṇā, sabbe bhūtā ca kevalā. <br>sabbe bhadrāni passantu, mā kiñci pāpamāgamā.               |   |   |   |   |
 | sabbe                                                                                                                     |   |   |   |   |
 | sattā                                                                                                                     |   |   |   |   |
 | sabbe                                                                                                                     |   |   |   |   |
@@ -43,7 +58,10 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | mā                                                                                                                        |   |   |   |   |
 | kiñci                                                                                                                     |   |   |   |   |
 | pāpamāgamā                                                                                                                |   |   |   |   |
-| SNP 41<br>yo attano sīlavatāni jantu, anānupuṭṭhova paresa pāva, anariyadhammaṃ kusalā tamāhu, yo ātumānaṃ sayameva pāva. |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| SNP 41<br>yo attano sīlavatāni jantu, anānupuṭṭhova paresa pāva, anariyadhammaṃ kusalā tamāhu, yo ātumānaṃ sayameva pāva. |   |   |   |   |
 | yo                                                                                                                        |   |   |   |   |
 | attano                                                                                                                    |   |   |   |   |
 | sīlavatāni                                                                                                                |   |   |   |   |
@@ -58,12 +76,35 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | ātumānaṃ                                                                                                                  |   |   |   |   |
 | sayameva                                                                                                                  |   |   |   |   |
 | pāva                                                                                                                      |   |   |   |   |
-| MN 79<br>appevanāmimassa kevalassa dukkhakkhandhassa antakiriyā paññāyethāti |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| MN 79<br>appevanāmimassa kevalassa dukkhakkhandhassa antakiriyā paññāyethāti                                              |   |   |   |   |
 | appevanāmimassa                                                                                                           |   |   |   |   |
 | kevalassa                                                                                                                 |   |   |   |   |
 | dukkhakkhandhassa                                                                                                         |   |   |   |   |
 | antakiriyā                                                                                                                |   |   |   |   |
 | paññāyethāti                                                                                                              |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
 | iṅgha tāva āyasmā kāyikaṃ sikkhassūti, itissa bhavanti vattāro. AN 10.44                                                  |   |   |   |   |
 | iṅgha                                                                                                                     |   |   |   |   |
 | tāva                                                                                                                      |   |   |   |   |
@@ -73,7 +114,12 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | itissa                                                                                                                    |   |   |   |   |
 | bhavanti                                                                                                                  |   |   |   |   |
 | vattāro                                                                                                                   |   |   |   |   |
-| SNP 70<br>evaṃ abhikkantadassāviṃ, atthi pañhena āgamaṃ, <br>kathaṃ lokaṃ avekkhantaṃ, maccurājā na passati. |  |  |  |  |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+| SNP 70<br>evaṃ abhikkantadassāviṃ, atthi pañhena āgamaṃ, <br>kathaṃ lokaṃ avekkhantaṃ, maccurājā na passati.              |   |   |   |   |
 | evaṃ                                                                                                                      |   |   |   |   |
 | abhikkantadassāviṃ                                                                                                        |   |   |   |   |
 | atthi                                                                                                                     |   |   |   |   |
@@ -85,10 +131,14 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | maccurājā                                                                                                                 |   |   |   |   |
 | na                                                                                                                        |   |   |   |   |
 | passati                                                                                                                   |   |   |   |   |
-***
-**SN 1.31 <br>sabbhireva samāsetha,<br>sabbhi kubbetha santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatinti.**
-| | | | | |
-|---|---|---|---|---|
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+|                                                                                                                           |   |   |   |   |
+
+| SN 1.31 <br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatinti.                                                                                             |   |   |   |        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|--------|
 | sabbhireva                                                                                                                                                                                                                    |   |   |   |        |
 | samāsetha                                                                                                                                                                                                                     |   |   |   |        |
 | sabbhi                                                                                                                                                                                                                        |   |   |   |        |
@@ -99,7 +149,12 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | sattā                                                                                                                                                                                                                         |   |   |   |        |
 | gacchanti                                                                                                                                                                                                                     |   |   |   |        |
 | suggatinti.                                                                                                                                                                                                                   |   |   |   |        |
-| UD 50<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gaccheti. |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| UD 50<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gaccheti.     |   |   |   |        |
 | ṭhitena                                                                                                                                                                                                                       |   |   |   |        |
 | kāyena                                                                                                                                                                                                                        |   |   |   |        |
 | ṭhitena                                                                                                                                                                                                                       |   |   |   |        |
@@ -122,7 +177,13 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | adassanaṃ                                                                                                                                                                                                                     |   |   |   |        |
 | maccurājassa                                                                                                                                                                                                                  |   |   |   |        |
 | gaccheti                                                                                                                                                                                                                      |   |   |   |        |
-| KHP 9<br>na paro paraṃ **nikubbetha**,<br>**nātimaññetha** katthaci naṃ kiñci,<br>byārosanā paṭighasaññā,<br>nāññamaññassa **dukkhamiccheyya**. |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| KHP 9<br>na paro paraṃ **nikubbetha**,<br>**nātimaññetha** katthaci naṃ kiñci,<br>byārosanā paṭighasaññā,<br>nāññamaññassa **dukkhamiccheyya**.                                                                               |   |   |   |        |
 | na                                                                                                                                                                                                                            |   |   |   |        |
 | paro                                                                                                                                                                                                                          |   |   |   |        |
 | paraṃ                                                                                                                                                                                                                         |   |   |   |        |
@@ -135,7 +196,16 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | paṭighasaññā                                                                                                                                                                                                                  |   |   |   |        |
 | nāññamaññassa                                                                                                                                                                                                                 |   |   |   |        |
 | dukkhamiccheyya                                                                                                                                                                                                               |   |   |   |        |
-| AN 2.19 <br>kusalaṃ, bhikkhave, **bhāvetha**. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā **abhavissa** kusalaṃ bhāvetuṃ, nāhaṃ evaṃ **vadeyyaṃ**, ‘kusalaṃ, bhikkhave, **bhāvethā**ti. |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| AN 2.19 <br>kusalaṃ, bhikkhave, **bhāvetha**. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā **abhavissa** kusalaṃ bhāvetuṃ, nāhaṃ evaṃ **vadeyyaṃ**, ‘kusalaṃ, bhikkhave, **bhāvethā**ti.                    |   |   |   |        |
 | kusalaṃ                                                                                                                                                                                                                       |   |   |   |        |
 | bhikkhave                                                                                                                                                                                                                     |   |   |   |        |
 | bhāvetha                                                                                                                                                                                                                      |   |   |   |        |
@@ -156,7 +226,8 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | kusalaṃ                                                                                                                                                                                                                       |   |   |   |        |
 | bhikkhave                                                                                                                                                                                                                     |   |   |   |        |
 | bhāvethāti                                                                                                                                                                                                                    |   |   |   |        |
-| AN 3.39 <br>ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā **aṭṭīyeyyaṃ** **harāyeyyaṃ** **jiguccheyyaṃ** na metaṃ assa patirūpanti. |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| AN 3.39 <br>ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā **aṭṭīyeyyaṃ** **harāyeyyaṃ** **jiguccheyyaṃ** na metaṃ assa patirūpanti.                                                                    |   |   |   |        |
 | ahañceva                                                                                                                                                                                                                      |   |   |   |        |
 | kho                                                                                                                                                                                                                           |   |   |   |        |
 | pana                                                                                                                                                                                                                          |   |   |   |        |
@@ -174,7 +245,15 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | metaṃ                                                                                                                                                                                                                         |   |   |   |        |
 | assa                                                                                                                                                                                                                          |   |   |   |        |
 | patirūpanti                                                                                                                                                                                                                   |   |   |   |        |
-| UD 50 <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| UD 50 <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā                                                                             |   |   |   |        |
 | addasā                                                                                                                                                                                                                        |   |   |   |        |
 | kho                                                                                                                                                                                                                           |   |   |   |        |
 | bhagavā                                                                                                                                                                                                                       |   |   |   |        |
@@ -190,7 +269,10 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | parimukhaṃ                                                                                                                                                                                                                    |   |   |   |        |
 | satiṃ                                                                                                                                                                                                                         |   |   |   |        |
 | upaṭṭhapetvā                                                                                                                                                                                                                  |   |   |   |        |
-| ITI 87<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**ti |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| ITI 87<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**ti |   |   |   |        |
 | tayo                                                                                                                                                                                                                          |   |   |   |        |
 | vitakke                                                                                                                                                                                                                       |   |   |   |        |
 | kusale                                                                                                                                                                                                                        |   |   |   |        |
@@ -215,7 +297,12 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | so                                                                                                                                                                                                                            |   |   |   |        |
 | santipadaṃ                                                                                                                                                                                                                    |   |   |   |        |
 | samajjhagāti                                                                                                                                                                                                                  |   |   |   |        |
-| SN 11.24 <br>tena kho pana samayena dve bhikkhū sampayojesuṃ, tatreko bhikkhu **accasarā**, atha kho so bhikkhu tassa bhikkhuno santike accayaṃ accayato deseti, so bhikkhu nappaṭiggaṇhāti. |  |  |  |  |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+|                                                                                                                                                                                                                               |   |   |   |        |
+| SN 11.24 <br>tena kho pana samayena dve bhikkhū sampayojesuṃ, tatreko bhikkhu **accasarā**, atha kho so bhikkhu tassa bhikkhuno santike accayaṃ accayato deseti, so bhikkhu nappaṭiggaṇhāti.                                  |   |   |   |        |
 | tena                                                                                                                                                                                                                          |   |   |   |        |
 | kho                                                                                                                                                                                                                           |   |   |   |        |
 | pana                                                                                                                                                                                                                          |   |   |   |        |
@@ -238,17 +325,21 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | so                                                                                                                                                                                                                            |   |   |   |        |
 | bhikkhu                                                                                                                                                                                                                       |   |   |   |        |
 | nappaṭiggaṇhāti                                                                                                                                                                                                               |   |   |   |        |
-***
+|                                                                                                                                                                                                                               |   |   |   |        |
+
+## 
+
+## 
+
 ## Class 21 Extra Examples
 
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
 
 | Pāli | POS | Grammar | English | Root |
 |------|-----|---------|---------|------|
-***
-**SN.2.8 (Dhp 313)<br>kayirā ce, kayirāthenaṃ, daḷhamenaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.**
-| | | | | |
-|---|---|---|---|---|
+
+| SN.2.8 (Dhp 313)<br>kayirā ce, kayirāthenaṃ, daḷhamenaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.                   |   |   |   |   |
+|--------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | kayirā                                                                                                                               |   |   |   |   |
 | ce                                                                                                                                   |   |   |   |   |
 | kayirāthenaṃ                                                                                                                         |   |   |   |   |
@@ -260,7 +351,13 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | bhiyyo                                                                                                                               |   |   |   |   |
 | ākirate                                                                                                                              |   |   |   |   |
 | rajaṃ                                                                                                                                |   |   |   |   |
-| TH 251<br>na dīghamāyuṃ labhate dhanena, na cāpi vittena jaraṃ vihanti. appaṃ hidaṃ jīvitamāhu dhīrā, asassataṃ vippariṇāmadhammaṃ. |  |  |  |  |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+| TH 251<br>na dīghamāyuṃ labhate dhanena, na cāpi vittena jaraṃ vihanti. appaṃ hidaṃ jīvitamāhu dhīrā, asassataṃ vippariṇāmadhammaṃ.  |   |   |   |   |
 | na                                                                                                                                   |   |   |   |   |
 | dīghamāyuṃ                                                                                                                           |   |   |   |   |
 | labhate                                                                                                                              |   |   |   |   |
@@ -276,17 +373,33 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | dhīrā                                                                                                                                |   |   |   |   |
 | asassataṃ                                                                                                                            |   |   |   |   |
 | vippariṇāmadhammaṃ                                                                                                                   |   |   |   |   |
-| VIN PAT NP 10<br>yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassāti. |  |  |  |  |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+| VIN PAT NP 10<br>yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassāti.                                                                      |   |   |   |   |
 | yuñjantāyasmanto                                                                                                                     |   |   |   |   |
 | sakaṃ                                                                                                                                |   |   |   |   |
 | mā                                                                                                                                   |   |   |   |   |
 | vo                                                                                                                                   |   |   |   |   |
 | sakaṃ                                                                                                                                |   |   |   |   |
 | vinassāti                                                                                                                            |   |   |   |   |
-***
-**SNP 46<br>visenikatvā pana ye caranti,<br>diṭṭhīhi diṭṭhiṃ avirujjhamānā,<br>tesu tvaṃ kiṃ labhetho pasūra,<br>yesīdha natthī paramuggahītaṃ.**
-| | | | | |
-|---|---|---|---|---|
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+|                                                                                                                                      |   |   |   |   |
+
+| SNP 46<br>visenikatvā pana ye caranti,<br>diṭṭhīhi diṭṭhiṃ avirujjhamānā,<br>tesu tvaṃ kiṃ **labhetho** pasūra,<br>yesīdha natthī paramuggahītaṃ. |   |   |   |   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|
 | visenikatvā                                                                                                                                       |   |   |   |   |
 | pana                                                                                                                                              |   |   |   |   |
 | ye                                                                                                                                                |   |   |   |   |
@@ -302,4 +415,8 @@ Break up every verb and participle into root, group and sign / prefix, base and 
 | yesīdha                                                                                                                                           |   |   |   |   |
 | natthī                                                                                                                                            |   |   |   |   |
 | paramuggahītaṃ                                                                                                                                    |   |   |   |   |
-***
+|                                                                                                                                                   |   |   |   |   |
+|                                                                                                                                                   |   |   |   |   |
+|                                                                                                                                                   |   |   |   |   |
+|                                                                                                                                                   |   |   |   |   |
+|                                                                                                                                                   |   |   |   |   |

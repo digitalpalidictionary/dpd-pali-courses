@@ -1,3 +1,4 @@
+
 # Class 1 Exercises
 
 namo tassa bhagavato arahato sammā-sambuddhassa
@@ -10,5 +11,5 @@ namo tassa bhagavato arahato sammā-sambuddhassa
 | arahato                                                                    | noun | masc.dat.sg | to the Worthy One                        |
 | sammā -                                                                    | ind  | adv         | fully; completely                        |
 | sambuddhassa                                                               | noun | masc.dat.sg | to the Enlightened One                   |
-***
+
 Homage to him, the Blessed One, the Worthy One, the fully Enlightened One.
