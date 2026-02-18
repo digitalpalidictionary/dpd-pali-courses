@@ -3,6 +3,7 @@
 **Dis-join the sandhis**
 
 
+
 | | |
 |---|---|
 | sākacchā | saṃ + √kath + yā |
@@ -24,7 +25,9 @@
 | pariyeṭṭhi | pari + √es + ti |
 | jigiṃsanta | √ji + sa + nta |
 
+
 **Join the following in suitable ways**
+
 
 | | |
 |---|---|
@@ -51,14 +54,17 @@
 | √pā + sa + ā | pipāsā |
 
 
+
 **Exercises**
 
 **Break up all the sandhis in the following sentences.**
 
 
+
 1. VIN PAT SA 10<br>yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yāvatatiyañ'ce | sandhi |  | if up to the third time |  |
 | \#yāva | ind | prep | up to |  |
@@ -79,11 +85,14 @@
 | \#ādi | noun | masc. | beginning |  |
 | \#seso | noun | masc.nom.sg | remains; remainder | √sis･8 \*e (remain, distinguish) |
 
+
 **If, being admonished up to the third time, he should relinquish that, thus this [is] good; [but] if he should not relinquish [it], [this is a case] relating to the community in the beginning and in the end.**
+
 
 2. SNP 58<br>"ye kec'ime isayo manujā, (icc'āyasmā puṇṇako)
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | whoever |  |
 | kec'ime | sandhi |  | whichever of these |  |
@@ -96,11 +105,14 @@
 | \#āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
 | puṇṇako | noun | masc.nom.sg | Puṇṇaka | √pūr･1 a (fill, fulfil) |
 
+
 **Whichever of these human beings [are] seers. (Thus said venerable Puṇṇaka)**
+
 
 3. SN 35.247<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe n'ādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | here; in this case |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -136,11 +148,14 @@
 | \#\#pamāṇa | adj | masc. | measuring | √mā･5 nā (measure) |
 | \#cetaso | adj | masc.instr.sg | with mind; having mind | √cit･8 \*e (think, intend) |
 
+
 **Here, monks, having seen a form with the eye, a monk is not drawn to a pleasing form, and he is not repelled by an unpleasant form; with mindfulness of the body present, he dwells with an immeasurable mind.**
+
 
 4. DN 16.32<br>cattāro'me, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cattāro'me | sandhi |  | these four |  |
 | \#cattāro | card | masc.nom.pl | four |  |
@@ -156,12 +171,15 @@
 | katame | pron | masc.nom.pl | which? |  |
 | cattāro | card | masc.nom.pl | four |  |
 
+
 **Monks, [there are] these four wonderful, extraordinary qualities about a wheel-turning monarch. Which four?**
+
 
 
 5. AN 5.51 <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | byāpādo | noun | masc.nom.sg | ill-will | √pad･3 ya (go, step) |
 | bhikkhave | noun | masc.voc.sg | monks | √bhikkh･1 a (beg) |
@@ -174,11 +192,14 @@
 | \#dubbalī | adj | - | weak | √bal･1 a (be strong, live) |
 | \#karaṇo | adj | masc.nom.sg | making, producing, causing | √kar･7 o (do, make) |
 
+
 **Monks, ill will is an obstruction, a hindrance of the mind, which overwhelms and weakens understanding.**
+
 
 6. SNP 54 <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ manaso vijaññā,<br>kaṇhassa pakkho'ti vinodayeyya.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | theyyaṃ | noun | nt.acc.sg | theft | √then･8 \*e (steal) |
 | na | ind | neg | not |  |
@@ -202,11 +223,14 @@
 | \#iti | ind | - | "" |  |
 | vinodayeyya | verb | opt.3rd.sg | he should drive out, dispel, remove | √nud･1 \*aya (drive out, reject) |
 
+
 **One should not perform theft,<br>One should not speak falsely,<br>One should touch unstable and firm beings with kindness,<br>One should know any disturbance of mind and dispel it as "a flank of the <br>Dark One."**
+
 
 7. AN 8.2 <br>tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tathārūpāssa | sandhi |  | of such kind, for him |  |
 | \#tathārūpā | adj | masc.nom.pl | of such quality |  |
@@ -214,9 +238,11 @@
 | \#\#rūpa | adj | masc.nom.pl | of quality, of kind |  |
 | \#assa | pron | masc.dat.sg | for him; by him |  |
 
+
 **(the reading tathārūpassa also exists)**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dhammā | noun | masc.nom.pl | teachings | √dhar･1 a (hold, carry, endure) |
 | bahussutā | adj | masc.nom.pl | well learned | kammadhāraya |
@@ -232,11 +258,14 @@
 | diṭṭhiyā | noun | fem.instr.sg | by view | √dis･1 a (see) |
 | suppaṭividdhā | pp | masc.nom.pl | thoroughly penetrated, understood | √vidh･3 ya (throw, pierce) |
 
+
 **Teachings of such quality are well-learned by him, remembered, verbally practised, mentally reflected upon, and thoroughly understood by view.**
+
 
 8. DN 22.6 <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | puna | ind | - | again |  |
 | caparaṃ | - | - | and further, and what is more |  |
@@ -273,11 +302,14 @@
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | \#iti | ind | - | "" |  |
 
+
 **And further, monks, a monk regards this body, as it is positioned, as it is directed, as elemental states. "In this very body there is the solid state, the liquid state, the fire state and the air state."**
+
 
 9. DHP 160 <br>attā hi attano nātho,<br>ko hi nātho paro siyā,<br>attanā hi sudantena,<br>nāthaṃ labhati dullabhaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | attā | noun | masc.nom.sg | oneself |  |
 | hi | ind | - | indeed, truly |  |
@@ -295,11 +327,14 @@
 | labhati | verb | pr.3rd.sg | he gets | √labh･1 a (get) |
 | dullabhaṃ | adj | masc.acc.sg | rare, hard to get | √labh･1 a (get) |
 
+
 **One is truly one's own protector,<br>How could another be (one's) protector?<br>With oneself truly well-tamed<br>one obtains a protector that is hard to get.**
+
 
 10. SN 22.1 <br>na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ; na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ. 'ahaṃ rūpaṃ, mama rūpan'ti na pariyuṭṭhaṭṭhāyī hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | rūpaṃ | noun | nt.acc.sg | physical form, matter, body | √rūp･8 \*e (form, produce) |
@@ -329,11 +364,14 @@
 | \#ṭhāyī | adj | masc.nom.sg | standing, remaining | √ṭhā･1 a (stand) |
 | hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 
+
 **He does not consider physical form as the self, or the self as having physical form, or physical form as in the self, or the self as in physical form. He does not remain obsessed (by the idea) "I am physical form, physical form is mine."**
+
 
 11. AN 2.40 <br>yasmiṃ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye rañño phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yasmiṃ | pron | masc.loc.sg | at whichever |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -361,11 +399,14 @@
 | janapade | noun | masc.acc.pl | countries, provinces, districts |  |
 | anusaññātuṃ | verb | inf | to go around; to visit; to inspect | √yā･1 a (go) |
 
+
 **At whichever time kings are strong, robbers are weak. At that time it is easy for the king to re-enter or to go out and to visit the outlying districts.**
+
 
 12. AN 3.83 <br>tassa na tādiso vaṇṇo hoti seyyathā'pi gunnaṃ, na tādiso saro hoti seyyathā'pi gunnaṃ, na tādisaṃ padaṃ hoti seyyathā'pi gunnaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg | his |  |
 | na | ind | neg | not |  |
@@ -387,11 +428,14 @@
 | seyyathāpi | ind | - | just like |  |
 | gunnaṃ | noun | masc.gen.pl | of the cows |  |
 
+
 **His colour is not like that of the cows, his sound is not like that of the cows, his footprint is not like that of the cows.**
+
 
 13. AN 4.49 <br>anattani, bhikkhave, attāti saññāvipallāso cittavipallāso diṭṭhivipallāso.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | anattani | noun | masc.loc.sg | in regard to what is not self |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -402,9 +446,11 @@
 | \#saññā | noun | fem | perception | √ñā･5 nā (know) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
 
+
 **vipallāsa = vi + pari \> pali \> paly \> pall + √as \> ās + \*a**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cittavipallāso | noun | masc.nom.sg | distortion of mind |  |
 | \#citta | noun | nt | mind, thought, cognition | √cit･8 \*e (think, intend) |
@@ -413,7 +459,9 @@
 | \#diṭṭhi | noun | fem | view, opinion, theory | √dis･1 a (see) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
 
+
 **"In regard to what is not (a) self, "(This is) self". (is) the distortion of perception, the distortion of thought, the distortion of view.**
+
 
 
 
@@ -421,7 +469,8 @@
 
 1. VIN PAT PC 57<br>tatth'āyaṃ samayo 'diyaḍḍho māso seso gimhānan'ti vassānassa paṭhamo māso icc'ete aḍḍhateyyamāsā
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tatth'āyaṃ | sandhi |  | here this; in this case this |  |
 | \#tattha | ind | adv | in that regard; in that case |  |
@@ -447,20 +496,25 @@
 | \#\#ti + \*ya | card | masc | three |  |
 | \#māsā | noun | masc.nom.pl | months | √mā･5 nā (measure) |
 
+
 **This (is) the time in this case: One-and-a-half months (are) remaining of the hot season and the first month of the rainy season, thus these two-and-a-half months, ...**
+
 
 2. AN 5.140<br>idha, bhikkhave, rañño nāgo yam'enaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | here |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | rañño | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
 | nāgo | noun | masc.nom.sg | a tusker; a bull elephant |  |
 
+
 **Here, monks, a king's bull elephant**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yam'enaṃ | sandhi |  | that which |  |
 | \#yaṃ | pron | masc.acc.sg | whichever |  |
@@ -472,9 +526,11 @@
 | kāraṇaṃ | noun | nt.acc.sg | a task | √kar･7 \*e (do, make) |
 | kāreti | verb | pr caus 3rd.sg | makes one do; causes to make | √kar･7 \*e (do, make) |
 
+
 **to whichever task the elephant trainer has him perform,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yadi vā | idiom | ind | whether or |  |
 | katapubbaṃ | adj | nt.acc.sg | previously performed | kammadhāraya |
@@ -485,9 +541,11 @@
 | \#akata | pp | nt. | not done; not performed | √kar･7 o (do, make) |
 | \#pubbaṃ | adj | nt.acc.sg | previous; earlier |  |
 
+
 **whether [it] has been previously done or not previously done,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | masc.acc.sg | that |  |
 | aṭṭhiṃ katvā | idiom |  | having paid attention; lit. having made important |  |
@@ -503,11 +561,14 @@
 | \#soto | noun | nt.nom.sg | the ear | √su･4 ṇā (hear) |
 | suṇāti | verb | pr.3rd.sg | he listens | √su･4 ṇā (hear) |
 
+
 **having focused and paid attention on that (task), having concentrated completely with the mind, he listens with applied ear.**
+
 
 3. AN 3.71<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: "ajja kho gāvo amukasmiñ'ca amukasmiñ'ca padese cariṃsu"
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | gopālako | noun | masc.nom.sg | young cowherd |  |
 | \#gunnaṃ | noun | masc.gen.pl | of cattle | √gam･1 a (go) |
@@ -532,11 +593,14 @@
 | padese | noun | masc.loc.sg | in the place | √dis･1 a (point out, explain) |
 | cariṃsu | verb | aor.3rd.pl | grazed (in) | √car･1 a (move, walk) |
 
+
 **In the evening, a young cowherd, having handed over the cattle to the owners, reflects thus: "Today, indeed, the cattle grazed in this place and in that place…"**
+
 
 4. SN 7.9 <br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | māno | noun | masc.nom.sg | pride; conceit | √man･3 ya (think) |
 | hi | ind | emph | indeed; truly |  |
@@ -552,11 +616,14 @@
 | \#mosa | adj | nt. | untrue | √mus･1 a (steal) |
 | \#vajjaṃ | adj (as noun) | nt.nom.sg | speaking; saying | √vad 1 a (to say, speak) |
 
+
 **Conceit, O brahmin, is indeed the burden carried across your shoulders; anger the smoke, false speech (is in) the ashes.**
+
 
 5. AN 3.51 <br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | here |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -572,11 +639,14 @@
 | nissito | pp | masc.nom.sg | attached to; dependent on | √si･1 a (depend on, associate with) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
+
 **Here, monks, a master thief is dependent on kings or the royal ministers.**
+
 
 6. MN 82<br>app'ekad'āhaṃ, bho raṭṭhapāla, 'idha pādaṃ karissāmī'ti aññen'eva pādaṃ karomī"ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | app'ekad'āhaṃ | sandhi |  | just sometimes I |  |
 | \#api | ind |  | just |  |
@@ -599,11 +669,13 @@
 | \#karomi | verb | pr.1st.sg | I make; I perform | √kar･7 o (do, make) |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"Just sometimes, master Raṭṭhapāla, thinking, "I will place the foot here", I place it at (lit.: with) another (place)."**
+
 
 
 **[^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single**
 
 
-**word or name or expression; a list"**
 
+**word or name or expression; a list"**

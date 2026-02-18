@@ -3,18 +3,23 @@
 **Find all the secondary derivatives and show their construction.**
 
 
+
 **e.g. taddhita:**
+
 
 
 **ta + [d] + hita**
 
 
+
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
+
 
 
 1. SNP 48<br>patilīno akuhako, **apihālu** **amaccharī**,<br>appagabbho **ajeguccho**, **pesuṇeyye** ca no yuto.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | patilīno | pp | masc.nom.sg | withdrawn; secluded | pati + √lī + na |
 | akuhako | (agent) noun | masc.nom.sg | who is honest; not deceitful | na + √kuh + aka |
@@ -27,11 +32,14 @@
 | no | ind | neg | not |  |
 | yuto | adj | masc.nom.sg (+loc) | engaged in |  |
 
+
 **Withdrawn, not deceitful, not envious, not selfish, courteous, honorable, and he is not engaged in slander.**
+
 
 2. AN 5.37<br>sukhassa dātā **medhāvī**, sukhaṃ so adhigacchati. āyuṃ datvā balaṃ vaṇṇaṃ, sukhañ'ca **paṭibhānakaṃ**, dīgh'āyu **yasavā** hoti, **yattha** yatth'ūpapajjatī'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sukhassa | noun | nt.gen.sg | of happiness |  |
 | dātā | noun | masc.nom.sg (+gen) | giver; bestower (of) |  |
@@ -58,11 +66,14 @@
 | \#upapajjati | verb | pr.3rd.sg | is reborn | upa + √pad + ya + ti |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"The intelligent man, [who is a] bestower of happiness, obtains happiness; having given long-life, strength, beauty, happiness and understanding, he has long life and is renowned wherever he is reborn."**
+
 
 3. AN 3.36<br>(addasa) **āsītikaṃ** vā **nāvutikaṃ** vā **vassasatikaṃ** vā jātiyā jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyaṇaṃ pavedhamānaṃ gacchantaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **āsītikaṃ** | adj | masc.acc.sg | eighty years old | āsīti + ka |
 | vā | ind | conj | or |  |
@@ -82,11 +93,14 @@
 | pavedhamānaṃ | prp | masc.acc.sg | trembling; quivering | pa + √vedh + a + māna |
 | gacchantaṃ | prp | masc.acc.sg | going; walking | √gam + a + nta |
 
+
 **[Didn't you ever see among human beings a man or woman] eighty or ninety or one hundred years old (lit: from birth), worn out, crooked as a rafter, bent, walking along trembling, supported by a staff….?**
+
 
 4. SN 56.11 <br>yo c'āyaṃ atta**kilamath**'ānuyogo dukkho anariyo anatthasañhito.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | which |  |
 | c'āyaṃ | sandhi |  | and this |  |
@@ -103,20 +117,26 @@
 | \#anattha | noun | masc. | harm; misfortune; damage |  |
 | \#sañhito | pp | masc.nom.sg | connected with; concerning | saṃ + √dhā + ita |
 
+
 **…and this practice of self-mortification, which is painful, ignoble, [and] unbeneficial.**
+
 
 5. VIN PAT PC 54<br>**anādariye**, pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **anādariye** | noun | nt.loc.sg | in disrespect | na + ā + √dar + a + iya |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
+
 **In disrespect, [there is an] offence requiring confession.**
+
 
 6. VIN PAT NP 5<br>yo pana bhikkhu **aññātikāya** **bhikkhuniyā** **hatthato** cīvaraṃ paṭiggaṇheyya, **aññatra** pārivattakā, nissaggiyaṃ pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | he; who |  |
 | pana | ind |  | moreover; and so |  |
@@ -131,11 +151,14 @@
 | nissaggiyaṃ | adj | nt.nom.sg | with forfeiture; involving relinquishment |  |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
+
 **If any monk should accept a robe from the hand of a nun, not related by blood, except in an exchange, [it is] an offence requiring confession with forfeiture.**
+
 
 7. SN 12.63<br>te puttamaṃsāni c'eva khādeyyuṃ, ure ca paṭipiseyyuṃ, **kahaṃ**, eka**puttaka**, kahaṃ, ekaputtakā'ti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | te | pron | masc.nom.pl | they |  |
 | puttamaṃsāni | noun | nt.acc.pl | the flesh of [their] son | chaṭṭhī tappurisa |
@@ -158,11 +181,14 @@
 | \#puttaka | noun | masc.voc.sg | young son | putta + ka |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **And just as they would eat (or, were eating) the flesh of [their] son, they would beat their breasts, [saying] "Where [are you] [our] only young son, where [are you] [our] only young son?"**
+
 
 8. DHP 5 <br>na hi verena verāni,<br>sammant'īdha **kudācanaṃ**,<br>averena ca sammanti,<br>esa dhammo **sanantano**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | hi | ind | emph | indeed |  |
@@ -179,11 +205,14 @@
 | dhammo | noun | masc.nom.sg | doctrine; law; truth |  |
 | **sanantano** | adj | masc.nom.sg | eternal; perpetual | sanaṃ + tana |
 
+
 **Indeed, in this world, hatred is never appeased by hatred; they are appeased by non-hatred. This is an eternal truth.**
+
 
 9. AN 7.6<br>saddhādhanaṃ sīladhanaṃ,<br>hirī ottappiyaṃ dhanaṃ,<br>sutadhanañ'ca cāgo ca,<br>paññā ve **sattamaṃ** dhanaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | saddhādhanaṃ | noun | nt.nom.sg | wealth of faith; value of confidence | kammadhāraya |
 | \#saddhā (eva) | noun | fem. | faith; trust |  |
@@ -206,21 +235,26 @@
 | **sattamaṃ** | adj | nt.nom.sg | best; most excellent; highest | sa + √as + a + nta + tama |
 | dhanaṃ | noun | nt.nom.sg | virtue; value; quality |  |
 
+
 **Wealth of faith, wealth of ethical conduct, [the wealth of] sense of shame and] fear of wrongdoing, wealth of learning [and] generosity, and wisdom, indeed, the most excellent [kind] of value.**
+
 
 
 10. MN 39 <br>ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahaṃ | pron | 1st.nom.sg | I |  |
 | kho | ind | ind | truly |  |
 | pubbe | ind | adv | previously |  |
 | ābādhiko | adj | masc.nom.sg | sick | taddhita |
 
+
 **ābādha + ika**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahosiṃ | verb | aor.1st.sg | I was |  |
 | dukkhito | adj | masc.nom.sg | suffering |  |
@@ -239,11 +273,14 @@
 | \#bala |  |  |  |  |
 | \#mattā |  |  |  |  |
 
+
 **Previously I was truly sick, suffering, extremely ill. Food did not please me and there was no strength in my body.**
+
 
 11. SN 25.1 <br>yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati saddhānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | whoever |  |
 | bhikkhave | noun | masc.voc.pl | monks |  |
@@ -261,9 +298,11 @@
 | sammattaniyāmaṃ | noun | masc.acc.sg | fixed correct course |  |
 | \#sammatta |  |  |  | taddhita |
 
+
 **sammā + tta**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | \#niyāma |  |  |  |  |
 | sappurisabhūmiṃ | noun | fem.acc.sg | level of the honourable man | chaṭṭhi tappurisa |
@@ -279,18 +318,23 @@
 | \#\#jana |  |  |  |  |
 | \#bhūmiṃ |  |  |  |  |
 
+
 **Whoever has such faith in these teachings and is settled on them, this person is called a faith follower who has entered a unalterable fixed course, entered the level of the superior man, transcended the level of the common man.**
+
 
 12. DHP 227<br>porāṇametaṃ atula, netaṃ ajjatanāmiva, <br>nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ, <br>mitabhāṇimpi nindanti, natthi loke anindito.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | porāṇam'etaṃ | sandhi |  | this is ancient |  |
 | \#porāṇaṃ | adj | nt.nom.sg |  | taddhita |
 
+
 **pura \> pora + \*aṇa**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | \#etaṃ | pron | nt.nom.sg |  |  |
 | atula | noun | masc.voc.sg | name of a man; lit. immeasurable; uncountable |  |
@@ -298,9 +342,11 @@
 | ajjatanām'iva | adj | nt.nom.sg | just related to the present |  |
 | \#ajjatanaṃ | adj |  |  | taddhita |
 
+
 **ajja + tana**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | \#iva | ind |  |  |  |
 | nindanti | verb | pr.3rd.pl | they blame |  |
@@ -321,11 +367,14 @@
 | loke | noun | masc.loc.sg | in the world |  |
 | anindito | pp (as noun) | masc.nom.sg | one not blamed |  |
 
+
 **This is an ancient thing, Atula, not only related to the present. They blame one sitting silently, they blame one talking a lot, they blame one measured in speech. There is not (anyone) in the world not blamed.**
+
 
 13. AN 4.100 <br>imesaṃ kho, potaliya, catunnaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cāti?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | imesaṃ | pron | masc.gen.pl | of these |  |
 | kho | ind | - | indeed |  |
@@ -334,33 +383,42 @@
 | puggalānaṃ | noun | masc.gen.pl | of people |  |
 | katamo | pron | masc.nom.sg | which? | taddhita |
 
+
 **ka + tama**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | te | pron | 2nd.dat.sg | for you |  |
 | puggalo | noun | masc.nom.sg | person |  |
 | khamati | verb | pr.3rd.sg | seems good (+dat) |  |
 | abhikkantataro | adj | masc.nom.sg | more excellent | taddhita |
 
+
 **abhikkanta + tara**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ca | ind | conj | and |  |
 | paṇītataro | adj | masc.nom.sg | more refined | taddhita |
 
+
 **paṇīta + tara**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cā'ti | ind | conj | and "" |  |
 
+
 **Among these four types of persons, Potaliya, which person seems good to you, more excellent and sublime?**
+
 
 14. SN 47.10 <br>avitakkomhi avicāro ajjhattaṃ satimā sukhamasmīti pajānāti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | avitakko'mhi | sandhi |  | I am without thought |  |
 | \#avitakko | adj | masc.nom.sg | without thought | kammadhāraya as bahubbīhi |
@@ -369,20 +427,25 @@
 | ajjhattaṃ | ind | adv | internally |  |
 | satimā | adj | masc.nom.sg | mindful, aware | taddhita |
 
+
 **sati + mant**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sukhamasmī'ti | sadnhi |  | I am comfortable, at ease "" |  |
 | \#sukhaṃ |  |  |  |  |
 | \#asmi | verb | pr.1st.sg |  |  |
 | pajānāti | verb | pr.3rd.sg | he understands |  |
 
+
 **He knows, "I am free from discursive thought, internally mindful and comfortable."**
+
 
 15. SNP 7<br>kodhano upanāhī ca, pāpamakkhī ca yo naro,<br>vipannadiṭṭhi māyāvī, taṃ jaññā vasalo iti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kodhano | adj | masc.nom.sg | irritable |  |
 | upanāhī | adj | masc.nom.sg | resentful, |  |
@@ -399,20 +462,25 @@
 | \#diṭṭhi |  |  |  |  |
 | māyāvī | adj | masc.nom.sg | deceitful | taddhita |
 
+
 **māyā + vī**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | masc.acc.sg | that person |  |
 | jaññā | verb | opt.2nd.sg | you should know |  |
 | vasalo | noun | masc.nom.sg | outcast |  |
 | iti | ind | - | "" |  |
 
+
 **Whoever is angry, resentful, slanders badly of others, who has a distorted view, who is deceitful – you should know that person as "an outcast".**
+
 
 16. SN 22.1 <br>yo hi, gahapati, imaṃ kāyaṃ pariharanto muhuttampi ārogyaṃ paṭijāneyya, kimaññatra bālyā?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | who, whoever |  |
 | hi | ind | - | indeed |  |
@@ -431,19 +499,25 @@
 | \#kiṃ | ind | adv |  |  |
 | \#aññatra | ind | adv |  | taddhita |
 
+
 **añña + tra**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bālyā | noun | nt.abl.sg | from foolishness | taddhita |
 
+
 **bāla + ya**
+
 
 **O householder, whoever, taking care of this body, would claim health, even for a moment, what is that other than foolishness!?**
 
+
 17. AN 8.13 <br>yāni kho panassa honti sāṭheyyāni kūṭeyyāni jimheyyāni vaṅkeyyāni, tāni yathābhūtaṃ āvikattā hoti satthari vā viññūsu vā sabrahmacārīsu.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yāni | pron | nt.nom.pl | whichever |  |
 | kho | ind | - | indeed |  |
@@ -454,21 +528,27 @@
 | sāṭheyyāni | noun | nt.nom.pl | treachery |  |
 | kūṭeyyāni | noun | nt.nom.pl | crookedness | taddhita |
 
+
 **kūṭa + eyya**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | jimheyyāni | noun | nt.nom.pl | subterfuge | taddhita |
 
+
 **jimha + eyya**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | vaṅkeyyāni | noun | nt.nom.pl | dishonesty | taddhita |
 
+
 **vaṅka + eyya**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tāni | pron | nt.nom.pl | those, those things |  |
 | yathābhūtaṃ | ind | adv | as they are |  |
@@ -480,14 +560,17 @@
 | vā | ind | conj | or |  |
 | sabrahmacārīsu | noun | masc.loc.pl | to fellow monks |  |
 
+
 **And whatever his treachery, crookedness, subterfuge and dishonesty there are, he is one who openly reveals those things as they are to the teacher or wise fellow monks.**
+
 
 
 ## Class 26 Extra Examples
 
 1. SN 47.8<br>**ambil**'aggehi'pi, **tittak**'aggehi'pi, **kaṭuk**'aggehi'pi, **madhur**'aggehi'pi, **khārikehi**'pi, akhārikehi'pi, **loṇikehi**'pi, aloṇikehi'pi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **ambil**'aggehi'pi | sandhi |  | just predominantly sour |  |
 | \#ambilaggehi | adj | masc.instr/abl.pl | predominantly sour | kammadhāraya |
@@ -522,21 +605,26 @@
 | \#aloṇikehi | adj | masc.instr.pl | not salty |  |
 | \#api | ind |  | just |  |
 
+
 **[Bhikkhus, suppose a foolish, incompetent, unskillful cook were to present a king or royal minister with various kinds of curries:] (ones) predominantly sour, predominantly bitter, predominantly pungent, predominantly sweet, alkaline, not alkaline, salty, not salty.**
+
 
 
 2. SN 20.3 <br>seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṃsiyāni honti corehi kumbhatthenakehi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | adv | just like |  |
 | bhikkhave | noun | masc.voc.sg | monks |  |
 | yāni | pron | nt.nom.pl | whichever |  |
 | kānici | pron | nt.nom.pl | any whatsoever | taddhita |
 
+
 **kāni + ci**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kulāni | noun | nt.nom.pl | families |  |
 | bahutthikāni | adj | nt.nom.pl | with many women | kammadhāraya as bahubbīhi |
@@ -551,11 +639,14 @@
 | \#kumbha |  |  |  |  |
 | \#thenakehi |  |  |  |  |
 
+
 **Just like, monks, whichever families with many women and few men are easily overcome by robbers and burglars ...**
+
 
 3. SNP 13<br>kiñcāpi so kamma karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā,<br>abhabba so tassa paṭicchadāya,<br>abhabbatā diṭṭhapadassa vuttā,<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kiñ'c'āpi | ind | - | although, however much |  |
 | so | pron | masc.nom.sg | he |  |
@@ -563,9 +654,11 @@
 | karoti | verb | pr.3rd.sg | he does |  |
 | pāpakaṃ | adj | nt.acc.sg | evil | taddhita |
 
+
 **pāpa + ka**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kāyena | noun | masc.instr.sg | by body |  |
 | vācā | noun | fem.instr.sg | by speech |  |
@@ -578,9 +671,11 @@
 | paṭicchadāya | noun | masc.dat.sg | to cover, to conceal |  |
 | abhabbatā | noun | fem.nom.sg | impossibility, inability | taddhita |
 
+
 **abhabba + tā**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | diṭṭhapadassa | noun | masc.dat.sg | for (one who) seen the path | dutiyā tappurisa |
 | \#diṭṭha |  |  |  |  |
@@ -593,12 +688,14 @@
 | etena | pron | nt.instr.sg | by this |  |
 | saccena | noun | nt.instr.sg | by the truth | taddhita |
 
+
 **sat + ya**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | suvatthi | noun | fem.nom.sg | well-being, safety, prosperity |  |
 | hotu | verb | imp.3rd.sg | may there be! |  |
 
-**Although he may do an evil deed by body speech or mind, he is unable to hide that, it is said (to be) an impossibility for one who has seen the path – this sublime jewel also exists in the community, by the truth of this statement, may you be well!**
 
+**Although he may do an evil deed by body speech or mind, he is unable to hide that, it is said (to be) an impossibility for one who has seen the path – this sublime jewel also exists in the community, by the truth of this statement, may you be well!**

@@ -3,21 +3,27 @@
 **Find all the primary and secondary derivatives (participles) and show their construction.**
 
 
+
 **e.g. kitaka:**
+
 
 
 **√kar + ita + ka**
 
 
+
 **kita + ka**
+
 
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
 
+
 1. SNP 13<br>yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**. <br>tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yath'indakhīlo | sandhi |  | like gate post of a city |  |
 | \#yathā | ind | adv | like |  |
@@ -42,11 +48,14 @@
 | avecca | ind |  | perfectly; absolutely (lit: going into)[^37] | ava + √i + a + tya |
 | passati | verb | pr.3rd.sg | sees; understands | √dis + a + ti |
 
+
 **Like Inda's column [that] would be planted [firmly] in the earth, unshakeable by the four winds, similar to that, I say [is] a virtuous man who perfectly understands the noble truths.**
+
 
 2. VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, **asantiyā** āpattiyā tuṇhī **bhavitabbaṃ**, tuṇhībhāvena kho pan'āyasmante **parisuddhā**'ti vedissāmi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yassa | pron | masc.dat.sg | for whoever |  |
 | siyā | verb | opt.3rd.sg | there may be | √as + a + ā |
@@ -71,11 +80,14 @@
 | \#iti | ind | quotation mark | "" |  |
 | vedissāmi | verb | fut.1st.sg | I shall know | √vid + \*e + ti |
 
+
 **For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), it is to be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
+
 
 3. MN 31<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | in this regard |  |
 | bhante | noun | masc.voc.sg | Venerable Sir |  |
@@ -96,11 +108,14 @@
 | \#pātiṃ | noun | fem.acc.sg | bowl; dish |  |
 | upaṭṭhāpeti | verb | pr.caus.3rd.sg | sets out |  |
 
+
 **In this regard, Venerable Sir, whichever of us returns first from the village for the purpose of collecting alms food prepares the seats, sets out the drinking water, and water for rinsing, [and] sets out the bowl for leftovers.**
+
 
 4. SN 46.53<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^38] nisīdiṃsu
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **sammodanīyaṃ** | adj (ptp) | fem.acc.sg | pleasant; friendly (lit: to be enjoyed) | saṃ + √mud + \*anīya |
 | kathaṃ | noun | fem.acc.sg | talk; conversation |  |
@@ -111,11 +126,14 @@
 | \#antaṃ | noun | masc.acc.sg | side |  |
 | nisīdiṃsu | verb | aor.3rd.pl | they sat down | ni + √sad + a + i |
 
+
 **Having conducted a polite, friendly conversion, they sat down to one side.**
+
 
 5. DN 9.7<br>oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | oḷārikassa'pi | sandhi |  |  |  |
 | \#oḷārikassa | adj | masc.gen.sg | of gross |  |
@@ -140,11 +158,14 @@
 | dhammā | noun | masc.nom.pl | mental states |  |
 | abhivaḍḍhissanti | verb | fut.3rd.pl | will increase more and more | abhi + √vaḍḍh + a + ti |
 
+
 **But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and mental states to be purified will increase more and more.**
+
 
 6. MN 131<br>ajj'eva **kiccam'ātappaṃ**,<br>ko jaññā maraṇaṃ suve,
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ajj'eva | sandhi |  | this very day; right now |  |
 | \#ajja | ind | adv | today |  |
@@ -157,11 +178,14 @@
 | maraṇaṃ | noun | nt.nom.sg | death |  |
 | suve | ind | adv | tomorrow |  |
 
+
 **Effort should be made this very day; who could know [if] death [is] tomorrow?**
+
 
 7. DHP 316<br>**alajjitāye** lajjanti,<br>**lajjitāye** na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **alajjitāye** | ptp | masc.loc.sg | should not be ashamed (lit: not to be ashamed) | na + √lajj + itāya |
 | lajjanti | verb | pr.3rd.pl | they are ashamed |  |
@@ -177,11 +201,14 @@
 | gacchanti | verb | pr.3rd.pl | go | √gam + a + ti |
 | duggatiṃ | noun | fem.acc.sg | (to) a bad destination; state of misery |  |
 
+
 **They [who] are ashamed of [what] they should not be ashamed, [and] do not embarrass themselves about what they should – undertaking wrong views – living beings go to a bad destination.**
+
 
 8. MN 35<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | nt.acc.sg | that |  |
 | kiṃ | pron | nt.nom.sg | what |  |
@@ -206,11 +233,14 @@
 | vā | ind | conj | or |  |
 | pabbājetuṃ | verb | inf | to banish | pa + √vaj + \*e + tuṃ |
 
+
 **What do you think, Aggivessana, would a noble, head-anointed king[^39] wield power in his own realm, to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?**
+
 
 9. VIN PAT AN 1<br>nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | nisajjaṃ | noun | fem.acc.sg. | the sitting down |  |
 | bhikkhu | noun | masc.nom.sg | a monk |  |
@@ -226,11 +256,14 @@
 | pācittiyena | noun | nt.instr.sg | [what is] according to [a case] involving confession |  |
 | vā | ind | conj | or |  |
 
+
 **The monk admitting the sitting down should be made to do by one of three rules[^41]: [what is] according to [a case] involving disqualification or [what is] according to [a case] involving the community from start to finish or [what is] according to a case involving confession.**
+
 
 10. SN 22.3<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | okaṃ | noun | masc.acc.sg | home; abode |  |
 | pahāya | verb | ger | leaving behind | pa + √hā + ya |
@@ -252,11 +285,14 @@
 | \#kayirā | verb. | opt.3rd.sg | he would do | √kar + iya + ti |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"Leaving behind home, the sage is wandering homeless, not making close associations in the village, free from sense pleasures, not preferring, he would not engage in quarrelling talk with people. (lit. not quarrelling, he would engage in talk with people."**
+
 
 11. VIN PAT SA<br>ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu **anabbhito**, te ca bhikkhū **gārayhā**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ekena'pi | sandhi |  | even by one |  |
 | \#ekena | card | masc.instr.sg | by one |  |
@@ -281,11 +317,14 @@
 | bhikkhū | noun | masc.nom.pl | monks |  |
 | **gārayhā** | adj (ptp) | masc.nom.pl | blameworthy (lit: are to be blamed) | √garah + \*ya |
 
+
 **If a community of monks, [which is] a quorum of twenty, [is] deficient even by one [monk], and should reinstate that monk, [then] that monk is not reinstated and those monks are blameworthy.**
+
 
 12. VIN PAT NP 1<br>**niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **niṭṭhita**cīvarasmiṃ | noun | nt.loc.sg (loc abs) | when the robe cloth is complete (loc abs) | kammadhāraya |
 | \#niṭṭhita | pp | nt. | is completed; is finished (lit: stood down) | ni + √ṭhā + ita |
@@ -306,31 +345,41 @@
 | **nissaggiyaṃ** | adj | nt.nom.sg | involving forfeiture; relinquishment | nī + √sajj + iya |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
+
 **When the robe(-cloth) is finished by a monk, [and] when the Kathina [privileges] have been withdrawn, [then] excess robe-cloth is to be kept for ten days at the most. For [one] exceeding [the ten days], this is an offence requiring confession and forfeiture.**
+
 
 
 **[^36]: OR chaṭṭhi tappurisa**
 
 
+
 **[^37]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatva".**
+
 
 
 **[^38]: This is to be understood as an (adverbial) acc. of direction rather than of the direct object.**
 
 
+
 **[^39]: The agens in the expression vaso vatteti stands in the genetive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"**
+
 
 
 **"What do you think, Aggivessana, would a noble, head-anointed king in his own realm have the power to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?"**
 
 
+
 **[^40]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.**
+
 
 
 **[^41]: "should be dealt with by way of a certain of three rules"**
 
 
+
 **[^42]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"**
+
 
 
 
@@ -338,7 +387,8 @@
 
 1. SN 35.95<br>ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | nt.nom.pl | which; that |  |
 | te | pron | nt.nom.pl | those |  |
@@ -361,11 +411,14 @@
 | **\#phuseyyaṃ** | ptp | nt.nom.sg | could be felt; tangible; can be physically touched | √phus + eyya |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"[Do you have any lust, desire, or affection] for those tangible objects known by the body, that [you have] not felt, never felt before, that you do not feel and could not be felt by you?**
+
 
 2. MN 43<br>te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | te | pron | masc.nom.pl | those |  |
 | ca | ind |  | and if |  |
@@ -392,11 +445,14 @@
 | vuṭṭhānaṃ | noun | nt.nom.sg | emerging |  |
 | paññāyetha | verb | opt.pass.reflex.3rd.sg | it would be apparent; it would be evident | pa + √ñā + ya + ti |
 
+
 **And if, friend, life forces were things that could be felt, [then] for a monk [who had] entered into the cessation of perception and feeling, emerging (from it) would not be evident.**
+
 
 3. VIN PAT PC 18 <br>yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | whoever |  |
 | pana | ind |  | moreover |  |
@@ -421,11 +477,14 @@
 | vā | ind | conj | or |  |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
+
 **If any monk should sit down or lie down hard on a bench or on a bed with detachable legs in an upper-floor room in a dwelling belonging to the community, this is an offence requiring confession.**
+
 
 4. SNP 4 <br>gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,<br>**sampassataṃ** brāhmaṇa n'esa dhammo,<br>gāth'ābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vutti'r'esā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | gāth'**ābhigītaṃ** | adj | nt.acc.sg | chanted over with verses; recited over | tatiyā tappurisa |
 | \#gāthāya | noun | fem.instr.sg | with verse(s) |  |
@@ -448,11 +507,14 @@
 | \#vutti | noun | fem.nom.sg | way of life |  |
 | \#esā | pron | fem.nom.sg | this is |  |
 
+
 **[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^45] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^46], Brahmin, this is [their] way of life.**
+
 
 5. SNP 42<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **diṭṭhena** | noun | nt.instr.sg | by the seen | √dis + ta |
 | ce | ind | cond | if |  |
@@ -475,16 +537,21 @@
 | tathā | ind | adv | thus; in such a way |  |
 | **vadānaṃ** | prp | masc.acc.sg | speaking | √vad + āna |
 
+
 **If through the seeing there is a man’s purity,<br>or through knowledge he abandons suffering, <br>then he is purified by another, being with attachments. <br>the one with view revealed him as one who asserts thus.**
+
 
 
 **[^43]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.**
 
 
+
 **[^44]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.**
 
 
+
 **[^45]: alt. "the right way for those who are seeing".**
+
 
 
 **[^46]: alt. "as that is/that being the right way".**

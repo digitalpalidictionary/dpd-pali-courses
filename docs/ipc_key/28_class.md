@@ -3,21 +3,27 @@
 **Find all the primary and secondary derivatives and show their construction.**
 
 
+
 **e.g. kitaka:**
+
 
 
 **√kar + ita + ka**
 
 
+
 **kita + ka**
+
 
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
 
+
 1. KHP 5<br>**gāravo** ca **nivāto** ca,<br>**santuṭṭhi** ca **kataññutā**,<br>**kālena** **dhammassavanaṃ**,<br>etaṃ **maṅgalam'uttamaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **gāravo** | noun | masc.nom.sg | reverence | √gar + u + \*a |
 | ca | ind | conj | and |  |
@@ -35,11 +41,14 @@
 | \#maṅgalaṃ | noun | nt.nom.sg | blessing | √maṅg + ala |
 | \#uttamaṃ | adj | nt.nom.sg | highest | ud + tama |
 
+
 **Reverence and humility, satisfaction and gratitude, Hearing the teaching at the right time; this is the highest blessing.**
+
 
 2. SN 1.51<br>**sīlaṃ[^47]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **sīlaṃ** | noun | nt.nom.sg | virtue | √sīl + a |
 | yāva | ind | prep (+abl) | as long as; up to |  |
@@ -57,11 +66,14 @@
 | \#dūharaṃ | adj | nt.nom.sg (+instr) | hard to steal (for) | dur + √har + a |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"Virtue up to old age [is] good; faith [that is] established [is] good; wisdom [is] the jewel of humans; merit [is] hard for thieves to steal."**
+
 
 3. MN 22<br>idha, bhikkhave, **ekacce** **mogha**purisā dhammaṃ pariyāpuṇanti, **suttaṃ**, **geyyaṃ**, **veyyākaraṇaṃ**, **gāthaṃ**, **udānaṃ**, **itivuttakaṃ**, **jātakaṃ**, **abbhuta**dhammaṃ, **vedallaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | here |  |
 | bhikkhave | noun | masc.voc.pl | monks |  |
@@ -83,11 +95,14 @@
 | \#dhammaṃ | noun | masc.acc.sg | things |  |
 | **vedallaṃ** | noun (ptp) | nt.acc.sg | questions-and-answers; catechism (lit: to be split) | vi + √dal + \*ya |
 
+
 **Here, monks, some foolish persons study well the teaching – discourses, mixed verses, detailed expositions, poems, inspired sayings, quotations, birth stories, marvellous accounts, questions-and-answers…**
+
 
 4. THI 71<br>**madhurañ**'ca pavanti **sabbaso**,<br>kusuma**rajena** **samuṭṭhitā** dumā,<br>paṭhama**vasanto** **sukho** utu,<br>ehi ramāma **supupphite** vane.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **madhurañ**'ca | sandhi |  | and a sweet smell |  |
 | \#**madhuraṃ** | noun | nt.acc.sg | sweet (smell) | madhu + ra |
@@ -109,11 +124,14 @@
 | **supupphite** | adj | nt.loc.sg | abounding in blossoms | su + √pupph + ita |
 | vane | noun | nt.loc.sg | in the forest; wood |  |
 
+
 **The trees laden with pollen exude a sweet smell all around by means of flower pollen; the first month of the season, spring, [is] pleasant; come! Let us take delight in the wood abounding in blossoms.**
+
 
 5. AN 5.36 <br>**āgantukassa** **dānaṃ** deti, **gamikassa** dānaṃ deti, **gilānassa** dānaṃ deti, **dubbhikkhe** dānaṃ deti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **āgantukassa** | noun | masc.dat.sg | to a newcomer; a stranger; a guest | ā + √gam + tar + ka |
 | **dānaṃ** | noun | nt.acc.sg | a gift; an offering | √dā + ana |
@@ -128,11 +146,14 @@
 | dānaṃ | noun | nt.acc.sg | a gift; an offering |  |
 | deti | verb | pr.3rd.sg | gives | √dā + a + ti |
 
+
 **One gives to a newcomer, one gives to a traveller, one gives to one who is ill, one gives when famine.**
+
 
 6. SN 2.23<br>tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | ind | adv | therefore; thus; so |  |
 | mayhaṃ | pron | 1st.gen.sg | mine; my |  |
@@ -149,11 +170,14 @@
 | vanibbaka (ca) | noun | masc. | mendicants |  |
 | **yācakānaṃ** (ca) | noun | masc.dat.pl | to beggars | √yāc + aka |
 
+
 **Thus, my gifts were offered at the four gates to ascetics, brahmins, tramps and travellers, mendicants and beggars.**
+
 
 7. MN 49<br>eso hi, bhikkhu, **brahmā** mahābrahmā **abhibhū** anabhibhūto añña'd'atthu**daso** **vasavattī** **issaro** **kattā** **nimmātā** seṭṭho **sajitā** vasī pitā **bhūtabhabyānaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | eso | pron | masc.nom.sg | this |  |
 | hi | ind | emph | indeed |  |
@@ -183,11 +207,14 @@
 | **\#bhūta** (ca) | adj | masc. | existing | √bhū + ta |
 | **\#bhabyānaṃ** (ca) | adj | masc.dat/gen.pl | who will be | √bhū + \*ya |
 
+
 **Indeed, monk, this is Brahmā, great god almighty, supreme being, unvanquished, all seeing, wielding power, god, creator, designer, foremost assigner, master [and] father for those who are and who will be.**
+
 
 8. AN 5.36<br>ye **tattha** anumodanti,<br>**veyyāvaccaṃ** karonti vā,<br>na tena **dakkhiṇā** ūnā,<br>te'pi **puññassa** **bhāgino**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | they who |  |
 | **tattha** | ind | adv | in that regard | ta + ttha |
@@ -205,11 +232,14 @@
 | **puññassa** | noun | nt.gen.sg | merit | √puṇ + ya |
 | **bhāgino** | noun | masc.nom.pl (+gen) | who share (in); who partake (in) | √bhaj + \*ī |
 
+
 **[Given with a clear mind, one's offering is vast]; they who are pleased in that regard or do service, by means of that are not lacking the offering; they, too, partake in the merit.**
+
 
 9. MN 12<br>**sotatto** **sosinno** c'eva,<br>eko **bhiṃsanake** vane,<br>naggo na c'**aggim**'**āsīno**,<br>**esanāpasuto** munī'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **sotatto** | adj | masc.nom.sg | scorched; burnt | su + √tap + ta + \*a |
 | **sosinno** | adj | masc.nom.sg | freezing; frozen | su + √sid + na + \*a |
@@ -232,11 +262,14 @@
 | \#muni | noun | masc.nom.sg | the sage | √mun + i |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"Scorched, freezing, alone in a frightening grove, naked and not seated [next to] a fire, the sage is devoted to the quest."**
+
 
 10. TH 133<br>accayanti aho**rattā**,<br>**jīvitaṃ** uparujjhati,<br>**āyu** khīyati **maccānaṃ**,<br>ku**nnadīnaṃ**'va **odakaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | accayanti | verb | pr.3rd.pl | pass; fly past | ati + √i + a + ti |
 | aho**rattā** | noun | nt.nom.pl | days and nights | dvanda |
@@ -252,11 +285,14 @@
 | \#va | ind |  | like; as |  |
 | **odakaṃ** | noun | nt.nom.sg | the water | √ud + \*aka |
 
+
 **Days and nights fly past, life is finished. The life of mortal men is exhausted like the water of small streams.**
+
 
 11. MN 131<br>evaṃ **vihārim'ātāpiṃ**, ahorattam'**atanditaṃ**. <br>taṃ ve **bhadd**'ekaratto'ti, **santo** ācikkhate **muni**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evaṃ | ind | adv | thus |  |
 | **vihārim'ātāpiṃ** | sandhi |  | living ardently; being persistent |  |
@@ -280,11 +316,14 @@
 | ācikkhate | verb | pr.reflex.3rd.sg | describes; shows | ā + √cikkh + a + ti |
 | **muni** | noun | masc.nomm.sg | the sage | √mun + i |
 
+
 **"Living thus ardently, tirelessly throughout the day and night, – it is, indeed, he, who the peaceful sage describes having a single auspicious night."**
+
 
 12. SN 46.3<br>**samādhisambojjh'aṅgo** tasmiṃ samaye bhikkhuno **bhāvanāpāripūriṃ** gacchati. so **tathāsamāhitaṃ** **cittaṃ** sādhukaṃ **ajjhupekkhitā** hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **samādhisambojjh'aṅgo** | noun | masc.nom.sg | stability of mind (concentration) as a factor of enlightenment | kammadhāraya |
 | \#samādhi (eva) | noun | masc. | stability of mind; stillness of mind | saṃ + ā + √dhā + i |
@@ -307,11 +346,14 @@
 | **ajjhupekkhitā** | noun | masc.nom.sg | an equanimous observer | adhi + upa + √ikkh + itar |
 | hoti | verb | pr.3rd.sg | he is | √hū + a + ti |
 
+
 **On that occasion, concentration as a factor of enlightenment comes to full development for a monk by meditation; he is one who looks well with equanimity on the thus composed mind.**
+
 
 13. AN 7.61<br>no ce te evaṃ **viharato** taṃ middhaṃ pahīyetha **tato** tvaṃ, **moggallāna**, ubho kaṇṇa**sotāni** āviñjeyyāsi pāṇinā **gattāni** anumajjeyyāsi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | no | ind | neg | not |  |
 | ce | ind | conj | if |  |
@@ -333,11 +375,14 @@
 | **gattāni** | noun | nt.acc.pl | limbs | √gam + tta |
 | anumajjeyyāsi | verb | opt.2nd.sg | you should stroke; massage; rub | anu + √majj + a + ti |
 
+
 **If that drowsiness could not be abandoned when you're dwelling in such a way, then you, Moggallāna, should pull both ear holes [and] you should rub [your] limbs with your hands.**
+
 
 14. SNP 51<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci **diṭṭhaṃ** va **sutaṃ** **mutaṃ** vā,<br>sa **pannabhāro** muni **vippamutto**,<br>na **kappiyo** n'ūparato na patthiyo'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sa | pron | masc.nom.sg | he |  |
 | sabbadhammesu | noun | masc.loc.pl | (regarding) all things; all mental phenomena | kammadhāraya |
@@ -367,11 +412,14 @@
 | \#patthiyo | adj | masc.nom.sg | desiring; wishing | pa + √atth + iya |
 | \#iti | ind | quotation mark | "" |  |
 
+
 **"He, disassociated in all things, anything whatever that has been seen or heard or perceived, the sage who has laid down the load is freed, not fabricating concepts, not abstained, not desiring."**
+
 
 15. ITI 76<br>**sīlaṃ** rakkheyya **medhāvī**,<br>**patthayāno** tayo sukhe,<br>**pasaṃsaṃ** **vittalābhañ**'ca,<br>pecca **sagge** **pamodanaṃ**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | **sīlaṃ** | noun | nt.acc.sg | virtue | √sīl + a |
 | rakkheyya | verb | opt.3rd.sg | should protect; would guard | √rakkh + a + ti |
@@ -389,11 +437,14 @@
 | **sagge** | noun | masc.loc.sg | in heaven [realms] | √sar + ga |
 | **pamodanaṃ** | noun | fem.acc.sg | delighting | pa + √mud + \*anā |
 
+
 **The intelligent man should protect virtue, aspiring for three pleasures: praise, the gaining of wealth, and after death delighting in heaven [realms].**
+
 
 16. SN 1.49<br>sace enti **manussattaṃ**,<br>dalidde jāyare **kule**,<br>coḷaṃ **piṇḍo** **ratī** khiḍḍā,<br>**yattha** kicchena labbhati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sace | ind | cond | if |  |
 | enti | verb | pr.3rd.pl | they come [back] (to) | √i + a + ti |
@@ -409,11 +460,14 @@
 | kicchena | ind | adv | with difficulty; with hardship | kiccha + ena |
 | labbhati | verb | pr.pass.3rd.sg | is obtained; is found<br>(used here in pl.) | √labh + ya + ti |
 
+
 **If they (i.e. stingy people) come [back] to a human state, they are born in a poor family, where clothing, a bit of food, pleasure, [and] entertainment are obtained with difficulty.**
+
 
 17. DHP 326<br>idaṃ pure cittam'acāri **cārikaṃ**,<br>yen'**icchakaṃ** **yattha**kāmaṃ yathāsukhaṃ,<br>tadajj'ahaṃ niggahessāmi **yoniso**,<br>**hatthippabhinnaṃ** viya **aṅkusaggaho**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idaṃ | pron | nt.nom.sg | this |  |
 | pure | ind | adv | before; earlier; formerly |  |
@@ -444,11 +498,14 @@
 | \#**aṅkusaṃ** | noun | masc.acc.sg | hooked pole | √añc + usa |
 | \#**gaho** | noun | masc.nom.sg | holding | √gah + a |
 
+
 **Formerly this mind wandered around on a walking tour wherever it wants, wherever it liked, according to its pleasure, now I will restrain that thoroughly like an elephant driver holding a hooked pole to an elephant in rut (i.e. with juices flowing).**
+
 
 18. TH 251<br>aṭṭha**padakatā** kesā, **nettā** **añjanamakkhitā**. <br>alaṃ bālassa **mohāya**, no ca pāra**gavesino**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aṭṭha**padakatā** | sandh |  | arranged in eight parts; plaited eightfold | dutiyā tappurisa |
 | \#aṭṭhapadaṃ | adj | masc.acc.sg | in eight ways; eightfold |  |
@@ -469,10 +526,13 @@
 | \#pāraṃ | noun | nt.acc.sg | the far shore |  |
 | \#**gavesino** | adj | masc.nom.pl | those seeking | √gaves + ī |
 
+
 **Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore**
 
 
+
 **[^47]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate**
+
 
 
 **[^48]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.**

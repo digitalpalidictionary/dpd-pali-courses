@@ -3,9 +3,11 @@
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
 
+
 1. MN 107<br>byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahit'ānukampī
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | byāpādapadosaṃ | noun | masc.acc.sg | ill-will and hatred | dvanda |
 | \#byāpāda [ca] | noun | masc. | ill-will | √pad･3 ya (go, step) |
@@ -26,11 +28,14 @@
 | \#hita | adj. (as noun) | nt. | welfare (of); good (of); benefit (of); blessing | √dhā･1 a (place, support) |
 | \#anukampī | adj | masc.nom.sg | compassionate | √kamp･1 a (shake, tremble) |
 
+
 **Abandoning ill-will and hatred, he dwells with a mind without ill-will, compassionate for the welfare of all living beings.**
+
 
 2. VIN PAT PC 70<br>ajja't'agge te, āvuso, samaṇ'uddesa na c'eva so bhagavā satthā apadisitabbo
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ajja't'agge | ind | adv | from today onwards | abyayībhāva (adverbial compound) |
 | \#ajja | ind | adv | today |  |
@@ -49,11 +54,14 @@
 | satthā | noun | masc.nom.sg | the teacher | √sās･1 a (order, instruct) |
 | apadisitabbo | ptp | masc.nom.sg | is to be referred to | √dis･1 a (point out, explain) |
 
+
 **From today onwards, friend novice, the Blessed One is not to be referred to as the teacher by you.**
+
 
 3. DHP 064<br>yāvajīvam'pi ce bālo, paṇḍitaṃ payirupāsati, <br>na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yāvajīvam'pi | sandhi |  | as long as one lives; for one's entire life |  |
 | \#yāvajīvaṃ | ind | adv | as long as one lives; lit. as long as life (lasts) | abyayībhāva (adverbial compound) |
@@ -74,11 +82,14 @@
 | \#rasaṃ | noun | masc.acc.sg | the taste | √ras･1 a (taste) |
 | yathā | ind | adv | like; as |  |
 
+
 **[Even] if a fool associates closely with a wise person for the rest of his life, he will not (lit: does not) comprehend the doctrine, as a spoon [does not comprehend] the taste of the soup.**
+
 
 4. VIN PAT PC 63<br>yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | whichever; who |  |
 | pana | ind |  | but |  |
@@ -96,11 +107,14 @@
 | ukkoṭeyya | verb | opt.3rd.sg | should agitate; should re-open | ud√kuṭ･1 \*e (be crooked, bent) |
 | pācittiyaṃ | noun | nt.nom.sg | [this is an offence] involving confession |  |
 
+
 **If any monk should knowingly re-open for further action a legal issue which has been disposed of according to the rule, [this is an offence] involving confession.**
+
 
 5. DHP 356<br>tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tiṇadosāni | adj | nt.nom.pl | ruined by weeds; having grass as (its) corruption | kammadhāraya \> bahubbīhi |
 | \#tiṇa [eva] | noun | nt. | weeds [just] |  |
@@ -122,11 +136,14 @@
 | \#mahanta | adj | nt. | great |  |
 | \#phalaṃ | noun | nt.nom.sg | fruit |  |
 
+
 **Fields are ruined by weeds, this generation is ruined by desire; that is why an offering to [those who are] free from desires is indeed of great fruit.**
+
 
 6. SN 42.6 <br>taṃ kiṃ maññasi, gāmaṇi, idh'assa puriso pāṇ'ātipātī adinn'ādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhiko.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | nt.acc.sg | that |  |
 | kiṃ | pron | nt.acc.sg | what |  |
@@ -169,33 +186,43 @@
 | \#micchā | ind | adv | wrongly |  |
 | \#diṭṭhiko | adj | masc.nom.sg | one holding a view |  |
 
+
 **What do you think, headman, here could be a person who kills living being, takes what is not given, who engages in sexual misconduct, speaks falsely, divisively, harshly, and chatters frivolously, [one] who is covetous, has a malicious mind and holds a wrong view.**
+
 
 
 **[^14]: The relevant meaning of uddesa here would be, cf. Cone s.v.: "that to which one refers, point**
 
 
+
 **of authority".**
+
 
 
 **Cf. also BHSD s.v. śramaṇoddeśa: "a subordinate of a (Buddhist) monk" and MW s.v. uddeśya: "anything to which one refers or which one has in view".**
 
 
+
 **There are analogous formations in attuddesa "intended for oneself" (cf. Cone s.v.) and in aññasatthāruddesa "adopting another teacher".**
+
 
 
 **Based on this, I would take the meaning of samaṇuddesa as "who refers to a samaṇa as his point of authority" and would analyze as a dutiya tappurisa. But: cum grano salis.**
 
 
+
 **[^15]: So also Ñāṇatusita, but puna(r) is an ind.**
+
 
 
 **I wonder if it could also be classified as avyayībhāva that retains its case ending, cf. Duroiselle: "Sometimes, however, the case-ending is retained; the cases thus retained being mostly the Ablative and the Locative."**
 
 
+
 7. MN 107 <br>so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | pacchābhattaṃ | ind | adv | after the meal, in the afternoon |  |
@@ -216,17 +243,23 @@
 | satiṃ | noun | fem.acc.sg | mindfulness | √as･1 a (be) |
 | upaṭṭhapetvā | verb | abs | having set up; having made sure is present | √ṭhā･1 \*āpe (stand) |
 
+
 **After the meal, after returning from alms-round, he sits down, having folded [his legs] into a cross-legged sitting position, positioning the body uprightly, having set up mindfulness as first priority.**
+
 
 **pacchābhattaṃ \< pacchā + bhattaṃ (avyāyibhāva)**
 
+
 **piṇḍapāta \> piṇḍaṃ + pāta (dutiyā tappurisa)**
+
 
 **piṇḍapātapaṭikkanta \< piṇḍapātasmā + paṭikkanta (pañcamī tappurisa)**
 
+
 8. DN 22.18 <br>savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | savitakkaṃ | adj | nt.acc.sg | with thinking | √takk･8 \*e (think) |
 | savicāraṃ | adj | nt.acc.sg | with discursive thought | √car･1 \*e (move, walk) |
@@ -241,19 +274,26 @@
 | upasampajja | verb | ger | having reached, attaining | √pad･3 ya (go, step) |
 | viharati | verb | pr.3rd.sg | he lives; he dwells | √har･1 a (live) |
 
+
 **Having reached the first stage of meditation, which has thinking and discursive thought, and joy and happiness born from solitude, he dwells there.**
+
 
 **savitakka \< saha + vitakka (kammadhāraya \> bahubbīhi)**
 
+
 **savicāra \< saha + vicāra (kammadhāraya \> bahubbīhi)**
+
 
 **vivekaja \< vivekasmā + ja (pañcamī tappurisa)**
 
+
 **pītisukha \< pīti ca sukha ca (dvanda \> bahubbīhi)**
+
 
 9. MN 51 <br>kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kālavādī | adj | masc.nom.sg | who speaks at the right time | tatiyā tappurisa |
 | \#kālena | noun | masc.instr.sg | by the (right) time | √kal×8 \*e (spend time) |
@@ -281,25 +321,35 @@
 | \#atthena | noun | masc.instr.sg | with benefit | √ar･1 a (move, attain) |
 | \#saṃhitaṃ | adj | fem.acc.sg | connected (with); concerning; having | √dhā･1 a (place, support) |
 
+
 **He speaks at the right time, speaks the truth, speaks what is of benefit, speaks about the doctrine, speaks about the discipline, a speaker of words worth treasuring; at a suitable time, [he speaks] reasonable, within a limit and [what is] advantageous.**
+
 
 **kālavādī \< kālena + vādī (tatiyā tappurisa - bahubbīhi)**
 
+
 **bhūtavādī \< bhūtaṃ + vādī (dutiyā tappurisa - bahubbīhi)**
+
 
 **atthavādī \< atthaṃ + vādī (dutiyā tappurisa - bahubbīhi)**
 
+
 **dhammavādī \< dhammaṃ + vādī (dutiyā tappurisa - bahubbīhi)**
+
 
 **vinayavādī \< vinaya + vādī (dutiyā tappurisa - bahubbīhi)**
 
+
 **sāpadesaṃ \< saha + apadesa (kammadhāraya - bahubbīhi)**
+
 
 **atthasaṃhita \< atthaena + saṃhita (tatiya tappurisa)**
 
+
 10. AN 7.61 <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | viggāhikāya | adj | fem.loc.sg (loc abs) | when quarrelsome |  |
 | moggallāna | noun | masc.voc.sg | Moggallāna |  |
@@ -313,13 +363,17 @@
 | sati | prp | nt.loc.sg (loc abs) | when existing, being | √as･1 a (be) |
 | uddhaccaṃ | noun | nt.nom.sg | agitation | √dhar･1 a (hold, carry, endure) |
 
+
 **Moggallāna, when there is quarrelsome talk, an excess of speech is to be expected. When there is an abundance of talk, there is agitation.**
+
 
 **kathābāhulla \< kathāya + bāhulla (chaṭṭhī tappurisa)**
 
+
 11. SN 12.23 <br>seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | - | just like |  |
 | bhikkhave | verb | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -345,21 +399,29 @@
 | \#sākhā | noun | fem.acc.pl | creeks |  |
 | paripūreti | verb | caus.pr.3rd.sg | fills up | √pūr･1 \*e (fill, fulfil) |
 
+
 **Just as when the rain cloud is raining big drops on top of the mountain, that water, proceeding downwards, fills up the mountain ravines, crevices and creeks.**
+
 
 **uparipabbata \< upari + pabbata (kammadhāraya)**
 
+
 **thullaphusitaka \< thulla + phusitaka (kammadhāraya \> bahubbīhi)**
+
 
 **yathāninnaṃ \< yathā + ninnaṃ (avyayībhāva)**
 
+
 **pabbatakandarapadarasākhā \< pabbatakandarā ca padara ca sākhā ca (dvanda)**
+
 
 **pabbatakandarā \< pabbata + kandarā (dvanda)**
 
+
 12. MN 40 <br>ehi tvaṃ, bhadramukha, saṅghāṭiko hohi, saṅghāṭikassa te sato saṅghāṭidhāraṇamattena abhijjhālussa abhijjhā pahīyissati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ehi | verb | imp 2nd.sg | come! |  |
 | tvaṃ | pron | 2nd.nom.sg | you |  |
@@ -380,17 +442,23 @@
 | abhijjhā | noun | fem.nom.sg | covetousness, greed | √jhā･3 ya (think, meditate) |
 | pahīyissati | verb | pass.fut.3rd.sg | will be abandoned | √hā･1 īya (abandon) |
 
+
 **Come, my dear! Be someone who wears a patchwork robe! When you are someone who wears a patchwork robe, when you are covetous, by the mere fact of wearing a patchwork robe, covetousness will be abandoned.**
+
 
 **bhadramukha \< bhadra + mukha (kammadhāraya - bahubbīhi)**
 
+
 **saṅghāṭidhāraṇamatta \< saṅghāṭidhāraṇa + matta (kammadhāraya)**
+
 
 **saṅghāṭidhāraṇa \< saṅghāṭiṃ + dhāraṇa (dutiyā tappurisa)**
 
+
 13. MN 40 <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg (gen abs) | when he |  |
 | sabbehi | pron | masc.abl.pl | from all |  |
@@ -409,17 +477,21 @@
 | pāmojjaṃ | noun | nt.nom.sg | happiness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | it is born, it arises | √jan･3 ya (be born, produce) |
 
+
 **When he sees himself pure and free from all these bad, unskilful mental states, happiness arises.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pamuditassa | pp (as noun) | masc.dat.sg | for one who is happy | √mud･1 a (be soft, happy) |
 | pīti | noun | fem.nom.sg | delight, joy, etc. | √pī･5 nā (love, please) |
 | jāyati | verb | pr.3rd.sg | it is born, it arises | √jan･3 ya (be born, produce) |
 
+
 **for one who is happy delight arises.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pītimanassa | adj | masc.dat.sg | for one who has a joyful mind |  |
 | \#pīti |  |  |  | √pī･5 nā (love, please) |
@@ -427,9 +499,11 @@
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
 | passambhati | verb | pr.3rd.sg | it calms down, relaxes | √sambh･1 a (be calm, confident) |
 
+
 **for one who has a joyful mind the body relaxes.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | passaddhakāyo | adj | masc.nom.sg | who has a calm body |  |
 | \#passaddha | pp | masc. | relaxed; calmed | √sambh･1 a (be calm, confident) |
@@ -437,27 +511,36 @@
 | sukhaṃ | noun | nt.acc.sg | ease | √sukh･1 a (please, be comfortable) |
 | vedeti | verb | pr.3rd.sg | experiences | √vid･8 \*e (know, sense, feel) |
 
+
 **One with a relaxed body experiences ease.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sukhino | adj | masc.dat.sg | for who is at ease | √sukh･1 a (please, be comfortable) |
 | cittaṃ | noun | nt.nom.sg | the mind | √cit･8 \*e (think, intend) |
 | samādhiyati | verb | pr.3rd.sg | becomes composed, settled | √dhā･1 iya (place, support) |
 
+
 **for who is at ease the mind becomes settled.**
+
 
 **visuddhamatta \< visuddha + atta (kammadhāraya)**
 
+
 **vimuttamatta \< vimutta + atta (kammadhāraya)**
+
 
 **pītimana \< pītiyā + mana (tatiyā tappurisa \> bahubbīhi)**
 
+
 **passaddhakāya \< passaddha + kāya (kammadhāraya - bahubbīhi)**
+
 
 14. AN 10.176 <br>brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemī'ti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | brāhmaṇā | noun | masc.nom.pl | Brahmans | √brah×1 a (increase) |
 | bhante | noun | masc.voc.sg | sir; venerable sir; reverend | √bhad×1 a (be good, lucky) |
@@ -482,15 +565,21 @@
 | soceyyāni | noun | nt.acc.pl | purification rites | √suc×1 a (be pure, bright) |
 | rocemī'ti | verb | pr.1st.sg | I approve of | √ruc･1 \*e (shine, like) |
 
+
 **Venerable sir, the Brahmans from the Western lands who carry water pitchers, who wear moss garlands, who tend the sacred fire, who bathe ritually, they proclaim purification rites. I approve of their purification rites.**
+
 
 **pacchābhūmaka \< pacchā + bhūmaka (kammadhāraya - bahubbīhi)**
 
+
 **sevālamālika \< sevāla + mālika (kammadhāraya - bahubbīhi)**
+
 
 **aggiparicārika \< aggiṃ + paricārika (dutiyā tappurisa - bahubbīhi)**
 
+
 **udakorohaka \< udake + orohaka (sattāmī tappurisa - bahubbīhi)**
+
 
 
 
@@ -498,7 +587,8 @@
 
 1. DN 22.18<br>sukhassa ca pahānā dukkhassa ca pahānā, pubb'eva somanassadomanassānaṃ atthaṅ'gamā, adukkham'asukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sukhassa | noun | nt.gen.sg | of ease, pleasure | √sukh･1 a (please, be comfortable) |
 | ca | ind | conj | and |  |
@@ -532,11 +622,14 @@
 | upasampajja | verb | ger | entering | √pad･3 ya (go, step) |
 | viharati | verb | pr.3rd.sg | he dwells; abides | √har･1 a (live) |
 
+
 **With the abandoning of pleasure and pain, and with the passing away of joy and dejection already before, he dwells having entered into the fourth stage of meditation, which has no pleasure and no pain, (but) has purification of awareness due to equanimity.**
+
 
 2. MN 91<br>dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati n'ādhimuccati na sampasīdati, kos'ohite ca vatthaguyhe, pahūtajivhatāya ca.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dvīsu | card | x.loc.pl | among two; regarding two |  |
 | mahāpurisalakkhaṇesu | noun | nt.loc.pl | (auspicious) marks of a great man | chaṭṭhī tappurisa |
@@ -562,11 +655,14 @@
 | \#pahūta | adj | fem. | abundant; vast |  |
 | \#jivhatāya | noun | fem.gen.sg | of the fact of having a tongue |  |
 
+
 **He has doubt, he is uncertain about two auspicious marks of a great man, he has not made up his mind [and] is unsettled regarding [them]: about the genitals being enclosed in a sheath and about the largeness of the tongue.**
+
 
 3. SN 3.11<br>tena kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividham'ādāya bhagavato avidūre atikkamanti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tena | pron | masc.instr.sg | with that |  |
 | kho | ind | emph | indeed |  |
@@ -606,21 +702,27 @@
 | avidūre | ind | adv (+gen) | near to |  |
 | atikkamanti | verb | pr.3rd.pl | pass by | ati√kam･1 a (go) |
 
+
 **Now on that occasion, seven dread-locked ascetics, seven Jains, seven naked ascetics, seven one-robe ascetics, and seven wandering ascetics, with long armpit hair, nails and body hair, and carrying bundles of personal belongings on a pole, passed by near to the Blessed One.**
+
 
 
 **[^16]: Although -ā is a permitted termination of the instrumental in the -a declension, usually the instrumental takes the ending in -ena.**
 
 
+
 **this can be classified as an ablative of cause. Cf. Wijesekara, para. 122: "This use of the abl. brings it into contact with the inst. which as we have seen elsewhere (§67) is also employed to denote reason or cause. Pāṇinī has two parallel rules to that effect7 and Kaccāyana lays down the same rule in both cases, viz. 'hetvatthe' (291 & 277 hetu). [...] It may denote the cause proper, in which case it can be rendered by such expressions as "from", "through", "as a result of" or "in consequence of". e.g., āsavānaṃ khayā anāsavaṃ cetovimuttiṃ upasampajja A I.107; D III.102 "**
+
 
 
 **[^17]: As bahubbīhi qual. jhānaṁ.**
 
 
+
 4. MN 12 <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | assosi | verb | aor.3rd.sg | he heard | √su･4 ṇā (hear) |
 | kho | ind | - | truly |  |
@@ -653,21 +755,29 @@
 | \#\#\#dassana (+ca) | noun | nt. | vision | √dis･1 a (see) |
 | \#\#visesa | noun | masc. | distinction | √sis･8 \*e (remain, distinguish) |
 
+
 **Venerable Sariputta heard when Lucky Star, the young Licchavi, was talking in the Vesali assembly (saying), "The Ascetic Gotama has no super-powers, a distinction of knowledge and vision worthy of the Noble One's."**
+
 
 **sāriputto \< sāriyā + putto (chaṭṭhī tappurisa)<br>sunakkhatta \< su + nakkhatta (kammadhāraya)**
 
+
 **licchaviputta \< licchavīnaṃ+ putta (chaṭṭhī tappurisa)**
+
 
 **uttarimanussadhamma \< uttari + manussadhamma (kammadhāraya)**
 
+
 **manussadhamma \< manussassa + dhamma (chaṭṭḥī tappurisa)**
+
 
 **ñāṇadassana \< ñāṇa ca dassana ca (dvanda)**
 
+
 **ñāṇadassanavisesa \< ñāṇadassanassa + visesa (chaṭṭḥī tappurisa)**
+
 
 **alamariya \< alaṃ + ariya (kammadhāraya)**
 
-**alamariyañāṇadassanavisesa \< alamariya + ñāṇadassanavisesa (kammadhāraya)**
 
+**alamariyañāṇadassanavisesa \< alamariya + ñāṇadassanavisesa (kammadhāraya)**

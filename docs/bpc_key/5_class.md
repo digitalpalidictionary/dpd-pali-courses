@@ -2,6 +2,7 @@
 
 1. SN 22.33 <br>viññāṇaṃ na tumhākaṃ, taṃ pajahatha.
 
+
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | viññāṇaṃ | noun | nt.nom.sg | consciousness, awareness | √ñā･5 nā (know) |
@@ -10,11 +11,14 @@
 | taṃ | pron | nt.acc.sg | that, it |  |
 | pajahatha | verb | imp.2nd.pl | you all must abandon | √hā･1 a (abandon) |
 
+
 **Consciousness is not yours, you must abandon it!**
+
 
 2. SN 22.33 <br>taṃ vo pahīnaṃ hitāya sukhāya bhavissati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | nt.nom.sg | that |  |
 | vo | pron | 2nd.instr.pl | by you |  |
@@ -23,32 +27,41 @@
 | sukhāya | noun | nt.dat.sg | for happiness | √sukh･1 a (please, be comfortable) |
 | bhavissati | verb | fut.3rd.sg | it will be, it shall be | √bhū･1 a (be, become) |
 
+
 **[When] that is given up by you, it will be beneficial and comfortable [for you].**
+
 
 3. MN 39 <br>parisuddho no ājīvo bhavissati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | parisuddho | pp | masc.nom.sg | cleaned, purified | √sudh･3 ya (be pure) |
 | no | pron | 1st.gen.pl | our |  |
 | ājīvo | noun | masc.nom.sg | livelihood, lifestyle | √jīv･1 a (live) |
 | bhavissati | verb | fut.3rd.sg | it will be, it should be | √bhū･1 a (be, become) |
 
+
 **Our lifestyle should be purified.**
+
 
 4. MN 82 (simpl) <br>ahaṃ yathākammaṃ gamissāmi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahaṃ | pron | 1st.nom.sg. | I |  |
 | yathākammaṃ | ind | adv | according to actions |  |
 | gamissāmi | verb | fut.1st.sg | I will go | √gam･1 \*e (go) |
 
+
 **I will go according to my actions.**
+
 
 5. UD-a 43 <br>ahaṃ te aparimitaṃ dhanaṃ dassāmi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahaṃ | pron | 1st.nom.sg | I |  |
 | te | pron | 2nd.dat.sg | to you |  |
@@ -56,11 +69,14 @@
 | dhanaṃ | noun | nt.acc.sg | wealth | √dhan×1 a (be rich) |
 | dassāmi | verb | fut.1st.sg | I will give | √dā･1 a (give) |
 
+
 **I will give unlimited wealth to you.**
+
 
 6. MN 2.4 <br>neva davāya, na madāya, na maṇḍanāya, na vibhūsanāya
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | neva | ind | neg | neither, not |  |
 | davāya | noun | masc.dat.sg | for fun, for play | √dū×1 a (go, run) |
@@ -71,11 +87,14 @@
 | na | ind | neg | nor |  |
 | vibhūsanāya | noun | nt.dat.sg | for decoration, for bulk | √bhūs･1 a (adorn, decorate) |
 
+
 **Neither for fun, nor for intoxication, nor for adornment, nor for physical appearance.**
+
 
 7. DN 16.32 <br>alaṃ ānanda mā soci mā paridevi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | alaṃ | ind | excl | Stop! Enough! |  |
 | ānanda | noun | masc.voc.sg | Happy, joyful |  |
@@ -84,11 +103,14 @@
 | mā | ind | neg | don't! |  |
 | paridevi | verb | aor.3rd.sg | lamented, wailed | √dev･1 a (lament) |
 
+
 **Stop Ānanda, don't grieve, don't lament!**
+
 
 8. AN 3.21 <br>upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodiṃsu
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | upasaṅkamitvā | verb | abs | having approached | √kam･1 a (go) |
 | āyasmatā | noun | masc.instr.sg | with venerable | √i･1 a (come, go) |
@@ -96,11 +118,14 @@
 | saddhiṃ | ind | prep (+instr) | with |  |
 | sammodiṃsu | verb | aor.3rd.pl | they exchanged friendly conversation | √mud･1 \*a (be soft, happy) |
 
+
 **They approached and had polite conversation with venerable Sariputta.**
+
 
 9. TH 195 <br>adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | adhammo | noun | masc.nom.sg | false teaching | √dhar･1 a (hold, carry, endure) |
 | nirayaṃ | noun | masc.acc.sg | hell; no good fortune | √i･1 a (come, go) |
@@ -109,11 +134,14 @@
 | pāpeti | verb | pr.3rd.sg | leads to | √ap･4 \*e (reach, attain) |
 | suggatiṃ | noun | fem.acc.sg | a good destination | √gam･1 a (go) |
 
+
 **False teaching leads to no good fortune, the Teaching leads to a good destination.**
+
 
 10. MN 118 (simpl) <br>pītiṃ paṭisaṃvedī assasissāmi iti sikkhati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pītiṃ | noun | fem.acc.sg | rapture; delight | √pī･5 nā (love, please) |
 | paṭisaṃvedī | adj | masc.nom.sg | experiencing | √vid･8 \*e (know, sense, feel) |
@@ -121,21 +149,27 @@
 | iti | ind |  | " "; thus |  |
 | sikkhati | verb | pr.3rd.sg | one trains | √sikkh･1 a (learn, train) |
 
+
 **One trains thus: "I will breathe in experiencing delight."**
+
 
 11. MN 118 (simpl) <br>aniccaṃ anupassī passasissāmi iti sikkhati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aniccaṃ | noun | masc.acc.sg | impermanence |  |
 | anupassī | adj | masc.nom.sg | looking (at); observing; lit. seeing again and again | √dis･1 a (see) |
 | passasissāmi | verb | fut.1st.sg | I will breathe out | √sas･1 a (breath) |
 
+
 **One trains thus: "I will breathe out, observing impermanence."**
+
 
 12. MN 48 (simpl) <br>bhikkhu sabrahmacārīhi saddhiṃ bhogī hoti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | sabrahmacārīhi | noun | masc.instr.pl | with fellow monks |  |
@@ -143,11 +177,14 @@
 | bhogī | adj. | masc.nom.sg | enjoying; partaking; using | √bhuj･2 ṃa (use, eat, enjoy) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
+
 **The monk is partaking together with (his) fellow monks.**
+
 
 13. AN 7.23 <br>bhikkhū uppannāya taṇhāya na vasaṃ gacchissanti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhū | noun | masc.nom.pl | the monks | √bhikkh･1 a (beg) |
 | uppannāya | pp | fem.gen.sg | arisen |  |
@@ -156,21 +193,27 @@
 | vasaṃ | noun | masc.acc.sg | the authority; power | √vas×1 a (want, control) |
 | gacchissanti | verb | fut.3rd.pl | they will go; follow; submit to | √gam･1 a (go) |
 
+
 **The monks will not submit to the power of arisen craving.**
+
 
 14. AN 7.25 <br>bhikkhū ottappino bhavissanti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhū | noun | masc.nom.pl | the monks | √bhikkh･1 a (beg) |
 | ottappino | adj | masc.nom.pl | conscientious | √tapp･1 a (regret) |
 | bhavissanti | verb | fut.3rd.pl | will become | √bhū･1 a (be, become) |
 
+
 **The monks will become conscientious.**
+
 
 15. DN 16.36 (simpl) <br>vo mayā dhammo ca vinayo ca desito vo mama accayena satthā bhavissati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | vo | pron | 2nd.dat.pl | for you |  |
 | mayā | pron | 1st.instr.sg | by me |  |
@@ -185,11 +228,14 @@
 | satthā | noun | masc.nom.sg | a teacher |  |
 | bhavissati | verb | fut.3rd.sg | it will become | √bhū･1 a (be, become) |
 
+
 **After my passing away, the Doctrine and Discipline taught by me to you, will become a teacher for you.**
+
 
 16. SN 22.59 <br>evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evaṃ | ind | adv | thus; like this |  |
 | me | pron | 1st.gen.sg | my |  |
@@ -201,11 +247,14 @@
 | mā | ind | neg | not; don't; don't let |  |
 | ahosi | verb | aor.3rd.sg | it was | √hū･1 a (be) |
 
+
 **Let my body be thus, let my body not be thus.**
+
 
 17. SN 22.59 <br>evaṃ me saṅkhārā hontu! evaṃ me saṅkhārā mā ahesuṃ!
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evaṃ | ind | adv | thus |  |
 | me | pron | 1st.gen.sg | my |  |
@@ -217,11 +266,14 @@
 | mā | part | ind | not; don't; don't let |  |
 | ahesuṃ | verb | aor.3rd.pl | there were | √hū･1 a (be) |
 
+
 **Let my volitional formations be thus, let my volitional formations not be thus.**
+
 
 18. SN 35.28 <br>ekaṃ samayaṃ bhagavā gayāyaṃ viharati gayāsīse saddhiṃ bhikkhusahassena.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ekaṃ | card | masc.acc.sg | one |  |
 | samayaṃ | noun | masc.acc.sg | occasion |  |
@@ -232,11 +284,14 @@
 | saddhiṃ | ind | prep | together with |  |
 | bhikkhusahassena | noun | nt.instr.sg | with one thousand monks |  |
 
+
 **On one occasion the Blessed One was dwelling in Gayā at Gayā's Head together with a thousand monks. *(historical past)***
+
 
 19. SN 56.35 (simpl) <br>ahaṃ saha eva sukhena, saha eva somanassena catunnaṃ ariyasaccānaṃ abhisamayaṃ vadāmi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahaṃ | pron | 1st.nom.sg | I |  |
 | saha | ind | prep | together with; accompanied by |  |
@@ -250,11 +305,14 @@
 | abhisamayaṃ | noun | masc.acc.sg | clear comprehension |  |
 | vadāmi | verb | pr.1st.sg | I say | √vad･1 a (say, speak) |
 
+
 **I say clear comprehension of the four Noble Truths is accompanied only by ease and only by happiness.**
+
 
 20. AN 10.93 <br>anāthapiṇḍiko gahapati, yāvatako ahosi paribbājakehi saddhiṃ kathāsallāpo, taṃ sabbaṃ bhagavato ārocesi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | anāthapiṇḍiko | noun | masc.nom.sg | Anāthapiṇḍika |  |
 | gahapati | noun | masc.nom.sg | the householder |  |
@@ -268,11 +326,14 @@
 | bhagavato | noun | masc.dat.sg | to the Blessed One | √bhaj･1 a (divide, distribute) |
 | ārocesi | verb | aor.3rd.sg | he told to; he explained to | √ruc･1 \*e (shine, like) |
 
+
 **Whatever conversation was with wandering ascetics, the householder Anāthapiṇḍika told all of that to the Blessed One.**
+
 
 21. VIN 5.1.1 <br>mā kho tumhe eso ajesi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | mā | ind | neg | not; don't; don't let |  |
 | kho | ind | emph | indeed |  |
@@ -280,11 +341,14 @@
 | eso | pron | masc.nom.sg | this person |  |
 | ajesi | verb | aor.3rd.sg | he conquered; defeated | √ji･1 a (conquer) |
 
+
 **Do not let this person defeat you.**
+
 
 22. SN 42.2 (simpl) <br>"alaṃ, gāmaṇi. mā maṃ etaṃ pucchi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | alaṃ | ind | excl | that's enough! |  |
 | gāmaṇi | noun | masc.voc.sg | o chief; leader |  |
@@ -293,11 +357,14 @@
 | etaṃ | pron | masc.acc.sg | this |  |
 | pucchi | verb | aor.2nd.sg | you asked | √pucch･1 a (ask, question) |
 
+
 **That's enough, leader, do not ask me this!**
+
 
 23. AN 6.61 <br>yathā no bhagavā byākarissati, tathā naṃ mayaṃ dhāressāma
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yathā | ind | adv | as; like; in whatever way |  |
 | no | pron | 1st.acc.pl | us |  |
@@ -308,22 +375,28 @@
 | mayaṃ | pron | 1st.nom.pl | we |  |
 | dhāressāma | verb | fut.1st.pl | will keep in mind; remember | √dhar･8 \*e (wear, hold, carry) |
 
+
 **As the Blessed One will explain [it] to us, so we will keep that in mind.**
+
 
 24. SN 12.22 (simpl) <br>kārā amhesu mahapphalā bhavissanti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kārā | noun | masc.nom.pl | deeds; actions; services | √kar･7 o (do, make) |
 | amhesu | pron | 1st.loc.pl | in reference to us; on us; for us; |  |
 | mahapphalā | adj | masc.nom.pl | of great fruits; yield good results |  |
 | bhavissanti | verb | fut.3rd.pl | they will be; could be | √bhū･1 a (be, become) |
 
+
 **Services (done) on us could be of great fruits.**
+
 
 25. KHP 7 <br>idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idaṃ | pron | nt.nom.sg | this |  |
 | vo | pron | 2nd.gen.pl | your |  |
@@ -333,22 +406,28 @@
 | hontu | verb | imp.3rd.pl | may they be | √hū･1 a (be) |
 | ñātayo | noun | masc.nom.pl | relatives | √ñā･5 nā (know) |
 
+
 **May this be for your relatives; may [your] relatives be happy.**
+
 
 26. MN 39<br>parisuddho no kāyasamācāro bhavissati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | parisuddho | adj | masc.nom.sg | clean; pure; purified | √sudh･3 ya (be pure) |
 | no | pron | 1st.gen.pl | our |  |
 | kāyasamācāro | noun (comp) | masc.nom.sg | bodily behavior |  |
 | bhavissati | verb | fut.3rd.sg | shall be; will be | √bhū･1 a (be, become) |
 
+
 **Our bodily behavior will be pure/purified.**
+
 
 27. AN 7.61<br>na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | uccāsoṇḍaṃ | noun | fem.acc.sg | a high trunk |  |
@@ -356,63 +435,81 @@
 | kulāni | noun | nt.acc.pl | families | √kul･1 a (be close) |
 | upasaṅkamissāmi | verb | fut.1st.sg | I will approach | √kam･1 a (go) |
 
+
 **Having not raised up a high trunk, I will approach families. [I will not arrogantly approach families]**
+
 
 28. VIN PAT PC 10 (simpl) <br>bhikkhu paṭhaviṃ na khaṇati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | paṭhaviṃ | noun | fem.acc.sg | the ground; the earth | √path×1 a (expand) |
 | na | ind | neg | not |  |
 | khaṇati | verb | pr.3rd.sg | he digs; uproots | √khaṇ･1 a (dig) |
 
+
 **A monk does not dig up the ground.**
+
 
 29. DN 16.27 (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pupphā | noun | nt.nom.pl | flowers | √pupph･1 a (flower, expand) |
 | tathāgatassa | noun | masc.gen.sg | of the Tathāgata |  |
 | sarīraṃ | noun | nt.acc.sg | the corpse; dead body |  |
 | okiranti | verb | pr.3rd.pl | are sprinkled on | √kir･1 a (scatter, sprinkle) |
 
+
 **Flowers are sprinkled on the dead body of the Tathāgata.**
+
 
 30. DN 14.13 (simpl) <br>bhagavā migadāye pāturahosi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | migadāye | noun | masc.loc.sg | in deer park |  |
 | pāturahosi | verb | aor.3rd.sg | appeared; manifested |  |
 
+
 **The Blessed One appeared in the deer park.**
+
 
 31. UD 45 <br>asurā mahāsamudde abhiramanti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | asurā | noun | masc.nom.pl | demons; malevolent beings | √sur･1 a (shine, be supreme) |
 | mahāsamudde | noun | masc.loc.sg | in the great ocean |  |
 | abhiramanti | verb | pr.3rd.pl [+loc] | they enjoy; find high pleasure in | √ram･1 a (delight, please) |
 
+
 **Malevolent beings find high pleasure in the great ocean.**
+
 
 32. MN 51 (simpl) <br>pakkhī sakuṇo ḍeti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pakkhī | noun | masc.nom.sg | a bird; [one] with wings |  |
 | sakuṇo | noun | masc.nom.sg | a bird |  |
 | ḍeti | verb | pr.3rd.sg | flies | √ḍi･1 a (fly) |
 
+
 **The bird, [one] with wings, flies...**
+
 
 33. VIN 1.2.6<br>bhikkhu saṅghaṃ kuṭivatthussa olokanaṃ yācati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | saṅghaṃ | noun | masc.acc.sg | community of monks | √ghaṭ･1 a (join together) |
@@ -420,11 +517,14 @@
 | olokanaṃ | noun | nt.nom.sg | checking | √lok･8 \*e (look) |
 | yācati | verb | pr.3rd.sg | asks; requests | √yāc･1 a (beg) |
 
+
 **A monk asks the Community to check the place of the hut.**
+
 
 34. MN 43 <br>so āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | āyasmantaṃ | noun | masc.acc.sg | venerable | √i･1 a (come, go) |
@@ -433,11 +533,14 @@
 | pañhaṃ | noun | masc.acc.sg | a question |  |
 | apucchi | verb | aor.3rd.sg | asked | √pucch･1 a (ask, question) |
 
+
 **He asked venerable Sāriputta a question in addition.**
+
 
 35. AN 8.53 <br>ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ime | pron | masc.nom.pl | these |  |
 | dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
@@ -446,11 +549,14 @@
 | no | ind | neg | not |  |
 | visaṃyogāya | noun | masc.dat.sg | for detachment | √yuj･2 \*e (yoke, join) |
 
+
 **These things lead to attachment, not to detachment.**
+
 
 36. MN 74 <br>n'eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | n'eva | ind | ind+neg | neither; not |  |
 | tasmiṃ | pron | masc.loc.sg | at that |  |
@@ -463,11 +569,14 @@
 | vedanaṃ | noun | fem.acc.sg | a sensation; a feeling | √vid･8 \*e (know, sense, feel) |
 | vedeti | verb | pr.3rd.sg | feels; experiences | √vid･8 \*e (know, sense, feel) |
 
+
 **At that time, he feels neither a painful sensation nor a neutral sensation.**
+
 
 37. MN 82 <br>āyasmā raṭṭhapālo n'eva dānaṃ alattha na paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha!
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
 | raṭṭhapālo | noun | masc.nom.sg | Raṭṭhapāla |  |
@@ -481,33 +590,42 @@
 | eva | ind | emph | only; just |  |
 | alattha | verb | aor.3rd.sg | obtained | √labh･1 a (get) |
 
+
 **Venerable Raṭṭhapāla obtained neither alms nor a refusal; on the contrary, he obtained only verbal abuse.**
+
 
 38. SN 10.5 <br>mā akāsi pāpakaṃ kammaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | mā | ind | neg | do not |  |
 | akāsi | verb | aor.3rd.sg | did; made | √kar･7 o (do, make) |
 | pāpakaṃ | adj | nt.acc.sg | bad; evil |  |
 | kammaṃ | noun | nt.acc.sg | action; deed | √kar･7 o (do, make) |
 
+
 **Do not do an evil deed.**
+
 
 39. SN 21.9 <br>kiṃ nu kujjhasi? mā kujjhi!
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kiṃ nu | idiom | interr | why?; why indeed? |  |
 | kujjhasi | verb | pr.2nd.sg | you are angry | √kudh･3 ya (be angry) |
 | mā | ind | neg | do not |  |
 | kujjhi | verb | aor.2nd.sg | you were angry | √kudh･3 ya (be angry) |
 
+
 **Why indeed are you getting angry? Don't be angry!**
+
 
 40. MN 82 <br>aṭṭhi tacena onaddhaṃ,<br>saha vatthehi sobhati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aṭṭhi | noun | nt.nom.sg | a bone |  |
 | tacena | noun | masc.instr.sg | with skin |  |
@@ -516,12 +634,15 @@
 | vatthehi | noun | masc.instr.pl | clothes | √vas･8 \*e (wear, dress) |
 | sobhati | verb | pr.3rd.sg | shines; radiates; looks beautiful | √subh･1 \*a (shine, adorn) |
 
+
 **A bone covered with skin; it looks beautiful with clothes.**
+
 
 
 ## Class 5 Extra
 
 1. DHP223 (simpl) <br>jina kadariyaṃ dānena, jina saccena alikavādinaṃ.
+
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -532,11 +653,14 @@
 | saccena | noun | nt.instr.sg | by truth | √as･1 a (be) |
 | alikavādinaṃ | noun | masc.acc.sg | liar; who lies |  |
 
+
 **Conquer stinginess by giving; conquer liar by truth.**
+
 
 2. TH 251 (simpl) <br>alaṃ bālassa mohāya, no pāraṃ gavesino
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | alaṃ | ind | ind (+dat) | it is enough |  |
 | bālassa | noun | masc.dat.sg | for a fool |  |
@@ -545,11 +669,14 @@
 | pāraṃ | noun | nt.acc.sg | the far shore; Nibbāna |  |
 | gavesino | noun | masc.dat.sg | for one seeking; searching for | √gaves･1 a (seek, search) |
 
+
 **It is enough for deluding a fool not one seeking Nibbāna.**
+
 
 3. MN 19 (simpl) <br>jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | jhāyatha | verb | imp.2nd.pl | meditate | √jhā･3 ya (think, meditate) |
 | bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
@@ -565,11 +692,14 @@
 | amhākaṃ | pron | masc.gen.pl | (royal plural) my; lit. our |  |
 | anusāsanī | noun | fem.nom.sg | advice; instruction | √sās･1 a (order, instruct) |
 
+
 **Meditate, monks! You must not be negligent, do not have remorse afterwards! This [is] my advice for you.**
+
 
 4. SNP 31 (simpl) <br>tuvaṃ hi no brahmasamo asi saccaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tuvaṃ | pron | 2nd.nom.sg | you |  |
 | hi | ind | emph | indeed |  |
@@ -578,11 +708,14 @@
 | asi | verb | pr.2nd.sg | you are |  |
 | saccaṃ | ind | adv | truly; really | √as･1 a (be) |
 
+
 **You are truly for us equal to the Brahma.**
+
 
 5. VIN PAT PC 42 <br>gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | gaccha | verb | imp.2nd.sg | go! begone! | √gam･1 a (go) |
 | āvuso | ind | voc.sg | friend |  |
@@ -595,11 +728,14 @@
 | phāsu | noun | masc.nom.sg | ease; comfort | √phus･1 a (touch) |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
+
 **Go away, friend, for me there is no comfort talking or sitting down together with you.**
+
 
 6. SNP 70 <br>te diṭṭhiṃ n'ābhijānāmi, gotamassa yasassino.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | te | pron | 2nd.gen.pl | your |  |
 | diṭṭhiṃ | noun | fem.acc.sg | the view | √dis･1 a (see) |
@@ -607,11 +743,14 @@
 | gotamassa | noun | masc.gen.sg | of Gotama |  |
 | yasassino | adj | masc.dat.sg | of the famous |  |
 
+
 **I don't understand your view; [the view] of the famous Gotama.**
+
 
 7. SN 40.1 (simpl) <br>mā, brāhmaṇa, jhānaṃ pamādo, jhāne cittaṃ saṇṭhapehi, jhāne cittaṃ ekodiṃ karohi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | mā | ind | neg | don't |  |
 | brāhmaṇa | noun | masc.voc.sg | monk; sage; holy man | √brah×1 a (increase) |
@@ -624,5 +763,6 @@
 | cittaṃ | noun | nt.acc.sg | mind | √cit･8 \*e (think, intend) |
 | ekodiṃ | adj | nt.acc.sg | (mentally) unified; single |  |
 | karohi | verb | imp.2nd.sg | do!; make! | √kar･7 o (do, make) |
+
 
 **Monk, don't be careless about meditation, you must make [your] mind stable in meditation, you must make [your] mind unified!**

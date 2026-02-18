@@ -2,6 +2,7 @@
 
 1. AN 10.176 <br>so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
 
+
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
@@ -10,9 +11,11 @@
 | āha | verb | perf.3rd.sg | he had said | √ah･1 a (speak) |
 | jānāmī‘ti | verb | pr.1st.sg | "I know" | √ñā･5 nā (know) |
 
+
 **Not knowing, he said, "I know"**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | jānaṃ | prp | masc.nom.sg | knowing | √ñā･5 nā (know) |
 | vā | ind | - | or |  |
@@ -20,18 +23,22 @@
 | na | ind | neg | not |  |
 | jānāmī'ti | verb | pr.1st.sg | I know" | √ñā･5 nā (know) |
 
+
 **Or knowing, he said, "I don't know"**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | apassaṃ | prp | masc.nom.sg | not seeing | √dis･1 a (see) |
 | vā | ind | - | or |  |
 | āha | verb | perf.3rd.sg | he said | √ah･1 a (speak) |
 | passāmī'ti | verb | pr.1st.sg | "I see" | √dis･1 a (see) |
 
+
 **or, not seeing, he said, "I see"**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | passaṃ | prp | masc.nom.sg | seeing | √dis･1 a (see) |
 | vā | ind | - | or |  |
@@ -39,19 +46,24 @@
 | na | ind | neg | not |  |
 | passāmī'ti | verb | pr.1st.sg | I see" | √dis･1 a (see) |
 
+
 **or, seeing, he said, "I don't see"**
+
 
 2. AN 5.23 <br>so sace ākaṅkhati, dibbena cakkhunā satte passeyyaṃ cavamāne upapajjamāne
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | sace | ind | - | if |  |
 | ākaṅkhati | verb | pr.3rd.sg | he wishes | √kaṅkh･1 a (wish for) |
 
+
 **If he wishes**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dibbena | adj | nt.instr.sg | with divine | √div･3 ya (shine) |
 | cakkhunā | noun | nt.instr.sg | with eye | √cakkh･1 a (see) |
@@ -60,11 +72,14 @@
 | cavamāne | prp | masc.acc.pl | dying | √cu･1 a (shift, fall away, die) |
 | upapajjamāne | prp | masc.acc.pl | re-arising | √pad･3 ya (go, step) |
 
+
 **I myself could see beings passing away and re-arising with the divine eye**
+
 
 3. MN 86 <br>atha kho āyasmā aṅgulimālo lohitena gaḷantena yena bhagavā ten'upasaṅkami
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | atha kho | ind | adv | and then |  |
 | āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
@@ -75,11 +90,14 @@
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | tena-upasaṅkami | verb | aor.3rd.sg | he approached there |  |
 
+
 **And then Ven. Aṅgulimāla approached the Blessed One with blood dripping.**
+
 
 4. AN 3.83 <br>tassa na tādiso chando hoti seyyathāpi aññesaṃ bhikkhūnaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg | his |  |
 | na | ind | neg | not |  |
@@ -90,11 +108,14 @@
 | aññesaṃ | pron | masc.gen.pl | of other(s) |  |
 | bhikkhūnaṃ | noun | masc.gen.pl | of monks | √bhikkh･1 a (beg) |
 
+
 **His interest is not such as (that) of other monks.**
+
 
 5. AN 3.35 <br>ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro'ti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | those who |  |
 | ca pana | ind | ind | and |  |
@@ -105,11 +126,14 @@
 | tesaṃ | pron | masc.gen.pl | of them |  |
 | aññataro'ti | pron | masc.nom.sg | certain, one of |  |
 
+
 **Those who sleep comfortably in the world, I am one of them.**
+
 
 6. MN 39 <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | imaṃ | pron | masc.acc.sg | this |  |
@@ -119,30 +143,38 @@
 | pītisukhena | noun | nt.instr.sg | with joy and ease |  |
 | abhisandeti | verb | pr.3rd.sg | he fills up | √sand･1 \*e (flow) |
 
+
 **He fills up this very body with joy and ease born from seclusion.**
+
 
 7. AN 10.61 <br>ko ca āhāro avijjāya?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ko | pron | masc.nom.sg | what? |  |
 | ca | ind |  | and, but |  |
 | āhāro | noun | masc.nom.sg | food, fuel, nutriment | √har･1 a (take, seize) |
 | avijjāya | noun | fem.gen.sg | of ignorance | √vid･3 ya (know, understand) |
 
+
 **And what is the nutriment of ignorance?**
+
 
 8. SN 35.234 <br>so evaṃ asamanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ paccattaññ'eva parinibbāyati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | evaṃ | ind | emph | thus; in that way |  |
 | asamanupassanto | prp | masc.nom.sg | not seeing perceiving | √dis･1 a (see) |
 
+
 **he's not perceiving in that way**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | ca | ind | conj | and |  |
@@ -150,28 +182,35 @@
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
 | upādiyati | verb | pr.3rd.sg | he grasps | √ādā･3 ya (take, seize) |
 
+
 **he does not grasp onto anything in the world.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | anupādiyaṃ | prp | masc.nom.sg | not grasping | √ādā･3 ya (take, seize) |
 | na | ind | neg | not |  |
 | paritassati | verb | pr.3rd.sg | he is perturbed; is shaken; is agitated; is anguished | √tas･3 ya (be agitated) |
 
+
 **not grasping, he is not perturbed**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aparitassaṃ | prp | masc.nom.sg | not shaking | √tas･3 ya (be agitated) |
 | paccattaṃ | ind | adv | personally |  |
 | eva | ind | emph | just; thus |  |
 | parinibbāyati | verb | pr.3rd.sg | he is completely quenched | √vā･1 a (blow, emit odour) |
 
+
 **not shaking, he thus personally attains final liberation.**
+
 
 9. VIN PAT PC 22 <br>sammato api ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sammato | pp | masc.nom.sg | authorized | √man･3 ya (think) |
 | api | ind | ind | even |  |
@@ -183,11 +222,14 @@
 | ovadeyya | verb | opt.3rd.sg | should enxhort; should instruct | √vad･1 a (say, speak) |
 | pācittiyaṃ | noun | nt.nom.sg | offence requiring confession |  |
 
+
 **Even if authorized, should a monk instruct the nuns when the sun has set, [this is] an offence requiring confession.**
+
 
 10. MN 118 <br>dīghaṃ vā assasanto dīghaṃ assasāmī'ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī'ti pajānāti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dīghaṃ | ind | adv | long |  |
 | vā | ind | conj | or |  |
@@ -202,11 +244,14 @@
 | passasāmī'ti | verb | pr.1st.sg + quote | I breathe out" | √sas･1 a (breath) |
 | pajānāti | verb | pr.3rd.sg | he knows clearly | √ñā･5 nā (know) |
 
+
 **Breathing in long, he knows clearly, "I breathe in long" or breathing out long, he knows clearly, "I breathe out long."**
+
 
 11. SN 12.61 <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | pron+adv+ind | just like |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -215,11 +260,14 @@
 | pavane | noun | nt.loc.sg | in a woodland |  |
 | caramāno | prp | masc.nom.sg | wandering around | √car･1 a (move, walk) |
 
+
 **Just like a monkey [who is] wandering around in a woodland, in a forest.**
+
 
 12. MN 39 <br>puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | puriso | noun | masc.nom.sg | a man; a person |  |
 | passeyya | verb | opt.3rd.sg | would see; could see | √dis･1 a (see) |
@@ -227,11 +275,14 @@
 | carantaṃ | prp | masc.acc.sg | wandering; roaming about | √car･1 a (move, walk) |
 | tiṭṭhantaṃ | prp | masc.acc.sg | remaining; standing still | √ṭhā･1 a (stand) |
 
+
 **A man could see a school of fish roaming about [and] standing still.**
+
 
 13. MN 62 <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | abhippamodayaṃ | prp | masc.nom.sg | gladdening | √mud･1 \*aya (be soft, happy) |
 | cittaṃ | noun | nt.acc.sg | the mind | √cit･8 \*e (think, intend) |
@@ -242,11 +293,14 @@
 | passasissāmī'ti | verb | fut.1st.sg | I will breathe out + quote | √sas･1 a (breath) |
 | sikkhati | verb | pr.3rd.sg | he trains | √sikkh･1 a (learn, train) |
 
+
 **He trains [thus]: "I will breathe in gladdening the mind," he trains [thus]: "I will breathe out gladdening the mind."**
+
 
 14. MN 75 <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aññatitthiyā | adj | masc.nom.pl | who belongs to another sect |  |
 | paribbājakā | noun | masc.nom.pl | wandering ascetics | √vaj･1 a (go on) |
@@ -261,11 +315,14 @@
 | gāthaṃ | noun | fem.acc.sg | a verse | √gā･3 ya (sing) |
 | bhāsanti | verb | pr.3rd.pl | they speak; they recite | √bhās･1 a (speak) |
 
+
 **Wandering ascetics who belong to another sect, blind, visionless, not knowing freedom from disease, not seeing total emancipation, and yet they say this verse.**
+
 
 15. VIN PAT NP 16 <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | paṭiggahetvā | verb | abs | having accepted | √gah･6 ṇhā (grasp) |
 | tiyojanaparamaṃ | ind<br>(comp) | adv | for three units of linear measure (yojanas) at the most |  |
@@ -274,11 +331,14 @@
 | asante | prp | masc.loc.sg | (when) … not present (loc abs) |  |
 | hārake | noun | masc.loc.sg | one [who] can carry |  |
 
+
 **Having accepted, it could be carried by oneself for three yojanas at the most, when there is no one (else) to carry.**
+
 
 16. SN 22.1 <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | āturakāyassa | adj | masc.gen.sg (gen abs) | while sick in body |  |
 | me | pron | 1st.gen.sg (gen abs) | while me |  |
@@ -287,11 +347,14 @@
 | anāturaṃ | adj | nt.nom.sg | healthy |  |
 | bhavissati | verb | fut.3rd.sg | will be |  |
 
+
 **Although I am sick in body, (my) mind will be healthy.**
+
 
 17. SN 22.59 <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | etaṃ | pron | nt.nom.sg | this [thing] |  |
 | mama | pron | 1st.gen.sg | mine |  |
@@ -306,11 +369,14 @@
 | etaṃ | pron | nt.nom.sg | this [idiom: certainly not] |  |
 | bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
 
+
 **[Is what is impermanent…fit to be regarded thus:] "This is mine, this I am, this is my self?" Certainly not, venerable sir.**
+
 
 18. TH 257 <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | saritvā | verb | abs | having remembered; remembering | √sar･1 a (remember) |
 | pubbake | adj | masc.acc.pl | of old; former |  |
@@ -319,11 +385,14 @@
 | vattaṃ | noun | nt.acc.sg | way of life; behavior | √vatt･1 a (be, proceed) |
 | anussaraṃ | prp | masc.nom.sg | remembering; recollecting | √sar･1 a (remember) |
 
+
 **Remembering practitioners of old, recollecting their behavior.**
+
 
 19. SN 12.22 (simpl) <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | paresaṃ | pron | masc.gen.pl | of others |  |
 | atthaṃ | noun | masc.acc.sg | the benefit; welfare |  |
@@ -336,11 +405,14 @@
 | appamādena | noun | masc.instr.sg | with heedfulness; vigilance | √mad･3 ya (be mad, intoxicated) |
 | sampādetuṃ | verb | inf | to press on; to strive |  |
 
+
 **Monks, by considering the benefit of others, it is enough just to strive with heedfulness.**
+
 
 20. SNP 8 <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | ca | ind | conj | and |  |
@@ -352,11 +424,14 @@
 | pare | pron | masc.nom.pl<br>or<br>masc.acc.pl | other<br>others |  |
 | upavadeyyuṃ | verb | opt.3rd.pl | would reprove | √vad･1 a (say, speak) |
 
+
 **And he should not conduct himself in any small thing because of which other wise (people) would reprove [him].<br>(or)<br>And he should not conduct himself in any small thing because of which wise would reprove others.**
+
 
 21. VIN PAT SK 71 <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | pacchato | ind | adv | behind |  |
@@ -367,11 +442,14 @@
 | dhammaṃ | noun | masc.acc.sg | the doctrine; the Dhamma | √dhar･1 a (hold, carry, endure) |
 | desessāmi | verb | fut.1st.sg | I will preach; expound | √dis･1 \*e (point out, explain) |
 
+
 **I will not preach the Dhamma walking behind, to one going in front, who is not ill.**
+
 
 22. SN 46.3 <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.dat.sg<br>(or)<br>masc.gen.sg | for him<br>(or) <br>when he |  |
 | taṃ | pron | masc.acc.sg | that |  |
@@ -385,11 +463,14 @@
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | vīriyaṃ | noun | nt.nom.sg | energy; effort | √vīr×8 \*e (be heroic, hostile) |
 
+
 **For one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, energy is aroused.<br>(or)<br>When one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
+
 
 23. MN 39 <br>tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg<br>(or)<br>masc.dat.sg | of him, his<br>(or)<br>for him |  |
 | evaṃ | ind | emph | thus; in this way |  |
@@ -401,11 +482,14 @@
 | cittaṃ | noun | nt.nom.sg | [his] mind | √cit･8 \*e (think, intend) |
 | vimuccati | verb | pr.3rd.sg | is released | √muc･2 ya (release, free) |
 
+
 **The mind of him who sees and knows is released from the taint of sensual pleasure too.<br>(or)<br>The mind for him who sees and knows is released from the taint of sensual pleasure too.**
+
 
 24. MN 107 <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | who |  |
 | kho | ind | emph | indeed; truly |  |
@@ -424,11 +508,14 @@
 | anusāsanī | noun | fem.nom.sg | instruction; advice | √sās･1 a (order, instruct) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
+
 **Those monks in the training who dwell aspiring for the highest security from bondage, [who] have not reached their goal; this is my instruction to them.**
+
 
 25. DHP 184 <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | hi | ind | emph | certainly; indeed |  |
@@ -441,11 +528,14 @@
 | paraṃ | pron | masc.acc.sg | another |  |
 | viheṭhayanto. | prp | masc.nom.sg | harming; troubling | √heṭh･8 \*aya (harass, annoy) |
 
+
 **One who has gone forth certainly does not harm another, a monk is not troubling another.**
+
 
 26. VIN PAT PA 2 <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tathārūpaṃ | adj | masc.acc.sg | of such a kind |  |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
@@ -457,11 +547,14 @@
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | asaṃvāso | adj | masc.nom.sg | expelled; not in communion | √vas･1 a (live) |
 
+
 **A monk, stealing of such a kind something that is not given, this one is also defeated, expelled.**
+
 
 27. VIN PAT SA 10 <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek'uddeso, phāsu viharati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sametu | verb | imp.3rd.sg | he should agree (with); let him harmonize (with) | √sam･3 \*e (be calm, tired) |
 | āyasmā | noun | masc.nom.sg | the venerable | √i･1 a (come, go) |
@@ -475,11 +568,14 @@
 | phāsu | ind | adv | easily; comfortably | √phus･1 a (touch) |
 | viharati | verb | pr.3rd.sg | dwells | √har･1 a (live) |
 
+
 **"Let the venerable one agree with the community of monks, for a unified community, which is on friendly terms, not quarrelling, following one Pātimokkha dwells comfortably."**
+
 
 28. VIN PAT PC 14 <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | masc.acc.sg | it |  |
 | pakkamanto | prp | masc.nom.sg | going away; departing; leaving | √kam･1 a (go) |
@@ -491,11 +587,14 @@
 | vā | ind | conj | or |  |
 | gaccheyya | verb | opt.3rd.sg | should go | √gam･1 a (go) |
 
+
 **[When] departing, should he not remove it [i.e. the bed or mattress] nor cause it to be removed, or should he go not asking permission.**
+
 
 29. VIN PAT PC 68 <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n'ālaṃ antarāyāya
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | which |  |
 | ime | pron | masc.nom.pl | these |  |
@@ -508,11 +607,14 @@
 | n'ālaṃ | ind | neg [+inf or dat] | not enough (to); it is not enough (for) |  |
 | antarāyāya | noun | masc.dat.sg | for an obstruction; a danger |  |
 
+
 **These obstructive things which have been spoken [of] by the Blessed One: they are not enough [to be] an obstruction for one engaging in [them]**
+
 
 30. SN 12.61 <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | iti | ind | adv | thus |  |
 | imasmiṃ | pron | masc.loc.sg<br>(loc.abs) | when this |  |
@@ -533,11 +635,14 @@
 | idaṃ | pron | nt.nom.sg | that |  |
 | nirujjhati | verb | pr.3rd.sg | ceases | √rudh･2 ṃa (obstruct) |
 
+
 **Thus, when this exists, there is that, from the arising of this, that arises, when this does not exist, there is not that, from the cessation of this, that ceases.**
+
 
 31. MN 40 (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg | when he<br>(or)<br>for him |  |
 | sabbehi | pron | nt.abl.pl | from all |  |
@@ -551,11 +656,14 @@
 | pāmojjaṃ | noun | nt.acc.sg | happiness; gladness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | arises; is produced | √jan･3 ya (be born, produce) |
 
+
 **When one seeing himself purified from all these evil, unwholesome states, gladness arises.<br>(or)<br>For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
+
 
 32. MN 19 <br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | etāni | pron | nt.nom.pl | these |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -563,11 +671,14 @@
 | etāni | pron | nt.nom.pl | these |  |
 | suññāgārāni | noun | nt.nom.pl | empty dwellings |  |
 
+
 **Monks, these [are] roots of trees, these [are] empty dwellings.**
+
 
 33. SN 22.85 <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yato | ind | adv | since; because |  |
 | kho | ind | - | indeed; surely |  |
@@ -581,11 +692,14 @@
 | diṭṭhigatā | noun | nt.abl.sg | from belief; doctrine |  |
 | vivecetuṃ | verb | inf +abl | to separate from; dissuade from | √vic･1 \*e (separate) |
 
+
 **Since those monks were unable to separate Venerable Yamaka from that wrong belief…**
+
 
 34. VIN PAT PC 71 <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | tāva | ind | adv | so long |  |
@@ -602,11 +716,14 @@
 | vinayadharaṃ | noun | masc.acc.sg | expert in Vinaya |  |
 | paripucchāmi | verb | pr.1st.sg | I question; interrogate | √pucch･1 a (ask, question) |
 
+
 **Friends, I will not train in this training rule until I [can] question another monk, a competent expert in Vinaya, [about it].**
+
 
 35. SN 22.79 <br>sabbe ete pañc'upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sabbe | pron | masc.nom.pl | all |  |
 | ete | pron | masc.nom.pl | these; these people |  |
@@ -616,13 +733,16 @@
 | vā | ind | conj | or |  |
 | aññataraṃ | pron | masc.acc.sg | one (of) |  |
 
+
 **All of them recollect five aggregates that are clung to, or one of them.**
+
 
 
 
 ## Class 10 Extra
 
 1. MN 10.11 <br>idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ, atthi me ajjhattaṃ kāmacchando'ti pajānāti
+
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -632,9 +752,11 @@
 | ajjhattaṃ | ind | adv | internally; personally |  |
 | kāmacchandaṃ | noun | masc.acc.sg | desire for sense pleasure |  |
 
+
 **When a monk having desire for sense pleasure internally...**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | atthi | verb | pr.3rd.sg | there is | √as･1 a (be) |
 | me | pron | 1st.dat.sg | for me |  |
@@ -642,11 +764,14 @@
 | kāmacchando'ti | noun | masc.nom.sg | desire for sense pleasure |  |
 | pajānāti | verb | pr.3rd.sg | he knows | √ñā･5 nā (know) |
 
+
 **He knows, "There is desire for sense pleasure for me internally."<br>(Internally, I have desire for sense pleasure)**
+
 
 2. SNP 16 <br>bahū devā manussā ca, maṅgalāni acintayuṃ, <br>ākaṅkhamānā sotthānaṃ, brūhi maṅgalam'uttamaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bahū | adj | masc.nom.pl | many |  |
 | devā | noun | masc.nom.pl | deities |  |
@@ -660,11 +785,14 @@
 | maṅgalaṃ | noun | nt.acc.sg | blessing, benefit | √maṅg×1 a (be auspicious) |
 | uttamaṃ | adj | nt.acc.sg | highest, foremost |  |
 
+
 **Many devas and humans thought about blessings,<br>wishing for well-being, say (what is) the highest blessing!**
+
 
 3. SNP 8 <br>tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvat'āssa vigatamiddho
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tiṭṭhaṃ | prp | masc.nom.sg | standing | √ṭhā･1 a (stand) |
 | caraṃ | prp | masc.nom.sg | walking | √car･1 a (move, walk) |
@@ -678,11 +806,14 @@
 | vigatamiddho | adj | masc.nom.sg | without drowsiness |  |
 | (or) | noun | masc.nom.sg | freedom from drowsiness |  |
 
+
 **Standing, walking, seated or lying down, as long as he may be without drowsiness<br>(or)<br>… as long as there is freedom from drowsiness for him.**
+
 
 4. MN 51 <br>ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ito | ind | adv | (of place) from here |  |
 | sutvā | verb | abs | having heard | √su･4 ṇā (hear) |
@@ -700,11 +831,14 @@
 | amūsaṃ | pron | masc.gen.pl | of them; of those people |  |
 | bhedāya | noun | masc.dat.sg | for a schism; break | √bhid･2 ṃa (break, split) |
 
+
 **Thus, having heard here, he does not tell there for a break of them; or having heard in such-and-such a place, he does not tell to these people for a schism of them.**
+
 
 5. SN 1.6 <br>kati jāgarataṃ suttā, kati suttesu jāgarā. <br>katīhi rajaṃ ādeti, katīhi parisujjhati
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kati | pron interr | masc.nom.pl | how many? |  |
 | jāgarataṃ | prp | masc.gen.pl<br>gen abs | when [others] are awake | √jāgar･1 a (be awake, watchful) |
@@ -718,11 +852,14 @@
 | katīhi | pron interr | masc.instr.pl | by how many? |  |
 | parisujjhati | verb | pr.3rd.sg | one is purified | √sudh･3 ya (be pure) |
 
+
 **How many are sleeping when [others] are awake? How many staying awake when [others] are sleeping? By how many one grasps a defilement? By how many is one purified?**
+
 
 6. DHP 085 <br>appakā te manussesu, ye janā pāragāmino. <br>atha ayaṃ itarā pajā, tīraṃ eva anudhāvati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | appakā | noun | nt.nom.pl | few |  |
 | te | pron | masc.nom.pl | they |  |
@@ -738,11 +875,14 @@
 | eva | ind | emph | only; just |  |
 | anudhāvati | verb | pr.3rd.sg | run along | √dhāv･1 a (run, flow) |
 
+
 **There are few among humans, whose people who cross over, but the rest of the people only runs along the shore.**
+
 
 7. DHP 153 <br>anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | anekajāti | adj | masc.nom.sg | with many rebirths; having multiple lives |  |
 | saṃsāraṃ | noun | masc.acc.sg | in saṃsāra; in stream of existence; cyclic existence | √sar･1 a (go, flow) |
@@ -753,5 +893,6 @@
 | dukkhā | adj | fem.nom.sg | suffering | √dukkh･1 a (be painful) |
 | jāti | noun | fem.nom.sg | birth | √jan･3 ya (be born, produce) |
 | punappunaṃ | ind | adv | repeatedly; again and again |  |
+
 
 **With many births I wandered in cyclic existence, not finding, searching the builder of this house. Birth again and again [is] suffering.**

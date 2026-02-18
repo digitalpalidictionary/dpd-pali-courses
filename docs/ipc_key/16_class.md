@@ -3,6 +3,7 @@
 **Dis-join the sandhis**
 
 
+
 | | |
 |---|---|
 | pañcindriyāni | pañca + indriyāni |
@@ -31,7 +32,9 @@
 | tissa | iti + assa |
 | myāyaṃ | me + ayaṃ |
 
+
 **Join the following words in suitable ways**
+
 
 | | |
 |---|---|
@@ -60,14 +63,17 @@
 | kho + ayaṃ | khvāyaṃ |
 
 
+
 **Exercises**
 
 **Break up all the sandhis in the following sentences.**
 
 
+
 1. MN 48<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | idha | ind | adv | here; in this case |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -89,11 +95,14 @@
 | raho | ind | adv | privately | √rah×1 a (leave, desert) |
 | ca | ind | conj | and |  |
 
+
 **Here, monks, a monk has established (lit: there is established for a monk) kind bodily action(s) in regard to his spiritual companions, openly and even privately.**
+
 
 2. SN 22.63<br>yass'atthāya kulaputtā samma'd'eva agārasmā anagāriyaṃ pabbajanti tad'anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yass'atthāya | sandhi |  | for the purpose of which |  |
 | \#yassa | pron | masc.gen.sg | of which |  |
@@ -125,11 +134,14 @@
 | upasampajja | verb | ger | reaching; attaining; arriving at | √pad･3 ya (go, step) |
 | viharati | verb | pr.3rd.sg | he dwells, lives | √har･1 a (live) |
 
+
 **He dwells having reached even in this life that unsurpassed perfection of the holy life, for the purpose of which sons of respectable families rightly go forth from home to homelessness, having experienced it for himself by direct knowledge.**
+
 
 3. MN 117<br>iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | iti'ss'ime | sandhi | ind+pron+pron | thus for him these |  |
 | \#iti | ind | adv | thus |  |
@@ -156,11 +168,14 @@
 | \#sammā | ind | adv | rightly; correctly |  |
 | \#sati | noun | fem.nom.sg | mindfulness | √sar･1 a (remember) |
 
+
 **Thus, for him these three states circle around, rotate around right view; that is, right view, right effort, [and] right mindfulness.**
+
 
 4. MN 21<br>ubhatodaṇḍakena ce'pi kakacena corā ocarakā aṅgam'aṅgāni okanteyyuṃ, tatrā'pi yo mano padūseyya, na me so tena sāsanakaro.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ubhatodaṇḍakena | adj | masc.instr.sg | with two-handled; double-handled | kammadhāraya |
 | \#ubhato | ind | adv | on both sides |  |
@@ -189,11 +204,14 @@
 | \#sāsanaṃ | noun | nt.acc.sg | the teaching | √sās･1 a (order, instruct) |
 | \#karo | adj | masc.nom.sg | doing | √kar･7 o (do, make) |
 
+
 **Even if mean thieves should cut off [your] [limbs] limb by limb with a double-handled saw, even in that case, whoever would cause the mind to be corrupt because of that, he is not the one practising my teaching.**
+
 
 5. SN 22.59<br>yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yaṃ | pron | nt.nom.sg | whatever |  |
 | pan'āniccaṃ | sandhi |  | and impermanent |  |
@@ -224,11 +242,14 @@
 | \#etaṃ | pron | nt.nom.sg | this (idiom: certainly not) |  |
 | bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
 
+
 **Whatever is impermanent, suffering, and of a changing nature, is it suitable to regard that as "this [is] mine, this I am, this [is] my self"? Certainly not (lit: this indeed not), venerable sir.**
+
 
 6. MN 139<br>iti kho pan'etaṃ vuttaṃ. kiñ'c'etaṃ paṭicca vuttaṃ?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | iti | ind | adv | thus |  |
 | kho | ind | emph | indeed; surely; certainly |  |
@@ -243,11 +264,14 @@
 | paṭicca | verb | ger | dependent/depending on | √i 1 a (to come, go) |
 | vuttaṃ | pp | nt.nom.sg | has been said | √vac･1 a (say, speak) |
 
+
 **Thus, indeed, it has been said. And depending on what has this been said?**
+
 
 7. MN 140<br>tass'eva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. sv'āssa pahīno hoti ucchinnamūlo tāl'āvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tass'eva | sandhi | pron+ind | just for him |  |
 | \#tassa | pron | masc.dat.sg | for him; for that |  |
@@ -283,11 +307,14 @@
 | \#anuppāda | noun | masc | not arising | √pad･3 ya (go, step) |
 | \#dhammo | noun | masc.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
 
+
 **Formerly, indeed, for that ignorant one, there was covetousness, desire and passion. [But now] for him that has been abandoned, it has been uprooted like a palm tree, totally annihilated, never arising again in the future.**
+
 
 8. SNP 62<br>santi loke munayo, janā vadanti ta'y'idaṃ kathaṃsu, <br>ñāṇ'ūpapannaṃ no muniṃ vadanti, udāhu ve jīviten'ūpapannaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | santi | verb | pr.3rd.pl | there are | √as･1 a (be) |
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
@@ -312,12 +339,15 @@
 | \#jīvitena | noun | nt.instr.sg | by lifestyle; way of life | √jīv･1 a (live) |
 | \#upapannaṃ | pp | nt.acc.sg | possessed (of); having; with | √pad･3 ya (go, step) |
 
+
 **There are sages in the world, people say, but how is that so? Do they call one a sage (because of) having knowledge or rather (because of) having lifestyle?**
+
 
 
 9. AN 8.53 <br>neso dhammo neso vinayo netaṃ satthusāsananti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | neso | sandhi | - | this is not |  |
 | \#na | ind | neg | not |  |
@@ -335,11 +365,14 @@
 | \#sāsanaṃ | noun | nt.nom.sg | message, instruction | √sās･1 a (order, instruct) |
 | \#iti | ind | - | "" |  |
 
+
 **This is not the teaching, this is not the discipline, this is not the teacher's instruction.**
+
 
 10. SN 12.63 <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cattārome | sandhi | - | these four |  |
 | \#cattāro | adj | masc.nom.pl | four |  |
@@ -356,11 +389,14 @@
 | vā | ind | - | or |  |
 | anuggahāya | noun | nt.dat.sg | for helping, for assistance | √gah･6 ṇhā (grasp) |
 
+
 **Monks, there are these four fuels for the maintenance of existing sentient beings or for the support of those seeking birth.**
+
 
 11. AN 4.45 <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | cāhaṃ | sandhi | - | but I |  |
@@ -376,11 +412,14 @@
 | antakiriyaṃ (antaṃ + kiriyā) | noun | fem.acc.sg | ending, relief | dutiyā tappurisa |
 | vadāmi | verb | pr.1st.sg | I say | √vad･1 a (say, speak) |
 
+
 **But I also say, friends, that without reaching the end of the world, (there is) no ending of suffering.**
+
 
 12. AN 2.89 <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dveme | sandhi | - | these two |  |
 | \#dve | adj | x.nom.pl | two |  |
@@ -394,11 +433,14 @@
 | avikkhepo | noun | masc.nom.sg | calmness, tranquillity | √khip･1 a (throw) |
 | ca | ind | conj | and |  |
 
+
 **Monks there are these two things. What two? Effort and tranquility.**
+
 
 13. SN 22.81 <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ekova | sandhi | - | just alone |  |
 | \#eko | adj | masc.nom.sg | alone |  |
@@ -420,11 +462,14 @@
 | \#hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 | \#iti | ind | - | "" |  |
 
+
 **"At that time the Buddha wishes to just live alone, at that time he should not be followed by anyone."**
+
 
 14. SN 9.3 <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sacepi | sandhi | - | even if |  |
 | \#sace | ind | - | if |  |
@@ -447,11 +492,14 @@
 | \#vijjati | verb | pr.3rd.sg | it exists, it is found | √vid･3 ya (be found, exist) |
 | \#iti | ind | - | "" |  |
 
+
 **Even if you would carry ten lamps, Kassapa, he would not see forms, because he does not have sight.**
+
 
 15. MN 95 <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | no | ind | neg | not |  |
 | cetaṃ | sandhi | - | if this |  |
@@ -464,11 +512,14 @@
 | \#idaṃ | pron | nt.nom.sg | this |  |
 | ussaheyya | verb | opt.3rd.sg | he would strive | √sah･1 a (overcome, prevail) |
 
+
 **If one would not arouse intention, one would not strive.**
+
 
 16. SN 47.10 <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yassa | pron | masc.dat.sg | for which |  |
 | khvāhaṃ | sandhi | - | indeed I |  |
@@ -482,11 +533,14 @@
 | attho | noun | masc.nom.sg | purpose, goal | √ar･1 a (move, attain) |
 | abhinipphanno | pp | masc.nom.sg (instr) | accomplished, fulfilled | √pad･3 ya (go, step) |
 
+
 **For whichever purpose I directed the mind, that purpose has definitely been accomplished by me.**
+
 
 17. AN 5.57 <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | maraṇadhammomhi | sandhi | - | I have a nature to die |  |
 | \#maraṇa | noun | nt | death | √mar･1 a (die) |
@@ -507,11 +561,14 @@
 | pabbajitena | noun | masc.instr.sg | by a renunciant | √vaj･1 a (go on) |
 | vā | ind | - | or |  |
 
+
 **"I am of the nature to die, I am not free from death," should be reflected on often by a woman or a man, a householder or a renunciant.**
+
 
 18. SNP 7 <br>ekajaṃ vā dvijaṃ vāpi,<br>yodha pāṇaṃ vihiṃsati,<br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ekajaṃ | adj | masc.acc.sg | once born (from mother) | kammadhāraya |
 | \#eka | adj | - | once |  |
@@ -539,11 +596,14 @@
 | vasalo | noun | masc.nom.sg | outcast, low caste |  |
 | iti | ind | - | "" |  |
 
+
 **Whoever here harms a living being, once born or even twice born,<br>who has no compassion for a living being, one should know him as an "outcast".**
+
 
 19. MN 3 <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yaṃnūnāhaṃ | sandhi | - | what if I were to |  |
 | \#yaṃ | pron | nt.nom.sg | what |  |
@@ -565,11 +625,14 @@
 | \#vītināmeyyaṃ | verb | opt.reflx.1st.sg | I could spend | √nam･1 \*e (bend) |
 | \#iti | ind | - | "" |  |
 
+
 **What if I were to eat this alms-food, get rid of hunger and weakness, and spend this night and day in this way.**
+
 
 20. AN 4.35 <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | neva | sandhi | - | neither |  |
 | \#na | ind | neg | not |  |
@@ -583,11 +646,14 @@
 | na | ind | neg | nor |  |
 | paṭikkosāmi | verb | pr.1st.sg | I reject, I disapprove | √kus･1 \*a (call, insult) |
 
+
 **Brahmin, I neither endorse nor disapprove of you.**
+
 
 21. DHP 62<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | puttā | noun | masc.nom.pl | sons |  |
 | matthi | sandhi |  | this are my (I have) |  |
@@ -611,7 +677,9 @@
 | kuto | ind | adv | let alone; not to mention |  |
 | dhanaṃ | noun | nt.nom.sg | wealth |  |
 
+
 **A fool suffers hardship, [thinking], 'I have sons, I have wealth'; He even does not own himself, let alone sons, let alone wealth.**
+
 
 
 
@@ -619,7 +687,8 @@
 
 1. DHP 389<br>na brāhmaṇassa pahareyya, n'āssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī y'assa muñcati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | brāhmaṇassa | noun | masc.dat.sg | to a brahmin | √brah×1 a (increase) |
@@ -639,11 +708,14 @@
 | \#assa | pron | masc.dat.sg | to him |  |
 | muñcati | verb | pr.3rd.sg (+dat) | gets angry (with) | √muc･2 ṃa (release, free) |
 
+
 **One should not strike a brahmin, (but) a brahmin should not get angry with that one (who hits him); woe on the striker of a brahmin! More woe on him, whoever gets angry with one (who hits him)!**
+
 
 2. MN 12<br>abhijānāmi kho pan'āhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī su'daṃ homi paramatapassī
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | abhijānāmi | verb | pr.1st.sg | I recall; clearly remember | √ñā･5 nā (know) |
 | kho | ind | emph | indeed; certainly |  |
@@ -669,11 +741,14 @@
 | \#parama | adj | masc | ultimate; superior |  |
 | \#tapassī | noun | masc.nom.sg | ascetic one | √tap･1 a (burn, radiate heat) |
 
+
 **And certainly, Sāriputta, I recall [that] I [was] an ascetic, one who practiced the spiritual path endowed with four components. Truly, I was that, a supreme ascetic.**
+
 
 3. DHP 338<br>yathā'pi mūle anupaddave daḷhe, <br>chinno'pi rukkho puna'r'eva rūhati, <br>evam'pi taṇh'ānusaye anūhate, <br>nibbattatī dukkham'idaṃ punappunaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yathā'pi | sandhi | adv+ind | just like; just as |  |
 | \#yathā | ind | adv | like |  |
@@ -708,11 +783,14 @@
 | \#punaṃ [ca] | ind | adv | again |  |
 | \#punaṃ [ca] | ind | adv | again |  |
 
+
 **Just as when a root is free from danger and strong, even if the tree is cut down, it grows again; similarly, when the underlying tendency of craving is not uprooted, suffering arises again and again.**
+
 
 4. VIN PAT SA 6 <br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā. tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | saññācikāya | noun | fem.instr.sg | acquired by one's own begging |  |
 | \#sayaṃ \> saṃ | ind | adv | by his own; himself |  |
@@ -734,9 +812,11 @@
 | \#idaṃ | pron | nt.nom.sg | this |  |
 | pamāṇaṃ | noun | nt.nom.sg | measure, standard | √mā･5 nā (measure) |
 
+
 **By a monk having a hut made by means of his own begged requisites, without an owner and intended for himself, (the hut) is to be made according to correct measurement. In this case, this is the measure:**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dīghaso | ind | adv | in length |  |
 | dvādasa | card | x nom.pl | twelve | dvanda |
@@ -751,11 +831,14 @@
 | \#satta | card | x nom.pl | seven |  |
 | \#antarā | ind | adv | inside |  |
 
+
 **Twelve spans of the sugata-span in length [and] seven [span] across inside.**
+
 
 5. DHP 407<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsapo'r'iva ār'aggā, tam'ahaṃ brūmi brāhmaṇaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yassa | pron | masc.dat.sg | for whom |  |
 | rāgo | noun | masc.nom.sg | desire | √raj･3 ya (desire) |
@@ -777,11 +860,14 @@
 | brūmi | verb | pr.1st.sg (+acc) | I call | √brū･1 a (say) |
 | brāhmaṇaṃ | noun | masc.acc.sg | brahmin | √brah×1 a (increase) |
 
+
 **[One] for whom desire and ill-will, conceit and denigrating are dropped (caused to fall), like a mustard seed from the tip of a needle - that one I call a brahmin.**
+
 
 6. SN 47.12<br>atha kiñ'carahi ty'āyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ek'aṃso gahito, sīhanādo nadito
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | atha | ind |  | and so |  |
 | kiñ'carahi | sandhi | pron+ind | what then? how is it? how then? |  |
@@ -804,12 +890,15 @@
 | \#nāda | noun | masc.nom.sg | a roar | √nad 1 a (to roar) |
 | nadito | pp | masc.nom.sg | roared, made a noise | √nad 1 a (to roar) |
 
+
 **So, how is it then, Sāriputta, that this lofty, imposing statement, taken as definite, has been spoken, (that) a lion's roar has been roared by you?**
+
 
 
 7. MN 18 <br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | esevanto | sandhi | - | just this is the end |  |
 | \#eso | pron | masc.nom.sg | this |  |
@@ -833,11 +922,14 @@
 | \#diṭṭhiyā | noun | fem.gen.sg | of view, belief, dogma | √dis･1 a (see) |
 | \#anusayānaṃ | noun | masc.gen.pl | of sleeping tendency | √sī･1 a (lie, sleep) |
 
+
 **Just this is the end of the latent tendencies to passion, just this is the end of the latent tendencies to aversion, just this is the end of the latent tendencies to view.**
+
 
 8. SNP 7 <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | disvāna | verb | abs | having seen | √dis･1 a (see) |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
@@ -860,5 +952,5 @@
 | \#tiṭṭhāhi | verb | imp.2nd.sg | stand! stay! remain! | √ṭhā･1 a (stand) |
 | \#iti | ind | - | "" |  |
 
-**As soon as he saw the Fortunate One he said, "Stay right there, baldy! Stay right there, low ascetic! Stay right there, outcast!"**
 
+**As soon as he saw the Fortunate One he said, "Stay right there, baldy! Stay right there, low ascetic! Stay right there, outcast!"**

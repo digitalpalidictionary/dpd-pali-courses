@@ -3,16 +3,21 @@
 **Translation Assignment**
 
 
+
 **Please do a word-by-word grammatical analysis and translation of the following paragraphs.**
+
 
 
 1\. AN 5.29 caṅkama-suttaṃ (paragraph 29)
 
 
+
 **"pañcime (pañca + ime), bhikkhave, caṅkame ānisaṃsā. katame pañca? addhānakkhamo (addhānassa + khamo) hoti, padhānakkhamo (padhānassa + khamo) hoti, appābādho (appo + ābādho) hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato (caṅkamena + adhigato) samādhi ciraṭṭhitiko hoti. ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.**
 
 
+
 "pañcime, bhikkhave, caṅkame ānisaṃsā.
+
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -22,43 +27,54 @@
 | caṅkame | noun | masc.loc.sg | in walking meditation; on walking up and down (lit: in regard to walking meditation) | √kam･1 a (go) |
 | ānisaṃsā | noun | masc.nom.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
 
+
 **"Monks, [there are] these five benefits of walking meditation.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | katame pañca? |  |  |  |  |
 | katame | pron | masc.nom.pl | which; what; which of the many |  |
 | pañca? | card | x.nom.pl | five |  |
 
+
 **Which five?**
+
 
 addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | addhāna- | noun | nt | of a long path, time, or journey |  |
 | khamo | adj | masc.nom.sg (+gen) | patient, enduring, bearing | √kham･1 a (tolerate, endure) |
 | hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 
+
 **he is able to endure a journey,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | padhāna- | noun | nt | exertion, energetic effort, striving, |  |
 | khamo | adj | masc.nom.sg (+gen) | enduring; patient, bearing |  |
 | hoti, | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 
+
 **he is capable of striving,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | appa- | adj |  | not many |  |
 | ābādho | noun | masc.nom.sg | affliction, illness, disease | √bādh･1 a (press, oppress) |
 | hoti | v | pr.3rd.sg | he is | √hū･1 a (be) |
 
+
 **he is healthy (lit: of not many illnesses)**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | asitaṃ | pp | nt.acc.sg | what has been eaten | √as･1 a (eat) |
 | pītaṃ | pp | nt.acc.sg | what has been drunk | √pā･1 a (drink) |
@@ -68,9 +84,11 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | pariṇāmaṃ | noun | masc.acc.sg | digestion |  |
 | gacchati, | v | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
 
+
 **what has been eaten, drunk, chewed, [and] tasted [is] gets digested thoroughly.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | caṅkama- | noun | masc. | walking meditation; walking up and down | √kam･1 a (go) |
 | adhigato | pp | masc.nom.sg | attained; obtained; understood. | √gam･1 a (go) |
@@ -78,11 +96,14 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | ciraṭṭhitiko | adj | masc.nom.sg | long-lasting; perpetual (lit: long-standing) |  |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
+
 **The stability of mind attained from walking meditation is long-lasting.**
+
 
 ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ime | pron | masc.nom.pl | these |  |
 | kho, | ind | emph | indeed |  |
@@ -92,19 +113,24 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 | ānisaṃsā | n | m.n.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
 | "ti | ind | endquote | "" |  |
 
+
 **Monks, these [are], indeed, the five benefits of walking meditation."**
 
 
+
 2\. AN 3.4 accaya-suttaṃ (paragraph 4)
+
 
 
 **"tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti (na + paṭikaroti), parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti (na + paṭiggaṇhāti). imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.**
 
 
 
+
 "tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tīhi | card | masc.instr.pl | with three |  |
 | bhikkhave, | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
@@ -113,28 +139,35 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 | bālo | noun | masc.nom.sg | fool |  |
 | veditabbo | ptp | masc.noun.sg | should be known | √vid･8 \*e (know, sense, feel) |
 
+
 **Monks, one endowed with three qualities should be known as a fool.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | katamehi tīhi? |  |  |  |  |
 | katamehi | pron | masc.instr.pl | with what; with which (of the many) |  |
 | tīhi | card | masc.instr.pl | with three |  |
 
+
 **With which three?**
+
 
 accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | accayaṃ | noun | masc.acc.sg | fault | √i･1 a (come, go) |
 | accayato | noun | masc.abl.sg | as fault | √i･1 a (come, go) |
 | na | ind | neg | not |  |
 | passati | verb | pr.3rd.sg | he sees | √dis･1 a (see) |
 
+
 **He does not see a fault as a fault.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | accayaṃ | noun | masc.acc.sg | fault | √i･1 a (come, go) |
 | accayato | noun | masc.abl.sg | as fault | √i･1 a (come, go) |
@@ -144,9 +177,11 @@ accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappa�
 | na- | ind | neg | not |  |
 | paṭikaroti, | verb | pr.3rd.sg (+acc) | redress, fix, make amends | √kar･7 o (do, make) |
 
+
 **Having understood a fault as a fault, he does not redress it in accordance with the Doctrine.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | parassa | pron | masc.gen.sg (gen abs) | when another |  |
 | kho | ind | ind | indeed |  |
@@ -158,28 +193,36 @@ accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappa�
 | na- | ind | neg | not |  |
 | paṭiggaṇhāti | verb | pr.3rd.sg | takes; receives; accepts | pati + √gah･6 ṇhā (grasp) |
 
+
 **Indeed, when another person is pointing out a fault, he does not accept [it] in accordance with the Doctrine.**
+
 
 imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | imehi | pron | masc.instr.pl | with these |  |
 | kho, | ind | emph | indeed; certainly |  |
 
+
 **Certainly, monks, one possessing these three qualities should be known as a fool.**
 
 
+
 3\. AN 5.198 vācā-suttaṃ (paragraph 198)
+
 
 
 "pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ. katamehi pañcahi? kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti. imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.
 
 
 
+
 "pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pañcahi | card | x.instr.pl | with five |  |
 | bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
@@ -196,19 +239,24 @@ imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 | ca | ind | conj | and |  |
 | viññūnaṃ. | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
 
+
 **Monks, speech endowed with five factors is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | katamehi pañcahi? |  |  |  |  |
 | katamehi | pron | masc.instr.pl | with what; with which (of the many) |  |
 | pañcahi? | card | x.instr.pl | with five |  |
 
+
 **With which five?**
+
 
 kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kālena | ind | adv | at the proper time; at the right moment. | √kal×8 \*e (spend time) |
 | ca | ind | conj | and |  |
@@ -233,11 +281,14 @@ kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti,
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
 | hoti. | v | pr.3rd.sg | it is | √hū･1 a (be) |
 
+
 **It is (speech) spoken at the proper time, it is spoken truthfully, it is spoken gently, it is spoken beneficially, it is spoken with a friendly mind.**
+
 
 imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | imehi | pron | masc.instr.pl | with these |  |
 | kho | ind | emph | indeed |  |
@@ -256,25 +307,32 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | ca | ind | conj | and |  |
 | viññūnan"ti | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
 
+
 **Indeed, monks, speech endowed with these five qualities is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.**
+
 
 
 4\. SN 12.15 kaccānagotta-suttaṃ
 
 
+
 "‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?
 
 
+
 "dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca. lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti. lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti. upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena. taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ na upeti na upādiyati n'ādhiṭṭhāti — ‘attā me'ti. ‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti. ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
+
 
 
 "‘sabbaṃ atthī'ti kho, kaccāna, ayaṃ eko anto. ‘sabbaṃ n'atthī'ti ayaṃ dutiyo anto. ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
 
 
 
+
 "‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sammādiṭṭhi | noun | fem.nom.sg | right view |  |
 | sammādiṭṭhī'ti | noun | fem.nom.sg +endquote | right view" |  |
@@ -287,11 +345,14 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | sammādiṭṭhi | noun | fem.nom.sg | right view |  |
 | hoti"ti | verb | pr.3rd.sg + endquote | there is | √hū･1 a (be) |
 
+
 **Venerable sir, it is said, "right view, right view." In what way, venerable sir, is there truly "right view?"**
+
 
 "dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dvayanissito | adj | masc.nom.sg | dependent on two things; dependent on a duality |  |
 | kho | ind | emph | indeed |  |
@@ -305,11 +366,14 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | n'atthitaṃ | noun | fem.acc.sg | the idea of non-existence (lit: there is not state) |  |
 | ca | ind | conj | and |  |
 
+
 **This world, Kaccāna, for the most part [is] dependent on a duality–on the idea of existence as well as the ideal of non-existence.**
+
 
 lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | lokasamudayaṃ | noun | masc.acc.sg | the source of the world |  |
 | kho | ind | emph | but; certainly |  |
@@ -324,11 +388,14 @@ lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke
 | na | ind | neg | not |  |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
+
 **Certainly, for one seeing the source of the world as it truly is with correct understanding there is not that idea of non-existence in regard to the world.**
+
 
 lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | lokanirodhaṃ | noun | masc.acc.sg | the cessation of the world |  |
 | kho | ind | emph | indeed |  |
@@ -343,11 +410,14 @@ lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke 
 | na | ind | neg | not |  |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
+
 **Indeed, for one seeing the cessation of the world as it really is with perfect wisdom, there is not that idea of existence in regard to the world.**
+
 
 upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | upayupādānābhinivesavinibandho | adj | masc.nom.sg | attached to engaging, grasping, and clinging |  |
 | kho | ind | emph | certainly |  |
@@ -356,11 +426,14 @@ upayupādānābhinivesavinibandho kho ayaṃ, kaccāna, loko yebhuyyena.
 | loko | noun | masc.nom.sg | the world | √lok･8 \*e (look) |
 | yebhuyyena | ind | adv | generally; for the most part |  |
 
+
 **Certainly, Kaccāna, this world is for the most part attached to engaging, grasping, and clinging.**
+
 
 taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ na upeti na upādiyati n'ādhiṭṭhāti — ‘attā me'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | masc.acc.sg | that |  |
 | ca | ind | ind | but |  |
@@ -377,11 +450,14 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | attā | noun | masc.nom.sg | self |  |
 | me'ti | pron | 1st.gen.sg <br>+endquote | my" |  |
 
+
 **But this (person) does not grasp, does not get involved, with engagement and grasping, mental standpoint, adherence and underlying tendency, he does not take a stand "(this is) my self."**
+
 
 ‘dukkhaṃ eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparapaccayā ñāṇaṃ eva assa ettha hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dukkhaṃ | noun | nt.nom.sg | suffering | √cit･8 \*e (think, intend) |
 | eva | ind | emph | only |  |
@@ -391,9 +467,11 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | nirujjhamānaṃ | prp | nt.nom.sg | ceasing | √rudh･2 ya (obstruct) |
 | nirujjhatī'ti | verb | pr.3rd.sg +endquote | ceases | √rudh･2 ya (obstruct) |
 
+
 **Arise is only arising suffering, cease is (only) ceasing suffering.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not; no |  |
 | kaṅkhati | verb | pr.3rd.sg +loc | has uncertainty | √kaṅkh･1 a (doubt) |
@@ -406,11 +484,14 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | ettha | ind | adv | in this case |  |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
+
 **He has no uncertainty, he has no doubt. He has knowledge in this case exclusively independent of others.**
+
 
 ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ettāvatā | ind | adv | to this extent |  |
 | kho | ind | emph | indeed; truly |  |
@@ -418,11 +499,14 @@ ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 | sammādiṭṭhi | noun | fem.nom.sg | right view |  |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
+
 **Truly, Kaccāna, to this extent there is right view.**
+
 
 "‘sabbaṃ atthī'ti kho, kaccāna, ayaṃ eko anto.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sabbaṃ | pron | nt.nom.sg | all, everything |  |
 | atthī'ti | verb | pr.3rd.sg +endquote | there is; there exists" | √as･1 a (be) |
@@ -432,11 +516,14 @@ ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 | eko | card | masc.nom.sg | one |  |
 | anto | noun | masc.nom.sg | extreme, end |  |
 
+
 **"Everything exists," Kaccāna: this is one extreme.**
+
 
 ‘sabbaṃ n'atthī'ti ayaṃ dutiyo anto.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sabbaṃ | pron | nt.nom.sg | all, everything |  |
 | n'atthī'ti | verb | pr.3rd.sg +neg<br>+endquote | there is not; it does not exist | √as･1 a (be) |
@@ -444,11 +531,14 @@ ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 | dutiyo | ordin | masc.nom.sg | the second |  |
 | anto | noun | masc.nom.sg | extreme, end |  |
 
+
 **"Everything does not exist": this is the second extreme.**
+
 
 ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ete | pron | masc.acc.pl | these |  |
 | te | pron | masc.acc.pl | them; those |  |
@@ -460,5 +550,6 @@ ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
 | tathāgato | noun | masc.nom.sg | the Tathāgata (the Thus- Gone; Such Become) | √dhar･1 a (hold, carry, endure) |
 | dhammaṃ | noun | masc.acc.sg | the doctrine |  |
 | deseti | verb | pr.3rd.sg | teaches | √dis･1 \*e (point out, explain) |
+
 
 **Avoiding both these extremes, Kaccāna, the Tathāgata teaches the doctrine by means of the middle.**

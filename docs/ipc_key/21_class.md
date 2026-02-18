@@ -3,9 +3,11 @@
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
 
 
+
 1. SNP 13<br>yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhim'ānantarikañ'ñam'āhu.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yaṃ | pron | masc.acc.sg | which |  |
 | buddhaseṭṭho | noun | masc.nom.sg | supreme Buddha; foremost Buddha | kammadhāraya |
@@ -19,11 +21,14 @@
 | \#yaṃ | pron | nt.nom.sg | that which |  |
 | \#āhu | verb | perf.3rd.pl | they say[^18] | √ah･1 a (speak) |
 
+
 **The foremost Buddha extolled pure stillness of the mind, which they say with immediate results.**
+
 
 2. SNP 13<br>khayaṃ virāgaṃ amataṃ paṇītaṃ, yad'ajjhagā sakyamunī samāhito.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | khayaṃ | noun | masc.acc.sg | wearing away; exhaustion | √khī･1 a (destroy, exhaust) |
 | virāgaṃ | noun | masc.acc.sg | dispassion; the fading of desire | √raj･3 ya (desire) |
@@ -37,11 +42,14 @@
 | \#munī | noun | masc.nom.sg | the sages | √mun･5 nā (think, know) |
 | samāhito | pp | masc.nom.sg | composed; settled; concentrated | √dhā･1 a (place, support) |
 
+
 **The wearing away, the dispassion, the deathless, the sublime (or sublime deathless) which the concentrated Sakyan sage attained…**
+
 
 3. SNP 22<br>khaṇo vo mā upaccagā, khaṇ'ātītā hi socanti, nirayamhi samappitā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | khaṇo | noun | masc.nom.sg | the moment; the opportunity |  |
 | vo | pron | 2nd.instr.pl | by you |  |
@@ -55,11 +63,14 @@
 | nirayamhi | noun | masc.loc.sg | in hell | √i･1 a (come, go) |
 | samappitā | pp | masc.nom.pl (+loc) | ended up (in); consigned (to); delivered (to); | √ar･1 \*āpe (move, attain) |
 
+
 **Don't let the opportunity pass by; they who have missed the chance are consigned to hell [and] sorrow over [it].**
+
 
 4. AN 4.67<br>sabbe sattā sabbe pāṇā, sabbe bhūtā ca kevalā. <br>sabbe bhadrāni passantu, mā kiñci pāpam'āgamā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sabbe | pron | masc.nom.pl | all |  |
 | sattā | noun | masc.nom.pl | beings; creatures | √as･1 a (be) |
@@ -78,11 +89,14 @@
 | \#pāpaṃ | noun | nt.nom.sg | evil action |  |
 | \#āgamā | verb | imperf.3rd.sg +acc | came | √gam･1 a (go) |
 
+
 **May all creatures, all living beings, all existing entities, all of them, may they all encounter good fortune and may not any evil come to (them).**
+
 
 5. SNP 41<br>yo attano sīlavatāni jantu, anānupuṭṭho'va paresa pāva, anariyadhammaṃ kusalā tam'āhu, yo ātumānaṃ sayam'eva pāva.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yo | pron | masc.nom.sg | whoever |  |
 | attano | noun | masc.gen.sg | one's own |  |
@@ -109,11 +123,14 @@
 | \#eva | ind | emph | just |  |
 | pāva | verb | perf.3rd.sg | spoke; boasted about | √vad･1 a (say, speak) |
 
+
 **A person who, unasked, boasts to others about his virtues and practices, the masters call him [one of] ignoble nature, who boasts about himself just on his own accord.**
+
 
 6. MN 79<br>appevanām'imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā'ti
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | appevanām'imassa | sandhi |  | it would be good if of this |  |
 | \#appevanāma | sandhi |  | it would be good if; perhaps; hopefully; if only |  |
@@ -132,11 +149,14 @@
 | \#paññāyetha | verb | opt. (reflex) 3rd.sg | it could be discerned, would be apparent, lit. make itself known | √ñā･5 ya (know) |
 | \#ti | ind | quotation mark | "" |  |
 
+
 **"If only the ending of this whole mass of suffering would be apparent. (lit. make itself known)"**
+
 
 7. AN 10.44<br>"iṅgha tāva āyasmā kāyikaṃ sikkhassū"ti, iti'ssa bhavanti vattāro.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | iṅgha | ind | excl | please! come on! |  |
 | tāva | ind | adv | that much; to that extent; first |  |
@@ -151,11 +171,14 @@
 | bhavanti | verb | pr.3rd.pl | there are | √bhū･1 a (be, become) |
 | vattāro | agent noun | masc.nom.pl | they who say; who speak[^21] | √vac･1 a (say, speak) |
 
+
 **"Please, Venerable, first you should train yourself bodily", there will be those who say thus to him.**
+
 
 8. SNP 70<br>evaṃ abhikkantadassāviṃ, atthi pañhena āgamaṃ, <br>kathaṃ lokaṃ avekkhantaṃ, maccurājā na passati.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evaṃ | ind | adv | thus; such |  |
 | abhikkantadassāviṃ | adj | masc.acc.sg | of excellent vision | kammadhāraya |
@@ -173,30 +196,39 @@
 | na | ind | neg | not |  |
 | passati | verb | pr.3rd.sg | sees | √dis･1 a (see) |
 
+
 **I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^22] [so that ] the king of death does not see [him]?**
+
 
 
 **[^18]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)".**
 
 
+
 **Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.**
+
 
 
 **[^19]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.**
 
 
+
 **[^20]: Slightly different is Cone: "putting an end to; destruction"**
+
 
 
 **[^21]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."**
 
 
+
 **[^22]: Lokaṁ avekkhantaṁ is object in the acc. for passati, which seems almost untranslatable in English.**
+
 
 
 9. SN 1.31<br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatin'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sabbhireva | - | - | just the virtuous |  |
 | \#sabbhi | noun | masc.instr.pl | with virtuous people | √as･1 a (be) |
@@ -213,11 +245,14 @@
 | gacchanti | verb | pr.3rd.pl | they go | √gam･1 a (go) |
 | suggatin'ti | noun | masc.acc.sg | good place | √gam･1 a (go) |
 
+
 **One should associate oneself just with the virtuous,<br>one should make oneself intimate with the virtuous,<br>having understood the true teaching of the virtuous,<br>beings go (on) to a good destination.**
+
 
 10. UD 5.10<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ṭhitena | pp | masc.instr.sg | with stationary, steady | √ṭhā･1 a (stand) |
 | kāyena | noun | masc.instr.sg | with body | √ci･5 nā (gather, accumulate) |
@@ -245,11 +280,14 @@
 | \#rājassa | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
 | gacche'ti | verb | opt.3rd.sg | he could go | √gam･1 a (go) |
 
+
 **With stationary body, with stationary mind, <br>standing or sitting or lying down,<br>a monk focusing on this mindfulness,<br>could get successive attainments,<br>having obtained successive attainments,<br>he could go out of the king of death's sight.**
+
 
 11. KHP 9<br>na paro paraṃ **nikubbetha**,<br>**n'ātimaññetha** katthaci naṃ kiñci,<br>byārosanā paṭighasaññā,<br>nāññamaññassa **dukkhamiccheyya**.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | paro | pron | masc.nom.sg | one person |  |
@@ -273,11 +311,14 @@
 | \#dukkhaṃ | noun | nt.acc.sg | suffering | √dukkh･1 a (be painful) |
 | \#iccheyya | verb | opt.3rd.sg | he should wish | √is･1 a (wish for) |
 
+
 **One should not cheat another, <br>nor despise anywhere anyone,<br>out of anger and dislike, <br>one should not wish suffering for another.**
+
 
 12. AN 2.19 <br>kusalaṃ, bhikkhave, **bhāvetha**. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā **abhavissa** kusalaṃ bhāvetuṃ, nāhaṃ evaṃ **vadeyyaṃ**, 'kusalaṃ, bhikkhave, **bhāvethā**'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kusalaṃ | noun | nt.acc.sg | the good, merit |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -302,11 +343,14 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhāvethā'ti | verb | imp.2nd.pl | you all must cultivate; develop | √bhū･1 \*e (be, become) |
 
+
 **You all must develop skillful qualities (lit: the good), monks. It is possible to develop skillful qualities. If it would not be possible to develop skillful qualities, I myself would not say this, "Monks, develop skillful qualities."**
+
 
 13. AN 3.39 <br>ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā **aṭṭīyeyyaṃ** **harāyeyyaṃ** **jiguccheyyaṃ** na metaṃ assa patirūpan'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ahañceva | - | - | if I just |  |
 | \#ahaṃ | pron | 1st.nom.sg | I |  |
@@ -335,11 +379,14 @@
 | assa | verb | pot.3rd.sg | it would be | √as･1 a (be) |
 | patirūpan'ti | adj | nt.nom.sg | "…suitable, proper" | patirūpan'ti |
 
+
 **"And if I, being of a nature to get old, who is not exempt from old age, would see another old person and would become troubled, ashamed and disgusted, this would not be suitable for me".**
+
 
 14. UD 5.10 <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | addasā | verb | imperf.3rd.sg | he saw | √dis･1 a (see) |
 | kho | ind | - | indeed |  |
@@ -359,11 +406,14 @@
 | satiṃ | noun | fem.acc.sg | mindfulness | √sar･1 a (remember) |
 | upaṭṭhapetvā | verb | abs | having set up; having made sure is present | √ṭhā･1 \*āpe (stand) |
 
+
 **The Blessed One saw Venerable Cūḷapanthaka seated nearby, having folded (his legs) into sitting posture, directing his body upright, having set up mindfulness to the fore.**
+
 
 15. ITI 87<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**'ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tayo | adj | masc.acc.pl | three |  |
 | vitakke | noun | masc.acc.pl | thoughts | √takk･8 \*e (think) |
@@ -394,11 +444,14 @@
 | santipadaṃ | noun | nt.acc.sg | peaceful state, path of peace |  |
 | samajjhagā'ti | verb | imperf.3rd.sg | he has obtained | √gam･1 a (go) |
 
+
 **One should think three skilful thoughts,<br>and one should reject three unskilful ones.<br>One stills thoughts and plans,<br>like the rain (stills) raised dust.<br>With a mind with thought calmed,<br>right here one has obtained that state of peace.**
+
 
 16. SN 11.24 <br>tena kho pana samayena dve bhikkhū sampayojesuṃ, tatreko bhikkhu **accasarā**, atha kho so bhikkhu tassa bhikkhuno santike accayaṃ accayato deseti, so bhikkhu nappaṭiggaṇhāti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tena samayena | ind | - | at that time |  |
 | kho | ind | - | truly |  |
@@ -424,7 +477,9 @@
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | nappaṭiggaṇhāti | verb | pr.3rd.sg | he does not accept | √gah･6 ṇhā (grasp) |
 
+
 **And at that time two monks quarreled. There, one monk transgressed. Then that monk confessed his fault in the presence of that (other) monk, (but) that monk does not accept (his apology).**
+
 
 
 
@@ -432,7 +487,8 @@
 
 1. SN.2.8 (Dhp 313)<br>kayirā ce, kayirāth'enaṃ, daḷham'enaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kayirā | verb | opt.3rd.sg | one should do | √kar･7 o (do, make) |
 | ce | ind | cond | if |  |
@@ -444,9 +500,11 @@
 | \#enaṃ | pron | nt.acc.sg | it; this |  |
 | parakkame | verb | opt.3rd.sg | should make an effort; endeavour | √kam･1 a (go) |
 
+
 **If one should do (something), one should do it by oneself, one should endeavour vigorously.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | sithilo | adj | masc.nom.sg | loose; lax |  |
 | hi | ind | emph | indeed; (or) because |  |
@@ -455,11 +513,14 @@
 | ākirate | verb | pr. (reflex)<br>3rd.sg | stirs up for himself; heap up | √kir･1 a (scatter, sprinkle) |
 | rajaṃ | noun | masc.acc.sg | defilement, impurity | √raj･1 a (colour) |
 
+
 **A wandering monk [who is] lax would certainly stir up for himself more defilement.<br>(or)<br>A wandering monk, because (he is) lax, would stir up for himself more defilement.**
+
 
 2. TH 251<br>na dīgham'āyuṃ labhate dhanena, na c'āpi vittena jaraṃ vihanti. appaṃ h'idaṃ jīvitam'āhu dhīrā, asassataṃ vippariṇāmadhammaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | dīgham'āyuṃ | noun | nt.acc.sg | long life | kammadhāraya |
@@ -475,9 +536,11 @@
 | jaraṃ | noun | masc.acc.sg | old age | √jar･1 a (age) |
 | vihanti | verb | pr.3rd.sg | ward off; banish | √han･1 a (strike, kill) |
 
+
 **Not by means of wealth does one get oneself a long life and not even by means of possessions does one banish old age.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | appaṃ | adj | nt.acc.sg | short |  |
 | h'idaṃ | sandhi |  | this indeed |  |
@@ -492,11 +555,14 @@
 | \#vippariṇāma | adj | masc. | of changing | √nam･1 a (bend) |
 | \#dhammaṃ | noun | masc.acc.sg | the nature | √dhar･1 a (hold, carry, endure) |
 
+
 **The sages say this life is indeed short, not eternal, and having the nature of changing (i.e. is changeable in nature).**
+
 
 3. VIN PAT NP 10<br>yuñjant'āyasmanto sakaṃ, mā vo sakaṃ vinassā"ti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yuñjant'āyasmanto | sandhi |  | the venerable must try (to) (get back) |  |
 | \#yuñjantu | verb | imp.3rd.pl | let get back; may regain | √yuj･2 ṃa (yoke, join) |
@@ -509,12 +575,15 @@
 | \#vinassa | verb | imp.2nd.sg | got lost; perished | vi√nas･3 ya (be lost, disappear) |
 | \#ti | ind | quotation mark | "" |  |
 
+
 **"Let the venerables regain what is your own; do not let what is your own get lost."**
+
 
 
 4. SNP 46 <br>visenikatvā pana ye caranti,<br>diṭṭhīhi diṭṭhiṃ avirujjhamānā,<br>tesu tvaṃ kiṃ **labhetho** pasūra,<br>yesīdha natthī paramuggahītaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | visenikatvā | verb | abs | having disarmed; not opposing; at peace; |  |
 | \#viseni | fem |  | disarming; not opposing |  |
@@ -537,5 +606,6 @@
 | paramuggahītaṃ | - | - | grasped as supreme |  |
 | \#parama | pron | - | highest |  |
 | \#uggahitaṃ | pp | nt.nom.sg | grasped | √gah･6 ṇhā (grasp) |
+
 
 **They wander around at peace, not opposing a view with views. In them, what could you get yourself, Pasura, in whom there is nothing grasped as the highest.**

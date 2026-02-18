@@ -2,6 +2,7 @@
 
 1. MN 4 <br>anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ - ekam'pi jātiṃ dve'pi jātiyo tisso'pi jātiyo catasso'pi jātiyo pañca'pi jātiyo dasa'pi jātiyo vīsam'pi jātiyo tiṃsam'pi jātiyo cattālīsam'pi jātiyo paññāsam'pi jātiyo jātisatam'pi jātisahassam'pi jātisatasahassam'pi
 
+
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | anekavihitaṃ | adj | masc.acc.sg | many different |  |
@@ -26,11 +27,14 @@
 | jātisahassam'pi | noun | nt.acc.sg | just one thousand births |  |
 | jātisatasahassam'pi | noun | nt.acc.sg | just one hundred thousand births |  |
 
+
 **I recollected manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births**
+
 
 2. MN 16 <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | pron+adv+ind | just like |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -43,11 +47,14 @@
 | dvādasa | card | x.nom.pl | twelve |  |
 | vā | ind | - | or |  |
 
+
 **Imagine if, monks, there could be hen's eggs, eight or ten or twelve.**
+
 
 3. UD 45 <br>seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso, <br>evam'eva kho, bhikkhave, ayaṃ dhammavinayo ekaraso vimuttiraso
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | pron+adv+ind | just like |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -55,9 +62,11 @@
 | ekaraso | adj | masc.nom.sg | having one taste; with a single flavour |  |
 | loṇaraso | adj | masc.nom.sg | salty; salt-flavoured; briny |  |
 
+
 **Monks, just as the great ocean has one taste, the taste of salt**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evameva kho | ind | adv+ind+ind | in the same way; likewise |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -66,20 +75,25 @@
 | ekaraso | adj | masc.nom.sg | having one taste; with a single flavour |  |
 | vimuttiraso | adj | masc.nom.sg | with the taste of liberation |  |
 
+
 **Likewise, monks, this teaching and training has one taste, the flavour of liberation.**
+
 
 4. SN 1.37 <br>ekaṃ samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeh'eva arahantehi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ekaṃ samayaṃ | ind | idiom | at one time; on one occasion |  |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | sakkesu | noun | masc.loc.pl | among the Sakyans | √sak･4 ṇo (be able, powerful) |
 | viharati | verb | pr.3rd.sg | he lives; dwells | √har･1 a (live) |
 
+
 **On one occasion, the Blessed One was dwelling among the Sakyans**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | bhikkhusaṅghena | noun | masc.instr.sg | with a community of monks |  |
 | saddhiṃ | ind | prep | together with |  |
@@ -89,11 +103,14 @@
 | eva | ind | emph | just, only; exclusively |  |
 | arahantehi | noun | masc.instr.pl | with deserving ones; worthy ones | √arah･1 a (deserve, be worthy) |
 
+
 **with a community of monks, five hundred monks, all exclusively arahants.**
+
 
 5. AN 1.12 <br>n'āhaṃ, bhikkhave, aññaṃ ekadhammam'pi samanupassāmi yena anuppanno byāpādo uppajjati, yathayidaṃ, bhikkhave, paṭighanimittaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | na | ind | neg | not |  |
 | ahaṃ | pron | 1st.nom.sg | I |  |
@@ -103,27 +120,34 @@
 | ‘pi | ind | ind | even |  |
 | samanupassāmi | verb | pr.1st.sg | I see | √dis･1 a (see) |
 
+
 **I don't see even one single other thing, monks**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yena | ind | adv | because of which |  |
 | an-uppanno | pp | masc.nom.sg | unarisen |  |
 | byāpādo | noun | masc.nom.sg | ill-will, dislike | √pad･3 ya (go, step) |
 | uppajjati | verb | pr.3rd.sg | it arises | √pad･3 ya (go, step) |
 
+
 **because of which unarisen ill-will arises**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yathā-idaṃ | ind | adv | like, such as this |  |
 | paṭigha-nimittaṃ | noun | nt.nom.sg | conflict-image; disliked image [in the mind] |  |
 
+
 **such as a disliked image.**
+
 
 6. SN 56.14 <br>cattāri imāni, bhikkhave, ariyasaccāni. katamāni cattāri?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cattāri | card | nt.nom.pl | four |  |
 | imāni | pron | nt.nom.pl | these |  |
@@ -132,11 +156,14 @@
 | katamāni | pron | nt.nom.pl | which? what? |  |
 | cattāri? | card | nt.nom.pl | four |  |
 
+
 **Monks, [there are] these four noble truths, which four?**
+
 
 7. SN 12.63 <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kabaḷīkāro | adj | masc.nom.sg | material; physical; edible |  |
 | āhāro | noun | masc.nom.sg | food | √har･1 a (take, seize) |
@@ -145,33 +172,42 @@
 | sukhumo | adj | masc.nom.sg | refined, subtle |  |
 | vā | ind |  | or |  |
 
+
 **heavy or refined edible food**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | phasso | noun | masc.nom.sg | sense contact | √phus･1 a (touch) |
 | dutiyo | ordin | masc.nom.sg | second |  |
 
+
 **sense contact is the second**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | mano- | noun | masc.nom.sg | mind, heart | √man･3 ya (think) |
 | sañcetanā | noun | fem.nom.sg | intention, volition | √cit･8 \*e (think, intend) |
 | tatiyā, | ordin | fem.nom.sg | third |  |
 
+
 **mental volition is the third**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | viññāṇaṃ | noun | nt.nom.sg | consciousness, awareness, sentience | √ñā･5 nā (know) |
 | catutthaṃ | ordin | nt.nom.sg | fourth |  |
 
+
 **consciousness is the fourth**
+
 
 8. UD 45 <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye chaṭṭho acchariyo abbhuto dhammo
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ayaṃ | pron | masc.nom.sg | this |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -182,11 +218,14 @@
 | abbhuto | adj | masc.nom.sg | marvelous, amazing |  |
 | dhammo | noun | masc.nom.sg | quality | √dhar･1 a (hold, carry, endure) |
 
+
 **Monks, this is the sixth wonderful and amazing quality in this Dhamma and Vinaya.**
+
 
 9. DN 13.8 <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
 | mettā- | noun | fem | friendliness | √mitt･1 a (be friendly) |
@@ -197,9 +236,11 @@
 | pharitvā | verb | abs | having pervaded | √phar･1 a (suffuse, pervade) |
 | viharati | verb | pr.3rd.sg | he remains, dwells | √har･1 a (live) |
 
+
 **He dwells/abides having pervaded one direction with a mind accompanied by loving-kindness.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tathā | ind | adv | like this, likewise |  |
 | dutiyaṃ | adj | fem.acc.sg | the second (direction) |  |
@@ -208,22 +249,28 @@
 | tathā | ind | adv | like this, likewise |  |
 | catutthaṃ | adj | fem.acc.sg | the fourth (direction) |  |
 
+
 **Likewise, the second, third and fourth.**
+
 
 10. DN 9.6 <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | eke | adj | masc.nom.pl | some |  |
 | samaṇabrāhmaṇā | noun | masc.nom.pl | ascetics and Brahmans; monks and priests |  |
 | evaṃvādino | adj | masc.nom.pl | who hold the view; lit. speaking thus |  |
 | evaṃdiṭṭhino | adj | masc.nom.pl | of the opinion; of such view |  |
 
+
 **Some monks and brahmins who speaking thus, holding such view…**
+
 
 11. SN 36.22 <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aṭṭhārasa | card | x.nom.pl | eighteen |  |
 | api (pi) | ind | ind | too; also |  |
@@ -232,9 +279,11 @@
 | vuttā | pp | fem.nom.pl | spoken; said; mentioned | √vac･1 a (say, speak) |
 | pariyāyena | ind | adv | in one way; by a method of presentation |  |
 
+
 **I have spoken [of] eighteen feelings in one way,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | chattiṃsa | card | fem.nom.pl | thirty-six |  |
 | api | ind | ind | too; also |  |
@@ -243,9 +292,11 @@
 | vuttā | pp | fem.nom.pl | spoken; mentioned | √vac･1 a (say, speak) |
 | pariyāyena | noun | masc.instr.sg | by a method of presentation | √i･1 a (come, go) |
 
+
 **also I have spoken of thirty-six feelings by [another] way,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | aṭṭhasataṃ | card | nt.nom.sg | one hundred and eight |  |
 | api | ind | ind | too; also |  |
@@ -254,11 +305,14 @@
 | vuttā | pp | fem.nom.pl | spoken | √vac･1 a (say, speak) |
 | pariyāyena | noun | masc.instr.sg | by a method of presentation | √i･1 a (come, go) |
 
+
 **also I have spoken of one hundred and eight feelings by [another] way.**
+
 
 12. SN 56.11 (simpl)<br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yāvakīvañ'ca | ind | adv+adv+ind | and as long as |  |
 | me | pron | 1st.dat.sg | for me |  |
@@ -278,11 +332,14 @@
 | suvisuddhaṃ | adj | nt.nom.sg | completely pure; perfectly purified | √sudh･3 ya (be pure) |
 | ahosi | verb | aor.3rd.sg | was | √hū･1 a (be) |
 
+
 **Monks, as long as for me, knowledge and vision were not perfectly purified with regard to the Four Noble Truths as they truly are in [their] three phases together with [their] twelve aspects….**
+
 
 13. VIN PAT SA 11 <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg | of that |  |
 | eva | ind | ind | just; only |  |
@@ -301,11 +358,14 @@
 | evaṃ | ind | adv | thus |  |
 | vadeyyuṃ | verb | opt.3rd.pl | should say | √vad･1 a (say, speak) |
 
+
 **But now there are monks who are followers of just that monk, [and] who are proponents of [his] faction – one or two or three – [and] they should say thus…**
+
 
 14. SN12.2 <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | cattāro | card | masc.nom.pl | four |  |
 | ca | ind | conj | and |  |
@@ -319,11 +379,14 @@
 | vuccati | verb | pr.3rd.sg | is called | √vac･1 ya (say, speak) |
 | rūpaṃ | noun | nt.nom.sg | material form | √rūp･8 \*e (form, produce) |
 
+
 **The four great elements and the material form derived from the four great elements; this is called material form.**
+
 
 15. SN 11.3 <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | yad'idaṃ | sandhi | pron+pron | that is; namely |  |
 | cattāri | card | nt.nom.pl | four |  |
@@ -334,11 +397,14 @@
 | bhagavato | noun | masc.gen.sg | of the Blessed One | √bhaj･1 a (divide, distribute) |
 | sāvakasaṅgho | noun | masc.nom.sg | community of disciples |  |
 
+
 **This is the community of disciples of the Blessed One, namely, the four pairs of persons, the eight individuals.**
+
 
 16. DN 14.14 <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evam'eva | sandh | adv+ind | similarly; in the same way |  |
 | tesaṃ | pron | masc.dat.pl | for those |  |
@@ -353,11 +419,14 @@
 | dhammacakkhuṃ | noun | nt.nom.sg | understanding of the way things are; insight into the nature of reality; lit. Dhamma eye |  |
 | udapādi | verb | aor.3rd.sg | arose | √pad･3 ya (go, step) |
 
+
 **Similarly, spotless, untainted insight into the nature of reality arose for those eighty-four thousand beings just in that place.**
+
 
 17. AN 10.8 <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | imehi | pron | masc.instr.pl | with these |  |
 | kho | ind | emph | indeed; surely |  |
@@ -372,11 +441,14 @@
 | sabb'ākāraparipūro | adj | masc.nom.sg | complete in every aspect |  |
 | ca | ind | conj | and |  |
 
+
 **Surely, a monk endowed with these ten qualities is one who inspires confidence in every way and complete in every aspect.**
+
 
 18. AN 10.61 <br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | pañca | card | x.acc.pl | five |  |
 | ahaṃ | pron | 1st.nom.sg | I |  |
@@ -386,9 +458,11 @@
 | no | ind | neg | not |  |
 | anāhāre | adj | masc.acc.pl | without fuel; nutriment | √har･1 a (take, seize) |
 
+
 **I speak of five hindrances with nutriment, [they are] not without nutriment.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ko | pron | masc.nom.sg | what |  |
 | ca | ind | conj | and |  |
@@ -398,11 +472,14 @@
 | tīṇi | card | nt.nom.pl | three |  |
 | duccaritāni | noun | nt.nom.pl | misconducts | √car･1 a (act, behave) |
 
+
 **And what is the nutriment of the five hindrances? The three [kinds of] misconduct.**
+
 
 19. SN 12.63 (simpl) <br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | taṃ | pron | nt.acc.sg | that |  |
 | kiṃ | pron | nt.acc.sg | what? |  |
@@ -420,11 +497,14 @@
 | domanassaṃ | noun | nt.acc.sg | distress | √man･3 ya (think) |
 | paṭisaṃvediyeyya | verb | opt.3rd.sg | he would experience | √vid･8 \*aya (know, sense, feel) |
 
+
 **"What do you think? Wouldn't that man, being struck during the day with three hundred spears, experience suffering and distress on that account?"**
+
 
 20. AN 4.67 <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | namo | ind | excl (+dat) | homage | √nam･1 a (bend) |
 | bhagavato | noun | masc.dat.sg | to the Blessed One | √bhaj･1 a (divide, distribute) |
@@ -432,11 +512,14 @@
 | sattannaṃ | card | x.dat.pl | to the seven |  |
 | sammāsambuddhānaṃ | noun | masc.dat.pl | to the Perfectly Enlightened Ones |  |
 
+
 **Homage to the Blessed One, homage to the seven Perfectly Enlightened Ones.**
+
 
 21. SN 12.61 <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | dissati | verb | pr.3rd.sg | it is seen; observed |  |
 | ayaṃ | pron | masc.nom.sg | this |  |
@@ -472,11 +555,14 @@
 | api | ind | ind | even |  |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
 
+
 **It is observed, monks, [that] this body, composed of the four great elements, is standing just one year, [or] just two years, … three … four … five … ten … twenty … thirty … forty … fifty [or] remaining one hundred years [or] even remaining more than [that].**
+
 
 22. UD 46 <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | evaṃ | ind | emph | yes; indeed |  |
 | bhante'ti | noun | masc.voc.sg +end quote | venerable sir |  |
@@ -492,11 +578,14 @@
 | sarena | ind | adv | sweetly; melodiously | √sar×1 a (make sound) |
 | abhaṇi | verb | aor.3rd.sg | recited | √bhaṇ･1 a (talk, speak) |
 
+
 **"Yes, venerable sir." Having responded in agreement to the Blessed One, Venerable Soṇa indeed recited melodiously all sixteen [suttas], belonging to the groups of eight.**
+
 
 23. MN 91 <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.dat.sg | for him (he has) |  |
 | imāni | pron | nt.nom.pl | these |  |
@@ -514,13 +603,16 @@
 | eva | ind | emph | just |  |
 | sattamaṃ | ordin | nt.nom.sg | the seventh |  |
 
+
 **[A Wheel-turning Monarch] has these seven treasures, namely: the wheel treasure, the elephant treasure, the horse treasure, the jewel treasure, the woman treasure, the steward treasure, [and] as the seventh, the counselor treasure.**
+
 
 
 
 ## Class 12 Extra
 
 1. SNP 5 <br>caturo samaṇā na pañcam'atthi, <br>te te āvikaromi sakkhipuṭṭho.
+
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -535,11 +627,14 @@
 | sakkhi- | ind | adv | face to face |  |
 | puṭṭho | pp | masc.nom.sg | asked, questioned | √pucch･1 a (ask, question) |
 
+
 **There are four (kinds of) ascetics, there is not a fifth.<br>Questioned face to face, I will clarify those for you.**
+
 
 2. SNP 13 (simpl)<br>catūhi apāyehi ca vippamutto, cha ca abhiṭhānāni abhabbo kātuṃ
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | catūhi | card | masc.abl.pl | from four |  |
 | apāyehi | noun | masc.abl.pl | from states of misery (lit: going down) | √i･1 a (come, go) |
@@ -551,11 +646,14 @@
 | abhabbo | adj | masc.nom.sg | unable; unlikely | √bhū･1 a (be, become) |
 | kātuṃ | verb | inf | to do; to perform | √kar･7 o (do, make) |
 
+
 **One is released from the four states of misery and is unable to perform the six heinous crimes.**
+
 
 3. SNP 13 <br>ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni. kiñ'c'āpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamaṃ ādiyanti.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | ye | pron | masc.nom.pl | who |  |
 | ariyasaccāni | noun | nt.acc.pl | Noble Truths |  |
@@ -563,9 +661,11 @@
 | gambhīrapaññena | adj | masc.instr.sg | by one with profound wisdom |  |
 | sudesitāni | adj | nt.acc.pl | well taught | √dis･1 \*e (point out, explain) |
 
+
 **They who understand clearly the Noble Truths well taught by one with profound wisdom,**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | kiñ'c'āpi | ind | ind+ind+ind | although; even though |  |
 | te | pron | masc.nom.pl | they |  |
@@ -578,11 +678,14 @@
 | aṭṭhamaṃ | ordin | nt.acc.sg | eighth |  |
 | ādiyanti | verb | pr.3rd.pl | grasp; embrace | √ādā･3 ya (take, seize) |
 
+
 **Even though they are exceedingly negligent, they do not grasp an eighth state of existence.**
+
 
 4. VIN PAT AN 1 <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tam'enaṃ | pron | masc.acc.sg | that one; him; that thing |  |
 | saddheyyavacasā | adj | fem.nom.sg | whose words can be trusted; believable |  |
@@ -598,11 +701,14 @@
 | vā | ind | conj | or |  |
 | pācittiyena | noun | masc.instr.sg | by an offence requiring confession |  |
 
+
 **…a lay woman, whose words can be trusted, having then seen that should speak in accordance with one of three rules: according to an offence involving defeat, according to an offence requiring suspension, according to an offence requiring confession.**
+
 
 5. SNP 13 <br>vanappagumbe yathā phussit'agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath'ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | vanappagumbe | noun | masc.loc.sg | forest grove |  |
 | yathā | ind | adv | like; as |  |
@@ -617,20 +723,25 @@
 | paramaṃ | adj | masc.acc.sg | ultimate; highest; superior |  |
 | hitāya | noun | nt.dat.sg | for the benefit; beneficial | √dhā･1 a (place, support) |
 
+
 **Like a forest grove with a flowering crest,<br>in the first heat of the hot month,<br>(The Buddha) taught the sublime teaching,<br>leading to the highest Nibbāna, for the benefit.**
+
 
 6. AN 9.15 <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | seyyathāpi | ind | pron+adv+ind | imagine (if) |  |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | gaṇḍo | noun | masc.nom.sg | a boil; abscess |  |
 | anekavassagaṇiko | adj | masc.nom.sg | many years old |  |
 
+
 **Imagine, monks, a boil many years old.**
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | tassa | pron | masc.gen.sg | of that |  |
 | assu | verb | opt.3rd.pl | there would be |  |
@@ -640,11 +751,14 @@
 | nava | card | x.nom.pl | nine |  |
 | abhedanamukhāni | noun | nt.nom.pl | natural orifices [lit: unbroken entrances] |  |
 
+
 **That boil would have nine wound openings, nine natural orifices.**
+
 
 7. SNP 6 <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
 
-| | | | | |
+
+|  |  |  |  |  |
 |---|---|---|---|---|
 | iti | ind | adv | thus; and so |  |
 | h'etaṃ | sandhi | ind+pron | indeed this |  |
@@ -659,6 +773,5 @@
 | parābhavato | noun | masc.abl.sg | for/of the downfall | √bhū･1 a (be, become) |
 | mukhaṃ | noun | nt.nom.sg | the cause |  |
 
+
 **Indeed this we understand, [that] this [is] the ninth downfall. May the Blessed One tell [us] the tenth: What [is] the cause of the downfall?**
-
-
