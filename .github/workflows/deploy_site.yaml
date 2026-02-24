@@ -9,6 +9,7 @@ on:
       - 'mkdocs.yaml'
       - '.github/workflows/deploy_site.yaml'
       - 'tools/ssg/**'
+  workflow_dispatch:
 
 jobs:
   deploy:
