@@ -1,0 +1,218 @@
+/* image border */
+.md-typeset img {
+    border: 2px solid var(--gray-transparent);
+    border-radius: 7px;
+    padding: 1px;
+    background-color: var(--gray-transparent);
+}
+
+.md-footer-meta {
+    box-shadow: 0 0 .2rem #0000001a, 0 -.2rem .4rem #0003;
+    transition: transform .25s cubic-bezier(.1, .7, .1, 1), box-shadow .25s;
+}
+
+
+[data-md-color-scheme="default"] {
+
+    .md-logo img {
+        content: url("../assets/dpd-logo.svg");
+        background-color: var(--light);
+        padding: 1px;
+        border-radius: 50%;
+    }
+
+    /* custom top header */
+    .md-header {
+        background-color: var(--light-shade) !important;
+    }
+
+    /* search bar bottom */
+    .md-search-result__meta {
+        background-color: var(--light-shade) !important;
+    }
+
+    /* logo size */
+    .md-header__button.md-logo img,
+    .md-nav__button img {
+        width: 1.5rem;
+        height: auto;
+    }
+
+    /* move logo and title closer */
+    .md-header__title {
+        margin-left: 0;
+    }
+
+
+    /* top bar background and highlighted text*/
+    --md-primary-fg-color: var(--primary);
+
+    /* top bar text */
+    --md-primary-bg-color: var(--dark);
+
+    /* main background */
+    --md-default-bg-color: var(--light);
+
+    /* secondary background */
+    --md-primary-fg-color--dark: var(--primary-alt);
+
+    /* text colour */
+    --md-default-fg-color: var(--dark);
+
+    /* text colour */
+    --md-typeset-color: var(--dark);
+
+    /* heading colour */
+    --md-default-fg-color--light: var(--gray-dark);
+
+    /* menu background colour */
+    --md-default-fg-color--lightest: var(--gray-dark);
+
+    /* search bar text */
+    --md-primary-bg-color--dark: var(--dark);
+
+    /* rollover highlight */
+    --md-accent-fg-color: var(--primary-alt);
+
+    /* footer foreground */
+    --md-footer-fg-color: var(--primary-alt);
+
+    /* footer background */
+    --md-footer-bg-color: var(--light);
+
+    /* bottom footer */
+    --md-footer-bg-color--dark: var(--light-shade);
+
+    /* bottom footer made with */
+    --md-footer-fg-color--lighter: var(--gray-dark);
+
+    /* bottom footer text */
+    --md-footer-fg-color--light: var(--dark);
+
+    /* code background */
+    /* --md-code-bg-color: hsl(197, 05%, 95%); */
+
+    /* code text */
+    /* --md-code-fg-color: #97e4fb; */
+
+    /* code comments */
+    /* --md-code-hl-comment-color: gray; */
+
+    /* code keywords */
+    /* --md-code-hl-keyword-color: #00A4CC; */
+
+    /* code strings */
+    /* --md-code-hl-string-color: #01ccff; */
+
+    /* code constant */
+    /* --md-code-hl-constant-color: #50a150; */
+
+    /* code functions */
+    /* --md-code-hl-function-color: rgb(79, 171, 79); */
+
+    /* code highlight to */
+    /* --md-code-hl-color: yellow; */
+
+}
+
+[data-md-color-scheme="slate"] {
+
+    .md-logo img {
+        content: url("../assets/dpd-logo-dark.svg");
+        background-color: var(--dark);
+        padding: 1px;
+        border-radius: 50%;
+    }
+
+    /* custom top header */
+    .md-header {
+        background-color: var(--dark-shade) !important;
+    }
+
+    /* search bar bottom */
+    .md-search-result__meta {
+        background-color: var(--dark-shade) !important;
+    }
+
+    /* logo size */
+    .md-header__button.md-logo img,
+    .md-nav__button img {
+        width: 1.5rem;
+        height: auto;
+    }
+
+    /* move logo and title closer */
+    .md-header__title {
+        margin-left: 0;
+    }
+
+    /* top bar background and highlighted text*/
+    --md-primary-fg-color: var(--primary);
+
+    /* top bar text */
+    --md-primary-bg-color: var(--light);
+
+    /* main background */
+    --md-default-bg-color: var(--dark);
+
+    /* secondary background */
+    --md-primary-fg-color--dark: var(--primary-alt);
+
+    /* text colour */
+    --md-default-fg-color: var(--light);
+
+    /* text colour */
+    --md-typeset-color: var(--light);
+
+    /* heading colour */
+    --md-default-fg-color--light: var(--gray-light);
+
+    /* menu background colour and horizontal lines*/
+    --md-default-fg-color--lightest: var(--gray);
+
+    /* search bar text */
+    --md-primary-bg-color--dark: var(--dark);
+    --md-primary-bg-color--light: var(--dark);
+
+    /* rollover highlight */
+    --md-accent-fg-color: var(--primary-alt);
+
+    /* footer foreground */
+    --md-footer-fg-color: var(--light);
+
+    /* footer background */
+    --md-footer-bg-color: var(--dark);
+
+    /* bottom footer background */
+    --md-footer-bg-color--dark: var(--dark-shade);
+
+    /* bottom footer made with */
+    --md-footer-fg-color--lighter: var(--gray-dark);
+
+    /* bottom footer text */
+    --md-footer-fg-color--light: var(--gray);
+
+    /* code background */
+    /* --md-code-bg-color: hsl(198, 100%, 70%); */
+
+    /* code text */
+    /* --md-code-fg-color: #97e4fb; */
+
+    /* code comments */
+    /* --md-code-hl-comment-color: gray; */
+
+    /* code keywords */
+    /* --md-code-hl-keyword-color: #00A4CC; */
+
+    /* code strings */
+    /* --md-code-hl-string-color: #01ccff; */
+
+    /* code constant */
+    /* --md-code-hl-constant-color: #50a150; */
+
+    /* code functions */
+    /* --md-code-hl-function-color: rgb(79, 171, 79); */
+
+    /* code highlight to */
+    /* --md-code-hl-color: yellow; */
+}
