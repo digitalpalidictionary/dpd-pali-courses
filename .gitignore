@@ -4,6 +4,5 @@ website_example/
 conductor/
 GEMINI.md
 __pycache__
-uv.lock
 .obsidian/
 tests/site/
