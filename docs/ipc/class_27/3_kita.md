@@ -95,3 +95,10 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √tir  | **+ na** | nitthi**ṇṇa**  | crossed over          |
 ***
 please **review** all the **sandhi** and **assimilation rules** in the first lessons of this course so that you understand these morphological changes!
+
+<div class="nav-links">
+  <a href="../2_kicca/" class="prev">← Kicca</a>
+  <a href="../4_home_work/" class="next">Homeless work →</a>
+  <div class="cross"><a href="../../../ipc_ex/27_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_27%2F3_kita" target="_blank">Provide feedback on this page</a></div>
+</div>

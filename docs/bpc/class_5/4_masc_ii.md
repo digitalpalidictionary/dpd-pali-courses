@@ -37,3 +37,10 @@ Many of these agent nouns can also be used as adjectives.
 | 7. loc                | pakkh**ini** <br>pakkh**imhi** <br>pakkh**ismiṃ** | pakkh**īsu**                 |
 | 8. voc                | pakkh**ī**                                        | pakkh**ī** <br>pakkh**ino**  |
 ***
+
+<div class="nav-links">
+  <a href="../3_future/" class="prev">← Future Tense</a>
+  <a href="../5_trans/" class="next">Intransitive, Transitive and di-transitive verbs →</a>
+  <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_5%2F4_masc_ii" target="_blank">Provide feedback on this page</a></div>
+</div>

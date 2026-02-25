@@ -82,3 +82,10 @@ mahanta \> mah**ā** + **o**gha \> mah**o**gha (great flood)
 ***
 an**u** + **a**ddhamāsaṃ \> an**va**ddhamāsaṃ (every half month)
 ***
+
+<div class="nav-links">
+  <a href="../5_dvanda/" class="prev">← Dvanda Samāsa</a>
+  <a href="../7_ex/" class="next">Please translate and determine the →</a>
+  <div class="cross"><a href="../../../ipc_ex/19_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_19%2F6_comp_rules" target="_blank">Provide feedback on this page</a></div>
+</div>

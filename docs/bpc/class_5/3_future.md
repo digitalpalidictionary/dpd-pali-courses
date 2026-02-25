@@ -76,3 +76,10 @@ des**e** + **ssa** + āma \> des**essāma** (we will preach)
 | 2nd                      | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop  |
 | 1st                      | bhāve**ssāmi** | I will develop   | bhāve**ssāma**  | we will develop   |
 ***
+
+<div class="nav-links">
+  <a href="../2_pers_pron/" class="prev">← Personal Pronouns</a>
+  <a href="../4_masc_ii/" class="next">Masculine nouns ending in -ī →</a>
+  <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_5%2F3_future" target="_blank">Provide feedback on this page</a></div>
+</div>

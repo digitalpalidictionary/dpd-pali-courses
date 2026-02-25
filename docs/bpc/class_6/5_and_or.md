@@ -26,3 +26,10 @@ MN 118 bhikkhu araññagato **vā** rukkhamūlagato **vā** suññāgāragato **
 ***
 A monk who has gone to the forest **or** the foot of a tree **or** an empty building sits down.
 ***
+
+<div class="nav-links">
+  <a href="../4_subst/" class="prev">← Substantives (guṇanāma)</a>
+  <a href="../6_adv_time/" class="next">Adverbs of time →</a>
+  <div class="cross"><a href="../../../bpc_ex/6_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_6%2F5_and_or" target="_blank">Provide feedback on this page</a></div>
+</div>

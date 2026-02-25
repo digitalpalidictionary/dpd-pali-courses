@@ -1,1 +1,16 @@
-# IPC Answer Keys
+# IPC Keys
+
+- [Class 16 Exercises](16_class.md)
+- [Class 17 Exercises](17_class.md)
+- [Class 18 Exercises](18_class.md)
+- [Class 19 Exercises](19_class.md)
+- [Class 20 Exercises](20_class.md)
+- [Class 21 Exercises](21_class.md)
+- [Class 22 Exercises](22_class.md)
+- [Class 23 Exercises](23_class.md)
+- [Class 24 Exercises](24_class.md)
+- [Class 25 Exercises](25_class.md)
+- [Class 26 Exercises](26_class.md)
+- [Class 27 Exercises](27_class.md)
+- [Class 28 Exercises](28_class.md)
+- [Class 29 Exercises](29_class.md)

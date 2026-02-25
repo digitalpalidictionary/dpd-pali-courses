@@ -161,3 +161,10 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √muh + ta       | mū**ḷh**a  | pp. confused   |
 | √dah + ta       | da**ḷh**a  | adj. strong    |
 ***
+
+<div class="nav-links">
+  <a href="../2_as_ya/" class="prev">← Phonetic changes</a>
+  <a href="../4_as_na/" class="next">Phonetic changes of -n- →</a>
+  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_18%2F3_as_ta" target="_blank">Provide feedback on this page</a></div>
+</div>

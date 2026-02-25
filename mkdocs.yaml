@@ -43,28 +43,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Beginner Course (BPC):
-    - bpc/index.md
-    - bpc/0.1_title.md
-    - bpc/0.2_literature.md
-    - bpc/0.3_content.md
-    - Class 1: bpc/class_1/1_class.md
-    - Class 2:
-      - bpc/class_2/index.md
-      - bpc/class_2/0_content.md
-      - bpc/class_2/1_review.md
-      - bpc/class_2/2_alphabet.md
-      - bpc/class_2/3_decl_nouns.md
-      - bpc/class_2/4_home_work.md
+      - Course Material: bpc/index.md
+      - Exercises: bpc_ex/index.md
+      - Answer Keys: bpc_key/index.md
   - Intermediate Course (IPC):
-    - ipc/index.md
-    - ipc/0.1_title.md
-    - ipc/0.2_content.md
-  - Exercises:
-    - bpc_ex/index.md
-    - ipc_ex/index.md
-  - Answer Keys:
-    - bpc_key/index.md
-    - ipc_key/index.md
+      - Course Material: ipc/index.md
+      - Exercises: ipc_ex/index.md
+      - Answer Keys: ipc_key/index.md
 
 plugins:
   - search

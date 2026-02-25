@@ -74,3 +74,10 @@ bhagavatā 1168
 ***
 bhagavato 1942
 ***
+
+<div class="nav-links">
+  <a href="../3_masc_uu/" class="prev">← Masculine nouns ending in -ū</a>
+  <a href="../5_and_or/" class="next">Conjunction “ca” →</a>
+  <div class="cross"><a href="../../../bpc_ex/6_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_6%2F4_subst" target="_blank">Provide feedback on this page</a></div>
+</div>

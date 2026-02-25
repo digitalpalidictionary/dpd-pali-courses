@@ -103,3 +103,10 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | 7.loc  | bhikkh**umhi** bhikkh**usmiṃ**               | bhāt**ari**                            | satth**ari**                              | bhikkh**ūsu**                           | bhāt**aresu** bhāt**ūsu**                | satth**āresu**                    |
 | 8.voc  | bhikkh**u**                                  | bhāt**a** <br>bhāt**ā**                | satth**a** <br>satth**ā**                 | bhikkh**ū** bhikkh**avo** bhikkh**ave** | bhāt**aro**                              | satth**āro**                      |
 ***
+
+<div class="nav-links">
+  <a href="../1_review/" class="prev">← Review</a>
+  <a href="../3_masc_uu/" class="next">Masculine nouns ending in -ū →</a>
+  <div class="cross"><a href="../../../bpc_ex/6_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_6%2F2_masc_u" target="_blank">Provide feedback on this page</a></div>
+</div>

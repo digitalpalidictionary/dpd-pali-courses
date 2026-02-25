@@ -249,3 +249,10 @@ That, of course, excludes all the “amazing” numbers which you’ll come acro
 | ahaha      | 1070 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000          |
 | ababa      | 1076 | 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 ***
+
+<div class="nav-links">
+  <a href="../2_numb/" class="prev">← Numbers (saṅkhyā)</a>
+  <a href="../4_ordin/" class="next">Ordinal Numbers (saṅkhyā-pūraṇa) →</a>
+  <div class="cross"><a href="../../../bpc_ex/12_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_12%2F3_card" target="_blank">Provide feedback on this page</a></div>
+</div>

@@ -97,3 +97,10 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 7.loc                            | rāj**ini** ra**ññe** rāj**amhi** rāj**asmiṃ**  | rāj**ūsu** rāj**esu**               |
 | 8.voc                            | rāj**a** rāj**ā**                              | rāj**āno**                          |
 ***
+
+<div class="nav-links">
+  <a href="../9_ex/" class="prev">← Please construct and deconstruct:</a>
+  <a href="../11_ex/" class="next">Please analyze the following: →</a>
+  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_18%2F10_irreg_masc" target="_blank">Provide feedback on this page</a></div>
+</div>

@@ -74,3 +74,10 @@ ud + √tḥā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
 ***
 saṃ + √vis + \*e \> saṃvese (caus) + iya + māna
 ***
+
+<div class="nav-links">
+  <a href="../2_caus_verb/" class="prev">← Causative Verbs</a>
+  <a href="../4_ptp/" class="next">Potential Participle (ptp) →</a>
+  <div class="cross"><a href="../../../bpc_ex/14_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_14%2F3_caus_pass" target="_blank">Provide feedback on this page</a></div>
+</div>

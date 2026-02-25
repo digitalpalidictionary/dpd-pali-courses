@@ -6,3 +6,7 @@ GEMINI.md
 __pycache__
 .obsidian/
 tests/site/
+site/
+.env
+pyproject.toml
+uv.lock

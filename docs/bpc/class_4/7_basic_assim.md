@@ -75,3 +75,10 @@ vi + √su**dh** (be pure) + **y**a + ti \> visu**jjh**ati (he is purified)
 ***
 You will find more examples of the **assimilation of the letter y** when you study the [**passive voice**](#passive-verbs)**.**
 ***
+
+<div class="nav-links">
+  <a href="../6_root_3/" class="prev">← Root Group 3 – divādigaṇa</a>
+  <a href="../8_root_7/" class="next">Root Group 7 – tanādigaṇa →</a>
+  <div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_4%2F7_basic_assim" target="_blank">Provide feedback on this page</a></div>
+</div>

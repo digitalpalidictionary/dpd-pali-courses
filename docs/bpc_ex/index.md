@@ -1,1 +1,17 @@
 # BPC Exercises
+
+- [Class 1 Exercises](1_class.md)
+- [Class 2 Exercises](2_class.md)
+- [Class 3 Exercises](3_class.md)
+- [Class 4 Exercises](4_class.md)
+- [Class 5 Exercises](5_class.md)
+- [Class 6 Exercises](6_class.md)
+- [Class 7 Exercises](7_class.md)
+- [Class 8 Exercises](8_class.md)
+- [Class 9 Exercises](9_class.md)
+- [Class 10 Exercises](10_class.md)
+- [Class 11 Exercises](11_class.md)
+- [Class 12 Exercises](12_class.md)
+- [Class 13 Exercises](13_class.md)
+- [Class 14 Exercises](14_class.md)
+- [Class 15](15_class.md)

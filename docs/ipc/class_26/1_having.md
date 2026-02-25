@@ -124,3 +124,10 @@ Today we will look at the other categories of secondary derivatives, starting wi
 ***
 what do you notice about these words?
 ***
+
+<div class="nav-links">
+  <a href="../" class="prev">← Class 26</a>
+  <a href="../2_numer/" class="next">Numerical (saṅkhyātaddhita) →</a>
+  <div class="cross"><a href="../../../ipc_ex/26_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_26%2F1_having" target="_blank">Provide feedback on this page</a></div>
+</div>

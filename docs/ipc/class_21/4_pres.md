@@ -27,3 +27,10 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 | 1 uttama                                                                                              | haññ**e**   | haññ**āmhe**                |
 ***
 [^10]: Please note that very often reflexive can be translated without this reflexive pronoun
+
+<div class="nav-links">
+  <a href="../3_pass_refl/" class="prev">← Passive Reflexive</a>
+  <a href="../5_imp/" class="next">Imperative (pañcamī) →</a>
+  <div class="cross"><a href="../../../ipc_ex/21_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_21%2F4_pres" target="_blank">Provide feedback on this page</a></div>
+</div>

@@ -1,1 +1,16 @@
 # IPC Exercises
+
+- [Class 16](16_class.md)
+- [Class 17](17_class.md)
+- [Class 18](18_class.md)
+- [Class 19](19_class.md)
+- [Class 20](20_class.md)
+- [Class 21](21_class.md)
+- [Class 22](22_class.md)
+- [Class 23](23_class.md)
+- [Class 24](24_class.md)
+- [Class 25](25_class.md)
+- [Class 26](26_class.md)
+- [Class 27](27_class.md)
+- [Class 28](28_class.md)
+- [Class 29](29_class.md)

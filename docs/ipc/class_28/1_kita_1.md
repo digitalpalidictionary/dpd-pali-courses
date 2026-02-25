@@ -617,3 +617,10 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √har                              | to carry   | **+ \*aka** | h**ā**r**aka**      | carrying              |
 | √pu                               | to cleanse | **+ \*aka** | p**āvaka**          | bright, shining       |
 ***
+
+<div class="nav-links">
+  <a href="../" class="prev">← Class 28</a>
+  <a href="../2_kita_less/" class="next">less frequent kita: →</a>
+  <div class="cross"><a href="../../../ipc_ex/28_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_28%2F1_kita_1" target="_blank">Provide feedback on this page</a></div>
+</div>
