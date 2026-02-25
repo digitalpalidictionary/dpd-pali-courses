@@ -8,8 +8,7 @@ __pycache__
 tests/site/
 site/
 .env
-pyproject.toml
-uv.lock
+
 
 # Python build artifacts
 *.egg-info/
