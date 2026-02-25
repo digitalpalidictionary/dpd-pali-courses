@@ -10,3 +10,6 @@ site/
 .env
 pyproject.toml
 uv.lock
+
+# Python build artifacts
+*.egg-info/
