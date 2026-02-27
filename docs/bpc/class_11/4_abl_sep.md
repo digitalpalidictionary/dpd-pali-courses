@@ -12,7 +12,6 @@ te dhamme **dukkhato** samanupassati.
 ***
 He regards those things **as suffering.**
 ***
-
 <div class="nav-links">
   <a href="../3_adj/" class="prev">← Adjectives (guṇanāma, guṇavacana, visesana)</a>
   <a href="../5_home_work/" class="next">Homeless work →</a>

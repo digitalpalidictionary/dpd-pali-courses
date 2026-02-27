@@ -26,14 +26,15 @@ The **subject** of the sentence and the **verb** must **agree** in **number**.
 ***
 e.g. sakuṇā ākāse uḍḍayanti.
 ***
-| | | | |
-|---|---|---|---|
-| sakuṇā                | noun | masc.nom.**pl** | birds      |
-| ākāse                 | noun | masc.loc.sg     | in the sky |
-| uḍḍayanti             | verb | pr.3.**pl**     | (they) fly |
-| Birds fly in the sky. |      |                 |            |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| sakuṇā | noun | masc.nom.**pl** | birds |
+| ākāse | noun | masc.loc.sg | in the sky |
+| uḍḍayanti | verb | pr.3.**pl** | (they) fly |
+| Birds fly in the sky. |  |  |  |
+
+***
 <div class="nav-links">
   <a href="../11_histor_pr/" class="prev">← Historical Present</a>
   <a href="../13_tricky_base/" class="next">Some tricky bases →</a>

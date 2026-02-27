@@ -10,12 +10,12 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
-| Duroiselle | Compounds Chapter 12               |
-| Perniola   | Nominal Compounds Chapter 9 (p157) |
-***
+| --- | --- |
+| Duroiselle | Compounds Chapter 12 |
+| Perniola | Nominal Compounds Chapter 9 (p157) |
 
+***
 <div class="nav-links">
   <a href="../5_ex/" class="prev">← Please translate and determine the compound type of the following:</a>
   <a href="../../class_21/" class="next">Class 21 →</a>

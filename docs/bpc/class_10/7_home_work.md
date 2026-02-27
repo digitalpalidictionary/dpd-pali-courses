@@ -11,12 +11,12 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
-| V. Perniola<br>Pāli Grammar    | p108-110 (the present participle) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)  | Corresponding chapters            |
-***
+| --- | --- |
+| V. Perniola<br>Pāli Grammar | p108-110 (the present participle) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../6_loc_gen_abs/" class="prev">← Locative Absolute</a>
   <a href="../../class_11/" class="next">Class 11 →</a>

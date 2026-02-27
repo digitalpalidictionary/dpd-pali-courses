@@ -92,7 +92,6 @@ Assimilation
 ***
 These are the general types of phonetic changes that can occur, let’s look at more specific examples.
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 18</a>
   <a href="../2_as_ya/" class="next">Phonetic changes →</a>

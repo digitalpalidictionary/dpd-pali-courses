@@ -12,11 +12,11 @@
 ***
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Secondary Derivatives (579-581) |
-***
 
+***
 <div class="nav-links">
   <a href="../5_taddh_2/" class="prev">← \*a (dyed with)</a>
   <a href="../../class_26/" class="next">Class 26 →</a>

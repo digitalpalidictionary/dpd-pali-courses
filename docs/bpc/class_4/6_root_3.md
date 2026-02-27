@@ -12,7 +12,6 @@ dibba + ti \> dibbati (he shines, illuminates)
 ***
 **How does √div become dibbati?**
 ***
-
 <div class="nav-links">
   <a href="../5_root_2/" class="prev">← Root Group 2 - rudhādigaṇa</a>
   <a href="../7_basic_assim/" class="next">Some Basic Sandhi – The Assimilation of the Letter y →</a>

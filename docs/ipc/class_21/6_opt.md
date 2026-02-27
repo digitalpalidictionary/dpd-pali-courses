@@ -11,24 +11,27 @@ Let’s look at the optative in the reflexive **voice and passive voice.**
 (Theory) How is the reflexive formed? How is the passive formed?
 ***
 **Optative Attanopada “could tame oneself”<br>(√dam + a \> dama)**
-| | | |
+
 |---|---|---|
-|                                                                        | **s**        | **pl**                         |
-| 3 paṭhama                                                              | dam**etha**  | dam**eraṃ[^11]**               |
-| 2 majjhima                                                             | dam**etho**  | dam**eyyāvho**                 |
-| 1 uttama                                                               | dam**eyyaṃ** | dam**eyyāmhe**<br>**damemase** |
+| --- | --- | --- |
+|  | **s** | **pl** |
+| 3 paṭhama | dam**etha** | dam**eraṃ[^11]** |
+| 2 majjhima | dam**etho** | dam**eyyāvho** |
+| 1 uttama | dam**eyyaṃ** | dam**eyyāmhe**<br>**damemase** |
+
 ***
 [^11]: The forms shown in red here and further in the declination table only exist in grammar books.
 ***
 **Optative Passive Attanopada “could be led (by oneself)”<br>(√nī + ya \> nīya)**
-| | | |
-|---|---|---|
-|                                                                                           | **s**        | **pl**                         |
-| 3 paṭhama                                                                                 | nīy**etha**  | nīy**eraṃ**                    |
-| 2 majjhima                                                                                | nīy**etho**  | nīy**eyyāvho**                 |
-| 1 uttama                                                                                  | nīy**eyyaṃ** | nīy**eyyāmhe**<br>**nīyemase** |
-***
 
+|---|---|---|
+| --- | --- | --- |
+|  | **s** | **pl** |
+| 3 paṭhama | nīy**etha** | nīy**eraṃ** |
+| 2 majjhima | nīy**etho** | nīy**eyyāvho** |
+| 1 uttama | nīy**eyyaṃ** | nīy**eyyāmhe**<br>**nīyemase** |
+
+***
 <div class="nav-links">
   <a href="../5_imp/" class="prev">← Imperative (pañcamī)</a>
   <a href="../7_perf/" class="next">Perfect Past Tense (parokkhā) →</a>

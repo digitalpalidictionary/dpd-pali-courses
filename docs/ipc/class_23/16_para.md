@@ -1,12 +1,13 @@
 **parā- (quite rare)<br>beyond, again, continuously, wrongly, away, back, opposite, aside**
-| | | | |
-|---|---|---|---|
-| √bhū                                                                                        | to be      | parābhavati | suffers downfall      |
-| √ji                                                                                         | to conquer | parājeti    | defeats, conquers     |
-| √kam                                                                                        | to go      | parakkamati | strives, makes effort |
-| √mas                                                                                        | to touch   | parāmasati  | strokes, fondles      |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| √bhū | to be | parābhavati | suffers downfall |
+| √ji | to conquer | parājeti | defeats, conquers |
+| √kam | to go | parakkamati | strives, makes effort |
+| √mas | to touch | parāmasati | strokes, fondles |
+
+***
 <div class="nav-links">
   <a href="../15_pati/" class="prev">← pati- paṭi- (sk prati)<br>against, back to, return, oppositely, towards, personally, similarly, near</a>
   <a href="../17_pari/" class="next">pari- pali-<br>around, all around, about, all about, overall, completely →</a>

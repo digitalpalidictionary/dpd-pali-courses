@@ -12,13 +12,13 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
-| V. Perniola<br>Pāli Grammar                                     | Adverbs (p129 - 132)<br>The Passive (p89 – 101)  |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                           |
-***
+| --- | --- |
+| V. Perniola<br>Pāli Grammar | Adverbs (p129 - 132)<br>The Passive (p89 – 101) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../4_pprp/" class="prev">← Passive Present Participles (pprp)</a>
   <a href="../../class_14/" class="next">Class 14 →</a>

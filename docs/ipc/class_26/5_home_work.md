@@ -11,11 +11,11 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Secondary Derivatives (579-581) |
-***
 
+***
 <div class="nav-links">
   <a href="../4_ind/" class="prev">← Indeclinable (abyayataddhita)</a>
   <a href="../../class_27/" class="next">Class 27 →</a>

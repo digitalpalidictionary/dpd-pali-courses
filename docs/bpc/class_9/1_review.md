@@ -18,7 +18,6 @@ SN 12.63 very very modified
 ***
 Having killed beloved and dear daughter elsewhere, they eat meat.
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 9</a>
   <a href="../2_nt/" class="next">Neuter Nouns →</a>

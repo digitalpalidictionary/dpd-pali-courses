@@ -11,14 +11,14 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
-| A.K. Warder Introduction to Pāli                                | p54-55 (future tense)     |
-| V. Perniola<br>Pāli Grammar                                     | p87-90 (future tense)     |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p162 – 163 (future tense) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters    |
-***
+| --- | --- |
+| A.K. Warder Introduction to Pāli | p54-55 (future tense) |
+| V. Perniola<br>Pāli Grammar | p87-90 (future tense) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | p162 – 163 (future tense) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../7_with/" class="prev">← With & together with “saddhiṃ” and “saha”</a>
   <a href="../del/" class="next">Some important lists to have at hand →</a>

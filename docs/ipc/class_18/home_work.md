@@ -10,13 +10,13 @@
 ***
 ### Extra Reading
 
-| | |
 |---|---|
-| Duroiselle          | Assimilation p20     |
-| Perniola            | External Sandhi p285 |
-| Māgadhabhāsā (pāḷi) | Assimilation p37     |
-***
+| --- | --- |
+| Duroiselle | Assimilation p20 |
+| Perniola | External Sandhi p285 |
+| Māgadhabhāsā (pāḷi) | Assimilation p37 |
 
+***
 <div class="nav-links">
   <a href="../11_ex/" class="prev">← Please analyze the following:</a>
   <a href="../../class_19/" class="next">Class 19 →</a>

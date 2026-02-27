@@ -56,7 +56,6 @@ sampassataṃ brāhmaṇa **n’esa d**hammo.
 ***
 All the normal cases when the word remains **so**, **eso**, or **neso**
 ***
-
 <div class="nav-links">
   <a href="../5_cons_3/" class="prev">← Possibility \#3</a>
   <a href="../7_cons_5/" class="next">Possibility \#5 →</a>

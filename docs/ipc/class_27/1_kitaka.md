@@ -18,7 +18,6 @@ The suffix added onto the root or base is called a **kita** or **kicca** and the
 ***
 All the normal rules of sandhi and assimilation apply.
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 27</a>
   <a href="../2_kicca/" class="next">Kicca →</a>

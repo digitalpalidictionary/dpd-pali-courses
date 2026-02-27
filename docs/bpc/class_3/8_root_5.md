@@ -21,14 +21,15 @@ jinā + ti \> jināti (he conquers)
 jānā + ti \> jānāti (he knows)
 ***
 **Conjugation of -āti pr**
-| | | | | |
-|---|---|---|---|---|
-|                        | singular        | plural   |                   |              |
-| 3rd                    | so jānā**ti**   | he knows | te jāna**nti**    | they know    |
-| 2nd                    | tvaṃ jānā**si** | you know | tumhe jānā**tha** | you all know |
-| 1st                    | ahaṃ jānā**mi** | I know   | mayaṃ jānā**ma**  | we know      |
-***
 
+|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | so jānā**ti** | he knows | te jāna**nti** | they know |
+| 2nd | tvaṃ jānā**si** | you know | tumhe jānā**tha** | you all know |
+| 1st | ahaṃ jānā**mi** | I know | mayaṃ jānā**ma** | we know |
+
+***
 <div class="nav-links">
   <a href="../7_root_4/" class="prev">← Root Group 4 - svādigaṇa</a>
   <a href="../9_root_6/" class="next">Root Group 6 - gahādigaṇa →</a>

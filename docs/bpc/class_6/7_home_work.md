@@ -15,12 +15,12 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | A.K. Warder Introduction to Pāli | p209-212 (nouns ending in u / ar) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)    | Corresponding chapters            |
-***
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../6_adv_time/" class="prev">← Adverbs of time</a>
   <a href="../../class_7/" class="next">Class 7 →</a>

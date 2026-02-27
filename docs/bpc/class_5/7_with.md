@@ -24,7 +24,6 @@ aṭṭhi tac**ena** onaddhaṃ,
 ***
 A bone covered with skin; it looks beautiful with clothes.
 ***
-
 <div class="nav-links">
   <a href="../6_say_no/" class="prev">← How to say No!</a>
   <a href="../8_home_work/" class="next">Homeless work →</a>

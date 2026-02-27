@@ -18,14 +18,14 @@
 ***
 # Extra Reading
 
-| | |
 |---|---|
-| A.K. Warder Introduction to Pāli                                | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
-| V. Perniola<br>Pāli Grammar                                     | p70 – 84 (chapter 6 verbs)                                                                        |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language  | p83 – 93 (chapter 10 verbs)                                                                       |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)                                   | Corresponding chapters                                                                            |
-***
+| --- | --- |
+| A.K. Warder Introduction to Pāli | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
+| V. Perniola<br>Pāli Grammar | p70 – 84 (chapter 6 verbs) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | p83 – 93 (chapter 10 verbs) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../13_tricky_base/" class="prev">← Some tricky bases</a>
   <a href="../../class_4/" class="next">Class 4 →</a>

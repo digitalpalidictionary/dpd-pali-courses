@@ -6,10 +6,12 @@ Some *kita* and *taddhita* suffixes force **guṇa** & **vuḍḍhi** to take pl
 ***
 e.g. ṇ**a or \*a**
 ***
-| √bh**u**j  | to enjoy   | + \*a (+ ṇa) | bh**o**g**a**  |
-|------------|------------|--------------|----------------|
-| √c**a**r   | to walk    | + \*a (+ ṇa) | c**ā**r**a**   |
-| √c**a**j   | to give up | + \*a (+ ṇa) | c**ā**g**a**   |
+
+| √bh**u**j | to enjoy | + \*a (+ ṇa) | bh**o**g**a** |
+|---|---|---|---|
+| √c**a**r | to walk | + \*a (+ ṇa) | c**ā**r**a** |
+| √c**a**j | to give up | + \*a (+ ṇa) | c**ā**g**a** |
+
 ***
 Please note - when there is an *anubandha* (\*), the first vowel is *always* lengthened, e.g. magadha + \*a \> m**ā**gadh**a**.
 ***
@@ -21,7 +23,6 @@ Except when ...
 ***
 3.  the vowel is already long, e.g. nīla + \*a \> nīla
 ***
-
 <div class="nav-links">
   <a href="../2_nouns/" class="prev">← Types of nouns</a>
   <a href="../4_taddh/" class="next">Secondary Derivatives (taddhita) →</a>

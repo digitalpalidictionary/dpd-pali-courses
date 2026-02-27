@@ -34,7 +34,6 @@ pari + dhāva + ti \> paridhāvati (he runs around)
 ***
 pari + cara + ti \> paricarati (he walks around)
 ***
-
 <div class="nav-links">
   <a href="../5_roots/" class="prev">← Verbal roots (dhātu)</a>
   <a href="../7_root_4/" class="next">Root Group 4 - svādigaṇa →</a>

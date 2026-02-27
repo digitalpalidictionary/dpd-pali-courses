@@ -46,20 +46,21 @@ rājā **purisena** **rukkhaṃ** chindāpeti
 ***
 Please remember a whole family of related words can be built from one causal base, e.g. √bhū + \*e \> bhāve
 ***
-| | | |
-|---|---|---|
-| pr   | **bhāve**ti     | develops            |
-| aor  | **bhāve**si     | developed           |
-| abs  | **bhāve**tvā    | having developed    |
-| prp  | **bhāve**nta    | developing          |
-| pprp | **bhāv**iyamāna | being developed     |
-| pp   | **bhāv**ita     | developed           |
-| ptp  | **bhāve**tabba  | should be developed |
-| inf  | **bhāve**tuṃ    | to develop          |
-| f    | **bhāv**anā     | development         |
-| nt   | **bhāv**itatta  | developed state     |
-***
 
+|---|---|---|
+| --- | --- | --- |
+| pr | **bhāve**ti | develops |
+| aor | **bhāve**si | developed |
+| abs | **bhāve**tvā | having developed |
+| prp | **bhāve**nta | developing |
+| pprp | **bhāv**iyamāna | being developed |
+| pp | **bhāv**ita | developed |
+| ptp | **bhāve**tabba | should be developed |
+| inf | **bhāve**tuṃ | to develop |
+| f | **bhāv**anā | development |
+| nt | **bhāv**itatta | developed state |
+
+***
 <div class="nav-links">
   <a href="../2_irreg_pass/" class="prev">← Irregular Passive Bases</a>
   <a href="../4_irreg_caus/" class="next">Irregular Causative Bases →</a>

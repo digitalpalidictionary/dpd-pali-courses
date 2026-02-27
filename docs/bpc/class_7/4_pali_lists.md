@@ -8,7 +8,6 @@ Their digital versions can be found in the [table of all 3 Pāli root sources](h
 
 All of them are present in the DPD Root dictionary
 ***
-
 <div class="nav-links">
   <a href="../3_opt/" class="prev">← Optative or Potential Verbs (sattamī)</a>
   <a href="../5_home_work/" class="next">Homeless work →</a>

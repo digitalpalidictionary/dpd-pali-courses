@@ -2,15 +2,17 @@
 
 Substantives are formed by taking a noun and adding a suffix at the end.
 ***
-| | | | | |
+
 |---|---|---|---|---|
-| suta   | knowledge | suta**vant**   | has knowledge | well-studied    |
-| vaṇṇa  | colour    | vaṇṇa**vant**  | has colour    | good-looking    |
-| bala   | power     | bala**vant**   | has power     | powerful person |
-| sati   | memory    | sati**mant**   | has memory    | mindful person  |
-| sīla   | morality  | sīla**vant**   | has morality  | moral person    |
-| paññā  | wisdom    | pañña**vant**  | has wisdom    | wise person     |
-| cakkhu | eye       | cakkhu**mant** | has eye       | who has vision  |
+| --- | --- | --- | --- | --- |
+| suta | knowledge | suta**vant** | has knowledge | well-studied |
+| vaṇṇa | colour | vaṇṇa**vant** | has colour | good-looking |
+| bala | power | bala**vant** | has power | powerful person |
+| sati | memory | sati**mant** | has memory | mindful person |
+| sīla | morality | sīla**vant** | has morality | moral person |
+| paññā | wisdom | pañña**vant** | has wisdom | wise person |
+| cakkhu | eye | cakkhu**mant** | has eye | who has vision |
+
 ***
 Substantives are formed by adding the suffixes **-mant** or **-vant** to the noun
 ***
@@ -54,15 +56,16 @@ At which time, monks, the **thieves** are **powerful** …
 ***
 ### Declension of *-ant masc*
 
-| 1.nom  | bhagav**ā** <br>bhagav**anto**                                                | bhagav**anto** <br>bhagav**antā**     |
-|--------|-------------------------------------------------------------------------------|---------------------------------------|
-| 2.acc  | bhagav**antaṃ**                                                               | bhagav**ante**                        |
-| 3.inst | bhagav**atā**                                                                 | bhagav**antehi**                      |
-| 4.dat  | bhagav**ato** <br>bhagav**antassa**                                           | bhagav**ataṃ** <br>bhagav**antānaṃ**  |
-| 5.abl  | bhagav**atā** <br>bhagav**antamhā**<br>bhagav**antasmā**                      | bhagav**antehi**                      |
-| 6.gen  | bhagav**ato** <br>bhagav**antassa**                                           | bhagav**ataṃ** <br>bhagav**antānaṃ**  |
-| 7.loc  | bhagav**ati** <br>bhagav**ante** <br>bhagav**antamhi** <br>bhagav**antasmiṃ** | bhagav**antesu**                      |
-| 8.voc  | bhagav**aṃ** <br>bhagav**a** <br>bhagav**ā**                                  | bhagav**anto** <br>bhagav**antā**     |
+| 1.nom | bhagav**ā** <br>bhagav**anto** | bhagav**anto** <br>bhagav**antā** |
+|---|---|---|
+| 2.acc | bhagav**antaṃ** | bhagav**ante** |
+| 3.inst | bhagav**atā** | bhagav**antehi** |
+| 4.dat | bhagav**ato** <br>bhagav**antassa** | bhagav**ataṃ** <br>bhagav**antānaṃ** |
+| 5.abl | bhagav**atā** <br>bhagav**antamhā**<br>bhagav**antasmā** | bhagav**antehi** |
+| 6.gen | bhagav**ato** <br>bhagav**antassa** | bhagav**ataṃ** <br>bhagav**antānaṃ** |
+| 7.loc | bhagav**ati** <br>bhagav**ante** <br>bhagav**antamhi** <br>bhagav**antasmiṃ** | bhagav**antesu** |
+| 8.voc | bhagav**aṃ** <br>bhagav**a** <br>bhagav**ā** | bhagav**anto** <br>bhagav**antā** |
+
 ***
 bhagavā 4803[^18]
 
@@ -74,7 +77,6 @@ bhagavatā 1168
 ***
 bhagavato 1942
 ***
-
 <div class="nav-links">
   <a href="../3_masc_uu/" class="prev">← Masculine nouns ending in -ū</a>
   <a href="../5_and_or/" class="next">Conjunction “ca” →</a>

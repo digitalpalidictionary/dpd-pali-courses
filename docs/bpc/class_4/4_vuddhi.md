@@ -64,10 +64,12 @@ bhava + ti \> bhavati (it is)
 ***
 Here’s another word in all three grades
 ***
-| *weak*         | *strong*             | *long*              |
-|----------------|----------------------|---------------------|
-| √s**u** (hear) | s**o**ta (ear)       | s**āv**aka (hearer) |
-|                | s**av**ana (hearing) |                     |
+
+| *weak* | *strong* | *long* |
+|---|---|---|
+| √s**u** (hear) | s**o**ta (ear) | s**āv**aka (hearer) |
+|  | s**av**ana (hearing) |  |
+
 ***
 **ṛ \> ar \> ār**
 ***
@@ -83,17 +85,18 @@ karo + ti \> karoti \> (he does, makes)
 ***
 These changes are very common in all areas of Pāli grammar and **worth learning by heart.**
 ***
-| | | |
-|---|---|---|
-| avuḍḍhika <br>(zero) | guṇa <br>(strengthened) | vuḍḍhi <br>(lengthened) |
-|                      | **a**                   | **ā**                   |
-| **i**                | **e / ay**              | **āy**                  |
-| **ī**                | **e / ay**              | **āy**                  |
-| **u**                | **o / av**              | **āv**                  |
-| **ū**                | **o / av**              | **āv**                  |
-| **( ṛ )**            | **ar**                  | **ār**                  |
-***
 
+|---|---|---|
+| --- | --- | --- |
+| avuḍḍhika <br>(zero) | guṇa <br>(strengthened) | vuḍḍhi <br>(lengthened) |
+|  | **a** | **ā** |
+| **i** | **e / ay** | **āy** |
+| **ī** | **e / ay** | **āy** |
+| **u** | **o / av** | **āv** |
+| **ū** | **o / av** | **āv** |
+| **( ṛ )** | **ar** | **ār** |
+
+***
 <div class="nav-links">
   <a href="../3_var_root_group/" class="prev">← Different systems of root groups</a>
   <a href="../5_root_2/" class="next">Root Group 2 - rudhādigaṇa →</a>

@@ -19,7 +19,6 @@ The basic possibilities of Vowel Sandhi are :
 ***
 4.  **Insertion**, *āgama*, a consonant is inserted between two vowels.
 ***
-
 <div class="nav-links">
   <a href="../1_sandhi/" class="prev">← Sandhi</a>
   <a href="../3_vowel_1/" class="next">Elision of a Vowel →</a>

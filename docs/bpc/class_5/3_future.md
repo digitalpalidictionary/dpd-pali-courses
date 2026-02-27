@@ -51,12 +51,14 @@ vi + √har + issa + tha \> viharissatha (you all will live)
 √gam + issa + āma \> gamissāma (we will go)
 ***
 **Conjugation of -issa fut**
-| | | | | |
+
 |---|---|---|---|---|
-|                          | singular       | plural      |                 |                 |
-| 3rd                      | bhav**issati** | he will be  | bhav**issanti** | they will be    |
-| 2nd                      | bhav**issasi** | you will be | bhav**issatha** | you all will be |
-| 1st                      | bhav**issāmi** | I will be   | bhav**issāma**  | we will be      |
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | bhav**issati** | he will be | bhav**issanti** | they will be |
+| 2nd | bhav**issasi** | you will be | bhav**issatha** | you all will be |
+| 1st | bhav**issāmi** | I will be | bhav**issāma** | we will be |
+
 ***
 For verbs with bases ending in **-e** from **group 8** and **causative** **verbs** etc, just add “ssa” between the base and the verbal ending.
 ***
@@ -69,14 +71,15 @@ dhar**e** + **ssa** + ti \> **dhāressati** (he will hold)
 des**e** + **ssa** + āma \> des**essāma** (we will preach)
 ***
 **Conjugation of -essa fut**
-| | | | | |
-|---|---|---|---|---|
-|                          | singular       | plural           |                 |                   |
-| 3rd                      | bhāve**ssati** | he will develop  | bhāve**ssanti** | they will develop |
-| 2nd                      | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop  |
-| 1st                      | bhāve**ssāmi** | I will develop   | bhāve**ssāma**  | we will develop   |
-***
 
+|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | bhāve**ssati** | he will develop | bhāve**ssanti** | they will develop |
+| 2nd | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop |
+| 1st | bhāve**ssāmi** | I will develop | bhāve**ssāma** | we will develop |
+
+***
 <div class="nav-links">
   <a href="../2_pers_pron/" class="prev">← Personal Pronouns</a>
   <a href="../4_masc_ii/" class="next">Masculine nouns ending in -ī →</a>

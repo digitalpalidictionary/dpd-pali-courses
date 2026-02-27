@@ -10,12 +10,12 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Chapter 10 Verbs (para 354 - 404) |
-| Perniola   | Chapter 6 The Verb (p83 - 101)    |
-***
+| Perniola | Chapter 6 The Verb (p83 - 101) |
 
+***
 <div class="nav-links">
   <a href="../4_irreg_base/" class="prev">← Irregular Verbal Bases</a>
   <a href="../../class_23/" class="next">Class 23 →</a>

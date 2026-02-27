@@ -18,7 +18,6 @@ SN 46.55 simpl
 
 DHP 74 simpl
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 8</a>
   <a href="../2_abs_ger/" class="next">Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā) →</a>

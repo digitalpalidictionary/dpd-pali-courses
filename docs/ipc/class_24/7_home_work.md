@@ -14,11 +14,11 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Passive Voice (481-490)<br>Causative Verbs (491-497) |
-***
 
+***
 <div class="nav-links">
   <a href="../6_app/" class="prev">← Active Past Participle</a>
   <a href="../../class_25/" class="next">Class 25 →</a>

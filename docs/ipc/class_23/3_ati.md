@@ -1,17 +1,18 @@
 **ati- acc-<br>beyond, across, over, past, very much, very, excessively**
-| | | | |
-|---|---|---|---|
-| √i                                                                                | to go    | accayati   | goes beyond             |
-| √car                                                                              | to walk  | aticarati  | transgresses            |
-| √dhāv                                                                             | to run   | atidhāvati | runs past               |
-| √kam                                                                              | to go    | atikkamati | oversteps, transgresses |
-| √man                                                                              | to think | atimaññati | despises                |
-| √nam                                                                              | to bend  | atināmeti  | spends time             |
-| √ruc                                                                              | to shine | atirocati  | outshines               |
-| √vass                                                                             | to rain  | ativassati | soaks                   |
-| √vatt                                                                             | to go on | ativattati | exceeds, surpasses      |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| √i | to go | accayati | goes beyond |
+| √car | to walk | aticarati | transgresses |
+| √dhāv | to run | atidhāvati | runs past |
+| √kam | to go | atikkamati | oversteps, transgresses |
+| √man | to think | atimaññati | despises |
+| √nam | to bend | atināmeti | spends time |
+| √ruc | to shine | atirocati | outshines |
+| √vass | to rain | ativassati | soaks |
+| √vatt | to go on | ativattati | exceeds, surpasses |
+
+***
 <div class="nav-links">
   <a href="../2_aa/" class="prev">← ā-<br>up to, upwards, towards, near to, at, backwards, away, all round, intensely, until, as far as[^15]</a>
   <a href="../4_adhi/" class="next">adhi- ajjh-<br>over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside →</a>

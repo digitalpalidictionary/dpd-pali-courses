@@ -53,7 +53,6 @@ There are three basic types of Sandhi in Pāli:
 ***
 3.  **Ṃ Sandhi** *niggahīta-sandhi* which occurs when the nasal letter ṃ joins with vowels or consonants.
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 16</a>
   <a href="../2_vowel/" class="next">Vowel Sandhi (sara-sandhi) →</a>

@@ -20,7 +20,6 @@ SN 22.79
 ***
 SN 35.88
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 6</a>
   <a href="../2_masc_u/" class="next">Masculine nouns ending in -u →</a>

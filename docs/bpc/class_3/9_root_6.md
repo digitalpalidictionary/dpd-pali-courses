@@ -20,7 +20,6 @@ And now let’s reread the definition:
 ***
 \- Charles Duroiselle
 ***
-
 <div class="nav-links">
   <a href="../8_root_5/" class="prev">← Root Group 5 - kiyādigaṇa</a>
   <a href="../10_root_8/" class="next">Root Group 8 - curādigaṇa →</a>

@@ -1,17 +1,18 @@
 **abhi- abbh-<br>to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, highly, strongly**
-| | | | |
-|---|---|---|---|
-| √dham                                                                                                                                      | to blow    | abhidhamati  | fans, blows on           |
-| √gajj                                                                                                                                      | to roar    | abhigajjati  | roars, thunders          |
-| √har                                                                                                                                       | to carry   | abhiharati   | abuses, curses           |
-| √ñā                                                                                                                                        | to know    | abhijānāti   | totally understands      |
-| √japp                                                                                                                                      | to mumble  | abhijappati  | prays for                |
-| √kaṅkh                                                                                                                                     | to wish    | abhikaṅkhati | yearns for, longs for    |
-| √nand                                                                                                                                      | to delight | abhinandati  | rejoices                 |
-| √vad                                                                                                                                       | to speak   | abhivadati   | welcomes                 |
-| √vand                                                                                                                                      | to worship | abhivandati  | pays the highest respect |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| √dham | to blow | abhidhamati | fans, blows on |
+| √gajj | to roar | abhigajjati | roars, thunders |
+| √har | to carry | abhiharati | abuses, curses |
+| √ñā | to know | abhijānāti | totally understands |
+| √japp | to mumble | abhijappati | prays for |
+| √kaṅkh | to wish | abhikaṅkhati | yearns for, longs for |
+| √nand | to delight | abhinandati | rejoices |
+| √vad | to speak | abhivadati | welcomes |
+| √vand | to worship | abhivandati | pays the highest respect |
+
+***
 <div class="nav-links">
   <a href="../7_api/" class="prev">← api- pi- (rare)<br>on, over, above, onto, close upon, cover</a>
   <a href="../9_ava/" class="next">ava- o-<br>down, off, away, back, aside, inside, less, disrespect →</a>

@@ -1,55 +1,386 @@
 site_name: DPD Pāḷi Courses
-docs_dir: "docs"
-site_dir: "site"
-
+docs_dir: docs
+site_dir: site
 theme:
   name: material
   language: en
-  custom_dir: "tools/ssg/stylesheets"
+  custom_dir: tools/ssg/stylesheets
   palette:
-    - scheme: default
-      primary: brown
-      accent: orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: brown
-      accent: orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+  - scheme: default
+    primary: brown
+    accent: orange
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    primary: brown
+    accent: orange
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.indexes
-    - content.code.copy
-
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - navigation.indexes
+  - content.code.copy
 extra_css:
-  - dpd.css
-  - dpd-variables.css
-  - extra.css
-
+- dpd.css
+- dpd-variables.css
+- extra.css
 markdown_extensions:
-  - attr_list
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - tables
-
+- attr_list
+- pymdownx.highlight:
+    anchor_linenums: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences
+- tables
 nav:
-  - Home: index.md
-  - Beginner Course (BPC):
-      - Course Material: bpc/index.md
-      - Exercises: bpc_ex/index.md
-      - Answer Keys: bpc_key/index.md
-  - Intermediate Course (IPC):
-      - Course Material: ipc/index.md
-      - Exercises: ipc_ex/index.md
-      - Answer Keys: ipc_key/index.md
-
+- Home: index.md
+- Beginner Course (BPC):
+  - Introduction:
+    - BPC Home: bpc/index.md
+    - Title Page: bpc/0.1_title.md
+    - Literature: bpc/0.2_literature.md
+    - Table of Contents: bpc/0.3_content.md
+  - Lessons:
+    - Class 1:
+      - bpc/class_1/index.md
+      - 1 Class: bpc/class_1/1_class.md
+    - Class 2:
+      - bpc/class_2/index.md
+      - 1 Review: bpc/class_2/1_review.md
+      - 2 Alphabet: bpc/class_2/2_alphabet.md
+      - 3 Decl Nouns: bpc/class_2/3_decl_nouns.md
+      - 4 Home Work: bpc/class_2/4_home_work.md
+    - Class 3:
+      - bpc/class_3/index.md
+      - 1 Review: bpc/class_3/1_review.md
+      - 2 Conjug: bpc/class_3/2_conjug.md
+      - 3 Preset: bpc/class_3/3_preset.md
+      - 4 Imper: bpc/class_3/4_imper.md
+      - 5 Roots: bpc/class_3/5_roots.md
+      - 6 Root 1: bpc/class_3/6_root_1.md
+      - 7 Root 4: bpc/class_3/7_root_4.md
+      - 8 Root 5: bpc/class_3/8_root_5.md
+      - 9 Root 6: bpc/class_3/9_root_6.md
+      - 10 Root 8: bpc/class_3/10_root_8.md
+      - 11 Histor Pr: bpc/class_3/11_histor_pr.md
+      - 12 Help With Ex: bpc/class_3/12_help_with_ex.md
+      - 13 Tricky Base: bpc/class_3/13_tricky_base.md
+      - 14 Home Work: bpc/class_3/14_home_work.md
+    - Class 4:
+      - bpc/class_4/index.md
+      - 1 Review: bpc/class_4/1_review.md
+      - 2 Dpr Tpr: bpc/class_4/2_dpr_tpr.md
+      - 3 Var Root Group: bpc/class_4/3_var_root_group.md
+      - 4 Vuddhi: bpc/class_4/4_vuddhi.md
+      - 5 Root 2: bpc/class_4/5_root_2.md
+      - 6 Root 3: bpc/class_4/6_root_3.md
+      - 7 Basic Assim: bpc/class_4/7_basic_assim.md
+      - 8 Root 7: bpc/class_4/8_root_7.md
+      - 9 Masc I: bpc/class_4/9_masc_i.md
+      - 10 Aor: bpc/class_4/10_aor.md
+      - 13 Home Work: bpc/class_4/13_home_work.md
+    - Class 5:
+      - bpc/class_5/index.md
+      - 1 Review: bpc/class_5/1_review.md
+      - 2 Pers Pron: bpc/class_5/2_pers_pron.md
+      - 3 Future: bpc/class_5/3_future.md
+      - 4 Masc Ii: bpc/class_5/4_masc_ii.md
+      - 5 Trans: bpc/class_5/5_trans.md
+      - 6 Say No: bpc/class_5/6_say_no.md
+      - 7 With: bpc/class_5/7_with.md
+      - 8 Home Work: bpc/class_5/8_home_work.md
+      - Del: bpc/class_5/del.md
+    - Class 6:
+      - bpc/class_6/index.md
+      - 1 Review: bpc/class_6/1_review.md
+      - 2 Masc U: bpc/class_6/2_masc_u.md
+      - 3 Masc Uu: bpc/class_6/3_masc_uu.md
+      - 4 Subst: bpc/class_6/4_subst.md
+      - 5 And Or: bpc/class_6/5_and_or.md
+      - 6 Adv Time: bpc/class_6/6_adv_time.md
+      - 7 Home Work: bpc/class_6/7_home_work.md
+    - Class 7:
+      - bpc/class_7/index.md
+      - 2 Fem Aa: bpc/class_7/2_fem_aa.md
+      - 3 Opt: bpc/class_7/3_opt.md
+      - 4 Pali Lists: bpc/class_7/4_pali_lists.md
+      - 5 Home Work: bpc/class_7/5_home_work.md
+    - Class 8:
+      - bpc/class_8/index.md
+      - 1 Review: bpc/class_8/1_review.md
+      - 2 Abs Ger: bpc/class_8/2_abs_ger.md
+      - 3 Fem: bpc/class_8/3_fem.md
+      - 4 Adv Place: bpc/class_8/4_adv_place.md
+      - 5 Home Work: bpc/class_8/5_home_work.md
+    - Class 9:
+      - bpc/class_9/index.md
+      - 1 Review: bpc/class_9/1_review.md
+      - 2 Nt: bpc/class_9/2_nt.md
+      - 3 Inf: bpc/class_9/3_inf.md
+      - 4 Dat Purpose: bpc/class_9/4_dat_purpose.md
+      - 5 Yava Tava: bpc/class_9/5_yava_tava.md
+      - 6 Adv Inter: bpc/class_9/6_adv_inter.md
+      - 7 Home Work: bpc/class_9/7_home_work.md
+    - Class 10:
+      - bpc/class_10/index.md
+      - 1 Review: bpc/class_10/1_review.md
+      - 2 Prp: bpc/class_10/2_prp.md
+      - 3 Pron: bpc/class_10/3_pron.md
+      - 4 Article: bpc/class_10/4_article.md
+      - 5 Emph: bpc/class_10/5_emph.md
+      - 6 Loc Gen Abs: bpc/class_10/6_loc_gen_abs.md
+      - 7 Home Work: bpc/class_10/7_home_work.md
+    - Class 11:
+      - bpc/class_11/index.md
+      - 1 Review: bpc/class_11/1_review.md
+      - 2 Pp: bpc/class_11/2_pp.md
+      - 3 Adj: bpc/class_11/3_adj.md
+      - 4 Abl Sep: bpc/class_11/4_abl_sep.md
+      - 5 Home Work: bpc/class_11/5_home_work.md
+    - Class 12:
+      - bpc/class_12/index.md
+      - 1 Review: bpc/class_12/1_review.md
+      - 2 Numb: bpc/class_12/2_numb.md
+      - 3 Card: bpc/class_12/3_card.md
+      - 4 Ordin: bpc/class_12/4_ordin.md
+      - 5 Kahap: bpc/class_12/5_kahap.md
+      - 6 Home Work: bpc/class_12/6_home_work.md
+    - Class 13:
+      - bpc/class_13/index.md
+      - 1 Review: bpc/class_13/1_review.md
+      - 2 Adv: bpc/class_13/2_adv.md
+      - 3 Pass Verb: bpc/class_13/3_pass_verb.md
+      - 4 Pprp: bpc/class_13/4_pprp.md
+      - 5 Home Work: bpc/class_13/5_home_work.md
+    - Class 14:
+      - bpc/class_14/index.md
+      - 1 Review: bpc/class_14/1_review.md
+      - 2 Caus Verb: bpc/class_14/2_caus_verb.md
+      - 3 Caus Pass: bpc/class_14/3_caus_pass.md
+      - 4 Ptp: bpc/class_14/4_ptp.md
+      - 5 Home Work: bpc/class_14/5_home_work.md
+  - Exercises:
+    - bpc_ex/index.md
+    - 1 Class: bpc_ex/1_class.md
+    - 2 Class: bpc_ex/2_class.md
+    - 3 Class: bpc_ex/3_class.md
+    - 4 Class: bpc_ex/4_class.md
+    - 5 Class: bpc_ex/5_class.md
+    - 6 Class: bpc_ex/6_class.md
+    - 7 Class: bpc_ex/7_class.md
+    - 8 Class: bpc_ex/8_class.md
+    - 9 Class: bpc_ex/9_class.md
+    - 10 Class: bpc_ex/10_class.md
+    - 11 Class: bpc_ex/11_class.md
+    - 12 Class: bpc_ex/12_class.md
+    - 13 Class: bpc_ex/13_class.md
+    - 14 Class: bpc_ex/14_class.md
+    - 15 Class: bpc_ex/15_class.md
+  - Answer Keys:
+    - bpc_key/index.md
+    - 1 Class: bpc_key/1_class.md
+    - 2 Class: bpc_key/2_class.md
+    - 3 Class: bpc_key/3_class.md
+    - 4 Class: bpc_key/4_class.md
+    - 5 Class: bpc_key/5_class.md
+    - 6 Class: bpc_key/6_class.md
+    - 7 Class: bpc_key/7_class.md
+    - 8 Class: bpc_key/8_class.md
+    - 9 Class: bpc_key/9_class.md
+    - 10 Class: bpc_key/10_class.md
+    - 11 Class: bpc_key/11_class.md
+    - 12 Class: bpc_key/12_class.md
+    - 13 Class: bpc_key/13_class.md
+    - 14 Class: bpc_key/14_class.md
+    - 15 Class: bpc_key/15_class.md
+- Intermediate Course (IPC):
+  - Introduction:
+    - IPC Home: ipc/index.md
+    - Title Page: ipc/0.1_title.md
+    - Table of Contents: ipc/0.2_content.md
+  - Lessons:
+    - Class 16:
+      - ipc/class_16/index.md
+      - 1 Sandhi: ipc/class_16/1_sandhi.md
+      - 2 Vowel: ipc/class_16/2_vowel.md
+      - 3 Vowel 1: ipc/class_16/3_vowel_1.md
+      - 4 Vowel 2: ipc/class_16/4_vowel_2.md
+      - 5 Vowel 3: ipc/class_16/5_vowel_3.md
+      - 6 Vowel 4: ipc/class_16/6_vowel_4.md
+      - 7 Vowel 5: ipc/class_16/7_vowel_5.md
+      - 8 Vowel 6: ipc/class_16/8_vowel_6.md
+      - 9 Vowel 7: ipc/class_16/9_vowel_7.md
+      - 10 Vowel 8: ipc/class_16/10_vowel_8.md
+      - 11 Vowel 9: ipc/class_16/11_vowel_9.md
+      - 12 Vowel Ref Table: ipc/class_16/12_vowel_ref_table.md
+      - 13 Home Work: ipc/class_16/13_home_work.md
+    - Class 17:
+      - ipc/class_17/index.md
+      - 1 Alphabet Analys: ipc/class_17/1_alphabet_analys.md
+      - 2 Cons: ipc/class_17/2_cons.md
+      - 3 Cons 1: ipc/class_17/3_cons_1.md
+      - 4 Cons 2: ipc/class_17/4_cons_2.md
+      - 5 Cons 3: ipc/class_17/5_cons_3.md
+      - 6 Cons 4: ipc/class_17/6_cons_4.md
+      - 7 Cons 5: ipc/class_17/7_cons_5.md
+      - 8 Nig 1: ipc/class_17/8_nig_1.md
+      - 9 Nig 2: ipc/class_17/9_nig_2.md
+      - 10 Nig 3: ipc/class_17/10_nig_3.md
+      - 11 Nig 4: ipc/class_17/11_nig_4.md
+      - 12 Nig 5: ipc/class_17/12_nig_5.md
+      - 13 Nig 6: ipc/class_17/13_nig_6.md
+      - 14 Nig 7: ipc/class_17/14_nig_7.md
+      - 15 Nig 8: ipc/class_17/15_nig_8.md
+      - 16 Nig 9: ipc/class_17/16_nig_9.md
+      - 17 Nig 10: ipc/class_17/17_nig_10.md
+      - 18 Ex: ipc/class_17/18_ex.md
+      - 19 Home Work: ipc/class_17/19_home_work.md
+    - Class 18:
+      - ipc/class_18/index.md
+      - 1 Phonetic: ipc/class_18/1_phonetic.md
+      - 2 As Ya: ipc/class_18/2_as_ya.md
+      - 3 As Ta: ipc/class_18/3_as_ta.md
+      - 4 As Na: ipc/class_18/4_as_na.md
+      - 5 As Sa: ipc/class_18/5_as_sa.md
+      - 6 As Sum: ipc/class_18/6_as_sum.md
+      - 7 Mix San: ipc/class_18/7_mix_san.md
+      - 8 As Misc: ipc/class_18/8_as_misc.md
+      - 9 Ex: ipc/class_18/9_ex.md
+      - 10 Irreg Masc: ipc/class_18/10_irreg_masc.md
+      - 11 Ex: ipc/class_18/11_ex.md
+      - Home Work: ipc/class_18/home_work.md
+    - Class 19:
+      - ipc/class_19/index.md
+      - 1 Comp: ipc/class_19/1_comp.md
+      - 2 Kamm: ipc/class_19/2_kamm.md
+      - 3 Digu: ipc/class_19/3_digu.md
+      - 4 Tap: ipc/class_19/4_tap.md
+      - 5 Dvanda: ipc/class_19/5_dvanda.md
+      - 6 Comp Rules: ipc/class_19/6_comp_rules.md
+      - 7 Ex: ipc/class_19/7_ex.md
+      - 8 Home Work: ipc/class_19/8_home_work.md
+    - Class 20:
+      - ipc/class_20/index.md
+      - 1 Abya: ipc/class_20/1_abya.md
+      - 2 Bahub: ipc/class_20/2_bahub.md
+      - 3 Mis: ipc/class_20/3_mis.md
+      - 4 Change Comp: ipc/class_20/4_change_comp.md
+      - 5 Ex: ipc/class_20/5_ex.md
+      - 6 Home Work: ipc/class_20/6_home_work.md
+    - Class 21:
+      - ipc/class_21/index.md
+      - 1 Revision: ipc/class_21/1_revision.md
+      - 2 Voices: ipc/class_21/2_voices.md
+      - 3 Pass Refl: ipc/class_21/3_pass_refl.md
+      - 4 Pres: ipc/class_21/4_pres.md
+      - 5 Imp: ipc/class_21/5_imp.md
+      - 6 Opt: ipc/class_21/6_opt.md
+      - 7 Perf: ipc/class_21/7_perf.md
+      - 8 Imperf: ipc/class_21/8_imperf.md
+      - 9 Aor: ipc/class_21/9_aor.md
+      - 10 Sum: ipc/class_21/10_sum.md
+      - 11 Home Work: ipc/class_21/11_home_work.md
+    - Class 22:
+      - ipc/class_22/index.md
+      - 1 Fut: ipc/class_22/1_fut.md
+      - 2 Cond: ipc/class_22/2_cond.md
+      - 3 Root Groups: ipc/class_22/3_root_groups.md
+      - 4 Irreg Base: ipc/class_22/4_irreg_base.md
+      - 5 Home Work: ipc/class_22/5_home_work.md
+    - Class 23:
+      - ipc/class_23/index.md
+      - 1 Prefix: ipc/class_23/1_prefix.md
+      - 2 Aa: ipc/class_23/2_aa.md
+      - 3 Ati: ipc/class_23/3_ati.md
+      - 4 Adhi: ipc/class_23/4_adhi.md
+      - 5 Anu: ipc/class_23/5_anu.md
+      - 6 Apa: ipc/class_23/6_apa.md
+      - 7 Api: ipc/class_23/7_api.md
+      - 8 Abhi: ipc/class_23/8_abhi.md
+      - 9 Ava: ipc/class_23/9_ava.md
+      - 10 Ud: ipc/class_23/10_ud.md
+      - 11 Upa: ipc/class_23/11_upa.md
+      - 12 Ni: ipc/class_23/12_ni.md
+      - 13 Nii: ipc/class_23/13_nii.md
+      - 14 Pa: ipc/class_23/14_pa.md
+      - 15 Pati: ipc/class_23/15_pati.md
+      - 16 Para: ipc/class_23/16_para.md
+      - 17 Pari: ipc/class_23/17_pari.md
+      - 18 Vi: ipc/class_23/18_vi.md
+      - 19 Sam: ipc/class_23/19_sam.md
+      - 20 Mixed Pref: ipc/class_23/20_mixed_pref.md
+      - 21 Nipata: ipc/class_23/21_nipata.md
+      - 22 Dur Su Nir: ipc/class_23/22_dur_su_nir.md
+    - Class 24:
+      - ipc/class_24/index.md
+      - 1 Pass: ipc/class_24/1_pass.md
+      - 2 Irreg Pass: ipc/class_24/2_irreg_pass.md
+      - 3 Caus: ipc/class_24/3_caus.md
+      - 4 Irreg Caus: ipc/class_24/4_irreg_caus.md
+      - 5 Caus Pass: ipc/class_24/5_caus_pass.md
+      - 6 App: ipc/class_24/6_app.md
+      - 7 Home Work: ipc/class_24/7_home_work.md
+    - Class 25:
+      - ipc/class_25/index.md
+      - 1 Deriv: ipc/class_25/1_deriv.md
+      - 2 Nouns: ipc/class_25/2_nouns.md
+      - 3 Anub: ipc/class_25/3_anub.md
+      - 4 Taddh: ipc/class_25/4_taddh.md
+      - 5 Taddh 2: ipc/class_25/5_taddh_2.md
+      - 6 Home Work: ipc/class_25/6_home_work.md
+    - Class 26:
+      - ipc/class_26/index.md
+      - 1 Having: ipc/class_26/1_having.md
+      - 2 Numer: ipc/class_26/2_numer.md
+      - 3 State: ipc/class_26/3_state.md
+      - 4 Ind: ipc/class_26/4_ind.md
+      - 5 Home Work: ipc/class_26/5_home_work.md
+    - Class 27:
+      - ipc/class_27/index.md
+      - 1 Kitaka: ipc/class_27/1_kitaka.md
+      - 2 Kicca: ipc/class_27/2_kicca.md
+      - 3 Kita: ipc/class_27/3_kita.md
+      - 4 Home Work: ipc/class_27/4_home_work.md
+    - Class 28:
+      - ipc/class_28/index.md
+      - 1 Kita 1: ipc/class_28/1_kita_1.md
+      - 2 Kita Less: ipc/class_28/2_kita_less.md
+      - 3 Home Work: ipc/class_28/3_home_work.md
+  - Exercises:
+    - ipc_ex/index.md
+    - 16 Class: ipc_ex/16_class.md
+    - 17 Class: ipc_ex/17_class.md
+    - 18 Class: ipc_ex/18_class.md
+    - 19 Class: ipc_ex/19_class.md
+    - 20 Class: ipc_ex/20_class.md
+    - 21 Class: ipc_ex/21_class.md
+    - 22 Class: ipc_ex/22_class.md
+    - 23 Class: ipc_ex/23_class.md
+    - 24 Class: ipc_ex/24_class.md
+    - 25 Class: ipc_ex/25_class.md
+    - 26 Class: ipc_ex/26_class.md
+    - 27 Class: ipc_ex/27_class.md
+    - 28 Class: ipc_ex/28_class.md
+    - 29 Class: ipc_ex/29_class.md
+  - Answer Keys:
+    - ipc_key/index.md
+    - 16 Class: ipc_key/16_class.md
+    - 17 Class: ipc_key/17_class.md
+    - 18 Class: ipc_key/18_class.md
+    - 19 Class: ipc_key/19_class.md
+    - 20 Class: ipc_key/20_class.md
+    - 21 Class: ipc_key/21_class.md
+    - 22 Class: ipc_key/22_class.md
+    - 23 Class: ipc_key/23_class.md
+    - 24 Class: ipc_key/24_class.md
+    - 25 Class: ipc_key/25_class.md
+    - 26 Class: ipc_key/26_class.md
+    - 27 Class: ipc_key/27_class.md
+    - 28 Class: ipc_key/28_class.md
+    - 29 Class: ipc_key/29_class.md
 plugins:
-  - search
+- search

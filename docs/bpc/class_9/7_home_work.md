@@ -14,12 +14,12 @@
 ***
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | A.K. Warder Introduction to Pāli | p134 – 136 (the infinitive) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)    | Corresponding chapters      |
-***
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../6_adv_inter/" class="prev">← How to ask a question with Adverbs & Indeclinable</a>
   <a href="../../class_10/" class="next">Class 10 →</a>

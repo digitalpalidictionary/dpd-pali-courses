@@ -11,10 +11,11 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
-| V. Perniola<br>Pāli Grammar    | p110 - 118 (the past participle) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)  | Corresponding chapters           |
+| --- | --- |
+| V. Perniola<br>Pāli Grammar | p110 - 118 (the past participle) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
+
 ***
 ### Example of the “SBS kuṭi udāna” task
 
@@ -30,7 +31,6 @@ att’atthaṃ ca par’atthaṃ ca sampassamānā mayaṃ hitesikuṭiyā sāsa
 
 [give your English translation here]
 ***
-
 <div class="nav-links">
   <a href="../4_abl_sep/" class="prev">← Ablative of Separation</a>
   <a href="../../class_12/" class="next">Class 12 →</a>

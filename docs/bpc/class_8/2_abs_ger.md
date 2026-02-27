@@ -56,61 +56,69 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 #### 1. tvā added to the root
 
-| √gam | to go    | √gam + tvā | ga**n**tvā | having gone   |
-|------|----------|------------|------------|---------------|
-| √dā  | to give  | √dā + tvā  | d**a**tvā  | having given  |
-| √hū  | to be    | √hū + tvā  | h**u**tvā  | having been   |
-| √kar | to do    | √kar + tvā | k**a**tvā  | having done   |
-| √ñā  | to know  | √ñā + tvā  | ñ**a**tvā  | having known  |
-| √su  | to hear  | √su + tvā  | sutvā      | having heard  |
-| √vad | to speak | √vad + tvā | v**a**tvā  | having spoken |
+| √gam | to go | √gam + tvā | ga**n**tvā | having gone |
+|---|---|---|---|---|
+| √dā | to give | √dā + tvā | d**a**tvā | having given |
+| √hū | to be | √hū + tvā | h**u**tvā | having been |
+| √kar | to do | √kar + tvā | k**a**tvā | having done |
+| √ñā | to know | √ñā + tvā | ñ**a**tvā | having known |
+| √su | to hear | √su + tvā | sutvā | having heard |
+| √vad | to speak | √vad + tvā | v**a**tvā | having spoken |
+
 ***
 #### 2. itvā added to the root
 
-| √tar  | to cross   | √tar + itvā      | taritvā   | having crossed   |
-|-------|------------|------------------|-----------|------------------|
-| √vad  | to speak   | √vad + itvā      | vaditvā   | having said      |
-| √ruh  | to ascend  | √ruh + itvā      | ruhitvā   | having climbed   |
-| √bhuj | to bend    | ā + √bhuj + itvā | ābhujitvā | having folded    |
-| √car  | to walk    | √car + itvā      | caritvā   | having walked    |
-| √hā   | to abandon | √hā + itvā       | h**i**tvā | having abandoned |
-| √labh | to get     | √labh + itvā     | labhitvā  | having obtained  |
+| √tar | to cross | √tar + itvā | taritvā | having crossed |
+|---|---|---|---|---|
+| √vad | to speak | √vad + itvā | vaditvā | having said |
+| √ruh | to ascend | √ruh + itvā | ruhitvā | having climbed |
+| √bhuj | to bend | ā + √bhuj + itvā | ābhujitvā | having folded |
+| √car | to walk | √car + itvā | caritvā | having walked |
+| √hā | to abandon | √hā + itvā | h**i**tvā | having abandoned |
+| √labh | to get | √labh + itvā | labhitvā | having obtained |
+
 ***
 #### 3. tvā added to the verbal base
 
 Mostly group 8 verbs and causative verbs.
 ***
-| √cint | cinte | cinte + tvā       | cintetvā    | having thought      |
-|-------|-------|-------------------|-------------|---------------------|
-| √mar  | māre  | māre + tvā        | māretvā     | having killed       |
-| √vas  | vāse  | ni + vāse + tvā   | nivāsetvā   | having dressed      |
-| √mant | mante | ā + mante + tvā   | āmantetvā   | having addressed    |
-| √nud  | node  | vi + node + tvā   | vinodetvā   | having driven out   |
-| √vad  | vāde  | abhi + vāde + tvā | abhivādetvā | having paid respect |
+
+| √cint | cinte | cinte + tvā | cintetvā | having thought |
+|---|---|---|---|---|
+| √mar | māre | māre + tvā | māretvā | having killed |
+| √vas | vāse | ni + vāse + tvā | nivāsetvā | having dressed |
+| √mant | mante | ā + mante + tvā | āmantetvā | having addressed |
+| √nud | node | vi + node + tvā | vinodetvā | having driven out |
+| √vad | vāde | abhi + vāde + tvā | abhivādetvā | having paid respect |
+
 ***
 #### 4. itvā added to the verbal base
 ***
-| √bhuj | bhuñja | bhuñja + itvā    | bhuñjitvā              | having eaten    |
-|-------|--------|------------------|------------------------|-----------------|
-| √chid | chinda | chind + itvā     | chinditvā              | having cut off  |
-| √gah  | gaṇhā  | gaṇhā + itvā     | gaṇhitvā<br>(=gahetvā) | having grabbed  |
-| √lu   | lāya   | lāya + itvā      | lāyitvā                | having reaped   |
-| √sad  | sīda   | ni + sīda + itvā | nisīditva              | having sat down |
-| √dis  | passa  | passa + itvā     | passitvā               | having seen     |
+
+| √bhuj | bhuñja | bhuñja + itvā | bhuñjitvā | having eaten |
+|---|---|---|---|---|
+| √chid | chinda | chind + itvā | chinditvā | having cut off |
+| √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā<br>(=gahetvā) | having grabbed |
+| √lu | lāya | lāya + itvā | lāyitvā | having reaped |
+| √sad | sīda | ni + sīda + itvā | nisīditva | having sat down |
+| √dis | passa | passa + itvā | passitvā | having seen |
+
 ***
 #### 5. -ya added to the root
 
 There is very often sandhi that takes place, please refer to the “**assimilation of y**” from 4th Class.
 ***
-| √gam | to go       | √gam + ya        | ga**mma**     | having gone        |
-|------|-------------|------------------|---------------|--------------------|
-| √vic | to separate | vi + √vic + ya   | vivi**cca**   | having separated   |
-| √ñā  | to know     | ā + √ñā + ya     | aññā**ya**    | having understood  |
-| √ruh | to ascend   | abhi + √ruh + ya | abhiru**yha** | having climbed     |
-| √ādā | to take     | √ādā + ya        | ādā**ya**     | having taken       |
-| √kam | to go       | ati + √kam + ya  | atika**mma**  | having surpassed   |
-| √sad | to sit      | ni + √sad + ya   | nisa**jja**   | having sat down    |
-| √hā  | to abandon  | pa + √hā + ya    | pahā**ya**    | having abandoned   |
+
+| √gam | to go | √gam + ya | ga**mma** | having gone |
+|---|---|---|---|---|
+| √vic | to separate | vi + √vic + ya | vivi**cca** | having separated |
+| √ñā | to know | ā + √ñā + ya | aññā**ya** | having understood |
+| √ruh | to ascend | abhi + √ruh + ya | abhiru**yha** | having climbed |
+| √ādā | to take | √ādā + ya | ādā**ya** | having taken |
+| √kam | to go | ati + √kam + ya | atika**mma** | having surpassed |
+| √sad | to sit | ni + √sad + ya | nisa**jja** | having sat down |
+| √hā | to abandon | pa + √hā + ya | pahā**ya** | having abandoned |
+
 ***
 #### 6. -tya added to the root
 
@@ -118,24 +126,28 @@ This is another form of -ya, occurring in only a few words, but which are common
 ***
 The result from sandhi is the ending **tya \> cca**
 ***
-| √i   | to come | abhi + sam + √i + **ty**a | abhisame**cc**a | having completely understood |
-|------|---------|---------------------------|-----------------|------------------------------|
-| √i   | to come | paṭi + √i + **ty**a       | paṭi**cc**a     | having leaned back           |
-| √i   | to come | saṃ + √i + **ty**a        | same**cc**a     | having met                   |
-| √vid | to know | anu + vid + **ty**a       | anuvi**cc**a    | having investigated          |
+
+| √i | to come | abhi + sam + √i + **ty**a | abhisame**cc**a | having completely understood |
+|---|---|---|---|---|
+| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | having leaned back |
+| √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
+| √vid | to know | anu + vid + **ty**a | anuvi**cc**a | having investigated |
+
 ***
 #### 7. -tvāna -tūna -(i)yāna
 ***
 These forms mostly occur in poetry, often for metrical reasons, but occasionally you can find them in suttas.
 ***
-|          | **-tvāna**  | **-tūna** | **-(i)yāna** |
-|----------|-------------|-----------|--------------|
-| VIN[^20] | 43          |           |              |
-| DN       | 35          | 0         | 1            |
-| MN       | 15          | 0         | 0            |
-| SN       | 48          | 0         | 1            |
-| AN       | 51          | 0         | 1            |
-| KN       | \>1000      | 4         | 17           |
+
+|  | **-tvāna** | **-tūna** | **-(i)yāna** |
+|---|---|---|---|
+| VIN[^20] | 43 |  |  |
+| DN | 35 | 0 | 1 |
+| MN | 15 | 0 | 0 |
+| SN | 48 | 0 | 1 |
+| AN | 51 | 0 | 1 |
+| KN | \>1000 | 4 | 17 |
+
 ***
 [^20]: In the Mūla part
 ***

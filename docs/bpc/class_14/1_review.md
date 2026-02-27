@@ -16,7 +16,6 @@ AN 6.104
 ***
 VIN PAT PA 4
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 14</a>
   <a href="../2_caus_verb/" class="next">Causative Verbs →</a>

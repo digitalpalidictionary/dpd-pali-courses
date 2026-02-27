@@ -1,14 +1,15 @@
 **apa-<br>off, away, away from, badly, negatively, wrongly, forth, reverentially, less, down**
-| | | | |
-|---|---|---|---|
-| √ci                                                                                            | to collect | apacināti | discards, sheds       |
-| √lok                                                                                           | to look    | apaloketi | looks away            |
-| √nam                                                                                           | to bend    | apanāmeti | diverts, sidetracks   |
-| √nī                                                                                            | to lead    | apaneti   | takes out, removes    |
-| √sad                                                                                           | to sink    | apasādeti | disparages, belittles |
-| √vad                                                                                           | to speak   | apavadati | slanders, disrespects |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| √ci | to collect | apacināti | discards, sheds |
+| √lok | to look | apaloketi | looks away |
+| √nam | to bend | apanāmeti | diverts, sidetracks |
+| √nī | to lead | apaneti | takes out, removes |
+| √sad | to sink | apasādeti | disparages, belittles |
+| √vad | to speak | apavadati | slanders, disrespects |
+
+***
 <div class="nav-links">
   <a href="../5_anu/" class="prev">← anu-<br>following, after, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly</a>
   <a href="../7_api/" class="next">api- pi- (rare)<br>on, over, above, onto, close upon, cover →</a>

@@ -43,7 +43,6 @@ Please explain how the **passive voice** gets formed.
 ***
 What is the meaning of Pāli words **parassapada** and **attanopada.**
 ***
-
 <div class="nav-links">
   <a href="../2_voices/" class="prev">← Three Voices: Active, Reflexive and Passive</a>
   <a href="../4_pres/" class="next">Present Tense (vattamānā) →</a>

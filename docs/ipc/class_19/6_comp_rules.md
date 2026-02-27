@@ -82,7 +82,6 @@ mahanta \> mah**ā** + **o**gha \> mah**o**gha (great flood)
 ***
 an**u** + **a**ddhamāsaṃ \> an**va**ddhamāsaṃ (every half month)
 ***
-
 <div class="nav-links">
   <a href="../5_dvanda/" class="prev">← Dvanda Samāsa</a>
   <a href="../7_ex/" class="next">Please translate and determine the →</a>

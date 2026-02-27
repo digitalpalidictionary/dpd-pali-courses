@@ -26,7 +26,6 @@
 ***
 13. What are the three voices of verbs?
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 21</a>
   <a href="../2_voices/" class="next">Three Voices: Active, Reflexive and Passive →</a>

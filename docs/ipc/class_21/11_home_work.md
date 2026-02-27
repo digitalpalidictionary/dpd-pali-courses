@@ -10,12 +10,12 @@
 ***
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Chapter 10 Verbs (para 405 - 438) |
-| Perniola   | Chapter 6 The Verb (p83 - 101)    |
-***
+| Perniola | Chapter 6 The Verb (p83 - 101) |
 
+***
 <div class="nav-links">
   <a href="../10_sum/" class="prev">← Summary of Parassapada & Attanopada Conjugations</a>
   <a href="../../class_22/" class="next">Class 22 →</a>

@@ -18,24 +18,30 @@ Whatever the exact meaning, there are so few examples of it in Pāli, that you a
 ***
 This is constructed by reduplicating the root, which then undergoes some morphological changes.
 ***
-| √bhū | √bhū + bhū | babhū + a  | babhūva |
-|------|------------|------------|---------|
+
+| √bhū | √bhū + bhū | babhū + a | babhūva |
+|---|---|---|---|
+
 ***
 **Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
-| | | |
+
 |---|---|---|
-|                                                                                     | **sg**       | **pl**          |
-| 3 paṭhama                                                                           | babhūv**a**  | babhūv**u**     |
-| 2 majjhima                                                                          | babhūv**e**  | babhūv**ittha** |
-| 1 uttama                                                                            | babhūv**aṃ** | babhūv**imha**  |
+| --- | --- | --- |
+|  | **sg** | **pl** |
+| 3 paṭhama | babhūv**a** | babhūv**u** |
+| 2 majjhima | babhūv**e** | babhūv**ittha** |
+| 1 uttama | babhūv**aṃ** | babhūv**imha** |
+
 ***
 **Perfect Past Attanopada “had become by oneself; <br>had existed by oneself”<br>(√bhū + bhū \> babhū)**
-| | | |
+
 |---|---|---|
-|                                                                                                                  | **sg**          | **pl**         |
-| 3 paṭhama                                                                                                        | babhūv**ittha** | babhūv**ire**  |
-| 2 majjhima                                                                                                       | babhūv**ittho** | babhūv**ivho** |
-| 1 uttama                                                                                                         | babhūv**iṃ**    | babhūv**imhe** |
+| --- | --- | --- |
+|  | **sg** | **pl** |
+| 3 paṭhama | babhūv**ittha** | babhūv**ire** |
+| 2 majjhima | babhūv**ittho** | babhūv**ivho** |
+| 1 uttama | babhūv**iṃ** | babhūv**imhe** |
+
 ***
 Theoretically there is also a **Passive Perfect Past**, but that’s enough non-existent grammatical forms for now.
 ***
@@ -47,7 +53,6 @@ When the Perfect Past occurs in suttas, it is frequently from the irregular root
 
 **āhu** – they said (they had said)
 ***
-
 <div class="nav-links">
   <a href="../6_opt/" class="prev">← Optative (sattamī)</a>
   <a href="../8_imperf/" class="next">Imperfect Past Tense (hiyyattanī) →</a>

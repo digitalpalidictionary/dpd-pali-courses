@@ -9,7 +9,6 @@
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of SBS kuṭis.
 ***
-
 <div class="nav-links">
   <a href="../5_kahap/" class="prev">← Kahāpaṇāna</a>
   <a href="../../class_13/" class="next">Class 13 →</a>

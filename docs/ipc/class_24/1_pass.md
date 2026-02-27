@@ -36,48 +36,53 @@ Passive Base + Verbal Ending \> Passive Verb
 ***
 ### Root + ya
 
-| √dis   | to see   | ya | dissa   | dissati   | is seen    |
-|--------|----------|----|---------|-----------|------------|
-| √khād  | to chew  | ya | khajja  | khajjati  | is chewed  |
+| √dis | to see | ya | dissa | dissati | is seen |
+|---|---|---|---|---|---|
+| √khād | to chew | ya | khajja | khajjati | is chewed |
 | √kilis | to dirty | ya | kilissa | kilissati | is dirtied |
-| √luj   | to break | ya | lujja   | lujjati   | is broken  |
-| √ñā    | to know  | ya | ñāya    | ñāyati    | is known   |
-| √rup   | to break | ya | ruppa   | ruppati   | is broken  |
-| √vad   | to speak | ya | vajja   | vajjati   | is played  |
+| √luj | to break | ya | lujja | lujjati | is broken |
+| √ñā | to know | ya | ñāya | ñāyati | is known |
+| √rup | to break | ya | ruppa | ruppati | is broken |
+| √vad | to speak | ya | vajja | vajjati | is played |
+
 ***
 ### Root + iya
 ***
-| √dhar+ \*e | to carry   | iya | dh**ā**riya | dhāriyati[^20] | is carried    |
-|------------|------------|-----|-------------|----------------|---------------|
-| √pūj       | to honour  | iya | pūjiya      | pūjiyati       | is worshipped |
-| √cud       | to accuse  | iya | c**o**diya  | codiyati       | is accused    |
-| √add       | to afflict | iya | a**ṭṭ**iya  | aṭṭiyati       | is troubled   |
+
+| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^20] | is carried |
+|---|---|---|---|---|---|
+| √pūj | to honour | iya | pūjiya | pūjiyati | is worshipped |
+| √cud | to accuse | iya | c**o**diya | codiyati | is accused |
+| √add | to afflict | iya | a**ṭṭ**iya | aṭṭiyati | is troubled |
+
 ***
 [^20]: These bases mostly exist in participle forms.
 
 
 ### Root + īya
 ***
-| √har | to carry   | īya | harīya     | harīyati  | is carried  |
-|------|------------|-----|------------|-----------|-------------|
-| √jīr | to get old | īya | jīrīya     | jīrīyati  | is aged     |
-| √kar | to do      | īya | karīya     | karīyati  | is done     |
-| √mah | to honour  | īya | mahīya     | mahīyati  | is honoured |
-| √tur | to hurt    | īya | turīya     | āturīyati | is hurt     |
-| √add | to afflict | īya | a**ṭṭ**īya | aṭṭīyati  | is troubled |
+
+| √har | to carry | īya | harīya | harīyati | is carried |
+|---|---|---|---|---|---|
+| √jīr | to get old | īya | jīrīya | jīrīyati | is aged |
+| √kar | to do | īya | karīya | karīyati | is done |
+| √mah | to honour | īya | mahīya | mahīyati | is honoured |
+| √tur | to hurt | īya | turīya | āturīyati | is hurt |
+| √add | to afflict | īya | a**ṭṭ**īya | aṭṭīyati | is troubled |
+
 ***
 Please remember that these passive bases apply to all forms of the verb and even nouns.
 
-| | | |
 |---|---|---|
-| pr  | vi**mucc**ati    | is freed     |
-| aor | vi**mucc**i      | was freed    |
+| --- | --- | --- |
+| pr | vi**mucc**ati | is freed |
+| aor | vi**mucc**i | was freed |
 | fut | vi**mucc**issati | will be free |
-| prp | vi**mucc**amāna  | being freed  |
-| pp  | vi**mucc**ita    | freed        |
-| nt  | vi**mucc**ana    | release      |
-***
+| prp | vi**mucc**amāna | being freed |
+| pp | vi**mucc**ita | freed |
+| nt | vi**mucc**ana | release |
 
+***
 <div class="nav-links">
   <a href="../" class="prev">← Class 24</a>
   <a href="../2_irreg_pass/" class="next">Irregular Passive Bases →</a>

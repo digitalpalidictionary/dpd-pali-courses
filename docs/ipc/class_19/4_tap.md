@@ -150,7 +150,6 @@ man**asi** + kāro \> man**asi**kāro (making **in** mind = attention)
 ***
 majjh**e** + kalyāṇāṇaṃ \> majjh**e**kalyāṇaṃ (beneficial **in** the middle)
 ***
-
 <div class="nav-links">
   <a href="../3_digu/" class="prev">← Digu-samāsa or Numerical Compounds</a>
   <a href="../5_dvanda/" class="next">Dvanda Samāsa →</a>

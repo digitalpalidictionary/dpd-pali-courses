@@ -42,7 +42,6 @@ e.g. pātimokkhasaṃvarasaṃvuta
 ***
 (restrained **and** controlled **by** the precepts)
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 19</a>
   <a href="../2_kamm/" class="next">Kammadhāraya or Adjectival Compounds →</a>

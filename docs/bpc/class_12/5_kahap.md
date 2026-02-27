@@ -1,4 +1,4 @@
-# Kahāpaṇāna![](media/b6c1973333da5540209c01b2c66c22b6.png)
+# Kahāpaṇāna![](/assets/images/kahapana.png)
 ***
 **Kahāpaṇānas from Kosala. Circa 525-465 BC.**
 ***
@@ -18,7 +18,6 @@ The coins were called *kārṣāpaṇa* because they weighed one *karṣa* each,
 ***
 The English word, "Cash", seems similar to the Sanskrit word, *karṣa*.
 ***
-
 <div class="nav-links">
   <a href="../4_ordin/" class="prev">← Ordinal Numbers (saṅkhyā-pūraṇa)</a>
   <a href="../6_home_work/" class="next">Homeless work →</a>

@@ -36,7 +36,6 @@ Traditional grammarians divide *taddhita* suffixes into a few categories
 ***
 There are quite literally hundreds of these examples to be found in grammar books, but very few of them actually exist in the Tipiṭaka. We will go through just real examples, so many of the traditional categories are missing.
 ***
-
 <div class="nav-links">
   <a href="../3_anub/" class="prev">← Anubandha</a>
   <a href="../5_taddh_2/" class="next">\*a (dyed with) →</a>

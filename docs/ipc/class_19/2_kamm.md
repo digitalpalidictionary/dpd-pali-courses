@@ -158,7 +158,6 @@ e.g. na + ariyo \> anariyo (ignoble)
 ***
 e.g. na + kusala \> akusala (not skilful)
 ***
-
 <div class="nav-links">
   <a href="../1_comp/" class="prev">← Compounds (samāsa)</a>
   <a href="../3_digu/" class="next">Digu-samāsa or Numerical Compounds →</a>

@@ -43,24 +43,28 @@ a + √dā + si \> **a**dāsi (he gave)
 ### 1st conjugation group & others
 ***
 **Conjugation of -i aor**
-| | | | | |
+
 |---|---|---|---|---|
-|                       | singular                                       | plural     |                                                         |                |
-| 3rd                   | pac**i**<br>apac**i**                          | he cooked  | pac**iṃsu** <br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked    |
-| 2nd                   | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha** <br>apac**ittha**                          | you all cooked |
-| 1st                   | pac**iṃ**<br>apac**iṃ**                        | I cooked   | pac**imhā**<br>apac**imhā**                             | we cooked      |
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu** <br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
+| 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha** <br>apac**ittha** | you all cooked |
+| 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
+
 ***
 ### 8th conjugation group
 ***
 8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”
 ***
 **Conjugation of -esi aor**
-| | | | | |
+
 |---|---|---|---|---|
-|                         | singular    | plural     |                            |                |
-| 3rd                     | dese**si**  | he taught  | dese**suṃ**                | they taught    |
-| 2nd                     | dese**si**  | you taught | des**ittha**               | you all taught |
-| 1st                     | dese**siṃ** | I taught   | des**imha**<br>des**imhā** | we taught      |
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | dese**si** | he taught | dese**suṃ** | they taught |
+| 2nd | dese**si** | you taught | des**ittha** | you all taught |
+| 1st | dese**siṃ** | I taught | des**imha**<br>des**imhā** | we taught |
+
 ***
 similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 ***
@@ -69,14 +73,15 @@ similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 Some roots ending in long vowels also have the “s” aorist ending. Note the plural endings.
 ***
 **Conjugation of -āsi aor**
-| | | | | |
-|---|---|---|---|---|
-|                         | singular     | plural    |                                |               |
-| 3rd                     | aṭṭhā**si**  | he stood  | aṭṭha**ṃsu**                   | they stood    |
-| 2nd                     | aṭṭhā**si**  | you stood | aṭṭha**ttha**                  | you all stood |
-| 1st                     | aṭṭhā**siṃ** | I stood   | aṭṭha**mha**, <br>aṭṭha**mhā** | we stood      |
-***
 
+|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
+| 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
+| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**, <br>aṭṭha**mhā** | we stood |
+
+***
 <div class="nav-links">
   <a href="../9_masc_i/" class="prev">← Masculine Noun ending in -i</a>
   <a href="../13_home_work/" class="next">Homeless work →</a>

@@ -26,15 +26,17 @@ samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
 ***
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
 ***
-| | | |
+
 |---|---|---|
-| devamanussā   | devā ca manussā ca    | gods and men               |
-| ajeḷakā       | ajā ca eḷakā ca       | goats and sheep            |
-| kukkuṭasūkarā | kukkuṭā ca sūkarā ca  | chickens and pigs          |
-| mittāmaccā    | mittā ca amaccā ca    | friends and colleagues     |
-| ñātimittā     | ñātayo ca mittā ca    | family and friends         |
-| ñātisālohitā  | ñātayo ca sālohitā ca | family and blood-relatives |
-| soṇasiṅgālā   | soṇā ca siṅgālā ca    | dogs and jackals           |
+| --- | --- | --- |
+| devamanussā | devā ca manussā ca | gods and men |
+| ajeḷakā | ajā ca eḷakā ca | goats and sheep |
+| kukkuṭasūkarā | kukkuṭā ca sūkarā ca | chickens and pigs |
+| mittāmaccā | mittā ca amaccā ca | friends and colleagues |
+| ñātimittā | ñātayo ca mittā ca | family and friends |
+| ñātisālohitā | ñātayo ca sālohitā ca | family and blood-relatives |
+| soṇasiṅgālā | soṇā ca siṅgālā ca | dogs and jackals |
+
 ***
 ### samāhāra-dvanda-samāsa
 
@@ -46,32 +48,34 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 ***
 “grass, timber, branches, and leaves”
 ***
-| | |
+
 |---|---|
-| ahorattaṃ              | day and night                      |
-| anayabyasanaṃ          | misfortune and disaster            |
-| bhattavetanaṃ          | food and wages                     |
-| dukkhadomanassaṃ       | pain and stress                    |
-| hirottappaṃ            | shame and fear                     |
-| jarāmaraṇaṃ            | old age and death                  |
-| jātarūparajataṃ        | gold and silver                    |
-| kesamassuṃ             | hair and beard                     |
-| kuddālapiṭakaṃ         | hoe and basket                     |
-| maṃsalohitaṃ           | flesh and blood                    |
-| naccagītaṃ             | dancing and singing                |
-| nāmagottaṃ             | name and clan                      |
-| nāmarūpaṃ              | name and form                      |
-| ñāṇadassanaṃ           | knowledge and vision               |
-| pītisukhaṃ             | joy and happiness                  |
-| sākhāpalāsaṃ           | branches and leaves                |
-| sayanāsanaṃ            | bed and seat                       |
-| senāsanaṃ              | bedding and seating                |
-| sīlabbataṃ             | rites and rituals                  |
-| surāmerayaṃ            | wine and spirits                   |
-| thīnamiddhaṃ           | dullness and drowsiness            |
+| --- | --- |
+| ahorattaṃ | day and night |
+| anayabyasanaṃ | misfortune and disaster |
+| bhattavetanaṃ | food and wages |
+| dukkhadomanassaṃ | pain and stress |
+| hirottappaṃ | shame and fear |
+| jarāmaraṇaṃ | old age and death |
+| jātarūparajataṃ | gold and silver |
+| kesamassuṃ | hair and beard |
+| kuddālapiṭakaṃ | hoe and basket |
+| maṃsalohitaṃ | flesh and blood |
+| naccagītaṃ | dancing and singing |
+| nāmagottaṃ | name and clan |
+| nāmarūpaṃ | name and form |
+| ñāṇadassanaṃ | knowledge and vision |
+| pītisukhaṃ | joy and happiness |
+| sākhāpalāsaṃ | branches and leaves |
+| sayanāsanaṃ | bed and seat |
+| senāsanaṃ | bedding and seating |
+| sīlabbataṃ | rites and rituals |
+| surāmerayaṃ | wine and spirits |
+| thīnamiddhaṃ | dullness and drowsiness |
 | tiṇakaṭṭhasākhāpalāsaṃ | grass, timber, branches and leaves |
-| uddhaccakukkuccaṃ      | restlessness and remorse           |
-| vijjācaraṇaṃ           | understanding and conduct          |
+| uddhaccakukkuccaṃ | restlessness and remorse |
+| vijjācaraṇaṃ | understanding and conduct |
+
 ***
 Other than those in masculine plural and neuter singular, *dvandasamāsa* occur in the **gender** of the **last word** in the compound.
 ***

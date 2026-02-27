@@ -87,7 +87,6 @@ yogakkhema
 
 ādikalyāṇa
 ***
-
 <div class="nav-links">
   <a href="../6_comp_rules/" class="prev">← General “Rules” for Compounds</a>
   <a href="../8_home_work/" class="next">Homeless work →</a>

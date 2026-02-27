@@ -4,13 +4,15 @@ Numbers are **adjectives** that describe how many of something there are, etc.
 ***
 There are different types of numbers used in Pāli Grammar
 ***
-| 1.  | cardinal       | one, two, three, ...      |
-|-----|----------------|---------------------------|
-| 2.  | ordinal        | first, second, third, ... |
-| 3.  | distributive   | one by one, two by two    |
-| 4.  | fractional     | 1/2, 1/3, 1/4, 1/16       |
-| 5.  | multiplicative | 1 time, 2 times, 3 times  |
-| 6.  | adverbial      | second time, third time   |
+
+| 1. | cardinal | one, two, three, ... |
+|---|---|---|
+| 2. | ordinal | first, second, third, ... |
+| 3. | distributive | one by one, two by two |
+| 4. | fractional | 1/2, 1/3, 1/4, 1/16 |
+| 5. | multiplicative | 1 time, 2 times, 3 times |
+| 6. | adverbial | second time, third time |
+
 ***
 Today, let’s look at Cardinal and Ordinal numbers.
 ***
@@ -28,7 +30,6 @@ paṭhama, dutiya, tatiya, …
 ***
 first, second, third, etc
 ***
-
 <div class="nav-links">
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_card/" class="next">Cardinal Numbers (saṅkhyā-padhāna) →</a>

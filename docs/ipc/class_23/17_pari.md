@@ -1,18 +1,19 @@
 **pari- pali-<br>around, all around, about, all about, overall, completely**
-| | | | |
-|---|---|---|---|
-| √khaṇ                                                                            | to dig      | palikhaṇati  | digs all around          |
-| √veṭh                                                                            | to twist    | paliveṭheti  | encircles                |
-| √vaj                                                                             | to go on    | paribbajati  | wanders around           |
-| √har                                                                             | to carry    | pariharati   | revolves, carries around |
-| √ñā                                                                              | to know     | parijānāti   | totally understands      |
-| √phar                                                                            | to pervade  | parippharati | suffuses; saturates      |
-| √rudh                                                                            | to obstruct | parirundhati | besieges; surrounds      |
-| √ādā                                                                             | to take     | pariyādiyati | completely overcomes     |
-| √ap                                                                              | to reach    | pariyāpuṇāti | studies, masters         |
-| √yā                                                                              | to go       | pariyāyati   | flee in all directions   |
-***
 
+|---|---|---|---|
+| --- | --- | --- | --- |
+| √khaṇ | to dig | palikhaṇati | digs all around |
+| √veṭh | to twist | paliveṭheti | encircles |
+| √vaj | to go on | paribbajati | wanders around |
+| √har | to carry | pariharati | revolves, carries around |
+| √ñā | to know | parijānāti | totally understands |
+| √phar | to pervade | parippharati | suffuses; saturates |
+| √rudh | to obstruct | parirundhati | besieges; surrounds |
+| √ādā | to take | pariyādiyati | completely overcomes |
+| √ap | to reach | pariyāpuṇāti | studies, masters |
+| √yā | to go | pariyāyati | flee in all directions |
+
+***
 <div class="nav-links">
   <a href="../16_para/" class="prev">← parā- (quite rare)<br>beyond, again, continuously, wrongly, away, back, opposite, aside</a>
   <a href="../18_vi/" class="next">vi- <br>apart, away, without, separately, variously, special, distinctly, dispersion, opposite, transformation →</a>

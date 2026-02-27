@@ -18,7 +18,6 @@ adukkham’asukhaṃ santaṃ, adassi taṃ aniccato.
 ***
 SN 36.5 (simpl)
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 12</a>
   <a href="../2_numb/" class="next">Numbers (saṅkhyā) →</a>

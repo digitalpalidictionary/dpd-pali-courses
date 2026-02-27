@@ -4,9 +4,9 @@ When a word ends in a **long vowel** and the next word begins with **e**,
 ***
 **e** may be changed to **ri** and the long vowel **shortened**.
 ***
-yath**ā**![](media/600cdd2c0fa42269d4d2097fe97305d7.png)**e**va \> yatha**ri**va
+yath**ā**![](/assets/images/arrow.png)**e**va \> yatha**ri**va
 ***
-**ā![](media/600cdd2c0fa42269d4d2097fe97305d7.png)e \> ari**
+**ā![](/assets/images/arrow.png)e \> ari**
 ***
 This means:
 ***
@@ -22,7 +22,6 @@ In Kaccāyana this is called (22) **ev’ādissa ri pubbo ca rasso.**
 ***
 *sara-sandhi-niṭṭhitaṃ*
 ***
-
 <div class="nav-links">
   <a href="../10_vowel_8/" class="prev">← Consonant Insertions</a>
   <a href="../12_vowel_ref_table/" class="next">Vowel Sandhi Reference Table →</a>

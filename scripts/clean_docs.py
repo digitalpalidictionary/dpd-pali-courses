@@ -121,6 +121,57 @@ class TableFixer:
 
         return "\n".join(md_table_lines)
 
+    def clean_standard_tables(self, text):
+        lines = text.splitlines()
+        new_lines = []
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if "|" in line:
+                # Potential table start
+                table_lines = []
+                while i < len(lines) and "|" in lines[i]:
+                    table_lines.append(lines[i])
+                    i += 1
+                
+                # Check if it's a valid markdown table (has a separator row)
+                if len(table_lines) >= 2:
+                    separator_idx = -1
+                    for idx, tl in enumerate(table_lines):
+                         if re.match(r"^\s*\|?([\s:-]*\|)+[\s:-]*\s*$", tl):
+                             separator_idx = idx
+                             break
+                    
+                    if separator_idx != -1:
+                        # Clean the table
+                        cleaned_table = []
+                        for idx, tl in enumerate(table_lines):
+                            cells = self.get_cells(tl)
+                            if idx == separator_idx:
+                                # Reconstruct separator based on cell count
+                                # But use original alignment if possible
+                                cleaned_table.append("|" + "---|" * len(cells))
+                            else:
+                                cleaned_table.append("| " + " | ".join(cells) + " |")
+                        
+                        # Ensure blank line before
+                        if new_lines and new_lines[-1].strip():
+                            new_lines.append("")
+                        new_lines.extend(cleaned_table)
+                        # Ensure blank line after
+                        if i < len(lines) and lines[i].strip():
+                            new_lines.append("")
+                        continue
+                    else:
+                        new_lines.extend(table_lines)
+                else:
+                    new_lines.extend(table_lines)
+                continue
+            else:
+                new_lines.append(line)
+            i += 1
+        return "\n".join(new_lines) + ("\n" if text.endswith("\n") else "")
+
     def restructure_sentence_analysis(self, text, file_path=""):
         is_ex_file = "_ex/" in file_path
         no_numbering = any(f in file_path for f in ["15_class.md", "29_class.md"])
@@ -261,12 +312,12 @@ class TableFixer:
             nonlocal sentence_active, current_rows, max_cols, table_flushed_for_current_sentence, last_flushed_rows
             if current_rows:
                 # Deduplicate check against LAST table flushed in this sentence/block
-                normalized_current = [normalize_row(r) for r in current_rows]
+                normalized_current = [normalize_row(r) for r in current_rows if not is_marker(self.get_cells(r)[0])]
                 normalized_last = [normalize_row(r) for r in last_flushed_rows]
                 
-                if normalized_current != normalized_last:
+                if normalized_current and normalized_current != normalized_last:
                     flush_table(current_rows, max_cols, False)
-                    last_flushed_rows = list(current_rows)
+                    last_flushed_rows = [r for r in current_rows if not is_marker(self.get_cells(r)[0])]
                     table_flushed_for_current_sentence = True
             current_rows = []
             if is_ex_file and sentence_active:
@@ -286,7 +337,7 @@ class TableFixer:
             # Split only if <br> is followed by a Reference pattern (2+ capital letters then space then digit)
             # This separates introductory notes from actual sentences with references.
             parts = re.split(r'<br>\s*(?=[A-Z]{2,}\s+\d+)', txt)
-            return [p.strip() for p in parts if p.strip()]
+            return [p.strip() for p in parts if p.strip()] or [txt.strip()]
 
         def is_pure_reference(s):
             # Matches strings like "MN 19 (simpl)" or "SN 10.8" or "VIN 1.2.12"
@@ -504,16 +555,20 @@ class TableFixer:
 
             if stripped:
                 # LOOKAHEAD MERGE for standalone lines
-                if is_pure_reference(stripped) and i + 1 < len(lines):
-                    next_stripped = lines[i+1].strip()
-                    if not next_stripped and i + 2 < len(lines):
-                        next_stripped = lines[i+2].strip()
-                        if is_pali_sentence(next_stripped) and not is_pure_reference(next_stripped):
+                if is_pali_sentence(stripped) and i + 1 < len(lines):
+                    # Check if next lines are also Pāli and should be part of the same block (Gatha)
+                    peek_i = i + 1
+                    while peek_i < len(lines):
+                        next_stripped = lines[peek_i].strip()
+                        if not next_stripped:
+                            peek_i += 1
+                            continue
+                        if is_pali_sentence(next_stripped) and not is_pure_reference(next_stripped) and not re.match(r'^\d+\.', next_stripped):
                             stripped = stripped + " <br>" + next_stripped
-                            i += 2 # skip blank and next
-                    elif is_pali_sentence(next_stripped) and not is_pure_reference(next_stripped):
-                        stripped = stripped + " <br>" + next_stripped
-                        i += 1
+                            i = peek_i
+                            peek_i += 1
+                        else:
+                            break
 
                 parts = split_combined_content(stripped)
                 for part in parts:
@@ -579,13 +634,17 @@ def main():
 
     def process_file(fp):
         if "ipc/class_18/11_ex.md" in fp: return
-        # Process _ex folders, Skip _key folders for now
-        if "_key/" in fp: return
         
+        print(f"Processing: {fp}")
         with open(fp, "r") as f: content = f.read()
         orig = content
         content = bc.clean(content)
-        content = tf.restructure_sentence_analysis(content, fp)
+        content = tf.clean_standard_tables(content)
+        
+        # Only apply complex restructuring to exercise/key files
+        if "_ex/" in fp or "_key/" in fp:
+            content = tf.restructure_sentence_analysis(content, fp)
+            
         if content != orig:
             with open(fp, "w") as f: f.write(content)
             print(f"  [FIXED] {fp}")
@@ -597,7 +656,11 @@ def main():
             for file in files:
                 if file.endswith(".md"):
                     fp = os.path.join(root, file)
-                    if "_ex/" not in fp and "bpc/" not in root and "ipc/" not in root: continue
-                    process_file(fp)
+                    # Process _ex and _key folders, and all bpc/ipc course files
+                    if "_ex/" in fp or "_key/" in fp:
+                        process_file(fp)
+                    elif "docs/bpc/" in fp or "docs/ipc/" in fp:
+                        # Avoid index files if they don't need this processing, but usually they are fine
+                        process_file(fp)
 
 if __name__ == "__main__": main()

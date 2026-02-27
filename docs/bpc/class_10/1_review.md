@@ -24,7 +24,6 @@
 ***
 *SN55.23 godhasakkasutta*
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 10</a>
   <a href="../2_prp/" class="next">Present Participle (missakiriya) →</a>

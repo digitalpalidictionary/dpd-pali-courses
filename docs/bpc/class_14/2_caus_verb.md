@@ -172,7 +172,6 @@ he causes to calm = **he stills, he calms**
 ***
 he causes to be = **he develops, he cultivates**
 ***
-
 <div class="nav-links">
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_caus_pass/" class="next">Causative Passive Verbs →</a>

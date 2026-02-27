@@ -33,14 +33,15 @@ pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
 sakuṇā + ti \> sakuṇāti (he is able)
 ***
 **Conjugation of -āti pr**
-| | | | | |
-|---|---|---|---|---|
-|                        | singular   | plural   |             |              |
-| 3rd                    | suṇā**ti** | he hears | suṇa**nti** | they hear    |
-| 2nd                    | suṇā**si** | you hear | suṇā**tha** | you all hear |
-| 1st                    | suṇā**mi** | I hear   | suṇā**ma**  | we hear      |
-***
 
+|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
+|  | singular | plural |  |  |
+| 3rd | suṇā**ti** | he hears | suṇa**nti** | they hear |
+| 2nd | suṇā**si** | you hear | suṇā**tha** | you all hear |
+| 1st | suṇā**mi** | I hear | suṇā**ma** | we hear |
+
+***
 <div class="nav-links">
   <a href="../6_root_1/" class="prev">← Root Group 1 - bhūvādigaṇa</a>
   <a href="../8_root_5/" class="next">Root Group 5 - kiyādigaṇa →</a>

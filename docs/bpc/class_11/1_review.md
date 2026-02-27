@@ -24,7 +24,6 @@ dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ.
 ***
 *DHP 60*
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 11</a>
   <a href="../2_pp/" class="next">(Passive) Past Participles →</a>

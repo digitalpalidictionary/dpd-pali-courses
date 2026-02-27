@@ -58,7 +58,6 @@ papañcasamatikkante, tiṇṇasokapariddave.
 ***
 All the normal cases where vowels do not get lengthened or shortened.
 ***
-
 <div class="nav-links">
   <a href="../4_cons_2/" class="prev">← Possibility \#2</a>
   <a href="../6_cons_4/" class="next">Possibility \#4 →</a>

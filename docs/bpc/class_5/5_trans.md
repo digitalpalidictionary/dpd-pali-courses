@@ -54,7 +54,6 @@ He asked the Venerable Sāriputta a further question.
 ***
 The verbs that are *intransitive*, *transitive* and *di-transitive* in English are not the same in Pāli, so look out for them on a case by case basis.
 ***
-
 <div class="nav-links">
   <a href="../4_masc_ii/" class="prev">← Masculine nouns ending in -ī</a>
   <a href="../6_say_no/" class="next">How to say No! →</a>

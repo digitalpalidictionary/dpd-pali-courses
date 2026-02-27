@@ -12,7 +12,6 @@ There are three basic types of Consonant Sandhi
 ***
 Re-duplication and shortening occur commonly in prose, while shortening and lengthening often occur for the sake of meter in verse.
 ***
-
 <div class="nav-links">
   <a href="../1_alphabet_analys/" class="prev">← Pāli Alphabet Analysis</a>
   <a href="../3_cons_1/" class="next">Possibility \#1 →</a>

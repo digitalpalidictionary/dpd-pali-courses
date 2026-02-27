@@ -28,7 +28,6 @@ DHP 187
 ***
 DN 22.18
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 3</a>
   <a href="../2_conjug/" class="next">Conjugation of Verbs →</a>

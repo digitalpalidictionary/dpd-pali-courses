@@ -16,18 +16,20 @@
 ***
 AN 5.57 **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
 ***
-| | | | |
+
 |---|---|---|---|
-| nāhaṃ                                                              | sandhi |          | I not             |
-|  **na-**                                                           | ind    | neg      | not               |
-|  **ahaṃ**                                                          | pn     | 1.n.s    | I                 |
-| bhabbo                                                             | adj    | m.n.s    | possible          |
-| etarahi                                                            | ind    | adv      | now               |
-| kāmāni                                                             | n      | nt.ac.pl | sensual pleasures |
-| paṭisevituṃ                                                        | v      | inf      | to indulge in     |
-|  **na-**                                                           | ind    | neg      | not[^2]           |
-|  **ahaṃ**                                                          | pn     | 1.n.s    | I                 |
-| **Now it is not possible for me to indulge in sensual pleasures.** |        |          |                   |
+| --- | --- | --- | --- |
+| nāhaṃ | sandhi |  | I not |
+| **na-** | ind | neg | not |
+| **ahaṃ** | pn | 1.n.s | I |
+| bhabbo | adj | m.n.s | possible |
+| etarahi | ind | adv | now |
+| kāmāni | n | nt.ac.pl | sensual pleasures |
+| paṭisevituṃ | v | inf | to indulge in |
+| **na-** | ind | neg | not[^2] |
+| **ahaṃ** | pn | 1.n.s | I |
+| **Now it is not possible for me to indulge in sensual pleasures.** |  |  |  |
+
 ***
 [^2]: This is because the exercise document does not include a space after the actual sandhi, but it does have an empty space after each sentence. This is done to prevent giving students hints about where the sandhi occurs.
 ***
@@ -37,13 +39,13 @@ AN 5.57 **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
 ***
 ### Extra Reading
 
-| | |
 |---|---|
-| Duroiselle          | Vowel Sandhi p6-12 |
-| Perniola            | Vowel Sandhi p7-12 |
-| Māgadhabhāsā (pāḷi) | Vowel Sandhi p31   |
-***
+| --- | --- |
+| Duroiselle | Vowel Sandhi p6-12 |
+| Perniola | Vowel Sandhi p7-12 |
+| Māgadhabhāsā (pāḷi) | Vowel Sandhi p31 |
 
+***
 <div class="nav-links">
   <a href="../12_vowel_ref_table/" class="prev">← Vowel Sandhi Reference Table</a>
   <a href="../../class_17/" class="next">Class 17 →</a>

@@ -85,7 +85,6 @@ after death, he **gets** no happiness.
 ***
 Please note! The Reflexive Voice is also sometimes used **just for the sake of the meter** of the verse, so you must judge for yourself when to apply the reflexive meaning - sometimes it will not make sense!
 ***
-
 <div class="nav-links">
   <a href="../1_revision/" class="prev">← Revision of Verbs</a>
   <a href="../3_pass_refl/" class="next">Passive Reflexive →</a>

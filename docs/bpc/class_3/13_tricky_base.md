@@ -18,7 +18,6 @@ These are some forms of verbal bases you may encounter in the exercises, they ar
 ***
 pa + √hā (abandon) + hā + a \> jaha + ti \> pajahati (reduplication)
 ***
-
 <div class="nav-links">
   <a href="../12_help_with_ex/" class="prev">← Some things that will help you when doing the exercises</a>
   <a href="../14_home_work/" class="next">Homeless work →</a>

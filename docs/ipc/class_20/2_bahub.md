@@ -262,7 +262,6 @@ when the meaning of another (i.e. external) word (ya, ima, etc.) (is predominant
 
 [^8]: Some grammatical sources recognize a complete bahubbīhi only when it is a noun.
 ***
-
 <div class="nav-links">
   <a href="../1_abya/" class="prev">← Abyayībhāva-samāsa or Adverbial Compounds</a>
   <a href="../3_mis/" class="next">Missaka-samāsa or Complex Compounds →</a>

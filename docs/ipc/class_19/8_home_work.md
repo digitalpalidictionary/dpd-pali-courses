@@ -11,12 +11,12 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | samāsa |
-| Perniola   | samāsa |
-***
+| Perniola | samāsa |
 
+***
 <div class="nav-links">
   <a href="../7_ex/" class="prev">← Please translate and determine the</a>
   <a href="../../class_20/" class="next">Class 20 →</a>

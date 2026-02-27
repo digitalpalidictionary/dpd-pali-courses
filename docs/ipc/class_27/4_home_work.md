@@ -12,11 +12,11 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Primary Derivatives (574-578) |
-***
 
+***
 <div class="nav-links">
   <a href="../3_kita/" class="prev">← Kita</a>
   <a href="../../class_28/" class="next">Class 28 →</a>

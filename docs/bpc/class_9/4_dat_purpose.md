@@ -14,7 +14,6 @@ atha kho te bhikkhū sāvatthiyaṃ **piṇḍāya** caritvā … (MN13)
 ***
 Then those monks, having walked **for alms** in Sāvatthi …
 ***
-
 <div class="nav-links">
   <a href="../3_inf/" class="prev">← The Infinitive (tumanta)</a>
   <a href="../5_yava_tava/" class="next">yāva … tāva →</a>

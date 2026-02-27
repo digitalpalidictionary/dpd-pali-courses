@@ -19,20 +19,21 @@ You will become very familiar with these cases in the upcoming weeks
 ***
 ### Some Basic Vocabulary to illustrate the case endings
 
-| | | |
 |---|---|---|
-| thera    | masc. | elder     |
-| sāvaka   | masc. | disciple  |
-| sīha     | masc. | lion      |
-| upāsaka  | masc. | devotee   |
-| āvāsa    | masc. | residence |
-| gāma     | masc. | village   |
-| patta    | masc. | alms bowl |
-| magga    | masc. | road      |
-| gacchati | masc. | goes      |
-| khādati  | masc. | eats      |
-| carati   | masc. | walks     |
-| deti     | masc. | gives     |
+| --- | --- | --- |
+| thera | masc. | elder |
+| sāvaka | masc. | disciple |
+| sīha | masc. | lion |
+| upāsaka | masc. | devotee |
+| āvāsa | masc. | residence |
+| gāma | masc. | village |
+| patta | masc. | alms bowl |
+| magga | masc. | road |
+| gacchati | masc. | goes |
+| khādati | masc. | eats |
+| carati | masc. | walks |
+| deti | masc. | gives |
+
 ***
 ### 1. Nominative Case (paṭhamā)
 
@@ -212,16 +213,18 @@ ehi **upāsaka**!
 ehi **paññādhammika!**
 ***
 **In Summary**
-| | | |
+
 |---|---|---|
-| 1. Nominative   | nar**o**                            | the man (subject)         |
-| 2. Accusative   | nar**aṃ**                           | the man (object)          |
-| 3. Instrumental | nar**ena**                          | by, with, through the man |
-| 4. Dative       | nar**āya,** nar**assa**             | to the man, for the man   |
-| 5. Ablative     | nar**ā**, nar**amhā,** nar**asmā**  | from the man              |
-| 6. Genitive     | nar**assa**                         | of the man, the man’s     |
-| 7. Locative     | nar**e,** nar**amhi**, nar**asmiṃ** | in, on, at the man        |
-| 8. Vocative     | nar**a**, nar**ā**                  | hey, man! o, man!         |
+| --- | --- | --- |
+| 1. Nominative | nar**o** | the man (subject) |
+| 2. Accusative | nar**aṃ** | the man (object) |
+| 3. Instrumental | nar**ena** | by, with, through the man |
+| 4. Dative | nar**āya,** nar**assa** | to the man, for the man |
+| 5. Ablative | nar**ā**, nar**amhā,** nar**asmā** | from the man |
+| 6. Genitive | nar**assa** | of the man, the man’s |
+| 7. Locative | nar**e,** nar**amhi**, nar**asmiṃ** | in, on, at the man |
+| 8. Vocative | nar**a**, nar**ā** | hey, man! o, man! |
+
 ***
 What’s the difference between Thai and Sri Lankan bhikkhu names?
 ***
@@ -232,39 +235,44 @@ Sumedh**a**
 Which one is correct?
 ***
 **Declension of -a masc**
-| | | |
+
 |---|---|---|
-|                       | Singular                            | Plural      |
-| 1. Nominative         | nar**o**                            | nar**ā**    |
-| 2. Accusative         | nar**aṃ**                           | nar**e**    |
-| 3. Instrumental       | nar**ena**                          | nar**ehi**  |
-| 4. Dative             | nar**āya,** nar**assa**             | nar**ānaṃ** |
-| 5. Ablative           | nar**ā**, nar**amhā**, nar**asmā**  | nar**ehi**  |
-| 6. Genitive           | nar**assa**                         | nar**ānaṃ** |
-| 7. Locative           | nar**e,** nar**amhi**, nar**asmiṃ** | nar**esu**  |
-| 8. Vocative           | nar**a**, nar**ā**                  | nar**ā**    |
+| --- | --- | --- |
+|  | Singular | Plural |
+| 1. Nominative | nar**o** | nar**ā** |
+| 2. Accusative | nar**aṃ** | nar**e** |
+| 3. Instrumental | nar**ena** | nar**ehi** |
+| 4. Dative | nar**āya,** nar**assa** | nar**ānaṃ** |
+| 5. Ablative | nar**ā**, nar**amhā**, nar**asmā** | nar**ehi** |
+| 6. Genitive | nar**assa** | nar**ānaṃ** |
+| 7. Locative | nar**e,** nar**amhi**, nar**asmiṃ** | nar**esu** |
+| 8. Vocative | nar**a**, nar**ā** | nar**ā** |
+
 ***
 Please learn this table by heart. Why?
 ***
-|                                           | **Frequency of appearance in Tipiṭaka[^3]** |
-|-------------------------------------------|---------------------------------------------|
-| masculine nouns ending in **-a**          | **11834**                                   |
-| masculine nouns ending in **-i -ī -u -ū** | 1549                                        |
-| masculine nouns total                     | **13383**                                   |
-| masculine nouns ending in **-a**          | **88%**                                     |
+
+|  | **Frequency of appearance in Tipiṭaka[^3]** |
+|---|---|
+| masculine nouns ending in **-a** | **11834** |
+| masculine nouns ending in **-i -ī -u -ū** | 1549 |
+| masculine nouns total | **13383** |
+| masculine nouns ending in **-a** | **88%** |
+
 ***
 [^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
 ***
-| | |
+
 |---|---|
-| neuter nouns ending in **-aṃ**   | **14747** |
-| neuter nouns ending in **-i -u** | 452       |
-| neuter nouns total               | **15199** |
-|                                  | **97%**   |
+| --- | --- |
+| neuter nouns ending in **-aṃ** | **14747** |
+| neuter nouns ending in **-i -u** | 452 |
+| neuter nouns total | **15199** |
+|  | **97%** |
+
 ***
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
 ***
-
 <div class="nav-links">
   <a href="../2_alphabet/" class="prev">← The Alphabet & Pronunciation</a>
   <a href="../4_home_work/" class="next">How to do the exercises →</a>

@@ -4,12 +4,14 @@
 
 The easiest way to make a verb into its negative is to add the particle “**na**” before it.
 ***
-| | |
+
 |---|---|
-| ahaṃ jānāmi           | I know          |
-| ahaṃ na jānāmi        | I don’t know    |
-| so naro atthi         | he is a man     |
+| --- | --- |
+| ahaṃ jānāmi | I know |
+| ahaṃ na jānāmi | I don’t know |
+| so naro atthi | he is a man |
 | so naro na atthi[^16] | he is not a man |
+
 ***
 [^16]: It frequently appears in text as **n'atthi**
 
@@ -55,7 +57,6 @@ jhāyatha, bhikkhave, mā pamādā attha (MN 19 simpl)
 ***
 Meditate, monks! Don’t be negligent!
 ***
-
 <div class="nav-links">
   <a href="../5_trans/" class="prev">← Intransitive, Transitive and di-transitive verbs</a>
   <a href="../7_with/" class="next">With & together with “saddhiṃ” and “saha” →</a>

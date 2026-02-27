@@ -43,20 +43,23 @@ kathe + **eyyātha** \> katheyyātha (you all might tell)
 suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 ***
 **Conjugation of -eyya opt**
-| | | |
+
 |---|---|---|
-| 3rd                      | gacche**yya** gacche   | gacche**yyuṃ**   |
-| 2nd                      | gacche**yyāsi** gacche | gacche**yyātha** |
-| 1st                      | gacche**yyāmi** gacche | gacche**yyāma**  |
+| --- | --- | --- |
+| 3rd | gacche**yya** gacche | gacche**yyuṃ** |
+| 2nd | gacche**yyāsi** gacche | gacche**yyātha** |
+| 1st | gacche**yyāmi** gacche | gacche**yyāma** |
+
 ***
 ### Optative of √as
 
 It has two forms:
 
-| 3rd | **assa**<br>**siyā**   | he could be  | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
-|-----|------------------------|--------------|--------------------------------------|---------------|
-| 2nd | **assa**<br>**siyā**   | you could be | **assatha**<br>**-**                 | you could be  |
-| 1st | **assaṃ**<br>**siyaṃ** | I could be   | **assāma**<br>**-**                  | we could be   |
+| 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
+|---|---|---|---|---|
+| 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you could be |
+| 1st | **assaṃ**<br>**siyaṃ** | I could be | **assāma**<br>**-** | we could be |
+
 ***
 highly used!
 ***
@@ -74,7 +77,6 @@ aho vata mayaṃ na maraṇadhammā **assāma** (MN 10.16)
 ***
 Oh **may we** not **be** of a nature to die!
 ***
-
 <div class="nav-links">
   <a href="../2_fem_aa/" class="prev">← Feminine Nouns ending in -ā</a>
   <a href="../4_pali_lists/" class="next">Traditional Pāli Root lists →</a>

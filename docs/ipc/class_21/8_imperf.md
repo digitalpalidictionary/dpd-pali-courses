@@ -13,24 +13,27 @@ This past tense has also almost completely died out in Pāli, apart from some co
 This verbal form also can take an **a-** augment in front, like the aorist. Let’s look at the conjugation.
 ***
 **Imperfect Past Attanopada “went or was going”<br>(√gam)**
-| | | |
+
 |---|---|---|
-|                                                                 | **sg**                  | **pl**                              |
-| 3 paṭhama                                                       | agam**ā**               | agam**u ;** agam**ū**<br>agam**uṃ** |
-| 2 majjhima                                                      | agam**o**               | agam**attha**                       |
-| 1 uttama                                                        | agam**a**<br>agam**aṃ** | agam**amhā**                        |
+| --- | --- | --- |
+|  | **sg** | **pl** |
+| 3 paṭhama | agam**ā** | agam**u ;** agam**ū**<br>agam**uṃ** |
+| 2 majjhima | agam**o** | agam**attha** |
+| 1 uttama | agam**a**<br>agam**aṃ** | agam**amhā** |
+
 ***
 **Imperfect Past Parassapada <br>“went by oneself or was going by oneself”<br>(√gam)**
-| | | |
+
 |---|---|---|
-|                                                                                                | **sg**        | **pl**          |
-| 3 paṭhama                                                                                      | agam**attha** | agam**atthuṃ**  |
-| 2 majjhima                                                                                     | agam**ase**   | agam**avhaṃ**   |
-| 1 uttama                                                                                       | agam**iṃ**    | agam**amhase**  |
+| --- | --- | --- |
+|  | **sg** | **pl** |
+| 3 paṭhama | agam**attha** | agam**atthuṃ** |
+| 2 majjhima | agam**ase** | agam**avhaṃ** |
+| 1 uttama | agam**iṃ** | agam**amhase** |
+
 ***
 Technically there is also a **Passive Imperfect Past**. How would that be formed?
 ***
-
 <div class="nav-links">
   <a href="../7_perf/" class="prev">← Perfect Past Tense (parokkhā)</a>
   <a href="../9_aor/" class="next">Aorist (ajjatanī) →</a>

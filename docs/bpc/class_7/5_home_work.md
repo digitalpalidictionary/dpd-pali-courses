@@ -16,13 +16,13 @@
 ***
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | A.K. Warder Introduction to Pāli | p86-88 (Optative tense) |
-| V. Perniola<br>Pāli Grammar      | p85–87 (Optative verbs) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi)    | Corresponding chapters  |
-***
+| V. Perniola<br>Pāli Grammar | p85–87 (Optative verbs) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
+***
 <div class="nav-links">
   <a href="../4_pali_lists/" class="prev">← Traditional Pāli Root lists</a>
   <a href="../../class_8/" class="next">Class 8 →</a>

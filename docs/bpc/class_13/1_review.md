@@ -16,7 +16,6 @@ SN 1.30
 ***
 VIN 1.4.1.1
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 13</a>
   <a href="../2_adv/" class="next">Adverbs →</a>

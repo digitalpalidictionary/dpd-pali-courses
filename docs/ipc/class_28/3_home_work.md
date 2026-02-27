@@ -12,9 +12,10 @@
 
 ### Extra Reading
 
-| | |
 |---|---|
+| --- | --- |
 | Duroiselle | Primary Derivatives (574-578) |
+
 ***
 ## How to progress with Pāli from here
 

@@ -24,7 +24,6 @@ MN 107
 ***
 VIN PAT NID
 ***
-
 <div class="nav-links">
   <a href="../" class="prev">← Class 4</a>
   <a href="../2_dpr_tpr/" class="next">How to use DPR →</a>
