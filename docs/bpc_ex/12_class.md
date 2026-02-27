@@ -29,7 +29,7 @@
 **&nbsp;**
 
 
-14. MN 16 <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni **aṭṭha** vā **dasa** vā **dvādasa** vā.
+2.  MN 16 <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni **aṭṭha** vā **dasa** vā **dvādasa** vā.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@
 **&nbsp;**
 
 
-15. UD 45 <br>seyyathāpi, bhikkhave, mahāsamuddo **eka**raso loṇaraso, evameva kho, bhikkhave, ayaṃ dhammavinayo **eka**raso vimuttiraso
+3.  UD 45 <br>seyyathāpi, bhikkhave, mahāsamuddo **eka**raso loṇaraso, evameva kho, bhikkhave, ayaṃ dhammavinayo **eka**raso vimuttiraso
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@
 **&nbsp;**
 
 
-17. SN 1.37 <br>**ekaṃ** samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ **pañca**mattehi bhikkhu**satehi** sabbeh’eva arahantehi
+4.  SN 1.37 <br>**ekaṃ** samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ **pañca**mattehi bhikkhu**satehi** sabbeh’eva arahantehi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@
 **&nbsp;**
 
 
-18. AN 1.12 <br>nāhaṃ, bhikkhave, aññaṃ **eka**dhammam’pi samanupassāmi yena anuppanno byāpādo uppajjati, yatha’y’idaṃ, bhikkhave, paṭighanimittaṃ
+5.  AN 1.12 <br>nāhaṃ, bhikkhave, aññaṃ **eka**dhammam’pi samanupassāmi yena anuppanno byāpādo uppajjati, yatha’y’idaṃ, bhikkhave, paṭighanimittaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@
 **&nbsp;**
 
 
-21. SN 56.14 <br>**cattāri** imāni, bhikkhave, ariyasaccāni. katamāni **cattāri**?
+6.  SN 56.14 <br>**cattāri** imāni, bhikkhave, ariyasaccāni. katamāni **cattāri**?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@
 **&nbsp;**
 
 
-23. SN 12.63 <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso **dutiyo**, manosañcetanā **tatiyā**, viññāṇaṃ **catutthaṃ**
+7.  SN 12.63 <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso **dutiyo**, manosañcetanā **tatiyā**, viññāṇaṃ **catutthaṃ**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@
 **&nbsp;**
 
 
-24. UD 45 <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye **chaṭṭho** acchariyo abbhuto dhammo
+8.  UD 45 <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye **chaṭṭho** acchariyo abbhuto dhammo
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@
 **&nbsp;**
 
 
-25. DN 13.8 <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā **dutiyaṃ**, tathā **tatiyaṃ**, tathā **catutthaṃ**
+9.  DN 13.8 <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā **dutiyaṃ**, tathā **tatiyaṃ**, tathā **catutthaṃ**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@
 **&nbsp;**
 
 
-26. DN 9.6 <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
+10.  DN 9.6 <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@
 **&nbsp;**
 
 
-27. SN 36.22 <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
+11.  SN 36.22 <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -219,7 +219,7 @@
 **&nbsp;**
 
 
-28. SN 56.11 (simpl) <br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
+12.  SN 56.11 (simpl) <br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@
 **&nbsp;**
 
 
-30. VIN PAT SA 11 <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
+13.  VIN PAT SA 11 <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -268,7 +268,7 @@
 **&nbsp;**
 
 
-32. SN 12.2 <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
+14.  SN 12.2 <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@
 **&nbsp;**
 
 
-33. SN 11.3 <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
+15.  SN 11.3 <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -303,7 +303,7 @@
 **&nbsp;**
 
 
-35. DN 14.14 <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
+16.  DN 14.14 <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -323,7 +323,7 @@
 **&nbsp;**
 
 
-37. AN 10.8 <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
+17.  AN 10.8 <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -343,7 +343,7 @@
 **&nbsp;**
 
 
-40. AN 10.61<br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca ahāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
+18.  AN 10.61<br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca ahāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -365,7 +365,7 @@
 **&nbsp;**
 
 
-41. SN 12.63 (simpl)<br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
+19.  SN 12.63 (simpl)<br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -388,7 +388,7 @@
 **&nbsp;**
 
 
-43. AN 4.67 <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
+20.  AN 4.67 <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -401,7 +401,7 @@
 **&nbsp;**
 
 
-45. SN 12.61 <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
+21.  SN 12.61 <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -442,7 +442,7 @@
 **&nbsp;**
 
 
-46. UD 46 <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
+22.  UD 46 <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -463,7 +463,7 @@
 **&nbsp;**
 
 
-48. MN 91 <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
+23.  MN 91 <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -548,7 +548,7 @@
 **&nbsp;**
 
 
-5. VIN PAT AN 1 <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
+4.  VIN PAT AN 1 <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -569,7 +569,7 @@
 **&nbsp;**
 
 
-7. SNP 13 <br>vanappagumbe yathā phussit’agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath’ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
+5.  SNP 13 <br>vanappagumbe yathā phussit’agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath’ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -589,7 +589,7 @@
 **&nbsp;**
 
 
-11. AN 9.15 <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
+6.  AN 9.15 <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -608,7 +608,7 @@
 **&nbsp;**
 
 
-12. SNP 6 <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
+7.  SNP 6 <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
 
 |  |  |  |  |  |
 |---|---|---|---|---|

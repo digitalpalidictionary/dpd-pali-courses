@@ -263,7 +263,7 @@ bāhaṃ
 
 pasāreyya
 
-10. AN 2.40
+9.  AN 2.40
 
 yasmiṃ, bhikkhave, samaye corā balavanto honti..
 
@@ -279,7 +279,7 @@ balavanto
 
 honti
 
-11. DN 22.18
+10.  DN 22.18
 
 upekkhako satimā sukhavihārī’ti
 
@@ -289,7 +289,7 @@ satimā
 
 sukhavihārī’ti
 
-12. AN 10.71
+11.  AN 10.71
 
 thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.
 
@@ -462,7 +462,7 @@ visuddhiyā
 
 fem.dat.sg
 
-18. SN 12.22
+12.  SN 12.22
 
 taco ca nahāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ
 
@@ -497,7 +497,7 @@ maṃsalohitaṃ
 
 nt.nom.sg
 
-19. AN 5.37
+13.  AN 5.37
 
 sukhassa dātā medhāvī sukhaṃ so adhigacchati
 
@@ -593,7 +593,7 @@ sukhitattā
 
 adj
 
-23. AN 8.79
+14.  AN 8.79
 
 ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
 

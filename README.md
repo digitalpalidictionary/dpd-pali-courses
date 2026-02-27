@@ -18,6 +18,18 @@ This repository contains the source materials for the Digital Pāḷi Dictionary
 
 The website is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
+### Maintenance Scripts
+
+This repository includes several Python scripts to maintain and clean the Pāḷi course Markdown source files. These scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py`.
+
+- **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files. It ensures that the numbering is sequential and starts from 1 at the beginning of each major section.
+  - Usage: `uv run python scripts/check_renumber.py`
+  - Dry run (see changes without applying them): `uv run python scripts/check_renumber.py --dry-run`
+
+- **`update_media_links.py`**: Updates media links and paths within the Markdown files to ensure they are correctly resolved in the static website.
+
+- **`generate_mkdocs_yaml.py`**: A helper script to generate or update the `mkdocs.yaml` configuration, particularly the navigation structure based on the files in `docs/`.
+
 ### Local Development
 
 This project uses `uv` for Python dependency management.

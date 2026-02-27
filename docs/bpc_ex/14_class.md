@@ -150,7 +150,7 @@
 **&nbsp;**
 
 
-11. VIN PAT SA 12 <br>mā āyasmā attānaṃ **avacanīyaṃ** akāsi
+10.  VIN PAT SA 12 <br>mā āyasmā attānaṃ **avacanīyaṃ** akāsi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@
 **&nbsp;**
 
 
-12. SN 12.63 <br>kathañ’ca, bhikkhave, kabaḷīkāro āhāro **daṭṭhabbo**?
+11.  SN 12.63 <br>kathañ’ca, bhikkhave, kabaḷīkāro āhāro **daṭṭhabbo**?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@
 **&nbsp;**
 
 
-13. AN 4.42 <br>atthi bhikkhave pañho **ekaṃsabyākaraṇīyo**, atthi bhikkhave pañho **vibhajjabyākaraṇīyo …** atthi bhikkhave pañho **ṭhapanīyo**
+12.  AN 4.42 <br>atthi bhikkhave pañho **ekaṃsabyākaraṇīyo**, atthi bhikkhave pañho **vibhajjabyākaraṇīyo …** atthi bhikkhave pañho **ṭhapanīyo**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@
 **&nbsp;**
 
 
-14. MN 20 <br>adhicittam’anuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṃ manasi **kātabbāni**.
+13.  MN 20 <br>adhicittam’anuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṃ manasi **kātabbāni**.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -216,7 +216,7 @@
 **&nbsp;**
 
 
-15. AN 10.48 <br>dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṃ **paccavekkhitabbā**.
+14.  AN 10.48 <br>dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṃ **paccavekkhitabbā**.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@
 **&nbsp;**
 
 
-16. DN 16.11 <br>evañca kho eso, bhikkhu, pañho **pucchitabbo**
+15.  DN 16.11 <br>evañca kho eso, bhikkhu, pañho **pucchitabbo**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@
 **&nbsp;**
 
 
-17. AN 4.147 <br>cattāro ime, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti.
+16.  AN 4.147 <br>cattāro ime, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -266,7 +266,7 @@
 **&nbsp;**
 
 
-18. VIN PAT PC 20 <br>yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
+17.  VIN PAT PC 20 <br>yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@
 **&nbsp;**
 
 
-20. VIN PAT NID <br>yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvādo assa hoti.
+18.  VIN PAT NID <br>yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvādo assa hoti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -307,7 +307,7 @@
 **&nbsp;**
 
 
-21. VIN PAT NP 14 <br>orena ce channaṃ vassānaṃ, taṃ santhataṃ vissajjetvā vā avissajjetvā vā, aññaṃ navaṃ santhataṃ kārāpeyya
+19.  VIN PAT NP 14 <br>orena ce channaṃ vassānaṃ, taṃ santhataṃ vissajjetvā vā avissajjetvā vā, aññaṃ navaṃ santhataṃ kārāpeyya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -329,7 +329,7 @@
 **&nbsp;**
 
 
-22. MN 18 <br>so vata āvuso, cakkhusmiṃ sati rūpe sati cakkhuviññāṇe sati phassapaññattiṃ paññāpessatī’ti — ṭhānaṃ etaṃ vijjati.
+20.  MN 18 <br>so vata āvuso, cakkhusmiṃ sati rūpe sati cakkhuviññāṇe sati phassapaññattiṃ paññāpessatī’ti — ṭhānaṃ etaṃ vijjati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -351,7 +351,7 @@
 **&nbsp;**
 
 
-23. AN 4.180 <br>tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte c'eva otaranti vinaye ca sandissanti
+21.  AN 4.180 <br>tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte c'eva otaranti vinaye ca sandissanti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -371,7 +371,7 @@
 **&nbsp;**
 
 
-24. MN 27 <br>so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
+22.  MN 27 <br>so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -391,7 +391,7 @@
 **&nbsp;**
 
 
-25. DN 16.21 <br>bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
+23.  DN 16.21 <br>bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -413,7 +413,7 @@
 **&nbsp;**
 
 
-26. AN 7.23 <br>yāvakīvañ’ca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti
+24.  AN 7.23 <br>yāvakīvañ’ca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -434,7 +434,7 @@
 **&nbsp;**
 
 
-27. AN 7.49 <br>āhāre paṭikūlasaññāya paricitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
+25.  AN 7.49 <br>āhāre paṭikūlasaññāya paricitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -462,7 +462,7 @@
 **&nbsp;**
 
 
-28. SN 56.11 <br>taṃ kho pan’idaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban’ti
+26.  SN 56.11 <br>taṃ kho pan’idaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban’ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -476,7 +476,7 @@
 **&nbsp;**
 
 
-29. VIN PAT PA 3 <br>yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya satthahārakaṃ vā assa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya
+27.  VIN PAT PA 3 <br>yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya satthahārakaṃ vā assa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -501,7 +501,7 @@
 **&nbsp;**
 
 
-30. VIN PAT SA 13 <br>tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
+28.  VIN PAT SA 13 <br>tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -522,7 +522,7 @@
 **&nbsp;**
 
 
-31. VIN PAT NP 7 <br>santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+29.  VIN PAT NP 7 <br>santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -542,7 +542,7 @@
 **&nbsp;**
 
 
-32. MN 46 <br>sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.
+30.  MN 46 <br>sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -566,7 +566,7 @@
 **&nbsp;**
 
 
-33. MN 2.2 <br>tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā c'eva āsavā na uppajjanti, uppannā ca āsavā pahīyanti
+31.  MN 2.2 <br>tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā c'eva āsavā na uppajjanti, uppannā ca āsavā pahīyanti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -590,7 +590,7 @@
 **&nbsp;**
 
 
-34. SN 1.28 <br>hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ piyaṃ, hitvā rāgaṃ ca dosaṃ ca, avijjaṃ ca virājiya, khīṇ'āsavā arahanto, te lokasmiṃ anussukā.
+32.  SN 1.28 <br>hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ piyaṃ, hitvā rāgaṃ ca dosaṃ ca, avijjaṃ ca virājiya, khīṇ'āsavā arahanto, te lokasmiṃ anussukā.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -618,7 +618,7 @@
 **&nbsp;**
 
 
-35. AN 4.180 <br>anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
+33.  AN 4.180 <br>anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -636,7 +636,7 @@
 **&nbsp;**
 
 
-36. MN 21 <br>atha kho bhagavā bhikkhū āmantesi, ārādhayiṃsu vata me, bhikkhave, bhikkhū ekaṃ samayaṃ cittaṃ. idha ahaṃ, bhikkhave, bhikkhū āmantesiṃ, ahaṃ kho, bhikkhave, ek'āsanabhojanaṃ bhuñjāmi.
+34.  MN 21 <br>atha kho bhagavā bhikkhū āmantesi, ārādhayiṃsu vata me, bhikkhave, bhikkhū ekaṃ samayaṃ cittaṃ. idha ahaṃ, bhikkhave, bhikkhū āmantesiṃ, ahaṃ kho, bhikkhave, ek'āsanabhojanaṃ bhuñjāmi.
 
 |  |  |  |  |  |
 |---|---|---|---|---|

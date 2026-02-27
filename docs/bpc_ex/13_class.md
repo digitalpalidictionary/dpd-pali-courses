@@ -2,7 +2,7 @@
 
 **adverbs**
 
-2. DN 30.2 <br>**samaṃ** pādaṃ bhūmiyaṃ nikkhipati, **samaṃ** uddharati, **samaṃ** sabbāvantehi pādatalehi bhūmiṃ phusati.
+1.  DN 30.2 <br>**samaṃ** pādaṃ bhūmiyaṃ nikkhipati, **samaṃ** uddharati, **samaṃ** sabbāvantehi pādatalehi bhūmiṃ phusati.
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 **&nbsp;**
 
 
-3. MN 20 (simpl)<br>kiṃ nu kho ahaṃ **sīghaṃ** gacchāmi? yaṃnūnāhaṃ **saṇikaṃ** gaccheyyāmī’ti. so **saṇikaṃ** gaccheyya
+2.  MN 20 (simpl)<br>kiṃ nu kho ahaṃ **sīghaṃ** gacchāmi? yaṃnūnāhaṃ **saṇikaṃ** gaccheyyāmī’ti. so **saṇikaṃ** gaccheyya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@
 **&nbsp;**
 
 
-5. SNP 23 <br>bhagavā āyasmantaṃ rāhulaṃ imāhi gāthāhi **abhiṇhaṃ** ovadatī'ti
+3.  SNP 23 <br>bhagavā āyasmantaṃ rāhulaṃ imāhi gāthāhi **abhiṇhaṃ** ovadatī'ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@
 
 **passive verbs:**
 
-6. AN 10.176 <br>ime sattā **haññantu** vā **bajjhantu** vā **ucchijjantu** vā vinassantu vā mā vā ahesun’ti
+4.  AN 10.176 <br>ime sattā **haññantu** vā **bajjhantu** vā **ucchijjantu** vā vinassantu vā mā vā ahesun’ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@
 **&nbsp;**
 
 
-7. SN 22.79 <br>ahaṃ kho **etarahi** rūpena **khajjāmi**. atītampāhaṃ addhānaṃ evameva rūpena **khajjiṃ**
+5.  SN 22.79 <br>ahaṃ kho **etarahi** rūpena **khajjāmi**. atītampāhaṃ addhānaṃ evameva rūpena **khajjiṃ**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@
 **&nbsp;**
 
 
-8. AN 4.186<br>kena nu kho, bhante, loko **nīyati**, kena loko **parikassati**
+6.  AN 4.186<br>kena nu kho, bhante, loko **nīyati**, kena loko **parikassati**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@
 **&nbsp;**
 
 
-9. MN 2.2 <br>assutavā puthujjano na **parimuccati** jātiyā … , na **parimuccati** dukkhasmā’ti vadāmi
+7.  MN 2.2 <br>assutavā puthujjano na **parimuccati** jātiyā … , na **parimuccati** dukkhasmā’ti vadāmi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@
 **&nbsp;**
 
 
-10. MN 20 <br>kiṃ nu kho ahaṃ saṇikaṃ gacchāmi?
+8.  MN 20 <br>kiṃ nu kho ahaṃ saṇikaṃ gacchāmi?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@
 **&nbsp;**
 
 
-11. SN 46.3 <br>passaddhakāyassa sukhino cittaṃ samādhiyati
+9.  SN 46.3 <br>passaddhakāyassa sukhino cittaṃ samādhiyati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@
 **&nbsp;**
 
 
-12. VIN PAT PC 73 <br>ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo’ti
+10.  VIN PAT PC 73 <br>ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo’ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@
 **&nbsp;**
 
 
-13. MN 105 <br>taṃ kiṃ maññasi, sunakkhatta, api nu tassa purisassa tasmiṃ vante puna bhottu'kamyatā assā'ti?
+11.  MN 105 <br>taṃ kiṃ maññasi, sunakkhatta, api nu tassa purisassa tasmiṃ vante puna bhottu'kamyatā assā'ti?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@
 **&nbsp;**
 
 
-14. SN 22.59 <br>imasmiṃ ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū’ti.
+12.  SN 22.59 <br>imasmiṃ ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū’ti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -223,7 +223,7 @@
 **&nbsp;**
 
 
-15. MN 75 <br>aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante.
+13.  MN 75 <br>aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -242,7 +242,7 @@
 **&nbsp;**
 
 
-16. MN 10.18 <br>yaṃ loke piyarūpaṃ sātarūpaṃ, ettha esā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+14.  MN 10.18 <br>yaṃ loke piyarūpaṃ sātarūpaṃ, ettha esā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@
 **&nbsp;**
 
 
-17. MN 22 <br>evam'pi kho bhikkhu tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno taṃ eva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati
+15.  MN 22 <br>evam'pi kho bhikkhu tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno taṃ eva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@
 **&nbsp;**
 
 
-18. AN 3.28 <br>tayo ime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? gūthabhāṇī, pupphabhāṇī, madhubhāṇī.
+16.  AN 3.28 <br>tayo ime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? gūthabhāṇī, pupphabhāṇī, madhubhāṇī.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -306,7 +306,7 @@
 **&nbsp;**
 
 
-19. VIN PAT SA 13 <br>tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
+17.  VIN PAT SA 13 <br>tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
 
 |  |  |  |  |  |
 |---|---|---|---|---|

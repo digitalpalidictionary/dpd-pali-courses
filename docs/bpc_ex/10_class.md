@@ -63,7 +63,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-5. AN 3.83 <br>**tassa** na tādiso chando hoti seyyathāpi **aññesaṃ** bhikkhūnaṃ
+4.  AN 3.83 <br>**tassa** na tādiso chando hoti seyyathāpi **aññesaṃ** bhikkhūnaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-6. AN 3.35 <br>**ye** ca pana loke sukhaṃ senti, ahaṃ **tesaṃ** **aññataro** iti
+5.  AN 3.35 <br>**ye** ca pana loke sukhaṃ senti, ahaṃ **tesaṃ** **aññataro** iti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-7. MN 39 <br>**so** **imaṃ** **eva** kāyaṃ vivekajena pītisukhena abhisandeti
+6.  MN 39 <br>**so** **imaṃ** **eva** kāyaṃ vivekajena pītisukhena abhisandeti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-8. AN 10.61 <br>**ko** ca āhāro avijjāya?
+7.  AN 10.61 <br>**ko** ca āhāro avijjāya?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-9. SN 35.234 <br>**so** evaṃ **asamanupassanto** na kiñci loke upādiyati, **anupādiyaṃ** na paritassati, **aparitassaṃ** paccattaññ’eva parinibbāyati
+8.  SN 35.234 <br>**so** evaṃ **asamanupassanto** na kiñci loke upādiyati, **anupādiyaṃ** na paritassati, **aparitassaṃ** paccattaññ’eva parinibbāyati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-10. VIN PAT PC 22 <br>sammato api ce bhikkhu **atthaṅ'gate** **suriye** bhikkhuniyo ovadeyya, pācittiyaṃ.
+9.  VIN PAT PC 22 <br>sammato api ce bhikkhu **atthaṅ'gate** **suriye** bhikkhuniyo ovadeyya, pācittiyaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-11. MN 118 <br>dīghaṃ vā assasanto dīghaṃ assasāmī’ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī’ti pajānāti
+10.  MN 118 <br>dīghaṃ vā assasanto dīghaṃ assasāmī’ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī’ti pajānāti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-12. SN 12.61 <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
+11.  SN 12.61 <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-13. MN 39 <br>puriso passeyya maccha-gumbaṃ carantaṃ tiṭṭhantaṃ
+12.  MN 39 <br>puriso passeyya maccha-gumbaṃ carantaṃ tiṭṭhantaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -208,7 +208,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-14. MN 62 <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
+13.  MN 62 <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -224,7 +224,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-15. MN 75 <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
+14.  MN 75 <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-17. VIN PAT NP 16 <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
+15.  VIN PAT NP 16 <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-18. SN 22.1 <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissatī'ti
+16.  SN 22.1 <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissatī'ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -272,7 +272,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-19. SN 22.59 <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā’ti? “no hi etaṃ, bhante”.
+17.  SN 22.59 <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā’ti? “no hi etaṃ, bhante”.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -292,7 +292,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-20. TH 257 <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
+18.  TH 257 <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -306,7 +306,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-21. SN 12.22 <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
+19.  SN 12.22 <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -324,7 +324,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-22. SNP 8 <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
+20.  SNP 8 <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -341,7 +341,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-23. VIN PAT SK 71 <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
+21.  VIN PAT SK 71 <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -357,7 +357,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-24. SN 46.3 <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
+22.  SN 46.3 <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -376,7 +376,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-25. MN 39 <br>tassa evaṃ jānato evaṃ passato kām’āsavā api cittaṃ vimuccati
+23.  MN 39 <br>tassa evaṃ jānato evaṃ passato kām’āsavā api cittaṃ vimuccati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -393,7 +393,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-26. MN 107 <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
+24.  MN 107 <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -417,7 +417,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-27. DHP 184 <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
+25.  DHP 184 <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -435,7 +435,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-28. VIN PAT PA 2 <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
+26.  VIN PAT PA 2 <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -452,7 +452,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-29. VIN PAT SA 10 <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek’uddeso, phāsu viharati
+27.  VIN PAT SA 10 <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek’uddeso, phāsu viharati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -471,7 +471,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-30. VIN PAT PC 14 <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
+28.  VIN PAT PC 14 <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -488,7 +488,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-31. VIN PAT PC 68 <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n’ālaṃ antarāyāya
+29.  VIN PAT PC 68 <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n’ālaṃ antarāyāya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -506,7 +506,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-32. SN 12.61 <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
+30.  SN 12.61 <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -532,7 +532,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-33. MN 40 (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṁ samanupassato pāmojjaṁ jāyati.
+31.  MN 40 (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṁ samanupassato pāmojjaṁ jāyati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -551,7 +551,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-34. MN 19<br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
+32.  MN 19<br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -564,7 +564,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-35. SN 22.85 <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
+33.  SN 22.85 <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -583,7 +583,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-36. VIN PAT PC 71 <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
+34.  VIN PAT PC 71 <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -605,7 +605,7 @@ yena bhagavā tena-upasaṅkami
 **&nbsp;**
 
 
-37. SN 22.79 <br>sabbe ete pañc’upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
+35.  SN 22.79 <br>sabbe ete pañc’upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
