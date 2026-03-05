@@ -26,6 +26,13 @@ This repository includes several Python scripts to maintain and clean the Pāḷ
   - Usage: `uv run python scripts/check_renumber.py`
   - Dry run (see changes without applying them): `uv run python scripts/check_renumber.py --dry-run`
 
+- **`compare_docs.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss. It uses normalized line-by-line comparison to find content that was present in the original source but is missing in the current version, particularly useful for verifying that no data was lost during automated cleaning or reformatting.
+  - Usage: `uv run python scripts/compare_docs.py`
+  - Specify a commit: `uv run python scripts/compare_docs.py --commit <commit_hash>`
+  - Specific directory: `uv run python scripts/compare_docs.py --dir docs/bpc/`
+  - Specific file: `uv run python scripts/compare_docs.py --dir docs/bpc/index.md`
+  - Verbose mode (show missing lines): `uv run python scripts/compare_docs.py --verbose`
+
 - **`update_media_links.py`**: Updates media links and paths within the Markdown files to ensure they are correctly resolved in the static website.
 
 - **`generate_mkdocs_yaml.py`**: A helper script to generate or update the `mkdocs.yaml` configuration, particularly the navigation structure based on the files in `docs/`.
