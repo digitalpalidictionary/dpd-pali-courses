@@ -4,7 +4,7 @@
 
 
 
-1. SNP 54<br>kiṃ'sū asissāmi kuvaṃ vā asissaṃ, <br>dukkhaṃ vata settha kv'ajja sessaṃ, <br>ete vitakke paridevaneyye, <br>vinayetha sekho aniketacārī.
+1. [SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html)<br>kiṃ'sū asissāmi kuvaṃ vā asissaṃ, <br>dukkhaṃ vata settha kv'ajja sessaṃ, <br>ete vitakke paridevaneyye, <br>vinayetha sekho aniketacārī.
 
 
 |  |  |  |  |  |
@@ -36,7 +36,7 @@
 **What will I eat? Where will I (myself) eat? Alas, you slept (lit: sleep) badly! Where do I (myself) sleep today? A trainee, one who is wandering without a home, should dispel these lamentable thoughts.**
 
 
-2. SN 35.248<br>asmī'ti, bhikkhave, maññitam'etaṁ, 'ayam'aham'asmī'ti maññitam'etaṁ, 'bhavissan'ti maññitam'etaṁ, 'na bhavissan'ti maññitam'etaṁ
+2. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html)<br>asmī'ti, bhikkhave, maññitam'etaṁ, 'ayam'aham'asmī'ti maññitam'etaṁ, 'bhavissan'ti maññitam'etaṁ, 'na bhavissan'ti maññitam'etaṁ
 
 
 |  |  |  |  |  |
@@ -70,7 +70,7 @@
 **"I am" is imagination; "this I am" is imagination; "I will be." is imagination; "I will not be." is imagination.**
 
 
-3. SNP 37<br>moneyyaṃ te upaññissaṃ, dukkaraṃ durabhisambhavaṃ,<br>handa te naṃ pavakkhāmi, santhambhassu daḷho bhava.
+3. [SNP37](https://find.dhamma.gift/bw/snp/snp3.11.html)<br>moneyyaṃ te upaññissaṃ, dukkaraṃ durabhisambhavaṃ,<br>handa te naṃ pavakkhāmi, santhambhassu daḷho bhava.
 
 
 |  |  |  |  |  |
@@ -92,7 +92,7 @@
 **I myself will explain sagehood to you, hard to achieve, hard to attain . Come, I will tell you [about] it: Stand yourself firm, you must be strong/steady.**
 
 
-4. TH 262<br>ādittato'haṃ samathehi yutto, <br>paññāya dacchaṃ tad'idaṃ kadā me.
+4. [TH262](https://find.dhamma.gift/bw/tha/tha19.html)<br>ādittato'haṃ samathehi yutto, <br>paññāya dacchaṃ tad'idaṃ kadā me.
 
 
 |  |  |  |  |  |
@@ -114,7 +114,7 @@
 **I am as on fire, [although] engaged in serenity; when will I see with wisdom this state for myself?**
 
 
-5. AN 4.49<br>aniccaṃ aniccato dakkhuṃ, dukkham'addakkhu dukkhato. <br>anattani 'anattā'ti, asubhaṃ asubhat'addasuṃ. <br>sammādiṭṭhisamādānā, sabbaṃ dukkhaṃ upaccagun'ti
+5. [AN4.49](https://find.dhamma.gift/bw/an/an4.49.html)<br>aniccaṃ aniccato dakkhuṃ, dukkham'addakkhu dukkhato. <br>anattani 'anattā'ti, asubhaṃ asubhat'addasuṃ. <br>sammādiṭṭhisamādānā, sabbaṃ dukkhaṃ upaccagun'ti
 
 
 |  |  |  |  |  |
@@ -149,7 +149,7 @@
 **"They saw what is impermanent as impermanent. They saw suffering as suffering. (They have seen) in what is non-self as 'non-self', they have perceived what is foul as foul. Taking upon themselves right view, they overcame all suffering."**
 
 
-6. DHP 143<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva
+6. [DHP143](https://find.dhamma.gift/bw/dhp/dhp129-145.html)<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva
 
 
 |  |  |  |  |  |
@@ -174,7 +174,7 @@
 **(lit:) A person, restrained by conscience, exists somewhere in the world, who avoids blame like the fortunate horse the whip.<br>(Figuratively):<br>Is any person found in the world who, restrained by conscience, avoids blame like the fortunate horse (avoids) the whip?**
 
 
-7. MN 131<br>paccuppannañ'ca yaṃ dhammaṃ, tattha tattha vipassati. asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā m'anubrūhaye.
+7. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>paccuppannañ'ca yaṃ dhammaṃ, tattha tattha vipassati. asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā m'anubrūhaye.
 
 
 |  |  |  |  |  |
@@ -205,7 +205,7 @@
 
 
 
-8. TH 206 <br>satiyā taṃ **nibandhissaṃ**,<br>payutto te damessāmi,<br>vīriyadhuraniggahito,<br>na yito dūraṃ **gamissase** cittā'ti.
+8. [TH206](https://find.dhamma.gift/bw/tha/tha5.html) <br>satiyā taṃ **nibandhissaṃ**,<br>payutto te damessāmi,<br>vīriyadhuraniggahito,<br>na yito dūraṃ **gamissase** cittā'ti.
 
 
 |  |  |  |  |  |
@@ -231,7 +231,7 @@
 **"I will bind you with mindfulness,<br>intent, I will tame you,<br>reigned in by the yoke of effort,<br>you won't go far from here, mind".**
 
 
-9. MN 56 <br>api cāhaṃ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṃ bhagavantaṃ paccanīkaṃ kātabbaṃ **amaññissaṃ**.
+9. [MN56](https://find.dhamma.gift/bw/mn/mn56.html) <br>api cāhaṃ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṃ bhagavantaṃ paccanīkaṃ kātabbaṃ **amaññissaṃ**.
 
 
 |  |  |  |  |  |
@@ -259,7 +259,7 @@
 **But wishing to hear these varied intelligent answers of the Blessed One, I just thought I should oppose the Blessed One (lit. an opposition should be made)**
 
 
-10. SN 22.96 <br>ettako cepi, bhikkhu, attabhāvapaṭilābho **abhavissa** nicco dhuvo sassato avipariṇāmadhammo, nayidaṃ brahmacariyavāso paññāyetha sammā dukkhakkhayāya.
+10. [SN22.96](https://find.dhamma.gift/bw/sn/sn22.96.html) <br>ettako cepi, bhikkhu, attabhāvapaṭilābho **abhavissa** nicco dhuvo sassato avipariṇāmadhammo, nayidaṃ brahmacariyavāso paññāyetha sammā dukkhakkhayāya.
 
 
 |  |  |  |  |  |
@@ -297,7 +297,7 @@
 **Monk, even if there were this much personal existence that is stable, permanent, eternal, with an unchanging nature, living this holy life for the complete destruction of suffering would not be evident.**
 
 
-11. MN 73 <br>sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
+11. [MN73](https://find.dhamma.gift/bw/mn/mn73.html) <br>sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
 
 
 |  |  |  |  |  |
@@ -334,7 +334,7 @@
 **Sir Gotama, if only you were successful in this holy life, but the monks would not be successful, this holy life would be incomplete in that regard.**
 
 
-12. SN 22.59 <br>saṅkhārā ca hidaṃ, bhikkhave, attā **abhavissaṃsu**, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — 'evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun'ti.
+12. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>saṅkhārā ca hidaṃ, bhikkhave, attā **abhavissaṃsu**, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — 'evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun'ti.
 
 
 |  |  |  |  |  |
@@ -369,7 +369,7 @@
 **If mental processes were yourself, monks, in that case mental processes would not lead to affliction; and it would be possible to get with regard to mental processes: "May my mental processes be like this, may my mental processes not be like this."**
 
 
-13. UD 73 <br>no cetaṃ bhikkhave **abhavissa** ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ **paññāyetha**.
+13. [UD73](https://find.dhamma.gift/bw/ud/ud8.3.html) <br>no cetaṃ bhikkhave **abhavissa** ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ **paññāyetha**.
 
 
 |  |  |  |  |  |
@@ -398,7 +398,7 @@
 **Monks, if there were not an unborn, unbecome, unmade and uncreated, there would be no evident escape from the born, the become, the made and the created.**
 
 
-14. MN 39 <br>tassa nevassa puratthimāya disāya udakassa āyamukhaṃ ... devo ca na kālena kālaṃ sammādhāraṃ **anuppaveccheyya**.
+14. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>tassa nevassa puratthimāya disāya udakassa āyamukhaṃ ... devo ca na kālena kālaṃ sammādhāraṃ **anuppaveccheyya**.
 
 
 |  |  |  |  |  |
@@ -432,7 +432,7 @@
 
 ## Class 22 Extra Examples
 
-1. SN 1.35<br>atha kho tā devatāyo bhiyyosomattāya ujjhāyantiyo vehāsaṃ abbhuggañchuṃ.
+1. [SN1.35](https://find.dhamma.gift/bw/sn/sn1.35.html)<br>atha kho tā devatāyo bhiyyosomattāya ujjhāyantiyo vehāsaṃ abbhuggañchuṃ.
 
 
 |  |  |  |  |  |
@@ -452,7 +452,7 @@
 **After that those deities, finding fault to an even greater measure, flew up into the sky.**
 
 
-2. VIN PAT NP 27<br>app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti. evañ'ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattam'pi, nissaggiyaṃ pācittiyaṃ.
+2. [VIN PAT NP 27](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti. evañ'ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattam'pi, nissaggiyaṃ pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -496,7 +496,7 @@
 **"Perhaps, we too should give a little something to the venerables." And if that monk, having said [this] should give a little something, even just a little bit of alms-food, [this is a case] involving confession and forfeiture.**
 
 
-3. KHP 7<br>adāsi me akāsi me, ñātimittā sakhā ca me. <br>petānaṃ dakkhiṇaṃ dajjā, pubbe katam'anussaraṃ.
+3. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html)<br>adāsi me akāsi me, ñātimittā sakhā ca me. <br>petānaṃ dakkhiṇaṃ dajjā, pubbe katam'anussaraṃ.
 
 
 |  |  |  |  |  |
@@ -524,7 +524,7 @@
 
 
 
-4. MN 65 <br>etha, tumhepi, bhikkhave, ekāsanabhojanaṃ bhuñjatha; ekāsanabhojanaṃ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca **sañjānissatha** appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā'ti.
+4. [MN65](https://find.dhamma.gift/bw/mn/mn65.html) <br>etha, tumhepi, bhikkhave, ekāsanabhojanaṃ bhuñjatha; ekāsanabhojanaṃ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca **sañjānissatha** appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā'ti.
 
 
 |  |  |  |  |  |
@@ -577,7 +577,7 @@
 **"Come monks! You all too should eat (your) meal in one sitting. O monks, eating (your) meal in one sitting, you too will experience good health and well-being, physical lightness, strength and a comfortable existence".**
 
 
-5. SN 35.194 <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
+5. [SN35.194](https://find.dhamma.gift/bw/sn/sn35.194.html) <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
 
 
 |  |  |  |  |  |
@@ -640,7 +640,7 @@
 **Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, not sink down in the middle, nor wash up on dry land, nor be grabbed by humans, nor be grabbed by non-humans, nor be grabbed by a whirlpool, nor become rotten inside, like this you will be sloping to going out, (nibbāna) slanting to going out, inclining to going out.**
 
 
-6. AN 2.9 <br>ime kho, bhikkhave, dve sukkā dhammā lokaṃ na **pāleyyuṃ**, nayidha **paññāyetha** mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. sambhedaṃ loko **agamissa**, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā.
+6. [AN2.9](https://find.dhamma.gift/bw/an/an2.9.html) <br>ime kho, bhikkhave, dve sukkā dhammā lokaṃ na **pāleyyuṃ**, nayidha **paññāyetha** mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. sambhedaṃ loko **agamissa**, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā.
 
 
 |  |  |  |  |  |

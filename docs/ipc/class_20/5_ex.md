@@ -2,19 +2,19 @@
 
 **kāmesumicchācārā** paṭivirato hoti
 
-AN 3.80
+[AN3.80](https://find.dhamma.gift/bw/an/an3.79.html)
 
 **brāhmaṇagahapatikānampi** tasmiṃ samaye na phāsu hoti
 
-AN 2.40
+[AN2.40](https://find.dhamma.gift/bw/an/an2.40.html)
 
 sāvikā bhavissanti … **dhammānudhammappaṭipannā**
 
-DN 16.20
+[DN16.20](https://find.dhamma.gift/bw/dn/dn16.html)
 
 taṇhāya **asesavirāganirodho** cāgo paṭinissaggo mutti anālayo
 
-DN 22.17
+[DN22.17](https://find.dhamma.gift/bw/dn/dn22.html)
 
 <div class="nav-links">
   <a href="../4_change_comp/" class="prev">← Changes Of Certain Words In Compounds</a>

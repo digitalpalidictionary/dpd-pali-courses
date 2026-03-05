@@ -1,5 +1,5 @@
 # Class 3 Exercises
-1. MN4<br>ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
+1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html)<br>ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
 
 
 | Pāli | POS | Grammar | English |
@@ -14,7 +14,7 @@
 **I go for refuge to the master Gotama**
 
 
-2. DHP 130 <br>sabbe tasanti daṇḍassa.
+2. [DHP130](https://find.dhamma.gift/bw/dhp/dhp129-145.html) <br>sabbe tasanti daṇḍassa.
 
 
 |  |  |  |  |
@@ -27,7 +27,7 @@
 **All are fearful of a stick.**
 
 
-3. MN 27 <br>tathāgate saddhaṃ paṭilabhati
+3. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) <br>tathāgate saddhaṃ paṭilabhati
 
 
 |  |  |  |  |
@@ -40,7 +40,7 @@
 **He obtains faith in the Tathāgata.**
 
 
-4. MN 64 <br>so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.
+4. [MN64](https://find.dhamma.gift/bw/mn/mn64.html) <br>so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.
 
 
 |  |  |  |  |
@@ -56,7 +56,7 @@
 **Remaining there, he reaches the destruction of the defilements.**
 
 
-5. DHP 354 <br>sabbarasaṃ dhammaraso jināti
+5. [DHP354](https://find.dhamma.gift/bw/dhp/dhp334-359.html) <br>sabbarasaṃ dhammaraso jināti
 
 
 |  |  |  |  |
@@ -69,7 +69,7 @@
 **The flavour of the Dhamma surpasses every flavour.**
 
 
-6. MN 39 <br>so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
+6. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
 
 
 |  |  |  |  |
@@ -83,7 +83,7 @@
 **He knows clearly "this is suffering" as it truly is.**
 
 
-7. VIN PAT NP 10 <br>paṭiggaṇhātu āyasmā cīvaracetāpannaṃ
+7. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>paṭiggaṇhātu āyasmā cīvaracetāpannaṃ
 
 
 |  |  |  |  |
@@ -96,7 +96,7 @@
 **Let the venerable receive the robe-fund.**
 
 
-8. DN 19.7 (simpl) <br>rājā jotipālaṃ māṇavaṃ āmantayati
+8. [DN19.7](https://find.dhamma.gift/bw/dn/dn19.html) (simpl) <br>rājā jotipālaṃ māṇavaṃ āmantayati
 
 
 |  |  |  |  |
@@ -110,7 +110,7 @@
 **The king addresses the young gentleman (brahmin), Protector of the Light (Jotipāla).**
 
 
-9. MN 39 (simpl) <br>so kāyaṃ vivekajena pītisukhena paripūreti
+9. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>so kāyaṃ vivekajena pītisukhena paripūreti
 
 
 |  |  |  |  |
@@ -125,7 +125,7 @@
 **He completely fills up the body with joy and happiness produced by seclusion.**
 
 
-10. DN 22.18 <br>sukhaṃ ca kāyena paṭisaṃvedeti
+10. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>sukhaṃ ca kāyena paṭisaṃvedeti
 
 
 |  |  |  |  |
@@ -139,7 +139,7 @@
 **He experiences pleasure by means of the body.**
 
 
-11. SNP 22<br>devā manussā ca sitā tiṭṭhanti
+11. [SNP22](https://find.dhamma.gift/bw/snp/snp2.10.html)<br>devā manussā ca sitā tiṭṭhanti
 
 
 |  |  |  |  |
@@ -154,7 +154,7 @@
 **Deities and human beings remain attached.**
 
 
-12. SN 56.11 (simpl)<br>paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
+12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
 
 
 |  |  |  |  |
@@ -169,7 +169,7 @@
 **The path of practice is conducive for calmness, full awakening [and] total emancipation.**
 
 
-13. MN 27 (simpl)<br>dhammaṃ suṇāti putto
+13. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl)<br>dhammaṃ suṇāti putto
 
 
 |  |  |  |  |
@@ -182,7 +182,7 @@
 **The son listens to the Dhamma.**
 
 
-14. AN 3.71 (simpl)<br>sāvako dhammaṃ anussarati
+14. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html) (simpl)<br>sāvako dhammaṃ anussarati
 
 
 |  |  |  |  |
@@ -195,7 +195,7 @@
 **The disciple recollects the Dhamma.**
 
 
-15. AN 4.180 (simpl)<br>āvāse therā viharanti
+15. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) (simpl)<br>āvāse therā viharanti
 
 
 |  |  |  |  |
@@ -208,7 +208,7 @@
 **The elders dwell in the residence.**
 
 
-16. MN 2.4<br>parikkhāraṃ paṭisevāmi
+16. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html)<br>parikkhāraṃ paṭisevāmi
 
 
 |  |  |  |  |
@@ -220,7 +220,7 @@
 **I make use of the requisite.**
 
 
-17. AN 3.79<br>kusalā dhammā abhivaḍḍhanti
+17. [AN3.79](https://find.dhamma.gift/bw/an/an3.78.html)<br>kusalā dhammā abhivaḍḍhanti
 
 
 |  |  |  |  |
@@ -233,7 +233,7 @@
 **Wholesome states of mind increase more and more.**
 
 
-18. SN 22.25 (simpl)<br>saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
+18. [SN22.25](https://find.dhamma.gift/bw/sn/sn22.25.html) (simpl)<br>saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
 
 
 |  |  |  |  |
@@ -248,7 +248,7 @@
 **Abandon interest and desire for volitional formations.**
 
 
-19. MN 104 (simpl)<br>passatha, ānanda, vacanassa pathaṃ
+19. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) (simpl)<br>passatha, ānanda, vacanassa pathaṃ
 
 
 |  |  |  |  |
@@ -262,7 +262,7 @@
 **You see, Ānanda, a course of speech**
 
 
-20. SN 55.6 (simpl)<br>suṇāma: kosalehi mallesu pakkamati
+20. [SN55.6](https://find.dhamma.gift/bw/sn/sn55.6.html) (simpl)<br>suṇāma: kosalehi mallesu pakkamati
 
 
 |  |  |  |  |
@@ -276,7 +276,7 @@
 **We hear: (the Blessed One) sets out from the Kosalans (on tour) in the Mallans.**
 
 
-21. MN 133 (simpl)<br>dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
+21. [MN133](https://find.dhamma.gift/bw/mn/mn133.html) (simpl)<br>dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
 
 
 |  |  |  |  |
@@ -291,7 +291,7 @@
 **Remember, monk, the summary and the analysis.**
 
 
-22. SN 35.248 (simpl)<br>puthujjano punabbhavāya ceteti
+22. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html) (simpl)<br>puthujjano punabbhavāya ceteti
 
 
 |  |  |  |  |
@@ -304,7 +304,7 @@
 **A common person intends for rebirth.**
 
 
-23. SNP 34<br>passa lokassa pariyāyaṃ.
+23. [SNP34](https://find.dhamma.gift/bw/snp/snp3.8.html)<br>passa lokassa pariyāyaṃ.
 
 
 |  |  |  |  |
@@ -317,7 +317,7 @@
 **See the nature of the world.**
 
 
-24. MN 36<br>taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
+24. [MN36](https://find.dhamma.gift/bw/mn/mn36.html)<br>taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
 
 
 |  |  |  |  |
@@ -333,7 +333,7 @@
 **Listen to that, thoroughly pay attention, I will speak.**
 
 
-25. MN 107 (simpl)<br>pātimokkhe saṃvarena viharāhi
+25. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl)<br>pātimokkhe saṃvarena viharāhi
 
 
 |  |  |  |  |
@@ -346,7 +346,7 @@
 **Dwell with restraint according to the disciplinary code!**
 
 
-26. VIN PAT PC 36<br>handa bhikkhu khāda vā bhuñja vā
+26. [VIN PAT PC 36](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>handa bhikkhu khāda vā bhuñja vā
 
 
 |  |  |  |  |
@@ -361,7 +361,7 @@
 **Come on, bhikkhu, eat or consume!**
 
 
-27. MN 43<br>āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
+27. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
 
 
 |  |  |  |  |
@@ -376,7 +376,7 @@
 **We understand the statement of venerable Sāriputta thus.**
 
 
-28. MN 48<br>labhāmi paccattaṃ samathaṃ
+28. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>labhāmi paccattaṃ samathaṃ
 
 
 |  |  |  |  |
@@ -402,7 +402,7 @@
 **You see that offence.**
 
 
-30. SN 41.3<br>gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
+30. [SN41.3](https://find.dhamma.gift/bw/sn/sn41.3.html)<br>gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
 
 
 |  |  |  |  |
@@ -420,7 +420,7 @@
 
 ## Class 3 Extra
 
-1. MN 30 (simpl) <br> brāhmaṇa, puggalaṃ vadāmi.
+1. [MN30](https://find.dhamma.gift/bw/mn/mn30.html) (simpl) <br> brāhmaṇa, puggalaṃ vadāmi.
 
 
 | Pāli | POS | Grammar | English |
@@ -433,7 +433,7 @@
 **O brahmin, I speak (about) a person.**
 
 
-2. SN 22.1 (simpl) <br>sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
+2. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) (simpl) <br>sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
 
 
 |  |  |  |  |

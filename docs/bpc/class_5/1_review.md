@@ -2,19 +2,19 @@
 
 1.  ekaputto ahaṃ **āsiṃ**, piyo mātu piyo pitu.
 
-    TH 226
+    [TH226](https://find.dhamma.gift/bw/tha/tha7.html)
 
 2.  tato cuto amutra **udapādiṃ**
 ***
-AN10.21
+[AN10.21](https://find.dhamma.gift/bw/an/an10.21.html)
 
 3.  **atthi** ayaṃ loko, **atthi** paro loko
 
-    MN60
+    [MN60](https://find.dhamma.gift/bw/mn/mn60.html)
 ***
 4.  mayaṃ otiṇṇā **amha** jātijarāmaraṇena
 ***
-AN4.122 (simpl)
+[AN4.122](https://find.dhamma.gift/bw/an/an4.122.html) (simpl)
 
 5.  sabbe sattā sukhī **hontu**
 ***
@@ -22,7 +22,7 @@ Uddissan'ādhiṭṭhānā
 
 6.  na **āsi** kāye balaṃ
 ***
-MN 39 (simpl)
+[MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl)
 
 <div class="nav-links">
   <a href="../" class="prev">← Class 5</a>

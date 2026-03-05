@@ -184,11 +184,11 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 Nouns and adjectives interchangeable unless proven otherwise from the context
 
-n'eva tasmiṃ samaye **sukhaṃ** vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti *MN74*
+n'eva tasmiṃ samaye **sukhaṃ** vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti *[MN74](https://find.dhamma.gift/bw/mn/mn74.html)*
 
 At that time, he feels neither a **pleasant** sensation, nor neutral.
 
-sato ca sampajāno, **sukhaṃ** ca kāyena paṭisaṃvedeti *SN45.8*
+sato ca sampajāno, **sukhaṃ** ca kāyena paṭisaṃvedeti *[SN45.8](https://find.dhamma.gift/bw/sn/sn45.8.html)*
 
 Mindful and clearly knowing, he experiences **pleasure** by the body.
 

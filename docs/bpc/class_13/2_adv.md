@@ -2,7 +2,7 @@
 ***
 Adverbs describe **how** or **when** an action is done, they give more information about the verb in the sentence.
 ***
-kiṃ nu kho ahaṃ saṇikaṃ gacchāmi? *MN 20*
+kiṃ nu kho ahaṃ saṇikaṃ gacchāmi? *[MN20](https://find.dhamma.gift/bw/mn/mn20.html)*
 ***
 Why am I going **slowly**?
 ***

@@ -56,7 +56,7 @@ Active Past Participles are declined in all three genders. They are very regular
 ***
 Please translate and highlight the syntax of the following:
 
-SN 3.13 doṇapākasuttaṃ
+[SN3.13](https://find.dhamma.gift/bw/sn/sn3.13.html) doṇapākasuttaṃ
 
 tena kho pana samayena rājā pasenadi kosalo doṇapākaṃ sudaṃ bhuñjati.
 

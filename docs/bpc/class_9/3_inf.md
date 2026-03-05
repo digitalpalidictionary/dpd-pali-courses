@@ -79,11 +79,11 @@ In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is
 ***
 Some verbs like **arahati** (he deserves, is worthy), **sakkoti** (he is able) almost always take an infinitive, just like in English.
 ***
-na te ahaṃ *sakkomi* vitthārena dhammaṃ **desetuṃ** (VIN 4.1.14)
+na te ahaṃ *sakkomi* vitthārena dhammaṃ **desetuṃ** ([VIN4.1.14](https://find.dhamma.gift/bw/vi/kd.html))
 ***
 I *am* not *able* **to preach** the Dhamma in detail to you.
 ***
-samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** (DN 5.2)
+samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** ([DN5.2](https://find.dhamma.gift/bw/dn/dn5.html))
 ***
 Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 ***

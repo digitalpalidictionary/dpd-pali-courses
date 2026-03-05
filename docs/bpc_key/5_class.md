@@ -1,6 +1,6 @@
 # Class 5 Exercises
 
-1. SN 22.33 <br>viññāṇaṃ na tumhākaṃ, taṃ pajahatha.
+1. [SN22.33](https://find.dhamma.gift/bw/sn/sn22.33.html) <br>viññāṇaṃ na tumhākaṃ, taṃ pajahatha.
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -15,7 +15,7 @@
 **Consciousness is not yours, you must abandon it!**
 
 
-2. SN 22.33 <br>taṃ vo pahīnaṃ hitāya sukhāya bhavissati
+2. [SN22.33](https://find.dhamma.gift/bw/sn/sn22.33.html) <br>taṃ vo pahīnaṃ hitāya sukhāya bhavissati
 
 
 |  |  |  |  |  |
@@ -31,7 +31,7 @@
 **[When] that is given up by you, it will be beneficial and comfortable [for you].**
 
 
-3. MN 39 <br>parisuddho no ājīvo bhavissati
+3. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>parisuddho no ājīvo bhavissati
 
 
 |  |  |  |  |  |
@@ -45,7 +45,7 @@
 **Our lifestyle should be purified.**
 
 
-4. MN 82 (simpl) <br>ahaṃ yathākammaṃ gamissāmi
+4. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) (simpl) <br>ahaṃ yathākammaṃ gamissāmi
 
 
 |  |  |  |  |  |
@@ -73,7 +73,7 @@
 **I will give unlimited wealth to you.**
 
 
-6. MN 2.4 <br>neva davāya, na madāya, na maṇḍanāya, na vibhūsanāya
+6. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>neva davāya, na madāya, na maṇḍanāya, na vibhūsanāya
 
 
 |  |  |  |  |  |
@@ -91,7 +91,7 @@
 **Neither for fun, nor for intoxication, nor for adornment, nor for physical appearance.**
 
 
-7. DN 16.32 <br>alaṃ ānanda mā soci mā paridevi
+7. [DN16.32](https://find.dhamma.gift/bw/dn/dn16.html) <br>alaṃ ānanda mā soci mā paridevi
 
 
 |  |  |  |  |  |
@@ -107,7 +107,7 @@
 **Stop Ānanda, don't grieve, don't lament!**
 
 
-8. AN 3.21 <br>upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodiṃsu
+8. [AN3.21](https://find.dhamma.gift/bw/an/an3.21.html) <br>upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodiṃsu
 
 
 |  |  |  |  |  |
@@ -122,7 +122,7 @@
 **They approached and had polite conversation with venerable Sariputta.**
 
 
-9. TH 195 <br>adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
+9. [TH195](https://find.dhamma.gift/bw/tha/tha4.html) <br>adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
 
 
 |  |  |  |  |  |
@@ -138,7 +138,7 @@
 **False teaching leads to no good fortune, the Teaching leads to a good destination.**
 
 
-10. MN 118 (simpl) <br>pītiṃ paṭisaṃvedī assasissāmi iti sikkhati.
+10. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) (simpl) <br>pītiṃ paṭisaṃvedī assasissāmi iti sikkhati.
 
 
 |  |  |  |  |  |
@@ -153,7 +153,7 @@
 **One trains thus: "I will breathe in experiencing delight."**
 
 
-11. MN 118 (simpl) <br>aniccaṃ anupassī passasissāmi iti sikkhati
+11. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) (simpl) <br>aniccaṃ anupassī passasissāmi iti sikkhati
 
 
 |  |  |  |  |  |
@@ -166,7 +166,7 @@
 **One trains thus: "I will breathe out, observing impermanence."**
 
 
-12. MN 48 (simpl) <br>bhikkhu sabrahmacārīhi saddhiṃ bhogī hoti
+12. [MN48](https://find.dhamma.gift/bw/mn/mn48.html) (simpl) <br>bhikkhu sabrahmacārīhi saddhiṃ bhogī hoti
 
 
 |  |  |  |  |  |
@@ -181,7 +181,7 @@
 **The monk is partaking together with (his) fellow monks.**
 
 
-13. AN 7.23 <br>bhikkhū uppannāya taṇhāya na vasaṃ gacchissanti
+13. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>bhikkhū uppannāya taṇhāya na vasaṃ gacchissanti
 
 
 |  |  |  |  |  |
@@ -197,7 +197,7 @@
 **The monks will not submit to the power of arisen craving.**
 
 
-14. AN 7.25 <br>bhikkhū ottappino bhavissanti
+14. [AN7.25](https://find.dhamma.gift/bw/an/an7.25.html) <br>bhikkhū ottappino bhavissanti
 
 
 |  |  |  |  |  |
@@ -210,7 +210,7 @@
 **The monks will become conscientious.**
 
 
-15. DN 16.36 (simpl) <br>vo mayā dhammo ca vinayo ca desito vo mama accayena satthā bhavissati
+15. [DN16.36](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>vo mayā dhammo ca vinayo ca desito vo mama accayena satthā bhavissati
 
 
 |  |  |  |  |  |
@@ -232,7 +232,7 @@
 **After my passing away, the Doctrine and Discipline taught by me to you, will become a teacher for you.**
 
 
-16. SN 22.59 <br>evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
+16. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
 
 
 |  |  |  |  |  |
@@ -251,7 +251,7 @@
 **Let my body be thus, let my body not be thus.**
 
 
-17. SN 22.59 <br>evaṃ me saṅkhārā hontu! evaṃ me saṅkhārā mā ahesuṃ!
+17. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>evaṃ me saṅkhārā hontu! evaṃ me saṅkhārā mā ahesuṃ!
 
 
 |  |  |  |  |  |
@@ -270,7 +270,7 @@
 **Let my volitional formations be thus, let my volitional formations not be thus.**
 
 
-18. SN 35.28 <br>ekaṃ samayaṃ bhagavā gayāyaṃ viharati gayāsīse saddhiṃ bhikkhusahassena.
+18. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html) <br>ekaṃ samayaṃ bhagavā gayāyaṃ viharati gayāsīse saddhiṃ bhikkhusahassena.
 
 
 |  |  |  |  |  |
@@ -288,7 +288,7 @@
 **On one occasion the Blessed One was dwelling in Gayā at Gayā's Head together with a thousand monks. *(historical past)***
 
 
-19. SN 56.35 (simpl) <br>ahaṃ saha eva sukhena, saha eva somanassena catunnaṃ ariyasaccānaṃ abhisamayaṃ vadāmi.
+19. [SN56.35](https://find.dhamma.gift/bw/sn/sn56.35.html) (simpl) <br>ahaṃ saha eva sukhena, saha eva somanassena catunnaṃ ariyasaccānaṃ abhisamayaṃ vadāmi.
 
 
 |  |  |  |  |  |
@@ -309,7 +309,7 @@
 **I say clear comprehension of the four Noble Truths is accompanied only by ease and only by happiness.**
 
 
-20. AN 10.93 <br>anāthapiṇḍiko gahapati, yāvatako ahosi paribbājakehi saddhiṃ kathāsallāpo, taṃ sabbaṃ bhagavato ārocesi.
+20. [AN10.93](https://find.dhamma.gift/bw/an/an10.93.html) <br>anāthapiṇḍiko gahapati, yāvatako ahosi paribbājakehi saddhiṃ kathāsallāpo, taṃ sabbaṃ bhagavato ārocesi.
 
 
 |  |  |  |  |  |
@@ -330,7 +330,7 @@
 **Whatever conversation was with wandering ascetics, the householder Anāthapiṇḍika told all of that to the Blessed One.**
 
 
-21. VIN 5.1.1 <br>mā kho tumhe eso ajesi.
+21. [VIN5.1.1](https://find.dhamma.gift/bw/vi/kd.html) <br>mā kho tumhe eso ajesi.
 
 
 |  |  |  |  |  |
@@ -345,7 +345,7 @@
 **Do not let this person defeat you.**
 
 
-22. SN 42.2 (simpl) <br>"alaṃ, gāmaṇi. mā maṃ etaṃ pucchi
+22. [SN42.2](https://find.dhamma.gift/bw/sn/sn42.2.html) (simpl) <br>"alaṃ, gāmaṇi. mā maṃ etaṃ pucchi
 
 
 |  |  |  |  |  |
@@ -361,7 +361,7 @@
 **That's enough, leader, do not ask me this!**
 
 
-23. AN 6.61 <br>yathā no bhagavā byākarissati, tathā naṃ mayaṃ dhāressāma
+23. [AN6.61](https://find.dhamma.gift/bw/an/an6.61.html) <br>yathā no bhagavā byākarissati, tathā naṃ mayaṃ dhāressāma
 
 
 |  |  |  |  |  |
@@ -379,7 +379,7 @@
 **As the Blessed One will explain [it] to us, so we will keep that in mind.**
 
 
-24. SN 12.22 (simpl) <br>kārā amhesu mahapphalā bhavissanti
+24. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl) <br>kārā amhesu mahapphalā bhavissanti
 
 
 |  |  |  |  |  |
@@ -393,7 +393,7 @@
 **Services (done) on us could be of great fruits.**
 
 
-25. KHP 7 <br>idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.
+25. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html) <br>idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.
 
 
 |  |  |  |  |  |
@@ -410,7 +410,7 @@
 **May this be for your relatives; may [your] relatives be happy.**
 
 
-26. MN 39<br>parisuddho no kāyasamācāro bhavissati.
+26. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>parisuddho no kāyasamācāro bhavissati.
 
 
 |  |  |  |  |  |
@@ -424,7 +424,7 @@
 **Our bodily behavior will be pure/purified.**
 
 
-27. AN 7.61<br>na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmi
+27. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html)<br>na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmi
 
 
 |  |  |  |  |  |
@@ -439,7 +439,7 @@
 **Having not raised up a high trunk, I will approach families. [I will not arrogantly approach families]**
 
 
-28. VIN PAT PC 10 (simpl) <br>bhikkhu paṭhaviṃ na khaṇati
+28. [VIN PAT PC 10](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) (simpl) <br>bhikkhu paṭhaviṃ na khaṇati
 
 
 |  |  |  |  |  |
@@ -453,7 +453,7 @@
 **A monk does not dig up the ground.**
 
 
-29. DN 16.27 (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
+29. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
 
 
 |  |  |  |  |  |
@@ -467,7 +467,7 @@
 **Flowers are sprinkled on the dead body of the Tathāgata.**
 
 
-30. DN 14.13 (simpl) <br>bhagavā migadāye pāturahosi
+30. [DN14.13](https://find.dhamma.gift/bw/dn/dn14.html) (simpl) <br>bhagavā migadāye pāturahosi
 
 
 |  |  |  |  |  |
@@ -480,7 +480,7 @@
 **The Blessed One appeared in the deer park.**
 
 
-31. UD 45 <br>asurā mahāsamudde abhiramanti.
+31. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>asurā mahāsamudde abhiramanti.
 
 
 |  |  |  |  |  |
@@ -493,7 +493,7 @@
 **Malevolent beings find high pleasure in the great ocean.**
 
 
-32. MN 51 (simpl) <br>pakkhī sakuṇo ḍeti.
+32. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) (simpl) <br>pakkhī sakuṇo ḍeti.
 
 
 |  |  |  |  |  |
@@ -506,7 +506,7 @@
 **The bird, [one] with wings, flies...**
 
 
-33. VIN 1.2.6<br>bhikkhu saṅghaṃ kuṭivatthussa olokanaṃ yācati
+33. [VIN1.2.6](https://find.dhamma.gift/bw/vi/bu-vb-sn6.html)<br>bhikkhu saṅghaṃ kuṭivatthussa olokanaṃ yācati
 
 
 |  |  |  |  |  |
@@ -521,7 +521,7 @@
 **A monk asks the Community to check the place of the hut.**
 
 
-34. MN 43 <br>so āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi.
+34. [MN43](https://find.dhamma.gift/bw/mn/mn43.html) <br>so āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi.
 
 
 |  |  |  |  |  |
@@ -537,7 +537,7 @@
 **He asked venerable Sāriputta a question in addition.**
 
 
-35. AN 8.53 <br>ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.
+35. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.
 
 
 |  |  |  |  |  |
@@ -553,7 +553,7 @@
 **These things lead to attachment, not to detachment.**
 
 
-36. MN 74 <br>n'eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti
+36. [MN74](https://find.dhamma.gift/bw/mn/mn74.html) <br>n'eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti
 
 
 |  |  |  |  |  |
@@ -573,7 +573,7 @@
 **At that time, he feels neither a painful sensation nor a neutral sensation.**
 
 
-37. MN 82 <br>āyasmā raṭṭhapālo n'eva dānaṃ alattha na paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha!
+37. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) <br>āyasmā raṭṭhapālo n'eva dānaṃ alattha na paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha!
 
 
 |  |  |  |  |  |
@@ -594,7 +594,7 @@
 **Venerable Raṭṭhapāla obtained neither alms nor a refusal; on the contrary, he obtained only verbal abuse.**
 
 
-38. SN 10.5 <br>mā akāsi pāpakaṃ kammaṃ
+38. [SN10.5](https://find.dhamma.gift/bw/sn/sn10.5.html) <br>mā akāsi pāpakaṃ kammaṃ
 
 
 |  |  |  |  |  |
@@ -608,7 +608,7 @@
 **Do not do an evil deed.**
 
 
-39. SN 21.9 <br>kiṃ nu kujjhasi? mā kujjhi!
+39. [SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html) <br>kiṃ nu kujjhasi? mā kujjhi!
 
 
 |  |  |  |  |  |
@@ -622,7 +622,7 @@
 **Why indeed are you getting angry? Don't be angry!**
 
 
-40. MN 82 <br>aṭṭhi tacena onaddhaṃ,<br>saha vatthehi sobhati.
+40. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) <br>aṭṭhi tacena onaddhaṃ,<br>saha vatthehi sobhati.
 
 
 |  |  |  |  |  |
@@ -641,7 +641,7 @@
 
 ## Class 5 Extra
 
-1. DHP223 (simpl) <br>jina kadariyaṃ dānena, jina saccena alikavādinaṃ.
+1. [DHP223](https://find.dhamma.gift/bw/dhp/dhp221-234.html) (simpl) <br>jina kadariyaṃ dānena, jina saccena alikavādinaṃ.
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -657,7 +657,7 @@
 **Conquer stinginess by giving; conquer liar by truth.**
 
 
-2. TH 251 (simpl) <br>alaṃ bālassa mohāya, no pāraṃ gavesino
+2. [TH251](https://find.dhamma.gift/bw/tha/tha16.html) (simpl) <br>alaṃ bālassa mohāya, no pāraṃ gavesino
 
 
 |  |  |  |  |  |
@@ -673,7 +673,7 @@
 **It is enough for deluding a fool not one seeking Nibbāna.**
 
 
-3. MN 19 (simpl) <br>jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
+3. [MN19](https://find.dhamma.gift/bw/mn/mn19.html) (simpl) <br>jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
 
 
 |  |  |  |  |  |
@@ -696,7 +696,7 @@
 **Meditate, monks! You must not be negligent, do not have remorse afterwards! This [is] my advice for you.**
 
 
-4. SNP 31 (simpl) <br>tuvaṃ hi no brahmasamo asi saccaṃ
+4. [SNP31](https://find.dhamma.gift/bw/snp/snp3.5.html) (simpl) <br>tuvaṃ hi no brahmasamo asi saccaṃ
 
 
 |  |  |  |  |  |
@@ -712,7 +712,7 @@
 **You are truly for us equal to the Brahma.**
 
 
-5. VIN PAT PC 42 <br>gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
+5. [VIN PAT PC 42](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
 
 
 |  |  |  |  |  |
@@ -732,7 +732,7 @@
 **Go away, friend, for me there is no comfort talking or sitting down together with you.**
 
 
-6. SNP 70 <br>te diṭṭhiṃ n'ābhijānāmi, gotamassa yasassino.
+6. [SNP70](https://find.dhamma.gift/bw/snp/snp5.16.html) <br>te diṭṭhiṃ n'ābhijānāmi, gotamassa yasassino.
 
 
 |  |  |  |  |  |
@@ -747,7 +747,7 @@
 **I don't understand your view; [the view] of the famous Gotama.**
 
 
-7. SN 40.1 (simpl) <br>mā, brāhmaṇa, jhānaṃ pamādo, jhāne cittaṃ saṇṭhapehi, jhāne cittaṃ ekodiṃ karohi
+7. [SN40.1](https://find.dhamma.gift/bw/sn/sn40.1.html) (simpl) <br>mā, brāhmaṇa, jhānaṃ pamādo, jhāne cittaṃ saṇṭhapehi, jhāne cittaṃ ekodiṃ karohi
 
 
 |  |  |  |  |  |

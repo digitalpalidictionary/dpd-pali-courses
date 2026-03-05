@@ -2,19 +2,19 @@
 ***
 1.  catubbhi vātehi asampakampeyya
 ***
-SNP 13 (modif)
+[SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) (modif)
 ***
 2.  pañcannaṃ dhīro bhayānaṃ na bhāye
 
-SNP 54
+[SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html)
 
 3.  pañca kāmaguṇā loke, mano-chaṭṭhā paveditā,
 ***
-SN 1.30
+[SN1.30](https://find.dhamma.gift/bw/sn/sn1.30.html)
 ***
 4.  taṃ atikkāmayato nissaggiyaṃ hotī'ti ekādase aruṇ'uggamane nissaggiyaṃ hoti.
 ***
-VIN 1.4.1.1
+[VIN1.4.1.1](https://find.dhamma.gift/bw/vi/bu-vb-np1.html)
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 13</a>

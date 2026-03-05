@@ -12,7 +12,7 @@
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
 
-1. SN 56.11<br>cātummahārājikānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā saddamanussāvesuṃ
+1. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html)<br>cātummahārājikānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā saddamanussāvesuṃ
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 **&nbsp;**
 
 
-2. TH 257<br>tato pāsādikaṃ āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā teladhārāva, ahosi iriyāpatho.
+2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>tato pāsādikaṃ āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā teladhārāva, ahosi iriyāpatho.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@
 **&nbsp;**
 
 
-3. MN 51<br>yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
+3. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@
 **&nbsp;**
 
 
-4. AN 10.48<br>vevaṇṇiyamhi ajjhupagatoti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
+4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>vevaṇṇiyamhi ajjhupagatoti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@
 **&nbsp;**
 
 
-5. SN 46.3<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā dvayena vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
+5. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā dvayena vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@
 **&nbsp;**
 
 
-6. DN 2.4 <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
+6. [DN2.4](https://find.dhamma.gift/bw/dn/dn2.html) <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@
 **&nbsp;**
 
 
-7. DN 16.11 <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhīti
+7. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhīti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@
 **&nbsp;**
 
 
-8. MN 39 <br>samitāssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
+8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>samitāssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@
 **&nbsp;**
 
 
-9. AN 10.44 <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassūti, itissa bhavanti vattāro.
+9. [AN10.44](https://find.dhamma.gift/bw/an/an10.44.html) <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassūti, itissa bhavanti vattāro.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@
 **&nbsp;**
 
 
-10. AN 7.61 <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
+10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -202,7 +202,7 @@
 **&nbsp;**
 
 
-11. SN 16.10 <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etadavoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijakoti?
+11. [SN16.10](https://find.dhamma.gift/bw/sn/sn16.10.html) <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etadavoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijakoti?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -231,7 +231,7 @@
 **&nbsp;**
 
 
-12. ITI 100 <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
+12. [ITI100](https://find.dhamma.gift/bw/it/it.html) <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -251,7 +251,7 @@
 **&nbsp;**
 
 
-13. SN 35.241 <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
+13. [SN35.241](https://find.dhamma.gift/bw/sn/sn35.241.html) <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -294,7 +294,7 @@
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
 
-1. VIN PAT PC 59<br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
+1. [VIN PAT PC 59](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -321,7 +321,7 @@
 **&nbsp;**
 
 
-2. AN 6.17 <br>indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṁ anuyuttā, vipassakā kusalānaṁ dhammānaṁ, pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ, bhāvanānuyogamanuyuttā viharissāmāti.
+2. [AN6.17](https://find.dhamma.gift/bw/an/an6.17.html) <br>indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṁ anuyuttā, vipassakā kusalānaṁ dhammānaṁ, pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ, bhāvanānuyogamanuyuttā viharissāmāti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -344,7 +344,7 @@
 **&nbsp;**
 
 
-3. MN 50<br>bhūtapubbāhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me kāḷī nāma bhaginī. tassā tvaṃ putto. so me tvaṃ bhāgineyyo ahosi.
+3. [MN50](https://find.dhamma.gift/bw/mn/mn50.html)<br>bhūtapubbāhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me kāḷī nāma bhaginī. tassā tvaṃ putto. so me tvaṃ bhāgineyyo ahosi.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -371,7 +371,7 @@
 **&nbsp;**
 
 
-4. MN 51<br>atha kho pesso ca hatthārohaputto kandarako ca paribbājako yena bhagavā tenupasaṅkamiṃsu
+4. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>atha kho pesso ca hatthārohaputto kandarako ca paribbājako yena bhagavā tenupasaṅkamiṃsu
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -391,7 +391,7 @@
 **&nbsp;**
 
 
-5. DN 3.13<br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
+5. [DN3.13](https://find.dhamma.gift/bw/dn/dn3.html)<br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -414,7 +414,7 @@
 **&nbsp;**
 
 
-6. DHP 295<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
+6. [DHP295](https://find.dhamma.gift/bw/dhp/dhp290-305.html)<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
 
 |  |  |  |  |  |
 |---|---|---|---|---|

@@ -2,15 +2,15 @@
 
 1.  eso dhammo, eso vinayo, etaṃ satthu sāsanaṃ
 ***
-*AN 8.53*
+*[AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)*
 ***
 2.  yo dhammaṃ passati so maṃ passati, yo maṃ passati so dhammaṃ passati
 ***
-*SN 22.87*
+*[SN22.87](https://find.dhamma.gift/bw/sn/sn22.87.html)*
 
 3.  aho! yaṃ parassa taṃ mama assa!
 ***
-*AN 10.176*
+*[AN10.176](https://find.dhamma.gift/bw/an/an10.176.html)*
 
 4.  asantiyā āpattiyā, tuṇhī bhavamāno.
 ***
@@ -22,7 +22,7 @@ dīghaṃ santassa yojanaṃ,
 ***
 dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ.
 ***
-*DHP 60*
+*[DHP60](https://find.dhamma.gift/bw/dhp/dhp60-75.html)*
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 11</a>

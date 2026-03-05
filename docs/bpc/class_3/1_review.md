@@ -6,27 +6,27 @@ VIN PAT NID
 ***
 2.  āvāse saṅgho *viharati*
 ***
-AN 4.180
+[AN4.180](https://find.dhamma.gift/bw/an/an4.180.html)
 ***
 3.  cattāro satipaṭṭhānā satta bojjh'aṅge *paripūrenti*
 ***
-MN 118
+[MN118](https://find.dhamma.gift/bw/mn/mn118.html)
 ***
 4.  *nikkāmī* gotamassa sāsanamhi
 ***
-SNP 13 (simpl)
+[SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) (simpl)
 ***
 5.  *satthā* devānaṃ ca manussānaṃ ca buddho
 ***
-SN 11.3
+[SN11.3](https://find.dhamma.gift/bw/sn/sn11.3.html)
 ***
 6.  sammāsambuddhassa sāvako *taṇhāya* khayasmiṃ *ramati*
 ***
-DHP 187
+[DHP187](https://find.dhamma.gift/bw/dhp/dhp179-196.html)
 ***
 7.  vitakkānaṃ ca vicārānaṃ ca vūpasamā
 ***
-DN 22.18
+[DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 3</a>

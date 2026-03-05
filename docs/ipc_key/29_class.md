@@ -22,7 +22,7 @@
 
 
 
-**SNP 47**
+**[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html)**
 
 
 

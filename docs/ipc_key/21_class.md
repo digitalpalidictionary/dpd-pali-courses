@@ -4,7 +4,7 @@
 
 
 
-1. SNP 13<br>yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhim'ānantarikañ'ñam'āhu.
+1. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhim'ānantarikañ'ñam'āhu.
 
 
 |  |  |  |  |  |
@@ -25,7 +25,7 @@
 **The foremost Buddha extolled pure stillness of the mind, which they say with immediate results.**
 
 
-2. SNP 13<br>khayaṃ virāgaṃ amataṃ paṇītaṃ, yad'ajjhagā sakyamunī samāhito.
+2. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>khayaṃ virāgaṃ amataṃ paṇītaṃ, yad'ajjhagā sakyamunī samāhito.
 
 
 |  |  |  |  |  |
@@ -46,7 +46,7 @@
 **The wearing away, the dispassion, the deathless, the sublime (or sublime deathless) which the concentrated Sakyan sage attained…**
 
 
-3. SNP 22<br>khaṇo vo mā upaccagā, khaṇ'ātītā hi socanti, nirayamhi samappitā.
+3. [SNP22](https://find.dhamma.gift/bw/snp/snp2.10.html)<br>khaṇo vo mā upaccagā, khaṇ'ātītā hi socanti, nirayamhi samappitā.
 
 
 |  |  |  |  |  |
@@ -67,7 +67,7 @@
 **Don't let the opportunity pass by; they who have missed the chance are consigned to hell [and] sorrow over [it].**
 
 
-4. AN 4.67<br>sabbe sattā sabbe pāṇā, sabbe bhūtā ca kevalā. <br>sabbe bhadrāni passantu, mā kiñci pāpam'āgamā.
+4. [AN4.67](https://find.dhamma.gift/bw/an/an4.67.html)<br>sabbe sattā sabbe pāṇā, sabbe bhūtā ca kevalā. <br>sabbe bhadrāni passantu, mā kiñci pāpam'āgamā.
 
 
 |  |  |  |  |  |
@@ -93,7 +93,7 @@
 **May all creatures, all living beings, all existing entities, all of them, may they all encounter good fortune and may not any evil come to (them).**
 
 
-5. SNP 41<br>yo attano sīlavatāni jantu, anānupuṭṭho'va paresa pāva, anariyadhammaṃ kusalā tam'āhu, yo ātumānaṃ sayam'eva pāva.
+5. [SNP41](https://find.dhamma.gift/bw/snp/snp4.3.html)<br>yo attano sīlavatāni jantu, anānupuṭṭho'va paresa pāva, anariyadhammaṃ kusalā tam'āhu, yo ātumānaṃ sayam'eva pāva.
 
 
 |  |  |  |  |  |
@@ -127,7 +127,7 @@
 **A person who, unasked, boasts to others about his virtues and practices, the masters call him [one of] ignoble nature, who boasts about himself just on his own accord.**
 
 
-6. MN 79<br>appevanām'imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā'ti
+6. [MN79](https://find.dhamma.gift/bw/mn/mn79.html)<br>appevanām'imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā'ti
 
 
 |  |  |  |  |  |
@@ -153,7 +153,7 @@
 **"If only the ending of this whole mass of suffering would be apparent. (lit. make itself known)"**
 
 
-7. AN 10.44<br>"iṅgha tāva āyasmā kāyikaṃ sikkhassū"ti, iti'ssa bhavanti vattāro.
+7. [AN10.44](https://find.dhamma.gift/bw/an/an10.44.html)<br>"iṅgha tāva āyasmā kāyikaṃ sikkhassū"ti, iti'ssa bhavanti vattāro.
 
 
 |  |  |  |  |  |
@@ -175,7 +175,7 @@
 **"Please, Venerable, first you should train yourself bodily", there will be those who say thus to him.**
 
 
-8. SNP 70<br>evaṃ abhikkantadassāviṃ, atthi pañhena āgamaṃ, <br>kathaṃ lokaṃ avekkhantaṃ, maccurājā na passati.
+8. [SNP70](https://find.dhamma.gift/bw/snp/snp5.16.html)<br>evaṃ abhikkantadassāviṃ, atthi pañhena āgamaṃ, <br>kathaṃ lokaṃ avekkhantaṃ, maccurājā na passati.
 
 
 |  |  |  |  |  |
@@ -225,7 +225,7 @@
 
 
 
-9. SN 1.31<br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatin'ti.
+9. [SN1.31](https://find.dhamma.gift/bw/sn/sn1.31.html)<br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatin'ti.
 
 
 |  |  |  |  |  |
@@ -249,7 +249,7 @@
 **One should associate oneself just with the virtuous,<br>one should make oneself intimate with the virtuous,<br>having understood the true teaching of the virtuous,<br>beings go (on) to a good destination.**
 
 
-10. UD 5.10<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
+10. [UD5.10](https://find.dhamma.gift/bw/ud/ud1.5.html)<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
 
 
 |  |  |  |  |  |
@@ -284,7 +284,7 @@
 **With stationary body, with stationary mind, <br>standing or sitting or lying down,<br>a monk focusing on this mindfulness,<br>could get successive attainments,<br>having obtained successive attainments,<br>he could go out of the king of death's sight.**
 
 
-11. KHP 9<br>na paro paraṃ **nikubbetha**,<br>**n'ātimaññetha** katthaci naṃ kiñci,<br>byārosanā paṭighasaññā,<br>nāññamaññassa **dukkhamiccheyya**.
+11. [KHP9](https://find.dhamma.gift/bw/kp/kp9.html)<br>na paro paraṃ **nikubbetha**,<br>**n'ātimaññetha** katthaci naṃ kiñci,<br>byārosanā paṭighasaññā,<br>nāññamaññassa **dukkhamiccheyya**.
 
 
 |  |  |  |  |  |
@@ -315,7 +315,7 @@
 **One should not cheat another, <br>nor despise anywhere anyone,<br>out of anger and dislike, <br>one should not wish suffering for another.**
 
 
-12. AN 2.19 <br>kusalaṃ, bhikkhave, **bhāvetha**. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā **abhavissa** kusalaṃ bhāvetuṃ, nāhaṃ evaṃ **vadeyyaṃ**, 'kusalaṃ, bhikkhave, **bhāvethā**'ti.
+12. [AN2.19](https://find.dhamma.gift/bw/an/an2.19.html) <br>kusalaṃ, bhikkhave, **bhāvetha**. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā **abhavissa** kusalaṃ bhāvetuṃ, nāhaṃ evaṃ **vadeyyaṃ**, 'kusalaṃ, bhikkhave, **bhāvethā**'ti.
 
 
 |  |  |  |  |  |
@@ -347,7 +347,7 @@
 **You all must develop skillful qualities (lit: the good), monks. It is possible to develop skillful qualities. If it would not be possible to develop skillful qualities, I myself would not say this, "Monks, develop skillful qualities."**
 
 
-13. AN 3.39 <br>ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā **aṭṭīyeyyaṃ** **harāyeyyaṃ** **jiguccheyyaṃ** na metaṃ assa patirūpan'ti.
+13. [AN3.39](https://find.dhamma.gift/bw/an/an3.39.html) <br>ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā **aṭṭīyeyyaṃ** **harāyeyyaṃ** **jiguccheyyaṃ** na metaṃ assa patirūpan'ti.
 
 
 |  |  |  |  |  |
@@ -383,7 +383,7 @@
 **"And if I, being of a nature to get old, who is not exempt from old age, would see another old person and would become troubled, ashamed and disgusted, this would not be suitable for me".**
 
 
-14. UD 5.10 <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
+14. [UD5.10](https://find.dhamma.gift/bw/ud/ud1.5.html) <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
 
 
 |  |  |  |  |  |
@@ -410,7 +410,7 @@
 **The Blessed One saw Venerable Cūḷapanthaka seated nearby, having folded (his legs) into sitting posture, directing his body upright, having set up mindfulness to the fore.**
 
 
-15. ITI 87<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**'ti.
+15. [ITI87](https://find.dhamma.gift/bw/it/it.html)<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**'ti.
 
 
 |  |  |  |  |  |
@@ -448,7 +448,7 @@
 **One should think three skilful thoughts,<br>and one should reject three unskilful ones.<br>One stills thoughts and plans,<br>like the rain (stills) raised dust.<br>With a mind with thought calmed,<br>right here one has obtained that state of peace.**
 
 
-16. SN 11.24 <br>tena kho pana samayena dve bhikkhū sampayojesuṃ, tatreko bhikkhu **accasarā**, atha kho so bhikkhu tassa bhikkhuno santike accayaṃ accayato deseti, so bhikkhu nappaṭiggaṇhāti.
+16. [SN11.24](https://find.dhamma.gift/bw/sn/sn11.24.html) <br>tena kho pana samayena dve bhikkhū sampayojesuṃ, tatreko bhikkhu **accasarā**, atha kho so bhikkhu tassa bhikkhuno santike accayaṃ accayato deseti, so bhikkhu nappaṭiggaṇhāti.
 
 
 |  |  |  |  |  |
@@ -517,7 +517,7 @@
 **A wandering monk [who is] lax would certainly stir up for himself more defilement.<br>(or)<br>A wandering monk, because (he is) lax, would stir up for himself more defilement.**
 
 
-2. TH 251<br>na dīgham'āyuṃ labhate dhanena, na c'āpi vittena jaraṃ vihanti. appaṃ h'idaṃ jīvitam'āhu dhīrā, asassataṃ vippariṇāmadhammaṃ.
+2. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>na dīgham'āyuṃ labhate dhanena, na c'āpi vittena jaraṃ vihanti. appaṃ h'idaṃ jīvitam'āhu dhīrā, asassataṃ vippariṇāmadhammaṃ.
 
 
 |  |  |  |  |  |
@@ -559,7 +559,7 @@
 **The sages say this life is indeed short, not eternal, and having the nature of changing (i.e. is changeable in nature).**
 
 
-3. VIN PAT NP 10<br>yuñjant'āyasmanto sakaṃ, mā vo sakaṃ vinassā"ti.
+3. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>yuñjant'āyasmanto sakaṃ, mā vo sakaṃ vinassā"ti.
 
 
 |  |  |  |  |  |
@@ -580,7 +580,7 @@
 
 
 
-4. SNP 46 <br>visenikatvā pana ye caranti,<br>diṭṭhīhi diṭṭhiṃ avirujjhamānā,<br>tesu tvaṃ kiṃ **labhetho** pasūra,<br>yesīdha natthī paramuggahītaṃ.
+4. [SNP46](https://find.dhamma.gift/bw/snp/snp4.8.html) <br>visenikatvā pana ye caranti,<br>diṭṭhīhi diṭṭhiṃ avirujjhamānā,<br>tesu tvaṃ kiṃ **labhetho** pasūra,<br>yesīdha natthī paramuggahītaṃ.
 
 
 |  |  |  |  |  |

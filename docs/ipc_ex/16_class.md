@@ -65,7 +65,7 @@
 **Break up all the sandhis in the following sentences.**
 
 
-1. MN 48<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.
+1. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@
 **&nbsp;**
 
 
-2. SN 22.63<br>yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
+2. [SN22.63](https://find.dhamma.gift/bw/sn/sn22.63.html)<br>yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@
 **&nbsp;**
 
 
-3. MN 117<br>itissime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyathidaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
+3. [MN117](https://find.dhamma.gift/bw/mn/mn117.html)<br>itissime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyathidaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@
 **&nbsp;**
 
 
-4. MN 21<br>ubhatodaṇḍakena cepi kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ, tatrāpi yo mano padūseyya, na me so tena sāsanakaro.
+4. [MN21](https://find.dhamma.gift/bw/mn/mn21.html)<br>ubhatodaṇḍakena cepi kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ, tatrāpi yo mano padūseyya, na me so tena sāsanakaro.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@
 **&nbsp;**
 
 
-5. SN 22.59<br>yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — etaṃ mama, esohamasmi, eso me attāti? no hetaṃ, bhante.
+5. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — etaṃ mama, esohamasmi, eso me attāti? no hetaṃ, bhante.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@
 **&nbsp;**
 
 
-6. MN 139<br>iti kho panetaṃ vuttaṃ. kiñcetaṃ paṭicca vuttaṃ?
+6. [MN139](https://find.dhamma.gift/bw/mn/mn139.html)<br>iti kho panetaṃ vuttaṃ. kiñcetaṃ paṭicca vuttaṃ?
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@
 **&nbsp;**
 
 
-7. MN 140<br>tasseva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
+7. [MN140](https://find.dhamma.gift/bw/mn/mn140.html)<br>tasseva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. svāssa pahīno hoti ucchinnamūlo tālāvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -215,7 +215,7 @@
 **&nbsp;**
 
 
-8. SNP 62<br>santi loke munayo, janā vadanti tayidaṃ kathaṃsu, <br>ñāṇūpapannaṃ no muniṃ vadanti, udāhu ve jīvitenūpapannaṃ.
+8. [SNP62](https://find.dhamma.gift/bw/snp/snp5.8.html)<br>santi loke munayo, janā vadanti tayidaṃ kathaṃsu, <br>ñāṇūpapannaṃ no muniṃ vadanti, udāhu ve jīvitenūpapannaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -238,7 +238,7 @@
 **&nbsp;**
 
 
-9. AN 8.53<br>neso dhammo neso vinayo netaṃ satthusāsananti
+9. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>neso dhammo neso vinayo netaṃ satthusāsananti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -252,7 +252,7 @@
 **&nbsp;**
 
 
-10. SN 12.63 <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
+10. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -270,7 +270,7 @@
 **&nbsp;**
 
 
-11. AN 4.45 <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
+11. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@
 **&nbsp;**
 
 
-12. AN 2.89 <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
+12. [AN2.89](https://find.dhamma.gift/bw/an/an2.89.html) <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -304,7 +304,7 @@
 **&nbsp;**
 
 
-13. SN 22.81 <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
+13. [SN22.81](https://find.dhamma.gift/bw/sn/sn22.81.html) <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -325,7 +325,7 @@
 **&nbsp;**
 
 
-14. SN 9.3 <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
+14. [SN9.3](https://find.dhamma.gift/bw/sn/sn9.3.html) <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -345,7 +345,7 @@
 **&nbsp;**
 
 
-15. MN 95 <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
+15. [MN95](https://find.dhamma.gift/bw/mn/mn95.html) <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -359,7 +359,7 @@
 **&nbsp;**
 
 
-16. SN 47.10 <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
+16. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -376,7 +376,7 @@
 **&nbsp;**
 
 
-17. AN 5.57 <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
+17. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -397,7 +397,7 @@
 **&nbsp;**
 
 
-18. SNP 7 <br>ekajaṃ vā dvijaṃ vāpi, <br>yodha pāṇaṃ vihiṃsati, <br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
+18. [SNP7](https://find.dhamma.gift/bw/snp/snp1.7.html) <br>ekajaṃ vā dvijaṃ vāpi, <br>yodha pāṇaṃ vihiṃsati, <br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -420,7 +420,7 @@
 **&nbsp;**
 
 
-19. MN 3 <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
+19. [MN3](https://find.dhamma.gift/bw/mn/mn3.html) <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -438,7 +438,7 @@
 **&nbsp;**
 
 
-20. AN 4.35 <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
+20. [AN4.35](https://find.dhamma.gift/bw/an/an4.35.html) <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -453,7 +453,7 @@
 **&nbsp;**
 
 
-21. DHP 62<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
+21. [DHP62](https://find.dhamma.gift/bw/dhp/dhp60-75.html)<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -484,7 +484,7 @@
 **Break up all the sandhis in the following sentences.**
 
 
-1. DHP 389<br>na brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī yassa muñcati.
+1. [DHP389](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>na brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī yassa muñcati.
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -505,7 +505,7 @@
 **&nbsp;**
 
 
-2. MN 12<br>abhijānāmi kho panāhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī sudaṃ homi paramatapassī
+2. [MN12](https://find.dhamma.gift/bw/mn/mn12.html)<br>abhijānāmi kho panāhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī sudaṃ homi paramatapassī
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -524,7 +524,7 @@
 **&nbsp;**
 
 
-3. DHP 338<br>yathāpi mūle anupaddave daḷhe, chinnopi rukkho punareva rūhati, evampi taṇhānusaye anūhate, nibbattatī dukkhamidaṃ punappunaṃ.
+3. [DHP338](https://find.dhamma.gift/bw/dhp/dhp334-359.html)<br>yathāpi mūle anupaddave daḷhe, chinnopi rukkho punareva rūhati, evampi taṇhānusaye anūhate, nibbattatī dukkhamidaṃ punappunaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -546,7 +546,7 @@
 **&nbsp;**
 
 
-4. VIN PAT SA 6<br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ attuddesaṃ, pamāṇikā kāretabbā. tatridaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā.
+4. [VIN PAT SA 6](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)<br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ attuddesaṃ, pamāṇikā kāretabbā. tatridaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -571,7 +571,7 @@
 **&nbsp;**
 
 
-5. DHP 407<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsaporiva āraggā, tamahaṃ brūmi brāhmaṇaṃ.
+5. [DHP407](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsaporiva āraggā, tamahaṃ brūmi brāhmaṇaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -592,7 +592,7 @@
 **&nbsp;**
 
 
-6. SN 47.12<br>atha kiñcarahi tyāyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṃso gahito, sīhanādo nadito
+6. [SN47.12](https://find.dhamma.gift/bw/sn/sn47.12.html)<br>atha kiñcarahi tyāyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṃso gahito, sīhanādo nadito
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -613,7 +613,7 @@
 **&nbsp;**
 
 
-7. MN 18<br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
+7. [MN18](https://find.dhamma.gift/bw/mn/mn18.html)<br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -627,7 +627,7 @@
 **&nbsp;**
 
 
-8. SNP 7 <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
+8. [SNP7](https://find.dhamma.gift/bw/snp/snp1.7.html) <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|

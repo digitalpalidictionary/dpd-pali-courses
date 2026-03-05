@@ -14,7 +14,7 @@
 ***
 2\. Do a full grammatical analysis, breaking up all sandhis. Please translate every sentence. For example:
 ***
-AN 5.57 **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
+[AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
 ***
 
 |---|---|---|---|

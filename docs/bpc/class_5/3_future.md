@@ -8,7 +8,7 @@ Brahmans will do ….
 ***
 “bhavissati” often expresses the idea of “should be”
 ***
-parisuddho no kāyasamācāro **bhavissati**. *(MN 39)*
+parisuddho no kāyasamācāro **bhavissati**. *([MN39](https://find.dhamma.gift/bw/mn/mn39.html))*
 ***
 Our bodily behaviour **should** **be** **purified**.
 ***
@@ -16,7 +16,7 @@ It can be used to express a mild form of imperative.
 ***
 na uccāsoṇḍaṃ paggahetvā kulāni **upasaṅkamissāmi**
 ***
-*(AN 7.61)*
+*([AN7.61](https://find.dhamma.gift/bw/an/an7.61.html))*
 ***
 **I should** not **approach** families intoxicated with pride.
 ***

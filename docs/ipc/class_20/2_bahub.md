@@ -74,7 +74,7 @@ what part of speech is **paṃsukūlaṃ**?
 ***
 sobhati **paṃsukūlena**,
 ***
-sīho’va giri-gabbhare. (TH 261)
+sīho’va giri-gabbhare. ([TH261](https://find.dhamma.gift/bw/tha/tha18.html))
 ***
 how would you translate this?
 ***
@@ -232,17 +232,17 @@ pahūtā + paññā \> pahūtapañño
 ***
 (a person) who is rich in wisdom
 ***
-tvaṁ **itthannāmaṃ** āpattiṃ āpanno (AN 8.14)
+tvaṁ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://find.dhamma.gift/bw/an/an8.14.html))
 ***
-ariyasāvako **sammāsamādhi** hoti (AN 4.196)
+ariyasāvako **sammāsamādhi** hoti ([AN4.196](https://find.dhamma.gift/bw/an/an4.196.html))
 ***
-… mahesiṃ **khīṇāsavaṃ** **kukkuccavūpasantaṃ** (SNP 4)
+… mahesiṃ **khīṇāsavaṃ** **kukkuccavūpasantaṃ** ([SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html))
 ***
-dinnaṃ hoti **mahapphalaṃ** (DHP 356)
+dinnaṃ hoti **mahapphalaṃ** ([DHP356](https://find.dhamma.gift/bw/dhp/dhp334-359.html))
 ***
-ahaṃ **evaṃvādī** **evaṃdiṭṭhī** (AN 4.183)
+ahaṃ **evaṃvādī** **evaṃdiṭṭhī** ([AN4.183](https://find.dhamma.gift/bw/an/an4.183.html))
 ***
-rūpaṃ tathāgatassa pahīnaṃ **ucchinnamūlaṃ** (MN 72)
+rūpaṃ tathāgatassa pahīnaṃ **ucchinnamūlaṃ** ([MN72](https://find.dhamma.gift/bw/mn/mn72.html))
 ***
 In some grammar books you will find a detailed analysis of the 7 types of *bahubbīhi* compounds according to their case relationship with the noun they are attributed to.
 ***

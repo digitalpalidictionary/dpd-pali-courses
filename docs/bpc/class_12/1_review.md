@@ -2,21 +2,21 @@
 
 1.  ‘ehi tvaṃ, bhikkhu, sīlavā hohi, pātimokkhe saṃvarena saṃvuto viharāhi, ācāragocarena sampanno, aṇumattesu vajjesu bhayaṃ dassāvī
 ***
-MN 107 simpl
+[MN107](https://find.dhamma.gift/bw/mn/mn107.html) simpl
 ***
 2.  ānāpānassati bhikkhave bhāvitā bahulīkatā mahapphalā hoti mahānisaṃsā
 ***
-MN 118
+[MN118](https://find.dhamma.gift/bw/mn/mn118.html)
 ***
 3.  ‘sabbehi me piyehi manāpehi nānā-bhāvo vinā-bhāvo’ti
 ***
-AN 5.57
+[AN5.57](https://find.dhamma.gift/bw/an/an5.57.html)
 ***
 4.  yo sukhaṃ dukkhato adassi, dukkhaṃ adassi sallato.
 ***
 adukkham’asukhaṃ santaṃ, adassi taṃ aniccato.
 ***
-SN 36.5 (simpl)
+[SN36.5](https://find.dhamma.gift/bw/sn/sn36.5.html) (simpl)
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 12</a>

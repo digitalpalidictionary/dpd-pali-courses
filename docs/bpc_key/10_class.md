@@ -1,6 +1,6 @@
 # Class 10 Exercises
 
-1. AN 10.176 <br>so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
+1. [AN10.176](https://find.dhamma.gift/bw/an/an10.176.html) <br>so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -50,7 +50,7 @@
 **or, seeing, he said, "I don't see"**
 
 
-2. AN 5.23 <br>so sace ākaṅkhati, dibbena cakkhunā satte passeyyaṃ cavamāne upapajjamāne
+2. [AN5.23](https://find.dhamma.gift/bw/an/an5.23.html) <br>so sace ākaṅkhati, dibbena cakkhunā satte passeyyaṃ cavamāne upapajjamāne
 
 
 |  |  |  |  |  |
@@ -76,7 +76,7 @@
 **I myself could see beings passing away and re-arising with the divine eye**
 
 
-3. MN 86 <br>atha kho āyasmā aṅgulimālo lohitena gaḷantena yena bhagavā ten'upasaṅkami
+3. [MN86](https://find.dhamma.gift/bw/mn/mn86.html) <br>atha kho āyasmā aṅgulimālo lohitena gaḷantena yena bhagavā ten'upasaṅkami
 
 
 |  |  |  |  |  |
@@ -94,7 +94,7 @@
 **And then Ven. Aṅgulimāla approached the Blessed One with blood dripping.**
 
 
-4. AN 3.83 <br>tassa na tādiso chando hoti seyyathāpi aññesaṃ bhikkhūnaṃ
+4. [AN3.83](https://find.dhamma.gift/bw/an/an3.82.html) <br>tassa na tādiso chando hoti seyyathāpi aññesaṃ bhikkhūnaṃ
 
 
 |  |  |  |  |  |
@@ -112,7 +112,7 @@
 **His interest is not such as (that) of other monks.**
 
 
-5. AN 3.35 <br>ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro'ti
+5. [AN3.35](https://find.dhamma.gift/bw/an/an3.35.html) <br>ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro'ti
 
 
 |  |  |  |  |  |
@@ -130,7 +130,7 @@
 **Those who sleep comfortably in the world, I am one of them.**
 
 
-6. MN 39 <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti
+6. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti
 
 
 |  |  |  |  |  |
@@ -147,7 +147,7 @@
 **He fills up this very body with joy and ease born from seclusion.**
 
 
-7. AN 10.61 <br>ko ca āhāro avijjāya?
+7. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>ko ca āhāro avijjāya?
 
 
 |  |  |  |  |  |
@@ -161,7 +161,7 @@
 **And what is the nutriment of ignorance?**
 
 
-8. SN 35.234 <br>so evaṃ asamanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ paccattaññ'eva parinibbāyati
+8. [SN35.234](https://find.dhamma.gift/bw/sn/sn35.234.html) <br>so evaṃ asamanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ paccattaññ'eva parinibbāyati
 
 
 |  |  |  |  |  |
@@ -207,7 +207,7 @@
 **not shaking, he thus personally attains final liberation.**
 
 
-9. VIN PAT PC 22 <br>sammato api ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.
+9. [VIN PAT PC 22](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>sammato api ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -226,7 +226,7 @@
 **Even if authorized, should a monk instruct the nuns when the sun has set, [this is] an offence requiring confession.**
 
 
-10. MN 118 <br>dīghaṃ vā assasanto dīghaṃ assasāmī'ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī'ti pajānāti
+10. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>dīghaṃ vā assasanto dīghaṃ assasāmī'ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī'ti pajānāti
 
 
 |  |  |  |  |  |
@@ -248,7 +248,7 @@
 **Breathing in long, he knows clearly, "I breathe in long" or breathing out long, he knows clearly, "I breathe out long."**
 
 
-11. SN 12.61 <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
+11. [SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
 
 
 |  |  |  |  |  |
@@ -264,7 +264,7 @@
 **Just like a monkey [who is] wandering around in a woodland, in a forest.**
 
 
-12. MN 39 <br>puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
+12. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
 
 
 |  |  |  |  |  |
@@ -279,7 +279,7 @@
 **A man could see a school of fish roaming about [and] standing still.**
 
 
-13. MN 62 <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
+13. [MN62](https://find.dhamma.gift/bw/mn/mn62.html) <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
 
 
 |  |  |  |  |  |
@@ -297,7 +297,7 @@
 **He trains [thus]: "I will breathe in gladdening the mind," he trains [thus]: "I will breathe out gladdening the mind."**
 
 
-14. MN 75 <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
+14. [MN75](https://find.dhamma.gift/bw/mn/mn75.html) <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
 
 
 |  |  |  |  |  |
@@ -319,7 +319,7 @@
 **Wandering ascetics who belong to another sect, blind, visionless, not knowing freedom from disease, not seeing total emancipation, and yet they say this verse.**
 
 
-15. VIN PAT NP 16 <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
+15. [VIN PAT NP 16](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
 
 
 |  |  |  |  |  |
@@ -335,7 +335,7 @@
 **Having accepted, it could be carried by oneself for three yojanas at the most, when there is no one (else) to carry.**
 
 
-16. SN 22.1 <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissati
+16. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissati
 
 
 |  |  |  |  |  |
@@ -351,7 +351,7 @@
 **Although I am sick in body, (my) mind will be healthy.**
 
 
-17. SN 22.59 <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
+17. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
 
 
 |  |  |  |  |  |
@@ -373,7 +373,7 @@
 **[Is what is impermanent…fit to be regarded thus:] "This is mine, this I am, this is my self?" Certainly not, venerable sir.**
 
 
-18. TH 257 <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
+18. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
 
 
 |  |  |  |  |  |
@@ -389,7 +389,7 @@
 **Remembering practitioners of old, recollecting their behavior.**
 
 
-19. SN 12.22 (simpl) <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
+19. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl) <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
 
 
 |  |  |  |  |  |
@@ -409,7 +409,7 @@
 **Monks, by considering the benefit of others, it is enough just to strive with heedfulness.**
 
 
-20. SNP 8 <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
+20. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
 
 
 |  |  |  |  |  |
@@ -428,7 +428,7 @@
 **And he should not conduct himself in any small thing because of which other wise (people) would reprove [him].<br>(or)<br>And he should not conduct himself in any small thing because of which wise would reprove others.**
 
 
-21. VIN PAT SK 71 <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
+21. [VIN PAT SE 71](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
 
 
 |  |  |  |  |  |
@@ -446,7 +446,7 @@
 **I will not preach the Dhamma walking behind, to one going in front, who is not ill.**
 
 
-22. SN 46.3 <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
+22. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html) <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
 
 
 |  |  |  |  |  |
@@ -467,7 +467,7 @@
 **For one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, energy is aroused.<br>(or)<br>When one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
 
 
-23. MN 39 <br>tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
+23. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
 
 
 |  |  |  |  |  |
@@ -486,7 +486,7 @@
 **The mind of him who sees and knows is released from the taint of sensual pleasure too.<br>(or)<br>The mind for him who sees and knows is released from the taint of sensual pleasure too.**
 
 
-24. MN 107 <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
+24. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
 
 
 |  |  |  |  |  |
@@ -512,7 +512,7 @@
 **Those monks in the training who dwell aspiring for the highest security from bondage, [who] have not reached their goal; this is my instruction to them.**
 
 
-25. DHP 184 <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
+25. [DHP184](https://find.dhamma.gift/bw/dhp/dhp179-196.html) <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
 
 
 |  |  |  |  |  |
@@ -532,7 +532,7 @@
 **One who has gone forth certainly does not harm another, a monk is not troubling another.**
 
 
-26. VIN PAT PA 2 <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
+26. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
 
 
 |  |  |  |  |  |
@@ -551,7 +551,7 @@
 **A monk, stealing of such a kind something that is not given, this one is also defeated, expelled.**
 
 
-27. VIN PAT SA 10 <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek'uddeso, phāsu viharati
+27. [VIN PAT SA 10](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek'uddeso, phāsu viharati
 
 
 |  |  |  |  |  |
@@ -572,7 +572,7 @@
 **"Let the venerable one agree with the community of monks, for a unified community, which is on friendly terms, not quarrelling, following one Pātimokkha dwells comfortably."**
 
 
-28. VIN PAT PC 14 <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
+28. [VIN PAT PC 14](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
 
 
 |  |  |  |  |  |
@@ -591,7 +591,7 @@
 **[When] departing, should he not remove it [i.e. the bed or mattress] nor cause it to be removed, or should he go not asking permission.**
 
 
-29. VIN PAT PC 68 <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n'ālaṃ antarāyāya
+29. [VIN PAT PC 68](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n'ālaṃ antarāyāya
 
 
 |  |  |  |  |  |
@@ -611,7 +611,7 @@
 **These obstructive things which have been spoken [of] by the Blessed One: they are not enough [to be] an obstruction for one engaging in [them]**
 
 
-30. SN 12.61 <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
+30. [SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
 
 
 |  |  |  |  |  |
@@ -639,7 +639,7 @@
 **Thus, when this exists, there is that, from the arising of this, that arises, when this does not exist, there is not that, from the cessation of this, that ceases.**
 
 
-31. MN 40 (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
+31. [MN40](https://find.dhamma.gift/bw/mn/mn40.html) (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
 
 
 |  |  |  |  |  |
@@ -660,7 +660,7 @@
 **When one seeing himself purified from all these evil, unwholesome states, gladness arises.<br>(or)<br>For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
 
 
-32. MN 19 <br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
+32. [MN19](https://find.dhamma.gift/bw/mn/mn19.html) <br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
 
 
 |  |  |  |  |  |
@@ -675,7 +675,7 @@
 **Monks, these [are] roots of trees, these [are] empty dwellings.**
 
 
-33. SN 22.85 <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
+33. [SN22.85](https://find.dhamma.gift/bw/sn/sn22.85.html) <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
 
 
 |  |  |  |  |  |
@@ -696,7 +696,7 @@
 **Since those monks were unable to separate Venerable Yamaka from that wrong belief…**
 
 
-34. VIN PAT PC 71 <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
+34. [VIN PAT PC 71](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
 
 
 |  |  |  |  |  |
@@ -720,7 +720,7 @@
 **Friends, I will not train in this training rule until I [can] question another monk, a competent expert in Vinaya, [about it].**
 
 
-35. SN 22.79 <br>sabbe ete pañc'upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
+35. [SN22.79](https://find.dhamma.gift/bw/sn/sn22.79.html) <br>sabbe ete pañc'upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
 
 
 |  |  |  |  |  |
@@ -741,7 +741,7 @@
 
 ## Class 10 Extra
 
-1. MN 10.11 <br>idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ, atthi me ajjhattaṃ kāmacchando'ti pajānāti
+1. [MN10.11](https://find.dhamma.gift/bw/mn/mn10.html) <br>idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ, atthi me ajjhattaṃ kāmacchando'ti pajānāti
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -768,7 +768,7 @@
 **He knows, "There is desire for sense pleasure for me internally."<br>(Internally, I have desire for sense pleasure)**
 
 
-2. SNP 16 <br>bahū devā manussā ca, maṅgalāni acintayuṃ, <br>ākaṅkhamānā sotthānaṃ, brūhi maṅgalam'uttamaṃ.
+2. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>bahū devā manussā ca, maṅgalāni acintayuṃ, <br>ākaṅkhamānā sotthānaṃ, brūhi maṅgalam'uttamaṃ.
 
 
 |  |  |  |  |  |
@@ -789,7 +789,7 @@
 **Many devas and humans thought about blessings,<br>wishing for well-being, say (what is) the highest blessing!**
 
 
-3. SNP 8 <br>tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvat'āssa vigatamiddho
+3. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvat'āssa vigatamiddho
 
 
 |  |  |  |  |  |
@@ -810,7 +810,7 @@
 **Standing, walking, seated or lying down, as long as he may be without drowsiness<br>(or)<br>… as long as there is freedom from drowsiness for him.**
 
 
-4. MN 51 <br>ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya
+4. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) <br>ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya
 
 
 |  |  |  |  |  |
@@ -835,7 +835,7 @@
 **Thus, having heard here, he does not tell there for a break of them; or having heard in such-and-such a place, he does not tell to these people for a schism of them.**
 
 
-5. SN 1.6 <br>kati jāgarataṃ suttā, kati suttesu jāgarā. <br>katīhi rajaṃ ādeti, katīhi parisujjhati
+5. [SN1.6](https://find.dhamma.gift/bw/sn/sn1.6.html) <br>kati jāgarataṃ suttā, kati suttesu jāgarā. <br>katīhi rajaṃ ādeti, katīhi parisujjhati
 
 
 |  |  |  |  |  |
@@ -856,7 +856,7 @@
 **How many are sleeping when [others] are awake? How many staying awake when [others] are sleeping? By how many one grasps a defilement? By how many is one purified?**
 
 
-6. DHP 085 <br>appakā te manussesu, ye janā pāragāmino. <br>atha ayaṃ itarā pajā, tīraṃ eva anudhāvati.
+6. [DHP085](https://find.dhamma.gift/bw/dhp/dhp76-89.html) <br>appakā te manussesu, ye janā pāragāmino. <br>atha ayaṃ itarā pajā, tīraṃ eva anudhāvati.
 
 
 |  |  |  |  |  |
@@ -879,7 +879,7 @@
 **There are few among humans, whose people who cross over, but the rest of the people only runs along the shore.**
 
 
-7. DHP 153 <br>anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
+7. [DHP153](https://find.dhamma.gift/bw/dhp/dhp146-156.html) <br>anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
 
 
 |  |  |  |  |  |

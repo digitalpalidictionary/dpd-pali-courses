@@ -65,15 +65,15 @@ highly used!
 ***
 Some examples:
 ***
-te tāvataken’eva attamanā **assu** (DN 10)
+te tāvataken’eva attamanā **assu** ([DN10](https://find.dhamma.gift/bw/dn/dn10.html))
 ***
 **They could be** pleased with just that much.
 ***
-evaṃrūpo **siyaṃ** anāgatam’addhānaṃ (SN 22.3)
+evaṃrūpo **siyaṃ** anāgatam’addhānaṃ ([SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html))
 ***
 **I could be** of such a form in the future.
 ***
-aho vata mayaṃ na maraṇadhammā **assāma** (MN 10.16)
+aho vata mayaṃ na maraṇadhammā **assāma** ([MN10.16](https://find.dhamma.gift/bw/mn/mn10.html))
 ***
 Oh **may we** not **be** of a nature to die!
 ***

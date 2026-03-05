@@ -1,6 +1,6 @@
 # Class 2 Exercises
 
-1. SN 10.8 <br>**buddho[^1]** kira **loke uppanno**
+1. [SN10.8](https://find.dhamma.gift/bw/sn/sn10.8.html) <br>**buddho[^1]** kira **loke uppanno**
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@
 **&nbsp;**
 
 
-2. TH 257 (simpl)[^2]<br>**araññe** **rukkhānaṃ** **mūlesu[^3]**, **kandarāsu** **guhāsu** ca
+2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)[^2]<br>**araññe** **rukkhānaṃ** **mūlesu[^3]**, **kandarāsu** **guhāsu** ca
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 **&nbsp;**
 
 
-3. DN 22.1 (simpl)<br>**maggo** hoti **sokaparidevānaṃ** **samatikkamāya**, **ñāyassa** **adhigamāya**, **nibbānassa** **sacchikiriyāya**.
+3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>**maggo** hoti **sokaparidevānaṃ** **samatikkamāya**, **ñāyassa** **adhigamāya**, **nibbānassa** **sacchikiriyāya**.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@
 **&nbsp;**
 
 
-4. AN 10.48<br>**uttarissa** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
+4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>**uttarissa** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@
 **&nbsp;**
 
 
-5. DN 22.5 <br>atthi imasmiṃ **kāye** **kesā** **lomā** **nakhā** **dantā** **taco**
+5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ **kāye** **kesā** **lomā** **nakhā** **dantā** **taco**
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@
 **&nbsp;**
 
 
-6. VIN PAT SE 55 (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
+6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@
 **&nbsp;**
 
 
-8. SN 55.7 <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
+8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html) <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@
 **&nbsp;**
 
 
-13. TH 251<br>kāmehi lokamhi
+13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@
 **&nbsp;**
 
 
-16. MN 107<br>pāde pādaṃ
+16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -209,7 +209,7 @@
 
 **[he places]**
 
-17. DN 22.18<br>dhammānaṃ uppādāya chandaṃ
+17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -255,7 +255,7 @@
 **&nbsp;**
 
 
-21. SN 35.28<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -279,7 +279,7 @@
 **&nbsp;**
 
 
-23. SN 12.41<br>vinipātaṃ nirayaṃ
+23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -291,7 +291,7 @@
 
 **[is reborn in]**
 
-24. MN 39<br>aparena samayena buddho
+24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -312,7 +312,7 @@
 **&nbsp;**
 
 
-26. VIN 1.1.4<br>āvāse vassaṃ
+26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -324,7 +324,7 @@
 
 **[he entered]**
 
-27. MN 99 <br>nīvaraṇehi brāhmaṇo
+27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html) <br>nīvaraṇehi brāhmaṇo
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -346,7 +346,7 @@
 
 **[is filled] [five]**
 
-29. DHP 331<br>atthamhi sahāyā
+29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -358,7 +358,7 @@
 
 **[Good are] [arisen]**
 
-30. MN 35<br>gotamo sāvake … gotamassa sāvakesu
+30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -398,7 +398,7 @@
 
 **(an easy one for beginners :)**
 
-1. SN 12.1 <br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
+1. [SN12.1](https://find.dhamma.gift/bw/sn/sn12.1.html) <br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -433,7 +433,7 @@
 **&nbsp;**
 
 
-2. AN 8.53<br>dhammā virāgāya
+2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>dhammā virāgāya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -443,7 +443,7 @@
 **&nbsp;**
 
 
-3. SN 22.59<br>saṅkhārā ābādhāya
+3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>saṅkhārā ābādhāya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -453,7 +453,7 @@
 **&nbsp;**
 
 
-4. AN 8.19 <br>saṅghamhā saṅgho
+4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html) <br>saṅghamhā saṅgho
 
 |  |  |  |  |  |
 |---|---|---|---|---|

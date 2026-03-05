@@ -68,7 +68,7 @@ It makes no sense if you translate directly into English, so please be aware of 
 ***
 **siñcati** is an example of a di-transitive verb, which takes two objects in the accusative case.
 ***
-bhikkhu udakaṃ mattikaṃ **siñceyya** VIN PAT PC 20 (simpl)
+bhikkhu udakaṃ mattikaṃ **siñceyya** [VIN PAT PC 20](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) (simpl)
 ***
 A monk **could pour** water to the earth.
 ***

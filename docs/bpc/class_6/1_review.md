@@ -2,23 +2,23 @@
 
 1.  svākkhāto, bhikkhave, **mayā** dhammo
 ***
-SN 12.22
+[SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)
 ***
 2.  sādhu **me**, bhante, bhagavā dhammaṃ desetu
 ***
-AN 8.53 simpl
+[AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) simpl
 ***
 3.  **mayaṃ** piṇḍapāte paribhuñjāma
 ***
-SN 12.22 simpl
+[SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) simpl
 ***
 4.  na etaṃ **mama**
 ***
-SN 22.79
+[SN22.79](https://find.dhamma.gift/bw/sn/sn22.79.html)
 ***
 5.  sace **me**, bhante, manussā pāṇinā pahāraṃ dassanti, …
 ***
-SN 35.88
+[SN35.88](https://find.dhamma.gift/bw/sn/sn35.88.html)
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 6</a>

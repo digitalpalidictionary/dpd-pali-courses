@@ -8,7 +8,7 @@
 
 
 
-1\. AN 5.29 caṅkama-suttaṃ (paragraph 29)
+1\. [AN5.29](https://find.dhamma.gift/bw/an/an5.29.html) caṅkama-suttaṃ (paragraph 29)
 
 
 
@@ -118,7 +118,7 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 
 
 
-2\. AN 3.4 accaya-suttaṃ (paragraph 4)
+2\. [AN3.4](https://find.dhamma.gift/bw/an/an3.4.html) accaya-suttaṃ (paragraph 4)
 
 
 
@@ -210,7 +210,7 @@ imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 
 
 
-3\. AN 5.198 vācā-suttaṃ (paragraph 198)
+3\. [AN5.198](https://find.dhamma.gift/bw/an/an5.198.html) vācā-suttaṃ (paragraph 198)
 
 
 
@@ -312,7 +312,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 
 
 
-4\. SN 12.15 kaccānagotta-suttaṃ
+4\. [SN12.15](https://find.dhamma.gift/bw/sn/sn12.15.html) kaccānagotta-suttaṃ
 
 
 

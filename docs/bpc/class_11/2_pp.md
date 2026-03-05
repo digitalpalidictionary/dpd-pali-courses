@@ -148,7 +148,7 @@ Passive: The tree was seen **by him.** (agent in instrumental)
 ***
 2\. Past participles are very often used as **nouns**
 ***
-atthi **dinnaṃ** atthi **yiṭṭhaṃ** atthi **hutaṃ** *MN 41*
+atthi **dinnaṃ** atthi **yiṭṭhaṃ** atthi **hutaṃ** *[MN41](https://find.dhamma.gift/bw/mn/mn41.html)*
 ***
 lit. there is **given,** there is **sacrificed**, there is **offered**
 ***
@@ -158,7 +158,7 @@ there is (what has been) **given,** there is (what has been) **sacrificed**, the
 ***
 3\. They are also very often used as **adjectives**, agreeing with the nouns in gender, case & number.
 ***
-seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *DN 14.14*
+seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *[DN14.14](https://find.dhamma.gift/bw/dn/dn14.html)*
 ***
 lit. just like a **cleaned** cloth, **gone away** stains ...
 ***

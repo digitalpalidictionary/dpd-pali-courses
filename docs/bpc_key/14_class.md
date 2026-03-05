@@ -1,6 +1,6 @@
 # Class 14 Exercises
 
-1. MN 39 <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati
+1. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -20,7 +20,7 @@
 **He causes this very body to overflow, to flow around, to fill up all around, to suffuse with the joy and happiness born from separation [from the hindrances].**
 
 
-2. DN 23.20 <br>atha kho pāyāsi rājañño uttaraṃ māṇavaṃ āmantāpetvā etad'avoca
+2. [DN23.20](https://find.dhamma.gift/bw/dn/dn23.html) <br>atha kho pāyāsi rājañño uttaraṃ māṇavaṃ āmantāpetvā etad'avoca
 
 
 |  |  |  |  |  |
@@ -37,7 +37,7 @@
 **And then, having had summoned a young brahmin Uttara, Payasi, the young nobleman, said this.**
 
 
-3. AN 2.19 <br>kusalaṃ, bhikkhave, bhāvetha. sakkā, bhikkhave, kusalaṃ bhāvetuṃ
+3. [AN2.19](https://find.dhamma.gift/bw/an/an2.19.html) <br>kusalaṃ, bhikkhave, bhāvetha. sakkā, bhikkhave, kusalaṃ bhāvetuṃ
 
 
 |  |  |  |  |  |
@@ -61,7 +61,7 @@
 **It is possible to develop wholesome qualities.**
 
 
-4. DN 14.4 <br>atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi
+4. [DN14.4](https://find.dhamma.gift/bw/dn/dn14.html) <br>atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi
 
 
 |  |  |  |  |  |
@@ -79,7 +79,7 @@
 **And then, monks, King Bandhuma had three palaces built for prince Vipassi.**
 
 
-5. MN 152 <br>divasaṃsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya
+5. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>divasaṃsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya
 
 
 |  |  |  |  |  |
@@ -99,7 +99,7 @@
 **He would drop two or three drops of water into an iron pot, [which] was heated during the day.**
 
 
-6. SN 47.10 <br>so paṭisaṃharati c'eva na ca vitakketi na ca vicāreti
+6. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>so paṭisaṃharati c'eva na ca vitakketi na ca vicāreti
 
 
 |  |  |  |  |  |
@@ -119,7 +119,7 @@
 **He withdraws [the mind] and does not think or examine.**
 
 
-7. AN 5.54 <br>na sukaraṃ uñchena paggahena yāpetuṃ. ayaṃ tatiyo asamayo padhānāya.
+7. [AN5.54](https://find.dhamma.gift/bw/an/an5.54.html) <br>na sukaraṃ uñchena paggahena yāpetuṃ. ayaṃ tatiyo asamayo padhānāya.
 
 
 |  |  |  |  |  |
@@ -148,7 +148,7 @@
 **Potential Participles**
 
 
-8. AN 3.83 <br>tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ
+8. [AN3.83](https://find.dhamma.gift/bw/an/an3.82.html) <br>tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ
 
 
 |  |  |  |  |  |
@@ -162,7 +162,7 @@
 **Therefore, monks, it should be trained like this.**
 
 
-9. MN 18 <br>ettha ce n'atthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ, es'ev'anto paṭigh'ānusayānaṃ,
+9. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>ettha ce n'atthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ, es'ev'anto paṭigh'ānusayānaṃ,
 
 
 |  |  |  |  |  |
@@ -189,7 +189,7 @@
 **Just this is the end of the underlying tendency towards conflict.**
 
 
-10. VIN PAT SA 12 <br>mā āyasmā attānaṃ avacanīyaṃ akāsi
+10. [VIN PAT SA 12](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>mā āyasmā attānaṃ avacanīyaṃ akāsi
 
 
 |  |  |  |  |  |
@@ -204,7 +204,7 @@
 **Venerable, don't make yourself unadmonishable.**
 
 
-11. SN 12.63 <br>kathañ'ca, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo?
+11. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>kathañ'ca, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo?
 
 
 |  |  |  |  |  |
@@ -220,7 +220,7 @@
 **And how, monks, should edible food be seen?**
 
 
-12. AN 4.42 <br>atthi bhikkhave pañho ekaṃsabyākaraṇīyo, atthi bhikkhave pañho vibhajjabyākaraṇīyo … atthi bhikkhave pañho ṭhapanīyo
+12. [AN4.42](https://find.dhamma.gift/bw/an/an4.42.html) <br>atthi bhikkhave pañho ekaṃsabyākaraṇīyo, atthi bhikkhave pañho vibhajjabyākaraṇīyo … atthi bhikkhave pañho ṭhapanīyo
 
 
 |  |  |  |  |  |
@@ -258,7 +258,7 @@
 **There is, monks, a question which should be set aside.**
 
 
-13. MN 20 <br>adhicittam'anuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṃ manasi kātabbāni.
+13. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>adhicittam'anuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṃ manasi kātabbāni.
 
 
 |  |  |  |  |  |
@@ -277,7 +277,7 @@
 **Five signs should be kept in mind from time to time by a monk who is devoted to the higher mind.**
 
 
-14. AN 10.48<br>dasa'y'ime, bhikkhave, dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā.
+14. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>dasa'y'ime, bhikkhave, dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā.
 
 
 |  |  |  |  |  |
@@ -294,7 +294,7 @@
 **These ten matters should be regularly reflected on by one who has gone forth.**
 
 
-15. DN 16.11 <br>evañ'ca kho eso, bhikkhu, pañho pucchitabbo
+15. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>evañ'ca kho eso, bhikkhu, pañho pucchitabbo
 
 
 |  |  |  |  |  |
@@ -311,7 +311,7 @@
 **But, monk, this question should be asked like this.**
 
 
-16. AN 4.147<br>cattāro'me, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti
+16. [AN4.147](https://find.dhamma.gift/bw/an/an4.147.html)<br>cattāro'me, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti
 
 
 |  |  |  |  |  |
@@ -340,7 +340,7 @@
 **they lead gradually to the destruction of the defilements.**
 
 
-17. VIN PAT PC 20 <br>yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
+17. [VIN PAT PC 20](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -385,7 +385,7 @@
 **If any monk remembering [an offence] when it is being announced up to three times should not disclose the existing offence, there is [a further offence] for him [of] deliberate false speech.**
 
 
-19. VIN PAT NP 14 <br>orena ce channaṃ vassānaṃ, taṃ santhataṃ vissajjetvā vā avissajjetvā vā, aññaṃ navaṃ santhataṃ kārāpeyya
+19. [VIN PAT NP 14](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>orena ce channaṃ vassānaṃ, taṃ santhataṃ vissajjetvā vā avissajjetvā vā, aññaṃ navaṃ santhataṃ kārāpeyya
 
 
 |  |  |  |  |  |
@@ -409,7 +409,7 @@
 **If sooner than [after] six years, having given up or not having given up that coverlet, he should cause to make another new coverlet…**
 
 
-20. MN 18 <br>so vata āvuso, cakkhusmiṃ sati rūpe sati cakkhuviññāṇe sati phassapaññattiṃ paññāpessatī'ti — ṭhānaṃ etaṃ vijjati.
+20. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>so vata āvuso, cakkhusmiṃ sati rūpe sati cakkhuviññāṇe sati phassapaññattiṃ paññāpessatī'ti — ṭhānaṃ etaṃ vijjati.
 
 
 |  |  |  |  |  |
@@ -433,7 +433,7 @@
 **Certainly, friend, when eye, form, and eye-consciousness are existing, it is possible to declare the concept of contact.**
 
 
-21. AN 4.180 <br>tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte c'eva otaranti vinaye ca sandissanti
+21. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) <br>tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte c'eva otaranti vinaye ca sandissanti
 
 
 |  |  |  |  |  |
@@ -455,7 +455,7 @@
 **If when they are being checked in the scripture(s), [and] being verified in reference to the discipline, and they are found in the scripture(s) as well as seen in the discipline…**
 
 
-22. MN 27 <br>so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
+22. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) <br>so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
 
 
 |  |  |  |  |  |
@@ -484,7 +484,7 @@
 **he illuminates the spiritual path, pure [and] altogether complete.**
 
 
-23. DN 16.21 <br>bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
+23. [DN16.21](https://find.dhamma.gift/bw/dn/dn16.html) <br>bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
 
 
 |  |  |  |  |  |
@@ -508,7 +508,7 @@
 **Monks, these things which have been taught by me with direct knowledge (i.e. from my direct knowledge), having been thoroughly grasped by you, they should be pursued, cultivated and practised often.**
 
 
-24. AN 7.23 <br>yāvakīvañ'ca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti
+24. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>yāvakīvañ'ca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti
 
 
 |  |  |  |  |  |
@@ -539,7 +539,7 @@
 **they will practise accepting the training rules as they had been formulated.**
 
 
-25. AN 7.49 <br>āhāre paṭikūlasaññāya paricitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
+25. [AN7.49](https://find.dhamma.gift/bw/an/an7.49.html) <br>āhāre paṭikūlasaññāya paricitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
 
 
 |  |  |  |  |  |
@@ -583,7 +583,7 @@
 **equanimity or revulsion is established.**
 
 
-26. SN 56.11 <br>taṃ kho pan'idaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban'ti
+26. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) <br>taṃ kho pan'idaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban'ti
 
 
 |  |  |  |  |  |
@@ -599,7 +599,7 @@
 **"Moreover, indeed, this noble truth [of] the origin of suffering should be abandoned."**
 
 
-27. VIN PAT PA 3 <br>yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya satthahārakaṃ vā assa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya
+27. [VIN PAT PA 3](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya satthahārakaṃ vā assa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya
 
 
 |  |  |  |  |  |
@@ -626,7 +626,7 @@
 **If any monk should intentionally deprive a human being of life or should seek out an assassin for him or should commend the advantage of death or should incite [him] to death…**
 
 
-28. VIN PAT SA 13 <br>tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī"ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
+28. [VIN PAT SA 13](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī"ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
 
 
 |  |  |  |  |  |
@@ -649,7 +649,7 @@
 **"They banish a certain one with this kind of offence, [but] they don't banish another one." That monk is to be spoken to by the monks like this: …**
 
 
-29. VIN PAT NP 7 <br>santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
+29. [VIN PAT NP 7](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -686,7 +686,7 @@
 **if he should accept [robe cloth] more than that, [it is] an offence involving relinquishment.**
 
 
-30. MN 46 <br>sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.
+30. [MN46](https://find.dhamma.gift/bw/mn/mn46.html) <br>sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.
 
 
 |  |  |  |  |  |
@@ -719,7 +719,7 @@
 **He doesn't know the things that should be adhered to, he doesn't know the practices that should not be adhered to.**
 
 
-31. MN 2.2 <br>tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā c'eva āsavā na uppajjanti, uppannā ca āsavā pahīyanti
+31. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā c'eva āsavā na uppajjanti, uppannā ca āsavā pahīyanti
 
 
 |  |  |  |  |  |
@@ -752,7 +752,7 @@
 **unarisen taints do not arise and even taints that have arisen are abandoned.**
 
 
-32. SN 1.28 <br>hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ piyaṃ, hitvā rāgaṃ ca dosaṃ ca, avijjaṃ ca virājiya, khīṇ'āsavā arahanto, te lokasmiṃ anussukā.
+32. [SN1.28](https://find.dhamma.gift/bw/sn/sn1.28.html) <br>hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ piyaṃ, hitvā rāgaṃ ca dosaṃ ca, avijjaṃ ca virājiya, khīṇ'āsavā arahanto, te lokasmiṃ anussukā.
 
 
 |  |  |  |  |  |
@@ -782,7 +782,7 @@
 **"Having abandoned the household life [and] gone forth, having left their dear child[ren] and livestock, having left behind passion and ill-will, removing ignorance, enlightened beings who have destroyed the taints, they are unagitated in the world.**
 
 
-33. AN 4.180 <br>anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
+33. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) <br>anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
 
 
 |  |  |  |  |  |
@@ -809,7 +809,7 @@
 **they should be checked in the discourse[s] and should be verified in the discipline.**
 
 
-34. MN 21 <br>atha kho bhagavā bhikkhū āmantesi, ārādhayiṃsu vata me, bhikkhave, bhikkhū ekaṃ samayaṃ cittaṃ. idha ahaṃ, bhikkhave, bhikkhū āmantesiṃ, ahaṃ kho, bhikkhave, ek'āsanabhojanaṃ bhuñjāmi.
+34. [MN21](https://find.dhamma.gift/bw/mn/mn21.html) <br>atha kho bhagavā bhikkhū āmantesi, ārādhayiṃsu vata me, bhikkhave, bhikkhū ekaṃ samayaṃ cittaṃ. idha ahaṃ, bhikkhave, bhikkhū āmantesiṃ, ahaṃ kho, bhikkhave, ek'āsanabhojanaṃ bhuñjāmi.
 
 
 |  |  |  |  |  |
@@ -852,7 +852,7 @@
 
 ## Class 14 Extra
 
-1. VIN PAT SA 6<br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā
+1. [VIN PAT SA 6](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)<br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā
 
 
 | Pāli | POS | Grammar | English | Root |
@@ -871,7 +871,7 @@
 **Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement.**
 
 
-2. VIN PAT NP 22 <br>tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ‘‘ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti, ayaṃ tattha sāmīci.
+2. [VIN PAT NP 22](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ‘‘ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti, ayaṃ tattha sāmīci.
 
 
 |  |  |  |  |  |
@@ -934,7 +934,7 @@
 **This is the correct procedure in that case.**
 
 
-3. MN 2.8 <br>ayaṃ vuccati, bhikkhave, bhikkhu sabb'āsavasaṃvarasaṃvuto viharati, acchejji taṇhaṃ, vivattayi saṃyojanaṃ, sammā mān'ābhisamayā antam'akāsi dukkhassā'ti
+3. [MN2.8](https://find.dhamma.gift/bw/mn/mn2.html) <br>ayaṃ vuccati, bhikkhave, bhikkhu sabb'āsavasaṃvarasaṃvuto viharati, acchejji taṇhaṃ, vivattayi saṃyojanaṃ, sammā mān'ābhisamayā antam'akāsi dukkhassā'ti
 
 
 |  |  |  |  |  |
@@ -965,7 +965,7 @@
 **[who] completely cut out craving, untied the fetter[s], [and] by means of a thorough comprehension of conceit (thoroughly comprehending conceit), made an end of suffering"**
 
 
-4. AN 3.36<br>ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi vuṭṭhāpiyamānaṃ, aññehi saṃvesiyamānaṃ?
+4. [AN3.36](https://find.dhamma.gift/bw/an/an3.36.html)<br>ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi vuṭṭhāpiyamānaṃ, aññehi saṃvesiyamānaṃ?
 
 
 |  |  |  |  |  |

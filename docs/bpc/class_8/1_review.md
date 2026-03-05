@@ -4,19 +4,19 @@
 
 passeyya.
 
-SN 46.55 simpl
+[SN46.55](https://find.dhamma.gift/bw/sn/sn46.55.html) simpl
 
 2.  sādhu mayaṃ kathāya bhāgino assāma savanāya.
 
-    MN 37 simpl
+    [MN37](https://find.dhamma.gift/bw/mn/mn37.html) simpl
 
 3.  devaputto gāthaṃ abhāsi – "bhikkhu siyā jhāyī vimuttacitto"
 
-    SN 2.2
+    [SN2.2](https://find.dhamma.gift/bw/sn/sn2.2.html)
 
 4.  "mama eva ativasā assu" iti bālassa saṅkappo
 
-DHP 74 simpl
+[DHP74](https://find.dhamma.gift/bw/dhp/dhp60-75.html) simpl
 ***
 <div class="nav-links">
   <a href="../" class="prev">← Class 8</a>

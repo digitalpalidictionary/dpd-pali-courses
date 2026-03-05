@@ -70,7 +70,7 @@
 
 
 
-1. MN 48<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca.
+1. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca.
 
 
 |  |  |  |  |  |
@@ -99,7 +99,7 @@
 **Here, monks, a monk has established (lit: there is established for a monk) kind bodily action(s) in regard to his spiritual companions, openly and even privately.**
 
 
-2. SN 22.63<br>yass'atthāya kulaputtā samma'd'eva agārasmā anagāriyaṃ pabbajanti tad'anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
+2. [SN22.63](https://find.dhamma.gift/bw/sn/sn22.63.html)<br>yass'atthāya kulaputtā samma'd'eva agārasmā anagāriyaṃ pabbajanti tad'anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
 
 
 |  |  |  |  |  |
@@ -138,7 +138,7 @@
 **He dwells having reached even in this life that unsurpassed perfection of the holy life, for the purpose of which sons of respectable families rightly go forth from home to homelessness, having experienced it for himself by direct knowledge.**
 
 
-3. MN 117<br>iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
+3. [MN117](https://find.dhamma.gift/bw/mn/mn117.html)<br>iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
 
 
 |  |  |  |  |  |
@@ -172,7 +172,7 @@
 **Thus, for him these three states circle around, rotate around right view; that is, right view, right effort, [and] right mindfulness.**
 
 
-4. MN 21<br>ubhatodaṇḍakena ce'pi kakacena corā ocarakā aṅgam'aṅgāni okanteyyuṃ, tatrā'pi yo mano padūseyya, na me so tena sāsanakaro.
+4. [MN21](https://find.dhamma.gift/bw/mn/mn21.html)<br>ubhatodaṇḍakena ce'pi kakacena corā ocarakā aṅgam'aṅgāni okanteyyuṃ, tatrā'pi yo mano padūseyya, na me so tena sāsanakaro.
 
 
 |  |  |  |  |  |
@@ -208,7 +208,7 @@
 **Even if mean thieves should cut off [your] [limbs] limb by limb with a double-handled saw, even in that case, whoever would cause the mind to be corrupt because of that, he is not the one practising my teaching.**
 
 
-5. SN 22.59<br>yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
+5. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
 
 
 |  |  |  |  |  |
@@ -246,7 +246,7 @@
 **Whatever is impermanent, suffering, and of a changing nature, is it suitable to regard that as "this [is] mine, this I am, this [is] my self"? Certainly not (lit: this indeed not), venerable sir.**
 
 
-6. MN 139<br>iti kho pan'etaṃ vuttaṃ. kiñ'c'etaṃ paṭicca vuttaṃ?
+6. [MN139](https://find.dhamma.gift/bw/mn/mn139.html)<br>iti kho pan'etaṃ vuttaṃ. kiñ'c'etaṃ paṭicca vuttaṃ?
 
 
 |  |  |  |  |  |
@@ -268,7 +268,7 @@
 **Thus, indeed, it has been said. And depending on what has this been said?**
 
 
-7. MN 140<br>tass'eva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. sv'āssa pahīno hoti ucchinnamūlo tāl'āvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
+7. [MN140](https://find.dhamma.gift/bw/mn/mn140.html)<br>tass'eva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. sv'āssa pahīno hoti ucchinnamūlo tāl'āvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
 
 
 |  |  |  |  |  |
@@ -311,7 +311,7 @@
 **Formerly, indeed, for that ignorant one, there was covetousness, desire and passion. [But now] for him that has been abandoned, it has been uprooted like a palm tree, totally annihilated, never arising again in the future.**
 
 
-8. SNP 62<br>santi loke munayo, janā vadanti ta'y'idaṃ kathaṃsu, <br>ñāṇ'ūpapannaṃ no muniṃ vadanti, udāhu ve jīviten'ūpapannaṃ.
+8. [SNP62](https://find.dhamma.gift/bw/snp/snp5.8.html)<br>santi loke munayo, janā vadanti ta'y'idaṃ kathaṃsu, <br>ñāṇ'ūpapannaṃ no muniṃ vadanti, udāhu ve jīviten'ūpapannaṃ.
 
 
 |  |  |  |  |  |
@@ -344,7 +344,7 @@
 
 
 
-9. AN 8.53 <br>neso dhammo neso vinayo netaṃ satthusāsananti
+9. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>neso dhammo neso vinayo netaṃ satthusāsananti
 
 
 |  |  |  |  |  |
@@ -369,7 +369,7 @@
 **This is not the teaching, this is not the discipline, this is not the teacher's instruction.**
 
 
-10. SN 12.63 <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
+10. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
 
 
 |  |  |  |  |  |
@@ -393,7 +393,7 @@
 **Monks, there are these four fuels for the maintenance of existing sentient beings or for the support of those seeking birth.**
 
 
-11. AN 4.45 <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
+11. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
 
 
 |  |  |  |  |  |
@@ -416,7 +416,7 @@
 **But I also say, friends, that without reaching the end of the world, (there is) no ending of suffering.**
 
 
-12. AN 2.89 <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
+12. [AN2.89](https://find.dhamma.gift/bw/an/an2.89.html) <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
 
 
 |  |  |  |  |  |
@@ -437,7 +437,7 @@
 **Monks there are these two things. What two? Effort and tranquility.**
 
 
-13. SN 22.81 <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
+13. [SN22.81](https://find.dhamma.gift/bw/sn/sn22.81.html) <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
 
 
 |  |  |  |  |  |
@@ -466,7 +466,7 @@
 **"At that time the Buddha wishes to just live alone, at that time he should not be followed by anyone."**
 
 
-14. SN 9.3 <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
+14. [SN9.3](https://find.dhamma.gift/bw/sn/sn9.3.html) <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
 
 
 |  |  |  |  |  |
@@ -496,7 +496,7 @@
 **Even if you would carry ten lamps, Kassapa, he would not see forms, because he does not have sight.**
 
 
-15. MN 95 <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
+15. [MN95](https://find.dhamma.gift/bw/mn/mn95.html) <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
 
 
 |  |  |  |  |  |
@@ -516,7 +516,7 @@
 **If one would not arouse intention, one would not strive.**
 
 
-16. SN 47.10 <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
+16. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
 
 
 |  |  |  |  |  |
@@ -537,7 +537,7 @@
 **For whichever purpose I directed the mind, that purpose has definitely been accomplished by me.**
 
 
-17. AN 5.57 <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
+17. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
 
 
 |  |  |  |  |  |
@@ -565,7 +565,7 @@
 **"I am of the nature to die, I am not free from death," should be reflected on often by a woman or a man, a householder or a renunciant.**
 
 
-18. SNP 7 <br>ekajaṃ vā dvijaṃ vāpi,<br>yodha pāṇaṃ vihiṃsati,<br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
+18. [SNP7](https://find.dhamma.gift/bw/snp/snp1.7.html) <br>ekajaṃ vā dvijaṃ vāpi,<br>yodha pāṇaṃ vihiṃsati,<br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
 
 
 |  |  |  |  |  |
@@ -600,7 +600,7 @@
 **Whoever here harms a living being, once born or even twice born,<br>who has no compassion for a living being, one should know him as an "outcast".**
 
 
-19. MN 3 <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
+19. [MN3](https://find.dhamma.gift/bw/mn/mn3.html) <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
 
 
 |  |  |  |  |  |
@@ -629,7 +629,7 @@
 **What if I were to eat this alms-food, get rid of hunger and weakness, and spend this night and day in this way.**
 
 
-20. AN 4.35 <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
+20. [AN4.35](https://find.dhamma.gift/bw/an/an4.35.html) <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
 
 
 |  |  |  |  |  |
@@ -650,7 +650,7 @@
 **Brahmin, I neither endorse nor disapprove of you.**
 
 
-21. DHP 62<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
+21. [DHP62](https://find.dhamma.gift/bw/dhp/dhp60-75.html)<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
 
 
 |  |  |  |  |  |
@@ -685,7 +685,7 @@
 
 ## Class 16 Extra Examples
 
-1. DHP 389<br>na brāhmaṇassa pahareyya, n'āssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī y'assa muñcati.
+1. [DHP389](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>na brāhmaṇassa pahareyya, n'āssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī y'assa muñcati.
 
 
 |  |  |  |  |  |
@@ -712,7 +712,7 @@
 **One should not strike a brahmin, (but) a brahmin should not get angry with that one (who hits him); woe on the striker of a brahmin! More woe on him, whoever gets angry with one (who hits him)!**
 
 
-2. MN 12<br>abhijānāmi kho pan'āhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī su'daṃ homi paramatapassī
+2. [MN12](https://find.dhamma.gift/bw/mn/mn12.html)<br>abhijānāmi kho pan'āhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī su'daṃ homi paramatapassī
 
 
 |  |  |  |  |  |
@@ -745,7 +745,7 @@
 **And certainly, Sāriputta, I recall [that] I [was] an ascetic, one who practiced the spiritual path endowed with four components. Truly, I was that, a supreme ascetic.**
 
 
-3. DHP 338<br>yathā'pi mūle anupaddave daḷhe, <br>chinno'pi rukkho puna'r'eva rūhati, <br>evam'pi taṇh'ānusaye anūhate, <br>nibbattatī dukkham'idaṃ punappunaṃ.
+3. [DHP338](https://find.dhamma.gift/bw/dhp/dhp334-359.html)<br>yathā'pi mūle anupaddave daḷhe, <br>chinno'pi rukkho puna'r'eva rūhati, <br>evam'pi taṇh'ānusaye anūhate, <br>nibbattatī dukkham'idaṃ punappunaṃ.
 
 
 |  |  |  |  |  |
@@ -787,7 +787,7 @@
 **Just as when a root is free from danger and strong, even if the tree is cut down, it grows again; similarly, when the underlying tendency of craving is not uprooted, suffering arises again and again.**
 
 
-4. VIN PAT SA 6 <br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā. tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā.
+4. [VIN PAT SA 6](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā. tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā.
 
 
 |  |  |  |  |  |
@@ -835,7 +835,7 @@
 **Twelve spans of the sugata-span in length [and] seven [span] across inside.**
 
 
-5. DHP 407<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsapo'r'iva ār'aggā, tam'ahaṃ brūmi brāhmaṇaṃ.
+5. [DHP407](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsapo'r'iva ār'aggā, tam'ahaṃ brūmi brāhmaṇaṃ.
 
 
 |  |  |  |  |  |
@@ -864,7 +864,7 @@
 **[One] for whom desire and ill-will, conceit and denigrating are dropped (caused to fall), like a mustard seed from the tip of a needle - that one I call a brahmin.**
 
 
-6. SN 47.12<br>atha kiñ'carahi ty'āyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ek'aṃso gahito, sīhanādo nadito
+6. [SN47.12](https://find.dhamma.gift/bw/sn/sn47.12.html)<br>atha kiñ'carahi ty'āyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ek'aṃso gahito, sīhanādo nadito
 
 
 |  |  |  |  |  |
@@ -895,7 +895,7 @@
 
 
 
-7. MN 18 <br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
+7. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
 
 
 |  |  |  |  |  |
@@ -926,7 +926,7 @@
 **Just this is the end of the latent tendencies to passion, just this is the end of the latent tendencies to aversion, just this is the end of the latent tendencies to view.**
 
 
-8. SNP 7 <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
+8. [SNP7](https://find.dhamma.gift/bw/snp/snp1.7.html) <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
 
 
 |  |  |  |  |  |

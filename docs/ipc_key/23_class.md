@@ -71,7 +71,7 @@
 
 
 
-1. AN 4.198<br>so navaṃ santh'āgāraṃ **pavisati**, saddhiṃ mahesiyā brāhmaṇena ca **purohitena**.
+1. [AN4.198](https://find.dhamma.gift/bw/an/an4.198.html)<br>so navaṃ santh'āgāraṃ **pavisati**, saddhiṃ mahesiyā brāhmaṇena ca **purohitena**.
 
 
 |  |  |  |  |  |
@@ -94,7 +94,7 @@
 **He enters the new meeting hall together with the royal consort and the chief brahmin priest.**
 
 
-2. VIN PAT PC 68<br>mā, āyasmā, evaṃ **avaca**. mā bhagavantaṃ **abbhācikkhi**, na hi sādhu[^24] bhagavato **abbhakkhānaṃ**, na hi bhagavā evaṃ vadeyya.
+2. [VIN PAT PC 68](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>mā, āyasmā, evaṃ **avaca**. mā bhagavantaṃ **abbhācikkhi**, na hi sādhu[^24] bhagavato **abbhakkhānaṃ**, na hi bhagavā evaṃ vadeyya.
 
 
 |  |  |  |  |  |
@@ -121,7 +121,7 @@
 **Venerable, do not say so. Do not misrepresent the Blessed One. Misrepresenting the Blessed One [is] not good. The Blessed One would not speak in this way.**
 
 
-3. AN 4.61<br>idha, gahapati, ariyasāvako **vigata**malamaccherena cetasā agāraṃ **ajjhāvasati** muttacāgo **payata**pāṇi **vossagga**rato yācayogo dāna**saṃvibhāga**rato. ayaṃ vuccati, gahapati, cāgasampadā.
+3. [AN4.61](https://find.dhamma.gift/bw/an/an4.61.html)<br>idha, gahapati, ariyasāvako **vigata**malamaccherena cetasā agāraṃ **ajjhāvasati** muttacāgo **payata**pāṇi **vossagga**rato yācayogo dāna**saṃvibhāga**rato. ayaṃ vuccati, gahapati, cāgasampadā.
 
 
 |  |  |  |  |  |
@@ -169,7 +169,7 @@
 **Here, householder, a noble disciple lives the household life with a mind free from the stain of stinginess, giving freely, open-handed, delighting in generosity, ready to give to beggars, and who delights in sharing gifts. This, householder, is called the attainment of generosity.**
 
 
-4. SNP 13<br>khayaṃ **virāgaṃ** **amataṃ** **paṇītaṃ**, <br>yad'**ajjhagā** sakyamunī **samāhito**. <br>na tena dhammena sam'atthi kiñci
+4. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>khayaṃ **virāgaṃ** **amataṃ** **paṇītaṃ**, <br>yad'**ajjhagā** sakyamunī **samāhito**. <br>na tena dhammena sam'atthi kiñci
 
 
 |  |  |  |  |  |
@@ -197,7 +197,7 @@
 **Wearing away, dispassion, the superior deathless state – whatever the Sakyan sage, concentrated, obtained; there is not anything equal to that doctrine.**
 
 
-5. DHP 191 <br>(passati) dukkhaṃ dukkha**samuppādaṃ**, dukkhassa ca **atikkamaṃ**, ariyañ'c'aṭṭh'aṅgikaṃ maggaṃ, dukkh'**ūpasama**gāminaṃ.
+5. [DHP191](https://find.dhamma.gift/bw/dhp/dhp179-196.html) <br>(passati) dukkhaṃ dukkha**samuppādaṃ**, dukkhassa ca **atikkamaṃ**, ariyañ'c'aṭṭh'aṅgikaṃ maggaṃ, dukkh'**ūpasama**gāminaṃ.
 
 
 |  |  |  |  |  |
@@ -226,7 +226,7 @@
 **[one sees the four noble truths with right understanding:] suffering, the origin of suffering, the overcoming of suffering, and the noble eightfold path leading to release from suffering.**
 
 
-6. SNP 8<br>**santussako[^25]** ca **subharo** ca, appakicco ca **sallahuka**vutti, <br>sant'indriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
+6. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html)<br>**santussako[^25]** ca **subharo** ca, appakicco ca **sallahuka**vutti, <br>sant'indriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
 
 
 |  |  |  |  |  |
@@ -256,7 +256,7 @@
 **One who is satisfied and easy to support, with few obligations and whose livelihood is frugal; one whose (mental) faculties are calm and who is discerning, courteous among families and not greedy.**
 
 
-7. TH 257<br>araññe rukkhamūlesu, kandarāsu guhāsu ca.<br>vivekam'**anubrūhantā**, **vihaṃsu** tap'**parāyaṇā**
+7. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>araññe rukkhamūlesu, kandarāsu guhāsu ca.<br>vivekam'**anubrūhantā**, **vihaṃsu** tap'**parāyaṇā**
 
 
 |  |  |  |  |  |
@@ -280,7 +280,7 @@
 **In the forest, at the bases of trees, in grottoes and in caves, fostering seclusion, they lived with that as [their] final goal.**
 
 
-8. SN 12.22<br>dukkhaṃ, bhikkhave, **kusīto** viharati **vokiṇṇo** pāpakehi akusalehi dhammehi, mahantañ'ca **sadatthaṃ** **parihāpeti**.
+8. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)<br>dukkhaṃ, bhikkhave, **kusīto** viharati **vokiṇṇo** pāpakehi akusalehi dhammehi, mahantañ'ca **sadatthaṃ** **parihāpeti**.
 
 
 |  |  |  |  |  |
@@ -312,7 +312,7 @@
 
 
 
-9. VIN 5.4.7 tiṇavatthārakaṃ<br>yadi saṅghassa pattakallaṃ, saṅgho imaṃ adhikaraṇaṃ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṃ, ṭhapetvā gihippaṭisaṃyuttan'ti.
+9. [VIN5.4.7](https://find.dhamma.gift/bw/vi/kd.html) tiṇavatthārakaṃ<br>yadi saṅghassa pattakallaṃ, saṅgho imaṃ adhikaraṇaṃ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṃ, ṭhapetvā gihippaṭisaṃyuttan'ti.
 
 
 |  |  |  |  |  |
@@ -381,7 +381,7 @@
 **If it is a suitable time for the community, the community may settle this dispute by covering it with grass, apart from serious offences and those connected with lay people.**
 
 
-10. AN 6.46 <br>idh'āvuso, dhammayogā bhikkhū jhāyī bhikkhū apasādenti, ime pana jhāyino'mhā, jhāyino'mhā'ti jhāyanti pajjhāyanti nijjhāyanti avajjhāyanti.
+10. [AN6.46](https://find.dhamma.gift/bw/an/an6.46.html) <br>idh'āvuso, dhammayogā bhikkhū jhāyī bhikkhū apasādenti, ime pana jhāyino'mhā, jhāyino'mhā'ti jhāyanti pajjhāyanti nijjhāyanti avajjhāyanti.
 
 
 |  |  |  |  |  |
@@ -444,7 +444,7 @@
 **Here friends, the monks devoted to the teaching belittle the meditator monks (saying), "These (monks say) 'We are meditators, we are meditators!" but they meditate, brood, overthink, mis-meditate."**
 
 
-11. SNP 53<br>yodha kāme accatari,<br>saṅgaṃ loke duraccayaṃ,<br>na so socati nājjheti,<br>chinnasoto abandhano.
+11. [SNP53](https://find.dhamma.gift/bw/snp/snp4.15.html)<br>yodha kāme accatari,<br>saṅgaṃ loke duraccayaṃ,<br>na so socati nājjheti,<br>chinnasoto abandhano.
 
 
 |  |  |  |  |  |
@@ -499,7 +499,7 @@
 **Whoever here has escaped sensual pleasures,<br>an attachment to the world hard to overcome,<br>he does not sorrow, he is not anxious,<br>(he has) cut the stream, (he is) free.**
 
 
-12. DN 16.27 <br>sabbaphāliphullā kho, ānanda, yamakasālā akālapupphehi. te tathāgatassa sarīraṃ okiranti ajjhokiranti abhippakiranti tathāgatassa pūjāya.
+12. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) <br>sabbaphāliphullā kho, ānanda, yamakasālā akālapupphehi. te tathāgatassa sarīraṃ okiranti ajjhokiranti abhippakiranti tathāgatassa pūjāya.
 
 
 |  |  |  |  |  |
@@ -563,7 +563,7 @@
 **Ananda, this pair of Sal tress is in full blossom with out of season flowers. They rain down, scatter down, completely cover the body of the Tathagata, in worship of the Tathagata.**
 
 
-13. AN 5.23 <br>so sace ākaṅkhati, anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ, eko'pi hutvā bahudhā assaṃ, bahudhā'pi hutvā eko assaṃ, āvibhāvaṃ tirobhāvaṃ
+13. [AN5.23](https://find.dhamma.gift/bw/an/an5.23.html) <br>so sace ākaṅkhati, anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ, eko'pi hutvā bahudhā assaṃ, bahudhā'pi hutvā eko assaṃ, āvibhāvaṃ tirobhāvaṃ
 
 
 |  |  |  |  |  |
@@ -650,7 +650,7 @@
 **If he wishes, "I could manifest various kinds of psychic power. Having been one I could become many, having been many I could become one. (I could) appear and disappear."**
 
 
-14. MN 61 <br>sace tvaṃ, rāhula, paccavekkhamāno evaṃ jāneyyāsi, yaṃ kho ahaṃ idaṃ kāyena kammaṃ kattukāmo idaṃ me kāyakammaṃ attabyābādhāya'pi saṃvatteyya
+14. [MN61](https://find.dhamma.gift/bw/mn/mn61.html) <br>sace tvaṃ, rāhula, paccavekkhamāno evaṃ jāneyyāsi, yaṃ kho ahaṃ idaṃ kāyena kammaṃ kattukāmo idaṃ me kāyakammaṃ attabyābādhāya'pi saṃvatteyya
 
 
 |  |  |  |  |  |
@@ -713,7 +713,7 @@
 
 ## Class 23 Extra Examples
 
-1. MN 20<br>seyyathā'pi, bhikkhave, balavā puriso **dubbalataraṃ** purisaṃ sīse vā gale vā khandhe vā gahetvā **abhiniggaṇheyya** **abhinippīḷeyya** **abhisantāpeyya**
+1. [MN20](https://find.dhamma.gift/bw/mn/mn20.html)<br>seyyathā'pi, bhikkhave, balavā puriso **dubbalataraṃ** purisaṃ sīse vā gale vā khandhe vā gahetvā **abhiniggaṇheyya** **abhinippīḷeyya** **abhisantāpeyya**
 
 
 |  |  |  |  |  |
@@ -742,7 +742,7 @@
 **Just as a powerful man, having seized a weaker man on the head or neck or shoulder, might firmly grab hold of [him] [and] completely crush [him] down, [and] torture [him]....**
 
 
-2. TH 251<br>passāmi loke **sadhane** manusse, laddhāna vittaṃ na dadanti mohā. <br>luddhā dhanaṃ **sannicayaṃ** karonti, bhiyyo'va kāme **abhipatthayanti**.
+2. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>passāmi loke **sadhane** manusse, laddhāna vittaṃ na dadanti mohā. <br>luddhā dhanaṃ **sannicayaṃ** karonti, bhiyyo'va kāme **abhipatthayanti**.
 
 
 |  |  |  |  |  |
@@ -770,7 +770,7 @@
 **I see wealthy persons in the world; having obtained wealth, they do not donate [it], because of delusion. [And] because of greed, they make a stockpile [of] wealth; they crave even more sensual pleasures**
 
 
-3. SN 46.3<br>savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ[^26] bahukāraṃ vadāmi; upasaṅkamanampāhaṃ … payirupāsanampāhaṃ … anussatimpāhaṃ … anupabbajjampāhaṃ
+3. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ[^26] bahukāraṃ vadāmi; upasaṅkamanampāhaṃ … payirupāsanampāhaṃ … anussatimpāhaṃ … anupabbajjampāhaṃ
 
 
 |  |  |  |  |  |
@@ -807,7 +807,7 @@
 **Just hearing of those monks, just approaching [them], just attending closely to [them], just recollecting [them], just following [them] into the monastic life, is very helpful I say.**
 
 
-4. AN 7.67<br>seyyathā'pi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** c'eva **vitthato** ca, evam'evaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** kāya**duccaritena** vacīduccaritena manoduccaritena[^27]
+4. [AN7.67](https://find.dhamma.gift/bw/an/an7.67.html)<br>seyyathā'pi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** c'eva **vitthato** ca, evam'evaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** kāya**duccaritena** vacīduccaritena manoduccaritena[^27]
 
 
 |  |  |  |  |  |
@@ -853,7 +853,7 @@
 **Just as the encircling path around the frontier fortress of the king is high and even broad [for protecting its inhabitants]; in the same way, indeed, a <br>noble disciple is afraid of doing wrong and feels conscience about bodily misconduct, verbal misconduct, and mental misconduct.**
 
 
-5. SN 1.28<br>aññam'aññ'**ābhigijjhanti**,<br>kāmesu **analaṅ'katā**.
+5. [SN1.28](https://find.dhamma.gift/bw/sn/sn1.28.html)<br>aññam'aññ'**ābhigijjhanti**,<br>kāmesu **analaṅ'katā**.
 
 
 |  |  |  |  |  |
@@ -873,7 +873,7 @@
 **They are jealous of each other; they are insatiable in regard to sensual pleasures.**
 
 
-6. SNP 13<br>yān'īdha bhūtāni **samāgatāni**, bhummāni vā yāni va **antalikkhe**. <br>sabb'eva bhūtā **sumanā** bhavantu, atho'pi **sakkacca** suṇantu bhāsitaṃ.
+6. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>yān'īdha bhūtāni **samāgatāni**, bhummāni vā yāni va **antalikkhe**. <br>sabb'eva bhūtā **sumanā** bhavantu, atho'pi **sakkacca** suṇantu bhāsitaṃ.
 
 
 |  |  |  |  |  |
@@ -905,7 +905,7 @@
 **Whichever living beings gathered here, earthly or in the sky: may all living beings be happy and then let them respectfully listen to what is said ([this] utterance).**
 
 
-7. VIN PAT SK 26<br>na **pallatthikāya** **antaraghare** **nisīdissāmī**'ti sikkhā karaṇīyā.
+7. [VIN PAT SE 26](https://find.dhamma.gift/bw/vi/bu-pt.html#sk)<br>na **pallatthikāya** **antaraghare** **nisīdissāmī**'ti sikkhā karaṇīyā.
 
 
 |  |  |  |  |  |
@@ -923,7 +923,7 @@
 **"I will not sit with the knees clasped around in an inhabited area." The training is to be done.**
 
 
-8. SN 22.22 <br>**nikkhipitvā** garuṃ bhāraṃ, aññaṃ bhāraṃ **anādiya**. **samūlaṃ** taṇham'**abbuyha**, **nicchāto** **parinibbuto**"ti.
+8. [SN22.22](https://find.dhamma.gift/bw/sn/sn22.22.html) <br>**nikkhipitvā** garuṃ bhāraṃ, aññaṃ bhāraṃ **anādiya**. **samūlaṃ** taṇham'**abbuyha**, **nicchāto** **parinibbuto**"ti.
 
 
 |  |  |  |  |  |
@@ -956,7 +956,7 @@
 
 
 
-9. SN 20.10 <br>atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tam'enaṃ biḷāro gahetvā sahasā asaṅkhāditvā ajjhohari. tassa so mudumūsi antam'pi khādi, antaguṇam'pi khādi.
+9. [SN20.10](https://find.dhamma.gift/bw/sn/sn20.10.html) <br>atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tam'enaṃ biḷāro gahetvā sahasā asaṅkhāditvā ajjhohari. tassa so mudumūsi antam'pi khādi, antaguṇam'pi khādi.
 
 
 |  |  |  |  |  |
@@ -1032,7 +1032,7 @@
 **Then, monks, that soft mouse set out for food. A cat grabbed it, and quickly swallowed it without chewing. That soft mouse ate the cat's intestines and it's mesentery.**
 
 
-10. MN 107 <br>cakkhunā rūpaṃ disvā mā nimittaggāhino ahuvattha, mā anubyañjanaggāhino. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ.
+10. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>cakkhunā rūpaṃ disvā mā nimittaggāhino ahuvattha, mā anubyañjanaggāhino. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ.
 
 
 |  |  |  |  |  |
@@ -1129,7 +1129,7 @@
 **Having seen a form with the eye, do not grasp at (its) signs and features. Since, if you were to leave the eye-faculty unguarded, evil unwholesome states of covetousness and grief might invade you.**
 
 
-11. SN 22.26 <br>yāvakīvañ'c'āhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañ'ca assādato ādīnavañ'ca ādīnavato nissaraṇañ'ca nissaraṇato yathābhūtaṃ n'ābbhaññāsiṃ, neva tāv'āhaṃ, bhikkhave ... anuttaraṃ sammāsambodhiṃ abhisambuddho'ti paccaññāsiṃ
+11. [SN22.26](https://find.dhamma.gift/bw/sn/sn22.26.html) <br>yāvakīvañ'c'āhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ assādañ'ca assādato ādīnavañ'ca ādīnavato nissaraṇañ'ca nissaraṇato yathābhūtaṃ n'ābbhaññāsiṃ, neva tāv'āhaṃ, bhikkhave ... anuttaraṃ sammāsambodhiṃ abhisambuddho'ti paccaññāsiṃ
 
 
 |  |  |  |  |  |

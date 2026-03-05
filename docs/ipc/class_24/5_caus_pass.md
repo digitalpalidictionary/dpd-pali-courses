@@ -38,7 +38,7 @@ bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe
 | √his + \*e + iya | hesiya | vihesiyati | is caused to be harmed |
 
 ***
-app'eva nāma tumhehi akkosiyamānānaṃ paribhāsiyamānānaṃ **rosiyamānānaṃ** **vihesiyamānānaṃ** siyā cittassa aññathattaṃ MN 50
+app'eva nāma tumhehi akkosiyamānānaṃ paribhāsiyamānānaṃ **rosiyamānānaṃ** **vihesiyamānānaṃ** siyā cittassa aññathattaṃ [MN50](https://find.dhamma.gift/bw/mn/mn50.html)
 ***
 Hopefully there would be a change of mind for (them) being verbally abused, insulted, annoyed (**being caused to be angry**) and troubled (**being caused to be harmed**) by you.
 ***

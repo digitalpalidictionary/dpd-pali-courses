@@ -2,7 +2,7 @@
 
 You’ll be happy to hear that one of the most common forms of verbal adjectives in Pāli has **no declensions**.
 ***
-atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi (AN 2.16)
+atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi ([AN2.16](https://find.dhamma.gift/bw/an/an2.16.html))
 ***
 Then a certain Brahman approached the Blessed One. **Having approached**, he exchanged polite conversation with the Blessed One.
 ***

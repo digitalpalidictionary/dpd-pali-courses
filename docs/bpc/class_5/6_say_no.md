@@ -21,7 +21,7 @@ The easiest way to make a verb into its negative is to add the particle “**na*
 
 The particle **“no”** expresses the meaning “not” (although it also has many other meanings, so be careful!)
 ***
-ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. AN 8.53
+ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)
 ***
 These qualities lead to attachment, **not** to detachment.
 ***
@@ -31,11 +31,11 @@ This is used in the same way as **neither** … **nor** in English.
 ***
 n'eva = na eva ; lit. not even; not only
 ***
-**n'eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti (MN 74)
+**n'eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti ([MN74](https://find.dhamma.gift/bw/mn/mn74.html))
 ***
 At that time, he **neither** feels an unpleasant sensation, **nor** does he feel a neither unpleasant nor pleasant sensation.
 ***
-āyasmā raṭṭhapālo **n'eva** dānaṃ alattha **na** paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha! (MN 82)
+āyasmā raṭṭhapālo **n'eva** dānaṃ alattha **na** paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha! ([MN82](https://find.dhamma.gift/bw/mn/mn82.html))
 ***
 Venerable Ratthapāla **neither** received alms food **nor** rejection, on the contrary, he only received verbal abuse!
 ***
@@ -43,17 +43,17 @@ Venerable Ratthapāla **neither** received alms food **nor** rejection, on the c
 
 To express prohibition “don’t do!” the particle **mā + aorist** is used. Even though the past tense is used, the meaning is present or sometimes future.
 ***
-**mā akāsi** pāpakaṃ kammaṃ (SN 10.5)
+**mā akāsi** pāpakaṃ kammaṃ ([SN10.5](https://find.dhamma.gift/bw/sn/sn10.5.html))
 ***
 Don’t do evil deeds!
 ***
-kiṃ nu kujjhasi? **mā kujjhi!** (SN 21.9)
+kiṃ nu kujjhasi? **mā kujjhi!** ([SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html))
 ***
 Why are you angry? Don’t be angry!
 ***
 **mā + imperative** can be used to express prohibition, especially in the 2nd person.
 ***
-jhāyatha, bhikkhave, mā pamādā attha (MN 19 simpl)
+jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://find.dhamma.gift/bw/mn/mn19.html) simpl)
 ***
 Meditate, monks! Don’t be negligent!
 ***

@@ -52,7 +52,7 @@
 
 
 
-1. MN 105<br>evam'eva kho, sunakkhatta, ṭhānam'etaṃ vijjati yaṃ idh'ekacco purisapuggalo lok'āmis'ādhimutto assa.
+1. [MN105](https://find.dhamma.gift/bw/mn/mn105.html)<br>evam'eva kho, sunakkhatta, ṭhānam'etaṃ vijjati yaṃ idh'ekacco purisapuggalo lok'āmis'ādhimutto assa.
 
 
 |  |  |  |  |  |
@@ -83,7 +83,7 @@
 **In the same way, Sunakkhatta, is it possible that here an individual person would be focused on material pleasure.**
 
 
-2. MN 22<br>tassa purisassa uttiṇṇassa pāraṅ'gatassa evam'assa – bahukāro kho me ayaṃ kullo, im'āhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.
+2. [MN22](https://find.dhamma.gift/bw/mn/mn22.html)<br>tassa purisassa uttiṇṇassa pāraṅ'gatassa evam'assa – bahukāro kho me ayaṃ kullo, im'āhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.
 
 
 |  |  |  |  |  |
@@ -128,7 +128,7 @@
 **This raft, indeed, [was] extremely helpful for me; being supported by this raft [and] exerting myself with (my) hands and (my) feet, I safely crossed over to the far shore.**
 
 
-3. MN 70<br>ev'āhaṁ ajānanto 'evarūpaṁ sukhaṁ vedanaṁ pajahathā'ti vadeyyaṁ
+3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>ev'āhaṁ ajānanto 'evarūpaṁ sukhaṁ vedanaṁ pajahathā'ti vadeyyaṁ
 
 
 |  |  |  |  |  |
@@ -151,7 +151,7 @@
 **Not knowing [this], I could myself [then] say, "abandon this kind of pleasant feeling".**
 
 
-4. DHP 334<br>phalam'icchaṃ'va vanasmi vānaro.
+4. [DHP334](https://find.dhamma.gift/bw/dhp/dhp334-359.html)<br>phalam'icchaṃ'va vanasmi vānaro.
 
 
 |  |  |  |  |  |
@@ -167,7 +167,7 @@
 **[like] a monkey wishing only for fruit in a forest grove.**
 
 
-5. VIN PAT PA 2<br>coro'si, bālo'si, mūḷho'si, theno'sī'ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayam'pi pārājiko hoti asaṃvāso.
+5. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr)<br>coro'si, bālo'si, mūḷho'si, theno'sī'ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayam'pi pārājiko hoti asaṃvāso.
 
 
 |  |  |  |  |  |
@@ -206,7 +206,7 @@
 **"You are a robber! You are a fool! You are a deluded man! You are a thief!", a monk, taking what has not been given of such a kind, this one also is defeated, unaffiliated.**
 
 
-6. UD 45<br>tatiyam'pi kho āyasmā ānando abhikkantāya rattiyā ... yena bhagavā ten'añjaliṃ paṇāmetvā bhagavantaṃ etad'avoca.
+6. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html)<br>tatiyam'pi kho āyasmā ānando abhikkantāya rattiyā ... yena bhagavā ten'añjaliṃ paṇāmetvā bhagavantaṃ etad'avoca.
 
 
 |  |  |  |  |  |
@@ -234,7 +234,7 @@
 **Again, for the third time, as the night was (already) advanced, the venerable Ānanda, holding (hands forward in) añjali towards the Blessed One, said this to the Blessed one:**
 
 
-7. SN 15.1<br>yāvañ'c'idaṃ, bhikkhave, alam'eva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun'ti.
+7. [SN15.1](https://find.dhamma.gift/bw/sn/sn15.1.html)<br>yāvañ'c'idaṃ, bhikkhave, alam'eva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun'ti.
 
 
 |  |  |  |  |  |
@@ -262,7 +262,7 @@
 **"In this regard, monks, it is quite enough to become disenchanted in regard to all formations, enough to become detached [from them], enough to become free [from them]."**
 
 
-8. SNP 16<br>etādisāni katvāna, sabbattha'm'aparājitā. sabbattha sotthiṃ gacchanti, taṃ tesaṃ maṅgalam'uttaman'ti.
+8. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html)<br>etādisāni katvāna, sabbattha'm'aparājitā. sabbattha sotthiṃ gacchanti, taṃ tesaṃ maṅgalam'uttaman'ti.
 
 
 |  |  |  |  |  |
@@ -288,7 +288,7 @@
 **"Having done [things] of this kind, unconquered everywhere, they go everywhere safely; this is for them highest blessing"**
 
 
-9. MN 107<br>ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi m'ānubyañjanaggāhī.
+9. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi m'ānubyañjanaggāhī.
 
 
 |  |  |  |  |  |
@@ -318,7 +318,7 @@
 **Come, monk, be one who has the doors guarded in regard to the sense faculties; having seen a form with the eye, do not be one enticed by appearances, do not be one grasping after features.**
 
 
-10. DHP 185<br>anūpavādo anūpaghāto, pātimokkhe ca saṃvaro
+10. [DHP185](https://find.dhamma.gift/bw/dhp/dhp179-196.html)<br>anūpavādo anūpaghāto, pātimokkhe ca saṃvaro
 
 
 |  |  |  |  |  |
@@ -338,7 +338,7 @@
 
 
 
-11. AN 8.53 <br>yamahaṃ bhagavato dhammaṃ sutvā ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyyan'ti
+11. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>yamahaṃ bhagavato dhammaṃ sutvā ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyyan'ti
 
 
 |  |  |  |  |  |
@@ -364,7 +364,7 @@
 **Having heard the Buddha's teaching, I could live alone, in solitude, heedful, ardent, with resolute determination.**
 
 
-12. AN 5.57 <br>sa kho so, bhikkhave, ariyasāvako iti paṭisañcikkhati, na kho ahaññeveko jarādhammo jaraṃ anatīto
+12. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>sa kho so, bhikkhave, ariyasāvako iti paṭisañcikkhati, na kho ahaññeveko jarādhammo jaraṃ anatīto
 
 
 |  |  |  |  |  |
@@ -390,7 +390,7 @@
 **Monks, this being the case, a disciple of the Buddha reflects in this way, "I am not the only (one) who is of the nature to get old, who has not overcome aging."**
 
 
-13. SN 22.95 <br>kiñhi siyā, bhikkhave, pheṇapiṇḍe sāro?
+13. [SN22.95](https://find.dhamma.gift/bw/sn/sn22.95.html) <br>kiñhi siyā, bhikkhave, pheṇapiṇḍe sāro?
 
 
 |  |  |  |  |  |
@@ -409,7 +409,7 @@
 **Monks, indeed what substance could there be in a lump of foam?**
 
 
-14. MN 11 <br>idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
+14. [MN11](https://find.dhamma.gift/bw/mn/mn11.html) <br>idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 
 |  |  |  |  |  |
@@ -431,7 +431,7 @@
 **The Blessed One said this. Those monks were delighted and pleased with the utterance/the words of the Blessed One.**
 
 
-15. DHP 2 <br>manopubbaṅgamā dhammā, manoseṭṭhā manomayā
+15. [DHP2](https://find.dhamma.gift/bw/dhp/dhp1-20.html) <br>manopubbaṅgamā dhammā, manoseṭṭhā manomayā
 
 
 |  |  |  |  |  |
@@ -452,7 +452,7 @@
 **All mental phenomena are preceded by mind, ruled by mind and created by mind.<br>(Buddharakkhita): Mind precedes all mental states. Mind is their chief, they are all mind-wrought.**
 
 
-16. AN 3.70 <br>yadapi, bhikkhave, alobho tadapi kusalamūlaṃ. yadapi aluddho abhisaṅkharoti kāyena vācāya manasā tadapi kusalaṃ.
+16. [AN3.70](https://find.dhamma.gift/bw/an/an3.69.html) <br>yadapi, bhikkhave, alobho tadapi kusalamūlaṃ. yadapi aluddho abhisaṅkharoti kāyena vācāya manasā tadapi kusalaṃ.
 
 
 |  |  |  |  |  |
@@ -483,7 +483,7 @@
 **Whatever, monks, is not greed, that is a wholesome root. Whatever a non-greedy person creates by body, by speech or by mind, that too is wholesome.<br>(Sujato) Contentment is a root of the skilful. When a contented person chooses to act by way of body, speech, or mind, that too is skilful.**
 
 
-17. MN 19 <br>yaññadeva, bhikkhave, bhikkhu bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti cetaso.
+17. [MN19](https://find.dhamma.gift/bw/mn/mn19.html) <br>yaññadeva, bhikkhave, bhikkhu bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti cetaso.
 
 
 |  |  |  |  |  |
@@ -508,7 +508,7 @@
 **Whatever a monk thinks and ponders about often, such is the inclination of his mind.**
 
 
-18. AN 4.45 <br>api cāhaṃ, āvuso, imasmiṃyeva byāmamatte kaḷebare sasaññimhi samanake lokañca paññāpemi lokasamudayañca lokanirodhañca lokanirodhagāminiñca paṭipadan'ti.
+18. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>api cāhaṃ, āvuso, imasmiṃyeva byāmamatte kaḷebare sasaññimhi samanake lokañca paññāpemi lokasamudayañca lokanirodhañca lokanirodhagāminiñca paṭipadan'ti.
 
 
 |  |  |  |  |  |
@@ -552,7 +552,7 @@
 **I also declare, friends, in this very fathom length body with its perception and intelligence (is) the world, the source of the world, the end of the world, and the path of practice leading to the end of the world.**
 
 
-19. AN 10.61 <br>evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati, 'idappaccayā avijjā'ti
+19. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati, 'idappaccayā avijjā'ti
 
 
 |  |  |  |  |  |
@@ -580,7 +580,7 @@
 
 ## Class 17 Extra Examples
 
-1. SN 12.25<br>sāmaṃ vā taṃ, ānanda, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccay'āssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ
+1. [SN12.25](https://find.dhamma.gift/bw/sn/sn12.25.html)<br>sāmaṃ vā taṃ, ānanda, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccay'āssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ
 
 
 |  |  |  |  |  |
@@ -608,7 +608,7 @@
 **[Either] by himself he generates that bodily formation on account of which pleasure and pain arise for him internally or…**
 
 
-2. MN 49<br>ekam'id'āhaṃ, bhikkhave, samayaṃ ukkaṭṭhāyaṃ viharāmi subhagavane sālarājamūle.
+2. [MN49](https://find.dhamma.gift/bw/mn/mn49.html)<br>ekam'id'āhaṃ, bhikkhave, samayaṃ ukkaṭṭhāyaṃ viharāmi subhagavane sālarājamūle.
 
 
 |  |  |  |  |  |
@@ -633,7 +633,7 @@
 **On this one occasion, monks, I was dwelling in the blessed wood, in Ukkaṭṭhā, at the root of a king of sāl trees.**
 
 
-3. DN 13.8<br>iti uddham'adho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
+3. [DN13.8](https://find.dhamma.gift/bw/dn/dn13.html)<br>iti uddham'adho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
 
 
 |  |  |  |  |  |
@@ -673,7 +673,7 @@
 **Thus, having suffused the world – above, below, across, everywhere, to all beings – with a mind filled with goodwill, [that is] vast, exalted, immeasurable, free of ill-will, [and] not with malevolence, he dwells.**
 
 
-4. ITI 87 <br>sa ve vitakkāni vicāritāni, sameti vuṭṭhī'va rajaṃ samūhataṃ
+4. [ITI87](https://find.dhamma.gift/bw/it/it.html) <br>sa ve vitakkāni vicāritāni, sameti vuṭṭhī'va rajaṃ samūhataṃ
 
 
 |  |  |  |  |  |
@@ -693,7 +693,7 @@
 **One truly calms investigated thoughts like rainfall that has removed dust.**
 
 
-5. MN 148<br>attā me uppajjati ca veti cā'ti icc'assa evam'āgataṃ hoti.
+5. [MN148](https://find.dhamma.gift/bw/mn/mn148.html)<br>attā me uppajjati ca veti cā'ti icc'assa evam'āgataṃ hoti.
 
 
 |  |  |  |  |  |
@@ -735,7 +735,7 @@
 
 
 
-7. UD 45. <br>dutiyampi kho bhagavā tuṇhī ahosi.
+7. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html). <br>dutiyampi kho bhagavā tuṇhī ahosi.
 
 
 |  |  |  |  |  |
@@ -752,7 +752,7 @@
 **For the second time, the Blessed One was silent.**
 
 
-8. AN 4.45 <br>bhūtapubbāhaṃ, bhante, rohitasso nāma isi ahosiṃ bhojaputto iddhimā vehāsaṅgamo.
+8. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>bhūtapubbāhaṃ, bhante, rohitasso nāma isi ahosiṃ bhojaputto iddhimā vehāsaṅgamo.
 
 
 |  |  |  |  |  |

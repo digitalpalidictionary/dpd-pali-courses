@@ -20,7 +20,7 @@
 
 
 
-1. SNP 13<br>yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**. <br>tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
+1. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**. <br>tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
 
 
 |  |  |  |  |  |
@@ -84,7 +84,7 @@
 **For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), it is to be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
 
 
-3. MN 31<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
+3. [MN31](https://find.dhamma.gift/bw/mn/mn31.html)<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
 
 
 |  |  |  |  |  |
@@ -112,7 +112,7 @@
 **In this regard, Venerable Sir, whichever of us returns first from the village for the purpose of collecting alms food prepares the seats, sets out the drinking water, and water for rinsing, [and] sets out the bowl for leftovers.**
 
 
-4. SN 46.53<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^38] nisīdiṃsu
+4. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html)<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^38] nisīdiṃsu
 
 
 |  |  |  |  |  |
@@ -130,7 +130,7 @@
 **Having conducted a polite, friendly conversion, they sat down to one side.**
 
 
-5. DN 9.7<br>oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
+5. [DN9.7](https://find.dhamma.gift/bw/dn/dn9.html)<br>oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
 
 
 |  |  |  |  |  |
@@ -162,7 +162,7 @@
 **But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and mental states to be purified will increase more and more.**
 
 
-6. MN 131<br>ajj'eva **kiccam'ātappaṃ**,<br>ko jaññā maraṇaṃ suve,
+6. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>ajj'eva **kiccam'ātappaṃ**,<br>ko jaññā maraṇaṃ suve,
 
 
 |  |  |  |  |  |
@@ -182,7 +182,7 @@
 **Effort should be made this very day; who could know [if] death [is] tomorrow?**
 
 
-7. DHP 316<br>**alajjitāye** lajjanti,<br>**lajjitāye** na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
+7. [DHP316](https://find.dhamma.gift/bw/dhp/dhp306-319.html)<br>**alajjitāye** lajjanti,<br>**lajjitāye** na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
 
 
 |  |  |  |  |  |
@@ -205,7 +205,7 @@
 **They [who] are ashamed of [what] they should not be ashamed, [and] do not embarrass themselves about what they should – undertaking wrong views – living beings go to a bad destination.**
 
 
-8. MN 35<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
+8. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
 
 
 |  |  |  |  |  |
@@ -237,7 +237,7 @@
 **What do you think, Aggivessana, would a noble, head-anointed king[^39] wield power in his own realm, to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?**
 
 
-9. VIN PAT AN 1<br>nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
+9. [VIN PAT AN 1](https://find.dhamma.gift/bw/an/an1.html)<br>nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
 
 
 |  |  |  |  |  |
@@ -260,7 +260,7 @@
 **The monk admitting the sitting down should be made to do by one of three rules[^41]: [what is] according to [a case] involving disqualification or [what is] according to [a case] involving the community from start to finish or [what is] according to a case involving confession.**
 
 
-10. SN 22.3<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
+10. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html)<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
 
 
 |  |  |  |  |  |
@@ -321,7 +321,7 @@
 **If a community of monks, [which is] a quorum of twenty, [is] deficient even by one [monk], and should reinstate that monk, [then] that monk is not reinstated and those monks are blameworthy.**
 
 
-12. VIN PAT NP 1<br>**niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
+12. [VIN PAT NP 1](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>**niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -385,7 +385,7 @@
 
 ## Class 27 Extra Examples
 
-1. SN 35.95<br>ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
+1. [SN35.95](https://find.dhamma.gift/bw/sn/sn35.95.html)<br>ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
 
 
 |  |  |  |  |  |
@@ -415,7 +415,7 @@
 **"[Do you have any lust, desire, or affection] for those tangible objects known by the body, that [you have] not felt, never felt before, that you do not feel and could not be felt by you?**
 
 
-2. MN 43<br>te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
+2. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
 
 
 |  |  |  |  |  |
@@ -449,7 +449,7 @@
 **And if, friend, life forces were things that could be felt, [then] for a monk [who had] entered into the cessation of perception and feeling, emerging (from it) would not be evident.**
 
 
-3. VIN PAT PC 18 <br>yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
+3. [VIN PAT PC 18](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 
 |  |  |  |  |  |
@@ -481,7 +481,7 @@
 **If any monk should sit down or lie down hard on a bench or on a bed with detachable legs in an upper-floor room in a dwelling belonging to the community, this is an offence requiring confession.**
 
 
-4. SNP 4 <br>gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,<br>**sampassataṃ** brāhmaṇa n'esa dhammo,<br>gāth'ābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vutti'r'esā.
+4. [SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html) <br>gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,<br>**sampassataṃ** brāhmaṇa n'esa dhammo,<br>gāth'ābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vutti'r'esā.
 
 
 |  |  |  |  |  |
@@ -511,7 +511,7 @@
 **[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^45] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^46], Brahmin, this is [their] way of life.**
 
 
-5. SNP 42<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
+5. [SNP42](https://find.dhamma.gift/bw/snp/snp4.4.html)<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
 
 
 |  |  |  |  |  |

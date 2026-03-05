@@ -10,7 +10,7 @@ dev**e** vassant**e** (when the sky is raining)
 
 asant**e** hārak**e** (when there is no carrier)
 
-paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake. (VIN PAT NP 16)
+paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake. ([VIN PAT NP 16](https://find.dhamma.gift/bw/vi/bu-pt.html#np))
 
 Having accepted, it can be carried by oneself for three yojanas at the most, **when** there is no carrier.
 
@@ -18,7 +18,7 @@ Having accepted, it can be carried by oneself for three yojanas at the most, **w
 
 Like the Locative Absolute, the Genitive Absolute also can be translated as **when**, **as**, **while**, etc. Sometimes it also has the meaning of **since**, **although**, **even if**, **despite**, **in spite of**, **notwithstanding**
 
-**āturakāyassa** **me** **sato**, cittaṃ anāturaṃ bhavissatī'ti *SN 22.1*
+**āturakāyassa** **me** **sato**, cittaṃ anāturaṃ bhavissatī'ti *[SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html)*
 
 
 

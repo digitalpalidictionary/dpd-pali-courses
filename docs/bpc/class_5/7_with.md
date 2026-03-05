@@ -14,7 +14,7 @@ I went to town **together with** my friend.
 ***
 Another preposition which is similarly used is “**saha**” which also has the meaning **with, together with** or **accompanied by.** It is much more common in the Khuddaka Nikāya and in later Pāli literature.
 ***
-MN 82
+[MN82](https://find.dhamma.gift/bw/mn/mn82.html)
 ***
 aṭṭhi tac**ena** onaddhaṃ,
 ***

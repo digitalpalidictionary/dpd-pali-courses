@@ -17,7 +17,7 @@
 | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā 5 nā (measure) + ta |
 
 
-SNP 47 <br>disvāna taṇhaṃ aratiṃ ragañca,
+[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html) <br>disvāna taṇhaṃ aratiṃ ragañca,
 
 
 **&nbsp;**

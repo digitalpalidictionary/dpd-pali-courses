@@ -44,7 +44,7 @@ agrees in gender & case
 ***
 declined in the plural, “**eka**” functions as pronoun meaning “*some*”
 ***
-**eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *DN 9.6*
+**eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *[DN9.6](https://find.dhamma.gift/bw/dn/dn9.html)*
 ***
 **some** holy men and priests speak like this and have this view.
 ***
