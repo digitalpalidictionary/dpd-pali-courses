@@ -1,17 +1,45 @@
 import os
 import yaml
 import markdown
+import re
+
+FOLDER_NAMES = {
+    'bpc': 'Beginner Pāḷi Course (BPC)',
+    'bpc_ex': 'Beginner Pāḷi Course (BPC) - Exercises',
+    'bpc_key': 'Beginner Pāḷi Course (BPC) - Answer Key',
+    'ipc': 'Intermediate Pāḷi Course (IPC)',
+    'ipc_ex': 'Intermediate Pāḷi Course (IPC) - Exercises',
+    'ipc_key': 'Intermediate Pāḷi Course (IPC) - Answer Key',
+}
+
+def clean_markdown_content(content):
+    """Remove UI elements not suitable for PDF (e.g. navigation buttons, feedback forms)."""
+    # Remove nav-links div
+    content = re.sub(r'<div class="nav-links">.*?</div>', '', content, flags=re.DOTALL)
+    # Remove feedback div just in case it's outside
+    content = re.sub(r'<div class="feedback">.*?</div>', '', content, flags=re.DOTALL)
+    # Remove stand-alone previous/next links if they exist
+    content = re.sub(r'<a[^>]+class="(prev|previous|next|cross)"[^>]*>.*?</a>', '', content)
+    return content
 
 def convert_to_html(md_content):
     md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists'])
     return md.convert(md_content)
 
-def build_html_document(title, files_data):
+def build_html_document(title, files_data, title_md_content="", literature_md_content=""):
     md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists'])
     
-    full_md_content = ""
+    full_md_content = f"# {title}\n\n"
+    
+    if title_md_content:
+        full_md_content += title_md_content + "\n\n"
+        
+    if literature_md_content:
+        full_md_content += literature_md_content + "\n\n"
+        
     for file_path, content in files_data:
-        full_md_content += f"\n\n<!-- FILE: {file_path} -->\n\n" + content + "\n\n"
+        clean_content = clean_markdown_content(content)
+        full_md_content += f"\n\n<!-- FILE: {file_path} -->\n\n" + clean_content + "\n\n"
         
     body_html = md.convert(full_md_content)
     toc_html = md.toc
@@ -94,6 +122,19 @@ def main():
         "tools/ssg/stylesheets/extra.css"
     ]
     
+    title_path = os.path.join(docs_dir, "title.md")
+    literature_path = os.path.join(docs_dir, "literature.md")
+    
+    title_content = ""
+    if os.path.exists(title_path):
+        with open(title_path, "r", encoding="utf-8") as f:
+            title_content = f.read()
+            
+    literature_content = ""
+    if os.path.exists(literature_path):
+        with open(literature_path, "r", encoding="utf-8") as f:
+            literature_content = f.read()
+    
     files_by_dir = get_markdown_files(docs_dir)
     
     for folder, files in files_by_dir.items():
@@ -109,9 +150,20 @@ def main():
                 content = f.read()
             files_data.append((file_path, content))
             
-        html_content = build_html_document(f"{folder.upper()} Course Materials", files_data)
+        doc_title = FOLDER_NAMES.get(folder, f"{folder.upper()} Course Materials")
         
-        output_pdf = f"{folder}.pdf"
+        html_content = build_html_document(
+            title=doc_title, 
+            files_data=files_data,
+            title_md_content=title_content,
+            literature_md_content=literature_content
+        )
+        
+        output_dir = "pdf_exports"
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+            
+        output_pdf = os.path.join(output_dir, f"{folder}.pdf")
         generate_pdf(html_content, output_pdf, css_paths=css_paths)
         print(f"Successfully created {output_pdf}")
 

@@ -14,3 +14,5 @@ scripts/archive/
 
 # Python build artifacts
 *.egg-info/
+pdf_exports/
+.coverage
