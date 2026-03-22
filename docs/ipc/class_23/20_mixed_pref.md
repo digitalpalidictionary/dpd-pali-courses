@@ -1,6 +1,6 @@
 **Mixed Prefixes**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | abhi + ā | √cikkh | to show | abbhācikkhati | misrepresents |
 | abhi + ni | √sad | to sink | abhinisīdati | sit down hard |
@@ -34,5 +34,5 @@ It is important to note that the prefixes are used not only with verbs but also 
   <a href="../19_sam/" class="prev">← saṃ- sā- (sk sam)<br>with, along, together, well, fully, perfectly, intensely, by oneself, again</a>
   <a href="../21_nipata/" class="next">Some Adverbs (nipāta) used as Prefixes →</a>
   <div class="cross"><a href="../../../ipc_ex/23_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_23%2F20_mixed_pref" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_23%2F20_mixed_pref" target="_blank">Provide feedback on this page</a></div>
 </div>

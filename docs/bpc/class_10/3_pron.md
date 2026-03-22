@@ -21,7 +21,7 @@ Pronouns are declined in **all three genders** when standing by themselves.
 When used together with other nouns, they agree with the noun in **gender**, **case**, and **number**.
 ***
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tā bhikkhuniyo | fem.nom.pl | those nuns |
 | ko āhāro | masc.nom.sg | what food? |
@@ -34,7 +34,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 ***
 **ta “he, that” masculine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | s**o** | t**e** |
 | 2.acc | t**aṃ** | t**e** |
@@ -57,7 +57,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 ***
 **ta “she, that” feminine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | s**ā** | t**ā**<br>t**āyo** |
 | 2.acc | t**aṃ** | t**ā**<br>t**āyo** |
@@ -80,7 +80,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 ***
 **ta “it, that” neuter**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | t**aṃ** <br>t**ad** | t**e**<br>t**āni** |
 | 2.acc | t**aṃ** <br>t**ad** | t**e**<br>t**āni** |
@@ -108,7 +108,7 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 ***
 **ima “this” masculine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**e** |
 | 2.acc | im**aṃ** | im**e** |
@@ -137,7 +137,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 ***
 **ima “this” feminine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**ā**<br>im**āyo** |
 | 2.acc | im**aṃ** | im**ā** <br>im**āyo** |
@@ -160,7 +160,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 ***
 **ima “this” neuter**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | id**aṃ** <br>im**aṃ** | im**e** <br>im**āni** |
 | 2.acc | id**aṃ** <br>im**aṃ** | im**e** <br>im**āni** |
@@ -173,7 +173,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 ***
 **ya “whoever” masculine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | y**o** | y**e** |
 | 2.acc | y**aṃ** | y**e** |
@@ -186,7 +186,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 ***
 **ya “whoever” feminine**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | y**ā** | y**ā** <br>y**āyo** |
 | 2.acc | y**aṃ** | y**ā** <br>y**āyo** |
@@ -199,7 +199,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 ***
 **ya “whoever” neuter**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | y**aṃ**<br>y**ad** | y**e** <br>y**āni** |
 | 2.acc | y**aṃ** <br>y**ad** | y**e** <br>y**āni** |
@@ -256,7 +256,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 ***
 ### Some common pronouns (in the nominative case)
 
-|---|---|
+|  |  |
 | --- | --- |
 | ahaṃ | I |
 | mayaṃ | we |
@@ -290,9 +290,10 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | kiṃ | who? what? which? |
 
 ***
+
 <div class="nav-links">
   <a href="../2_prp/" class="prev">← Present Participle (missakiriya)</a>
   <a href="../4_article/" class="next">Definite and indefinite article →</a>
   <div class="cross"><a href="../../../bpc_ex/10_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_10%2F3_pron" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_10%2F3_pron" target="_blank">Provide feedback on this page</a></div>
 </div>

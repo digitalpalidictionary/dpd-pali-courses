@@ -5,7 +5,7 @@
 The easiest way to make a verb into its negative is to add the particle “**na**” before it.
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | ahaṃ jānāmi | I know |
 | ahaṃ na jānāmi | I don’t know |
@@ -57,9 +57,10 @@ jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://find.dhamma.gift/bw/mn/
 ***
 Meditate, monks! Don’t be negligent!
 ***
+
 <div class="nav-links">
   <a href="../5_trans/" class="prev">← Intransitive, Transitive and di-transitive verbs</a>
   <a href="../7_with/" class="next">With & together with “saddhiṃ” and “saha” →</a>
   <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_5%2F6_say_no" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_5%2F6_say_no" target="_blank">Provide feedback on this page</a></div>
 </div>

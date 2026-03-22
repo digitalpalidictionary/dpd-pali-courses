@@ -3,17 +3,17 @@
 ***
 Vowel elision is of two types, **forward** and **backwards** elision.
 ***
-Think of a *Pac-Man* going forward, ![](/assets/images/pacman-forward.png)it eats the letter in front of it. This is called **forward elision**.
+Think of a *Pac-Man* going forward, ![](../../assets/images/pacman-forward.png)it eats the letter in front of it. This is called **forward elision**.
 ***
-Think of a *Pac-Man* going backwards,![](/assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and very common in Pāli.
+Think of a *Pac-Man* going backwards,![](../../assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and very common in Pāli.
 ***
 #### Possibility \#1
 
 a vowel before another vowel is sometimes elided
 ***
-**ajja![](/assets/images/pacman-backwards.png)uposatho \> ajjuposatho**
+**ajja![](../../assets/images/pacman-backwards.png)uposatho \> ajjuposatho**
 ***
-**a![](/assets/images/pacman-backwards.png)u \> u**
+**a![](../../assets/images/pacman-backwards.png)u \> u**
 ***
 This means:
 ***
@@ -27,9 +27,9 @@ and only the **u** will remain.
 ***
 In Kaccāyana this is called (12) **sarā sare lopaṃ**
 ***
-**a![](/assets/images/pacman-backwards.png)a \> a**
+**a![](../../assets/images/pacman-backwards.png)a \> a**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | pana | **assa** | pan**a**ssa |
 | and | for him | and for him |
@@ -39,7 +39,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | food | hall | dining hall |
 | dos**a** | **a**ntara | dos**a**ntara |
 | angers | inside | with anger inside |
-| **a![](/assets/images/pacman-backwards.png)ā \> ā** |  |  |
+| **a![](../../assets/images/pacman-backwards.png)ā \> ā** |  |  |
 | kām**a** | **ā**sava | kām**ā**sava |
 | sensual pleasure | effluent | effluent of sensual pleasure |
 | yena | **āyasmā** | yen**ā**yasmā |
@@ -50,9 +50,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | bed | seat | lodging |
 
 ***
-**a![](/assets/images/pacman-backwards.png)i \> i**
+**a![](../../assets/images/pacman-backwards.png)i \> i**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | pañc**a** | **i**me | pañc**i**me |
 | these | five | these five |
@@ -64,9 +64,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | energy | faculty | faculty of energy |
 
 ***
-**a![](/assets/images/pacman-backwards.png)u \> u**
+**a![](../../assets/images/pacman-backwards.png)u \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | puris**a** | **u**ttama | puris**u**ttama |
 | man | ultimate | ultimate man |
@@ -76,7 +76,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | here | Udāyī | here, Udāyī |
 | daḷh**a** | **u**ddāpa | daḷh**u**ddāpa |
 | strong | fortification | strong fortification |
-| **a![](/assets/images/pacman-backwards.png)e \> e** |  |  |
+| **a![](../../assets/images/pacman-backwards.png)e \> e** |  |  |
 | aj**a** | **e**ḷakā | aj**e**ḷakā |
 | goat | sheep | goats and sheep |
 | vivicc**a** | **e**va | vivicc**e**va |
@@ -85,7 +85,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | and, but | even | and even, but even |
 | tatr**a** | **e**va | tatr**e**va |
 | there | just | right there |
-| **a![](/assets/images/pacman-backwards.png)o \> o** |  |  |
+| **a![](../../assets/images/pacman-backwards.png)o \> o** |  |  |
 | amat**a** | **o**gadha | amat**o**gadha |
 | deathless | immersed | immersed in the deathless |
 | ten**a** | **o**bhāsena | ten**o**bhāsena |
@@ -94,9 +94,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | water | descender | ritual bather |
 
 ***
-**ā![](/assets/images/pacman-backwards.png)ā \> ā**
+**ā![](../../assets/images/pacman-backwards.png)ā \> ā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | avijj**ā** | **ā**sava | avijj**ā**sava |
 | ignorance | defilement | defilement of ignorance |
@@ -108,9 +108,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | do not | venerable | venerable, don’t! |
 
 ***
-**ā![](/assets/images/pacman-backwards.png)i \> i**
+**ā![](../../assets/images/pacman-backwards.png)i \> i**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | mah**ā** | **i**ccha | mah**i**ccha |
 | great | wish | greedy |
@@ -120,9 +120,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | wisdom | faculty | faculty of wisdom |
 
 ***
-**i![](/assets/images/pacman-backwards.png)i \> i**
+**i![](../../assets/images/pacman-backwards.png)i \> i**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tīṇ**i** | **i**māni | tīṇ**i**māni |
 | three | these | these three things |
@@ -132,17 +132,17 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | mindfulness | faculty | faculty of mindfulness |
 
 ***
-**i![](/assets/images/pacman-backwards.png)a \> a**
+**i![](../../assets/images/pacman-backwards.png)a \> a**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | icchām**i** | **a**haṃ | icchām**a**haṃ |
 | I wish | I | I wish |
 
 ***
-**i![](/assets/images/pacman-backwards.png)e \> e**
+**i![](../../assets/images/pacman-backwards.png)e \> e**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | h**i** | **e**taṃ | h**e**taṃ |
 | indeed | thus | thus indeed |
@@ -154,33 +154,33 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | they are | here | here there are |
 
 ***
-**i![](/assets/images/pacman-backwards.png)o \> o**
+**i![](../../assets/images/pacman-backwards.png)o \> o**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | hir**i** | **o**ttappa | hir**o**ttappa |
 | conscience | shame in wrongdoing | conscience and concern |
 
 ***
-**ī![](/assets/images/pacman-backwards.png)u \> u**
+**ī![](../../assets/images/pacman-backwards.png)u \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | bhikkhun**ī** | **u**passaya | bhikkhun**u**passaya |
 | nun | residence | nun’s residence |
 
 ***
-**u![](/assets/images/pacman-backwards.png)a \> a**
+**u![](../../assets/images/pacman-backwards.png)a \> a**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | n**u** | **a**jja | n**a**jja |
 | ? | today | today? now? |
 
 ***
-**u![](/assets/images/pacman-backwards.png)ā \> ā**
+**u![](../../assets/images/pacman-backwards.png)ā \> ā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | samet**u** | **ā**yasmā | samet**ā**yasmā |
 | please agree! | venerable | venerable, please agree! |
@@ -190,9 +190,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | that is good | friend | that is good, friend |
 
 ***
-**u![](/assets/images/pacman-backwards.png)u \> u**
+**u![](../../assets/images/pacman-backwards.png)u \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | pañcas**u** | **u**pādānakkhandhesu | pañcas**u**pādānakkhandhesu |
 | in five | in grasping aggregates | in the five aggregates that are clung to |
@@ -200,24 +200,24 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | quick | **rising** | quick to get up |
 | tadah**u** | **u**posathe | tadah**u**posathe |
 | that day | on uposatha | on that uposatha day |
-| **e![](/assets/images/pacman-backwards.png)a \> a** |  |  |
+| **e![](../../assets/images/pacman-backwards.png)a \> a** |  |  |
 | m**e** | **a**tthi | m**a**tthi |
 | my | these are | these are my |
 | sac**e** | **a**ssa | sac**a**ssa |
 | if | it could be | if it could be |
 
 ***
-**e![](/assets/images/pacman-backwards.png)ā \> ā**
+**e![](../../assets/images/pacman-backwards.png)ā \> ā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | m**e** | **ā**si | m**ā**si |
 | my | it was | it was my |
 
 ***
-**e![](/assets/images/pacman-backwards.png)e \> e**
+**e![](../../assets/images/pacman-backwards.png)e \> e**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | sabb**e** | **e**va | sabb**e**va |
 | all | only | all of them |
@@ -229,17 +229,17 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | if | only | only if |
 
 ***
-**o![](/assets/images/pacman-backwards.png)a \> a**
+**o![](../../assets/images/pacman-backwards.png)a \> a**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tay**o** | **a**ssu | tay**a**ssu |
 | three | they may be | three things may be |
 
 ***
-**o![](/assets/images/pacman-backwards.png)u \> u**
+**o![](../../assets/images/pacman-backwards.png)u \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | satt**o** | **u**palabbhati | satt**u**palabbhati |
 | being | is found | being is found |
@@ -247,9 +247,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | from that | arising | arising from that |
 
 ***
-**o![](/assets/images/pacman-backwards.png)e \> e**
+**o![](../../assets/images/pacman-backwards.png)e \> e**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | kut**o** | **e**ttha | kut**e**ttha |
 | from where? | here | what in this regard? |
@@ -259,9 +259,10 @@ what is **Possibility \#1** ?
 ***
 a vowel before another vowel is sometimes elided
 ***
+
 <div class="nav-links">
   <a href="../2_vowel/" class="prev">← Vowel Sandhi (sara-sandhi)</a>
   <a href="../4_vowel_2/" class="next">Possibility \#2 →</a>
   <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_16%2F3_vowel_1" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F3_vowel_1" target="_blank">Provide feedback on this page</a></div>
 </div>

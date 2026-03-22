@@ -18,7 +18,7 @@ They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto 
 ***
 **√ñā (to know)**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √ñā + nā | jānā | pajānāti | he knows |
 | √ñā + \*āpe | ñāpē | paññāpeti | he teaches; causes to know |
@@ -31,7 +31,7 @@ bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe
 ***
 **√his (to hurt, harm)**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √his + ṃa | hiṃsa | vihiṃsati | he hurts |
 | √his + \*e | hese | viheseti | he harasses; causes to hurt |
@@ -44,7 +44,7 @@ Hopefully there would be a change of mind for (them) being verbally abused, insu
 ***
 **√ṭhā (to stand)**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √ṭhā + a | tiṭṭha | uttiṭṭhati | he stands up |
 | √ṭhā + \*āpe | ṭhāpe | uṭṭhāpeti | he makes stand up |
@@ -57,7 +57,7 @@ My good man did you not see among men, a man or a woman very ill, suffering, ext
 ***
 **√bhū (to be)**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √bhū + a | bhava | bhavati | he is; becomes |
 | √bhū + \*e | bhāve | bhāveti | he causes to be; causes to become |
@@ -76,9 +76,10 @@ Monks, these four times **being** well **developed,** being well rotated, cause 
 | √ñā | to know | \*āpe + iya | ñapiya | paññapiyamāna | being taught; lit. being caused to be known |
 
 ***
+
 <div class="nav-links">
   <a href="../4_irreg_caus/" class="prev">← Irregular Causative Bases</a>
   <a href="../6_app/" class="next">Active Past Participle →</a>
   <div class="cross"><a href="../../../ipc_ex/24_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_24%2F5_caus_pass" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_24%2F5_caus_pass" target="_blank">Provide feedback on this page</a></div>
 </div>

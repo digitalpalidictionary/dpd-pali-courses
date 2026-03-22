@@ -25,7 +25,7 @@
 
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p23 – 26 (aorist)<br>p121 – 122 (masculine nouns ending in i) |
 | V. Perniola<br>Pāli Grammar | p32 – 34 (masculine nouns ending in i)<br>p73 – 74 (vowel gradation)<br>p91 – 98 (aorist) |
@@ -34,7 +34,7 @@
 
 
 
-|---|---|
+|  |  |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p23 – 26 (aorist)<br>p121 – 122 (masculine nouns ending in i) |
 | V. Perniola<br>Pāli Grammar | p32 – 34 (masculine nouns ending in i)<br>p73 – 74 (vowel gradation)<br>p91 – 98 (aorist) |
@@ -42,31 +42,16 @@
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
 
-|---|---|
+|  |  |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p23 – 26 (aorist)<br>p121 – 122 (masculine nouns ending in i) |
 | V. Perniola<br>Pāli Grammar | p32 – 34 (masculine nouns ending in i)<br>p73 – 74 (vowel gradation)<br>p91 – 98 (aorist) |
 | Charles Duroiselle<br>A Practical Grammar of the Pāli Language | p19 – 20 (assimilation of y)<br>p30 – 31 (masculine nouns ending in i)<br>p93 – 97 (aorist) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
-**<div class="nav-links">**
-
-
-
-**<a href="../10_aor/" class="prev">← The Aorist or Past Tense (ajjatanī)</a>**
-
-
-
-**<a href="../../class_5/" class="next">Class 5 →</a>**
-
-
-
-**<div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>**
-
-
-
-**<div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_4%2F13_home_work" target="_blank">Provide feedback on this page</a></div>**
-
-
-
-**</div>**
+<div class="nav-links">
+  <a href="../10_aor/" class="prev">← The Aorist or Past Tense (ajjatanī)</a>
+  <a href="../../class_5/" class="next">Class 5 →</a>
+  <div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_4%2F13_home_work" target="_blank">Provide feedback on this page</a></div>
+</div>

@@ -14,7 +14,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + k**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | ap**a** | **k**anta | apa**kk**anta | pp. departed, left |
 | abh**i** | **k**amati | abhi**kk**amati | pr. comes out |
@@ -24,7 +24,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + kh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | pañc**a** | **kh**andha | pañca**kkh**andha | masc. five aggregates |
 | taṇh**ā** | **kh**aya | taṇhā**kkh**aya | masc. destruction of craving |
@@ -38,7 +38,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + gh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | p**a** | **gh**aranta | pa**ggh**aranta | prp. dripping |
 | sakuṇ**a** | **gh**i | sakuṇa**ggh**i | masc. hawk; lit. bird killer |
@@ -47,7 +47,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + c**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | n**a** | **c**uta | a**cc**uta | adj. everlasting |
 | par**i** | **c**aja | pari**cc**aja | masc. boundary |
@@ -56,7 +56,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + ch**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | vigat**a** | **ch**anda | vigata**cch**anda | adj. free from desire |
 | set**a** | **ch**atta | seta**cch**atta | nt. white umbrella |
@@ -64,7 +64,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + j**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | p**a** | **j**alati | pa**jj**alati | pr. burns |
 | puth**u** | **j**ana | puthu**jj**ana | masc. ordinary man |
@@ -72,7 +72,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + jh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | p**a** | **jh**āyati | pa**jjh**āyati | pr. contemplates, thinks |
 | abh**i** | **jh**ā | abhi**jjh**ā | f. covetousness |
@@ -80,7 +80,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + ñ**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | sabb**a** | **ñ**ū | sabba**ññ**ū | adj. all knowing |
 | v**i** | **ñ**āṇa | vi**ññ**āṇa | nt. consciousness |
@@ -88,7 +88,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + ṭh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | an**u** | **ṭh**ita | anu**ṭṭh**ita | pp. established |
 | up**a** | **ṭh**apeti | upa**ṭṭh**apeti | pr. applies |
@@ -98,7 +98,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + ḍ**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | n**i** | **ḍ**eti | ni**ḍḍ**eti[^4] | pr. weeds out |
 
@@ -107,7 +107,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + t**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | ch**a** | **t**iṃsati | cha**tt**iṃsati | fem. thirty-six |
 | cat**u** | **t**āla | catu**tt**āla | adj. four palm trees in height |
@@ -116,7 +116,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + th**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | **na** | **th**addha | a**tth**addha | adj. not stubborn |
 | v**i** | **th**āra | vi**tth**āra | m. breadth |
@@ -126,7 +126,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + d**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | **a** | **d**asā | a**dd**asā | imperf. saw |
 | cat**u** | **d**isā | catu**dd**isā | fem. four directions |
@@ -134,7 +134,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + dh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | an**u** | **dh**aṃseti | anu**ddh**aṃseti | pr. attacks |
 | sovaṇṇ**a** | **dh**aja | sovaṇṇa**ddh**aja | adj. with golden flags |
@@ -142,14 +142,14 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + n**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | k**u** | **n**adī | ku**nn**adī | fem. stream |
 
 ***
 **vowel + p**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | **na** | **p**amāda | a**pp**amāda | m. carefulness |
 | at**i** | **p**ago | ati**pp**ago | adv. very early |
@@ -158,7 +158,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 ***
 **vowel + ph**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | pat**i** | **ph**arati | paṭi**pph**arati | pr. blasts back |
 | p**a** | **ph**oṭetvā | pa**pph**oṭetvā | abs. having shaken out |
@@ -168,7 +168,7 @@ after a vowel, **v** can become **bb**
 ***
 **vowel + v**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | gir**i** | **v**aja | giri**bb**aja | nt. mountain cave |
 | ch**a** | **v**assa | cha**bb**assa | nt. six years |
@@ -176,7 +176,7 @@ after a vowel, **v** can become **bb**
 ***
 **vowel + bh**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | **a** | **b**haya | a**bbh**aya | adj. without fear |
 | puna \> pon**o** | **b**havika | pono**bbh**avika | adj. leading to repeated existence |
@@ -184,21 +184,21 @@ after a vowel, **v** can become **bb**
 ***
 **vowel + m**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | k**u** | **m**agga | ku**mm**agga | masc. bad road; wrong way |
 
 ***
 **vowel + y**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | s**e** | **y**athā’pi | se**yy**athā’pi | ind. just like |
 
 ***
 **vowel + l**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | vijj**u** | **l**atā | vijju**ll**atā | fem. forks of lightning |
 | ava \> **o** | **l**ujjati | ullu**jj**ati | pr. is breaking down |
@@ -206,7 +206,7 @@ after a vowel, **v** can become **bb**
 ***
 **vowel + s**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | p**a** | **s**asati | pa**ss**asati | pr. exhales, breathes out |
 | diṭṭh**a** | **s**uta | diṭṭha**ss**uta | nt. what is seen and heard |
@@ -221,9 +221,10 @@ up**a** + **p**ajjati \> upa**p**ajjati
 ***
 p**a** + **d**āleti \> pa**d**āleti
 ***
+
 <div class="nav-links">
   <a href="../2_cons/" class="prev">← Consonant Sandhi (vyañjana-sandhi)</a>
   <a href="../4_cons_2/" class="next">Possibility \#2 →</a>
   <div class="cross"><a href="../../../ipc_ex/17_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_17%2F3_cons_1" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_17%2F3_cons_1" target="_blank">Provide feedback on this page</a></div>
 </div>

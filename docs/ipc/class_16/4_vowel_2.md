@@ -2,9 +2,9 @@
 
 When a dissimilar vowel follows another vowel, it is sometimes elided.
 ***
-cakkh**u![](/assets/images/pacman-forward.png)i**ndriyaṃ **\>** cakkh**u**ndriyaṃ
+cakkh**u![](../../assets/images/pacman-forward.png)i**ndriyaṃ **\>** cakkh**u**ndriyaṃ
 ***
-**u![](/assets/images/pacman-forward.png)i \> u**
+**u![](../../assets/images/pacman-forward.png)i \> u**
 ***
 This means:
 ***
@@ -18,17 +18,17 @@ and only the **u** will remain.
 ***
 In Kaccāyana this is called (13) **vā paro asarūpo.**
 ***
-**a![](/assets/images/pacman-forward.png)i \> a**
+**a![](../../assets/images/pacman-forward.png)i \> a**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | iti’ss**a** | **i**me | itiss**a**me |
 | thus for him | these | thus for him these |
 
 ***
-**ā![](/assets/images/pacman-forward.png)i \> ā**
+**ā![](../../assets/images/pacman-forward.png)i \> ā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | chāy**ā** | **i**va | chāy**ā**va |
 | shadow | like | like a shadow |
@@ -36,9 +36,9 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | self | thus/” | “self” |
 
 ***
-**ā![](/assets/images/pacman-forward.png)e \> ā**
+**ā![](../../assets/images/pacman-forward.png)e \> ā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tamh**ā** | **e**va | tamh**ā**va |
 | from that | just | just from that |
@@ -46,24 +46,24 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | she | just | just that |
 
 ***
-**i![](/assets/images/pacman-forward.png)a \> i**
+**i![](../../assets/images/pacman-forward.png)a \> i**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | it**i** | **a**pi | it**i**pi |
 | thus | and | and thus |
 | it**i** | **a**ssa | it**i**ssa |
 | thus | for him | thus for him |
-| **u![](/assets/images/pacman-forward.png)a \> u** |  |  |
+| **u![](../../assets/images/pacman-forward.png)a \> u** |  |  |
 | n**u** | **a**si | n**u**si |
 | are? | you are | are you? |
 | ut**u** | **a**kkhāna | ut**u**kkhāna |
 | season | announcing | announcing seasons |
 
 ***
-**u![](/assets/images/pacman-forward.png)i \> u**
+**u![](../../assets/images/pacman-forward.png)i \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | cakkh**u** | **i**ndriya | cakkh**u**ndriya |
 | eye | faculty | sense of sight |
@@ -71,25 +71,25 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | indeed | this | truly this |
 
 ***
-**u![](/assets/images/pacman-forward.png)e \> u**
+**u![](../../assets/images/pacman-forward.png)e \> u**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | n**u** | **e**ttha | n**u**ttha |
 | what? | here | what here? |
 
 ***
-**ū![](/assets/images/pacman-forward.png)a \> ū**
+**ū![](../../assets/images/pacman-forward.png)a \> ū**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | akataññ**ū** | **a**si | akataññ**ū**si |
 | knower of the uncreated | you are | you are a knower of the uncreated |
 
 ***
-**e![](/assets/images/pacman-forward.png)a \> e**
+**e![](../../assets/images/pacman-forward.png)a \> e**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | t**e** | **a**pi | t**e**pi |
 | they | even | even they |
@@ -97,9 +97,9 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | if | even | even if |
 
 ***
-**e![](/assets/images/pacman-forward.png)i \> e**
+**e![](../../assets/images/pacman-forward.png)i \> e**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | dv**e** | **i**me | dv**e**me |
 | two | these | these two |
@@ -107,9 +107,9 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | in the sky | just like | just like in the sky |
 
 ***
-**o![](/assets/images/pacman-forward.png)a \> o**
+**o![](../../assets/images/pacman-forward.png)a \> o**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | es**o** | **a**haṃ asmi | es**o**hamasmi |
 | this | I am | I am this |
@@ -117,15 +117,15 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | he | also, even | also, even he |
 
 ***
-**o![](/assets/images/pacman-forward.png)i \> o**
+**o![](../../assets/images/pacman-forward.png)i \> o**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | cattār**o** | **i**me | cattār**o**me |
 | four | these | these four |
 | y**o** | **i**dha | y**o**dha |
 | whoever | here | whoever here |
-| **o![](/assets/images/pacman-forward.png)e \> o** |  |  |
+| **o![](../../assets/images/pacman-forward.png)e \> o** |  |  |
 | ek**o** | **e**va | ek**o**va |
 | one | just | alone |
 | pāt**o** | **e**va | pāt**o**va |
@@ -136,9 +136,10 @@ what is **Possibility \#2**?
 ***
 When a dissimilar vowel follows another vowel, it is sometimes elided.
 ***
+
 <div class="nav-links">
   <a href="../3_vowel_1/" class="prev">← Elision of a Vowel</a>
   <a href="../5_vowel_3/" class="next">Lengthening of a Vowel →</a>
   <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_16%2F4_vowel_2" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F4_vowel_2" target="_blank">Provide feedback on this page</a></div>
 </div>

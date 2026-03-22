@@ -5,7 +5,7 @@ import os
 
 # Add scripts to path so we can import TableFixer
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'scripts'))
-from clean_docs import TableFixer
+from archive.clean_docs import TableFixer
 
 class TestSequentialNumbering(unittest.TestCase):
     def setUp(self):

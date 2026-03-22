@@ -234,6 +234,11 @@ def generate_section_index(section_path, title):
 
 def generate_class_index(class_path, class_title):
     index_path = class_path / "index.md"
+    if index_path.exists():
+        # Check if it's a manually created index (usually larger or different structure)
+        # For now, let's just skip if it exists to preserve manual changes
+        print(f"Skipping index generation for {class_path}, index.md already exists.")
+        return
     files = sorted([f for f in class_path.glob("*.md") if f.name != "index.md"], key=lambda x: natural_sort_key(x.name))
     content = [f"# {class_title}\n"]
     for f in files:
@@ -243,8 +248,9 @@ def generate_class_index(class_path, class_title):
     with open(index_path, "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
-def main():
-    paths = SSGPaths()
+def main(paths=None):
+    if paths is None:
+        paths = SSGPaths()
     sections = {
         "bpc": "Beginner Pāḷi Course (BPC)",
         "ipc": "Intermediate Pāḷi Course (IPC)",

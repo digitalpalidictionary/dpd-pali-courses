@@ -8,7 +8,7 @@ less frequent *kita*:
 ***
 **+ tar masculine agent nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ādā | to take, seize | **+ tar** | ādā**tar** | taker, who takes |
 | √bhar | to support | **+ tar** | bhat**tar** | master, husband |
@@ -29,7 +29,7 @@ less frequent *kita*:
 ***
 **+ u adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √bah | to increase | **+ u** | bah**u** | many, lots |
 | √bandh | to bind, tie | **+ u** | bandh**u** | tied to, connected |
@@ -47,7 +47,7 @@ less frequent *kita*:
 ***
 **+ u neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √cakkh | to see | **+ u** | cakkhu | eye |
 | √ghaṇḍ | to speak | **+ u** | nighaṇḍu | glossary, dictionary |
@@ -62,7 +62,7 @@ less frequent *kita*:
 ***
 **+ ya adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √dhan | to be rich | **+ ya** | dhañ**ña** | fortunate, lucky |
 | √div | to shine | **+ ya** | dib**ba** | divine, heavenly |
@@ -76,7 +76,7 @@ less frequent *kita*:
 ***
 **+ ya neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √dhan | to be rich | **+ ya** | dhañ**ña** | grain |
 | √mad | to be drunk | **+ ya** | maj**ja** | drug, intoxicant |
@@ -88,7 +88,7 @@ less frequent *kita*:
 ***
 **+ ya masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √dam | to tame | **+ ya** | dam**ma** | young bull |
 | √gidh | to be greedy | **+ ya** | gij**jha** | vulture |
@@ -103,7 +103,7 @@ less frequent *kita*:
 ***
 **+ ma masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √bhū | to be | **+ ma** | bhū**ma** | earth, ground |
 | √dhū | to shake | **+ ma** | dhū**ma** | smoke |
@@ -112,7 +112,7 @@ less frequent *kita*:
 ***
 **+ ma neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √kar | to do, make | **+ ma** | kam**ma** | action, deed, etc |
 
@@ -125,7 +125,7 @@ less frequent *kita*:
 ***
 **+ itar masculine agent nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √bhās | to speak | **+ itar** | bhās**itar** | speaker |
 | √dā | to sleep | **+ itar** | niddāy**itar** | sleeper |
@@ -144,7 +144,7 @@ less frequent *kita*:
 ***
 **+ ra adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √cit | to mark | **+ ra** | vicit**ta** | diverse, varied |
 | √dhā | to support | **+ ra** | dhī**ra** | stable, constant |
@@ -158,7 +158,7 @@ less frequent *kita*:
 ***
 **+ ra masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √dhī | to think | **+ ra** | dhī**ra** | wise man, sage |
 | √suc | to be pure | **+ ra** | suk**ka** | planet Venus |
@@ -175,7 +175,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 **+ ikā feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √jīv | to live | **+ ikā** | jīvikā | livelihood |
 | √makkh | to smear | **+ ikā** | makkhikā | fly (smearer) |
@@ -186,7 +186,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ ikā feminine agent nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ās | to sit | **+ ikā** | upāsikā | female devotee |
 | √dā | to give | **+ ikā** | dāyikā | female giver |
@@ -200,7 +200,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ \*i feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √budh | to wake up | **+ \*i** | b**o**dh**i** | awakening |
 | √ghaṭ | to harm | **+ \*i** | nigh**ā**t**i** | defeat, loss |
@@ -211,7 +211,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ \*i masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ku | to sing, sound | **+ \*i** | k**avi** | poet |
 
@@ -224,21 +224,21 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ iya adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √aggh | to be worth | **+ iya** | aggh**iya** | valuable, precious |
 
 ***
 **+ iya masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √car | to act | **+ iya** | ācar**iya** | teacher |
 
 ***
 **+ iya neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √car | to act | **+ iya** | car**iya** | conduct, behaviour |
 | √dhā | to support | **+ iya** | asaddh**iya** | disbelief, lack of faith |
@@ -255,7 +255,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ \*aṇa neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √har | to bring | **+ \*aṇa** | āh**ā**r**aṇa** | bringing |
 | √ruh | to climb | **+ \*aṇa** | ār**o**h**aṇa** | climbing |
@@ -270,7 +270,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ tha masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ar | to move, attain | **+ tha** | at**tha** | meaning |
 | √ar | to move, attain | **+ tha** | at**tha** | benefit |
@@ -281,7 +281,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ tha adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ar | to move, attain | **+ tha** | samat**tha** | skilled, able |
 | √tir | to cross | **+ tha** | supatit**tha** | with beautiful banks |
@@ -289,7 +289,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 ***
 **+ tha neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √vas | to wear, dress | **+ tha** | vattha | cloth, robe |
 | √tir | to cross | **+ tha** | tittha | bank; shore |
@@ -311,7 +311,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ as mano group masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √āp | to be wet | **+ as** | āp**as** | water, liquid |
 | √man | to think | **+ as** | man**as** | mind, intellect |
@@ -331,7 +331,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ \*anā feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √chad | to cover | **+ \*anā** | ch**ā**d**anā** | clothing |
 | √cit | to think | **+ \*anā** | c**e**t**anā** | intention |
@@ -349,7 +349,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ū masculine agent nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ñā | to know | **+ ū** | ñ**ū** | who knows, knower |
 | √vid | to know | **+ ū** | vid**ū** | who knows, wise man |
@@ -364,7 +364,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ika adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √rādh | to succeed | **+ ika** | ārādhika | successful |
 | √bādh | to oppress | **+ ika** | ubbādhika | annoying |
@@ -372,7 +372,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ika masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √kath | to speak | **+ ika** | kathika | story teller |
 | √phal | to split | **+ ika** | phalika | crystal, quartz |
@@ -386,7 +386,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ala neuter nouns and adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √kur | to sound | **+ ala** | kul**ala** | eagle; hawk |
 | √bah | to increase | **+ ala** | bah**ala** | intense |
@@ -400,7 +400,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ tta neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √hu | to offer | **+ tta** | hutta | sacrifice, offering |
 | √ñā | to know | **+ tta** | ñatta | knowledge, learning |
@@ -408,7 +408,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ tta masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √as | to be | **+ tta** | satta | being |
 | √mā | to measure | **+ tta** | nimitta | mark; sign |
@@ -422,7 +422,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **\*ā feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √likh | to scratch | **+ \*ā** | l**e**kh**ā** | writing |
 | √vac | to speak | **+ \*ā** | v**ā**c**ā** | speech |
@@ -438,7 +438,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ \*u nouns and adjectives**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | √dar | to split | + \*u | d**ā**r**u** | m | wood, timber |
 | √phus | to touch | + \*u | ph**ā**s**u** | adj | comfortable |
@@ -452,7 +452,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ara masculine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √bham | to buzz | **+ ara** | bham**ara** | bee, bumblebee |
 | √kur | to sound | **+ ara** | kurara | eagle |
@@ -460,7 +460,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ ara adjectives**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √bhās | to shine | **+ ara** | pabhassara | bright, brilliant |
 | √ṭhā | to stand | **+ ara** | thāv**ara** | stationary |
@@ -474,7 +474,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **yā feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √vid | to know | + yā | vij**jā** | knowledge |
 | √kan | to shine | + yā | kañ**ñā** | young girl |
@@ -489,7 +489,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **+ \*tta neuter nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √khi | to live | + \***tta** | kh**etta** | field |
 | √yu | to unite | + \***tta** | y**otta** | rope; cord |
@@ -503,7 +503,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 ***
 **\*ta masc nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √pus | to nourish | **+ \*ta** | p**o**ta | young animal |
 | √kus | to fill, enfold | **+ \*ta** | k**o**ṭṭha | abdomen |
@@ -533,7 +533,7 @@ suffix **tāvī** is used to form **active past participles**
 ***
 **+ \*ikā feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √mus | to steal | + \*ikā | m**ū**sikā | rat; mouse |
 | √cur | to steal | + \*ikā | c**o**rikā | theft |
@@ -541,7 +541,7 @@ suffix **tāvī** is used to form **active past participles**
 ***
 **+ \*ikā feminine agent nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √nī | to lead | **+ \*ikā** | n**āy**ikā | mistress |
 | √car | to walk | **+ \*ikā** | paric**ā**rikā | female attendant |
@@ -555,16 +555,17 @@ suffix **tāvī** is used to form **active past participles**
 ***
 **tī feminine nouns**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | √ram | to delight | + **tī** | ara**tī** | dissatisfaction |
 | √sah | to overcome | + **tī** | uss**oḷhī** | exertion; activity |
 | √tus | to be content | + **tī** | tuṭ**ṭhī** | contentment |
 
 ***
+
 <div class="nav-links">
   <a href="../1_kita_1/" class="prev">← More Primary Derivatives</a>
   <a href="../3_home_work/" class="next">Homeless work →</a>
   <div class="cross"><a href="../../../ipc_ex/28_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_28%2F2_kita_less" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_28%2F2_kita_less" target="_blank">Provide feedback on this page</a></div>
 </div>

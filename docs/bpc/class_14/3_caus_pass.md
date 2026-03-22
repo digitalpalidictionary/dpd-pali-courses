@@ -14,7 +14,7 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 ***
 **√ṭhā･1 a (stand)**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √ṭhā + ṭhā + a | tiṭṭha | tiṭṭhati | stands |
 | √ṭhā + \*āpe | ṭhāpe \> ṭhape | ṭhapeti | sets aside; lit. causes to stand |
@@ -35,7 +35,7 @@ What are the different participles we have discussed so far?
 ***
 ## Causative Passive Present Participles (caus pprp)
 
-Please review [How To Form Passive Present Participles (pprp)](#passive-present-participles-pprp) in the previous class.
+Please review [How To Form Passive Present Participles (pprp)](../class_13/4_pprp.md#how-to-form-passive-present-participles-pprp) in the previous class.
 ***
 **root + ya / iya / īya \> passive base**
 ***
@@ -43,7 +43,7 @@ Please review [How To Form Passive Present Participles (pprp)](#passive-present-
 ***
 **bhū 1 a (be)**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | base | bhava |  |
 | pr | bhava**ti** | he is, it exists |
@@ -78,9 +78,10 @@ ud + √tḥā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
 ***
 saṃ + √vis + \*e \> saṃvese (caus) + iya + māna
 ***
+
 <div class="nav-links">
   <a href="../2_caus_verb/" class="prev">← Causative Verbs</a>
   <a href="../4_ptp/" class="next">Potential Participle (ptp) →</a>
   <div class="cross"><a href="../../../bpc_ex/14_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_14%2F3_caus_pass" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_14%2F3_caus_pass" target="_blank">Provide feedback on this page</a></div>
 </div>

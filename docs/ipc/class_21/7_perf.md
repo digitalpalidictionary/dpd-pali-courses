@@ -25,7 +25,7 @@ This is constructed by reduplicating the root, which then undergoes some morphol
 ***
 **Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **sg** | **pl** |
 | 3 paṭhama | babhūv**a** | babhūv**u** |
@@ -35,7 +35,7 @@ This is constructed by reduplicating the root, which then undergoes some morphol
 ***
 **Perfect Past Attanopada “had become by oneself; <br>had existed by oneself”<br>(√bhū + bhū \> babhū)**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **sg** | **pl** |
 | 3 paṭhama | babhūv**ittha** | babhūv**ire** |
@@ -53,9 +53,10 @@ When the Perfect Past occurs in suttas, it is frequently from the irregular root
 
 **āhu** – they said (they had said)
 ***
+
 <div class="nav-links">
   <a href="../6_opt/" class="prev">← Optative (sattamī)</a>
   <a href="../8_imperf/" class="next">Imperfect Past Tense (hiyyattanī) →</a>
   <div class="cross"><a href="../../../ipc_ex/21_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_21%2F7_perf" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_21%2F7_perf" target="_blank">Provide feedback on this page</a></div>
 </div>

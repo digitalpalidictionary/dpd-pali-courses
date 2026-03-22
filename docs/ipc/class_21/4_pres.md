@@ -12,7 +12,7 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 ***
 **Present Tense Attanopada “kills by oneself” <br>√han + a \> hana**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **s** | **pl** |
 | 3 paṭhama | hana**te** | hanan**te**<br>hana**re** |
@@ -22,7 +22,7 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 ***
 **Present Tense Passive Attanopada √han “is killed (by oneself)[^10]”<br>√han + ya \> hañña**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **s** | **pl** |
 | 3 paṭhama | hañña**te** | hañña**nte**<br>hañña**re** |
@@ -36,5 +36,5 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
   <a href="../3_pass_refl/" class="prev">← Passive Reflexive</a>
   <a href="../5_imp/" class="next">Imperative (pañcamī) →</a>
   <div class="cross"><a href="../../../ipc_ex/21_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_21%2F4_pres" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_21%2F4_pres" target="_blank">Provide feedback on this page</a></div>
 </div>

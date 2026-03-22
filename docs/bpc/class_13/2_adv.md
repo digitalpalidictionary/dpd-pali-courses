@@ -13,7 +13,7 @@ Adverbs are formed in various ways using **suffixes** and different **cases** of
 **Derivative Adverbs** are formed by adding suffixes to nouns and adjectives. You’ll go into these in more detail when you study primary and secondary derivatives.
 ***
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | satta | card | seven | satta**dhā** | adv | in 7 pieces |
 | pañca | card | five | pañca**so** | adv | five by five |
@@ -34,7 +34,7 @@ and a very large number of others.
 ***
 **Accusative Case**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | cira | adj | long (time) | cir**aṃ** | adv | for a long time |
 | divasa | noun | day | divas**aṃ** | adv | by day |
@@ -57,7 +57,7 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 ***
 **Instrumental Case**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | abhūta | adj | untrue | abhūt**ena** | adv | untruthfully |
 | antara | adj | between | antar**ena** | adv | in-between |
@@ -73,7 +73,7 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 ***
 **Dative Case**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | svātana | adj | of tomorrow | svātan**āya** | adv | for tomorrow's (meal) |
 | ajjatana | adj | modern | ajjatan**āya** | adv | for today; today |
@@ -81,14 +81,14 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 ***
 **Genitive Case**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | ta | pron | that | ta**ssa** | adv | therefore; because of that; lit. of that |
 
 ***
 **Locative Case**
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | atīta | noun | the past | atīt**e** | adv | in the past |
 | bāhira | adj | external | bāhir**e** | adv | externally |
@@ -100,7 +100,7 @@ The final group consists of the **Pure Adverbs,** which are not formed by adding
 There are about 200 such particles or **nipātā,** as they are called in traditional grammar books.
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | kira | they say, allegedly; apparently |
 | hi | indeed, certainly |
@@ -116,5 +116,5 @@ There are about 200 such particles or **nipātā,** as they are called in tradit
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_pass_verb/" class="next">Passive Verbs →</a>
   <div class="cross"><a href="../../../bpc_ex/13_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_13%2F2_adv" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_13%2F2_adv" target="_blank">Provide feedback on this page</a></div>
 </div>

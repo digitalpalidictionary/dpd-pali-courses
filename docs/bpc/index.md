@@ -5,7 +5,6 @@
 - [Skills you need to develop](class_1/index.md#skills-you-need-to-develop)
 - [How to set up basic digital tools](class_1/index.md#how-to-set-up-basic-digital-tools)
 - [Digital Resources](class_1/index.md#digital-resources)
-- [Class 1 Lesson](class_1/1_class.md)
 
 ## [Class 2](class_2/index.md)
 - [The Alphabet & Pronunciation](class_2/2_alphabet.md)

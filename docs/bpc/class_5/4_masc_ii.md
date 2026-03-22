@@ -7,7 +7,7 @@ This is identical to the **-in** ending in Sanskrit. In the PED dictionary, you 
 Many of these agent nouns can also be used as adjectives.
 ***
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | hattha | hand | hatthī | has a hand | elephant |
 | bhoga | wealth | bhogī | has wealth | wealthy person |
@@ -27,9 +27,9 @@ Many of these agent nouns can also be used as adjectives.
 | ottappa | regret | ottappī | has regret | who conscientious |
 
 ***
-**Declension of -ī masc**
+### Declension of -ī masc {: #declension-of-i-masc_1}
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1. nom | pakkh**ī** | pakkh**ī** <br>pakkh**ino** |
 | 2. acc | pakkh**inaṃ** <br>pakkh**iṃ** | pakkh**ī** <br>pakkh**ino** |
@@ -41,9 +41,10 @@ Many of these agent nouns can also be used as adjectives.
 | 8. voc | pakkh**ī** | pakkh**ī** <br>pakkh**ino** |
 
 ***
+
 <div class="nav-links">
   <a href="../3_future/" class="prev">← Future Tense</a>
   <a href="../5_trans/" class="next">Intransitive, Transitive and di-transitive verbs →</a>
   <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_5%2F4_masc_ii" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_5%2F4_masc_ii" target="_blank">Provide feedback on this page</a></div>
 </div>

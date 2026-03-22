@@ -2,9 +2,9 @@
 
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
 ***
-s**o**![](/assets/images/arrow.png)**a**haṃ \> s**vā**haṃ
+s**o**![](../../assets/images/arrow.png)**a**haṃ \> s**vā**haṃ
 ***
-**o![](/assets/images/arrow.png)a \> vā**
+**o![](../../assets/images/arrow.png)a \> vā**
 ***
 This means:
 ***
@@ -16,9 +16,9 @@ together they become **vā**
 ***
 In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
-**o![](/assets/images/arrow.png)a \> va**
+**o![](../../assets/images/arrow.png)a \> va**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | k**o** | **a**ttho | k**va**ttho |
 | what | meaning | what is the meaning? |
@@ -26,9 +26,9 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | then | I | so I |
 
 ***
-**o![](/assets/images/arrow.png)a \> vā**
+**o![](../../assets/images/arrow.png)a \> vā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | kh**o** | **a**haṃ | kh**vā**haṃ |
 | indeed | I | I definitely |
@@ -40,9 +40,9 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | whoever | this | whoever this |
 
 ***
-**u![](/assets/images/arrow.png)a \> va**
+**u![](../../assets/images/arrow.png)a \> va**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | an**u** | **a**ddhamāsaṃ | an**va**ddhamāsaṃ |
 | (following) | half month | every half month |
@@ -50,9 +50,9 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | (?) | today | today? |
 
 ***
-**u![](/assets/images/arrow.png)a \> vā**
+**u![](../../assets/images/arrow.png)a \> vā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tes**u** | **a**haṃ | tes**vā**haṃ |
 | in those | I | I in those |
@@ -60,9 +60,9 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | (well) | explained | well explained |
 
 ***
-**u![](/assets/images/arrow.png)ā \> vā**
+**u![](../../assets/images/arrow.png)ā \> vā**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | madh**u** | **ā**sava | madh**vā**sava |
 | honey | extract | honey liquor |
@@ -72,9 +72,9 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | much | sickness | frequently ill |
 
 ***
-**u![](/assets/images/arrow.png)e \> ve**
+**u![](../../assets/images/arrow.png)e \> ve**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | an**u** | **e**ti | an**ve**ti |
 | (follow) | goes | follows |
@@ -88,9 +88,10 @@ what is **Possibility \#7 ?**
 ***
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
 ***
+
 <div class="nav-links">
   <a href="../8_vowel_6/" class="prev">← Possibility \#6</a>
   <a href="../10_vowel_8/" class="next">Consonant Insertions →</a>
   <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_16%2F9_vowel_7" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F9_vowel_7" target="_blank">Provide feedback on this page</a></div>
 </div>

@@ -6,7 +6,7 @@ Today we will look at **manas**, **go, atta** and **rāja**
 ***
 **Declension of manas (mano) (masc & nt[^6])**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | man**o** | man**ā** |
 | 2.acc | man**aṃ**<br>**mano** | man**e** |
@@ -69,7 +69,7 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 ***
 **Declension of go (masc) cow, cattle**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | g**o** | gāv**o** g**avo** |
 | 2.acc | gāv**uṃ** gav**aṃ** | gāv**o** g**avo** |
@@ -83,7 +83,7 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 ***
 **Declension of atta (masc) - self**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | att**ā** | att**āno** |
 | 2.acc | att**ānaṃ** att**aṃ** | att**āno** |
@@ -99,7 +99,7 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 ***
 **Declension of rāja (masc) - king**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | rāj**ā** | rāj**āno** |
 | 2.acc | rāj**ānaṃ** rāj**aṃ** | rāj**āno** |
@@ -111,9 +111,10 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 8.voc | rāj**a** rāj**ā** | rāj**āno** |
 
 ***
+
 <div class="nav-links">
   <a href="../9_ex/" class="prev">← Please construct and deconstruct:</a>
   <a href="../11_ex/" class="next">Please analyze the following: →</a>
   <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_18%2F10_irreg_masc" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F10_irreg_masc" target="_blank">Provide feedback on this page</a></div>
 </div>

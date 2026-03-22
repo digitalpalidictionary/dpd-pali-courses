@@ -50,7 +50,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 ## Some prefixes and indeclinables used in abyayībhāva compounds
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | abhi- | very, high, most |
 | adhi- | up, towards |
@@ -86,9 +86,10 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 ***
 What makes a compound an abyayībhāva?
 ***
+
 <div class="nav-links">
   <a href="../" class="prev">← Class 20</a>
   <a href="../2_bahub/" class="next">Bahubbīhi-samāsa or Attributive Compounds →</a>
   <div class="cross"><a href="../../../ipc_ex/20_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_20%2F1_abya" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_20%2F1_abya" target="_blank">Provide feedback on this page</a></div>
 </div>

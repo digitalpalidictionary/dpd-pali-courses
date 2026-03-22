@@ -2,7 +2,7 @@
 
 ### tā (state of) abstract feminine nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | asoka | + tā | asoka**tā** | sorrow-less-ness |
 | bhabba | + tā | bhabba**tā** | capability |
@@ -18,7 +18,7 @@
 ***
 ### tta (state of) abstract neuter nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | agga | + tta | agga**tta** | high state, eminence |
 | araha | + tta | araha**tta** | worthy state, worthiness |
@@ -35,7 +35,7 @@
 ***
 ### tha (state of) abstract masculine nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | dama | **+ tha** | dama**tha** | taming, control, mastery |
 | dara | **+ tha** | dara**tha** | anxiety, uneasiness, angst |
@@ -45,7 +45,7 @@
 ***
 ### iya (state of) abstract neuter nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | na agāra | + iya | anagār**iya** | homelessness |
 | issara | + iya | issar**iya** | rulership, lordship |
@@ -56,7 +56,7 @@
 ***
 ### \*ya (state of) abstract neuter nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | akiñcana | + \*ya | **ā**kiñca**ñña** | nothing state, nothingness |
 | alasa | + \*ya | **ā**las**ya** | lazy state, laziness |
@@ -81,7 +81,7 @@
 ***
 ### \*eyya (state of) abstract neuter nouns
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | adhipati | + \*eyya | **a**dhipat**eyya** | ruler state, lordship |
 | jimha | + \*eyya | j**i**mh**eyya** | crooked state, deceit |
@@ -96,7 +96,7 @@
 ***
 ### \*a (state of)
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | dvi | + \*a | dv**aya** | two state, duality |
 | garu | + \*a | g**ā**rav**a** | respected state, esteem |
@@ -106,9 +106,10 @@
 | ti | + \*a | t**aya** | three state, triad |
 
 ***
+
 <div class="nav-links">
   <a href="../2_numer/" class="prev">← Numerical (saṅkhyātaddhita)</a>
   <a href="../4_ind/" class="next">Indeclinable (abyayataddhita) →</a>
   <div class="cross"><a href="../../../ipc_ex/26_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_26%2F3_state" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_26%2F3_state" target="_blank">Provide feedback on this page</a></div>
 </div>

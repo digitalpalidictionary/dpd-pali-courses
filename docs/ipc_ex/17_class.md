@@ -2,7 +2,7 @@
 
 **Join the following words**
 
-| | |
+|  |  |
 |---|---|
 | bahu + suto |  |
 | so + yāti |  |
@@ -21,7 +21,7 @@
 
 **Disjoin the following words**
 
-| | |
+|  |  |
 |---|---|
 | paggharati |  |
 | mahabbhayaṃ |  |
@@ -532,5 +532,5 @@
   <a href="../16_class/" class="prev">← Class 16</a>
   <a href="../18_class/" class="next">Class 18 →</a>
   <div class="cross"><a href="../../ipc_key/17_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc_ex%2F17_class" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_ex%2F17_class" target="_blank">Provide feedback on this page</a></div>
 </div>

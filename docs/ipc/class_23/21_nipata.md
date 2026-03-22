@@ -4,7 +4,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **alaṃ- <br>fit for, suitable**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √kar | karoti | alaṅkaroti | decorates |
 | √kar | kāra | alaṅkāra | jewellery, adornment |
@@ -12,7 +12,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **antara- antarā- <br>inside, between**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √dhā | dhāyati | antaradhāyati | disappears |
 | √dhā | dhāpeti | antaradhāpeti | makes vanish |
@@ -20,7 +20,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **atthaṃ- <br>homewards**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √gam | gama | atthaṅgama | disappearance |
 | √gam | gata | atthaṅgata | disappeared |
@@ -28,7 +28,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **āvi- <br>in full view, in sight, in view, manifestly, visibly.**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √kar | karoti | āvikaroti | clarifies, makes open |
 | √bhū | bhāva | āvibhāva | appearance |
@@ -36,7 +36,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **pātu- pātur-<br>in front, manifestly, evidently**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √bhū | bhavati | pātubhavati | appears, manifests |
 | √bhū | ahosi | pāturahosi | appeared, manifested |
@@ -47,14 +47,14 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **puna-<br>again**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √bhū | bhava | punabbhava | rebirth |
 
 ***
 **pura- puro-<br>in front, before, forward**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √kar | khatvā | purakkhatvā | having put in front |
 | √kar | khata | purakkhata | preferred |
@@ -62,7 +62,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **sacchi- <br>personally witnessed**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √kar | karoti | sacchikaroti | personally experiences |
 | √kar | kata | sacchikata | personally experienced |
@@ -71,7 +71,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **tiro- tero-<br>out of sight, across, beyond**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 |  | kuṭṭa | tirokuṭṭaṃ | through a wall |
 | √vass | vassa | terovassika | many years old |
@@ -80,7 +80,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **vinā-<br>without, devoid (of); apart from**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √bhū | bhāva | vinābhāva | separation |
 | √kar | karoti | vinākaroti[^17] | separates |
@@ -90,7 +90,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 ***
 **sat-<br>being, existing, good, right**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | sat | attha | sadattha | highest good |
 | sat | dhamma | saddhamma | true teaching |
@@ -101,9 +101,10 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 | sat | purisa | sappurisa | good man |
 
 ***
+
 <div class="nav-links">
   <a href="../20_mixed_pref/" class="prev">← Mixed Prefixes</a>
   <a href="../22_dur_su_nir/" class="next">dur, su, nir & etc. →</a>
   <div class="cross"><a href="../../../ipc_ex/23_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_23%2F21_nipata" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_23%2F21_nipata" target="_blank">Provide feedback on this page</a></div>
 </div>

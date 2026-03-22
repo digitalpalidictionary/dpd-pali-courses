@@ -16,28 +16,62 @@ This repository contains the source materials for the Digital Pāḷi Dictionary
 
 ## Static Site Generation
 
-The website is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+The website is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It serves as the primary way to interact with the course materials.
 
-### Maintenance Scripts
+## Document Generation (PDF & DOCX)
+
+In addition to the static website, this project can generate high-quality PDF and Word (`.docx`) documents for offline study and editing. These documents are generated directly from the same Markdown source files used for the website, ensuring consistency across all formats.
+
+### PDF Generation
+
+The PDF generation is handled by `scripts/generate_pdfs.py` using [WeasyPrint](https://weasyprint.org/).
+
+- **Shared Styling**: The PDF generator uses the same CSS variables and stylesheets as the website, providing a unified look and feel.
+- **Content Cleaning**: UI elements like navigation buttons, cross-references, and feedback forms are automatically stripped during the conversion process.
+
+### DOCX Generation
+
+The Word document generation is handled by `scripts/generate_docx.py` using [Pandoc](https://pandoc.org/).
+
+- **Visual Parity**: The DOCX generator aims for visual parity with the PDF output, including Table of Contents and consistent typography.
+- **Editable Format**: Provides a flexible format for users who wish to add their own notes or modify the course materials.
+
+### Generating Documents Locally
+
+1. **Install Dependencies**:
+   - For PDF: Ensure you have `weasyprint` and its system dependencies installed.
+   - For DOCX: Ensure you have [Pandoc](https://pandoc.org/installing.html) installed on your system.
+2. **Run the Scripts**:
+   ```bash
+   # Generate PDFs
+   uv run python scripts/generate_pdfs.py
+
+   # Generate DOCX
+   uv run python scripts/generate_docx.py
+   ```
+   The generated files will be placed in the `pdf_exports/` and `docx_exports/` directories respectively.
+
+## Maintenance Scripts
 
 This repository includes several Python scripts to maintain and clean the Pāḷi course Markdown source files. These scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py`.
 
-- **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files. It ensures that the numbering is sequential and starts from 1 at the beginning of each major section.
-  - Usage: `uv run python scripts/check_renumber.py`
-  - Dry run (see changes without applying them): `uv run python scripts/check_renumber.py --dry-run`
+- **`generate_pdfs.py`**: The primary script for creating PDF volumes from the course materials.
+  - Usage: `uv run python scripts/generate_pdfs.py`
 
-- **`compare_docs.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss. It uses normalized line-by-line comparison to find content that was present in the original source but is missing in the current version, particularly useful for verifying that no data was lost during automated cleaning or reformatting.
+- **`generate_docx.py`**: The primary script for creating Word (.docx) volumes from the course materials.
+  - Usage: `uv run python scripts/generate_docx.py`
+
+- **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files.
+  - Usage: `uv run python scripts/check_renumber.py`
+
+- **`compare_docs.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss.
   - Usage: `uv run python scripts/compare_docs.py`
-  - Specify a commit: `uv run python scripts/compare_docs.py --commit <commit_hash>`
-  - Specific directory: `uv run python scripts/compare_docs.py --dir docs/bpc/`
-  - Specific file: `uv run python scripts/compare_docs.py --dir docs/bpc/index.md`
-  - Verbose mode (show missing lines): `uv run python scripts/compare_docs.py --verbose`
 
 - **`update_media_links.py`**: Updates media links and paths within the Markdown files to ensure they are correctly resolved in the static website.
 
-- **`generate_mkdocs_yaml.py`**: A helper script to generate or update the `mkdocs.yaml` configuration, particularly the navigation structure based on the files in `docs/`.
+- **`generate_mkdocs_yaml.py`**: A helper script to generate or update the `mkdocs.yaml` configuration based on the files in `docs/`.
 
-### Local Development
+## Local Development
 
 This project uses `uv` for Python dependency management.
 
@@ -46,21 +80,24 @@ This project uses `uv` for Python dependency management.
    ```bash
    uv sync
    ```
-3. **Build and Serve Locally**:
+3. **Build and Serve Website Locally**:
    ```bash
    uv run mkdocs serve
    ```
    The site will be available at `http://127.0.0.1:8000`.
 
-### Automated Deployment
+4. **Generate Documents Locally**:
+   ```bash
+   uv run python scripts/generate_pdfs.py
+   uv run python scripts/generate_docx.py
+   ```
 
-The website is automatically built and deployed to the `gh-pages` branch whenever changes are pushed to the `main` branch. This is handled by a GitHub Action defined in `.github/workflows/deploy_site.yaml`.
+## Automated Deployment & Generation
 
-The build pipeline performs the following steps:
-1. Generates directory indexes using `tools/ssg/scripts/generate_indexes.py`.
-2. Updates CSS and styling via `tools/ssg/scripts/update_css.py`.
-3. Builds the static HTML site using `mkdocs build`.
-4. Deploys the resulting `site/` directory to the `gh-pages` branch.
+The website, PDF volumes, and DOCX volumes are automatically updated whenever changes are pushed to the `main` branch.
+
+- **Website Deployment**: Handled by `.github/workflows/deploy_site.yaml`.
+- **Document Generation**: Handled by a unified workflow that generates both PDF and DOCX artifacts and publishes them to the latest GitHub Release.
 
 ---
 

@@ -14,7 +14,7 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 ***
 **Imperfect Past Attanopada “went or was going”<br>(√gam)**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **sg** | **pl** |
 | 3 paṭhama | agam**ā** | agam**u ;** agam**ū**<br>agam**uṃ** |
@@ -24,7 +24,7 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 ***
 **Imperfect Past Parassapada <br>“went by oneself or was going by oneself”<br>(√gam)**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **sg** | **pl** |
 | 3 paṭhama | agam**attha** | agam**atthuṃ** |
@@ -34,9 +34,10 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 ***
 Technically there is also a **Passive Imperfect Past**. How would that be formed?
 ***
+
 <div class="nav-links">
   <a href="../7_perf/" class="prev">← Perfect Past Tense (parokkhā)</a>
   <a href="../9_aor/" class="next">Aorist (ajjatanī) →</a>
   <div class="cross"><a href="../../../ipc_ex/21_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_21%2F8_imperf" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_21%2F8_imperf" target="_blank">Provide feedback on this page</a></div>
 </div>

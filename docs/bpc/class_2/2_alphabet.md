@@ -7,7 +7,7 @@ All of them are pronounced phonetically.
 ***
 **8 Vowels (sara) a ā i ī u ū e o**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **a**tta | (self) | a | as in | c**u**t, h**u**t, **u**tter (not b**a**t) |
 | **ā**misa | (material) | ā | as in | f**a**ther, b**a**rn, **a**rt <br>(not h**a**te) |
@@ -23,7 +23,7 @@ All of them are pronounced phonetically.
 ***
 **5 Guttural Consonants (kaṇṭhaja – produced in the throat)**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **k**aruṇā | (compassion) | **k** | as in | **k**ey, **c**andle, **c**ook (not aspirate) |
 | **kh**etta | (field) | **kh[^2]** | as in | blac**kh**ead, bac**kh**and, bun**kh**ouse |
@@ -36,7 +36,7 @@ All of them are pronounced phonetically.
 ***
 **5 Palatal Consonants (tāluja – produced on the front-palate)**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **c**uṇṇa | (powder) | **c** | as in | **ch**urch, **ch**ild, **c**ello (not aspirate) |
 | **ch**atta | (umbrella) | **ch** | as in | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
@@ -47,7 +47,7 @@ All of them are pronounced phonetically.
 ***
 **5 Cerebral or Retroflex Consonants <br>(muddhaja – produced at the top)**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | ‍These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate. |  |  |  |  |
 | dukka**ṭ**a | (wrong doing) | **ṭ** |  | retroflex t |
@@ -59,7 +59,7 @@ All of them are pronounced phonetically.
 ***
 **5 Dental Consonants (dantaja – produced on the teeth)**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | i**t**i | (thus) | **t** | as in | **t**op, **t**ap, s**t**ay (not aspirate) |
 | **th**era | (elder) | **th** | as in | **th**omas, ligh**th**ouse, an**th**ill, ca**th**ouse |
@@ -70,7 +70,7 @@ All of them are pronounced phonetically.
 ***
 **5 Labial Consonants (oṭṭhaja – produced by the lips)**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **p**utta | (son) | p | as in | **p**ut, **p**ad, s**p**ace (not aspirate) |
 | **ph**ala | (fruit) | ph | as in | to**ph**at, u**ph**ill, u**ph**eaval |
@@ -81,7 +81,7 @@ All of them are pronounced phonetically.
 ***
 **8 Other Consonants & Semi-vowels**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **y**oniso | (thoroughly) | y | as in | **y**es, **y**ear, **y**ou |
 | **r**ukkha | (tree) | r | as in | (Spanish) seño**r**a, **r**apido |
@@ -97,7 +97,7 @@ All of them are pronounced phonetically.
 ***
 **Sanskrit Letters**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **2 more vowels** |  |  |  |  |
 | **ṛ**ṣi | (sage) | ṛ | as in | **ri**m, c**ri**sp (but retroflex) |
@@ -115,7 +115,7 @@ All of them are pronounced phonetically.
 Double consonants are pronounced individually, like in the English word u**nn**ecessary. For example:
 ***
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | buddha | pronounced | bud-dha | not budha |
 | mettā | pronounced | met-taa | not metaa |
@@ -159,5 +159,5 @@ or use a digital dictionary!
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_decl_nouns/" class="next">Declension of Nouns →</a>
   <div class="cross"><a href="../../../bpc_ex/2_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_2%2F2_alphabet" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_2%2F2_alphabet" target="_blank">Provide feedback on this page</a></div>
 </div>

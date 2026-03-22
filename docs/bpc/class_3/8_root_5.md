@@ -22,7 +22,7 @@ jānā + ti \> jānāti (he knows)
 ***
 **Conjugation of -āti pr**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | so jānā**ti** | he knows | te jāna**nti** | they know |
@@ -30,9 +30,10 @@ jānā + ti \> jānāti (he knows)
 | 1st | ahaṃ jānā**mi** | I know | mayaṃ jānā**ma** | we know |
 
 ***
+
 <div class="nav-links">
   <a href="../7_root_4/" class="prev">← Root Group 4 - svādigaṇa</a>
   <a href="../9_root_6/" class="next">Root Group 6 - gahādigaṇa →</a>
   <div class="cross"><a href="../../../bpc_ex/3_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_3%2F8_root_5" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_3%2F8_root_5" target="_blank">Provide feedback on this page</a></div>
 </div>

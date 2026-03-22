@@ -19,7 +19,7 @@ You will become very familiar with these cases in the upcoming weeks
 ***
 ### Some Basic Vocabulary to illustrate the case endings
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | thera | masc. | elder |
 | sāvaka | masc. | disciple |
@@ -214,7 +214,7 @@ ehi **paññādhammika!**
 ***
 **In Summary**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1. Nominative | nar**o** | the man (subject) |
 | 2. Accusative | nar**aṃ** | the man (object) |
@@ -234,9 +234,9 @@ Sumedh**a**
 ***
 Which one is correct?
 ***
-**Declension of -a masc**
+### Declension of -a masc {: #declension-of-a-masc}
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | Singular | Plural |
 | 1. Nominative | nar**o** | nar**ā** |
@@ -263,7 +263,7 @@ Please learn this table by heart. Why?
 [^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | neuter nouns ending in **-aṃ** | **14747** |
 | neuter nouns ending in **-i -u** | 452 |
@@ -273,9 +273,10 @@ Please learn this table by heart. Why?
 ***
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
 ***
+
 <div class="nav-links">
   <a href="../2_alphabet/" class="prev">← The Alphabet & Pronunciation</a>
   <a href="../4_home_work/" class="next">How to do the exercises →</a>
   <div class="cross"><a href="../../../bpc_ex/2_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_2%2F3_decl_nouns" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_2%2F3_decl_nouns" target="_blank">Provide feedback on this page</a></div>
 </div>

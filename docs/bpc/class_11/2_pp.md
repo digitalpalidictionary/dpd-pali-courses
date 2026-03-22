@@ -3,7 +3,7 @@
 The past participle is another **verbal adjective** which describes the action that a noun did (in the past). It is extremely common in the Tipiṭaka.
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | bhāsati | he speaks |
 | **bhāsita** | (is) **spoken** |
@@ -27,7 +27,7 @@ There are, quite literally, thousands of examples...
 ***
 #### 1. root + ta
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | bhavati | √bhū | to be | + ta | bhūta | became |
 | passati | √dis | to see | + ta | di**ṭṭ**ha | seen |
@@ -44,7 +44,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 ***
 #### 2. root + ita
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | bhāsati | √bhās | to speak | + ita | bhāsita | spoken |
 | carati | √car | to walk | + ita | carita | walked |
@@ -59,7 +59,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 ***
 #### 3. base + ita
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | bhāveti | √bhū | bhāve | + ita | bhāvita | developed |
 | deseti | √dis | dese | + ita | desita | preached |
@@ -74,7 +74,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 ***
 #### 4. root + na
 
-|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | chindati | √chid | to cut | + na | chi**nn**a | cut |
 | jirati | √jīr | to age | + na | ji**ṇṇ**a | aged |
@@ -95,7 +95,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 ***
 **Masculine ending in -a<br>gata**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | gat**o** | gat**ā** |
 | 2.acc | gat**aṃ** | gat**e** |
@@ -118,7 +118,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 ***
 **Neuter ending in -aṃ<br>gataṃ**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | 1.nom | gat**aṃ** | gat**ā** <br>gat**āni** |
 | 2.acc | gat**aṃ** | gat**e** <br>gat**āni** |
@@ -164,9 +164,10 @@ lit. just like a **cleaned** cloth, **gone away** stains ...
 ***
 How would you translate that into English?
 ***
+
 <div class="nav-links">
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_adj/" class="next">Adjectives (guṇanāma, guṇavacana, visesana) →</a>
   <div class="cross"><a href="../../../bpc_ex/11_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_11%2F2_pp" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_11%2F2_pp" target="_blank">Provide feedback on this page</a></div>
 </div>

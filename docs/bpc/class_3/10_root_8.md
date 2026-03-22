@@ -34,7 +34,7 @@ mantaya + ti \> mantayati (he advises)
 ***
 **Conjugation of -eti pr**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | so dhāre**ti** | he carries | te dhāre**nti** | they carry |
@@ -44,7 +44,7 @@ mantaya + ti \> mantayati (he advises)
 ***
 **Conjugation of -ati pr**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | dhāraya**ti** | he carries | dhāraya**nti** | they carry |
@@ -52,9 +52,10 @@ mantaya + ti \> mantayati (he advises)
 | 1st | dhāray**āmi** | I carry | dhāray**āma** | we carry |
 
 ***
+
 <div class="nav-links">
   <a href="../9_root_6/" class="prev">← Root Group 6 - gahādigaṇa</a>
   <a href="../11_histor_pr/" class="next">Historical Present →</a>
   <div class="cross"><a href="../../../bpc_ex/3_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_3%2F10_root_8" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_3%2F10_root_8" target="_blank">Provide feedback on this page</a></div>
 </div>

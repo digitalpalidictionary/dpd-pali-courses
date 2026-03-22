@@ -27,7 +27,7 @@ samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
 ***
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | devamanussā | devā ca manussā ca | gods and men |
 | ajeḷakā | ajā ca eḷakā ca | goats and sheep |
@@ -49,7 +49,7 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 “grass, timber, branches, and leaves”
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | ahorattaṃ | day and night |
 | anayabyasanaṃ | misfortune and disaster |
@@ -101,5 +101,5 @@ cha + tiṃsā \> chattiṃsā “36” six **and** thirty
   <a href="../4_tap/" class="prev">← Tappurisa-samāsa or Case Compounds</a>
   <a href="../6_comp_rules/" class="next">General “Rules” for Compounds →</a>
   <div class="cross"><a href="../../../ipc_ex/19_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_19%2F5_dvanda" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_19%2F5_dvanda" target="_blank">Provide feedback on this page</a></div>
 </div>

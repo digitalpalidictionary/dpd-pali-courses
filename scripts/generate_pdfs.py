@@ -2,6 +2,8 @@ import os
 import yaml
 import markdown
 import re
+import subprocess
+from bs4 import BeautifulSoup
 
 FOLDER_NAMES = {
     'bpc': 'Beginner Pāḷi Course (BPC)',
@@ -13,159 +15,162 @@ FOLDER_NAMES = {
 }
 
 def clean_markdown_content(content):
-    """Remove UI elements not suitable for PDF (e.g. navigation buttons, feedback forms)."""
-    # Remove nav-links div
+    """Remove UI elements not suitable for PDF."""
     content = re.sub(r'<div class="nav-links">.*?</div>', '', content, flags=re.DOTALL)
-    # Remove feedback div just in case it's outside
     content = re.sub(r'<div class="feedback">.*?</div>', '', content, flags=re.DOTALL)
-    # Remove stand-alone previous/next links if they exist
     content = re.sub(r'<a[^>]+class="(prev|previous|next|cross)"[^>]*>.*?</a>', '', content)
     return content
 
-def convert_to_html(md_content):
-    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists'])
-    return md.convert(md_content)
+def fix_internal_links(html_content):
+    """Converts relative links to internal PDF anchors."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        if ('.md' in href) and not href.startswith('http'):
+            file_part = href.split('#')[0] if '#' in href else href
+            anchor_id = os.path.basename(file_part).replace('.', '_')
+            a['href'] = f"#{anchor_id}"
+    return str(soup)
 
-def build_html_document(title, files_data, title_md_content="", literature_md_content=""):
-    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists'])
+def fix_list_numbering(html_content):
+    """Uses .manual-list-start markers to fix ordered list numbering in HTML."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for marker in soup.find_all('div', class_='manual-list-start'):
+        start_val = marker.get('data-start')
+        next_ol = marker.find_next_sibling('ol')
+        if next_ol:
+            next_ol['start'] = start_val
+            reset_val = int(start_val) - 1
+            next_ol['style'] = f"counter-reset: list-item {reset_val};"
+        marker.decompose()
+    return str(soup)
+
+def pre_process_content(text):
+    """Protects source footnote and list markers from renumbering."""
+    def repl_def(m):
+        prefix = m.group(1); fn_num = m.group(2); content = m.group(3).strip()
+        return f"\n<div class='manual-fn-def' data-fn='{fn_num}' markdown='1'>\n\n{prefix}{content}\n\n</div>\n\n"
+    pattern = r'^([ \t*_]*)\[\^(\d+)\]:\s*(.*?)(?=\n[ \t]*\n|\n[ \t]*[-*_]{3,}|\n[ \t]*#|\n\[\^|\Z)'
+    text = re.sub(pattern, repl_def, text, flags=re.MULTILINE | re.DOTALL)
+    text = re.sub(r'\[\^(\d+)\]', r"<sup class='manual-fn-ref' data-fn='\1'>\1</sup>", text)
+    def repl_list(m):
+        num = m.group(1)
+        return f"\n<div class='manual-list-start' data-start='{num}'></div>\n\n{num}. "
+    text = re.sub(r'^\s*(\d+)\.\s+', repl_list, text, flags=re.MULTILINE)
+    return text
+
+def process_footnotes_for_pdf(html_content):
+    """Moves manual footnote definitions into WeasyPrint-compatible floats."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    defs = {d['data-fn']: d for d in soup.find_all('div', class_='manual-fn-def')}
+    for ref in soup.find_all('sup', class_='manual-fn-ref'):
+        fn_num = ref['data-fn']
+        if fn_num in defs:
+            new_span = soup.new_tag('span', attrs={'class': 'pdf-footnote'})
+            label = soup.new_tag('b', attrs={'class': 'pdf-footnote-label'}); label.string = f"{fn_num}. "
+            new_span.append(label)
+            fn_soup = BeautifulSoup(defs[fn_num].decode_contents(), 'html.parser')
+            for p in fn_soup.find_all('p'): p.unwrap()
+            new_span.append(fn_soup); ref.insert_after(new_span)
+    for d in defs.values(): d.decompose()
+    return str(soup)
+
+def build_html_document(title, files_data, title_md_content="", literature_md_content="", folder_type="", root_index_content=""):
+    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists', 'md_in_html'])
     
-    full_md_content = f"# {title}\n\n"
-    
-    if title_md_content:
-        full_md_content += title_md_content + "\n\n"
+    def conv(t): return md.convert(pre_process_content(t))
+
+    title_html = f'<div class="pdf-title-page"><h1>{title}</h1></div>'
+    about_html = f'<div class="pdf-about-page">{conv(title_md_content)}</div>' if title_md_content else ""
+    lit_html = f'<div class="pdf-literature-page">{conv(literature_md_content)}</div>' if literature_md_content else ""
         
-    if literature_md_content:
-        full_md_content += literature_md_content + "\n\n"
-        
+    full_course_html = ""
     for file_path, content in files_data:
-        clean_content = clean_markdown_content(content)
-        full_md_content += f"\n\n<!-- FILE: {file_path} -->\n\n" + clean_content + "\n\n"
+        is_idx = os.path.basename(file_path) == 'index.md'
+        c = clean_markdown_content(content)
         
-    body_html = md.convert(full_md_content)
-    toc_html = md.toc
-    
-    html_template = f"""<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>{title}</title>
-</head>
-<body>
-    <div class="toc">
-        <h1>Table of Contents</h1>
-        {toc_html}
-    </div>
-    <div class="content">
-        {body_html}
-    </div>
-</body>
-</html>
-"""
-    return html_template
+        # We NO LONGER strip Class X headings for ex/key, as requested.
+        # This allows Class X Exercises and Class X Extra to appear in TOC.
+        # We only strip them if they are redundant with the index.md Class X heading in LESSONS (bpc/ipc).
+        if not is_idx and not (folder_type.endswith('_ex') or folder_type.endswith('_key')):
+            c = re.sub(r'^# Class \d+.*?\n', '', c, flags=re.MULTILINE)
 
-def extract_markdown_files(nav_item, docs_dir, current_list):
-    if isinstance(nav_item, str):
-        if nav_item.endswith('.md'):
-            current_list.append(os.path.join(docs_dir, nav_item))
-    elif isinstance(nav_item, list):
-        for item in nav_item:
-            extract_markdown_files(item, docs_dir, current_list)
-    elif isinstance(nav_item, dict):
-        for key, value in nav_item.items():
-            extract_markdown_files(value, docs_dir, current_list)
+        md.reset()
+        topic_html = md.convert(pre_process_content(c))
+        file_id = os.path.basename(file_path).replace('.', '_')
+        div_class = 'pdf-class-header' if is_idx else 'pdf-topic-page'
+        full_course_html += f"<div class='{div_class}' id='{file_id}'>{topic_html}</div>"
+    
+    md.reset()
+    if root_index_content:
+        # For lessons, use the provided root index content
+        toc_html = f'<div class="pdf-toc-page">{md.convert(pre_process_content(root_index_content))}</div>'
+    else:
+        # For ex and key, generate TOC from full merged content to capture all headings
+        all_md = ""
+        for file_path, content in files_data:
+            all_md += pre_process_content(clean_markdown_content(content)) + "\n\n"
+        md.convert(all_md); toc_html = f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{md.toc}</div>'
+    
+    full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
+    full_body_html = fix_internal_links(full_body_html)
+    full_body_html = fix_list_numbering(full_body_html)
+    full_body_html = process_footnotes_for_pdf(full_body_html)
+    
+    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{title}</title><style>.pdf-title-page, .pdf-about-page, .pdf-literature-page, .pdf-toc-page, .pdf-class-header, .pdf-topic-page {{ page-break-before: always; }} .pdf-title-page {{ page-break-before: avoid; }} .pdf-footnote-label {{ font-weight: bold; margin-right: 0.3em; }} .pdf-footnote {{ float: footnote; font-size: 0.9em; font-style: italic; }} .manual-list-start {{ display: none; }}</style></head><body>{full_body_html}</body></html>"
 
 def get_markdown_files(docs_dir: str):
-    """
-    Reads the markdown files from the subdirectories in docs_dir based on mkdocs.yaml order.
-    """
     mkdocs_yaml_path = "mkdocs.yaml"
-    if not os.path.exists(mkdocs_yaml_path):
-        # Fallback if run from a different directory
-        mkdocs_yaml_path = os.path.join(os.path.dirname(__file__), "..", "mkdocs.yaml")
-        
-    with open(mkdocs_yaml_path, "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f)
-    
-    nav = config.get("nav", [])
-    
+    if not os.path.exists(mkdocs_yaml_path): mkdocs_yaml_path = os.path.join(os.path.dirname(__file__), "..", "mkdocs.yaml")
+    with open(mkdocs_yaml_path, "r", encoding="utf-8") as f: config = yaml.safe_load(f)
+    def ext(item, d, l):
+        if isinstance(item, str):
+            if item.endswith('.md'): l.append(os.path.join(d, item))
+        elif isinstance(item, list):
+            for i in item: ext(i, d, l)
+        elif isinstance(item, dict):
+            for k, v in item.items(): ext(v, d, l)
     all_files = []
-    extract_markdown_files(nav, docs_dir, all_files)
-    
+    ext(config.get("nav", []), docs_dir, all_files)
     folders = ['bpc', 'bpc_ex', 'bpc_key', 'ipc', 'ipc_ex', 'ipc_key']
-    files_by_dir = {f: [] for f in folders}
-    
+    f_by_dir = {f: [] for f in folders}
     for file_path in all_files:
-        rel_path = os.path.relpath(file_path, docs_dir)
-        folder = rel_path.split(os.sep)[0]
-        if folder in files_by_dir:
-            if os.path.exists(file_path):
-                files_by_dir[folder].append(file_path)
-            
-    return files_by_dir
+        rel = os.path.relpath(file_path, docs_dir); folder = rel.split(os.sep)[0]
+        if folder in f_by_dir and os.path.exists(file_path): f_by_dir[folder].append(file_path)
+    return f_by_dir
 
 def generate_pdf(html_content, output_pdf, css_paths=None):
     from weasyprint import HTML, CSS
-    if css_paths is None:
-        css_paths = []
-    
-    css_objects = [CSS(filename=path) for path in css_paths if os.path.exists(path)]
-    
-    html_obj = HTML(string=html_content, base_url=os.path.abspath("."))
-    html_obj.write_pdf(output_pdf, stylesheets=css_objects)
+    css_objs = [CSS(filename=p) for p in (css_paths or []) if os.path.exists(p)]
+    HTML(string=html_content, base_url=os.path.abspath(".")).write_pdf(output_pdf, stylesheets=css_objs)
 
 def main():
     docs_dir = "docs"
-    
-    css_paths = [
-        "tools/ssg/stylesheets/dpd-variables.css",
-        "tools/ssg/stylesheets/dpd.css",
-        "tools/ssg/stylesheets/extra.css"
-    ]
-    
-    title_path = os.path.join(docs_dir, "title.md")
-    literature_path = os.path.join(docs_dir, "literature.md")
-    
-    title_content = ""
-    if os.path.exists(title_path):
-        with open(title_path, "r", encoding="utf-8") as f:
-            title_content = f.read()
-            
-    literature_content = ""
-    if os.path.exists(literature_path):
-        with open(literature_path, "r", encoding="utf-8") as f:
-            literature_content = f.read()
-    
-    files_by_dir = get_markdown_files(docs_dir)
-    
-    for folder, files in files_by_dir.items():
-        if not files:
-            print(f"Skipping {folder}, no files found.")
-            continue
-            
-        print(f"Processing {folder} into {folder}.pdf...")
-        
-        files_data = []
+    css_paths = ["tools/ssg/stylesheets/dpd-variables.css", "tools/ssg/stylesheets/dpd.css", "tools/ssg/stylesheets/extra.css"]
+    with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f: title_c = f.read()
+    with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f: lit_c = f.read()
+    f_by_dir = get_markdown_files(docs_dir)
+    for fld, files in f_by_dir.items():
+        if not files: continue
+        print(f"Processing {fld}...")
+        data = []
         for file_path in files:
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-            files_data.append((file_path, content))
+            rel = os.path.relpath(file_path, docs_dir)
+            if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'): continue
+            with open(file_path, "r", encoding="utf-8") as f: data.append((file_path, f.read()))
+        ri_path = os.path.join(docs_dir, fld, "index.md")
+        # ONLY use root_index for bpc and ipc (lessons), NOT for ex or key
+        ri_c = ""
+        if fld in ['bpc', 'ipc'] and os.path.exists(ri_path):
+            ri_c = open(ri_path, "r", encoding="utf-8").read()
             
-        doc_title = FOLDER_NAMES.get(folder, f"{folder.upper()} Course Materials")
-        
-        html_content = build_html_document(
-            title=doc_title, 
-            files_data=files_data,
-            title_md_content=title_content,
-            literature_md_content=literature_content
-        )
-        
-        output_dir = "pdf_exports"
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
-            
-        output_pdf = os.path.join(output_dir, f"{folder}.pdf")
-        generate_pdf(html_content, output_pdf, css_paths=css_paths)
-        print(f"Successfully created {output_pdf}")
+        html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
+        if not os.path.exists("pdf_exports"): os.makedirs("pdf_exports")
+        generate_pdf(html, os.path.join("pdf_exports", f"{fld}.pdf"), css_paths=css_paths)
+
+    print("\nRunning numbering verification...")
+    try: subprocess.run(["uv", "run", "python", "scripts/verify_numbering.py"], check=True)
+    except Exception as e: print(f"Verification failed: {e}")
 
 if __name__ == '__main__':
     main()

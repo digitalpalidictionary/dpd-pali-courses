@@ -50,14 +50,14 @@ prefixes + √root + **ya** \> gerund
 ***
 **k + y \> kk**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √sak + ya | sa**kk**a | adj. able; capable |
 
 ***
 **c + y \> cc**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | vi + √vic + ya | vivi**cc**a | ger. separating |
 | √muc + ya + ti | mu**cc**ati | pr. is free |
@@ -65,7 +65,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **j + y \> jj**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | vi + √bhaj + ya | vibha**jj**a | ger. analysing in detail |
 | √rāj + ya | ra**jj**a | nt. rulership |
@@ -73,7 +73,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **t + y \> cc**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | saṃ + √cit + ya | sañci**cc**a | adv. intentionally |
 | ud + √dhar + ta + ya | uddha**cc**a | nt. agitation |
@@ -83,7 +83,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **th + y \> cch**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √kath + ya | ka**cch**a | ptp. should be said |
 | tatha + ya | ta**cch**a | adj. truthful |
@@ -92,7 +92,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **d + y \> jj**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √mad + ya | ma**jj**a | nt. intoxicant |
 | upa + saṃ + √pad + ya | upasampa**jj**a | ger. reaching |
@@ -102,7 +102,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **dh + y \> jjh**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | ati + √vidh + ya | ativi**jjh**a | ger. completely penetrating |
 | √budh + ya + ti | bu**jjh**ati | pr. knows |
@@ -111,7 +111,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **n + y \> ññ**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √jan + ya + a | ja**ññ**a | adj. well born |
 | √man + ya + ti | ma**ññ**ati | pr. thinks |
@@ -120,7 +120,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **p + y \> pp**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √rup + ya + ti | ru**pp**ati | pr. is broken |
 | √tap + ya + ti | ta**pp**ati | pr. is burnt |
@@ -129,7 +129,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **bh + y \> bbh**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | ā + √rabh + ya | āra**bbh**a | ger. beginning with |
 | √labh + ya + ti | la**bbh**ati | pr. is obtained |
@@ -138,7 +138,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **m + y \> mm**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | upa + saṃ + √kam + ya | upasaṅka**mm**a | ger. approaching |
 | ā + √gam + ya | āga**mm**a | ger. coming |
@@ -147,7 +147,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **l + y \> ll**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √kal + ya | ka**ll**a | adj. proper |
 | √jal + ya | ja**ll**a | nt. mud |
@@ -155,7 +155,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **v + y \> bb**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | √div + ya + ti | di**bb**ati | pr. shines |
 | √siv + ya + ti | si**bb**ati | pr. sews |
@@ -163,7 +163,7 @@ prefixes + √root + **ya** \> gerund
 ***
 **s + y \> ss**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | abhi + ni + √vis + ya | abhinivi**ss**a | ger. attaching |
 | √dis + ya + ti | di**ss**ati | pr. is seen |
@@ -174,16 +174,17 @@ prefixes + √root + **ya** \> gerund
 ***
 **h + y \> yh**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | upa + √nah + ya + ti | upana**yh**ati | pr. binds onto |
 | a + vi + √sah + ya | avisa**yh**a | ptp. not to be overcome |
 | √gah + ya + ti | ga**yh**ati | pr. is grasped |
 
 ***
+
 <div class="nav-links">
   <a href="../1_phonetic/" class="prev">← Phonetic Changes</a>
   <a href="../3_as_ta/" class="next">Phonetic changes of -t- →</a>
   <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_18%2F2_as_ya" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F2_as_ya" target="_blank">Provide feedback on this page</a></div>
 </div>

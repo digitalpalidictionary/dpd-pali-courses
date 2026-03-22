@@ -4,7 +4,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 ***
 **1st person ahaṃ**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | **singular “I”** | **plural “We”** |
 | 1. Nominative | ahaṃ | mayaṃ amhe |
@@ -37,7 +37,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 ***
 **2nd person tvaṃ**
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 |  | singular “you” | plural “you all” |
 | 1. Nominative | tvaṃ tuvaṃ | tumhe |
@@ -53,7 +53,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 [^15]: In the mūla part of the 4 Nikāyas
 
-|---|---|---|
+|  |  |  |
 | --- | --- | --- |
 | tvaṃ | you | **16207** |
 | **taṃ** | **you,** <br>(that) | **6995** <br>(Including 3rd) |
@@ -68,9 +68,10 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 ***
 Exercises will give you a good workout with these pronouns.
 ***
+
 <div class="nav-links">
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_future/" class="next">Future Tense →</a>
   <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_5%2F2_pers_pron" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_5%2F2_pers_pron" target="_blank">Provide feedback on this page</a></div>
 </div>

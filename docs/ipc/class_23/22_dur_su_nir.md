@@ -4,7 +4,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 ***
 **dur- <br>bad, difficult, unwholesome, negative, poor, ill, mean**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √man | to think | domanassa | mental suffering |
 | √vac | to speak | dubbacana | harsh words, abuse |
@@ -21,7 +21,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 ***
 **su- <br>good, well, thoroughly, easily, auspiciously, abundance**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √man | to think | somanassa | happiness, good mind |
 | √bhar | to support | subhara | easy to support |
@@ -34,7 +34,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 ***
 **nir-<br>not, without, no, negative**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | √van | to desire | nibbana | without craving |
 | √chā | to be hungry | nicchāta | satisfied, not hungry |
@@ -47,7 +47,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 ***
 **kā- kad- ku<br>bad, negative, small, mean**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | kā | lavaṇa | kālavaṇa[^18] | pinch of salt |
 | kā | purisa | kāpurisa | evil man |
@@ -67,7 +67,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **sa-<br>with, having, affected with**
 
-|---|---|---|---|
+|  |  |  |  |
 | --- | --- | --- | --- |
 | bhaya | fear | sabhaya | dangerous |
 | kaṇṭaka | thorn | sakaṇṭaka | problematic; with thorns |
@@ -75,9 +75,10 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | dukkha | pain | sadukkha | afflicted; with pain |
 
 ***
+
 <div class="nav-links">
   <a href="../21_nipata/" class="prev">← Some Adverbs (nipāta) used as Prefixes</a>
   <a href="../../class_24/" class="next">Class 24 →</a>
   <div class="cross"><a href="../../../ipc_ex/23_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.2980976=ipc%2Fclass_23%2F22_dur_su_nir" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_23%2F22_dur_su_nir" target="_blank">Provide feedback on this page</a></div>
 </div>

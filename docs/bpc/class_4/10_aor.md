@@ -44,7 +44,7 @@ a + √dā + si \> **a**dāsi (he gave)
 ***
 **Conjugation of -i aor**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu** <br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
@@ -58,7 +58,7 @@ a + √dā + si \> **a**dāsi (he gave)
 ***
 **Conjugation of -esi aor**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | dese**si** | he taught | dese**suṃ** | they taught |
@@ -74,7 +74,7 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 ***
 **Conjugation of -āsi aor**
 
-|---|---|---|---|---|
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
 | 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
@@ -82,9 +82,10 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 | 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**, <br>aṭṭha**mhā** | we stood |
 
 ***
+
 <div class="nav-links">
   <a href="../9_masc_i/" class="prev">← Masculine Noun ending in -i</a>
   <a href="../13_home_work/" class="next">Homeless work →</a>
   <div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_4%2F10_aor" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_4%2F10_aor" target="_blank">Provide feedback on this page</a></div>
 </div>

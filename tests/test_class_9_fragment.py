@@ -5,7 +5,7 @@ import os
 # Ensure the script directory is in the path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from scripts.clean_docs import TableFixer
+from scripts.archive.clean_docs import TableFixer
 
 class TestTableFixerClass9(unittest.TestCase):
     def setUp(self):

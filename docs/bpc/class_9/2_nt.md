@@ -5,7 +5,7 @@ These are very common, more than 17000 words in the current DPD database[^21].
 [^21]: Relevant for 2025 year
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | citta | mind |
 | rūpa | matter; form |
@@ -21,7 +21,7 @@ These are very common, more than 17000 words in the current DPD database[^21].
 | dāna | giving; offering |
 
 ***
-### Declension of Neuter Nouns ending in -a
+### Declension of Neuter Nouns ending in -a {: #declension-of-neuter-nouns-ending-in-a}
 
 | 1.nom | citt**aṃ** | citt**ā**<br>citt**āni** |
 |---|---|---|
@@ -67,7 +67,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | byanti | end |
 
 ***
-### Declension of Neuter Nouns ending in -i
+### Declension of Neuter Nouns ending in -i {: #declension-of-neuter-nouns-ending-in-i}
 
 | 1.nom | aṭṭh**i** | aṭṭh**ī** <br>aṭṭh**īni** |
 |---|---|---|
@@ -101,7 +101,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 [^22]: Relevant for 2025 year
 ***
 
-|---|---|
+|  |  |
 | --- | --- |
 | vatthu | ground, land, case |
 | cakkhu | eye |
@@ -116,7 +116,8 @@ These are also rare, at most 400 in the current DPD database[^22].
 | sādu | delicious food; tasty food |
 
 ***
-### Declension of Neuter Nouns ending in -u
+### Declension of Neuter Nouns ending in -u {: #declension-of-neuter-nouns-ending-in-u}
+
 
 | 1.nom | āy**u**<br>āy**uṃ** | āy**ū** <br>āy**ūni** |
 |---|---|---|
@@ -143,9 +144,10 @@ These are also rare, at most 400 in the current DPD database[^22].
 | 8.voc | bhikkh**u** | āy**u** | bhikkh**ū** <br>bhikkh**avo**<br>bhikkh**ave** | āy**ū** <br>āy**ūni** |
 
 ***
+
 <div class="nav-links">
   <a href="../1_review/" class="prev">← Review</a>
   <a href="../3_inf/" class="next">The Infinitive (tumanta) →</a>
   <div class="cross"><a href="../../../bpc_ex/9_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?usp=pp_url&entry.135905709=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.2980976=bpc%2Fclass_9%2F2_nt" target="_blank">Provide feedback on this page</a></div>
+  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_9%2F2_nt" target="_blank">Provide feedback on this page</a></div>
 </div>
