@@ -1,9 +1,8 @@
 # Irregular Verbal Bases
-***
+
 Most verbs in Pāli are quite predictable in their formation, but there are a few irregularities. Here follows a list of a few common ones. You will be quite familiar with many of these by now, but some will seem strange.
-***
+
 **Irregular Present Tense Bases**
-***
 
 | **√as** | sa | santi | there are |
 |---|---|---|---|
@@ -29,9 +28,7 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√vid** | binda | nibbindati | is dis-enchanted |
 | **√yam** | veccha | anuppavecchati | gives, supports |
 
-***
 **Irregular Aorist Bases**
-***
 
 | **√kus** | koccha | akkocchi | abused |
 |---|---|---|---|
@@ -39,9 +36,7 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√vac** | voca | avocuṃ | they said |
 | **√su** | so | assosi | heard |
 
-***
 **Irregular Future Bases**
-***
 
 | **√bhā** | bhāhi | bhāhiti | will shine |
 |---|---|---|---|
@@ -64,12 +59,3 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√vac** | vakkha | vakkhati | will say |
 | **√vas** | vaccha | vacchati | will live |
 | **√vis** | vekkha | pavekkhati | will enter |
-
-***
-
-<div class="nav-links">
-  <a href="../3_root_groups/" class="prev">← The 8 Root Groups[^13]</a>
-  <a href="../5_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/22_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_22%2F4_irreg_base" target="_blank">Provide feedback on this page</a></div>
-</div>

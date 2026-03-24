@@ -12,7 +12,6 @@
 
 **&nbsp;**
 
-
 2. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>**bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā
 
 |  |  |  |  |  |
@@ -26,7 +25,6 @@
 
 **&nbsp;**
 
-
 3. [DN11.6](https://find.dhamma.gift/bw/dn/dn11.html) <br>esa **bhagavato** sāvakasaṅgho
 
 |  |  |  |  |  |
@@ -38,7 +36,6 @@
 | āyasmato |  |  |  |  |
 | ānandassa |  |  |  | (name) |
 | etadahosi |  |  |  |  |
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -52,12 +49,9 @@
 
 **&nbsp;**
 
-
 **[^9]: This is a common Pāli idiom.**
 
-
 **[VIN PAT SA 12](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)**
-
 
 “mā maṃ **āyasmanto** kiñci avacuttha kalyāṇaṃ **vā** pāpakaṃ **vā**”
 
@@ -89,9 +83,7 @@ vā
 
 **[MN19](https://find.dhamma.gift/bw/mn/mn19.html) (simpl)**
 
-
 **satthārā karaṇīyaṃ sāvakānaṃ, kataṃ vo taṃ mayā.**
-
 
 satthārā
 
@@ -116,7 +108,6 @@ taṃ
 mayā
 
 **[SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html)**
-
 
 ye keci pāṇabhūtā atthi, tasā **vā** thāvarā **vā** anavasesā
 
@@ -204,7 +195,6 @@ puññaṃ
 
 **noun**
 
-
 nt.nom.sg
 
 pavaḍḍhati
@@ -212,7 +202,6 @@ pavaḍḍhati
 6.  [AN8.20](https://find.dhamma.gift/bw/an/an8.20.html)
 
 **bhagavā tuṇhī ahosi.**
-
 
 bhagavā
 
@@ -245,7 +234,6 @@ rūpāni
 dakkhanti
 
 **[MN152](https://find.dhamma.gift/bw/mn/mn152.html)**
-
 
 seyyathāpi balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya
 
@@ -319,7 +307,6 @@ ca
 
 **[MN147](https://find.dhamma.gift/bw/mn/mn147.html)**
 
-
 taṃ kiṃ maññasi, rāhula, cakkhu niccaṃ vā aniccaṃ vā'ti
 
 taṃ kiṃ maññasi
@@ -340,7 +327,6 @@ vā'ti
 
 **[MN118](https://find.dhamma.gift/bw/mn/mn118.html)**
 
-
 bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati.
 
 bhikkhu
@@ -360,7 +346,6 @@ vā
 nisīdati
 
 **[AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) (simpl)**
-
 
 therā rattaññū ciraṃ pabbajitā saṅghassa pitaro saṅghassa pariṇāyakā
 
@@ -384,7 +369,6 @@ pariṇāyakā
 
 **[AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) (simpl)**
 
-
 bhikkhū there sakkarissanti garuṃ karissanti mānessanti pūjessanti
 
 bhikkhū
@@ -402,7 +386,6 @@ mānessanti
 pūjessanti
 
 **[DHP185](https://find.dhamma.gift/bw/dhp/dhp179-196.html)**
-
 
 sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
 
@@ -428,7 +411,6 @@ paññāya
 
 **noun**
 
-
 fem.instr.sg
 
 passati
@@ -441,7 +423,6 @@ dukkhe
 
 **noun**
 
-
 nt.
 
 esa
@@ -452,13 +433,11 @@ masc.nom.sg
 
 **this**
 
-
 maggo
 
 visuddhiyā
 
 **noun**
-
 
 fem.dat.sg
 
@@ -476,7 +455,6 @@ aṭṭhi
 
 **noun**
 
-
 nt.
 
 avasissatu
@@ -485,7 +463,6 @@ sarīre
 
 **noun**
 
-
 nt.
 
 upasussatu
@@ -493,7 +470,6 @@ upasussatu
 maṃsalohitaṃ
 
 **noun**
-
 
 nt.nom.sg
 
@@ -505,7 +481,6 @@ sukhassa
 
 **noun**
 
-
 nt.
 
 dātā
@@ -516,7 +491,6 @@ sukhaṃ
 
 **noun**
 
-
 nt.
 
 so
@@ -526,7 +500,6 @@ pron
 adhigacchati
 
 **[MN107](https://find.dhamma.gift/bw/mn/mn107.html)**
-
 
 ehi tvaṃ bhikkhu bhojane mattaññū hohi
 
@@ -540,7 +513,6 @@ bhojane
 
 **noun**
 
-
 nt.
 
 mattaññū
@@ -548,7 +520,6 @@ mattaññū
 hohi
 
 **[AN7.25](https://find.dhamma.gift/bw/an/an7.25.html) (simpl)**
-
 
 bhikkhū hirimanto bhavissanti, ottappino bhavissanti, satimanto bhavissanti, paññavanto bhavissanti
 
@@ -567,7 +538,6 @@ satimanto
 paññavanto
 
 **[SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html)**
-
 
 sukhino vā khemino hontu, sabbe sattā bhavantu sukhit'attā
 
@@ -615,13 +585,11 @@ aparihānāya
 
 **noun**
 
-
 nt.
 
 saṃvattanti
 
 **[VIN PAT SA 4](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl)**
-
 
 mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ paricara
 
@@ -640,7 +608,6 @@ brahmacāriṃ
 paricara
 
 **[VIN PAT NP 8](https://find.dhamma.gift/bw/vi/bu-pt.html#np) (simpl)**
-
 
 ce so bhikkhu, pubbe appavārito, upasaṅkamissati cīvare vikappaṃ āpajjissati
 
@@ -672,7 +639,6 @@ cīvare
 
 **noun**
 
-
 nt
 
 vikappaṃ
@@ -680,7 +646,6 @@ vikappaṃ
 āpajjissati
 
 **[VIN PAT SE 18](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)**
-
 
 na bāhuṃ pacālakaṃ antaraghare nisīdissāmi
 
@@ -700,13 +665,11 @@ antaraghare
 
 **noun**
 
-
 nt.
 
 nisīdissāmi
 
 **[SN21.10](https://find.dhamma.gift/bw/sn/sn21.10.html) (simpl)**
-
 
 sabbābhibhuṃ sabbaviduṃ sumedhaṃ, tam naraṃ ekavihārī iti ahaṃ brūmi
 
@@ -755,7 +718,6 @@ brūmi
 
 **&nbsp;**
 
-
 2. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
 
 |  |  |  |  |  |
@@ -771,7 +733,6 @@ brūmi
 
 **&nbsp;**
 
-
 3. [AN4.171](https://find.dhamma.gift/bw/an/an4.171.html) <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
 
 |  |  |  |  |  |
@@ -786,7 +747,6 @@ brūmi
 | itthattaṃ | noun | nt. |  |  |
 
 **&nbsp;**
-
 
 4. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
 
@@ -810,7 +770,6 @@ brūmi
 
 **&nbsp;**
 
-
 5. [VIN PAT PC 7](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
 
 |  |  |  |  |  |
@@ -827,7 +786,6 @@ brūmi
 
 **&nbsp;**
 
-
 6. [DHP76](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
 
 |  |  |  |  |  |
@@ -842,7 +800,6 @@ brūmi
 | bhajāhi |  |  |  |  |
 
 **&nbsp;**
-
 
 7. [SN7.15](https://find.dhamma.gift/bw/sn/sn7.15.html) (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
 
@@ -861,7 +818,6 @@ brūmi
 | karohi |  |  |  |  |
 
 **&nbsp;**
-
 
 8. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti
 
@@ -884,10 +840,3 @@ brūmi
 | hoti |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../5_class/" class="prev">← Class 5 Exercises</a>
-  <a href="../7_class/" class="next">Class 7 Exercises →</a>
-  <div class="cross"><a href="../../bpc_key/6_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_ex%2F6_class" target="_blank">Provide feedback on this page</a></div>
-</div>

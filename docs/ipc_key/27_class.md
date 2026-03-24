@@ -2,26 +2,15 @@
 
 **Find all the primary and secondary derivatives (participles) and show their construction.**
 
-
-
 **e.g. kitaka:**
-
-
 
 **√kar + ita + ka**
 
-
-
 **kita + ka**
-
-
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-
-
 1. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**. <br>tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -48,12 +37,9 @@
 | avecca | ind |  | perfectly; absolutely (lit: going into)[^37] | ava + √i + a + tya |
 | passati | verb | pr.3rd.sg | sees; understands | √dis + a + ti |
 
-
 **Like Inda's column [that] would be planted [firmly] in the earth, unshakeable by the four winds, similar to that, I say [is] a virtuous man who perfectly understands the noble truths.**
 
-
 2. VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, **asantiyā** āpattiyā tuṇhī **bhavitabbaṃ**, tuṇhībhāvena kho pan'āyasmante **parisuddhā**'ti vedissāmi.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -80,12 +66,9 @@
 | \#iti | ind | quotation mark | "" |  |
 | vedissāmi | verb | fut.1st.sg | I shall know | √vid + \*e + ti |
 
-
 **For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), it is to be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
 
-
 3. [MN31](https://find.dhamma.gift/bw/mn/mn31.html)<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -108,12 +91,9 @@
 | \#pātiṃ | noun | fem.acc.sg | bowl; dish |  |
 | upaṭṭhāpeti | verb | pr.caus.3rd.sg | sets out |  |
 
-
 **In this regard, Venerable Sir, whichever of us returns first from the village for the purpose of collecting alms food prepares the seats, sets out the drinking water, and water for rinsing, [and] sets out the bowl for leftovers.**
 
-
 4. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html)<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^38] nisīdiṃsu
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -126,12 +106,9 @@
 | \#antaṃ | noun | masc.acc.sg | side |  |
 | nisīdiṃsu | verb | aor.3rd.pl | they sat down | ni + √sad + a + i |
 
-
 **Having conducted a polite, friendly conversion, they sat down to one side.**
 
-
 5. [DN9.7](https://find.dhamma.gift/bw/dn/dn9.html)<br>oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -158,12 +135,9 @@
 | dhammā | noun | masc.nom.pl | mental states |  |
 | abhivaḍḍhissanti | verb | fut.3rd.pl | will increase more and more | abhi + √vaḍḍh + a + ti |
 
-
 **But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and mental states to be purified will increase more and more.**
 
-
 6. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>ajj'eva **kiccam'ātappaṃ**,<br>ko jaññā maraṇaṃ suve,
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -178,12 +152,9 @@
 | maraṇaṃ | noun | nt.nom.sg | death |  |
 | suve | ind | adv | tomorrow |  |
 
-
 **Effort should be made this very day; who could know [if] death [is] tomorrow?**
 
-
 7. [DHP316](https://find.dhamma.gift/bw/dhp/dhp306-319.html)<br>**alajjitāye** lajjanti,<br>**lajjitāye** na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -201,12 +172,9 @@
 | gacchanti | verb | pr.3rd.pl | go | √gam + a + ti |
 | duggatiṃ | noun | fem.acc.sg | (to) a bad destination; state of misery |  |
 
-
 **They [who] are ashamed of [what] they should not be ashamed, [and] do not embarrass themselves about what they should – undertaking wrong views – living beings go to a bad destination.**
 
-
 8. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -233,12 +201,9 @@
 | vā | ind | conj | or |  |
 | pabbājetuṃ | verb | inf | to banish | pa + √vaj + \*e + tuṃ |
 
-
 **What do you think, Aggivessana, would a noble, head-anointed king[^39] wield power in his own realm, to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?**
 
-
 9. [VIN PAT AN 1](https://find.dhamma.gift/bw/an/an1.html)<br>nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -256,12 +221,9 @@
 | pācittiyena | noun | nt.instr.sg | [what is] according to [a case] involving confession |  |
 | vā | ind | conj | or |  |
 
-
 **The monk admitting the sitting down should be made to do by one of three rules[^41]: [what is] according to [a case] involving disqualification or [what is] according to [a case] involving the community from start to finish or [what is] according to a case involving confession.**
 
-
 10. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html)<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -285,12 +247,9 @@
 | \#kayirā | verb. | opt.3rd.sg | he would do | √kar + iya + ti |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"Leaving behind home, the sage is wandering homeless, not making close associations in the village, free from sense pleasures, not preferring, he would not engage in quarrelling talk with people. (lit. not quarrelling, he would engage in talk with people."**
 
-
 11. VIN PAT SA<br>ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu **anabbhito**, te ca bhikkhū **gārayhā**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -317,12 +276,9 @@
 | bhikkhū | noun | masc.nom.pl | monks |  |
 | **gārayhā** | adj (ptp) | masc.nom.pl | blameworthy (lit: are to be blamed) | √garah + \*ya |
 
-
 **If a community of monks, [which is] a quorum of twenty, [is] deficient even by one [monk], and should reinstate that monk, [then] that monk is not reinstated and those monks are blameworthy.**
 
-
 12. [VIN PAT NP 1](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>**niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -345,48 +301,27 @@
 | **nissaggiyaṃ** | adj | nt.nom.sg | involving forfeiture; relinquishment | nī + √sajj + iya |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
-
 **When the robe(-cloth) is finished by a monk, [and] when the Kathina [privileges] have been withdrawn, [then] excess robe-cloth is to be kept for ten days at the most. For [one] exceeding [the ten days], this is an offence requiring confession and forfeiture.**
-
-
 
 **[^36]: OR chaṭṭhi tappurisa**
 
-
-
 **[^37]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatva".**
-
-
 
 **[^38]: This is to be understood as an (adverbial) acc. of direction rather than of the direct object.**
 
-
-
 **[^39]: The agens in the expression vaso vatteti stands in the genetive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"**
-
-
 
 **"What do you think, Aggivessana, would a noble, head-anointed king in his own realm have the power to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?"**
 
-
-
 **[^40]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.**
-
-
 
 **[^41]: "should be dealt with by way of a certain of three rules"**
 
-
-
 **[^42]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"**
-
-
-
 
 ## Class 27 Extra Examples
 
 1. [SN35.95](https://find.dhamma.gift/bw/sn/sn35.95.html)<br>ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -411,12 +346,9 @@
 | **\#phuseyyaṃ** | ptp | nt.nom.sg | could be felt; tangible; can be physically touched | √phus + eyya |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"[Do you have any lust, desire, or affection] for those tangible objects known by the body, that [you have] not felt, never felt before, that you do not feel and could not be felt by you?**
 
-
 2. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -445,12 +377,9 @@
 | vuṭṭhānaṃ | noun | nt.nom.sg | emerging |  |
 | paññāyetha | verb | opt.pass.reflex.3rd.sg | it would be apparent; it would be evident | pa + √ñā + ya + ti |
 
-
 **And if, friend, life forces were things that could be felt, [then] for a monk [who had] entered into the cessation of perception and feeling, emerging (from it) would not be evident.**
 
-
 3. [VIN PAT PC 18](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -477,12 +406,9 @@
 | vā | ind | conj | or |  |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession |  |
 
-
 **If any monk should sit down or lie down hard on a bench or on a bed with detachable legs in an upper-floor room in a dwelling belonging to the community, this is an offence requiring confession.**
 
-
 4. [SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html) <br>gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,<br>**sampassataṃ** brāhmaṇa n'esa dhammo,<br>gāth'ābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vutti'r'esā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -507,12 +433,9 @@
 | \#vutti | noun | fem.nom.sg | way of life |  |
 | \#esā | pron | fem.nom.sg | this is |  |
 
-
 **[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^45] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^46], Brahmin, this is [their] way of life.**
 
-
 5. [SNP42](https://find.dhamma.gift/bw/snp/snp4.4.html)<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -537,27 +460,12 @@
 | tathā | ind | adv | thus; in such a way |  |
 | **vadānaṃ** | prp | masc.acc.sg | speaking | √vad + āna |
 
-
 **If through the seeing there is a man’s purity,<br>or through knowledge he abandons suffering, <br>then he is purified by another, being with attachments. <br>the one with view revealed him as one who asserts thus.**
-
-
 
 **[^43]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.**
 
-
-
 **[^44]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.**
-
-
 
 **[^45]: alt. "the right way for those who are seeing".**
 
-
-
 **[^46]: alt. "as that is/that being the right way".**
-
-<div class="nav-links">
-  <a href="../26_class/" class="prev">← Class 26 Exercises</a>
-  <a href="../28_class/" class="next">Class 28 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F27_class" target="_blank">Provide feedback on this page</a></div>
-</div>

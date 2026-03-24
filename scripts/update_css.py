@@ -1,4 +1,7 @@
-from tools.ssg.scripts.paths import SSGPaths
+"""
+Script to synchronize CSS variables from source configurations to the SSG stylesheets.
+"""
+from tools.paths import SSGPaths
 
 def update_css(paths: SSGPaths):
     """Save the CSS Variables to the ssg/stylesheets folder."""

@@ -1,9 +1,8 @@
 # More Primary Derivatives
-***
+
 In DPD there are more than 150 suffixes of primary derivatives that are used to form more than 14000 nouns, adjectives, substantives and participles.
-***
+
 The **first 18** account for **83%** of the words formed by *kita* suffixes, so these are the most important to know.
-***
 
 | 1 | **+ ta** | 2014 |
 |---|---|---|
@@ -25,17 +24,15 @@ The **first 18** account for **83%** of the words formed by *kita* suffixes, so 
 | 17 | **+ i** | 139 |
 | 18 | **+ \*aka** | 138 |
 
-***
 Here are most of *kita* suffixes in DPD
-***
+
 **ta a \*a nta ita ana māna na ti aṇa ā aka ī anā \*ana \*ī i \*aka tar u ya ma itar ra ikā \*i iya \*aṇa tha āna as \*anā ū ika ala tta \*ā \*u ara yā \*tta \*ta tāvī \*ikā tī**
-***
+
 \*ya \*ma ira tu ila iyā thu \*as \*tu tā uṇa \*tar iṇa \*itar \*ni avī āvī ima mi ura \*ika \*iya aṇā ga ru thā thi \*ita \*tti \*yā chi ka uma \*inī ali ata ina iṇā inī itāvī ṇī rā sa trā uṇā vasu \*gha \*īna \*īya \*ṇī akā aḷa anī ari asa aya īka īna ini īya kha nu ri tya uka ula uli ulī una usa vant \*aṇi \*ant \*eyya \*inā \*iyā \*kā \*na \*uka \*ula \*uṇa akī aṇi aṇī arā athu gu inā iṇī isa iti ituṃ mā ṇa nāvī ṇha nī ṇu ola oḷi su tyu uḷa umā unā vī
-***
+
 ### ta
-***
+
 suffix **ta** is the most common kita suffix. As we saw last week, it is used to form **past participles**, but also a large group of **adjectives** and a few **neuter nouns** and **masculine nouns** which are derived from the past participle.
-***
 
 | **pp** | 1617 |
 |---|---|
@@ -44,7 +41,6 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 | **masc** | 92 |
 | **total** | **2014** |
 
-***
 **+ ta masculine nouns**
 
 |  |  |  |  |  |
@@ -67,11 +63,9 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 | su √gam | to go | **+ ta** | suga**ta** | going well |
 | nir √chā | to be hungry | **+ ta** | nicchā**ta** | satisfied |
 
-***
 ### a
-***
+
 suffix **a** is used to form a large group of **masculine nouns**, **masculine agent nouns**, **adjectives** and **neuter nouns.**
-***
 
 | **masc** | 741 |
 |---|---|
@@ -79,7 +73,6 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 | **nt** | 255 |
 | **total** | **1684** |
 
-***
 **+ a masculine nouns**
 
 |  |  |  |  |  |
@@ -110,7 +103,6 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 | √pāl | to guard | **+ a** | pāl**a** | guard |
 | √saṭh | to deceive | **+ a** | saṭh**a** | cheat |
 
-***
 **+ a neuter nouns**
 
 |  |  |  |  |  |
@@ -136,11 +128,9 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 | √thūl | to be heavy | **+ a** | thūl**a** | gross |
 | ā √tur | to hurt | **+ a** | ātur**a** | sick, ill |
 
-***
 ### \*a
 
 suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nouns**, and a few **adjectives** and **neuter nouns**
-***
 
 | **masc** | 1064 |
 |---|---|
@@ -148,7 +138,6 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 | **nt** | 75 |
 | **total** | **1442** |
 
-***
 **+ \*a masculine nouns**
 
 |  |  |  |  |  |
@@ -180,7 +169,6 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 | ā √ruh | to climb | **+ \*a** | ār**o**h**a** | rider |
 | √kar | to do | **+ \*a** | k**ā**r**a** | smith |
 
-***
 **+ \*a neuter nouns**
 
 |  |  |  |  |  |
@@ -208,7 +196,6 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 | na √suc | to grieve | **+ \*a** | as**o**k**a** | sorrow-free |
 | ud √tan | to stretch | **+ \*a** | utt**ā**n**a** | open, evident |
 
-***
 ### nta
 
 suffix **nta** is used to form the **present participle**, which we looked at last week. it also forms a tiny group of **passive present participles**, **nouns** and **adjectives** based on the present participle
@@ -219,7 +206,6 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 | **masc** | 8 |
 | **total** | **1395** |
 
-***
 **+ nta masculine nouns**
 
 |  |  |  |  |  |
@@ -227,7 +213,6 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 | √as | to be | **+ nta** | sa**nta** | virtuous man |
 | anu √yā | to go | **+ nta** | anuya**nta** | subordinate |
 
-***
 **+ nta adjectives**
 
 |  |  |  |  |  |
@@ -235,11 +220,9 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 | √mah | to increase | **+ nta** | maha**nta** | great, large, big |
 | √brah | to increase | **+ nta** | braha**nta** | big; huge; large |
 
-***
 ### ita
-***
+
 suffix **ita** is most often used to form **past participles**, but is also used to create a handful of **adjectives**, **neuter nouns** and a few **masculine nouns** which are derived from a past participle.
-***
 
 | **pp** | 1066 |
 |---|---|
@@ -248,7 +231,6 @@ suffix **ita** is most often used to form **past participles**, but is also used
 | **masc** | 20 |
 | **total** | **1300** |
 
-***
 **+ ita masculine nouns**
 
 |  |  |  |  |  |
@@ -257,7 +239,6 @@ suffix **ita** is most often used to form **past participles**, but is also used
 | pa √vaj | to go on | **+ ita** | pabbaj**ita** | monk |
 | √dhā | to support | **+ ita** | h**ita** | friend |
 
-***
 **+ ita neuter nouns**
 
 |  |  |  |  |  |
@@ -276,7 +257,6 @@ suffix **ita** is most often used to form **past participles**, but is also used
 | dur √car | to act | **+ ita** | duccar**ita** | bad; immoral |
 | su √bhū | to be | **+ ita** | subhāv**ita** | well cultivated |
 
-***
 ### ana
 
 suffix **ana** is used to form a large group of **neuter nouns** and a few **adjectives**
@@ -287,7 +267,6 @@ suffix **ana** is used to form a large group of **neuter nouns** and a few **adj
 | **masc** | 26 |
 | **total** | **1162** |
 
-***
 **+ ana neuter nouns**
 
 |  |  |  |  |  |
@@ -310,11 +289,10 @@ suffix **ana** is used to form a large group of **neuter nouns** and a few **adj
 | √phand | to shake | **+ ana** | phand**ana** | trembling, shaking |
 | √vas | to wear | **+ ana** | vas**ana** | wearing |
 
-***
 ### māna
-***
+
 suffix **māna**, as we saw on the last class, is used to form the **present participle** as well as a few nouns and adjectives derived from the present participle.
-***
+
 ### na
 
 suffix **na** is used to form a large group **of past participles** and a few **adjectives** and **masculine** and **neuter nouns.**
@@ -326,7 +304,6 @@ suffix **na** is used to form a large group **of past participles** and a few **
 | **nt** | 28 |
 | **total** | **445** |
 
-***
 We already looked at the past participles last week, can you think of an example?
 
 **+ na masculine nouns**
@@ -349,7 +326,6 @@ We already looked at the past participles last week, can you think of an example
 | dur √chad | to cover | **+ na** | ducchan**na** | poorly-roofed |
 | su √car | to act | **+ na** | suc**i**ṇ**ṇa** | well practised |
 
-***
 ### ti
 
 suffix **ti** is used mostly to form **feminine nouns**, but there are also a few **adjectives** and **masculine nouns**
@@ -360,7 +336,6 @@ suffix **ti** is used mostly to form **feminine nouns**, but there are also a fe
 | **masc** | 6 |
 | **total** | **315** |
 
-***
 **+ ti feminine nouns**
 
 |  |  |  |  |  |
@@ -376,7 +351,6 @@ suffix **ti** is used mostly to form **feminine nouns**, but there are also a fe
 | √kham | to endure | **+ ti** | khan**ti** | patience |
 | vi √muc | to free | **+ ti** | vimut**ti** | freedom, liberation |
 
-***
 ### aṇa
 
 suffix **aṇa** is used to form a large group of **neuter nouns** and a few **adjectives** and **masculine nouns**
@@ -387,7 +361,6 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 | **masc** | 13 |
 | **total** | 265 |
 
-***
 **+ aṇa neuter nouns**
 
 |  |  |  |  |  |
@@ -404,7 +377,6 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 | nī √sar | to flow | **+ aṇa** | nissar**aṇa** | escape, exit |
 | ā √var | to block | **+ aṇa** | āvar**aṇa** | obstacle, blockage |
 
-***
 **+ aṇa masculine nouns**
 
 |  |  |  |  |  |
@@ -412,7 +384,6 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 | vi √cakkh | to see | **+ aṇa** | vicakkh**aṇa** | intelligent person |
 | ava √har | to take | **+ aṇa** | avahar**aṇa** | one who stealing |
 
-***
 **+ aṇa adjectives**
 
 |  |  |  |  |  |
@@ -423,16 +394,13 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 | √kap | to take pity | **+ aṇa** | kap**aṇa** | poor, wretched |
 | ā √var | to block | **+ aṇa** | āvar**aṇa** | obstructed, blocked |
 
-***
 ### ā
-***
+
 suffix **ā** is only used to form **feminine nouns**, many of them **abstract** feminine nouns
-***
 
 | **fem** | 246 |
 |---|---|
 
-***
 **+ ā feminine nouns**
 
 |  |  |  |  |  |
@@ -448,7 +416,6 @@ suffix **ā** is only used to form **feminine nouns**, many of them **abstract**
 | vi √bhūs | to decorate | **+ ā** | vibhūs**ā** | decoration |
 | abhi √jhā | to think | **+ ā** | abhijjh**ā** | covetousness |
 
-***
 ### aka
 
 suffix **aka** is used to form a large group of **masculine agent nouns** and a few **adjectives** and **neuter nouns**
@@ -459,7 +426,6 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 | **nt** | 18 |
 | **total** | **217** |
 
-***
 **+ aka masculine agent nouns**
 
 |  |  |  |  |  |
@@ -478,7 +444,6 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 | √kat | to cut | **+ aka** | kaṇṭ**aka** | thorn |
 | √ud | to be wet | **+ aka** | ud**aka** | water |
 
-***
 **+ aka adjectives**
 
 |  |  |  |  |  |
@@ -486,11 +451,9 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 | vi √sajj | to let loose | **+ aka** | vissajj**aka** | distributing |
 | vi √dis | to see | **+ aka** | vipass**aka** | insightful |
 
-***
 ### ī
-***
+
 suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are often used as **masculine agent nouns**, as well as some **feminine nouns**
-***
 
 | **adj** | 140 |
 |---|---|
@@ -498,7 +461,6 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 | **fem** | 18 |
 | **total** | **182** |
 
-***
 **+ ī masculine agent nouns**
 
 |  |  |  |  |  |
@@ -515,7 +477,6 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 | √tand | to be slow | **+ ī** | tand**ī** | laziness |
 | √vac | to speak | **+ ī** | vac**ī** | speech, words |
 
-***
 **+ ī adjectives**
 
 |  |  |  |  |  |
@@ -528,7 +489,6 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 | saṃ √ñā | to know | **+ ī** | saññ**ī** | percipient |
 | √vac | to speak | **+ ī** | vac**ī** | verbal |
 
-***
 ### anā
 
 **+ anā abstract feminine nouns**
@@ -546,7 +506,6 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 | √ar | to move, attain | **+ anā** | app**anā** | absorption |
 | pa √atth | to wish for | **+ anā** | patth**anā** | intention, wish |
 
-***
 ### \*ana
 
 suffix **\*ana** is used to form a large group of **neuter nouns** and a few **adjectives**
@@ -557,7 +516,6 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | **masc** | 6 |
 | **total** | **151** |
 
-***
 **+ \*ana neuter nouns**
 
 |  |  |  |  |  |
@@ -578,11 +536,9 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | abhi √vah | to carry | + **\*ana** | adhiv**ā**h**ana** | carrying |
 | na ni √vis | to enter | + **\*ana** | aniv**e**s**ana** | without attachment |
 
-***
 ### \*ī
-***
+
 suffix \***ī** is used to form a large group of **adjectives** and some **masculine agent nouns**
-***
 
 |  |  |
 | --- | --- |
@@ -591,7 +547,6 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 | fem | 5 |
 | **total** | **146** |
 
-***
 **+ \*ī agent nouns**
 
 |  |  |  |  |  |
@@ -611,11 +566,9 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 | √sī | to sleep | **+ \*ī** | s**ā**y**ī** | sleeping |
 | √taḷ | to beat | **+ \*ī** | t**ā**ḷ**ī** | striking, hitting |
 
-***
 ### i
-***
+
 suffix **i** is used to forming a large group of **feminine and masculine nouns** and a few **adjectives** and **neuter nouns**
-***
 
 | **fem** | 60 |
 |---|---|
@@ -624,7 +577,6 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | **nt** | 10 |
 | **total** | 139 |
 
-***
 **+ i masculine nouns**
 
 |  |  |  |  |  |
@@ -648,7 +600,6 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √kuṭ | to be bent | **+ i** | kuṭ**i** | hut |
 | √nand | to be happy | **+ i** | nand**i** | joy |
 
-***
 **+ i neuter nouns (rare)**
 
 |  |  |  |  |  |
@@ -657,7 +608,6 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √dhe | to drink | **+ i** | dadh**i** | curd |
 | √suc | to be pure | **+ i** | suc**i** | good thing |
 
-***
 **+ i adjectives**
 
 |  |  |  |  |  |
@@ -667,7 +617,6 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | nir upa √dhā | to support | **+ i** | nirupadh**i** | without attachment |
 | na √suc | to be pure | **+ i** | asuc**i** | impure |
 
-***
 ### \*aka
 
 | **masc** | 86 |
@@ -676,7 +625,6 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | **nt** | 8 |
 | **total** | 138 |
 
-***
 **+ \*aka masculine agent nouns**
 
 |  |  |  |  |  |
@@ -695,12 +643,3 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √dus | to corrupt | **+ \*aka** | d**ū**s**aka** | corrupting |
 | √har | to carry | **+ \*aka** | h**ā**r**aka** | carrying |
 | √pu | to cleanse | **+ \*aka** | p**āvaka** | bright, shining |
-
-***
-
-<div class="nav-links">
-  <a href="../" class="prev">← Class 28</a>
-  <a href="../2_kita_less/" class="next">less frequent kita: →</a>
-  <div class="cross"><a href="../../../ipc_ex/28_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_28%2F1_kita_1" target="_blank">Provide feedback on this page</a></div>
-</div>

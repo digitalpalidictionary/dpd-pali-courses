@@ -4,7 +4,7 @@ site_dir: site
 theme:
   name: material
   language: en
-  custom_dir: tools/ssg/stylesheets
+  custom_dir: identity
   palette:
   - scheme: default
     primary: brown
@@ -24,12 +24,14 @@ theme:
   - navigation.top
   - navigation.indexes
   - content.code.copy
+  - hide.generator
 extra_css:
 - dpd.css
 - dpd-variables.css
 - extra.css
 extra_javascript:
 - footnotes.js
+- search_order.js
 markdown_extensions:
 - attr_list
 - toc:
@@ -42,8 +44,10 @@ markdown_extensions:
 - pymdownx.superfences
 - tables
 - md_in_html
+- nl2br
 hooks:
-- tools/ssg/scripts/footnote_hook.py
+- tools/footnote_hook.py
+- tools/nav_hook.py
 nav:
 - Home: index.md
 - About: about.md
@@ -186,21 +190,21 @@ nav:
     - Class 15: bpc_ex/15_class.md
   - Answer Keys:
     - Index: bpc_key/index.md
-    - Class 1 Exercises: bpc_key/1_class.md
-    - Class 2 Exercises: bpc_key/2_class.md
-    - Class 3 Exercises: bpc_key/3_class.md
-    - Class 4 Exercises: bpc_key/4_class.md
-    - Class 5 Exercises: bpc_key/5_class.md
-    - Class 6 Exercises: bpc_key/6_class.md
-    - Class 7 Exercises: bpc_key/7_class.md
-    - Class 8 Exercises: bpc_key/8_class.md
-    - Class 9 Exercises: bpc_key/9_class.md
-    - Class 10 Exercises: bpc_key/10_class.md
-    - Class 11 Exercises: bpc_key/11_class.md
-    - Class 12 Exercises: bpc_key/12_class.md
-    - Class 13 Exercises: bpc_key/13_class.md
-    - Class 14 Exercises: bpc_key/14_class.md
-    - Class 15: bpc_key/15_class.md
+    - Class 1 Key to Exercises: bpc_key/1_class.md
+    - Class 2 Key to Exercises: bpc_key/2_class.md
+    - Class 3 Key to Exercises: bpc_key/3_class.md
+    - Class 4 Key to Exercises: bpc_key/4_class.md
+    - Class 5 Key to Exercises: bpc_key/5_class.md
+    - Class 6 Key to Exercises: bpc_key/6_class.md
+    - Class 7 Key to Exercises: bpc_key/7_class.md
+    - Class 8 Key to Exercises: bpc_key/8_class.md
+    - Class 9 Key to Exercises: bpc_key/9_class.md
+    - Class 10 Key to Exercises: bpc_key/10_class.md
+    - Class 11 Key to Exercises: bpc_key/11_class.md
+    - Class 12 Key to Exercises: bpc_key/12_class.md
+    - Class 13 Key to Exercises: bpc_key/13_class.md
+    - Class 14 Key to Exercises: bpc_key/14_class.md
+    - Class 15 Key to Exercises: bpc_key/15_class.md
 - Intermediate Course (IPC):
   - Lessons:
     - Lessons Index: ipc/index.md
@@ -369,19 +373,19 @@ nav:
     - Class 29: ipc_ex/29_class.md
   - Answer Keys:
     - Index: ipc_key/index.md
-    - Class 16 Exercises: ipc_key/16_class.md
-    - Class 17 Exercises: ipc_key/17_class.md
-    - Class 18 Exercises: ipc_key/18_class.md
-    - Class 19 Exercises: ipc_key/19_class.md
-    - Class 20 Exercises: ipc_key/20_class.md
-    - Class 21 Exercises: ipc_key/21_class.md
-    - Class 22 Exercises: ipc_key/22_class.md
-    - Class 23 Exercises: ipc_key/23_class.md
-    - Class 24 Exercises: ipc_key/24_class.md
-    - Class 25 Exercises: ipc_key/25_class.md
-    - Class 26 Exercises: ipc_key/26_class.md
-    - Class 27 Exercises: ipc_key/27_class.md
-    - Class 28 Exercises: ipc_key/28_class.md
-    - Class 29 Exercises: ipc_key/29_class.md
+    - Class 16 Key to Exercises: ipc_key/16_class.md
+    - Class 17 Key to Exercises: ipc_key/17_class.md
+    - Class 18 Key to Exercises: ipc_key/18_class.md
+    - Class 19 Key to Exercises: ipc_key/19_class.md
+    - Class 20 Key to Exercises: ipc_key/20_class.md
+    - Class 21 Key to Exercises: ipc_key/21_class.md
+    - Class 22 Key to Exercises: ipc_key/22_class.md
+    - Class 23 Key to Exercises: ipc_key/23_class.md
+    - Class 24 Key to Exercises: ipc_key/24_class.md
+    - Class 25 Key to Exercises: ipc_key/25_class.md
+    - Class 26 Key to Exercises: ipc_key/26_class.md
+    - Class 27 Key to Exercises: ipc_key/27_class.md
+    - Class 28 Key to Exercises: ipc_key/28_class.md
+    - Class 29 Key to Exercises: ipc_key/29_class.md
 plugins:
 - search

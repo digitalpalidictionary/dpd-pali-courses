@@ -2,15 +2,11 @@
 
 **Find all the secondary derivatives and show their construction.**
 
-
 **e.g. taddhita:**
-
 
 **ta + [d] + hita**
 
-
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
-
 
 1. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html)<br>cātummahārājikānaṃ devānaṃ saddaṃ sutvā tāvatiṃsā devā saddamanussāvesuṃ
 
@@ -25,7 +21,6 @@
 | saddamanussāvesuṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>tato pāsādikaṃ āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā teladhārāva, ahosi iriyāpatho.
 
@@ -43,7 +38,6 @@
 | iriyāpatho |  |  |  |  |
 
 **&nbsp;**
-
 
 3. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
 
@@ -67,7 +61,6 @@
 
 **&nbsp;**
 
-
 4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>vevaṇṇiyamhi ajjhupagatoti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
 
 |  |  |  |  |  |
@@ -79,7 +72,6 @@
 | paccavekkhitabbaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 5. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā dvayena vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
 
@@ -99,9 +91,7 @@
 | cittavūpakāsena |  |  |  |  |
 | ca |  |  |  |  |
 
-
 **&nbsp;**
-
 
 6. [DN2.4](https://find.dhamma.gift/bw/dn/dn2.html) <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
 
@@ -126,7 +116,6 @@
 
 **&nbsp;**
 
-
 7. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhīti
 
 |  |  |  |  |  |
@@ -149,7 +138,6 @@
 
 **&nbsp;**
 
-
 8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>samitāssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
 
 |  |  |  |  |  |
@@ -167,7 +155,6 @@
 | jātijarāmaraṇiyā |  |  |  |  |
 
 **&nbsp;**
-
 
 9. [AN10.44](https://find.dhamma.gift/bw/an/an10.44.html) <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassūti, itissa bhavanti vattāro.
 
@@ -187,7 +174,6 @@
 
 **&nbsp;**
 
-
 10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
 
 |  |  |  |  |  |
@@ -200,7 +186,6 @@
 | pāṭikaṅkhaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 11. [SN16.10](https://find.dhamma.gift/bw/sn/sn16.10.html) <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etadavoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijakoti?
 
@@ -230,7 +215,6 @@
 
 **&nbsp;**
 
-
 12. [ITI100](https://find.dhamma.gift/bw/it/it.html) <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
 
 |  |  |  |  |  |
@@ -249,7 +233,6 @@
 | āmisadāyādā |  |  |  |  |
 
 **&nbsp;**
-
 
 13. [SN35.241](https://find.dhamma.gift/bw/sn/sn35.241.html) <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
 
@@ -275,24 +258,17 @@
 | thale |  |  |  |  |
 | ussīdissatha |  |  |  |  |
 
-
 **&nbsp;**
-
 
 ## Class 25 Extra Examples
 
-
 **Find all the secondary derivatives and show their construction.**
-
 
 **e.g. taddhita:**
 
-
 **ta + [d] + hita**
 
-
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
-
 
 1. [VIN PAT PC 59](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
@@ -320,7 +296,6 @@
 
 **&nbsp;**
 
-
 2. [AN6.17](https://find.dhamma.gift/bw/an/an6.17.html) <br>indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṁ anuyuttā, vipassakā kusalānaṁ dhammānaṁ, pubbarattāpararattaṁ bodhipakkhiyānaṁ dhammānaṁ, bhāvanānuyogamanuyuttā viharissāmāti.
 
 |  |  |  |  |  |
@@ -342,7 +317,6 @@
 | viharissāmāti |  |  |  |  |
 
 **&nbsp;**
-
 
 3. [MN50](https://find.dhamma.gift/bw/mn/mn50.html)<br>bhūtapubbāhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me kāḷī nāma bhaginī. tassā tvaṃ putto. so me tvaṃ bhāgineyyo ahosi.
 
@@ -370,7 +344,6 @@
 
 **&nbsp;**
 
-
 4. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>atha kho pesso ca hatthārohaputto kandarako ca paribbājako yena bhagavā tenupasaṅkamiṃsu
 
 |  |  |  |  |  |
@@ -387,9 +360,7 @@
 | bhagavā |  |  |  |  |
 | tenupasaṅkamiṃsu |  |  |  |  |
 
-
 **&nbsp;**
-
 
 5. [DN3.13](https://find.dhamma.gift/bw/dn/dn3.html)<br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
 
@@ -413,7 +384,6 @@
 
 **&nbsp;**
 
-
 6. [DHP295](https://find.dhamma.gift/bw/dhp/dhp290-305.html)<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
 
 |  |  |  |  |  |
@@ -432,10 +402,3 @@
 | brāhmaṇo |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../24_class/" class="prev">← Class 24</a>
-  <a href="../26_class/" class="next">Class 26 →</a>
-  <div class="cross"><a href="../../ipc_key/25_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_ex%2F25_class" target="_blank">Provide feedback on this page</a></div>
-</div>

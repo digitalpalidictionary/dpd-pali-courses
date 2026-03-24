@@ -1,17 +1,17 @@
 # Causative Passive Verbs
-***
+
 Just to really mess with your minds, you can combine **causative** and **passive** verbs together.
-***
+
 The **causative** verb means “he causes to do”.
-***
+
 The **causative passive** verb means "it is caused to be done" or, more rarely, "he causes it to be done," depending on the context.
-***
+
 They are formed by adding the passive suffixes *-***ya** *-***iya** or *-***īya** onto the **causative** **base**
-***
+
 or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \> √bhaj + ya + \*e)
-***
+
 **Here are some examples**
-***
+
 **√ṭhā･1 a (stand)**
 
 |  |  |  |  |
@@ -20,27 +20,26 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 | √ṭhā + \*āpe | ṭhāpe \> ṭhape | ṭhapeti | sets aside; lit. causes to stand |
 | ṭhape + īya | ṭhāpīya \> ṭhapiyya | ṭhapiyyati | is kept; is set aside; lit. is caused to stand |
 
-***
 [VIN1.4.2.8](https://find.dhamma.gift/bw/vi/bu-vb-np18.html) āyasmato upanandassa sakyaputtassa paṭiviso ṭhapiyyati.
-***
+
 ## More Participles
 
 What are the different participles we have discussed so far?
-***
+
 1\. active present participle. e.g. karonta
-***
+
 2\. (passive) past participle e.g. kata
-***
+
 3\. passive present participle e.g. kariyamāna
-***
+
 ## Causative Passive Present Participles (caus pprp)
 
 Please review [How To Form Passive Present Participles (pprp)](../class_13/4_pprp.md#how-to-form-passive-present-participles-pprp) in the previous class.
-***
+
 **root + ya / iya / īya \> passive base**
-***
+
 **passive base + māna \> passive present participle**
-***
+
 **bhū 1 a (be)**
 
 |  |  |  |
@@ -55,33 +54,24 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 | caus pass pr | bhāvīyati | it is caused to be; it is developed |
 | caus pprp | bhāviya**māna** | being caused to be; being developed |
 
-***
 ### How To Form Causative Passive Present Participle
-***
+
 **√root + \*e / \*aya / \*āpe / \*āpaya \> causative base**
-***
+
 **causative base + ya / iya / īya \> causative passive base**
-***
+
 Don't worry, that's probably the trickiest construction in the entire Pāli language. There are very few of them in the Tipiṭaka.
-***
+
 [AN3.36](https://find.dhamma.gift/bw/an/an3.36.html) devadūtasuttaṃ
 
 ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi **vuṭṭhāpiyamānaṃ**, aññehi **saṃvesiyamānaṃ** iti?
-***
-Good man, did you not see among humans a woman or man, sick, afflicted, seriously ill, lying immersed in their own urine and excrement, **being caused to stand up** by others, and **being caused to enter** (a bed) by others?
-***
-√ṭhā (stand)
-***
-ud + √tḥā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
-***
-√vis (enter)
-***
-saṃ + √vis + \*e \> saṃvese (caus) + iya + māna
-***
 
-<div class="nav-links">
-  <a href="../2_caus_verb/" class="prev">← Causative Verbs</a>
-  <a href="../4_ptp/" class="next">Potential Participle (ptp) →</a>
-  <div class="cross"><a href="../../../bpc_ex/14_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_14%2F3_caus_pass" target="_blank">Provide feedback on this page</a></div>
-</div>
+Good man, did you not see among humans a woman or man, sick, afflicted, seriously ill, lying immersed in their own urine and excrement, **being caused to stand up** by others, and **being caused to enter** (a bed) by others?
+
+√ṭhā (stand)
+
+ud + √tḥā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
+
+√vis (enter)
+
+saṃ + √vis + \*e \> saṃvese (caus) + iya + māna

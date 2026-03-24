@@ -1,7 +1,6 @@
 # (Passive) Past Participles
 
 The past participle is another **verbal adjective** which describes the action that a noun did (in the past). It is extremely common in the Tipiṭaka.
-***
 
 |  |  |
 | --- | --- |
@@ -12,19 +11,18 @@ The past participle is another **verbal adjective** which describes the action t
 | bhindati | he breaks |
 | **bhinna** | (is) **broken** |
 
-***
 Please note that the past participle is **passive** in meaning.
-***
+
 ### How to form a past participle
-***
+
 In theory the formation of past participles is very easy, just add -**ta**, -**ita** or -**na** to the root.
-***
+
 In practice, they can be quite tricky because many **sandhi** rules may apply, and their formation is heavily influenced by the **Sanskrit** **roots** from which they are derived.
-***
+
 Until you learn more about Sandhi and Sanskrit roots, you will have to just learn the forms of the past participle by heart.
-***
+
 There are, quite literally, thousands of examples...
-***
+
 #### 1. root + ta
 
 |  |  |  |  |  |  |
@@ -39,9 +37,8 @@ There are, quite literally, thousands of examples...
 | mussati | √mus | to forget | + ta | mu**ṭṭ**ha | forgotten |
 | jānāti | √ñā | to know | + ta | ñāta | known |
 
-***
 When we study sandhi, we will study the rules related to the changes that happen with **ta**
-***
+
 #### 2. root + ita
 
 |  |  |  |  |  |  |
@@ -56,7 +53,6 @@ When we study sandhi, we will study the rules related to the changes that happen
 | vindati | √vid | to know | + ita | vidita | known |
 | yācati | √yāc | to beg | + ita | yācita | begged |
 
-***
 #### 3. base + ita
 
 |  |  |  |  |  |  |
@@ -71,7 +67,6 @@ When we study sandhi, we will study the rules related to the changes that happen
 | ṭhapeti | √ṭhā | ṭhape | + ita | ṭhapita | placed |
 | vedayati | √vid | vedaya | + ita | vedayita | experienced |
 
-***
 #### 4. root + na
 
 |  |  |  |  |  |  |
@@ -86,13 +81,12 @@ When we study sandhi, we will study the rules related to the changes that happen
 | upapajjati | √pad | to go | + na | upapa**nn**a | appeared |
 | vikirati | √kir | to scatter | + na | viki**ṇṇ**a | scattered |
 
-***
 Again, sandhi rules regarding the assimilation of **na** will be studied in detail later.
-***
+
 ### Declension of Past Participles
-***
+
 Past participles are declined, just like nouns ending in **-a** in all three genders. In masculine like *buddha*, in feminine like *vedanā*, and neuter like *cittaṃ*.
-***
+
 **Masculine ending in -a<br>gata**
 
 |  |  |  |
@@ -115,7 +109,6 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 | 7.loc | gat**āya** <br>gat**āyaṃ** | gat**āsu** |
 | 8.voc | gat**e** | gat**ā** <br>gat**āyo** |
 
-***
 **Neuter ending in -aṃ<br>gataṃ**
 
 |  |  |  |
@@ -129,45 +122,36 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 | 7.loc | gat**e** <br>gat**amhi** <br>gat**asmiṃ** | gat**esu** |
 | 8.voc | gat**a** gat**ā** | gat**āni** |
 
-***
 ### How to use Past Participles
-***
-1\. They often get used as the **verb** in the sentence, having a past passive meaning.
-***
-evaṃ me **sutaṃ**
-***
-lit. thus - by me – **heard**
-***
-fig. Thus **has been heard** by me
-***
-Notice that the **agent** of the sentence “**me**” is in the instrumental case. This is a normal construction for passive verbs.
-***
-Active: **He** saw the tree (agent in nominative)
-***
-Passive: The tree was seen **by him.** (agent in instrumental)
-***
-2\. Past participles are very often used as **nouns**
-***
-atthi **dinnaṃ** atthi **yiṭṭhaṃ** atthi **hutaṃ** *[MN41](https://find.dhamma.gift/bw/mn/mn41.html)*
-***
-lit. there is **given,** there is **sacrificed**, there is **offered**
-***
-there is (what is) **given,** there is (what is) **sacrificed**, there is (what is) **offered**
-***
-there is (what has been) **given,** there is (what has been) **sacrificed**, there is (what has been) **offered**
-***
-3\. They are also very often used as **adjectives**, agreeing with the nouns in gender, case & number.
-***
-seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *[DN14.14](https://find.dhamma.gift/bw/dn/dn14.html)*
-***
-lit. just like a **cleaned** cloth, **gone away** stains ...
-***
-How would you translate that into English?
-***
 
-<div class="nav-links">
-  <a href="../1_review/" class="prev">← Review</a>
-  <a href="../3_adj/" class="next">Adjectives (guṇanāma, guṇavacana, visesana) →</a>
-  <div class="cross"><a href="../../../bpc_ex/11_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_11%2F2_pp" target="_blank">Provide feedback on this page</a></div>
-</div>
+1\. They often get used as the **verb** in the sentence, having a past passive meaning.
+
+evaṃ me **sutaṃ**
+
+lit. thus - by me – **heard**
+
+fig. Thus **has been heard** by me
+
+Notice that the **agent** of the sentence “**me**” is in the instrumental case. This is a normal construction for passive verbs.
+
+Active: **He** saw the tree (agent in nominative)
+
+Passive: The tree was seen **by him.** (agent in instrumental)
+
+2\. Past participles are very often used as **nouns**
+
+atthi **dinnaṃ** atthi **yiṭṭhaṃ** atthi **hutaṃ** *[MN41](https://find.dhamma.gift/bw/mn/mn41.html)*
+
+lit. there is **given,** there is **sacrificed**, there is **offered**
+
+there is (what is) **given,** there is (what is) **sacrificed**, there is (what is) **offered**
+
+there is (what has been) **given,** there is (what has been) **sacrificed**, there is (what has been) **offered**
+
+3\. They are also very often used as **adjectives**, agreeing with the nouns in gender, case & number.
+
+seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *[DN14.14](https://find.dhamma.gift/bw/dn/dn14.html)*
+
+lit. just like a **cleaned** cloth, **gone away** stains ...
+
+How would you translate that into English?

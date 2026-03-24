@@ -1,9 +1,8 @@
 # Cardinal Numbers (saṅkhyā-padhāna)
-***
+
 Cardinal Numbers are very common in the Tipiṭaka. The Buddha’s teachings very often consist of numerical lists, so numbers are extensively used.
-***
+
 If you want to study numbers, just open the Aṅguttara Nikāya.
-***
 
 | **eko** dhammo | **one** thing |
 |---|---|
@@ -19,17 +18,15 @@ If you want to study numbers, just open the Aṅguttara Nikāya.
 | **ekādasahi** aṅgehi | with **eleven** factors |
 | **dvādasa** aṇḍāni | **twelve** eggs |
 
-***
 “*Good news*” : Almost each number has its own unique declensions and attributes,
-***
+
 so let’s have a closer look at them individually.
-***
+
 ### eka “one”
-***
+
 three genders – singular
-***
+
 agrees in gender & case
-***
 
 |  | Masculine | Feminine | Neuter |
 |---|---|---|---|
@@ -41,21 +38,19 @@ agrees in gender & case
 | 6.gen | ek**assa** | ek**issā** <br>ek**āya** | ek**assa** |
 | 7.loc | ek**amhi** <br>ek**asmiṃ** | ek**āyaṃ** <br>ek**āya** | ek**amhi** <br>ek**asmiṃ** |
 
-***
 declined in the plural, “**eka**” functions as pronoun meaning “*some*”
-***
+
 **eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *[DN9.6](https://find.dhamma.gift/bw/dn/dn9.html)*
-***
+
 **some** holy men and priests speak like this and have this view.
-***
+
 declension is the same as **ye**
-***
+
 ### dve “two”
-***
+
 no gender, plural
-***
+
 agrees in case only
-***
 
 | 1.nom | dv**e** duv**e** |
 |---|---|
@@ -66,13 +61,11 @@ agrees in case only
 | 6.gen | dv**innaṃ** |
 | 7.loc | dv**īsu** |
 
-***
 ### ti “three”
-***
+
 three genders, plural
-***
+
 agrees in gender and case
-***
 
 |  | Masculine | Feminine | Neuter |
 |---|---|---|---|
@@ -84,13 +77,11 @@ agrees in gender and case
 | 6.gen | t**iṇṇaṃ** <br>**tiṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ** <br>t**iṇṇannaṃ** |
 | 7.loc | t**īsu** | t**īsu** | t**īsu** |
 
-***
 ### catu “four”
-***
+
 three genders & plural
-***
+
 agrees in gender and case
-***
 
 |  | Masculine | Feminine | Neuter |
 |---|---|---|---|
@@ -102,13 +93,11 @@ agrees in gender and case
 | 6.gen | cat**unnaṃ** | cat**assannaṃ** | cat**unnaṃ** |
 | 7.loc | cat**usu**<br>cat**ūsu** | cat**usu**<br>cat**ūsu** | cat**usu**<br>cat**ūsu** |
 
-***
 ### pañca “five”
-***
+
 no gender, plural
-***
+
 agrees in case only
-***
 
 | 1.nom | pañc**a** |
 |---|---|
@@ -119,11 +108,9 @@ agrees in case only
 | 6.gen | pañc**annaṃ** |
 | 7.loc | pañc**asu** |
 
-***
 ### cha “six” to aṭṭharasa “eighteen”
-***
+
 same as *pañca*. no gender, plural. agrees in case only
-***
 
 | 6 | cha |
 |---|---|
@@ -140,13 +127,11 @@ same as *pañca*. no gender, plural. agrees in case only
 | 17 | sattarasa |
 | 18 | aṭṭhārasa |
 
-***
 ### ekūnavīsati “19” to aṭṭhanavuti “98”
-***
+
 (one less than twenty)
-***
+
 feminine singular, agree in case only
-***
 
 |  | 20 (like bhūmi) | 20 (like vedanā) |
 |---|---|---|
@@ -158,19 +143,17 @@ feminine singular, agree in case only
 | 6.gen | vīsat**iyā** | vīs**āya** |
 | 7.loc | vīsat**iyā** vīsati**yaṃ** | vīs**āya** vīs**āyaṃ** |
 
-***
 I see **twenty men**   vīsatiṃ purise
-***
+
 **with twenty feelings** vīsatiyā vedanāhi
-***
+
 i**n twenty minds** vīsatiyaṃ cittesu
-***
+
 ### sata “100”, sahasa “1000” and lakkha “100 000”
-***
+
 neuter singular and plural
-***
+
 agrees in case and number
-***
 
 | 1.nom | sat**aṃ** | sat**ā** sat**āni** |
 |---|---|---|
@@ -181,13 +164,11 @@ agrees in case and number
 | 6.gen | sat**assa** | sat**ānaṃ** |
 | 7.loc | sat**e**<br>sat**amhi**<br>sat**asmiṃ** | sat**esu** |
 
-***
 ### koṭi “10 000 000”
-***
+
 feminine singular, sometimes plural
-***
+
 agrees in case only
-***
 
 | 1.nom | koṭ**i** | koṭ**ī** <br>koṭ**iyo** |
 |---|---|---|
@@ -198,7 +179,6 @@ agrees in case only
 | 6.gen | koṭ**iyā** | koṭ**īnaṃ** |
 | 7.loc | koṭ**iyā** <br>koṭi**yaṃ** | koṭ**īsu** |
 
-***
 ### Summary of numbers gender and numbers
 
 |  | **Gender** | **Number** |  |  |  |
@@ -213,9 +193,7 @@ agrees in case only
 | 99 - 9 999 998 |  |  | ✔ | ✔ | ✔ |
 | 9 999 999 - 10 000000 |  | ✔ |  | ✔ | (✔) |
 
-***
 These are the only numbers encountered in the Tipiṭaka that have been *actually* covered by DPD so far.
-***
 
 | 1 | eka |
 |---|---|
@@ -258,11 +236,9 @@ These are the only numbers encountered in the Tipiṭaka that have been *actuall
 | 100 000 | satasahassa |
 | 10 000 000 | koṭi |
 
-***
 In summary learn declensions 1, 2, 3, 4, 5, 20, 100
-***
+
 That, of course, excludes all the “amazing” numbers which you’ll come across in some parts of the Tipiṭaka
-***
 
 |  |  |  |
 | --- | --- | --- |
@@ -272,12 +248,3 @@ That, of course, excludes all the “amazing” numbers which you’ll come acro
 | nirabbuda | 1063 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | ahaha | 1070 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | ababa | 1076 | 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-
-***
-
-<div class="nav-links">
-  <a href="../2_numb/" class="prev">← Numbers (saṅkhyā)</a>
-  <a href="../4_ordin/" class="next">Ordinal Numbers (saṅkhyā-pūraṇa) →</a>
-  <div class="cross"><a href="../../../bpc_ex/12_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_12%2F3_card" target="_blank">Provide feedback on this page</a></div>
-</div>

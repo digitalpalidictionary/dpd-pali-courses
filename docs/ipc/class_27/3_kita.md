@@ -1,7 +1,7 @@
 # Kita
-***
+
 Kita are a large group of suffixes which include present and past particles, as well as all the common noun and adjective suffixes.
-***
+
 ### nta (prp)
 
 | √añch | añcha | **+ nta** | añcha**nta** | turning; cutting |
@@ -15,7 +15,6 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √nad | nada | **+ nta** | nada**nta** | shouting, roaring |
 | √pā | piva | **+ nta** | piva**nta** | drinking |
 
-***
 ### āna (prp)
 
 | √ādā | ādiya | **+ āna** | ādiy**āna** | grasping |
@@ -28,7 +27,6 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √sī | saya | **+ āna** | say**āna** | lying down |
 | √vad | vada | **+ āna** | vad**āna** | speaking |
 
-***
 ### māna (prp)
 
 | √as | sa | **+ māna** | sa**māna** | being |
@@ -45,7 +43,6 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √vaḍḍh | vaḍḍha | **+ māna** | vaḍḍha**māna** | growing |
 | √yaj | yaja | **+ māna** | yaja**māna** | sacrificing |
 
-***
 ### ta (pp)
 
 | √bhañj | **+ ta** | bha**gga** | broken, shattered |
@@ -63,7 +60,6 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √phus | **+ ta** | phuṭ**ṭha** | touched |
 | √raj | **+ ta** | rat**ta** | dyed |
 
-***
 ### ita (pp)
 
 | √citt | **+ ita** | citt**ita** | designed, created |
@@ -81,7 +77,6 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √vas | **+ ita** | v**u**s**ita** | lived, completed |
 | √yāc | **+ ita** | yāc**ita** | asked for, begged |
 
-***
 ### na (pp)
 
 | √bhid | **+ na** | bhin**na** | broken, damaged |
@@ -99,12 +94,4 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √sad | **+ na** | nis**inna** | seated |
 | √tir | **+ na** | nitthi**ṇṇa** | crossed over |
 
-***
 please **review** all the **sandhi** and **assimilation rules** in the first lessons of this course so that you understand these morphological changes!
-
-<div class="nav-links">
-  <a href="../2_kicca/" class="prev">← Kicca</a>
-  <a href="../4_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/27_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_27%2F3_kita" target="_blank">Provide feedback on this page</a></div>
-</div>

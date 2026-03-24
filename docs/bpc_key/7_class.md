@@ -2,7 +2,6 @@
 
 1. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>jivhāya rasaṃ sāyitvā uppajjati manāpaṃ
 
-
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | jivhāya | noun | fem.instr.sg | by, with the tongue |  |
@@ -11,12 +10,9 @@
 | uppajjati | verb | pr.3rd.sg | it arises | √pad･3 ya (go, step) |
 | manāpaṃ | noun | masc.acc.sg | pleasant experience; what is pleasant |  |
 
-
 **Having tasted a flavour with the tongue, a pleasant experience arises.**
 
-
 2. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) <br>so tathāgataṃ pūjeti paramāya pūjāya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -26,12 +22,9 @@
 | paramāya | adj | fem.instr.sg | with highest |  |
 | pūjāya | noun | fem.instr.sg | with veneration | √pūj･8 \*e (honour, venerate) |
 
-
 **He honors the Buddha with the highest veneration.**
 
-
 3. [DN16.14](https://find.dhamma.gift/bw/dn/dn16.html) <br>assosuṃ mallā, bhagavā kusinārāyaṃ parinibbuto'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -41,12 +34,9 @@
 | kusinārāyaṃ | noun | fem.loc.sg | in Kusinara |  |
 | parinibbuto'ti | pp | masc.nom.sg | was extinguished"" | √vā･1 a (blow, emit odour) |
 
-
 **The Mallans heard, "The Blessed One had final Nibbāna in Kusinara"**
 
-
 4. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-sālāyaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -58,12 +48,9 @@
 | kūṭāgāra- | noun | nt | building with peaked roof |  |
 | sālāyaṃ | noun | fem.loc.sg | in the hall |  |
 
-
 **At one time the Blessed One was living in Vesali, in the great wood, in the hall of the building with the peaked roof.**
 
-
 5. [DN22.7](https://find.dhamma.gift/bw/dn/dn22.html) <br>bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -74,12 +61,9 @@
 | sivathikāya | noun | fem.loc.sg | in the charnel ground |  |
 | chaḍḍitaṃ | pp | nt.acc.sg | discarded, thrown away | √chaḍḍ･8 \*e (discard, abandon) |
 
-
 **Imagine if a monk could see a dead body discarded in a charnel ground.**
 
-
 6. [MN14](https://find.dhamma.gift/bw/mn/mn14.html) <br>kin'ti me bhoge na corā hareyyuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -90,12 +74,9 @@
 | corā | noun | masc.nom.pl | thieves | √cur･8 \*e (steal) |
 | hareyyuṃ | verb | opt.3rd.pl | they could steal | √har･1 a (carry) |
 
-
 **How then could thieves not steal my valuables?**
 
-
 7. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -106,12 +87,9 @@
 | nakkhattāni | noun | nt.acc.pl | constellations, stars | √nakkh×1 a (attain, arrive) |
 | ullokeyyāsi | verb | opt.2nd.sg | you should look up | √lok･8 \*e (look) |
 
-
 **Moggallāna, you should look all around in all directions, and look up at the constellations.**
 
-
 8. [DN2.19](https://find.dhamma.gift/bw/dn/dn2.html) <br>so aparena samayena tamhā ābādhā mucceyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -121,12 +99,9 @@
 | ābādhā | noun | masc.abl.sg | from sickness | √bādh･1 a (press, oppress) |
 | mucceyya | verb | opt.3rd.sg | he could be freed | √muc･2 ya (release, free) |
 
-
 **After some time, he could become free from that illness.**
 
-
 9. [VIN PAT PC 57](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu oren'addhamāsaṃ nahāyeyya, pācittiyaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -137,12 +112,9 @@
 | nahāyeyya | verb | opt.3rd.sg | should bath | √nhā･3 ya (bathe) |
 | pācittiyaṃ | noun | nt.nom.sg | a case requiring confession |  |
 
-
 **whichever monk should bathe sooner than a fortnight, that is an offence requiring confession**
 
-
 10. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -156,12 +128,9 @@
 | pabbājeyyuṃ | verb | opt.3rd.pl | they could banish | √vaj･1 \*e (go on) |
 | vā | ind | - | or |  |
 
-
 **The king's men, having captured a thief, could punish or imprison or banish (him).**
 
-
 11. [DN10](https://find.dhamma.gift/bw/dn/dn10.html) <br>te tāvataken'eva attamanā assu
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -170,12 +139,9 @@
 | attamanā | adj | masc.nom.pl | pleased; delighted |  |
 | assu | verb | opt.3rd.pl | they would be; could be | √as･1 a (be) |
 
-
 **With just this much they would be pleased.**
 
-
 12. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html)<br>evaṃrūpo siyaṃ anāgatamaddhānaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -183,12 +149,9 @@
 | siyaṃ | verb | opt.1st.sg | may I be | √as･1 a (be) |
 | anāgatamaddhānaṃ | ind | adv | in the future |  |
 
-
 **May I be of such form in the future.**
 
-
 13. [MN10.16](https://find.dhamma.gift/bw/mn/mn10.html)<br>aho vata mayaṃ na maraṇadhammā assāma
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -198,12 +161,9 @@
 | maraṇadhammā | adj | masc.nom.pl | of the nature to die |  |
 | assāma | verb | opt.1st.pl | may we; could we | √as･1 a (be) |
 
-
 **If only we could be not of the nature to die!**
 
-
 14. [SN8.11](https://find.dhamma.gift/bw/sn/sn8.11.html) (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -214,12 +174,9 @@
 | gāthāya | noun | fem.instr.sg | with a verse | √gā･3 ya (sing) |
 | abhitthaveyyāmi | verb | opt.1st.sg | I would praise |  |
 
-
 **Maybe I should praise the Blessed One face-to-face with an appropriate verse.**
 
-
 15. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl)<br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -232,12 +189,9 @@
 | avañjhā | adj | fem.nom.sg | not sterile; not barren |  |
 | bhaveyya | verb | opt.3rd.sg | would be; would become | √bhū･1 a (be, become) |
 
-
 **In this way, indeed, our renunciation would not be sterile, would not be dishonest.**
 
-
 16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat'ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -251,12 +205,9 @@
 | cittaṃ | noun | nt.acc.sg | the mind | √cit･8 \*e (think, intend) |
 | parisodheyyuṃ | verb | opt.3rd.pl | they would purify | √sudh･3 \*e (be pure) |
 
-
 **They would abandon covetousness with reference to the world, they would dwell with a mind free from covetousness, they would purify the mind from covetousness.**
 
-
 17. [DN16.36](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -271,12 +222,9 @@
 | satthā | noun | masc.nom.sg | teacher | √sās･1 a (order, instruct) |
 | iti | ind | quote | " " |  |
 
-
 **And now there could be, Ananda, for you it would occur like this: "there is no teacher for us."**
 
-
 18. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ye kho tvaṃ dhamme jāneyyāsi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -286,12 +234,9 @@
 | dhamme | noun | masc.acc.pl | things; phenomena | √dhar･1 a (hold, carry, endure) |
 | jāneyyāsi | verb | opt.2nd.sg | you might know | √ñā･5 nā (know) |
 
-
 **Indeed, whatever things you might know…**
 
-
 19. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>devatā bhagavantaṃ gāthāya ajjhabhāsi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -300,12 +245,9 @@
 | gāthāya | noun | fem.instr.sg | with a verse; with a poem | √gā･3 ya (sing) |
 | ajjhabhāsi | verb | aor.3rd.sg | addressed | √bhās･1 a (speak) |
 
-
 **The deity addressed the Blessed One with a verse.**
 
-
 20. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -316,12 +258,9 @@
 | adhigaccheyya | verb | opt.3rd.sg | would experience | √gam･1 a (go) |
 | somanassaṃ | noun | nt.acc.sg | mental ease; pleasure | √man･3 ya (think) |
 
-
 **Because of that he would obtain gladness, he would experience pleasure.**
 
-
 21. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) <br>atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -330,12 +269,9 @@
 | nappaṭikaṅkhe | verb | opt.3rd.sg | should not anticipate | √kaṅkh･1 a (wish for) |
 | anāgataṃ | adj | masc.acc.sg | the future | √gam･1 \*e (go) |
 
-
 **He should not return to the past, he should not anticipate the future.**
 
-
 22. [SN22.80](https://find.dhamma.gift/bw/sn/sn22.80.html) <br>n'atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -350,12 +286,9 @@
 | vajjavā | adj | masc.nom.sg | with faults |  |
 | assaṃ | verb | opt.1st.sg | I might be; I would be | √as･1 a (be) |
 
-
 **There is not anything in the world which I am grasping [and] would not be with faults [i.e. and would not be blameworthy].**
 
-
 23. [DN1.1](https://find.dhamma.gift/bw/dn/dn1.html) <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -369,12 +302,9 @@
 | tena | ind | adv | on that account; thereby |  |
 | antarāyo | noun | masc.nom.sg | an obstacle |  |
 
-
 **If you were to be angry or irritated, on that account [it would be] an obstacle for you all.**
 
-
 24. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html) <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -388,12 +318,9 @@
 | anāgatam'addhānaṃ | ind | adv | in the future |  |
 | evaṃvedano | adj | masc.nom.sg | having such feeling |  |
 
-
 **In this regard, householder, one think [lit: there is thus for a certain], may I be of such form in the future, may I be having such feeling in the future.**
 
-
 25. [MN25](https://find.dhamma.gift/bw/mn/mn25.html) (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -406,12 +333,9 @@
 | gāhaṃ | noun | masc.acc.sg | hiding place | √gah･6 ṇhā (grasp) |
 | gaccheyyun'ti | verb | opt.3rd.pl+end quote | would go; would move | √gam･1 a (go) |
 
-
 **"We could see the lair of a species of deer, where they would go [for] a hiding place."**
 
-
 26. [VIN PAT SA 3](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl)<br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -421,12 +345,9 @@
 | vācāhi | noun | fem.instr.pl | by means of words | √vac･1 a (say, speak) |
 | obhāseyya | verb | opt.3rd.sg | should speak coarsely | √bhās･1 a (speak) |
 
-
 **If any monk should speak to a woman coarsely by means of obscene words…**
 
-
 27. [AN8.30](https://find.dhamma.gift/bw/an/an8.30.html) (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -440,12 +361,9 @@
 | upāsakā | noun | masc.nom.pl | male lay disciples | √ās･1 a (sit) |
 | upāsikāyo | noun | fem.nom.pl | female disciples | √ās･1 a (sit) |
 
-
 **In this regard, for a monk dwelling secluded, there would be visitors - monks, male lay disciples, [and] female lay disciples.**
 
-
 28. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>yāva'd'eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -456,16 +374,11 @@
 | paṭighātāya | noun | masc.dat.sg [dat or purpse] | for the warding off | √ghaṭ･8 \*e (strike, kill) |
 | abyāpajjhaparamatāya | noun | fem.dat.sg | for the freedom from oppressive pain at the most |  |
 
-
 **Only as much as for the warding off of oppressive feelings that have arisen, for the freedom from oppressive pain at the most.**
-
-
-
 
 ## Class 7 Extra
 
 1. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) <br>ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe n'ādhivāseyyātha?
-
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -490,12 +403,9 @@
 | tumhe | pron | 2nd.nom.pl | you |  |
 | n'ādhivāseyyātha | verb | opt.2nd.pl | should not endure; would not tolerate |  |
 
-
 **If you could practice undertaking these six cordial things, do you see any way of saying things (i.e. mode of expression), gross or subtle, which you could not tolerate?**
 
-
 2. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: "kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?" iti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -518,12 +428,9 @@
 | vihareyyuṃ | verb | opt.3rd.pl | they could dwell | √har･1 a (live) |
 | iti | ind | quote mark | " " |  |
 
-
 **Bhikkhus, the monks will establish mindfulness individually [with the intention]: "How then well-behaved fellow monks [who] have not come could come and (how) well-behaved monks [who] have come could dwell at ease?"**
 
-
 3. [VIN PAT PC 49](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -536,12 +443,9 @@
 | senaṃ | noun | fem.acc.sg | a multitude; an army |  |
 | gamanāya | noun | nt.dat.sg [dat of purpose] | for going to see | √gam･1 a (go) |
 
-
 **And if there might be some or other reason for that monk for going to see an army…**
 
-
 4. [UD69](https://find.dhamma.gift/bw/ud/ud7.9.html) <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -559,12 +463,9 @@
 | pariyesanaṃ | ind | adv | searching for; looking for | √es･1 a (seek, search) |
 | care | verb | opt.3rd.sg | would go about; should conduct himself | √car･1 a (act, behave) |
 
-
 **What one could do with a well, if there always would be water?; Having cut off the craving from the source, why would he go about searching?**
 
-
 5. [MN26](https://find.dhamma.gift/bw/mn/mn26.html) <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -582,11 +483,4 @@
 | dhammassa | noun | masc.gen.sg | the teaching; the doctrine | √dhar･1 a (hold, carry, endure) |
 | parihāyanti | verb | pr.3rd.pl | wasting away; decreasing | √hā･3 ya (decrease) |
 
-
 **Venerable Sir, let the Blessed One teach the doctrine, let the well-gone One teach the doctrine; there are living beings who have little dirt in their eyes, [who] are wasting away by the fact of not hearing the teaching.**
-
-<div class="nav-links">
-  <a href="../6_class/" class="prev">← Class 6 Exercises</a>
-  <a href="../8_class/" class="next">Class 8 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F7_class" target="_blank">Provide feedback on this page</a></div>
-</div>

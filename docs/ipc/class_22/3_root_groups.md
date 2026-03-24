@@ -1,19 +1,18 @@
 # The 8 Root Groups[^13]
 
 [^13]: All the roots that follow are in order from most common to less common
-***
+
 What are the 8 root groups?
-***
+
 What are their conjugational signs?
-***
+
 ### 1. bhuvādigaṇa (-a-)
-***
+
 What are the **four** different kinds of Group 1 bhūvādigaṇa roots?
-***
+
 **Group 1.1**
-***
+
 These roots **end in a consonant** and the conjugational sign **-a-** is added directly to the root to make the base. This is by far the most common group in Pāli.
-***
 
 | √gam | a | **gaccha** | gacchati | goes |
 |---|---|---|---|---|
@@ -36,11 +35,9 @@ These roots **end in a consonant** and the conjugational sign **-a-** is added d
 | √labh | a | labha | labhati | gets |
 | √vis | a | visa | nivisati | settles down; lit. enters down |
 
-***
 **Group 1.2**
-***
+
 These roots **end in a vowel** and the verbal terminations are added directly to the root. Sometimes the vowel undergoes **guṇa**.
-***
 
 | √i | a | **e** | eti | goes |
 |---|---|---|---|---|
@@ -52,11 +49,9 @@ These roots **end in a vowel** and the verbal terminations are added directly to
 | √ji | a | j**e** | jeti | conquers |
 | √vā | a | vā | vāti | blows |
 
-***
 **Group 1.3**
-***
+
 These roots **end in i ī u ū** and, when they take the conjugational sign **-a-**, they are transformed to **ay** and **av** according to **vuddhi**.
-***
 
 | √bhū | a | bh**ava** | bhavati | exists |
 |---|---|---|---|---|
@@ -67,11 +62,9 @@ These roots **end in i ī u ū** and, when they take the conjugational sign **-a
 | √bhī | a | bh**āya** | bhāyati | fears |
 | √cu | a | c**ava** | cavati | falls away |
 
-***
 **Group 1.4**
-***
+
 These roots undergo reduplication to form the base.
-***
 
 | √ṭhā | a | ṭhā + ṭhā \> tiṭṭhā | tiṭṭhāti | stands |
 |---|---|---|---|---|
@@ -79,7 +72,6 @@ These roots undergo reduplication to form the base.
 | √hā | a | hā + hā \> jahā | jahāti | abandons |
 | √hu | a | hu + hu \> juha | juhati | offers oblation |
 
-***
 ### 2. rudhādigaṇa (-ṃa-)
 
 | √yuj | ṃa | yuñja | yuñjati | yokes, joins |
@@ -95,7 +87,6 @@ These roots undergo reduplication to form the base.
 | √ric | ṃa | riñca | riñcati | empties, abandons |
 | √vid | ṃa | vinda | vindati | feels, likes |
 
-***
 ### 3. divādigaṇa (-ya-)
 
 | √pad | ya | pajja | pajjati | goes on |
@@ -112,9 +103,7 @@ These roots undergo reduplication to form the base.
 | √hā | ya | hāya | hāyati | diminishes, dwindles |
 | √saj | ya | sajja | sajjati | clings, is attached |
 
-***
 ### 4. svādigaṇa (-ṇu- -ṇā- -uṇā-)
-***
 
 | √su | ṇā | suṇā | suṇāti | hears |
 |---|---|---|---|---|
@@ -122,9 +111,8 @@ These roots undergo reduplication to form the base.
 | √sak | ṇu | sakko | sakkoti | is able |
 | √hi | ṇā | hiṇā | pahiṇāti | sends |
 
-***
 As you can see, these are quite rare.
-***
+
 ### 5. kiyādigaṇa (-nā-)
 
 | √ñā | nā | jānā | jānāti | knows |
@@ -137,7 +125,6 @@ As you can see, these are quite rare.
 | √thu | nā | thunā | thunāti | praises, worships |
 | √lu | nā | lunā | lunāti | cuts grass, reaps |
 
-***
 ### 6. gahādigaṇa (-ṇhā-)
 
 | √gah | ṇhā | gaṇhā | gaṇhāti | grabs |
@@ -145,7 +132,6 @@ As you can see, these are quite rare.
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
-***
 ### 7. tanādigaṇa (-o- *-yira[^14]-*)
 
 [^14]: It's in the traditional grammar books, but it's actually a more passive form.
@@ -154,7 +140,6 @@ As you can see, these are quite rare.
 |---|---|---|---|---|
 | √tan | o | tano | tanoti | stretches |
 
-***
 ### 8. curādigaṇa (-e- -aya-)
 
 | √ghaṭ | e | ghāṭe | ghāteti | kills, slays |
@@ -167,12 +152,3 @@ As you can see, these are quite rare.
 | √cit | e | cete | ceteti | thinks |
 | √lok | e | loke | oloketi | looks at; looks down |
 | √mant | e | mante | manteti | counsels, addresses |
-
-***
-
-<div class="nav-links">
-  <a href="../2_cond/" class="prev">← Conditional Tense (kālātipatti)</a>
-  <a href="../4_irreg_base/" class="next">Irregular Verbal Bases →</a>
-  <div class="cross"><a href="../../../ipc_ex/22_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_22%2F3_root_groups" target="_blank">Provide feedback on this page</a></div>
-</div>

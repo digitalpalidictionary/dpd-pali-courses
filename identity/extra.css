@@ -133,6 +133,14 @@
         color: var(--light);
     }
 
+    /* Sidebar Navigation: Light Mode */
+    .md-nav__link, .md-nav__title {
+        color: var(--dark) !important;
+    }
+    .md-nav__link:hover {
+        color: var(--primary-alt) !important;
+    }
+
 }
 
 [data-md-color-scheme="slate"] {
@@ -219,6 +227,14 @@
     .md-tabs__item--active .md-tabs__link {
         color: var(--dark);
     }
+
+    /* Sidebar Navigation: Dark Mode */
+    .md-nav__link, .md-nav__title {
+        color: var(--light) !important;
+    }
+    .md-nav__link:hover {
+        color: var(--primary-alt) !important;
+    }
 }
 
 /* Global Navigation Tab Formatting */
@@ -277,6 +293,121 @@ img[src*="pacman"], img[src*="arrow"] {
 .md-content h1 {
     display: none;
 }
+
+/* Global Table Alignment, Font Size and Borders */
+.md-typeset table:not([class]), 
+.md-typeset table.grammar, 
+.md-typeset table.inflection,
+.content table {
+    width: 100% !important;
+    display: table !important;
+    table-layout: fixed !important;
+    margin-bottom: 1em !important;
+    border-collapse: collapse !important;
+    border: none !important;
+    border-top: 1px solid var(--gray) !important;
+    border-bottom: 1px solid var(--gray) !important;
+}
+
+:root {
+    /* Set the strict height for the header to keep it tiny */
+    --md-header-height: 26px !important;
+}
+
+/* Increase base font size by 1.2 for all markdown content */
+.md-typeset {
+    font-size: 1rem !important; /* Default is ~0.8rem. 1rem is significantly larger and readable */
+}
+
+/* Fix table font size to match body exactly and add horizontal borders */
+.md-typeset td, 
+.md-typeset th,
+.content td,
+.content th {
+    font-size: 1rem !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    padding: 8px !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border: none !important;
+    border-bottom: 1px solid var(--gray-transparent) !important;
+}
+
+/* Ensure the last row has a stronger bottom border to close the table if needed, 
+   but the table itself already has a border-bottom. 
+   We'll keep the cells light. */
+
+/* Remove margin from last paragraph in table cells */
+.md-typeset td > p:last-child,
+.content td > p:last-child {
+    margin-bottom: 0 !important;
+}
+
+/* Tiny Header Styles - Let MkDocs Grid handle layout, just restrict height */
+.md-header {
+    height: var(--md-header-height) !important;
+}
+
+.md-header__inner {
+    height: var(--md-header-height) !important;
+    padding: 0 0.4rem !important;
+    align-items: center !important;
+}
+
+.md-header__title, .md-header__topic {
+    font-size: 14px !important; /* Keep header text small and fixed so it ignores zoom */
+    line-height: normal !important;
+    display: flex !important;
+    align-items: center !important; /* Vertically center the text */
+}
+
+/* Ensure the title container itself allows vertical centering */
+.md-header__title {
+    margin-left: 0;
+    align-self: center !important;
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.md-header__ellipsis {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.md-header__button.md-logo img {
+    width: 18px !important;
+    height: auto !important;
+}
+
+.md-header__button.md-icon {
+    font-size: 18px !important;
+    padding: 0 4px !important;
+    margin: 0 !important;
+    align-self: center !important; /* Center icons vertically in grid */
+    height: 100% !important;
+}
+
+/* Slim down navigation tabs - Fixed pixels */
+.md-tabs {
+    height: 32px !important;
+}
+
+.md-tabs__link {
+    line-height: 32px !important;
+    padding-top: 0 !important;
+    font-size: 13px !important;
+}
+
+/* Helper Classes */
+.align-right {
+    text-align: right !important;
+    display: block;
+}
+
+
 
 /* Web Footnote Popups */
 @media screen {
@@ -338,4 +469,34 @@ img[src*="pacman"], img[src*="arrow"] {
 [data-md-color-scheme="slate"] .footnote-tooltip {
     background-color: var(--dark-shade);
     color: var(--light);
+}
+.md-footer-meta {    display: none !important;}
+
+.md-footer-meta {
+    display: none !important;
+}
+
+/* Make search bar background transparent in light mode */
+[data-md-color-scheme="default"] .md-search__form {
+    background-color: transparent !important;
+}
+
+/* Set search placeholder colors for better visibility */
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+    color: var(--dark) !important;
+    opacity: 1 !important;
+}
+
+[data-md-color-scheme="slate"] .md-search__input::placeholder {
+    color: var(--light) !important;
+    opacity: 1 !important;
+}
+
+/* Also ensure actual input text matches */
+[data-md-color-scheme="default"] .md-search__input {
+    color: var(--dark) !important;
+}
+
+[data-md-color-scheme="slate"] .md-search__input {
+    color: var(--light) !important;
 }

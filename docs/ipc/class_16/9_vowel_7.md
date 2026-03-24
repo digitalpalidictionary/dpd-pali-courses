@@ -1,19 +1,19 @@
 # Possibility \#7
 
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
-***
+
 s**o**![](../../assets/images/arrow.png)**a**haṃ \> s**vā**haṃ
-***
+
 **o![](../../assets/images/arrow.png)a \> vā**
-***
+
 This means:
-***
+
 when a word ends in **o**,
-***
+
 and the next word starts with **a**,
-***
+
 together they become **vā**
-***
+
 In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **o![](../../assets/images/arrow.png)a \> va**
@@ -25,7 +25,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | s**o** | **a**haṃ | s**va**haṃ |
 | then | I | so I |
 
-***
 **o![](../../assets/images/arrow.png)a \> vā**
 
 |  |  |  |
@@ -39,7 +38,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | y**o** | **a**yaṃ | y**vā**yaṃ |
 | whoever | this | whoever this |
 
-***
 **u![](../../assets/images/arrow.png)a \> va**
 
 |  |  |  |
@@ -49,7 +47,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | n**u** | **a**jja | n**va**jja |
 | (?) | today | today? |
 
-***
 **u![](../../assets/images/arrow.png)a \> vā**
 
 |  |  |  |
@@ -59,7 +56,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | s**u** | **a**kkhāto | s**vā**kkhāto |
 | (well) | explained | well explained |
 
-***
 **u![](../../assets/images/arrow.png)ā \> vā**
 
 |  |  |  |
@@ -71,7 +67,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | bah**u** | **ā**bādho | bah**vā**bādho |
 | much | sickness | frequently ill |
 
-***
 **u![](../../assets/images/arrow.png)e \> ve**
 
 |  |  |  |
@@ -83,15 +78,6 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | t**u** | **e**va | t**ve**va |
 | but/yet | just | however |
 
-***
 what is **Possibility \#7 ?**
-***
-**u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
-***
 
-<div class="nav-links">
-  <a href="../8_vowel_6/" class="prev">← Possibility \#6</a>
-  <a href="../10_vowel_8/" class="next">Consonant Insertions →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F9_vowel_7" target="_blank">Provide feedback on this page</a></div>
-</div>
+**u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.

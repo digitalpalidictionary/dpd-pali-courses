@@ -3,9 +3,9 @@ import shutil
 import tempfile
 import yaml
 from pathlib import Path
-from tools.ssg.scripts.generate_indexes import main as generate_indexes
-from tools.ssg.scripts.update_css import update_css
-from tools.ssg.scripts.paths import SSGPaths
+from scripts.generate_indexes import main as generate_indexes
+from scripts.update_css import update_css
+from tools.paths import SSGPaths
 
 class TestSSGScripts(unittest.TestCase):
     def setUp(self):

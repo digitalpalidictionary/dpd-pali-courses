@@ -1,17 +1,16 @@
 # Kicca
-***
+
 You are already familiar with all these suffixes used to form **potential participles.**
-***
+
 Please note in many of the examples that follow
-***
+
 just the **root** or **base** + **suffix** is being used,
-***
+
 but the same applies to **prefix** + **root** or **base** + **suffix**
-***
+
 ### tabba (ptp)
-***
+
 **√ + tabba**
-***
 
 | √dā | + tabba | dā**tabba** | to be given |
 |---|---|---|---|
@@ -23,9 +22,7 @@ but the same applies to **prefix** + **root** or **base** + **suffix**
 | √pā | + tabba | pā**tabba** | to be drunk |
 | √ṭhā | + tabba | ṭhā**tabba** | to be stood |
 
-***
 **base + tabba**
-***
 
 | √nī | a | n**e** | + tabba | ne**tabba** | to be led |
 |---|---|---|---|---|---|
@@ -35,13 +32,11 @@ but the same applies to **prefix** + **root** or **base** + **suffix**
 | √dhar | \*e | dh**ā**re | + tabba | dhāre**tabba** | to be worn |
 | √gah | ṇhā | gahe | + tabba | gahe**tabba** | to be held |
 
-***
 what do you notice about all these words?
-***
+
 ### itabba (ptp)
 
 **√ + itabba**
-***
 
 | √bhaj | + itabba | bhaj**itabba** | to be associated with |
 |---|---|---|---|
@@ -54,9 +49,7 @@ what do you notice about all these words?
 | √sev | + itabba | sev**itabba** | to be associated with |
 | √sikkh | + itabba | sikkh**itabba** | to be learned |
 
-***
 **base + itabba**
-***
 
 | √vid | \*e | v**e**de | + itabba | ved**itabba** | to be known |
 |---|---|---|---|---|---|
@@ -66,9 +59,8 @@ what do you notice about all these words?
 | √hā | a | jahā | + itabba | jah**itabba** | to be left |
 | √bhuj | ṃa | bhu**ñ**ja | + itabba | bhuñj**itabba** | to be eaten |
 
-***
 what do you notice about these words?
-***
+
 ### \*anīya (ptp) \~17
 
 | √dis | + \*anīya | pāṭides**anīya** | to cause to be pointed out |
@@ -76,7 +68,6 @@ what do you notice about these words?
 | √muh | + \*anīya | moh**anīya** | to be deluded |
 | √vid | + \*anīya | ved**anīya** | to be felt |
 
-***
 ### anīya (ptp) \~73
 
 | √gam | + anīya | gam**anīya** | to be gone |
@@ -85,7 +76,6 @@ what do you notice about these words?
 | √vac | + anīya | vac**anīya** | to be said |
 | √vajj | + anīya | vajj**anīya** | to be avoided |
 
-***
 ### \*aniya (ptp) \~3
 
 | √vid | + \*aniya | ved**aniya** | to be felt |
@@ -93,7 +83,6 @@ what do you notice about these words?
 | √ghaṭ | + \*aniya | saṅghāt**aniya** | to be joined together |
 | √bhaj | + \*aniya | bhāj**aniya** | to be divided |
 
-***
 ### aniya (ptp) \~25
 
 | √ādā | + aniya | upād**āniya** | to be grasped |
@@ -101,7 +90,6 @@ what do you notice about these words?
 | √pūj | + aniya | pūj**aniya** | to be honoured |
 | √ṭhā | + aniya | ṭh**āniya** | to be stood |
 
-***
 ### aṇīya (ptp) \~28
 
 | √kar | + anīya | kar**aṇīya** | to be done |
@@ -110,16 +98,14 @@ what do you notice about these words?
 | √tar | + aṇīya | tar**aṇīya** | to be crossed |
 | √raj | + aṇīya | sār**aṇīya** | to be desired |
 
-***
 ### aṇiya (ptp) \~2
 
 | √mar | + aṇiya | mār**aṇiya** | to be killed |
 |---|---|---|---|
 | √sar | + aṇiya | nissar**aṇiya** | to be escaped |
 
-***
 please note the small spelling differences that are present in the canon
-***
+
 ### \*ya (ptp)
 
 | √bhu | + \*ya | bh**abba** | to be able, capable |
@@ -136,7 +122,6 @@ please note the small spelling differences that are present in the canon
 | √pūj | + \*ya | pu**jja** | to be praised |
 | √vadh | + \*ya | va**jjha** | to be slaughtered |
 
-***
 ### \*iya (ptp)
 
 | √kamp | + \*iya | kamp**iya** | to be shaken |
@@ -147,11 +132,9 @@ please note the small spelling differences that are present in the canon
 | √kar | + \*iya | k**ā**r**iya** | to be done |
 | √pis | + \*iya | p**e**s**iya** | to be sent |
 
-***
 ### eyya (ptp)
 
 after roots ending in vowels, \***ya** become **eyya**
-***
 
 | √dā | + eyya | d**eyya** | to be offered |
 |---|---|---|---|
@@ -162,7 +145,6 @@ after roots ending in vowels, \***ya** become **eyya**
 | √nī | + eyya | n**eyya** | to be led, guided |
 | √pā | + eyya | p**eyya** | to be drunk |
 
-***
 ### tya (ptp)
 
 | √bhar | + tya | bha**cca** | to be supported |
@@ -170,19 +152,9 @@ after roots ending in vowels, \***ya** become **eyya**
 | √kar | + tya | k**icca** | to be done |
 | √mar | + tya | ma**cca** | to be dead |
 
-***
 ### irreg (ptp)
 
 | √lajj | + itāya | lajj**itāya** | to be ashamed |
 |---|---|---|---|
 | √ghaṭ + \*e | + tāya | ghāte**tāya** | to be caused to be slain |
 | na + √bhuj | + \*aneyya | abhoj**aneyya** | not to be eaten |
-
-***
-
-<div class="nav-links">
-  <a href="../1_kitaka/" class="prev">← Primary Derivatives (kitaka)</a>
-  <a href="../3_kita/" class="next">Kita →</a>
-  <div class="cross"><a href="../../../ipc_ex/27_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_27%2F2_kicca" target="_blank">Provide feedback on this page</a></div>
-</div>

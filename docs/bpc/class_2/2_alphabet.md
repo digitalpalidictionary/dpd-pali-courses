@@ -2,9 +2,8 @@
 
 There are 8 vowels and 33 consonants in the Pāli alphabet.
 
-
 All of them are pronounced phonetically.
-***
+
 **8 Vowels (sara) a ā i ī u ū e o**
 
 |  |  |  |  |  |
@@ -20,7 +19,6 @@ All of them are pronounced phonetically.
 | **o**ttappa | (remorse) | o | as in | **o**range, **o**mit (short) |
 | **o**dana | (rice) | o | as in | f**o**r, **aw**ning, **aw**e (long) |
 
-***
 **5 Guttural Consonants (kaṇṭhaja – produced in the throat)**
 
 |  |  |  |  |  |
@@ -31,9 +29,8 @@ All of them are pronounced phonetically.
 | **gh**ara | (house) | **gh** | as in | bi**g-h**ouse, lo**g h**ouse |
 | sa**ṅ**gha | (community) | **ṅ** | as in | si**ng**er |
 
-***
 [^2]: h - aspirate sound
-***
+
 **5 Palatal Consonants (tāluja – produced on the front-palate)**
 
 |  |  |  |  |  |
@@ -44,19 +41,17 @@ All of them are pronounced phonetically.
 | **jh**āna | (meditation) | **jh** | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
 | **ñ**āṇa | (wisdom) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
 
-***
 **5 Cerebral or Retroflex Consonants <br>(muddhaja – produced at the top)**
+These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate.
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ‍These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate. |  |  |  |  |
 | dukka**ṭ**a | (wrong doing) | **ṭ** |  | retroflex t |
 | **ṭh**āna | (place) | **ṭh** |  | retroflex th |
 | gaṇ**ḍ**a | (boil) | **ḍ** |  | retroflex d |
 | vuḍ**ḍh**i | (increase) | **ḍh** |  | retroflex dh |
 | go**ṇ**a | (ox) | **ṇ** |  | retroflex n |
 
-***
 **5 Dental Consonants (dantaja – produced on the teeth)**
 
 |  |  |  |  |  |
@@ -67,7 +62,6 @@ All of them are pronounced phonetically.
 | **dh**amma | (teaching) | **dh** | as in | dea**dh**and, a**dh**erent, ma**dh**ouse |
 | **n**amo | (veneration) | **n** | as in | **n**ow, **n**ame, **n**o, **n**ose |
 
-***
 **5 Labial Consonants (oṭṭhaja – produced by the lips)**
 
 |  |  |  |  |  |
@@ -78,7 +72,6 @@ All of them are pronounced phonetically.
 | **bh**āra | (burden) | bh | as in | a**bh**orrent, clu**bh**ouse |
 | **m**āra | (death) | m | as in | **m**other, **m**aker, **m**u**m**ble |
 
-***
 **8 Other Consonants & Semi-vowels**
 
 |  |  |  |  |  |
@@ -94,7 +87,6 @@ All of them are pronounced phonetically.
 | sa**ṁ**yojana | (fetter) | ṁ | as in | similar to si**ng** |
 | sa**ŋ**yojana | (fetter) | ŋ | as in | similar to si**ng** |
 
-***
 **Sanskrit Letters**
 
 |  |  |  |  |  |
@@ -109,11 +101,9 @@ All of them are pronounced phonetically.
 | **ś**amatha | (tranquillity) | ś | as in | **sh**ip, **sh**ape |
 | di**ṣ**ṭa | (seen) | ṣ | as in | retroflex **sh** |
 
-***
 ### Double Consonants
 
 Double consonants are pronounced individually, like in the English word u**nn**ecessary. For example:
-***
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -122,42 +112,22 @@ Double consonants are pronounced individually, like in the English word u**nn**e
 | pabbajjā | pronounced | pab-baj-jaa | not pabajaa |
 | moggallāna | pronounced | mog-gal-laa-na | not mogalaana |
 
-***
 ## How to use a Pāli dictionary?
 
 Pāli alphabetical order is from a to ṃ.
-***
+
 **a ā i ī u ū e o**
-
-
 
 **k kh g gh ṅ**
 
-
-
 **c ch j jh ñ**
-
-
 
 **ṭ ṭh ḍ ḍh ṇ**
 
-
-
 **t th d dh n**
-
-
 
 **p ph b bh m**
 
-
-
 **y r l v s h ḷ ṃ**
-***
-or use a digital dictionary!
 
-<div class="nav-links">
-  <a href="../1_review/" class="prev">← Review</a>
-  <a href="../3_decl_nouns/" class="next">Declension of Nouns →</a>
-  <div class="cross"><a href="../../../bpc_ex/2_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_2%2F2_alphabet" target="_blank">Provide feedback on this page</a></div>
-</div>
+or use a digital dictionary!

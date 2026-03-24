@@ -2,26 +2,15 @@
 
 **Find all the primary and secondary derivatives and show their construction.**
 
-
-
 **e.g. kitaka:**
-
-
 
 **√kar + ita + ka**
 
-
-
 **kita + ka**
-
-
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-
-
 1. [KHP5](https://find.dhamma.gift/bw/kp/kp5.html)<br>**gāravo** ca **nivāto** ca,<br>**santuṭṭhi** ca **kataññutā**,<br>**kālena** **dhammassavanaṃ**,<br>etaṃ **maṅgalam'uttamaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -41,12 +30,9 @@
 | \#maṅgalaṃ | noun | nt.nom.sg | blessing | √maṅg + ala |
 | \#uttamaṃ | adj | nt.nom.sg | highest | ud + tama |
 
-
 **Reverence and humility, satisfaction and gratitude, Hearing the teaching at the right time; this is the highest blessing.**
 
-
 2. [SN1.51](https://find.dhamma.gift/bw/sn/sn1.51.html)<br>**sīlaṃ[^47]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,12 +52,9 @@
 | \#dūharaṃ | adj | nt.nom.sg (+instr) | hard to steal (for) | dur + √har + a |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"Virtue up to old age [is] good; faith [that is] established [is] good; wisdom [is] the jewel of humans; merit [is] hard for thieves to steal."**
 
-
 3. [MN22](https://find.dhamma.gift/bw/mn/mn22.html)<br>idha, bhikkhave, **ekacce** **mogha**purisā dhammaṃ pariyāpuṇanti, **suttaṃ**, **geyyaṃ**, **veyyākaraṇaṃ**, **gāthaṃ**, **udānaṃ**, **itivuttakaṃ**, **jātakaṃ**, **abbhuta**dhammaṃ, **vedallaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -95,12 +78,9 @@
 | \#dhammaṃ | noun | masc.acc.sg | things |  |
 | **vedallaṃ** | noun (ptp) | nt.acc.sg | questions-and-answers; catechism (lit: to be split) | vi + √dal + \*ya |
 
-
 **Here, monks, some foolish persons study well the teaching – discourses, mixed verses, detailed expositions, poems, inspired sayings, quotations, birth stories, marvellous accounts, questions-and-answers…**
 
-
 4. [THI71](https://find.dhamma.gift/bw/thi/thi14.html)<br>**madhurañ**'ca pavanti **sabbaso**,<br>kusuma**rajena** **samuṭṭhitā** dumā,<br>paṭhama**vasanto** **sukho** utu,<br>ehi ramāma **supupphite** vane.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -124,12 +104,9 @@
 | **supupphite** | adj | nt.loc.sg | abounding in blossoms | su + √pupph + ita |
 | vane | noun | nt.loc.sg | in the forest; wood |  |
 
-
 **The trees laden with pollen exude a sweet smell all around by means of flower pollen; the first month of the season, spring, [is] pleasant; come! Let us take delight in the wood abounding in blossoms.**
 
-
 5. [AN5.36](https://find.dhamma.gift/bw/an/an5.36.html) <br>**āgantukassa** **dānaṃ** deti, **gamikassa** dānaṃ deti, **gilānassa** dānaṃ deti, **dubbhikkhe** dānaṃ deti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -146,12 +123,9 @@
 | dānaṃ | noun | nt.acc.sg | a gift; an offering |  |
 | deti | verb | pr.3rd.sg | gives | √dā + a + ti |
 
-
 **One gives to a newcomer, one gives to a traveller, one gives to one who is ill, one gives when famine.**
 
-
 6. [SN2.23](https://find.dhamma.gift/bw/sn/sn2.23.html)<br>tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -170,12 +144,9 @@
 | vanibbaka (ca) | noun | masc. | mendicants |  |
 | **yācakānaṃ** (ca) | noun | masc.dat.pl | to beggars | √yāc + aka |
 
-
 **Thus, my gifts were offered at the four gates to ascetics, brahmins, tramps and travellers, mendicants and beggars.**
 
-
 7. [MN49](https://find.dhamma.gift/bw/mn/mn49.html)<br>eso hi, bhikkhu, **brahmā** mahābrahmā **abhibhū** anabhibhūto añña'd'atthu**daso** **vasavattī** **issaro** **kattā** **nimmātā** seṭṭho **sajitā** vasī pitā **bhūtabhabyānaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -207,12 +178,9 @@
 | **\#bhūta** (ca) | adj | masc. | existing | √bhū + ta |
 | **\#bhabyānaṃ** (ca) | adj | masc.dat/gen.pl | who will be | √bhū + \*ya |
 
-
 **Indeed, monk, this is Brahmā, great god almighty, supreme being, unvanquished, all seeing, wielding power, god, creator, designer, foremost assigner, master [and] father for those who are and who will be.**
 
-
 8. [AN5.36](https://find.dhamma.gift/bw/an/an5.36.html)<br>ye **tattha** anumodanti,<br>**veyyāvaccaṃ** karonti vā,<br>na tena **dakkhiṇā** ūnā,<br>te'pi **puññassa** **bhāgino**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -232,12 +200,9 @@
 | **puññassa** | noun | nt.gen.sg | merit | √puṇ + ya |
 | **bhāgino** | noun | masc.nom.pl (+gen) | who share (in); who partake (in) | √bhaj + \*ī |
 
-
 **[Given with a clear mind, one's offering is vast]; they who are pleased in that regard or do service, by means of that are not lacking the offering; they, too, partake in the merit.**
 
-
 9. [MN12](https://find.dhamma.gift/bw/mn/mn12.html)<br>**sotatto** **sosinno** c'eva,<br>eko **bhiṃsanake** vane,<br>naggo na c'**aggim**'**āsīno**,<br>**esanāpasuto** munī'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -262,12 +227,9 @@
 | \#muni | noun | masc.nom.sg | the sage | √mun + i |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"Scorched, freezing, alone in a frightening grove, naked and not seated [next to] a fire, the sage is devoted to the quest."**
 
-
 10. [TH133](https://find.dhamma.gift/bw/tha/tha2.html)<br>accayanti aho**rattā**,<br>**jīvitaṃ** uparujjhati,<br>**āyu** khīyati **maccānaṃ**,<br>ku**nnadīnaṃ**'va **odakaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -285,12 +247,9 @@
 | \#va | ind |  | like; as |  |
 | **odakaṃ** | noun | nt.nom.sg | the water | √ud + \*aka |
 
-
 **Days and nights fly past, life is finished. The life of mortal men is exhausted like the water of small streams.**
 
-
 11. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>evaṃ **vihārim'ātāpiṃ**, ahorattam'**atanditaṃ**. <br>taṃ ve **bhadd**'ekaratto'ti, **santo** ācikkhate **muni**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -316,12 +275,9 @@
 | ācikkhate | verb | pr.reflex.3rd.sg | describes; shows | ā + √cikkh + a + ti |
 | **muni** | noun | masc.nomm.sg | the sage | √mun + i |
 
-
 **"Living thus ardently, tirelessly throughout the day and night, – it is, indeed, he, who the peaceful sage describes having a single auspicious night."**
 
-
 12. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>**samādhisambojjh'aṅgo** tasmiṃ samaye bhikkhuno **bhāvanāpāripūriṃ** gacchati. so **tathāsamāhitaṃ** **cittaṃ** sādhukaṃ **ajjhupekkhitā** hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -346,12 +302,9 @@
 | **ajjhupekkhitā** | noun | masc.nom.sg | an equanimous observer | adhi + upa + √ikkh + itar |
 | hoti | verb | pr.3rd.sg | he is | √hū + a + ti |
 
-
 **On that occasion, concentration as a factor of enlightenment comes to full development for a monk by meditation; he is one who looks well with equanimity on the thus composed mind.**
 
-
 13. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html)<br>no ce te evaṃ **viharato** taṃ middhaṃ pahīyetha **tato** tvaṃ, **moggallāna**, ubho kaṇṇa**sotāni** āviñjeyyāsi pāṇinā **gattāni** anumajjeyyāsi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -375,12 +328,9 @@
 | **gattāni** | noun | nt.acc.pl | limbs | √gam + tta |
 | anumajjeyyāsi | verb | opt.2nd.sg | you should stroke; massage; rub | anu + √majj + a + ti |
 
-
 **If that drowsiness could not be abandoned when you're dwelling in such a way, then you, Moggallāna, should pull both ear holes [and] you should rub [your] limbs with your hands.**
 
-
 14. [SNP51](https://find.dhamma.gift/bw/snp/snp4.13.html)<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci **diṭṭhaṃ** va **sutaṃ** **mutaṃ** vā,<br>sa **pannabhāro** muni **vippamutto**,<br>na **kappiyo** n'ūparato na patthiyo'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -412,12 +362,9 @@
 | \#patthiyo | adj | masc.nom.sg | desiring; wishing | pa + √atth + iya |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"He, disassociated in all things, anything whatever that has been seen or heard or perceived, the sage who has laid down the load is freed, not fabricating concepts, not abstained, not desiring."**
 
-
 15. [ITI76](https://find.dhamma.gift/bw/it/it.html)<br>**sīlaṃ** rakkheyya **medhāvī**,<br>**patthayāno** tayo sukhe,<br>**pasaṃsaṃ** **vittalābhañ**'ca,<br>pecca **sagge** **pamodanaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -437,12 +384,9 @@
 | **sagge** | noun | masc.loc.sg | in heaven [realms] | √sar + ga |
 | **pamodanaṃ** | noun | fem.acc.sg | delighting | pa + √mud + \*anā |
 
-
 **The intelligent man should protect virtue, aspiring for three pleasures: praise, the gaining of wealth, and after death delighting in heaven [realms].**
 
-
 16. [SN1.49](https://find.dhamma.gift/bw/sn/sn1.49.html)<br>sace enti **manussattaṃ**,<br>dalidde jāyare **kule**,<br>coḷaṃ **piṇḍo** **ratī** khiḍḍā,<br>**yattha** kicchena labbhati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -460,12 +404,9 @@
 | kicchena | ind | adv | with difficulty; with hardship | kiccha + ena |
 | labbhati | verb | pr.pass.3rd.sg | is obtained; is found<br>(used here in pl.) | √labh + ya + ti |
 
-
 **If they (i.e. stingy people) come [back] to a human state, they are born in a poor family, where clothing, a bit of food, pleasure, [and] entertainment are obtained with difficulty.**
 
-
 17. [DHP326](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>idaṃ pure cittam'acāri **cārikaṃ**,<br>yen'**icchakaṃ** **yattha**kāmaṃ yathāsukhaṃ,<br>tadajj'ahaṃ niggahessāmi **yoniso**,<br>**hatthippabhinnaṃ** viya **aṅkusaggaho**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -498,12 +439,9 @@
 | \#**aṅkusaṃ** | noun | masc.acc.sg | hooked pole | √añc + usa |
 | \#**gaho** | noun | masc.nom.sg | holding | √gah + a |
 
-
 **Formerly this mind wandered around on a walking tour wherever it wants, wherever it liked, according to its pleasure, now I will restrain that thoroughly like an elephant driver holding a hooked pole to an elephant in rut (i.e. with juices flowing).**
 
-
 18. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>aṭṭha**padakatā** kesā, **nettā** **añjanamakkhitā**. <br>alaṃ bālassa **mohāya**, no ca pāra**gavesino**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -526,19 +464,8 @@
 | \#pāraṃ | noun | nt.acc.sg | the far shore |  |
 | \#**gavesino** | adj | masc.nom.pl | those seeking | √gaves + ī |
 
-
 **Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore**
-
-
 
 **[^47]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate**
 
-
-
 **[^48]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.**
-
-<div class="nav-links">
-  <a href="../27_class/" class="prev">← Class 27 Exercises</a>
-  <a href="../29_class/" class="next">Class 29 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F28_class" target="_blank">Provide feedback on this page</a></div>
-</div>

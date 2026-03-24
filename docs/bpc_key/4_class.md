@@ -2,19 +2,15 @@
 
 1. [DHP026](https://find.dhamma.gift/bw/dhp/dhp21-32.html) (simpl)<br>bālā pamādaṃ anuyuñjanti
 
-
 | Pāli | POS | Grammar | English |
 |---|---|---|---|
 | bālā | noun | masc.nom.pl | fools |
 | pamādaṃ | noun | masc.acc.sg | carelessness; negligence |
 | anuyuñjanti | verb | pr.3rd.pl | indulge in |
 
-
 **Fools indulge in negligence.**
 
-
 2. [AN3.66](https://find.dhamma.gift/bw/an/an3.65.html) (simpl)<br>sugatiṃ saggaṃ lokaṃ upapajjāmi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -23,12 +19,9 @@
 | lokaṃ | noun | masc.acc.sg | world; plane of existence |
 | upapajjāmi | verb | pr.1st sg | I am reborn; I go towards |
 
-
 **I go towards a good destination, a heavenly plane of existence.**
 
-
 3. [AN3.70](https://find.dhamma.gift/bw/an/an3.69.html)<br>abhisaṅkharoti kāyena kusalaṃ.
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -36,12 +29,9 @@
 | kāyena | noun | masc.instr.sg | by means of the body |
 | kusalaṃ | noun | nt.acc.sg | good deed; merit; benefit |
 
-
 **He does good deeds by means of the body.**
 
-
 4. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā'ti
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -59,12 +49,9 @@
 | taṇḍulā'ti | noun | masc.nom.pl | dehusked rice"" |
 | (honti) | verb | pr.3rd.pl | (these are) |
 
-
 **"These are fine rices, these are paddy, these are mung beans, these are speckled beans, these are sesame, these are dehusked rice."**
 
-
 5. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>atha kho bhagavā bhikkhū āmantesi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -73,12 +60,9 @@
 | bhikkhū | noun | masc.acc.pl | monks |
 | āmantesi | verb | aor.3rd.sg | he spoke to, addressed |
 
-
 **And then the Blessed One addressed the monks.**
 
-
 6. [SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html) (simpl) <br>atha kho āyasmā tisso upasaṅkami, ekamantaṃ nisīdi.
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -89,12 +73,9 @@
 | ekamantaṃ | ind | adv | on one side |
 | nisīdi. | verb | aor.3rd.sg | he sat |
 
-
 **And then Venerable Tissa approached and sat down to one side.**
 
-
 7. [SN35.121](https://find.dhamma.gift/bw/sn/sn35.121.html) <br>āyasmā rāhulo bhagavato bhāsitaṃ abhinandi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -104,12 +85,9 @@
 | bhāsitaṃ | noun | nt.acc.sg | words, speech |
 | abhinandi | verb | aor.3rd.sg | delighted in, was happy with |
 
-
 **Venerable Rahula delighted in the speech of the Blessed One.**
 
-
 8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>ahaṃ sakamhā gāmā amuṃ gāmaṃ agacchiṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -120,12 +98,9 @@
 | gāmaṃ | noun | masc.acc.sg | village |
 | agacchiṃ | verb | aor.1st.sg | I went |
 
-
 **I went from my own village to such and such a village.**
 
-
 9. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>byādhi dhammo amhi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -133,12 +108,9 @@
 | dhammo | noun | masc.nom.sg | nature |
 | amhi | verb | pr.1st.sg | I am |
 
-
 **I am of the nature to get sick. (lit. I am of the sickness nature)**
 
-
 10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>samaṇā amhā'ti paṭijānātha
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -147,12 +119,9 @@
 | iti | ind |  | "" |
 | paṭijānātha | verb | pr.2nd.pl | you all claim, agree |
 
-
 **You all claim, "We are ascetics."**
 
-
 11. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl)<br>tatra evaṃ aṭṭhāsiṃ evaṃ nisīdiṃ evaṃ abhāsiṃ evaṃ tuṇhī ahosiṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -167,12 +136,9 @@
 | tuṇhī | ind | adv | silent |
 | ahosiṃ | verb | aor.1st.sg | I was |
 
-
 **There I stood like this, I sat like this, I spoke like this and I remained silent like this.**
 
-
 12. [SN2.8](https://find.dhamma.gift/bw/sn/sn2.8.html) (simpl)<br>chinda sotaṃ parakkama, kāme panūda brāhmaṇa
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -183,12 +149,9 @@
 | panūda | verb | imp.2nd.sg | dispel |
 | brāhmaṇa | noun | masc.voc.sg | O brahmin, holy man |
 
-
 **Cross the stream, strive, dispel sensual pleasures, O holy man!**
 
-
 13. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html)<br>paññā udapādi vijjā udapādi āloko udapādi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -199,12 +162,9 @@
 | āloko | noun | masc.nom.sg | light |
 | udapādi | verb | aor.3rd.sg | arose |
 
-
 **Wisdom arose, knowledge arose, light arose.**
 
-
 14. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) (simpl)<br>evaṃ me saṅkhārā hontu
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -213,12 +173,9 @@
 | saṅkhārā | noun | masc.nom.pl | volitional formations |
 | hontu | verb | imp.3rd.pl | let them be |
 
-
 **Let my volitional formations be thus.**
 
-
 15. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>bhikkhū bhagavato bhāsitaṃ abhinanduṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -227,12 +184,9 @@
 | bhāsitaṃ | noun | masc.acc.sg | the utterance; the speech |
 | abhinanduṃ | verb | aor.3rd.pl | they were pleased with (+acc) |
 
-
 **The monks were pleased with the utterance of the Blessed One.**
 
-
 16. [SN12.2](https://find.dhamma.gift/bw/sn/sn12.2.html) (simpl)<br>dukkhassa khandhassa samudayo hoti
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -241,12 +195,9 @@
 | samudayo | noun | masc.nom.sg | the arising |
 | hoti | verb | pr.3rd.sg | there is |
 
-
 **There is the arising of the mass of suffering.**
 
-
 17. [DHP153](https://find.dhamma.gift/bw/dhp/dhp146-156.html) (simpl)<br>gahassa kāraka, diṭṭho asi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -255,12 +206,9 @@
 | diṭṭho | pp | masc.nom.sg | seen; found; visible |
 | asi | verb | pr.2nd.sg | you are |
 
-
 **O, Builder of a house, you are seen.**
 
-
 18. [MN10](https://find.dhamma.gift/bw/mn/mn10.html) (simpl)<br>‘atthi kāyo'ti sati hoti.
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -270,12 +218,9 @@
 | sati | noun | fem.nom.sg | mindfulness |
 | hoti | verb | pr.3rd.sg | there is |
 
-
 **There is mindfulness: "there is a body."**
 
-
 19. [VIN2.5.1.2](https://find.dhamma.gift/bw/vi/bu-vb-pc2.html)<br>"santi idha ekacce khattiyā ca brāhmaṇā"ti bhaṇati
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -288,12 +233,9 @@
 | iti | ind |  | "" |
 | bhaṇati | verb | pr.3rd.sg | he says |
 
-
 **He says, "There are here some noblemen [and] brahmins."**
 
-
 20. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl)<br>me āsi kāye balaṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -302,12 +244,9 @@
 | kāye | noun | masc.loc.sg | in the body |
 | balaṃ | noun | nt.nom.sg | power, strength |
 
-
 **Power was in my body.**
 
-
 21. [AN4.48](https://find.dhamma.gift/bw/an/an4.48.html) (simpl)<br>paggaṇhahi isīnaṃ dhajaṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -315,12 +254,9 @@
 | isīnaṃ | noun | masc.gen.pl | of the sages |
 | dhajaṃ | noun | masc.acc.sg | a banner |
 
-
 **Raise up a banner of the sages!**
 
-
 22. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html) (simpl)<br>bhikkhū paribbājakehi sammodiṃsu
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -328,12 +264,9 @@
 | paribbājakehi | noun | masc.instr.pl | with the wandering ascetics |
 | sammodiṃsu | verb | aor.3rd.pl | they greeted; exchanged pleasantries |
 
-
 **The monks exchanged pleasantries with the wandering ascetics.**
 
-
 23. [MN95](https://find.dhamma.gift/bw/mn/mn95.html) (simpl)<br>saccaṃ bhavantaṃ gotamaṃ apucchimha, saccaṃ bhavaṃ gotamo byākāsi
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -346,12 +279,9 @@
 | gotamo | noun | masc.nom.sg | Gotama |
 | byākāsi | verb | aor.3rd.sg | explained; answered |
 
-
 **We asked master Gotama (about) the truth, master Gotama explained the truth.**
 
-
 24. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>bhikkhū bhagavato paccassosuṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -359,12 +289,9 @@
 | bhagavato | noun | masc.dat.sg | to the Blessed One |
 | paccassosuṃ | verb | aor.3rd.pl | replied |
 
-
 **The monks replied to the Blessed One.**
 
-
 25. [AN3.156](https://find.dhamma.gift/bw/an/an3.155.html)<br>arogā sukhitā hotha
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -372,12 +299,9 @@
 | sukhitā | adj | masc.nom.pl | happy, at ease |
 | hotha | verb | imp.2nd.pl | may you all be |
 
-
 **May you all be happy (and) free from disease.**
 
-
 26. [MN86](https://find.dhamma.gift/bw/mn/mn86.html) (simpl)<br>coro ahaṃ pure āsiṃ, aṅgulimālo vissuto … buddhaṃ saraṇaṃ āgamiṃ.
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -391,12 +315,9 @@
 | saraṇaṃ | noun | nt.acc.sg | refuge |
 | āgamiṃ | verb | aor.1st.sg | I came to |
 
-
 **I was formerly a thief, the famous Angulimāla… I came to the Buddha (for) refuge.**
 
-
 27. [AN5.28](https://find.dhamma.gift/bw/an/an5.28.html) (simpl)<br>ariyassa samādhissa bhāvanaṃ desesiṃ
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -405,12 +326,9 @@
 | bhāvanaṃ | noun | fem.acc.sg | the cultivation; the development |
 | desesiṃ | verb | aor.1st.sg | I taught; preached |
 
-
 **I taught the cultivation of noble composure.**
 
-
 28. [DN16.39](https://find.dhamma.gift/bw/dn/dn16.html)<br>upaddutā homa — "idaṃ kappati, idaṃ na kappati" iti
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -423,15 +341,11 @@
 | kappati | verb | pr.3rd.sg | is suitable |
 | iti | ind |  | (end of quote) |
 
-
 **We are troubled – "this is suitable, this is not suitable"**
-
-
 
 ## Class 4 Extra
 
 1. [MN98](https://find.dhamma.gift/bw/mn/mn98.html) <br>kassako kammunā hoti, sippiko hoti kammunā,<br>vāṇijo kammunā hoti, pessako hoti kammunā.
-
 
 | Pāli | POS | Grammar | English |
 |---|---|---|---|
@@ -448,12 +362,9 @@
 | hoti | verb | pr.3rd.sg | he is |
 | kammunā | noun | nt.instr.sg | by action |
 
-
 **By one's actions, one is a farmer, a craftsman, a trader, a messenger**
 
-
 2. [DHP183](https://find.dhamma.gift/bw/dhp/dhp179-196.html)<br>nibbindati dukkhe esa maggo visuddhiyā
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -463,12 +374,9 @@
 | maggo | noun | masc.nom.sg | path |
 | visuddhiyā | noun | fem.dat.sg | for purification |
 
-
 **One is disenchanted in suffering, this [is] the path for purification.**
 
-
 3. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>evaṃ gāme muni cari
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -477,12 +385,9 @@
 | muni | noun | masc.nom.sg | the sage |
 | cari | verb | aor.3rd.sg | walked |
 
-
 **The sage walked in the village like this.**
 
-
 4. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>kāyassa saṃvarāya paṭipajjāhi, rakkhāhi kāyaṃ, kāye saṃvaraṃ āpajjāhi.
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -495,12 +400,9 @@
 | saṃvaraṃ | noun | masc.acc.sg | restraint |
 | āpajjāhi | verb | imp.2nd.sg | arouse |
 
-
 **Practice for restraint of the body (faculty), guard the body (faculty), <br>arouse restraint in regard to the body (faculty).**
 
-
 5. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>ādittaṃ rāga-agginā, dosa-agginā, moha-agginā
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -512,12 +414,9 @@
 | moha- | noun |  | (of) delusion |
 | agginā | noun | masc.instr.sg | with the fire |
 
-
 **It is burning with the fire of lust, with the fire of hatred, with the fire of delusion.**
 
-
 6. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (modif)<br>samaṇassa ahu vitakko
-
 
 |  |  |  |  |
 |---|---|---|---|
@@ -525,11 +424,4 @@
 | ahu | verb | aor.3rd.sg | it was |
 | vitakko | noun | masc.nom.sg | a thought |
 
-
 **It was a thought of the recluse.**
-
-<div class="nav-links">
-  <a href="../3_class/" class="prev">← Class 3 Exercises</a>
-  <a href="../5_class/" class="next">Class 5 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F4_class" target="_blank">Provide feedback on this page</a></div>
-</div>

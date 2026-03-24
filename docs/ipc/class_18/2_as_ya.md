@@ -1,60 +1,54 @@
 # Phonetic changes
 
-
 ### Phonetic changes of -y-
-***
+
 This is by far the most common type of phonetic change and occurs with the formation of **passive verbs**, verbs of the **3rd** **conjugation**, **gerunds**, and numerous **derived** **nouns**.
-***
+
 Often a part of speech ending in **-i** can change to **-y** and then these same rules apply.
-***
+
 How is **ya** used to form **group 3 & passive verbs**?
-***
+
 How is **ya** used to form **potential particles**?
-***
+
 How is **ya** used to form **gerunds**?
-***
+
 **How is ya used to form group 3 & passive verbs?**
-***
+
 √root + **ya** \> base
-***
+
 prefixes + base + verbal ending \> verb
-***
+
 √chi**d** (to cut) + ya \> chi**jj**a
-***
+
 chijja + ti \> chijjati (it is cut)
-***
+
 √mu**c** (to free) + ya \> mu**cc**a
-***
+
 mucca + ti \> muccati (is freed)
-***
+
 **How is ya used to form potential particles?**
-***
+
 prefixes + √root + ya \> ptp
-***
 
 |  | √guh | (to hide) | **+ ya** | guyha | could be hidden |
 |---|---|---|---|---|---|
 | a + saṃ | √kup | (to shake) | **+ ya** | asaṃku**pp**a | could not be shaken |
 |  | √vadh | (to kill) | **+ ya** | va**jjh**a | could be killed |
 
-***
 **How is ya used to form gerunds?**
-***
+
 prefixes + √root + **ya** \> gerund
-***
 
 | ā | √gam | (to go) | + ya | āga**mm**a | arriving |  |
 |---|---|---|---|---|---|---|
 | vi | √sajj | (to relinquish) | + ya | visajja | releasing |  |
 
-***
 **k + y \> kk**
 
 |  |  |  |
 | --- | --- | --- |
 | √sak + ya | sa**kk**a | adj. able; capable |
 
-***
 **c + y \> cc**
 
 |  |  |  |
@@ -62,7 +56,6 @@ prefixes + √root + **ya** \> gerund
 | vi + √vic + ya | vivi**cc**a | ger. separating |
 | √muc + ya + ti | mu**cc**ati | pr. is free |
 
-***
 **j + y \> jj**
 
 |  |  |  |
@@ -70,7 +63,6 @@ prefixes + √root + **ya** \> gerund
 | vi + √bhaj + ya | vibha**jj**a | ger. analysing in detail |
 | √rāj + ya | ra**jj**a | nt. rulership |
 
-***
 **t + y \> cc**
 
 |  |  |  |
@@ -80,7 +72,6 @@ prefixes + √root + **ya** \> gerund
 | ni + √pat + ya | nipa**cc**a | ger. falling down |
 | santa \> sat + ya | sa**cc**a | nt. truth |
 
-***
 **th + y \> cch**
 
 |  |  |  |
@@ -89,7 +80,6 @@ prefixes + √root + **ya** \> gerund
 | tatha + ya | ta**cch**a | adj. truthful |
 | ratha + yā | ra**cch**ā | fem. carriage road |
 
-***
 **d + y \> jj**
 
 |  |  |  |
@@ -99,7 +89,6 @@ prefixes + √root + **ya** \> gerund
 | √bhid + ya + ti | bhi**jj**ati | pr. is broken |
 | √chid + ya + ti | chi**jj**ati | pr. is cut off |
 
-***
 **dh + y \> jjh**
 
 |  |  |  |
@@ -108,7 +97,6 @@ prefixes + √root + **ya** \> gerund
 | √budh + ya + ti | bu**jjh**ati | pr. knows |
 | vi + √rudh + ya + ti | viru**jjh**ati | pr. is obstructed |
 
-***
 **n + y \> ññ**
 
 |  |  |  |
@@ -117,7 +105,6 @@ prefixes + √root + **ya** \> gerund
 | √man + ya + ti | ma**ññ**ati | pr. thinks |
 | √han + ya + ti | ha**ññ**ati | pr. is killed |
 
-***
 **p + y \> pp**
 
 |  |  |  |
@@ -126,7 +113,6 @@ prefixes + √root + **ya** \> gerund
 | √tap + ya + ti | ta**pp**ati | pr. is burnt |
 | √dīp + ya + ti | di**pp**ati | pr. shines |
 
-***
 **bh + y \> bbh**
 
 |  |  |  |
@@ -135,7 +121,6 @@ prefixes + √root + **ya** \> gerund
 | √labh + ya + ti | la**bbh**ati | pr. is obtained |
 | √lubh + ya + ti | lu**bbh**ati | pr. is greedy |
 
-***
 **m + y \> mm**
 
 |  |  |  |
@@ -144,7 +129,6 @@ prefixes + √root + **ya** \> gerund
 | ā + √gam + ya | āga**mm**a | ger. coming |
 | √sam + ya + ti | sa**mm**ati | pr. is calm |
 
-***
 **l + y \> ll**
 
 |  |  |  |
@@ -152,7 +136,6 @@ prefixes + √root + **ya** \> gerund
 | √kal + ya | ka**ll**a | adj. proper |
 | √jal + ya | ja**ll**a | nt. mud |
 
-***
 **v + y \> bb**
 
 |  |  |  |
@@ -160,7 +143,6 @@ prefixes + √root + **ya** \> gerund
 | √div + ya + ti | di**bb**ati | pr. shines |
 | √siv + ya + ti | si**bb**ati | pr. sews |
 
-***
 **s + y \> ss**
 
 |  |  |  |
@@ -171,7 +153,6 @@ prefixes + √root + **ya** \> gerund
 | √kilis + ya + ti | kili**ss**ati | pr. is impure |
 | √mus + ya + ti | mu**ss**ati | pr. forgets |
 
-***
 **h + y \> yh**
 
 |  |  |  |
@@ -179,12 +160,3 @@ prefixes + √root + **ya** \> gerund
 | upa + √nah + ya + ti | upana**yh**ati | pr. binds onto |
 | a + vi + √sah + ya | avisa**yh**a | ptp. not to be overcome |
 | √gah + ya + ti | ga**yh**ati | pr. is grasped |
-
-***
-
-<div class="nav-links">
-  <a href="../1_phonetic/" class="prev">← Phonetic Changes</a>
-  <a href="../3_as_ta/" class="next">Phonetic changes of -t- →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F2_as_ya" target="_blank">Provide feedback on this page</a></div>
-</div>

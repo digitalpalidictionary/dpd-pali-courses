@@ -1,3 +1,7 @@
+"""
+Verification script for PDF content integrity.
+Extracts text from generated PDFs and compares it with source Markdown to ensure no data loss.
+"""
 import os
 import re
 import argparse

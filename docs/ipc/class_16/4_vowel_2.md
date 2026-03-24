@@ -1,23 +1,23 @@
 # Possibility \#2
 
 When a dissimilar vowel follows another vowel, it is sometimes elided.
-***
+
 cakkh**u![](../../assets/images/pacman-forward.png)i**ndriyaṃ **\>** cakkh**u**ndriyaṃ
-***
+
 **u![](../../assets/images/pacman-forward.png)i \> u**
-***
+
 This means:
-***
+
 when a word ends in **u**,
-***
+
 and the next word starts with **i**,
-***
+
 the **i** can be elided,
-***
+
 and only the **u** will remain.
-***
+
 In Kaccāyana this is called (13) **vā paro asarūpo.**
-***
+
 **a![](../../assets/images/pacman-forward.png)i \> a**
 
 |  |  |  |
@@ -25,7 +25,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | iti’ss**a** | **i**me | itiss**a**me |
 | thus for him | these | thus for him these |
 
-***
 **ā![](../../assets/images/pacman-forward.png)i \> ā**
 
 |  |  |  |
@@ -35,7 +34,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | att**ā** | **i**ti | att**ā**ti |
 | self | thus/” | “self” |
 
-***
 **ā![](../../assets/images/pacman-forward.png)e \> ā**
 
 |  |  |  |
@@ -45,7 +43,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | s**ā** | **e**va | s**ā**va |
 | she | just | just that |
 
-***
 **i![](../../assets/images/pacman-forward.png)a \> i**
 
 |  |  |  |
@@ -60,7 +57,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | ut**u** | **a**kkhāna | ut**u**kkhāna |
 | season | announcing | announcing seasons |
 
-***
 **u![](../../assets/images/pacman-forward.png)i \> u**
 
 |  |  |  |
@@ -70,7 +66,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | s**u** | **i**daṃ | s**u**daṃ |
 | indeed | this | truly this |
 
-***
 **u![](../../assets/images/pacman-forward.png)e \> u**
 
 |  |  |  |
@@ -78,7 +73,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | n**u** | **e**ttha | n**u**ttha |
 | what? | here | what here? |
 
-***
 **ū![](../../assets/images/pacman-forward.png)a \> ū**
 
 |  |  |  |
@@ -86,7 +80,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | akataññ**ū** | **a**si | akataññ**ū**si |
 | knower of the uncreated | you are | you are a knower of the uncreated |
 
-***
 **e![](../../assets/images/pacman-forward.png)a \> e**
 
 |  |  |  |
@@ -96,7 +89,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | sac**e** | **a**pi | sac**e**pi |
 | if | even | even if |
 
-***
 **e![](../../assets/images/pacman-forward.png)i \> e**
 
 |  |  |  |
@@ -106,7 +98,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | ākās**e** | **i**va | ākās**e**va |
 | in the sky | just like | just like in the sky |
 
-***
 **o![](../../assets/images/pacman-forward.png)a \> o**
 
 |  |  |  |
@@ -116,7 +107,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | s**o** | **a**pi | s**o**pi |
 | he | also, even | also, even he |
 
-***
 **o![](../../assets/images/pacman-forward.png)i \> o**
 
 |  |  |  |
@@ -131,15 +121,6 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | pāt**o** | **e**va | pāt**o**va |
 | morning | just | early morning |
 
-***
 what is **Possibility \#2**?
-***
-When a dissimilar vowel follows another vowel, it is sometimes elided.
-***
 
-<div class="nav-links">
-  <a href="../3_vowel_1/" class="prev">← Elision of a Vowel</a>
-  <a href="../5_vowel_3/" class="next">Lengthening of a Vowel →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F4_vowel_2" target="_blank">Provide feedback on this page</a></div>
-</div>
+When a dissimilar vowel follows another vowel, it is sometimes elided.

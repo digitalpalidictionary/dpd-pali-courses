@@ -12,11 +12,9 @@
 | 7.loc | bhūm**iyā**<br>bhūm**iyaṃ** | bhūm**isu** <br>bhūm**īsu** |
 | 8.voc | bhūm**i** | bhūm**ī** bhūm**iyo** |
 
-***
 ### Feminine Nouns ending in -ī
 
 This is a common way of forming feminine versions of masculine nouns.
-***
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -28,11 +26,9 @@ This is a common way of forming feminine versions of masculine nouns.
 | kukkuṭa | rooster | kukkuṭ**ī** | hen |
 | deva | king, god | dev**ī** | queen, goddess |
 
-***
 this group also includes common feminine nouns like:
-***
+
 **itthī** (woman), **pathavī** (earth), **bhaginī** (sister) etc.
-***
 
 | 1.nom | kumār**ī** | kumār**ī** <br>kumār**iyo** |
 |---|---|---|
@@ -44,7 +40,6 @@ this group also includes common feminine nouns like:
 | 7.loc | kumār**iyā**<br>kumār**iyaṃ** | kumār**isu** <br>kumār**īsu** |
 | 8.voc | kumār**ī** | kumār**ī** kumār**iyo** |
 
-***
 ### Feminine Nouns ending in -u {: #feminine-nouns-ending-in-u}
 
 | 1.nom | yāg**u** | yāg**ū** <br>yāg**uyo** |
@@ -57,13 +52,11 @@ this group also includes common feminine nouns like:
 | 7.loc | yāg**uyā** <br>yāg**uyaṃ** | yāg**usu** <br>yāg**ūsu** |
 | 8.voc | yāg**u** | yāg**ū** <br>yāg**uyo** |
 
-***
 the most common feminine noun in this group - **dhātu**
-***
+
 ### Feminine nouns mātu (mātar) and dhītu (dhītar)
 
 These are irregular in form
-***
 
 | 1.nom | māt**ā** | māt**aro** |
 |---|---|---|
@@ -75,11 +68,9 @@ These are irregular in form
 | 7.loc | māt**ari** <br>māt**uyā** | māt**aresu** |
 | 8.voc | māt**a** <br>māt**ā** | māt**ā** <br>māt**aro** |
 
-***
 ### Feminine Nouns ending in -ikā
 
 A common way to create masculine nouns is with **-aka** suffix. The feminine version of this is **-ikā**. These nouns are declined like **vedanā**
-***
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -92,11 +83,9 @@ A common way to create masculine nouns is with **-aka** suffix. The feminine ver
 | sāv**aka** | disciple | sāv**ikā** | fem. disciple |
 | gāy**aka** | singer | gāy**ikā** | fem. singer |
 
-***
 ### Feminine Nouns ending in -inī {: #feminine-nouns-ending-in-ini}
 
 Masculine nouns ending in **-ī** having the feminine form of **-inī**. They are declined like **kumarī**.
-***
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -109,16 +98,8 @@ Masculine nouns ending in **-ī** having the feminine form of **-inī**. They ar
 | sappī | serpent | sapp**inī** | fem. snake |
 | tapass**ī** | ascetic | tapass**inī** | fem. ascetic |
 
-***
 ### Feminine Nouns ending in -unī {: #feminine-nouns-ending-in-uni}
 
 Similar to the previous one. The most common example is **bhikkhunī**. It is declined like **kumarī**.
 
 They are declined same as **ī fem** (like **kumārī)**
-
-<div class="nav-links">
-  <a href="../2_abs_ger/" class="prev">← Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā)</a>
-  <a href="../4_adv_place/" class="next">Adverbs of place →</a>
-  <div class="cross"><a href="../../../bpc_ex/8_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_8%2F3_fem" target="_blank">Provide feedback on this page</a></div>
-</div>

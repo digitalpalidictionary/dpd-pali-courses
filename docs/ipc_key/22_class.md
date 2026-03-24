@@ -2,10 +2,7 @@
 
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
 
-
-
 1. [SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html)<br>kiṃ'sū asissāmi kuvaṃ vā asissaṃ, <br>dukkhaṃ vata settha kv'ajja sessaṃ, <br>ete vitakke paridevaneyye, <br>vinayetha sekho aniketacārī.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -32,12 +29,9 @@
 | \#aniketa | adj | masc. | homeless (lit: one who is without a home) |  |
 | \#cārī | noun | masc.nom.sg | one who is wandering | √car･1 a (act, behave) |
 
-
 **What will I eat? Where will I (myself) eat? Alas, you slept (lit: sleep) badly! Where do I (myself) sleep today? A trainee, one who is wandering without a home, should dispel these lamentable thoughts.**
 
-
 2. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html)<br>asmī'ti, bhikkhave, maññitam'etaṁ, 'ayam'aham'asmī'ti maññitam'etaṁ, 'bhavissan'ti maññitam'etaṁ, 'na bhavissan'ti maññitam'etaṁ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,12 +60,9 @@
 | \#bhavissaṃ | verb | fut. (reflex) 1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"I am" is imagination; "this I am" is imagination; "I will be." is imagination; "I will not be." is imagination.**
 
-
 3. [SNP37](https://find.dhamma.gift/bw/snp/snp3.11.html)<br>moneyyaṃ te upaññissaṃ, dukkaraṃ durabhisambhavaṃ,<br>handa te naṃ pavakkhāmi, santhambhassu daḷho bhava.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -88,12 +79,9 @@
 | daḷho | adj | masc.nom.sg | strong; firm; steady |  |
 | bhava | verb | imp.2nd.sg (+nom) | you must be | √bhū･1 a (be, become) |
 
-
 **I myself will explain sagehood to you, hard to achieve, hard to attain . Come, I will tell you [about] it: Stand yourself firm, you must be strong/steady.**
 
-
 4. [TH262](https://find.dhamma.gift/bw/tha/tha19.html)<br>ādittato'haṃ samathehi yutto, <br>paññāya dacchaṃ tad'idaṃ kadā me.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -110,12 +98,9 @@
 | kadā | ind | interr | when |  |
 | me | pron | masc.dat.sg | for me |  |
 
-
 **I am as on fire, [although] engaged in serenity; when will I see with wisdom this state for myself?**
 
-
 5. [AN4.49](https://find.dhamma.gift/bw/an/an4.49.html)<br>aniccaṃ aniccato dakkhuṃ, dukkham'addakkhu dukkhato. <br>anattani 'anattā'ti, asubhaṃ asubhat'addasuṃ. <br>sammādiṭṭhisamādānā, sabbaṃ dukkhaṃ upaccagun'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -145,12 +130,9 @@
 | \#upaccaguṃ | verb | imperf.3rd.pl | they overcame (lit: they went past) | √gam･1 a (go) |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"They saw what is impermanent as impermanent. They saw suffering as suffering. (They have seen) in what is non-self as 'non-self', they have perceived what is foul as foul. Taking upon themselves right view, they overcame all suffering."**
 
-
 6. [DHP143](https://find.dhamma.gift/bw/dhp/dhp129-145.html)<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -170,12 +152,9 @@
 | \#kasaṃ | whip | fem.acc.sg | the whip |  |
 | \#iva | ind |  | like; as |  |
 
-
 **(lit:) A person, restrained by conscience, exists somewhere in the world, who avoids blame like the fortunate horse the whip.<br>(Figuratively):<br>Is any person found in the world who, restrained by conscience, avoids blame like the fortunate horse (avoids) the whip?**
 
-
 7. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>paccuppannañ'ca yaṃ dhammaṃ, tattha tattha vipassati. asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā m'anubrūhaye.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -196,17 +175,11 @@
 | \#m | consonant |  | insertion of consonant between two vowels |  |
 | \#anubrūhaye | verb | opt.3rd.sg | would/should foster; cultivate; develop | √brūh･1 \*aya (increase) |
 
-
 **And he understands with insight right there any state which is presently arisen. (or)<br>And he understands with insight in each and every case a state which is presently arisen. <br>One who is wise should cultivate that unmovable and steady [state].**
-
-
 
 **[^23]: Alt. this could be seen as an abl.sg. "from/through the acquiring of Right View"**
 
-
-
 8. [TH206](https://find.dhamma.gift/bw/tha/tha5.html) <br>satiyā taṃ **nibandhissaṃ**,<br>payutto te damessāmi,<br>vīriyadhuraniggahito,<br>na yito dūraṃ **gamissase** cittā'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -227,12 +200,9 @@
 | gamissase | verb | fut.reflx.2nd.sg | you yourself will go | √gam･1 \*e (go) |
 | cittā'ti | noun | nt.voc.sg | mind | √cit･8 \*e (think, intend) |
 
-
 **"I will bind you with mindfulness,<br>intent, I will tame you,<br>reigned in by the yoke of effort,<br>you won't go far from here, mind".**
 
-
 9. [MN56](https://find.dhamma.gift/bw/mn/mn56.html) <br>api cāhaṃ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṃ bhagavantaṃ paccanīkaṃ kātabbaṃ **amaññissaṃ**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -255,12 +225,9 @@
 | kātabbaṃ | ptp | masc.acc.sg | should be made | √kar･7 o (do, make) |
 | amaññissaṃ | verb | aor.1st.sg | I thought | √man･3 ya (think) |
 
-
 **But wishing to hear these varied intelligent answers of the Blessed One, I just thought I should oppose the Blessed One (lit. an opposition should be made)**
 
-
 10. [SN22.96](https://find.dhamma.gift/bw/sn/sn22.96.html) <br>ettako cepi, bhikkhu, attabhāvapaṭilābho **abhavissa** nicco dhuvo sassato avipariṇāmadhammo, nayidaṃ brahmacariyavāso paññāyetha sammā dukkhakkhayāya.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -293,12 +260,9 @@
 | \#dukkhassa | noun | nt.gen.sg | of suffering | √dukkh･1 a (be painful) |
 | \#khayāya | noun | masc.dat.sg | for the destruction | √khī･1 a (destroy, exhaust) |
 
-
 **Monk, even if there were this much personal existence that is stable, permanent, eternal, with an unchanging nature, living this holy life for the complete destruction of suffering would not be evident.**
 
-
 11. [MN73](https://find.dhamma.gift/bw/mn/mn73.html) <br>sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -330,12 +294,9 @@
 | \#tena |  |  |  |  |
 | \#aṅgena |  |  |  | √añj･8 \*e (distinguish) |
 
-
 **Sir Gotama, if only you were successful in this holy life, but the monks would not be successful, this holy life would be incomplete in that regard.**
 
-
 12. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>saṅkhārā ca hidaṃ, bhikkhave, attā **abhavissaṃsu**, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — 'evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -365,12 +326,9 @@
 | saṅkhārā | noun | masc.nom.pl | mental intentions | √kar･7 o (do, make) |
 | mā ahesun'ti | verb | aor.3rd.pl | may they not be | √hū･1 a (be) |
 
-
 **If mental processes were yourself, monks, in that case mental processes would not lead to affliction; and it would be possible to get with regard to mental processes: "May my mental processes be like this, may my mental processes not be like this."**
 
-
 13. [UD73](https://find.dhamma.gift/bw/ud/ud8.3.html) <br>no cetaṃ bhikkhave **abhavissa** ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ **paññāyetha**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -394,12 +352,9 @@
 | nissaraṇaṃ | noun | nt.nom.sg | escape, exit | √sar･1 a (go, flow) |
 | paññāyetha | verb | opt.reflx.3rd.sg | it would be evident | √ñā･5 ya (know) |
 
-
 **Monks, if there were not an unborn, unbecome, unmade and uncreated, there would be no evident escape from the born, the become, the made and the created.**
 
-
 14. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>tassa nevassa puratthimāya disāya udakassa āyamukhaṃ ... devo ca na kālena kālaṃ sammādhāraṃ **anuppaveccheyya**.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -424,16 +379,11 @@
 | \#dhāraṃ | noun | fem.acc.sg | rain shower | √dhar･1 a (hold, carry, endure) |
 | anuppaveccheyya | verb | opt.3rd.sg | would give; would bestow | √yam･1 a (support, stretch) |
 
-
 **If there were no water inflow from the eastern direction... and if the rain clouds would not provide thorough downpour from time to time**
-
-
-
 
 ## Class 22 Extra Examples
 
 1. [SN1.35](https://find.dhamma.gift/bw/sn/sn1.35.html)<br>atha kho tā devatāyo bhiyyosomattāya ujjhāyantiyo vehāsaṃ abbhuggañchuṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -448,12 +398,9 @@
 | vehāsaṃ | noun | masc.acc.sg | in the air; in the sky |  |
 | abbhuggañchuṃ | verb | aor.3rd.pl (+acc) | rose up; flew up (into) | abhi ud√gam･1 a (go) |
 
-
 **After that those deities, finding fault to an even greater measure, flew up into the sky.**
 
-
 2. [VIN PAT NP 27](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>app'eva nāma mayam'pi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā'ti. evañ'ca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattam'pi, nissaggiyaṃ pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -492,12 +439,9 @@
 | nissaggiyaṃ | adj | nt.nom.sg | involving forfeiture | √sajj･1 a (relinquish, let loose) |
 | pācittiyaṃ | noun | nt.nom.sg | offence requiring confession |  |
 
-
 **"Perhaps, we too should give a little something to the venerables." And if that monk, having said [this] should give a little something, even just a little bit of alms-food, [this is a case] involving confession and forfeiture.**
 
-
 3. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html)<br>adāsi me akāsi me, ñātimittā sakhā ca me. <br>petānaṃ dakkhiṇaṃ dajjā, pubbe katam'anussaraṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -519,13 +463,9 @@
 | \#kataṃ | pp | nt.acc.sg | what was done | √kar･7 o (do, make) |
 | \#anussaraṃ | prp | masc.nom.sg | remembering; recollecting | √sar･1 a (remember) |
 
-
 **"He gave to me, he did for me, they [were] my family, friends, and companions"; one should give a donation to the departed, remembering what was done before (by them).**
 
-
-
 4. [MN65](https://find.dhamma.gift/bw/mn/mn65.html) <br>etha, tumhepi, bhikkhave, ekāsanabhojanaṃ bhuñjatha; ekāsanabhojanaṃ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca **sañjānissatha** appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcā'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -573,12 +513,9 @@
 | \#ca | ind | conj | and |  |
 | \#iti | ind |  | "" |  |
 
-
 **"Come monks! You all too should eat (your) meal in one sitting. O monks, eating (your) meal in one sitting, you too will experience good health and well-being, physical lightness, strength and a comfortable existence".**
 
-
 5. [SN35.194](https://find.dhamma.gift/bw/sn/sn35.194.html) <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -636,12 +573,9 @@
 | \#nibbānassa | noun | nt.acc.sg |  | √vā･1 a (blow, emit odour) |
 | \#pabbhārā | noun | masc.nom.pl |  |  |
 
-
 **Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, not sink down in the middle, nor wash up on dry land, nor be grabbed by humans, nor be grabbed by non-humans, nor be grabbed by a whirlpool, nor become rotten inside, like this you will be sloping to going out, (nibbāna) slanting to going out, inclining to going out.**
 
-
 6. [AN2.9](https://find.dhamma.gift/bw/an/an2.9.html) <br>ime kho, bhikkhave, dve sukkā dhammā lokaṃ na **pāleyyuṃ**, nayidha **paññāyetha** mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. sambhedaṃ loko **agamissa**, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -679,11 +613,4 @@
 | \#soṇa (+ca) | noun | masc.nom.pl | dogs |  |
 | \#siṅgālā (ca) | noun | masc.nom.pl | jackals |  |
 
-
 **If these two wholesome principles did not protect the world, it would not be clear, (this is my) mother, (this is my) mother's sister, (this is my) uncle's wife, (these are) wives of teachers. The world would become confused like goats and sheep, chickens and pigs, dogs and jackals.**
-
-<div class="nav-links">
-  <a href="../21_class/" class="prev">← Class 21 Exercises</a>
-  <a href="../23_class/" class="next">Class 23 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F22_class" target="_blank">Provide feedback on this page</a></div>
-</div>

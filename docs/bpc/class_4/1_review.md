@@ -1,33 +1,31 @@
 # Review
-***
-1.  ahaṃ dhammaṃ ājānāmi
-***
-[VIN PAT PC 68](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)
-***
-2.  mahāvīra samaṇa, bhāsasi
-***
-[TH263](https://find.dhamma.gift/bw/tha/tha20.html)
-***
-3.  idha sūpaṃ detha, idha odanaṃ detha!
-***
-[VIN PAT PD 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pd)
-***
-4.  dhammā virāgāya saṃvattanti, no sarāgāya
-***
-[AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)
-***
-5.  ehi tvaṃ, bhikkhu
-***
-[MN107](https://find.dhamma.gift/bw/mn/mn107.html)
-***
-6.  suṇātu me, bhante, saṅgho
-***
-VIN PAT NID
-***
 
-<div class="nav-links">
-  <a href="../" class="prev">← Class 4</a>
-  <a href="../2_dpr_tpr/" class="next">How to use DPR →</a>
-  <div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_4%2F1_review" target="_blank">Provide feedback on this page</a></div>
-</div>
+1.  ahaṃ dhammaṃ ājānāmi
+
+[VIN PAT PC 68](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)
+{: .align-right }
+
+2.  mahāvīra samaṇa, bhāsasi
+
+[TH263](https://find.dhamma.gift/bw/tha/tha20.html)
+{: .align-right }
+
+3.  idha sūpaṃ detha, idha odanaṃ detha!
+
+[VIN PAT PD 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pd)
+{: .align-right }
+
+4.  dhammā virāgāya saṃvattanti, no sarāgāya
+
+[AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)
+{: .align-right }
+
+5.  ehi tvaṃ, bhikkhu
+
+[MN107](https://find.dhamma.gift/bw/mn/mn107.html)
+{: .align-right }
+
+6.  suṇātu me, bhante, saṅgho
+
+VIN PAT NID
+{: .align-right }

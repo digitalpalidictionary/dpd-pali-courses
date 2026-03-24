@@ -1,11 +1,11 @@
 # Phonetic changes of -t-
-***
+
 This occurs with the **past participle** or **adjectives** ending -ta,
-***
+
 **infinitive** -tuṃ, **absolutive** -tvā, **masculine nouns** ending in -tar,
-***
+
 **neuter nouns ending** in -ta, **feminine nouns** ending in -ti, etc
-***
+
 **c + t \> tt**
 
 |  |  |  |
@@ -15,7 +15,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √ric + ta | ri**tt**a | pp. emptied |
 | vi + √vic + ta | vivi**tt**a | pp. separated |
 
-***
 **c + t \> kk**
 
 |  |  |  |
@@ -23,14 +22,12 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √pac + ta | pa**kk**a | pp. cooked |
 | paṭi + √muc + ta | paṭimu**kk**a | pp. clothed in |
 
-***
 **ch + t \> ṭṭh**
 
 |  |  |  |
 | --- | --- | --- |
 | √pucch + ta | pu**ṭṭh**a | pp. questioned |
 
-***
 **j + t \> tt**
 
 |  |  |  |
@@ -39,14 +36,12 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | vi + √bhaj + ta | vibha**tt**a | pp. divided |
 | √raj + ta | ra**tt**a | pp. dyed |
 
-***
 **j + t \> bb**
 
 |  |  |  |
 | --- | --- | --- |
 | √tij + ta | ti**bb**a | adj. sharp |
 
-***
 **j + t \> gg**
 
 |  |  |  |
@@ -55,7 +50,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | ni + √mujj + ta | nimu**gg**a | pp. immersed |
 | ud + √vij + ta | ubbi**gg**a | pp. startled |
 
-***
 **jj + t \> ṭṭh**
 
 |  |  |  |
@@ -63,14 +57,12 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | saṃ + √majj + ta | samma**ṭṭh**a | pp. polished |
 | vi + saṃ + √sajj + ta | visaṃsa**ṭṭh**a | pp. separated |
 
-***
 **t + t \> tt**
 
 |  |  |  |
 | --- | --- | --- |
 | paṭi + √yat + ta | paṭiya**tt**a | pp. prepared |
 
-***
 **d + t \> tt**
 
 |  |  |  |
@@ -79,7 +71,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √mad + ta | ma**tt**a | pp. intoxicated |
 | √vad + tuṃ | va**tt**uṃ | inf. to speak |
 
-***
 **dh + t \> ddh**
 
 |  |  |  |
@@ -89,7 +80,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √gidh + ta | gi**ddh**a | adj. greedy |
 | pari + √sudh + ta | parisu**ddh**a | adj. clean |
 
-***
 **n + t \> t**
 
 |  |  |  |
@@ -99,7 +89,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √mun + ta | mu**t**a | pp. sensed |
 | saṃ + √tan + ta | santa**t**a | adj. continuous |
 
-***
 **p + t \> tt**
 
 |  |  |  |
@@ -108,14 +97,12 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | saṃ + √tap + ta | santa**tt**a | pp. heated |
 | √sup + ta | su**tt**a | adj. asleep |
 
-***
 **p + t \> pp**
 
 |  |  |  |
 | --- | --- | --- |
 | √tij \> tip + ta | ti**pp**a | adj. sharp |
 
-***
 **bh + t \> ddh**
 
 |  |  |  |
@@ -125,7 +112,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √lubh + ta | lu**ddh**a | adj. greedy |
 | pa + √sambh + ti | passa**ddh**i | f. calmness |
 
-***
 **m + t \> nt**
 
 |  |  |  |
@@ -135,7 +121,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √kham + ti | kha**nt**i | f. patience |
 | √sam + ti | sa**nt**i | f. peace |
 
-***
 **m + t \> t**
 
 |  |  |  |
@@ -144,7 +129,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √ram + ti | ra**t**i | f. delight |
 | √nam + ti | na**t**i | f. inclination, bend |
 
-***
 **r + t \> t**
 
 |  |  |  |
@@ -155,7 +139,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √bhar + ta | bha**t**a | pp. supported |
 | saṃ + √thar + ta | santha**t**a | pp. spread |
 
-***
 **r + t \> tt**
 
 |  |  |  |
@@ -163,7 +146,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √kar + tabba | ka**tt**abba | ptp. could be done |
 | √kar + tuṃ | ka**tt**uṃ | inf. to do |
 
-***
 **(ṛ) r + t \> ṭ**
 
 |  |  |  |
@@ -173,7 +155,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | ā + √har + ta | āha**ṭ**a | pp. taken |
 | vi + √var + ta | viva**ṭ**a | pp. uncovered |
 
-***
 **s + t \> ṭṭh**
 
 |  |  |  |
@@ -184,7 +165,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √is + ta | i**ṭṭh**a | pp. wished |
 | √mus + ta | mu**ṭṭh**a | pp. forgotten |
 
-***
 **s + t \> tth**
 
 |  |  |  |
@@ -194,7 +174,6 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | √as + ti | a**tth**i | pr. is |
 | √sās + tar | sa**tth**ar | m. teacher |
 
-***
 **h + t \> ḷh**
 
 |  |  |  |
@@ -203,12 +182,3 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 | ā + √ruh + ta | ārū**ḷh**a | pp. climbed up |
 | √muh + ta | mū**ḷh**a | pp. confused |
 | √dah + ta | da**ḷh**a | adj. strong |
-
-***
-
-<div class="nav-links">
-  <a href="../2_as_ya/" class="prev">← Phonetic changes</a>
-  <a href="../4_as_na/" class="next">Phonetic changes of -n- →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F3_as_ta" target="_blank">Provide feedback on this page</a></div>
-</div>

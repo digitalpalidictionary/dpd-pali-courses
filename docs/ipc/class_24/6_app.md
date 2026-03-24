@@ -1,33 +1,32 @@
 # Active Past Participle
-***
+
 There is a rare verbal form that we have not discussed yet. It is called the **Active Past Participle or app.**
-***
+
 The most common example is the word **dassāvī**.
-***
+
 If the present tense verb is translated as **he sees (passati)**, and the passive past participle is translated as **seen (diṭṭha)**, how would you translate the meaning of this active past participle?
-***
+
 **dassāvī**
-***
+
 has seen / had seen / who has seen
-***
+
 Like the passive past participle, they occur mostly as adjectives.
-***
+
 sīlavā … aṇumattesu vajjesu bhaya**dassāvī**
-***
+
 virtuous person … **who has seen** the danger in the smallest faults
-***
+
 katamo ca, bhikkhave, **pariññātāvī** puggalo?
-***
+
 Monks, who is the person **who has completely understood**?
-***
+
 ### How To Construct Active Past Participle
-***
+
 root + āvī \> app
-***
+
 root + tāvī \> app
-***
+
 base + āvī \> app
-***
 
 | √ñā | ājānāti | aññā**tāvī** | has understood |
 |---|---|---|---|
@@ -37,11 +36,9 @@ base + āvī \> app
 | √ji | vijināti | viji**tāvī** | has conquered |
 | √i | abhisameti | abhisame**tāvī** | has realized |
 
-***
 ### How to Decline Active Past Participle
 
 Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, in **feminine** like **nadī** and the **neuter** like **aṭṭhi**
-***
 
 |  | **Masculine** | **Feminine** | **Neuter** |  |  |  |
 |---|---|---|---|---|---|---|
@@ -53,7 +50,6 @@ Active Past Participles are declined in all three genders. They are very regular
 | gen | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino** dass**āvissa** | dass**āvinaṃ** dass**āvīnaṃ** |
 | loc | dass**āvini** dass**āvismiṃ** dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** | dass**āviniyā** dass**āviniyaṃ** | dass**āvinīsu** | dass**āvismiṃ** dass**āvimhi** | dass**āvisu** dass**āvīsu** |
 
-***
 Please translate and highlight the syntax of the following:
 
 [SN3.13](https://find.dhamma.gift/bw/sn/sn3.13.html) doṇapākasuttaṃ
@@ -61,10 +57,3 @@ Please translate and highlight the syntax of the following:
 tena kho pana samayena rājā pasenadi kosalo doṇapākaṃ sudaṃ bhuñjati.
 
 atha kho rājā pasenadi kosalo bhuttāvī mahassāsī yena bhagavā tena upasaṅkami.
-
-<div class="nav-links">
-  <a href="../5_caus_pass/" class="prev">← Causative Passive Verbs</a>
-  <a href="../7_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/24_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_24%2F6_app" target="_blank">Provide feedback on this page</a></div>
-</div>

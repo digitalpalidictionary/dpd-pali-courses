@@ -15,6 +15,7 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
     "pypandoc>=1.17",
     "python-docx>=1.2.0",
+    "pdfminer-six>=20260107",
 ]
 
 [build-system]

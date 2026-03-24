@@ -1,3 +1,7 @@
+"""
+Script to download latest course materials from Google Docs as a ZIP archive.
+Facilitates keeping Markdown source files in sync with original sources if needed.
+"""
 import requests
 import os
 import zipfile

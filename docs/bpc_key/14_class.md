@@ -2,7 +2,6 @@
 
 1. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati
 
-
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | so | pron | masc.nom.sg | he |  |
@@ -16,12 +15,9 @@
 | paripūreti | verb.caus | pr .3rd.sg | he makes fill up all around | √pūr･1 \*e (fill, fulfil) |
 | parippharati | verb | pr.3rd.sg | he suffuses | √phar･1 a (suffuse, pervade) |
 
-
 **He causes this very body to overflow, to flow around, to fill up all around, to suffuse with the joy and happiness born from separation [from the hindrances].**
 
-
 2. [DN23.20](https://find.dhamma.gift/bw/dn/dn23.html) <br>atha kho pāyāsi rājañño uttaraṃ māṇavaṃ āmantāpetvā etad'avoca
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -33,12 +29,9 @@
 | āmantāpetvā | verb.caus | abs | having caused to call |  |
 | etadavoca | verb | aor.3rd.sg | he said this |  |
 
-
 **And then, having had summoned a young brahmin Uttara, Payasi, the young nobleman, said this.**
 
-
 3. [AN2.19](https://find.dhamma.gift/bw/an/an2.19.html) <br>kusalaṃ, bhikkhave, bhāvetha. sakkā, bhikkhave, kusalaṃ bhāvetuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -46,9 +39,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhāvetha | verb.caus | imp.2nd.pl | you all should develop | √bhū･1 \*e (be, become) |
 
-
 **You should develop wholesome qualities.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -57,12 +48,9 @@
 | kusalaṃ | noun | nt.acc.sg | goodness, wholesome |  |
 | bhāvetuṃ | verb.caus | inf | to develop | √bhū･1 \*e (be, become) |
 
-
 **It is possible to develop wholesome qualities.**
 
-
 4. [DN14.4](https://find.dhamma.gift/bw/dn/dn14.html) <br>atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -75,12 +63,9 @@
 | pāsāde | noun | masc.acc.pl | palaces | √sad･1 a (sink, sit, settle) |
 | kārāpesi | verb.caus | aor.3rd.sg | he caused to build; had built | √kar･7 \*āpe (do, make) |
 
-
 **And then, monks, King Bandhuma had three palaces built for prince Vipassi.**
 
-
 5. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>divasaṃsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -95,12 +80,9 @@
 | udakaphusitāni | noun | nt.acc.pl | drops of water |  |
 | nipāteyya | verb.caus | opt.3rd.sg | he should cause to fall, drop | √pat･1 \*e (fall) |
 
-
 **He would drop two or three drops of water into an iron pot, [which] was heated during the day.**
 
-
 6. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>so paṭisaṃharati c'eva na ca vitakketi na ca vicāreti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -115,12 +97,9 @@
 | ca | ind | conj | and |  |
 | vicāreti | verb.caus | pr.3rd.sg | investigate; examine [lit: causes to go here and there] | √car･1 \*e (move, walk) |
 
-
 **He withdraws [the mind] and does not think or examine.**
 
-
 7. [AN5.54](https://find.dhamma.gift/bw/an/an5.54.html) <br>na sukaraṃ uñchena paggahena yāpetuṃ. ayaṃ tatiyo asamayo padhānāya.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -130,9 +109,7 @@
 | paggahena | noun | masc.instr.sg | by handouts | √gah･6 ṇhā (grasp) |
 | yāpetuṃ | verb. caus | inf | to cause to go on, to sustain oneself, survive | √yā･1 \*āpe (go) |
 
-
 **It is not easy to sustain oneself by means of gleaning and by handouts.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -141,15 +118,11 @@
 | asamayo | noun | masc.nom.sg | bad time; wrong time | √i･1 a (come, go) |
 | padhānāya | noun | nt.dat.sg | for effort, making effort | √dhā･1 a (place, support) |
 
-
 **This is the third unsuitable time for making effort.**
-
 
 **Potential Participles**
 
-
 8. [AN3.83](https://find.dhamma.gift/bw/an/an3.82.html) <br>tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -158,12 +131,9 @@
 | evaṃ | ind | adv | like this |  |
 | sikkhitabbaṃ | ptp | nt.nom.sg | should be trained | √sikkh･1 a (learn, train) |
 
-
 **Therefore, monks, it should be trained like this.**
 
-
 9. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>ettha ce n'atthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ, es'ev'anto paṭigh'ānusayānaṃ,
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -175,9 +145,7 @@
 | abhivaditabbaṃ | ptp | nt.nom.sg | should be welcomed | √vad･1 a (say, speak) |
 | ajjhositabbaṃ | ptp | nt.nom.sg | should be clung to | √sā･1 a (complete, accomplish) |
 
-
 **If here, there is not [something which] should be delighted in, welcomed, clung to**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -185,12 +153,9 @@
 | paṭigha- | noun | masc | conflict, anger, repulsion | √ghaṭ･8 \*e (strike, kill) |
 | anusayānaṃ | noun | masc.gen.pl | of the underlying tendencies, latent tendencies | √sī･1 a (lie, sleep) |
 
-
 **Just this is the end of the underlying tendency towards conflict.**
 
-
 10. [VIN PAT SA 12](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>mā āyasmā attānaṃ avacanīyaṃ akāsi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -200,12 +165,9 @@
 | avacanīyaṃ | ptp | masc.acc.sg | not to be talked to; unadmonishable | √vac･1 a (say, speak) |
 | akāsi | verb | aor.2nd.sg | did; made | √kar･7 o (do, make) |
 
-
 **Venerable, don't make yourself unadmonishable.**
 
-
 11. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>kathañ'ca, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -216,12 +178,9 @@
 | āhāro | noun | masc.nom.sg | food | √har･1 a (take, seize) |
 | daṭṭhabbo | ptp | masc.nom.sg | should be seen, understood. | √dis･1 a (see) |
 
-
 **And how, monks, should edible food be seen?**
 
-
 12. [AN4.42](https://find.dhamma.gift/bw/an/an4.42.html) <br>atthi bhikkhave pañho ekaṃsabyākaraṇīyo, atthi bhikkhave pañho vibhajjabyākaraṇīyo … atthi bhikkhave pañho ṭhapanīyo
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -231,9 +190,7 @@
 | ekaṃsa- | adj | masc. | direct, straight |  |
 | byākaraṇīyo | ptp | masc.nom.sg | should be answered | √kar･7 o (do, make) |
 
-
 **There is, monks, a question which should be answered directly**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -243,9 +200,7 @@
 | vibhajja- | verb | ger | explaining in detail; analysing in detail | √bhaj･1 a (divide, distribute) |
 | byākaraṇīyo | ptp | masc.nom.sg | should be answered | √kar･7 o (do, make) |
 
-
 **There is, monks, a question which should be answered by analysing in detail.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -254,12 +209,9 @@
 | pañho | noun | masc.nom.sg | question | √pañh･1 a (ask, question) |
 | ṭhapanīyo | ptp | masc.nom.sg | should be set aside | √ṭhā･1 \*āpe (stand) |
 
-
 **There is, monks, a question which should be set aside.**
 
-
 13. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>adhicittam'anuyuttena, bhikkhave, bhikkhunā pañca nimittāni kālena kālaṃ manasi kātabbāni.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -273,12 +225,9 @@
 | manasi | noun | masc.loc.sg | in mind | √man･3 ya (think) |
 | kātabbāni | ptp | nt.nom.pl | to be made | √kar･7 o (do, make) |
 
-
 **Five signs should be kept in mind from time to time by a monk who is devoted to the higher mind.**
 
-
 14. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>dasa'y'ime, bhikkhave, dhammā pabbajitena abhiṇhaṃ paccavekkhitabbā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -290,12 +239,9 @@
 | abhiṇhaṃ | ind | adv | frequently, often |  |
 | paccavekkhitabbā | ptp | masc.nom.pl | should be reflected on | √ikkh･1 a (see, mark) |
 
-
 **These ten matters should be regularly reflected on by one who has gone forth.**
 
-
 15. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>evañ'ca kho eso, bhikkhu, pañho pucchitabbo
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -307,12 +253,9 @@
 | pañho | noun | masc.nom.sg | question | √pañh･1 a (ask, question) |
 | pucchitabbo | ptp | masc.nom.sg | should be asked | √pucch･1 a (ask, question) |
 
-
 **But, monk, this question should be asked like this.**
 
-
 16. [AN4.147](https://find.dhamma.gift/bw/an/an4.147.html)<br>cattāro'me, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -325,9 +268,7 @@
 | sammā | ind | adv | correctly, rightly |  |
 | anuparivattiyamānā | prp.pass | masc.nom.pl | being rotated | √vatt･1 iya (be, proceed) |
 
-
 **These four times, monks, being correctly developed and done routinely**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -336,12 +277,9 @@
 | khayaṃ | noun | masc.acc.sg | the wearing away | √khī･1 a (destroy, exhaust) |
 | pāpenti | verb.caus | pr.3rd.pl | they lead to | √ap･4 \*e (reach, attain) |
 
-
 **they lead gradually to the destruction of the defilements.**
 
-
 17. [VIN PAT PC 20](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -359,12 +297,9 @@
 | vā | ind | conj | or |  |
 | pācittiyaṃ | noun | nt.nom.sg | a case requiring confession |  |
 
-
 **If any monk should pour out, or should cause to pour out, water on grass or clay, knowing that [it] [is] containing living beings, it is a case requiring confession.**
 
-
 18. VIN PAT NID <br>yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvādo assa hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -381,12 +316,9 @@
 | assa | pron | masc.dat.sg | for this one; for him |  |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
-
 **If any monk remembering [an offence] when it is being announced up to three times should not disclose the existing offence, there is [a further offence] for him [of] deliberate false speech.**
 
-
 19. [VIN PAT NP 14](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>orena ce channaṃ vassānaṃ, taṃ santhataṃ vissajjetvā vā avissajjetvā vā, aññaṃ navaṃ santhataṃ kārāpeyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -405,12 +337,9 @@
 | santhataṃ | noun | nt.acc.sg | bedspread; coverlet | √thar･1 a (spread, expand) |
 | kārāpeyya | verb. caus | opt.3rd.sg | should cause to make | √kar･7 \*āpe (do, make) |
 
-
 **If sooner than [after] six years, having given up or not having given up that coverlet, he should cause to make another new coverlet…**
 
-
 20. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>so vata āvuso, cakkhusmiṃ sati rūpe sati cakkhuviññāṇe sati phassapaññattiṃ paññāpessatī'ti — ṭhānaṃ etaṃ vijjati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -429,12 +358,9 @@
 | etaṃ | pron | nt.nom.sg | this (not translated) |  |
 | vijjati | verb. pass | pr.3rd.sg | is found; is present; exists | √vid･3 ya (be found, exist) |
 
-
 **Certainly, friend, when eye, form, and eye-consciousness are existing, it is possible to declare the concept of contact.**
 
-
 21. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) <br>tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte c'eva otaranti vinaye ca sandissanti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -451,12 +377,9 @@
 | ca | ind | conj | and |  |
 | sandissanti | verb. pass | pr.3rd.pl (+loc) | they are seen in; (lit: is seen together with) | √dis･1 iya (see) |
 
-
 **If when they are being checked in the scripture(s), [and] being verified in reference to the discipline, and they are found in the scripture(s) as well as seen in the discipline…**
 
-
 22. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) <br>so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -469,9 +392,7 @@
 | sātthaṃ | adj | masc.acc.sg | in meaning; in spirit | √ar･1 a (move, attain) |
 | sabyañjanaṃ | adj | masc.acc.sg | in letter | √añj･8 \*e (distinguish) |
 
-
 **He teaches the doctrine, beneficial in the beginning, beneficial in the middle, and beneficial in the end, in spirit and in letter;**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -480,12 +401,9 @@
 | brahmacariyaṃ | noun | nt.acc.sg | the spiritual path; the holy life |  |
 | pakāseti | verb | pr.3rd.sg | illuminates; reveals | √kās･1 \*e (shine, be visible) |
 
-
 **he illuminates the spiritual path, pure [and] altogether complete.**
 
-
 23. [DN16.21](https://find.dhamma.gift/bw/dn/dn16.html) <br>bhikkhave, ye te mayā dhammā abhiññā desitā, te vo sādhukaṃ uggahetvā āsevitabbā bhāvetabbā bahulīkātabbā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -504,12 +422,9 @@
 | bhāvetabbā | ptp | masc.nom.pl | should be developed; cultivated | √bhū･1 \*e (be, become) |
 | bahulīkātabbā | ptp | masc.nom.pl | should be practised often |  |
 
-
 **Monks, these things which have been taught by me with direct knowledge (i.e. from my direct knowledge), having been thoroughly grasped by you, they should be pursued, cultivated and practised often.**
 
-
 24. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>yāvakīvañ'ca bhikkhave bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -523,9 +438,7 @@
 | na | ind | neg | not |  |
 | samucchindissanti | verb | fut.3rd.pl | will cut off completely; eradicate | √chid･2 ṃa (cut, steal) |
 
-
 **As long as monks will not make known what is not declared [and] will not cut off completely what is declared,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -535,12 +448,9 @@
 | samādāya | verb | ger | undertaking; accepting | √ādā･3 ya (take, seize) |
 | vattissanti | verb | fut.3rd.pl | they will practise; lit. proceed | √vatt･1 a (be, proceed) |
 
-
 **they will practise accepting the training rules as they had been formulated.**
 
-
 25. [AN7.49](https://find.dhamma.gift/bw/an/an7.49.html) <br>āhāre paṭikūlasaññāya paricitena, bhikkhave, bhikkhuno cetasā bahulaṃ viharato, rasataṇhāya cittaṃ patilīyati patikuṭati pativattati, na sampasāriyati, upekkhā vā pāṭikulyatā vā saṇṭhāti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -553,9 +463,7 @@
 | bahulaṃ | ind | adv | often; frequently | √bah×1 a (increase) |
 | viharato | prp | masc.dat.sg | for remaining in; continuing in | √har･1 a (live) |
 
-
 **For a monk frequently remaining with the mind fortified by the perception of the repulsiveness of food**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -567,9 +475,7 @@
 | na | ind | neg | not |  |
 | sampasāriyati | verb. caus.pass | pr.3rd.sg | is inclined towards (lit: caused to be stretched forward) | √sar･1 \*e + iya (go, flow) |
 
-
 **[his] mind withdraws from, bends back from, rolls back from craving for tastes,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -579,12 +485,9 @@
 | vā | ind | conj | or |  |
 | saṇṭhāti | verb | pr.3rd.sg | is established | √ṭhā･1 a (stand) |
 
-
 **equanimity or revulsion is established.**
 
-
 26. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) <br>taṃ kho pan'idaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -595,12 +498,9 @@
 | ariyasaccaṃ | noun | nt.nom.sg | noble truth |  |
 | pahātabban'ti | ptp | nt.nom.sg | should be abandoned | √hā･1 a (abandon) |
 
-
 **"Moreover, indeed, this noble truth [of] the origin of suffering should be abandoned."**
 
-
 27. [VIN PAT PA 3](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya satthahārakaṃ vā assa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā samādapeyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -622,12 +522,9 @@
 | vā | ind | conj | or |  |
 | samādapeyya | verb.caus | opt.3rd.sg (+acc) | should arouse; encourage; incite | √ādā･3 \*āpe (take, seize) |
 
-
 **If any monk should intentionally deprive a human being of life or should seek out an assassin for him or should commend the advantage of death or should incite [him] to death…**
 
-
 28. [VIN PAT SA 13](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī"ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -645,20 +542,15 @@
 | assa | verb | opt.3rd.sg | should be | √as･1 a (be) |
 | vacanīyo | ptp | masc.nom.sg | is to be spoken to | √vac･1 a (say, speak) |
 
-
 **"They banish a certain one with this kind of offence, [but] they don't banish another one." That monk is to be spoken to by the monks like this: …**
 
-
 29. [VIN PAT NP 7](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>santar'uttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | santar'uttaraparamaṃ | ind | adv | with an inner and upper robe at most |  |
 
-
 **(or)**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -669,9 +561,7 @@
 | cīvaraṃ | noun | nt.nom.sg | robe cloth |  |
 | sāditabbaṃ | ptp | nt.nom.sg | could/should be accepted by | √sād･1 \*e (taste, relish) |
 
-
 **That robe cloth [for] an under [robe] and an upper [robe] at the most could be accepted from him by that monk;<br>(or)<br>With an inner and upper robe at most, therefrom the robe-cloth can be accepted by that monk;**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -682,12 +572,9 @@
 | nissaggiyaṃ | adj<br>(ptp) | nt.nom.sg | involving relinquishment (lit: involving something to be forfeited) | √sajj･1 a (relinquish, let loose) |
 | pācittiyaṃ | noun | nt.nom.sg | an offence |  |
 
-
 **if he should accept [robe cloth] more than that, [it is] an offence involving relinquishment.**
 
-
 30. [MN46](https://find.dhamma.gift/bw/mn/mn46.html) <br>sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -700,9 +587,7 @@
 | na | ind | neg | not |  |
 | jānāti | verb | pr.3rd.sg | he knows | √ñā･5 nā (know) |
 
-
 **He doesn't know the practices that should be followed, he doesn't know the practices that should not be followed;**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -715,12 +600,9 @@
 | na | ind | neg | not |  |
 | jānāti | verb | pr.3rd.sg | knows | √ñā･5 nā (know) |
 
-
 **He doesn't know the things that should be adhered to, he doesn't know the practices that should not be adhered to.**
 
-
 31. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā c'eva āsavā na uppajjanti, uppannā ca āsavā pahīyanti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -732,9 +614,7 @@
 | dhammānaṃ | noun | masc.dat.pl | to the things; phenomena | √dhar･1 a (hold, carry, endure) |
 | manasikārā | noun | masc.abl.sg | from/because of attention |  |
 
-
 **For him, because of non-attention to the things that should not be attended to [and] attention to the things that should be attended to,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -748,12 +628,9 @@
 | āsavā | noun | masc.nom.pl | effluents; taints | √su･1 a (flow) |
 | pahīyanti | verb. pass | pr.3rd.pl | are abandoned | √hā･1 īya (abandon) |
 
-
 **unarisen taints do not arise and even taints that have arisen are abandoned.**
 
-
 32. [SN1.28](https://find.dhamma.gift/bw/sn/sn1.28.html) <br>hitvā agāraṃ pabbajitā, hitvā puttaṃ pasuṃ piyaṃ, hitvā rāgaṃ ca dosaṃ ca, avijjaṃ ca virājiya, khīṇ'āsavā arahanto, te lokasmiṃ anussukā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -778,12 +655,9 @@
 | lokasmiṃ | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
 | anussukā | adj | masc.nom.pl | not zealously desiring; unagitated |  |
 
-
 **"Having abandoned the household life [and] gone forth, having left their dear child[ren] and livestock, having left behind passion and ill-will, removing ignorance, enlightened beings who have destroyed the taints, they are unagitated in the world.**
 
-
 33. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) <br>anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -794,9 +668,7 @@
 | sādhukaṃ | ind | adv | thoroughly; carefully | √sādh･3 ya (accomplish) |
 | uggahetvā | verb | abs | having learned; having grasped | √gah･6 ṇhā (grasp) |
 
-
 **Having not approved of nor rejected these words and phrases, [and] having learned [them] thoroughly,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -805,12 +677,9 @@
 | vinaye | noun | masc.loc.sg | in the discipline | √nī･1 a (lead, carry) |
 | sandassetabbāni | ptp caus pass | nt.nom.pl | should be verified (lit: should be seen together with) | √dis･1 \*e (see) |
 
-
 **they should be checked in the discourse[s] and should be verified in the discipline.**
 
-
 34. [MN21](https://find.dhamma.gift/bw/mn/mn21.html) <br>atha kho bhagavā bhikkhū āmantesi, ārādhayiṃsu vata me, bhikkhave, bhikkhū ekaṃ samayaṃ cittaṃ. idha ahaṃ, bhikkhave, bhikkhū āmantesiṃ, ahaṃ kho, bhikkhave, ek'āsanabhojanaṃ bhuñjāmi.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -828,9 +697,7 @@
 | samayaṃ | noun | masc.acc.sg | occasion; time | √i･1 a (come, go) |
 | cittaṃ | noun | nt.acc.sg | mind | √cit･8 \*e (think, intend) |
 
-
 **And then the Blessed One addressed the monks: "Monks, on one occasion the monks surely pleased my mind.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -845,15 +712,11 @@
 | ek'āsanabhojanaṃ | noun | nt.acc.sg | a meal in one sitting; eating one meal a day |  |
 | bhuñjāmi | verb | pr.1st.sg | I eat | √bhuj･2 ṃa (use, eat, enjoy) |
 
-
 **Here (i.e. on that occasion) I addressed the monks [thus]: ‘Indeed, monks, I eat a meal in one sitting'."**
-
-
 
 ## Class 14 Extra
 
 1. [VIN PAT SA 6](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)<br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā
-
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -867,12 +730,9 @@
 | pamāṇikā | adj | fem.nom.sg | according to the correct measurement | √mā･5 nā (measure) |
 | kāretabbā | ptp.caus | fem.nom.sg | should be built; is to be built | √kar･7 \*e (do, make) |
 
-
 **Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement.**
 
-
 2. [VIN PAT NP 22](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ‘‘ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti, ayaṃ tattha sāmīci.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -883,9 +743,7 @@
 | bhikkhuparisāya | noun | fem.dat.sg | to the assembly of monks |  |
 | nissajjitabbo | ptp | masc.nom.sg<br>(+dat) | is to be/should be relinquished (to) | √sajj･1 a (relinquish, let loose) |
 
-
 **That (alms) bowl is to be relinquished by that monk to the assembly of monks;**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -895,9 +753,7 @@
 | bhikkhuparisāya | noun | fem.gen.sg | of the assembly of monks |  |
 | pattapariyanto | noun | masc.nom.sg | the last bowl; the worst bowl |  |
 
-
 **and that which is the worst bowl of that assembly of monks**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -906,9 +762,7 @@
 | bhikkhuno | noun | masc.dat.sg | to the monk | √bhikkh･1 a (beg) |
 | padātabbo | ptp | masc.nom.sg <br>(+dat) | should be given (to); should be offered (to) | √dā･1 a (give) |
 
-
 **that [bowl] should be given to that monk**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -920,9 +774,7 @@
 | bhedanāya | noun | nt.dat.sg | for breaking | √bhid･2 ṃa (break, split) |
 | dhāretabbo'ti | ptp | masc.nom.sg +endquote | should be kept (lit: should be carried) | √dhar･8 \*e (wear, hold, carry) |
 
-
 **"monk, this is your bowl. It should be kept until breaking."**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -930,12 +782,9 @@
 | tattha | ind | adv | in that case |  |
 | sāmīci | noun | fem.nom.sg | correct course; proper procedure |  |
 
-
 **This is the correct procedure in that case.**
 
-
 3. [MN2.8](https://find.dhamma.gift/bw/mn/mn2.html) <br>ayaṃ vuccati, bhikkhave, bhikkhu sabb'āsavasaṃvarasaṃvuto viharati, acchejji taṇhaṃ, vivattayi saṃyojanaṃ, sammā mān'ābhisamayā antam'akāsi dukkhassā'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -946,9 +795,7 @@
 | sabb'āsavasaṃvarasaṃvuto | adj | masc.nom.sg | who restrained with regard to all the effluents/taints |  |
 | viharati | verb | pr.3rd.sg | he dwells | √har･1 a (live) |
 
-
 **Monks, this one is called: "A monk who dwells restrained with regard to all the taints,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -961,12 +808,9 @@
 | antam'akāsi | verb | aor.3rd.sg | made an end of |  |
 | dukkhassā'ti | noun | nt.gen.sg + endquote | of suffering" | √dukkh･1 a (be painful) |
 
-
 **[who] completely cut out craving, untied the fetter[s], [and] by means of a thorough comprehension of conceit (thoroughly comprehending conceit), made an end of suffering"**
 
-
 4. [AN3.36](https://find.dhamma.gift/bw/an/an3.36.html)<br>ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi vuṭṭhāpiyamānaṃ, aññehi saṃvesiyamānaṃ?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -992,11 +836,4 @@
 | aññehi | pron | masc.instr.pl | by others |  |
 | saṃvesiyamānaṃ | prp | masc.acc.sg [+instr] | being laid down; lit. being caused to enter | √vis･1 \*e + iya (enter) |
 
-
 **"Look here, man! Did you not see a woman or man among human beings ill, afflicted, extremely ill, lying down immersed in his own urine and excrement, being lifted up by others, being laid down by others?"**
-
-<div class="nav-links">
-  <a href="../13_class/" class="prev">← Class 13 Exercises</a>
-  <a href="../15_class/" class="next">Class 15 →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F14_class" target="_blank">Provide feedback on this page</a></div>
-</div>

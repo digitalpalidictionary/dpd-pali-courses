@@ -1,47 +1,47 @@
 # The Aorist or Past Tense (ajjatanī)
 
 The Aorist is the most common form of Past Tense in the Tipiṭaka. It is formed directly on the root or on the base.
-***
+
 **It can be formed on the root:**
-***
+
 this occurs mostly with group 1 roots
-***
+
 √har 1 a (carry)
-***
+
 √har + **i** \> har**i** (he carried)
-***
+
 √nand 1 a (be happy)
-***
+
 abhi + √nand + **i** \> abhinand**i** (he was delighted)
-***
+
 **Or it can be formed on the verbal base:**
-***
+
 just like the present tense
-***
+
 √bhuj 2 ṃa (eat, enjoy) \> bhuñja
 
 bhuñja + i \> bhuñji (he ate, enjoyed)
-***
+
 √mant 8 aya (counsel, invite) \> mantaya
-***
+
 ā + mantaya + **i** \> āmantayi (he addressed)
-***
+
 what would **another form** of this verb be?[^13]
 
 [^13]: āmantesi
-***
+
 **Sometimes the aorist takes an augment of “a”**
-***
+
 √ṭhā 1 a (stand)
-***
+
 a + √ṭhā + si \> **a**ṭṭhāsi (he stood)
-***
+
 √dā 1 a (give)
-***
+
 a + √dā + si \> **a**dāsi (he gave)
-***
+
 ### 1st conjugation group & others
-***
+
 **Conjugation of -i aor**
 
 |  |  |  |  |  |
@@ -51,11 +51,10 @@ a + √dā + si \> **a**dāsi (he gave)
 | 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha** <br>apac**ittha** | you all cooked |
 | 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
 
-***
 ### 8th conjugation group
-***
+
 8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”
-***
+
 **Conjugation of -esi aor**
 
 |  |  |  |  |  |
@@ -65,13 +64,12 @@ a + √dā + si \> **a**dāsi (he gave)
 | 2nd | dese**si** | you taught | des**ittha** | you all taught |
 | 1st | dese**siṃ** | I taught | des**imha**<br>des**imhā** | we taught |
 
-***
 similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
-***
+
 ### Roots ending in vowels
 
 Some roots ending in long vowels also have the “s” aorist ending. Note the plural endings.
-***
+
 **Conjugation of -āsi aor**
 
 |  |  |  |  |  |
@@ -80,12 +78,3 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 | 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
 | 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
 | 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**, <br>aṭṭha**mhā** | we stood |
-
-***
-
-<div class="nav-links">
-  <a href="../9_masc_i/" class="prev">← Masculine Noun ending in -i</a>
-  <a href="../13_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../bpc_ex/4_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_4%2F10_aor" target="_blank">Provide feedback on this page</a></div>
-</div>

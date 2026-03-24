@@ -1,15 +1,15 @@
 # Niggahīta Sandhi
-***
+
 Niggahīta sandhi takes place when a word **ending in ṃ** is followed by a word **beginning with a vowel or a consonant.**
-***
+
 ### Possibility \#1
-***
+
 When **ṃ** is followed by a **consonant**, it may remain **unchanged**.
-***
+
 e.g. eva**ṃ v**utte \> eva**ṃ v**utte
-***
+
 In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
-***
+
 **ṃ + consonant**
 
 |  |  |  |  |
@@ -45,13 +45,4 @@ In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
 | sa**ṃ** |  | **s**andati | saṃsandati |
 | eva**ṃ** |  | **d**iṭṭhī | evaṃdiṭṭhī |
 
-***
 Why make a rule if it remains unchanged?
-***
-
-<div class="nav-links">
-  <a href="../7_cons_5/" class="prev">← Possibility \#5</a>
-  <a href="../9_nig_2/" class="next">Possibility \#2 →</a>
-  <div class="cross"><a href="../../../ipc_ex/17_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_17%2F8_nig_1" target="_blank">Provide feedback on this page</a></div>
-</div>

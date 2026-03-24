@@ -1,39 +1,39 @@
 # Passive Verbs
-***
+
 A brief review of passive verbs.
-***
+
 What is the difference between an active verb and a passive verb?
-***
+
 In what case is the subject of the verb?
-***
+
 In what case is the object of the verb?
-***
+
 In what case is the agent of a passive verb?
-***
+
 dissati, bhikkhave, kāyassa ācayo’pi apacayo’pi ādānam’pi nikkhepanam’pi (purisena) ([SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) assutavāsuttaṃ)
-***
+
 Monks, increase and decrease, taking (food) and elimination is seen for this body composed of the four great elements (by the man).
-***
+
 Monks, increase and decrease, taking food and elimination of this body composed of the four great elements is seen (by the man).
-***
+
 What is the subject(s) of this sentence?
-***
+
 What is the verb?
-***
+
 What is the object?
-***
+
 What is the agent?
-***
+
 ### How to form Passive Verbs
-***
+
 1\. Root + ya \> Passive Base
-***
+
 2\. Root + iya \> Passive Base
-***
+
 3\. Root + īya \> Passive Base
-***
+
 Passive Base + Verbal Ending \> Passive Verb
-***
+
 ### Root + ya
 
 | √dis | to see | ya | dissa | dissati | is seen |
@@ -45,9 +45,7 @@ Passive Base + Verbal Ending \> Passive Verb
 | √rup | to break | ya | ruppa | ruppati | is broken |
 | √vad | to speak | ya | vajja | vajjati | is played |
 
-***
 ### Root + iya
-***
 
 | √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^20] | is carried |
 |---|---|---|---|---|---|
@@ -55,12 +53,9 @@ Passive Base + Verbal Ending \> Passive Verb
 | √cud | to accuse | iya | c**o**diya | codiyati | is accused |
 | √add | to afflict | iya | a**ṭṭ**iya | aṭṭiyati | is troubled |
 
-***
 [^20]: These bases mostly exist in participle forms.
 
-
 ### Root + īya
-***
 
 | √har | to carry | īya | harīya | harīyati | is carried |
 |---|---|---|---|---|---|
@@ -70,7 +65,6 @@ Passive Base + Verbal Ending \> Passive Verb
 | √tur | to hurt | īya | turīya | āturīyati | is hurt |
 | √add | to afflict | īya | a**ṭṭ**īya | aṭṭīyati | is troubled |
 
-***
 Please remember that these passive bases apply to all forms of the verb and even nouns.
 
 |  |  |  |
@@ -81,12 +75,3 @@ Please remember that these passive bases apply to all forms of the verb and even
 | prp | vi**mucc**amāna | being freed |
 | pp | vi**mucc**ita | freed |
 | nt | vi**mucc**ana | release |
-
-***
-
-<div class="nav-links">
-  <a href="../" class="prev">← Class 24</a>
-  <a href="../2_irreg_pass/" class="next">Irregular Passive Bases →</a>
-  <div class="cross"><a href="../../../ipc_ex/24_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_24%2F1_pass" target="_blank">Provide feedback on this page</a></div>
-</div>

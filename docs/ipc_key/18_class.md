@@ -2,8 +2,6 @@
 
 **Dis-join the sandhis**
 
-
-
 |  |  |
 |---|---|
 | sākacchā | saṃ + √kath + yā |
@@ -25,9 +23,7 @@
 | pariyeṭṭhi | pari + √es + ti |
 | jigiṃsanta | √ji + sa + nta |
 
-
 **Join the following in suitable ways**
-
 
 |  |  |
 |---|---|
@@ -53,16 +49,11 @@
 | √car + na | ciṇṇa |
 | √pā + sa + ā | pipāsā |
 
-
-
 **Exercises**
 
 **Break up all the sandhis in the following sentences.**
 
-
-
 1. [VIN PAT SA 10](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)<br>yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -85,12 +76,9 @@
 | \#ādi | noun | masc. | beginning |  |
 | \#seso | noun | masc.nom.sg | remains; remainder | √sis･8 \*e (remain, distinguish) |
 
-
 **If, being admonished up to the third time, he should relinquish that, thus this [is] good; [but] if he should not relinquish [it], [this is a case] relating to the community in the beginning and in the end.**
 
-
 2. [SNP58](https://find.dhamma.gift/bw/snp/snp5.4.html)<br>"ye kec'ime isayo manujā, (icc'āyasmā puṇṇako)
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -105,12 +93,9 @@
 | \#āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
 | puṇṇako | noun | masc.nom.sg | Puṇṇaka | √pūr･1 a (fill, fulfil) |
 
-
 **Whichever of these human beings [are] seers. (Thus said venerable Puṇṇaka)**
 
-
 3. [SN35.247](https://find.dhamma.gift/bw/sn/sn35.247.html)<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe n'ādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -148,12 +133,9 @@
 | \#\#pamāṇa | adj | masc. | measuring | √mā･5 nā (measure) |
 | \#cetaso | adj | masc.instr.sg | with mind; having mind | √cit･8 \*e (think, intend) |
 
-
 **Here, monks, having seen a form with the eye, a monk is not drawn to a pleasing form, and he is not repelled by an unpleasant form; with mindfulness of the body present, he dwells with an immeasurable mind.**
 
-
 4. [DN16.32](https://find.dhamma.gift/bw/dn/dn16.html)<br>cattāro'me, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -171,13 +153,9 @@
 | katame | pron | masc.nom.pl | which? |  |
 | cattāro | card | masc.nom.pl | four |  |
 
-
 **Monks, [there are] these four wonderful, extraordinary qualities about a wheel-turning monarch. Which four?**
 
-
-
 5. [AN5.51](https://find.dhamma.gift/bw/an/an5.51.html) <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -192,12 +170,9 @@
 | \#dubbalī | adj | - | weak | √bal･1 a (be strong, live) |
 | \#karaṇo | adj | masc.nom.sg | making, producing, causing | √kar･7 o (do, make) |
 
-
 **Monks, ill will is an obstruction, a hindrance of the mind, which overwhelms and weakens understanding.**
 
-
 6. [SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html) <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ manaso vijaññā,<br>kaṇhassa pakkho'ti vinodayeyya.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -223,12 +198,9 @@
 | \#iti | ind | - | "" |  |
 | vinodayeyya | verb | opt.3rd.sg | he should drive out, dispel, remove | √nud･1 \*aya (drive out, reject) |
 
-
 **One should not perform theft,<br>One should not speak falsely,<br>One should touch unstable and firm beings with kindness,<br>One should know any disturbance of mind and dispel it as "a flank of the <br>Dark One."**
 
-
 7. [AN8.2](https://find.dhamma.gift/bw/an/an8.2.html) <br>tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -238,9 +210,7 @@
 | \#\#rūpa | adj | masc.nom.pl | of quality, of kind |  |
 | \#assa | pron | masc.dat.sg | for him; by him |  |
 
-
 **(the reading tathārūpassa also exists)**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -258,12 +228,9 @@
 | diṭṭhiyā | noun | fem.instr.sg | by view | √dis･1 a (see) |
 | suppaṭividdhā | pp | masc.nom.pl | thoroughly penetrated, understood | √vidh･3 ya (throw, pierce) |
 
-
 **Teachings of such quality are well-learned by him, remembered, verbally practised, mentally reflected upon, and thoroughly understood by view.**
 
-
 8. [DN22.6](https://find.dhamma.gift/bw/dn/dn22.html) <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -302,12 +269,9 @@
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | \#iti | ind | - | "" |  |
 
-
 **And further, monks, a monk regards this body, as it is positioned, as it is directed, as elemental states. "In this very body there is the solid state, the liquid state, the fire state and the air state."**
 
-
 9. [DHP160](https://find.dhamma.gift/bw/dhp/dhp157-166.html) <br>attā hi attano nātho,<br>ko hi nātho paro siyā,<br>attanā hi sudantena,<br>nāthaṃ labhati dullabhaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -327,12 +291,9 @@
 | labhati | verb | pr.3rd.sg | he gets | √labh･1 a (get) |
 | dullabhaṃ | adj | masc.acc.sg | rare, hard to get | √labh･1 a (get) |
 
-
 **One is truly one's own protector,<br>How could another be (one's) protector?<br>With oneself truly well-tamed<br>one obtains a protector that is hard to get.**
 
-
 10. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ; na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ. 'ahaṃ rūpaṃ, mama rūpan'ti na pariyuṭṭhaṭṭhāyī hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -364,12 +325,9 @@
 | \#ṭhāyī | adj | masc.nom.sg | standing, remaining | √ṭhā･1 a (stand) |
 | hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 
-
 **He does not consider physical form as the self, or the self as having physical form, or physical form as in the self, or the self as in physical form. He does not remain obsessed (by the idea) "I am physical form, physical form is mine."**
 
-
 11. [AN2.40](https://find.dhamma.gift/bw/an/an2.40.html) <br>yasmiṃ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye rañño phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -399,12 +357,9 @@
 | janapade | noun | masc.acc.pl | countries, provinces, districts |  |
 | anusaññātuṃ | verb | inf | to go around; to visit; to inspect | √yā･1 a (go) |
 
-
 **At whichever time kings are strong, robbers are weak. At that time it is easy for the king to re-enter or to go out and to visit the outlying districts.**
 
-
 12. [AN3.83](https://find.dhamma.gift/bw/an/an3.82.html) <br>tassa na tādiso vaṇṇo hoti seyyathā'pi gunnaṃ, na tādiso saro hoti seyyathā'pi gunnaṃ, na tādisaṃ padaṃ hoti seyyathā'pi gunnaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -428,12 +383,9 @@
 | seyyathāpi | ind | - | just like |  |
 | gunnaṃ | noun | masc.gen.pl | of the cows |  |
 
-
 **His colour is not like that of the cows, his sound is not like that of the cows, his footprint is not like that of the cows.**
 
-
 13. [AN4.49](https://find.dhamma.gift/bw/an/an4.49.html) <br>anattani, bhikkhave, attāti saññāvipallāso cittavipallāso diṭṭhivipallāso.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -446,9 +398,7 @@
 | \#saññā | noun | fem | perception | √ñā･5 nā (know) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
 
-
 **vipallāsa = vi + pari \> pali \> paly \> pall + √as \> ās + \*a**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -459,16 +409,11 @@
 | \#diṭṭhi | noun | fem | view, opinion, theory | √dis･1 a (see) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
 
-
 **"In regard to what is not (a) self, "(This is) self". (is) the distortion of perception, the distortion of thought, the distortion of view.**
-
-
-
 
 ## Class 18 Extra Examples
 
 1. [VIN PAT PC 57](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>tatth'āyaṃ samayo 'diyaḍḍho māso seso gimhānan'ti vassānassa paṭhamo māso icc'ete aḍḍhateyyamāsā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -496,12 +441,9 @@
 | \#\#ti + \*ya | card | masc | three |  |
 | \#māsā | noun | masc.nom.pl | months | √mā･5 nā (measure) |
 
-
 **This (is) the time in this case: One-and-a-half months (are) remaining of the hot season and the first month of the rainy season, thus these two-and-a-half months, ...**
 
-
 2. [AN5.140](https://find.dhamma.gift/bw/an/an5.140.html)<br>idha, bhikkhave, rañño nāgo yam'enaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -510,9 +452,7 @@
 | rañño | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
 | nāgo | noun | masc.nom.sg | a tusker; a bull elephant |  |
 
-
 **Here, monks, a king's bull elephant**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -526,9 +466,7 @@
 | kāraṇaṃ | noun | nt.acc.sg | a task | √kar･7 \*e (do, make) |
 | kāreti | verb | pr caus 3rd.sg | makes one do; causes to make | √kar･7 \*e (do, make) |
 
-
 **to whichever task the elephant trainer has him perform,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -541,9 +479,7 @@
 | \#akata | pp | nt. | not done; not performed | √kar･7 o (do, make) |
 | \#pubbaṃ | adj | nt.acc.sg | previous; earlier |  |
 
-
 **whether [it] has been previously done or not previously done,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -561,12 +497,9 @@
 | \#soto | noun | nt.nom.sg | the ear | √su･4 ṇā (hear) |
 | suṇāti | verb | pr.3rd.sg | he listens | √su･4 ṇā (hear) |
 
-
 **having focused and paid attention on that (task), having concentrated completely with the mind, he listens with applied ear.**
 
-
 3. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html)<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: "ajja kho gāvo amukasmiñ'ca amukasmiñ'ca padese cariṃsu"
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -593,12 +526,9 @@
 | padese | noun | masc.loc.sg | in the place | √dis･1 a (point out, explain) |
 | cariṃsu | verb | aor.3rd.pl | grazed (in) | √car･1 a (move, walk) |
 
-
 **In the evening, a young cowherd, having handed over the cattle to the owners, reflects thus: "Today, indeed, the cattle grazed in this place and in that place…"**
 
-
 4. [SN7.9](https://find.dhamma.gift/bw/sn/sn7.9.html) <br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -616,12 +546,9 @@
 | \#mosa | adj | nt. | untrue | √mus･1 a (steal) |
 | \#vajjaṃ | adj (as noun) | nt.nom.sg | speaking; saying | √vad 1 a (to say, speak) |
 
-
 **Conceit, O brahmin, is indeed the burden carried across your shoulders; anger the smoke, false speech (is in) the ashes.**
 
-
 5. [AN3.51](https://find.dhamma.gift/bw/an/an3.50.html) <br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -639,12 +566,9 @@
 | nissito | pp | masc.nom.sg | attached to; dependent on | √si･1 a (depend on, associate with) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
-
 **Here, monks, a master thief is dependent on kings or the royal ministers.**
 
-
 6. [MN82](https://find.dhamma.gift/bw/mn/mn82.html)<br>app'ekad'āhaṃ, bho raṭṭhapāla, 'idha pādaṃ karissāmī'ti aññen'eva pādaṃ karomī"ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -669,19 +593,8 @@
 | \#karomi | verb | pr.1st.sg | I make; I perform | √kar･7 o (do, make) |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"Just sometimes, master Raṭṭhapāla, thinking, "I will place the foot here", I place it at (lit.: with) another (place)."**
-
-
 
 **[^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single**
 
-
-
 **word or name or expression; a list"**
-
-<div class="nav-links">
-  <a href="../17_class/" class="prev">← Class 17 Exercises</a>
-  <a href="../19_class/" class="next">Class 19 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F18_class" target="_blank">Provide feedback on this page</a></div>
-</div>

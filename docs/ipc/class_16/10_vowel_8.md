@@ -1,17 +1,17 @@
 # Consonant Insertions
-***
+
 #### Possibility \#8
 
 The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v.**
-***
+
 n**a**![](../../assets/images/arrow.png)**i**massa \> na**y**imassa
-***
+
 **+ y**
-***
+
 This means:
-***
+
 **y** may be inserted between two vowels
-***
+
 In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **y (common)**
@@ -32,7 +32,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | s**u** | **u**ṭṭhita | su**v**uṭṭhita |
 | (good) | stood up | good wake up |
 
-***
 **m (common)**
 
 |  |  |  |
@@ -44,7 +43,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | saññ**ī** | **e**va | saññ**īme**va |
 | conscious | just | even conscious |
 
-***
 **d (common)**
 
 |  |  |  |
@@ -63,7 +61,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | s**a** | **d**iṭṭhi | sa**n**diṭṭhi |
 | own | view | one’s own belief |
 
-***
 **t (rare)**
 
 |  |  |  |
@@ -73,7 +70,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | tasm**ā** | **i**ha | tasmā**t**iha |
 | therefore | here | therefore in this regard |
 
-***
 **r (common)**
 
 |  |  |  |
@@ -85,7 +81,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | pun**a** | **e**ti | puna**r**eti |
 | again | comes | returns |
 
-***
 **ḷ (only with cha)**
 
 |  |  |  |
@@ -95,7 +90,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | cha \> s**a** | **ā**yatanā | sa**ḷ**āyatanā |
 | six | fields | six sense fields |
 
-***
 **h (very rare)**
 
 |  |  |  |
@@ -105,15 +99,6 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | s**u** | **u**jū | su**h**ujū |
 | (well) | straight | very straight |
 
-***
 **what is Possibility \#8 ?**
-***
-The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v**.
-***
 
-<div class="nav-links">
-  <a href="../9_vowel_7/" class="prev">← Possibility \#7</a>
-  <a href="../11_vowel_9/" class="next">Possibility \#9 →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F10_vowel_8" target="_blank">Provide feedback on this page</a></div>
-</div>
+The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v**.

@@ -2,7 +2,6 @@
 
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
 
-
 1. [SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html) <br>kiṃsū asissāmi kuvaṃ vā asissaṃ, <br>dukkhaṃ vata settha kvajja sessaṃ, <br>ete vitakke paridevaneyye, <br>vinayetha sekho aniketacārī.
 
 | Pāli | POS | Grammar | English | Root |
@@ -26,7 +25,6 @@
 
 **&nbsp;**
 
-
 2. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html)<br>asmīti, bhikkhave, maññitametaṁ, ayamahamasmīti maññitametaṁ, bhavissanti maññitametaṁ, na bhavissanti maññitametaṁ
 
 |  |  |  |  |  |
@@ -42,7 +40,6 @@
 | bhavissanti |  |  |  |  |
 
 **&nbsp;**
-
 
 3. [SNP37](https://find.dhamma.gift/bw/snp/snp3.11.html)<br>moneyyaṃ te upaññissaṃ, dukkaraṃ durabhisambhavaṃ,<br>handa te naṃ pavakkhāmi, santhambhassu daḷho bhava.
 
@@ -63,7 +60,6 @@
 
 **&nbsp;**
 
-
 4. [TH262](https://find.dhamma.gift/bw/tha/tha19.html)<br>ādittatohaṃ samathehi yutto, <br>paññāya dacchaṃ tadidaṃ kadā me.
 
 |  |  |  |  |  |
@@ -78,7 +74,6 @@
 | me |  |  |  |  |
 
 **&nbsp;**
-
 
 5. [AN4.49](https://find.dhamma.gift/bw/an/an4.49.html) <br>aniccaṃ aniccato dakkhuṃ, dukkhamaddakkhu dukkhato. anattani anattāti, asubhaṃ asubhataddasuṃ. sammādiṭṭhisamādānā, sabbaṃ dukkhaṃ upaccagunti
 
@@ -100,7 +95,6 @@
 
 **&nbsp;**
 
-
 6. [DHP143](https://find.dhamma.gift/bw/dhp/dhp129-145.html)<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodhati, asso bhadro kasāmiva.
 
 |  |  |  |  |  |
@@ -119,7 +113,6 @@
 
 **&nbsp;**
 
-
 7. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>paccuppannañca yaṃ dhammaṃ, tattha tattha vipassati. asaṃhiraṃ asaṅkuppaṃ, taṃ vidvā manubrūhaye.
 
 |  |  |  |  |  |
@@ -136,9 +129,7 @@
 | vidvā |  |  |  |  |
 | manubrūhaye |  |  |  |  |
 
-
 **&nbsp;**
-
 
 8. [TH206](https://find.dhamma.gift/bw/tha/tha5.html) <br>satiyā taṃ nibandhissaṃ,<br>payutto te damessāmi,<br>vīriyadhuraniggahito,<br>na yito dūraṃ **gamissase** cittāti.
 
@@ -159,7 +150,6 @@
 
 **&nbsp;**
 
-
 9. [MN56](https://find.dhamma.gift/bw/mn/mn56.html) <br>api cāhaṃ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṃ bhagavantaṃ paccanīkaṃ kātabbaṃ **amaññissaṃ**.
 
 |  |  |  |  |  |
@@ -178,7 +168,6 @@
 | amaññissaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 10. [SN22.96](https://find.dhamma.gift/bw/sn/sn22.96.html) <br>ettako cepi, bhikkhu, attabhāvapaṭilābho abhavissa nicco dhuvo sassato avipariṇāmadhammo, nayidaṃ brahmacariyavāso paññāyetha sammā dukkhakkhayāya.
 
@@ -200,7 +189,6 @@
 | dukkhakkhayāya |  |  |  |  |
 
 **&nbsp;**
-
 
 11. [MN73](https://find.dhamma.gift/bw/mn/mn73.html)<br>sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
 
@@ -229,7 +217,6 @@
 | tenaṅgena |  |  |  |  |
 
 **&nbsp;**
-
 
 12. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>saṅkhārā ca hidaṃ, bhikkhave, attā **abhavissaṃsu**, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — ‘evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesunti.
 
@@ -260,7 +247,6 @@
 
 **&nbsp;**
 
-
 13. [UD73](https://find.dhamma.gift/bw/ud/ud8.3.html) <br>no cetaṃ bhikkhave **abhavissa** ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ **paññāyetha**.
 
 |  |  |  |  |  |
@@ -283,7 +269,6 @@
 
 **&nbsp;**
 
-
 14. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>tassa nevassa puratthimāya disāya udakassa āyamukhaṃ ... devo ca na kālena kālaṃ sammādhāraṃ **anuppaveccheyya**.
 
 |  |  |  |  |  |
@@ -302,16 +287,11 @@
 | dhāraṃ |  |  |  |  |
 | anuppaveccheyya |  |  |  |  |
 
-
-
 **&nbsp;**
-
 
 ## Class 22 Extra Examples
 
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
-
-
 
 1. [SN1.35](https://find.dhamma.gift/bw/sn/sn1.35.html)<br>atha kho tā devatāyo bhiyyosomattāya ujjhāyantiyo vehāsaṃ abbhuggañchuṃ.
 
@@ -327,7 +307,6 @@
 | abbhuggañchuṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 2. [VIN PAT NP 27](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmāti. evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ.
 
@@ -352,7 +331,6 @@
 
 **&nbsp;**
 
-
 3. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html)<br>adāsi me akāsi me, ñātimittā sakhā ca me. <br>petānaṃ dakkhiṇaṃ dajjā, pubbe katamanussaraṃ.
 
 |  |  |  |  |  |
@@ -371,9 +349,7 @@
 | pubbe |  |  |  |  |
 | katamanussaraṃ |  |  |  |  |
 
-
 **&nbsp;**
-
 
 4. [MN65](https://find.dhamma.gift/bw/mn/mn65.html) <br>etha, tumhepi, bhikkhave, ekāsanabhojanaṃ bhuñjatha; ekāsanabhojanaṃ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca **sañjānissatha** appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcāti.
 
@@ -397,7 +373,6 @@
 | phāsuvihārañcāti |  |  |  |  |
 
 **&nbsp;**
-
 
 5. [SN35.194](https://find.dhamma.gift/bw/sn/sn35.194.html) <br>evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
 
@@ -444,7 +419,6 @@
 
 **&nbsp;**
 
-
 6. [AN2.9](https://find.dhamma.gift/bw/an/an2.9.html) <br>ime kho, bhikkhave, dve sukkā dhammā lokaṃ na **pāleyyuṃ**, nayidha **paññāyetha** mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. sambhedaṃ loko **agamissa**, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā.
 
 |  |  |  |  |  |
@@ -478,10 +452,3 @@
 | soṇasiṅgālā |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../21_class/" class="prev">← Class 21</a>
-  <a href="../23_class/" class="next">Class 23 →</a>
-  <div class="cross"><a href="../../ipc_key/22_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_ex%2F22_class" target="_blank">Provide feedback on this page</a></div>
-</div>

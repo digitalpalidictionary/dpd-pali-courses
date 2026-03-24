@@ -1,7 +1,7 @@
 # Phonetic changes of -n-
 
 This occurs with the **past participle** or **adjectives** ending -na, **neuter nouns ending** in -na, etc
-***
+
 **d + n \> nn**
 
 |  |  |  |
@@ -18,12 +18,3 @@ This occurs with the **past participle** or **adjectives** ending -na, **neuter 
 | √jīr + na | ji**ṇṇ**a | pp. aged |
 | √pūr + na | pu**ṇṇ**a | pp. filled |
 | ava + √kir + na | oki**ṇṇ**a | pp. covered |
-
-***
-
-<div class="nav-links">
-  <a href="../3_as_ta/" class="prev">← Phonetic changes of -t-</a>
-  <a href="../5_as_sa/" class="next">Phonetic changes of -s- →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F4_as_na" target="_blank">Provide feedback on this page</a></div>
-</div>

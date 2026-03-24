@@ -1,25 +1,25 @@
 # Summary of Parassapada & Attanopada Conjugations
-***
+
 from Kaccāyana:
-***
+
 423, 426. **Vattamānā** ti anti, si tha, mi ma, te ante, se vhe, e mhe.
-***
+
 424, 450. **Pañcamī** tu antu, hi tha, mi ma, taṃ antaṃ, ssu vho, e āmase.
-***
+
 425, 453. **Sattamī** eyya eyyuṃ, eyyāsi eyyātha, eyyāmi eyyāma, etha eraṃ, etho eyyāvho, eyyaṃ eyyāmhe.
-***
+
 426, 459. **Parokkhā** a u, e ttha, aṃ mha, ttha re, ttho vho, iṃ mhe.
-***
+
 427, 455. **Hiyyattanī** ā ū, o ttha, aṃ mhā, ttha tthuṃ, se vhaṃ, iṃ mhase.
-***
+
 428, 468. **Ajjatanī** ī uṃ, o ttha, iṃ mhā, ā ū, se vhaṃ, aṃ mhe.
-***
+
 429, 472. **Bhavissantī** ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe.
-***
+
 430, 373. **Kālātipatti** ssā ssaṃsu, sse ssatha, ssaṃ ssāmhā, ssatha sissu, ssase ssavhe, ssiṃ ssāmhase.
-***
+
 Here’s a large table of the full set of parassapada and attanopada verbal endings.
-***
+
 **Parassapada**
 
 |  |  |  |  |  |  |  |
@@ -35,7 +35,6 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 | bhavissantī | ssati | ssanti | ssasi | ssatha | ssāmi | ssāma |
 | kālātipatti | ssā | ssaṃsu | sse | ssatha | ssaṃ | ssāmhā |
 
-***
 **Attanopada**
 
 |  |  |  |  |  |  |  |
@@ -51,13 +50,4 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 | **bhavissantī** | ssate | ssante | ssase | ssavhe | ssaṃ | ssāmhe |
 | **kālātipatti** | ssatha | ssisu | ssase | ssavhe | ssiṃ | ssāmhase |
 
-***
 Please double check these tables!
-***
-
-<div class="nav-links">
-  <a href="../9_aor/" class="prev">← Aorist (ajjatanī)</a>
-  <a href="../11_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/21_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_21%2F10_sum" target="_blank">Provide feedback on this page</a></div>
-</div>

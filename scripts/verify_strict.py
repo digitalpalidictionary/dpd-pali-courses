@@ -1,3 +1,8 @@
+"""
+Data integrity verification script for DPD Pāḷi Courses.
+Compares Markdown source phrases against generated HTML (website) and extracted PDF text.
+Ensures that no content is lost during the conversion process.
+"""
 import os
 import re
 import argparse

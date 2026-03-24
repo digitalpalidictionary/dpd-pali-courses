@@ -1,68 +1,61 @@
-***
-# Prefixes (upasagga)
-***
-Prefixes are attached to the beginning of nouns, verbs & adjectives. They can modify, intensify, completely change, or, in some cases, leave the meaning of the root unchanged.
-***
-Traditional grammarians consider there to be three types of prefixes.
-***
-**1. dhātv’atth’ānuvattaka**
-***
-(root – meaning – following along)
-***
-These prefixes don’t change the meaning of the root at all.
-***
-e.g. √bhā (to shine)
-***
-bhāti (shines)
-***
-**ā**bhāti (shines)
-***
-**2. dhātv’atthabādhaka**
-***
-(root – meaning - obstructing)
-***
-These prefixes completely change or even reverse the meaning of the root.
-***
-e.g. √raj 3 ya (desire)
-***
-rajjati (is attached)
-***
-**vi**rajjati (is detached)
-***
-**3. dhātv’atthavisesaka**
-***
-(root – meaning - enhancer)
-***
-These prefixes add some flavour and nuance to the meaning of the root.
-***
-e.g. √har (to carry)
-***
-harati (carries)
-***
-**ā**harati (brings back)
-***
-**o**harati (shaves, lit. takes down)
-***
-**nī**harati (removes, extracts)
-***
-**pa**harati (beats, strikes)
-***
-Here is the list of 20 prefixes according to traditional sources
-***
-**pa, parā, ni, nī, u(d), du(r), saṃ, vi, ava, anu, pari, adhi, abhi, pati, su, ā, ati, api, apa, upa**
-***
-When adding prefixes, the normal rules of sandhi apply
-***
-ati + agā \> a**cc**agā
-***
-adhi + ā + vasa + ti \> a**jjh**āvasati
-***
-abhi + ā + cikkha + ti \> a**bbh**ācikkhati
-***
 
-<div class="nav-links">
-  <a href="../" class="prev">← Class 23</a>
-  <a href="../2_aa/" class="next">ā-<br>up to, upwards, towards, near to, at, backwards, away, all round, intensely, until, as far as[^15] →</a>
-  <div class="cross"><a href="../../../ipc_ex/23_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_23%2F1_prefix" target="_blank">Provide feedback on this page</a></div>
-</div>
+
+# Prefixes (upasagga)
+
+Prefixes are attached to the beginning of nouns, verbs & adjectives. They can modify, intensify, completely change, or, in some cases, leave the meaning of the root unchanged.
+
+Traditional grammarians consider there to be three types of prefixes.
+
+**1. dhātv’atth’ānuvattaka**
+
+(root – meaning – following along)
+
+These prefixes don’t change the meaning of the root at all.
+
+e.g. √bhā (to shine)
+
+bhāti (shines)
+
+**ā**bhāti (shines)
+
+**2. dhātv’atthabādhaka**
+
+(root – meaning - obstructing)
+
+These prefixes completely change or even reverse the meaning of the root.
+
+e.g. √raj 3 ya (desire)
+
+rajjati (is attached)
+
+**vi**rajjati (is detached)
+
+**3. dhātv’atthavisesaka**
+
+(root – meaning - enhancer)
+
+These prefixes add some flavour and nuance to the meaning of the root.
+
+e.g. √har (to carry)
+
+harati (carries)
+
+**ā**harati (brings back)
+
+**o**harati (shaves, lit. takes down)
+
+**nī**harati (removes, extracts)
+
+**pa**harati (beats, strikes)
+
+Here is the list of 20 prefixes according to traditional sources
+
+**pa, parā, ni, nī, u(d), du(r), saṃ, vi, ava, anu, pari, adhi, abhi, pati, su, ā, ati, api, apa, upa**
+
+When adding prefixes, the normal rules of sandhi apply
+
+ati + agā \> a**cc**agā
+
+adhi + ā + vasa + ti \> a**jjh**āvasati
+
+abhi + ā + cikkha + ti \> a**bbh**ācikkhati

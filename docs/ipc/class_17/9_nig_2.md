@@ -1,15 +1,14 @@
 # Possibility \#2
-***
+
 When **ṃ** is followed by a **consonant**,
-***
+
 the **ṃ** may be **transformed** into the nasal of the vagga to which that consonant belongs.
-***
+
 e.g. kāla**ṃ** + **k**ata \> kāla**ṅ**kata
-***
+
 In Kaccāyana this is called (31) **vagg’antaṃ vā vagge.**
-***
+
 Please take note of the nasal of each group
-***
 
 | **guttural** | **k** | **kh** | **g** | **gh** | **ṅ** |
 |---|---|---|---|---|---|
@@ -18,7 +17,6 @@ Please take note of the nasal of each group
 | **dental** | **t** | **th** | **d** | **dh** | **n** |
 | **labial** | **p** | **ph** | **b** | **bh** | **m** |
 
-***
 **ṃ + guttural \> ṅ**
 
 |  |  |  |  |  |
@@ -30,7 +28,6 @@ Please take note of the nasal of each group
 | attha**ṃ** | **g**ata | attha**ṅ**gata | pp. set, lit. gone home |  |
 | sa**ṃ** | **g**ha | sa**ṅ**gha | masc. community |  |
 
-***
 **ṃ + palatal \> ñ**
 
 |  |  |  |  |  |
@@ -42,9 +39,8 @@ Please take note of the nasal of each group
 | sa**ṃ** | **jh**ā | sa**ñ**jhā[^5] | f. evening |  |
 | sa**ṃ** | **ñ**ā | sa**ñ**ñā | f. perception |  |
 
-***
 [^5]: comm word
-***
+
 **ṃ + retroflex \> ṇ**
 
 |  |  |  |  |  |
@@ -54,7 +50,6 @@ Please take note of the nasal of each group
 | sa**ṃ** | **ṭh**āna | sa**ṇ**ṭhāna | nt. standing still |  |
 | sa**ṃ** | **ṭh**ahati | sa**ṇ**ṭhahati | pr. settles in |  |
 
-***
 **ṃ + dental \> n**
 
 |  |  |  |  |  |
@@ -66,7 +61,6 @@ Please take note of the nasal of each group
 | sa**ṃ** | **dh**āvita | sa**n**dhāvita | pp. transmigrated |  |
 | sa**ṃ** | **n**icaya | sa**n**nicaya | m. accumulation |  |
 
-***
 **ṃ + labial \> m**
 
 |  |  |  |  |  |
@@ -78,17 +72,8 @@ Please take note of the nasal of each group
 | paṭi sa**ṃ** | **bh**idā | paṭisa**m**bhidā | f. analytical insight |  |
 | sa**ṃ** | **m**ajjati | sa**m**majjati | pr. sweeps |  |
 
-***
 **Counter-examples:**
-***
-ta**ṃ k**ammaṃ \> ta**ṃ** kammaṃ
-***
-saṃ khitta \> sa**ṃ**khitta
-***
 
-<div class="nav-links">
-  <a href="../8_nig_1/" class="prev">← Niggahīta Sandhi</a>
-  <a href="../10_nig_3/" class="next">Possibility \#3 →</a>
-  <div class="cross"><a href="../../../ipc_ex/17_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_17%2F9_nig_2" target="_blank">Provide feedback on this page</a></div>
-</div>
+ta**ṃ k**ammaṃ \> ta**ṃ** kammaṃ
+
+saṃ khitta \> sa**ṃ**khitta

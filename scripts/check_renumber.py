@@ -1,3 +1,7 @@
+"""
+Script to detect and correct numbering inconsistencies in Pāḷi sentence lists.
+Supports dry-run and automatic re-numbering of exercises and answer keys.
+"""
 import os
 import re
 import argparse

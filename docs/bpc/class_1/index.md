@@ -1,10 +1,14 @@
 # Class 1
 
-***
+
 **Why study Pāli ?**
-***
+
+
+
 **What is your Pāli name?**
-***
+
+
+
 ## Course Structure {: #course-structure}
 
 1.  Weekly Class (2h / class)
@@ -44,8 +48,6 @@ An **intermediate** vocabulary of any language is about **10000** words.
 An **advanced** vocabulary of any language is about **20000 - 40000** words.
 
 How are you going to learn **5000** words of Pāli vocabulary?
-
-
 
 ## How to set up basic digital tools {: #how-to-set-up-basic-digital-tools}
 
@@ -87,10 +89,3 @@ Folder contains
     Optional:
 
 -   Find 2-3 of your favourite and most inspiring sentences from the Tipiṭaka Pāli
-
-<div class="nav-links">
-  <a href="../" class="prev">← BPC Lessons</a>
-  <a href="../class_2/" class="next">Class 2 →</a>
-  <div class="cross"><a href="../../../bpc_ex/1_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_1%2Findex.md" target="_blank">Provide feedback on this page</a></div>
-</div>

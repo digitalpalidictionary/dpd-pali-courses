@@ -14,7 +14,6 @@ When prefixes **ud- ; dur- ; nir-** combine with roots beginning with a consonan
 | nir | √mal | r + m \> mm | nimmala | spotless |
 | sat | dhamma | t + dh \> ddh | saddhamma | true doctrine |
 
-***
 -   **Sanskrit influence assimilation**
 
 Some roots which in Sanskrit have a double consonant become one consonant in Pāli. The first consonant of such a root may duplicate in combination with a prefix(s) ending in a vowel.
@@ -26,12 +25,4 @@ Some roots which in Sanskrit have a double consonant become one consonant in Pā
 | pati | √grah | √gah | paṭi**gg**aheti | takes; accepts |
 | pati | √śru | √su | paṭi**ss**uṇāti | agrees; assents |
 
-***
 But, as usual, there are exceptions.
-
-<div class="nav-links">
-  <a href="../7_mix_san/" class="prev">← Mixed Sandhi (vomissaka-sandhi)</a>
-  <a href="../9_ex/" class="next">Please construct and deconstruct: →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F8_as_misc" target="_blank">Provide feedback on this page</a></div>
-</div>

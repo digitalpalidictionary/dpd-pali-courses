@@ -14,7 +14,6 @@
 | √dīgh | to be long | dīgha | dīgha | long |
 | √div | to shine | √div + **ya** | dibba | divine |
 
-***
 **Adjectives ending in -a (singular)**
 
 |  |  |  |  |
@@ -29,7 +28,6 @@
 | 7.loc | dīgh**e** <br>dīgh**amhi** dīgh**asmiṃ** | dīgh**āyaṃ** <br>dīgh**āya** | dīgh**e** <br>dīgh**amhi** dīgh**asmiṃ** |
 | 8.voc | dīgh**a** dīgh**ā** | dīgh**e** | dīgh**a** dīgh**ā** |
 
-***
 **Adjectives ending in -a (plural)**
 
 |  |  |  |  |
@@ -44,7 +42,6 @@
 | 7.loc | dīgh**esu** | dīgh**āsu** | dīgh**esu** |
 | 8. voc | dīgh**ā** | dīgh**ā** <br>dīgh**āyo** | dīgh**āni** |
 
-***
 **Adjectives ending in -i (singular)**
 
 |  |  |  |  |
@@ -59,7 +56,6 @@
 | 7.loc | uttar**ini** <br>uttar**ismiṃ** <br>uttar**imhi** | uttar**iyā**<br>uttar**iyāṃ** | uttar**ismiṃ** <br>uttar**imhi** |
 | 8.voc | uttar**i** | uttar**i** | uttar**i** uttar**iṃ** |
 
-***
 **Adjectives ending in -i (plural)**
 
 |  |  |  |  |
@@ -74,7 +70,6 @@
 | 7.loc | uttar**īsu** | uttar**īsu** | uttar**īsu** |
 | 8. voc | uttar**ayo** | uttar**iyo** | uttar**īni** uttar**ī** |
 
-***
 **Adjectives ending in -ī (singular)**
 
 |  |  |  |  |
@@ -89,7 +84,6 @@
 | 7.loc | ātāp**ini** <br>ātāp**imhi** ātāp**ismiṃ** | ātāp**iniyā**<br>ātāp**iniyāṃ** | ātāp**ini** <br>ātāp**imhi** ātāp**ismiṃ** |
 | 8.voc | ātāp**i** | ātāp**ī**<br>ātāp**inī** | ātāp**i** |
 
-***
 **Adjectives ending in -u (singular)**
 
 |  |  |  |  |
@@ -104,7 +98,6 @@
 | 7.loc | gar**uni** <br>gar**umhi** <br>gar**usmiṃ** | gar**uyā**<br>gar**uyāṃ** | gar**uni** <br>gar**umhi** <br>gar**usmiṃ** |
 | 8.voc | gar**u** | gar**u** | gar**u** |
 
-***
 **Adjectives ending in -ū (singular)**
 
 |  |  |  |  |
@@ -119,7 +112,6 @@
 | 7.loc | vid**ūsu** | vid**unīsu** | vid**ūsu** |
 | 8.voc | vid**ū** <br>vid**uno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
 
-***
 ## Usage of adjectives
 
 Nouns and adjectives interchangeable unless proven otherwise from the context
@@ -131,10 +123,3 @@ At that time, he feels neither a **pleasant** sensation, nor neutral.
 sato ca sampajāno, **sukhaṃ** ca kāyena paṭisaṃvedeti *[SN45.8](https://find.dhamma.gift/bw/sn/sn45.8.html)*
 
 Mindful and clearly knowing, he experiences **pleasure** by the body.
-
-<div class="nav-links">
-  <a href="../2_pp/" class="prev">← (Passive) Past Participles</a>
-  <a href="../4_abl_sep/" class="next">Ablative of Separation →</a>
-  <div class="cross"><a href="../../../bpc_ex/11_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_11%2F3_adj.md" target="_blank">Provide feedback on this page</a></div>
-</div>

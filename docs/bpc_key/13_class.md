@@ -2,7 +2,6 @@
 
 1. [DN30.2](https://find.dhamma.gift/bw/dn/dn30.html) <br>samaṃ pādaṃ bhūmiyaṃ nikkhipati, samaṃ uddharati, samaṃ sabbāvantehi pādatalehi bhūmiṃ phusati.
 
-
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | samaṃ | ind | adv | evenly; in a balanced manner; smoothly |  |
@@ -10,18 +9,14 @@
 | bhūmiyaṃ | noun | fem.loc.sg | on the earth | √bhū･1 a (be, become) |
 | nikkhipati | verb | pr.3rd.sg | he puts down | √khip･1 a (throw) |
 
-
 **He puts down [his] foot evenly on the earth.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | samaṃ | ind | adv | evenly; in a balanced manner; smoothly |  |
 | uddharati | verb | pr.3rd.sg | he lifts, holds up | √dhar･1 a (hold, carry, endure) |
 
-
 **He lifts [his foot] up in a balanced manner**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -31,12 +26,9 @@
 | bhūmiṃ | noun | fem.acc.sg | the earth | √bhū･1 a (be, become) |
 | phusati | verb | pr.3rd.sg | he touches, contacts | √phus･1 a (touch) |
 
-
 **He touches the earth evenly with the entire sole of [his] foot**
 
-
 2. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyan'ti. so saṇikaṃ gaccheyya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -45,9 +37,7 @@
 | sīghaṃ | ind | adv | quickly |  |
 | gacchāmi | verb | pr.1st.sg | I go | √gam･1 a (go) |
 
-
 **"Why on earth am I going quickly?"**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -56,9 +46,7 @@
 | gaccheyyaṃ | verb | opt.1st.sg | I should go | √gam･1 a (go) |
 | ‘ti | ind | quote | "" |  |
 
-
 **"What if I were to go slowly?"**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,12 +54,9 @@
 | saṇikaṃ | ind | adv | slowly |  |
 | gaccheyya | verb | opt.3rd.sg | he would go | √gam･1 a (go) |
 
-
 **[So] he would walk slowly.**
 
-
 3. [SNP23](https://find.dhamma.gift/bw/snp/snp2.11.html) <br>bhagavā āyasmantaṃ rāhulaṃ imāhi gāthāhi abhiṇhaṃ ovadatī'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -84,15 +69,11 @@
 | ovadati | verb | pr.3rd.sg | advises, admonish | √vad･1 a (say, speak) |
 | 'ti | ind | quote | "" |  |
 
-
 **The Blessed One frequently advises Venerable Rāhula with these verses.**
-
 
 **passive verbs:**
 
-
 4. [AN10.176](https://find.dhamma.gift/bw/an/an10.176.html) <br>ime sattā haññantu vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -111,12 +92,9 @@
 | ahesuṃ | verb | aor.3rd.pl | they were, existed | √hū･1 a (be) |
 | ‘ti | ind | quote | "" |  |
 
-
 **"May these beings be killed, be tied up, be chopped up, be destroyed, may they cease to exist!"**
 
-
 5. [SN22.79](https://find.dhamma.gift/bw/sn/sn22.79.html) <br>ahaṃ kho eta'r'ahi rūpena khajjāmi. atītam'p'āhaṃ addhānaṃ evam'eva rūpena khajjiṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -126,9 +104,7 @@
 | rūpena | noun | nt.instr.sg | by matter | √rūp･8 \*e (form, produce) |
 | khajjāmi | verb.pass | pr.1st.sg | I am being eaten | √khād･1 ya (chew) |
 
-
 **Right now, I am truly being eaten by matter.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -140,12 +116,9 @@
 | rūpena | noun | nt.instr.sg | by matter | √rūp･8 \*e (form, produce) |
 | khajjiṃ | verb.pass | aor.1st.sg | I was eaten | √khād･1 ya (chew) |
 
-
 **In the past time, I was also eaten by matter in the same way.**
 
-
 6. [AN4.186](https://find.dhamma.gift/bw/an/an4.186.html) <br>kena nu kho, bhante, loko nīyati, kena loko parikassati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -155,9 +128,7 @@
 | loko | noun | masc.nom.sg | the world | √lok･8 \*e (look) |
 | nīyati | verb.pass | pr.3rd.sg | is lead | √nī･1 ya (lead, carry) |
 
-
 **Master, by what is the world lead?**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -165,12 +136,9 @@
 | loko | noun | masc.nom.sg | the world | √lok･8 \*e (look) |
 | parikassati | verb.pass | pr.3rd.sg | is dragged around | √kas･1 ya (drag, draw) |
 
-
 **By what is the world dragged around?**
 
-
 7. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>assutavā puthujjano na parimuccati jātiyā … , na parimuccati dukkhasmā'ti vadāmi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -180,9 +148,7 @@
 | parimuccati | verb.pass | pr.3rd.sg | he is released | √muc･2 ya (release, free) |
 | jātiyā | noun | fem.abl.sg | from birth | √jan･3 ya (be born, produce) |
 
-
 **I say: "An unlearned common person is not freed from birth.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -192,12 +158,9 @@
 | 'ti | ind | quote | "" |  |
 | vadāmi | verb | pr.1st.sg | I say | √vad･1 a (say, speak) |
 
-
 **He is not completely freed from suffering."**
 
-
 8. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>kiṃ nu kho ahaṃ saṇikaṃ gacchāmi?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -208,12 +171,9 @@
 | saṇikaṃ | ind | adv | slowly |  |
 | gacchāmi | verb | pr.1st.sg | I walk; go | √gam･1 a (go) |
 
-
 **Why on earth do I walk slowly?**
 
-
 9. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html) <br>passaddhakāyassa sukhino cittaṃ samādhiyati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -222,12 +182,9 @@
 | cittaṃ | noun | nt.nom.sg | mind | √cit･8 \*e (think, intend) |
 | samādhiyati | verb.pass | pr.3rd.sg | becomes composed | √dhā･1 iya (place, support) |
 
-
 **For one [whose] body [is] relaxed [and] who [is] at ease, the mind becomes composed.**
 
-
 10. [VIN PAT PC 73](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -243,9 +200,7 @@
 | pātimokkhe | noun | masc.loc.sg (loc abs) | while the disciplinary code |  |
 | uddissamāne | prp. pass | masc.loc.sg (loc abs) | while being recited | √dis･1 ya (point out, explain) |
 
-
 **if other monks should know [about] [that] monk: "this monk has sat in two or three times before, while the disciplinary code was being recited,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -254,12 +209,9 @@
 | vādo | noun | masc.nom.sg | saying; mentioning | √vad･1 a (say, speak) |
 | bhiyyo'ti | ind | adv+end quote | more" |  |
 
-
 **what to say of more [times],"**
 
-
 11. [MN105](https://find.dhamma.gift/bw/mn/mn105.html) <br>taṃ kiṃ maññasi, sunakkhatta, api nu tassa purisassa tasmiṃ vante puna bhottu'kamyatā assā'ti?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -276,12 +228,9 @@
 | bhottu'kamyatā | noun | fem.nom.sg | desire to eat |  |
 | assā'ti | verb | opt.3rd.sg | would he | √as･1 a (be) |
 
-
 **"What do you think, Sunakkhatta, after that man has vomited [some delectable food], would he have desire to eat [it] again?"**
 
-
 12. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>imasmiṃ ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -297,12 +246,9 @@
 | cittāni | noun | nt.nom.pl | minds | √cit･8 \*e (think, intend) |
 | vimucciṃsū'ti | verb. pass | aor.3rd.pl<br>+end quote | freed" | √muc･2 ya (release, free) |
 
-
 **"And so, while this detailed exposition was being spoken, the minds of the group of five monks, by not grasping, were freed from taints."**
 
-
 13. [MN75](https://find.dhamma.gift/bw/mn/mn75.html) <br>aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -318,12 +264,9 @@
 | kāme | noun | masc.acc.pl | sensual pleasures | √kam･8 \*e (desire) |
 | paṭisevante | prp | masc.acc.pl (+acc) | indulging in | √sev･1 a (serve, associate) |
 
-
 **I see other living beings not free from desire in regard to sensual pleasures, being devoured by cravings for sensual pleasures, being tormented by a burning passion for sensual objects, indulging in sensual pleasures.**
 
-
 14. [MN10.18](https://find.dhamma.gift/bw/mn/mn10.html) <br>yaṃ loke piyarūpaṃ sātarūpaṃ, ettha esā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -340,12 +283,9 @@
 | nirujjhamānā | prp. pass | fem.nom.sg | ceasing | √rudh･2 ya (obstruct) |
 | nirujjhati | verb. pass | pr.3rd.sg | is ceased; finishes; stops | √rudh･2 ya (obstruct) |
 
-
 **for what [is] pleasant and enticing in the world this craving here is being abandoned, is abandoned, here it is ceasing, is ceased.**
 
-
 15. [MN22](https://find.dhamma.gift/bw/mn/mn22.html) <br>evam'pi kho bhikkhu tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno taṃ eva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -366,12 +306,9 @@
 | abhinivissa | verb | ger (+acc) | attaching; adhering | √vis･1 a (enter) |
 | voharati | verb | pr.3rd.sg | he speaks; gives expression | √har･1 a (carry) |
 
-
 **Similarly, a monk being cross-questioned, interrogated, admonished by those monks, speaks adhering to that very wrong view, obstinately and with attachment.**
 
-
 16. [AN3.28](https://find.dhamma.gift/bw/an/an3.28.html) <br>tayo ime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? gūthabhāṇī, pupphabhāṇī, madhubhāṇī.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -383,9 +320,7 @@
 | saṃvijjamānā | prp. pass | masc.nom.pl | existing in; being found in | √vid･3 ya (be found, exist) |
 | lokasmiṃ | noun | masc.loc.sg | the world | √lok･8 \*e (look) |
 
-
 **Monks, [there are] these three [types of] persons being found existing in the world.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -395,12 +330,9 @@
 | pupphabhāṇī | adj | masc.nom.pl | who speak the truth (lit: flower talker) |  |
 | madhubhāṇī | adj | masc.nom.pl | who talk sweetly (lit: honey talker) |  |
 
-
 **Which three? [Those] who lie, [those] who speak the truth, [and] [those] who talk sweetly.**
 
-
 17. [VIN PAT SA 13](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -420,16 +352,11 @@
 | c'eva | sandhi | ind+ind | as well as |  |
 | suyyanti | verb.pass | pr.3rd.pl | they are heard | √su･4 ya (hear) |
 
-
 **His bad activities (lit: behaviors) are seen as well as heard [about] and the householders corrupted by him are seen as well as heard [about].**
-
-
-
 
 ## Class 13 Extra
 
 1. [SNP37](https://find.dhamma.gift/bw/snp/snp3.11.html) <br>na munī gāmam'āgamma,<br>kulesu sahasā care
-
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -441,12 +368,9 @@
 | sahasā | ind | adv | rashly; in haste |  |
 | care | verb | opt.3rd.sg | he should walk | √car･1 a (move, walk) |
 
-
 **A monk, having arrived in the village, should not walk rashly among the households.**
 
-
 2. APA 3 (simpl) <br>jahanti purimaṃ nāmaṃ, buddhaputtā'ti ñāyanti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -457,12 +381,9 @@
 | iti | ind | quote | "" |  |
 | ñāyanti | verb.pass | pr.3rd.pl | they are known as | √ñā･5 ya (know) |
 
-
 **They give up their former names and are known as "Buddha's sons"**
 
-
 3. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>mettaṃ ca sabbalokasmiṃ, mānasaṃ bhāvaye aparimāṇaṃ; <br>uddhaṃ adho ca tiriyaṃ ca, asambādhaṃ, averaṃ, asapattaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -473,9 +394,7 @@
 | bhāvaye | verb | opt.3rd.sg | should cultivate | √bhū･1 \*aya (be, become) |
 | aparimāṇaṃ | adj | nt.acc.sg | measureless; boundless | √mā･5 nā (measure) |
 
-
 **One should cultivate a measureless and friendly mind for the entire world.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -488,12 +407,9 @@
 | averaṃ | adj | nt.acc.sg | without enmity | √vīr×8 \*e (be heroic, hostile) |
 | asapattaṃ | adj | nt.acc.sg | without hostility | √pat×3 ya (command, control) |
 
-
 **above, below and across; unobstructed, without enmity, without hostility.**
 
-
 4. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) (simpl)<br>diṭṭhā vā ye ca adiṭṭhā, ye сa dūre vasanti avidūre, <br>bhūtā vā sambhavaṃ esī vā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -508,9 +424,7 @@
 | vasanti | verb | pr.3rd.pl | they live | √vas･1 a (live) |
 | avidūre | ind | adv | not far; near | √dū×1 a (go, run) |
 
-
 **Those that are seen or unseen and those that live far away or near,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -520,12 +434,9 @@
 | esī | adj | masc.nom.pl | who are seeking |  |
 | vā | ind | conj | or |  |
 
-
 **[those] [who] have been born or [those] seeking birth.**
 
-
 5. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html) <br>ayaṃ ca kho dakkhiṇā dinnā, saṅghamhi supatiṭṭhitā. dīgharattaṃ hitāya assa, ṭhānaso upakappati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -542,12 +453,9 @@
 | ṭhānaso | ind | adv | right there; immediately | √ṭhā･1 a (stand) |
 | upakappati | verb | pr.3rd.sg | is beneficial to; is serving for |  |
 
-
 **And, indeed, this gift that has been given, [and is] well placed among the community of monks, would be for the benefit for a long time, and [also] is serving immediately.**
 
-
 6. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>catukkhattuṃ pañcakkhattuṃ chakkhattuṃ paramaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -564,12 +472,9 @@
 | iccetaṃ | ind | ind+pron | that is (lit: thus this) |  |
 | kusalaṃ | noun | nt.nom.sg | good |  |
 
-
 **[If after] (a monk) standing silently for the sake of [it] four times, five times, six times at the most, (a helper) should come up with that robe cloth, that is good.**
 
-
 7. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>aññathā lokanāthamhi, tiṭṭhante puris'uttame. <br>iriyā āsi bhikkhūnaṃ, aññathā dāni dissati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -578,9 +483,7 @@
 | tiṭṭhante | prp | masc.loc.sg (loc abs) | when standing; remaining; persisting | √ṭhā･1 a (stand) |
 | puris'uttame | noun | masc.loc.sg (loc abs) | when the highest of men |  |
 
-
 **It was different when the Protector of the world, the supreme man, was still alive,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -591,12 +494,9 @@
 | dāni | ind | adv | now |  |
 | dissati | verb. pass | pr.3rd.sg | is seen; is observed | √dis･1 ya (see) |
 
-
 **conduct of the monks was different; now [it] is seen [to be] otherwise.**
 
-
 8. [DHP265](https://find.dhamma.gift/bw/dhp/dhp256-272.html) <br>yo ca sameti pāpāni, aṇuṃ thūlāni sabbaso, samitattā hi pāpānaṃ, samaṇo'ti pavuccati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -613,12 +513,9 @@
 | samaṇo'ti | noun | masc.nom.sg +quotation marks | "an ascetic"; "a renunciant" | √sam･3 ya (exert, strive) |
 | pavuccati | verb. pass | pr.3rd.sg | is called; is said to be | √vac･1 ya (say, speak) |
 
-
 **He [is one] who makes subside evil deeds, [both] miniscule and large; because of the subsiding completely of evil deeds, he is indeed called "an ascetic."**
 
-
 9. [SNP22](https://find.dhamma.gift/bw/snp/snp2.10.html) <br>uṭṭhahatha nisīdatha, ko attho supitena vo, <br>āturānaṃ hi kā niddā, sallaviddhānaṃ ruppataṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -635,12 +532,9 @@
 | sallaviddhānaṃ | adj | masc.gen.pl (gen abs) | when pierced by an arrow |  |
 | ruppataṃ | prp | masc.gen.pl (gen abs) | when those being hurt | √rup･3 ya (be broken apart, hurt) |
 
-
 **Arouse yourselves, sit up! What benefit [is there] for you by sleeping; What indeed is sleep for the afflicted, when they are being hurt, pierced by an arrow.**
 
-
 10. [AN9.11](https://find.dhamma.gift/bw/an/an9.11.html) <br>taggha taṃ, bhikkhu, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yo tvaṃ sāriputtaṃ asatā tucchā musā abhūtena abbhācikkhi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -660,12 +554,9 @@
 | abhūtena | ind | adv | falsely; untruthfully | √bhū･1 a (be, become) |
 | abbhācikkhi | verb | aor.3rd.sg | slandered; misrepresented | √cikkh･1 a (show, tell) |
 
-
 **O monk, truly you are at fault, you who so foolishly, so misguidedly, so unskilfully, unjustly, baselessly, untruthfully and falsely slandered Sāriputta.**
 
-
 11. [DHP201](https://find.dhamma.gift/bw/dhp/dhp197-208.html) <br>jayaṃ veraṃ pasavati, dukkhaṃ seti parājito, <br>upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -676,9 +567,7 @@
 | seti | verb | pr.3rd.sg | sleeps; rests | √sī･1 a (lie, sleep) |
 | parājito | pp | masc.nom.sg | conquered; defeated | √ji･1 a (conquer) |
 
-
 **Victory generates ill-will, the conquered one sleeps with difficulty,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -688,13 +577,10 @@
 | hitvā | verb | abs | having abandoned; having left behind | √hā･1 a (abandon) |
 | jayaparājayaṃ | noun | masc.acc.sg | victory and defeat |  |
 
-
 **The one who is at peace sleeps comfortably, having left behind victory and defeat.**
-
 
 12. [UD10](https://find.dhamma.gift/bw/ud/ud1.10.html) <br>tato tvaṃ, bāhiya, na tena; yato tvaṃ, bāhiya, na tena tato tvaṃ, bāhiya, na tattha; yato tvaṃ, bāhiya, na tattha, tato tvaṃ, bāhiya, n'eva idha na huraṃ na ubhayam'antarena. es'ev'anto dukkhassā"ti.
 
-
 |  |  |  |  |  |
 |---|---|---|---|---|
 | tato | ind | adv | therefore |  |
@@ -702,11 +588,9 @@
 | bāhiya | noun | masc.voc.sg | Bāhiya |  |
 | na | ind | neg | not |  |
 | tena | pron | nt.instr.sg | with that, by that |  |
-
 
 **"Therefore, Bāhiya, you [won't be] with that;**
 
-
 |  |  |  |  |  |
 |---|---|---|---|---|
 | yato | ind | adv | since; because |  |
@@ -720,9 +604,7 @@
 | na | ind | neg | not |  |
 | tattha | ind | adv | there |  |
 
-
 **because you [are] not with that, therefore, you, Bāhiya, [will] not [be] there.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -732,9 +614,7 @@
 | na | ind | neg | not |  |
 | tattha | ind | adv | there |  |
 
-
 **Since, you, Bāhiya, [are] not there,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -750,11 +630,4 @@
 | es'ev'anto | sandhi | pron+ind+masc (+gen) | just this is the end |  |
 | dukkhassā"ti | noun | nt.gen.sg +end quote | of suffering" | √dukkh･1 a (be painful) |
 
-
 **therefore, you, Bāhiya, [are] neither not here, nor in another world, nor in-between the two; just this is the end of suffering."**
-
-<div class="nav-links">
-  <a href="../12_class/" class="prev">← Class 12 Exercises</a>
-  <a href="../14_class/" class="next">Class 14 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F13_class" target="_blank">Provide feedback on this page</a></div>
-</div>

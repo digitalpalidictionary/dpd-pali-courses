@@ -1,3 +1,7 @@
+"""
+Helper script to update mkdocs.yaml based on course folder structure.
+Automatically generates the navigation section using headings from Markdown files.
+"""
 import os
 import re
 import yaml
@@ -77,15 +81,15 @@ config = {
     'theme': {
         'name': 'material',
         'language': 'en',
-        'custom_dir': 'tools/ssg/stylesheets',
+        'custom_dir': 'identity',
         'palette': [
             {'scheme': 'default', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-7', 'name': 'Switch to dark mode'}},
             {'scheme': 'slate', 'primary': 'brown', 'accent': 'orange', 'toggle': {'icon': 'material/brightness-4', 'name': 'Switch to light mode'}}
         ],
-        'features': ['navigation.tabs', 'navigation.tabs.sticky', 'navigation.top', 'navigation.indexes', 'content.code.copy']
+        'features': ['navigation.tabs', 'navigation.tabs.sticky', 'navigation.top', 'navigation.indexes', 'content.code.copy', 'hide.generator']
     },
     'extra_css': ['dpd.css', 'dpd-variables.css', 'extra.css'],
-    'extra_javascript': ['footnotes.js'],
+    'extra_javascript': ['footnotes.js', 'search_order.js'],
     'markdown_extensions': [
         'attr_list',
         {'toc': {
@@ -97,10 +101,12 @@ config = {
         'pymdownx.snippets',
         'pymdownx.superfences',
         'tables',
-        'md_in_html'
+        'md_in_html',
+        'nl2br'
         ],
         'hooks': [
-        'tools/ssg/scripts/footnote_hook.py'
+        'tools/footnote_hook.py',
+        'tools/nav_hook.py'
         ],
         'nav': [
 

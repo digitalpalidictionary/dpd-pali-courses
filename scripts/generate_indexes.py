@@ -1,8 +1,12 @@
+"""
+Script to generate index.md pages for course categories.
+Creates a Table of Contents based on individual lesson headings.
+"""
 import re
 import os
 import urllib.parse
 from pathlib import Path
-from tools.ssg.scripts.paths import SSGPaths
+from tools.paths import SSGPaths
 
 def clean_title(title):
     """Normalized title cleanup."""

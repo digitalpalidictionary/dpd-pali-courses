@@ -11,7 +11,6 @@
 
 **&nbsp;**
 
-
 2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)[^2]<br>**araññe** **rukkhānaṃ** **mūlesu[^3]**, **kandarāsu** **guhāsu** ca
 
 |  |  |  |  |  |
@@ -24,7 +23,6 @@
 | ca | ind | conj |  |  |
 
 **&nbsp;**
-
 
 3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>**maggo** hoti **sokaparidevānaṃ** **samatikkamāya**, **ñāyassa** **adhigamāya**, **nibbānassa** **sacchikiriyāya**.
 
@@ -41,7 +39,6 @@
 
 **&nbsp;**
 
-
 4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>**uttarissa** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
 
 |  |  |  |  |  |
@@ -54,7 +51,6 @@
 | viseso |  |  |  |  |
 
 **&nbsp;**
-
 
 5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ **kāye** **kesā** **lomā** **nakhā** **dantā** **taco**
 
@@ -71,7 +67,6 @@
 
 **&nbsp;**
 
-
 6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
 
 |  |  |  |  |  |
@@ -85,7 +80,6 @@
 
 **&nbsp;**
 
-
 7. VIN PAT NID nidānuddeso<br>**saṅgho** **uposathaṃ** kareyya, **pātimokkhaṃ** uddiseyya
 
 |  |  |  |  |  |
@@ -97,7 +91,6 @@
 | uddiseyya | verb | opt.3rd.sg |  |  |
 
 **&nbsp;**
-
 
 8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html) <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
 
@@ -121,7 +114,6 @@
 
 **&nbsp;**
 
-
 9. kāyassa bhedā
 
 |  |  |  |  |  |
@@ -130,7 +122,6 @@
 | bhedā | noun | masc.abl.sg<br>masc.nom.pl | from the breakup<br>breakups |  |
 
 **&nbsp;**
-
 
 **from the breakup of the body**
 
@@ -143,7 +134,6 @@
 
 **&nbsp;**
 
-
 11. virāgāya nirodhāya
 
 |  |  |  |  |  |
@@ -152,7 +142,6 @@
 | nirodhāya |  |  |  |  |
 
 **&nbsp;**
-
 
 12. bālassa mohāya
 
@@ -163,7 +152,6 @@
 
 **&nbsp;**
 
-
 13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
 
 |  |  |  |  |  |
@@ -172,7 +160,6 @@
 | lokamhi |  |  |  |  |
 
 **&nbsp;**
-
 
 **[there is no satisfaction]**
 
@@ -185,7 +172,6 @@
 
 **&nbsp;**
 
-
 15. cāgo paṭinissaggo anālayo
 
 |  |  |  |  |  |
@@ -196,7 +182,6 @@
 
 **&nbsp;**
 
-
 16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
 
 |  |  |  |  |  |
@@ -205,7 +190,6 @@
 | pādaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 **[he places]**
 
@@ -219,7 +203,6 @@
 
 **&nbsp;**
 
-
 **[he arouses]**
 
 18. khandhānaṃ bhedo
@@ -231,7 +214,6 @@
 
 **&nbsp;**
 
-
 19. dhammā sekhassa
 
 |  |  |  |  |  |
@@ -240,7 +222,6 @@
 | sekhassa |  |  |  |  |
 
 **&nbsp;**
-
 
 20. samaṇena vā brāhmaṇena vā devena vā mārena vā
 
@@ -253,7 +234,6 @@
 | mārena |  |  |  |  |
 
 **&nbsp;**
-
 
 21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
@@ -268,7 +248,6 @@
 
 **&nbsp;**
 
-
 22. dhammo vinayo
 
 |  |  |  |  |  |
@@ -278,7 +257,6 @@
 
 **&nbsp;**
 
-
 23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 
 |  |  |  |  |  |
@@ -287,7 +265,6 @@
 | nirayaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 **[is reborn in]**
 
@@ -301,7 +278,6 @@
 
 **&nbsp;**
 
-
 25. gabbhe cīvaraṃ
 
 |  |  |  |  |  |
@@ -311,7 +287,6 @@
 
 **&nbsp;**
 
-
 26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
 
 |  |  |  |  |  |
@@ -320,7 +295,6 @@
 | vassaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 **[he entered]**
 
@@ -333,7 +307,6 @@
 
 **&nbsp;**
 
-
 28. kāme brāhmaṇa
 
 |  |  |  |  |  |
@@ -342,7 +315,6 @@
 | brāhmaṇa |  |  |  |  |
 
 **&nbsp;**
-
 
 **[is filled] [five]**
 
@@ -354,7 +326,6 @@
 | sahāyā |  |  |  |  |
 
 **&nbsp;**
-
 
 **[Good are] [arisen]**
 
@@ -370,7 +341,6 @@
 
 **&nbsp;**
 
-
 31. kassapassa vinayasmiṃ
 
 |  |  |  |  |  |
@@ -378,21 +348,15 @@
 | kassapassa |  |  |  | (name) |
 | vinayasmiṃ |  |  |  |  |
 
-
 **[^1]: Please pay attention to the bolded words, as they are related to the topic studied in the corresponding class. For every class, the first few sentences will contain some bold words.**
-
 
 **[^2]: Here and in other examples, this means that the sutta sentences have been insignificantly simplified to fit the topic covered in the current class.**
 
-
 **[^3]: For simplicity, the comp rukkhamūlesu is broken into two parts.**
-
 
 **[^4]: Original compounds are uttarimanussadhammo alam’ariyañāṇadassanaviseso**
 
-
 **[^5]: Original compound is pānīyathālakaṃ**
-
 
 ## Class 2 Extra
 
@@ -432,7 +396,6 @@
 
 **&nbsp;**
 
-
 2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>dhammā virāgāya
 
 |  |  |  |  |  |
@@ -441,7 +404,6 @@
 | virāgāya |  |  |  |  |
 
 **&nbsp;**
-
 
 3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>saṅkhārā ābādhāya
 
@@ -452,7 +414,6 @@
 
 **&nbsp;**
 
-
 4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html) <br>saṅghamhā saṅgho
 
 |  |  |  |  |  |
@@ -461,10 +422,3 @@
 | saṅgho |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../1_class/" class="prev">← Class 1 Exercises</a>
-  <a href="../3_class/" class="next">Class 3 Exercises →</a>
-  <div class="cross"><a href="../../bpc_key/2_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_ex%2F2_class" target="_blank">Provide feedback on this page</a></div>
-</div>

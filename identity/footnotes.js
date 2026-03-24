@@ -1,3 +1,7 @@
+/**
+ * Client-side script to handle footnote tooltips, ordered list numbering fixes,
+ * and hiding empty table headers on the DPD Pāḷi Courses website.
+ */
 document.addEventListener("DOMContentLoaded", function() {
     const footnoteRefs = document.querySelectorAll("sup.manual-fn-ref");
     const defs = {};

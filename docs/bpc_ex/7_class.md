@@ -12,7 +12,6 @@
 
 **&nbsp;**
 
-
 2. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) <br>so tathāgataṃ pūjeti **paramāya** **pūjāya**
 
 |  |  |  |  |  |
@@ -25,7 +24,6 @@
 
 **&nbsp;**
 
-
 3. [DN16.14](https://find.dhamma.gift/bw/dn/dn16.html) <br>assosuṃ mallā, bhagavā **kusinārāyaṃ** parinibbuto
 
 |  |  |  |  |  |
@@ -37,7 +35,6 @@
 | parinibbuto | pp |  |  |  |
 
 **&nbsp;**
-
 
 4. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-**sālāyaṃ**
 
@@ -52,7 +49,6 @@
 
 **&nbsp;**
 
-
 5. [DN22.7](https://find.dhamma.gift/bw/dn/dn22.html) <br>bhikkhu seyyathāpi **passeyya** sarīraṃ **sivathikāya** chaḍḍitaṃ
 
 |  |  |  |  |  |
@@ -65,7 +61,6 @@
 | chaḍḍitaṃ | pp | nt.ac.s | thrown away | chadd |
 
 **&nbsp;**
-
 
 6. [MN14](https://find.dhamma.gift/bw/mn/mn14.html) <br>kinti me bhoge na corā **hareyyuṃ**
 
@@ -80,7 +75,6 @@
 
 **&nbsp;**
 
-
 7. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi
 
 |  |  |  |  |  |
@@ -94,7 +88,6 @@
 
 **&nbsp;**
 
-
 8. [DN2.19](https://find.dhamma.gift/bw/dn/dn2.html) <br>so aparena samayena tamhā ābādhā mucc**eyya**
 
 |  |  |  |  |  |
@@ -107,7 +100,6 @@
 
 **&nbsp;**
 
-
 9. [VIN PAT PC 57](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu oren’addhamāsaṃ nahāy**eyya**, pācittiyaṃ
 
 |  |  |  |  |  |
@@ -118,7 +110,6 @@
 | pācittiyaṃ |  | nt.nom.sg |  |  |
 
 **&nbsp;**
-
 
 10. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>rājāno coraṃ gahetvā han**eyyuṃ** vā bandh**eyyuṃ** vā pabbāj**eyyuṃ** vā
 
@@ -134,7 +125,6 @@
 
 **&nbsp;**
 
-
 11. [DN10](https://find.dhamma.gift/bw/dn/dn10.html) <br>te tāvataken’eva attamanā assu
 
 |  |  |  |  |  |
@@ -146,7 +136,6 @@
 
 **&nbsp;**
 
-
 12. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html) <br>evaṃrūpo siyaṃ anāgatamaddhānaṃ
 
 |  |  |  |  |  |
@@ -156,7 +145,6 @@
 | anāgatam’<br>addhānaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 13. [MN10.16](https://find.dhamma.gift/bw/mn/mn10.html)<br>aho vata mayaṃ na maraṇadhammā assāma
 
@@ -170,7 +158,6 @@
 
 **&nbsp;**
 
-
 14. [SN8.11](https://find.dhamma.gift/bw/sn/sn8.11.html) (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi
 
 |  |  |  |  |  |
@@ -183,7 +170,6 @@
 | abhitthaveyyāmi |  |  |  |  |
 
 **&nbsp;**
-
 
 15. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl) <br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya
 
@@ -200,7 +186,6 @@
 
 **&nbsp;**
 
-
 16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat’ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ
 
 |  |  |  |  |  |
@@ -216,7 +201,6 @@
 | parisodheyyuṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 17. [DN16.36](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
 
@@ -235,7 +219,6 @@
 
 **&nbsp;**
 
-
 18. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ye kho tvaṃ dhamme jāneyyāsi
 
 |  |  |  |  |  |
@@ -248,7 +231,6 @@
 
 **&nbsp;**
 
-
 19. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>devatā bhagavantaṃ gāthāya ajjhabhāsi
 
 |  |  |  |  |  |
@@ -259,7 +241,6 @@
 | ajjhabhāsi |  |  |  |  |
 
 **&nbsp;**
-
 
 20. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ
 
@@ -274,7 +255,6 @@
 
 **&nbsp;**
 
-
 21. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) <br>atītaṃ n’ānvāgameyya, nappaṭikaṅkhe anāgataṃ.
 
 |  |  |  |  |  |
@@ -285,7 +265,6 @@
 | anāgataṃ | adj |  |  |  |
 
 **&nbsp;**
-
 
 22. [SN22.80](https://find.dhamma.gift/bw/sn/sn22.80.html) <br>n’atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ.
 
@@ -304,7 +283,6 @@
 
 **&nbsp;**
 
-
 23. [DN1.1](https://find.dhamma.gift/bw/dn/dn1.html) <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo.
 
 |  |  |  |  |  |
@@ -320,7 +298,6 @@
 | antarāyo |  |  |  |  |
 
 **&nbsp;**
-
 
 24. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html) <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ
 
@@ -339,7 +316,6 @@
 
 **&nbsp;**
 
-
 25. [MN25](https://find.dhamma.gift/bw/mn/mn25.html) (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
 
 |  |  |  |  |  |
@@ -355,7 +331,6 @@
 
 **&nbsp;**
 
-
 26. [VIN PAT SA 3](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl) <br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya
 
 |  |  |  |  |  |
@@ -367,7 +342,6 @@
 | obhāseyya |  |  |  |  |
 
 **&nbsp;**
-
 
 27. [AN8.30](https://find.dhamma.gift/bw/an/an8.30.html) (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo
 
@@ -385,7 +359,6 @@
 
 **&nbsp;**
 
-
 28. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>yāva’d’eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya
 
 |  |  |  |  |  |
@@ -398,7 +371,6 @@
 | abyāpajjha-<br>paramatāya |  |  |  |  |
 
 **&nbsp;**
-
 
 ## Class 7 Extra
 
@@ -426,7 +398,6 @@
 
 **&nbsp;**
 
-
 2. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: “kin’ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?” iti
 
 |  |  |  |  |  |
@@ -449,7 +420,6 @@
 
 **&nbsp;**
 
-
 3. [VIN PAT PC 49](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya
 
 |  |  |  |  |  |
@@ -464,7 +434,6 @@
 | gamanāya | noun | nt. |  |  |
 
 **&nbsp;**
-
 
 4. [UD69](https://find.dhamma.gift/bw/ud/ud7.9.html) <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care?
 
@@ -486,7 +455,6 @@
 
 **&nbsp;**
 
-
 5. [MN26](https://find.dhamma.gift/bw/mn/mn26.html) <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti.
 
 |  |  |  |  |  |
@@ -504,10 +472,3 @@
 | parihāyanti |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../6_class/" class="prev">← Class 6 Exercises</a>
-  <a href="../8_class/" class="next">Class 8 Exercises →</a>
-  <div class="cross"><a href="../../bpc_key/7_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_ex%2F7_class" target="_blank">Provide feedback on this page</a></div>
-</div>

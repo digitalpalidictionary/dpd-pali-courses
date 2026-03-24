@@ -3,7 +3,6 @@
 ### Negative particle “na”
 
 The easiest way to make a verb into its negative is to add the particle “**na**” before it.
-***
 
 |  |  |
 | --- | --- |
@@ -12,55 +11,44 @@ The easiest way to make a verb into its negative is to add the particle “**na*
 | so naro atthi | he is a man |
 | so naro na atthi[^16] | he is not a man |
 
-***
 [^16]: It frequently appears in text as **n'atthi**
-
-
 
 ### Negative particle “no”
 
 The particle **“no”** expresses the meaning “not” (although it also has many other meanings, so be careful!)
-***
+
 ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)
-***
+
 These qualities lead to attachment, **not** to detachment.
-***
+
 ### Negative particles “n'eva … na” = na eva … na
 
 This is used in the same way as **neither** … **nor** in English.
-***
+
 n'eva = na eva ; lit. not even; not only
-***
+
 **n'eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti ([MN74](https://find.dhamma.gift/bw/mn/mn74.html))
-***
+
 At that time, he **neither** feels an unpleasant sensation, **nor** does he feel a neither unpleasant nor pleasant sensation.
-***
+
 āyasmā raṭṭhapālo **n'eva** dānaṃ alattha **na** paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha! ([MN82](https://find.dhamma.gift/bw/mn/mn82.html))
-***
+
 Venerable Ratthapāla **neither** received alms food **nor** rejection, on the contrary, he only received verbal abuse!
-***
+
 ### Prohibitive Particle “mā”
 
 To express prohibition “don’t do!” the particle **mā + aorist** is used. Even though the past tense is used, the meaning is present or sometimes future.
-***
-**mā akāsi** pāpakaṃ kammaṃ ([SN10.5](https://find.dhamma.gift/bw/sn/sn10.5.html))
-***
-Don’t do evil deeds!
-***
-kiṃ nu kujjhasi? **mā kujjhi!** ([SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html))
-***
-Why are you angry? Don’t be angry!
-***
-**mā + imperative** can be used to express prohibition, especially in the 2nd person.
-***
-jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://find.dhamma.gift/bw/mn/mn19.html) simpl)
-***
-Meditate, monks! Don’t be negligent!
-***
 
-<div class="nav-links">
-  <a href="../5_trans/" class="prev">← Intransitive, Transitive and di-transitive verbs</a>
-  <a href="../7_with/" class="next">With & together with “saddhiṃ” and “saha” →</a>
-  <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_5%2F6_say_no" target="_blank">Provide feedback on this page</a></div>
-</div>
+**mā akāsi** pāpakaṃ kammaṃ ([SN10.5](https://find.dhamma.gift/bw/sn/sn10.5.html))
+
+Don’t do evil deeds!
+
+kiṃ nu kujjhasi? **mā kujjhi!** ([SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html))
+
+Why are you angry? Don’t be angry!
+
+**mā + imperative** can be used to express prohibition, especially in the 2nd person.
+
+jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://find.dhamma.gift/bw/mn/mn19.html) simpl)
+
+Meditate, monks! Don’t be negligent!

@@ -1,5 +1,4 @@
 # Mixed Sandhi (vomissaka-sandhi)
-***
 
 | **di \> dy \> jj** | ya**di** evaṃ | ya**jj**evaṃ |
 |---|---|---|
@@ -15,9 +14,7 @@
 | **ti \> ty \> cc** | a**ti** **e**ti | a**cc**eti |
 | **ti \> ty \> cc** | a**ti** **u**ṇha | a**cc**uṇha |
 
-***
 **Examples of -a- augment coming in-between prefixes and the root.**
-***
 
 | **Pāli1** | **Construction** | **Meaning** |
 |---|---|---|
@@ -37,12 +34,3 @@
 | pātvākāsi | pātu + a + kā + si | displayed |
 | udabbadhi | ud + a + √vadh \> badh + i | destroyed |
 | udabbahi | ud + a + √vah + i | pulled out |
-
-***
-
-<div class="nav-links">
-  <a href="../6_as_sum/" class="prev">← Assimilation Summary</a>
-  <a href="../8_as_misc/" class="next">Another consonant assimilation →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F7_mix_san" target="_blank">Provide feedback on this page</a></div>
-</div>

@@ -1,25 +1,25 @@
 # Abyayībhāva-samāsa or Adverbial Compounds
 
 (indeclinable-nature-compounds)
-***
+
 **Kaccāyana 319. upasagga-nipāta-pubbako abyayībhāvo.**
-***
+
 preposition or indeclinable particle in front (is an) indeclinable-nature (compound)
-***
+
 1.  the first member of these compounds is an **adverb** or **preposition** or other **indeclinable particle**.
-***
+
 e.g. **yāva**. ind, prep. as long as, as far as
-***
+
 2.  the second member is generally a **noun** or **adjective**
-***
+
 e.g. **jīva**. m. life
-***
+
 3.  The resulting compound is most commonly an **adverb ending in an accusative case.**
-***
+
 e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
-***
+
 **yāvajīvaṃ \> yāva + jīva + aṃ**
-***
+
 ### Some abyayībhāva compounds
 
 | **anu** | following | **vassa** | year | **anuvassaṃ** | adv | annually, yearly |
@@ -34,9 +34,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **yathā** | like, as | **bhūta** | become | **yathābhūtaṃ** | adv | as it is, lit. as it has become |
 | **yāva** | as far as | **tatiya** | third | **yāvatatiyaṃ** | adv | up to the third time |
 
-***
 ### Sometimes the original case ending is maintained
-***
 
 | **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^7] | before dawn |
 |---|---|---|---|---|---|---|
@@ -44,11 +42,9 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **anu** | following | **pubbena** | with previous | **anupubbena** | adv | gradually |
 | **antarā** | between | **magge** | on road | **antarāmagge** | adv | along the road,<br>on the way |
 
-***
 [^7]: some grammatical books take them just as adjectives used adverbially in context
-***
+
 ## Some prefixes and indeclinables used in abyayībhāva compounds
-***
 
 |  |  |
 | --- | --- |
@@ -83,13 +79,4 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | yāva | as long as |
 | yena | where |
 
-***
 What makes a compound an abyayībhāva?
-***
-
-<div class="nav-links">
-  <a href="../" class="prev">← Class 20</a>
-  <a href="../2_bahub/" class="next">Bahubbīhi-samāsa or Attributive Compounds →</a>
-  <div class="cross"><a href="../../../ipc_ex/20_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_20%2F1_abya" target="_blank">Provide feedback on this page</a></div>
-</div>

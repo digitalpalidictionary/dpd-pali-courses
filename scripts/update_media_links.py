@@ -1,3 +1,7 @@
+"""
+Script to update media links in Markdown files.
+Maps old relative media paths to the new absolute assets directory used by MkDocs.
+"""
 import os
 import re
 

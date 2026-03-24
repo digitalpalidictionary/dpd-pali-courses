@@ -1,25 +1,24 @@
 # Pronouns (sabbanāma)
-***
+
 I, we, you, you all, he, she, it, they, them, all of them, some, a certain, one of them, which of them, whoever, whatever, the former, the next, the other, another, both, who, what, which, such and such, so-and-so.
-***
+
 These are all **pronouns** which stand in the place of a noun.
-***
+
 When used by themselves, they behave like a noun.
-***
+
 na **sabbe** dhammaṃ jānissanti.
-***
+
 Not **everyone** will understand the dhamma
-***
+
 When they are used with another noun, they behave like an adjective
-***
+
 na **sabbe** **manussā** dhammaṃ jānissanti.
-***
+
 Not **all people** will understand the dhamma
-***
+
 Pronouns are declined in **all three genders** when standing by themselves.
-***
+
 When used together with other nouns, they agree with the noun in **gender**, **case**, and **number**.
-***
 
 |  |  |  |
 | --- | --- | --- |
@@ -31,7 +30,6 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | etassa bhāsitassa | nt.gen.sg | of this speech |
 | etaṃ cakkhu’ndriyaṃ | nt.acc.sg | this faculty of sight |
 
-***
 **ta “he, that” masculine**
 
 |  |  |  |
@@ -44,8 +42,6 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assa** | t**esaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | t**esu** |
 
-***
-
 | **tehi** pañcahi bhikkhusatehi | **with those** 500 monks |
 |---|---|
 | **tamhi tamhi** satta-nikāye | in whichever class of beings<br>(literally: **in that in that)** |
@@ -54,7 +50,6 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | **tamhā** gāmā nikkhamitvā | having left **from** **that** village |
 | **tesu** dhammesu | in those teachings |
 
-***
 **ta “she, that” feminine**
 
 |  |  |  |
@@ -67,8 +62,6 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assā** | t**āsaṃ** <br>**tāsānaṃ** |
 | 7.loc | t**issaṃ** <br>t**assaṃ** <br>t**āyaṃ** | t**āsu** |
 
-***
-
 | **tā** āpattiyo | **those** offences |
 |---|---|
 | **tā** bhikkhuniyo | **those** nuns |
@@ -77,7 +70,6 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | **tāyaṃ** velāyaṃ | **at that** point in time |
 | **tāhi** devatāhi saddhiṃ | together **with those** devas |
 
-***
 **ta “it, that” neuter**
 
 |  |  |  |
@@ -90,22 +82,19 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assa** | t**esaṃ** <br>t**esānaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | t**esu** |
 
-***
 ### eta “this man, this woman, this thing”
 
 **ta** generally refers to something that is **absent or distant**.
-***
+
 **eta** generally refers to something that is **present or close at hand**.
-***
+
 It is declined exactly like ta, but with an initial *“***e***”*.
-***
 
 | **etad** ahosi | lit. **this** was <br>(this thought occurred) |
 |---|---|
 | **etena** brāhmaṇo hoti | he is a Brahman **by this** |
 | **etassa** bhāsitassa attho | the meaning **of this** saying |
 
-***
 **ima “this” masculine**
 
 |  |  |  |
@@ -118,9 +107,7 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 | 6.gen | a**ssa** <br>ima**ssa** | im**esaṃ** |
 | 7.loc | a**smiṃ** im**amhi** im**asmiṃ** | im**esu** |
 
-***
 Grammars give **many** forms, but these are the most common ones in the Tipiṭaka.
-***
 
 | **ayaṃ** loko | **this** world |
 |---|---|
@@ -134,7 +121,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **imamhi** saṅghe | **in this** community |
 | **imesu** āyasmantesu | **in (among) these** venerables |
 
-***
 **ima “this” feminine**
 
 |  |  |  |
@@ -147,8 +133,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | a**ssā** <br>imi**ssā** <br>im**āya** | im**āsaṃ** |
 | 7.loc | imi**ssaṃ** <br>im**āyaṃ** | im**āsu** |
 
-***
-
 | **imā** aṭṭha parisā | **these** eight assemblies |
 |---|---|
 | **imāhi** gāthāhi | **with these** verses |
@@ -157,7 +141,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **imāsaṃ** dvinnaṃ diṭṭhīnaṃ | **of these** two views |
 | **imāsu** chasu dhātūsu | **in these** six elements |
 
-***
 **ima “this” neuter**
 
 |  |  |  |
@@ -170,7 +153,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | a**ssa** <br>ima**ssa** | im**esaṃ** |
 | 7.loc | a**smiṃ** <br>ima**mhi** <br>ima**smiṃ** | im**esu** |
 
-***
 **ya “whoever” masculine**
 
 |  |  |  |
@@ -183,7 +165,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | y**assa** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | y**amhi** <br>y**asmiṃ** | y**esu** |
 
-***
 **ya “whoever” feminine**
 
 |  |  |  |
@@ -196,7 +177,6 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | y**assā**<br>y**āya** | y**āsaṃ** <br>y**āsānaṃ** |
 | 7.loc | y**assaṃ** <br>y**āyaṃ**<br>y**āya** | y**āsu** |
 
-***
 **ya “whoever” neuter**
 
 |  |  |  |
@@ -209,9 +189,8 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | y**assa** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | y**amhi** <br>y**asmiṃ** | y**esu** |
 
-***
 The good news is that all the rest of the pronouns follow the same declension pattern as **ya***, (-a pron)* which is very similar to the normal declension of masculine, feminine and neuter nouns, with a few exceptions. So keep this table in mind!
-***
+
 ### Comparison table for pronouns masc
 
 |  | ta | ima | ya | ta | ima | ya |
@@ -225,7 +204,6 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assa** | a**ssa** <br>ima**ssa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | a**smiṃ** ima**mhi** ima**smiṃ** | y**amhi** <br>y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
-***
 ### Comparison table for pronouns fem
 
 |  | ta | ima | ya | ta | ima | ya |
@@ -239,7 +217,6 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assā** | a**ssā** <br>imi**ssā** <br>im**āya** | y**assā**<br>y**āya** | t**āsaṃ** **tāsānaṃ** | im**āsaṃ** | y**āsaṃ** <br>y**āsānaṃ** |
 | 7.loc | t**issaṃ** <br>t**assaṃ** <br>t**āyaṃ** | imi**ssaṃ** <br>im**āyaṃ** | y**assaṃ** <br>y**āyaṃ** | t**āsu** | im**āsu** | y**āsu** |
 
-***
 ### Comparison table for pronouns nt
 
 |  | ta | ima | ya | ta | ima | ya |
@@ -253,7 +230,6 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assa** | a**ssa** <br>ima**ssa** | y**assa** | t**esaṃ** <br>t**esānaṃ** | im**esaṃ** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | t**amhi** t**asmiṃ** | a**smiṃ** ima**mhi** ima**smiṃ** | y**amhi** y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
-***
 ### Some common pronouns (in the nominative case)
 
 |  |  |
@@ -288,12 +264,3 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | katamo | which (of the many)? |
 | aparo | the next, the following |
 | kiṃ | who? what? which? |
-
-***
-
-<div class="nav-links">
-  <a href="../2_prp/" class="prev">← Present Participle (missakiriya)</a>
-  <a href="../4_article/" class="next">Definite and indefinite article →</a>
-  <div class="cross"><a href="../../../bpc_ex/10_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_10%2F3_pron" target="_blank">Provide feedback on this page</a></div>
-</div>

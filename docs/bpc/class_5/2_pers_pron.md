@@ -1,7 +1,7 @@
 # Personal Pronouns
 
 The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensively used in the Tipiṭaka.
-***
+
 **1st person ahaṃ**
 
 |  |  |  |
@@ -16,7 +16,6 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | 7. Locative | mayi | amhesu |
 | 8. Vocative | - | - |
 
-***
 **Frequency[^14]**
 
 [^14]: In the mūla part of the 4 Nikāyas
@@ -34,7 +33,6 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | amhākaṃ | us, for us, our | 213 |
 | **no** | **us, by us, for us, our** <br>(no, isn't it?, indeed) | **3591**<br>(Including ind) |
 
-***
 **2nd person tvaṃ**
 
 |  |  |  |
@@ -48,7 +46,6 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | 6. Genitive | tava tuyhaṃ **te** | tumhaṃ tumhākaṃ **vo** |
 | 7. Locative | tayi | tumhesu |
 
-***
 **Frequency[^15]**
 
 [^15]: In the mūla part of the 4 Nikāyas
@@ -65,13 +62,4 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | tumhākaṃ | you all, for you all, yours | 158 |
 | **vo** | you all, by you, for you, yours | **893** |
 
-***
 Exercises will give you a good workout with these pronouns.
-***
-
-<div class="nav-links">
-  <a href="../1_review/" class="prev">← Review</a>
-  <a href="../3_future/" class="next">Future Tense →</a>
-  <div class="cross"><a href="../../../bpc_ex/5_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_5%2F2_pers_pron" target="_blank">Provide feedback on this page</a></div>
-</div>

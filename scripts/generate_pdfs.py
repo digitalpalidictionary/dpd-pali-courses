@@ -1,9 +1,23 @@
+"""
+Script to generate PDF course materials from Markdown source files using WeasyPrint.
+It applies course-specific styling, cleans UI elements, and handles footnote reformatting.
+"""
 import os
 import yaml
 import markdown
 import re
 import subprocess
+import sys
 from bs4 import BeautifulSoup
+
+# Ensure Homebrew libraries are found on macOS
+if sys.platform == "darwin":
+    homebrew_lib = "/opt/homebrew/lib"
+    if os.path.exists(homebrew_lib):
+        if "DYLD_LIBRARY_PATH" in os.environ:
+            os.environ["DYLD_LIBRARY_PATH"] = f"{homebrew_lib}:{os.environ['DYLD_LIBRARY_PATH']}"
+        else:
+            os.environ["DYLD_LIBRARY_PATH"] = homebrew_lib
 
 FOLDER_NAMES = {
     'bpc': 'Beginner Pāḷi Course (BPC)',
@@ -57,6 +71,14 @@ def pre_process_content(text):
         num = m.group(1)
         return f"\n<div class='manual-list-start' data-start='{num}'></div>\n\n{num}. "
     text = re.sub(r'^\s*(\d+)\.\s+', repl_list, text, flags=re.MULTILINE)
+
+    def repl_newlines(m):
+        count = m.group(0).count('\n')
+        if count > 2:
+            return '\n\n' + '<br>\n' * (count - 2)
+        return m.group(0)
+    text = re.sub(r'\n{3,}', repl_newlines, text)
+    
     return text
 
 def process_footnotes_for_pdf(html_content):
@@ -76,7 +98,7 @@ def process_footnotes_for_pdf(html_content):
     return str(soup)
 
 def build_html_document(title, files_data, title_md_content="", literature_md_content="", folder_type="", root_index_content=""):
-    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists', 'md_in_html'])
+    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists', 'md_in_html', 'nl2br'])
     
     def conv(t): return md.convert(pre_process_content(t))
 
@@ -146,7 +168,7 @@ def generate_pdf(html_content, output_pdf, css_paths=None):
 
 def main():
     docs_dir = "docs"
-    css_paths = ["tools/ssg/stylesheets/dpd-variables.css", "tools/ssg/stylesheets/dpd.css", "tools/ssg/stylesheets/extra.css"]
+    css_paths = ["identity/dpd-variables.css", "identity/dpd.css", "identity/extra.css"]
     with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f: title_c = f.read()
     with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f: lit_c = f.read()
     f_by_dir = get_markdown_files(docs_dir)

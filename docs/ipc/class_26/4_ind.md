@@ -14,7 +14,6 @@
 | satta | + kkhattuṃ | satta**kkhattuṃ** | 7 times |
 | ti | + kkhattuṃ | ti**kkhattuṃ** | 3 times |
 
-***
 ### thā (in such way) adverbs of manner
 
 |  |  |  |  |
@@ -25,14 +24,12 @@
 | ya | + thā | ya**thā** | in which way |
 | ubhaya | + thā | ubhaya**thā** | in both ways |
 
-***
 ### thaṃ (in such way) adverbs of manner
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | ka | + thaṃ | ka**thaṃ** | in what way? how? |
 
-***
 ### ttha (in such place) adverbs of place
 
 |  |  |  |  |
@@ -47,7 +44,6 @@
 | ta | + ttha | ta**ttha** | in that place, there |
 | ya | + ttha | ya**ttha** | in whichever place, wherever |
 
-***
 ### tra (in such place) adverbs of place
 
 |  |  |  |  |
@@ -59,7 +55,6 @@
 | sabba | + tra | sabba**tra** | in every place, everywhere |
 | ta | + tra | ta**tra** | in that place, there |
 
-***
 ### dā & dāni (at such time) adverbs of time
 
 |  |  |  |  |
@@ -72,7 +67,6 @@
 | ta | + dā | ta**dā** | at that time, then |
 | ya | + dā | ya**dā** | at whichever time, whenever |
 
-***
 ### dhā (ways, pieces) adverbs
 
 |  |  |  |  |
@@ -87,7 +81,6 @@
 | sata | + dhā | sata**dhā** | in hundred ways |
 | satta | + dhā | satta**dhā** | in seven ways |
 
-***
 ### so (in ways, by) distributive adverbs
 
 |  |  |  |  |
@@ -98,7 +91,6 @@
 | puthu | + so | puthu**so** | in diverse ways |
 | sabba | + so | sabba**so** | in every way |
 
-***
 ### so (according to) distributive adverbs
 
 | āyatana | + so | āyatana**so** | according to senses |
@@ -108,7 +100,6 @@
 | ṭhāna | + so | ṭhāna**so** | according to place |
 | yoni | + so | yoni**so** | according to source |
 
-***
 ### to (as) adverbs
 
 |  |  |  |  |
@@ -124,7 +115,6 @@
 | sacca | **+ to** | sacca**to** | as true |
 | suñña | **+ to** | suñña**to** | as empty |
 
-***
 ### to (from, in) adverbs
 
 |  |  |  |  |
@@ -140,7 +130,6 @@
 | pari | **+ to** | pari**to** | from all around, everywhere |
 | pura | **+ to** | pura**to** | in front of |
 
-***
 ### haṃ (in such place) adverbs of place
 
 |  |  |  |  |
@@ -148,19 +137,9 @@
 | ka | + haṃ | **kahaṃ** | in what place, where? |
 | ta | + haṃ | **tahaṃ** | in that place, there |
 
-***
 ### hiṃ (in such place) adverbs of place
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | ka | + hiṃ | **kuhiṃ** | in what place, where? |
 | ta | + hiṃ | **tahiṃ** | in that place, there |
-
-***
-
-<div class="nav-links">
-  <a href="../3_state/" class="prev">← State of Being (bhāvataddhita)</a>
-  <a href="../5_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/26_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_26%2F4_ind" target="_blank">Provide feedback on this page</a></div>
-</div>

@@ -1,3 +1,7 @@
+"""
+Script to verify consistency of sentence numbering across Markdown, Website, and PDF.
+Identifies discrepancies where numbering resets or differs between formats.
+"""
 import os
 import re
 import argparse

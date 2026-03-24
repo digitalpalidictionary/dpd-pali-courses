@@ -1,19 +1,19 @@
 # Possibility \#6
 
 **i** or **e** followed by a dissimilar vowel can become its relative semi-vowel **y**. The following vowel may be lengthened.
-***
+
 v**i**![](../../assets/images/arrow.png)**a**nta \> v**ya**nta *(byanta)*
-***
+
 **i![](../../assets/images/arrow.png)a \> ya**
-***
+
 This means:
-***
+
 when a word ends in **i**,
-***
+
 and the next word starts with **a**,
-***
+
 **together they become ya**
-***
+
 In Kaccāyana this is called (21) **ivaṇṇo yaṃ navā**
 
 and (17) **yam’edantass’ādeso.**
@@ -27,7 +27,6 @@ and (17) **yam’edantass’ādeso.**
 | sat**i** | **a**ssa | sat**ya**ssa |
 | mindfulness | his | mindfulness (is) his |
 
-***
 **i![](../../assets/images/arrow.png)ā \> yā**
 
 |  |  |  |
@@ -35,7 +34,6 @@ and (17) **yam’edantass’ādeso.**
 | v**i** | **ā**karaṇa | v**yā**karaṇa |
 | (divide) | making | grammar *(byākaraṇa)* |
 
-***
 **ī![](../../assets/images/arrow.png)a \> yā**
 
 |  |  |  |
@@ -43,7 +41,6 @@ and (17) **yam’edantass’ādeso.**
 | dās**ī** | **a**haṃ | dās**yā**haṃ |
 | female servant | I am | I am a female servant |
 
-***
 **e![](../../assets/images/arrow.png)a \> ya**
 
 |  |  |  |
@@ -53,7 +50,6 @@ and (17) **yam’edantass’ādeso.**
 | k**e** | **a**ssa | k**ya**ssa |
 | who | for him | lit. who for whom |
 
-***
 **e![](../../assets/images/arrow.png)a \> yā**
 
 |  |  |  |
@@ -65,15 +61,6 @@ and (17) **yam’edantass’ādeso.**
 | t**e** | **a**yaṃ | t**yā**yaṃ |
 | your | this | this (...) of yours |
 
-***
 what is **Possibility \#6 ?**
-***
-**i** or **e** followed by a dissimilar vowel can become its relative semi-vowel **y**. The following vowel may be lengthened.
-***
 
-<div class="nav-links">
-  <a href="../7_vowel_5/" class="prev">← Vowel Changes</a>
-  <a href="../9_vowel_7/" class="next">Possibility \#7 →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F8_vowel_6" target="_blank">Provide feedback on this page</a></div>
-</div>
+**i** or **e** followed by a dissimilar vowel can become its relative semi-vowel **y**. The following vowel may be lengthened.

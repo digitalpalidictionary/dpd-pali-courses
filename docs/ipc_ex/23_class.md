@@ -25,39 +25,27 @@
 | upaparikkhati |  |  |  |
 | vinimocayanta |  |  |  |
 
-
 **In the exercises, break up every verb and participle into prefix + root + root sign + verbal ending / suffix.**
-
 
 **e.g. paṭiggaṇhāmi:**
 
-
 **pati + √gah + ṇhā + ti**
 
-
 **or the classic way:**
-
 
 **√gah 6 (to grasp) + ṇhā \> gaṇhā**
 
-
 **pati + gaṇhā + mi**
-
 
 **And other words with prefixes**
 
-
 **e.g. viññāṇaṃ : vi + √ñā + aṇa**
-
 
 **or the classic way:**
 
-
 **vi + √ñā 5 nā (know) + aṇa + aṃ**
 
-
 **extra task: underline the subject, *object(s),* and \*predicate\* of the sentences**
-
 
 1. [AN4.198](https://find.dhamma.gift/bw/an/an4.198.html)<br>so puratthimena nagarassa navaṃ santhāgāraṃ kārāpetvā kesamassuṃ **ohāretvā** kharājinaṃ **nivāsetvā** sappitelena kāyaṃ **abbhañjitvā** magavisāṇena piṭṭhiṃ kaṇḍuvamāno navaṃ santhāgāraṃ **pavisati**, saddhiṃ mahesiyā brāhmaṇena ca **purohitena**.
 
@@ -72,7 +60,6 @@
 | **purohitena** |  |  |  |  |
 
 **&nbsp;**
-
 
 2. [VIN PAT PC 68](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>mā, āyasmā, evaṃ **avaca**. mā bhagavantaṃ **abbhācikkhi**, na hi sādhu bhagavato **abbhakkhānaṃ**, na hi bhagavā evaṃ vadeyya.
 
@@ -98,7 +85,6 @@
 
 **&nbsp;**
 
-
 3. [AN4.61](https://find.dhamma.gift/bw/an/an4.61.html)<br>idha, gahapati, ariyasāvako **vigatamalamaccherena** cetasā agāraṃ **ajjhāvasati** muttacāgo **payata**pāṇi **vossaggarato** yācayogo **dānasaṃvibhāgarato**. ayaṃ vuccati, gahapati, cāgasampadā.
 
 |  |  |  |  |  |
@@ -122,7 +108,6 @@
 
 **&nbsp;**
 
-
 4. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>khayaṃ **virāgaṃ** **amataṃ** **paṇītaṃ**, <br>**yadajjhagā** sakyamunī **samāhito**. <br>na tena dhammena samatthi kiñci
 
 |  |  |  |  |  |
@@ -142,7 +127,6 @@
 
 **&nbsp;**
 
-
 5. [DHP191](https://find.dhamma.gift/bw/dhp/dhp179-196.html) <br>dukkhaṃ **dukkhasamuppādaṃ**, dukkhassa ca **atikkamaṃ**, ariyañcaṭṭhaṅgikaṃ maggaṃ, **dukkhūpasamagāminaṃ**.
 
 |  |  |  |  |  |
@@ -157,7 +141,6 @@
 | **dukkhūpasamagāminaṃ** |  |  |  |  |
 
 **&nbsp;**
-
 
 6. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html)<br>**santussako** ca **subharo** ca, appakicco ca **sallahuka**vutti, <br>santindriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
 
@@ -180,7 +163,6 @@
 
 **&nbsp;**
 
-
 7. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>araññe rukkhamūlesu, kandarāsu guhāsu ca.<br>**vivekamanubrūhantā**, **vihaṃsu** tap**parāyaṇā**
 
 |  |  |  |  |  |
@@ -195,7 +177,6 @@
 | **tapparāyaṇā** |  |  |  |  |
 
 **&nbsp;**
-
 
 8. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)<br>dukkhaṃ, bhikkhave, **kusīto** viharati **vokiṇṇo** pāpakehi akusalehi dhammehi, mahantañca **sadatthaṃ** **parihāpeti**.
 
@@ -213,9 +194,7 @@
 | **sadatthaṃ** |  |  |  |  |
 | **parihāpeti** |  |  |  |  |
 
-
 **&nbsp;**
-
 
 9. [VIN5.4.7](https://find.dhamma.gift/bw/vi/kd.html) tiṇavatthārakaṃ<br>yadi **saṅghassa** pattakallaṃ, saṅgho imaṃ **adhikaraṇaṃ** **tiṇavatthārakena** **vūpasameyya**, ṭhapetvā thullavajjaṃ, ṭhapetvā **gihippaṭisaṃyuttanti**.
 
@@ -235,7 +214,6 @@
 | gihippaṭisaṃyuttanti |  |  |  |  |
 
 **&nbsp;**
-
 
 10. [AN6.46](https://find.dhamma.gift/bw/an/an6.46.html) <br>idhāvuso, dhammayogā bhikkhū jhāyī bhikkhū **apasādenti**, ime pana jhāyinomhā, jhāyinomhāti jhāyanti **pajjhāyanti** **nijjhāyanti** **avajjhāyanti**.
 
@@ -258,7 +236,6 @@
 
 **&nbsp;**
 
-
 11. [SNP53](https://find.dhamma.gift/bw/snp/snp4.15.html)<br>yodha kāme **accatari**,<br>saṅgaṃ loke **duraccayaṃ**,<br>na so socati **nājjheti**,<br>chinnasoto abandhano.
 
 |  |  |  |  |  |
@@ -277,7 +254,6 @@
 | abandhano |  |  |  |  |
 
 **&nbsp;**
-
 
 12. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) <br>sabbaphāliphullā kho, ānanda, yamakasālā **akālapupphehi**. te tathāgatassa sarīraṃ **okiranti** **ajjhokiranti** **abhippakiranti** tathāgatassa pūjāya.
 
@@ -298,7 +274,6 @@
 | pūjāya |  |  |  |  |
 
 **&nbsp;**
-
 
 13. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>cakkhunā rūpaṃ disvā mā **nimittaggāhino** **ahuvattha**, mā **anubyañjanaggāhino**. **yatvādhikaraṇamenaṃ** cakkhundriyaṃ **asaṃvutaṃ** **viharantaṃ** **abhijjhādomanassā** pāpakā akusalā dhammā **anvāssaveyyuṃ**.
 
@@ -324,7 +299,6 @@
 
 **&nbsp;**
 
-
 14. [AN5.23](https://find.dhamma.gift/bw/an/an5.23.html) <br>so sace **ākaṅkhati**, **anekavihitaṃ** iddhividhaṃ **paccanubhaveyyaṃ**, ekopi hutvā bahudhā assaṃ, bahudhāpi hutvā eko assaṃ, **āvibhāvaṃ** **tirobhāvaṃ**
 
 |  |  |  |  |  |
@@ -347,7 +321,6 @@
 | tirobhāvaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 15. [MN61](https://find.dhamma.gift/bw/mn/mn61.html) <br>sace tvaṃ, rāhula, **paccavekkhamāno** evaṃ jāneyyāsi, yaṃ kho ahaṃ idaṃ kāyena kammaṃ kattukāmo idaṃ me kāyakammaṃ **attabyābādhāyapi** **saṃvatteyya**
 
@@ -372,46 +345,31 @@
 | attabyābādhāyapi |  |  |  |  |
 | saṃvatteyya |  |  |  |  |
 
-
-
 **&nbsp;**
-
 
 ## Class 23 Extra Examples
 
 **In the exercises, break up every verb and participle into prefix + root + root sign + verbal ending / suffix.**
 
-
 **e.g. paṭiggaṇhāmi:**
-
 
 **pati + √gah + ṇhā + ti**
 
-
 **or the classic way:**
-
 
 **√gah 6 (to grasp) + ṇhā \> gaṇhā**
 
-
 **pati + gaṇhā + mi**
-
 
 **And other words with prefixes**
 
-
 **e.g. viññāṇaṃ : vi + √ñā + aṇa**
-
 
 **or the classic way:**
 
-
 **vi + √ñā 5 nā (know) + aṇa + aṃ**
 
-
 **extra task: underline the subject, object(s), and predicate of the sentences**
-
-
 
 1. [MN20](https://find.dhamma.gift/bw/mn/mn20.html)<br>seyyathāpi, bhikkhave, balavā puriso **dubbalataraṃ** purisaṃ sīse vā gale vā khandhe vā gahetvā **abhiniggaṇheyya** **abhinippīḷeyya** **abhisantāpeyya**
 
@@ -436,7 +394,6 @@
 
 **&nbsp;**
 
-
 2. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>passāmi loke **sadhane** manusse, laddhāna vittaṃ na dadanti mohā. <br>luddhā dhanaṃ **sannicayaṃ** karonti, bhiyyova kāme **abhipatthayanti**.
 
 |  |  |  |  |  |
@@ -460,7 +417,6 @@
 
 **&nbsp;**
 
-
 3. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ bahukāraṃ vadāmi; **upasaṅkamanampāhaṃ** … **payirupāsanampāhaṃ** … **anussatimpāhaṃ** … **anupabbajjampāhaṃ**
 
 |  |  |  |  |  |
@@ -477,7 +433,6 @@
 | anupabbajjampāhaṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 4. [AN7.67](https://find.dhamma.gift/bw/an/an7.67.html)<br>seyyathāpi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** ceva **vitthato** ca, evamevaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** **kāyaduccaritena** vacīduccaritena manoduccaritena
 
@@ -505,7 +460,6 @@
 
 **&nbsp;**
 
-
 5. [SN1.28](https://find.dhamma.gift/bw/sn/sn1.28.html)<br>**aññamaññābhigijjhanti**,<br>kāmesu **analaṅkatā**.
 
 |  |  |  |  |  |
@@ -515,7 +469,6 @@
 | **analaṅkatā** |  |  |  |  |
 
 **&nbsp;**
-
 
 6. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>yānīdha bhūtāni **samāgatāni**, bhummāni vā yāni va **antalikkhe**. <br>sabbeva bhūtā **sumanā** bhavantu, athopi **sakkacca** suṇantu bhāsitaṃ.
 
@@ -540,7 +493,6 @@
 
 **&nbsp;**
 
-
 7. [VIN PAT SE 26](https://find.dhamma.gift/bw/vi/bu-pt.html#sk)<br>na **pallatthikāya** **antaraghare** **nisīdissāmīti** sikkhā karaṇīyā.
 
 |  |  |  |  |  |
@@ -553,7 +505,6 @@
 | karaṇīyā |  |  |  |  |
 
 **&nbsp;**
-
 
 8. [SN22.22](https://find.dhamma.gift/bw/sn/sn22.22.html) <br>**nikkhipitvā** garuṃ bhāraṃ, aññaṃ bhāraṃ **anādiya**. **samūlaṃ** taṇham**abbuyha**, **nicchāto** **parinibbutoti**.
 
@@ -570,9 +521,7 @@
 | **nicchāto** |  |  |  |  |
 | **parinibbutoti** |  |  |  |  |
 
-
 **&nbsp;**
-
 
 9. [SN20.10](https://find.dhamma.gift/bw/sn/sn20.10.html) <br>atha kho so, bhikkhave, mudumūsi gocarāya **pakkāmi**. tamenaṃ biḷāro gahetvā sahasā **saṅkhāditvā** **ajjhohari**. tassa so mudumūsi antampi khādi, antaguṇampi khādi.
 
@@ -601,7 +550,6 @@
 
 **&nbsp;**
 
-
 10. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>cakkhunā rūpaṃ disvā mā **nimittaggāhino** **ahuvattha**, mā **anubyañjanaggāhino**. **yatvādhikaraṇamenaṃ** cakkhundriyaṃ **asaṃvutaṃ** **viharantaṃ** **abhijjhādomanassā** pāpakā akusalā dhammā **anvāssaveyyuṃ**.
 
 |  |  |  |  |  |
@@ -625,7 +573,6 @@
 | anvāssaveyyuṃ |  |  |  |  |
 
 **&nbsp;**
-
 
 11. [SN22.26](https://find.dhamma.gift/bw/sn/sn22.26.html) <br>yāvakīvañcāhaṃ, bhikkhave, imesaṃ pañcannaṃ **upādānakkhandhānaṃ** evaṃ **assādañca** assādato **ādīnavañca** ādīnavato **nissaraṇañca** nissaraṇato yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave ... **anuttaraṃ** **sammāsambodhiṃ** **abhisambuddhoti** **paccaññāsiṃ**
 
@@ -654,10 +601,3 @@
 | paccaññāsiṃ |  |  |  |  |
 
 **&nbsp;**
-
-<div class="nav-links">
-  <a href="../22_class/" class="prev">← Class 22</a>
-  <a href="../24_class/" class="next">Class 24 →</a>
-  <div class="cross"><a href="../../ipc_key/23_class/">Go to Answer Key</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_ex%2F23_class" target="_blank">Provide feedback on this page</a></div>
-</div>

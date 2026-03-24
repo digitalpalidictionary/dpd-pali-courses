@@ -1,17 +1,16 @@
 # Adverbs
-***
+
 Adverbs describe **how** or **when** an action is done, they give more information about the verb in the sentence.
-***
+
 kiṃ nu kho ahaṃ saṇikaṃ gacchāmi? *[MN20](https://find.dhamma.gift/bw/mn/mn20.html)*
-***
+
 Why am I going **slowly**?
-***
+
 Adverbs are formed in various ways using **suffixes** and different **cases** of adjectives, and also using **indeclinable** particles. In all cases, adverbs are indeclinable.
-***
+
 ### How to form adverbs
-***
+
 **Derivative Adverbs** are formed by adding suffixes to nouns and adjectives. You’ll go into these in more detail when you study primary and secondary derivatives.
-***
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -27,11 +26,10 @@ Adverbs are formed in various ways using **suffixes** and different **cases** of
 | sabba | pron | all | sabba**ttha** | adv | everywhere |
 | ka | pron | which | ku**hiṃ** | adv | where |
 
-***
 and a very large number of others.
-***
+
 **Case-form Adverbs** are formed by using nouns, pronouns and adjectives in certain cases, most commonly the accusative and instrumental cases.
-***
+
 **Accusative Case**
 
 |  |  |  |  |  |  |
@@ -44,17 +42,16 @@ and a very large number of others.
 | tatiya | ordin | third | tatiy**aṃ** | adv | for third time |
 | uddha | adj | upper | uddh**aṃ** | adv | upwards |
 
-***
 Quick review: where do you find the -**aṃ** ending in Pāli grammar?
-***
+
 1.  masculine, feminine, neuter acc s
-***
+
 2.  neuter nom. s.
-***
+
 3.  present participle masc nom. s.
-***
+
 4.  adverbs
-***
+
 **Instrumental Case**
 
 |  |  |  |  |  |  |
@@ -70,7 +67,6 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 | vega | noun | speed | veg**ena** | adv | quickly |
 | ya | pron | which | y**ena** | adv | where |
 
-***
 **Dative Case**
 
 |  |  |  |  |  |  |
@@ -78,14 +74,12 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 | svātana | adj | of tomorrow | svātan**āya** | adv | for tomorrow's (meal) |
 | ajjatana | adj | modern | ajjatan**āya** | adv | for today; today |
 
-***
 **Genitive Case**
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | ta | pron | that | ta**ssa** | adv | therefore; because of that; lit. of that |
 
-***
 **Locative Case**
 
 |  |  |  |  |  |  |
@@ -94,11 +88,9 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 | bāhira | adj | external | bāhir**e** | adv | externally |
 | pubba | adj | former | pubb**e** | adv | formerly |
 
-***
 The final group consists of the **Pure Adverbs,** which are not formed by adding suffixes or case declensions.
-***
+
 There are about 200 such particles or **nipātā,** as they are called in traditional grammar books.
-***
 
 |  |  |
 | --- | --- |
@@ -109,12 +101,4 @@ There are about 200 such particles or **nipātā,** as they are called in tradit
 | atha | now, then, and then |
 | kva | where? |
 
-***
 … ādi …
-
-<div class="nav-links">
-  <a href="../1_review/" class="prev">← Review</a>
-  <a href="../3_pass_verb/" class="next">Passive Verbs →</a>
-  <div class="cross"><a href="../../../bpc_ex/13_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc%2Fclass_13%2F2_adv" target="_blank">Provide feedback on this page</a></div>
-</div>

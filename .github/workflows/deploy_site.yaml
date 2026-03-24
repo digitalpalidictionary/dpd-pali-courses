@@ -8,7 +8,8 @@ on:
       - 'docs/**'
       - 'mkdocs.yaml'
       - '.github/workflows/deploy_site.yaml'
-      - 'tools/ssg/**'
+      - 'identity/**'
+      - 'scripts/**'
   workflow_dispatch:
 
 jobs:
@@ -29,8 +30,8 @@ jobs:
       - name: Run custom scripts
         run: |
           export PYTHONPATH=$PYTHONPATH:.
-          uv run python tools/ssg/scripts/update_css.py
-          uv run python tools/ssg/scripts/generate_indexes.py
+          uv run python scripts/update_css.py
+          uv run python scripts/generate_indexes.py
 
       - name: Build site
         run: uv run mkdocs build

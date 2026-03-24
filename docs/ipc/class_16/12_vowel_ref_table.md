@@ -21,7 +21,6 @@
 | **ā** | o\>+a |  |  |  |  | **o** | o\<i |  |  |
 |  |  |  |  |  |  | **o** | o\<e |  |  |
 
-***
 How to use the reference table: First try to figure it out for yourself! If you can’t, then refer to the table.
 
 Please deconstruct the following:
@@ -88,7 +87,6 @@ khvāssa
 | **e** | e | ā ari | e |  | u ve |  | e | e o |
 | **o** | o |  | o |  |  |  |  |  |
 
-***
 Example of usage:
 
 when **a** meets **ī** the result can be **e**, but when **ī** meets **a** result can be **yā**
@@ -96,37 +94,29 @@ when **a** meets **ī** the result can be **e**, but when **ī** meets **a** res
 when **i** meets **u** the result can be **o**, but when **u** meets **i** result can be **u** or **ū**
 
 ## Some Common Punctuation Related to Sandhi
-***
-In many chanting books, **conjunction** of words is denoted with a **dash ( - )**, and **elision** is denoted with an **apostrophe( ’ )**. This can make reading and pronunciation easier. Also note the use of the **ṁ**, **ṃ** or **ŋ.**
-***
-karaṇīyam’attha-kusalena
-***
-yaṁ taṁ santaṁ padaṁ abhisamecca
-***
-sakko ujū ca suhujū ca
-***
-suvaco c’assa mudu an-atimānī
-***
-In most Roman script texts, a **macron** **( ¯ )** is used to denote all long vowels. In older texts, and in **PTS** dictionary, when two vowels are joined to form a long vowel, they are denoted with **a circumflex ( \^ )** over the long vowel instead of a macron ( ¯ ). The circumflex means the long vowel is a result of sandhi.
-***
-n**a a**haṃ \> n**â**haṃ = n**ā**haṃ
-***
-dhamm**a a**nupassī \> dhamm**â**nupassī = dhamm**ā**nupassī
-***
-n**a a**paraṃ \> n**â**paraṃ = n**ā**paraṃ
-***
-itar**a i**taraṃ \> itar**î**taraṃ = itar**ī**taraṃ
-***
-aggi iva \> agg**î**va = agg**ī**va
-***
-āhāra upahāra \> āhār**û**pahāra = āhār**ū**pahāra
-***
-idha upapanna \> idh**û**papanna = idh**ū**papanna
-***
 
-<div class="nav-links">
-  <a href="../11_vowel_9/" class="prev">← Possibility \#9</a>
-  <a href="../13_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F12_vowel_ref_table" target="_blank">Provide feedback on this page</a></div>
-</div>
+In many chanting books, **conjunction** of words is denoted with a **dash ( - )**, and **elision** is denoted with an **apostrophe( ’ )**. This can make reading and pronunciation easier. Also note the use of the **ṁ**, **ṃ** or **ŋ.**
+
+karaṇīyam’attha-kusalena
+
+yaṁ taṁ santaṁ padaṁ abhisamecca
+
+sakko ujū ca suhujū ca
+
+suvaco c’assa mudu an-atimānī
+
+In most Roman script texts, a **macron** **( ¯ )** is used to denote all long vowels. In older texts, and in **PTS** dictionary, when two vowels are joined to form a long vowel, they are denoted with **a circumflex ( \^ )** over the long vowel instead of a macron ( ¯ ). The circumflex means the long vowel is a result of sandhi.
+
+n**a a**haṃ \> n**â**haṃ = n**ā**haṃ
+
+dhamm**a a**nupassī \> dhamm**â**nupassī = dhamm**ā**nupassī
+
+n**a a**paraṃ \> n**â**paraṃ = n**ā**paraṃ
+
+itar**a i**taraṃ \> itar**î**taraṃ = itar**ī**taraṃ
+
+aggi iva \> agg**î**va = agg**ī**va
+
+āhāra upahāra \> āhār**û**pahāra = āhār**ū**pahāra
+
+idha upapanna \> idh**û**papanna = idh**ū**papanna

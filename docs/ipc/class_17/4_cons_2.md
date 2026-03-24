@@ -1,17 +1,17 @@
 # Possibility \#2
-***
+
 When a word or particle ends in a **long vowel**,
-***
+
 the vowel can be **shortened**
-***
+
 and the following **consonant** **reduplicated**.
-***
+
 **ā** + **kh**āta \> **akkh**āta
-***
+
 In Kaccāyana this is called (28) **para-dvebhāvo ṭhāne**
-***
+
 and (26) **rassaṃ**.
-***
+
 **long vowel + consonant**
 
 |  |  |  |  |
@@ -26,19 +26,10 @@ and (26) **rassaṃ**.
 | **ā** | **l**īyati | **all**īyati | pr. sticks, clings |
 | **ā** | **s**asati | **ass**asati | pr. inhales, breathes in |
 
-***
 Counter-examples:
-***
-avijj**ā** + **kh**anda \> avijj**ākkh**andha
-***
-su + **ā** + **kh**āta \> sv**ākkh**āta
-***
-taṇh**ā** + **kh**aya \> taṇh**ākkh**aya
-***
 
-<div class="nav-links">
-  <a href="../3_cons_1/" class="prev">← Possibility \#1</a>
-  <a href="../5_cons_3/" class="next">Possibility \#3 →</a>
-  <div class="cross"><a href="../../../ipc_ex/17_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_17%2F4_cons_2" target="_blank">Provide feedback on this page</a></div>
-</div>
+avijj**ā** + **kh**anda \> avijj**ākkh**andha
+
+su + **ā** + **kh**āta \> sv**ākkh**āta
+
+taṇh**ā** + **kh**aya \> taṇh**ākkh**aya

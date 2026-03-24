@@ -2,7 +2,6 @@
 
 1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html) <br>anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ - ekam'pi jātiṃ dve'pi jātiyo tisso'pi jātiyo catasso'pi jātiyo pañca'pi jātiyo dasa'pi jātiyo vīsam'pi jātiyo tiṃsam'pi jātiyo cattālīsam'pi jātiyo paññāsam'pi jātiyo jātisatam'pi jātisahassam'pi jātisatasahassam'pi
 
-
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | anekavihitaṃ | adj | masc.acc.sg | many different |  |
@@ -27,12 +26,9 @@
 | jātisahassam'pi | noun | nt.acc.sg | just one thousand births |  |
 | jātisatasahassam'pi | noun | nt.acc.sg | just one hundred thousand births |  |
 
-
 **I recollected manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births**
 
-
 2. [MN16](https://find.dhamma.gift/bw/mn/mn16.html) <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -47,12 +43,9 @@
 | dvādasa | card | x.nom.pl | twelve |  |
 | vā | ind | - | or |  |
 
-
 **Imagine if, monks, there could be hen's eggs, eight or ten or twelve.**
 
-
 3. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso, <br>evam'eva kho, bhikkhave, ayaṃ dhammavinayo ekaraso vimuttiraso
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -62,9 +55,7 @@
 | ekaraso | adj | masc.nom.sg | having one taste; with a single flavour |  |
 | loṇaraso | adj | masc.nom.sg | salty; salt-flavoured; briny |  |
 
-
 **Monks, just as the great ocean has one taste, the taste of salt**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -75,12 +66,9 @@
 | ekaraso | adj | masc.nom.sg | having one taste; with a single flavour |  |
 | vimuttiraso | adj | masc.nom.sg | with the taste of liberation |  |
 
-
 **Likewise, monks, this teaching and training has one taste, the flavour of liberation.**
 
-
 4. [SN1.37](https://find.dhamma.gift/bw/sn/sn1.37.html) <br>ekaṃ samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeh'eva arahantehi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -89,9 +77,7 @@
 | sakkesu | noun | masc.loc.pl | among the Sakyans | √sak･4 ṇo (be able, powerful) |
 | viharati | verb | pr.3rd.sg | he lives; dwells | √har･1 a (live) |
 
-
 **On one occasion, the Blessed One was dwelling among the Sakyans**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -103,12 +89,9 @@
 | eva | ind | emph | just, only; exclusively |  |
 | arahantehi | noun | masc.instr.pl | with deserving ones; worthy ones | √arah･1 a (deserve, be worthy) |
 
-
 **with a community of monks, five hundred monks, all exclusively arahants.**
 
-
 5. [AN1.12](https://find.dhamma.gift/bw/an/an1.12.html) <br>n'āhaṃ, bhikkhave, aññaṃ ekadhammam'pi samanupassāmi yena anuppanno byāpādo uppajjati, yathayidaṃ, bhikkhave, paṭighanimittaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -120,9 +103,7 @@
 | ‘pi | ind | ind | even |  |
 | samanupassāmi | verb | pr.1st.sg | I see | √dis･1 a (see) |
 
-
 **I don't see even one single other thing, monks**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -131,21 +112,16 @@
 | byāpādo | noun | masc.nom.sg | ill-will, dislike | √pad･3 ya (go, step) |
 | uppajjati | verb | pr.3rd.sg | it arises | √pad･3 ya (go, step) |
 
-
 **because of which unarisen ill-will arises**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | yathā-idaṃ | ind | adv | like, such as this |  |
 | paṭigha-nimittaṃ | noun | nt.nom.sg | conflict-image; disliked image [in the mind] |  |
 
-
 **such as a disliked image.**
 
-
 6. [SN56.14](https://find.dhamma.gift/bw/sn/sn56.14.html) <br>cattāri imāni, bhikkhave, ariyasaccāni. katamāni cattāri?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -156,12 +132,9 @@
 | katamāni | pron | nt.nom.pl | which? what? |  |
 | cattāri? | card | nt.nom.pl | four |  |
 
-
 **Monks, [there are] these four noble truths, which four?**
 
-
 7. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -172,18 +145,14 @@
 | sukhumo | adj | masc.nom.sg | refined, subtle |  |
 | vā | ind |  | or |  |
 
-
 **heavy or refined edible food**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | phasso | noun | masc.nom.sg | sense contact | √phus･1 a (touch) |
 | dutiyo | ordin | masc.nom.sg | second |  |
 
-
 **sense contact is the second**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -191,21 +160,16 @@
 | sañcetanā | noun | fem.nom.sg | intention, volition | √cit･8 \*e (think, intend) |
 | tatiyā, | ordin | fem.nom.sg | third |  |
 
-
 **mental volition is the third**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | viññāṇaṃ | noun | nt.nom.sg | consciousness, awareness, sentience | √ñā･5 nā (know) |
 | catutthaṃ | ordin | nt.nom.sg | fourth |  |
 
-
 **consciousness is the fourth**
 
-
 8. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye chaṭṭho acchariyo abbhuto dhammo
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -218,12 +182,9 @@
 | abbhuto | adj | masc.nom.sg | marvelous, amazing |  |
 | dhammo | noun | masc.nom.sg | quality | √dhar･1 a (hold, carry, endure) |
 
-
 **Monks, this is the sixth wonderful and amazing quality in this Dhamma and Vinaya.**
 
-
 9. [DN13.8](https://find.dhamma.gift/bw/dn/dn13.html) <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -236,9 +197,7 @@
 | pharitvā | verb | abs | having pervaded | √phar･1 a (suffuse, pervade) |
 | viharati | verb | pr.3rd.sg | he remains, dwells | √har･1 a (live) |
 
-
 **He dwells/abides having pervaded one direction with a mind accompanied by loving-kindness.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -249,12 +208,9 @@
 | tathā | ind | adv | like this, likewise |  |
 | catutthaṃ | adj | fem.acc.sg | the fourth (direction) |  |
 
-
 **Likewise, the second, third and fourth.**
 
-
 10. [DN9.6](https://find.dhamma.gift/bw/dn/dn9.html) <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -263,12 +219,9 @@
 | evaṃvādino | adj | masc.nom.pl | who hold the view; lit. speaking thus |  |
 | evaṃdiṭṭhino | adj | masc.nom.pl | of the opinion; of such view |  |
 
-
 **Some monks and brahmins who speaking thus, holding such view…**
 
-
 11. [SN36.22](https://find.dhamma.gift/bw/sn/sn36.22.html) <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -279,9 +232,7 @@
 | vuttā | pp | fem.nom.pl | spoken; said; mentioned | √vac･1 a (say, speak) |
 | pariyāyena | ind | adv | in one way; by a method of presentation |  |
 
-
 **I have spoken [of] eighteen feelings in one way,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -292,9 +243,7 @@
 | vuttā | pp | fem.nom.pl | spoken; mentioned | √vac･1 a (say, speak) |
 | pariyāyena | noun | masc.instr.sg | by a method of presentation | √i･1 a (come, go) |
 
-
 **also I have spoken of thirty-six feelings by [another] way,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -305,12 +254,9 @@
 | vuttā | pp | fem.nom.pl | spoken | √vac･1 a (say, speak) |
 | pariyāyena | noun | masc.instr.sg | by a method of presentation | √i･1 a (come, go) |
 
-
 **also I have spoken of one hundred and eight feelings by [another] way.**
 
-
 12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -332,12 +278,9 @@
 | suvisuddhaṃ | adj | nt.nom.sg | completely pure; perfectly purified | √sudh･3 ya (be pure) |
 | ahosi | verb | aor.3rd.sg | was | √hū･1 a (be) |
 
-
 **Monks, as long as for me, knowledge and vision were not perfectly purified with regard to the Four Noble Truths as they truly are in [their] three phases together with [their] twelve aspects….**
 
-
 13. [VIN PAT SA 11](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -358,12 +301,9 @@
 | evaṃ | ind | adv | thus |  |
 | vadeyyuṃ | verb | opt.3rd.pl | should say | √vad･1 a (say, speak) |
 
-
 **But now there are monks who are followers of just that monk, [and] who are proponents of [his] faction – one or two or three – [and] they should say thus…**
 
-
 14. [SN12.2](https://find.dhamma.gift/bw/sn/sn12.2.html) <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -379,12 +319,9 @@
 | vuccati | verb | pr.3rd.sg | is called | √vac･1 ya (say, speak) |
 | rūpaṃ | noun | nt.nom.sg | material form | √rūp･8 \*e (form, produce) |
 
-
 **The four great elements and the material form derived from the four great elements; this is called material form.**
 
-
 15. [SN11.3](https://find.dhamma.gift/bw/sn/sn11.3.html) <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -397,12 +334,9 @@
 | bhagavato | noun | masc.gen.sg | of the Blessed One | √bhaj･1 a (divide, distribute) |
 | sāvakasaṅgho | noun | masc.nom.sg | community of disciples |  |
 
-
 **This is the community of disciples of the Blessed One, namely, the four pairs of persons, the eight individuals.**
 
-
 16. [DN14.14](https://find.dhamma.gift/bw/dn/dn14.html) <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -419,12 +353,9 @@
 | dhammacakkhuṃ | noun | nt.nom.sg | understanding of the way things are; insight into the nature of reality; lit. Dhamma eye |  |
 | udapādi | verb | aor.3rd.sg | arose | √pad･3 ya (go, step) |
 
-
 **Similarly, spotless, untainted insight into the nature of reality arose for those eighty-four thousand beings just in that place.**
 
-
 17. [AN10.8](https://find.dhamma.gift/bw/an/an10.8.html) <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -441,12 +372,9 @@
 | sabb'ākāraparipūro | adj | masc.nom.sg | complete in every aspect |  |
 | ca | ind | conj | and |  |
 
-
 **Surely, a monk endowed with these ten qualities is one who inspires confidence in every way and complete in every aspect.**
 
-
 18. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -458,9 +386,7 @@
 | no | ind | neg | not |  |
 | anāhāre | adj | masc.acc.pl | without fuel; nutriment | √har･1 a (take, seize) |
 
-
 **I speak of five hindrances with nutriment, [they are] not without nutriment.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -472,12 +398,9 @@
 | tīṇi | card | nt.nom.pl | three |  |
 | duccaritāni | noun | nt.nom.pl | misconducts | √car･1 a (act, behave) |
 
-
 **And what is the nutriment of the five hindrances? The three [kinds of] misconduct.**
 
-
 19. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) (simpl) <br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -497,12 +420,9 @@
 | domanassaṃ | noun | nt.acc.sg | distress | √man･3 ya (think) |
 | paṭisaṃvediyeyya | verb | opt.3rd.sg | he would experience | √vid･8 \*aya (know, sense, feel) |
 
-
 **"What do you think? Wouldn't that man, being struck during the day with three hundred spears, experience suffering and distress on that account?"**
 
-
 20. [AN4.67](https://find.dhamma.gift/bw/an/an4.67.html) <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -512,12 +432,9 @@
 | sattannaṃ | card | x.dat.pl | to the seven |  |
 | sammāsambuddhānaṃ | noun | masc.dat.pl | to the Perfectly Enlightened Ones |  |
 
-
 **Homage to the Blessed One, homage to the seven Perfectly Enlightened Ones.**
 
-
 21. [SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -555,12 +472,9 @@
 | api | ind | ind | even |  |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
 
-
 **It is observed, monks, [that] this body, composed of the four great elements, is standing just one year, [or] just two years, … three … four … five … ten … twenty … thirty … forty … fifty [or] remaining one hundred years [or] even remaining more than [that].**
 
-
 22. [UD46](https://find.dhamma.gift/bw/ud/ud5.6.html) <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -578,12 +492,9 @@
 | sarena | ind | adv | sweetly; melodiously | √sar×1 a (make sound) |
 | abhaṇi | verb | aor.3rd.sg | recited | √bhaṇ･1 a (talk, speak) |
 
-
 **"Yes, venerable sir." Having responded in agreement to the Blessed One, Venerable Soṇa indeed recited melodiously all sixteen [suttas], belonging to the groups of eight.**
 
-
 23. [MN91](https://find.dhamma.gift/bw/mn/mn91.html) <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -603,16 +514,11 @@
 | eva | ind | emph | just |  |
 | sattamaṃ | ordin | nt.nom.sg | the seventh |  |
 
-
 **[A Wheel-turning Monarch] has these seven treasures, namely: the wheel treasure, the elephant treasure, the horse treasure, the jewel treasure, the woman treasure, the steward treasure, [and] as the seventh, the counselor treasure.**
-
-
-
 
 ## Class 12 Extra
 
 1. [SNP5](https://find.dhamma.gift/bw/snp/snp1.5.html) <br>caturo samaṇā na pañcam'atthi, <br>te te āvikaromi sakkhipuṭṭho.
-
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -627,12 +533,9 @@
 | sakkhi- | ind | adv | face to face |  |
 | puṭṭho | pp | masc.nom.sg | asked, questioned | √pucch･1 a (ask, question) |
 
-
 **There are four (kinds of) ascetics, there is not a fifth.<br>Questioned face to face, I will clarify those for you.**
 
-
 2. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) (simpl)<br>catūhi apāyehi ca vippamutto, cha ca abhiṭhānāni abhabbo kātuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -646,12 +549,9 @@
 | abhabbo | adj | masc.nom.sg | unable; unlikely | √bhū･1 a (be, become) |
 | kātuṃ | verb | inf | to do; to perform | √kar･7 o (do, make) |
 
-
 **One is released from the four states of misery and is unable to perform the six heinous crimes.**
 
-
 3. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) <br>ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni. kiñ'c'āpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamaṃ ādiyanti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -661,9 +561,7 @@
 | gambhīrapaññena | adj | masc.instr.sg | by one with profound wisdom |  |
 | sudesitāni | adj | nt.acc.pl | well taught | √dis･1 \*e (point out, explain) |
 
-
 **They who understand clearly the Noble Truths well taught by one with profound wisdom,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -678,12 +576,9 @@
 | aṭṭhamaṃ | ordin | nt.acc.sg | eighth |  |
 | ādiyanti | verb | pr.3rd.pl | grasp; embrace | √ādā･3 ya (take, seize) |
 
-
 **Even though they are exceedingly negligent, they do not grasp an eighth state of existence.**
 
-
 4. [VIN PAT AN 1](https://find.dhamma.gift/bw/an/an1.html) <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -701,12 +596,9 @@
 | vā | ind | conj | or |  |
 | pācittiyena | noun | masc.instr.sg | by an offence requiring confession |  |
 
-
 **…a lay woman, whose words can be trusted, having then seen that should speak in accordance with one of three rules: according to an offence involving defeat, according to an offence requiring suspension, according to an offence requiring confession.**
 
-
 5. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) <br>vanappagumbe yathā phussit'agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath'ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -723,12 +615,9 @@
 | paramaṃ | adj | masc.acc.sg | ultimate; highest; superior |  |
 | hitāya | noun | nt.dat.sg | for the benefit; beneficial | √dhā･1 a (place, support) |
 
-
 **Like a forest grove with a flowering crest,<br>in the first heat of the hot month,<br>(The Buddha) taught the sublime teaching,<br>leading to the highest Nibbāna, for the benefit.**
 
-
 6. [AN9.15](https://find.dhamma.gift/bw/an/an9.15.html) <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -737,9 +626,7 @@
 | gaṇḍo | noun | masc.nom.sg | a boil; abscess |  |
 | anekavassagaṇiko | adj | masc.nom.sg | many years old |  |
 
-
 **Imagine, monks, a boil many years old.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -751,12 +638,9 @@
 | nava | card | x.nom.pl | nine |  |
 | abhedanamukhāni | noun | nt.nom.pl | natural orifices [lit: unbroken entrances] |  |
 
-
 **That boil would have nine wound openings, nine natural orifices.**
 
-
 7. [SNP6](https://find.dhamma.gift/bw/snp/snp1.6.html) <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -773,11 +657,4 @@
 | parābhavato | noun | masc.abl.sg | for/of the downfall | √bhū･1 a (be, become) |
 | mukhaṃ | noun | nt.nom.sg | the cause |  |
 
-
 **Indeed this we understand, [that] this [is] the ninth downfall. May the Blessed One tell [us] the tenth: What [is] the cause of the downfall?**
-
-<div class="nav-links">
-  <a href="../11_class/" class="prev">← Class 11 Exercises</a>
-  <a href="../13_class/" class="next">Class 13 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F12_class" target="_blank">Provide feedback on this page</a></div>
-</div>

@@ -1,31 +1,30 @@
 # Dvanda Samāsa
 
 “twin compounds” or “copulative compounds”
-***
+
 Kaccāyana 329. nāmānaṃ samuccayo dvando.
-***
+
 This is the easiest type of compound, where two or more nouns, adjectives or adverbs are joined by **ca** and become one word.
-***
+
 **noun + noun:** ajā **ca** eḷakā **ca \>** ajeḷakā (goats and sheep)
-***
+
 **adjective + adjective:** kalyāṇa **ca** pāpaka **ca \>** kalyāṇapāpaka (good and evil)
-***
+
 **adverb + adverb:** punaṃ **ca** punaṃ **ca \>** punappunaṃ (again and again)
-***
+
 There are two types of copulative compounds
-***
+
 ### asamāhāra-dvanda-samāsa
 
 (not taken together twin compound)
-***
+
 Some dvanda-samāsa occur in the **plural**, are taken **individually**, generally when they refer to **living beings**.
-***
+
 dev**a**manuss**ehi** “**with** gods and **with** men”
-***
+
 samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
-***
+
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
-***
 
 |  |  |  |
 | --- | --- | --- |
@@ -37,17 +36,15 @@ the first member is in the dictionary form (vocative singular) and the compound 
 | ñātisālohitā | ñātayo ca sālohitā ca | family and blood-relatives |
 | soṇasiṅgālā | soṇā ca siṅgālā ca | dogs and jackals |
 
-***
 ### samāhāra-dvanda-samāsa
 
 (collective twin compound)
-***
+
 dvanda-samāsa often occurs in the **neuter** **singular** and the members are taken **collectively**.
-***
+
 tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
-***
+
 “grass, timber, branches, and leaves”
-***
 
 |  |  |
 | --- | --- |
@@ -76,30 +73,22 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 | uddhaccakukkuccaṃ | restlessness and remorse |
 | vijjācaraṇaṃ | understanding and conduct |
 
-***
 Other than those in masculine plural and neuter singular, *dvandasamāsa* occur in the **gender** of the **last word** in the compound.
-***
-lābho + sakkāro \> masc. lābhasakkāro “gain and honour”
-***
-nindā + pasaṃsā \> fem. nindāpasaṃsā “blame and praise”
-***
-If they are **adjectives**, they behave normally and take the case of the noun they qualify.
-***
-kaṇhasukk**āni** rūp**āni** “dark and bright forms”
-***
-kalyāṇapāpak**ānaṃ** kamm**ānaṃ** “of good and bad deeds”
-***
-Dvandasamāsa also includes **numerals** like
-***
-aṭṭha + dasa \> aṭṭhārasa “18” eight **and** ten
-***
-catu + āsīti \> caturāsīti “84” four **and** eighty
-***
-cha + tiṃsā \> chattiṃsā “36” six **and** thirty
 
-<div class="nav-links">
-  <a href="../4_tap/" class="prev">← Tappurisa-samāsa or Case Compounds</a>
-  <a href="../6_comp_rules/" class="next">General “Rules” for Compounds →</a>
-  <div class="cross"><a href="../../../ipc_ex/19_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_19%2F5_dvanda" target="_blank">Provide feedback on this page</a></div>
-</div>
+lābho + sakkāro \> masc. lābhasakkāro “gain and honour”
+
+nindā + pasaṃsā \> fem. nindāpasaṃsā “blame and praise”
+
+If they are **adjectives**, they behave normally and take the case of the noun they qualify.
+
+kaṇhasukk**āni** rūp**āni** “dark and bright forms”
+
+kalyāṇapāpak**ānaṃ** kamm**ānaṃ** “of good and bad deeds”
+
+Dvandasamāsa also includes **numerals** like
+
+aṭṭha + dasa \> aṭṭhārasa “18” eight **and** ten
+
+catu + āsīti \> caturāsīti “84” four **and** eighty
+
+cha + tiṃsā \> chattiṃsā “36” six **and** thirty

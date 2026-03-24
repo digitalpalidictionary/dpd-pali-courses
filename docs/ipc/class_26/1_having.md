@@ -1,7 +1,7 @@
 # More Secondary Derivatives
 
 Today we will look at the other categories of secondary derivatives, starting with possessing, having (atthyattha).
-***
+
 ## Having & Possessing (atthyatthataddhita)
 
 ### \*a (having, possessing)
@@ -13,7 +13,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | tivijja | + \*a | t**e**vijj**a** | having three knowledges |
 | vācā | + \*a | v**ā**c**a** | having speech |
 
-***
 ### ika (having, possessing)
 
 | ābādha | + ika | ābādh**ika** | having sickness |
@@ -24,7 +23,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | mālā | + ika | māl**ika** | having garland |
 | maṅgala | + ika | maṅgal**ika** | having auspicious occasion, festivals |
 
-***
 ### ila (having, possessing)
 
 |  |  |  |  |
@@ -32,7 +30,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | kumbha | + ila | kumbh**īla** | with a pot |
 | pheṇa | + ila | pheṇ**ila** | soap plant |
 
-***
 ### ī (having, possessing) agent nouns
 
 |  |  |  |  |
@@ -44,7 +41,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | māyā | + (v)ī | māyāv**ī** | magician |
 | medhā | + (v)ī | medhāv**ī** | wise person |
 
-***
 ### tana (belonging to) adjectives
 
 |  |  |  |  |
@@ -54,7 +50,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | sanaṃ | + tana | sanan**tana** | belonging to ancient |
 | sve | + tana | svā**tana** | belonging to tomorrow |
 
-***
 ### ka (having, possessing)
 
 |  |  |  |  |
@@ -67,7 +62,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | anukampā | + ka | anukampa**ka** | having compassion |
 | na pāṇa | + ka | appāṇa**ka** | having no beings |
 
-***
 ### tara (comparative adjectives)
 
 |  |  |  |  |
@@ -82,7 +76,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | sādu | + tara | sādu**tara** | sweeter |
 | sīgha | + tara | sīgha**tara** | faster |
 
-***
 ### tama (superlative adjectives)
 
 |  |  |  |  |
@@ -90,7 +83,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | ud | + tama | ut**tama** | highest, ultimate |
 | pa | + tama | pa**ṭhama** | first; prime |
 
-***
 ### mant (having, possessing, having quality)
 
 |  |  |  |  |
@@ -102,7 +94,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | sati | + mant | satī**mant** | mindful |
 | āyas | + mant | āyas**mant** | respectable |
 
-***
 ### vant (having, possessing, having quality)
 
 |  |  |  |  |
@@ -117,7 +108,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | paññā | + vant | pañña**vant** | wise |
 | suta | + vant | suta**vant** | learned |
 
-***
 ### sa (having, possessing)
 
 |  |  |  |  |
@@ -125,7 +115,6 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | loma | + sa | loma**sa** | hairy |
 | nir āsā | + sa | nirāsāsa | desireless |
 
-***
 ### sī (having, possessing)
 
 |  |  |  |  |
@@ -133,13 +122,4 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | tapas | + sī | tapa**ssī** | ascetic; lit. having burns |
 | yasas | + sī | yasa**ssī** | famous |
 
-***
 what do you notice about these words?
-***
-
-<div class="nav-links">
-  <a href="../" class="prev">← Class 26</a>
-  <a href="../2_numer/" class="next">Numerical (saṅkhyātaddhita) →</a>
-  <div class="cross"><a href="../../../ipc_ex/26_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_26%2F1_having" target="_blank">Provide feedback on this page</a></div>
-</div>

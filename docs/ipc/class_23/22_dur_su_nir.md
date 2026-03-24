@@ -1,7 +1,7 @@
 # dur, su, nir & etc.
-***
+
 Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**
-***
+
 **dur- <br>bad, difficult, unwholesome, negative, poor, ill, mean**
 
 |  |  |  |  |
@@ -18,7 +18,6 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dis | to see | duddasa | difficult to see |
 | √gam | to go | duggati | hell, bad place |
 
-***
 **su- <br>good, well, thoroughly, easily, auspiciously, abundance**
 
 |  |  |  |  |
@@ -31,7 +30,6 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dam | to tame | sudanta | well tamed |
 | √dis | to see | sudiṭṭha | well-seen |
 
-***
 **nir-<br>not, without, no, negative**
 
 |  |  |  |  |
@@ -44,7 +42,6 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √mal | to stain | nimmala | spotless |
 | √pī | to love | nippītika | without delight |
 
-***
 **kā- kad- ku<br>bad, negative, small, mean**
 
 |  |  |  |  |
@@ -60,7 +57,6 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | ku | nadī | kunnadī | small stream |
 | ku | sobbha | kusobbha | small pool |
 
-***
 [^18]: Not a textual example
 
 [^19]: Not a textual example
@@ -73,12 +69,3 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | kaṇṭaka | thorn | sakaṇṭaka | problematic; with thorns |
 | bala | strength | sabala | with strength; having power |
 | dukkha | pain | sadukkha | afflicted; with pain |
-
-***
-
-<div class="nav-links">
-  <a href="../21_nipata/" class="prev">← Some Adverbs (nipāta) used as Prefixes</a>
-  <a href="../../class_24/" class="next">Class 24 →</a>
-  <div class="cross"><a href="../../../ipc_ex/23_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_23%2F22_dur_su_nir" target="_blank">Provide feedback on this page</a></div>
-</div>

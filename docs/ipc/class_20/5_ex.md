@@ -15,10 +15,3 @@ sāvikā bhavissanti … **dhammānudhammappaṭipannā**
 taṇhāya **asesavirāganirodho** cāgo paṭinissaggo mutti anālayo
 
 [DN22.17](https://find.dhamma.gift/bw/dn/dn22.html)
-
-<div class="nav-links">
-  <a href="../4_change_comp/" class="prev">← Changes Of Certain Words In Compounds</a>
-  <a href="../6_home_work/" class="next">Homeless work →</a>
-  <div class="cross"><a href="../../../ipc_ex/20_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_20%2F5_ex" target="_blank">Provide feedback on this page</a></div>
-</div>

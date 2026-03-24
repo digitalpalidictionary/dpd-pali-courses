@@ -11,36 +11,51 @@ This repository contains the source materials for the Digital Pāḷi Dictionary
     - `ipc/`: Intermediate Pāḷi Course (IPC) lessons.
     - `ipc_ex/`: IPC Exercises.
     - `ipc_key/`: IPC Answer Keys.
-- `tools/ssg/`: Custom scripts and assets used for building the static site.
+- `identity/`: DPD CSS and JavaScript assets used for the website and document generation.
+- `scripts/`: Regularly used maintenance and generation scripts (runnable with `uv run`).
+    - `hooks/`: Custom MkDocs hooks for automated processing.
+- `tools/`: Python modules used by scripts (imports only).
 - `mkdocs.yaml`: Configuration for the MkDocs static site generator.
 
 ## Static Site Generation
 
 The website is built using [MkDocs](https://www.mkdocs.org/) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. It serves as the primary way to interact with the course materials.
 
-## Document Generation (PDF & DOCX)
+### Document Generation (PDF & DOCX)
 
 In addition to the static website, this project can generate high-quality PDF and Word (`.docx`) documents for offline study and editing. These documents are generated directly from the same Markdown source files used for the website, ensuring consistency across all formats.
 
-### PDF Generation
+#### System Dependencies
 
-The PDF generation is handled by `scripts/generate_pdfs.py` using [WeasyPrint](https://weasyprint.org/).
+To generate documents locally, you must install the following system-level dependencies:
 
-- **Shared Styling**: The PDF generator uses the same CSS variables and stylesheets as the website, providing a unified look and feel.
-- **Content Cleaning**: UI elements like navigation buttons, cross-references, and feedback forms are automatically stripped during the conversion process.
+**macOS (using [Homebrew](https://brew.sh/)):**
+```bash
+# For PDF generation (WeasyPrint dependencies)
+brew install weasyprint
+# or 
+brew install pango libffi
 
-### DOCX Generation
+# For DOCX generation (Pandoc)
+brew install pandoc
+```
 
-The Word document generation is handled by `scripts/generate_docx.py` using [Pandoc](https://pandoc.org/).
+**Linux (Ubuntu/Debian):**
+```bash
+# For PDF generation
+sudo apt-get install python3-pip python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0
 
-- **Visual Parity**: The DOCX generator aims for visual parity with the PDF output, including Table of Contents and consistent typography.
-- **Editable Format**: Provides a flexible format for users who wish to add their own notes or modify the course materials.
+# For DOCX generation
+sudo apt-get install pandoc
+```
 
 ### Generating Documents Locally
 
-1. **Install Dependencies**:
-   - For PDF: Ensure you have `weasyprint` and its system dependencies installed.
-   - For DOCX: Ensure you have [Pandoc](https://pandoc.org/installing.html) installed on your system.
+1. **Install Python Dependencies**:
+   Ensure your local environment is up to date:
+   ```bash
+   uv sync
+   ```
 2. **Run the Scripts**:
    ```bash
    # Generate PDFs
@@ -55,11 +70,11 @@ The Word document generation is handled by `scripts/generate_docx.py` using [Pan
 
 This repository includes several Python scripts to maintain and clean the Pāḷi course Markdown source files. These scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py`.
 
-- **`generate_pdfs.py`**: The primary script for creating PDF volumes from the course materials.
-  - Usage: `uv run python scripts/generate_pdfs.py`
+- **`verify_strict.py`**: Compares phrases from Markdown files against the generated HTML and PDF to ensure 100% data integrity and catch rendering issues.
+  - Usage: `uv run python scripts/verify_strict.py`
 
-- **`generate_docx.py`**: The primary script for creating Word (.docx) volumes from the course materials.
-  - Usage: `uv run python scripts/generate_docx.py`
+- **`add_sutta_links.py`**: Automatically right-aligns sutta references in review lessons using clean Markdown syntax.
+  - Usage: `uv run python scripts/add_sutta_links.py`
 
 - **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files.
   - Usage: `uv run python scripts/check_renumber.py`

@@ -1,9 +1,9 @@
 # Some Irregular Masculine Nouns
-***
+
 All the nouns we looked at in the Beginner Pāli Course had regular and predictable declensions. We will now start looking at nouns that have unusual or irregular declensions. These are often influenced by the old Sanskrit declensions.
-***
+
 Today we will look at **manas**, **go, atta** and **rāja**
-***
+
 **Declension of manas (mano) (masc & nt[^6])**
 
 |  |  |  |
@@ -17,11 +17,9 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | 7.loc | man**asi** man**e** man**amhi** man**asmiṃ** | man**esu** |
 | 8.voc | man**a** man**ā** | man**ā** |
 
-***
 [^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
-***
+
 Similarly
-***
 
 | **āpas** | water | **siras** | head |
 |---|---|---|---|
@@ -35,9 +33,7 @@ Similarly
 | **rajas** | dust, dirt | **vayas** | age, decline |
 | **saras** | lake, water | **yasas** | fame, reputation |
 
-***
 In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS dictionary, you will also find them listed as **mano** & **mana(s)**. If you study the following Sanskrit declension table, you will understand the reason for the unusual declensions in Pāli.
-***
 
 |  | **Sg** | **Du** | **Pl** |
 |---|---|---|---|
@@ -50,9 +46,7 @@ In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS d
 | Loc | **manasi** | manasoḥ | manaḥsu |
 | Voc | manaḥ | manasī | manāṃsi |
 
-***
 The main feature of this group of nouns is they take an **-o** ending in compounds
-***
 
 | āp**o**kāya | body of water |
 |---|---|
@@ -66,7 +60,6 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | tej**o**dhātu | fire state |
 | vay**o**anuppatto | reached old age |
 
-***
 **Declension of go (masc) cow, cattle**
 
 |  |  |  |
@@ -80,7 +73,6 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | 7.loc | gāv**e** gāv**asmiṃ** gāv**amhi** <br>gav**e** gav**asmiṃ** gav**amhi** | gāv**esu** gav**esu** g**osu** |
 | 8.voc | g**o** | gāv**o** gav**o** |
 
-***
 **Declension of atta (masc) - self**
 
 |  |  |  |
@@ -94,9 +86,8 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 | 7.loc | att**ani** | att**anesu** |
 | 8.voc | att**ā** att**a** | att**āno** |
 
-***
 similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
-***
+
 **Declension of rāja (masc) - king**
 
 |  |  |  |
@@ -109,12 +100,3 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 6.gen | ra**ñño** rāj**ino** | ra**ññaṃ** rāj**ūnaṃ** rāj**ānaṃ** |
 | 7.loc | rāj**ini** ra**ññe** rāj**amhi** rāj**asmiṃ** | rāj**ūsu** rāj**esu** |
 | 8.voc | rāj**a** rāj**ā** | rāj**āno** |
-
-***
-
-<div class="nav-links">
-  <a href="../9_ex/" class="prev">← Please construct and deconstruct:</a>
-  <a href="../11_ex/" class="next">Please analyze the following: →</a>
-  <div class="cross"><a href="../../../ipc_ex/18_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_18%2F10_irreg_masc" target="_blank">Provide feedback on this page</a></div>
-</div>

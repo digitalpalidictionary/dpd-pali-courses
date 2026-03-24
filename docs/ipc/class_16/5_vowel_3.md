@@ -1,25 +1,25 @@
 # Lengthening of a Vowel
-***
+
 #### Possibility \#3
 
 When the first vowel is elided, the following vowel may be lengthened.
-***
+
 tatr**a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a**yaṃ **\>** tatr**ā**yaṃ
-***
+
 a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā
-***
+
 This means:
-***
+
 when a word ends in **a**,
-***
+
 and the next word starts with **a**,
-***
+
 the first **a** can be elided,
-***
+
 and the second **a** can be lengthened.
-***
+
 In Kaccāyana this is called (15) **dīghaṃ.**
-***
+
 **a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 |  |  |  |
@@ -33,7 +33,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | suññ**a** | **a**gāra | suññ**ā**gāra |
 | empty | dwelling | empty dwelling |
 
-***
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 |  |  |  |
@@ -43,7 +42,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | manas**ā** | **a**nupekkhita | manas**ā**nupekkhita |
 | by mind | recollected | mentally recollected |
 
-***
 **i![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 |  |  |  |
@@ -55,7 +53,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | idān**i** | **a**haṃ | idān**ā**haṃ |
 | now | I | now I |
 
-***
 **e![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 |  |  |  |
@@ -65,7 +62,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | v**e** | **a**pi | v**ā**pi |
 | certainly | even | most certainly |
 
-***
 **o![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 |  |  |  |
@@ -75,7 +71,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | appassut**o** | **a**yaṃ | appassut**ā**yaṃ |
 | unlearned | this | this unlearned (person) |
 
-***
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
 |  |  |  |
@@ -83,7 +78,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | saddh**ā** | **i**dha | saddh**ī**dha |
 | faith | here | faith here |
 
-***
 **i![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
 |  |  |  |
@@ -91,7 +85,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | yān**i** | **i**dha | yān**ī**dha |
 | whoever | here | whoever here |
 
-***
 **ī![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
 |  |  |  |
@@ -99,7 +92,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | kik**ī** | **i**va | kik**ī**va |
 | blue jay | like | like a blue jay |
 
-***
 **a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū**
 
 |  |  |  |
@@ -113,7 +105,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | idh**a** | **u**papanno | idh**ū**papanno |
 | here | reborn | reborn here |
 
-***
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū**
 
 |  |  |  |
@@ -124,15 +115,6 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | bah**u** | **u**pakāra | bah**ū**pakāra |
 | much | help | very helpful |
 
-***
 what is **Possibility \#3 ?**
-***
-When the first vowel is elided, the following vowel may be lengthened.
-***
 
-<div class="nav-links">
-  <a href="../4_vowel_2/" class="prev">← Possibility \#2</a>
-  <a href="../6_vowel_4/" class="next">Possibility \#4 →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F5_vowel_3" target="_blank">Provide feedback on this page</a></div>
-</div>
+When the first vowel is elided, the following vowel may be lengthened.

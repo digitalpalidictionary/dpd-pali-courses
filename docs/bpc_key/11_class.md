@@ -2,7 +2,6 @@
 
 1. [SN22.43](https://find.dhamma.gift/bw/sn/sn22.43.html) <br>**attadīpā**, bhikkhave, viharatha **attasaraṇā** **anaññasaraṇā**, **dhammadīpā** **dhammasaraṇā** **anaññasaraṇā**.
 
-
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
 | attadīpā | adj | masc.nom.pl | self-reliant; lit. own island |  |
@@ -13,12 +12,9 @@
 | dhammasaraṇā | adj | masc.nom.pl | taking refuge in the Dhamma |  |
 | anaññasaraṇā | adj | masc.nom.pl | with no other refuge; independent of others |  |
 
-
 **Bhikkhus you should dwell with yourselves as an island, with yourselves as a refuge, with no other refuge, with the Dhamma as an island, with the Dhamma as a refuge with no other refuge**
 
-
 2. VIN0 <br>taṃ bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -30,12 +26,9 @@
 | kittisaddo | noun | masc.nom.sg | reputation |  |
 | abbhuggato | pp | masc.nom.sg | spread | √gam･1 a (go) |
 
-
 **A good reputation has spread about Venerable Gotama in this way.**
 
-
 3. [UD73](https://find.dhamma.gift/bw/ud/ud8.3.html) <br>atthi bhikkhave ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -46,12 +39,9 @@
 | akataṃ | pp | nt.nom.sg | not made | √kar･7 o (do, make) |
 | asaṅkhataṃ | pp | nt.nom.sg | not constructed | √kar･7 o (do, make) |
 
-
 **Monks, there is [something] not born, not become, not made, not constructed/unconditioned.**
 
-
 4. [AN8.74](https://find.dhamma.gift/bw/an/an8.74.html) <br>seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,12 +56,9 @@
 | \#sīso | adj | masc.nom.sg | with head |  |
 | vā | ind | conj | or |  |
 
-
 **Monks, just as [a man whose] clothes were on fire or [whose] head was burning…**
 
-
 5. [ITI111](https://find.dhamma.gift/bw/it/it.html) <br>āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -80,9 +67,7 @@
 | vīriyaṃ | noun | nt.nom.sg | effort, energy | √vīr×8 \*e (be heroic, hostile) |
 | asallīnaṃ, | pp | nt.nom.sg | active, not sluggish | √lī･3 ya (stick, hide) |
 
-
 **Energy is aroused and active.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -90,9 +75,7 @@
 | sati | noun | fem.nom.sg | mindfulness | √as･1 a (be) |
 | asammuṭṭhā, | pp | fem.nom.sg | unconfused; not forgotten | √mus･3 ya (lie, forget) |
 
-
 **Mindfulness is present and not forgotten**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -100,9 +83,7 @@
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
 | asāraddho | pp | masc.nom.sg | not excited; unagitated | √rabh･1 a (begin) |
 
-
 **The body is calm and not excited.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -110,12 +91,9 @@
 | cittaṃ | noun | nt.nom.sg | the mind | √cit･8 \*e (think, intend) |
 | ekaggaṃ | adj | nt.nom.sg | unified |  |
 
-
 **The mind is composed and unified.**
 
-
 6. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>asite pīte khāyite sāyite sampajānakārī
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -125,12 +103,9 @@
 | sāyite | noun | nt.loc.sg | in tasting; lit. tasted | √sāy･1 a (taste) |
 | sampajāna-kārī | adj | masc.nom.sg | making clear knowing; cultivating attention |  |
 
-
 **Lit: [He is] making clear knowing in (what is) eaten, in (what is) drunk, in (what is) chewed, in (what is) tasted<br>Fig: [He is] cultivating attention in eating, drinking, chewing and tasting.<br>(or)<br>Fig: [He is] cultivating attention while eating, drinking, chewing and tasting.**
 
-
 7. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>seyyathā'pi puriso ābādhiko assa dukkhito bāḷhagilāno
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -141,12 +116,9 @@
 | dukkhito | adj | masc.nom.sg | miserable | √dukkh･1 a (be painful) |
 | bāḷhagilāno | adj | masc.nom.sg | very ill |  |
 
-
 **imagine if a person would be ill, miserable, very sick.**
 
-
 8. [AN2.135](https://find.dhamma.gift/bw/an/an2.135.html) <br>bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -158,12 +130,9 @@
 | attānaṃ | noun | masc.acc.sg | oneself, himself |  |
 | pariharati | verb | pr.3rd.sg | he carries around | √har･1 a (carry) |
 
-
 **The foolish, untrained, wicked man maintains himself injured and damaged.**
 
-
 9. [AN5.114](https://find.dhamma.gift/bw/an/an5.114.html) <br>ye te, ānanda, bhikkhū navā acirapabbajitā adhun'āgatā imaṃ dhammavinayaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -179,12 +148,9 @@
 | imaṃ | pron | masc.acc.sg | this |  |
 | dhammavinayaṃ | noun | masc.acc.sg | doctrine and discipline |  |
 
-
 **Ananda, those monks who [are] recently ordained, [who] recently come to this teaching and discipline.**
 
-
 10. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>upekkhako tattha viharati sato sampajāno
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -194,12 +160,9 @@
 | sato | adj | masc.nom.sg | mindful | √sar･1 a (remember) |
 | sampajāno | adj | masc.nom.sg | clearly aware; fully knowing; completely comprehending | √ñā･5 nā (know) |
 
-
 **He remains there, equanimous, mindful and completely comprehending.**
 
-
 11. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>sakko ujū ca suhujū ca suvaco cassa mudu anatimānī
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -212,12 +175,9 @@
 | mudu | adj | masc.nom.sg | soft; mild | √mud･1 a (be soft, happy) |
 | anatimānī | adj | masc.nom.sg | not arrogant |  |
 
-
 **He should be able, straight, upright, meek, soft and not arrogant.**
 
-
 12. [SN12.66](https://find.dhamma.gift/bw/sn/sn12.66.html) <br>samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato dakkhissanti dukkhato dakkhissanti anattato dakkhissanti rogato dakkhissanti bhayato dakkhissanti, te taṇhaṃ pajahissanti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -226,9 +186,7 @@
 | brāhmaṇā | noun | masc.nom.pl | Brahmans, priests | √brah×1 a (increase) |
 | vā | ind |  | or |  |
 
-
 **Ascetics or priests**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -237,9 +195,7 @@
 | piyarūpaṃ | adj | nt.acc.sg | agreeable, enticing |  |
 | sātarūpaṃ | adj | nt.acc.sg | pleasant, beautiful |  |
 
-
 **Whatever in the world is agreeable and pleasant**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -255,9 +211,7 @@
 | bhayato | ind | adv | as fearful | √bhī･1 a (fear) |
 | dakkhissanti, | verb | fut.3rd.pl | they will see | √dis･1 a (see) |
 
-
 **they will see that as impermanent, as painful, as not-self, as a disease, as fearful**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -265,12 +219,9 @@
 | taṇhaṃ | noun | fem.acc.sg | craving, thirst |  |
 | pajahissanti. | verb | fut.3rd.pl | they will abandon | √hā･1 a (abandon) |
 
-
 **they will abandon craving.**
 
-
 13. [MN41](https://find.dhamma.gift/bw/mn/mn41.html) <br>atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -281,12 +232,9 @@
 | atthi | verb | pr.3rd.sg | there is |  |
 | hutaṃ | pp | nt.nom.sg | offered; lit. burnt in fire as an offering | √hu･1 a (offer as oblation) |
 
-
 **There is what is given, there is what is sacrificed, there is what is offered**
 
-
 14. [DN14.14](https://find.dhamma.gift/bw/dn/dn14.html) <br>seyyathā'pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -296,12 +244,9 @@
 | apagataṃ | adj | nt.nom.sg | free from; without | √gam･1 a (go) |
 | kāḷakā | noun | nt.abl.sg | from stain |  |
 
-
 **Just as clean cloth free from stain…**
 
-
 15. [AN11.15](https://find.dhamma.gift/bw/an/an11.15.html) (simpl) <br>mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -316,9 +261,7 @@
 | paricitāya | pp | fem.loc.sg loc abs | when accustomed; familiarized | √ci･5 nā (gather, accumulate) |
 | susamāraddhāya | adj | fem.loc.sg loc abs | when energetically undertaken | √rabh･1 a (begin) |
 
-
 **When the liberation of mind by means of goodwill has been practiced persistently, developed, made much of, mastered, made a basis, established, familiarized and energetically undertaken,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -326,12 +269,9 @@
 | ānisaṃsā | noun | masc.nom.pl | benefits |  |
 | pāṭikaṅkhā | adj | masc.nom.pl | can be anticipated; are to be expected | √kaṅkh･1 a (wish for) |
 
-
 **eleven benefits are to be expected.**
 
-
 16. [AN4.61](https://find.dhamma.gift/bw/an/an4.61.html)(simpl) <br>ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -346,9 +286,7 @@
 | dhammena | noun | masc.instr.sg | by righteous means | √dhar･1 a (hold, carry, endure) |
 | laddhehi | pp | masc.instr.pl | by obtained; gained | √labh･1 a (get) |
 
-
 **The noble disciple, [who] by means of wealth acquired by effort and exertion, completely accumulated by manual labor and by [much] sweat shed, righteous [wealth] obtained by righteous means,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -358,12 +296,9 @@
 | kattā | noun | masc.nom.sg | one who makes; does | √kar･7 o (do, make) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
-
 **is one who does these four worthy deeds.**
 
-
 17. [MN48](https://find.dhamma.gift/bw/mn/mn48.html) (simpl) <br>yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -381,12 +316,9 @@
 | samādhino | noun | masc.dat.sg | to perfect peace of mind; stability of mind | √dhā･1 a (place, support) |
 | saṃvattanikāni | adj | nt.nom.pl | conducive to; leading to | √vatt･1 a (be, proceed) |
 
-
 **Whichever [of] those virtues, which are unbroken, without cracks, not mottled, unblemished, liberating, commended by wise persons, irreproachable and conducive for stability of mind…**
 
-
 18. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -406,12 +338,9 @@
 | sabbaṃ | pron | nt.nom.sg | all |  |
 | rūpaṃ | noun | nt.nom.sg | materiality | √rūp･8 \*e (form, produce) |
 
-
 **Materiality in the past, future and present, internally or externally, coarse or fine, low or superior, [that] which [is] near or far away – all materiality ...**
 
-
 19. [MN64](https://find.dhamma.gift/bw/mn/mn64.html) <br>yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -425,9 +354,7 @@
 | saṅkhāragataṃ | adj | masc.acc.sg | connected with volitional formation |  |
 | viññāṇagataṃ | adj | masc.acc.sg | connected with consciousness |  |
 
-
 **Whatever in that regard there is connected with materiality, connected with feeling, connected with perception, connected with volitional formations, connected with consciousness,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -446,12 +373,9 @@
 | anattato | ind | adv | as not oneself |  |
 | samanupassati | verb | pr.3rd.sg [+acc] | sees; regards; considers | √dis･1 a (see) |
 
-
 **he sees those states as impermanent, as suffering, as illness, as a boil, as a dagger, as pain, as disease, as alien, as disintegrating, as empty, as not oneself.**
 
-
 20. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -466,9 +390,7 @@
 | ariyadhamme | noun | masc.loc.sg | in the noble teaching |  |
 | avinīto | adj | masc.nom.sg [+loc] | uneducated about; undisciplined in | √nī･1 a (lead, carry) |
 
-
 **In this regard, householder, an uninstructed ordinary person who has no regard for noble persons, [who is] not proficient in the noble teaching, [who is] uneducated about the noble teaching,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -482,12 +404,9 @@
 | attato | ind | adv | as self |  |
 | samanupassati | verb | pr.3rd sg | regards; considers | √dis･1 a (see) |
 
-
 **who has no regard for righteous men, [who is] not proficient in the teaching of righteous men, [who is] uneducated about the teaching of righteous men, regards form as self.**
 
-
 21. [MN137](https://find.dhamma.gift/bw/mn/mn137.html) <br>cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok'āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -503,12 +422,9 @@
 | paṭilābhato | noun | masc.abl.sg | as a personal acquisition | √labh･1 a (get) |
 | samanupassato | prp | masc.dat.sg | for one perceiving; seeing | √dis･1 a (see) |
 
-
 **For one perceiving acquisition as a personal acquisition of forms perceivable by the eye, related to worldly pleasure, wished for, desirable, pleasant, [and] delightful …**
 
-
 22. [SN11.3](https://find.dhamma.gift/bw/sn/sn11.3.html) <br>svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -523,12 +439,9 @@
 | veditabbo | ptp | masc.nom.sg | to be experienced by; lit. to be known | √vid･8 \*e (know, sense, feel) |
 | viññūhi | noun | masc.instr.pl | by wise persons | √ñā･5 nā (know) |
 
-
 **The teaching by the Blessed One [is] well taught, directly visible, timeless, inviting one to come and see, practical, [and is] to be experienced individually by wise persons.**
 
-
 23. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) (simpl) <br>evam'eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -543,12 +456,9 @@
 | parihārikena | adj | masc.instr.sg | taking care of; lit. carrying around | √har･1 a (carry) |
 | piṇḍapātena | noun | masc.instr.sg | with alms food |  |
 
-
 **In the same way, a monk is content with robe taking care of the body, [and] with alms food taking care of the stomach.**
 
-
 24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -564,9 +474,7 @@
 | ṭhite | pp | nt.loc.sg [loc abs] | when stabilized | √ṭhā･1 a (stand) |
 | āneñjappatte | adj | nt.loc.sg [loc abs] | when imperturbable |  |
 
-
 **When [his] mind is thus collected, [when it] has become pure, bright, spotless, without defilement, pliable workable, stabilized, [and] imperturbable,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -574,12 +482,9 @@
 | cittaṃ | noun | nt.acc.sg | mind | √cit･8 \*e (think, intend) |
 | abhininnāmeti | verb | pr.3rd.sg | inclines; bends towards | √nam･1 \*e (bend) |
 
-
 **he inclines [his] mind for the knowledge from the recollection of previous lives.**
 
-
 25. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam'iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -592,9 +497,7 @@
 | ñāṇaṃ | noun | nt.nom.sg | knowledge | √ñā･5 nā (know) |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 
-
 **Being disenchanted, he becomes dispassionate. On account of the dispassion, he is released. When liberated, there is the knowledge, "[the mind is] liberated."**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -603,12 +506,9 @@
 | vusitaṃ | pp | nt.nom.sg | completed; finished; lit. lived | √vas･1 a (live) |
 | brahmacariyaṃ | noun | nt.nom.sg | spiritual path; holy life |  |
 
-
 **[He understands:] "Birth is exhausted, the holy life is completed…"**
 
-
 26. [SN12.70](https://find.dhamma.gift/bw/sn/sn12.70.html) <br>tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -622,15 +522,12 @@
 | āyatiṃ | ind | adv | in the future |  |
 | saṁvarāya | noun | masc.dat.sg | for the sake of restraint | √var･1 a (cover, dress, restrain) |
 
-
 **Therefore, Venerable Sir, may the Blessed One accept my fault as fault, for the sake of [my] restraint in the future.**
-
 
  
 ## Class 11 Extra
 
 1. [DHP012](https://find.dhamma.gift/bw/dhp/dhp1-20.html) (simpl) <br>sāraṃ ca sārato ñatvā, asāraṃ ca asārato, te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
-
 
 | Pāli | POS | Grammar | English | Root |
 |---|---|---|---|---|
@@ -645,12 +542,9 @@
 | adhigacchanti | verb | pr.3rd.pl | they attain; acquire | √gam･1 a (go) |
 | sammāsaṅkappa-gocarā | adj, comp | masc.nom.pl | with domain in the right intention |  |
 
-
 **Having known the essential as essential and the inessential as inessential, they attain the essence, having domain in the right intention.**
 
-
 2. [TH262](https://find.dhamma.gift/bw/tha/tha19.html) <br>satthā ca me lokaṃ imaṃ adhiṭṭhahi, <br>aniccato addhuvato asārato, <br>pakkhanda maṃ citta jinassa sāsane, <br>tārehi oghā mahatā suduttarā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -664,9 +558,7 @@
 | addhuvato | ind | adv | as unstable |  |
 | asārato | ind | adv | as insubstantial | √sar･1 a (go, flow) |
 
-
 **And the teacher determined this world for me as impermanent, unstable, and insubstantial.**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -680,12 +572,9 @@
 | mahatā | adj | masc.abl.sg | great | √mah×1 a (increase) |
 | suduttarā | adj | masc.abl.sg | extremely difficult to cross | √tar･1 a (cross) |
 
-
 **O mind, make me leap forth into the teachings of the conqueror; save me from the great torrent, extremely difficult to cross.**
 
-
 3. [MN22](https://find.dhamma.gift/bw/mn/mn22.html) <br>attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yam'pi taṃ diṭṭhiṭṭhānaṃ, — so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tath'eva ṭhassāmī'ti, — nanu ayaṃ, bhikkhave, kevalo paripūro bāladhammo'ti?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -697,9 +586,7 @@
 | thetato | ind | adv | as reliable; stable | √ṭhā･1 a (stand) |
 | anupalabbhamāne | prp | masc.loc.sg [loc abs] | since not being found; being nonexistent [lit: not being got] | √labh･1 ya (get) |
 
-
 **"Monks, since oneself and what belongs to oneself is not being found as true and reliable,**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -721,9 +608,7 @@
 | tath'eva | ind | adv+ind | in the same way |  |
 | ṭhassāmī'ti | verb | fut.1st.sg | I will remain" | √ṭhā･1 a (stand) |
 
-
 **[then] the ground for views, [namely,] ‘that which the world [is] the self (world = self); after death I will be permanent, enduring, eternal; with an unchanging nature I will remain in the same way for ever and ever' –**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -734,12 +619,9 @@
 | paripūro | adj | masc.nom.sg | full; complete | √pūr･1 a (fill, fulfil) |
 | bāladhammo'ti | noun | masc.nom.sg | doctrine of fools" |  |
 
-
 **wouldn't this, monks, [be] a totally complete doctrine of fools?"**
 
-
 4. [SN6.2](https://find.dhamma.gift/bw/sn/sn6.2.html) <br>ye ca atītā sambuddhā, ye ca buddhā anāgatā. <br>yo ca eta'r'ahi sambuddho, bahunnaṃ sokanāsano.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -758,12 +640,9 @@
 | bahunnaṃ | adj | masc.dat.pl | for many | √bah×1 a (increase) |
 | sokanāsano | adj | masc.nom.sg | dispeller of sorrow |  |
 
-
 **The Awakened Ones who are past, and the Buddhas not yet come and the present Awakened One [are] dispeller[s] of sorrow for many.**
 
-
 5. [DHP086](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl) <br>ye ca kho sammā-akkhāte dhamme dhammaṃ anuvattino, te janā pāraṃ essanti, maccuno dheyyaṃ suduttaraṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -783,12 +662,9 @@
 | dheyyaṃ | noun | nt.nom.sg | the realm of; the sphere of | √dhā･1 a (place, support) |
 | suduttaraṃ | adj | nt.nom.sg | extremely difficult to cross | √tar･1 a (cross) |
 
-
 **Indeed, whoever acting according to the teaching in the perfectly declared teaching, those people will go to the far shore; the realm of death, extremely difficult to cross.**
 
-
 6. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam'uttamaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -805,11 +681,4 @@
 | maṅgalam | noun | nt.nom.sg | blessing | √maṅg×1 a (be auspicious) |
 | uttamaṃ | adj | nt.nom.sg | ultimate; supreme |  |
 
-
 **A mind of [a person] who, touched by worldly matters, is not disturbed, [but rather] free from sadness, untainted, at peace – this [is] the ultimate blessing.**
-
-<div class="nav-links">
-  <a href="../10_class/" class="prev">← Class 10 Exercises</a>
-  <a href="../12_class/" class="next">Class 12 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Beginner+P%C4%81%E1%B8%B7i+Course+%28BPC%29&entry.390426412=bpc_key%2F11_class" target="_blank">Provide feedback on this page</a></div>
-</div>

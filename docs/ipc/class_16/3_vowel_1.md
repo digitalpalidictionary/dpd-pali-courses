@@ -1,32 +1,33 @@
-***
+
+
 # Elision of a Vowel
-***
+
 Vowel elision is of two types, **forward** and **backwards** elision.
-***
+
 Think of a *Pac-Man* going forward, ![](../../assets/images/pacman-forward.png)it eats the letter in front of it. This is called **forward elision**.
-***
+
 Think of a *Pac-Man* going backwards,![](../../assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and very common in Pāli.
-***
+
 #### Possibility \#1
 
 a vowel before another vowel is sometimes elided
-***
+
 **ajja![](../../assets/images/pacman-backwards.png)uposatho \> ajjuposatho**
-***
+
 **a![](../../assets/images/pacman-backwards.png)u \> u**
-***
+
 This means:
-***
+
 when a word ends in **a**,
-***
+
 and the next word starts with **u**,
-***
+
 the **a** can be elided,
-***
+
 and only the **u** will remain.
-***
+
 In Kaccāyana this is called (12) **sarā sare lopaṃ**
-***
+
 **a![](../../assets/images/pacman-backwards.png)a \> a**
 
 |  |  |  |
@@ -49,7 +50,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | sen**a** | **ā**sana | sen**ā**sana |
 | bed | seat | lodging |
 
-***
 **a![](../../assets/images/pacman-backwards.png)i \> i**
 
 |  |  |  |
@@ -63,7 +63,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | vīriy**a** | **i**ndriya | vīriy**i**ndriya |
 | energy | faculty | faculty of energy |
 
-***
 **a![](../../assets/images/pacman-backwards.png)u \> u**
 
 |  |  |  |
@@ -93,7 +92,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | udak**a** | **o**rohaka | udak**o**rohaka |
 | water | descender | ritual bather |
 
-***
 **ā![](../../assets/images/pacman-backwards.png)ā \> ā**
 
 |  |  |  |
@@ -107,7 +105,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | m**ā** | **ā**yasmā | m**ā**yasmā |
 | do not | venerable | venerable, don’t! |
 
-***
 **ā![](../../assets/images/pacman-backwards.png)i \> i**
 
 |  |  |  |
@@ -119,7 +116,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | paññ**ā** | **i**ndriya | paññ**i**ndriya |
 | wisdom | faculty | faculty of wisdom |
 
-***
 **i![](../../assets/images/pacman-backwards.png)i \> i**
 
 |  |  |  |
@@ -131,7 +127,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | sat**i** | **i**ndriya | sat**i**ndriya |
 | mindfulness | faculty | faculty of mindfulness |
 
-***
 **i![](../../assets/images/pacman-backwards.png)a \> a**
 
 |  |  |  |
@@ -139,7 +134,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | icchām**i** | **a**haṃ | icchām**a**haṃ |
 | I wish | I | I wish |
 
-***
 **i![](../../assets/images/pacman-backwards.png)e \> e**
 
 |  |  |  |
@@ -153,7 +147,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | sant**i** | **e**ttha | sant**e**ttha |
 | they are | here | here there are |
 
-***
 **i![](../../assets/images/pacman-backwards.png)o \> o**
 
 |  |  |  |
@@ -161,7 +154,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | hir**i** | **o**ttappa | hir**o**ttappa |
 | conscience | shame in wrongdoing | conscience and concern |
 
-***
 **ī![](../../assets/images/pacman-backwards.png)u \> u**
 
 |  |  |  |
@@ -169,7 +161,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | bhikkhun**ī** | **u**passaya | bhikkhun**u**passaya |
 | nun | residence | nun’s residence |
 
-***
 **u![](../../assets/images/pacman-backwards.png)a \> a**
 
 |  |  |  |
@@ -177,7 +168,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | n**u** | **a**jja | n**a**jja |
 | ? | today | today? now? |
 
-***
 **u![](../../assets/images/pacman-backwards.png)ā \> ā**
 
 |  |  |  |
@@ -189,7 +179,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | sādh**u** | **ā**vuso | sādh**ā**vuso |
 | that is good | friend | that is good, friend |
 
-***
 **u![](../../assets/images/pacman-backwards.png)u \> u**
 
 |  |  |  |
@@ -206,7 +195,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | sac**e** | **a**ssa | sac**a**ssa |
 | if | it could be | if it could be |
 
-***
 **e![](../../assets/images/pacman-backwards.png)ā \> ā**
 
 |  |  |  |
@@ -214,7 +202,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | m**e** | **ā**si | m**ā**si |
 | my | it was | it was my |
 
-***
 **e![](../../assets/images/pacman-backwards.png)e \> e**
 
 |  |  |  |
@@ -228,7 +215,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | c**e** | **e**va | c**e**va |
 | if | only | only if |
 
-***
 **o![](../../assets/images/pacman-backwards.png)a \> a**
 
 |  |  |  |
@@ -236,7 +222,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | tay**o** | **a**ssu | tay**a**ssu |
 | three | they may be | three things may be |
 
-***
 **o![](../../assets/images/pacman-backwards.png)u \> u**
 
 |  |  |  |
@@ -246,7 +231,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | tat**o** | **u**ṭṭhāya | tat**u**ṭṭhāya |
 | from that | arising | arising from that |
 
-***
 **o![](../../assets/images/pacman-backwards.png)e \> e**
 
 |  |  |  |
@@ -254,15 +238,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | kut**o** | **e**ttha | kut**e**ttha |
 | from where? | here | what in this regard? |
 
-***
 what is **Possibility \#1** ?
-***
-a vowel before another vowel is sometimes elided
-***
 
-<div class="nav-links">
-  <a href="../2_vowel/" class="prev">← Vowel Sandhi (sara-sandhi)</a>
-  <a href="../4_vowel_2/" class="next">Possibility \#2 →</a>
-  <div class="cross"><a href="../../../ipc_ex/16_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_16%2F3_vowel_1" target="_blank">Provide feedback on this page</a></div>
-</div>
+a vowel before another vowel is sometimes elided

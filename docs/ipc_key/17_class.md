@@ -2,7 +2,6 @@
 
 **Join the following words**
 
-
 |  |  |
 |---|---|
 | bahu + suto | bahussuto |
@@ -20,9 +19,7 @@
 | anu + ā + √su + a + ti | anvāssavati |
 | pati + √i + \*a | paccayā |
 
-
 **Disjoin the following words**
-
 
 |  |  |
 |---|---|
@@ -44,16 +41,11 @@
 | paṭicchāda | pati + √chad + \*a |
 | sallakkhetvā | saṃ + √lakkh + \*e + tvā |
 
-
-
 **exercises**
 
 **Break up all the sandhis in the following sentences.**
 
-
-
 1. [MN105](https://find.dhamma.gift/bw/mn/mn105.html)<br>evam'eva kho, sunakkhatta, ṭhānam'etaṃ vijjati yaṃ idh'ekacco purisapuggalo lok'āmis'ādhimutto assa.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -79,12 +71,9 @@
 | \#adhimutto | pp | masc.nom.sg | focused on | √muc･2 ṃa (release, free) |
 | assa | verb | opt.3rd.sg | would be | √as･1 a (be) |
 
-
 **In the same way, Sunakkhatta, is it possible that here an individual person would be focused on material pleasure.**
 
-
 2. [MN22](https://find.dhamma.gift/bw/mn/mn22.html)<br>tassa purisassa uttiṇṇassa pāraṅ'gatassa evam'assa – bahukāro kho me ayaṃ kullo, im'āhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,9 +87,7 @@
 | \#evaṃ | ind | emph | thus |  |
 | \#assa | verb | opt.3rd.sg | he would | √as･1 a (be) |
 
-
 **When that person had crossed over and reached the far shore, he would think thus:**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -124,12 +111,9 @@
 | pāraṃ | noun | nt.acc.sg | to the far shore |  |
 | uttiṇṇo | pp | masc.nom.sg | crossed over | √tar･1 a (cross) |
 
-
 **This raft, indeed, [was] extremely helpful for me; being supported by this raft [and] exerting myself with (my) hands and (my) feet, I safely crossed over to the far shore.**
 
-
 3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>ev'āhaṁ ajānanto 'evarūpaṁ sukhaṁ vedanaṁ pajahathā'ti vadeyyaṁ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -147,12 +131,9 @@
 | \#iti | ind | quotation mark | "" |  |
 | vadeyyaṁ | verb | opt.1st.p.sg (reflex) | I myself should say | √vad･1 a (say, speak) |
 
-
 **Not knowing [this], I could myself [then] say, "abandon this kind of pleasant feeling".**
 
-
 4. [DHP334](https://find.dhamma.gift/bw/dhp/dhp334-359.html)<br>phalam'icchaṃ'va vanasmi vānaro.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -163,12 +144,9 @@
 | vanasmi[ṃ] | noun | nt.loc.sg | in a forest grove |  |
 | vānaro | noun | masc.nom.sg | a monkey |  |
 
-
 **[like] a monkey wishing only for fruit in a forest grove.**
 
-
 5. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr)<br>coro'si, bālo'si, mūḷho'si, theno'sī'ti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayam'pi pārājiko hoti asaṃvāso.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -202,12 +180,9 @@
 | \#na | prefix |  | not |  |
 | \#saṃvāso | noun | masc.nom.sg | living together; co-habitation | √vas･1 a (live) |
 
-
 **"You are a robber! You are a fool! You are a deluded man! You are a thief!", a monk, taking what has not been given of such a kind, this one also is defeated, unaffiliated.**
 
-
 6. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html)<br>tatiyam'pi kho āyasmā ānando abhikkantāya rattiyā ... yena bhagavā ten'añjaliṃ paṇāmetvā bhagavantaṃ etad'avoca.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -230,12 +205,9 @@
 | \#etad | pron | nt.acc.sg | this |  |
 | \#avoca | verb | aor.3rd.sg | said | √vac･1 a (say, speak) |
 
-
 **Again, for the third time, as the night was (already) advanced, the venerable Ānanda, holding (hands forward in) añjali towards the Blessed One, said this to the Blessed one:**
 
-
 7. [SN15.1](https://find.dhamma.gift/bw/sn/sn15.1.html)<br>yāvañ'c'idaṃ, bhikkhave, alam'eva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -258,12 +230,9 @@
 | \#vimuccituṃ | verb | inf | to become free | √muc･2 ya (release, free) |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"In this regard, monks, it is quite enough to become disenchanted in regard to all formations, enough to become detached [from them], enough to become free [from them]."**
 
-
 8. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html)<br>etādisāni katvāna, sabbattha'm'aparājitā. sabbattha sotthiṃ gacchanti, taṃ tesaṃ maṅgalam'uttaman'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -284,12 +253,9 @@
 | \#uttamaṃ | adj | nt.nom.sg | highest |  |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"Having done [things] of this kind, unconquered everywhere, they go everywhere safely; this is for them highest blessing"**
 
-
 9. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi m'ānubyañjanaggāhī.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -314,12 +280,9 @@
 | \#anubyañjana | noun | nt. | the detail; feature | √añj･8 \*e (distinguish) |
 | \#gāhī | adj | masc.nom.sg (+acc) | [be one] grasping after | √gah･6 ṇhā (grasp) |
 
-
 **Come, monk, be one who has the doors guarded in regard to the sense faculties; having seen a form with the eye, do not be one enticed by appearances, do not be one grasping after features.**
 
-
 10. [DHP185](https://find.dhamma.gift/bw/dhp/dhp179-196.html)<br>anūpavādo anūpaghāto, pātimokkhe ca saṃvaro
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -333,13 +296,9 @@
 | ca | ind | conj | and |  |
 | saṃvaro | noun | masc.nom.sg<br>(+loc) | restraint | √var･1 a (cover, dress, restrain) |
 
-
 **Not insulting, not harming; and restraint according to the disciplinary code.**
 
-
-
 11. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>yamahaṃ bhagavato dhammaṃ sutvā ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyyan'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -360,12 +319,9 @@
 | \#vihareyyaṃ | verb | opt.reflx.1st.sg | I could live | √har･1 a (live) |
 | \#iti | ind | - | "" |  |
 
-
 **Having heard the Buddha's teaching, I could live alone, in solitude, heedful, ardent, with resolute determination.**
 
-
 12. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>sa kho so, bhikkhave, ariyasāvako iti paṭisañcikkhati, na kho ahaññeveko jarādhammo jaraṃ anatīto
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -386,12 +342,9 @@
 | jaraṃ | noun | fem.acc.sg | old age | √jar･1 a (age) |
 | anatīto | pp | masc.nom.sg | not passed, not overcome, subject to | √i･1 a (come, go) |
 
-
 **Monks, this being the case, a disciple of the Buddha reflects in this way, "I am not the only (one) who is of the nature to get old, who has not overcome aging."**
 
-
 13. [SN22.95](https://find.dhamma.gift/bw/sn/sn22.95.html) <br>kiñhi siyā, bhikkhave, pheṇapiṇḍe sāro?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -405,12 +358,9 @@
 | \#piṇḍe | noun | masc.loc.sg | lump |  |
 | sāro | noun | masc.nom.sg | essence; substance | √sar･1 a (go, flow) |
 
-
 **Monks, indeed what substance could there be in a lump of foam?**
 
-
 14. [MN11](https://find.dhamma.gift/bw/mn/mn11.html) <br>idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -427,12 +377,9 @@
 | \#abhinanduṃ | verb | aor.3rd.pl +acc | approved (of); were pleased (with) | √nand･1 a (delight, enjoy) |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **The Blessed One said this. Those monks were delighted and pleased with the utterance/the words of the Blessed One.**
 
-
 15. [DHP2](https://find.dhamma.gift/bw/dhp/dhp1-20.html) <br>manopubbaṅgamā dhammā, manoseṭṭhā manomayā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -448,12 +395,9 @@
 | \#mano | noun | masc | mind | √man･3 ya (think) |
 | \#mayā | adj | masc.nom.pl | made by | √mā･5 nā (measure) |
 
-
 **All mental phenomena are preceded by mind, ruled by mind and created by mind.<br>(Buddharakkhita): Mind precedes all mental states. Mind is their chief, they are all mind-wrought.**
 
-
 16. [AN3.70](https://find.dhamma.gift/bw/an/an3.69.html) <br>yadapi, bhikkhave, alobho tadapi kusalamūlaṃ. yadapi aluddho abhisaṅkharoti kāyena vācāya manasā tadapi kusalaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -479,12 +423,9 @@
 | \#api | ind | - | even, just |  |
 | kusalaṃ | noun | nt.nom.sg | wholesome |  |
 
-
 **Whatever, monks, is not greed, that is a wholesome root. Whatever a non-greedy person creates by body, by speech or by mind, that too is wholesome.<br>(Sujato) Contentment is a root of the skilful. When a contented person chooses to act by way of body, speech, or mind, that too is skilful.**
 
-
 17. [MN19](https://find.dhamma.gift/bw/mn/mn19.html) <br>yaññadeva, bhikkhave, bhikkhu bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti cetaso.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -504,12 +445,9 @@
 | hoti | verb | pr.3rd.sg | it is; becomes | √hū･1 a (be) |
 | cetaso | noun | masc.gen.sg | of mind | √cit･8 \*e (think, intend) |
 
-
 **Whatever a monk thinks and ponders about often, such is the inclination of his mind.**
 
-
 18. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>api cāhaṃ, āvuso, imasmiṃyeva byāmamatte kaḷebare sasaññimhi samanake lokañca paññāpemi lokasamudayañca lokanirodhañca lokanirodhagāminiñca paṭipadan'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -548,12 +486,9 @@
 | \#paṭipadaṃ | noun | fem.acc.sg | path of practice, way | √pad･3 ya (go, step) |
 | \#iti | ind | - | "" |  |
 
-
 **I also declare, friends, in this very fathom length body with its perception and intelligence (is) the world, the source of the world, the end of the world, and the path of practice leading to the end of the world.**
 
-
 19. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati, 'idappaccayā avijjā'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -572,16 +507,11 @@
 | \#avijjā | noun | fem.nom.sg | ignorance | √vid･3 ya (know, understand) |
 | \#iti | ind | - | "" |  |
 
-
 **Even if it is spoken this way, monks, it is still evident: "Ignorance is on account of a specific condition".**
-
-
-
 
 ## Class 17 Extra Examples
 
 1. [SN12.25](https://find.dhamma.gift/bw/sn/sn12.25.html)<br>sāmaṃ vā taṃ, ānanda, kāyasaṅkhāraṃ abhisaṅkharoti, yaṃpaccay'āssa taṃ uppajjati ajjhattaṃ sukhadukkhaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -604,12 +534,9 @@
 | \#sukha [ca] | noun | nt. | happiness; pleasure [and] | √sukh･1 a (please, be comfortable) |
 | \#dukkhaṃ | noun | nt.nom.sg | sorrow; pain; discomfort | √dukkh･1 a (be painful) |
 
-
 **[Either] by himself he generates that bodily formation on account of which pleasure and pain arise for him internally or…**
 
-
 2. [MN49](https://find.dhamma.gift/bw/mn/mn49.html)<br>ekam'id'āhaṃ, bhikkhave, samayaṃ ukkaṭṭhāyaṃ viharāmi subhagavane sālarājamūle.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -629,12 +556,9 @@
 | \#rāja | noun | masc. | king | √rāj･1 a (rule, shine) |
 | \#mūle | noun | masc.loc.sg | at the root | √mūl･1 a (support) |
 
-
 **On this one occasion, monks, I was dwelling in the blessed wood, in Ukkaṭṭhā, at the root of a king of sāl trees.**
 
-
 3. [DN13.8](https://find.dhamma.gift/bw/dn/dn13.html)<br>iti uddham'adho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjhena pharitvā viharati
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -669,12 +593,9 @@
 | pharitvā | verb | abs | having suffused; having pervaded | √phar･1 a (suffuse, pervade) |
 | viharati | verb | pr.3rd.sg | he dwells | vi√har･1 a (live) |
 
-
 **Thus, having suffused the world – above, below, across, everywhere, to all beings – with a mind filled with goodwill, [that is] vast, exalted, immeasurable, free of ill-will, [and] not with malevolence, he dwells.**
 
-
 4. [ITI87](https://find.dhamma.gift/bw/it/it.html) <br>sa ve vitakkāni vicāritāni, sameti vuṭṭhī'va rajaṃ samūhataṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -689,12 +610,9 @@
 | rajaṃ | noun | masc.acc.sg | dust | √raj･1 a (colour) |
 | samūhataṃ | pp | masc.acc.sg | has removed; eradicated | saṃ+ud√han･1 a (strike, kill) |
 
-
 **One truly calms investigated thoughts like rainfall that has removed dust.**
 
-
 5. [MN148](https://find.dhamma.gift/bw/mn/mn148.html)<br>attā me uppajjati ca veti cā'ti icc'assa evam'āgataṃ hoti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -714,12 +632,9 @@
 | \#agataṃ | pp | nt.nom.sg | come | √gam･1 a (go) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 
-
 **…and so he would thus conclude (lit: and so to him, it is thus concluded), "my self arises and disappears."**
 
-
 6. VV 52<br>icc'evaṃ vippalapantiṃ, phandamānaṃ tato tato.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -730,13 +645,9 @@
 | phandamānaṃ | prp | fem.acc.sg | trembling; quivering | √phand･1 a (shake, quiver) |
 | tato tato | idiom | ind | from this or that; on account of this or that |  |
 
-
 **thus like this chattering, trembling on account of this or that.**
 
-
-
 7. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html). <br>dutiyampi kho bhagavā tuṇhī ahosi.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -748,12 +659,9 @@
 | tuṇhī | ind | - | silent |  |
 | ahosi | verb | aor.3rd.sg | he was | √hū･1 a (be) |
 
-
 **For the second time, the Blessed One was silent.**
 
-
 8. [AN4.45](https://find.dhamma.gift/bw/an/an4.45.html) <br>bhūtapubbāhaṃ, bhante, rohitasso nāma isi ahosiṃ bhojaputto iddhimā vehāsaṅgamo.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -773,11 +681,4 @@
 | \#vehāsaṃ | noun | masc.acc.sg | through the sky |  |
 | \#gamo | adj | masc.nom.sg | going | √gam･1 a (go) |
 
-
 **Once upon a time, sir, I was a sage called Rohitassa, son of Bhoja, a sky walker with psychic powers.**
-
-<div class="nav-links">
-  <a href="../16_class/" class="prev">← Class 16 Exercises</a>
-  <a href="../18_class/" class="next">Class 18 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F17_class" target="_blank">Provide feedback on this page</a></div>
-</div>

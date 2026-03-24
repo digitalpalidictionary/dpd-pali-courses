@@ -1,65 +1,57 @@
 # Possibility \#4
-***
-The **o** in **so,** **eso & n’eso** may be changed to **a**
-***
-when followed by a consonant
-***
-for the sake of meter in verse.
-***
-In Kaccāyana this is called (27) **lopañ’ca tatr’ākāro.**
-***
-e.g. atha nibbindati dukkhe, **esa** **m**aggo visuddhiyā.
-***
-([DHP277](https://find.dhamma.gift/bw/dhp/dhp273-289.html))
-***
-eko araññe viharam’appamatto,
-***
-**sa m**accudheyyassa tareyya pāran’ti.
-***
-([SN1.38](https://find.dhamma.gift/bw/sn/sn1.38.html))
-***
-pāpāni parivajjeti,
-***
-**sa m**unī tena so muni
-***
-([DHP269](https://find.dhamma.gift/bw/dhp/dhp256-272.html))
-***
-na vedagū diṭṭhiyāyako na mutiyā,
-***
-**sa m**ānam’eti na hi tammayo so.
-***
-([SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html))
-***
-**esa m**aggo ujumaggo,
-***
-**esa m**aggo anuttaro.
-***
-([DN19.12](https://find.dhamma.gift/bw/dn/dn19.html))
-***
-sabbe saṅkhārā dukkhā’ti,
-***
-yadā paññāya passati.
-***
-atha nibbindati dukkhe,
-***
-**esa m**aggo visuddhiyā.
-***
-([DHP278](https://find.dhamma.gift/bw/dhp/dhp273-289.html))
-***
-gāth’ābhigītaṃ me abhojaneyyaṃ,
-***
-sampassataṃ brāhmaṇa **n’esa d**hammo.
-***
-([SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html))
-***
-**Counter-examples:**
-***
-All the normal cases when the word remains **so**, **eso**, or **neso**
-***
 
-<div class="nav-links">
-  <a href="../5_cons_3/" class="prev">← Possibility \#3</a>
-  <a href="../7_cons_5/" class="next">Possibility \#5 →</a>
-  <div class="cross"><a href="../../../ipc_ex/17_class/">Go to Exercises</a></div>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc%2Fclass_17%2F6_cons_4" target="_blank">Provide feedback on this page</a></div>
-</div>
+The **o** in **so,** **eso & n’eso** may be changed to **a**
+
+when followed by a consonant
+
+for the sake of meter in verse.
+
+In Kaccāyana this is called (27) **lopañ’ca tatr’ākāro.**
+
+e.g. atha nibbindati dukkhe, **esa** **m**aggo visuddhiyā.
+
+([DHP277](https://find.dhamma.gift/bw/dhp/dhp273-289.html))
+
+eko araññe viharam’appamatto,
+
+**sa m**accudheyyassa tareyya pāran’ti.
+
+([SN1.38](https://find.dhamma.gift/bw/sn/sn1.38.html))
+
+pāpāni parivajjeti,
+
+**sa m**unī tena so muni
+
+([DHP269](https://find.dhamma.gift/bw/dhp/dhp256-272.html))
+
+na vedagū diṭṭhiyāyako na mutiyā,
+
+**sa m**ānam’eti na hi tammayo so.
+
+([SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html))
+
+**esa m**aggo ujumaggo,
+
+**esa m**aggo anuttaro.
+
+([DN19.12](https://find.dhamma.gift/bw/dn/dn19.html))
+
+sabbe saṅkhārā dukkhā’ti,
+
+yadā paññāya passati.
+
+atha nibbindati dukkhe,
+
+**esa m**aggo visuddhiyā.
+
+([DHP278](https://find.dhamma.gift/bw/dhp/dhp273-289.html))
+
+gāth’ābhigītaṃ me abhojaneyyaṃ,
+
+sampassataṃ brāhmaṇa **n’esa d**hammo.
+
+([SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html))
+
+**Counter-examples:**
+
+All the normal cases when the word remains **so**, **eso**, or **neso**

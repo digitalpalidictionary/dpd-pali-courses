@@ -9,10 +9,11 @@ tests/site/
 site/
 .env
 .venv/
-scripts/archive/
+archive/
 
 
 # Python build artifacts
 *.egg-info/
 pdf_exports/
 .coverage
+docx_exports/

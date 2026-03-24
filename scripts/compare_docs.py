@@ -1,3 +1,7 @@
+"""
+Comparison tool to identify changes between current Markdown files and a past Git commit.
+Helps detect potential data loss or regression by showing diffs of course content.
+"""
 import os
 import subprocess
 import re

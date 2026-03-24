@@ -2,22 +2,13 @@
 
 **Find all the secondary derivatives and show their construction.**
 
-
-
 **e.g. taddhita:**
-
-
 
 **ta + [d] + hita**
 
-
-
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-
-
 1. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html)<br>**cātummahārājikānaṃ** devānaṃ saddaṃ sutvā **tāvatiṃsā** devā saddam'anussāvesuṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -35,12 +26,9 @@
 | \#saddaṃ | noun | masc acc sg | sound, noise |  |
 | \#anussāvesuṃ | aor | aor 3rd pl | announced (to); proclaimed (to) |  |
 
-
 **Having heard the sound of the deities belonging to the Four Great Kings the deities belonging to the (Heaven of the) Thirty Three proclaimed aloud.**
 
-
 2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>tato **pāsādikaṃ** āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā **tela**dhārā'va, ahosi iriyāpatho.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -61,12 +49,9 @@
 | \#iriyāya | noun | fem.gen.sg. | conduct, deportment |  |
 | \#patho | noun | masc.nom.sg. | way |  |
 
-
 **Therefore (their) walking, eating and practice was inspiring confidence, (their) deportment was as smooth as a stream of oil.**
 
-
 3. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>yā sā vācā nelā kaṇṇasukhā **pemanīyā** **hadayaṅ**'gamā **porī** bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -79,9 +64,7 @@
 | \#sukhā | adj | fem.nom.sg. | pleasant, easy |  |
 | pemanīyā | adj | fem.nom.sg. | endearing; friendly | √pī + \*ma + anīya |
 
-
 ***pema + anīya***
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -90,9 +73,7 @@
 | \#gamā | adj. | fem.nom.sg. | going; able to go | √gam + a |
 | porī | adj | fem.nom.sg. | urbane; polite |  |
 
-
 ***pura* + *\*ī***
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -113,12 +94,9 @@
 | bhāsitā | noun | mas.nom.sg | speaker; who talks (about) | √bhās + ita |
 | hoti | verb | pres.3rd.sg. | becomes | √hū + a + ti |
 
-
 **He is a speaker of such words that are gentle, pleasing to the ear, and lovable, that go to the heart, are courteous, desired by many and agreeable to many.**
 
-
 4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>**vevaṇṇiy**'amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ[^33].
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -132,12 +110,9 @@
 | abhiṇhaṃ | adv. |  | constantly; frequently |  |
 | paccavekkhitabbaṃ | ptp | nt.nom.sg. | should be contemplated; should be reflected (on) |  |
 
-
 **"I have come to a change of social order", should be frequently reflected on by a renunciant.**
 
-
 5. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā **dvayena** vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -161,29 +136,17 @@
 | \#vūpakāsena | noun | masc.instr.sg (+gen) | isolation; withdrawal |  |
 | ca | ind | conj | and |  |
 
-
 **Monks, [when] one has heard the doctrine from (lit: of) monks of such quality, he dwells in seclusion, withdrawn by means of two ways: bodily seclusion and mental seclusion.**
-
-
 
 **[^33]: The syntax of the sentence is a little tricky. The (content of the) ti-clause is the grammatical subject for the ptp, which stands in the position of the predicate. The logical subject or agent is pabbajita in the instr.**
 
-
-
 **Cf. Māgadhabhāsā, p. 128: "The future passive participle can also function as a verb, with the same syntactical function as a finite verb (Oberlies, 2019: 571, f.n. 1); in fact, as "a rule it is employed as a sentence verb," perhaps there being "a tendency to use tabba with the gerundive [i.e. future passive participle] functioning as sentence verb and anīya in other cases" (Hendriksen, 1944: 11–2)."**
-
-
 
 **[^34]: The DPD understands an adj. rūpa, which I have not seen elsewhere. PED and MW take rūpa here ifc. Cf. PED and MW s.v. The adjectival function of the compound is due to the bahubbīhi.**
 
-
-
 **MW: "rūpa n. (perhaps connected with varpa, varpas; ifc. f.(ā), rarely (ī)) any outward appearance or phenomenon or colour (often pl.), form, shape, figure, RV. \&c. \&c. (rūpeṇa ifc. in the form of ; rūpam-√kṛ or √bhū, to assume a form; often ifc. = 'having the form or appearance or colour of', 'formed or composed of', 'consisting of', 'like to'; sometimes used after an adj. or p.p. to emphasize its meaning or almost redundantly cf. ghora-r°; or connected with a verb, e.g. pacati-rūpam, he cooks very well cf. Pāṇ. viii, 1, 57)"**
 
-
-
 6. [DN2.4](https://find.dhamma.gift/bw/dn/dn2.html) <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -200,42 +163,32 @@
 | dvāraṃ | noun | nt.nom.sg | door, gate |  |
 | sovaṇṇamayaṃ | adj | nt.nom.sg | made of gold |  |
 
-
 **suvaṇṇa + \*a<br>sovaṇṇa + maya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | ekaṃ | adj | nt.nom.sg | one |  |
 | rūpiyamayaṃ | adj | nt.nom.sg | made of silver |  |
 
-
 **rūpa + \*iya<br>rūpiya + maya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | ekaṃ | adj | nt.nom.sg | one |  |
 | veḷuriyamayaṃ | adj | nt.nom.sg | made of cats eye |  |
 
-
 **veḷuriya + maya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | ekaṃ | adj | nt.nom.sg | one |  |
 | phalikamayaṃ | adj | nt.nom.sg | made of crystal |  |
 
-
 **phalika + maya**
-
 
 **Ānanda, in Kusāvatī the royal capital, there were four gates of four colours, one made of gold, another of silver, another of cat's eye and another of crystals.**
 
-
 7. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhī'ti
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -250,33 +203,25 @@
 | dhammo | noun | masc.nom.sg | the teaching |  |
 | sandiṭṭhiko | adj | masc.nom.sg | visible |  |
 
-
 **sandiṭṭhi + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | akāliko | adj | masc.nom.sg | timeless |  |
 
-
 **akāla + ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | ehipassiko | adj | masc.nom.sg | come-and-see-able |  |
 
-
 **ehi + passa + ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | opanayiko | adj | masc.nom.sg | pragmatic; applicable; relevant |  |
 
-
 **uapanaya + \*ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -286,12 +231,9 @@
 | \#viññūhi |  |  |  |  |
 | \#iti |  |  |  |  |
 
-
 **He has absolute faith in the teaching, "The teaching is well taught by the Blessed One, it is visible, timeless, inviting one to come and see, applicable, to be personally experienced by the wise."**
 
-
 8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>samit'āssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -301,9 +243,7 @@
 | honti | verb | pr.3rd.pl | they are |  |
 | pāpakā | adj | masc.nom.pl | evil |  |
 
-
 **pāpa + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -311,17 +251,13 @@
 | dhammā | noun | masc.nom.pl | mental states |  |
 | saṃkilesikā | adj | masc.nom.pl | corrupting, defiling, dirtying |  |
 
-
 **saṃkilesa + ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | ponobbhavikā | adj | masc.nom.pl | leading to rebirth |  |
 
-
 **punabbhava + \*ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -334,9 +270,7 @@
 | āyatiṃ | ind | adv | in future |  |
 | jātijarāmaraṇiyā | adj | masc.nom.pl | leading to birth old age and death |  |
 
-
 **jātijarāmaraṇa + \*iya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -344,12 +278,9 @@
 | \#jarā ca |  |  |  |  |
 | \#maraṇa ca |  |  |  |  |
 
-
 **His evil unwholesome mental states are settled, (mental states which are) defiling, leading to rebirth, troublesome, having painful consequences and leading to birth, old age and death in the future.**
 
-
 9. [AN10.44](https://find.dhamma.gift/bw/an/an10.44.html) <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassū'ti, iti'ssa bhavanti vattāro.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -361,9 +292,7 @@
 | āyasmā | noun | masc.voc.sg | Venerable |  |
 | vācasikaṃ | noun | nt.acc.sg | verbal conduct |  |
 
-
 **vāca + \*ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -372,20 +301,15 @@
 | bhavanti | verb | pr.3rd.pl | there are, there will be |  |
 | vattāro | noun | masc.nom.pl | those who say, speakers |  |
 
-
 **There will be those who say to him: "Please, Venerable, you should train yourself in verbal conduct," there will be those who say thus to him.**
 
-
 10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | viggāhikāya | adj | fem.loc.sg (loc abs) | when quarrelsome, argumentative |  |
 
-
 **viggaha + \*ika**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -397,12 +321,9 @@
 | \#bāhullaṃ |  |  |  |  |
 | pāṭikaṅkhaṃ | ptp | nt.nom.sg | to be expected |  |
 
-
 **When there is argumentative talk, Moggallana, then an excess of talk is to be expected.**
 
-
 11. [SN16.10](https://find.dhamma.gift/bw/sn/sn16.10.html) <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etad'avoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijako'ti?
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -420,9 +341,7 @@
 | \#sūciyā |  |  |  |  |
 | \#vāṇijako |  |  |  |  |
 
-
 **vāṇija + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -436,12 +355,9 @@
 | tvaṃ | pron | 2nd.nom.sg | you |  |
 | sūcivāṇijako'ti | noun | masc.nom.sg | needle peddler |  |
 
-
 **Then the great venerable Kassapa said this to venerable Ananda, "Am I the needle peddler and you are the needle maker? Or am I the needle maker and you are the needle peddler?"**
 
-
 12. [ITI100](https://find.dhamma.gift/bw/it/it.html) <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -451,9 +367,7 @@
 | puttā | noun | masc.nom.pl | sons |  |
 | orasā | adj | masc.nom.pl | natural born, lit. from breast |  |
 
-
 **urasa + \*a**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -475,12 +389,9 @@
 | \#āmisassa |  |  |  |  |
 | \#dāyādā |  |  |  |  |
 
-
 **You all are my legitimate sons, born from my mouth, born from the Dhamma, created by the Dhamma, inheritors of the Dhamma, not inheritor of worldly things.**
 
-
 13. [SN35.241](https://find.dhamma.gift/bw/sn/sn35.241.html) <br>evam'eva kho, bhikkhave, sace tumhe'pi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -491,9 +402,7 @@
 | na | ind | neg | not |  |
 | orimaṃ | adj | nt.acc.sg | nearest |  |
 
-
 **ora + ima**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -502,9 +411,7 @@
 | na | ind | neg | not |  |
 | pārimaṃ | adj | nt.acc.sg | far shore |  |
 
-
 **parā + ima**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -517,16 +424,11 @@
 | thale | noun | nt.loc.sg | on dry ground |  |
 | ussīdissatha | verb | fut.2nd.pl | you all will wash up, run aground |  |
 
-
 **Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, nor sink down in the middle, nor wash up on dry land ...**
-
-
-
 
 ## Class 25 Extra Examples
 
 1. [VIN PAT PC 59](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā **sāmaṇerassa** vā **sāmaṇeriyā** vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -550,12 +452,9 @@
 | paribhuñjeyya | verb | opt.3rd.sg. | should/would use, make use of |  |
 | pācittiyaṃ | noun | neut.nom.sg. | an offence requiring confession |  |
 
-
 **Whatever Bhikkhu, having himself assigned a robe to a monk, a nun, a female probationer, a male novice or a female novice, should use (it) without withdrawing (the assignment), there is an offence requiring confession.**
 
-
 2. [AN6.17](https://find.dhamma.gift/bw/an/an6.17.html)<br>**indriyesu** guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṃ anuyuttā, vipassakā kusalānaṃ dhammānaṃ, pubbaratt'āpararattaṃ **bodhipakkhiyānaṃ** dhammānaṃ, bhāvanā'nuyogam'anuyuttā viharissāmā'ti.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -584,9 +483,7 @@
 | \#bodhi | noun | fem. | awakening, enlightenment |  |
 | \#pakkhiyānaṃ | adj | fem. | associated with; connected to |  |
 
-
 **pakkha + iya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -600,12 +497,9 @@
 | \#viharissāma | verb | fut.1st.pl | we will dwell | vi + √har + a + ti |
 | \#iti | ind | quotation mark | "" |  |
 
-
 **"We will be guarded regarding the sense faculties, knowing the correct measure in regard to food, devoted to wakefulness, [and] having clear insight of wholesome qualities, We will live devoted to the practice of developing the qualities pertaining to enlightenment, during the early and late parts of the night. "**
 
-
 3. [MN50](https://find.dhamma.gift/bw/mn/mn50.html)<br>bhūtapubb'āhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me **kāḷī** nāma **bhaginī**. tassā tvaṃ putto. so me tvaṃ **bhāgineyyo** ahosi.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -631,12 +525,9 @@
 | **bhāgineyyo** | noun | masc.nom.sg | nephew; sister's son | √bhaj + inī + \*eyya |
 | ahosi | verb | aor.2nd.sg | were |  |
 
-
 **Formerly, evil one, I was Mara (Death), by the name of dūsī (corrupter), [and] I had a sister by the name of kāḷī. You [were] her son, you were my nephew.**
 
-
 4. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>atha kho pesso ca **hatth**'ārohaputto **kandarako** ca paribbājako yena bhagavā ten'upasaṅkamiṃsu
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -658,17 +549,11 @@
 | \#tena | ind | adv | there |  |
 | \#upasaṅkamiṃsu | verb | aor.3rd.pl | approached | upa + saṃ + √kam + i |
 
-
 **After that, Pessa, the son of an elephant rider, and Kandaraka, a wandering ascetic, approached the Blessed One.**
-
-
 
 **[^35]: kammadhāraya**
 
-
-
 5. [DN3.13](https://find.dhamma.gift/bw/dn/dn3.html) <br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -678,9 +563,7 @@
 | amhākaṃ | pron | 1st.gen.pl | our |  |
 | paṇḍitaka | noun | masc.voc.sg | wise man |  |
 
-
 **paṇḍita + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -688,9 +571,7 @@
 | amhākaṃ | pron | 1st.gen.pl | our |  |
 | bahussutaka | noun | masc.voc.sg | learned scholar |  |
 
-
 **bahussuta + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -700,21 +581,16 @@
 | amhākaṃ | pron | 1st.gen.pl | our |  |
 | tevijjaka | noun | masc.voc.sg | master of three vedas |  |
 
-
 **tevijjā + ka**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | \#te |  |  |  |  |
 | \#vijjā |  |  |  |  |
 
-
 **(Sarcastically) Oh, our wise man! Oh, our great scholar! Oh, our master of the three vedas!**
 
-
 6. [DHP295](https://find.dhamma.gift/bw/dhp/dhp290-305.html)<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -726,18 +602,14 @@
 | ca | ind | conj | and |  |
 | sotthiye | noun | masc.acc.pl | brahmin, learned man |  |
 
-
 **suti + \*iya**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | veyagghapañcamaṃ | adj | masc.acc.sg | having a tiger as the fifth | kammadhāraya |
 | \#veyaggha |  |  |  |  |
 
-
 **vyaggha + \*a**
-
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -747,11 +619,4 @@
 | yāti | verb | pr.3rd.sg | he goes |  |
 | brāhmaṇo | noun | masc.nom.sg | Brahman |  |
 
-
 **Having killed mother and father,<br>two learned kings,<br>and a tiger as the fifth,<br>the Brahman wanders untroubled.**
-
-<div class="nav-links">
-  <a href="../24_class/" class="prev">← Class 24 Exercises</a>
-  <a href="../26_class/" class="next">Class 26 Exercises →</a>
-  <div class="feedback"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform?entry.957833742=Intermediate+P%C4%81%E1%B8%B7i+Course+%28IPC%29&entry.390426412=ipc_key%2F25_class" target="_blank">Provide feedback on this page</a></div>
-</div>
