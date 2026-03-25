@@ -1,4 +1,4 @@
-# Class 28 Exercises
+# Class 28 Key to Exercises
 
 **Find all the primary and secondary derivatives and show their construction.**
 
@@ -32,7 +32,7 @@
 
 **Reverence and humility, satisfaction and gratitude, Hearing the teaching at the right time; this is the highest blessing.**
 
-2. [SN1.51](https://find.dhamma.gift/bw/sn/sn1.51.html)<br>**sīlaṃ[^47]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
+2. [SN1.51](https://find.dhamma.gift/bw/sn/sn1.51.html)<br>**sīlaṃ[^46]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@
 | mahābrahmā | noun | masc.nom.sg | great God almighty; supreme spirit | kammadhāraya |
 | \#mahanta | adj | masc. | great |  |
 | \#brahmā | noun | masc.nom.sg | god |  |
-| **abhibhū** | noun | masc.nom.sg | overlord; supreme being[^48] | abhi + √bhū + ū |
+| **abhibhū** | noun | masc.nom.sg | overlord; supreme being[^47] | abhi + √bhū + ū |
 | anabhibhūto | pp | masc.nom.sg | unconquered; unvanquished | na + abhi + √bhū + ta |
 | añña'd'atthu**daso** | adj | masc.nom.sg | all seeing | kammadhāraya |
 | \#añña'd'atthu | ind | adv | only, exclusively, absolutely |  |
@@ -466,6 +466,6 @@
 
 **Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore**
 
-**[^47]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate**
+**[^46]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate**
 
-**[^48]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.**
+**[^47]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.**

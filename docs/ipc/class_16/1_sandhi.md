@@ -1,5 +1,3 @@
-
-
 # Sandhi
 
 saṃ + √dhā + i \> sandhi

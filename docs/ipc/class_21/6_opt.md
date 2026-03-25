@@ -15,11 +15,11 @@ Let’s look at the optative in the reflexive **voice and passive voice.**
 |  |  |  |
 | --- | --- | --- |
 |  | **s** | **pl** |
-| 3 paṭhama | dam**etha** | dam**eraṃ[^11]** |
+| 3 paṭhama | dam**etha** | dam**eraṃ[^13]** |
 | 2 majjhima | dam**etho** | dam**eyyāvho** |
 | 1 uttama | dam**eyyaṃ** | dam**eyyāmhe**<br>**damemase** |
 
-[^11]: The forms shown in red here and further in the declination table only exist in grammar books.
+[^13]: The forms shown in red here and further in the declination table only exist in grammar books.
 
 **Optative Passive Attanopada “could be led (by oneself)”<br>(√nī + ya \> nīya)**
 

@@ -1,5 +1,3 @@
-
-
 # Homeless work
 
 1.  Exercises for class 7

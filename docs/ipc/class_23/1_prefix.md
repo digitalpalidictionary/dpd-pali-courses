@@ -1,5 +1,3 @@
-
-
 # Prefixes (upasagga)
 
 Prefixes are attached to the beginning of nouns, verbs & adjectives. They can modify, intensify, completely change, or, in some cases, leave the meaning of the root unchanged.

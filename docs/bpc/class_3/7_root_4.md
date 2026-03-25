@@ -4,9 +4,9 @@
 
 = √su + etc + group
 
-There are only a few roots in this group. This group has the conjugational sign **ṇā** (**ṇo)[^11]** after a vowel and **uṇā** after a consonant.
+There are only a few roots in this group. This group has the conjugational sign **ṇā** (**ṇo)[^10]** after a vowel and **uṇā** after a consonant.
 
-[^11]: less common
+[^10]: less common
 
 √su (hear)
 

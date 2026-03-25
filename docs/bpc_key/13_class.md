@@ -1,4 +1,4 @@
-# Class 13 Exercises
+# Class 13 Key to Exercises
 
 1. [DN30.2](https://find.dhamma.gift/bw/dn/dn30.html) <br>samaṃ pādaṃ bhūmiyaṃ nikkhipati, samaṃ uddharati, samaṃ sabbāvantehi pādatalehi bhūmiṃ phusati.
 

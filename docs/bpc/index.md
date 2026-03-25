@@ -1,10 +1,6 @@
 # Beginner Pāḷi Course (BPC)
 
 ## [Class 1](class_1/index.md)
-- [Course Structure](class_1/index.md#course-structure)
-- [Skills you need to develop](class_1/index.md#skills-you-need-to-develop)
-- [How to set up basic digital tools](class_1/index.md#how-to-set-up-basic-digital-tools)
-- [Digital Resources](class_1/index.md#digital-resources)
 
 ## [Class 2](class_2/index.md)
 - [The Alphabet & Pronunciation](class_2/2_alphabet.md)
@@ -43,17 +39,16 @@
 - [Intransitive, Transitive and di-transitive verbs](class_5/5_trans.md)
 - [How to say No!](class_5/6_say_no.md)
 - [With & together with “saddhiṃ” and “saha”](class_5/7_with.md)
-- [Some important lists to have at hand](class_5/del.md)
 
 ## [Class 6](class_6/index.md)
 - [Masculine nouns ending in -u](class_6/2_masc_u.md)
-- [Masculine nouns ending in -ū](class_6/3_masc_uu.md)
+- [Masculine nouns ending in -ū {: #declension-of-u-masc}](class_6/3_masc_uu.md)
 - [Substantives (guṇanāma)](class_6/4_subst.md)
 - [Conjunction “ca”](class_6/5_and_or.md)
 - [Adverbs of time](class_6/6_adv_time.md)
 
 ## [Class 7](class_7/index.md)
-- [Feminine Nouns ending in -ā](class_7/2_fem_aa.md)
+- [Feminine Nouns ending in -ā {: #feminine-nouns-ending-in-a}](class_7/2_fem_aa.md)
 - [Optative or Potential Verbs (sattamī)](class_7/3_opt.md)
 - [Traditional Pāli Root lists](class_7/4_pali_lists.md)
 

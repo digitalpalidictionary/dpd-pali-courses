@@ -1,4 +1,4 @@
-# Class 14 Exercises
+# Class 14 Key to Exercises
 
 1. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati
 

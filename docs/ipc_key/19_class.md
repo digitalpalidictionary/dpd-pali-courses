@@ -1,4 +1,4 @@
-# Class 19 Exercises
+# Class 19 Key to Exercises
 
 **Dis-join the samāsa**
 
@@ -39,7 +39,7 @@
 | catu + āsīti | caturāsīti |
 | cha + pañca | chappañca |
 
-**Exercises**
+**Key to Exercises**
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 

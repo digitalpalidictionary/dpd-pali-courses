@@ -1,4 +1,4 @@
-# Class 12 Exercises
+# Class 12 Key to Exercises
 
 1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html) <br>anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ - ekam'pi jātiṃ dve'pi jātiyo tisso'pi jātiyo catasso'pi jātiyo pañca'pi jātiyo dasa'pi jātiyo vīsam'pi jātiyo tiṃsam'pi jātiyo cattālīsam'pi jātiyo paññāsam'pi jātiyo jātisatam'pi jātisahassam'pi jātisatasahassam'pi
 

@@ -112,21 +112,6 @@ def remove_navigation_block(content):
         clean_lines.append(line)
     return '\n'.join(clean_lines).strip()
 
-def get_feedback_link(file_rel_path):
-    base_url = "https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform"
-    parts = list(file_rel_path.parts)
-    course = "Beginner Pāḷi Course (BPC)"
-    if any(p in parts[0] for p in ["ipc", "ipc_ex", "ipc_key"]):
-        course = "Intermediate Pāḷi Course (IPC)"
-    page_name = str(file_rel_path).replace(".md", "")
-    if page_name.endswith("/index"):
-        page_name = page_name[:-5]
-    elif page_name == "index":
-        page_name = ""
-    params = {"usp": "pp_url", "entry.135905709": course, "entry.2980976": page_name}
-    query_string = urllib.parse.urlencode(params)
-    return f"{base_url}?{query_string}"
-
 def get_html_rel_path(file_path, target_path):
     rel = os.path.relpath(target_path, file_path.parent)
     prefix = "" if file_path.name == "index.md" else "../"
@@ -185,21 +170,9 @@ def update_page_navigation(file_path, prev_page, next_page, all_headings, docs_d
             if key_path.exists():
                 html_rel = get_html_rel_path(file_path, key_path)
                 cross_link = f'<a href="{html_rel}">Go to Answer Key</a>'
-    feedback_url = get_feedback_link(file_rel)
-    feedback_link = f'<a href="{feedback_url}" target="_blank">Provide feedback on this page</a>'
-    if prev_link or next_link or cross_link:
-        nav_html = '\n\n<div class="nav-links">\n'
-        if prev_link:
-            nav_html += f'  {prev_link}\n'
-        if next_link:
-            nav_html += f'  {next_link}\n'
-        if cross_link:
-            nav_html += f'  <div class="cross">{cross_link}</div>\n'
-        nav_html += f'  <div class="feedback">{feedback_link}</div>\n'
-        nav_html += '</div>\n'
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(content)
-            f.write(nav_html)
+    # DO NOT INJECT NAV LINKS INTO MD SOURCES
+    # All navigation should be handled by MkDocs hooks/theme.
+    pass
 
 def generate_section_index(section_path, title):
     index_path = section_path / "index.md"
@@ -241,7 +214,6 @@ def generate_class_index(class_path, class_title):
     if index_path.exists():
         # Check if it's a manually created index (usually larger or different structure)
         # For now, let's just skip if it exists to preserve manual changes
-        print(f"Skipping index generation for {class_path}, index.md already exists.")
         return
     files = sorted([f for f in class_path.glob("*.md") if f.name != "index.md"], key=lambda x: natural_sort_key(x.name))
     content = [f"# {class_title}\n"]

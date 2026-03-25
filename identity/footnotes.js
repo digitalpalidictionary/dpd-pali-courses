@@ -15,10 +15,9 @@ document.addEventListener("DOMContentLoaded", function() {
         
         if (fnContentLi) {
             const tooltip = document.createElement("div");
-            tooltip.className = "footnote-tooltip";
+            tooltip.className = "footnote-tooltip md-typeset";
             
             const visibleNumber = fnId;
-            
             const contentClone = fnContentLi.cloneNode(true);
             
             tooltip.innerHTML = `<b>${visibleNumber}.</b> ` + contentClone.innerHTML;
@@ -27,7 +26,55 @@ document.addEventListener("DOMContentLoaded", function() {
             wrapper.className = "footnote-wrapper";
             ref.parentNode.insertBefore(wrapper, ref);
             wrapper.appendChild(ref);
-            wrapper.appendChild(tooltip);
+
+            let hideTimeout;
+
+            const showTooltip = function() {
+                clearTimeout(hideTimeout);
+                if (tooltip.parentNode !== document.body) {
+                    document.body.appendChild(tooltip);
+                }
+                
+                // Get position of the wrapper
+                const rect = wrapper.getBoundingClientRect();
+                
+                // Temporarily display to calculate dimensions
+                tooltip.style.visibility = "hidden";
+                tooltip.style.display = "block";
+                
+                const tooltipRect = tooltip.getBoundingClientRect();
+                
+                // Center horizontally relative to the wrapper
+                let leftPos = rect.left + window.scrollX + (rect.width / 2);
+                tooltip.style.left = leftPos + "px";
+                
+                // Default: above the wrapper
+                let topPos = rect.top + window.scrollY - tooltipRect.height - 10;
+                
+                // If it goes off the top of the screen, place it below
+                if (topPos < window.scrollY) {
+                    topPos = rect.bottom + window.scrollY + 10;
+                    tooltip.classList.add("tooltip-bottom");
+                } else {
+                    tooltip.classList.remove("tooltip-bottom");
+                }
+                
+                tooltip.style.top = topPos + "px";
+                tooltip.style.visibility = "visible";
+            };
+
+            const hideTooltip = function() {
+                hideTimeout = setTimeout(() => {
+                    if (tooltip.parentNode === document.body) {
+                        document.body.removeChild(tooltip);
+                    }
+                }, 200); // Small delay to allow moving mouse to tooltip
+            };
+
+            wrapper.addEventListener("mouseenter", showTooltip);
+            wrapper.addEventListener("mouseleave", hideTooltip);
+            tooltip.addEventListener("mouseenter", showTooltip); // Keep open if hovering over tooltip
+            tooltip.addEventListener("mouseleave", hideTooltip);
         }
     });
 

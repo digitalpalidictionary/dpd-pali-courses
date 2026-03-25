@@ -1,4 +1,4 @@
-# Class 23 Exercises
+# Class 23 Key to Exercises
 
 **Break up following words in suitable ways**
 
@@ -24,7 +24,7 @@
 | upaparikkhati |  |  | upa + pari + √ikkh + a + ti |
 | vinimocayanta |  |  | vi + ni + √muc + \*aya + nta |
 
-**In the exercises, break up every verb and participle into prefix + root + root sign + verbal ending / suffix.**
+**In the Key to Exercises, break up every verb and participle into prefix + root + root sign + verbal ending / suffix.**
 
 **e.g. paṭiggaṇhāmi:**
 

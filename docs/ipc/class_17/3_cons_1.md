@@ -91,9 +91,9 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| n**i** | **ḍ**eti | ni**ḍḍ**eti[^4] | pr. weeds out |
+| n**i** | **ḍ**eti | ni**ḍḍ**eti[^6] | pr. weeds out |
 
-[^4]: (commentary example)
+[^6]: (commentary example)
 
 **vowel + t**
 

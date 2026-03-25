@@ -1,4 +1,4 @@
-# Class 9 Exercises
+# Class 9 Key to Exercises
 
 1. VIN0 <br>āraddhaṃ kho pana me, brāhmaṇa, vīriyaṃ ahosi.
 

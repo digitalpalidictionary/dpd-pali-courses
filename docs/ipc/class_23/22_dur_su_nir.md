@@ -46,20 +46,20 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| kā | lavaṇa | kālavaṇa[^18] | pinch of salt |
+| kā | lavaṇa | kālavaṇa[^22] | pinch of salt |
 | kā | purisa | kāpurisa | evil man |
 | kad | ariya | kadariya | miserly, stingy |
 | kad | anna | kadanna | rotten food |
-| kad | asana | kadasana[^19] | little food |
+| kad | asana | kadasana[^23] | little food |
 | ku | √sad + ya | kosajja | laziness, inactivity |
 | ku | √kar + ya | kukkucca | misbehaviour, remorse |
 | ku | magga | kummagga | wrong road, bad way |
 | ku | nadī | kunnadī | small stream |
 | ku | sobbha | kusobbha | small pool |
 
-[^18]: Not a textual example
+[^22]: Not a textual example
 
-[^19]: Not a textual example
+[^23]: Not a textual example
 
 **sa-<br>with, having, affected with**
 

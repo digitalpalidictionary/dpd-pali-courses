@@ -19,7 +19,7 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 | 2 majjhima | hana**se** | hana**vhe** |
 | 1 uttama | han**e** | han**āmhe** |
 
-**Present Tense Passive Attanopada √han “is killed (by oneself)[^10]”<br>√han + ya \> hañña**
+**Present Tense Passive Attanopada √han “is killed (by oneself)[^12]”<br>√han + ya \> hañña**
 
 |  |  |  |
 | --- | --- | --- |
@@ -28,4 +28,4 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 | 2 majjhima | hañña**se** | hañña**vhe** |
 | 1 uttama | haññ**e** | haññ**āmhe** |
 
-[^10]: Please note that very often reflexive can be translated without this reflexive pronoun
+[^12]: Please note that very often reflexive can be translated without this reflexive pronoun

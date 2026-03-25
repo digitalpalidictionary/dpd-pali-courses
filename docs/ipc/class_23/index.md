@@ -1,7 +1,7 @@
 # Class 23
 
 - [Prefixes (upasagga)](1_prefix.md)
-- [ā-<br>up to, upwards, towards, near to, at, backwards, away, all round, intensely, until, as far as[^15]](2_aa.md)
+- [ā-<br>up to, upwards, towards, near to, at, backwards, away, all round, intensely, until, as far as[^18]](2_aa.md)
 - [ati- acc-<br>beyond, across, over, past, very much, very, excessively](3_ati.md)
 - [adhi- ajjh-<br>over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside](4_adhi.md)
 - [anu-<br>following, after, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly](5_anu.md)

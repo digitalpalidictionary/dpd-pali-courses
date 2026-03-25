@@ -42,10 +42,11 @@ def renumber_file(file_path, dry_run=False):
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(new_lines) + ('\n' if content.endswith('\n') else ''))
             print(f"  [RENUMBERED] {file_path}")
+            return True
         else:
             print(f"  [WOULD RENUMBER] {file_path}")
-    else:
-        print(f"  [CORRECT] {file_path}")
+            return True
+    return False
 
 def main():
     parser = argparse.ArgumentParser(description="Renumber Pāli sentences in markdown files.")
@@ -54,15 +55,19 @@ def main():
 
     target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key']
     
+    total_changed = 0
     for d in target_dirs:
         if not os.path.exists(d):
             continue
-        print(f"Checking directory: {d}")
         for root, _, files in os.walk(d):
             for file in files:
                 if file.endswith('.md') and file != 'index.md':
                     fp = os.path.join(root, file)
-                    renumber_file(fp, args.dry_run)
+                    if renumber_file(fp, args.dry_run):
+                        total_changed += 1
+                        
+    if total_changed > 0:
+        print(f"Renumbered {total_changed} files.")
 
 if __name__ == "__main__":
     main()

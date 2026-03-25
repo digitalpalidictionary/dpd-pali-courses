@@ -1,4 +1,4 @@
-# Class 4 Exercises
+# Class 4 Key to Exercises
 
 1. [DHP026](https://find.dhamma.gift/bw/dhp/dhp21-32.html) (simpl)<br>bālā pamādaṃ anuyuñjanti
 

@@ -64,10 +64,10 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 
 |  |  |  |
 | --- | --- | --- |
-| udak**a** | **ū**mi | udak**o**mi[^1] |
+| udak**a** | **ū**mi | udak**o**mi[^3] |
 | water | wave | wave of water |
 
-[^1]: not textual example
+[^3]: not textual example
 
 **i![](../../assets/images/arrow.png)u \> o**
 

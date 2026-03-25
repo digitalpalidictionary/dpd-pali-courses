@@ -1,4 +1,4 @@
-# Class 29 Exercises
+# Class 29 Key to Exercises
 
 **Translation assignment**
 
@@ -88,7 +88,7 @@ etādisaṃ ce ratanaṃ na icchasi,
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| etādisaṃ[^49] | adj |  | such as this; of this type | kammadhāraya |
+| etādisaṃ[^48] | adj |  | such as this; of this type | kammadhāraya |
 | \#eta | pron | nt. | this |  |
 | \#ādisaṃ | adj | nt.nom.sg | kind; quality |  |
 | ce | ind | cond. | if |  |
@@ -136,17 +136,17 @@ bhav'ūpapattiñ'ca vadesi kīdisaṃ.
 | \#\#upapattiṃ | noun | fem.acc.sg | rebirth; re-arising |  |
 | \#ca | ind | conj | and |  |
 | vadesi | verb | pr.2nd.sg | you say; proclaim | √vad + a + si |
-| kīdisaṃ[^50] | adj | nt.acc.sg | of what kind? | kammadhāraya |
+| kīdisaṃ[^49] | adj | nt.acc.sg | of what kind? | kammadhāraya |
 | \#ka | pron | nt. | what? |  |
 | \#ādisaṃ | adj | nt.nom.sg | kind; quality |  |
 
 **and re-arising into existence do you proclaim?**
 
-**[^49]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa.**
+**[^48]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa.**
 
 **An adjective \*ādisa (S. \*ādṛśa) is listed neither in PED, CPD nor Cone and is also unknown to MW, Apte and Böthlingk, so it seems this is a ghost word in DPD.**
 
-[^50]: See kīdṛśa.
+[^49]: See kīdṛśa.
 
 idaṃ vadāmī'ti na tassa hoti, (māgaṇḍiyā'ti bhagavā)
 

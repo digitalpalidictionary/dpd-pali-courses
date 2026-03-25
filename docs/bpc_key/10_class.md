@@ -1,4 +1,4 @@
-# Class 10 Exercises
+# Class 10 Key to Exercises
 
 1. [AN10.176](https://find.dhamma.gift/bw/an/an10.176.html) <br>so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
 

@@ -36,13 +36,13 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ### Sometimes the original case ending is maintained
 
-| **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^7] | before dawn |
+| **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^9] | before dawn |
 |---|---|---|---|---|---|---|
 | **ajja** | today | **aṇho** | day | **ajjaṇho** | adv | this day |
 | **anu** | following | **pubbena** | with previous | **anupubbena** | adv | gradually |
 | **antarā** | between | **magge** | on road | **antarāmagge** | adv | along the road,<br>on the way |
 
-[^7]: some grammatical books take them just as adjectives used adverbially in context
+[^9]: some grammatical books take them just as adjectives used adverbially in context
 
 ## Some prefixes and indeclinables used in abyayībhāva compounds
 

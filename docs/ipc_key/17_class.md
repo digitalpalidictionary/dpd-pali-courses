@@ -1,4 +1,4 @@
-# Class 17 Exercises
+# Class 17 Key to Exercises
 
 **Join the following words**
 
@@ -41,7 +41,7 @@
 | paṭicchāda | pati + √chad + \*a |
 | sallakkhetvā | saṃ + √lakkh + \*e + tvā |
 
-**exercises**
+**Key to Exercises**
 
 **Break up all the sandhis in the following sentences.**
 

@@ -8,4 +8,3 @@
 - [How to say No!](6_say_no.md)
 - [With & together with “saddhiṃ” and “saha”](7_with.md)
 - [Homeless work](8_home_work.md)
-- [Some important lists to have at hand](del.md)

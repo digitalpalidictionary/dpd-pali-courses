@@ -1,4 +1,4 @@
-# Class 20 Exercises
+# Class 20 Key to Exercises
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 

@@ -1,5 +1,3 @@
-
-
 # Vowel Sandhi *(sara-sandhi)*
 
 Vowel Sandhi occurs when the vowel at the end of one part of speech meets the vowel at the beginning of another part of speech.

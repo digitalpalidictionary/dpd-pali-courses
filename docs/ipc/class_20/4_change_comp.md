@@ -7,7 +7,7 @@
 | aṅguli | finger | aṅgula | caturaṅgula | four fingers |
 | attā | self | atta | pahitatto | resolute; lit. applied self |
 | bhūmi | ground | bhūma | bhūmaṭṭha | standing on the ground |
-| go | cow, cattle | gu | *pañcagu[^9]* | five cows |
+| go | cow, cattle | gu | *pañcagu[^11]* | five cows |
 | go | cow, cattle | gavo | jaraggavo | old bull |
 | jāyā | wife | jayaṃ | jayampatikā | wife & husband |
 | jāyā | wife | jāni | jānipatī | wife & husband |
@@ -20,4 +20,4 @@
 | saka | one’s own | sa | samātar | own mother |
 | saka | one’s own | saya | sayasaṃvuta | enclosed in one’s own opinion; lit. wrapped in one's own |
 
-[^9]: Not a textual example
+[^11]: Not a textual example

@@ -15,4 +15,5 @@ vassasataṃ jīv**a** (May you live 100 years!)
 | 3rd | vada**tu** | he must speak | vad**antu** | they must speak |
 | 2nd | vad**a** <br>vad**āhi** | you must speak | vad**atha** | you all must speak |
 | 1st | vad**āmi** | I must speak | vad**āma** | we must speak |
-| Notice the similarity between the present tense and the imperative. |  |  |  |  |
+
+Notice the similarity between the present tense and the imperative.

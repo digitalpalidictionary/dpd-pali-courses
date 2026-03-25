@@ -1,4 +1,4 @@
-# Class 16 Exercises
+# Class 16 Key to Exercises
 
 **Dis-join the sandhis**
 
@@ -58,7 +58,7 @@
 | so + ayaṃ | sāyaṃ |
 | kho + ayaṃ | khvāyaṃ |
 
-**Exercises**
+**Key to Exercises**
 
 **Break up all the sandhis in the following sentences.**
 

@@ -4,7 +4,7 @@ All the nouns we looked at in the Beginner Pāli Course had regular and predicta
 
 Today we will look at **manas**, **go, atta** and **rāja**
 
-**Declension of manas (mano) (masc & nt[^6])**
+**Declension of manas (mano) (masc & nt[^8])**
 
 |  |  |  |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | 7.loc | man**asi** man**e** man**amhi** man**asmiṃ** | man**esu** |
 | 8.voc | man**a** man**ā** | man**ā** |
 
-[^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
+[^8]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
 
 Similarly
 

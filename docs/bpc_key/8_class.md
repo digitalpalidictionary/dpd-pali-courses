@@ -1,4 +1,4 @@
-# Class 8 Exercises
+# Class 8 Key to Exercises
 
 1. [AN8.30](https://find.dhamma.gift/bw/an/an8.30.html) <br>nisajja kho bhagavā bhikkhū āmantesi
 

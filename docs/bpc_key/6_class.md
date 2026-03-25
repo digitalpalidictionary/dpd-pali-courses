@@ -1,4 +1,4 @@
-# Class 6 Exercises
+# Class 6 Key to Exercises
 
 1. [DN2.9](https://find.dhamma.gift/bw/dn/dn2.html) <br>bhagavā bhikkhū āmantesi, bhikkhavo'ti.
 

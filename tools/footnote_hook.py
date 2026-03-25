@@ -14,7 +14,8 @@ def on_page_markdown(markdown_text, page, config, files):
         prefix = m.group(1)
         fn_num = m.group(2)
         content = m.group(3).strip()
-        return f"\n<div class='manual-fn-def' data-fn='{fn_num}' markdown='1'>\n\n{prefix}{content}\n\n</div>\n\n"
+        # Only add a single newline at the end to prevent double-counting
+        return f"\n<div class='manual-fn-def' data-fn='{fn_num}' markdown='1'>\n\n{prefix}{content}\n\n</div>"
     pattern = r'^([ \t*_]*)\[\^(\d+)\]:\s*(.*?)(?=\n[ \t]*\n|\n[ \t]*[-*_]{3,}|\n[ \t]*#|\n\[\^|\Z)'
     markdown_text = re.sub(pattern, repl_def, markdown_text, flags=re.MULTILINE | re.DOTALL)
     
@@ -32,17 +33,32 @@ def on_page_markdown(markdown_text, page, config, files):
     markdown_text = re.sub(r'^\s*(\d+)\.\s+', repl_list, markdown_text, flags=re.MULTILINE)
 
     # 4. Preserve multiple newlines by converting empty lines (2+ newlines) to <br>
-    # We look for 3 or more newlines (which means at least one truly empty line between paragraphs)
-    # and replace them with the appropriate number of <br> tags.
     def repl_newlines(m):
         count = m.group(0).count('\n')
-        # A standard paragraph break is \n\n. 
-        # For each extra \n, we add a <br>.
         if count > 2:
             return '\n\n' + '<br>\n' * (count - 2)
         return m.group(0)
 
     markdown_text = re.sub(r'\n{3,}', repl_newlines, markdown_text)
+
+    # 5. Fix empty table cells to ensure proper rendering without corrupting source MD
+    def fix_table_cells(m):
+        line = m.group(0)
+        if '---' in line: return line
+        parts = line.split('|')
+        new_parts = []
+        for i, part in enumerate(parts):
+            if i == 0 or i == len(parts) - 1:
+                new_parts.append(part)
+                continue
+            if part.strip() == '':
+                new_parts.append(' &nbsp; ')
+            else:
+                new_parts.append(part)
+        return '|'.join(new_parts)
+
+    # Match lines that look like table rows (start and end with |)
+    markdown_text = re.sub(r'^\s*\|.*\|\s*$', fix_table_cells, markdown_text, flags=re.MULTILINE)
     
     return markdown_text
 

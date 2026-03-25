@@ -14,9 +14,7 @@ Our bodily behaviour **should** **be** **purified**.
 
 It can be used to express a mild form of imperative.
 
-na uccāsoṇḍaṃ paggahetvā kulāni **upasaṅkamissāmi**
-
-*([AN7.61](https://find.dhamma.gift/bw/an/an7.61.html))*
+na uccāsoṇḍaṃ paggahetvā kulāni **upasaṅkamissāmi** *([AN7.61](https://find.dhamma.gift/bw/an/an7.61.html))*
 
 **I should** not **approach** families intoxicated with pride.
 

@@ -1,4 +1,4 @@
-# Class 3 Exercises
+# Class 3 Key to Exercises
 1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html)<br>ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
 
 | Pāli | POS | Grammar | English |

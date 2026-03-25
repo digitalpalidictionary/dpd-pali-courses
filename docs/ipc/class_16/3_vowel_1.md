@@ -1,5 +1,3 @@
-
-
 # Elision of a Vowel
 
 Vowel elision is of two types, **forward** and **backwards** elision.

@@ -79,6 +79,9 @@ This repository includes several Python scripts to maintain and clean the Pāḷ
 - **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files.
   - Usage: `uv run python scripts/check_renumber.py`
 
+- **`renumber_footnotes.py`**: Sequentially renumbers all footnotes across the course materials to ensure chronological ordering.
+  - Usage: `uv run python scripts/renumber_footnotes.py`
+
 - **`compare_docs.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss.
   - Usage: `uv run python scripts/compare_docs.py`
 
@@ -96,9 +99,12 @@ This project uses `uv` for Python dependency management.
    uv sync
    ```
 3. **Build and Serve Website Locally**:
+   We recommend using the included unified build script, which handles metadata generation, renumbering, and starting the local server:
    ```bash
-   uv run mkdocs serve
+   ./scripts/cl/pali-build-website
    ```
+   *To run this from anywhere on your system, add `scripts/cl/` to your PATH (e.g., `fish_add_path /path/to/dpd-pali-courses/scripts/cl` in Fish).*
+   
    The site will be available at `http://127.0.0.1:8000`.
 
 4. **Generate Documents Locally**:

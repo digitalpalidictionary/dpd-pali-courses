@@ -1,4 +1,4 @@
-# Class 1 Exercises
+# Class 1 Key to Exercises
 
 1. namo tassa bhagavato arahato sammā-sambuddhassa
 

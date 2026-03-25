@@ -1,4 +1,4 @@
-# Class 18 Exercises
+# Class 18 Key to Exercises
 
 **Dis-join the sandhis**
 
@@ -49,7 +49,7 @@
 | √car + na | ciṇṇa |
 | √pā + sa + ā | pipāsā |
 
-**Exercises**
+**Key to Exercises**
 
 **Break up all the sandhis in the following sentences.**
 

@@ -1,4 +1,4 @@
-# Class 2 Exercises
+# Class 2 Key to Exercises
 
 1. [SN10.8](https://find.dhamma.gift/bw/sn/sn10.8.html)<br>buddho kira loke uppanno
 

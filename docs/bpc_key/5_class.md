@@ -1,4 +1,4 @@
-# Class 5 Exercises
+# Class 5 Key to Exercises
 
 1. [SN22.33](https://find.dhamma.gift/bw/sn/sn22.33.html) <br>viññāṇaṃ na tumhākaṃ, taṃ pajahatha.
 

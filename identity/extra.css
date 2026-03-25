@@ -423,21 +423,28 @@ img[src*="pacman"], img[src*="arrow"] {
     .footnote-tooltip {
         visibility: hidden;
         position: absolute;
-        bottom: 125%;
-        left: 50%;
-        transform: translateX(-50%);
         background-color: var(--light-shade);
         color: var(--dark);
         text-align: left;
-        padding: 8px 12px;
+        padding: 12px 16px;
         border-radius: 6px;
         border: 1px solid var(--primary);
         box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-        width: 250px;
-        z-index: 100;
+        width: max-content;
+        max-width: 350px;
+        z-index: 1000;
         font-size: 0.85rem;
         font-weight: normal;
-        line-height: 1.4;
+        line-height: 1.5;
+        transform: translateX(-50%);
+    }
+
+    /* Fix internal paragraph margins so they don't break out of the background */
+    .footnote-tooltip p {
+        margin: 0 0 0.5em 0 !important;
+    }
+    .footnote-tooltip p:last-child {
+        margin-bottom: 0 !important;
     }
 
     /* Hide the automatic numbering in the tooltip content if any */
@@ -449,11 +456,12 @@ img[src*="pacman"], img[src*="arrow"] {
         list-style: none;
     }
 
-    .footnote-wrapper:hover .footnote-tooltip {
-        visibility: visible;
+    /* Support for bottom-positioned tooltips */
+    .footnote-tooltip.tooltip-bottom {
+        /* JS handles top/bottom positioning */
     }
 
-    /* Arrow for tooltip */
+    /* Arrow for tooltip (top) */
     .footnote-tooltip::after {
         content: "";
         position: absolute;
@@ -463,6 +471,13 @@ img[src*="pacman"], img[src*="arrow"] {
         border-width: 5px;
         border-style: solid;
         border-color: var(--primary) transparent transparent transparent;
+    }
+
+    /* Arrow for tooltip (bottom) */
+    .footnote-tooltip.tooltip-bottom::after {
+        top: auto;
+        bottom: 100%;
+        border-color: transparent transparent var(--primary) transparent;
     }
 }
 

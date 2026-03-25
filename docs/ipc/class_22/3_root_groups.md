@@ -1,6 +1,6 @@
-# The 8 Root Groups[^13]
+# The 8 Root Groups[^16]
 
-[^13]: All the roots that follow are in order from most common to less common
+[^16]: All the roots that follow are in order from most common to less common
 
 What are the 8 root groups?
 
@@ -132,9 +132,9 @@ As you can see, these are quite rare.
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
-### 7. tanādigaṇa (-o- *-yira[^14]-*)
+### 7. tanādigaṇa (-o- *-yira[^17]-*)
 
-[^14]: It's in the traditional grammar books, but it's actually a more passive form.
+[^17]: It's in the traditional grammar books, but it's actually a more passive form.
 
 | √kar | o | karo | karoti | does |
 |---|---|---|---|---|

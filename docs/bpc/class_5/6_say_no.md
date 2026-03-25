@@ -17,7 +17,7 @@ The easiest way to make a verb into its negative is to add the particle “**na*
 
 The particle **“no”** expresses the meaning “not” (although it also has many other meanings, so be careful!)
 
-ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)
+ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. ([AN8.53](https://find.dhamma.gift/bw/an/an8.53.html))
 
 These qualities lead to attachment, **not** to detachment.
 

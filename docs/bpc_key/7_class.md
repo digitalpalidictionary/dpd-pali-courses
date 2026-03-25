@@ -1,4 +1,4 @@
-# Class 7 Exercises
+# Class 7 Key to Exercises
 
 1. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>jivhāya rasaṃ sāyitvā uppajjati manāpaṃ
 

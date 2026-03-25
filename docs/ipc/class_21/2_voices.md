@@ -1,5 +1,3 @@
-
-
 # Three Voices: Active, Reflexive and Passive
 
 In English there are only **two voices**, active and passive.
