@@ -67,10 +67,11 @@ At which time, monks, the **thieves** are **powerful** …
 
 bhagavā 4803[^18]
 
-[^18]: In the mūla part of the 4 Nikāyas
-
 bhagavantaṃ 1755
 
 bhagavatā 1168
 
 bhagavato 1942
+
+[^18]: In the mūla part of the 4 Nikāyas
+

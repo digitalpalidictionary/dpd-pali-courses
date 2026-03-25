@@ -68,6 +68,9 @@ def renumber_footnotes_in_files(files, start_counter=1, dry_run=False):
         # Check if any numbering actually needs to change
         changed = any(str(old) != str(new) for old, new in file_map.items())
         
+        if "docs/ipc/index.md" in file_path:
+            print(f"DEBUG {file_path}: file_map = {file_map}, changed = {changed}")
+        
         if not changed:
             continue
 

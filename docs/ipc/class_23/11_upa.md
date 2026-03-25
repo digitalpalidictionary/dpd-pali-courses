@@ -1,4 +1,6 @@
-**upa-<br>unto, to, close, towards, near to, with, by the side of, strongly, as, like, up to, up, higher, (opposed to apa)**
+## upa-
+
+**unto, to, close, towards, near to, with, by the side of, strongly, as, like, up to, up, higher, (opposed to apa)**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

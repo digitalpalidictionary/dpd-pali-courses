@@ -1,4 +1,6 @@
-**saṃ- sā- (sk sam)<br>with, along, together, well, fully, perfectly, intensely, by oneself, again**
+## saṃ- sā- (sk sam)
+
+**with, along, together, well, fully, perfectly, intensely, by oneself, again**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

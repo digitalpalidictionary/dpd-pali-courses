@@ -1,4 +1,6 @@
-**abhi- abbh-<br>to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, highly, strongly**
+## abhi- abbh-
+
+**to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, highly, strongly**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

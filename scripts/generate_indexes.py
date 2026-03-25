@@ -12,6 +12,8 @@ def clean_title(title):
     """Normalized title cleanup."""
     if not title:
         return ""
+    # Strip footnote references (e.g. [^1], [^18])
+    title = re.sub(r'\[\^\d+\]', '', title)
     title = re.sub(r'!\[.*?\]\(.*?\)', '', title)
     title = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', title)
     title = re.sub(r'\*\*(.*?)\*\*', r'\1', title)
@@ -29,8 +31,8 @@ def get_first_heading(file_path):
                 line = line.strip()
                 if not line or line == "***":
                     continue
-                if line.startswith("# "):
-                    return clean_title(line[2:])
+                if line.startswith("# ") or line.startswith("## "):
+                    return clean_title(line.lstrip("#").strip())
                 elif line.startswith("**") and line.endswith("**"):
                     return clean_title(line)
                 elif not any(line.startswith(c) for line in [line] for c in ["!", "[", "*", "#"]):
@@ -210,17 +212,15 @@ def generate_section_index(section_path, title):
         f.write("\n".join(content))
 
 def generate_class_index(class_path, class_title):
-    index_path = class_path / "index.md"
-    if index_path.exists():
-        # Check if it's a manually created index (usually larger or different structure)
-        # For now, let's just skip if it exists to preserve manual changes
+    if class_path.name == "class_1":
         return
+    index_path = class_path / "index.md"
     files = sorted([f for f in class_path.glob("*.md") if f.name != "index.md"], key=lambda x: natural_sort_key(x.name))
     content = [f"# {class_title}\n"]
     for f in files:
         heading = get_first_heading(f)
         if heading:
-            content.append(f"1. [{heading}]({f.name})")
+            content.append(f"- [{heading}]({f.name})")
     with open(index_path, "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 

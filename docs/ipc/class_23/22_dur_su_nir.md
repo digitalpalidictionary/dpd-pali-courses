@@ -2,7 +2,9 @@
 
 Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**
 
-**dur- <br>bad, difficult, unwholesome, negative, poor, ill, mean**
+## dur-
+
+**bad, difficult, unwholesome, negative, poor, ill, mean**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -18,7 +20,9 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dis | to see | duddasa | difficult to see |
 | √gam | to go | duggati | hell, bad place |
 
-**su- <br>good, well, thoroughly, easily, auspiciously, abundance**
+## su-
+
+**good, well, thoroughly, easily, auspiciously, abundance**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -30,7 +34,9 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √dam | to tame | sudanta | well tamed |
 | √dis | to see | sudiṭṭha | well-seen |
 
-**nir-<br>not, without, no, negative**
+## nir-
+
+**not, without, no, negative**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -42,26 +48,30 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √mal | to stain | nimmala | spotless |
 | √pī | to love | nippītika | without delight |
 
-**kā- kad- ku<br>bad, negative, small, mean**
+## kā- kad- ku
+
+**bad, negative, small, mean**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| kā | lavaṇa | kālavaṇa[^22] | pinch of salt |
+| kā | lavaṇa | kālavaṇa[^18] | pinch of salt |
 | kā | purisa | kāpurisa | evil man |
 | kad | ariya | kadariya | miserly, stingy |
 | kad | anna | kadanna | rotten food |
-| kad | asana | kadasana[^23] | little food |
+| kad | asana | kadasana[^19] | little food |
 | ku | √sad + ya | kosajja | laziness, inactivity |
 | ku | √kar + ya | kukkucca | misbehaviour, remorse |
 | ku | magga | kummagga | wrong road, bad way |
 | ku | nadī | kunnadī | small stream |
 | ku | sobbha | kusobbha | small pool |
 
-[^22]: Not a textual example
+[^18]: Not a textual example
 
-[^23]: Not a textual example
+[^19]: Not a textual example
 
-**sa-<br>with, having, affected with**
+## sa-
+
+**with, having, affected with**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

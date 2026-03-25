@@ -1,4 +1,6 @@
-**adhi- ajjh-<br>over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside**
+## adhi- ajjh-
+
+**over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

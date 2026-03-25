@@ -5,7 +5,7 @@ conductor/
 GEMINI.md
 __pycache__
 .obsidian/
-tests/site/
+tests/
 site/
 .env
 .venv/

@@ -1,4 +1,6 @@
-**pari- pali-<br>around, all around, about, all about, overall, completely**
+## pari- pali-
+
+**around, all around, about, all about, overall, completely**
 
 |  |  |  |  |
 | --- | --- | --- | --- |

@@ -48,14 +48,14 @@ They are also grouped according to whether each letter is
 
 | Unvoiced<br>(*aghosa*) | Voiced<br>(*ghosavant*) |  |  |  |
 |---|---|---|---|---|
-| Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Nasals[^5]<br>(*nāsika*) |
+| Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Nasals[^3]<br>(*nāsika*) |
 | **k** | **kh** | **g** | **gh** | **ṅ** |
 | **c** | **ch** | **j** | **jh** | **ñ** |
 | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
 | **t** | **th** | **d** | **dh** | **n** |
 | **p** | **ph** | **b** | **bh** | **m** |
 
-[^5]: Please note the nasals of each group, you will need this information later on.
+[^3]: Please note the nasals of each group, you will need this information later on.
 
 In the end, we can combine the consonants into a complex table like this, which you should learn and understand.
 

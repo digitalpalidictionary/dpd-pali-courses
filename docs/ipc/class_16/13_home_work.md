@@ -25,11 +25,11 @@
 | etarahi | ind | adv | now |
 | kāmāni | n | nt.ac.pl | sensual pleasures |
 | paṭisevituṃ | v | inf | to indulge in |
-| **na-** | ind | neg | not[^4] |
+| **na-** | ind | neg | not[^2] |
 | **ahaṃ** | pn | 1.n.s | I |
 | **Now it is not possible for me to indulge in sensual pleasures.** |  |  |  |
 
-[^4]: This is because the exercise document does not include a space after the actual sandhi, but it does have an empty space after each sentence. This is done to prevent giving students hints about where the sandhi occurs.
+[^2]: This is because the exercise document does not include a space after the actual sandhi, but it does have an empty space after each sentence. This is done to prevent giving students hints about where the sandhi occurs.
 
 3\. Meet a day or two before class to discuss your answers. Each of you should take turns first reading the Pāli, then your translation. If your translation differs from others, discuss the grammar in detail to understand why it differs. You will learn a lot from this process.
 

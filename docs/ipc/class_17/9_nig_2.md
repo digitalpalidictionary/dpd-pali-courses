@@ -37,10 +37,10 @@ Please take note of the nasal of each group
 | dhamma**ṃ** | **c**a | dhamma**ñ**ca | and dhamma |  |
 | sa**ṃ** | **ch**avi | sa**ñ**chavī | adj. covered by skin |  |
 | sa**ṃ** | **j**āti | sa**ñ**jāti | f. birth, arising |  |
-| sa**ṃ** | **jh**ā | sa**ñ**jhā[^7] | f. evening |  |
+| sa**ṃ** | **jh**ā | sa**ñ**jhā[^5] | f. evening |  |
 | sa**ṃ** | **ñ**ā | sa**ñ**ñā | f. perception |  |
 
-[^7]: comm word
+[^5]: comm word
 
 **ṃ + retroflex \> ṇ**
 

@@ -258,6 +258,6 @@ when the meaning is another word - bahubbīhi
 
 (or)
 
-when the meaning of another (i.e. external) word (ya, ima, etc.) (is predominant) - it is called bahubbīhi samāsa[^10]
+when the meaning of another (i.e. external) word (ya, ima, etc.) (is predominant) - it is called bahubbīhi samāsa[^8]
 
-[^10]: Some grammatical sources recognize a complete bahubbīhi only when it is a noun.
+[^8]: Some grammatical sources recognize a complete bahubbīhi only when it is a noun.
