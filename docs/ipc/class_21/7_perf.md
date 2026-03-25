@@ -18,8 +18,9 @@ Whatever the exact meaning, there are so few examples of it in Pāli, that you a
 
 This is constructed by reduplicating the root, which then undergoes some morphological changes.
 
-| √bhū | √bhū + bhū | babhū + a | babhūva |
+|  |  |  |  |
 |---|---|---|---|
+| √bhū | √bhū + bhū | babhū + a | babhūva |
 
 **Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
 

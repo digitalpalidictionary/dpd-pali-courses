@@ -93,8 +93,9 @@
 
 ### so (according to) distributive adverbs
 
-| āyatana | + so | āyatana**so** | according to senses |
+|  |  |  |  |
 |---|---|---|---|
+| āyatana | + so | āyatana**so** | according to senses |
 | dhātu | + so | dhātu**so** | according to elements |
 | hetu | + so | hetu**so** | according to cause |
 | ṭhāna | + so | ṭhāna**so** | according to place |

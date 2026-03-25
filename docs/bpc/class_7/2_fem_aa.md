@@ -1,7 +1,8 @@
 # Feminine Nouns ending in -ā {: #feminine-nouns-ending-in-a}
 
-| 1.nom | vedan**ā** | vedan**ā** <br>vedan**āyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | vedan**ā** | vedan**ā** <br>vedan**āyo** |
 | 2.acc | vedan**aṃ** | vedan**ā** <br>vedan**āyo** |
 | 3.inst | vedan**āya** | vedan**āhi** |
 | 4.dat | vedan**āya** | vedan**ānaṃ** |

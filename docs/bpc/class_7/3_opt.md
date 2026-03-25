@@ -54,8 +54,9 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 It has two forms:
 
-| 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
 | 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you could be |
 | 1st | **assaṃ**<br>**siyaṃ** | I could be | **assāma**<br>**-** | we could be |
 

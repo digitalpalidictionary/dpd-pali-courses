@@ -2,8 +2,9 @@ less frequent *kita*:
 
 # tar
 
-| **total** | 95 |
+|  |  |
 |---|---|
+| **total** | 95 |
 
 **+ tar masculine agent nouns**
 
@@ -21,8 +22,9 @@ less frequent *kita*:
 
 ### u
 
-| **total** | 89 |
+|  |  |
 |---|---|
+| **total** | 89 |
 
 **+ u adjectives**
 
@@ -51,8 +53,9 @@ less frequent *kita*:
 
 ### ya
 
-| **total** | 75 |
+|  |  |
 |---|---|
+| **total** | 75 |
 
 **+ ya adjectives**
 
@@ -88,8 +91,9 @@ less frequent *kita*:
 
 ### ma
 
-| **total** | 63 |
+|  |  |
 |---|---|
+| **total** | 63 |
 
 **+ ma masculine nouns**
 
@@ -107,8 +111,9 @@ less frequent *kita*:
 
 ### itar
 
-| **total** | 49 |
+|  |  |
 |---|---|
+| **total** | 49 |
 
 **+ itar masculine agent nouns**
 
@@ -124,8 +129,9 @@ less frequent *kita*:
 
 ### ra
 
-| **total** | 47 |
+|  |  |
 |---|---|
+| **total** | 47 |
 
 **+ ra adjectives**
 
@@ -150,8 +156,9 @@ less frequent *kita*:
 
 ### ikā
 
-| **total** | 35 |
+|  |  |
 |---|---|
+| **total** | 35 |
 
 suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
@@ -174,8 +181,9 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 ### \*i
 
-| **total** | 34 |
+|  |  |
 |---|---|
+| **total** | 34 |
 
 **+ \*i feminine nouns**
 
@@ -195,8 +203,9 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 ### iya
 
-| **total** | 33 |
+|  |  |
 |---|---|
+| **total** | 33 |
 
 **+ iya adjectives**
 
@@ -222,8 +231,9 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 ### \*aṇa
 
-| **total** | 32 |
+|  |  |
 |---|---|
+| **total** | 32 |
 
 **+ \*aṇa neuter nouns**
 
@@ -235,8 +245,9 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 ### tha
 
-| **total** | 32 |
+|  |  |
 |---|---|
+| **total** | 32 |
 
 **+ tha masculine nouns**
 
@@ -264,15 +275,17 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 ### āna
 
-| **total** | 30 |
+|  |  |
 |---|---|
+| **total** | 30 |
 
 suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### as
 
-| **total** | 26 |
+|  |  |
 |---|---|
+| **total** | 26 |
 
 **+ as mano group masculine nouns**
 
@@ -289,8 +302,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### \*anā
 
-| **total** | 21 |
+|  |  |
 |---|---|
+| **total** | 21 |
 
 **+ \*anā feminine nouns**
 
@@ -305,8 +319,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### ū
 
-| **total** | 20 |
+|  |  |
 |---|---|
+| **total** | 20 |
 
 **+ ū masculine agent nouns**
 
@@ -318,8 +333,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### ika
 
-| **total** | 19 |
+|  |  |
 |---|---|
+| **total** | 19 |
 
 **+ ika adjectives**
 
@@ -337,8 +353,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### ala
 
-| **total** | 19 |
+|  |  |
 |---|---|
+| **total** | 19 |
 
 **+ ala neuter nouns and adjectives**
 
@@ -349,8 +366,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### tta
 
-| **total** | 18 |
+|  |  |
 |---|---|
+| **total** | 18 |
 
 **+ tta neuter nouns**
 
@@ -368,8 +386,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### \*ā
 
-| **total** | 18 |
+|  |  |
 |---|---|
+| **total** | 18 |
 
 **\*ā feminine nouns**
 
@@ -382,8 +401,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### \*u
 
-| **total** | 17 |
+|  |  |
 |---|---|
+| **total** | 17 |
 
 **+ \*u nouns and adjectives**
 
@@ -394,8 +414,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### ara
 
-| **total** | 16 |
+|  |  |
 |---|---|
+| **total** | 16 |
 
 **+ ara masculine nouns**
 
@@ -413,8 +434,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### yā
 
-| **total** | 16 |
+|  |  |
 |---|---|
+| **total** | 16 |
 
 **yā feminine nouns**
 
@@ -426,8 +448,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### \*tta
 
-| **total** | 14 |
+|  |  |
 |---|---|
+| **total** | 14 |
 
 **+ \*tta neuter nouns**
 
@@ -438,8 +461,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### \*ta
 
-| **total** | 13 |
+|  |  |
 |---|---|
+| **total** | 13 |
 
 **\*ta masc nouns**
 
@@ -450,13 +474,15 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 ### tāvī
 
-| **total** | 13 |
+|  |  |
 |---|---|
+| **total** | 13 |
 
 suffix **tāvī** is used to form **active past participles**
 
-| √ñā | to know | **+ tāvī** | aññā**tāvī** | has understood |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ñā | to know | **+ tāvī** | aññā**tāvī** | has understood |
 | √dis | to see | **+ tāvī** | dass**āvī** | has seen |
 | √bhuj | to eat | **+ tāvī** | bhut**tāvī** | has eaten |
 | √ji | to conquer | **+ tāvī** | viji**tāvī** | has conquered |
@@ -464,8 +490,9 @@ suffix **tāvī** is used to form **active past participles**
 
 ### \*ikā
 
-| **total** | 13 |
+|  |  |
 |---|---|
+| **total** | 13 |
 
 **+ \*ikā feminine nouns**
 
@@ -483,8 +510,9 @@ suffix **tāvī** is used to form **active past participles**
 
 ### tī
 
-| **total** | 11 |
+|  |  |
 |---|---|
+| **total** | 11 |
 
 **tī feminine nouns**
 

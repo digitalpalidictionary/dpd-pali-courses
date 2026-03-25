@@ -4,8 +4,9 @@ Numbers are **adjectives** that describe how many of something there are, etc.
 
 There are different types of numbers used in Pāli Grammar
 
-| 1. | cardinal | one, two, three, ... |
+|  |  |  |
 |---|---|---|
+| 1. | cardinal | one, two, three, ... |
 | 2. | ordinal | first, second, third, ... |
 | 3. | distributive | one by one, two by two |
 | 4. | fractional | 1/2, 1/3, 1/4, 1/16 |

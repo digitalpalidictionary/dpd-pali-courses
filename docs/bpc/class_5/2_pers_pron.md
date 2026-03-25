@@ -20,8 +20,9 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 [^14]: In the mūla part of the 4 Nikāyas
 
-| **ahaṃ** | **I** | **14232** |
+|  |  |  |
 |---|---|---|
+| **ahaṃ** | **I** | **14232** |
 | **maṃ** | **me** | **1173** |
 | mayā | by me, from me | 593 |
 | **me** | **with me, for me, my** | **4369** |

@@ -4,8 +4,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### nta (prp)
 
-| √añch | añcha | **+ nta** | añcha**nta** | turning; cutting |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √añch | añcha | **+ nta** | añcha**nta** | turning; cutting |
 | √bhaṇ | bhaṇa | **+ nta** | bhaṇa**nta** | telling, preaching |
 | √ḍah | ḍaha | **+ nta** | ḍaha**nta** | burning |
 | √gal | gaḷa | **+ nta** | gaḷa**nta** | dripping, trickling |
@@ -17,8 +18,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### āna (prp)
 
-| √ādā | ādiya | **+ āna** | ādiy**āna** | grasping |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ādā | ādiya | **+ āna** | ādiy**āna** | grasping |
 | √dhā | daha | **+ āna** | saddah**āna** | believing |
 | √es | esa | **+ āna** | es**āna** | seeking, searching |
 | √kam | kāmaya | **+ āna** | kāmay**āna** | desiring |
@@ -29,8 +31,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### māna (prp)
 
-| √as | sa | **+ māna** | sa**māna** | being |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √as | sa | **+ māna** | sa**māna** | being |
 | √bhaj | bhaja | **+ māna** | bhaja**māna** | associating |
 | √cu | cava | **+ māna** | cava**māna** | falling, dying |
 | √dā | dadā | **+ māna** | dada**māna** | giving |
@@ -45,8 +48,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### ta (pp)
 
-| √bhañj | **+ ta** | bha**gga** | broken, shattered |
+|  |  |  |  |
 |---|---|---|---|
+| √bhañj | **+ ta** | bha**gga** | broken, shattered |
 | √caj | **+ ta** | ca**tta** | given up, abandoned |
 | √ḍah | **+ ta** | da**ḍḍha** | burnt |
 | √gup | **+ ta** | gu**tta** | protected |
@@ -62,8 +66,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### ita (pp)
 
-| √citt | **+ ita** | citt**ita** | designed, created |
+|  |  |  |  |
 |---|---|---|---|
+| √citt | **+ ita** | citt**ita** | designed, created |
 | √jaṭ | **+ ita** | jaṭ**ita** | twisted, tangled |
 | √kup | **+ ita** | kup**ita** | angered, annoyed |
 | √luḷ | **+ ita** | luḷ**ita** | agitated, disturbed |
@@ -79,8 +84,9 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ### na (pp)
 
-| √bhid | **+ na** | bhin**na** | broken, damaged |
+|  |  |  |  |
 |---|---|---|---|
+| √bhid | **+ na** | bhin**na** | broken, damaged |
 | √car | **+ na** | c**i**ṇ**ṇa** | done, practised |
 | √chad | **+ na** | cha**nna** | covered, hidden |
 | √chid | **+ na** | chi**nna** | cut off, severed |

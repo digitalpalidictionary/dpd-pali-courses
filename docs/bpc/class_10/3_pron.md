@@ -42,8 +42,9 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assa** | t**esaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | t**esu** |
 
-| **tehi** pañcahi bhikkhusatehi | **with those** 500 monks |
+|  |  |
 |---|---|
+| **tehi** pañcahi bhikkhusatehi | **with those** 500 monks |
 | **tamhi tamhi** satta-nikāye | in whichever class of beings<br>(literally: **in that in that)** |
 | **tesaṃ** bhikkhūnaṃ etadahosi | this occurred **to those** monks |
 | namo **tassa** bhagavato | homage **to him**, to the Blessed One |
@@ -62,8 +63,9 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assā** | t**āsaṃ** <br>**tāsānaṃ** |
 | 7.loc | t**issaṃ** <br>t**assaṃ** <br>t**āyaṃ** | t**āsu** |
 
-| **tā** āpattiyo | **those** offences |
+|  |  |
 |---|---|
+| **tā** āpattiyo | **those** offences |
 | **tā** bhikkhuniyo | **those** nuns |
 | **tāya** sīla-sampadāya | **with that** moral attainment |
 | **tassā** rattiyā | **of that** night |
@@ -90,8 +92,9 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 It is declined exactly like ta, but with an initial *“***e***”*.
 
-| **etad** ahosi | lit. **this** was <br>(this thought occurred) |
+|  |  |
 |---|---|
+| **etad** ahosi | lit. **this** was <br>(this thought occurred) |
 | **etena** brāhmaṇo hoti | he is a Brahman **by this** |
 | **etassa** bhāsitassa attho | the meaning **of this** saying |
 
@@ -109,8 +112,9 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 
 Grammars give **many** forms, but these are the most common ones in the Tipiṭaka.
 
-| **ayaṃ** loko | **this** world |
+|  |  |
 |---|---|
+| **ayaṃ** loko | **this** world |
 | **ime** sattā | **these** beings |
 | **iminā** ariyena saṃvarena | **with this** noble restraint |
 | **imehi** pañcahi aṅgehi | **with these** five factors |
@@ -133,8 +137,9 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | a**ssā** <br>imi**ssā** <br>im**āya** | im**āsaṃ** |
 | 7.loc | imi**ssaṃ** <br>im**āyaṃ** | im**āsu** |
 
-| **imā** aṭṭha parisā | **these** eight assemblies |
+|  |  |
 |---|---|
+| **imā** aṭṭha parisā | **these** eight assemblies |
 | **imāhi** gāthāhi | **with these** verses |
 | **imāya** dhammadesanāya | **from this** dhamma talk |
 | **imissā** pathaviyā | **of this** earth |

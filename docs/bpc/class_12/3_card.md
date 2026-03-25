@@ -4,8 +4,9 @@ Cardinal Numbers are very common in the Tipiṭaka. The Buddha’s teachings ver
 
 If you want to study numbers, just open the Aṅguttara Nikāya.
 
-| **eko** dhammo | **one** thing |
+|  |  |
 |---|---|
+| **eko** dhammo | **one** thing |
 | **dve** api jātiyo | just **two** lives |
 | **tayo** pāsāde | **three** mansions |
 | **cattāri** ariyasaccāni | **four** noble truths |
@@ -52,8 +53,9 @@ no gender, plural
 
 agrees in case only
 
-| 1.nom | dv**e** duv**e** |
+|  |  |
 |---|---|
+| 1.nom | dv**e** duv**e** |
 | 2.acc | dv**e** duv**e** |
 | 3.instr | dv**īhi** |
 | 4.dat | dv**innaṃ** |
@@ -99,8 +101,9 @@ no gender, plural
 
 agrees in case only
 
-| 1.nom | pañc**a** |
+|  |  |
 |---|---|
+| 1.nom | pañc**a** |
 | 2.acc | pañc**a** |
 | 3.instr | pañc**ahi** |
 | 4.dat | pañc**annaṃ** |
@@ -112,8 +115,9 @@ agrees in case only
 
 same as *pañca*. no gender, plural. agrees in case only
 
-| 6 | cha |
+|  |  |
 |---|---|
+| 6 | cha |
 | 7 | satta |
 | 8 | aṭṭha |
 | 9 | nava |
@@ -155,8 +159,9 @@ neuter singular and plural
 
 agrees in case and number
 
-| 1.nom | sat**aṃ** | sat**ā** sat**āni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | sat**aṃ** | sat**ā** sat**āni** |
 | 2.acc | sat**aṃ** | sat**e** sat**āni** |
 | 3.instr | sat**ena** | sat**ehi** |
 | 4.dat | sat**āya** <br>sat**assa** | sat**ānaṃ** |
@@ -170,8 +175,9 @@ feminine singular, sometimes plural
 
 agrees in case only
 
-| 1.nom | koṭ**i** | koṭ**ī** <br>koṭ**iyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | koṭ**i** | koṭ**ī** <br>koṭ**iyo** |
 | 2.acc | koṭ**iṃ** | koṭ**ī** <br>koṭ**iyo** |
 | 3.instr | koṭ**iyā** | koṭ**īhi** |
 | 4.dat | koṭ**iyā** | koṭ**īnaṃ** |
@@ -195,8 +201,9 @@ agrees in case only
 
 These are the only numbers encountered in the Tipiṭaka that have been *actually* covered by DPD so far.
 
-| 1 | eka |
+|  |  |
 |---|---|
+| 1 | eka |
 | 2 | dvi, dve, duve |
 | 3 | ti (tayo, tīni, tisso) |
 | 4 | catu (caturo, cattāro, catasso, cattāri) |

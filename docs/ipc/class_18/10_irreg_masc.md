@@ -21,8 +21,9 @@ Today we will look at **manas**, **go, atta** and **rāja**
 
 Similarly
 
-| **āpas** | water | **siras** | head |
+|  |  |  |  |
 |---|---|---|---|
+| **āpas** | water | **siras** | head |
 | **ayas** | iron | **tamas** | darkness, ignorance |
 | **cetas** | mind | **tapas** | heat, self-mortification |
 | **chandas** | metrics | **tejas** | flame, fire |
@@ -48,8 +49,9 @@ In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS d
 
 The main feature of this group of nouns is they take an **-o** ending in compounds
 
-| āp**o**kāya | body of water |
+|  |  |
 |---|---|
+| āp**o**kāya | body of water |
 | ay**o**guḷa | iron ball |
 | cet**o**vimutti | liberation of mind |
 | man**o**samphassa | mental contact |

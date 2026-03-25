@@ -54,8 +54,9 @@ At which time, monks, the **thieves** are **powerful** …
 
 ### Declension of *-ant masc*
 
-| 1.nom | bhagav**ā** <br>bhagav**anto** | bhagav**anto** <br>bhagav**antā** |
+|  |  |  |
 |---|---|---|
+| 1.nom | bhagav**ā** <br>bhagav**anto** | bhagav**anto** <br>bhagav**antā** |
 | 2.acc | bhagav**antaṃ** | bhagav**ante** |
 | 3.inst | bhagav**atā** | bhagav**antehi** |
 | 4.dat | bhagav**ato** <br>bhagav**antassa** | bhagav**ataṃ** <br>bhagav**antānaṃ** |

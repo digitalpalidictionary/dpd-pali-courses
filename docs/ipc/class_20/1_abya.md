@@ -22,8 +22,9 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ### Some abyayībhāva compounds
 
-| **anu** | following | **vassa** | year | **anuvassaṃ** | adv | annually, yearly |
+|  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| **anu** | following | **vassa** | year | **anuvassaṃ** | adv | annually, yearly |
 | **pacchā** | after | **bhatta** | meal | **pacchābhattaṃ** | adv | after the meal |
 | **tato** | from | **nidāna** | source | **tatonidānaṃ** | adv | on account of that |
 | **tiro** | across | **pākāra** | rampart | **tiropākāraṃ** | adv | through a rampart |
@@ -36,8 +37,9 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ### Sometimes the original case ending is maintained
 
-| **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^9] | before dawn |
+|  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^9] | before dawn |
 | **ajja** | today | **aṇho** | day | **ajjaṇho** | adv | this day |
 | **anu** | following | **pubbena** | with previous | **anupubbena** | adv | gradually |
 | **antarā** | between | **magge** | on road | **antarāmagge** | adv | along the road,<br>on the way |

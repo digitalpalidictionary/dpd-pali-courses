@@ -4,8 +4,9 @@ In DPD there are more than 150 suffixes of primary derivatives that are used to 
 
 The **first 18** account for **83%** of the words formed by *kita* suffixes, so these are the most important to know.
 
-| 1 | **+ ta** | 2014 |
+|  |  |  |
 |---|---|---|
+| 1 | **+ ta** | 2014 |
 | 2 | **+ a** | 1684 |
 | 3 | **+ \*a** | 1442 |
 | 4 | **+ nta** | 1395 |
@@ -34,8 +35,9 @@ Here are most of *kita* suffixes in DPD
 
 suffix **ta** is the most common kita suffix. As we saw last week, it is used to form **past participles**, but also a large group of **adjectives** and a few **neuter nouns** and **masculine nouns** which are derived from the past participle.
 
-| **pp** | 1617 |
+|  |  |
 |---|---|
+| **pp** | 1617 |
 | **adj** | 158 |
 | **nt** | 147 |
 | **masc** | 92 |
@@ -67,8 +69,9 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 
 suffix **a** is used to form a large group of **masculine nouns**, **masculine agent nouns**, **adjectives** and **neuter nouns.**
 
-| **masc** | 741 |
+|  |  |
 |---|---|
+| **masc** | 741 |
 | **adj** | 664 |
 | **nt** | 255 |
 | **total** | **1684** |
@@ -132,8 +135,9 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 
 suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nouns**, and a few **adjectives** and **neuter nouns**
 
-| **masc** | 1064 |
+|  |  |
 |---|---|
+| **masc** | 1064 |
 | **adj** | 299 |
 | **nt** | 75 |
 | **total** | **1442** |
@@ -200,8 +204,9 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 
 suffix **nta** is used to form the **present participle**, which we looked at last week. it also forms a tiny group of **passive present participles**, **nouns** and **adjectives** based on the present participle
 
-| **prp** | 1378 |
+|  |  |
 |---|---|
+| **prp** | 1378 |
 | **adj** | 7 |
 | **masc** | 8 |
 | **total** | **1395** |
@@ -224,8 +229,9 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 
 suffix **ita** is most often used to form **past participles**, but is also used to create a handful of **adjectives**, **neuter nouns** and a few **masculine nouns** which are derived from a past participle.
 
-| **pp** | 1066 |
+|  |  |
 |---|---|
+| **pp** | 1066 |
 | **nt** | 110 |
 | **adj** | 105 |
 | **masc** | 20 |
@@ -261,8 +267,9 @@ suffix **ita** is most often used to form **past participles**, but is also used
 
 suffix **ana** is used to form a large group of **neuter nouns** and a few **adjectives**
 
-| **nt** | 1017 |
+|  |  |
 |---|---|
+| **nt** | 1017 |
 | **adj** | 118 |
 | **masc** | 26 |
 | **total** | **1162** |
@@ -297,8 +304,9 @@ suffix **māna**, as we saw on the last class, is used to form the **present par
 
 suffix **na** is used to form a large group **of past participles** and a few **adjectives** and **masculine** and **neuter nouns.**
 
-| **pp** | 352 |
+|  |  |
 |---|---|
+| **pp** | 352 |
 | **masc** | 34 |
 | **adj** | 31 |
 | **nt** | 28 |
@@ -330,8 +338,9 @@ We already looked at the past participles last week, can you think of an example
 
 suffix **ti** is used mostly to form **feminine nouns**, but there are also a few **adjectives** and **masculine nouns**
 
-| **fem** | 297 |
+|  |  |
 |---|---|
+| **fem** | 297 |
 | **adj** | 12 |
 | **masc** | 6 |
 | **total** | **315** |
@@ -355,8 +364,9 @@ suffix **ti** is used mostly to form **feminine nouns**, but there are also a fe
 
 suffix **aṇa** is used to form a large group of **neuter nouns** and a few **adjectives** and **masculine nouns**
 
-| **nt** | 204 |
+|  |  |
 |---|---|
+| **nt** | 204 |
 | **adj** | 47 |
 | **masc** | 13 |
 | **total** | 265 |
@@ -398,8 +408,9 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 
 suffix **ā** is only used to form **feminine nouns**, many of them **abstract** feminine nouns
 
-| **fem** | 246 |
+|  |  |
 |---|---|
+| **fem** | 246 |
 
 **+ ā feminine nouns**
 
@@ -420,8 +431,9 @@ suffix **ā** is only used to form **feminine nouns**, many of them **abstract**
 
 suffix **aka** is used to form a large group of **masculine agent nouns** and a few **adjectives** and **neuter nouns**
 
-| **masc** | 111 |
+|  |  |
 |---|---|
+| **masc** | 111 |
 | **adj** | 88 |
 | **nt** | 18 |
 | **total** | **217** |
@@ -455,8 +467,9 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 
 suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are often used as **masculine agent nouns**, as well as some **feminine nouns**
 
-| **adj** | 140 |
+|  |  |
 |---|---|
+| **adj** | 140 |
 | **masc** | 24 |
 | **fem** | 18 |
 | **total** | **182** |
@@ -510,8 +523,9 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 
 suffix **\*ana** is used to form a large group of **neuter nouns** and a few **adjectives**
 
-| **nt** | 120 |
+|  |  |
 |---|---|
+| **nt** | 120 |
 | **adj** | 25 |
 | **masc** | 6 |
 | **total** | **151** |
@@ -570,8 +584,9 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 
 suffix **i** is used to forming a large group of **feminine and masculine nouns** and a few **adjectives** and **neuter nouns**
 
-| **fem** | 60 |
+|  |  |
 |---|---|
+| **fem** | 60 |
 | **masc** | 47 |
 | **adj** | 19 |
 | **nt** | 10 |
@@ -619,8 +634,9 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 ### \*aka
 
-| **masc** | 86 |
+|  |  |
 |---|---|
+| **masc** | 86 |
 | **adj** | 44 |
 | **nt** | 8 |
 | **total** | 138 |

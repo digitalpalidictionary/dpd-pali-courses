@@ -2,16 +2,18 @@
 
 There are **2 Voices**
 
-| Active Voice<br>(parassapada) | the action transfers to another person<br>e.g. hana**ti** – he hits (someone else) |
+|  |  |
 |---|---|
+| Active Voice<br>(parassapada) | the action transfers to another person<br>e.g. hana**ti** – he hits (someone else) |
 | Middle or Reflective Voice<br>(attanopada)[^6] | the action comes back to the agent <br>e.g. hana**te** – he hits (himself) |
 
 [^6]: This is discussed in details in the Intermediate Pāli Course
 
 There are **2 numbers**
 
-| 1. | singular | vada**ti** | he speaks |
+|  |  |  |  |
 |---|---|---|---|
+| 1. | singular | vada**ti** | he speaks |
 | 2. | plural | vada**nti** | they speak |
 
 And there are **3 persons**

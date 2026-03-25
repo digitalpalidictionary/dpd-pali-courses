@@ -1,3 +1,8 @@
+/* Hide table header for tables marked with .no-header */
+.md-typeset table.no-header thead {
+    display: none !important;
+}
+
 /* image border */
 .md-typeset img {
     border: 2px solid var(--gray-transparent);

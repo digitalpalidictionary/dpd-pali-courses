@@ -9,8 +9,9 @@
 
 ### Masculine nouns ending in -u like bhikkhu {: #declension-of-u-masc}
 
-| 1. nom | bhikkh**u** | bhikkh**ū** bhikkh**avo** |
+|  |  |  |
 |---|---|---|
+| 1. nom | bhikkh**u** | bhikkh**ū** bhikkh**avo** |
 | 2. acc | bhikkh**uṃ** | bhikkh**ū** bhikkh**avo** |
 | 3. instr | bhikkh**unā** | bhikkh**ūhi** |
 | 4. dat | bhikkh**uno** bhikkh**ussa** | bhikkh**ūnaṃ** |
@@ -29,8 +30,9 @@ the Sanskrit equivalent, ending in **-tṛ**.
 
 They are collectively known as **agent nouns** because they describe a person who does the action of the verbal root
 
-| √sās | to teach | √sās \> sass + tar \> satthar | teacher |
+|  |  |  |  |
 |---|---|---|---|
+| √sās | to teach | √sās \> sass + tar \> satthar | teacher |
 | √bhar | to support | √bhar + tar \> bhattar | lord |
 | √khā | to tell | ā + √khā + tar \> akkhātar | speaker |
 | √man | to think | √man + tar \> mantar | thinker |
@@ -93,7 +95,7 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
 |  | u | tu 2 | tu1 | u | tu2 | tu1 |
 |---|---|---|---|---|---|---|
-|  | singular | plural |  |  |  |  |
+|  | singular | plural | singular | plural | singular | plural |
 | 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū** bhikkh**avo** | bhāt**aro** | satth**āro** |
 | 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū** bhikkh**avo** | bhāt**are** <br>bhāt**aro** | satth**āre** satth**āro** |
 | 3.inst | bhikkh**unā** | bhāt**arā** <br>bhāt**unā** | satth**ārā** satth**unā** | bhikkh**ūhi** | bhāt**arehi** bhāt**ūhi** | satth**ārehi** |

@@ -42,15 +42,17 @@ There are 3 ways to form present participles
 
 3\. add -**āna** to the verbal base (found in verse)
 
-| 1 | √gam | to go | gaccha | + nta | gaccha**nta** | going |
+|  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| 1 | √gam | to go | gaccha | + nta | gaccha**nta** | going |
 | 2 | √gam | to go | gaccha | + māna | gaccha**māna** | going |
 | 3 | √gam | to go | gaccha | + āna | gacch**āna** | going |
 
 **present participles ending in -nta**
 
-| √as | to be | sa | sa**nta** | existing |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √as | to be | sa | sa**nta** | existing |
 | √bhaṇ | to speak | bhaṇa | bhaṇa**nta** | speaking |
 | √bhū | to be | bhava | bhava**nta** | being |
 | √car | to walk | cara | cara**nta** | walking |
@@ -66,8 +68,9 @@ There are 3 ways to form present participles
 
 **present participles ending in -māna**
 
-| √as | to be | sa | sa**māna** | being |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √as | to be | sa | sa**māna** | being |
 | √bhaj | to associate | bhaja | bhaja**māna** | associating |
 | √budh | to know | bujjha | bujjha**māna** | knowing |
 | √car | to walk | cara | cara**māna** | walking |
@@ -84,8 +87,9 @@ DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapa
 
 [^24]: This data is relevant for the year 2025
 
-| √ādā | to take | ādiya | ādiy**āna** | grasping |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ādā | to take | ādiya | ādiy**āna** | grasping |
 | √es | to seek | esa | es**āna** | seeking |
 | √īr | to move | iriya | iriy**āna** | going around |
 | √kam | to desire | kāmaya | kāmay**āna** | desiring |
@@ -102,8 +106,9 @@ then the **participle** is masculine / feminine / neuter
 
 **Masculine ending in -māna** (like nara)
 
-| 1.nom | gaccha**māno** | gaccha**mānā** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gaccha**māno** | gaccha**mānā** |
 | 2.acc | gaccha**mānaṃ** | gaccha**māne** |
 | 3.inst | gaccha**mānena** | gaccha**mānehi** |
 | 4.dat | gaccha**mānāya** gaccha**mānassa** | gaccha**mānānaṃ** |
@@ -116,8 +121,9 @@ What do you notice?
 
 **Feminine ending in -māna** (like vedanā)
 
-| 1.nom | gaccha**mānā** | gaccha**mānā** <br>gaccha**mānāyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gaccha**mānā** | gaccha**mānā** <br>gaccha**mānāyo** |
 | 2.acc | gaccha**mānaṃ** | gaccha**mānā** <br>gaccha**mānāyo** |
 | 3.inst | gaccha**mānāya** | gaccha**mānāhi** |
 | 4.dat | gaccha**mānāya** | gaccha**mānānaṃ** |
@@ -128,8 +134,9 @@ What do you notice?
 
 **Neuter ending in -māna** (like cittaṃ)
 
-| 1.nom | gaccha**mānaṃ** | gaccha**mānā** <br>gaccha**mānāni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gaccha**mānaṃ** | gaccha**mānā** <br>gaccha**mānāni** |
 | 2.acc | gaccha**mānaṃ** | gaccha**māne** <br>gaccha**mānāni** |
 | 3.inst | gaccha**mānena** | gaccha**mānehi** |
 | 4.dat | gaccha**mānāya** <br>gaccha**mānassa** | gaccha**mānānaṃ** |
@@ -140,8 +147,9 @@ What do you notice?
 
 **Masculine ending in -anta (**like bhagavant**)**
 
-| 1.nom | gacch**aṃ** <br>gacch**anto** | gacch**anto** <br>gacch**antā** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gacch**aṃ** <br>gacch**anto** | gacch**anto** <br>gacch**antā** |
 | 2.acc | gacch**antaṃ** | gacch**ante** |
 | 3.inst | gacch**atā** <br>gacch**antena** | gacch**antehi** |
 | 4.dat | gacch**ato** <br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
@@ -152,8 +160,9 @@ What do you notice?
 
 **Feminine ending in -ntī** (like nadī)
 
-| 1.nom | gaccha**ntī** | gaccha**ntī** <br>gaccha**ntiyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gaccha**ntī** | gaccha**ntī** <br>gaccha**ntiyo** |
 | 2.acc | gaccha**ntiṃ** | gaccha**ntī** <br>gaccha**ntiyo** |
 | 3.inst | gaccha**ntiyā** | gaccha**ntīhi** |
 | 4.dat | gaccha**ntiyā** | gaccha**ntīnaṃ** |
@@ -164,8 +173,9 @@ What do you notice?
 
 **Neuter ending in -anta** (like bhagavant/cittaṃ)
 
-| 1.nom | gacch**aṃ** | gacch**antā** <br>gacch**antāni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | gacch**aṃ** | gacch**antā** <br>gacch**antāni** |
 | 2.acc | gacch**antaṃ** | gacch**ante** <br>gacch**antāni** |
 | 3.inst | gacch**atā** <br>gacch**antena** | gacch**antehi** |
 | 4.dat | gacch**ato** <br>gacch**antassa** | gacch**ataṃ** <br>gacch**antānaṃ** |

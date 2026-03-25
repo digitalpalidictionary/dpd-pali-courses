@@ -4,8 +4,9 @@ This is a small class of nouns, mostly formed from the **ññū** (knower) and *
 
 Many of these nouns can also be used as adjectives.
 
-| 1.nom | vid**ū** | vid**ū** <br>vid**uno** <br>vid**ūno** |
+|  |  |  |
 |---|---|---|
+| 1.nom | vid**ū** | vid**ū** <br>vid**uno** <br>vid**ūno** |
 | 2.acc | vid**uṃ** | vid**ū** <br>vid**uno** <br>vid**ūno** |
 | 3.inst | vid**unā** | vid**ūhi** |
 | 4.dat | vid**uno** | vid**ūnaṃ** |

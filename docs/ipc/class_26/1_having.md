@@ -15,8 +15,9 @@ Today we will look at the other categories of secondary derivatives, starting wi
 
 ### ika (having, possessing)
 
-| ābādha | + ika | ābādh**ika** | having sickness |
+|  |  |  |  |
 |---|---|---|---|
+| ābādha | + ika | ābādh**ika** | having sickness |
 | aṭṭhaṅga | + ika | aṭṭhaṅg**ika** | having 8 parts |
 | ekabhatta | + ika | ekabhatt**ika** | having one meal a day |
 | jalla | + ika | jall**ika** | having mud, muddy |

@@ -21,8 +21,9 @@ These are very common, more than 17000 words in the current DPD database[^21].
 
 ### Declension of Neuter Nouns ending in -a {: #declension-of-neuter-nouns-ending-in-a}
 
-| 1.nom | citt**aṃ** | citt**ā**<br>citt**āni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | citt**aṃ** | citt**ā**<br>citt**āni** |
 | 2.acc | citt**aṃ** | citt**e**<br>citt**āni** |
 | 3.inst | citt**ena** | citt**ehi** |
 | 4.dat | citt**āya** <br>citt**assa** | citt**ānaṃ** |
@@ -50,8 +51,9 @@ What do you notice in regard to the declension of neuter nouns?
 
 These are very rare, there are only few of them in the Tipiṭaka.
 
-| ādi | beginning, and so on, etc |
+|  |  |
 |---|---|
+| ādi | beginning, and so on, etc |
 | akkhi | eye |
 | aṭṭhi | bone |
 | dadhi | curd |
@@ -63,8 +65,9 @@ These are very rare, there are only few of them in the Tipiṭaka.
 
 ### Declension of Neuter Nouns ending in -i {: #declension-of-neuter-nouns-ending-in-i}
 
-| 1.nom | aṭṭh**i** | aṭṭh**ī** <br>aṭṭh**īni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | aṭṭh**i** | aṭṭh**ī** <br>aṭṭh**īni** |
 | 2.acc | aṭṭh**iṃ** | aṭṭh**ī** <br>aṭṭh**īni** |
 | 3.inst | aṭṭh**inā** | aṭṭh**īhi** |
 | 4.dat | aṭṭh**ino** <br>aṭṭh**issa** | aṭṭh**īnaṃ** |
@@ -108,8 +111,9 @@ These are also rare, at most 400 in the current DPD database[^22].
 
 ### Declension of Neuter Nouns ending in -u {: #declension-of-neuter-nouns-ending-in-u}
 
-| 1.nom | āy**u**<br>āy**uṃ** | āy**ū** <br>āy**ūni** |
+|  |  |  |
 |---|---|---|
+| 1.nom | āy**u**<br>āy**uṃ** | āy**ū** <br>āy**ūni** |
 | 2.acc | āy**uṃ** | āy**ū** <br>āy**ūni** |
 | 3.inst | āy**unā** | āy**ūhi** |
 | 4.dat | āy**uno** <br>āy**ussa** | āy**ūnaṃ** |

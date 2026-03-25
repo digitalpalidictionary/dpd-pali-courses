@@ -66,7 +66,8 @@ Monks, these four times **being** well **developed,** being well rotated, cause 
 
 ### Irregular Causative Passive Bases
 
-| √ṭhā | to stand | \*āpe + īya | ṭhapiyya | ṭhapiyyati | is set aside; lit. is caused to stand |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| √ṭhā | to stand | \*āpe + īya | ṭhapiyya | ṭhapiyyati | is set aside; lit. is caused to stand |
 | √sad | to sink, sit | \*āpe + īya | sīdāpīya | nisīdāpīyati | causes to be seated |
 | √ñā | to know | \*āpe + iya | ñapiya | paññapiyamāna | being taught; lit. being caused to be known |

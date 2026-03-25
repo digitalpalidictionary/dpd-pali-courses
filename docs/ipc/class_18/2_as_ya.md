@@ -39,8 +39,9 @@ prefixes + √root + ya \> ptp
 
 prefixes + √root + **ya** \> gerund
 
-| ā | √gam | (to go) | + ya | āga**mm**a | arriving |  |
+|  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| ā | √gam | (to go) | + ya | āga**mm**a | arriving |  |
 | vi | √sajj | (to relinquish) | + ya | visajja | releasing |  |
 
 **k + y \> kk**

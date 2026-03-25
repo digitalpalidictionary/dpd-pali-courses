@@ -1,7 +1,8 @@
 # Irregular Causative Bases
 
-| √jan | to be born | \*e | jane | janeti | generates |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| √jan | to be born | \*e | jane | janeti | generates |
 | √ādā | to take | \*āpe | ādape | samādapeti | arouses |
 | √ar | to attain | \*āpe | appe | appeti | reaches |
 | √car | to walk | \*e | chāre | nicchāreti | says |

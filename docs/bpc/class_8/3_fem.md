@@ -2,8 +2,9 @@
 
 ### Feminine Nouns ending in -i {: #feminine-nouns-ending-in-i}
 
-| 1.nom | bhūm**i** | bhūm**ī** bhūm**iyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | bhūm**i** | bhūm**ī** bhūm**iyo** |
 | 2.acc | bhūm**iṃ** | bhūm**ī** bhūm**iyo** |
 | 3.inst | bhūm**iyā** | bhūm**īhi** |
 | 4.dat | bhūm**iyā** | bhūm**īnaṃ** |
@@ -30,8 +31,9 @@ this group also includes common feminine nouns like:
 
 **itthī** (woman), **pathavī** (earth), **bhaginī** (sister) etc.
 
-| 1.nom | kumār**ī** | kumār**ī** <br>kumār**iyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | kumār**ī** | kumār**ī** <br>kumār**iyo** |
 | 2.acc | kumār**iṃ** | kumār**ī** <br>kumār**iyo** |
 | 3.inst | kumār**iyā** | kumār**īhi** |
 | 4.dat | kumār**iyā** | kumār**īnaṃ** |
@@ -42,8 +44,9 @@ this group also includes common feminine nouns like:
 
 ### Feminine Nouns ending in -u {: #feminine-nouns-ending-in-u}
 
-| 1.nom | yāg**u** | yāg**ū** <br>yāg**uyo** |
+|  |  |  |
 |---|---|---|
+| 1.nom | yāg**u** | yāg**ū** <br>yāg**uyo** |
 | 2.acc | yāg**uṃ** | yāg**ū** <br>yāg**uyo** |
 | 3.inst | yāg**uyā** | yāg**ūhi** |
 | 4.dat | yāg**uyā** | yāg**ūnaṃ** |
@@ -58,8 +61,9 @@ the most common feminine noun in this group - **dhātu**
 
 These are irregular in form
 
-| 1.nom | māt**ā** | māt**aro** |
+|  |  |  |
 |---|---|---|
+| 1.nom | māt**ā** | māt**aro** |
 | 2.acc | māt**araṃ** | māt**aro** |
 | 3.inst | māt**arā** <br>māt**uyā** | māt**ūhi** <br>māt**arehi** |
 | 4.dat | māt**uyā** <br>m**ātu** | māt**arānaṃ** <br>māt**ānaṃ** <br>māt**ūnaṃ** |

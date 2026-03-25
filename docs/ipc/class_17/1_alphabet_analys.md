@@ -30,8 +30,9 @@ Just to refresh your memory, there are 41 letters
 
 Let’s look at the consonants in more detail. Unlike the English alphabet, you will notice that the consonants are grouped according to the place where they are pronounced.
 
-| Guttural <br>(*kaṇṭhaja*) | kavagga | **k** | **kh** | **g** | **gh** | **ṅ** |
+|  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
+| Guttural <br>(*kaṇṭhaja*) | kavagga | **k** | **kh** | **g** | **gh** | **ṅ** |
 | Palatal<br>(*tāluja*) | cavagga | **c** | **ch** | **j** | **jh** | **ñ** |
 | Cerebral or Retroflex<br>(*muddhaja*) | ṭavagga | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
 | Dental<br>(*dantaja*) | tavagga | **t** | **th** | **d** | **dh** | **n** |

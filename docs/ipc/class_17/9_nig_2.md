@@ -10,8 +10,9 @@ In Kaccāyana this is called (31) **vagg’antaṃ vā vagge.**
 
 Please take note of the nasal of each group
 
-| **guttural** | **k** | **kh** | **g** | **gh** | **ṅ** |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| **guttural** | **k** | **kh** | **g** | **gh** | **ṅ** |
 | **palatal** | **c** | **ch** | **j** | **jh** | **ñ** |
 | **cerebral** | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
 | **dental** | **t** | **th** | **d** | **dh** | **n** |

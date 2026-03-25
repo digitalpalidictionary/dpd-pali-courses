@@ -28,8 +28,9 @@ root + tāvī \> app
 
 base + āvī \> app
 
-| √ñā | ājānāti | aññā**tāvī** | has understood |
+|  |  |  |  |
 |---|---|---|---|
+| √ñā | ājānāti | aññā**tāvī** | has understood |
 | √ñā | parijānāti | pariññā**tāvī** | has perfectly understood |
 | √dis | passati | dass**āvī** | has seen |
 | √bhuj | bhuñjati | bhut**tāvī** | has eaten |

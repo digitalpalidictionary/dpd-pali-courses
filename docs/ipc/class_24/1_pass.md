@@ -36,8 +36,9 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ### Root + ya
 
-| √dis | to see | ya | dissa | dissati | is seen |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| √dis | to see | ya | dissa | dissati | is seen |
 | √khād | to chew | ya | khajja | khajjati | is chewed |
 | √kilis | to dirty | ya | kilissa | kilissati | is dirtied |
 | √luj | to break | ya | lujja | lujjati | is broken |
@@ -47,8 +48,9 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ### Root + iya
 
-| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^24] | is carried |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^24] | is carried |
 | √pūj | to honour | iya | pūjiya | pūjiyati | is worshipped |
 | √cud | to accuse | iya | c**o**diya | codiyati | is accused |
 | √add | to afflict | iya | a**ṭṭ**iya | aṭṭiyati | is troubled |
@@ -57,8 +59,9 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ### Root + īya
 
-| √har | to carry | īya | harīya | harīyati | is carried |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
+| √har | to carry | īya | harīya | harīyati | is carried |
 | √jīr | to get old | īya | jīrīya | jīrīyati | is aged |
 | √kar | to do | īya | karīya | karīyati | is done |
 | √mah | to honour | īya | mahīya | mahīyati | is honoured |

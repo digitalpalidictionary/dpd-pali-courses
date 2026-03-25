@@ -14,8 +14,9 @@ What are the **four** different kinds of Group 1 bhūvādigaṇa roots?
 
 These roots **end in a consonant** and the conjugational sign **-a-** is added directly to the root to make the base. This is by far the most common group in Pāli.
 
-| √gam | a | **gaccha** | gacchati | goes |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √gam | a | **gaccha** | gacchati | goes |
 | √dis | a | **passa** | passati | sees |
 | √kam | a | kama | kamati | goes, enters |
 | √as | a | **as**, **sa** | atthi | is |
@@ -39,8 +40,9 @@ These roots **end in a consonant** and the conjugational sign **-a-** is added d
 
 These roots **end in a vowel** and the verbal terminations are added directly to the root. Sometimes the vowel undergoes **guṇa**.
 
-| √i | a | **e** | eti | goes |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √i | a | **e** | eti | goes |
 | √nī | a | n**e** | neti | leads |
 | √yā | a | yā | yāti | goes |
 | √hū | a | h**o** | hoti | is |
@@ -53,8 +55,9 @@ These roots **end in a vowel** and the verbal terminations are added directly to
 
 These roots **end in i ī u ū** and, when they take the conjugational sign **-a-**, they are transformed to **ay** and **av** according to **vuddhi**.
 
-| √bhū | a | bh**ava** | bhavati | exists |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √bhū | a | bh**ava** | bhavati | exists |
 | √si | a | s**aya** | nissayati | depends on |
 | √pā | a | p**iva** | pivati | drinks |
 | √su | a | s**ava** | savati | flows |
@@ -66,16 +69,18 @@ These roots **end in i ī u ū** and, when they take the conjugational sign **-a
 
 These roots undergo reduplication to form the base.
 
-| √ṭhā | a | ṭhā + ṭhā \> tiṭṭhā | tiṭṭhāti | stands |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ṭhā | a | ṭhā + ṭhā \> tiṭṭhā | tiṭṭhāti | stands |
 | √dā | a | dā + dā \> dadā | dadāti | gives |
 | √hā | a | hā + hā \> jahā | jahāti | abandons |
 | √hu | a | hu + hu \> juha | juhati | offers oblation |
 
 ### 2. rudhādigaṇa (-ṃa-)
 
-| √yuj | ṃa | yuñja | yuñjati | yokes, joins |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √yuj | ṃa | yuñja | yuñjati | yokes, joins |
 | √bhuj | ṃa | bhuñja | bhuñjati | eats, enjoys |
 | √muc | ṃa | muñca | muñcati | releases, frees |
 | √chid | ṃa | chinda | chindati | cuts |
@@ -89,8 +94,9 @@ These roots undergo reduplication to form the base.
 
 ### 3. divādigaṇa (-ya-)
 
-| √pad | ya | pajja | pajjati | goes on |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √pad | ya | pajja | pajjati | goes on |
 | √ādā | ya | ād**i**ya | ād**i**yati | takes, grasps |
 | √man | ya | mañña | maññati | thinks |
 | √sam | ya | samma | sammati | calms, stops |
@@ -105,8 +111,9 @@ These roots undergo reduplication to form the base.
 
 ### 4. svādigaṇa (-ṇu- -ṇā- -uṇā-)
 
-| √su | ṇā | suṇā | suṇāti | hears |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √su | ṇā | suṇā | suṇāti | hears |
 | √ap | uṇā | apuṇā | pāpuṇāti | reaches |
 | √sak | ṇu | sakko | sakkoti | is able |
 | √hi | ṇā | hiṇā | pahiṇāti | sends |
@@ -115,8 +122,9 @@ As you can see, these are quite rare.
 
 ### 5. kiyādigaṇa (-nā-)
 
-| √ñā | nā | jānā | jānāti | knows |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ñā | nā | jānā | jānāti | knows |
 | √ci | nā | cinā | vicināti | examines |
 | √mun | nā | munā | munāti | knows, think |
 | √ji | nā | jinā | jināti | conquers |
@@ -127,8 +135,9 @@ As you can see, these are quite rare.
 
 ### 6. gahādigaṇa (-ṇhā-)
 
-| √gah | ṇhā | gaṇhā | gaṇhāti | grabs |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √gah | ṇhā | gaṇhā | gaṇhāti | grabs |
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
@@ -136,14 +145,16 @@ As you can see, these are quite rare.
 
 [^17]: It's in the traditional grammar books, but it's actually a more passive form.
 
-| √kar | o | karo | karoti | does |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √kar | o | karo | karoti | does |
 | √tan | o | tano | tanoti | stretches |
 
 ### 8. curādigaṇa (-e- -aya-)
 
-| √ghaṭ | e | ghāṭe | ghāteti | kills, slays |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √ghaṭ | e | ghāṭe | ghāteti | kills, slays |
 | √vid | e | vede | vedeti | feels, experiences |
 | √chad | e | chāde | chādeti | covers, conceals |
 | √kam | e | kāme | kāmeti | desires |

@@ -1,7 +1,8 @@
 # Mixed Sandhi (vomissaka-sandhi)
 
-| **di \> dy \> jj** | ya**di** evaṃ | ya**jj**evaṃ |
+|  |  |  |
 |---|---|---|
+| **di \> dy \> jj** | ya**di** evaṃ | ya**jj**evaṃ |
 | **di \> dy \> jj** | sa √div \> dyu \> **jj**u | sa**jj**u |
 | **dhi \> dhy \> jjh** | bo**dhi** aṅga | bo**jjh**aṅga |
 | **dhi \> dhy \> jjh** | a**dhi** āvasati | a**jjh**āvasati |

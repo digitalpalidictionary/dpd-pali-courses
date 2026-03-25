@@ -20,8 +20,9 @@ The infinitive can be translated as
 
 The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
-| √dā | + tuṃ | dātuṃ | to give |
+|  |  |  |  |
 |---|---|---|---|
+| √dā | + tuṃ | dātuṃ | to give |
 | √gam | + tuṃ | ga**n**tuṃ | to go |
 | √han | + tuṃ | hantuṃ | to kill |
 | √kar | + tuṃ | k**ā**tuṃ | to do, to make |
@@ -31,8 +32,9 @@ The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
 The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
-| √bandh | + ituṃ | bandhituṃ | to tie, bind |
+|  |  |  |  |
 |---|---|---|---|
+| √bandh | + ituṃ | bandhituṃ | to tie, bind |
 | √bhakkh | + ituṃ | bhakkhituṃ | to eat |
 | √bhind | + ituṃ | bhindituṃ | to break |
 | √car | + ituṃ | carituṃ | to walk |
@@ -45,8 +47,9 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
 Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
 
-| √bhuj | bhuñja | + ituṃ | bhuñjituṃ | to eat |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √bhuj | bhuñja | + ituṃ | bhuñjituṃ | to eat |
 | √bhū | bhava | + ituṃ | bhavituṃ | to be |
 | √dis | passa | + ituṃ | passituṃ | to see |
 | √pā | piva | + ituṃ | pivituṃ | to drink |
@@ -56,8 +59,9 @@ Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the
 
 In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is added to the base ending in -*e*.
 
-| √bhū | bhāve | + tuṃ | bhāvetuṃ | to develop |
+|  |  |  |  |  |
 |---|---|---|---|---|
+| √bhū | bhāve | + tuṃ | bhāvetuṃ | to develop |
 | √dhar | dhāre | + tuṃ | dhāretuṃ | to hold, carry |
 | √dis | dese | + tuṃ | desetuṃ | to point out |
 | √mar | māre | + tuṃ | māretuṃ | to kill |

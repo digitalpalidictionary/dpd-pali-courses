@@ -2,8 +2,9 @@
 
 Ordinal numbers describe the position of something; first, second, third etc. They are mostly formed from the cardinal numbers with **suffixes** and are declined like regular **adjectives**.
 
-| 1st | paṭha**ma** | first |
+|  |  |  |
 |---|---|---|
+| 1st | paṭha**ma** | first |
 | 2nd | du**tiya** | second |
 | 3rd | ta**tiya** | third |
 | 4th | catu**ttha** | fourth |
