@@ -10,5 +10,4 @@
 | arahato |  |  |  |  |
 | sammā - |  |  |  |  |
 | sambuddhassa |  |  |  |  |
-
-**&nbsp;**
+| |

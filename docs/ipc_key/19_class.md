@@ -197,19 +197,13 @@
 
 **This is the first outflow of merit, [the first] outflow of wholesome, [which is] a cause (or nutriment) for comfort.**
 
-**[^2]: Bh. Bodhi notes: "The correct derivation, however, as PED notes, is from Skt saṁran̄janı̄ya, "causing delight."**
-
-**[^3]: "These six delightful practices, monks, creating affection and respect, lead to coherence, harmony, concord and unity."**
-
-**[^4]: as bahubbīhi, qualifying dhammā**
-
-**[^5]: as bahubbīhi**
-
-**[^6]: In the cp. amatogadha, Cone (cf. s.v.) takes ogadha as a noun with the sense "(m.) plunging into, immersion;"**
-
-**[^7]: Alt.: "All things have mindfulness as (their) controlling influence; all things have understanding as (their) highest; all things have liberation as their essence; all things have (their) immersion in the deathless; all things have extinguishment as (their) conclusion."**
-
-**[^8]: Can be simply a regular sandhi of sukhassa+āhāro**
+[^2]: Bh. Bodhi notes: "The correct derivation, however, as PED notes, is from Skt saṁran̄janı̄ya, "causing delight."
+[^3]: "These six delightful practices, monks, creating affection and respect, lead to coherence, harmony, concord and unity."
+[^4]: as bahubbīhi, qualifying dhammā
+[^5]: as bahubbīhi
+[^6]: In the cp. amatogadha, Cone (cf. s.v.) takes ogadha as a noun with the sense "(m.) plunging into, immersion;"
+[^7]: Alt.: "All things have mindfulness as (their) controlling influence; all things have understanding as (their) highest; all things have liberation as their essence; all things have (their) immersion in the deathless; all things have extinguishment as (their) conclusion."
+[^8]: Can be simply a regular sandhi of sukhassa+āhāro
 
 7. [MN10.3](https://find.dhamma.gift/bw/mn/mn10.html) <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
 
@@ -598,17 +592,14 @@
 
 **With the settling of thoughts and examinations, [by gaining] settled assurance internally and singleness of mind, and having entered the second state of deep meditative calm, [which is ] free from thinking, free from examining, [and with] joy and happiness born from being collected, he dwells.**
 
-**[^9]: Alt.: "The preamble is (that of) Sāvatthi."**
-
-**[^10]: "for the sake of this is this holy life"**
-
-**[^11]: Bahubbīhi based on kammadhāraya: "Whose wishes are few, who have few wishes." Te bhikkhū yesaṁ icchā appā hontīti bhikkhū appicchā.**
+[^9]: Alt.: "The preamble is (that of) Sāvatthi."
+[^10]: "for the sake of this is this holy life"
+[^11]: Bahubbīhi based on kammadhāraya: "Whose wishes are few, who have few wishes." Te bhikkhū yesaṁ icchā appā hontīti bhikkhū appicchā.
 
 **Bh. Bodhi puts it nicely: "The bahubbīhi is not a different kind of compound but a compound of any of the preceding types used as an adjective to describe a noun external to itself."**
 
-**[^12]: bahubbīhi**
-
-**[^13]: The historical present can be translated in the past tense.**
+[^12]: bahubbīhi
+[^13]: The historical present can be translated in the past tense.
 
 6. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.
 

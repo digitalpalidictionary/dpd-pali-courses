@@ -8,8 +8,7 @@
 | kira | ind | adv |  |  |
 | loke |  |  |  |  |
 | uppanno | pp |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)[^2]<br>**araññe** **rukkhānaṃ** **mūlesu[^3]**, **kandarāsu** **guhāsu** ca
 
@@ -21,8 +20,7 @@
 | kandarāsu |  |  |  |  |
 | guhāsu |  |  |  |  |
 | ca | ind | conj |  |  |
-
-**&nbsp;**
+| |
 
 3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>**maggo** hoti **sokaparidevānaṃ** **samatikkamāya**, **ñāyassa** **adhigamāya**, **nibbānassa** **sacchikiriyāya**.
 
@@ -36,8 +34,7 @@
 | adhigamāya |  |  |  |  |
 | nibbānassa |  |  |  |  |
 | sacchikiriyāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>**uttarissa** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
 
@@ -49,8 +46,7 @@
 | alamariyo | adj |  |  |  |
 | ñāṇadassanassa |  |  |  |  |
 | viseso |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ **kāye** **kesā** **lomā** **nakhā** **dantā** **taco**
 
@@ -64,8 +60,7 @@
 | nakhā |  |  |  |  |
 | dantā |  |  |  |  |
 | taco |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
 
@@ -77,8 +72,7 @@
 | pānīyassa |  | nt. |  |  |
 | thālakaṃ |  |  |  |  |
 | paṭiggahessāmi | verb | fut.1st.sg |  |  |
-
-**&nbsp;**
+| |
 
 7. VIN PAT NID nidānuddeso<br>**saṅgho** **uposathaṃ** kareyya, **pātimokkhaṃ** uddiseyya
 
@@ -89,8 +83,7 @@
 | kareyya | verb | opt.3rd.sg |  |  |
 | pātimokkhaṃ |  |  |  |  |
 | uddiseyya | verb | opt.3rd.sg |  |  |
-
-**&nbsp;**
+| |
 
 8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html) <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
 
@@ -110,9 +103,8 @@
 | devamanuss**ānaṃ** |  |  |  |  |
 | buddho |  |  |  |  |
 | bhagavā |  |  |  |  |
-| iti | ind | ind |  |  |
-
-**&nbsp;**
+| iti | ind | ind |  | |
+| |
 
 9. kāyassa bhedā
 
@@ -120,8 +112,7 @@
 |---|---|---|---|---|
 | kāyassa | noun | masc.gen.sg<br>masc.dat.sg | of the body<br>to the body |  |
 | bhedā | noun | masc.abl.sg<br>masc.nom.pl | from the breakup<br>breakups |  |
-
-**&nbsp;**
+| |
 
 **from the breakup of the body**
 
@@ -131,8 +122,7 @@
 |---|---|---|---|---|
 | samaṇo |  |  |  |  |
 | gotamo |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11. virāgāya nirodhāya
 
@@ -140,8 +130,7 @@
 |---|---|---|---|---|
 | virāgāya |  |  |  |  |
 | nirodhāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12. bālassa mohāya
 
@@ -149,8 +138,7 @@
 |---|---|---|---|---|
 | bālassa |  |  |  |  |
 | mohāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
 
@@ -158,8 +146,7 @@
 |---|---|---|---|---|
 | kāmehi |  |  |  |  |
 | lokamhi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[there is no satisfaction]**
 
@@ -169,8 +156,7 @@
 |---|---|---|---|---|
 | devā |  |  |  |  |
 | manussā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 15. cāgo paṭinissaggo anālayo
 
@@ -179,8 +165,7 @@
 | cāgo |  |  |  |  |
 | paṭinissaggo |  |  |  |  |
 | anālayo |  |  |  |  |
-
-**&nbsp;**
+| |
 
 16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
 
@@ -188,8 +173,7 @@
 |---|---|---|---|---|
 | pāde |  |  |  |  |
 | pādaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[he places]**
 
@@ -200,8 +184,7 @@
 | dhammānaṃ |  |  |  |  |
 | uppādāya |  |  |  |  |
 | chandaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[he arouses]**
 
@@ -211,8 +194,7 @@
 |---|---|---|---|---|
 | khandhānaṃ |  |  |  |  |
 | bhedo |  |  |  |  |
-
-**&nbsp;**
+| |
 
 19. dhammā sekhassa
 
@@ -220,8 +202,7 @@
 |---|---|---|---|---|
 | dhammā |  |  |  |  |
 | sekhassa |  |  |  |  |
-
-**&nbsp;**
+| |
 
 20. samaṇena vā brāhmaṇena vā devena vā mārena vā
 
@@ -232,8 +213,7 @@
 | brāhmaṇena |  |  |  |  |
 | devena |  |  |  |  |
 | mārena |  |  |  |  |
-
-**&nbsp;**
+| |
 
 21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
@@ -245,8 +225,7 @@
 | domanassehi |  |  |  |  |
 | upāyāsehi |  |  |  |  |
 | [burning] |  |  |  |  |
-
-**&nbsp;**
+| |
 
 22. dhammo vinayo
 
@@ -254,8 +233,7 @@
 |---|---|---|---|---|
 | dhammo |  |  |  |  |
 | vinayo |  |  |  |  |
-
-**&nbsp;**
+| |
 
 23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 
@@ -263,8 +241,7 @@
 |---|---|---|---|---|
 | vinipātaṃ |  |  |  |  |
 | nirayaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[is reborn in]**
 
@@ -275,8 +252,7 @@
 | aparena | adj | masc.instr.sg | with other; another |  |
 | samayena |  |  |  |  |
 | buddho |  |  |  |  |
-
-**&nbsp;**
+| |
 
 25. gabbhe cīvaraṃ
 
@@ -284,8 +260,7 @@
 |---|---|---|---|---|
 | gabbhe |  |  |  |  |
 | cīvaraṃ | noun | nt.nom.sg<br>nt.acc.sg |  |  |
-
-**&nbsp;**
+| |
 
 26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
 
@@ -293,8 +268,7 @@
 |---|---|---|---|---|
 | āvāse |  |  |  |  |
 | vassaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[he entered]**
 
@@ -304,8 +278,7 @@
 |---|---|---|---|---|
 | nīvaraṇehi |  |  |  |  |
 | brāhmaṇo |  |  |  |  |
-
-**&nbsp;**
+| |
 
 28. kāme brāhmaṇa
 
@@ -313,8 +286,7 @@
 |---|---|---|---|---|
 | kāme |  |  |  |  |
 | brāhmaṇa |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[is filled] [five]**
 
@@ -324,8 +296,7 @@
 |---|---|---|---|---|
 | atthamhi |  |  |  |  |
 | sahāyā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 **[Good are] [arisen]**
 
@@ -338,8 +309,7 @@
 | gotamassa |  |  |  |  |
 | sāvakesu |  |  |  |  |
 | [trains] |  |  |  |  |
-
-**&nbsp;**
+| |
 
 31. kassapassa vinayasmiṃ
 
@@ -347,16 +317,13 @@
 |---|---|---|---|---|
 | kassapassa |  |  |  | (name) |
 | vinayasmiṃ |  |  |  |  |
+| |
 
-**[^1]: Please pay attention to the bolded words, as they are related to the topic studied in the corresponding class. For every class, the first few sentences will contain some bold words.**
-
-**[^2]: Here and in other examples, this means that the sutta sentences have been insignificantly simplified to fit the topic covered in the current class.**
-
-**[^3]: For simplicity, the comp rukkhamūlesu is broken into two parts.**
-
-**[^4]: Original compounds are uttarimanussadhammo alam’ariyañāṇadassanaviseso**
-
-**[^5]: Original compound is pānīyathālakaṃ**
+[^1]: Please pay attention to the bolded words, as they are related to the topic studied in the corresponding class. For every class, the first few sentences will contain some bold words.
+[^2]: Here and in other examples, this means that the sutta sentences have been insignificantly simplified to fit the topic covered in the current class.
+[^3]: For simplicity, the comp rukkhamūlesu is broken into two parts.
+[^4]: Original compounds are uttarimanussadhammo alam’ariyañāṇadassanaviseso
+[^5]: Original compound is pānīyathālakaṃ
 
 ## Class 2 Extra
 
@@ -392,9 +359,8 @@
 | dukkha- |  |  |  |  |
 | domanassa- |  |  |  |  |
 | upāyāsā |  |  |  |  |
-| nirujjhanti | verb | pr.3rd.pl | cease |  |
-
-**&nbsp;**
+| nirujjhanti | verb | pr.3rd.pl | cease | |
+| |
 
 2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>dhammā virāgāya
 
@@ -402,8 +368,7 @@
 |---|---|---|---|---|
 | dhammā |  |  |  |  |
 | virāgāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>saṅkhārā ābādhāya
 
@@ -411,8 +376,7 @@
 |---|---|---|---|---|
 | saṅkhārā |  |  |  |  |
 | ābādhāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html) <br>saṅghamhā saṅgho
 
@@ -420,5 +384,4 @@
 |---|---|---|---|---|
 | saṅghamhā |  |  |  |  |
 | saṅgho |  |  |  |  |
-
-**&nbsp;**
+| |

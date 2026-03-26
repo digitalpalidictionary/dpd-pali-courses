@@ -9,8 +9,7 @@
 | bhagavā |  |  |  |  |
 | bhikkhū |  |  |  |  |
 | āmantesi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>**vivicca** kāmehi **vivicca** akusalehi dhammehi paṭhamaṃ jhānaṃ **upasampajja** viharati
 
@@ -25,8 +24,7 @@
 | jhānaṃ | n | nt.acc.sg | stage of meditation |  |
 | upasampajja | v | ger | arriving<br>having arrived | pad |
 | viharati | v | pr.3.s | he lives | har |
-
-**&nbsp;**
+| |
 
 3. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>**mahānadiyo** mahāsamuddaṃ **patvā** jahanti purimāni nāmagottāni
 
@@ -38,8 +36,7 @@
 | jahanti |  |  |  |  |
 | purimāni | adj | nt.acc.pl |  |  |
 | nāma-gottāni | noun | nt.acc.pl |  |  |
-
-**&nbsp;**
+| |
 
 4. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>mahāmoggallāno taṃ puggalaṃ **bāhāyaṃ** **gahetvā nikkhāmetvā** yena bhagavā tena upasaṅkami.
 
@@ -54,9 +51,8 @@
 | yena | ind | adv | where |  |
 | bhagavā |  |  |  |  |
 | tena | ind | adv | there |  |
-| upasaṅkami |  |  |  |  |
-
-**&nbsp;**
+| upasaṅkami |  |  |  | |
+| |
 
 5. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>āyasmā ānando tā bhikkhuniyo **dhammiyā** **kathāya** **sandassetvā** **samādapetvā** **samuttejetvā** **sampahaṃsetvā** uṭṭhāya āsanā pakkāmi
 
@@ -74,9 +70,8 @@
 | sampahaṃsetvā |  |  |  |  |
 | uṭṭhāya |  |  |  |  |
 | āsanā |  |  |  |  |
-| pakkāmi |  |  |  |  |
-
-**&nbsp;**
+| pakkāmi |  |  |  | |
+| |
 
 6. [SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) <br>seyyathāpi makkaṭo araññe **sākhaṃ** gaṇhati taṃ **muñcitvā** aññaṃ gaṇhati taṃ **muñcitvā** aññaṃ gaṇhati
 
@@ -94,9 +89,8 @@
 | taṃ | pron |  |  |  |
 | muñcitvā |  |  |  |  |
 | aññaṃ | pron |  |  |  |
-| gaṇhati |  |  |  |  |
-
-**&nbsp;**
+| gaṇhati |  |  |  | |
+| |
 
 7. DNa2.3<br>**therī** pattaṃ **gahetvā** ākāse khipi. patto ākāse aṭṭhāsi
 
@@ -110,8 +104,7 @@
 | patto |  |  |  |  |
 | ākāse |  |  |  |  |
 | aṭṭhāsi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) <br>dhammesu dhammānupassī viharati ātāpī sampajāno satimā **vineyya** loke abhijjhādomanassaṃ
 
@@ -125,9 +118,8 @@
 | satimā | adj | m.n.s | m |  |
 | vineyya | v | ger | removing<br>having removed | nii |
 | loke | n | [m.ac.pl](http://m.ac.pl)<br>m.l.s | worlds<br>in the world |  |
-| abhijjhā-<br>domanassaṃ | n | m.ac.s | **wanting and unhappiness** |  |
-
-**&nbsp;**
+| abhijjhā-<br>domanassaṃ | n | m.ac.s | **wanting and unhappiness** | |
+| |
 
 9. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>āyasmā ānando **uṭṭhāya** āsanā ekaṃsaṃ uttarāsaṅgaṃ **karitvā** yena bhagavā tenañjaliṃ **paṇāmetvā** bhagavantaṃ etadavoca.
 
@@ -147,9 +139,8 @@
 | paṇāmetvā |  |  |  |  |
 | bhagavantaṃ |  |  |  |  |
 | etaṃ \> etad | pron |  |  |  |
-| avoca |  |  |  |  |
-
-**&nbsp;**
+| avoca |  |  |  | |
+| |
 
 10. [SN6.5](https://find.dhamma.gift/bw/sn/sn6.5.html) <br>atha kho bhagavā tassa brahmuno **upari** vehāsaṃ pallaṅkena nisīdi tejodhātuṃ **samāpajjitvā**
 
@@ -164,9 +155,8 @@
 | pallaṅkena | ind | adv |  |  |
 | nisīdi |  |  |  |  |
 | tejodhātuṃ |  |  |  |  |
-| samāpajjitvā |  |  |  |  |
-
-**&nbsp;**
+| samāpajjitvā |  |  |  | |
+| |
 
 11. [VIN PAT PA 1](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>yo pana bhikkhu sikkhaṃ **apaccakkhāya** dubbalyaṃ **anāvikatvā** methunaṃ dhammaṃ paṭiseveyya pārājiko hoti asaṃvāso
 
@@ -182,9 +172,8 @@
 | paṭiseveyya |  |  |  |  |
 | pārājiko | adj |  |  |  |
 | hoti |  |  |  |  |
-| asaṃvāso | adj |  |  |  |
-
-**&nbsp;**
+| asaṃvāso | adj |  |  | |
+| |
 
 12. [AN2.16](https://find.dhamma.gift/bw/an/an2.16.html)<br>atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. upasaṅkamitvā bhagavatā saddhiṃ sammodi
 
@@ -199,9 +188,8 @@
 | upasaṅkamitvā |  |  |  |  |
 | bhagavatā |  |  |  |  |
 | saddhiṃ |  |  |  |  |
-| sammodi |  |  |  |  |
-
-**&nbsp;**
+| sammodi |  |  |  | |
+| |
 
 13. [DHP087](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl)<br>kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāve paṇḍito,<br>okā anokaṃ āgamma, viveke yattha dūramaṃ.
 
@@ -218,9 +206,8 @@
 | āgamma |  |  |  |  |
 | viveke |  |  |  |  |
 | yattha |  |  |  |  |
-| dūramaṃ | adj |  |  |  |
-
-**&nbsp;**
+| dūramaṃ | adj |  |  | |
+| |
 
 14. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl) <br>yan’nūn’āhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyāmi
 
@@ -234,9 +221,8 @@
 | acchādetvā |  |  |  |  |
 | agārasmā | noun | nt. |  |  |
 | anagāriyaṃ | noun | nt. |  |  |
-| pabbajeyyāmi |  |  |  |  |
-
-**&nbsp;**
+| pabbajeyyāmi |  |  |  | |
+| |
 
 15. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>idha bhikkhu pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā…
 
@@ -251,9 +237,8 @@
 | paṇidhāya |  |  |  |  |
 | parimukhaṃ | ind | adv |  |  |
 | satiṃ |  |  |  |  |
-| upaṭṭhapetvā |  |  |  |  |
-
-**&nbsp;**
+| upaṭṭhapetvā |  |  |  | |
+| |
 
 16. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. tatra kho bhagavā pañcavaggiye bhikkhū āmantesi
 
@@ -270,9 +255,8 @@
 | bhagavā |  |  |  |  |
 | pañcavaggiye | adj |  |  |  |
 | bhikkhū |  |  |  |  |
-| āmantesi |  |  |  |  |
-
-**&nbsp;**
+| āmantesi |  |  |  | |
+| |
 
 17. [VIN PAT SA 5](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ
 
@@ -286,9 +270,8 @@
 | purisamatiṃ |  |  |  |  |
 | purisassa |  |  |  |  |
 | vā |  |  |  |  |
-| itthimatiṃ |  |  |  |  |
-
-**&nbsp;**
+| itthimatiṃ |  |  |  | |
+| |
 
 18. [VIN PAT SA 11](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl) <br>dhammavādī ca eso bhikkhu vinayavādī ca eso bhikkhu amhākaṃ ca eso bhikkhu chandaṃ ca ruciṃ ca ādāya voharati
 
@@ -311,9 +294,8 @@
 | ruciṃ |  |  |  |  |
 | ca |  |  |  |  |
 | ādāya |  |  |  |  |
-| voharati |  |  |  |  |
-
-**&nbsp;**
+| voharati |  |  |  | |
+| |
 
 19. VIN PAT SA <br>ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo.
 
@@ -328,9 +310,8 @@
 | tattha |  |  |  |  |
 | so |  |  |  |  |
 | bhikkhu |  |  |  |  |
-| abbhetabbo | ptp | masc.nom.sg |  |  |
-
-**&nbsp;**
+| abbhetabbo | ptp | masc.nom.sg |  | |
+| |
 
 20. [VIN PAT PC 42](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>ekakassa me kathā vā nisajjā vā phāsu hotī”ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
@@ -349,9 +330,8 @@
 | paccayaṃ |  |  |  |  |
 | karitvā |  |  |  |  |
 | anaññaṃ | pron |  |  |  |
-| pācittiyaṃ |  |  |  |  |
-
-**&nbsp;**
+| pācittiyaṃ |  |  |  | |
+| |
 
 21. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā
 
@@ -370,9 +350,8 @@
 | sato | adj |  |  |  |
 | sampajāno | adj |  |  |  |
 | uṭṭhānasaññaṃ |  |  |  |  |
-| manasikaritvā |  |  |  |  |
-
-**&nbsp;**
+| manasikaritvā |  |  |  | |
+| |
 
 22. [SN1.39](https://find.dhamma.gift/bw/sn/sn1.39.html) <br>atha kho pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā
 
@@ -386,9 +365,8 @@
 | abhikkantavaṇṇā | adj |  |  |  |
 | kevalakappaṃ | adj |  |  |  |
 | mahāvanaṃ |  |  |  |  |
-| obhāsetvā |  |  |  |  |
-
-**&nbsp;**
+| obhāsetvā |  |  |  | |
+| |
 
 23. [MN43](https://find.dhamma.gift/bw/mn/mn43.html) <br>dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā, sabbanimittānaṃ ca amanasikāro, animittāya ca dhātuyā manasikāro.
 
@@ -407,9 +385,8 @@
 | animittāya | adj |  |  |  |
 | ca |  |  |  |  |
 | dhātuyā |  |  |  |  |
-| manasikāro |  |  |  |  |
-
-**&nbsp;**
+| manasikāro |  |  |  | |
+| |
 
 24. [SN15.1](https://find.dhamma.gift/bw/sn/sn15.1.html) <br>ayaṃ me mātā, tassā me mātu ayaṃ mātā iti, apariyādinnā eva bhikkhave, tassa purisassa mātumātaro assu.
 
@@ -430,9 +407,8 @@
 | tassa | pron |  |  |  |
 | purisassa |  |  |  |  |
 | mātumātaro |  |  |  |  |
-| assu |  |  |  |  |
-
-**&nbsp;**
+| assu |  |  |  | |
+| |
 
 25. [VIN1.3.1](https://find.dhamma.gift/bw/vi/bu-vb-an1.html) <br>mātugāmo nāma manuss'itthī, na yakkhī na petī na tiracchānagatā. antamaso tad'ahujātā api dārikā, pag'eva mahattarī.
 
@@ -452,9 +428,8 @@
 | api | ind |  | even |  |
 | dārikā |  |  |  |  |
 | pag'eva | idiom | ind |  |  |
-| mahattarī |  |  |  |  |
-
-**&nbsp;**
+| mahattarī |  |  |  | |
+| |
 
 26. [AN5.207](https://find.dhamma.gift/bw/an/an5.207.html) <br>khuddaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, ām'āvasesaṃ pāceti. ime kho, bhikkhave, pañca ānisaṃsā yāguyā.
 
@@ -475,9 +450,8 @@
 | bhikkhave |  |  |  |  |
 | pañca | card | x.nom.pl |  |  |
 | ānisaṃsā |  |  |  |  |
-| yāguyā |  |  |  |  |
-
-**&nbsp;**
+| yāguyā |  |  |  | |
+| |
 
 ## Class 8 Extra
 
@@ -494,9 +468,8 @@
 | pariyodapeyya |  |  |  |  |
 | attānaṃ | noun | masc.acc.sg | oneself; himself |  |
 | cittaklesehi |  |  |  |  |
-| paṇḍito |  |  |  |  |
-
-**&nbsp;**
+| paṇḍito |  |  |  | |
+| |
 
 2. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati
 
@@ -518,9 +491,8 @@
 | ārabhati |  |  |  |  |
 | cittaṃ |  |  |  |  |
 | paggaṇhāti |  |  |  |  |
-| padahati |  |  |  |  |
-
-**&nbsp;**
+| padahati |  |  |  | |
+| |
 
 3. [VIN PAT NP 3](https://find.dhamma.gift/bw/vi/bu-pt.html#np) (simpl) <br>no ce assa pāripūri, māsaparamaṃ so bhikkhu taṃ cīvaraṃ nikkhipeyya, ce assa ūnassa pāripūriyā paccāsā.
 
@@ -540,9 +512,8 @@
 | assa |  |  |  |  |
 | ūnassa | noun | nt. |  |  |
 | pāripūriyā |  |  |  |  |
-| paccāsā |  |  |  |  |
-
-**&nbsp;**
+| paccāsā |  |  |  | |
+| |
 
 4. [SNP56](https://find.dhamma.gift/bw/snp/snp5.2.html) <br>yattha nāmaṃ ca rūpaṃ ca asesaṃ uparujjhati, <br>viññāṇassa nirodhena, ettha etaṃ uparujjhati.
 
@@ -559,9 +530,8 @@
 | nirodhena |  |  |  |  |
 | ettha |  |  |  |  |
 | etaṃ | pron | nt.nom.sg |  |  |
-| uparujjhati |  |  |  |  |
-
-**&nbsp;**
+| uparujjhati |  |  |  | |
+| |
 
 5. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>etādisāni katvāna, sabbattha aparājitā, sabbattha sotthiṃ gacchanti
 
@@ -574,8 +544,7 @@
 | sabbattha |  |  |  |  |
 | sotthiṃ | ind | adv |  |  |
 | gacchanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [SN55.23](https://find.dhamma.gift/bw/sn/sn55.23.html) <br>idha, bhante, koci'd'eva dhammo samuppādo uppajjeyya, ekato assa bhagavā ekato bhikkhusaṅgho ca.
 
@@ -592,9 +561,8 @@
 | bhagavā |  |  |  |  |
 | ekato |  |  |  |  |
 | bhikkhusaṅgho |  |  |  |  |
-| ca |  |  |  |  |
-
-**&nbsp;**
+| ca |  |  |  | |
+| |
 
 7. [DHP284](https://find.dhamma.gift/bw/dhp/dhp273-289.html) <br>yāva hi vanatho na chijjati, aṇumatto api narassa nārīsu, paṭibaddhamano eva tāva so, vaccho khīrapako va mātari.
 
@@ -617,5 +585,4 @@
 | khīrapako | adj |  |  |  |
 | va | ind | adv | like; like as; as if |  |
 | mātari |  |  |  |  |
-
-**&nbsp;**
+| |

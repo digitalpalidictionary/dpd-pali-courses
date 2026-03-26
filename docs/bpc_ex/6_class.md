@@ -9,8 +9,7 @@
 | āmantesi |  |  |  |  |
 | bhikkhavo |  |  |  |  |
 | bhadante |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>**bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā
 
@@ -22,8 +21,7 @@
 | na |  |  |  |  |
 | parimuccati |  |  |  |  |
 | jātiyā | noun | fem.abl.sg |  |  |
-
-**&nbsp;**
+| |
 
 3. [DN11.6](https://find.dhamma.gift/bw/dn/dn11.html) <br>esa **bhagavato** sāvakasaṅgho
 
@@ -36,6 +34,7 @@
 | āyasmato |  |  |  |  |
 | ānandassa |  |  |  | (name) |
 | etadahosi |  |  |  |  |
+| |
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -46,10 +45,9 @@
 | āyasmato |  |  |  |  |
 | ānandassa |  |  |  | (name) |
 | etadahosi |  |  |  |  |
+| |
 
-**&nbsp;**
-
-**[^9]: This is a common Pāli idiom.**
+[^9]: This is a common Pāli idiom.
 
 **[VIN PAT SA 12](https://find.dhamma.gift/bw/vi/bu-pt.html#sg)**
 
@@ -61,23 +59,15 @@ maṃ
 
 āyasmanto
 
-kiñci
-
-pron
-
-nt.acc.sg
+kiñci   pron    nt.acc.sg
 
 avacuttha
 
-kalyāṇaṃ
-
-adj
+kalyāṇaṃ    adj
 
 vā
 
-pāpakaṃ
-
-adj
+pāpakaṃ     adj
 
 vā
 
@@ -87,19 +77,11 @@ vā
 
 satthārā
 
-karaṇīyaṃ
-
-ptp
-
-nt.nom.sg
+karaṇīyaṃ   ptp     nt.nom.sg
 
 sāvakānaṃ
 
-kataṃ
-
-pp
-
-nt.nom.sg
+kataṃ   pp  nt.nom.sg
 
 vo
 
@@ -111,31 +93,21 @@ mayā
 
 ye keci pāṇabhūtā atthi, tasā **vā** thāvarā **vā** anavasesā
 
-ye keci
-
-pron
-
-masc.nom.pl
+ye keci     pron    masc.nom.pl
 
 pāṇabhūtā
 
 atthi
 
-tasā
-
-adj
+tasā    adj
 
 vā
 
-thāvarā
-
-adj
+thāvarā     adj
 
 vā
 
-anavasesā
-
-adj
+anavasesā   adj
 
 4.  [DN16.26](https://find.dhamma.gift/bw/dn/dn16.html)
 
@@ -149,9 +121,7 @@ kassakā
 
 bhātaro
 
-hatā
-
-pp
+hatā    pp
 
 cattāro
 
@@ -165,21 +135,13 @@ balibaddā
 
 ye dadanti upassayaṃ, tesaṃ **divā** **ca** **ratto** **ca**, **sadā** puññaṃ pavaḍḍhati
 
-ye
-
-pron
-
-masc.nom.pl
+ye      pron        masc.nom.pl
 
 dadanti
 
 upassayaṃ
 
-tesaṃ
-
-pron
-
-masc.dat.pl
+tesaṃ   pron    masc.dat.pl
 
 divā
 
@@ -191,17 +153,13 @@ ca
 
 sadā
 
-puññaṃ
-
-**noun**
-
-nt.nom.sg
+puññaṃ      noun        nt.nom.sg
 
 pavaḍḍhati
 
 6.  [AN8.20](https://find.dhamma.gift/bw/an/an8.20.html)
 
-**bhagavā tuṇhī ahosi.**
+bhagavā tuṇhī ahosi.
 
 bhagavā
 
@@ -311,9 +269,7 @@ taṃ kiṃ maññasi, rāhula, cakkhu niccaṃ vā aniccaṃ vā'ti
 
 taṃ kiṃ maññasi
 
-rāhula
-
-(name)
+rāhula      (name)
 
 cakkhu
 
@@ -355,9 +311,7 @@ rattaññū
 
 ciraṃ
 
-pabbajitā
-
-pp
+pabbajitā       pp
 
 saṅghassa
 
@@ -389,29 +343,17 @@ pūjessanti
 
 sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
 
-sabbe
-
-pron
-
-masc.nom.pl
+sabbe       pron        masc.nom.pl
 
 dhammā
 
-anattā
+anattā      adj
 
-adj
-
-iti
-
-ind
+iti     ind
 
 yadā
 
-paññāya
-
-**noun**
-
-fem.instr.sg
+paññāya     noun        fem.instr.sg
 
 passati
 
@@ -419,27 +361,13 @@ atha
 
 nibbindati
 
-dukkhe
+dukkhe      noun    nt.
 
-**noun**
-
-nt.
-
-esa
-
-pron
-
-masc.nom.sg
-
-**this**
+esa     pron        masc.nom.sg     this
 
 maggo
 
-visuddhiyā
-
-**noun**
-
-fem.dat.sg
+visuddhiyā      noun        fem.dat.sg
 
 12.  [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)
 
@@ -451,47 +379,27 @@ ca
 
 nahāru
 
-aṭṭhi
-
-**noun**
-
-nt.
+aṭṭhi       noun        nt.
 
 avasissatu
 
-sarīre
-
-**noun**
-
-nt.
+sarīre          noun        nt.
 
 upasussatu
 
-maṃsalohitaṃ
-
-**noun**
-
-nt.nom.sg
+maṃsalohitaṃ        noun        nt.nom.sg
 
 13.  [AN5.37](https://find.dhamma.gift/bw/an/an5.37.html)
 
 sukhassa dātā medhāvī sukhaṃ so adhigacchati
 
-sukhassa
-
-**noun**
-
-nt.
+sukhassa        noun        nt.
 
 dātā
 
 medhāvī
 
-sukhaṃ
-
-**noun**
-
-nt.
+sukhaṃ      noun    nt.
 
 so
 
@@ -509,11 +417,7 @@ tvaṃ
 
 bhikkhu
 
-bhojane
-
-**noun**
-
-nt.
+bhojane     noun    nt.
 
 mattaññū
 
@@ -549,29 +453,19 @@ khemino
 
 hontu
 
-sabbe
-
-pron
-
-masc.nom.pl
+sabbe       pron        masc.nom.pl
 
 sattā
 
 bhavantu
 
-sukhitattā
-
-adj
+sukhitattā      adj
 
 14.  [AN8.79](https://find.dhamma.gift/bw/an/an8.79.html)
 
 ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
 
-ime
-
-pron
-
-masc.nom.pl
+ime     pron        masc.nom.pl
 
 bhikkhave
 
@@ -581,11 +475,7 @@ sekhassa
 
 bhikkhuno
 
-aparihānāya
-
-**noun**
-
-nt.
+aparihānāya     noun        nt.
 
 saṃvattanti
 
@@ -593,15 +483,11 @@ saṃvattanti
 
 mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ paricara
 
-mādisaṃ
-
-adj
+mādisaṃ         adj
 
 sīlavantaṃ
 
-kalyāṇadhammaṃ
-
-adj
+kalyāṇadhammaṃ      adj
 
 brahmacāriṃ
 
@@ -611,35 +497,19 @@ paricara
 
 ce so bhikkhu, pubbe appavārito, upasaṅkamissati cīvare vikappaṃ āpajjissati
 
-ce
+ce      ind     cond        if
 
-ind
-
-cond
-
-if
-
-so
-
-pron
-
-masc
+so      pron        masc
 
 bhikkhu
 
 pubbe
 
-appavārito
-
-pp
+appavārito      pp
 
 upasaṅkamissati
 
-cīvare
-
-**noun**
-
-nt
+cīvare      noun        nt
 
 vikappaṃ
 
@@ -653,51 +523,29 @@ na
 
 bāhuṃ
 
-pacālakaṃ
+pacālakaṃ       ind     adv     swinging; swaying; shaking
 
-ind
-
-adv
-
-swinging; swaying; shaking
-
-antaraghare
-
-**noun**
-
-nt.
+antaraghare     noun        nt.
 
 nisīdissāmi
 
 **[SN21.10](https://find.dhamma.gift/bw/sn/sn21.10.html) (simpl)**
 
-sabbābhibhuṃ sabbaviduṃ sumedhaṃ, tam naraṃ ekavihārī iti ahaṃ brūmi
+sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ brūmi
 
 sabbābhibhuṃ
 
 sabbaviduṃ
 
-sumedhaṃ
+sumedhaṃ        adj
 
-adj
-
-tam
-
-pron
-
-masc.
+taṃ     pron        masc.
 
 naraṃ
 
-ekavihārī
+ekavihārī       adj
 
-adj
-
-iti
-
-ind
-
-thus, “”
+iti     ind     thus, “”
 
 ahaṃ
 
@@ -715,8 +563,7 @@ brūmi
 | ca |  |  |  |  |
 | dārassa |  |  |  |  |
 | saṅgaho |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
 
@@ -730,8 +577,7 @@ brūmi
 | jānāti |  |  |  |  |
 | maraṇaṃ | noun | nt. |  |  |
 | suve |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [AN4.171](https://find.dhamma.gift/bw/an/an4.171.html) <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
 
@@ -745,8 +591,7 @@ brūmi
 | honti |  |  |  |  |
 | āgantāro |  |  |  |  |
 | itthattaṃ | noun | nt. |  |  |
-
-**&nbsp;**
+| |
 
 4. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
 
@@ -766,9 +611,8 @@ brūmi
 | kālena |  |  |  |  |
 | cīvarena |  |  |  |  |
 | taṃ |  |  |  |  |
-| acchādessati |  |  |  |  |
-
-**&nbsp;**
+| acchādessati |  |  |  | |
+| |
 
 5. [VIN PAT PC 7](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
 
@@ -782,9 +626,8 @@ brūmi
 | aññatra | ind | adv | except |  |
 | viññunā |  |  |  |  |
 | purisaviggahena | noun |  |  |  |
-| pācittiyaṃ | noun | nt. |  |  |
-
-**&nbsp;**
+| pācittiyaṃ | noun | nt. |  | |
+| |
 
 6. [DHP76](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
 
@@ -798,8 +641,7 @@ brūmi
 | medhāviṃ |  |  |  |  |
 | paṇḍitaṃ |  |  |  |  |
 | bhajāhi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7. [SN7.15](https://find.dhamma.gift/bw/sn/sn7.15.html) (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
 
@@ -815,9 +657,8 @@ brūmi
 | tesu | pron | masc.loc.pl |  |  |
 | na |  |  |  |  |
 | mānaṃ |  |  |  |  |
-| karohi |  |  |  |  |
-
-**&nbsp;**
+| karohi |  |  |  | |
+| |
 
 8. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti
 
@@ -829,6 +670,7 @@ brūmi
 | saṅgaraṃ | noun | nt.nom.sg |  |  |
 | na |  |  |  |  |
 | hoti |  |  |  |  |
+| |
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -838,5 +680,4 @@ brūmi
 | saṅgaraṃ | noun | nt.nom.sg |  |  |
 | na |  |  |  |  |
 | hoti |  |  |  |  |
-
-**&nbsp;**
+| |

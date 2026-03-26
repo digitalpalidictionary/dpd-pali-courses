@@ -303,21 +303,16 @@
 
 **When the robe(-cloth) is finished by a monk, [and] when the Kathina [privileges] have been withdrawn, [then] excess robe-cloth is to be kept for ten days at the most. For [one] exceeding [the ten days], this is an offence requiring confession and forfeiture.**
 
-**[^36]: OR chaṭṭhi tappurisa**
-
-**[^37]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatva".**
-
-**[^38]: This is to be understood as an (adverbial) acc. of direction rather than of the direct object.**
-
-**[^39]: The agens in the expression vaso vatteti stands in the genetive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"**
+[^36]: OR chaṭṭhi tappurisa
+[^37]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatva".
+[^38]: This is to be understood as an (adverbial) acc. of direction rather than of the direct object.
+[^39]: The agens in the expression vaso vatteti stands in the genetive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"
 
 **"What do you think, Aggivessana, would a noble, head-anointed king in his own realm have the power to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?"**
 
-**[^40]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.**
-
-**[^41]: "should be dealt with by way of a certain of three rules"**
-
-**[^41]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"**
+[^40]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.
+[^41]: "should be dealt with by way of a certain of three rules"
+[^41]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"
 
 ## Class 27 Extra Examples
 
@@ -462,10 +457,7 @@
 
 **If through the seeing there is a man’s purity,<br>or through knowledge he abandons suffering, <br>then he is purified by another, being with attachments. <br>the one with view revealed him as one who asserts thus.**
 
-**[^42]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.**
-
-**[^43]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.**
-
-**[^44]: alt. "the right way for those who are seeing".**
-
-**[^45]: alt. "as that is/that being the right way".**
+[^42]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.
+[^43]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.
+[^44]: alt. "the right way for those who are seeing".
+[^45]: alt. "as that is/that being the right way".

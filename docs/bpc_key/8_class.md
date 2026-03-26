@@ -492,7 +492,7 @@
 
 **It wards off hunger, dispels thirst, settles wind, purifies the bladder, [and] digests remnants of undigested food. Indeed, monks, these are the five benefits of rice porridge.**
 
-**[^1]: Alternatively, can be taken as a noun masc instr sg - (having illuminated) with extraordinary appearance**
+[^1]: Alternatively, can be taken as a noun masc instr sg - (having illuminated) with extraordinary appearance
 
 ## Class 8 Extra
 

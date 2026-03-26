@@ -17,6 +17,7 @@
 | mattisambhava |  |
 | duvidhena |  |
 | chaḷaṅga |  |
+| |
 
 **Join the following words in suitable ways**
 
@@ -38,6 +39,7 @@
 | dvi + dasa |  |
 | catu + āsīti |  |
 | cha + pañca |  |
+| |
 
 **Exercises**
 
@@ -58,8 +60,7 @@
 | te |  |  |  |  |
 | kammantā |  |  |  |  |
 | samijjheyyuṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.
 
@@ -76,8 +77,7 @@
 | sāmaggiyā |  |  |  |  |
 | ekībhāvāya |  |  |  |  |
 | saṃvattanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [AN3.24](https://find.dhamma.gift/bw/an/an3.24.html)<br>puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati
 
@@ -96,8 +96,7 @@
 | sacchikatvā |  |  |  |  |
 | upasampajja |  |  |  |  |
 | viharati |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)<br>alameva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ
 
@@ -108,8 +107,7 @@
 | kulaputtena |  |  |  |  |
 | vīriyaṃ |  |  |  |  |
 | ārabhituṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN10.58](https://find.dhamma.gift/bw/an/an10.58.html)<br>satādhipateyyā sabbe dhammā, paññuttarā sabbe dhammā, vimuttisārā sabbe dhammā, amatogadhā sabbe dhammā, nibbānapariyosānā sabbe dhammāti
 
@@ -128,8 +126,7 @@
 | nibbānapariyosānā |  |  |  |  |
 | sabbe |  |  |  |  |
 | dhammāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [SN55.31](https://find.dhamma.gift/bw/sn/sn55.31.html)<br>ayaṃ paṭhamo puññābhisando kusalābhisando sukhassāhāro.
 
@@ -140,8 +137,7 @@
 | puññābhisando |  |  |  |  |
 | kusalābhisando |  |  |  |  |
 | sukhassāhāro |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7. [MN10.3](https://find.dhamma.gift/bw/mn/mn10.html) <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
 
@@ -159,8 +155,7 @@
 | vā |  |  |  |  |
 | kāyasmiṃ |  |  |  |  |
 | viharati |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8. [MN33](https://find.dhamma.gift/bw/mn/mn33.html) <br>idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṃ, na labhati dhammavedaṃ, na labhati dhammūpasaṃhitaṃ pāmojjaṃ.
 
@@ -182,8 +177,7 @@
 | labhati |  |  |  |  |
 | dhammūpasaṃhitaṃ |  |  |  |  |
 | pāmojjaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 9. [SN20.7](https://find.dhamma.gift/bw/sn/sn20.7.html) <br>ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti.
 
@@ -201,8 +195,7 @@
 | bhaññamānesu |  |  |  |  |
 | na |  |  |  |  |
 | sussūsanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 10. [AN3.126](https://find.dhamma.gift/bw/an/an3.125.html) <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.
 
@@ -215,8 +208,7 @@
 | sahassī |  |  |  |  |
 | lokadhātu |  |  |  |  |
 | akampitthāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11. [AN5.157](https://find.dhamma.gift/bw/an/an5.157.html) <br>dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti.
 
@@ -234,8 +226,7 @@
 | dosañca |  |  |  |  |
 | appaccayañca |  |  |  |  |
 | pātukaroti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12. [AN6.62](https://find.dhamma.gift/bw/an/an6.62.html) <br>seyyathāpi vā panānanda, rattiyā paccūsasamayaṃ sūriye uggacchante, jāneyyāsi tvaṃ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatīti?
 
@@ -255,8 +246,7 @@
 | antaradhāyissati |  |  |  |  |
 | āloko |  |  |  |  |
 | pātubhavissatīti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 13. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>tatiyampi kho āyasmā ānando abhikkantāya rattiyā, nikkhante pacchime yāme, uddhaste aruṇe, nandimukhiyā rattiyā uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.
 
@@ -285,8 +275,7 @@
 | paṇāmetvā |  |  |  |  |
 | bhagavantaṃ |  |  |  |  |
 | etadavoca |  |  |  |  |
-
-**&nbsp;**
+| |
 
 ## Class 19 Extra Examples
 
@@ -307,8 +296,7 @@
 | imaṃ |  |  |  |  |
 | gāthaṃ |  |  |  |  |
 | abhāsi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN30](https://find.dhamma.gift/bw/mn/mn30.html)<br>akuppā cetovimutti etadatthamidaṃ brāhmaṇa brahmacariyaṃ
 
@@ -319,8 +307,7 @@
 | etadatthamidaṃ |  |  |  |  |
 | brāhmaṇa |  |  |  |  |
 | brahmacariyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
 
@@ -333,8 +320,7 @@
 | apakkantā |  |  |  |  |
 | imamhā |  |  |  |  |
 | dhammavinayā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [VIN1.1.2](https://find.dhamma.gift/bw/vi/bu-vb-pj2.html)<br>ye te bhikkhū appicchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti
 
@@ -352,8 +338,7 @@
 | ujjhāyanti |  |  |  |  |
 | khiyyanti |  |  |  |  |
 | vipācenti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.
 
@@ -373,8 +358,7 @@
 | jhānaṃ |  |  |  |  |
 | upasampajja |  |  |  |  |
 | viharati |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.
 
@@ -389,5 +373,4 @@
 | atītānāgatapaccuppannesu |  |  |  |  |
 | cakkhuviññeyyesu |  |  |  |  |
 | rūpesu |  |  |  |  |
-
-**&nbsp;**
+| |

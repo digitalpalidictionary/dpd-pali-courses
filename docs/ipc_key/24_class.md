@@ -168,11 +168,8 @@
 
 **If any monk who has eaten (a meal), who has been invited (to take more and refused), should chew uncooked food or consume food to be savored, which is not left over, [this is a case] involving confession.**
 
-**[^28]: I did not note this earlier, but it might be useful to take the deixis of the respective pronouns into account: ima designates what is nearest, accantasamipa, either physically or in thought, "this here".**
-
-**Cf. Collins, p. 63.**
-
-**[^29]: alt. kammadhāraya: paññā eva āvudhaṃ. "The weapon that is understanding".**
+[^28]: I did not note this earlier, but it might be useful to take the deixis of the respective pronouns into account: ima designates what is nearest, accantasamipa, either physically or in thought, "this here". Cf. Collins, p. 63.
+[^29]: alt. kammadhāraya: paññā eva āvudhaṃ. "The weapon that is understanding".
 
 7. [SN4.19](https://find.dhamma.gift/bw/sn/sn4.19.html) <br>api, samaṇa, balībadde addasā'ti?
 
@@ -568,15 +565,9 @@
 
 **Suppose there were (lit: would be) a man who had never seen a parrot tree before (lit: by whom a parrot tree had not been seen before); he would approach a certain person who has seen a parrot tree….**
 
-**[^30]: "comes to, reaches;**
-
-**enters upon, falls into, is reduced to (a state or condition), is changed into; gets into trouble"**
-
-**Cf. Cone s.v.**
-
-**[^31]: The genetive absolute often has an adversative sense, and can be translated as "although".**
-
-**[^32]: This is a subjective genitive.**
+[^30]: "comes to, reaches; enters upon, falls into, is reduced to (a state or condition), is changed into; gets into trouble" Cf. Cone s.v.
+[^31]: The genetive absolute often has an adversative sense, and can be translated as "although".
+[^32]: This is a subjective genitive.
 
 **Cf. Syntax, p. 231: "The subjective Gen. can also be regarded as an extension of the possessive gen. (cp. KVG §559) since the verbal noun qualified represents some action of the person denoted by the noun in the gen. (vide §140). But more particularly it denotes agency as shown by the following examples where the action is expressed by a p.p.p. in -ta: imassa ca bhikkhuno duggahītaṃ D II.124 "also a misconception of this monk"; paresaṃ subhāsitaṃ D I.3 "good-speech (lit. well-spoken) of others". We may observe from these examples that the gen. in such instances is interchangeable with the inst. of agent (§88)."**
 

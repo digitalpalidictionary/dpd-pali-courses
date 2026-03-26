@@ -138,11 +138,11 @@
 
 **Monks, [when] one has heard the doctrine from (lit: of) monks of such quality, he dwells in seclusion, withdrawn by means of two ways: bodily seclusion and mental seclusion.**
 
-**[^33]: The syntax of the sentence is a little tricky. The (content of the) ti-clause is the grammatical subject for the ptp, which stands in the position of the predicate. The logical subject or agent is pabbajita in the instr.**
+[^33]: The syntax of the sentence is a little tricky. The (content of the) ti-clause is the grammatical subject for the ptp, which stands in the position of the predicate. The logical subject or agent is pabbajita in the instr.
 
 **Cf. Māgadhabhāsā, p. 128: "The future passive participle can also function as a verb, with the same syntactical function as a finite verb (Oberlies, 2019: 571, f.n. 1); in fact, as "a rule it is employed as a sentence verb," perhaps there being "a tendency to use tabba with the gerundive [i.e. future passive participle] functioning as sentence verb and anīya in other cases" (Hendriksen, 1944: 11–2)."**
 
-**[^34]: The DPD understands an adj. rūpa, which I have not seen elsewhere. PED and MW take rūpa here ifc. Cf. PED and MW s.v. The adjectival function of the compound is due to the bahubbīhi.**
+[^34]: The DPD understands an adj. rūpa, which I have not seen elsewhere. PED and MW take rūpa here ifc. Cf. PED and MW s.v. The adjectival function of the compound is due to the bahubbīhi.
 
 **MW: "rūpa n. (perhaps connected with varpa, varpas; ifc. f.(ā), rarely (ī)) any outward appearance or phenomenon or colour (often pl.), form, shape, figure, RV. \&c. \&c. (rūpeṇa ifc. in the form of ; rūpam-√kṛ or √bhū, to assume a form; often ifc. = 'having the form or appearance or colour of', 'formed or composed of', 'consisting of', 'like to'; sometimes used after an adj. or p.p. to emphasize its meaning or almost redundantly cf. ghora-r°; or connected with a verb, e.g. pacati-rūpam, he cooks very well cf. Pāṇ. viii, 1, 57)"**
 
@@ -551,7 +551,7 @@
 
 **After that, Pessa, the son of an elephant rider, and Kandaraka, a wandering ascetic, approached the Blessed One.**
 
-**[^35]: kammadhāraya**
+[^35]: kammadhāraya
 
 5. [DN3.13](https://find.dhamma.gift/bw/dn/dn3.html) <br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
 

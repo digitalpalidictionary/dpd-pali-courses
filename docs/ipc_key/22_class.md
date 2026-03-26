@@ -177,7 +177,7 @@
 
 **And he understands with insight right there any state which is presently arisen. (or)<br>And he understands with insight in each and every case a state which is presently arisen. <br>One who is wise should cultivate that unmovable and steady [state].**
 
-**[^23]: Alt. this could be seen as an abl.sg. "from/through the acquiring of Right View"**
+[^23]: Alt. this could be seen as an abl.sg. "from/through the acquiring of Right View"
 
 8. [TH206](https://find.dhamma.gift/bw/tha/tha5.html) <br>satiyā taṃ **nibandhissaṃ**,<br>payutto te damessāmi,<br>vīriyadhuraniggahito,<br>na yito dūraṃ **gamissase** cittā'ti.
 

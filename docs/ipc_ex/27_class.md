@@ -28,8 +28,7 @@
 | ariyasaccāni |  |  |  |  |
 | avecca |  |  |  |  |
 | passati |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyasmante parisuddhāti vedissāmi.
 
@@ -49,8 +48,7 @@
 | panāyasmante |  |  |  |  |
 | parisuddhāti |  |  |  |  |
 | vedissāmi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [MN31](https://find.dhamma.gift/bw/mn/mn31.html)<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, pānīyaṃ paribhojanīyaṃ upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
 
@@ -72,8 +70,7 @@
 | upaṭṭhāpeti |  |  |  |  |
 | avakkārapātiṃ |  |  |  |  |
 | upaṭṭhāpeti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html) <br>sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu
 
@@ -85,8 +82,7 @@
 | vītisāretvā |  |  |  |  |
 | ekamantaṃ |  |  |  |  |
 | nisīdiṃsu |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [DN9.7](https://find.dhamma.gift/bw/dn/dn9.html)<br>oḷārikassapi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathāpaṭipannānaṃ vo saṃkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti
 
@@ -108,8 +104,7 @@
 | vodāniyā |  |  |  |  |
 | dhammā |  |  |  |  |
 | abhivaḍḍhissanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>ajjeva kiccamātappaṃ,<br>ko jaññā maraṇaṃ suve,
 
@@ -121,8 +116,7 @@
 | jaññā |  |  |  |  |
 | maraṇaṃ |  |  |  |  |
 | suve |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7. [DHP316](https://find.dhamma.gift/bw/dhp/dhp306-319.html)<br>alajjitāye lajjanti,<br>lajjitāye na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
 
@@ -136,8 +130,7 @@
 | sattā |  |  |  |  |
 | gacchanti |  |  |  |  |
 | duggatiṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddhāvasittassa sakasmiṃ vijite vaso, ghātetāyaṃ vā ghātetuṃ, jāpetāyaṃ vā jāpetuṃ, pabbājetāyaṃ vā pabbājetuṃ?
 
@@ -163,8 +156,7 @@
 | pabbājetāyaṃ |  |  |  |  |
 | vā |  |  |  |  |
 | pabbājetuṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 9. [VIN PAT AN 1](https://find.dhamma.gift/bw/an/an1.html)<br>nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā
 
@@ -183,8 +175,7 @@
 | vā |  |  |  |  |
 | pācittiyena |  |  |  |  |
 | vā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 10. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html)<br>okaṃ pahāya aniketasārī,<br>gāme akubbaṃ muni santhavāni,<br>kāmehi ritto apurakkharāno,<br>kathaṃ na viggayha janena kayirāti.
 
@@ -205,8 +196,7 @@
 | viggayha |  |  |  |  |
 | janena |  |  |  |  |
 | kayirāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11. VIN PAT SA<br>ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā
 
@@ -228,8 +218,7 @@
 | ca |  |  |  |  |
 | bhikkhū |  |  |  |  |
 | gārayhā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12. [VIN PAT NP 1](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
 
@@ -246,8 +235,7 @@
 | atikkāmayato |  |  |  |  |
 | nissaggiyaṃ |  |  |  |  |
 | pācittiyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 ## Class 27 Extra Examples
 
@@ -269,8 +257,7 @@
 | te |  |  |  |  |
 | hoti |  |  |  |  |
 | phuseyyanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [MN43](https://find.dhamma.gift/bw/mn/mn43.html) <br>te ca hāvuso, āyusaṅkhārā abhaviṃsu te vedaniyā dhammā, nayidaṃ saññāvedayitanirodhaṃ samāpannassa bhikkhuno vuṭṭhānaṃ paññāyetha.
 
@@ -290,8 +277,7 @@
 | bhikkhuno |  |  |  |  |
 | vuṭṭhānaṃ |  |  |  |  |
 | paññāyetha |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [VIN PAT PC 18](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
@@ -313,8 +299,7 @@
 | abhinipajjeyya |  |  |  |  |
 | vā |  |  |  |  |
 | pācittiyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html) <br>gāthābhigītaṃ me abhojaneyyaṃ,<br>sampassataṃ brāhmaṇa nesa dhammo,<br>gāthābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vuttiresā.
 
@@ -334,8 +319,7 @@
 | satī |  |  |  |  |
 | brāhmaṇa |  |  |  |  |
 | vuttiresā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [SNP42](https://find.dhamma.gift/bw/snp/snp4.4.html)<br>diṭṭhena ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā vadānaṃ.
 
@@ -361,5 +345,4 @@
 | pāva |  |  |  |  |
 | tathā |  |  |  |  |
 | vadānaṃ |  |  |  |  |
-
-**&nbsp;**
+| |

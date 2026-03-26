@@ -25,8 +25,7 @@
 | dhammassavanaṃ |  |  |  |  |
 | etaṃ |  |  |  |  |
 | maṅgalamuttamaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [SN1.51](https://find.dhamma.gift/bw/sn/sn1.51.html)<br>sīlaṃ yāva jarā sādhu,<br>saddhā sādhu patiṭṭhitā,<br>paññā narānaṃ ratanaṃ,<br>puññaṃ corehi dūharanti.
 
@@ -45,8 +44,7 @@
 | puññaṃ |  |  |  |  |
 | corehi |  |  |  |  |
 | dūharanti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [MN22](https://find.dhamma.gift/bw/mn/mn22.html)<br>idha, bhikkhave, ekacce moghapurisā dhammaṃ pariyāpuṇanti, suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ.
 
@@ -67,8 +65,7 @@
 | jātakaṃ |  |  |  |  |
 | abbhutadhammaṃ |  |  |  |  |
 | vedallaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [THI71](https://find.dhamma.gift/bw/thi/thi14.html) <br>madhurañca pavanti sabbaso,<br>kusumarajena samuṭṭhitā dumā,<br>paṭhamavasanto sukho utu,<br>ehi ramāma supupphite vane.
 
@@ -87,8 +84,7 @@
 | ramāma |  |  |  |  |
 | supupphite |  |  |  |  |
 | vane |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN5.36](https://find.dhamma.gift/bw/an/an5.36.html) <br>āgantukassa dānaṃ deti, gamikassa dānaṃ deti, gilānassa dānaṃ deti, dubbhikkhe dānaṃ deti.
 
@@ -106,8 +102,7 @@
 | dubbhikkhe |  |  |  |  |
 | dānaṃ |  |  |  |  |
 | deti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [SN2.23](https://find.dhamma.gift/bw/sn/sn2.23.html)<br>tassa mayhaṃ, bhante, catūsu dvāresu dānaṃ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ.
 
@@ -125,8 +120,7 @@
 | kapaṇaddhika |  |  |  |  |
 | vanibbaka |  |  |  |  |
 | yācakānaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7. eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ. [MN49](https://find.dhamma.gift/bw/mn/mn49.html)
 
@@ -149,8 +143,7 @@
 | vasī |  |  |  |  |
 | pitā |  |  |  |  |
 | bhūtabhabyānaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8. [AN5.36](https://find.dhamma.gift/bw/an/an5.36.html)<br>ye tattha anumodanti,<br>veyyāvaccaṃ karonti vā,<br>na tena dakkhiṇā ūnā,<br>tepi puññassa bhāgino.
 
@@ -169,8 +162,7 @@
 | tepi |  |  |  |  |
 | puññassa |  |  |  |  |
 | bhāgino |  |  |  |  |
-
-**&nbsp;**
+| |
 
 9. [MN12](https://find.dhamma.gift/bw/mn/mn12.html)<br>sotatto sosinno ceva,<br>eko bhiṃsanake vane,<br>naggo na caggimāsīno,<br>esanāpasuto munīti.
 
@@ -187,8 +179,7 @@
 | caggimāsīno |  |  |  |  |
 | esanāpasuto |  |  |  |  |
 | munīti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 10. [TH133](https://find.dhamma.gift/bw/tha/tha2.html)<br>accayanti ahorattā,<br>jīvitaṃ uparujjhati,<br>āyu khīyati maccānaṃ,<br>kunnadīnaṃva odakaṃ.
 
@@ -203,8 +194,7 @@
 | maccānaṃ |  |  |  |  |
 | kunnadīnaṃva |  |  |  |  |
 | odakaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11. [MN131](https://find.dhamma.gift/bw/mn/mn131.html)<br>evaṃ vihārimātāpiṃ, ahorattamatanditaṃ. <br>taṃ ve bhaddekarattoti, santo ācikkhate muni.
 
@@ -219,8 +209,7 @@
 | santo |  |  |  |  |
 | ācikkhate |  |  |  |  |
 | muni |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>samādhisambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanāpāripūriṃ gacchati. so tathāsamāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti.
 
@@ -238,8 +227,7 @@
 | sādhukaṃ |  |  |  |  |
 | ajjhupekkhitā |  |  |  |  |
 | hoti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 13. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html)<br>no ce te evaṃ viharato taṃ middhaṃ pahīyetha tato tvaṃ, moggallāna, ubho kaṇṇasotāni āviñjeyyāsi pāṇinā gattāni anumajjeyyāsi
 
@@ -262,8 +250,7 @@
 | pāṇinā |  |  |  |  |
 | gattāni |  |  |  |  |
 | anumajjeyyāsi |  |  |  |  |
-
-**&nbsp;**
+| |
 
 14. [SNP51](https://find.dhamma.gift/bw/snp/snp4.13.html)<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci diṭṭhaṃ va sutaṃ mutaṃ vā,<br>sa pannabhāro muni vippamutto,<br>na kappiyo nūparato na patthiyoti.
 
@@ -288,8 +275,7 @@
 | nūparato |  |  |  |  |
 | na |  |  |  |  |
 | patthiyoti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 15. [ITI76](https://find.dhamma.gift/bw/it/it.html)<br>sīlaṃ rakkheyya medhāvī,<br>patthayāno tayo sukhe,<br>pasaṃsaṃ vittalābhañca,<br>pecca sagge pamodanaṃ.
 
@@ -306,8 +292,7 @@
 | pecca |  |  |  |  |
 | sagge |  |  |  |  |
 | pamodanaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 16. [SN1.49](https://find.dhamma.gift/bw/sn/sn1.49.html)<br>sace enti manussattaṃ,<br>dalidde jāyare kule,<br>coḷaṃ piṇḍo ratī khiḍḍā,<br>yattha kicchena labbhati.
 
@@ -326,8 +311,7 @@
 | yattha |  |  |  |  |
 | kicchena |  |  |  |  |
 | labbhati |  |  |  |  |
-
-**&nbsp;**
+| |
 
 17. [DHP326](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>idaṃ pure cittamacāri cārikaṃ,<br>yenicchakaṃ yatthakāmaṃ yathāsukhaṃ,<br>tadajjahaṃ niggahessāmi yoniso,<br>hatthippabhinnaṃ viya aṅkusaggaho.
 
@@ -346,8 +330,7 @@
 | hatthippabhinnaṃ |  |  |  |  |
 | viya |  |  |  |  |
 | aṅkusaggaho |  |  |  |  |
-
-**&nbsp;**
+| |
 
 18. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>aṭṭhapadakatā kesā, nettā añjanamakkhitā. <br>alaṃ bālassa mohāya, no ca pāragavesino.
 
@@ -363,5 +346,4 @@
 | no |  |  |  |  |
 | ca |  |  |  |  |
 | pāragavesino |  |  |  |  |
-
-**&nbsp;**
+| |

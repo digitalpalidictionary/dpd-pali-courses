@@ -29,8 +29,7 @@
 | **akuppamāno** |  |  |  |  |
 | kissa |  |  |  |  |
 | **pihessati** |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [DHP40](https://find.dhamma.gift/bw/dhp/dhp33-43.html)<br>kumbhūpamaṃ kāyamimaṃ viditvā,<br>nagarūpamaṃ cittamidaṃ **ṭhapetvā**.<br>**yodhetha** māraṃ paññāvudhena, <br>jitañca rakkhe anivesano siyā.
 
@@ -49,8 +48,7 @@
 | rakkhe |  |  |  |  |
 | anivesano |  |  |  |  |
 | siyā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [DHP422](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>usabhaṃ pavaraṃ vīraṃ, mahesiṃ **vijitāvinaṃ**,<br>anejaṃ nhātakaṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.
 
@@ -67,8 +65,7 @@
 | tamahaṃ |  |  |  |  |
 | brūmi |  |  |  |  |
 | brāhmaṇaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [ITI62](https://find.dhamma.gift/bw/it/it.html)<br>tīṇimāni, bhikkhave, indriyāni. katamāni tīṇi? anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ
 
@@ -82,8 +79,7 @@
 | anaññātaññassāmītindriyaṃ |  |  |  |  |
 | aññindriyaṃ |  |  |  |  |
 | aññātāvindriyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN6.103](https://find.dhamma.gift/bw/an/an6.103.html) <br>nibbāne ca **santadassāvī** bhavissāmi, anusayā ca me samugghātaṃ gacchissanti, kiccakārī ca bhavissāmi, satthā ca me pariciṇṇo bhavissati mettāvatāyāti.
 
@@ -107,8 +103,7 @@
 | pariciṇṇo |  |  |  |  |
 | bhavissati |  |  |  |  |
 | mettāvatāyāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [VIN PAT PC 35](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>yo pana bhikkhu **bhuttāvī** pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
@@ -129,8 +124,7 @@
 | bhuñjeyya |  |  |  |  |
 | vā |  |  |  |  |
 | pācittiyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7. [SN4.19](https://find.dhamma.gift/bw/sn/sn4.19.html) <br>api, samaṇa, balībadde addasāti?
 
@@ -140,8 +134,7 @@
 | samaṇa |  |  |  |  |
 | balībadde |  |  |  |  |
 | addasāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8. [MN31](https://find.dhamma.gift/bw/mn/mn31.html) <br>kiṃ nu kho mayaṃ āyasmato anuruddhassa evamārocimha, imāsañca imāsañca vihārasamāpattīnaṃ mayaṃ lābhinoti
 
@@ -159,8 +152,7 @@
 | vihārasamāpattīnaṃ |  |  |  |  |
 | mayaṃ |  |  |  |  |
 | lābhinoti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 9. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyāti
 
@@ -180,8 +172,7 @@
 | vitthārena |  |  |  |  |
 | atthaṃ |  |  |  |  |
 | vibhajeyyāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 10. [SN1.71](https://find.dhamma.gift/bw/sn/sn1.71.html) <br>kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati, kissassu ekadhammassa, vadhaṃ rocesi gotamāti.
 
@@ -200,8 +191,7 @@
 | vadhaṃ |  |  |  |  |
 | rocesi |  |  |  |  |
 | gotamāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11. [AN3.91](https://find.dhamma.gift/bw/an/an3.90.html) <br>yathā divā tathā rattiṃ, yathā rattiṃ tathā divā, abhibhuyya disā sabbā, appamāṇasamādhinā.
 
@@ -219,8 +209,7 @@
 | disā |  |  |  |  |
 | sabbā |  |  |  |  |
 | appamāṇasamādhinā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12. [AN3.101](https://find.dhamma.gift/bw/an/an3.100.html) <br>yo, bhikkhave, evaṃ vadeyya, yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatīti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya.
 
@@ -251,8 +240,7 @@
 | sammā |  |  |  |  |
 | dukkhassa |  |  |  |  |
 | antakiriyāya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 13. [AN10.51](https://find.dhamma.gift/bw/an/an10.51.html) <br>seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā, tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṃ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya.
 
@@ -279,8 +267,7 @@
 | satiñca |  |  |  |  |
 | sampajaññañca |  |  |  |  |
 | kareyya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 14. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmāti.
 
@@ -307,8 +294,7 @@
 | bhāsitassa |  |  |  |  |
 | atthaṃ |  |  |  |  |
 | ājānissāmāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 15. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti navañca vedanaṃ na uppādessāma yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti
 
@@ -369,8 +355,7 @@
 | phāsu |  |  |  |  |
 | vihāro |  |  |  |  |
 | cāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 ## Class 24 Extra Examples
 
@@ -398,8 +383,7 @@
 | tatonidānaṃ |  |  |  |  |
 | anayabyasanaṃ |  |  |  |  |
 | āpajjeyya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [SN22.95](https://find.dhamma.gift/bw/sn/sn22.95.html)<br>seyyathāpi, bhikkhave, māyākāro vā māyākārantevāsī vā catumahāpathe māyaṃ **vidaṃseyya**.
 
@@ -414,8 +398,7 @@
 | catumahāpathe |  |  |  |  |
 | māyaṃ |  |  |  |  |
 | **vidaṃseyya** |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [MN65](https://find.dhamma.gift/bw/mn/mn65.html)<br>tassa mukhādhāne kāraṇaṃ **kāriyamānassa** honti yeva visūkāyitāni visevitāni vipphanditāni kānici kānici, yathā taṃ akāritapubbaṃ kāraṇaṃ **kāriyamānassa**.
 
@@ -439,8 +422,7 @@
 | akāritapubbaṃ |  |  |  |  |
 | kāraṇaṃ |  |  |  |  |
 | **kāriyamānassa** |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [SN35.245](https://find.dhamma.gift/bw/sn/sn35.245.html) <br>seyyathāpi, bhikkhu, purisassa kiṃsuko adiṭṭhapubbo assa. so yenaññataro puriso kiṃsukassa **dassāvī** tenupasaṅkameyya.
 
@@ -458,8 +440,7 @@
 | kiṃsukassa |  |  |  |  |
 | **dassāvī** |  |  |  |  |
 | tenupasaṅkameyya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) ko cāhāro ayonisomanasikārassa. assaddhiyantissa vacanīyaṃ. assaddhiyampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro assaddhiyassa. asaddhammassavanantissa vacanīyaṃ
 
@@ -481,5 +462,4 @@
 | assaddhiyassa |  |  |  |  |
 | asaddhammassavanantissa |  |  |  |  |
 | vacanīyaṃ |  |  |  |  |
-
-**&nbsp;**
+| |

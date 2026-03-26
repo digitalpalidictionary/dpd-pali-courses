@@ -9,8 +9,7 @@
 | gotamaṃ |  |  |  |
 | saraṇaṃ |  |  |  |
 | gacchāmi |  |  |  |
-
-**&nbsp;**
+| |
 
 **√gam 1 a (go) ; √gam + a \> gaccha ; gaccha + āmi \> gacchāmi**
 
@@ -21,8 +20,7 @@
 | sabbe | pron |  |  |
 | tasanti |  |  |  |
 | daṇḍassa |  |  |  |
-
-**&nbsp;**
+| |
 
 **√tas 1 a (shake, be fearful) ; tas + a \> tasa ; tasa + nti \> tasanti**
 
@@ -33,8 +31,7 @@
 | tathāgate |  |  |  |
 | saddhaṃ |  |  |  |
 | paṭilabhati |  |  |  |
-
-**&nbsp;**
+| |
 
 **√labh 1 a (get) ; √labh + a \> labha ; pati + labha + ti \> paṭilabhati**
 
@@ -48,8 +45,7 @@
 | āsavānaṃ |  |  |  |
 | khayaṃ |  |  |  |
 | pāpuṇāti |  |  |  |
-
-**&nbsp;**
+| |
 
 **√ap 4 uṇā (reach) ; √ap + uṇā \> apuṇā ; pa + apuṇā + ti \> pāpuṇāti**
 
@@ -60,8 +56,7 @@
 | sabba-rasaṃ |  |  |  |
 | dhamma-raso |  |  |  |
 | jināti |  |  |  |
-
-**&nbsp;**
+| |
 
 **ji 5 nā (conquer) ; √ji + nā \> jinā ; jinā + ti \> jināti**
 
@@ -73,8 +68,7 @@
 | ‘idaṃ dukkhan’ti |  | nt.nom.sg |  |
 | yathābhūtaṃ | ind | adv |  |
 | pajānāti |  |  |  |
-
-**&nbsp;**
+| |
 
 **√ñā･5 nā (know) ; √ñā + nā \> jānā ; pa + jānā + ti**
 
@@ -83,8 +77,7 @@
 |  |  |  |  |
 |---|---|---|---|
 | paṭiggaṇhātu |  |  |  |
-
-**&nbsp;**
+| |
 
 **√gah 6 ṇhā (grasp) ; √gah + ṇhā \> gaṇhā ; pati + gaṇhā + tu**
 
@@ -92,6 +85,7 @@
 |---|---|---|---|
 | āyasmā |  |  |  |
 | cīvaracetāpannaṃ |  |  |  |
+| |
 
 8. [DN19.7](https://find.dhamma.gift/bw/dn/dn19.html) (simpl) <br>rājā jotipālaṃ māṇavaṃ **āmantayati**
 
@@ -101,8 +95,7 @@
 | jotipālaṃ |  |  | (name) |
 | māṇavaṃ |  |  |  |
 | āmantayati |  |  |  |
-
-**&nbsp;**
+| |
 
 **√mant 8 aya (counsel, talk privately) ; mant + aya \> mantaya ; ā + mantaya + ti \> āmantayati**
 
@@ -115,8 +108,7 @@
 | vivekajena | adj |  |  |
 | pītisukhena |  |  |  |
 | paripūreti |  |  |  |
-
-**&nbsp;**
+| |
 
 **√pūr 8 e,aya (fill) ; pūr + e \> pūre ; pari + pūre + ti \> paripūreti**
 
@@ -128,8 +120,7 @@
 | ca | ind | conj |  |
 | kāyena |  |  |  |
 | paṭisaṃvedeti |  |  |  |
-
-**&nbsp;**
+| |
 
 **√vid 8 e (know, sense, feel) ; √vid + \*e \> vede ; pati + saṃ + vede + ti**
 
@@ -142,8 +133,7 @@
 | ca |  |  |  |
 | sitā | pp | masc.nom.pl |  |
 | tiṭṭhanti |  |  |  |
-
-**&nbsp;**
+| |
 
 12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
 
@@ -154,8 +144,7 @@
 | sambodhāya |  |  |  |
 | nibbānāya |  |  |  |
 | saṃvattati |  |  |  |
-
-**&nbsp;**
+| |
 
 13. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl)<br>dhammaṃ suṇāti putto
 
@@ -164,8 +153,7 @@
 | dhammaṃ |  |  |  |
 | suṇāti |  |  |  |
 | putto |  |  |  |
-
-**&nbsp;**
+| |
 
 14. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html) (simpl)<br>sāvako dhammaṃ anussarati
 
@@ -174,8 +162,7 @@
 | sāvako |  |  |  |
 | dhammaṃ |  |  |  |
 | anussarati |  |  |  |
-
-**&nbsp;**
+| |
 
 15. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) (simpl) <br>āvāse therā viharanti
 
@@ -184,8 +171,7 @@
 | āvāse |  |  |  |
 | therā |  |  |  |
 | viharanti |  |  |  |
-
-**&nbsp;**
+| |
 
 16. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>parikkhāraṃ paṭisevāmi
 
@@ -193,8 +179,7 @@
 |---|---|---|---|
 | parikkhāraṃ |  |  |  |
 | paṭisevāmi |  |  |  |
-
-**&nbsp;**
+| |
 
 17. [AN3.79](https://find.dhamma.gift/bw/an/an3.78.html) <br>kusalā dhammā abhivaḍḍhanti
 
@@ -203,8 +188,7 @@
 | kusalā | adj | masc.nom.pl |  |
 | dhammā |  |  |  |
 | abhivaḍḍhanti |  |  |  |
-
-**&nbsp;**
+| |
 
 18. [SN22.25](https://find.dhamma.gift/bw/sn/sn22.25.html) (simpl) <br>saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
 
@@ -215,8 +199,7 @@
 | ca |  |  |  |
 | rāgaṃ |  |  |  |
 | pajahatha |  |  |  |
-
-**&nbsp;**
+| |
 
 19. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) (simpl) <br>passatha, ānanda, vacanassa pathaṃ
 
@@ -226,8 +209,7 @@
 | ānanda |  |  | (name) |
 | vacanassa | noun | nt. |  |
 | pathaṃ |  |  |  |
-
-**&nbsp;**
+| |
 
 20. [SN55.6](https://find.dhamma.gift/bw/sn/sn55.6.html) (simpl)<br>suṇāma: kosalehi mallesu pakkamati
 
@@ -237,8 +219,7 @@
 | kosalehi |  |  | (name) |
 | mallesu |  |  | (name) |
 | pakkamati |  |  |  |
-
-**&nbsp;**
+| |
 
 21. [MN133](https://find.dhamma.gift/bw/mn/mn133.html) (simpl) <br>dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
 
@@ -248,8 +229,7 @@
 | bhikkhu |  |  |  |
 | uddesaṃ |  |  |  |
 | vibhaṅgaṃ |  |  |  |
-
-**&nbsp;**
+| |
 
 22. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html) (simpl) <br>puthujjano punabbhavāya ceteti
 
@@ -258,8 +238,7 @@
 | puthujjano |  |  |  |
 | punabbhavāya |  |  |  |
 | ceteti |  |  |  |
-
-**&nbsp;**
+| |
 
 23. [SNP34](https://find.dhamma.gift/bw/snp/snp3.8.html) <br>passa lokassa pariyāyaṃ.
 
@@ -268,8 +247,7 @@
 | passa |  |  |  |
 | lokassa |  |  |  |
 | pariyāyaṃ |  |  |  |
-
-**&nbsp;**
+| |
 
 24. [MN36](https://find.dhamma.gift/bw/mn/mn36.html) <br>taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
 
@@ -281,8 +259,7 @@
 | manasi | noun | masc.loc.sg |  |
 | karohi |  |  |  |
 | bhāsissāmi | fut |  |  |
-
-**&nbsp;**
+| |
 
 25. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>pātimokkhe saṃvarena viharāhi
 
@@ -291,8 +268,7 @@
 | pātimokkhe |  |  |  |
 | saṃvarena |  |  |  |
 | viharāhi |  |  |  |
-
-**&nbsp;**
+| |
 
 26. [VIN PAT PC 36](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>handa bhikkhu khāda vā bhuñja vā
 
@@ -303,8 +279,7 @@
 | khāda |  |  |  |
 | vā |  |  |  |
 | bhuñja |  |  |  |
-
-**&nbsp;**
+| |
 
 27. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
 
@@ -315,8 +290,7 @@
 | bhāsitaṃ |  |  |  |
 | evaṃ | ind | adv |  |
 | ājānāma |  |  |  |
-
-**&nbsp;**
+| |
 
 28. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>labhāmi paccattaṃ samathaṃ
 
@@ -325,8 +299,7 @@
 | labhāmi |  |  |  |
 | paccattaṃ | ind | adv |  |
 | samathaṃ |  |  |  |
-
-**&nbsp;**
+| |
 
 29. VIN<br>passasi taṃ āpattiṃ
 
@@ -335,8 +308,7 @@
 | passasi |  |  |  |
 | taṃ | pron | fem.acc.sg |  |
 | āpattiṃ | noun | fem.acc.sg |  |
-
-**&nbsp;**
+| |
 
 30. [SN41.3](https://find.dhamma.gift/bw/sn/sn41.3.html)<br>gahapati, pucchasi — “... diṭṭhiyo loke uppajjanti…
 
@@ -347,8 +319,7 @@
 | diṭṭhiyo | noun | fem.nom.pl |  |
 | loke |  |  |  |
 | uppajjanti |  |  |  |
-
-**&nbsp;**
+| |
 
 ## Class 3 Extra
 
@@ -359,8 +330,7 @@
 | brāhmaṇa |  |  |  |
 | puggalaṃ |  |  |  |
 | vadāmi |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) (simpl) <br> sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
 
@@ -373,5 +343,4 @@
 | etassa | pron | nt. |  |
 | bhāsitassa | noun | nt. |  |
 | attho |  |  |  |
-
-**&nbsp;**
+| |

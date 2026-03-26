@@ -174,17 +174,12 @@
 
 **I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^22] [so that ] the king of death does not see [him]?**
 
-**[^18]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)".**
+[^18]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)". Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.
 
-**Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.**
-
-**[^19]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.**
-
-**[^20]: Slightly different is Cone: "putting an end to; destruction"**
-
-**[^21]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."**
-
-**[^22]: Lokaṁ avekkhantaṁ is object in the acc. for passati, which seems almost untranslatable in English.**
+[^19]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.
+[^20]: Slightly different is Cone: "putting an end to; destruction"
+[^21]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."
+[^22]: Lokaṁ avekkhantaṁ is object in the acc. for passati, which seems almost untranslatable in English.
 
 9. [SN1.31](https://find.dhamma.gift/bw/sn/sn1.31.html)<br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatin'ti.
 

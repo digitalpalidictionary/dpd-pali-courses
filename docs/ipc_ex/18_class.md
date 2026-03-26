@@ -22,6 +22,7 @@
 | gantar |  |
 | pariyeṭṭhi |  |
 | jigiṃsanta |  |
+| |
 
 **Join the following in suitable ways**
 
@@ -48,6 +49,7 @@
 | √chad + na |  |
 | √car + na |  |
 | √pā + sa + ā |  |
+| |
 
 **Exercises**
 
@@ -67,8 +69,7 @@
 | ce |  |  |  |  |
 | paṭinissajjeyya |  |  |  |  |
 | saṅghādiseso |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [SNP58](https://find.dhamma.gift/bw/snp/snp5.4.html)<br>ye kecime isayo manujā, (iccāyasmā puṇṇako)
 
@@ -80,8 +81,7 @@
 | manujā |  |  |  |  |
 | iccāyasmā |  |  |  |  |
 | puṇṇako |  |  |  | (name) |
-
-**&nbsp;**
+| |
 
 3. [SN35.247](https://find.dhamma.gift/bw/sn/sn35.247.html)<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe nādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso
 
@@ -103,8 +103,7 @@
 | ca |  |  |  |  |
 | viharati |  |  |  |  |
 | appamāṇacetaso |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [DN16.32](https://find.dhamma.gift/bw/dn/dn16.html)<br>cattārome, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?
 
@@ -119,8 +118,7 @@
 | cakkavattimhi |  |  |  |  |
 | katame |  |  |  |  |
 | cattāro |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN5.51](https://find.dhamma.gift/bw/an/an5.51.html) <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo **cetaso** ajjhāruho paññāya dubbalīkaraṇo.
 
@@ -134,8 +132,7 @@
 | ajjhāruho |  |  |  |  |
 | paññāya |  |  |  |  |
 | dubbalīkaraṇo. |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [SNP54](https://find.dhamma.gift/bw/snp/snp4.16.html) <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ **manaso** vijaññā,<br>kaṇhassa pakkhoti vinodayeyya.
 
@@ -155,8 +152,7 @@
 | kaṇhassa |  |  |  |  |
 | pakkhoti |  |  |  |  |
 | vinodayeyya |  |  |  |  |
-
-**&nbsp;**
+| |
 
 7.  [AN8.2](https://find.dhamma.gift/bw/an/an8.2.html) <br>tathārūpāssa dhammā bahussutā honti dhātā **vacasā** paricitā **manasā**nupekkhitā diṭṭhiyā suppaṭividdhā.
 
@@ -172,8 +168,7 @@
 | manasānupekkhitā |  |  |  |  |
 | diṭṭhiyā |  |  |  |  |
 | suppaṭividdhā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 8.  [DN22.6](https://find.dhamma.gift/bw/dn/dn22.html) <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu **āpodhātu** **tejodhātu** **vāyodhātū**ti.
 
@@ -196,8 +191,7 @@
 | āpodhātu |  |  |  |  |
 | tejodhātu |  |  |  |  |
 | vāyodhātūti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 9.  [DHP160](https://find.dhamma.gift/bw/dhp/dhp157-166.html)<br>**attā** hi **attano** nātho,<br>ko hi nātho paro siyā,<br>**attanā** hi sudantena,<br>nāthaṃ labhati dullabhaṃ.
 
@@ -218,8 +212,7 @@
 | nāthaṃ |  |  |  |  |
 | labhati |  |  |  |  |
 | dullabhaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 10.  [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>na rūpaṃ **attato** samanupassati, na rūpavantaṃ vā **attānaṃ**; na **attani** vā rūpaṃ, na rūpasmiṃ vā **attānaṃ**. ‘ahaṃ rūpaṃ, mama rūpanti na pariyuṭṭhaṭṭhāyī hoti.
 
@@ -248,8 +241,7 @@
 | na |  |  |  |  |
 | pariyuṭṭhaṭṭhāyī |  |  |  |  |
 | hoti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 11.  [AN2.40](https://find.dhamma.gift/bw/an/an2.40.html)<br>yasmiṃ, bhikkhave, samaye **rājāno** balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye **rañño** phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.
 
@@ -280,8 +272,7 @@
 | vā |  |  |  |  |
 | janapade |  |  |  |  |
 | anusaññātuṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 12.  [AN3.83](https://find.dhamma.gift/bw/an/an3.82.html) <br>tassa na tādiso vaṇṇo hoti seyyathāpi **gunnaṃ**, na tādiso saro hoti seyyathāpi **gunnaṃ**, na tādisaṃ padaṃ hoti seyyathāpi **gunnaṃ**.
 
@@ -306,8 +297,7 @@
 | hoti |  |  |  |  |
 | seyyathāpi |  |  |  |  |
 | gunnaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 13.  [AN4.49](https://find.dhamma.gift/bw/an/an4.49.html) <br>anattani, bhikkhave, attāti saññāvipallāso cittavipallāso diṭṭhivipallāso. <br>
 
@@ -321,6 +311,7 @@
 | saññāvipallāso |  |  |  |  |
 | cittavipallāso |  |  |  |  |
 | diṭṭhivipallāso |  |  |  |  |
+| |
 
 ## Class 18 Extra Examples
 
@@ -341,8 +332,7 @@
 | māso |  |  |  |  |
 | iccete |  |  |  |  |
 | aḍḍhateyyamāsā |  |  |  |  |
-
-**&nbsp;**
+| |
 
 2. [AN5.140](https://find.dhamma.gift/bw/an/an5.140.html)<br>idha, bhikkhave, rañño nāgo yamenaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
 
@@ -369,8 +359,7 @@
 | samannāharitvā |  |  |  |  |
 | ohitasoto |  |  |  |  |
 | suṇāti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 3. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html)<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: ajja kho gāvo amukasmiñca amukasmiñca padese cariṃsu
 
@@ -390,8 +379,7 @@
 | amukasmiñca |  |  |  |  |
 | padese |  |  |  |  |
 | cariṃsu |  |  |  |  |
-
-**&nbsp;**
+| |
 
 4. [SN7.9](https://find.dhamma.gift/bw/sn/sn7.9.html)<br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ
 
@@ -406,8 +394,7 @@
 | dhūmo |  |  |  |  |
 | bhasmani |  |  |  |  |
 | mosavajjaṃ |  |  |  |  |
-
-**&nbsp;**
+| |
 
 5. [AN3.51](https://find.dhamma.gift/bw/an/an3.50.html)<br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.
 
@@ -422,8 +409,7 @@
 | vā |  |  |  |  |
 | nissito |  |  |  |  |
 | hoti |  |  |  |  |
-
-**&nbsp;**
+| |
 
 6. [MN82](https://find.dhamma.gift/bw/mn/mn82.html)<br>appekadāhaṃ, bho raṭṭhapāla, idha pādaṃ karissāmīti aññeneva pādaṃ karomīti.
 
@@ -438,5 +424,4 @@
 | aññeneva |  |  |  |  |
 | pādaṃ |  |  |  |  |
 | karomīti |  |  |  |  |
-
-**&nbsp;**
+| |

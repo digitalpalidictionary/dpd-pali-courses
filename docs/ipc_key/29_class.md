@@ -142,9 +142,7 @@ bhav'ūpapattiñ'ca vadesi kīdisaṃ.
 
 **and re-arising into existence do you proclaim?**
 
-**[^48]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa.**
-
-**An adjective \*ādisa (S. \*ādṛśa) is listed neither in PED, CPD nor Cone and is also unknown to MW, Apte and Böthlingk, so it seems this is a ghost word in DPD.**
+[^48]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa. An adjective \*ādisa (S. \*ādṛśa) is listed neither in PED, CPD nor Cone and is also unknown to MW, Apte and Böthlingk, so it seems this is a ghost word in DPD.
 
 [^49]: See kīdṛśa.
 

@@ -170,7 +170,7 @@
 
 **What do you think, headman, here could be a person who kills living being, takes what is not given, who engages in sexual misconduct, speaks falsely, divisively, harshly, and chatters frivolously, [one] who is covetous, has a malicious mind and holds a wrong view.**
 
-**[^14]: The relevant meaning of uddesa here would be, cf. Cone s.v.: "that to which one refers, point**
+[^14]: The relevant meaning of uddesa here would be, cf. Cone s.v.: "that to which one refers, point
 
 **of authority".**
 
@@ -180,7 +180,7 @@
 
 **Based on this, I would take the meaning of samaṇuddesa as "who refers to a samaṇa as his point of authority" and would analyze as a dutiya tappurisa. But: cum grano salis.**
 
-**[^15]: So also Ñāṇatusita, but puna(r) is an ind.**
+[^15]: So also Ñāṇatusita, but puna(r) is an ind.
 
 **I wonder if it could also be classified as avyayībhāva that retains its case ending, cf. Duroiselle: "Sometimes, however, the case-ending is retained; the cases thus retained being mostly the Ablative and the Locative."**
 
@@ -597,11 +597,11 @@
 
 **Now on that occasion, seven dread-locked ascetics, seven Jains, seven naked ascetics, seven one-robe ascetics, and seven wandering ascetics, with long armpit hair, nails and body hair, and carrying bundles of personal belongings on a pole, passed by near to the Blessed One.**
 
-**[^16]: Although -ā is a permitted termination of the instrumental in the -a declension, usually the instrumental takes the ending in -ena.**
+[^16]: Although -ā is a permitted termination of the instrumental in the -a declension, usually the instrumental takes the ending in -ena.
 
 **this can be classified as an ablative of cause. Cf. Wijesekara, para. 122: "This use of the abl. brings it into contact with the inst. which as we have seen elsewhere (§67) is also employed to denote reason or cause. Pāṇinī has two parallel rules to that effect7 and Kaccāyana lays down the same rule in both cases, viz. 'hetvatthe' (291 & 277 hetu). [...] It may denote the cause proper, in which case it can be rendered by such expressions as "from", "through", "as a result of" or "in consequence of". e.g., āsavānaṃ khayā anāsavaṃ cetovimuttiṃ upasampajja A I.107; D III.102 "**
 
-**[^17]: As bahubbīhi qual. jhānaṁ.**
+[^17]: As bahubbīhi qual. jhānaṁ.
 
 4. [MN12](https://find.dhamma.gift/bw/mn/mn12.html) <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
 

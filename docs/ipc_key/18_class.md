@@ -595,6 +595,4 @@
 
 **"Just sometimes, master Raṭṭhapāla, thinking, "I will place the foot here", I place it at (lit.: with) another (place)."**
 
-**[^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single**
-
-**word or name or expression; a list"**
+[^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single word or name or expression; a list"

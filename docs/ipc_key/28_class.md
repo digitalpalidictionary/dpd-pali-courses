@@ -466,6 +466,5 @@
 
 **Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore**
 
-**[^46]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate**
-
-**[^47]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.**
+[^46]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate
+[^47]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.

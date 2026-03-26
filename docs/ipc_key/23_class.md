@@ -254,9 +254,8 @@
 
 **He [who is] lazy dwells in suffering, mingled with evil and unskillful things, and great is the personal benefit that he neglects.**
 
-**[^24]: The copula (hoti) is unexpressed, but syntactically this is predicative.**
-
-**[^25]: All nominatives here belong to the Subject of assa, "one should be".**
+[^24]: The copula (hoti) is unexpressed, but syntactically this is predicative.
+[^25]: All nominatives here belong to the Subject of assa, "one should be".
 
 9. [VIN5.4.7](https://find.dhamma.gift/bw/vi/kd.html) tiṇavatthārakaṃ<br>yadi saṅghassa pattakallaṃ, saṅgho imaṃ adhikaraṇaṃ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṃ, ṭhapetvā gihippaṭisaṃyuttan'ti.
 
@@ -790,9 +789,8 @@
 
 **"Having placed down the onerous burden [and] not taking up another burden, pulling out craving with the root, he is desireless (without being hungry), entirely liberated."**
 
-**[^26]: Formally, this belongs to the object as it qualifies it.**
-
-**[^27]: This can be regarded as an instrumental object, cf. Cone s.v.: "feels ashamed or bashful; is afraid (of doing wrong); is scrupulous (to avoid, with instr., gen., and, rarely, acc.)"**
+[^26]: Formally, this belongs to the object as it qualifies it.
+[^27]: This can be regarded as an instrumental object, cf. Cone s.v.: "feels ashamed or bashful; is afraid (of doing wrong); is scrupulous (to avoid, with instr., gen., and, rarely, acc.)"
 
 9. [SN20.10](https://find.dhamma.gift/bw/sn/sn20.10.html) <br>atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tam'enaṃ biḷāro gahetvā sahasā asaṅkhāditvā ajjhohari. tassa so mudumūsi antam'pi khādi, antaguṇam'pi khādi.
 
