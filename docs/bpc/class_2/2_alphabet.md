@@ -101,7 +101,7 @@ These retroflex consonants have no English equivalents. They are formed by curli
 | **ś**amatha | (tranquillity) | ś | as in | **sh**ip, **sh**ape |
 | di**ṣ**ṭa | (seen) | ṣ | as in | retroflex **sh** |
 
-### Double Consonants
+## Double Consonants
 
 Double consonants are pronounced individually, like in the English word u**nn**ecessary. For example:
 

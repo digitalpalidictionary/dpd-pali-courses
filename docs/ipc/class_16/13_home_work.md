@@ -8,7 +8,7 @@
 4.  Learn the vocabulary from the exercises using Anki Deck “Vocab Pāli Class”
 5.  Learn roots and try to understand phonetic changes using any of the available decks.
 
-### How to do the Homeless work
+## How to do the Homeless work
 
 1\. Find the suttas in DPR and use the translations available there to help you also use Buddha’s Words or SuttaCentral
 
@@ -35,7 +35,7 @@
 
 4\. Whatever problems you cannot solve, or if there is anything you are unsure about, please ask about them in the next class.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

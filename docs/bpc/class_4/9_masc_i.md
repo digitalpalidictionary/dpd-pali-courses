@@ -2,7 +2,7 @@
 
 There are about 400 of these nouns in the DPD[^12].
 
-### Declension of -i masc {: #declension-of-i-masc}
+## Declension of -i masc {: #declension-of-i-masc}
 
 | Pāli | POS | Grammar |
 |---|---|---|

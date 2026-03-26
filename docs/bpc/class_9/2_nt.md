@@ -19,7 +19,7 @@ These are very common, more than 17000 words in the current DPD database[^21].
 | cīvara | robe; cloth |
 | dāna | giving; offering |
 
-### Declension of Neuter Nouns ending in -a {: #declension-of-neuter-nouns-ending-in-a}
+## Declension of Neuter Nouns ending in -a {: #declension-of-neuter-nouns-ending-in-a}
 
 |  |  |  |
 |---|---|---|
@@ -34,7 +34,7 @@ These are very common, more than 17000 words in the current DPD database[^21].
 
 What do you notice in regard to the declension of neuter nouns?
 
-### Comparison between Masculine and Neuter Nouns -a
+## Comparison between Masculine and Neuter Nouns -a
 
 |  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ What do you notice in regard to the declension of neuter nouns?
 | 7.loc | nar**e** <br>nar**amhi** <br>nar**asmiṃ** | citt**e** <br>citt**amhi** <br>citt**asmiṃ** | nar**esu** | citt**esu** |
 | 8.voc | nar**a** <br>nar**ā** | citt**a** <br>citt**ā** | nar**ā** | citt**āni** |
 
-### Neuter Nouns ending in -i
+## Neuter Nouns ending in -i
 
 These are very rare, there are only few of them in the Tipiṭaka.
 
@@ -63,7 +63,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | vāri | water |
 | byanti | end |
 
-### Declension of Neuter Nouns ending in -i {: #declension-of-neuter-nouns-ending-in-i}
+## Declension of Neuter Nouns ending in -i {: #declension-of-neuter-nouns-ending-in-i}
 
 |  |  |  |
 |---|---|---|
@@ -76,7 +76,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | 7.loc | aṭṭh**ini** <br>aṭṭh**imhi** <br>aṭṭh**ismiṃ** | aṭṭh**isu** <br>aṭṭh**īsu** |
 | 8.voc | aṭṭh**i** | aṭṭh**ī** <br>aṭṭh**īni** |
 
-### Comparison between Masculine and Neuter Nouns -i
+## Comparison between Masculine and Neuter Nouns -i
 
 |  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | 7.loc | agg**imhi** agg**ismiṃ** | aṭṭh**ini** <br>aṭṭh**imhi** aṭṭh**ismiṃ** | agg**isu**<br>agg**īsu** | aṭṭh**isu** <br>aṭṭh**īsu** |
 | 8.voc | agg**i** | aṭṭh**i** | agg**ī**<br>agg**ayo** | aṭṭh**ī** <br>aṭṭh**īni** |
 
-### Neuter Nouns ending in -u
+## Neuter Nouns ending in -u
 
 These are also rare, at most 400 in the current DPD database[^22].
 
@@ -109,7 +109,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 | dhanu | bow |
 | sādu | delicious food; tasty food |
 
-### Declension of Neuter Nouns ending in -u {: #declension-of-neuter-nouns-ending-in-u}
+## Declension of Neuter Nouns ending in -u {: #declension-of-neuter-nouns-ending-in-u}
 
 |  |  |  |
 |---|---|---|
@@ -122,7 +122,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 | 7.loc | āy**umhi** <br>āy**usmiṃ** | āy**ūsu** |
 | 8.voc | āy**u** | āy**ū** <br>āy**ūni** |
 
-### Comparison between Masculine and Neuter Nouns -u
+## Comparison between Masculine and Neuter Nouns -u
 
 |  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
 |---|---|---|---|---|

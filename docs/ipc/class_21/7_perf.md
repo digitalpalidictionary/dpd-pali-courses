@@ -14,7 +14,7 @@ But, modern grammars have given it the name of - **Perfect Past Tense,** which i
 
 Whatever the exact meaning, there are so few examples of it in Pāli, that you are safe translating it as a normal past tense, something that happened a long time ago, a completed action, something the speaker personally did not witness.
 
-### How to Form the Perfect Past Tense
+## How to Form the Perfect Past Tense
 
 This is constructed by reduplicating the root, which then undergoes some morphological changes.
 

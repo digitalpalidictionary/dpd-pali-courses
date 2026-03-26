@@ -9,14 +9,14 @@
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of [SBS kuṭis.](https://docs.google.com/spreadsheets/d/1JZPHwIzZv8kC92vjNc2Oy6VdQmwIRT23Ae1DUKersTU/)
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |
 | V. Perniola<br>Pāli Grammar | p110 - 118 (the past participle) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
-### Example of the “SBS kuṭi udāna” task
+## Example of the “SBS kuṭi udāna” task
 
 **hitesikuṭi**
 

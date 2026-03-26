@@ -8,7 +8,7 @@
 4.  Learn the conjugations using Anki Deck “Grammar Pāli Class”
 5.  Learn roots and phonetic changes using any of the available decks.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

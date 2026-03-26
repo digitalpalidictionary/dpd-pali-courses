@@ -14,6 +14,8 @@ def clean_title(title):
         return ""
     # Strip footnote references (e.g. [^1], [^18])
     title = re.sub(r'\[\^\d+\]', '', title)
+    # Strip attribute lists (e.g. {: #anchor} or {#anchor})
+    title = re.sub(r'\{.*?\}', '', title)
     title = re.sub(r'!\[.*?\]\(.*?\)', '', title)
     title = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', title)
     title = re.sub(r'\*\*(.*?)\*\*', r'\1', title)

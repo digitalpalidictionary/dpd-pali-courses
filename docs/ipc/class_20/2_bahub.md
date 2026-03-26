@@ -104,7 +104,7 @@ This compound needs to be **translated with a relative clause** such as “who..
 
 Furthermore, this compound can also be **used independently** as a noun with an implied subject. “the man who….”, “the ascetic who...”, “the robe which….” etc.
 
-### How to make a bahubbīhi compound?
+## How to make a bahubbīhi compound?
 
 (or how to turn a noun into an adjective?)
 

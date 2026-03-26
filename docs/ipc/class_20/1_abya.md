@@ -20,7 +20,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 **yāvajīvaṃ \> yāva + jīva + aṃ**
 
-### Some abyayībhāva compounds
+## Some abyayībhāva compounds
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
@@ -35,7 +35,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | **yathā** | like, as | **bhūta** | become | **yathābhūtaṃ** | adv | as it is, lit. as it has become |
 | **yāva** | as far as | **tatiya** | third | **yāvatatiyaṃ** | adv | up to the third time |
 
-### Sometimes the original case ending is maintained
+## Sometimes the original case ending is maintained
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|

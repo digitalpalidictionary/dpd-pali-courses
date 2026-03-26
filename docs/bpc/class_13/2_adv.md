@@ -8,7 +8,7 @@ Why am I going **slowly**?
 
 Adverbs are formed in various ways using **suffixes** and different **cases** of adjectives, and also using **indeclinable** particles. In all cases, adverbs are indeclinable.
 
-### How to form adverbs
+## How to form adverbs
 
 **Derivative Adverbs** are formed by adding suffixes to nouns and adjectives. You’ll go into these in more detail when you study primary and secondary derivatives.
 

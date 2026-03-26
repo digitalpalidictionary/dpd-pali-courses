@@ -12,7 +12,7 @@ These verbs express
 
 The meaning **should / could / may / might** will be clear from the context.
 
-### How to form Optative or Potential verbs
+## How to form Optative or Potential verbs
 
 **root + conjugational sign \> base**
 
@@ -50,7 +50,7 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 | 2nd | gacche**yyāsi** gacche | gacche**yyātha** |
 | 1st | gacche**yyāmi** gacche | gacche**yyāma** |
 
-### Optative of √as
+## Optative of √as
 
 It has two forms:
 

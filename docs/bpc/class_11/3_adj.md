@@ -1,13 +1,13 @@
 # Adjectives (guṇanāma, guṇavacana, visesana)
 
-### Adjectives in Pāli
+## Adjectives in Pāli
 
 -   Unlike English, Adjectives in Pāli have the same Gender, Number and Case as the Nouns they qualify.
 -   Adjectives must be declined just like Nouns.
 -   Most adjectives end in -a. Their feminine ending can be either in -ā or -ī.
 -   When an Adjective's masculine form ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī.
 
-### How to form an adjective
+## How to form an adjective
 
 | Root | Meaning | Form | Adj | Meaning |
 |---|---|---|---|---|

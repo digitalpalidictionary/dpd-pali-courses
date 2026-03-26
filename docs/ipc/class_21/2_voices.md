@@ -16,7 +16,7 @@ In Sanskrit, there are **three distinct voices of verbs**, active, **reflexive o
 
 The only time you will encounter the middle or reflexive voice is in poetry, but it is important to recognise it, since these verses contain important and subtle doctrinal ideas.
 
-### Active Voice
+## Active Voice
 
 Almost all the verbs you have dealt with so far have been in the active **voice**.
 
@@ -32,7 +32,7 @@ saṃ + ā + daha + ti \> samādahati
 
 Hopefully you have no problems with that.
 
-### Passive Voice
+## Passive Voice
 
 You have also learned how to form passive verbs in this way:
 
@@ -44,7 +44,7 @@ You have also learned how to form passive verbs in this way:
 
 saṃ + ā + dhiya + ti \> samādhiyati
 
-### Middle Voice or Reflexive Voice
+## Middle Voice or Reflexive Voice
 
 As mentioned, this voice has virtually died out in prose, but still exists to a significant degree within verse. First let’s look at the construction, then at the meaning.
 

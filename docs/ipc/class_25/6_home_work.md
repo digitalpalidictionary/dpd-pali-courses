@@ -10,7 +10,7 @@
 5.  Learn the taddhitas using Anki Deck “Grammar Pāli Class”
 6.  Learn roots and phonetic changes using any of the available decks.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

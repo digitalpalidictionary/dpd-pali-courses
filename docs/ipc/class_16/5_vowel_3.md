@@ -1,6 +1,6 @@
 # Lengthening of a Vowel
 
-#### Possibility \#3
+## Possibility \#3
 
 When the first vowel is elided, the following vowel may be lengthened.
 

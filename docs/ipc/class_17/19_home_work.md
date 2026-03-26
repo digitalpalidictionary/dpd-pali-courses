@@ -10,7 +10,7 @@
 5.  Learn the sandhi using Anki Deck “Grammar Pāli Class”
 6.  Learn roots and try to understand phonetic changes using any of the available decks.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

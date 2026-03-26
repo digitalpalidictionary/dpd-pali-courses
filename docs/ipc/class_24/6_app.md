@@ -20,7 +20,7 @@ katamo ca, bhikkhave, **pariññātāvī** puggalo?
 
 Monks, who is the person **who has completely understood**?
 
-### How To Construct Active Past Participle
+## How To Construct Active Past Participle
 
 root + āvī \> app
 
@@ -37,7 +37,7 @@ base + āvī \> app
 | √ji | vijināti | viji**tāvī** | has conquered |
 | √i | abhisameti | abhisame**tāvī** | has realized |
 
-### How to Decline Active Past Participle
+## How to Decline Active Past Participle
 
 Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, in **feminine** like **nadī** and the **neuter** like **aṭṭhi**
 

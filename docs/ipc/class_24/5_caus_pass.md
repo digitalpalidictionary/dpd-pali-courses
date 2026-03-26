@@ -64,7 +64,7 @@ cattārome, bhikkhave, kālā sammā **bhāviyamānā** sammā anuparivattiyamā
 
 Monks, these four times **being** well **developed,** being well rotated, cause one to gradually reach the destruction of the defilements.
 
-### Irregular Causative Passive Bases
+## Irregular Causative Passive Bases
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|

@@ -32,7 +32,7 @@ carantaṃ = masc.acc.sg
 
 tiṭṭhantaṃ = masc.acc.sg
 
-### How to form a present participle
+## How to form a present participle
 
 There are 3 ways to form present participles
 
@@ -96,7 +96,7 @@ DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapa
 | √sī | to lie down | saya | say**āna** | lying down |
 | √vad | to speak | vada | vad**āna** | saying |
 
-### Declension of present participles
+## Declension of present participles
 
 Present participles are declined in all 3 genders to agree with nouns in all three genders.
 

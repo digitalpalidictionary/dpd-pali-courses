@@ -13,7 +13,7 @@ The past participle is another **verbal adjective** which describes the action t
 
 Please note that the past participle is **passive** in meaning.
 
-### How to form a past participle
+## How to form a past participle
 
 In theory the formation of past participles is very easy, just add -**ta**, -**ita** or -**na** to the root.
 
@@ -23,7 +23,7 @@ Until you learn more about Sandhi and Sanskrit roots, you will have to just lear
 
 There are, quite literally, thousands of examples...
 
-#### 1. root + ta
+### 1. root + ta
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ There are, quite literally, thousands of examples...
 
 When we study sandhi, we will study the rules related to the changes that happen with **ta**
 
-#### 2. root + ita
+### 2. root + ita
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 | vindati | √vid | to know | + ita | vidita | known |
 | yācati | √yāc | to beg | + ita | yācita | begged |
 
-#### 3. base + ita
+### 3. base + ita
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 | ṭhapeti | √ṭhā | ṭhape | + ita | ṭhapita | placed |
 | vedayati | √vid | vedaya | + ita | vedayita | experienced |
 
-#### 4. root + na
+### 4. root + na
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 
 Again, sandhi rules regarding the assimilation of **na** will be studied in detail later.
 
-### Declension of Past Participles
+## Declension of Past Participles
 
 Past participles are declined, just like nouns ending in **-a** in all three genders. In masculine like *buddha*, in feminine like *vedanā*, and neuter like *cittaṃ*.
 
@@ -122,7 +122,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 | 7.loc | gat**e** <br>gat**amhi** <br>gat**asmiṃ** | gat**esu** |
 | 8.voc | gat**a** gat**ā** | gat**āni** |
 
-### How to use Past Participles
+## How to use Past Participles
 
 1\. They often get used as the **verb** in the sentence, having a past passive meaning.
 

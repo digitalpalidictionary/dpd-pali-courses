@@ -40,7 +40,7 @@ a + √ṭhā + si \> **a**ṭṭhāsi (he stood)
 
 a + √dā + si \> **a**dāsi (he gave)
 
-### 1st conjugation group & others
+## 1st conjugation group & others
 
 **Conjugation of -i aor**
 
@@ -51,7 +51,7 @@ a + √dā + si \> **a**dāsi (he gave)
 | 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha** <br>apac**ittha** | you all cooked |
 | 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
 
-### 8th conjugation group
+## 8th conjugation group
 
 8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”
 
@@ -66,7 +66,7 @@ a + √dā + si \> **a**dāsi (he gave)
 
 similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 
-### Roots ending in vowels
+## Roots ending in vowels
 
 Some roots ending in long vowels also have the “s” aorist ending. Note the plural endings.
 

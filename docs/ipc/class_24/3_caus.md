@@ -14,7 +14,7 @@ After roots, there are causative \*e \*aya \*āpe \*āpaya when the meaning is c
 
 √car + **\*āpaya** \> cārāpaya (causative base) \> cārāpayati
 
-### Intransitive, transitive and di-transitive verbs
+## Intransitive, transitive and di-transitive verbs
 
 When you make a verb into a causative,
 

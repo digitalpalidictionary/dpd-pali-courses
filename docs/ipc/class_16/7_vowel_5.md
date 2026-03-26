@@ -4,7 +4,7 @@ All the previous possibilities involved **elision** of some sort.
 
 All the following examples involve **changes** of the vowels.
 
-#### Possibility \#5
+## Possibility \#5
 
 **a** or **ā** followed by **i** or **ī** can become **e**
 

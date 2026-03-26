@@ -1,6 +1,6 @@
 # How to say No!
 
-### Negative particle “na”
+## Negative particle “na”
 
 The easiest way to make a verb into its negative is to add the particle “**na**” before it.
 
@@ -13,7 +13,7 @@ The easiest way to make a verb into its negative is to add the particle “**na*
 
 [^16]: It frequently appears in text as **n'atthi**
 
-### Negative particle “no”
+## Negative particle “no”
 
 The particle **“no”** expresses the meaning “not” (although it also has many other meanings, so be careful!)
 
@@ -21,7 +21,7 @@ ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. ([AN8.53](https:/
 
 These qualities lead to attachment, **not** to detachment.
 
-### Negative particles “n'eva … na” = na eva … na
+## Negative particles “n'eva … na” = na eva … na
 
 This is used in the same way as **neither** … **nor** in English.
 
@@ -35,7 +35,7 @@ At that time, he **neither** feels an unpleasant sensation, **nor** does he feel
 
 Venerable Ratthapāla **neither** received alms food **nor** rejection, on the contrary, he only received verbal abuse!
 
-### Prohibitive Particle “mā”
+## Prohibitive Particle “mā”
 
 To express prohibition “don’t do!” the particle **mā + aorist** is used. Even though the past tense is used, the meaning is present or sometimes future.
 

@@ -2,7 +2,7 @@
 
 Niggahīta sandhi takes place when a word **ending in ṃ** is followed by a word **beginning with a vowel or a consonant.**
 
-### Possibility \#1
+## Possibility \#1
 
 When **ṃ** is followed by a **consonant**, it may remain **unchanged**.
 

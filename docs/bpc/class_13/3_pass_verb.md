@@ -12,7 +12,7 @@ rukkho mayā **chindīyati** / rukkho me **chijjati**
 
 The tree **is cut** by me.
 
-### How to form Passive Verbs
+## How to form Passive Verbs
 
 To make a passive verb, first you need to make a **passive** **base**. Remember the formula for making a base?
 
@@ -44,6 +44,8 @@ Sometimes the only way to recognise if a verb is passive is by the passive base
 | **√muc** | to free | + ya | **mucca** | **mucca**ti | is freed |
 | **√tap** | to burn | + ya | **tappa** | **tappa**ti | is burned |
 | **√vac** | to say | + ya | **vucca** | **vucca**ti | is said |
+
+Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.
 
 2\. root + **iya** + verbal ending (less common)
 
@@ -97,7 +99,7 @@ root + **ya** + verbal ending
 
 There are some exceptions and other forms, but that’s enough for now. Check out the extra reading to find out more.
 
-### How to conjugate Passive Verbs
+## How to conjugate Passive Verbs
 
 Easy, just add the normal verbal ending to the passive base.
 

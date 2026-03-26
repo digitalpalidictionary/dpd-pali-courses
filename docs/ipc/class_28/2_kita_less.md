@@ -20,7 +20,7 @@ less frequent *kita*:
 | √khā | to tell | **+ tar** | akkhā**tar** | speaker, who tells |
 | √man | to think | **+ tar** | man**tar** | thinker |
 
-### u
+## u
 
 |  |  |
 |---|---|
@@ -51,7 +51,7 @@ less frequent *kita*:
 | √ghaṇḍ | to speak | **+ u** | nighaṇḍu | glossary, dictionary |
 | √sādh | to accomplish | **+ u** | asādhu | badness, evil |
 
-### ya
+## ya
 
 |  |  |
 |---|---|
@@ -89,7 +89,7 @@ less frequent *kita*:
 | √gidh | to be greedy | **+ ya** | gij**jha** | vulture |
 | √vap | to sow | **+ ya** | vap**pa** | planting, sowing |
 
-### ma
+## ma
 
 |  |  |
 |---|---|
@@ -109,7 +109,7 @@ less frequent *kita*:
 | --- | --- | --- | --- | --- |
 | √kar | to do, make | **+ ma** | kam**ma** | action, deed, etc |
 
-### itar
+## itar
 
 |  |  |
 |---|---|
@@ -127,7 +127,7 @@ less frequent *kita*:
 | √sar | to remember | **+ itar** | anussar**itar** | memorizer |
 | √sikkh | to learn | **+ itar** | sikkh**itar** | practitioner |
 
-### ra
+## ra
 
 |  |  |
 |---|---|
@@ -154,7 +154,7 @@ less frequent *kita*:
 | √suc | to be pure | **+ ra** | suk**ka** | planet Venus |
 | √ud | to be wet | **+ ra** | samud**da** | ocean |
 
-### ikā
+## ikā
 
 |  |  |
 |---|---|
@@ -179,7 +179,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | √ās | to sit | **+ ikā** | upāsikā | female devotee |
 | √dā | to give | **+ ikā** | dāyikā | female giver |
 
-### \*i
+## \*i
 
 |  |  |
 |---|---|
@@ -201,7 +201,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | --- | --- | --- | --- | --- |
 | √ku | to sing, sound | **+ \*i** | k**avi** | poet |
 
-### iya
+## iya
 
 |  |  |
 |---|---|
@@ -229,7 +229,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | √kar | to do, make | **+ iya** | akir**iya** | non-doing |
 | √vīr | to be heroic | **+ iya** | vīr**iya** | effort, energy, might |
 
-### \*aṇa
+## \*aṇa
 
 |  |  |
 |---|---|
@@ -243,7 +243,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | √ruh | to climb | **+ \*aṇa** | ār**o**h**aṇa** | climbing |
 | √ruh | to climb | **+ \*aṇa** | or**o**h**aṇa** | descending |
 
-### tha
+## tha
 
 |  |  |
 |---|---|
@@ -273,7 +273,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | √vas | to wear, dress | **+ tha** | vattha | cloth, robe |
 | √tir | to cross | **+ tha** | tittha | bank; shore |
 
-### āna
+## āna
 
 |  |  |
 |---|---|
@@ -281,7 +281,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 suffix **āna**, as we saw last week, is used to form the **present participle**
 
-### as
+## as
 
 |  |  |
 |---|---|
@@ -300,7 +300,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √vā | to blow | **+ as** | vāy**as** | wind, air |
 | √vac | to say, speak | **+ as** | vac**as** | word, statement |
 
-### \*anā
+## \*anā
 
 |  |  |
 |---|---|
@@ -317,7 +317,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √vid | to sense | **+ \*anā** | v**e**d**anā** | feeling |
 | √vis | to enter | **+ \*anā** | niv**e**s**anā** | attachment |
 
-### ū
+## ū
 
 |  |  |
 |---|---|
@@ -331,7 +331,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √vid | to know | **+ ū** | vid**ū** | who knows, wise man |
 | √ñā | to know | **+ ū** | viññ**ū** | who knows, sage |
 
-### ika
+## ika
 
 |  |  |
 |---|---|
@@ -351,7 +351,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kath | to speak | **+ ika** | kathika | story teller |
 | √phal | to split | **+ ika** | phalika | crystal, quartz |
 
-### ala
+## ala
 
 |  |  |
 |---|---|
@@ -364,7 +364,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kur | to sound | **+ ala** | kul**ala** | eagle; hawk |
 | √bah | to increase | **+ ala** | bah**ala** | intense |
 
-### tta
+## tta
 
 |  |  |
 |---|---|
@@ -384,7 +384,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √as | to be | **+ tta** | satta | being |
 | √mā | to measure | **+ tta** | nimitta | mark; sign |
 
-### \*ā
+## \*ā
 
 |  |  |
 |---|---|
@@ -399,7 +399,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √mitta | to be friendly | **+ \*ā** | m**e**tt**ā** | friendliness |
 | √his | to hurt, harm | **+ \*ā** | vih**e**s**ā** | irritation |
 
-### \*u
+## \*u
 
 |  |  |
 |---|---|
@@ -412,7 +412,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √dar | to split | + \*u | d**ā**r**u** | m | wood, timber |
 | √phus | to touch | + \*u | ph**ā**s**u** | adj | comfortable |
 
-### ara
+## ara
 
 |  |  |
 |---|---|
@@ -432,7 +432,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √bhās | to shine | **+ ara** | pabhassara | bright, brilliant |
 | √ṭhā | to stand | **+ ara** | thāv**ara** | stationary |
 
-### yā
+## yā
 
 |  |  |
 |---|---|
@@ -446,7 +446,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √kan | to shine | + yā | kañ**ñā** | young girl |
 | √yuj | to yoke | + yā | yog**gā** | training |
 
-### \*tta
+## \*tta
 
 |  |  |
 |---|---|
@@ -459,7 +459,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √khi | to live | + \***tta** | kh**etta** | field |
 | √yu | to unite | + \***tta** | y**otta** | rope; cord |
 
-### \*ta
+## \*ta
 
 |  |  |
 |---|---|
@@ -472,7 +472,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √pus | to nourish | **+ \*ta** | p**o**ta | young animal |
 | √kus | to fill, enfold | **+ \*ta** | k**o**ṭṭha | abdomen |
 
-### tāvī
+## tāvī
 
 |  |  |
 |---|---|
@@ -488,7 +488,7 @@ suffix **tāvī** is used to form **active past participles**
 | √ji | to conquer | **+ tāvī** | viji**tāvī** | has conquered |
 | √i | to come | **+ tāvī** | abhisame**tāvī** | has realised |
 
-### \*ikā
+## \*ikā
 
 |  |  |
 |---|---|
@@ -508,7 +508,7 @@ suffix **tāvī** is used to form **active past participles**
 | √nī | to lead | **+ \*ikā** | n**āy**ikā | mistress |
 | √car | to walk | **+ \*ikā** | paric**ā**rikā | female attendant |
 
-### tī
+## tī
 
 |  |  |
 |---|---|

@@ -1,6 +1,6 @@
 # State of Being (bhāvataddhita)
 
-### tā (state of) abstract feminine nouns
+## tā (state of) abstract feminine nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | subhara | + tā | subhara**tā** | being easy to support |
 | suñña | + tā | suñña**tā** | emptiness |
 
-### tta (state of) abstract neuter nouns
+## tta (state of) abstract neuter nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@
 | dvi | + tta | dvi**tta** | state of two, reduplication |
 | eka | + tta | eka**tta** | state of one, solitude |
 
-### tha (state of) abstract masculine nouns
+## tha (state of) abstract masculine nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 | kilama | **+ tha** | kilama**tha** | fatigue, tiredness |
 | sama | **+ tha** | sama**tha** | stillness, peace |
 
-### iya (state of) abstract neuter nouns
+## iya (state of) abstract neuter nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@
 | paviveka | + iya | pavivek**iya** | state of solitude |
 | thāvara | + iya | thāvar**iya** | stability, order |
 
-### \*ya (state of) abstract neuter nouns
+## \*ya (state of) abstract neuter nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -74,7 +74,7 @@
 | su manas | + \*ya | s**o**mana**ssa** | good mind state, happiness |
 | tatha | + \*ya | t**accha** | true state, truth |
 
-### \*eyya (state of) abstract neuter nouns
+## \*eyya (state of) abstract neuter nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -88,7 +88,7 @@
 | saṭha | + \*eyya | s**ā**ṭh**eyya** | fraud state, treachery |
 | suci | + \*eyya | s**o**c**eyya** | pure state, purity |
 
-### \*a (state of)
+## \*a (state of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |

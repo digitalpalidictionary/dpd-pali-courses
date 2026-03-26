@@ -2,7 +2,7 @@
 
 Kita are a large group of suffixes which include present and past particles, as well as all the common noun and adjective suffixes.
 
-### nta (prp)
+## nta (prp)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √nad | nada | **+ nta** | nada**nta** | shouting, roaring |
 | √pā | piva | **+ nta** | piva**nta** | drinking |
 
-### āna (prp)
+## āna (prp)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √sī | saya | **+ āna** | say**āna** | lying down |
 | √vad | vada | **+ āna** | vad**āna** | speaking |
 
-### māna (prp)
+## māna (prp)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √vaḍḍh | vaḍḍha | **+ māna** | vaḍḍha**māna** | growing |
 | √yaj | yaja | **+ māna** | yaja**māna** | sacrificing |
 
-### ta (pp)
+## ta (pp)
 
 |  |  |  |  |
 |---|---|---|---|
@@ -64,7 +64,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √phus | **+ ta** | phuṭ**ṭha** | touched |
 | √raj | **+ ta** | rat**ta** | dyed |
 
-### ita (pp)
+## ita (pp)
 
 |  |  |  |  |
 |---|---|---|---|
@@ -82,7 +82,7 @@ Kita are a large group of suffixes which include present and past particles, as 
 | √vas | **+ ita** | v**u**s**ita** | lived, completed |
 | √yāc | **+ ita** | yāc**ita** | asked for, begged |
 
-### na (pp)
+## na (pp)
 
 |  |  |  |  |
 |---|---|---|---|

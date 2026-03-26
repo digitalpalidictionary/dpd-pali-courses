@@ -14,7 +14,7 @@ What is the object / accusative of the first sentence?
 
 What is the object / accusative of the second sentence?
 
-### Transitive, Intransitive And Di-Transitive Verbs
+## Transitive, Intransitive And Di-Transitive Verbs
 
 Remember earlier we discussed **transitive**, **intransitive** and **di-transitive** verbs. Can you remember what they are?
 
@@ -26,7 +26,7 @@ When you make a verb into a causative,
 
 3\. di-transitive verbs become multi-transitive (in theory anyway)
 
-#### Example 1: Intransitive \> Transitive
+### Example 1: Intransitive \> Transitive
 
 1\. bhavati (active verb) “he is” is an intransitive verb which takes no object in the accusative case.
 
@@ -42,7 +42,7 @@ he **develops** a friendly mind.
 
 (lit. he **causes** a friendly mind **to be.**)
 
-#### Example 2: Transitive \> Di-Transitive
+### Example 2: Transitive \> Di-Transitive
 
 **carati** (active verb) “he walks” is transitive and takes one object in the accusative case
 
@@ -80,7 +80,7 @@ A monk **could cause** another monk **to pour** water to the earth.
 
 In reality, if you find even one example of that, please let us know =)
 
-### How To Form Causative Verbs
+## How To Form Causative Verbs
 
 Causative Verbs are formed by adding suffixes to the root to create a **causative base**.
 
@@ -108,7 +108,7 @@ In summary:
 
 Now, where have you seen the suffix *-\****e** and *-\****aya** being added to the root?
 
-### Group 8 Causative Verbs
+## Group 8 Causative Verbs
 
 √cud + \***e** \> cod**e**ti (he accuses)
 
@@ -120,7 +120,7 @@ In the case of group 8 verbs, they only take the causative suffixes *-***āpe** 
 
 √cud + \***āpaya** \> cod**āpaya**ti (he causes to accuse)
 
-### How To Decline Causative Verbs
+## How To Decline Causative Verbs
 
 Other than the base, the declension of causative verbs follows the normal pattern in all the tenses.
 
@@ -144,7 +144,7 @@ in the imperative?
 
 in the optative?
 
-### How To Translate Causative Verbs
+## How To Translate Causative Verbs
 
 This can be tricky sometimes because if you translate every causative verb as “he causes someone to do something” or “he makes someone do something”, it can sound quite clumsy in English.
 

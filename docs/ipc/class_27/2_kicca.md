@@ -8,7 +8,7 @@ just the **root** or **base** + **suffix** is being used,
 
 but the same applies to **prefix** + **root** or **base** + **suffix**
 
-### tabba (ptp)
+## tabba (ptp)
 
 **√ + tabba**
 
@@ -36,7 +36,7 @@ but the same applies to **prefix** + **root** or **base** + **suffix**
 
 what do you notice about all these words?
 
-### itabba (ptp)
+## itabba (ptp)
 
 **√ + itabba**
 
@@ -65,7 +65,7 @@ what do you notice about all these words?
 
 what do you notice about these words?
 
-### \*anīya (ptp) \~17
+## \*anīya (ptp) \~17
 
 |  |  |  |  |
 |---|---|---|---|
@@ -73,7 +73,7 @@ what do you notice about these words?
 | √muh | + \*anīya | moh**anīya** | to be deluded |
 | √vid | + \*anīya | ved**anīya** | to be felt |
 
-### anīya (ptp) \~73
+## anīya (ptp) \~73
 
 |  |  |  |  |
 |---|---|---|---|
@@ -82,7 +82,7 @@ what do you notice about these words?
 | √vac | + anīya | vac**anīya** | to be said |
 | √vajj | + anīya | vajj**anīya** | to be avoided |
 
-### \*aniya (ptp) \~3
+## \*aniya (ptp) \~3
 
 |  |  |  |  |
 |---|---|---|---|
@@ -90,7 +90,7 @@ what do you notice about these words?
 | √ghaṭ | + \*aniya | saṅghāt**aniya** | to be joined together |
 | √bhaj | + \*aniya | bhāj**aniya** | to be divided |
 
-### aniya (ptp) \~25
+## aniya (ptp) \~25
 
 |  |  |  |  |
 |---|---|---|---|
@@ -98,7 +98,7 @@ what do you notice about these words?
 | √pūj | + aniya | pūj**aniya** | to be honoured |
 | √ṭhā | + aniya | ṭh**āniya** | to be stood |
 
-### aṇīya (ptp) \~28
+## aṇīya (ptp) \~28
 
 |  |  |  |  |
 |---|---|---|---|
@@ -107,7 +107,7 @@ what do you notice about these words?
 | √tar | + aṇīya | tar**aṇīya** | to be crossed |
 | √raj | + aṇīya | sār**aṇīya** | to be desired |
 
-### aṇiya (ptp) \~2
+## aṇiya (ptp) \~2
 
 |  |  |  |  |
 |---|---|---|---|
@@ -116,7 +116,7 @@ what do you notice about these words?
 
 please note the small spelling differences that are present in the canon
 
-### \*ya (ptp)
+## \*ya (ptp)
 
 |  |  |  |  |
 |---|---|---|---|
@@ -133,7 +133,7 @@ please note the small spelling differences that are present in the canon
 | √pūj | + \*ya | pu**jja** | to be praised |
 | √vadh | + \*ya | va**jjha** | to be slaughtered |
 
-### \*iya (ptp)
+## \*iya (ptp)
 
 |  |  |  |  |
 |---|---|---|---|
@@ -144,7 +144,7 @@ please note the small spelling differences that are present in the canon
 | √kar | + \*iya | k**ā**r**iya** | to be done |
 | √pis | + \*iya | p**e**s**iya** | to be sent |
 
-### eyya (ptp)
+## eyya (ptp)
 
 after roots ending in vowels, \***ya** become **eyya**
 
@@ -158,7 +158,7 @@ after roots ending in vowels, \***ya** become **eyya**
 | √nī | + eyya | n**eyya** | to be led, guided |
 | √pā | + eyya | p**eyya** | to be drunk |
 
-### tya (ptp)
+## tya (ptp)
 
 |  |  |  |  |
 |---|---|---|---|
@@ -166,7 +166,7 @@ after roots ending in vowels, \***ya** become **eyya**
 | √kar | + tya | k**icca** | to be done |
 | √mar | + tya | ma**cca** | to be dead |
 
-### irreg (ptp)
+## irreg (ptp)
 
 |  |  |  |  |
 |---|---|---|---|

@@ -10,7 +10,7 @@ Nouns are declined in **8 cases.**
 
 You will become very familiar with these cases in the upcoming weeks
 
-### Some Basic Vocabulary to illustrate the case endings
+## Some Basic Vocabulary to illustrate the case endings
 
 |  |  |  |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ You will become very familiar with these cases in the upcoming weeks
 | carati | masc. | walks |
 | deti | masc. | gives |
 
-### 1. Nominative Case (paṭhamā)
+## 1. Nominative Case (paṭhamā)
 
 The **subject** of the sentence is in the nominative case.
 
@@ -35,7 +35,7 @@ The **subject** of the sentence is in the nominative case.
 
 **thero** carati.
 
-### 2. Accusative Case (dutiyā)
+## 2. Accusative Case (dutiyā)
 
 The **object** of a sentence is in the accusative case.
 
@@ -75,7 +75,7 @@ The disciple is being eaten **by the lion**.
 
 sāvako sīh**ena** khajjati
 
-### 4. Dative Case (catutthī)
+## 4. Dative Case (catutthī)
 
 Refers to an object given or directed to someone.
 
@@ -93,7 +93,7 @@ namo **tassa** **bhagavato**.
 
 (translate)
 
-### 5. Ablative Case (pañcamī)
+## 5. Ablative Case (pañcamī)
 
 The opposite of the Dative case.
 
@@ -107,7 +107,7 @@ upāsako **āvāsā** gacchati.
 
 upāsako **āvāsasmā** gacchati.
 
-### 6. Genitive Case (chaṭṭhī)
+## 6. Genitive Case (chaṭṭhī)
 
 Denotes possession. Usually translated using **of** or **‘s.**
 
@@ -117,7 +117,7 @@ The **elder’s** disciple goes to the village.
 
 **therassa** sāvako gāmaṃ gacchati.
 
-### 7. Locative Case (sattamī)
+## 7. Locative Case (sattamī)
 
 Refers to location. Usually translated using **in**, **on**, **at**, or **among**.
 
@@ -127,7 +127,7 @@ sīho gām**e** carati.
 
 sīho gām**asmiṃ** carati.
 
-### 8. Vocative Case (ālapana)
+## 8. Vocative Case (ālapana)
 
 Used when addressing people directly.
 
@@ -158,7 +158,7 @@ Sumedh**a**
 
 Which one is correct?
 
-### Declension of -a masc {: #declension-of-a-masc}
+## Declension of -a masc {: #declension-of-a-masc}
 
 |  |  |  |
 | --- | --- | --- |

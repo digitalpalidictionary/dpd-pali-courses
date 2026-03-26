@@ -7,7 +7,7 @@
 | - tu / -tar (2) | pit**ar** ; bhāt**ar** |
 | - ū | vid**ū** |
 
-### Masculine nouns ending in -u like bhikkhu {: #declension-of-u-masc}
+## Masculine nouns ending in -u like bhikkhu {: #declension-of-u-masc}
 
 |  |  |  |
 |---|---|---|
@@ -22,7 +22,7 @@
 
 gar**u**, het**u**, phās**u**, macc**u**, nhār**u**, paṃs**u** etc. similarly declined.
 
-### Masculine nouns ending in -tu / -tar (1)
+## Masculine nouns ending in -tu / -tar (1)
 
 These can be also be found in some dictionaries with **-tu** or **-tar** ending, eg. *satthu* or *satthar*.
 
@@ -67,7 +67,7 @@ They are collectively known as **agent nouns** because they describe a person wh
 
 Similarly bhāsi**tar**, vat**tar**, bhat**tar**, kat**tar**, dā**tar**, akkhā**tar**, man**tar**, ajjhāvasa**tar,** so**tar**, brūhe**tar**, aññā**tar** etc.
 
-### Masculine nouns ending in -u (-tu / -tar) (2)
+## Masculine nouns ending in -u (-tu / -tar) (2)
 
 These nouns include all the close family relations, like bhātar (brother), pitar (father) etc.
 
@@ -91,7 +91,7 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | 7.loc | bhāt**ari** | bhāt**aresu** <br>bhāt**ūsu** |
 | 8.voc | bhāt**a** <br>bhāt**ā** | bhāt**aro** |
 
-### Comparison table for nouns ending in -u
+## Comparison table for nouns ending in -u
 
 |  | u | tu 2 | tu1 | u | tu2 | tu1 |
 |---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Phonetic changes
 
-### Phonetic changes of -y-
+## Phonetic changes of -y-
 
 This is by far the most common type of phonetic change and occurs with the formation of **passive verbs**, verbs of the **3rd** **conjugation**, **gerunds**, and numerous **derived** **nouns**.
 

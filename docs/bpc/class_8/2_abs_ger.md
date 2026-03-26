@@ -2,7 +2,7 @@
 
 You’ll be happy to hear that one of the most common forms of verbal adjectives in Pāli has **no declensions**.
 
-atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi ([AN2.16](https://find.dhamma.gift/bw/an/an2.16.html))
+*atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi* ([AN2.16](https://find.dhamma.gift/bw/an/an2.16.html))
 
 Then a certain Brahman approached the Blessed One. **Having approached**, he exchanged polite conversation with the Blessed One.
 
@@ -20,7 +20,7 @@ The gerund denotes a **completed or continuing action** and can be translated ac
 
 From now on you will be dealing with complex sentences which have a **subordinate** **clause** and a **main** **clause**.
 
-ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ āgacchiṃ
+*ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ āgacchiṃ*
 
 *Lit.:* Having eaten food, having rinsed bowl, having cleaned teeth, I come to the hall.
 
@@ -30,7 +30,7 @@ what is the **main clause**?
 
 what are the **subordinate clauses**?
 
-ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ **āgacchissāmi**.
+*ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ **āgacchissāmi**.*
 
 *Lit.:* Having eaten food, having rinsed bowl, having cleaned teeth, I will come to the hall.
 
@@ -39,8 +39,6 @@ ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ **āg
 Absolutive ending in **tvā** are very common and extensively used.
 
 7800 times in Vinaya[^19]
-
-[^19]: In the Mūla part
 
 1800 times in Dīgha Nikāya
 
@@ -52,9 +50,11 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 9200 times in Khuddaka Nikāya
 
-### How to form pubbakiriyā
+[^19]: In the Mūla part
 
-#### 1. tvā added to the root
+## How to form pubbakiriyā
+
+### 1. tvā added to the root
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ Absolutive ending in **tvā** are very common and extensively used.
 | √su | to hear | √su + tvā | sutvā | having heard |
 | √vad | to speak | √vad + tvā | v**a**tvā | having spoken |
 
-#### 2. itvā added to the root
+### 2. itvā added to the root
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ Absolutive ending in **tvā** are very common and extensively used.
 | √hā | to abandon | √hā + itvā | h**i**tvā | having abandoned |
 | √labh | to get | √labh + itvā | labhitvā | having obtained |
 
-#### 3. tvā added to the verbal base
+### 3. tvā added to the verbal base
 
 Mostly group 8 verbs and causative verbs.
 
@@ -91,7 +91,7 @@ Mostly group 8 verbs and causative verbs.
 | √nud | node | vi + node + tvā | vinodetvā | having driven out |
 | √vad | vāde | abhi + vāde + tvā | abhivādetvā | having paid respect |
 
-#### 4. itvā added to the verbal base
+### 4. itvā added to the verbal base
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ Mostly group 8 verbs and causative verbs.
 | √sad | sīda | ni + sīda + itvā | nisīditva | having sat down |
 | √dis | passa | passa + itvā | passitvā | having seen |
 
-#### 5. -ya added to the root
+### 5. -ya added to the root
 
-There is very often sandhi that takes place, please refer to the “**assimilation of y**” from 4th Class.
+There is very often sandhi that takes place, please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ There is very often sandhi that takes place, please refer to the “**assimilati
 | √sad | to sit | ni + √sad + ya | nisa**jja** | having sat down |
 | √hā | to abandon | pa + √hā + ya | pahā**ya** | having abandoned |
 
-#### 6. -tya added to the root
+### 6. -tya added to the root
 
 This is another form of -ya, occurring in only a few words, but which are commonly used.
 
@@ -130,7 +130,7 @@ The result from sandhi is the ending **tya \> cca**
 | √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
 | √vid | to know | anu + vid + **ty**a | anuvi**cc**a | having investigated |
 
-#### 7. -tvāna -tūna -(i)yāna
+### 7. -tvāna -tūna -(i)yāna
 
 These forms mostly occur in poetry, often for metrical reasons, but occasionally you can find them in suttas.
 
@@ -147,7 +147,7 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 
 Examples: **disvāna ; vatvāna ; sutvāna ; ovariyāna ; akātūna**
 
-### Practical Distinction between Absolutives and Gerunds
+## Practical Distinction between Absolutives and Gerunds
 
 DPD is based on the study of hundreds of verbal forms found throughout the Tipiṭaka over the last decade. From this material, a fairly clear practical conclusion has emerged: there appears to be a functional distinction between two types of forms.
 

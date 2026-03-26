@@ -10,7 +10,7 @@
 | pass.pr | labbhati | it is got, is obtained |
 | pass.prp | labbhanta | being got; being obtained |
 
-### How To Form Passive Present Participles (pprp)
+## How To Form Passive Present Participles (pprp)
 
 **root + ya / iya / īya \> passive base**
 

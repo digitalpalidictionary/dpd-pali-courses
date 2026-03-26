@@ -6,7 +6,7 @@
 | √kar | to do | iya | kariya \> kayira | kayirati | is done |
 | √dis | to see | iya | disiya \> dassiya | sandassiyamāna | being seen together |
 
-### Roots ending in -ā change to -ī
+## Roots ending in -ā change to -ī
 
 Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam’ī**.
 
@@ -18,7 +18,7 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 [^21]: Commentary example
 
-### In roots ending in a short vowel, that vowel gets lengthened
+## In roots ending in a short vowel, that vowel gets lengthened
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 | √lu | to reap | (i)ya | l**ū**ya | lūyati | is reaped |
 | √su | to hear | (i)ya | s**ū**ya | sūyati | is heard |
 
-### Group 2 rudhādigaṇa roots sometimes keep their conjugational sign ṃa
+## Group 2 rudhādigaṇa roots sometimes keep their conjugational sign ṃa
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 [^22]: These bases (marked with \*) mostly exist in participle forms.
 
-### Some passive verbs have two forms
+## Some passive verbs have two forms
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 | √su | to hear | ya | s**ūy**a | sūyati | is heard |
 | √su | to hear | ya | s**uyy**a | suyyati | is heard |
 
-### And an irregular form
+## And an irregular form
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 [^23]: Not a textual example
 
-### Some roots with va- change to vu- or u-
+## Some roots with va- change to vu- or u-
 
 Kacc 487, 478. vaca vasa vah’ādīnam’ukāro vassa ye.
 
@@ -71,7 +71,7 @@ Kacc 487, 478. vaca vasa vah’ādīnam’ukāro vassa ye.
 | √var | to cover | īya | v**u**rīya \> p**u**rīya | avāpurīyati | is opened |
 | √vas | to live | ya | v**u**ssa | vussati | is lived |
 
-### va \> vu
+## va \> vu
 
 While on the topic, **va \> vu** is a very common phonetic change in Pāli, especially in past participles.
 

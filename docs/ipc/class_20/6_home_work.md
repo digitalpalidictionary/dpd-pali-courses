@@ -8,7 +8,7 @@
 4.  Learn the compounds using Anki Deck “Grammar Pāli Class”
 5.  Learn roots and try to understand phonetic changes using any of the available decks.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

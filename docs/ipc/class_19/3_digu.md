@@ -10,7 +10,7 @@ dvi + gāvo \> digu (two cows)
 
 There are two kinds of numerical compounds
 
-### samāhāra-digu-samāsa
+## samāhāra-digu-samāsa
 
 (collective numerical compounds)
 
@@ -56,7 +56,7 @@ sattaratanaṃ (seven treasures)
 
 etc.
 
-### asamāhāra-digu-samāsa
+## asamāhāra-digu-samāsa
 
 (individual numerical compounds)
 

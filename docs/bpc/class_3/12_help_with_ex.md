@@ -1,6 +1,6 @@
 # Some things that will help you when doing the exercises
 
-### Word Order
+## Word Order
 
 English has typical **SVO** word order: **S**ubject **V**erb **O**bject
 
@@ -12,7 +12,7 @@ Pāli: naro gāmaṃ gacchati (man village he goes)
 
 There are, of course, numerous exceptions, but this is most common in Pāli prose.
 
-### The genitive case
+## The genitive case
 
 The genitive case always comes *before* the noun it qualifies.
 
@@ -20,7 +20,7 @@ e.g. the body of the man, the man’s body
 
 manussassa kāyo
 
-### Agreement between nouns (pronouns…) and verbs
+## Agreement between nouns (pronouns…) and verbs
 
 The **subject** of the sentence and the **verb** must **agree** in **number**.
 

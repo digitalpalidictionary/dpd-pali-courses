@@ -10,7 +10,7 @@ Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
 
 [^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorize words.
 
-### Homeless work
+## Homeless work
 
 1.  Exercises for class 2
 
@@ -20,7 +20,7 @@ Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
 4.  Learn declension of masculine nouns in -a from “Grammar Pāli Class” class 2
 5.  Have a student meeting sometime before the class to discuss exercises. Go over each sentence.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

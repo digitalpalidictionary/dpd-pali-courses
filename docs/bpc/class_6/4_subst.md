@@ -52,7 +52,7 @@ Just like a **strong man** would stretch out his bent arm or …
 
 At which time, monks, the **thieves** are **powerful** …
 
-### Declension of *-ant masc*
+## Declension of *-ant masc*
 
 |  |  |  |
 |---|---|---|

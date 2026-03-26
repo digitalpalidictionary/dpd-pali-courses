@@ -1,6 +1,6 @@
 # Intransitive, Transitive and di-transitive verbs
 
-### Transitive Verbs (sakammaka “with object”)
+## Transitive Verbs (sakammaka “with object”)
 
 Most verbs of this sort take an object in the accusative case.
 
@@ -16,7 +16,7 @@ pupph**ā** tathāgatassa sarīr**aṃ** okiranti ([DN16.27](https://find.dhamma
 
 Flowers scatter down onto the body of the Tathagata.
 
-### Intransitive Verbs (akammaka “no object”)
+## Intransitive Verbs (akammaka “no object”)
 
 These verbs **do not** take an object in the accusative case. Sometimes they take what appears to be an object in another case.
 
@@ -36,7 +36,7 @@ s**o** rukkhassa mūl**asmiṃ** jhāyati.
 
 He meditates at the foot of a tree.
 
-### Di-transitive verbs (dvikammaka “two objects”)
+## Di-transitive verbs (dvikammaka “two objects”)
 
 These verbs take **two objects** in the **accusative case**. They are quite rare. √yāc (beg) √pucch (ask) √pis (send) are the most common ones.
 

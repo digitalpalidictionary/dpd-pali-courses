@@ -25,7 +25,7 @@ Many of these agent nouns can also be used as adjectives.
 | macchara | stinginess | maccharī | has stinginess | who is a stingy |
 | ottappa | regret | ottappī | has regret | who conscientious |
 
-### Declension of -ī masc {: #declension-of-i-masc_1}
+## Declension of -ī masc {: #declension-of-i-masc_1}
 
 |  |  |  |
 | --- | --- | --- |

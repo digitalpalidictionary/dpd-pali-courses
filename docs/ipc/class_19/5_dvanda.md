@@ -14,7 +14,7 @@ This is the easiest type of compound, where two or more nouns, adjectives or adv
 
 There are two types of copulative compounds
 
-### asamāhāra-dvanda-samāsa
+## asamāhāra-dvanda-samāsa
 
 (not taken together twin compound)
 
@@ -36,7 +36,7 @@ the first member is in the dictionary form (vocative singular) and the compound 
 | ñātisālohitā | ñātayo ca sālohitā ca | family and blood-relatives |
 | soṇasiṅgālā | soṇā ca siṅgālā ca | dogs and jackals |
 
-### samāhāra-dvanda-samāsa
+## samāhāra-dvanda-samāsa
 
 (collective twin compound)
 

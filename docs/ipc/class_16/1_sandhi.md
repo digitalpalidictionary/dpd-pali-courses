@@ -8,9 +8,9 @@ It refers to the changes that take place when different parts of the language ar
 
 This occurs at every level of the language, from the formation of words to the basic elements of roots, prefixes, suffixes, and secondary derivatives, all the way to building complex compounds that consist of many words joined together.
 
-### What is sandhi called in English?
+## What is sandhi called in English?
 
-### Some English examples of Sandhi
+## Some English examples of Sandhi
 
 can’t = can n**o**t
 

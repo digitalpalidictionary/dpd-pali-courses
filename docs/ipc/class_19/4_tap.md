@@ -18,7 +18,7 @@ tassa + purisa \> ta + purisa \> tappurisa (his man)
 
 3.  Generally, a tappurisa follows the **gender** of the last member.
 
-### dutiyā-tappurisa (accusative case)
+## dutiyā-tappurisa (accusative case)
 
 araññ**aṃ** gato \> araññagato (gone to the forest)
 
@@ -28,7 +28,7 @@ sampajān**aṃ** kārī \> sampajānakārī (lit. making clear awareness)
 
 sot**aṃ** āpanna \> sotāpanna (lit. entered the stream)
 
-### tatiyā tappurisa (instrumental case)
+## tatiyā tappurisa (instrumental case)
 
 buddh**ena** bhāsito \> buddhabhāsito (spoken **by** the Buddha)
 
@@ -40,7 +40,7 @@ brahm**unā** datta \> brahmadatta (given **by** god)
 
 kav**īhi** kata \> kavikata (made **by** poets)
 
-### catutthī tappurisa (dative case)
+## catutthī tappurisa (dative case)
 
 kathin**assa** dussaṃ \> kathin**a**dussaṃ (cloth **for** the Kathina)
 
@@ -64,7 +64,7 @@ cāvet**uṃ** kāma \> cāvet**u**kāma (wanting **to** distract)
 
 compounds with infinitive + kāma may be called *tuṃpaccaya* *tappurisa* in some grammar books.
 
-### pañcamī tappurisa (ablative case)
+## pañcamī tappurisa (ablative case)
 
 danger of, separation from, freedom from etc.
 
@@ -76,7 +76,7 @@ vivek**asmā** + ja \> vivekaja (born from seclusion)
 
 udak**ā** + anuggata \> udakānuggata (not risen out of the water)
 
-### chaṭṭhī tappurisa (genitive case)
+## chaṭṭhī tappurisa (genitive case)
 
 most common
 
@@ -90,7 +90,7 @@ buddh**assa** sāvako \> buddhasāvako (disciple **of** the Buddha)
 
 bhikkh**ūnaṃ** + saṅgho \> bhikkhusaṅgho (assembly **of** monks)
 
-### sattāmī tappurisa (locative case)
+## sattāmī tappurisa (locative case)
 
 araññ**e** vāso \> araññavāso (living **in** the forest)
 
@@ -104,7 +104,7 @@ dhamm**e** rato \> dhammarato (enjoying **in** the teaching)
 
 indriy**esu** saṃvara \> indriyasaṃvara (restraint **in** the faculties)
 
-### alutta tappurisa (not elided case)
+## alutta tappurisa (not elided case)
 
 In a few cases the case ending is not elided
 

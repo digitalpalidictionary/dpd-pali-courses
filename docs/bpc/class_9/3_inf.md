@@ -14,9 +14,9 @@ The infinitive can be translated as
 
 *“for the purpose of seeing”*
 
-### How to form the infintive
+## How to form the infintive
 
-#### 1. root + -tuṃ
+### 1. root + -tuṃ
 
 The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
@@ -28,7 +28,7 @@ The infinitive can be formed by adding the suffix **-tuṃ** to the root
 | √kar | + tuṃ | k**ā**tuṃ | to do, to make |
 | √ñā | + tuṃ | ñātuṃ | to know |
 
-#### 2. root + -ituṃ
+### 2. root + -ituṃ
 
 The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
@@ -43,7 +43,7 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 | √han | + ituṃ | hanituṃ | to kill |
 | √pucch | + ituṃ | pucchituṃ | to ask |
 
-#### 3. base + -ituṃ
+### 3. base + -ituṃ
 
 Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
 
@@ -55,7 +55,7 @@ Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the
 | √pā | piva | + ituṃ | pivituṃ | to drink |
 | √suc | soca | + ituṃ | socituṃ | to grieve |
 
-#### 4. bases ending in -e + tuṃ
+### 4. bases ending in -e + tuṃ
 
 In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is added to the base ending in -*e*.
 
@@ -69,7 +69,7 @@ In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is
 | √pus | pose | + tuṃ | posetuṃ | to look after |
 | √sudh | sodhe | + tuṃ | sodhetuṃ | to clean |
 
-### Some verbs always take an infinitive
+## Some verbs always take an infinitive
 
 Some verbs like **arahati** (he deserves, is worthy), **sakkoti** (he is able) almost always take an infinitive, just like in English.
 
@@ -81,7 +81,7 @@ samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** ([DN
 
 Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 
-### More words which always take an infinitive
+## More words which always take an infinitive
 
 |  |  |  |
 | --- | --- | --- |
@@ -109,7 +109,7 @@ Some other words can also occasionally take +inf.
 
 Pāli prose is usually very consistent in the usage of infinitives.
 
-### Infinitive + kāma
+## Infinitive + kāma
 
 Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”
 

@@ -42,13 +42,13 @@
 
 ## [Class 6](class_6/index.md)
 - [Masculine nouns ending in -u](class_6/2_masc_u.md)
-- [Masculine nouns ending in -ū {: #declension-of-u-masc}](class_6/3_masc_uu.md)
+- [Masculine nouns ending in -ū](class_6/3_masc_uu.md)
 - [Substantives (guṇanāma)](class_6/4_subst.md)
 - [Conjunction “ca”](class_6/5_and_or.md)
 - [Adverbs of time](class_6/6_adv_time.md)
 
 ## [Class 7](class_7/index.md)
-- [Feminine Nouns ending in -ā {: #feminine-nouns-ending-in-a}](class_7/2_fem_aa.md)
+- [Feminine Nouns ending in -ā](class_7/2_fem_aa.md)
 - [Optative or Potential Verbs (sattamī)](class_7/3_opt.md)
 - [Traditional Pāli Root lists](class_7/4_pali_lists.md)
 

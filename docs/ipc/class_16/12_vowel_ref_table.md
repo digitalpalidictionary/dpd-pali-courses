@@ -74,7 +74,7 @@ tyāssa
 
 khvāssa
 
-### Alternative Reference Table
+## Alternative Reference Table
 
 |  | **1s letter** |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|

@@ -23,7 +23,7 @@ If you want to study numbers, just open the Aṅguttara Nikāya.
 
 so let’s have a closer look at them individually.
 
-### eka “one”
+## eka “one”
 
 three genders – singular
 
@@ -47,7 +47,7 @@ declined in the plural, “**eka**” functions as pronoun meaning “*some*”
 
 declension is the same as **ye**
 
-### dve “two”
+## dve “two”
 
 no gender, plural
 
@@ -63,7 +63,7 @@ agrees in case only
 | 6.gen | dv**innaṃ** |
 | 7.loc | dv**īsu** |
 
-### ti “three”
+## ti “three”
 
 three genders, plural
 
@@ -79,7 +79,7 @@ agrees in gender and case
 | 6.gen | t**iṇṇaṃ** <br>**tiṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ** <br>t**iṇṇannaṃ** |
 | 7.loc | t**īsu** | t**īsu** | t**īsu** |
 
-### catu “four”
+## catu “four”
 
 three genders & plural
 
@@ -95,7 +95,7 @@ agrees in gender and case
 | 6.gen | cat**unnaṃ** | cat**assannaṃ** | cat**unnaṃ** |
 | 7.loc | cat**usu**<br>cat**ūsu** | cat**usu**<br>cat**ūsu** | cat**usu**<br>cat**ūsu** |
 
-### pañca “five”
+## pañca “five”
 
 no gender, plural
 
@@ -111,7 +111,7 @@ agrees in case only
 | 6.gen | pañc**annaṃ** |
 | 7.loc | pañc**asu** |
 
-### cha “six” to aṭṭharasa “eighteen”
+## cha “six” to aṭṭharasa “eighteen”
 
 same as *pañca*. no gender, plural. agrees in case only
 
@@ -131,7 +131,7 @@ same as *pañca*. no gender, plural. agrees in case only
 | 17 | sattarasa |
 | 18 | aṭṭhārasa |
 
-### ekūnavīsati “19” to aṭṭhanavuti “98”
+## ekūnavīsati “19” to aṭṭhanavuti “98”
 
 (one less than twenty)
 
@@ -153,7 +153,7 @@ I see **twenty men**   vīsatiṃ purise
 
 i**n twenty minds** vīsatiyaṃ cittesu
 
-### sata “100”, sahasa “1000” and lakkha “100 000”
+## sata “100”, sahasa “1000” and lakkha “100 000”
 
 neuter singular and plural
 
@@ -169,7 +169,7 @@ agrees in case and number
 | 6.gen | sat**assa** | sat**ānaṃ** |
 | 7.loc | sat**e**<br>sat**amhi**<br>sat**asmiṃ** | sat**esu** |
 
-### koṭi “10 000 000”
+## koṭi “10 000 000”
 
 feminine singular, sometimes plural
 
@@ -185,7 +185,7 @@ agrees in case only
 | 6.gen | koṭ**iyā** | koṭ**īnaṃ** |
 | 7.loc | koṭ**iyā** <br>koṭi**yaṃ** | koṭ**īsu** |
 
-### Summary of numbers gender and numbers
+## Summary of numbers gender and numbers
 
 |  | **Gender** | **Number** |  |  |  |
 |---|---|---|---|---|---|

@@ -9,7 +9,7 @@
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of SBS kuṭis.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

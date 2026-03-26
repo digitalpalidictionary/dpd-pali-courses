@@ -9,7 +9,7 @@
 4.  Learn the vocabulary from the exercises using Anki Deck “Vocab Pāli Class”
 5.  Learn roots and phonetic changes using any of the available decks.
 
-### Extra Reading
+## Extra Reading
 
 |  |  |
 | --- | --- |

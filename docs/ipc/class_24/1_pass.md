@@ -24,7 +24,7 @@ What is the object?
 
 What is the agent?
 
-### How to form Passive Verbs
+## How to form Passive Verbs
 
 1\. Root + ya \> Passive Base
 
@@ -34,7 +34,7 @@ What is the agent?
 
 Passive Base + Verbal Ending \> Passive Verb
 
-### Root + ya
+## Root + ya
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@ Passive Base + Verbal Ending \> Passive Verb
 | √rup | to break | ya | ruppa | ruppati | is broken |
 | √vad | to speak | ya | vajja | vajjati | is played |
 
-### Root + iya
+## Root + iya
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Passive Base + Verbal Ending \> Passive Verb
 
 [^20]: These bases mostly exist in participle forms.
 
-### Root + īya
+## Root + īya
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|

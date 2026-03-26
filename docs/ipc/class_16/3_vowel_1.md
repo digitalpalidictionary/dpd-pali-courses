@@ -6,7 +6,7 @@ Think of a *Pac-Man* going forward, ![](../../assets/images/pacman-forward.png)i
 
 Think of a *Pac-Man* going backwards,![](../../assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and very common in Pāli.
 
-#### Possibility \#1
+## Possibility \#1
 
 a vowel before another vowel is sometimes elided
 

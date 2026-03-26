@@ -84,7 +84,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assa** | t**esaṃ** <br>t**esānaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | t**esu** |
 
-### eta “this man, this woman, this thing”
+## eta “this man, this woman, this thing”
 
 **ta** generally refers to something that is **absent or distant**.
 
@@ -196,7 +196,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 The good news is that all the rest of the pronouns follow the same declension pattern as **ya***, (-a pron)* which is very similar to the normal declension of masculine, feminine and neuter nouns, with a few exceptions. So keep this table in mind!
 
-### Comparison table for pronouns masc
+## Comparison table for pronouns masc
 
 |  | ta | ima | ya | ta | ima | ya |
 |---|---|---|---|---|---|---|
@@ -209,7 +209,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assa** | a**ssa** <br>ima**ssa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | t**amhi** <br>t**asmiṃ** | a**smiṃ** ima**mhi** ima**smiṃ** | y**amhi** <br>y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
-### Comparison table for pronouns fem
+## Comparison table for pronouns fem
 
 |  | ta | ima | ya | ta | ima | ya |
 |---|---|---|---|---|---|---|
@@ -222,7 +222,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assā** | a**ssā** <br>imi**ssā** <br>im**āya** | y**assā**<br>y**āya** | t**āsaṃ** **tāsānaṃ** | im**āsaṃ** | y**āsaṃ** <br>y**āsānaṃ** |
 | 7.loc | t**issaṃ** <br>t**assaṃ** <br>t**āyaṃ** | imi**ssaṃ** <br>im**āyaṃ** | y**assaṃ** <br>y**āyaṃ** | t**āsu** | im**āsu** | y**āsu** |
 
-### Comparison table for pronouns nt
+## Comparison table for pronouns nt
 
 |  | ta | ima | ya | ta | ima | ya |
 |---|---|---|---|---|---|---|
@@ -235,7 +235,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assa** | a**ssa** <br>ima**ssa** | y**assa** | t**esaṃ** <br>t**esānaṃ** | im**esaṃ** | y**esaṃ** <br>y**esānaṃ** |
 | 7.loc | t**amhi** t**asmiṃ** | a**smiṃ** ima**mhi** ima**smiṃ** | y**amhi** y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
-### Some common pronouns (in the nominative case)
+## Some common pronouns (in the nominative case)
 
 |  |  |
 | --- | --- |

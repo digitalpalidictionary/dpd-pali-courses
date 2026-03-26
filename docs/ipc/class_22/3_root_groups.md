@@ -4,7 +4,7 @@ What are the 8 root groups?
 
 What are their conjugational signs?
 
-### 1. bhuvādigaṇa (-a-)
+## 1. bhuvādigaṇa (-a-)
 
 What are the **four** different kinds of Group 1 bhūvādigaṇa roots?
 
@@ -76,7 +76,7 @@ These roots undergo reduplication to form the base.
 | √hā | a | hā + hā \> jahā | jahāti | abandons |
 | √hu | a | hu + hu \> juha | juhati | offers oblation |
 
-### 2. rudhādigaṇa (-ṃa-)
+## 2. rudhādigaṇa (-ṃa-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ These roots undergo reduplication to form the base.
 | √ric | ṃa | riñca | riñcati | empties, abandons |
 | √vid | ṃa | vinda | vindati | feels, likes |
 
-### 3. divādigaṇa (-ya-)
+## 3. divādigaṇa (-ya-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ These roots undergo reduplication to form the base.
 | √hā | ya | hāya | hāyati | diminishes, dwindles |
 | √saj | ya | sajja | sajjati | clings, is attached |
 
-### 4. svādigaṇa (-ṇu- -ṇā- -uṇā-)
+## 4. svādigaṇa (-ṇu- -ṇā- -uṇā-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ These roots undergo reduplication to form the base.
 
 As you can see, these are quite rare.
 
-### 5. kiyādigaṇa (-nā-)
+## 5. kiyādigaṇa (-nā-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ As you can see, these are quite rare.
 | √thu | nā | thunā | thunāti | praises, worships |
 | √lu | nā | lunā | lunāti | cuts grass, reaps |
 
-### 6. gahādigaṇa (-ṇhā-)
+## 6. gahādigaṇa (-ṇhā-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ As you can see, these are quite rare.
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
-### 7. tanādigaṇa (-o- *-yira[^14]-*)
+## 7. tanādigaṇa (-o- *-yira[^14]-*)
 
 [^14]: It's in the traditional grammar books, but it's actually a more passive form.
 
@@ -150,7 +150,7 @@ As you can see, these are quite rare.
 | √kar | o | karo | karoti | does |
 | √tan | o | tano | tanoti | stretches |
 
-### 8. curādigaṇa (-e- -aya-)
+## 8. curādigaṇa (-e- -aya-)
 
 |  |  |  |  |  |
 |---|---|---|---|---|

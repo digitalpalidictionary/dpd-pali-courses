@@ -10,7 +10,7 @@ Kammadhāraya compounds normally consist of two members in the **same case** whi
 
 There are **9 kinds of kammadhāraya** compounds according to traditional grammarians.
 
-### visesana-pubba-pada
+## visesana-pubba-pada
 
 (description before word)
 
@@ -26,7 +26,7 @@ anek**ena** + pariyāy**ena** \> anekapariyāy**ena** (by various ways)
 
 ariy**e** + sacc**e** \> ariyasacc**e** (in the noble truth)
 
-### visesana-para-pada
+## visesana-para-pada
 
 (description after word)
 
@@ -38,7 +38,7 @@ sāriputto + thero \> sāriputtatthero (Sāriputta the Elder)
 
 dhammo + varo \> dhammavaro (excellent teaching)
 
-### visesana-ubhaya-pada
+## visesana-ubhaya-pada
 
 (description both words)
 
@@ -52,7 +52,7 @@ manāpa ca amanāpa ca \> manāpāmanāpaṃ (pleasant and unpleasant)
 
 they can be classified as *dvanda* type of compounds
 
-### sambhāvanā-pubba-pada
+## sambhāvanā-pubba-pada
 
 (origin before word)
 
@@ -68,7 +68,7 @@ hetu (*hutvā*) paccayo \> hetupaccayo (having been a cause there is a condition
 
 Some of the above examples can be classified as a *tappurisa* type of compounds
 
-### upamāna-uttara-pada
+## upamāna-uttara-pada
 
 (comparison after the word)
 
@@ -80,7 +80,7 @@ buddho *viya* nāgo \> buddhanāgo (Buddha Nāga-like)
 
 **ādicca** (sun), **sīha** (lion), **puṅgava** (bull), **usabha** (bull), **nāga** (elephant, dragon) are frequently used (see *APA* for a lot of examples)
 
-### avadhāraṇa-pubba-pada
+## avadhāraṇa-pubba-pada
 
 (emphasis before word)
 
@@ -90,7 +90,7 @@ rāga *eva* dosa \> rāgadosa (lust just corruption \> corrupted by lust)
 
 Some of the above examples can be classified as a *tappurisa* type of compounds
 
-### ku-nipāta-pubba-pada
+## ku-nipāta-pubba-pada
 
 (ku particle before word)
 
@@ -102,7 +102,7 @@ ku + magga \> kummagga (bad road)
 
 ku + nadī \> kunnadī (small stream)
 
-### na-nipāta-pubba-pada
+## na-nipāta-pubba-pada
 
 (na particle before word)
 
@@ -116,7 +116,7 @@ na + anta \> **an**anta (without limit)
 
 na \> **na / an / a / ana**
 
-### pa-ādi-pubba-pada
+## pa-ādi-pubba-pada
 
 (pa etc before word)
 
@@ -130,7 +130,7 @@ dur + kata \> dukkaṭa (wrong deed)
 
 saha \> sa + avajja \> sāvajja (blameworthy; wrong; lit. with fault)
 
-### General rules for kammadhāraya samāsa
+## General rules for kammadhāraya samāsa
 
 1.  **mahanta** becomes **mahā, or**
 

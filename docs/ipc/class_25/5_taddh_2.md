@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | kasāva | + \*a | k**ā**sāv**a** | dyed with red brown |
 
-### \*a (from, belonging to)
+## \*a (from, belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@
 | uras | + \*a | **o**ras**a** | from breast, natural |
 | vasudeva | + \*a | v**ā**sudev**a** | from God Vishnu |
 
-### \*a (related to, regarding, connected with)
+## \*a (related to, regarding, connected with)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -28,33 +28,33 @@
 | usabha | + \*a | **ā**sabh**a** | related to the head bull |
 | vyaggha | + \*a | v**e**yaggh**a** | related to tigers |
 
-### \*a (studying, knowing)
+## \*a (studying, knowing)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | vyākaraṇa | + \*a | v**e**yyākaraṇ**a** | grammarian; linguist |
 
-### \*a (group of, collection, multitude)
+## \*a (group of, collection, multitude)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | dvi | + \*a | dv**aya** | pair, couple |
 | ti | + \*a | t**aya** | group of three, triad |
 
-### \*yāyana (lineage of)
+## \*yāyana (lineage of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | kati | + \*yāyana | ka**ccāyana** | from family of Kati |
 
-### \*yāna (lineage of)
+## \*yāna (lineage of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | kati | + \*yāna | k**accāna** | from family of Kati |
 | muggala | + \*yāna | m**o**ggall**āna** | from family of Muggala |
 
-### ālu (full of)
+## ālu (full of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -62,14 +62,14 @@
 | apihā | + ālu | apih**ālu** | not full of envy |
 | dhaja | + ālu | dhaj**ālu** | full of flags |
 
-### \*ika (mixed with)
+## \*ika (mixed with)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | loṇa | + \*ika | l**o**ṇ**ika** | mixed with salt, salty |
 | tela | + \*ika | t**e**l**ika** | mixed with oil, oily |
 
-### \*ika (agent nouns)
+## \*ika (agent nouns)
 
 In traditional grammars, these fall under many categories, such as living-in, working-with, going by, crossing-with, but they are all just agent nouns.
 
@@ -93,21 +93,21 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | urabbha | + \*ika | **o**rabbh**ika** | sheep farmer |
 | vinaya | + \*ika | v**e**nay**ika** | vinaya student |
 
-### \*ika (belonging to)
+## \*ika (belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | saṅgha | + \*ika | s**a**ṅgh**ika** | belonging to community |
 | puthujjana | + \*ika | p**o**thujjan**ika** | belonging to the ordinary man |
 
-### \*ika (relating to)
+## \*ika (relating to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | samudda | + \*ika | s**ā**mudd**ika** | relating to sea, marine |
 | sarīra | + \*ika | s**ā**rīri**ka** | relating to body, bodily |
 
-### \*ika (having quality of)
+## \*ika (having quality of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | nibbedha | + \*ika | nibb**e**dh**ika** | penetrating, piercing |
 | upanaya | + \*ika | **o**panay**ika** | relevant, leading towards |
 
-### \*ika (done by, done with)
+## \*ika (done by, done with)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | sañcetanā | + \*ika | s**a**ñcetan**ika** | done with intention |
 | vacas | + \*ika | v**ā**cas**ika** | done by speech, verbal |
 
-### ima (belonging to, *most*)
+## ima (belonging to, *most*)
 
 |  |  |  | belonging to the ... |
 |---|---|---|---|
@@ -137,7 +137,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | pacchā | + ima | pacch**ima** | after, west \> last, western |
 | paccanta | + ima | paccant**ima** | far end \> border, frontier |
 
-### iya (belonging to)
+## iya (belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | loka | + iya | lok**iya** | worldly |
 | bodhipakkha | + iya | bodhipakkh**iya** | related to awakening |
 
-### \*iya (belonging to)
+## \*iya (belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -159,14 +159,14 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | bahi | + \*iya | b**ā**hiy**a** | foreign |
 | anuttara | + \*iya | **ā**nuttariya | ultimate end |
 
-### \*ī (from, belonging to)
+## \*ī (from, belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | gotama | + \*ī | g**o**tam**ī** | from family of Gotama |
 | kumuda | + \*ī | k**o**mud**ī** | belonging to water lilies |
 
-### \*eyya (lineage of, from)
+## \*eyya (lineage of, from)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -174,7 +174,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | bhaginī | + \*eyya | bh**ā**gin**eyya** | from sister, nephew |
 | gaṅga | + \*eyya | g**a**ṅg**eyya** | from Ganges River |
 
-### \*era (son of)
+## \*era (son of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | vidhavā | + \*era | v**e**dhav**era** | son of widow |
 | nāḷikā | + \*era | n**ā**ḷik**era** | son of reed, coconut |
 
-### ka (smallness)
+## ka (smallness)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -198,7 +198,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | bubbuḷa | + ka | bubbuḷa**ka** | little bubble |
 | putta | + ka | putta**ka** | young son |
 
-### ka (badness, insult, *derog*)
+## ka (badness, insult, *derog*)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -210,7 +210,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | muṇḍa | + ka | muṇḍa**ka** | baldy, shaveling |
 | samaṇa | + ka | samaṇa**ka** | bad monk |
 
-### ka (from, belonging to)
+## ka (from, belonging to)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -219,7 +219,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | bāhira | + ka | bāhira**ka** | from outside, non-Buddhist |
 | kāsigāma | + ka | kāsigāma**ka** | from Kasi village |
 
-### maya (made of)
+## maya (made of)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -231,7 +231,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | rūpiya | + maya | rūpiya**maya** | made of silver |
 | veḷuriya | + maya | veḷuriya**maya** | made of cats-eye |
 
-### tā (multitude of, collection of) feminine nouns
+## tā (multitude of, collection of) feminine nouns
 
 |  |  |  |  |
 | --- | --- | --- | --- |
