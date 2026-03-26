@@ -46,9 +46,9 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 |  |  |  |
 | --- | --- | --- |
-| 3rd | gacche**yya** gacche | gacche**yyuṃ** |
-| 2nd | gacche**yyāsi** gacche | gacche**yyātha** |
-| 1st | gacche**yyāmi** gacche | gacche**yyāma** |
+| 3rd | gacche**yya**<br>gacche | gacche**yyuṃ** |
+| 2nd | gacche**yyāsi**<br>gacche | gacche**yyātha** |
+| 1st | gacche**yyāmi**<br>gacche | gacche**yyāma** |
 
 ## Optative of √as
 

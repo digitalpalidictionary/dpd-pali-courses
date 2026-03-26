@@ -1,4 +1,6 @@
-# Kahāpaṇāna![](../../assets/images/kahapana.png)
+# Kahāpaṇāna
+
+![](../../assets/images/kahapana.png)
 
 **Kahāpaṇānas from Kosala. Circa 525-465 BC.**
 

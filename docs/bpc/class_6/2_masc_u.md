@@ -11,14 +11,14 @@
 
 |  |  |  |
 |---|---|---|
-| 1. nom | bhikkh**u** | bhikkh**ū** bhikkh**avo** |
-| 2. acc | bhikkh**uṃ** | bhikkh**ū** bhikkh**avo** |
+| 1. nom | bhikkh**u** | bhikkh**ū**<br>bhikkh**avo** |
+| 2. acc | bhikkh**uṃ** | bhikkh**ū**<br>bhikkh**avo** |
 | 3. instr | bhikkh**unā** | bhikkh**ūhi** |
-| 4. dat | bhikkh**uno** bhikkh**ussa** | bhikkh**ūnaṃ** |
-| 5. abl | bhikkh**unā** bhikkh**umhā** bhikkh**usmā** | bhikkh**ūhi** |
-| 6. gen | bhikkh**uno** bhikkh**ussa** | bhikkh**ūnaṃ** |
-| 7. loc | bhikkh**umhi** bhikkh**usmiṃ** | bhikkh**ūsu** |
-| 8. voc | bhikkh**u** | bhikkh**ū** bhikkh**avo**<br>bhikkh**ave** |
+| 4. dat | bhikkh**uno**<br>bhikkh**ussa** | bhikkh**ūnaṃ** |
+| 5. abl | bhikkh**unā**<br>bhikkh**umhā**<br>bhikkh**usmā** | bhikkh**ūhi** |
+| 6. gen | bhikkh**uno**<br>bhikkh**ussa** | bhikkh**ūnaṃ** |
+| 7. loc | bhikkh**umhi**<br>bhikkh**usmiṃ** | bhikkh**ūsu** |
+| 8. voc | bhikkh**u** | bhikkh**ū**<br>bhikkh**avo**<br>bhikkh**ave** |
 
 gar**u**, het**u**, phās**u**, macc**u**, nhār**u**, paṃs**u** etc. similarly declined.
 
@@ -57,13 +57,13 @@ They are collectively known as **agent nouns** because they describe a person wh
 |  |  |  |
 | --- | --- | --- |
 | 1.nom | satth**ā** | satth**āro** |
-| 2.acc | satth**āraṃ** | satth**āre** <br>satth**āro** |
-| 3.inst | satth**ārā** <br>satth**unā** | satth**ārehi** |
-| 4.dat | satth**u** <br>satth**uno** <br>satth**ussa** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 2.acc | satth**āraṃ** | satth**āre**<br>satth**āro** |
+| 3.inst | satth**ārā**<br>satth**unā** | satth**ārehi** |
+| 4.dat | satth**u**<br>satth**uno**<br>satth**ussa** | satth**ārānaṃ**<br>satth**ānaṃ** |
 | 5.abl | satth**ārā** | satth**ārehi** |
-| 6.gen | satth**u** <br>satth**uno** <br>satth**ussa** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 6.gen | satth**u**<br>satth**uno**<br>satth**ussa** | satth**ārānaṃ**<br>satth**ānaṃ** |
 | 7.loc | satth**ari** | satth**āresu** |
-| 8.voc | satth**a** <br>satth**ā** | satth**āro** |
+| 8.voc | satth**a**<br>satth**ā** | satth**āro** |
 
 Similarly bhāsi**tar**, vat**tar**, bhat**tar**, kat**tar**, dā**tar**, akkhā**tar**, man**tar**, ajjhāvasa**tar,** so**tar**, brūhe**tar**, aññā**tar** etc.
 
@@ -83,24 +83,24 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 |  |  |  |
 | --- | --- | --- |
 | 1.nom | bhāt**ā** | bhāt**aro** |
-| 2.acc | bhāt**araṃ** | bhāt**are** <br>bhāt**aro** |
-| 3.inst | bhāt**arā** <br>bhāt**unā** | bhāt**ūhi** |
-| 4.dat | bhāt**u** <br>bhāt**uno** <br>bhāt**ussa** | bhāt**ūnaṃ** |
+| 2.acc | bhāt**araṃ** | bhāt**are**<br>bhāt**aro** |
+| 3.inst | bhāt**arā**<br>bhāt**unā** | bhāt**ūhi** |
+| 4.dat | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | bhāt**ūnaṃ** |
 | 5.abl | bhāt**arā** | bhāt**ūhi** |
-| 6.gen | bhāt**u** <br>bhāt**uno** <br>bhāt**ussa** | bhāt**ūnaṃ** |
-| 7.loc | bhāt**ari** | bhāt**aresu** <br>bhāt**ūsu** |
-| 8.voc | bhāt**a** <br>bhāt**ā** | bhāt**aro** |
+| 6.gen | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | bhāt**ūnaṃ** |
+| 7.loc | bhāt**ari** | bhāt**aresu**<br>bhāt**ūsu** |
+| 8.voc | bhāt**a**<br>bhāt**ā** | bhāt**aro** |
 
 ## Comparison table for nouns ending in -u
 
-|  | u | tu 2 | tu1 | u | tu2 | tu1 |
+|  | u | tu<br>2 | tu1 | u | tu2 | tu1 |
 |---|---|---|---|---|---|---|
-|  | singular | plural | singular | plural | singular | plural |
-| 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū** bhikkh**avo** | bhāt**aro** | satth**āro** |
-| 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū** bhikkh**avo** | bhāt**are** <br>bhāt**aro** | satth**āre** satth**āro** |
-| 3.inst | bhikkh**unā** | bhāt**arā** <br>bhāt**unā** | satth**ārā** satth**unā** | bhikkh**ūhi** | bhāt**arehi** bhāt**ūhi** | satth**ārehi** |
-| 4.dat | bhikkh**uno** bhikkh**ussa** | bhāt**u** <br>bhāt**uno** bhāt**ussa** | satth**u** <br>satth**uno** satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ** bhāt**ānaṃ** bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
-| 5.abl | bhikkh**unā** bhikkh**umhā**  bhikkh**usmā** | bhāt**arā** | satth**ārā** | bhikkh**ūhi** | bhāt**arehi** bhāt**ūhi** | satth**ārehi** |
-| 6.gen | bhikkh**uno** bhikkh**ussa** | bhāt**u** <br>bhāt**uno** bhāt**ussa** | satth**u** <br>satth**uno** satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ** bhāt**ānaṃ** bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
-| 7.loc | bhikkh**umhi** bhikkh**usmiṃ** | bhāt**ari** | satth**ari** | bhikkh**ūsu** | bhāt**aresu** bhāt**ūsu** | satth**āresu** |
-| 8.voc | bhikkh**u** | bhāt**a** <br>bhāt**ā** | satth**a** <br>satth**ā** | bhikkh**ū** bhikkh**avo** bhikkh**ave** | bhāt**aro** | satth**āro** |
+|  | singular | singular | singular | plural | plural | plural |
+| 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū**<br>bhikkh**avo** | bhāt**aro** | satth**āro** |
+| 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū**<br>bhikkh**avo** | bhāt**are**<br>bhāt**aro** | satth**āre**<br>satth**āro** |
+| 3.inst | bhikkh**unā** | bhāt**arā**<br>bhāt**unā** | satth**ārā**<br>satth**unā** | bhikkh**ūhi** | bhāt**arehi**<br>bhāt**ūhi** | satth**ārehi** |
+| 4.dat | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ**<br>bhāt**ānaṃ**<br>bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 5.abl | bhikkh**unā**<br>bhikkh**umhā**<br>bhikkh**usmā** | bhāt**arā** | satth**ārā** | bhikkh**ūhi** | bhāt**arehi**<br>bhāt**ūhi** | satth**ārehi** |
+| 6.gen | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ**<br>bhāt**ānaṃ**<br>bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 7.loc | bhikkh**umhi**<br>bhikkh**usmiṃ** | bhāt**ari** | satth**ari** | bhikkh**ūsu** | bhāt**aresu**<br>bhāt**ūsu** | satth**āresu** |
+| 8.voc | bhikkh**u** | bhāt**a**<br>bhāt**ā** | satth**a**<br>satth**ā** | bhikkh**ū**<br>bhikkh**avo**<br>bhikkh**ave** | bhāt**aro** | satth**āro** |

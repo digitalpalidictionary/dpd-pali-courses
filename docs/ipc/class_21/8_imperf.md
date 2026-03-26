@@ -17,7 +17,7 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 |  |  |  |
 | --- | --- | --- |
 |  | **sg** | **pl** |
-| 3 paṭhama | agam**ā** | agam**u ;** agam**ū**<br>agam**uṃ** |
+| 3 paṭhama | agam**ā** | agam**u<br>**agam**ū**<br>agam**uṃ** |
 | 2 majjhima | agam**o** | agam**attha** |
 | 1 uttama | agam**a**<br>agam**aṃ** | agam**amhā** |
 

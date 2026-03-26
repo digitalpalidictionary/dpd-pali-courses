@@ -87,7 +87,7 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 | --- | --- | --- |
 | alaṃ | ind | it is suitable (to) ; one is able (to) |
 | atippago | adv | too early (to) |
-| jegucchī | m | who disgusted (to) |
+| jegucchī | masc | who disgusted (to) |
 | icchati | pr | wishes (for); desires (to) |
 | kallaṃ | ind | it is suitable (to), it is proper (to) |
 | (a)bhabba | ptp | (un)able (to); (in)capable (of) |
@@ -101,7 +101,7 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 | varatara | adj | better (to) |
 | vaṭṭati | pr | it is suitable (to), it is right (to) |
 | anucchavika | adj | suitable (to), proper (to) |
-| kāmatā | f | desire (to), longing (to), wish (to) |
+| kāmatā | fem | desire (to), longing (to), wish (to) |
 
 [^23]: Words from here onwards are present mostly in later literature
 

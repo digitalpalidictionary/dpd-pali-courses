@@ -111,11 +111,11 @@ then the **participle** is masculine / feminine / neuter
 | 1.nom | gaccha**māno** | gaccha**mānā** |
 | 2.acc | gaccha**mānaṃ** | gaccha**māne** |
 | 3.inst | gaccha**mānena** | gaccha**mānehi** |
-| 4.dat | gaccha**mānāya** gaccha**mānassa** | gaccha**mānānaṃ** |
-| 5.abl | gaccha**mānā** gaccha**mānamhā** gaccha**mānasmā** | gaccha**mānehi** |
+| 4.dat | gaccha**mānāya**<br>gaccha**mānassa** | gaccha**mānānaṃ** |
+| 5.abl | gaccha**mānā**<br>gaccha**mānamhā**<br>gaccha**mānasmā** | gaccha**mānehi** |
 | 6.gen | gaccha**mānassa** | gaccha**mānānaṃ** |
-| 7.loc | gaccha**māne** gaccha**mānamhi** gaccha**mānasmiṃ** | gaccha**mānesu** |
-| 8.voc | gaccha**māna** gaccha**mānā** | gaccha**mānā** |
+| 7.loc | gaccha**māne**<br>gaccha**mānamhi**<br>gaccha**mānasmiṃ** | gaccha**mānesu** |
+| 8.voc | gaccha**māna**<br>gaccha**mānā** | gaccha**mānā** |
 
 What do you notice?
 
@@ -123,66 +123,66 @@ What do you notice?
 
 |  |  |  |
 |---|---|---|
-| 1.nom | gaccha**mānā** | gaccha**mānā** <br>gaccha**mānāyo** |
-| 2.acc | gaccha**mānaṃ** | gaccha**mānā** <br>gaccha**mānāyo** |
+| 1.nom | gaccha**mānā** | gaccha**mānā**<br>gaccha**mānāyo** |
+| 2.acc | gaccha**mānaṃ** | gaccha**mānā**<br>gaccha**mānāyo** |
 | 3.inst | gaccha**mānāya** | gaccha**mānāhi** |
 | 4.dat | gaccha**mānāya** | gaccha**mānānaṃ** |
 | 5.abl | gaccha**mānāya** | gaccha**mānāhi** |
 | 6.gen | gaccha**mānāya** | gaccha**mānānaṃ** |
-| 7.loc | gaccha**mānāyaṃ** gaccha**mānāya** | gaccha**mānāsu** |
-| 8.voc | gaccha**māne** | gaccha**mānā** <br>gaccha**mānāyo** |
+| 7.loc | gaccha**mānāyaṃ**<br>gaccha**mānāya** | gaccha**mānāsu** |
+| 8.voc | gaccha**māne** | gaccha**mānā**<br>gaccha**mānāyo** |
 
 **Neuter ending in -māna** (like cittaṃ)
 
 |  |  |  |
 |---|---|---|
-| 1.nom | gaccha**mānaṃ** | gaccha**mānā** <br>gaccha**mānāni** |
-| 2.acc | gaccha**mānaṃ** | gaccha**māne** <br>gaccha**mānāni** |
+| 1.nom | gaccha**mānaṃ** | gaccha**mānā**<br>gaccha**mānāni** |
+| 2.acc | gaccha**mānaṃ** | gaccha**māne**<br>gaccha**mānāni** |
 | 3.inst | gaccha**mānena** | gaccha**mānehi** |
-| 4.dat | gaccha**mānāya** <br>gaccha**mānassa** | gaccha**mānānaṃ** |
-| 5.abl | gaccha**mānā** <br>gaccha**mānamhā** gaccha**mānasmā** | gaccha**mānehi** |
+| 4.dat | gaccha**mānāya**<br>gaccha**mānassa** | gaccha**mānānaṃ** |
+| 5.abl | gaccha**mānā**<br>gaccha**mānamhā**<br>gaccha**mānasmā** | gaccha**mānehi** |
 | 6.gen | gaccham**ānassa** | gaccha**mānānaṃ** |
-| 7.loc | gaccha**māne** <br>gaccha**mānamhi** gaccha**mānasmiṃ** | gaccha**mānesu** |
-| 8.voc | gaccha**māna** <br>gaccha**mānā** | gaccha**mānāni** |
+| 7.loc | gaccha**māne**<br>gaccha**mānamhi**<br>gaccha**mānasmiṃ** | gaccha**mānesu** |
+| 8.voc | gaccha**māna**<br>gaccha**mānā** | gaccha**mānāni** |
 
 **Masculine ending in -anta (**like bhagavant**)**
 
 |  |  |  |
 |---|---|---|
-| 1.nom | gacch**aṃ** <br>gacch**anto** | gacch**anto** <br>gacch**antā** |
+| 1.nom | gacch**aṃ**<br>gacch**anto** | gacch**anto**<br>gacch**antā** |
 | 2.acc | gacch**antaṃ** | gacch**ante** |
-| 3.inst | gacch**atā** <br>gacch**antena** | gacch**antehi** |
-| 4.dat | gacch**ato** <br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
-| 5.abl | gacch**atā** <br>gacch**antamhā** <br>gacch**antasmā** | gacch**antehi** |
-| 6.gen | gacch**ato** <br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
-| 7.loc | gacch**ante** <br>gacch**antamhi** <br>gacch**antasmiṃ** | gacch**antesu** |
-| 8.voc | gacch**aṃ** <br>gacch**a**<br>gacch**ā** | gacch**anto** <br>gacch**antā** |
+| 3.inst | gacch**atā**<br>gacch**antena** | gacch**antehi** |
+| 4.dat | gacch**ato**<br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
+| 5.abl | gacch**atā**<br>gacch**antamhā**<br>gacch**antasmā** | gacch**antehi** |
+| 6.gen | gacch**ato**<br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
+| 7.loc | gacch**ante**<br>gacch**antamhi**<br>gacch**antasmiṃ** | gacch**antesu** |
+| 8.voc | gacch**aṃ**<br>gacch**a**<br>gacch**ā** | gacch**anto**<br>gacch**antā** |
 
 **Feminine ending in -ntī** (like nadī)
 
 |  |  |  |
 |---|---|---|
-| 1.nom | gaccha**ntī** | gaccha**ntī** <br>gaccha**ntiyo** |
-| 2.acc | gaccha**ntiṃ** | gaccha**ntī** <br>gaccha**ntiyo** |
+| 1.nom | gaccha**ntī** | gaccha**ntī**<br>gaccha**ntiyo** |
+| 2.acc | gaccha**ntiṃ** | gaccha**ntī**<br>gaccha**ntiyo** |
 | 3.inst | gaccha**ntiyā** | gaccha**ntīhi** |
 | 4.dat | gaccha**ntiyā** | gaccha**ntīnaṃ** |
 | 5.abl | gaccha**ntiyā** | gaccha**ntīhi** |
 | 6.gen | gaccha**ntiyā** | gaccha**ntīnaṃ** |
-| 7.loc | gaccha**ntiyā** <br>gaccha**ntiyaṃ** | gaccha**ntīsu** |
-| 8.voc | gaccha**nti** <br>gaccha**ntī** | gaccha**ntī** <br>gaccha**ntiyo** |
+| 7.loc | gaccha**ntiyā**<br>gaccha**ntiyaṃ** | gaccha**ntīsu** |
+| 8.voc | gaccha**nti**<br>gaccha**ntī** | gaccha**ntī**<br>gaccha**ntiyo** |
 
 **Neuter ending in -anta** (like bhagavant/cittaṃ)
 
 |  |  |  |
 |---|---|---|
-| 1.nom | gacch**aṃ** | gacch**antā** <br>gacch**antāni** |
-| 2.acc | gacch**antaṃ** | gacch**ante** <br>gacch**antāni** |
-| 3.inst | gacch**atā** <br>gacch**antena** | gacch**antehi** |
-| 4.dat | gacch**ato** <br>gacch**antassa** | gacch**ataṃ** <br>gacch**antānaṃ** |
-| 5.abl | gacch**atā** <br>gacch**antamhā** gacch**antasmā** | gacch**antehi** |
-| 6.gen | gacch**ato** <br>gacch**antassa** | gacch**ataṃ** <br>gacch**antānaṃ** |
-| 7.loc | gacch**ante** <br>gacch**antamhi** gacch**antasmiṃ** | gacch**antesu** |
-| 8.voc | gacch**aṃ** <br>gacch**a** <br>gacch**ā** | gacch**anto** <br>gacch**antā** |
+| 1.nom | gacch**aṃ** | gacch**antā**<br>gacch**antāni** |
+| 2.acc | gacch**antaṃ** | gacch**ante**<br>gacch**antāni** |
+| 3.inst | gacch**atā**<br>gacch**antena** | gacch**antehi** |
+| 4.dat | gacch**ato**<br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
+| 5.abl | gacch**atā**<br>gacch**antamhā**<br>gacch**antasmā** | gacch**antehi** |
+| 6.gen | gacch**ato**<br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
+| 7.loc | gacch**ante**<br>gacch**antamhi**<br>gacch**antasmiṃ** | gacch**antesu** |
+| 8.voc | gacch**aṃ**<br>gacch**a**<br>gacch**ā** | gacch**anto**<br>gacch**antā** |
 
 One thing to notice about present participles is the fact that they are verbs. Like other verbs, they can take an object in the accusative case.
 

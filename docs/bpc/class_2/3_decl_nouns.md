@@ -144,11 +144,11 @@ ehi **paññādhammika!**
 | 1. Nominative | nar**o** | the man (subject) |
 | 2. Accusative | nar**aṃ** | the man (object) |
 | 3. Instrumental | nar**ena** | by, with, through the man |
-| 4. Dative | nar**āya,** nar**assa** | to the man, for the man |
-| 5. Ablative | nar**ā**, nar**amhā,** nar**asmā** | from the man |
+| 4. Dative | nar**āya**<br>nar**assa** | to the man, for the man |
+| 5. Ablative | nar**ā**<br>nar**amhā**<br>nar**asmā** | from the man |
 | 6. Genitive | nar**assa** | of the man, the man’s |
-| 7. Locative | nar**e,** nar**amhi**, nar**asmiṃ** | in, on, at the man |
-| 8. Vocative | nar**a**, nar**ā** | hey, man! o, man! |
+| 7. Locative | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | in, on, at the man |
+| 8. Vocative | nar**a**<br>nar**ā** | hey, man! o, man! |
 
 What’s the difference between Thai and Sri Lankan bhikkhu names?
 
@@ -166,11 +166,11 @@ Which one is correct?
 | 1. Nominative | nar**o** | nar**ā** |
 | 2. Accusative | nar**aṃ** | nar**e** |
 | 3. Instrumental | nar**ena** | nar**ehi** |
-| 4. Dative | nar**āya,** nar**assa** | nar**ānaṃ** |
-| 5. Ablative | nar**ā**, nar**amhā**, nar**asmā** | nar**ehi** |
+| 4. Dative | nar**āya**<br>nar**assa** | nar**ānaṃ** |
+| 5. Ablative | nar**ā**<br>nar**amhā**<br>nar**asmā** | nar**ehi** |
 | 6. Genitive | nar**assa** | nar**ānaṃ** |
-| 7. Locative | nar**e,** nar**amhi**, nar**asmiṃ** | nar**esu** |
-| 8. Vocative | nar**a**, nar**ā** | nar**ā** |
+| 7. Locative | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | nar**esu** |
+| 8. Vocative | nar**a**<br>nar**ā** | nar**ā** |
 
 Please learn this table by heart. Why?
 

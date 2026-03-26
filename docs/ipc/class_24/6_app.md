@@ -43,13 +43,13 @@ Active Past Participles are declined in all three genders. They are very regular
 
 |  | **Masculine** | **Feminine** | **Neuter** |  |  |  |
 |---|---|---|---|---|---|---|
-| nom | dass**āvī** | dass**āvino** | dass**āvinī** | dass**āviniyo** | dass**āvi** dass**āviṃ** | dass**āvīni** dass**āvī** |
-| acc | dass**āviṃ**<br>dass**āvinaṃ** | dass**āvino** | dass**āviniṃ** | dass**āviniyo** | dass**āvi** dass**āviṃ** | dass**āvīni** dass**āvī** |
-| instr | dass**āvinā** | dass**āvihi** dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā** | dass**āvihi** dass**āvīhi** |
-| dat | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino** | dass**āvinaṃ** dass**āvīnaṃ** |
-| abl | dass**āvinā**<br>dass**āvismā** dass**āvimhā** | dass**āvihi**<br>dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā** dass**āvito** dass**āvismā** dass**āvimhā** | dass**āvihi** dass**āvīhi** |
-| gen | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino** dass**āvissa** | dass**āvinaṃ** dass**āvīnaṃ** |
-| loc | dass**āvini** dass**āvismiṃ** dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** | dass**āviniyā** dass**āviniyaṃ** | dass**āvinīsu** | dass**āvismiṃ** dass**āvimhi** | dass**āvisu** dass**āvīsu** |
+| nom | dass**āvī** | dass**āvino** | dass**āvinī** | dass**āviniyo** | dass**āvi**<br>dass**āviṃ** | dass**āvīni**<br>dass**āvī** |
+| acc | dass**āviṃ**<br>dass**āvinaṃ** | dass**āvino** | dass**āviniṃ** | dass**āviniyo** | dass**āvi**<br>dass**āviṃ** | dass**āvīni**<br>dass**āvī** |
+| instr | dass**āvinā** | dass**āvihi**<br>dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā** | dass**āvihi**<br>dass**āvīhi** |
+| dat | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** |
+| abl | dass**āvinā**<br>dass**āvismā**<br>dass**āvimhā** | dass**āvihi**<br>dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā**<br>dass**āvito**<br>dass**āvismā**<br>dass**āvimhā** | dass**āvihi**<br>dass**āvīhi** |
+| gen | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino**<br>dass**āvissa** | dass**āvinaṃ**<br>dass**āvīnaṃ** |
+| loc | dass**āvini**<br>dass**āvismiṃ**<br>dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** | dass**āviniyā**<br>dass**āviniyaṃ** | dass**āvinīsu** | dass**āvismiṃ**<br>dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** |
 
 Please translate and highlight the syntax of the following:
 

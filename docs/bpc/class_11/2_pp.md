@@ -37,7 +37,7 @@ There are, quite literally, thousands of examples...
 | mussati | √mus | to forget | + ta | mu**ṭṭ**ha | forgotten |
 | jānāti | √ñā | to know | + ta | ñāta | known |
 
-When we study sandhi, we will study the rules related to the changes that happen with **ta**
+When we study sandhi, we will study the rules related to the changes that happen with **ta**. Please refer to IPC class 18.
 
 ### 2. root + ita
 
@@ -81,46 +81,56 @@ When we study sandhi, we will study the rules related to the changes that happen
 | upapajjati | √pad | to go | + na | upapa**nn**a | appeared |
 | vikirati | √kir | to scatter | + na | viki**ṇṇ**a | scattered |
 
-Again, sandhi rules regarding the assimilation of **na** will be studied in detail later.
+Again, sandhi rules regarding the assimilation of **na** will be studied in detail later. Please refer to IPC class 18.
 
 ## Declension of Past Participles
 
 Past participles are declined, just like nouns ending in **-a** in all three genders. In masculine like *buddha*, in feminine like *vedanā*, and neuter like *cittaṃ*.
 
-**Masculine ending in -a<br>gata**
+**Masculine ending in -a**
+
+e.g. gata
 
 |  |  |  |
 | --- | --- | --- |
 | 1.nom | gat**o** | gat**ā** |
 | 2.acc | gat**aṃ** | gat**e** |
 | 3.inst | gat**ena** | gat**ehi** |
-| 4.dat | gat**āya** <br>gat**assa** | gat**ānaṃ** |
-| 5.abl | gat**ā** <br>gat**amhā** <br>gat**asmā** | gat**ehi** |
+| 4.dat | gat**āya**<br>gat**assa** | gat**ānaṃ** |
+| 5.abl | gat**ā**<br>gat**amhā**<br>gat**asmā** | gat**ehi** |
 | 6.gen | gat**assa** | gat**ānaṃ** |
-| 7.loc | gat**e** <br>gat**amhi** <br>gat**asmiṃ** | gat**esu** |
-| 8.voc | gat**a** gat**ā** | gat**ā** |
-| Feminine ending in -ā<br>gatā |  |  |
-| 1.nom | gat**ā** | gat**ā** <br>gat**āyo** |
-| 2.acc | gat**aṃ** | gat**ā** <br>gat**āyo** |
+| 7.loc | gat**e**<br>gat**amhi**<br>gat**asmiṃ** | gat**esu** |
+| 8.voc | gat**a**<br>gat**ā** | gat**ā** |
+
+**Feminine ending in -ā**
+
+e.g. gatā
+
+|  |  |  |
+| --- | --- | --- |
+| 1.nom | gat**ā** | gat**ā**<br>gat**āyo** |
+| 2.acc | gat**aṃ** | gat**ā**<br>gat**āyo** |
 | 3.inst | gat**āya** | gat**āhi** |
 | 4.dat | gat**āya** | gat**ānaṃ** |
 | 5.abl | gat**āya** | gat**āhi** |
 | 6.gen | gat**āya** | gat**ānaṃ** |
-| 7.loc | gat**āya** <br>gat**āyaṃ** | gat**āsu** |
-| 8.voc | gat**e** | gat**ā** <br>gat**āyo** |
+| 7.loc | gat**āya**<br>gat**āyaṃ** | gat**āsu** |
+| 8.voc | gat**e** | gat**ā**<br>gat**āyo** |
 
-**Neuter ending in -aṃ<br>gataṃ**
+**Neuter ending in -aṃ**
+
+e.g. gataṃ
 
 |  |  |  |
 | --- | --- | --- |
-| 1.nom | gat**aṃ** | gat**ā** <br>gat**āni** |
-| 2.acc | gat**aṃ** | gat**e** <br>gat**āni** |
+| 1.nom | gat**aṃ** | gat**ā**<br>gat**āni** |
+| 2.acc | gat**aṃ** | gat**e**<br>gat**āni** |
 | 3.inst | gat**ena** | gat**ehi** |
-| 4.dat | gat**āya** <br>gat**assa** | gat**ānaṃ** |
-| 5.abl | gat**ā** <br>gat**amhā** <br>gat**asmā** | gat**ehi** |
+| 4.dat | gat**āya**<br>gat**assa** | gat**ānaṃ** |
+| 5.abl | gat**ā**<br>gat**amhā**<br>gat**asmā** | gat**ehi** |
 | 6.gen | gat**assa** | gat**ānaṃ** |
-| 7.loc | gat**e** <br>gat**amhi** <br>gat**asmiṃ** | gat**esu** |
-| 8.voc | gat**a** gat**ā** | gat**āni** |
+| 7.loc | gat**e**<br>gat**amhi**<br>gat**asmiṃ** | gat**esu** |
+| 8.voc | gat**a**<br>gat**ā** | gat**āni** |
 
 ## How to use Past Participles
 

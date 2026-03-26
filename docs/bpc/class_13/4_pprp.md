@@ -31,7 +31,7 @@
 
 All verbal endings that you have dealt with thus far have been **parassapada** “word for another”.
 
-|  | parassapada | **attanopada** |  |  |
+|  | parassapada |  | attanopada |  |
 |---|---|---|---|---|
 | 3rd | ti | nti | **te** | **nte** |
 | 2nd | si | tha | **se** | **vhe** |

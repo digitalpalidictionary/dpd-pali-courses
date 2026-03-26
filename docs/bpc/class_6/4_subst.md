@@ -56,14 +56,14 @@ At which time, monks, the **thieves** are **powerful** …
 
 |  |  |  |
 |---|---|---|
-| 1.nom | bhagav**ā** <br>bhagav**anto** | bhagav**anto** <br>bhagav**antā** |
+| 1.nom | bhagav**ā**<br>bhagav**anto** | bhagav**anto**<br>bhagav**antā** |
 | 2.acc | bhagav**antaṃ** | bhagav**ante** |
 | 3.inst | bhagav**atā** | bhagav**antehi** |
-| 4.dat | bhagav**ato** <br>bhagav**antassa** | bhagav**ataṃ** <br>bhagav**antānaṃ** |
-| 5.abl | bhagav**atā** <br>bhagav**antamhā**<br>bhagav**antasmā** | bhagav**antehi** |
-| 6.gen | bhagav**ato** <br>bhagav**antassa** | bhagav**ataṃ** <br>bhagav**antānaṃ** |
-| 7.loc | bhagav**ati** <br>bhagav**ante** <br>bhagav**antamhi** <br>bhagav**antasmiṃ** | bhagav**antesu** |
-| 8.voc | bhagav**aṃ** <br>bhagav**a** <br>bhagav**ā** | bhagav**anto** <br>bhagav**antā** |
+| 4.dat | bhagav**ato**<br>bhagav**antassa** | bhagav**ataṃ**<br>bhagav**antānaṃ** |
+| 5.abl | bhagav**atā**<br>bhagav**antamhā**<br>bhagav**antasmā** | bhagav**antehi** |
+| 6.gen | bhagav**ato**<br>bhagav**antassa** | bhagav**ataṃ**<br>bhagav**antānaṃ** |
+| 7.loc | bhagav**ati**<br>bhagav**ante**<br>bhagav**antamhi**<br>bhagav**antasmiṃ** | bhagav**antesu** |
+| 8.voc | bhagav**aṃ**<br>bhagav**a**<br>bhagav**ā** | bhagav**anto**<br>bhagav**antā** |
 
 bhagavā 4803[^18]
 

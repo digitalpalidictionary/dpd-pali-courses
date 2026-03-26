@@ -5,7 +5,7 @@
 3.  Learn conjugations and declinations from class 11 “Grammar Pāli Class”
 4.  Learn the most common roots from “Common Roots Pāli Class” or/and “Roots Class”
 
-    **Extra:**
+**Extra:**
 
 -   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of [SBS kuṭis.](https://docs.google.com/spreadsheets/d/1JZPHwIzZv8kC92vjNc2Oy6VdQmwIRT23Ae1DUKersTU/)
 

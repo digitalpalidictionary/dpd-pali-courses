@@ -34,10 +34,10 @@ agrees in gender & case
 | 1.nom | ek**o** | ek**ā** | ek**aṃ** |
 | 2.acc | ek**aṃ** | ek**aṃ** | ek**aṃ** |
 | 3.instr | ek**ena** | ek**āya** | ek**ena** |
-| 4.dat | ek**assa** | ek**issā** <br>ek**āya** | ek**assa** |
-| 5.abl | ek**amhā** <br>ek**asmā** | ek**āya** | ek**amhā** <br>ek**asmā** |
-| 6.gen | ek**assa** | ek**issā** <br>ek**āya** | ek**assa** |
-| 7.loc | ek**amhi** <br>ek**asmiṃ** | ek**āyaṃ** <br>ek**āya** | ek**amhi** <br>ek**asmiṃ** |
+| 4.dat | ek**assa** | ek**issā**<br>ek**āya** | ek**assa** |
+| 5.abl | ek**amhā**<br>ek**asmā** | ek**āya** | ek**amhā**<br>ek**asmā** |
+| 6.gen | ek**assa** | ek**issā**<br>ek**āya** | ek**assa** |
+| 7.loc | ek**amhi**<br>ek**asmiṃ** | ek**āyaṃ**<br>ek**āya** | ek**amhi**<br>ek**asmiṃ** |
 
 declined in the plural, “**eka**” functions as pronoun meaning “*some*”
 
@@ -55,8 +55,8 @@ agrees in case only
 
 |  |  |
 |---|---|
-| 1.nom | dv**e** duv**e** |
-| 2.acc | dv**e** duv**e** |
+| 1.nom | dv**e**<br>duv**e** |
+| 2.acc | dv**e**<br>duv**e** |
 | 3.instr | dv**īhi** |
 | 4.dat | dv**innaṃ** |
 | 5.abl | dv**īhi** |
@@ -74,9 +74,9 @@ agrees in gender and case
 | 1.nom | t**ayo** | t**isso** | t**īni** |
 | 2.acc | t**ayo** | t**isso** | t**īni** |
 | 3.instr | t**īhi** | t**īhi** | t**īhi** |
-| 4.dat | t**iṇṇaṃ** <br>t**iṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ** <br>t**iṇṇannaṃ** |
+| 4.dat | t**iṇṇaṃ**<br>t**iṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ**<br>t**iṇṇannaṃ** |
 | 5.abl | t**īhi** | t**īhi** | t**īhi** |
-| 6.gen | t**iṇṇaṃ** <br>**tiṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ** <br>t**iṇṇannaṃ** |
+| 6.gen | t**iṇṇaṃ**<br>**tiṇṇannaṃ** | t**issannaṃ** | t**iṇṇaṃ**<br>t**iṇṇannaṃ** |
 | 7.loc | t**īsu** | t**īsu** | t**īsu** |
 
 ## catu “four”
@@ -87,8 +87,8 @@ agrees in gender and case
 
 |  | Masculine | Feminine | Neuter |
 |---|---|---|---|
-| 1.nom | catt**āro** <br>cat**uro** | cat**asso** | catt**āri** |
-| 2.acc | catt**āro** <br>cat**uro** | cat**asso** | catt**āri** |
+| 1.nom | catt**āro**<br>cat**uro** | cat**asso** | catt**āri** |
+| 2.acc | catt**āro**<br>cat**uro** | cat**asso** | catt**āri** |
 | 3.instr | cat**ūhi** | cat**ūhi** | cat**ūhi** |
 | 4.dat | cat**unnaṃ** | cat**assannaṃ** | cat**unnaṃ** |
 | 5.abl | cat**ūhi** | cat**ūhi** | cat**ūhi** |
@@ -125,8 +125,8 @@ same as *pañca*. no gender, plural. agrees in case only
 | 11 | ekādasa |
 | 12 | dvādasa |
 | 13 | terasa |
-| 14 | *catuddasa* cuddasa |
-| 15 | *pañcadasa* paṇṇarasa pannarasa |
+| 14 | *catuddasa*<br>cuddasa |
+| 15 | *pañcadasa*<br>paṇṇarasa<br>pannarasa |
 | 16 | soḷasa |
 | 17 | sattarasa |
 | 18 | aṭṭhārasa |
@@ -139,13 +139,13 @@ feminine singular, agree in case only
 
 |  | 20 (like bhūmi) | 20 (like vedanā) |
 |---|---|---|
-| 1.nom | vīsat**i** | vīs**ā** vīs**aṃ** |
+| 1.nom | vīsat**i** | vīs**ā**<br>vīs**aṃ** |
 | 2.acc | vīsat**iṃ** | vīs**aṃ** |
 | 3.instr | vīsat**iyā** | vīs**āya** |
 | 4.dat | vīsat**iyā** | vīs**āya** |
 | 5.abl | vīsat**iyā** | vīs**āya** |
 | 6.gen | vīsat**iyā** | vīs**āya** |
-| 7.loc | vīsat**iyā** vīsati**yaṃ** | vīs**āya** vīs**āyaṃ** |
+| 7.loc | vīsat**iyā**<br>vīsati**yaṃ** | vīs**āya**<br>vīs**āyaṃ** |
 
 I see **twenty men**   vīsatiṃ purise
 
@@ -161,11 +161,11 @@ agrees in case and number
 
 |  |  |  |
 |---|---|---|
-| 1.nom | sat**aṃ** | sat**ā** sat**āni** |
-| 2.acc | sat**aṃ** | sat**e** sat**āni** |
+| 1.nom | sat**aṃ** | sat**ā**<br>sat**āni** |
+| 2.acc | sat**aṃ** | sat**e**<br>sat**āni** |
 | 3.instr | sat**ena** | sat**ehi** |
-| 4.dat | sat**āya** <br>sat**assa** | sat**ānaṃ** |
-| 5.abl | sat**ā** <br>sat**amhā**<br>sat**asmā** | sat**ehi** |
+| 4.dat | sat**āya**<br>sat**assa** | sat**ānaṃ** |
+| 5.abl | sat**ā**<br>sat**amhā**<br>sat**asmā** | sat**ehi** |
 | 6.gen | sat**assa** | sat**ānaṃ** |
 | 7.loc | sat**e**<br>sat**amhi**<br>sat**asmiṃ** | sat**esu** |
 
@@ -177,13 +177,13 @@ agrees in case only
 
 |  |  |  |
 |---|---|---|
-| 1.nom | koṭ**i** | koṭ**ī** <br>koṭ**iyo** |
-| 2.acc | koṭ**iṃ** | koṭ**ī** <br>koṭ**iyo** |
+| 1.nom | koṭ**i** | koṭ**ī**<br>koṭ**iyo** |
+| 2.acc | koṭ**iṃ** | koṭ**ī**<br>koṭ**iyo** |
 | 3.instr | koṭ**iyā** | koṭ**īhi** |
 | 4.dat | koṭ**iyā** | koṭ**īnaṃ** |
 | 5.abl | koṭ**iyā** | koṭ**īhi** |
 | 6.gen | koṭ**iyā** | koṭ**īnaṃ** |
-| 7.loc | koṭ**iyā** <br>koṭi**yaṃ** | koṭ**īsu** |
+| 7.loc | koṭ**iyā**<br>koṭi**yaṃ** | koṭ**īsu** |
 
 ## Summary of numbers gender and numbers
 
@@ -204,9 +204,9 @@ These are the only numbers encountered in the Tipiṭaka that have been *actuall
 |  |  |
 |---|---|
 | 1 | eka |
-| 2 | dvi, dve, duve |
-| 3 | ti (tayo, tīni, tisso) |
-| 4 | catu (caturo, cattāro, catasso, cattāri) |
+| 2 | dvi<br>dve<br>duve |
+| 3 | ti<br>(tayo<br>tīni<br>tisso) |
+| 4 | catu<br>(caturo<br>cattāro<br>catasso<br>cattāri) |
 | 5 | pañca |
 | 6 | cha |
 | 7 | satta |
@@ -216,18 +216,18 @@ These are the only numbers encountered in the Tipiṭaka that have been *actuall
 | 11 | ekādasa |
 | 12 | dvādasa |
 | 13 | terasa |
-| 14 | catuddasa, cuddasa |
-| 15 | pannarasa, paṇṇarasa |
+| 14 | catuddasa<br>cuddasa |
+| 15 | pannarasa<br>paṇṇarasa |
 | 16 | soḷasa |
 | 1/16 | soḷasī |
 | 18 | aṭṭhārasa |
-| 20 | vīsaṃ, vīsati |
+| 20 | vīsaṃ<br>vīsati |
 | 21 | ekavīsati |
-| 30 | tiṃsā, tiṃsaṃ |
+| 30 | tiṃsā<br>tiṃsaṃ |
 | 32 | dvattiṃsati |
-| 36 | chattiṃsā, chattiṃsati |
-| 40 | cattārīsa, cattālīsā |
-| 50 | paṇṇāsā, paññāsā |
+| 36 | chattiṃsā<br>chattiṃsati |
+| 40 | cattārīsa<br>cattālīsā |
+| 50 | paṇṇāsā<br>paññāsā |
 | 60 | saṭṭhi |
 | 64 | catusaṭṭhi |
 | 74 | catusattati |

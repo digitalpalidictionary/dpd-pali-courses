@@ -29,11 +29,11 @@ Many of these agent nouns can also be used as adjectives.
 
 |  |  |  |
 | --- | --- | --- |
-| 1. nom | pakkh**ī** | pakkh**ī** <br>pakkh**ino** |
-| 2. acc | pakkh**inaṃ** <br>pakkh**iṃ** | pakkh**ī** <br>pakkh**ino** |
+| 1. nom | pakkh**ī** | pakkh**ī**<br>pakkh**ino** |
+| 2. acc | pakkh**inaṃ**<br>pakkh**iṃ** | pakkh**ī**<br>pakkh**ino** |
 | 3. instr | pakkh**inā** | pakkh**īhi** |
-| 4. dat | pakkh**ino** <br>pakkh**issa** | pakkh**īnaṃ** |
-| 5. abl | pakkh**inā** <br>pakkh**imhā** | pakkh**īhi** |
-| 6. gen | pakkh**ino** <br>pakkh**issa** | pakkh**īnaṃ** |
-| 7. loc | pakkh**ini** <br>pakkh**imhi** <br>pakkh**ismiṃ** | pakkh**īsu** |
-| 8. voc | pakkh**ī** | pakkh**ī** <br>pakkh**ino** |
+| 4. dat | pakkh**ino**<br>pakkh**issa** | pakkh**īnaṃ** |
+| 5. abl | pakkh**inā**<br>pakkh**imhā** | pakkh**īhi** |
+| 6. gen | pakkh**ino**<br>pakkh**issa** | pakkh**īnaṃ** |
+| 7. loc | pakkh**ini**<br>pakkh**imhi**<br>pakkh**ismiṃ** | pakkh**īsu** |
+| 8. voc | pakkh**ī** | pakkh**ī**<br>pakkh**ino** |

@@ -10,12 +10,12 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | --- | --- | --- |
 | 1.nom | man**o** | man**ā** |
 | 2.acc | man**aṃ**<br>**mano** | man**e** |
-| 3.inst | man**asā** man**ena** | man**ehi** |
-| 4.dat | man**aso** man**assa** | man**ānaṃ** |
-| 5.abl | man**asā** man**ā** man**amhā** man**asmā** | man**ehi** |
-| 6.gen | man**aso** man**assa** | man**ānaṃ** |
-| 7.loc | man**asi** man**e** man**amhi** man**asmiṃ** | man**esu** |
-| 8.voc | man**a** man**ā** | man**ā** |
+| 3.inst | man**asā**<br>man**ena** | man**ehi** |
+| 4.dat | man**aso**<br>man**assa** | man**ānaṃ** |
+| 5.abl | man**asā**<br>man**ā**<br>man**amhā**<br>man**asmā** | man**ehi** |
+| 6.gen | man**aso**<br>man**assa** | man**ānaṃ** |
+| 7.loc | man**asi**<br>man**e**<br>man**amhi**<br>man**asmiṃ** | man**esu** |
+| 8.voc | man**a**<br>man**ā** | man**ā** |
 
 [^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
 
@@ -66,27 +66,27 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 
 |  |  |  |
 | --- | --- | --- |
-| 1.nom | g**o** | gāv**o** g**avo** |
-| 2.acc | gāv**uṃ** gav**aṃ** | gāv**o** g**avo** |
-| 3.inst | gāv**ena** gav**ena** | go**hi** go**bhi** |
-| 4.dat | gāv**assa** gav**assa** | gav**aṃ** gun**naṃ** |
-| 5.abl | gāv**ā** gāv**asmā** gāv**amhā** <br>gav**ā** gav**asmā** gav**amhā** | go**hi** go**bhi** |
-| 6.gen | gāv**assa** gav**assa** | gav**aṃ** gun**naṃ** |
-| 7.loc | gāv**e** gāv**asmiṃ** gāv**amhi** <br>gav**e** gav**asmiṃ** gav**amhi** | gāv**esu** gav**esu** g**osu** |
-| 8.voc | g**o** | gāv**o** gav**o** |
+| 1.nom | g**o** | gāv**o**<br>g**avo** |
+| 2.acc | gāv**uṃ**<br>gav**aṃ** | gāv**o**<br>g**avo** |
+| 3.inst | gāv**ena**<br>gav**ena** | go**hi**<br>go**bhi** |
+| 4.dat | gāv**assa**<br>gav**assa** | gav**aṃ**<br>gun**naṃ** |
+| 5.abl | gāv**ā**<br>gāv**asmā**<br>gāv**amhā**<br>gav**ā**<br>gav**asmā**<br>gav**amhā** | go**hi**<br>go**bhi** |
+| 6.gen | gāv**assa**<br>gav**assa** | gav**aṃ**<br>gun**naṃ** |
+| 7.loc | gāv**e**<br>gāv**asmiṃ**<br>gāv**amhi**<br>gav**e**<br>gav**asmiṃ**<br>gav**amhi** | gāv**esu**<br>gav**esu**<br>g**osu** |
+| 8.voc | g**o** | gāv**o**<br>gav**o** |
 
 **Declension of atta (masc) - self**
 
 |  |  |  |
 | --- | --- | --- |
 | 1.nom | att**ā** | att**āno** |
-| 2.acc | att**ānaṃ** att**aṃ** | att**āno** |
-| 3.inst | att**anā** <br>att**ena** | att**anehi** |
+| 2.acc | att**ānaṃ**<br>att**aṃ** | att**āno** |
+| 3.inst | att**anā**<br>att**ena** | att**anehi** |
 | 4.dat | att**ano** | att**ānaṃ** |
 | 5.abl | att**anā** | att**anehi** |
 | 6.gen | att**ano** | att**ānaṃ** |
 | 7.loc | att**ani** | att**anesu** |
-| 8.voc | att**ā** att**a** | att**āno** |
+| 8.voc | att**ā**<br>att**a** | att**āno** |
 
 similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 
@@ -95,10 +95,10 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 |  |  |  |
 | --- | --- | --- |
 | 1.nom | rāj**ā** | rāj**āno** |
-| 2.acc | rāj**ānaṃ** rāj**aṃ** | rāj**āno** |
-| 3.inst | ra**ññā** rāj**ena** | rāj**ūhi** rāj**ehi** |
-| 4.dat | ra**ñño** rāj**ino** | ra**ññaṃ** rāj**ānaṃ** rāj**ūnaṃ** |
-| 5.abl | ra**ññā** rāj**amhā** rāj**asmā** | rāj**ūhi** rāj**ehi** |
-| 6.gen | ra**ñño** rāj**ino** | ra**ññaṃ** rāj**ūnaṃ** rāj**ānaṃ** |
-| 7.loc | rāj**ini** ra**ññe** rāj**amhi** rāj**asmiṃ** | rāj**ūsu** rāj**esu** |
-| 8.voc | rāj**a** rāj**ā** | rāj**āno** |
+| 2.acc | rāj**ānaṃ**<br>rāj**aṃ** | rāj**āno** |
+| 3.inst | ra**ññā**<br>rāj**ena** | rāj**ūhi**<br>rāj**ehi** |
+| 4.dat | ra**ñño**<br>rāj**ino** | ra**ññaṃ**<br>rāj**ānaṃ**<br>rāj**ūnaṃ** |
+| 5.abl | ra**ññā**<br>rāj**amhā**<br>rāj**asmā** | rāj**ūhi**<br>rāj**ehi** |
+| 6.gen | ra**ñño**<br>rāj**ino** | ra**ññaṃ**<br>rāj**ūnaṃ**<br>rāj**ānaṃ** |
+| 7.loc | rāj**ini**<br>ra**ññe**<br>rāj**amhi**<br>rāj**asmiṃ** | rāj**ūsu**<br>rāj**esu** |
+| 8.voc | rāj**a**<br>rāj**ā** | rāj**āno** |

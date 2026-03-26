@@ -47,8 +47,8 @@ a + √dā + si \> **a**dāsi (he gave)
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | singular | plural |  |  |
-| 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu** <br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
-| 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha** <br>apac**ittha** | you all cooked |
+| 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu**<br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
+| 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha**<br>apac**ittha** | you all cooked |
 | 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
 
 ## 8th conjugation group
@@ -77,4 +77,4 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 |  | singular | plural |  |  |
 | 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
 | 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
-| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**, <br>aṭṭha**mhā** | we stood |
+| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**<br>aṭṭha**mhā** | we stood |

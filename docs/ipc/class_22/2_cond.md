@@ -17,7 +17,7 @@ How is the conditional reflexive formed? (Theoretically) How is the passive form
 |  |  |  |
 | --- | --- | --- |
 |  | sg | pl |
-| 3 paṭhama | abhav**issa** <br>abhav**issā** | abhav**issaṃsu** |
+| 3 paṭhama | abhav**issa**<br>abhav**issā** | abhav**issaṃsu** |
 | 2 majjhima | abhav**issa**<br>abhav**isse** | abhav**issatha** |
 | 1 uttama | abhav**issaṃ** | abhav**issamha**<br>abhav**issāmhā** |
 

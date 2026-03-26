@@ -1,11 +1,8 @@
 # Homeless work
 
 1.  Exercises for class 8
-
 2.  Learn the vocabulary from class 8 using Anki Deck “Vocab Pāli Class”
-
 3.  Learn conjugations and declinations from class 8 “Grammar Pāli Class”
-
 4.  Learn roots from Anki Deck "Common Roots Pāli Class"
 
 **Extra:**
