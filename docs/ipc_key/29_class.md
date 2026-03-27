@@ -15,12 +15,11 @@
 **[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html)**
 
 disvāna taṇhaṃ aratiṃ ragañ'ca,
-
 n'āhosi chando api methunasmiṃ.
-
 kim'ev'idaṃ mutta-karīsa-puṇṇaṃ,
-
 pādā'pi naṃ samphusituṃ na icche.
+
+---
 
 disvāna taṇhaṃ aratiṃ ragañ'ca,
 
@@ -77,12 +76,11 @@ pādā'pi naṃ samphusituṃ na icche.
 **I would not wish even to touch it with [my] foot.**
 
 etādisaṃ ce ratanaṃ na icchasi,
-
 nāriṃ nar'indehi bahūhi patthitaṃ.
-
 diṭṭhigataṃ sīlavataṃ nu jīvitaṃ,
-
 bhav'ūpapattiñ'ca vadesi kīdisaṃ.
+
+---
 
 etādisaṃ ce ratanaṃ na icchasi,
 
@@ -147,12 +145,11 @@ bhav'ūpapattiñ'ca vadesi kīdisaṃ.
 [^49]: See kīdṛśa.
 
 idaṃ vadāmī'ti na tassa hoti, (māgaṇḍiyā'ti bhagavā)
-
 dhammesu niccheyya samuggahītaṃ.
-
 passañ'ca diṭṭhīsu anuggahāya,
-
 ajjhatta-santiṃ pacinaṃ adassaṃ.
+
+---
 
 idaṃ vadāmī'ti na tassa hoti, (māgaṇḍiyā'ti bhagavā)
 
@@ -207,12 +204,11 @@ ajjhatta-santiṃ pacinaṃ adassaṃ.
 **discerning, I saw inner peace.**
 
 vinicchayā yāni pakappitāni, (iti māgaṇḍiyo)
-
 te ve munī brūsi anuggahāya.
-
 ajjhatta-santī'ti yam'etam'atthaṃ,
-
 kathaṃ nu dhīrehi paveditaṃ taṃ.
+
+---
 
 vinicchayā yāni pakappitāni, (iti māgaṇḍiyo)
 
@@ -267,16 +263,13 @@ kathaṃ nu dhīrehi paveditaṃ taṃ.
 **how [is] it made known by the wise?"**
 
 na diṭṭhiyā na sutiyā na ñāṇena, (māgaṇḍiyā'ti bhagavā)
-
 sīlabbaten'āpi na suddhim'āha.
-
 adiṭṭhiyā assutiyā añāṇā,
-
 asīlatā abbatā no'pi tena.
-
 ete ca nissajja anuggahāya,
-
 santo anissāya bhavaṃ na jappe.
+
+---
 
 na diṭṭhiyā na sutiyā na ñāṇena, (māgaṇḍiyā'ti bhagavā)
 
@@ -358,16 +351,13 @@ santo anissāya bhavaṃ na jappe.
 **at peace [and] not depending, one should not yearn for existence.**
 
 no ce kira diṭṭhiyā na sutiyā na ñāṇena, (iti māgaṇḍiyo)
-
 sīlabbaten'āpi na suddhim'āha.
-
 adiṭṭhiyā assutiyā añāṇā,
-
 asīlatā abbatā no'pi tena.
-
 maññām'ahaṃ momuham'eva dhammaṃ,
-
 diṭṭhiyā eke paccenti suddhiṃ.
+
+---
 
 no ce kira diṭṭhiyā na sutiyā na ñāṇena, (iti māgaṇḍiyo)
 
@@ -452,12 +442,11 @@ diṭṭhiyā eke paccenti suddhiṃ.
 **some assume purity by means of view."**
 
 diṭṭhañ'ca nissāya anupucchamāno, (māgaṇḍiyāti bhagavā)
-
-samuggahītesu pamoham'āgā.
-
+samuggahītesu pamoham'āgā
 ito ca n'āddakkhi aṇum'pi saññaṃ,
-
 tasmā tuvaṃ momuhato dahāsi.
+
+---
 
 diṭṭhañ'ca nissāya anupucchamāno, (māgaṇḍiyāti bhagavā)
 
@@ -512,12 +501,11 @@ tasmā tuvaṃ momuhato dahāsi
 **therefore, you consider [it] as completely confused.**
 
 samo visesī uda vā nihīno,
-
 yo maññatī so vivadetha tena.
-
 tīsu vidhāsu avikampamāno,
-
 samo visesī'ti na tassa hoti.
+
+---
 
 samo visesī uda vā nihīno,
 
@@ -568,12 +556,11 @@ samo visesī'ti na tassa hoti.
 **"equal [and] superior" do not occur to him (lit: there is not for him).**
 
 saccan'ti so brāhmaṇo kiṃ vadeyya,
-
 musā'ti vā so vivadetha kena.
-
 yasmiṃ samaṃ visamaṃ vā'pi n'atthi,
-
 sa kena vādaṃ paṭisaṃyujeyya.
+
+---
 
 saccan'ti so brāhmaṇo kiṃ vadeyya,
 
@@ -629,12 +616,11 @@ sa kena vādaṃ paṭisaṃyujeyya.
 **with whom would he engage in debate?**
 
 okaṃ pahāya aniketasārī,
-
 gāme akubbaṃ muni santhavāni.
-
 kāmehi ritto apurekkharāno,
-
 kathaṃ na viggayha janena kayirā.
+
+---
 
 okaṃ pahāya aniketasārī,
 
@@ -682,16 +668,13 @@ kathaṃ na viggayha janena kayirā.
 **quarrelling he should not make argument(s) with people.**
 
 yehi vivitto vicareyya loke,
-
 na tāni uggayha vadeyya nāgo.
-
 jalambujaṃ kaṇḍakaṃ vārijaṃ yathā,
-
 jalena paṅkena c'anūpalittaṃ.
-
 evaṃ munī santivādo agiddho,
-
 kāme ca loke ca anūpalitto.
+
+---
 
 yehi vivitto vicareyya loke,
 
@@ -769,12 +752,11 @@ kāme ca loke ca anūpalitto.
 **is not sullied by sensual pleasures and the world.**
 
 na vedagū diṭṭhiyā na mutiyā,
-
 sa mānam'eti na hi tammayo so.
-
 na kammunā no'pi sutena neyyo,
-
 anūpanīto sa nivesanesu.
+
+---
 
 na vedagū diṭṭhiyā na mutiyā,
 
@@ -832,12 +814,11 @@ anūpanīto sa nivesanesu.
 **he is not led into any adhering (of views) [lit. abode]**
 
 saññā-virattassa na santi ganthā,
-
 paññā-vimuttassa na santi mohā.
-
 saññañ'ca diṭṭhiñ'ca ye aggahesuṃ,
-
 te ghaṭṭayantā vicaranti loke'ti.
+
+---
 
 saññā-virattassa na santi ganthā,
 

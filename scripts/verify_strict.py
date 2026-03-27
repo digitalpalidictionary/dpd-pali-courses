@@ -130,7 +130,6 @@ def main():
         pdf_path = os.path.join(args.pdf_dir, pdf_name)
         if not os.path.exists(pdf_path): continue
         
-        print(f"\n--- Verifying volume: {pdf_name} ---")
         try:
             pdf_text = extract_text(pdf_path)
         except Exception as e:
@@ -191,14 +190,12 @@ def main():
         if html_missing_total > 0 or pdf_missing_total > 0:
             overall_passed = False
             print(f"  FAILED {pdf_name}: {html_missing_total} Web mismatches, {pdf_missing_total} PDF mismatches.")
-        else:
-            print(f"  PASSED {pdf_name}: 100% strict content match.")
             
     if not overall_passed:
         print("\nCRITICAL: Strict verification failed. Output data is missing.")
         exit(1)
     else:
-        print("\nSUCCESS: All content verified with 100% strict integrity.")
+        print("Strict Integrity: All good.")
 
 if __name__ == "__main__":
     main()

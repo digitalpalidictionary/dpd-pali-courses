@@ -110,11 +110,9 @@
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| kāyassa | noun | masc.gen.sg<br>masc.dat.sg | of the body<br>to the body |  |
-| bhedā | noun | masc.abl.sg<br>masc.nom.pl | from the breakup<br>breakups |  |
+| kāyassa | noun |  |  |  |
+| bhedā | noun |  |  |  |
 | |
-
-**from the breakup of the body**
 
 10. samaṇo gotamo
 
@@ -146,9 +144,7 @@
 |---|---|---|---|---|
 | kāmehi |  |  |  |  |
 | lokamhi |  |  |  |  |
-| |
-
-**[there is no satisfaction]**
+| **[there is no satisfaction]**[^6] |
 
 14. devā manussā
 
@@ -173,9 +169,7 @@
 |---|---|---|---|---|
 | pāde |  |  |  |  |
 | pādaṃ |  |  |  |  |
-| |
-
-**[he places]**
+| **[he places]** |
 
 17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
 
@@ -184,9 +178,7 @@
 | dhammānaṃ |  |  |  |  |
 | uppādāya |  |  |  |  |
 | chandaṃ |  |  |  |  |
-| |
-
-**[he arouses]**
+| **[he arouses]** |
 
 18. khandhānaṃ bhedo
 
@@ -224,8 +216,7 @@
 | dukkhehi |  |  |  |  |
 | domanassehi |  |  |  |  |
 | upāyāsehi |  |  |  |  |
-| [burning] |  |  |  |  |
-| |
+| **[burning]** |
 
 22. dhammo vinayo
 
@@ -241,9 +232,9 @@
 |---|---|---|---|---|
 | vinipātaṃ |  |  |  |  |
 | nirayaṃ |  |  |  |  |
-| |
+| **[is reborn in]** |
 
-**[is reborn in]**
+
 
 24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
 
@@ -268,9 +259,7 @@
 |---|---|---|---|---|
 | āvāse |  |  |  |  |
 | vassaṃ |  |  |  |  |
-| |
-
-**[he entered]**
+| **[he entered]** |
 
 27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html) <br>nīvaraṇehi brāhmaṇo
 
@@ -278,7 +267,7 @@
 |---|---|---|---|---|
 | nīvaraṇehi |  |  |  |  |
 | brāhmaṇo |  |  |  |  |
-| |
+| **[is filled]**|
 
 28. kāme brāhmaṇa
 
@@ -286,9 +275,7 @@
 |---|---|---|---|---|
 | kāme |  |  |  |  |
 | brāhmaṇa |  |  |  |  |
-| |
-
-**[is filled] [five]**
+|  |
 
 29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
 
@@ -296,9 +283,7 @@
 |---|---|---|---|---|
 | atthamhi |  |  |  |  |
 | sahāyā |  |  |  |  |
-| |
-
-**[Good are] [arisen]**
+| **[Good are] [arisen]** |
 
 30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
 
@@ -308,8 +293,7 @@
 | sāvake |  |  |  |  |
 | gotamassa |  |  |  |  |
 | sāvakesu |  |  |  |  |
-| [trains] |  |  |  |  |
-| |
+| **[trains]** |
 
 31. kassapassa vinayasmiṃ
 
@@ -324,6 +308,7 @@
 [^3]: For simplicity, the comp rukkhamūlesu is broken into two parts.
 [^4]: Original compounds are uttarimanussadhammo alam’ariyañāṇadassanaviseso
 [^5]: Original compound is pānīyathālakaṃ
+[^6]: In some sentences in first class, we provide a few words that may help you understand the context.
 
 ## Class 2 Extra
 

@@ -3,6 +3,7 @@ website_example/
 .gemini/
 conductor/
 GEMINI.md
+CLAUDE.md
 __pycache__
 .obsidian/
 tests/

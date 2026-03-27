@@ -84,7 +84,6 @@ def main():
         pdf_path = os.path.join(args.pdf_dir, pdf_name)
         if not os.path.exists(pdf_path): continue
         
-        print(f"Verifying {pdf_name}...")
         md_files = []
         for s_dir in source_dirs:
             if os.path.isfile(s_dir): md_files.append(s_dir)
@@ -97,14 +96,15 @@ def main():
         
         missing = verify_content(pdf_path, md_files)
             
-        if not missing:
-            print(f"  PASSED: 100% data integrity.")
-        else:
-            print(f"  FAILED: {len(missing)} words missing.")
+        if missing:
+            print(f"FAILED {pdf_name}: {len(missing)} words missing.")
             for m in missing[:10]: print(f"    - {m}")
             overall_passed = False
 
-    if not overall_passed: exit(1)
+    if not overall_passed: 
+        exit(1)
+    else:
+        print("PDF Content: All good.")
 
 if __name__ == "__main__":
     main()

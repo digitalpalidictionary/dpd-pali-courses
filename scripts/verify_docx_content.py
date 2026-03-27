@@ -65,7 +65,6 @@ def verify_docx(docx_path, original_md_paths):
             print(f"  - {f}")
         return False
     else:
-        print(f"Verification successful for {docx_path}.")
         return True
 
 def main():
@@ -107,7 +106,9 @@ def main():
             if not verify_docx(docx_path, files):
                 all_success = False
                 
-    if not all_success:
+    if all_success:
+        print("DOCX Content: All good.")
+    else:
         sys.exit(1)
 
 if __name__ == '__main__':

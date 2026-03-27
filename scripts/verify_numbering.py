@@ -52,8 +52,6 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
     md_path = os.path.join(docs_dir, md_rel_path)
     md_data = get_md_numbering(md_path)
     
-    print(f"\nVerifying {md_rel_path} against PDF text:")
-    
     status = True
     
     # Check Lists
@@ -70,10 +68,9 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing.append(n)
         
         if missing:
+            print(f"\nVerifying {md_rel_path}:")
             print(f"  - ERROR: Missing list markers in PDF: {missing[:10]}...")
             status = False
-        else:
-            print(f"  - List markers in PDF: OK")
 
     # Check Footnotes
     if md_data['footnotes']:
@@ -85,10 +82,10 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing_fn.append(n)
         
         if missing_fn:
+            if status: # First error for this file
+                print(f"\nVerifying {md_rel_path}:")
             print(f"  - ERROR: Missing footnote markers in PDF: {missing_fn}")
             status = False
-        else:
-            print(f"  - Footnote markers in PDF: OK")
 
     return status
 
@@ -98,12 +95,10 @@ def main():
     args = parser.parse_args()
     
     # Pre-extract FULL PDF text for verification
-    print("Extracting final PDF text for strict verification...")
     pdf_texts = {}
     for pdf_name in ['bpc.pdf', 'bpc_ex.pdf', 'bpc_key.pdf', 'ipc.pdf', 'ipc_ex.pdf', 'ipc_key.pdf']:
         path = os.path.join("pdf_exports", pdf_name)
         if os.path.exists(path):
-            print(f"  Reading {pdf_name}...")
             raw = extract_text(path)
             # Remove whitespace but KEEP numbers and dots
             pdf_texts[pdf_name.split('.')[0]] = re.sub(r'\s+', '', raw)
@@ -126,8 +121,11 @@ def main():
                 if not verify_file_strict(rel, pdf_text):
                     failed_files += 1
 
-    print(f"\nSummary: {total_files} files checked, {failed_files} failures found.")
-    if failed_files > 0: exit(1)
+    if failed_files > 0: 
+        print(f"\nSummary: {total_files} files checked, {failed_files} failures found.")
+        exit(1)
+    else:
+        print("Numbering: All good.")
 
 if __name__ == "__main__":
     main()

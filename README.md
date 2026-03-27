@@ -70,24 +70,13 @@ sudo apt-get install pandoc
 
 This repository includes several Python scripts to maintain and clean the Pāḷi course Markdown source files. These scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py`.
 
-- **`verify_strict.py`**: Compares phrases from Markdown files against the generated HTML and PDF to ensure 100% data integrity and catch rendering issues.
+- **`verify_strict.py`**: Compares phrases from Markdown files against the generated HTML and PDF to ensure 100% data integrity and catch rendering issues. Run it only after freshly exporting all data. Can run only for some specific folders.
   - Usage: `uv run python scripts/verify_strict.py`
 
-- **`add_sutta_links.py`**: Automatically right-aligns sutta references in review lessons using clean Markdown syntax.
-  - Usage: `uv run python scripts/add_sutta_links.py`
+- **`compare_md_sources.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss.
+  - Usage: `uv run python scripts/compare_md_sources.py`
 
-- **`check_renumber.py`**: Automatically detects and corrects the numbering of Pāḷi sentences in exercise and answer key files.
-  - Usage: `uv run python scripts/check_renumber.py`
-
-- **`renumber_footnotes.py`**: Sequentially renumbers all footnotes across the course materials to ensure chronological ordering.
-  - Usage: `uv run python scripts/renumber_footnotes.py`
-
-- **`compare_docs.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss.
-  - Usage: `uv run python scripts/compare_docs.py`
-
-- **`update_media_links.py`**: Updates media links and paths within the Markdown files to ensure they are correctly resolved in the static website.
-
-- **`generate_mkdocs_yaml.py`**: A helper script to generate or update the `mkdocs.yaml` configuration based on the files in `docs/`.
+- **`pre_proccessing.sh`**: Bash which inlude all testing and verification, and preproccessing for building website, pdf, docs.
 
 ## Local Development
 

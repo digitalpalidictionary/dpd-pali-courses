@@ -13,21 +13,13 @@
 | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā 5 nā (measure) + ta |
 | |
 
-[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html) <br>disvāna taṇhaṃ aratiṃ ragañca,
-
-
-
+[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html)
+disvāna taṇhaṃ aratiṃ ragañca,
 nāhosi chando api methunasmiṃ.
-
-
-
 kimevidaṃ muttakarīsapuṇṇaṃ,
-
-
-
 pādāpi naṃ samphusituṃ na icche.
 
-
+---
 
 disvāna taṇhaṃ aratiṃ ragañca,
 
@@ -70,20 +62,11 @@ pādāpi naṃ samphusituṃ na icche.
 | |
 
 etādisaṃ ce ratanaṃ na icchasi,
-
-
-
 nāriṃ narindehi bahūhi patthitaṃ.
-
-
-
 diṭṭhigataṃ sīlavataṃ nu jīvitaṃ,
-
-
-
 bhavūpapattiñca vadesi kīdisaṃ.
 
-
+---
 
 etādisaṃ ce ratanaṃ na icchasi,
 
@@ -126,20 +109,11 @@ bhavūpapattiñca vadesi kīdisaṃ.
 | |
 
 idaṃ vadāmīti na tassa hoti, (māgaṇḍiyāti bhagavā)
-
-
-
 dhammesu niccheyya samuggahītaṃ.
-
-
-
 passañca diṭṭhīsu anuggahāya,
-
-
-
 ajjhattasantiṃ pacinaṃ adassaṃ.
 
-
+---
 
 idaṃ vadāmīti na tassa hoti, (māgaṇḍiyāti bhagavā)
 
@@ -182,20 +156,11 @@ ajjhattasantiṃ pacinaṃ adassaṃ.
 | |
 
 vinicchayā yāni pakappitāni, (iti māgaṇḍiyo)
-
-
-
 te ve munī brūsi anuggahāya.
-
-
-
 ajjhattasantīti yametamatthaṃ,
-
-
-
 kathaṃ nu dhīrehi paveditaṃ taṃ.
 
-
+---
 
 vinicchayā yāni pakappitāni, (iti māgaṇḍiyo)
 
@@ -239,28 +204,13 @@ kathaṃ nu dhīrehi paveditaṃ taṃ.
 | |
 
 na diṭṭhiyā na sutiyā na ñāṇena, (māgaṇḍiyāti bhagavā)
-
-
-
 sīlabbatenāpi na suddhimāha.
-
-
-
 adiṭṭhiyā assutiyā añāṇā,
-
-
-
 asīlatā abbatā nopi tena.
-
-
-
 ete ca nissajja anuggahāya,
-
-
-
 santo anissāya bhavaṃ na jappe.
 
-
+---
 
 na diṭṭhiyā na sutiyā na ñāṇena, (māgaṇḍiyāti bhagavā)
 
@@ -326,28 +276,13 @@ santo anissāya bhavaṃ na jappe.
 | |
 
 no ce kira diṭṭhiyā na sutiyā na ñāṇena, (iti māgaṇḍiyo)
-
-
-
 sīlabbatenāpi na suddhimāha.
-
-
-
 adiṭṭhiyā assutiyā añāṇā,
-
-
-
 asīlatā abbatā nopi tena.
-
-
-
 maññāmahaṃ momuhameva dhammaṃ,
-
-
-
 diṭṭhiyā eke paccenti suddhiṃ.
 
-
+---
 
 no ce kira diṭṭhiyā na sutiyā na ñāṇena, (iti māgaṇḍiyo)
 
@@ -419,20 +354,11 @@ diṭṭhiyā eke paccenti suddhiṃ.
 | |
 
 diṭṭhañca nissāya anupucchamāno, (māgaṇḍiyāti bhagavā)
-
-
-
 samuggahītesu pamohamāgā.
-
-
-
 ito ca nāddakkhi aṇumpi saññaṃ,
-
-
-
 tasmā tuvaṃ momuhato dahāsi.
 
-
+---
 
 diṭṭhañca nissāya anupucchamāno, (māgaṇḍiyāti bhagavā)
 
@@ -475,20 +401,11 @@ tasmā tuvaṃ momuhato dahāsi
 | |
 
 samo visesī uda vā nihīno,
-
-
-
 yo maññatī so vivadetha tena.
-
-
-
 tīsu vidhāsu avikampamāno,
-
-
-
 samo visesīti na tassa hoti.
 
-
+---
 
 samo visesī uda vā nihīno,
 
@@ -538,20 +455,11 @@ samo visesīti na tassa hoti.
 | |
 
 saccanti so brāhmaṇo kiṃ vadeyya,
-
-
-
 musāti vā so vivadetha kena.
-
-
-
 yasmiṃ samaṃ visamaṃ vāpi natthi,
-
-
-
 sa kena vādaṃ paṭisaṃyujeyya.
 
-
+---
 
 saccanti so brāhmaṇo kiṃ vadeyya,
 
@@ -597,20 +505,11 @@ sa kena vādaṃ paṭisaṃyujeyya.
 | |
 
 okaṃ pahāya aniketasārī,
-
-
-
 gāme akubbaṃ muni santhavāni.
-
-
-
 kāmehi ritto apurekkharāno,
-
-
-
 kathaṃ na viggayha janena kayirā.
 
-
+---
 
 okaṃ pahāya aniketasārī,
 
@@ -652,28 +551,13 @@ kathaṃ na viggayha janena kayirā.
 | |
 
 yehi vivitto vicareyya loke,
-
-
-
 na tāni uggayha vadeyya nāgo.
-
-
-
 jalambujaṃ kaṇḍakaṃ vārijaṃ yathā,
-
-
-
 jalena paṅkena canūpalittaṃ.
-
-
-
 evaṃ munī santivādo agiddho,
-
-
-
 kāme ca loke ca anūpalitto.
 
-
+---
 
 yehi vivitto vicareyya loke,
 
@@ -737,20 +621,11 @@ kāme ca loke ca anūpalitto.
 | |
 
 na vedagū diṭṭhiyā na mutiyā,
-
-
-
 sa mānameti na hi tammayo so.
-
-
-
 na kammunā nopi sutena neyyo,
-
-
-
 anūpanīto sa nivesanesu.
 
-
+---
 
 na vedagū diṭṭhiyā na mutiyā,
 
@@ -796,20 +671,11 @@ anūpanīto sa nivesanesu.
 | |
 
 saññāvirattassa na santi ganthā,
-
-
-
 paññāvimuttassa na santi mohā.
-
-
-
 saññañca diṭṭhiñca ye aggahesuṃ,
-
-
-
 te ghaṭṭayantā vicaranti loketi.
 
-
+---
 
 saññāvirattassa na santi ganthā,
 

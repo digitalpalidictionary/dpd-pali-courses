@@ -98,7 +98,7 @@
 | agacchiṃ |  |  |  |
 | |
 
-9. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>byādhi-dhammo **amhi[^6]**
+9. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>byādhi-dhammo **amhi[^7]**
 
 |  |  |  |  |
 |---|---|---|---|
@@ -107,7 +107,7 @@
 | amhi |  |  |  |
 | |
 
-10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>“samaṇā amha” iti[^7] paṭijānātha
+10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>“samaṇā amha” iti[^8] paṭijānātha
 
 |  |  |  |  |
 |---|---|---|---|
@@ -322,8 +322,8 @@
 | iti | ind |  | (end of quote) |
 | |
 
-[^6]: Originally byādhidhammo’mhi
-[^7]: Originally amhā’ti
+[^7]: Originally byādhidhammo’mhi
+[^8]: Originally amhā’ti
 
 ## Class 4 Extra
 
@@ -393,7 +393,7 @@
 | agginā |  |  |  |
 | |
 
-6. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (modif) [^8] <br>samaṇassa ahu vitakko
+6. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (modif) [^9] <br>samaṇassa ahu vitakko
 
 |  |  |  |  |
 |---|---|---|---|
@@ -402,4 +402,4 @@
 | vitakko |  |  |  |
 | |
 
-[^8]: Here and in other examples, this means that the sutta sentences have been significantly modified to fit the topic covered in the current class.
+[^9]: Here and in other examples, this means that the sutta sentences have been significantly modified to fit the topic covered in the current class.

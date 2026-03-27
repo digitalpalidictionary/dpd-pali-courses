@@ -171,5 +171,9 @@ def main():
         generate_docx(agg_md, output_file)
         print(f"Generated {output_file}")
 
+    print("\nRunning numbering verification...")
+    try: subprocess.run(["uv", "run", "python", "scripts/verify_docx_content.py"], check=True)
+    except Exception as e: print(f"Verification failed: {e}")
+
 if __name__ == '__main__':
     main()
