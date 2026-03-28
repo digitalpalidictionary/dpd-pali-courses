@@ -1,3 +1,8 @@
+/* Hide table header for tables marked with .no-header */
+.md-typeset table.no-header thead {
+    display: none !important;
+}
+
 /* image border */
 .md-typeset img {
     border: 2px solid var(--gray-transparent);
@@ -11,6 +16,42 @@
     transition: transform .25s cubic-bezier(.1, .7, .1, 1), box-shadow .25s;
 }
 
+/* Custom Navigation Links */
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+    font-size: 1rem; /* match standard text */
+}
+
+.nav-links a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    color: var(--md-accent-fg-color);
+    text-decoration: underline;
+}
+
+.nav-links .prev {
+    margin-right: auto;
+}
+
+.nav-links .next {
+    margin-left: auto;
+    text-align: right;
+}
+
+.nav-links .cross, .nav-links .feedback {
+    width: 100%;
+    text-align: center;
+    margin-top: 1em;
+}
 
 [data-md-color-scheme="default"] {
 
@@ -89,29 +130,21 @@
     /* bottom footer text */
     --md-footer-fg-color--light: var(--dark);
 
-    /* code background */
-    /* --md-code-bg-color: hsl(197, 05%, 95%); */
+    /* Navigation Tabs: Light Mode */
+    .md-tabs__link {
+        color: var(--dark);
+    }
+    .md-tabs__item--active .md-tabs__link {
+        color: var(--light);
+    }
 
-    /* code text */
-    /* --md-code-fg-color: #97e4fb; */
-
-    /* code comments */
-    /* --md-code-hl-comment-color: gray; */
-
-    /* code keywords */
-    /* --md-code-hl-keyword-color: #00A4CC; */
-
-    /* code strings */
-    /* --md-code-hl-string-color: #01ccff; */
-
-    /* code constant */
-    /* --md-code-hl-constant-color: #50a150; */
-
-    /* code functions */
-    /* --md-code-hl-function-color: rgb(79, 171, 79); */
-
-    /* code highlight to */
-    /* --md-code-hl-color: yellow; */
+    /* Sidebar Navigation: Light Mode */
+    .md-nav__link, .md-nav__title {
+        color: var(--dark) !important;
+    }
+    .md-nav__link:hover {
+        color: var(--primary-alt) !important;
+    }
 
 }
 
@@ -192,27 +225,298 @@
     /* bottom footer text */
     --md-footer-fg-color--light: var(--gray);
 
-    /* code background */
-    /* --md-code-bg-color: hsl(198, 100%, 70%); */
+    /* Navigation Tabs: Dark Mode */
+    .md-tabs__link {
+        color: var(--light);
+    }
+    .md-tabs__item--active .md-tabs__link {
+        color: var(--dark);
+    }
 
-    /* code text */
-    /* --md-code-fg-color: #97e4fb; */
+    /* Sidebar Navigation: Dark Mode */
+    .md-nav__link, .md-nav__title {
+        color: var(--light) !important;
+    }
+    .md-nav__link:hover {
+        color: var(--primary-alt) !important;
+    }
+}
 
-    /* code comments */
-    /* --md-code-hl-comment-color: gray; */
+/* Global Navigation Tab Formatting */
+.md-tabs__link {
+    font-weight: 700;
+    font-size: 0.9rem;
+}
 
-    /* code keywords */
-    /* --md-code-hl-keyword-color: #00A4CC; */
+/* Inline Symbols: Pacman and Arrows */
+img[src*="pacman"], img[src*="arrow"] {
+    display: inline-block !important;
+    height: 1.5em !important;
+    width: auto !important;
+    vertical-align: middle !important;
+    margin: 0 0.2em !important;
+}
 
-    /* code strings */
-    /* --md-code-hl-string-color: #01ccff; */
+/* PDF Specific Styles (Paged Media) */
+@media print {
+    @page {
+        @footnote {
+            border-top: 1px solid black;
+            padding-top: 0.5em;
+        }
+    }
 
-    /* code constant */
-    /* --md-code-hl-constant-color: #50a150; */
+    .pdf-footnote {
+        float: footnote;
+        font-size: 0.9em;
+        font-style: italic;
+        font-weight: normal;
+        line-height: 1.2;
+    }
 
-    /* code functions */
-    /* --md-code-hl-function-color: rgb(79, 171, 79); */
+    /* Hide WeasyPrint's automatic markers to use our manual source numbers */
+    .pdf-footnote::footnote-call,
+    .pdf-footnote::footnote-marker {
+        content: "";
+    }
 
-    /* code highlight to */
-    /* --md-code-hl-color: yellow; */
+    /* Style our manual markers */
+    .pdf-footnote-call {
+        font-size: 0.75em;
+        vertical-align: super;
+        line-height: 0;
+    }
+
+    .pdf-footnote-label {
+        font-weight: bold;
+        font-style: normal;
+        margin-right: 0.3em;
+    }
+}
+
+/* Hide auto-injected h1 title to avoid duplication when baselevel is used */
+.md-content h1 {
+    display: none;
+}
+
+/* Global Table Alignment, Font Size and Borders */
+.md-typeset table:not([class]), 
+.md-typeset table.grammar, 
+.md-typeset table.inflection,
+.content table {
+    width: 100% !important;
+    display: table !important;
+    table-layout: fixed !important;
+    margin-bottom: 1em !important;
+    border-collapse: collapse !important;
+    border: none !important;
+    border-top: 1px solid var(--gray) !important;
+    border-bottom: 1px solid var(--gray) !important;
+}
+
+:root {
+    /* Set the strict height for the header to keep it tiny */
+    --md-header-height: 26px !important;
+}
+
+/* Increase base font size by 1.2 for all markdown content */
+.md-typeset {
+    font-size: 1rem !important; /* Default is ~0.8rem. 1rem is significantly larger and readable */
+}
+
+/* Fix table font size to match body exactly and add horizontal borders */
+.md-typeset td, 
+.md-typeset th,
+.content td,
+.content th {
+    font-size: 1rem !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    padding: 8px !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    border: none !important;
+    border-bottom: 1px solid var(--gray-transparent) !important;
+}
+
+/* Ensure the last row has a stronger bottom border to close the table if needed, 
+   but the table itself already has a border-bottom. 
+   We'll keep the cells light. */
+
+/* Remove margin from last paragraph in table cells */
+.md-typeset td > p:last-child,
+.content td > p:last-child {
+    margin-bottom: 0 !important;
+}
+
+/* Tiny Header Styles - Let MkDocs Grid handle layout, just restrict height */
+.md-header {
+    height: var(--md-header-height) !important;
+}
+
+.md-header__inner {
+    height: var(--md-header-height) !important;
+    padding: 0 0.4rem !important;
+    align-items: center !important;
+}
+
+.md-header__title, .md-header__topic {
+    font-size: 14px !important; /* Keep header text small and fixed so it ignores zoom */
+    line-height: normal !important;
+    display: flex !important;
+    align-items: center !important; /* Vertically center the text */
+}
+
+/* Ensure the title container itself allows vertical centering */
+.md-header__title {
+    margin-left: 0;
+    align-self: center !important;
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.md-header__ellipsis {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.md-header__button.md-logo img {
+    width: 18px !important;
+    height: auto !important;
+}
+
+.md-header__button.md-icon {
+    font-size: 18px !important;
+    padding: 0 4px !important;
+    margin: 0 !important;
+    align-self: center !important; /* Center icons vertically in grid */
+    height: 100% !important;
+}
+
+/* Slim down navigation tabs - Fixed pixels */
+.md-tabs {
+    height: 32px !important;
+}
+
+.md-tabs__link {
+    line-height: 32px !important;
+    padding-top: 0 !important;
+    font-size: 13px !important;
+}
+
+/* Helper Classes */
+.align-right {
+    text-align: right !important;
+    display: block;
+}
+
+
+
+/* Web Footnote Popups */
+@media screen {
+    .footnote, .footnotes, .manual-fn-def {
+        display: none;
+    }
+
+    .footnote-wrapper {
+        position: relative;
+        display: inline-block;
+    }
+
+    .footnote-tooltip {
+        visibility: hidden;
+        position: absolute;
+        background-color: var(--light-shade);
+        color: var(--dark);
+        text-align: left;
+        padding: 12px 16px;
+        border-radius: 6px;
+        border: 1px solid var(--primary);
+        box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+        width: max-content;
+        max-width: 350px;
+        z-index: 1000;
+        font-size: 0.85rem;
+        font-weight: normal;
+        line-height: 1.5;
+        transform: translateX(-50%);
+    }
+
+    /* Fix internal paragraph margins so they don't break out of the background */
+    .footnote-tooltip p {
+        margin: 0 0 0.5em 0 !important;
+    }
+    .footnote-tooltip p:last-child {
+        margin-bottom: 0 !important;
+    }
+
+    /* Hide the automatic numbering in the tooltip content if any */
+    .footnote-tooltip li::marker,
+    .footnote-tooltip .footnote-backref {
+        display: none;
+    }
+    .footnote-tooltip li {
+        list-style: none;
+    }
+
+    /* Support for bottom-positioned tooltips */
+    .footnote-tooltip.tooltip-bottom {
+        /* JS handles top/bottom positioning */
+    }
+
+    /* Arrow for tooltip (top) */
+    .footnote-tooltip::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: var(--primary) transparent transparent transparent;
+    }
+
+    /* Arrow for tooltip (bottom) */
+    .footnote-tooltip.tooltip-bottom::after {
+        top: auto;
+        bottom: 100%;
+        border-color: transparent transparent var(--primary) transparent;
+    }
+}
+
+[data-md-color-scheme="slate"] .footnote-tooltip {
+    background-color: var(--dark-shade);
+    color: var(--light);
+}
+.md-footer-meta {    display: none !important;}
+
+.md-footer-meta {
+    display: none !important;
+}
+
+/* Make search bar background transparent in light mode */
+[data-md-color-scheme="default"] .md-search__form {
+    background-color: transparent !important;
+}
+
+/* Set search placeholder colors for better visibility */
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+    color: var(--dark) !important;
+    opacity: 1 !important;
+}
+
+[data-md-color-scheme="slate"] .md-search__input::placeholder {
+    color: var(--light) !important;
+    opacity: 1 !important;
+}
+
+/* Also ensure actual input text matches */
+[data-md-color-scheme="default"] .md-search__input {
+    color: var(--dark) !important;
+}
+
+[data-md-color-scheme="slate"] .md-search__input {
+    color: var(--light) !important;
 }
