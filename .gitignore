@@ -1,7 +1,7 @@
 .DS_Store
 website_example/
 .gemini/
-conductor/
+.claude/
 GEMINI.md
 CLAUDE.md
 __pycache__
@@ -11,6 +11,7 @@ site/
 .env
 .venv/
 archive/
+conductor/sessions/
 
 
 # Python build artifacts

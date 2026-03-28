@@ -24,3 +24,11 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
 packages = ["tools", "scripts"]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.408",
+]
+
+[tool.pytest.ini_options]
+norecursedirs = ["tests", "archive", "scripts/archive", "conductor", "site", ".venv"]

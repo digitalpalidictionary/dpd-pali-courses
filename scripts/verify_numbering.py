@@ -125,7 +125,7 @@ def main():
         print(f"\nSummary: {total_files} files checked, {failed_files} failures found.")
         exit(1)
     else:
-        print("Numbering: All good.")
+        print("[VERIFIED] Numbering: OK")
 
 if __name__ == "__main__":
     main()

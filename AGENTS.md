@@ -1,4 +1,10 @@
-# AI Context: DPD Pāḷi Courses
+# Project Rules
+
+> **Both files are always active.** The agent loads the global `~/.config/agents/AGENTS.md` and this file simultaneously. Global rules apply here too — this file only adds project-specific rules on top.
+
+These rules are specific to the DPD Pāḷi Courses project. Universal rules (security, testing, git, conductor, debugging, etc.) are now in the global `/Users/deva/.config/agents/AGENTS.md`.
+
+## Project: DPD Pāḷi Courses
 
 This project contains materials for Pāḷi language courses, specifically the DPD Beginner Pāḷi Course (BPC) and the DPD Intermediate Pāḷi Course (IPC).
 
@@ -9,7 +15,7 @@ This project contains materials for Pāḷi language courses, specifically the D
 - **Data Integrity:** All automated changes must be verified against original meaning and structure.
 
 ## Project Structure
-- `conductor/`: Local project orchestration files. **NEVER COMMIT**.
+- `conductor/`: Project orchestration files.
 - `docs/bpc/`: Beginner Pāḷi Course materials.
 - `docs/bpc_ex/`: Beginner Pāḷi Course exercises.
 - `docs/bpc_key/`: Beginner Pāḷi Course keys.
@@ -17,19 +23,19 @@ This project contains materials for Pāḷi language courses, specifically the D
 - `docs/ipc_ex/`: Intermediate Pāḷi Course exercises.
 - `docs/ipc_key/`: Intermediate Pāḷi Course keys.
 
-## Universal Workflow Policy
-This policy applies to **ALL** interactions, whether through `conductor` tracks or general CLI tasks.
+## GitHub (upstream repository)
+- Unless otherwise specified the repository in question is https://github.com/digitalpalidictionary/dpd-pali-courses.
 
-1. **Mandatory Manual Verification:** After completing a task and its automated testing, you MUST ask the user for manual verification. Never assume the task is complete based on automated checks alone.
-2. **Iterative Feedback Loop:** Expect and actively solicit user feedback. Continue addressing user concerns and making adjustments until the user is fully satisfied.
-3. **Explicit Commit Authorization:** You are strictly forbidden from committing any changes until the user explicitly provides the instruction "now commit". Do not suggest or initiate a commit prematurely.
-4. **Universality:** These rules override any default behavior or sub-agent instructions.
+## Tools/printer.py
+This module provides colored console output with timing and TSV logging.
+
+### Import
+```python
+from tools.printer import printer as pr
+```
+
+## Script Registry
+If a script is intended to be run regularly (e.g., generators, verifiers, cleanup tools), it MUST be added to the project's root README.md with a brief explanation of how to use it.
 
 ## Useful Links
 - [GitHub Project](https://github.com/orgs/digitalpalidictionary/projects/2)
-- [Design Brief](https://github.com/digitalpalidictionary/dpd-pali-courses/issues/1)
-
-## Code Documentation Policy
-1. **Mandatory File Descriptions:** Every new code file (scripts, styles, hooks, etc.) MUST include a concise description of its purpose at the top of the file.
-2. **Synchronized Descriptions:** If you modify a code file, you MUST update its description if the purpose or usage has changed.
-3. **Script Registry:** If a script is intended to be run regularly (e.g., generators, verifiers, cleanup tools), it MUST be added to the project's root README.md with a brief explanation of how to use it.

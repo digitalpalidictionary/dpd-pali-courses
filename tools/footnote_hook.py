@@ -72,19 +72,15 @@ def on_post_page(output, page, config):
     soup = BeautifulSoup(output, 'html.parser')
     for marker in soup.find_all('div', class_='manual-list-start'):
         start_val = marker.get('data-start')
-        # Robustly find the next <ol> tag by skipping other markers or empty paragraphs
-        next_ol = None
-        curr = marker.next_sibling
-        while curr:
-            if curr.name == 'ol':
-                next_ol = curr
-                break
-            if curr.name and curr.name != 'div' and curr.name != 'p': # stop if we hit another significant block
-                # However, Markdown often wraps things in P, so we keep going
-                pass
-            if curr.name == 'div' and 'manual-list-start' in curr.get('class', []):
-                break # Hit another marker
-            curr = curr.next_sibling
+        # Robustly find the next <ol> tag
+        next_ol = marker.find_next('ol')
+        
+        # Ensure the <ol> is actually related to this marker (not far away)
+        # We check if there's another marker before this <ol>
+        if next_ol:
+            prev_marker = next_ol.find_previous('div', class_='manual-list-start')
+            if prev_marker != marker:
+                next_ol = None
             
         if next_ol:
             next_ol['start'] = start_val

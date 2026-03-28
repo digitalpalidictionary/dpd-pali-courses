@@ -104,7 +104,7 @@ def main():
     if not overall_passed: 
         exit(1)
     else:
-        print("PDF Content: All good.")
+        print("[VERIFIED] PDF Content: OK")
 
 if __name__ == "__main__":
     main()
