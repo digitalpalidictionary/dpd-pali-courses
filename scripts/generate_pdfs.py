@@ -39,7 +39,7 @@ def fix_internal_links(html_content):
     """Converts relative links to internal PDF anchors."""
     soup = BeautifulSoup(html_content, 'html.parser')
     for a in soup.find_all('a', href=True):
-        href = a['href']
+        href = str(a['href'])
         if ('.md' in href) and not href.startswith('http'):
             file_part = href.split('#')[0] if '#' in href else href
             anchor_id = os.path.basename(file_part).replace('.', '_')
@@ -50,7 +50,7 @@ def fix_list_numbering(html_content):
     """Uses .manual-list-start markers to fix ordered list numbering in HTML."""
     soup = BeautifulSoup(html_content, 'html.parser')
     for marker in soup.find_all('div', class_='manual-list-start'):
-        start_val = marker.get('data-start')
+        start_val = str(marker.get('data-start') or '1')
         next_ol = marker.find_next_sibling('ol')
         if next_ol:
             next_ol['start'] = start_val
@@ -97,19 +97,31 @@ def process_footnotes_for_pdf(html_content):
     for d in defs.values(): d.decompose()
     return str(soup)
 
+def resolve_image_paths(content: str, file_path: str) -> str:
+    """Convert relative image paths to absolute so WeasyPrint can find them."""
+    file_dir = os.path.dirname(os.path.abspath(file_path))
+    def replacer(match):
+        alt, src = match.group(1), match.group(2)
+        if not src.startswith('http') and not os.path.isabs(src):
+            src = os.path.normpath(os.path.join(file_dir, src))
+        return f'![{alt}]({src})'
+    return re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', replacer, content)
+
+
 def build_html_document(title, files_data, title_md_content="", literature_md_content="", folder_type="", root_index_content=""):
     md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists', 'md_in_html', 'nl2br'])
-    
+
     def conv(t): return md.convert(pre_process_content(t))
 
     title_html = f'<div class="pdf-title-page"><h1>{title}</h1></div>'
     about_html = f'<div class="pdf-about-page">{conv(title_md_content)}</div>' if title_md_content else ""
     lit_html = f'<div class="pdf-literature-page">{conv(literature_md_content)}</div>' if literature_md_content else ""
-        
+
     full_course_html = ""
     for file_path, content in files_data:
         is_idx = os.path.basename(file_path) == 'index.md'
         c = clean_markdown_content(content)
+        c = resolve_image_paths(c, file_path)
         
         # We NO LONGER strip Class X headings for ex/key, as requested.
         # This allows Class X Exercises and Class X Extra to appear in TOC.
@@ -132,14 +144,16 @@ def build_html_document(title, files_data, title_md_content="", literature_md_co
         all_md = ""
         for file_path, content in files_data:
             all_md += pre_process_content(clean_markdown_content(content)) + "\n\n"
-        md.convert(all_md); toc_html = f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{md.toc}</div>'
+        md.convert(all_md)
+        toc = getattr(md, 'toc', '')
+        toc_html = f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{toc}</div>'
     
     full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
     full_body_html = fix_internal_links(full_body_html)
     full_body_html = fix_list_numbering(full_body_html)
     full_body_html = process_footnotes_for_pdf(full_body_html)
     
-    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{title}</title><style>.pdf-title-page, .pdf-about-page, .pdf-literature-page, .pdf-toc-page, .pdf-class-header, .pdf-topic-page {{ page-break-before: always; }} .pdf-title-page {{ page-break-before: avoid; }} .pdf-footnote-label {{ font-weight: bold; margin-right: 0.3em; }} .pdf-footnote {{ float: footnote; font-size: 0.9em; font-style: italic; }} .manual-list-start {{ display: none; }}</style></head><body>{full_body_html}</body></html>"
+    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{title}</title><style>.pdf-title-page, .pdf-about-page, .pdf-literature-page, .pdf-toc-page, .pdf-class-header, .pdf-topic-page {{ page-break-before: always; }} .pdf-title-page {{ page-break-before: avoid; }} .pdf-footnote-label {{ font-weight: bold; margin-right: 0.3em; }} .pdf-footnote {{ float: footnote; font-size: 0.9em; font-style: italic; }} .manual-list-start {{ display: none; }} p img, td img, li img {{ height: 1em; width: auto; vertical-align: middle; }}</style></head><body>{full_body_html}</body></html>"
 
 def get_markdown_files(docs_dir: str):
     mkdocs_yaml_path = "mkdocs.yaml"

@@ -28,6 +28,7 @@ All tasks follow a strict lifecycle:
 6. **Completion:**
    - Mark task as complete `[x]` in `plan.md`
    - Do NOT commit yet
+   - Once user says "track finished", move it to `conductor/archive/` and remove from `tracks.md`
 
 ## Quality Gates
 
@@ -53,6 +54,7 @@ Once ALL tasks in a track are complete:
    git commit -m "conductor: <description of track>"
    ```
 4. **Archive:** Move completed track to `conductor/archive/`
+5. **Update Registry:** Remove track from `tracks.md`
 
 ## Cross-Agent Handoff
 

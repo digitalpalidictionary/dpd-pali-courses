@@ -11,6 +11,7 @@ Quick reference for invoking conductor actions across different agents.
 | **Review** | `/conductor:review` | "review" or "conductor review" | Tests + code review against spec |
 | **Revert** | `/conductor:revert` | "revert" or "undo" | Uses git revert (conductor/ is versioned) |
 | **Good Night** | manual + `handoff.md` | "good night" | Session summary → session log + handoff |
+| **Compleat** | manual | "complete" or "finished" | Summaries session, move track to conductor/archive , completely remove track from tracks.md |
 
 ## Default Behavior
 

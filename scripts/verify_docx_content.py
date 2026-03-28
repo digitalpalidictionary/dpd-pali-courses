@@ -36,27 +36,41 @@ def verify_docx(docx_path, original_md_paths):
     for md_path in original_md_paths:
         with open(md_path, "r", encoding="utf-8") as f:
             content = f.read()
-            # Basic check for key fragments
-            # We take some unique-ish lines from the MD
-            lines = [l.strip() for l in content.split("\n") if len(l.strip()) > 20 and not l.strip().startswith("<")]
+            
+            # Extract potential text fragments for verification
+            # 1. Headers
+            headers = [l.strip("# ").strip() for l in content.split("\n") if l.strip().startswith("#")]
+            # 2. Paragraphs
+            paragraphs = [l.strip() for l in content.split("\n") if len(l.strip()) > 15 and not l.strip().startswith(("<", "|", "#"))]
+            # 3. Table cells (for table-only files)
+            cells = []
+            if "|" in content:
+                for line in content.split("\n"):
+                    if "|" in line:
+                        parts = [p.strip() for p in line.split("|") if p.strip() and not all(c in "-:| " for c in p.strip())]
+                        cells.extend([p for p in parts if len(p) > 10])
+
+            # Combine all candidates, prioritizing paragraphs then headers then cells
+            candidates = paragraphs + headers + cells
             
             found = False
-            for line in lines[:5]: # Check first 5 significant lines
+            # Check up to 15 candidates for robustness
+            for cand in candidates[:15]:
+                # Remove MD attributes like {: #id}
+                clean_cand = re.sub(r'\{: #[^}]+\}', '', cand)
                 # Remove MD formatting: links, bold, italics, footnotes
-                clean_line = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', line) # links
-                clean_line = re.sub(r'\*\*([^*]+)\*\*', r'\1', clean_line) # bold
-                clean_line = re.sub(r'\*([^*]+)\*', r'\1', clean_line) # italics
-                clean_line = re.sub(r'__([^_]+)__', r'\1', clean_line) # bold
-                clean_line = re.sub(r'_([^_]+)_', r'\1', clean_line) # italics
-                clean_line = re.sub(r'\[\^[^\]]+\]', '', clean_line) # footnotes
-                clean_line = re.sub(r'^\s*(\d+\.|[-*+])\s+', '', clean_line) # list markers
-                clean_line = clean_line.replace("<br>", "").replace("&nbsp;", " ").strip()
+                clean_cand = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', clean_cand) # links
+                clean_cand = clean_cand.replace('**', '').replace('*', '').replace('__', '').replace('_', '')
+                clean_cand = re.sub(r'\[\^[^\]]+\]', '', clean_cand) # footnotes
+                clean_cand = re.sub(r'^\s*(\d+\.|[-*+])\s+', '', clean_cand) # list markers
+                clean_cand = clean_cand.replace("<br>", "").replace("&nbsp;", " ").replace("<br/>", "").strip()
                 
-                if clean_line in docx_text_clean:
+                # Check if this cleaned candidate is in the DOCX
+                if len(clean_cand) > 8 and clean_cand in docx_text_clean:
                     found = True
                     break
             
-            if not found and lines:
+            if not found and candidates:
                 missing_files.append(md_path)
                 
     if missing_files:
@@ -107,7 +121,7 @@ def main():
                 all_success = False
                 
     if all_success:
-        print("DOCX Content: All good.")
+        print("[VERIFIED] DOCX Content: OK")
     else:
         sys.exit(1)
 
