@@ -21,7 +21,7 @@ IPC_INFO = [
     {"name": "IPC Key to Exercises", "url": "https://docs.google.com/document/d/1AXSKpmYYuiinQYTBJ133rMZJc53qbZSLr_7UE-syofg/"},
 ]
 
-OUTPUT_BASE_DIR = "output_documents"  # Base directory for all generated files
+OUTPUT_BASE_DIR = "sources"  # Base directory for all generated files
 # Updated ZIP Filenames
 BPC_PDF_ZIP_FILENAME = "beginner_pali_course_pdfs.zip"
 BPC_DOCX_ZIP_FILENAME = "beginner_pali_course_docx.zip"

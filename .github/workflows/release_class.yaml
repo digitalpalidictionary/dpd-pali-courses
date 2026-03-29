@@ -1,0 +1,88 @@
+name: Generate and Release Documents
+
+on:
+  push:
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
+
+jobs:
+  generate-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      OUTPUT_DIR: output_documents
+      BPC_PDF_ARCHIVE: beginner_pali_course_pdfs.zip
+      BPC_DOCX_ARCHIVE: beginner_pali_course_docx.zip
+      IPC_PDF_ARCHIVE: intermediate_pali_course_pdfs.zip
+      IPC_DOCX_ARCHIVE: intermediate_pali_course_docx.zip
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 pandoc
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Run pre-processing
+        run: bash scripts/pre_proccessing.sh
+
+      - name: Generate PDFs
+        run: uv run python scripts/generate_pdfs.py
+
+      - name: Generate DOCX files
+        run: uv run python scripts/generate_docx.py
+
+      - name: Create archives
+        run: |
+          mkdir -p ${{ env.OUTPUT_DIR }}
+          cd pdf_exports
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }} bpc.pdf bpc_ex.pdf bpc_key.pdf
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }} ipc.pdf ipc_ex.pdf ipc_key.pdf
+          cd ../docx_exports
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }} bpc.docx bpc_ex.docx bpc_key.docx
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }} ipc.docx ipc_ex.docx ipc_key.docx
+
+      - name: Get latest release tag
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LATEST_TAG=$(gh release view --json tagName -q .tagName || echo "")
+          echo "LATEST_TAG=$LATEST_TAG" >> $GITHUB_ENV
+
+      - name: Upload archives to Latest Release
+        if: env.LATEST_TAG != ''
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.LATEST_TAG }}
+          name: "Pāli Course Documents — ${{ env.LATEST_TAG }}"
+          body: |
+            Course documents generated from latest source files.
+
+            **Beginner Pāli Course**
+            - PDF archive: `${{ env.BPC_PDF_ARCHIVE }}`
+            - DOCX archive: `${{ env.BPC_DOCX_ARCHIVE }}`
+
+            **Intermediate Pāli Course**
+            - PDF archive: `${{ env.IPC_PDF_ARCHIVE }}`
+            - DOCX archive: `${{ env.IPC_DOCX_ARCHIVE }}`
+          files: |
+            ${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -27,11 +27,8 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
-      - name: Run custom scripts
-        run: |
-          export PYTHONPATH=$PYTHONPATH:.
-          uv run python scripts/update_css.py
-          uv run python scripts/generate_indexes.py
+      - name: Run pre-processing
+        run: bash scripts/pre_proccessing.sh
 
       - name: Build site
         run: uv run mkdocs build

@@ -260,7 +260,7 @@
 | ūno | adj | masc.nom.sg | deficient; lacking |  |
 | vīsatigaṇo | noun | masc.nom.sg | group of twenty | digu as bahubbīhi |
 | \#vīsati | card | fem.nom.sg | twenty |  |
-| \#gaṇo | noun | masc.nom.sg | group[^41] |  |
+| \#gaṇo | noun | masc.nom.sg | group[^42] |  |
 | bhikkhusaṅgho | noun | masc.nom.sg | community of monks | chaṭṭhī tappurisa |
 | \#bhikkhūnaṃ | noun | masc.gen.pl | of monks |  |
 | \#saṅgho | noun | masc.nom.sg | community |  |
@@ -312,7 +312,7 @@
 
 [^40]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.
 [^41]: "should be dealt with by way of a certain of three rules"
-[^41]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"
+[^42]: Here in special sense of "a group within a Buddhist saṅgha; an assemblage of bhikkhus for carrying out formal acts, a quorum"
 
 ## Class 27 Extra Examples
 
@@ -354,7 +354,7 @@
 | \#avuso | noun | masc.nom.sg | friend |  |
 | āyusaṅkhārā | noun | masc.nom.pl | conditions for life; life force(s) |  |
 | \#āyu | noun | nt. | life |  |
-| \#saṅkhārā | noun | masc.nom.pl | conditioned things; condition; fabrication[^42] |  |
+| \#saṅkhārā | noun | masc.nom.pl | conditioned things; condition; fabrication[^43] |  |
 | abhaviṃsu | verb | aor.3rd.pl | they were | a + √bhū + a + i |
 | te | pron | masc.nom.pl | those |  |
 | **vedaniyā** | ptp | masc.nom.pl | could be felt; could be experienced (lit: to be felt) | √vid + \*aniya |
@@ -417,7 +417,7 @@
 | n'esa | sandhi |  | this [is] not |  |
 | \#na | ind | neg | not |  |
 | \#esa | pron | masc.nom.sg | this |  |
-| dhammo | noun | masc.nom.sg | principle[^43] |  |
+| dhammo | noun | masc.nom.sg | principle[^44] |  |
 | gāth'ābhigītaṃ | noun | adj.nt.acc | chanted over with verses |  |
 | panudanti | verb | pr.3rd.pl | dispel; drive out; reject | pa + √nud + a + ti |
 | buddhā | noun | masc.nom.pl | the Awakened Ones |  |
@@ -428,7 +428,7 @@
 | \#vutti | noun | fem.nom.sg | way of life |  |
 | \#esā | pron | fem.nom.sg | this is |  |
 
-**[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^44] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^45], Brahmin, this is [their] way of life.**
+**[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^45] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^46], Brahmin, this is [their] way of life.**
 
 5. [SNP42](https://find.dhamma.gift/bw/snp/snp4.4.html)<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
 
@@ -457,7 +457,7 @@
 
 **If through the seeing there is a man’s purity,<br>or through knowledge he abandons suffering, <br>then he is purified by another, being with attachments. <br>the one with view revealed him as one who asserts thus.**
 
-[^42]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.
-[^43]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.
-[^44]: alt. "the right way for those who are seeing".
-[^45]: alt. "as that is/that being the right way".
+[^43]: Although Cone has not reaches the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.
+[^44]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.
+[^45]: alt. "the right way for those who are seeing".
+[^46]: alt. "as that is/that being the right way".
