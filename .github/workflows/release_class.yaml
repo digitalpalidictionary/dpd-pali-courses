@@ -38,7 +38,7 @@ jobs:
         run: uv sync --frozen
 
       - name: Run pre-processing
-        run: bash scripts/pre_proccessing.sh
+        run: bash scripts/pdf_preprocessing.sh
 
       - name: Generate PDFs
         run: uv run python scripts/generate_pdfs.py

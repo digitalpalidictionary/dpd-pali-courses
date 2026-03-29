@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
+# Pre-processing steps required before generating PDF and DOCX documents.
 
 set -e
 
-echo "Starting Pre-Processing for Pāḷi Courses build..."
+echo "Starting PDF/DOCX pre-processing..."
 
 echo "1. Generating/Updating mkdocs.yaml..."
 uv run python scripts/generate_mkdocs_yaml.py
@@ -16,17 +17,6 @@ uv run python scripts/renumber_footnotes.py
 echo "4. Cleaning dead links..."
 uv run python scripts/clean_dead_links.py
 
-echo "5. Generating index pages..."
-export PYTHONPATH=$PYTHONPATH:.
-uv run python scripts/generate_indexes.py
-
-echo "6. Updating CSS..."
-uv run python scripts/update_css.py
-
-echo "7. Verifying numbers..."
-uv run python scripts/verify_numbering.py
-
 echo ""
-echo "All pre-processing complete!"
+echo "PDF/DOCX pre-processing complete!"
 echo ""
-

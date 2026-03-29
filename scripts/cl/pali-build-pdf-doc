@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+echo "Starting DPD Pāḷi Courses PDF/DOCX build process..."
+
+# Define the project root directory relative to the script location
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." >/dev/null 2>&1 && pwd)"
+
+# Change to the project root
+cd "$PROJECT_ROOT" || exit 1
+
+uv run bash scripts/pdf_preprocessing.sh
+
+echo "Generating PDFs..."
+uv run python scripts/generate_pdfs.py
+
+echo "Generating DOCX files..."
+uv run python scripts/generate_docx.py
+
+echo ""
+echo "PDF/DOCX build complete!"
+echo ""

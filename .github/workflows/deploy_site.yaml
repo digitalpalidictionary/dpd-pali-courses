@@ -28,7 +28,7 @@ jobs:
         run: uv sync --frozen
 
       - name: Run pre-processing
-        run: bash scripts/pre_proccessing.sh
+        run: bash scripts/web_preprocessing.sh
 
       - name: Build site
         run: uv run mkdocs build

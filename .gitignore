@@ -12,6 +12,7 @@ site/
 .venv/
 archive/
 conductor/sessions/
+sources/
 
 
 # Python build artifacts

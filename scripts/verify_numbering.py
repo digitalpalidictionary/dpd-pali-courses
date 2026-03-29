@@ -8,7 +8,7 @@ import argparse
 import glob
 import unicodedata
 from bs4 import BeautifulSoup
-from pdfminer.high_level import extract_text
+from pypdf import PdfReader
 
 def normalize_pali(text):
     if not text: return ""
@@ -98,10 +98,17 @@ def main():
     pdf_texts = {}
     for pdf_name in ['bpc.pdf', 'bpc_ex.pdf', 'bpc_key.pdf', 'ipc.pdf', 'ipc_ex.pdf', 'ipc_key.pdf']:
         path = os.path.join("pdf_exports", pdf_name)
-        if os.path.exists(path):
-            raw = extract_text(path)
-            # Remove whitespace but KEEP numbers and dots
-            pdf_texts[pdf_name.split('.')[0]] = re.sub(r'\s+', '', raw)
+        if not os.path.exists(path):
+            continue
+        folder_name = pdf_name.split('.')[0]
+        md_files = glob.glob(f"docs/{folder_name}/**/*.md", recursive=True)
+        if md_files and max(os.path.getmtime(f) for f in md_files) > os.path.getmtime(path):
+            print(f"[SKIP] {pdf_name}: PDF is older than source files — regenerate to verify")
+            continue
+        reader = PdfReader(path)
+        raw = "\n".join(page.extract_text() or "" for page in reader.pages)
+        # Remove whitespace but KEEP numbers and dots
+        pdf_texts[folder_name] = re.sub(r'\s+', '', raw)
 
     files = glob.glob("docs/**/*.md", recursive=True)
     total_files = 0; failed_files = 0
