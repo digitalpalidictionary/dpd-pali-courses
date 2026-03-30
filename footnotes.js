@@ -105,4 +105,15 @@ document.addEventListener("DOMContentLoaded", function() {
             thead.style.display = "none";
         }
     });
+
+    // Make site title in header a link to the homepage
+    const logoLink = document.querySelector("a.md-header__button.md-logo");
+    const titleEllipsis = document.querySelector(".md-header__title .md-ellipsis");
+    if (titleEllipsis && logoLink) {
+        const link = document.createElement("a");
+        link.href = logoLink.href;
+        link.style.cssText = "color:inherit;text-decoration:none;cursor:pointer;";
+        titleEllipsis.parentNode.replaceChild(link, titleEllipsis);
+        link.appendChild(titleEllipsis);
+    }
 });

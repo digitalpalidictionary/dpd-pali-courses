@@ -395,17 +395,6 @@ img[src*="pacman"], img[src*="arrow"] {
     height: 100% !important;
 }
 
-/* Slim down navigation tabs - Fixed pixels */
-.md-tabs {
-    height: 32px !important;
-}
-
-.md-tabs__link {
-    line-height: 32px !important;
-    padding-top: 0 !important;
-    font-size: 13px !important;
-}
-
 /* Helper Classes */
 .align-right {
     text-align: right !important;
