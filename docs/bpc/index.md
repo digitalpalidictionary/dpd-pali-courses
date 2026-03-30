@@ -31,6 +31,8 @@
 - [Root Group 7 – tanādigaṇa](class_4/8_root_7.md)
 - [Masculine Noun ending in -i](class_4/9_masc_i.md)
 - [The Aorist or Past Tense (ajjatanī)](class_4/10_aor.md)
+- [Irregular verb √as (be)](class_4/11_root_as.md)
+- [Irregular verb √hū (be)](class_4/12_root_huu.md)
 
 ## [Class 5](class_5/index.md)
 - [Personal Pronouns](class_5/2_pers_pron.md)
@@ -69,7 +71,7 @@
 - [Pronouns (sabbanāma)](class_10/3_pron.md)
 - [Definite and indefinite article](class_10/4_article.md)
 - [Emphatic particle](class_10/5_emph.md)
-- [Locative Absolute](class_10/6_loc_gen_abs.md)
+- [Locative and Genitive Absolute](class_10/6_loc_gen_abs.md)
 
 ## [Class 11](class_11/index.md)
 - [(Passive) Past Participles](class_11/2_pp.md)

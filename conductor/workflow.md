@@ -6,7 +6,11 @@
 2. **Single Commit per Track:** Do NOT commit per task. Do NOT use git notes per task. Record task completion only in plan.md status markers.
 3. **Task Sequentiality:** Choose the next available task from `plan.md` in sequential order
 4. **Test-Driven Development:** Write tests before implementation
-5. **Data Preservation:** Never remove data from `docs/` folder. Only rearrange content without loss.
+
+<!-- LOCAL-START: Local Principles -->
+5. **Data Preservation:** Never remove data from `docs/` folder. Only rearrange content without loss. And never edit `docs/` files directly. All changes must be made via scripts or build hooks to ensure data integrity.
+6. **Clean Markdown Sources:** Keep `.md` files extremely user-friendly and focused on content
+<!-- LOCAL-END: Local Principles -->
 
 ## Task Lifecycle (TDD)
 
@@ -42,50 +46,6 @@ Before marking any task complete, verify:
 - [ ] Data integrity preserved (no data removed from `docs/`)
 - [ ] No linting or static analysis errors
 
-## Track Completion
-
-Once ALL tasks in a track are complete:
-
-1. **Final Verification:** Run full test suite: `uv run pytest`
-2. **Manual Review:** Ask the user for final manual review of all changes
-3. **"Now Commit" Protocol:** Perform the single commit ONLY after user explicitly says **"now commit"**
-   ```bash
-   git add .
-   git commit -m "conductor: <description of track>"
-   ```
-4. **Archive:** Move completed track to `conductor/archive/`
-5. **Update Registry:** Remove track from `tracks.md`
-
-## Cross-Agent Handoff
-
-When ending a session where another agent will continue:
-
-1. Run any verification scripts relevant to the work done this session. Document failures, noise, or known mismatches in `handoff.md` — do not leave the next agent to discover them.
-2. Update `handoff.md` with:
-   - What was done this session
-   - Code state (all tests passing? uncommitted changes?)
-   - Current task in `plan.md`
-   - Any blockers or gotchas for next agent
-3. Update session log: `conductor/sessions/YYYY-MM-DD-{agent}.md` with summary, including an `## Issues & AI Feedback` section (see format below)
-4. Note in handoff which agent is expected to continue (Claude or Gemini)
-
-### Session Log — Issues Section Format
-
-Every session log must include this section:
-
-```markdown
-## Issues & AI Feedback
-- [REPEATED] User had to remind AI not to commit without permission
-- [WORKFLOW] AI skipped reading NOTES.md at session start
-- [CONFUSION] AI misread track status markers
-- [BEHAVIOR] AI added comments to code it didn't change
-- [POSITIVE] Fish wrapper approach worked well — worth propagating
-```
-
-Tags: `[REPEATED]` re-stated rule · `[WORKFLOW]` process friction · `[CONFUSION]` misunderstanding · `[BEHAVIOR]` rule violation or missed action · `[POSITIVE]` something that worked well
-
-Write `- None this session` if there were no issues.
-
 ## Review Protocol
 
 When reviewing a track's implementation:
@@ -117,21 +77,6 @@ Every track folder must contain:
 - **plan.md** — implementation plan with `[ ]`/`[~]`/`[x]` status markers
 - **handoff.md** — cross-session state (created on first session end)
 
-## Development Commands
-
-### Testing & Validation
-```bash
-uv run pytest                    # Run tests
-uv run pytest --tb=short -q     # Run tests (short output)
-uv run pyright <file>           # Type checking for a file
-uv run mkdocs build             # Build documentation, output to site/
-```
-
-### Building
-```bash
-uv run mkdocs serve             # Serve docs locally for review (http://localhost:8000)
-```
-
 ## Definition of Done
 
 A track is complete when:
@@ -142,4 +87,18 @@ A track is complete when:
 4. Code reviewed (internal or external tools)
 5. User has approved all changes
 6. Single atomic commit created with "now commit"
-7. Track archived to `conductor/archive/`
+7. Track archived to `conductor/archive/`, this folder NEVER committed to git, it is only for internal record keeping.
+
+## Skills
+
+Suggest appropriate skill to run for user's current context and workflow stage. For example:
+
+| Skill | Description |
+|---|---|
+| `/conductor-new-track` | Create a new track for planning a feature or task |
+| `/conductor-continue` | Resume work on an in-progress track |
+| `/conductor-review` | Review implementation against spec and quality gates |
+| `/conductor-complete` | Finish, archive, and close a track (coderabbit → fix → test → archive) |
+| `/conductor-goodnight` | End-of-session protocol — write session log, optionally update handoff |
+| `/conductor-sync` | Sync Conductor workflow across all registered projects |
+| `/conductor-fix` | Run ruff and pyright on a script, then fix all reported errors |

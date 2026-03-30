@@ -1,4 +1,8 @@
-# Locative Absolute
+# Locative and Genitive Absolute
+
+This is a special construction in which a **noun** or **pronoun** in the **locative** or **genitive** case is used with a **participle** in the same case as itself. It can be translated as **"when", "while", "since", "as"**, etc. depending on the context.
+
+## Locative Absolute
 
 When a **noun** or a **pronoun** in the **locative** case is used with a **participle** in the same case as itself, the construction is called Locative Absolute.
 

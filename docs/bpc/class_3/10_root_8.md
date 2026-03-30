@@ -49,3 +49,12 @@ mantaya + ti \> mantayati (he advises)
 | 3rd | dhāraya**ti** | he carries | dhāraya**nti** | they carry |
 | 2nd | dhāraya**si** | you carry | dhāraya**tha** | you all carry |
 | 1st | dhāray**āmi** | I carry | dhāray**āma** | we carry |
+
+---
+
+And now let’s reread the definition:
+
+*“**Conjugation**, or the inflection of verbs, consists in making the verbal root undergo **certain changes in form**, by the addition to it of certain **prefixes** and **terminations** to show the difference of **Voice**, of **Tense**, of **Mode**, of **Person**, and of **Number**.”*
+
+\- Charles Duroiselle
+{: .align-right }

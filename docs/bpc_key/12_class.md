@@ -346,14 +346,14 @@
 | pāṇānaṃ | noun | masc.dat.pl | for living beings (lit: breath) | √an･1 a (breath, blow) |
 | sahassānaṃ | card | nt.dat.pl | for one thousand |  |
 | tasmiṃ | pron | nt.loc.sg | in that |  |
-| eva | ind | emph | only; just |  |
-| āsane | noun | nt.loc.sg | in place (lit: seat) | √ās･1 a (sit) |
+| eva | ind | emph | only; just; very |  |
+| āsane | noun | nt.loc.sg | in seat; fig. in place | √ās･1 a (sit) |
 | virajaṃ | adj | nt.acc.sg | pure; stainless; untainted | √raj･1 a (colour) |
 | vītamalaṃ | adj | nt.acc.sg | spotless |  |
 | dhammacakkhuṃ | noun | nt.nom.sg | understanding of the way things are; insight into the nature of reality; lit. Dhamma eye |  |
 | udapādi | verb | aor.3rd.sg | arose | √pad･3 ya (go, step) |
 
-**Similarly, spotless, untainted insight into the nature of reality arose for those eighty-four thousand beings just in that place.**
+**Similarly, spotless, untainted insight into the nature of reality arose for those eighty-four thousand beings just in that very place.**
 
 17. [AN10.8](https://find.dhamma.gift/bw/an/an10.8.html) <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
 

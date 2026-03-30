@@ -1,6 +1,6 @@
 # Review
 
-1.  catubbhi vātehi asampakampeyya
+1.  catūhi vātehi asampakampeyya
 
 [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) (modif)
 {: .align-right }

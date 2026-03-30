@@ -10,9 +10,9 @@ kahāpaṇāna = 4 pāda
 
 1 pāda = 5 māsaka
 
-**Fun Indo-European Etymology Story[^25]**
+**Fun Indo-European Etymology Story[^26]**
 
-[^25]: Please understand that this is meant as a humorous element.
+[^26]: Please understand that this is meant as a humorous element.
 
 The Sanskrit word for kahāpaṇāna is *kārṣāpaṇa*.
 

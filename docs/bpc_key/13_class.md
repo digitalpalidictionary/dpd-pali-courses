@@ -28,7 +28,7 @@
 
 **He touches the earth evenly with the entire sole of [his] foot**
 
-2. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyan'ti. so saṇikaṃ gaccheyya
+2. [MN20](https://find.dhamma.gift/bw/mn/mn20.html) <br>kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmi'ti. so saṇikaṃ gaccheyya
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@
 |---|---|---|---|---|
 | yaṃnūn'āhaṃ | idiom | pron+ind+pron 1st.nom.sg | what if I |  |
 | saṇikaṃ | ind | adv | slowly |  |
-| gaccheyyaṃ | verb | opt.1st.sg | I should go | √gam･1 a (go) |
+| gaccheyyāmi | verb | opt.1st.sg | I should go | √gam･1 a (go) |
 | ‘ti | ind | quote | "" |  |
 
 **"What if I were to go slowly?"**

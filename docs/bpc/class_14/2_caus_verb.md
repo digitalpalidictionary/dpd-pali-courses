@@ -150,13 +150,13 @@ This can be tricky sometimes because if you translate every causative verb as �
 
 rājā dāse pāsādaṃ **kārāpeti**
 
-The king **causes** the slaves **to build** a mansion.
+The king **causes** the servants **to build** a mansion.
 
-The king **makes** the slaves **build** a mansion.
+The king **makes** the servants **build** a mansion.
 
-The king **gets** the slaves **to build** a mansion.
+The king **gets** the servants **to build** a mansion.
 
-The king **has** a mansion **built** by the slaves.
+The king **has** a mansion **built** by the servants.
 
 Some causative verbs have natural English equivalents
 

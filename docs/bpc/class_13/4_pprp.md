@@ -39,8 +39,9 @@ All verbal endings that you have dealt with thus far have been **parassapada** �
 
 In English, these are called **reflexive** **verbs**, or the **middle** **voice**.
 
-They are translated as **he himself**, **they themselves** etc.
+They are literally translated as **he himself**, **they themselves** etc.
 
 This form of the verb, while common in Sanskrit, has mostly died out in Pāli prose, but it is still commonly used in **idioms** and **verse**.
 
-I would just like to introduce the idea to you at this stage, we will look at the full implications of this in the Intermediate Pāli Course, namely that every form of the verb that you have learned so far has an *attanopada* and *parassapada* endings.
+Now, this idea, introduced only lightly at this stage, will be fully explored in the Intermediate Pāli Course.
+Specifically, it will be explained that every verb you’ve learned so far has both an *attanopada* and *parassapada* endings.

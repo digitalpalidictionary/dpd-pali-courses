@@ -1,4 +1,4 @@
-# Dvanda Samāsa
+# Dvanda Samāsa or Copulative Compounds
 
 “twin compounds” or “copulative compounds”
 

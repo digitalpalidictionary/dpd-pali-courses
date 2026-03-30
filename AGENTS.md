@@ -37,5 +37,8 @@ from tools.printer import printer as pr
 ## Script Registry
 If a script is intended to be run regularly (e.g., generators, verifiers, cleanup tools), it MUST be added to the project's root README.md with a brief explanation of how to use it.
 
+## CLI Scripts (`scripts/cl/`)
+All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immediately after creation.
+
 ## Useful Links
 - [GitHub Project](https://github.com/orgs/digitalpalidictionary/projects/2)

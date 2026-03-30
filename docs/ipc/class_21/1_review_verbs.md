@@ -1,4 +1,4 @@
-# Revision of Verbs
+# Review of Verbs
 
 1.  How is a verb formed in Pāli?
 

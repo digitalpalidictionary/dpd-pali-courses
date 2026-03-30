@@ -12,4 +12,3 @@
 ## Management
 - [Tracks Registry](./tracks.md)
 - [Tracks Directory](./tracks/)
-- [Commands Reference](./commands.md)

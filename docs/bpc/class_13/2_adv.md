@@ -40,7 +40,7 @@ and a very large number of others.
 | sāya | noun | evening | sāy**aṃ** | adv | in the evening |
 | sukha | adj | easy | sukh**aṃ** | adv | easily |
 | tatiya | ordin | third | tatiy**aṃ** | adv | for third time |
-| uddha | adj | upper | uddh**aṃ** | adv | upwards |
+| uddha | adj | upper | uddh**aṃ** | adv | upwards, above |
 
 Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 
@@ -57,7 +57,7 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | abhūta | adj | untrue | abhūt**ena** | adv | untruthfully |
-| antara | adj | between | antar**ena** | adv | in-between |
+| antara | adj | space between | antar**ena** | adv | in-between |
 | anupubba | adj | gradual | anupubb**ena** | adv | gradually |
 | cira | adj | long (time) | cir**ena** | adv | after a long time |
 | dhamma | noun | law | dhamm**ena** | adv | lawfully |

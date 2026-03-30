@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Generate PDF and DOCX documents from Markdown source files with automatic pre-processing.
 
 echo "Starting DPD Pāḷi Courses PDF/DOCX build process..."
 

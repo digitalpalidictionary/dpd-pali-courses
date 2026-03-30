@@ -10,7 +10,7 @@ e.g. pañc**a** + **kh**anda \> pañca**kkh**andha
 
 In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
-(29) **vagge** **ghosāghosānaṃ tatiyapaṭhamā**.
+(29) **vagge ghosāghosānaṃ tatiyapaṭhamā**.
 
 **vowel + k**
 

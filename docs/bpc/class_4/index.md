@@ -10,4 +10,6 @@
 - [Root Group 7 – tanādigaṇa](8_root_7.md)
 - [Masculine Noun ending in -i](9_masc_i.md)
 - [The Aorist or Past Tense (ajjatanī)](10_aor.md)
+- [Irregular verb √as (be)](11_root_as.md)
+- [Irregular verb √hū (be)](12_root_huu.md)
 - [Homeless work](13_home_work.md)

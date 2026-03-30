@@ -13,6 +13,9 @@ site/
 archive/
 conductor/sessions/
 sources/
+agents
+memory
+skills
 
 
 # Python build artifacts

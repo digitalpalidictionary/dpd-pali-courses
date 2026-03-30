@@ -157,8 +157,8 @@ DPD is based on the study of hundreds of verbal forms found throughout the Tipi�
 
 -   Ongoing or contemporaneous actions — **gerunds**, typically ending in **-ya**, **-iya**, **-eyya**, etc.
 
-    In some context **gerands** can be translated same as **absolutives** - as completed actions.
-
+    In some contexts **gerunds** can be translated the same as **absolutives** - as completed actions.
+    
 *(clear example free from interpretations which can not be doubt)*
 
 The commentaries, of course, regularly gloss verbs ending in **-ya** with equivalent **-tvā** forms, without making any explicit distinction between them.

@@ -1,6 +1,6 @@
-less frequent *kita*:
+# Less Frequent *kita*
 
-# tar
+## tar
 
 |  |  |
 |---|---|

@@ -52,7 +52,7 @@
 - [Kammadhāraya or Adjectival Compounds](class_19/2_kamm.md)
 - [Digu-samāsa or Numerical Compounds](class_19/3_digu.md)
 - [Tappurisa-samāsa or Case Compounds](class_19/4_tap.md)
-- [Dvanda Samāsa](class_19/5_dvanda.md)
+- [Dvanda Samāsa or Copulative Compounds](class_19/5_dvanda.md)
 - [General “Rules” for Compounds](class_19/6_comp_rules.md)
 - [Please translate and determine the](class_19/7_ex.md)
 
@@ -64,7 +64,6 @@
 - [Please translate and determine the compound type of the following:](class_20/5_ex.md)
 
 ## [Class 21](class_21/index.md)
-- [Revision of Verbs](class_21/1_revision.md)
 - [Three Voices: Active, Reflexive and Passive](class_21/2_voices.md)
 - [Passive Reflexive](class_21/3_pass_refl.md)
 - [Present Tense (vattamānā)](class_21/4_pres.md)
@@ -133,4 +132,4 @@
 
 ## [Class 28](class_28/index.md)
 - [More Primary Derivatives](class_28/1_kita_1.md)
-- [less frequent kita:](class_28/2_kita_less.md)
+- [Less Frequent kita](class_28/2_kita_less.md)

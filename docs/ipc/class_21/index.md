@@ -1,6 +1,6 @@
 # Class 21
 
-- [Revision of Verbs](1_revision.md)
+- [Review of Verbs](1_review_verbs.md)
 - [Three Voices: Active, Reflexive and Passive](2_voices.md)
 - [Passive Reflexive](3_pass_refl.md)
 - [Present Tense (vattamānā)](4_pres.md)

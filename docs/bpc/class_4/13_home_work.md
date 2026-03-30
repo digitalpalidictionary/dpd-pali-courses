@@ -1,6 +1,6 @@
 # Homeless work
 
-1. Exercises for class
+1. Exercises for class 4
 2. Watch videos regarding how to use DPR, TPR and find 5 sentences in DPR / TPR using [vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) from class 4 (see vocab-for-classes.xlsx sheet class4) (video find-words-dpr.mkv may help you). Please find two or more words in a single sentence, following the method from the video.
 3. Learn the vocabulary from class 4 using Anki Deck “Vocab Pāli Class”
 4. Learn conjugations and declinations from class 4 “Grammar Pāli Class”

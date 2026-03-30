@@ -1,6 +1,6 @@
 # Conjugation of Verbs
 
-*“***Conjugation***, or the inflection of verbs, consists in making the verbal root undergo* **certain changes in form***, by the addition to it of certain* **prefixes** *and* **terminations** *to show the difference of* **Voice***, of* **Tense***, of* **Mode***, of* **Person***, and of* **Number***.”*
+*“**Conjugation**, or the inflection of verbs, consists in making the verbal root undergo **certain changes in form**, by the addition to it of certain **prefixes** and **terminations** to show the difference of **Voice**, of **Tense**, of **Mode**, of **Person**, and of **Number**.”*
 
 \- Charles Duroiselle
 {: .align-right }

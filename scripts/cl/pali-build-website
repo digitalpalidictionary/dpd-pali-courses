@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Build and serve the DPD Pāḷi Courses website locally with MkDocs, running all pre-processing steps automatically.
 
 echo "Starting DPD Pāḷi Courses build process..."
 

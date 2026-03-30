@@ -14,4 +14,8 @@
 
 ## How to progress with Pāli from here
 
-please check out our recommendation on [**Advanced Pāli**](https://sasanarakkha.github.io/study-tools/pali-class-adv.html)
+Please check out our recommendation on [**Advanced Pāli**](https://sasanarakkha.github.io/study-tools/pali-class/pali-class-adv.html)
+
+## Feedback
+
+Please provide your feedback on this course using the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeCZ01pgGSYZDO7c1p7L5ciQfg1gEPIEx1g0RgPaCxSY_fQcg/viewform), your corrections and suggestions will be highly appreciated, and will help us to improve the course for future students.

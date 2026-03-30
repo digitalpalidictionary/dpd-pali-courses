@@ -29,6 +29,7 @@ packages = ["tools", "scripts"]
 [dependency-groups]
 dev = [
     "pyright>=1.1.408",
+    "ruff>=0.15.8",
 ]
 
 [tool.pytest.ini_options]

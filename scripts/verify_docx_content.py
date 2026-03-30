@@ -109,8 +109,12 @@ def main():
     
     for file_path in all_files:
         rel = os.path.relpath(file_path, docs_dir)
-        folder = rel.split(os.sep)[0]
+        parts = rel.split(os.sep)
+        folder = parts[0]
         if folder in f_by_dir and os.path.exists(file_path):
+            # Consistent with generate_docx.py: skip folder-level index.md for _ex and _key
+            if folder.endswith(('_ex', '_key')) and len(parts) == 2 and parts[1] == 'index.md':
+                continue
             f_by_dir[folder].append(file_path)
             
     all_success = True

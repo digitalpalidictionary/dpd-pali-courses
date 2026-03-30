@@ -90,6 +90,8 @@ nav:
       - Root Group 7 – tanādigaṇa: bpc/class_4/8_root_7.md
       - Masculine Noun ending in -i: bpc/class_4/9_masc_i.md
       - The Aorist or Past Tense (ajjatanī): bpc/class_4/10_aor.md
+      - 11_Root_As: bpc/class_4/11_root_as.md
+      - 12_Root_Huu: bpc/class_4/12_root_huu.md
       - Homeless work: bpc/class_4/13_home_work.md
     - Class 5:
       - Index: bpc/class_5/index.md
@@ -139,7 +141,7 @@ nav:
       - Pronouns (sabbanāma): bpc/class_10/3_pron.md
       - Definite and indefinite article: bpc/class_10/4_article.md
       - Emphatic particle: bpc/class_10/5_emph.md
-      - Locative Absolute: bpc/class_10/6_loc_gen_abs.md
+      - Locative and Genitive Absolute: bpc/class_10/6_loc_gen_abs.md
       - Homeless work: bpc/class_10/7_home_work.md
     - Class 11:
       - Index: bpc/class_11/index.md
@@ -263,7 +265,7 @@ nav:
       - Kammadhāraya or Adjectival Compounds: ipc/class_19/2_kamm.md
       - Digu-samāsa or Numerical Compounds: ipc/class_19/3_digu.md
       - Tappurisa-samāsa or Case Compounds: ipc/class_19/4_tap.md
-      - Dvanda Samāsa: ipc/class_19/5_dvanda.md
+      - Dvanda Samāsa or Copulative Compounds: ipc/class_19/5_dvanda.md
       - General “Rules” for Compounds: ipc/class_19/6_comp_rules.md
       - 7_Ex: ipc/class_19/7_ex.md
       - Homeless work: ipc/class_19/8_home_work.md
@@ -277,7 +279,7 @@ nav:
       - Homeless work: ipc/class_20/6_home_work.md
     - Class 21:
       - Index: ipc/class_21/index.md
-      - Revision of Verbs: ipc/class_21/1_revision.md
+      - Review of Verbs: ipc/class_21/1_review_verbs.md
       - 'Three Voices: Active, Reflexive and Passive': ipc/class_21/2_voices.md
       - Passive Reflexive: ipc/class_21/3_pass_refl.md
       - Present Tense (*vattamānā*): ipc/class_21/4_pres.md
@@ -319,6 +321,7 @@ nav:
       - 20_Mixed_Pref: ipc/class_23/20_mixed_pref.md
       - Some Adverbs (nipāta) used as Prefixes: ipc/class_23/21_nipata.md
       - dur, su, nir & etc.: ipc/class_23/22_dur_su_nir.md
+      - Homeless work: ipc/class_23/23_home_work.md
     - Class 24:
       - Index: ipc/class_24/index.md
       - Passive Verbs: ipc/class_24/1_pass.md
@@ -352,7 +355,7 @@ nav:
     - Class 28:
       - Index: ipc/class_28/index.md
       - More Primary Derivatives: ipc/class_28/1_kita_1.md
-      - tar: ipc/class_28/2_kita_less.md
+      - Less Frequent *kita*: ipc/class_28/2_kita_less.md
       - Homeless work: ipc/class_28/3_home_work.md
   - Exercises:
     - Index: ipc_ex/index.md

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Pre-processing steps required before generating PDF and DOCX documents.
+# Run pre-processing checks and corrections before generating PDF and DOCX documents.
 
 set -e
 

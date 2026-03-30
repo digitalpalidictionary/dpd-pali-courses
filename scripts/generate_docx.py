@@ -241,8 +241,8 @@ def main() -> None:
             title,
             data,
             folder=fld,
-            about_content=about_c if fld == 'bpc' else "",
-            lit_content=lit_c if fld == 'bpc' else ""
+            about_content=about_c if fld in ('bpc', 'ipc') else "",
+            lit_content=lit_c if fld in ('bpc', 'ipc') else ""
         )
 
         if not os.path.exists("docx_exports"):

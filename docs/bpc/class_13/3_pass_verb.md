@@ -51,9 +51,9 @@ Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_as
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-| **√dhā** | to place | + iya | **dhiya** | samā**dhiya**ti | is composed |
+| **√dhā** | to place | + iya | **dhiya** | samā**dhiya**ti | is composed; lit. is placed together here |
 | **√kar** | to do | + iya | **kariya** | **kariya**ti | is done |
-| **√sād** | to taste | + iya | **sādiya** | **sādiya**ti | lit. is tasted |
+| **√sād** | to taste | + iya | **sādiya** | **sādiya**ti | enjoys;lit. is tasted |
 | **√har** | to carry | + iya | **hariya** | pari**hariya**ti | is carried around |
 
 3\. root + **īya** + verbal ending (less common)
@@ -68,7 +68,8 @@ Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_as
 
 4\. Verbs in **group 3** can also be used in the passive voice without adding a passive sign.
 
-They are formed as normal **group 3** verbs, and typically have an agent in the **instrumental case**.
+They are formed as normal **group 3** verbs, and typically have an agent in the **instrumental case**.  It is usually clear from
+the contextual usage.
 
 root + **ya** + verbal ending
 
@@ -80,7 +81,7 @@ root + **ya** + verbal ending
 | **√luj** | to be broken apart | + ya | **lujja** | **lujja**ti | is broken; is erased |
 | **√saj** | to stick | + ya | **sajja** | **sajja**ti | is attached; lit. is stuck |
 
-5\. In some cases, passive verbs from **groups 2 and 3** can be formed on the base + passive sign:
+5\. In some rare cases, passive verbs from **groups 2 and 3** can be formed on the base + passive sign:
 
 **base** + **iya** / **īya** + verbal ending
 

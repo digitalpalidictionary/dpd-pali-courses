@@ -13,7 +13,6 @@ This repository contains the source materials for the Digital Pāḷi Dictionary
     - `ipc_key/`: IPC Answer Keys.
 - `identity/`: DPD CSS and JavaScript assets used for the website and document generation.
 - `scripts/`: Regularly used maintenance and generation scripts (runnable with `uv run`).
-    - `hooks/`: Custom MkDocs hooks for automated processing.
 - `tools/`: Python modules used by scripts (imports only).
 - `mkdocs.yaml`: Configuration for the MkDocs static site generator.
 
@@ -66,17 +65,83 @@ sudo apt-get install pandoc
    ```
    The generated files will be placed in the `pdf_exports/` and `docx_exports/` directories respectively.
 
-## Maintenance Scripts
+## Maintenance & Generation Scripts
 
-This repository includes several Python scripts to maintain and clean the Pāḷi course Markdown source files. These scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py`.
+All scripts are located in the `scripts/` directory and can be run using `uv run python scripts/<script_name>.py` (for Python scripts) or `uv run bash scripts/<script_name>.sh` (for shell scripts).
 
-- **`verify_strict.py`**: Compares phrases from Markdown files against the generated HTML and PDF to ensure 100% data integrity and catch rendering issues. Run it only after freshly exporting all data. Can run only for some specific folders.
-  - Usage: `uv run python scripts/verify_strict.py`
+### Quick Start Commands
 
-- **`compare_md_sources.py`**: Compares the current Markdown files against an older Git commit to detect potential data loss.
-  - Usage: `uv run python scripts/compare_md_sources.py`
+**Build the website locally:**
+```bash
+./scripts/cl/pali-build-website
+```
 
-- **`pre_proccessing.sh`**: Bash which inlude all testing and verification, and preproccessing for building website, pdf, docs.
+**Generate PDFs and DOCX documents:**
+```bash
+./scripts/cl/pali-build-pdf-doc
+```
+
+### Content Verification & Validation
+
+- **`verify_sources.py`**: Interactive source verification tool that compares original (old) DOCX materials against generated DOCX and PDF outputs. Helps identify discrepancies between source and generated formats.
+  - Usage: `uv run python scripts/verify_sources.py`
+
+- **`verify_pdf_content.py`**: Extracts text from generated PDFs and compares with source Markdown to ensure no data loss during PDF generation.
+  - Usage: `uv run python scripts/verify_pdf_content.py`
+
+- **`verify_docx_content.py`**: Verification tool for DOCX content integrity. Compares text extracted from generated Word documents with source Markdown.
+  - Usage: `uv run python scripts/verify_docx_content.py`
+
+- **`verify_numbering.py`**: Verifies consistency of sentence numbering (footnotes, lists) across Markdown, website, and PDF. Identifies discrepancies where numbering resets or differs between formats.
+  - Usage: `uv run python scripts/verify_numbering.py`
+
+- **`compare_md_sources.py`**: Compares current Markdown files against an older Git commit to detect potential data loss or regressions in course content.
+  - Usage: `uv run python scripts/compare_md_sources.py [--commit <hash>]`
+
+### Document Generation
+
+- **`generate_pdfs.py`**: Generates high-quality PDF course materials from Markdown source files using WeasyPrint. Applies course-specific styling, cleans UI elements, and handles footnote reformatting. Output goes to `pdf_exports/`.
+  - Usage: `uv run python scripts/generate_pdfs.py`
+
+- **`generate_docx.py`**: Generates Word (.docx) documents from Markdown source using Pandoc. Maintains visual parity with PDF output for offline study. Output goes to `docx_exports/`.
+  - Usage: `uv run python scripts/generate_docx.py`
+
+### Content Cleanup & Maintenance
+
+- **`renumber_footnotes.py`**: Renumbers footnotes sequentially across all files in a course folder. The counter starts at 1 and continues across files in course order, correcting duplicate numbers and out-of-order references automatically.
+  - Usage: `uv run python scripts/renumber_footnotes.py [--dry-run]`
+
+- **`check_renumber.py`**: Detects and corrects numbering inconsistencies in Pāḷi sentence lists. Supports dry-run and automatic re-numbering of exercises and answer keys.
+  - Usage: `uv run python scripts/check_renumber.py [--dry-run]`
+
+- **`clean_dead_links.py`**: Finds and removes dead links in Markdown files. Specifically targets list items in index files that link to removed `.md` files.
+  - Usage: `uv run python scripts/clean_dead_links.py`
+
+### Site & Metadata Generation
+
+- **`generate_mkdocs_yaml.py`**: Helper script to update `mkdocs.yaml` based on course folder structure. Automatically generates the navigation section using headings from Markdown files.
+  - Usage: `uv run python scripts/generate_mkdocs_yaml.py`
+
+- **`generate_indexes.py`**: Generates `index.md` pages for course categories, creating a Table of Contents based on individual lesson headings.
+  - Usage: `uv run python scripts/generate_indexes.py`
+
+- **`update_css.py`**: Synchronizes CSS variables from source configurations to the Identity stylesheet directory.
+  - Usage: `uv run python scripts/update_css.py`
+
+### Pre-Processing Workflows
+
+Pre-processing scripts run a series of checks and corrections before building the website or documents:
+
+- **`web_preprocessing.sh`**: Runs all pre-processing steps required before building the MkDocs website (generates metadata, renumbers content, cleans links, updates CSS).
+  - Usage: `uv run bash scripts/web_preprocessing.sh`
+
+- **`pdf_preprocessing.sh`**: Runs pre-processing steps required before generating PDF and DOCX documents.
+  - Usage: `uv run bash scripts/pdf_preprocessing.sh`
+
+### Utilities & Legacy Tools
+
+- **`download_all_materials.py`**: Downloads old source materials from Google Docs as a ZIP archive. Facilitates keeping Markdown source files in sync with original (old) sources if needed (for reference/backup purposes).
+  - Usage: `uv run python scripts/download_all_materials.py`
 
 ## Local Development
 
