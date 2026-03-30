@@ -56,19 +56,14 @@ jobs:
           zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }} bpc.docx bpc_ex.docx bpc_key.docx
           zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }} ipc.docx ipc_ex.docx ipc_key.docx
 
-      - name: Get latest release tag
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          LATEST_TAG=$(gh release view --json tagName -q .tagName || echo "")
-          echo "LATEST_TAG=$LATEST_TAG" >> $GITHUB_ENV
+      - name: Generate release tag
+        run: echo "RELEASE_TAG=release-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
 
-      - name: Upload archives to Latest Release
-        if: env.LATEST_TAG != ''
+      - name: Create and Upload Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ env.LATEST_TAG }}
-          name: "Pāli Course Documents — ${{ env.LATEST_TAG }}"
+          tag_name: ${{ env.RELEASE_TAG }}
+          name: "Pāli Course Documents — ${{ env.RELEASE_TAG }}"
           body: |
             Course documents generated from latest source files.
 
@@ -84,5 +79,6 @@ jobs:
             ${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }}
+          make_latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
