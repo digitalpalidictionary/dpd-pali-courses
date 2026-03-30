@@ -6,5 +6,5 @@
 - [Tappurisa-samāsa or Case Compounds](4_tap.md)
 - [Dvanda Samāsa or Copulative Compounds](5_dvanda.md)
 - [General “Rules” for Compounds](6_comp_rules.md)
-- [Please translate and determine the](7_ex.md)
+- [Practice](7_ex.md)
 - [Homeless work](8_home_work.md)

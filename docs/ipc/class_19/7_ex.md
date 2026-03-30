@@ -1,6 +1,6 @@
-**Please translate and determine the**
+# Practice
 
-**compound type of the following:**
+**Please translate and determine the compound type of the following:**
 
 bhāvanāpāripūri
 

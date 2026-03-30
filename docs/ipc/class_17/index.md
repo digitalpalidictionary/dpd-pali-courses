@@ -17,5 +17,5 @@
 - [Possibility \#8](15_nig_8.md)
 - [Possibility \#9](16_nig_9.md)
 - [Possibility \#10](17_nig_10.md)
-- [Please deconstruct the following:](18_ex.md)
+- [Practice](18_ex.md)
 - [Homeless work](19_home_work.md)

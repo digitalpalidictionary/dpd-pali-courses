@@ -10,5 +10,5 @@
 - [Another consonant assimilation](8_as_misc.md)
 - [Please construct and deconstruct:](9_ex.md)
 - [Some Irregular Masculine Nouns](10_irreg_masc.md)
-- [Please analyze the following:](11_ex.md)
+- [Practice](11_ex.md)
 - [Homeless work](home_work.md)

@@ -32,7 +32,7 @@
 - [Possibility \#8](class_17/15_nig_8.md)
 - [Possibility \#9](class_17/16_nig_9.md)
 - [Possibility \#10](class_17/17_nig_10.md)
-- [Please deconstruct the following:](class_17/18_ex.md)
+- [Practice](class_17/18_ex.md)
 
 ## [Class 18](class_18/index.md)
 - [Phonetic Changes](class_18/1_phonetic.md)
@@ -45,7 +45,7 @@
 - [Another consonant assimilation](class_18/8_as_misc.md)
 - [Please construct and deconstruct:](class_18/9_ex.md)
 - [Some Irregular Masculine Nouns](class_18/10_irreg_masc.md)
-- [Please analyze the following:](class_18/11_ex.md)
+- [Practice](class_18/11_ex.md)
 
 ## [Class 19](class_19/index.md)
 - [Compounds (samāsa)](class_19/1_comp.md)
@@ -54,14 +54,14 @@
 - [Tappurisa-samāsa or Case Compounds](class_19/4_tap.md)
 - [Dvanda Samāsa or Copulative Compounds](class_19/5_dvanda.md)
 - [General “Rules” for Compounds](class_19/6_comp_rules.md)
-- [Please translate and determine the](class_19/7_ex.md)
+- [Practice](class_19/7_ex.md)
 
 ## [Class 20](class_20/index.md)
 - [Abyayībhāva-samāsa or Adverbial Compounds](class_20/1_abya.md)
 - [Bahubbīhi-samāsa or Attributive Compounds](class_20/2_bahub.md)
 - [Missaka-samāsa or Complex Compounds](class_20/3_mis.md)
 - [Changes Of Certain Words In Compounds](class_20/4_change_comp.md)
-- [Please translate and determine the compound type of the following:](class_20/5_ex.md)
+- [Practice](class_20/5_ex.md)
 
 ## [Class 21](class_21/index.md)
 - [Three Voices: Active, Reflexive and Passive](class_21/2_voices.md)
