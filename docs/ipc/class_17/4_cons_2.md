@@ -14,7 +14,7 @@ and (26) **rassaṃ**.
 
 **long vowel + consonant**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | **ā** | **k**osa | **akk**osa | m. insult |
 | **ā** | **kh**āyati | **akkh**āyati | pr. is said to be |

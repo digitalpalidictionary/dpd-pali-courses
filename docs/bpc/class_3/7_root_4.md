@@ -34,9 +34,9 @@ sakuṇā + ti \> sakuṇāti (he is able)
 
 **Conjugation of -āti pr**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
-|  | singular | plural |  |  |
+| | singular | plural | | |
 | 3rd | suṇā**ti** | he hears | suṇa**nti** | they hear |
 | 2nd | suṇā**si** | you hear | suṇā**tha** | you all hear |
 | 1st | suṇā**mi** | I hear | suṇā**ma** | we hear |

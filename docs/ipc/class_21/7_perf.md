@@ -18,24 +18,24 @@ Whatever the exact meaning, there are so few examples of it in Pāli, that you a
 
 This is constructed by reduplicating the root, which then undergoes some morphological changes.
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √bhū | √bhū + bhū | babhū + a | babhūva |
 
 **Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **sg** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | babhūv**a** | babhūv**u** |
 | 2 majjhima | babhūv**e** | babhūv**ittha** |
 | 1 uttama | babhūv**aṃ** | babhūv**imha** |
 
 **Perfect Past Attanopada “had become by oneself; <br>had existed by oneself”<br>(√bhū + bhū \> babhū)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **sg** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | babhūv**ittha** | babhūv**ire** |
 | 2 majjhima | babhūv**ittho** | babhūv**ivho** |
 | 1 uttama | babhūv**iṃ** | babhūv**imhe** |

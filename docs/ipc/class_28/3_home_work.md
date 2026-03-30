@@ -8,7 +8,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Primary Derivatives (574-578) |
 

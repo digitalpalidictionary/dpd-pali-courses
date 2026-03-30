@@ -36,8 +36,8 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ## Root + ya
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | √dis | to see | ya | dissa | dissati | is seen |
 | √khād | to chew | ya | khajja | khajjati | is chewed |
 | √kilis | to dirty | ya | kilissa | kilissati | is dirtied |
@@ -48,8 +48,8 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ## Root + iya
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^20] | is carried |
 | √pūj | to honour | iya | pūjiya | pūjiyati | is worshipped |
 | √cud | to accuse | iya | c**o**diya | codiyati | is accused |
@@ -59,8 +59,8 @@ Passive Base + Verbal Ending \> Passive Verb
 
 ## Root + īya
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | √har | to carry | īya | harīya | harīyati | is carried |
 | √jīr | to get old | īya | jīrīya | jīrīyati | is aged |
 | √kar | to do | īya | karīya | karīyati | is done |
@@ -70,7 +70,7 @@ Passive Base + Verbal Ending \> Passive Verb
 
 Please remember that these passive bases apply to all forms of the verb and even nouns.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | pr | vi**mucc**ati | is freed |
 | aor | vi**mucc**i | was freed |

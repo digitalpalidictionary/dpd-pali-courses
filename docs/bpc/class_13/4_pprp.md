@@ -2,9 +2,9 @@
 
 **√labh 1 a (get)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-| base | labha |  |
+| base | labha | |
 | pr | labhati | he gets, obtains |
 | prp | labhanta | getting; obtaining |
 | pass.pr | labbhati | it is got, is obtained |
@@ -18,7 +18,7 @@
 
 **√muc 2 ṃa (release, free)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | base | muñca | √muc + ṃa |
 | pr | muñca**ti** | he frees; releases |
@@ -31,8 +31,8 @@
 
 All verbal endings that you have dealt with thus far have been **parassapada** “word for another”.
 
-|  | parassapada |  | attanopada |  |
-|---|---|---|---|---|
+| | parassapada | | attanopada | |
+| --- | --- | --- | --- | --- |
 | 3rd | ti | nti | **te** | **nte** |
 | 2nd | si | tha | **se** | **vhe** |
 | 1st | āmi | āma | **e** | **āmhe** |

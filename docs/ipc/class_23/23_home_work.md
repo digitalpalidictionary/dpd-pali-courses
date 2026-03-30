@@ -19,6 +19,6 @@ extra task: underline the subject, *object(s)* and \*predicate\* of the sentence
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Verbal Prefixes 514 - 522 (p118-122) |

@@ -34,8 +34,8 @@ depending on the context
 
 Potential Participles are easy to recognise. The most common endings are *-***tabba** *-***itabba** & *-***anīya -aṇīya -aniya**
 
-|  |  |  | **should be / fit to be** |
-|---|---|---|---|
+| | | | **should be / fit to be** |
+| --- | --- | --- | --- |
 | √kar | to do, make | kar**aṇīya** | done |
 | √vac | to say | vac**anīya** | said |
 | √chaḍḍ | to discard | chaḍḍ**anīya** | discarded |
@@ -55,8 +55,8 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 
 ### 1. √root + -tabba or -itabba
 
-|  |  |  |  | **should be / fit to be** |
-|---|---|---|---|---|
+| | | | | **should be / fit to be** |
+| --- | --- | --- | --- | --- |
 | abhi √nand | to approve | + itabba | abhinanditabba | approved |
 | abhi √vad | to welcome | + itabba | abhivaditabba | welcomed |
 | √ādā | to take | + tabba | ādātabba | taken |
@@ -69,8 +69,8 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 
 ### 2. √root + -anīya
 
-|  |  |  |  | **should be / fit to be** |
-|---|---|---|---|---|
+| | | | | **should be / fit to be** |
+| --- | --- | --- | --- | --- |
 | √bandh | to tie | + anīya | bandhanīya | bound, tied |
 | √chaḍḍ | to discard | + anīya | chaḍḍanīya | discarded |
 | √dis | to see | + anīya | dassanīya | seen |
@@ -85,8 +85,8 @@ Because of sandhi, these examples are tricky to spot unless you know them.
 
 They can be used as nt. nouns.
 
-|  |  |  |  | **should be / fit to be** |
-|---|---|---|---|---|
+| | | | | **should be / fit to be** |
+| --- | --- | --- | --- | --- |
 | √bhuj | to eat | + \*ya | bhojja | eaten (food) |
 | √has | to laugh | + ya | hassa | laughed at (joke) |
 | √gah | to take | + ya | ga**yh**a | taken |
@@ -97,8 +97,8 @@ They can be used as nt. nouns.
 
 ## How To Decline Potential Participles
 
-|  | Masculine |  | Feminine |  | Neuter |  |
-|---|---|---|---|---|---|---|
+| | Masculine | | Feminine | | Neuter | |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1.nom | pac**itabbo** | pac**itabbā** | pac**itabbā** | pac**itabbā**<br>pac**itabbāyo** | pac**itabbaṃ** | pac**itabbā**<br>pac**itabbāni** |
 | 2.acc | pac**itabbaṃ** | pac**itabbe** | pac**itabbaṃ** | pac**itabbā**<br>pac**itabbāyo** | pac**itabbaṃ** | pac**itabbe**<br>pac**itabbāni** |
 | 3.inst | pac**itabbena** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbena** | pac**itabbehi** |
@@ -110,8 +110,8 @@ They can be used as nt. nouns.
 
 What do you notice?
 
-|  | Masculine |  | Feminine |  | Neuter |  |
-|---|---|---|---|---|---|---|
+| | Masculine | | Feminine | | Neuter | |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1.nom | pac**anīyo** | pac**anīyā** | pac**anīyā** | pac**anīyā**<br>pac**anīyāyo** | pac**anīyaṃ** | pac**anīyā**<br>pac**anīyāni** |
 | 2.acc | pac**anīyaṃ** | pac**anīye** | pac**anīyaṃ** | pac**anīyā**<br>pac**anīyāyo** | pac**anīyaṃ** | pac**anīye**<br>pac**anīyāni** |
 | 3.inst | pac**anīyena** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyena** | pac**anīyehi** |

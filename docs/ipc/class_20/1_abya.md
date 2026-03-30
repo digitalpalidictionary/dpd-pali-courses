@@ -22,8 +22,8 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ## Some abyayībhāva compounds
 
-|  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
 | **anu** | following | **vassa** | year | **anuvassaṃ** | adv | annually, yearly |
 | **pacchā** | after | **bhatta** | meal | **pacchābhattaṃ** | adv | after the meal |
 | **tato** | from | **nidāna** | source | **tatonidānaṃ** | adv | on account of that |
@@ -37,8 +37,8 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ## Sometimes the original case ending is maintained
 
-|  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
 | **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^7] | before dawn |
 | **ajja** | today | **aṇho** | day | **ajjaṇho** | adv | this day |
 | **anu** | following | **pubbena** | with previous | **anupubbena** | adv | gradually |
@@ -48,7 +48,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 ## Some prefixes and indeclinables used in abyayībhāva compounds
 
-|  |  |
+| | |
 | --- | --- |
 | abhi- | very, high, most |
 | adhi- | up, towards |

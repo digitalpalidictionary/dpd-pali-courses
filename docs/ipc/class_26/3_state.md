@@ -2,7 +2,7 @@
 
 ## tā (state of) abstract feminine nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | asoka | + tā | asoka**tā** | sorrow-less-ness |
 | bhabba | + tā | bhabba**tā** | capability |
@@ -17,7 +17,7 @@
 
 ## tta (state of) abstract neuter nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | agga | + tta | agga**tta** | high state, eminence |
 | araha | + tta | araha**tta** | worthy state, worthiness |
@@ -33,7 +33,7 @@
 
 ## tha (state of) abstract masculine nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dama | **+ tha** | dama**tha** | taming, control, mastery |
 | dara | **+ tha** | dara**tha** | anxiety, uneasiness, angst |
@@ -42,7 +42,7 @@
 
 ## iya (state of) abstract neuter nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | na agāra | + iya | anagār**iya** | homelessness |
 | issara | + iya | issar**iya** | rulership, lordship |
@@ -52,7 +52,7 @@
 
 ## \*ya (state of) abstract neuter nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | akiñcana | + \*ya | **ā**kiñca**ñña** | nothing state, nothingness |
 | alasa | + \*ya | **ā**las**ya** | lazy state, laziness |
@@ -76,7 +76,7 @@
 
 ## \*eyya (state of) abstract neuter nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | adhipati | + \*eyya | **a**dhipat**eyya** | ruler state, lordship |
 | jimha | + \*eyya | j**i**mh**eyya** | crooked state, deceit |
@@ -90,7 +90,7 @@
 
 ## \*a (state of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dvi | + \*a | dv**aya** | two state, duality |
 | garu | + \*a | g**ā**rav**a** | respected state, esteem |

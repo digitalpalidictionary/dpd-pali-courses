@@ -6,8 +6,8 @@ Some *kita* and *taddhita* suffixes force **guṇa** & **vuḍḍhi** to take pl
 
 e.g. ṇ**a or \*a**
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √bh**u**j | to enjoy | + \*a (+ ṇa) | bh**o**g**a** |
 | √c**a**r | to walk | + \*a (+ ṇa) | c**ā**r**a** |
 | √c**a**j | to give up | + \*a (+ ṇa) | c**ā**g**a** |

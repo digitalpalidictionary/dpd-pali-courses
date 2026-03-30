@@ -14,7 +14,7 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 
 **√ṭhā･1 a (stand)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √ṭhā + ṭhā + a | tiṭṭha | tiṭṭhati | stands |
 | √ṭhā + \*āpe | ṭhāpe \> ṭhape | ṭhapeti | sets aside; lit. causes to stand |
@@ -42,15 +42,15 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 
 **bhū 1 a (be)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-| base | bhava |  |
+| base | bhava | |
 | pr | bhava**ti** | he is, it exists |
 | prp | bhava**māna**<br>bhava**nta** | being, existing |
-| caus base | bhāve<br>bhāvaya |  |
+| caus base | bhāve<br>bhāvaya | |
 | caus pr | bhāve**ti**<br>bhāvaya**ti** | he causes to be, develops |
 | caus prp | bhāve**nta**<br>bhāvaya**nta**<br>bhāvaya**māna** | causing to be, developing |
-| caus pass base | bhāviya |  |
+| caus pass base | bhāviya | |
 | caus pass pr | bhāvīyati | it is caused to be; it is developed |
 | caus pprp | bhāviya**māna** | being caused to be; being developed |
 

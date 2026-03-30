@@ -8,6 +8,6 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Secondary Derivatives (579-581) |

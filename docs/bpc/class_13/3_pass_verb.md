@@ -32,8 +32,8 @@ Sometimes the only way to recognise if a verb is passive is by the passive base
 
 1\. root + **ya**
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√badh** | to tie | + ya | **bajjha** | **bajjha**ti | is tied |
 | **√bhid** | to break | + ya | **bhijja** | **bhijja**ti | is broken |
 | **√han** | to kill | + ya | **hañña** | **hañña**ti | is killed |
@@ -49,8 +49,8 @@ Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_as
 
 2\. root + **iya** + verbal ending (less common)
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√dhā** | to place | + iya | **dhiya** | samā**dhiya**ti | is composed; lit. is placed together here |
 | **√kar** | to do | + iya | **kariya** | **kariya**ti | is done |
 | **√sād** | to taste | + iya | **sādiya** | **sādiya**ti | enjoys;lit. is tasted |
@@ -58,8 +58,8 @@ Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_as
 
 3\. root + **īya** + verbal ending (less common)
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√dā** | to give | + īya | **dīya** | **dīya**ti | is given |
 | **√dhā** | to hold | + īya | **dhīya** | **dhīya**ti | is held |
 | **√har** | to carry | + īya | **harīya** | **harīya**ti | is carried |
@@ -73,8 +73,8 @@ the contextual usage.
 
 root + **ya** + verbal ending
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√sam** | to be calm | + ya | **samma** | **samma**ti | is calmed; is cooled |
 | **√mad** | to be intoxicated | + ya | **majja** | **majja**ti | is intoxicated; is stupefied |
 | **√mus** | to lie, forget | + ya | **mussa** | **mussa**ti | is forgotten |
@@ -85,16 +85,16 @@ root + **ya** + verbal ending
 
 **base** + **iya** / **īya** + verbal ending
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√yuj** | yuñja | + iya | **yuñjiya** | anu**yuñjiya**ti | is examined; lit. is engaged |
 | **√bhuj** | bhuñja | + iya | **bhuñjiya** | pari**bhuñjiya**ti | is fully used |
 | **√chid** | chinda | + īya | **chindīya** | ac**chindīya**ti | is plundered |
 | **√muc** | muñca | + īya | **muñcīya** | **muñcīya**ti | is freed |
 | **√rudh** | rundha | + īya | **rundhīya** | **rundhīya**ti | is obstructed |
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | **√pad** | pajja | + iya | **pajjiya** | up**pajjiya**ti | is brought into being |
 | **√siv** | sibba | + iya | **sibbiya** | **sibbiya**ti | is stitched |
 
@@ -110,39 +110,39 @@ dīya + ti \> dīyati
 
 Present Tense “it is given”
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 3rd | dīya**ti** | dīya**nti** |
 | 2nd | dīya**si** | dīya**tha** |
 | 1st | dīyā**mi** | dīyā**ma** |
 
 Aorist “it was given”
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 3rd | dīy**i** | dīy**uṃ** |
 | 2nd | dīy**o** | dīy**ittha** |
 | 1st | dīy**iṃ** | dīy**imha** |
 
 Future Tense “it will be given”
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 3rd | dīy**issati** | dīy**issanti** |
 | 2nd | dīy**issasi** | dīy**issatha** |
 | 1st | dīy**issāmi** | dīy**issāma** |
 
 Optative “it could be given”
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 3rd | dīy**eyya** | dīy**eyyuṃ** |
 | 2nd | dīy**eyyāsi** | dīy**eyyātha** |
 | 1st | dīy**eyyāmi** | dīy**eyyāma** |
 
 Please note that some passive verbs can look **very similar** to their active versions
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | pa**c**ati | he cooks | pa**cc**ati | it is cooked |
 | ta**p**ati | he burns | ta**pp**ati | it is burned |

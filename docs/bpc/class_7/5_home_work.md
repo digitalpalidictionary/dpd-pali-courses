@@ -12,7 +12,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p86-88 (Optative tense) |
 | V. Perniola<br>Pāli Grammar | p85–87 (Optative verbs) |

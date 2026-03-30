@@ -18,24 +18,24 @@ If you know your noun declensions, you’ll have no problem with adjectives. (Th
 Adjectives are formed by adding various suffixes to the root. You’ll look at those in a lot more detail when you study derivatives. Some of the suffixes are:
 
 | Root | Meaning | Form | Adj | Meaning |
-|---|---|---|---|---|
-| √bal    | to be strong    | √bal + a    | bala    | strong |
-| √mā     | to measure      | sa + √mā + ana   | samāna       | same ; similar |
-| √kam    | to desire       | √kam + *a + ka   | kāmaka       | willing |
-| √kudh   | to be angry      | √kudh + *ana     | kodhana       | angry |
-| √tap    | to burn          | ā + √tap + *ī    | ātāpī       | ardent |
-| √bhad   | to be lucky      | √bhad + ra       | bhadra       | fortunate |
-| √jan    | to be born       | √jan + ti + iya   | jātiya       | of nature; of type |
-| √bah    | to increase      | √bah + u         | bahu       | many |
-| √dhuv   | to be stable     | √dhuv + a        | dhuva       | eternal |
-| √div    | to shine         | √div + ya        | dibba       | divine |
+| --- | --- | --- | --- | --- |
+| √bal | to be strong | √bal + a | bala | strong |
+| √mā | to measure | sa + √mā + ana | samāna | same ; similar |
+| √kam | to desire | √kam + *a + ka | kāmaka | willing |
+| √kudh | to be angry | √kudh + *ana | kodhana | angry |
+| √tap | to burn | ā + √tap + *ī | ātāpī | ardent |
+| √bhad | to be lucky | √bhad + ra | bhadra | fortunate |
+| √jan | to be born | √jan + ti + iya | jātiya | of nature; of type |
+| √bah | to increase | √bah + u | bahu | many |
+| √dhuv | to be stable | √dhuv + a | dhuva | eternal |
+| √div | to shine | √div + ya | dibba | divine |
 
 
 **Adjectives ending in -a (singular)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** [(-a)](../class_2/3_decl_nouns.md#declension-of-a-masc) | **fem** [(-ā)](../class_7/2_fem_aa.md#feminine-nouns-ending-in-a) | **neuter** [(aṃ)](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-a) |
+| | **masc** [(-a)](../class_2/3_decl_nouns.md#declension-of-a-masc) | **fem** [(-ā)](../class_7/2_fem_aa.md#feminine-nouns-ending-in-a) | **neuter** [(aṃ)](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-a) |
 | 1.nom | dīgh**o** | dīgh**ā** | dīgh**aṃ** |
 | 2.acc | dīgh**aṃ** | dīgh**aṃ** | dīgh**aṃ** |
 | 3.inst | dīgh**ena** | dīgh**āya** | dīgh**ena** |
@@ -47,9 +47,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -a (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | dīgh**ā** | dīgh**ā**<br>dīgh**āyo** | dīgh**ā**<br>dīgh**āni** |
 | 2.acc | dīgh**e** | dīgh**ā**<br>dīgh**āyo** | dīgh**e**<br>dīgh**āni** |
 | 3.inst | dīgh**ehi** | dīgh**āhi** | dīgh**ehi** |
@@ -61,9 +61,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -i (singular)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** [**(-i)**](../class_4/9_masc_i.md#declension-of-i-masc) | **fem** [**(-i)**](../class_8/3_fem.md#feminine-nouns-ending-in-i) | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| | **masc** [**(-i)**](../class_4/9_masc_i.md#declension-of-i-masc) | **fem** [**(-i)**](../class_8/3_fem.md#feminine-nouns-ending-in-i) | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
 | 1.nom | uttar**i** | uttar**i** | uttar**i**<br>uttar**iṃ** |
 | 2.acc | uttar**iṃ** | uttar**iṃ** | uttar**i**<br>uttar**iṃ** |
 | 3.inst | uttar**inā** | uttar**iyā** | uttar**inā** |
@@ -75,9 +75,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -i (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | uttar**ī**<br>uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
 | 2.acc | uttar**ī**<br>uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
 | 3.inst | uttar**īhi** | uttar**īhi** | uttar**īhi** |
@@ -89,9 +89,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -ī (singular)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc_1) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc_1) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
 | 1.nom | ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i**<br>ātāp**iṃ** |
 | 2.acc | ātāp**inaṃ**<br>ātāp**iṃ** | ātāp**iniṃ** | ātāp**i**<br>ātāp**iṃ** |
 | 3.inst | ātāp**inā** | ātāp**iniyā** | ātāp**inā** |
@@ -105,9 +105,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -ī (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | ātāp**ī**<br>ātāp**ino** | ātāp**iniyo**<br>ātāp**inī** | ātāp**īni**<br>ātāp**ī** |
 | 2.acc | ātāp**ī**<br>ātāp**ino** | ātāp**iniyo**<br>ātāp**inī** | ātāp**īni**<br>ātāp**ī** |
 | 3.inst | ātāp**īhi** | ātāp**inīhi** | ātāp**īhi** |
@@ -120,9 +120,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -u (singular)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** [**(-u)**](../class_6/2_masc_u.md#declension-of-u-masc) | **fem** [**(-u)**](../class_8/3_fem.md#feminine-nouns-ending-in-u) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
+| | **masc** [**(-u)**](../class_6/2_masc_u.md#declension-of-u-masc) | **fem** [**(-u)**](../class_8/3_fem.md#feminine-nouns-ending-in-u) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
 | 1.nom | bah**u** | bah**u** | bah**u**<br>bah**uṃ** |
 | 2.acc | bah**uṃ** | bah**uṃ** | bah**u**<br>bah**uṃ** |
 | 3.inst | bah**unā** | bah**uyā** | bah**unā** |
@@ -134,13 +134,13 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -u (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | bah**ū**<br>bah**avo** | bah**ū**<br>bah**uyo** | bah**ū**<br>bah**ūni** |
 | 2.acc | bah**ū**<br>bah**avo** | bah**ū**<br>bah**uyo** | bah**ū**<br>bah**ūni** |
 | 3.inst | bah**ūhi** | bah**ūhi** | bah**ūhi** |
-| 4.dat | bah**ūnaṃ**<br>bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ**<br>bah**unnaṃ**  |
+| 4.dat | bah**ūnaṃ**<br>bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ**<br>bah**unnaṃ** |
 | 5.abl | bah**ūhi** | bah**ūhi** | bah**ūhi** |
 | 6.gen | bah**ūnaṃ**<br>bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ**<br>bah**unnaṃ** |
 | 7.loc | bah**ūsu**<br>bah**usu** | bah**ūsu** | bah**ūsu** |
@@ -148,9 +148,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -ū (singular)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** [**(-ū)**](../class_6/3_masc_uu.md#declension-of-u-masc) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
+| | **masc** [**(-ū)**](../class_6/3_masc_uu.md#declension-of-u-masc) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
 | 1.nom | vid**ū** | vid**unī** | vid**uṃ** |
 | 2.acc | vid**uṃ** | vid**uniṃ** | vid**uṃ** |
 | 3.inst | vid**unā** | vid**uniyā** | vid**unā** |
@@ -162,9 +162,9 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -ū (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
 | 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
 | 3.inst | vid**ūhi** | vid**unīhi** | vid**ūhi** |
@@ -192,9 +192,9 @@ vidusmiṃ
 
 **Adjectives ending in -ū (plural)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | **masc** | **fem** | **neuter** |
+| | **masc** | **fem** | **neuter** |
 | 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
 | 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
 | 3.inst | vid**ūhi** | vid**unīhi** | vid**ūhi** |

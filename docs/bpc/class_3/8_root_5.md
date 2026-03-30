@@ -22,9 +22,9 @@ jānā + ti \> jānāti (he knows)
 
 **Conjugation of -āti pr**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
-|  | singular | plural |  |  |
+| | singular | plural | | |
 | 3rd | so jānā**ti** | he knows | te jāna**nti** | they know |
 | 2nd | tvaṃ jānā**si** | you know | tumhe jānā**tha** | you all know |
 | 1st | ahaṃ jānā**mi** | I know | mayaṃ jānā**ma** | we know |

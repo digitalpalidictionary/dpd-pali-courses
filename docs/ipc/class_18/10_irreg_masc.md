@@ -6,7 +6,7 @@ Today we will look at **manas**, **go, atta** and **rāja**
 
 **Declension of manas (mano) (masc & nt[^6])**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | man**o** | man**ā** |
 | 2.acc | man**aṃ**<br>**mano** | man**e** |
@@ -21,8 +21,8 @@ Today we will look at **manas**, **go, atta** and **rāja**
 
 Similarly
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | **āpas** | water | **siras** | head |
 | **ayas** | iron | **tamas** | darkness, ignorance |
 | **cetas** | mind | **tapas** | heat, self-mortification |
@@ -36,8 +36,8 @@ Similarly
 
 In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS dictionary, you will also find them listed as **mano** & **mana(s)**. If you study the following Sanskrit declension table, you will understand the reason for the unusual declensions in Pāli.
 
-|  | **Sg** | **Du** | **Pl** |
-|---|---|---|---|
+| | **Sg** | **Du** | **Pl** |
+| --- | --- | --- | --- |
 | Nom | manaḥ | manasī | manāṃsi |
 | Acc | manaḥ | manasī | manāṃsi |
 | Inst | **manasā** | manobhyām | manobhiḥ |
@@ -49,8 +49,8 @@ In Sanskrit these nouns all have the **-as** ending e.g. **manas**. In the PTS d
 
 The main feature of this group of nouns is they take an **-o** ending in compounds
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | āp**o**kāya | body of water |
 | ay**o**guḷa | iron ball |
 | cet**o**vimutti | liberation of mind |
@@ -64,7 +64,7 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 
 **Declension of go (masc) cow, cattle**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | g**o** | gāv**o**<br>g**avo** |
 | 2.acc | gāv**uṃ**<br>gav**aṃ** | gāv**o**<br>g**avo** |
@@ -77,7 +77,7 @@ The main feature of this group of nouns is they take an **-o** ending in compoun
 
 **Declension of atta (masc) - self**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | att**ā** | att**āno** |
 | 2.acc | att**ānaṃ**<br>att**aṃ** | att**āno** |
@@ -92,7 +92,7 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 
 **Declension of rāja (masc) - king**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | rāj**ā** | rāj**āno** |
 | 2.acc | rāj**ānaṃ**<br>rāj**aṃ** | rāj**āno** |

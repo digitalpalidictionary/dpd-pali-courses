@@ -28,7 +28,7 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 
 **a![](../../assets/images/arrow.png)i \> e**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | up**a** | **i**kkhati | up**e**kkhati |
 | towards, over | looks | looks over |
@@ -37,21 +37,21 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 
 **a![](../../assets/images/arrow.png)ī \> e**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | s**a** | **√ī**r + ī | s**e**rī |
 | (with) | to move | independent; free |
 
 **ā![](../../assets/images/arrow.png)ī \> e**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | mah**ā** | **ī**sī | mah**e**sī |
 | great | sage | great sage |
 
 **a![](../../assets/images/arrow.png)u \> o**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | pād**a** | **u**daka | pād**o**daka |
 | foot | water | water for washing feet |
@@ -62,7 +62,7 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 
 **a![](../../assets/images/arrow.png)ū \> o**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | udak**a** | **ū**mi | udak**o**mi[^1] |
 | water | wave | wave of water |
@@ -71,7 +71,7 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 
 **i![](../../assets/images/arrow.png)u \> o**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | v**i** | **u**cchijjati | v**o**cchijjati |
 | (very) | is cut up | is completely cut off |

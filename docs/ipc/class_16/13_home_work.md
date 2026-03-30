@@ -14,9 +14,9 @@
 
 [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-| nāhaṃ | sandhi |  | I not |
+| nāhaṃ | sandhi | | I not |
 | **na-** | ind | neg | not |
 | **ahaṃ** | pn | 1.n.s | I |
 | bhabbo | adj | m.n.s | possible |
@@ -25,7 +25,7 @@
 | paṭisevituṃ | v | inf | to indulge in |
 | **na-** | ind | neg | not[^2] |
 | **ahaṃ** | pn | 1.n.s | I |
-| **Now it is not possible for me to indulge in sensual pleasures.** |  |  |  |
+| **Now it is not possible for me to indulge in sensual pleasures.** | | | |
 
 [^2]: This is because the exercise document does not include a space after the actual sandhi, but it does have an empty space after each sentence. This is done to prevent giving students hints about where the sandhi occurs.
 
@@ -35,7 +35,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Vowel Sandhi p6-12 |
 | Perniola | Vowel Sandhi p7-12 |

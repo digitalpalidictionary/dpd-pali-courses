@@ -4,8 +4,8 @@ Cardinal Numbers are very common in the Tipiṭaka. The Buddha’s teachings ver
 
 If you want to study numbers, just open the Aṅguttara Nikāya.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **eko** dhammo | **one** thing |
 | **dve** api jātiyo | just **two** lives |
 | **tayo** pāsāde | **three** mansions |
@@ -29,8 +29,8 @@ three genders – singular
 
 agrees in gender & case
 
-|  | Masculine | Feminine | Neuter |
-|---|---|---|---|
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
 | 1.nom | ek**o** | ek**ā** | ek**aṃ** |
 | 2.acc | ek**aṃ** | ek**aṃ** | ek**aṃ** |
 | 3.instr | ek**ena** | ek**āya** | ek**ena** |
@@ -53,8 +53,8 @@ no gender, plural
 
 agrees in case only
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | 1.nom | dv**e**<br>duv**e** |
 | 2.acc | dv**e**<br>duv**e** |
 | 3.instr | dv**īhi** |
@@ -69,8 +69,8 @@ three genders, plural
 
 agrees in gender and case
 
-|  | Masculine | Feminine | Neuter |
-|---|---|---|---|
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
 | 1.nom | t**ayo** | t**isso** | t**īni** |
 | 2.acc | t**ayo** | t**isso** | t**īni** |
 | 3.instr | t**īhi** | t**īhi** | t**īhi** |
@@ -85,8 +85,8 @@ three genders & plural
 
 agrees in gender and case
 
-|  | Masculine | Feminine | Neuter |
-|---|---|---|---|
+| | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
 | 1.nom | catt**āro**<br>cat**uro** | cat**asso** | catt**āri** |
 | 2.acc | catt**āro**<br>cat**uro** | cat**asso** | catt**āri** |
 | 3.instr | cat**ūhi** | cat**ūhi** | cat**ūhi** |
@@ -101,8 +101,8 @@ no gender, plural
 
 agrees in case only
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | 1.nom | pañc**a** |
 | 2.acc | pañc**a** |
 | 3.instr | pañc**ahi** |
@@ -115,8 +115,8 @@ agrees in case only
 
 same as *pañca*. no gender, plural. agrees in case only
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | 6 | cha |
 | 7 | satta |
 | 8 | aṭṭha |
@@ -137,8 +137,8 @@ same as *pañca*. no gender, plural. agrees in case only
 
 feminine singular, agree in case only
 
-|  | 20 (like bhūmi) | 20 (like vedanā) |
-|---|---|---|
+| | 20 (like bhūmi) | 20 (like vedanā) |
+| --- | --- | --- |
 | 1.nom | vīsat**i** | vīs**ā**<br>vīs**aṃ** |
 | 2.acc | vīsat**iṃ** | vīs**aṃ** |
 | 3.instr | vīsat**iyā** | vīs**āya** |
@@ -159,8 +159,8 @@ neuter singular and plural
 
 agrees in case and number
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | sat**aṃ** | sat**ā**<br>sat**āni** |
 | 2.acc | sat**aṃ** | sat**e**<br>sat**āni** |
 | 3.instr | sat**ena** | sat**ehi** |
@@ -175,8 +175,8 @@ feminine singular, sometimes plural
 
 agrees in case only
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | koṭ**i** | koṭ**ī**<br>koṭ**iyo** |
 | 2.acc | koṭ**iṃ** | koṭ**ī**<br>koṭ**iyo** |
 | 3.instr | koṭ**iyā** | koṭ**īhi** |
@@ -187,22 +187,22 @@ agrees in case only
 
 ## Summary of numbers gender and numbers
 
-|  | **Gender** | **Number** |  |  |  |
-|---|---|---|---|---|---|
-|  | **Mas.** | **fem.** | **Neut.** | **Sin.** | **Pl.** |
-| 1 | ✔ | ✔ | ✔ | ✔ |  |
-| 2 | ✘ | ✘ | ✘ |  | ✔ |
-| 3 | ✔ | ✔ | ✔ |  | ✔ |
-| 4 | ✔ | ✔ | ✔ |  | ✔ |
-| 5 - 18 | ✘ | ✘ | ✘ |  | ✔ |
-| 19 - 98 |  | ✔ |  | ✔ |  |
-| 99 - 9 999 998 |  |  | ✔ | ✔ | ✔ |
-| 9 999 999 - 10 000000 |  | ✔ |  | ✔ | (✔) |
+| | **Gender** | **Number** | | | |
+| --- | --- | --- | --- | --- | --- |
+| | **Mas.** | **fem.** | **Neut.** | **Sin.** | **Pl.** |
+| 1 | ✔ | ✔ | ✔ | ✔ | |
+| 2 | ✘ | ✘ | ✘ | | ✔ |
+| 3 | ✔ | ✔ | ✔ | | ✔ |
+| 4 | ✔ | ✔ | ✔ | | ✔ |
+| 5 - 18 | ✘ | ✘ | ✘ | | ✔ |
+| 19 - 98 | | ✔ | | ✔ | |
+| 99 - 9 999 998 | | | ✔ | ✔ | ✔ |
+| 9 999 999 - 10 000000 | | ✔ | | ✔ | (✔) |
 
 These are the only numbers encountered in the Tipiṭaka that have been *actually* covered by DPD so far.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | 1 | eka |
 | 2 | dvi<br>dve<br>duve |
 | 3 | ti<br>(tayo<br>tīni<br>tisso) |
@@ -247,7 +247,7 @@ In summary learn declensions 1, 2, 3, 4, 5, 20, 100
 
 That, of course, excludes all the “amazing” numbers which you’ll come across in some parts of the Tipiṭaka
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | pakoṭi | 1014 | 1 00 000 000 000 000 |
 | akkhobhinī | 1042 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |

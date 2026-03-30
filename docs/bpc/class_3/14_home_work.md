@@ -1,4 +1,4 @@
-**Homeless work**
+# Homeless work
 
 1.  Exercises for class 3
 
@@ -16,9 +16,9 @@
 
     e.g. coreti: √cur (steal) + e \> core + ti \> coreti
 
-# Extra Reading
+## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
 | V. Perniola<br>Pāli Grammar | p70 – 84 (chapter 6 verbs) |

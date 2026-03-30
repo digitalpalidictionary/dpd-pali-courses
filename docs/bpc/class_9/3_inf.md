@@ -20,8 +20,8 @@ The infinitive can be translated as
 
 The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √dā | + tuṃ | dātuṃ | to give |
 | √gam | + tuṃ | ga**n**tuṃ | to go |
 | √han | + tuṃ | hantuṃ | to kill |
@@ -32,8 +32,8 @@ The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
 The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √bandh | + ituṃ | bandhituṃ | to tie, bind |
 | √bhakkh | + ituṃ | bhakkhituṃ | to eat |
 | √bhind | + ituṃ | bhindituṃ | to break |
@@ -47,8 +47,8 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
 Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √bhuj | bhuñja | + ituṃ | bhuñjituṃ | to eat |
 | √bhū | bhava | + ituṃ | bhavituṃ | to be |
 | √dis | passa | + ituṃ | passituṃ | to see |
@@ -59,8 +59,8 @@ Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the
 
 In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is added to the base ending in -*e*.
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √bhū | bhāve | + tuṃ | bhāvetuṃ | to develop |
 | √dhar | dhāre | + tuṃ | dhāretuṃ | to hold, carry |
 | √dis | dese | + tuṃ | desetuṃ | to point out |
@@ -83,7 +83,7 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 
 ## More words which always take an infinitive
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | alaṃ | ind | it is suitable (to) ; one is able (to) |
 | atippago | adv | too early (to) |
@@ -113,7 +113,7 @@ Pāli prose is usually very consistent in the usage of infinitives.
 
 Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | aññātuṃ + kāmo | aññāt**u**kāmo | wanting to know |
 | na + marituṃ + kāmo | amarit**u**kāmo | not wanting to die |

@@ -6,7 +6,7 @@ This is identical to the **-in** ending in Sanskrit. In the PED dictionary, you 
 
 Many of these agent nouns can also be used as adjectives.
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | hattha | hand | hatthī | has a hand | elephant |
 | bhoga | wealth | bhogī | has wealth | wealthy person |
@@ -27,7 +27,7 @@ Many of these agent nouns can also be used as adjectives.
 
 ## Declension of -ī masc {: #declension-of-i-masc_1}
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1. nom | pakkh**ī** | pakkh**ī**<br>pakkh**ino** |
 | 2. acc | pakkh**inaṃ**<br>pakkh**iṃ** | pakkh**ī**<br>pakkh**ino** |

@@ -1,6 +1,6 @@
 **Please construct and deconstruct:**
 
-|  |  |
+| | |
 | --- | --- |
 | na + anu + √vad + ya | ananuvajja |
 | visujjhati | vi √sudh ya ti |

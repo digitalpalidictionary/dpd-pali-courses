@@ -1,12 +1,12 @@
 # \*a (dyed with)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kasāva | + \*a | k**ā**sāv**a** | dyed with red brown |
 
 ## \*a (from, belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | gotama | + \*a | g**o**tam**a** | from family of Gotama |
 | bharadvāja | + \*a | bh**ā**radvāj**a** | from family of Bharadvāja |
@@ -20,7 +20,7 @@
 
 ## \*a (related to, regarding, connected with)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | hima + anta | + \*a | h**e**mant**a** | related to cold end, winter |
 | kumāra | + \*a | k**o**mār**a** | related to youth, youthful |
@@ -30,33 +30,33 @@
 
 ## \*a (studying, knowing)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | vyākaraṇa | + \*a | v**e**yyākaraṇ**a** | grammarian; linguist |
 
 ## \*a (group of, collection, multitude)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dvi | + \*a | dv**aya** | pair, couple |
 | ti | + \*a | t**aya** | group of three, triad |
 
 ## \*yāyana (lineage of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kati | + \*yāyana | ka**ccāyana** | from family of Kati |
 
 ## \*yāna (lineage of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kati | + \*yāna | k**accāna** | from family of Kati |
 | muggala | + \*yāna | m**o**ggall**āna** | from family of Muggala |
 
 ## ālu (full of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | abhijjhā | + ālu | abhijjh**ālu** | full of greed, covetous |
 | apihā | + ālu | apih**ālu** | not full of envy |
@@ -64,7 +64,7 @@
 
 ## \*ika (mixed with)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | loṇa | + \*ika | l**o**ṇ**ika** | mixed with salt, salty |
 | tela | + \*ika | t**e**l**ika** | mixed with oil, oily |
@@ -73,7 +73,7 @@
 
 In traditional grammars, these fall under many categories, such as living-in, working-with, going by, crossing-with, but they are all just agent nouns.
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | abbhokāsa | + \*ika | abbh**o**kās**ika** | open air ascetic |
 | addhā | + \*ika | **a**ddh**ika** | traveler |
@@ -95,21 +95,21 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## \*ika (belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | saṅgha | + \*ika | s**a**ṅgh**ika** | belonging to community |
 | puthujjana | + \*ika | p**o**thujjan**ika** | belonging to the ordinary man |
 
 ## \*ika (relating to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | samudda | + \*ika | s**ā**mudd**ika** | relating to sea, marine |
 | sarīra | + \*ika | s**ā**rīri**ka** | relating to body, bodily |
 
 ## \*ika (having quality of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | anantara | + \*ika | **ā**nantar**ika** | immediate, no delay |
 | nibbedha | + \*ika | nibb**e**dh**ika** | penetrating, piercing |
@@ -117,7 +117,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## \*ika (done by, done with)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kāya | + \*ika | k**ā**y**ika** | done by body, bodily |
 | manas | + \*ika | m**ā**nas**ika** | done by mind, mental |
@@ -126,8 +126,8 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## ima (belonging to, *most*)
 
-|  |  |  | belonging to the ... |
-|---|---|---|---|
+| | | | belonging to the ... |
+| --- | --- | --- | --- |
 | anta | + ima | ant**ima** | end \> final |
 | heṭṭḥā | + ima | heṭṭh**ima** | lower \> lowest |
 | majjha | + ima | majjh**ima** | middle \> medium |
@@ -139,7 +139,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## iya (belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | vagga | + iya | vagg**iya** | belonging to group |
 | udara | + iya | udar**iya** | belonging to stomach |
@@ -153,7 +153,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## \*iya (belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | samagga | + \*iya | s**ā**magg**iya** | harmonious |
 | bahi | + \*iya | b**ā**hiy**a** | foreign |
@@ -161,14 +161,14 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## \*ī (from, belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | gotama | + \*ī | g**o**tam**ī** | from family of Gotama |
 | kumuda | + \*ī | k**o**mud**ī** | belonging to water lilies |
 
 ## \*eyya (lineage of, from)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kosa | + \*eyya | k**o**s**eyya** | from a cocoon, silk |
 | bhaginī | + \*eyya | bh**ā**gin**eyya** | from sister, nephew |
@@ -176,7 +176,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## \*era (son of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | samaṇa | + \*era | s**ā**maṇ**era** | son of ascetic |
 | vidhavā | + \*era | v**e**dhav**era** | son of widow |
@@ -184,7 +184,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## ka (smallness)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | aṇu | + ka | aṇu**ka** | tiny, small, minute |
 | bāla | + ka | bāla**ka** | young child |
@@ -200,7 +200,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## ka (badness, insult, *derog*)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | bahussuta | + ka | bahussuta**ka** | great little “scholar” |
 | paṇḍita | + ka | paṇḍita**ka** | learned little scholar |
@@ -212,7 +212,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## ka (from, belonging to)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kāsi | + ka | kāsi**ka** | from Kasi |
 | rājagaha | + ka | rājagaha**ka** | from Rājagaha |
@@ -221,7 +221,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## maya (made of)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | asma | + maya | asma**maya** | made of stone |
 | dāru | + maya | dāru**maya** | made of wood |
@@ -233,7 +233,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## tā (multitude of, collection of) feminine nouns
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | jana | + tā | jana**tā** | populace, people |
 

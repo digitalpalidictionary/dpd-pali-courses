@@ -55,7 +55,7 @@ There are 7 or **8** groups of roots in Pāli (depending on the grammar traditio
 These roots are grouped together because the verbs derived from them have similar formations.
 
 | **\#** | **conjugational sign** | **example** |
-|---|---|---|
+| --- | --- | --- |
 | 1 | a | √bandh (tie) + a \> bandha<br>bandha + ti \> bandhati (he ties) |
 | 2 | ṃa | √rudh (obstruct) + ṃa \> ru**ṃ**dha \> ru**n**dha<br>rundha + ti \> rundhati (he obstructs) |
 | 3 | ya | √div (shine) + ya \> di**bb**a<br>dibba + ti \> dibbati (he shines) |

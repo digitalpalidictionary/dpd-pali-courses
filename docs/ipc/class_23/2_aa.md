@@ -2,7 +2,7 @@
 
 **up to, upwards, towards, near to, at, backwards, away, all round, intensely, until, as far as[^15]**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √buh | to pluck | abbuhati | plucks out, uproots |
 | √lok | to look | āloketi | looks at, looks forward |

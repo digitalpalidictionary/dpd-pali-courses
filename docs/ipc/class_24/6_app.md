@@ -28,8 +28,8 @@ root + tāvī \> app
 
 base + āvī \> app
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √ñā | ājānāti | aññā**tāvī** | has understood |
 | √ñā | parijānāti | pariññā**tāvī** | has perfectly understood |
 | √dis | passati | dass**āvī** | has seen |
@@ -41,8 +41,8 @@ base + āvī \> app
 
 Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, in **feminine** like **nadī** and the **neuter** like **aṭṭhi**
 
-|  | **Masculine** | **Feminine** | **Neuter** |  |  |  |
-|---|---|---|---|---|---|---|
+| | **Masculine** | **Feminine** | **Neuter** | | | |
+| --- | --- | --- | --- | --- | --- | --- |
 | nom | dass**āvī** | dass**āvino** | dass**āvinī** | dass**āviniyo** | dass**āvi**<br>dass**āviṃ** | dass**āvīni**<br>dass**āvī** |
 | acc | dass**āviṃ**<br>dass**āvinaṃ** | dass**āvino** | dass**āviniṃ** | dass**āviniyo** | dass**āvi**<br>dass**āviṃ** | dass**āvīni**<br>dass**āvī** |
 | instr | dass**āvinā** | dass**āvihi**<br>dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā** | dass**āvihi**<br>dass**āvīhi** |

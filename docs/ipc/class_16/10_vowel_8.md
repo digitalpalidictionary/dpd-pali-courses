@@ -16,7 +16,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **y (common)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | n**a** | **i**massa | na**y**imassa |
 | not | of this | not of this |
@@ -24,7 +24,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | (all around) | searches | searches all around |
 | nav**a** | **i**me | nava**y**ime |
 | nine | these | these nine |
-| **v (common)** |  |  |
+| **v (common)** | | |
 | s**u** | **a**tthi | s**uva**tthi |
 | (well) | there is | well-being |
 | kālass’ev**a** | **u**ṭṭhahanto | kālass’ev**a v**uṭṭhahanto |
@@ -34,7 +34,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **m (common)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | idh**a** | **ā**hu | idha**m**āhu |
 | here | they say | here they say |
@@ -45,7 +45,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **d (common)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tāv**a** | **e**va | tāva**d**eva |
 | so long | just | right then |
@@ -55,7 +55,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | perfectly | understanding | understanding perfectly |
 | kiñc**i** | **e**va | kiñci**d**eva |
 | something | just | just something |
-| **n (rare)** |  |  |
+| **n (rare)** | | |
 | vutta atth**ā** | **e**va | vutt’atthā**n**eva |
 | said meaning | just | the meanings have already been stated |
 | s**a** | **d**iṭṭhi | sa**n**diṭṭhi |
@@ -63,7 +63,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **t (rare)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ajj**a** | **a**gge | ajja**t**agge |
 | today | first / top | from today onwards |
@@ -72,7 +72,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **r (common)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | cat**u** | **a**ṅgī | catu**r**aṅgī |
 | four | parts | four parts |
@@ -83,7 +83,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **ḷ (only with cha)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ch**a** | **a**bhiñña | cha**ḷ**abhiñña |
 | six | knowledge | six psychic powers |
@@ -92,7 +92,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **h (very rare)**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | s**u** | **u**ṭṭhita | su**h**uṭṭhita |
 | (good) | got up | good wake up |

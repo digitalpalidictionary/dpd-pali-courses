@@ -2,7 +2,7 @@
 
 Substantives are formed by taking a noun and adding a suffix at the end.
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | suta | knowledge | suta**vant** | has knowledge | well-studied |
 | vaṇṇa | colour | vaṇṇa**vant** | has colour | good-looking |
@@ -54,8 +54,8 @@ At which time, monks, the **thieves** are **powerful** …
 
 ## Declension of *-ant masc*
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | bhagav**ā**<br>bhagav**anto** | bhagav**anto**<br>bhagav**antā** |
 | 2.acc | bhagav**antaṃ** | bhagav**ante** |
 | 3.inst | bhagav**atā** | bhagav**antehi** |

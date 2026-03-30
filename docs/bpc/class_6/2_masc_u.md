@@ -1,7 +1,7 @@
 # Masculine nouns ending in -u
 
-|  | **example** |
-|---|---|
+| | **example** |
+| --- | --- |
 | - u | bhikkh**u** ; gar**u** |
 | - tu / -tar (1) | sat**t**h**ar ;** bhāsi**tar** |
 | - tu / -tar (2) | pit**ar** ; bhāt**ar** |
@@ -9,8 +9,8 @@
 
 ## Masculine nouns ending in -u like bhikkhu {: #declension-of-u-masc}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1. nom | bhikkh**u** | bhikkh**ū**<br>bhikkh**avo** |
 | 2. acc | bhikkh**uṃ** | bhikkh**ū**<br>bhikkh**avo** |
 | 3. instr | bhikkh**unā** | bhikkh**ūhi** |
@@ -30,8 +30,8 @@ the Sanskrit equivalent, ending in **-tṛ**.
 
 They are collectively known as **agent nouns** because they describe a person who does the action of the verbal root
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √sās | to teach | √sās \> sass + tar \> satthar | teacher |
 | √bhar | to support | √bhar + tar \> bhattar | lord |
 | √khā | to tell | ā + √khā + tar \> akkhātar | speaker |
@@ -54,7 +54,7 @@ They are collectively known as **agent nouns** because they describe a person wh
 
 **Declension of -ar masc**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | satth**ā** | satth**āro** |
 | 2.acc | satth**āraṃ** | satth**āre**<br>satth**āro** |
@@ -74,13 +74,13 @@ These nouns include all the close family relations, like bhātar (brother), pita
 In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
 | **Pāli** | **Sanskrit** |
-|---|---|
+| --- | --- |
 | bhātu (BD)<br>bhātar (PED) | bhrātṛ |
 | pitu (BD)<br>pitar (PED) | pitṛ |
 
 **Declension of -ar2 masc**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | bhāt**ā** | bhāt**aro** |
 | 2.acc | bhāt**araṃ** | bhāt**are**<br>bhāt**aro** |
@@ -93,9 +93,9 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
 ## Comparison table for nouns ending in -u
 
-|  | u | tu<br>2 | tu1 | u | tu2 | tu1 |
-|---|---|---|---|---|---|---|
-|  | singular | singular | singular | plural | plural | plural |
+| | u | tu<br>2 | tu1 | u | tu2 | tu1 |
+| --- | --- | --- | --- | --- | --- | --- |
+| | singular | singular | singular | plural | plural | plural |
 | 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū**<br>bhikkh**avo** | bhāt**aro** | satth**āro** |
 | 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū**<br>bhikkh**avo** | bhāt**are**<br>bhāt**aro** | satth**āre**<br>satth**āro** |
 | 3.inst | bhikkh**unā** | bhāt**arā**<br>bhāt**unā** | satth**ārā**<br>satth**unā** | bhikkh**ūhi** | bhāt**arehi**<br>bhāt**ūhi** | satth**ārehi** |

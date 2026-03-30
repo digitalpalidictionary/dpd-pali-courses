@@ -20,7 +20,7 @@ Pronouns are declined in **all three genders** when standing by themselves.
 
 When used together with other nouns, they agree with the noun in **gender**, **case**, and **number**.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tā bhikkhuniyo | fem.nom.pl | those nuns |
 | ko āhāro | masc.nom.sg | what food? |
@@ -32,7 +32,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 **ta “he, that” masculine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | s**o** | t**e** |
 | 2.acc | t**aṃ** | t**e** |
@@ -42,8 +42,8 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assa** | t**esaṃ** |
 | 7.loc | t**amhi**<br>t**asmiṃ** | t**esu** |
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **tehi** pañcahi bhikkhusatehi | **with those** 500 monks |
 | **tamhi tamhi** satta-nikāye | in whichever class of beings<br>(literally: **in that in that)** |
 | **tesaṃ** bhikkhūnaṃ etadahosi | this occurred **to those** monks |
@@ -53,7 +53,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 **ta “she, that” feminine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | s**ā** | t**ā**<br>t**āyo** |
 | 2.acc | t**aṃ** | t**ā**<br>t**āyo** |
@@ -63,8 +63,8 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | 6.gen | t**assā** | t**āsaṃ**<br>**tāsānaṃ** |
 | 7.loc | t**issaṃ**<br>t**assaṃ**<br>t**āyaṃ** | t**āsu** |
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **tā** āpattiyo | **those** offences |
 | **tā** bhikkhuniyo | **those** nuns |
 | **tāya** sīla-sampadāya | **with that** moral attainment |
@@ -74,7 +74,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 **ta “it, that” neuter**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | t**aṃ**<br>t**ad** | t**e**<br>t**āni** |
 | 2.acc | t**aṃ**<br>t**ad** | t**e**<br>t**āni** |
@@ -92,15 +92,15 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 It is declined exactly like ta, but with an initial *“***e***”*.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **etad** ahosi | lit. **this** was <br>(this thought occurred) |
 | **etena** brāhmaṇo hoti | he is a Brahman **by this** |
 | **etassa** bhāsitassa attho | the meaning **of this** saying |
 
 **ima “this” masculine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**e** |
 | 2.acc | im**aṃ** | im**e** |
@@ -112,8 +112,8 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 
 Grammars give **many** forms, but these are the most common ones in the Tipiṭaka.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **ayaṃ** loko | **this** world |
 | **ime** sattā | **these** beings |
 | **iminā** ariyena saṃvarena | **with this** noble restraint |
@@ -127,7 +127,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 **ima “this” feminine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**ā**<br>im**āyo** |
 | 2.acc | im**aṃ** | im**ā**<br>im**āyo** |
@@ -137,8 +137,8 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | a**ssā**<br>imi**ssā**<br>im**āya** | im**āsaṃ** |
 | 7.loc | imi**ssaṃ**<br>im**āyaṃ** | im**āsu** |
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **imā** aṭṭha parisā | **these** eight assemblies |
 | **imāhi** gāthāhi | **with these** verses |
 | **imāya** dhammadesanāya | **from this** dhamma talk |
@@ -148,7 +148,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 **ima “this” neuter**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | id**aṃ**<br>im**aṃ** | im**e**<br>im**āni** |
 | 2.acc | id**aṃ**<br>im**aṃ** | im**e**<br>im**āni** |
@@ -160,7 +160,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 **ya “whoever” masculine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | y**o** | y**e** |
 | 2.acc | y**aṃ** | y**e** |
@@ -172,7 +172,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 **ya “whoever” feminine**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | y**ā** | y**ā**<br>y**āyo** |
 | 2.acc | y**aṃ** | y**ā**<br>y**āyo** |
@@ -184,7 +184,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 
 **ya “whoever” neuter**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | y**aṃ**<br>y**ad** | y**e**<br>y**āni** |
 | 2.acc | y**aṃ**<br>y**ad** | y**e**<br>y**āni** |
@@ -198,9 +198,9 @@ The good news is that all the rest of the pronouns follow the same declension pa
 
 ## Comparison table for pronouns masc
 
-|  | ta | ima | ya | ta | ima | ya |
-|---|---|---|---|---|---|---|
-|  |  | singular |  |  | plural |  |
+| | ta | ima | ya | ta | ima | ya |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | singular | | | plural | |
 | 1.nom | s**o**<br>s**a** | ay**aṃ** | y**o** | t**e** | im**e** | y**e** |
 | 2.acc | t**aṃ** | im**aṃ** | y**aṃ** | t**e** | im**e** | y**e** |
 | 3.inst | t**ena** | im**inā**<br>an**ena** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
@@ -211,9 +211,9 @@ The good news is that all the rest of the pronouns follow the same declension pa
 
 ## Comparison table for pronouns fem
 
-|  | ta | ima | ya | ta | ima | ya |
-|---|---|---|---|---|---|---|
-|  |  | singular |  |  | plural |  |
+| | ta | ima | ya | ta | ima | ya |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | singular | | | plural | |
 | 1.nom | s**ā** | ay**aṃ** | y**ā** | t**ā**<br>t**āyo** | im**ā**<br>im**āyo** | y**ā**<br>y**āyo** |
 | 2.acc | t**aṃ** | im**aṃ** | y**aṃ** | t**ā**<br>t**āyo** | im**ā**<br>im**āyo** | y**ā**<br>y**āyo** |
 | 3.inst | t**āya** | im**āya** | y**āya** | t**āhi** | im**āhi** | y**āhi** |
@@ -224,9 +224,9 @@ The good news is that all the rest of the pronouns follow the same declension pa
 
 ## Comparison table for pronouns nt
 
-|  | ta | ima | ya | ta | ima | ya |
-|---|---|---|---|---|---|---|
-|  |  | singular |  |  | plural |  |
+| | ta | ima | ya | ta | ima | ya |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | singular | | | plural | |
 | 1.nom | t**aṃ**<br>t**ad** | id**aṃ**<br>im**aṃ** | y**aṃ** | t**e**<br>t**āni** | im**e**<br>im**āni** | y**e**<br>y**āni** |
 | 2.acc | t**aṃ**<br>t**ad** | id**aṃ**<br>im**aṃ** | y**aṃ**<br>y**ad** | t**e**<br>t**āni** | im**e**<br>im**āni** | y**e**<br>y**āni** |
 | 3.inst | t**ena** | an**ena**<br>im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
@@ -237,7 +237,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 
 ## Some common pronouns (in the nominative case)
 
-|  |  |
+| | |
 | --- | --- |
 | ahaṃ | I |
 | mayaṃ | we |

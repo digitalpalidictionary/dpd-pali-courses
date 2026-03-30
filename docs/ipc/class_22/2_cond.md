@@ -14,18 +14,18 @@ How is the conditional reflexive formed? (Theoretically) How is the passive form
 
 **Conditional Active “[if] would be; could have been”**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | sg | pl |
+| | sg | pl |
 | 3 paṭhama | abhav**issa**<br>abhav**issā** | abhav**issaṃsu** |
 | 2 majjhima | abhav**issa**<br>abhav**isse** | abhav**issatha** |
 | 1 uttama | abhav**issaṃ** | abhav**issamha**<br>abhav**issāmhā** |
 
 **Conditional Reflexive “[if] oneself would be; could have been by oneself”**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | sg | pl |
+| | sg | pl |
 | 3 paṭhama | abhav**issatha** | abhav**issiṃsu** |
 | 2 majjhima | abhav**issase** | abhav**issavhe** |
 | 1 uttama | abhav**issiṃ** | abhav**issāmhase** |

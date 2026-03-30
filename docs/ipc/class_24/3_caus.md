@@ -46,7 +46,7 @@ rājā **purisena** **rukkhaṃ** chindāpeti
 
 Please remember a whole family of related words can be built from one causal base, e.g. √bhū + \*e \> bhāve
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | pr | **bhāve**ti | develops |
 | aor | **bhāve**si | developed |

@@ -22,10 +22,10 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 
 **Parassapada**
 
-|  |  |  |  |  |  |  |
+| | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | **3 paṭhama** | **2 majjhima** | **1 uttama** |  |  |  |
-|  | s | pl | s | pl | s | pl |
+| | **3 paṭhama** | **2 majjhima** | **1 uttama** | | | |
+| | s | pl | s | pl | s | pl |
 | vattamānā | ti | anti | si | tha | mi | ma |
 | pañcamī | tu | antu | hi | tha | mi | ma |
 | sattamī | eyya | eyyuṃ | eyyāsi | eyyātha | eyyāmi | eyyāma |
@@ -37,10 +37,10 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 
 **Attanopada**
 
-|  |  |  |  |  |  |  |
+| | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | **3 paṭhama** | **2 majjhima** | **1 uttama** |  |  |  |
-|  | **s** | **pl** | **s** | **pl** | **s** | **pl** |
+| | **3 paṭhama** | **2 majjhima** | **1 uttama** | | | |
+| | **s** | **pl** | **s** | **pl** | **s** | **pl** |
 | **vattamānā** | te | ante<br>re | se | vhe | e | mhe |
 | **pañcamī** | taṃ | antaṃ | ssu | vho | e | āmase |
 | **sattamī** | etha | eraṃ | etho | eyyāvho | eyyaṃ | eyyāmhe |

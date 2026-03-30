@@ -4,8 +4,8 @@ In DPD there are more than 150 suffixes of primary derivatives that are used to 
 
 The **first 18** account for **83%** of the words formed by *kita* suffixes, so these are the most important to know.
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1 | **+ ta** | 2014 |
 | 2 | **+ a** | 1684 |
 | 3 | **+ \*a** | 1442 |
@@ -35,8 +35,8 @@ Here are most of *kita* suffixes in DPD
 
 suffix **ta** is the most common kita suffix. As we saw last week, it is used to form **past participles**, but also a large group of **adjectives** and a few **neuter nouns** and **masculine nouns** which are derived from the past participle.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **pp** | 1617 |
 | **adj** | 158 |
 | **nt** | 147 |
@@ -45,7 +45,7 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 
 **+ ta masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √budh | to wake up | **+ ta** | bud**dha** | awakened one |
 | √dhur | to be corrupt | **+ ta** | dhut**ta** | rogue |
@@ -53,14 +53,14 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 | vi ā √rabh | to begin | **+ ta** | viyārab**bha** | effort |
 | √saj | to cling | **+ ta** | visa**ta** | attachment |
 | √kudh | to be angry | **+ ta** | kud**dha** | angry person |
-| **+ ta neuter nouns** |  |  |  |  |
+| **+ ta neuter nouns** | | | | |
 | nī √as | to throw | **+ ta** | nirat**ta** | rejecting |
 | √chad | to cover | **+ ta** | chat**ta** | sunshade |
 | √gā | to sing | **+ ta** | g**īta** | song |
 | √hu | to offer, sacrifice | **+ ta** | hu**ta** | oblation |
 | √pā | to drink | **+ ta** | p**īta** | drink |
 | √tud | to stab | **+ ta** | tut**ta** | spear |
-| **+ ta adjectives** |  |  |  |  |
+| **+ ta adjectives** | | | | |
 | dur √kar | to do | **+ ta** | dukka**ṭa** | badly done |
 | su √gam | to go | **+ ta** | suga**ta** | going well |
 | nir √chā | to be hungry | **+ ta** | nicchā**ta** | satisfied |
@@ -69,8 +69,8 @@ suffix **ta** is the most common kita suffix. As we saw last week, it is used to
 
 suffix **a** is used to form a large group of **masculine nouns**, **masculine agent nouns**, **adjectives** and **neuter nouns.**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **masc** | 741 |
 | **adj** | 664 |
 | **nt** | 255 |
@@ -78,7 +78,7 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 
 **+ a masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | pa √as | to throw | **+ a** | pās**a** | throw |
 | √bham | to turn, spin | **+ a** | bham**a** | lathe |
@@ -96,7 +96,7 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 | √sar | to make sound | **+ a** | sar**a** | sound |
 | ā √tap | to burn | **+ a** | ātap**a** | sunshine |
 | √thamb | to be stiff | **+ a** | thamb**a** | pillar |
-| **+ a masculine agent nouns** |  |  |  |  |
+| **+ a masculine agent nouns** | | | | |
 | √jan | to be born | **+ a** | jan**a** | person |
 | √rāj | to rule | **+ a** | rāj**a** | king, ruler |
 | ā √rakkh | to guard | **+ a** | ārakkh**a** | guard |
@@ -108,7 +108,7 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 
 **+ a neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √bil | to break | **+ a** | bil**a** | piece |
 | √citt | to design | **+ a** | citt**a** | painting |
@@ -118,7 +118,7 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 | √kul | to be close | **+ a** | kul**a** | family |
 | √mūl | to support | **+ a** | mūl**a** | root |
 | √pad | to step | **+ a** | pad**a** | foot |
-| **+ a adjectives** |  |  |  |  |
+| **+ a adjectives** | | | | |
 | √arah | to be worthy | **+ a** | arah**a** | worthy |
 | ā √bil | to break | **+ a** | āvil**a** | unclear |
 | √cal | to shake | **+ a** | cal**a** | unsteady |
@@ -135,8 +135,8 @@ suffix **a** is used to form a large group of **masculine nouns**, **masculine a
 
 suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nouns**, and a few **adjectives** and **neuter nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **masc** | 1064 |
 | **adj** | 299 |
 | **nt** | 75 |
@@ -144,7 +144,7 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 
 **+ \*a masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √bhid | to break | **+ \*a** | bh**e**d**a** | breaking up |
 | √bhū | to be | **+ \*a** | bh**ava** | existence |
@@ -167,7 +167,7 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 | √taḷ | to beat | **+ \*a** | t**ā**ḷ**a** | music |
 | vi √vic | to separate | **+ \*a** | viv**e**k**a** | solitude |
 | √yaj | to sacrifice | **+ \*a** | y**ā**j**a** | sacrifice, gift |
-| **+ \*a masculine agent nouns** |  |  |  |  |
+| **+ \*a masculine agent nouns** | | | | |
 | √mar | to die | **+ \*a** | m**ā**r**a** | Death |
 | √yudh | to fight | **+ \*a** | y**o**dh**a** | warrior |
 | ā √ruh | to climb | **+ \*a** | ār**o**h**a** | rider |
@@ -175,7 +175,7 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 
 **+ \*a neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √an | to breath | **+ \*a** | **ā**n**a** | breathing |
 | pati √bhaṇ | to speak | **+ \*a** | paṭibh**ā**n**a** | eloquence, wit |
@@ -187,7 +187,7 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 | √tir | to cross | **+ \*a** | t**ī**r**a** | riverbank |
 | √cil | to clothe | **+ \*a** | c**e**l**a** | clothing |
 | √ji | to conquer | **+ \*a** | j**aya** | victory |
-| **+ \*a adjectives** |  |  |  |  |
+| **+ \*a adjectives** | | | | |
 | √kuṭ | to be crooked | **+ \*a** | k**ū**ṭ**a** | false, corrupt |
 | √pac | to cook | **+ \*a** | p**āka** | cooked |
 | √sis | to remain | **+ \*a** | s**e**s**a** | remaining |
@@ -204,8 +204,8 @@ suffix **\*a** forms a large group of **masculine nouns**, **masculine agent nou
 
 suffix **nta** is used to form the **present participle**, which we looked at last week. it also forms a tiny group of **passive present participles**, **nouns** and **adjectives** based on the present participle
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **prp** | 1378 |
 | **adj** | 7 |
 | **masc** | 8 |
@@ -213,14 +213,14 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 
 **+ nta masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √as | to be | **+ nta** | sa**nta** | virtuous man |
 | anu √yā | to go | **+ nta** | anuya**nta** | subordinate |
 
 **+ nta adjectives**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √mah | to increase | **+ nta** | maha**nta** | great, large, big |
 | √brah | to increase | **+ nta** | braha**nta** | big; huge; large |
@@ -229,8 +229,8 @@ suffix **nta** is used to form the **present participle**, which we looked at la
 
 suffix **ita** is most often used to form **past participles**, but is also used to create a handful of **adjectives**, **neuter nouns** and a few **masculine nouns** which are derived from a past participle.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **pp** | 1066 |
 | **nt** | 110 |
 | **adj** | 105 |
@@ -239,7 +239,7 @@ suffix **ita** is most often used to form **past participles**, but is also used
 
 **+ ita masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √tus | to be content | **+ ita** | tus**ita** | heaven; lit. satisfied |
 | pa √vaj | to go on | **+ ita** | pabbaj**ita** | monk |
@@ -247,7 +247,7 @@ suffix **ita** is most often used to form **past participles**, but is also used
 
 **+ ita neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √bhaṇ | to talk | **+ ita** | bhaṇ**ita** | talk |
 | √bhās | to speak | **+ ita** | bhās**ita** | speech |
@@ -259,7 +259,7 @@ suffix **ita** is most often used to form **past participles**, but is also used
 | √ru | to cry, howl | **+ ita** | r**avita** | sound, cry |
 | √sup | to sleep | **+ ita** | sup**ita** | sleep |
 | pa √vedh | to fear, shake | **+ ita** | pavedh**ita** | trembling |
-| **+ ita adjectives** |  |  |  |  |
+| **+ ita adjectives** | | | | |
 | dur √car | to act | **+ ita** | duccar**ita** | bad; immoral |
 | su √bhū | to be | **+ ita** | subhāv**ita** | well cultivated |
 
@@ -267,8 +267,8 @@ suffix **ita** is most often used to form **past participles**, but is also used
 
 suffix **ana** is used to form a large group of **neuter nouns** and a few **adjectives**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **nt** | 1017 |
 | **adj** | 118 |
 | **masc** | 26 |
@@ -276,7 +276,7 @@ suffix **ana** is used to form a large group of **neuter nouns** and a few **adj
 
 **+ ana neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | pa √aj | to go, drive | **+ ana** | pāc**ana** | cattle prod, goad |
 | √as | to throw | **+ ana** | as**ana** | missile, arrow |
@@ -289,7 +289,7 @@ suffix **ana** is used to form a large group of **neuter nouns** and a few **adj
 | √vac | to speak | **+ ana** | vac**ana** | term, expression |
 | √vañc | to deceive | **+ ana** | vañc**ana** | fraud |
 | √vand | to worship | **+ ana** | vand**ana** | worship |
-| **+ ana adjectives** |  |  |  |  |
+| **+ ana adjectives** | | | | |
 | √jan | to produce | **+ ana** | jan**ana** | creating, causing |
 | upa √vatt | to go on | **+ ana** | upavatt**ana** | nearby |
 | √es | to search | **+ ana** | es**ana** | seeking, searching |
@@ -304,8 +304,8 @@ suffix **māna**, as we saw on the last class, is used to form the **present par
 
 suffix **na** is used to form a large group **of past participles** and a few **adjectives** and **masculine** and **neuter nouns.**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **pp** | 352 |
 | **masc** | 34 |
 | **adj** | 31 |
@@ -316,7 +316,7 @@ We already looked at the past participles last week, can you think of an example
 
 **+ na masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √dhov | to wash | **+ na** | dho**na** | pure being |
 | √ji | to conquer | **+ na** | ji**na** | conqueror, victor |
@@ -326,10 +326,10 @@ We already looked at the past participles last week, can you think of an example
 | √sad | to sink | **+ na** | pasan**na** | believer |
 | √var | to cover | **+ na** | vaṇ**ṇa** | colour, beauty, etc |
 | √yaj | to sacrifice | **+ na** | yañ**ña** | sacrifice, offering |
-| **+ na neuter nouns** |  |  |  |  |
+| **+ na neuter nouns** | | | | |
 | √ad | to eat | **+ na** | an**na** | food |
 | pa √hā | to abandon | **+ na** | pahā**na** | giving up |
-| **+ na adjectives** |  |  |  |  |
+| **+ na adjectives** | | | | |
 | su √var | to cover | **+ na** | suvaṇ**ṇa** | beautiful |
 | dur √chad | to cover | **+ na** | ducchan**na** | poorly-roofed |
 | su √car | to act | **+ na** | suc**i**ṇ**ṇa** | well practised |
@@ -338,8 +338,8 @@ We already looked at the past participles last week, can you think of an example
 
 suffix **ti** is used mostly to form **feminine nouns**, but there are also a few **adjectives** and **masculine nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **fem** | 297 |
 | **adj** | 12 |
 | **masc** | 6 |
@@ -347,7 +347,7 @@ suffix **ti** is used mostly to form **feminine nouns**, but there are also a fe
 
 **+ ti feminine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √budh | to know | **+ ti** | bud**dhi** | discernment |
 | √cu | to fall | **+ ti** | cu**ti** | passing away |
@@ -364,8 +364,8 @@ suffix **ti** is used mostly to form **feminine nouns**, but there are also a fe
 
 suffix **aṇa** is used to form a large group of **neuter nouns** and a few **adjectives** and **masculine nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **nt** | 204 |
 | **adj** | 47 |
 | **masc** | 13 |
@@ -373,7 +373,7 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 
 **+ aṇa neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √añj | to smear | **+ aṇa** | aṅg**aṇa** | spot, blemish |
 | √bhar | to support | **+ aṇa** | bhar**aṇa** | support, help |
@@ -389,14 +389,14 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 
 **+ aṇa masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | vi √cakkh | to see | **+ aṇa** | vicakkh**aṇa** | intelligent person |
 | ava √har | to take | **+ aṇa** | avahar**aṇa** | one who stealing |
 
 **+ aṇa adjectives**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | na √añj | to smear | **+ aṇa** | anaṅg**aṇa** | spotless |
 | vi √cakkh | to see | **+ aṇa** | vicakkh**aṇa** | watchful, wise |
@@ -408,13 +408,13 @@ suffix **aṇa** is used to form a large group of **neuter nouns** and a few **a
 
 suffix **ā** is only used to form **feminine nouns**, many of them **abstract** feminine nouns
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **fem** | 246 |
 
 **+ ā feminine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √day | to take pity | **+ ā** | day**ā** | compassion |
 | √dis | to point out | **+ ā** | dis**ā** | direction |
@@ -431,8 +431,8 @@ suffix **ā** is only used to form **feminine nouns**, many of them **abstract**
 
 suffix **aka** is used to form a large group of **masculine agent nouns** and a few **adjectives** and **neuter nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **masc** | 111 |
 | **adj** | 88 |
 | **nt** | 18 |
@@ -440,7 +440,7 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 
 **+ aka masculine agent nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | upa √ās | to sit | **+ aka** | upās**aka** | disciple |
 | √bhikkh | to beg | **+ aka** | bhikkh**aka** | beggar |
@@ -451,14 +451,14 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 | √pucch | to question | **+ aka** | pucch**aka** | questioner |
 | √raj | to dye | **+ aka** | raj**aka** | dyer, painter |
 | √vadh | to kill | **+ aka** | vadh**aka** | murderer |
-| **+ aka neuter nouns** |  |  |  |  |
+| **+ aka neuter nouns** | | | | |
 | √kan | to shine | **+ aka** | kan**aka** | gold |
 | √kat | to cut | **+ aka** | kaṇṭ**aka** | thorn |
 | √ud | to be wet | **+ aka** | ud**aka** | water |
 
 **+ aka adjectives**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | vi √sajj | to let loose | **+ aka** | vissajj**aka** | distributing |
 | vi √dis | to see | **+ aka** | vipass**aka** | insightful |
@@ -467,8 +467,8 @@ suffix **aka** is used to form a large group of **masculine agent nouns** and a 
 
 suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are often used as **masculine agent nouns**, as well as some **feminine nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **adj** | 140 |
 | **masc** | 24 |
 | **fem** | 18 |
@@ -476,13 +476,13 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 
 **+ ī masculine agent nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √jhā | to meditate | **+ ī** | jhā**yī** | meditator |
 | √sukh | to please | **+ ī** | sukh**ī** | happy one |
 | √gaves | to seek | **+ ī** | gavesī | seeker |
 | √dus | to be corrupt | **+ ī** | dūsī | corrupter |
-| **+ ī feminine nouns** |  |  |  |  |
+| **+ ī feminine nouns** | | | | |
 | √hir | to be ashamed | **+ ī** | hir**ī** | sense of shame |
 | √kas | to drag, plough | **+ ī** | kas**ī** | ploughing, farming |
 | √nad | to roar | **+ ī** | nad**ī** | river |
@@ -492,7 +492,7 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 
 **+ ī adjectives**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | apa √cāy | to honour | **+ ī** | apacāy**ī** | honouring |
 | √dhaṃs | to fall | **+ ī** | dhaṃs**ī** | corrupt, fallen |
@@ -506,7 +506,7 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 
 **+ anā abstract feminine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √gaṇ | to add | **+ anā** | gaṇ**anā** | calculation |
 | √iñj | to move | **+ anā** | iñj**anā** | movement |
@@ -523,8 +523,8 @@ suffix **ī** (Sanskrit -in) is used to form **possessive adjectives** which are
 
 suffix **\*ana** is used to form a large group of **neuter nouns** and a few **adjectives**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **nt** | 120 |
 | **adj** | 25 |
 | **masc** | 6 |
@@ -532,7 +532,7 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 
 **+ \*ana neuter nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √bhid | to break | **+ \*ana** | bh**e**d**ana** | breakage |
 | √chid | to cut | **+ \*ana** | ch**e**d**ana** | stabbing, cutting |
@@ -540,7 +540,7 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | √pus | to nourish | **+ \*ana** | p**o**s**ana** | taking care of |
 | √sī | to sleep | **+ \*ana** | s**ayana** | bed, couch |
 | √vis | to enter | **+ \*ana** | niv**e**s**ana** | house, home |
-| **+ \*ana adjectives** |  |  |  |  |
+| **+ \*ana adjectives** | | | | |
 | sa √bhuj | to eat, enjoy | + **\*ana** | sabh**o**jan**a** | with food |
 | na √cit | to think | + **\*ana** | ac**e**t**ana** | unconscious |
 | parā √i | to go | + **\*ana** | par**āyana** | destined for |
@@ -554,7 +554,7 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 
 suffix \***ī** is used to form a large group of **adjectives** and some **masculine agent nouns**
 
-|  |  |
+| | |
 | --- | --- |
 | adj | 143 |
 | masc | 9 |
@@ -563,13 +563,13 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 
 **+ \*ī agent nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √bhaj | to divide | **+ \*ī** | bh**ā**g**ī** | shareholder |
 | √kar | to do | **+ \*ī** | k**ā**r**ī** | doer, maker, agent |
 | √vad | to speak | **+ \*ī** | v**ā**d**ī** | speaker; adherent |
 | √yuj | to join | **+ \*ī** | y**o**g**ī** | meditator |
-| **+ \*ī adjectives** |  |  |  |  |
+| **+ \*ī adjectives** | | | | |
 | √bhaṇ | to speak | **+ \*ī** | bh**ā**ṇ**ī** | speaking |
 | √car | to act | **+ \*ī** | c**ā**r**ī** | living, behaving |
 | √gah | to grasp | **+ \*ī** | g**ā**h**ī** | grabbing, grasping |
@@ -584,8 +584,8 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 
 suffix **i** is used to forming a large group of **feminine and masculine nouns** and a few **adjectives** and **neuter nouns**
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **fem** | 60 |
 | **masc** | 47 |
 | **adj** | 19 |
@@ -594,7 +594,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 **+ i masculine nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | upa √ādā | to take | **+ i** | upād**i** | fuel, clinging |
 | √atth | to wish | **+ i** | atth**i** | seeker |
@@ -605,7 +605,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | vi ā √dhā | to support | **+ i** | byādh**i** | disease |
 | na √suc | to be pure | **+ i** | asuc**i** | filth |
 | √jhā | to think | **+ i** | jhāy**i** | meditator |
-| **+ i feminine nouns** |  |  |  |  |
+| **+ i feminine nouns** | | | | |
 | √acc | to shine | **+ i** | acc**i** | flame |
 | √ganth | to tie | **+ i** | gaṇṭh**i** | knot |
 | √hir | to be ashamed | **+ i** | hir**i** | sense of shame |
@@ -617,7 +617,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 **+ i neuter nouns (rare)**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √akkh | to see | **+ i** | akkh**i** | eye |
 | √dhe | to drink | **+ i** | dadh**i** | curd |
@@ -625,7 +625,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 **+ i adjectives**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √suc | to be pure | **+ i** | suc**i** | pure |
 | sa √akkh | to see | **+ i** | sakkh**i** | personally experiencing |
@@ -634,8 +634,8 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 ## \*aka
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | **masc** | 86 |
 | **adj** | 44 |
 | **nt** | 8 |
@@ -643,7 +643,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 
 **+ \*aka masculine agent nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √cud | to accuse | **+ \*aka** | c**o**d**aka** | accuser |
 | √gah | to hold | **+ \*aka** | g**ā**h**aka** | carrier |
@@ -654,7 +654,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √vad | to speak | **+ \*aka** | v**ā**d**aka** | speaker |
 | ni √gah | to seize | **+ \*aka** | nigg**ā**h**aka** | oppressor |
 | pari √vaj | to go on | **+ \*aka** | paribb**ā**j**aka** | wanderer |
-| **+ \*aka adjectives** |  |  |  |  |
+| **+ \*aka adjectives** | | | | |
 | √dhar | to carry | **+ \*aka** | dh**ā**r**aka** | remembering |
 | √dus | to corrupt | **+ \*aka** | d**ū**s**aka** | corrupting |
 | √har | to carry | **+ \*aka** | h**ā**r**aka** | carrying |

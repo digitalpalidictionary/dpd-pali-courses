@@ -26,7 +26,7 @@ samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
 
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | devamanussā | devā ca manussā ca | gods and men |
 | ajeḷakā | ajā ca eḷakā ca | goats and sheep |
@@ -46,7 +46,7 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 
 “grass, timber, branches, and leaves”
 
-|  |  |
+| | |
 | --- | --- |
 | ahorattaṃ | day and night |
 | anayabyasanaṃ | misfortune and disaster |

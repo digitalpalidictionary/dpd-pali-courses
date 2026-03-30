@@ -2,7 +2,7 @@
 
 ## ma (ordinal numbers)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | pañca | + ma | pañca**ma** | fifth |
 | satta | + ma | satta**ma** | seventh |
@@ -14,28 +14,28 @@
 
 ## tiya (ordinal numbers)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dvi | + tiya | du**tiya** | second |
 | ti | + tiya | ta**tiya** | third |
 
 ## ttha & ṭṭha (ordinal numbers)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | catu | + ttha | catu**ttha** | fourth |
 | cha | + ṭṭha | cha**ṭṭha** | sixth |
 
 ## \*ī (ordinal numbers)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | pañcadasa | + \*ī | p**a**ṇṇaras**ī** | fifteenth |
 | catuddasa | + \*ī | c**ā**tuddas**ī** | fourteenth |
 
 ## ka (collective numerals)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dvi | + ka | dvi**ka** | consisting of two |
 | ti | + ka | ti**ka** | consisting of three |
@@ -49,7 +49,7 @@
 
 ## ika (collective numerals)
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | sata | + ika | sat**ika** | consisting of hundred |
 | sahassa | + ika | sahass**ika** | consisting of thousand |

@@ -8,7 +8,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Compounds Chapter 12 |
 | Perniola | Nominal Compounds Chapter 9 (p157) |

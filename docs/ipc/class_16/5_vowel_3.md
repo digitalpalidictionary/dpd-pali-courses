@@ -22,7 +22,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | c**a** | **a**pi | c**ā**pi |
 | and | even | and even |
@@ -35,7 +35,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | s**ā** | **a**ssa | s**ā**ssa |
 | she | for him | that for him |
@@ -44,7 +44,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **i![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ap**i** | **a**haṃ | ap**ā**haṃ |
 | even | I | even I |
@@ -55,7 +55,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **e![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | sac**e** | **a**yaṃ | sac**ā**yaṃ |
 | if | this | if this |
@@ -64,7 +64,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **o![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | s**o** | **a**haṃ | s**ā**haṃ |
 | that | I | that I |
@@ -73,28 +73,28 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | saddh**ā** | **i**dha | saddh**ī**dha |
 | faith | here | faith here |
 
 **i![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | yān**i** | **i**dha | yān**ī**dha |
 | whoever | here | whoever here |
 
 **ī![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | kik**ī** | **i**va | kik**ī**va |
 | blue jay | like | like a blue jay |
 
 **a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | acir**a** | **u**pasampanna | acir**ū**pasampanna |
 | not long | ordained | recently ordained |
@@ -107,11 +107,11 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 
 **ā![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tath**ā** | **u**pama | tath**ū**pama |
 | such | like | similar to that |
-| **u![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū** |  |  |
+| **u![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū** | | |
 | bah**u** | **u**pakāra | bah**ū**pakāra |
 | much | help | very helpful |
 

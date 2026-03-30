@@ -8,7 +8,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Chapter 10 Verbs (para 354 - 404) |
 | Perniola | Chapter 6 The Verb (p83 - 101) |

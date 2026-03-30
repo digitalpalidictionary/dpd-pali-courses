@@ -20,7 +20,7 @@ and (17) **yam’edantass’ādeso.**
 
 **i![](../../assets/images/arrow.png)a \> ya**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | pamutt**i** | **a**tthi | pamut**ya**tthi |
 | liberation | there is | there is freedom |
@@ -29,21 +29,21 @@ and (17) **yam’edantass’ādeso.**
 
 **i![](../../assets/images/arrow.png)ā \> yā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | v**i** | **ā**karaṇa | v**yā**karaṇa |
 | (divide) | making | grammar *(byākaraṇa)* |
 
 **ī![](../../assets/images/arrow.png)a \> yā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | dās**ī** | **a**haṃ | dās**yā**haṃ |
 | female servant | I am | I am a female servant |
 
 **e![](../../assets/images/arrow.png)a \> ya**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | t**e** | **a**ssu | t**ya**ssu |
 | they | they may be | they may be |
@@ -52,7 +52,7 @@ and (17) **yam’edantass’ādeso.**
 
 **e![](../../assets/images/arrow.png)a \> yā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | t**e** | **a**haṃ | t**yā**haṃ |
 | your | I | I your |

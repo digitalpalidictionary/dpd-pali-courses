@@ -6,7 +6,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **fit for, suitable**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √kar | karoti | alaṅkaroti | decorates |
 | √kar | kāra | alaṅkāra | jewellery, adornment |
@@ -15,7 +15,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **inside, between**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √dhā | dhāyati | antaradhāyati | disappears |
 | √dhā | dhāpeti | antaradhāpeti | makes vanish |
@@ -24,7 +24,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **homewards**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √gam | gama | atthaṅgama | disappearance |
 | √gam | gata | atthaṅgata | disappeared |
@@ -33,7 +33,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **in full view, in sight, in view, manifestly, visibly.**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √kar | karoti | āvikaroti | clarifies, makes open |
 | √bhū | bhāva | āvibhāva | appearance |
@@ -42,7 +42,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **in front, manifestly, evidently**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √bhū | bhavati | pātubhavati | appears, manifests |
 | √bhū | ahosi | pāturahosi | appeared, manifested |
@@ -54,7 +54,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **again**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √bhū | bhava | punabbhava | rebirth |
 
@@ -62,7 +62,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **in front, before, forward**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √kar | khatvā | purakkhatvā | having put in front |
 | √kar | khata | purakkhata | preferred |
@@ -71,7 +71,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **personally witnessed**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √kar | karoti | sacchikaroti | personally experiences |
 | √kar | kata | sacchikata | personally experienced |
@@ -81,9 +81,9 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **out of sight, across, beyond**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
-|  | kuṭṭa | tirokuṭṭaṃ | through a wall |
+| | kuṭṭa | tirokuṭṭaṃ | through a wall |
 | √vass | vassa | terovassika | many years old |
 | √bhū | bhāva | tirobhāva | disappearance |
 
@@ -91,7 +91,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **without, devoid (of); apart from**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √bhū | bhāva | vinābhāva | separation |
 | √kar | karoti | vinākaroti[^17] | separates |
@@ -102,7 +102,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 **being, existing, good, right**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | sat | attha | sadattha | highest good |
 | sat | dhamma | saddhamma | true teaching |

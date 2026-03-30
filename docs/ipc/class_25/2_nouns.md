@@ -4,7 +4,7 @@
 
 **concrete nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √nad | to roar | + ī | nadī | river |
 | √akkh | to see | + i | akkhi | eye |
@@ -16,7 +16,7 @@
 
 **action nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | pa + √vatt | to be, proceed | + a | pavattana | happening |
 | √bhar | to support | + aṇa | bharaṇa | supporting |
@@ -27,7 +27,7 @@
 
 **abstract nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √sad | to sink, sit, settle | + \*a | pasāda | brightness |
 | √day | to take pity | + ā | dayā | compassion |
@@ -40,7 +40,7 @@
 
 **agent nouns**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | √mar | to die | + \*a | māra | death |
 | √gaṇ | to calculate | + aka | gaṇaka | accountant |

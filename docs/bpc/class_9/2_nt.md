@@ -1,10 +1,9 @@
 # Neuter Nouns
 
 These are very common, more than 17000 words in the current DPD database[^21].
-
 [^21]: Relevant for 2025 year
 
-|  |  |
+| | |
 | --- | --- |
 | citta | mind |
 | rūpa | matter; form |
@@ -21,8 +20,8 @@ These are very common, more than 17000 words in the current DPD database[^21].
 
 ## Declension of Neuter Nouns ending in -a {: #declension-of-neuter-nouns-ending-in-a}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | citt**aṃ** | citt**ā**<br>citt**āni** |
 | 2.acc | citt**aṃ** | citt**e**<br>citt**āni** |
 | 3.inst | citt**ena** | citt**ehi** |
@@ -36,8 +35,8 @@ What do you notice in regard to the declension of neuter nouns?
 
 ## Comparison between Masculine and Neuter Nouns -a
 
-|  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
-|---|---|---|---|---|
+| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| --- | --- | --- | --- | --- |
 | 1.nom | nar**o** | citt**aṃ** | nar**ā** | citt**ā**<br>citt**āni** |
 | 2.acc | nar**aṃ** | citt**aṃ** | nar**e** | citt**e**<br>citt**āni** |
 | 3.inst | nar**ena** | citt**ena** | nar**ehi** | citt**ehi** |
@@ -51,8 +50,8 @@ What do you notice in regard to the declension of neuter nouns?
 
 These are very rare, there are only few of them in the Tipiṭaka.
 
-|  |  |
-|---|---|
+| | |
+| --- | --- |
 | ādi | beginning, and so on, etc |
 | akkhi | eye |
 | aṭṭhi | bone |
@@ -65,8 +64,8 @@ These are very rare, there are only few of them in the Tipiṭaka.
 
 ## Declension of Neuter Nouns ending in -i {: #declension-of-neuter-nouns-ending-in-i}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | aṭṭh**i** | aṭṭh**ī**<br>aṭṭh**īni** |
 | 2.acc | aṭṭh**iṃ** | aṭṭh**ī**<br>aṭṭh**īni** |
 | 3.inst | aṭṭh**inā** | aṭṭh**īhi** |
@@ -78,8 +77,8 @@ These are very rare, there are only few of them in the Tipiṭaka.
 
 ## Comparison between Masculine and Neuter Nouns -i
 
-|  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
-|---|---|---|---|---|
+| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| --- | --- | --- | --- | --- |
 | 1.nom | agg**i** | aṭṭh**i** | agg**ī**<br>agg**ayo** | aṭṭh**ī**<br>aṭṭh**īni** |
 | 2.acc | agg**iṃ** | aṭṭh**iṃ** | agg**ī**<br>agg**ayo** | aṭṭh**ī**<br>aṭṭh**īni** |
 | 3.inst | agg**inā** | aṭṭh**inā** | agg**īhi** | aṭṭh**īhi** |
@@ -95,7 +94,7 @@ These are also rare, at most 400 in the current DPD database[^22].
 
 [^22]: Relevant for 2025 year
 
-|  |  |
+| | |
 | --- | --- |
 | vatthu | ground, land, case |
 | cakkhu | eye |
@@ -111,8 +110,8 @@ These are also rare, at most 400 in the current DPD database[^22].
 
 ## Declension of Neuter Nouns ending in -u {: #declension-of-neuter-nouns-ending-in-u}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | āy**u**<br>āy**uṃ** | āy**ū**<br>āy**ūni** |
 | 2.acc | āy**uṃ** | āy**ū**<br>āy**ūni** |
 | 3.inst | āy**unā** | āy**ūhi** |
@@ -124,8 +123,8 @@ These are also rare, at most 400 in the current DPD database[^22].
 
 ## Comparison between Masculine and Neuter Nouns -u
 
-|  | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
-|---|---|---|---|---|
+| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| --- | --- | --- | --- | --- |
 | 1.nom | bhikkh**u** | āy**uṃ**<br>āyu | bhikkh**ū**<br>bhikkh**avo** | āy**ū**<br>āy**ūni** |
 | 2.acc | bhikkh**uṃ** | āy**uṃ** | bhikkh**ū**<br>bhikkh**avo** | āy**ū**<br>āy**ūni** |
 | 3.inst | bhikkh**unā** | āy**unā** | bhikkh**ūhi** | āy**ūhi** |

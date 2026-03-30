@@ -2,7 +2,7 @@
 
 **off, away, away from, badly, negatively, wrongly, forth, reverentially, less, down**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √ci | to collect | apacināti | discards, sheds |
 | √lok | to look | apaloketi | looks away |

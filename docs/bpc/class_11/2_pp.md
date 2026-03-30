@@ -2,7 +2,7 @@
 
 The past participle is another **verbal adjective** which describes the action that a noun did (in the past). It is extremely common in the Tipiṭaka.
 
-|  |  |
+| | |
 | --- | --- |
 | bhāsati | he speaks |
 | **bhāsita** | (is) **spoken** |
@@ -25,7 +25,7 @@ There are, quite literally, thousands of examples...
 
 ### 1. root + ta
 
-|  |  |  |  |  |  |
+| | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | bhavati | √bhū | to be | + ta | bhūta | became |
 | passati | √dis | to see | + ta | di**ṭṭ**ha | seen |
@@ -41,7 +41,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 
 ### 2. root + ita
 
-|  |  |  |  |  |  |
+| | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | bhāsati | √bhās | to speak | + ita | bhāsita | spoken |
 | carati | √car | to walk | + ita | carita | walked |
@@ -55,7 +55,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 
 ### 3. base + ita
 
-|  |  |  |  |  |  |
+| | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | bhāveti | √bhū | bhāve | + ita | bhāvita | developed |
 | deseti | √dis | dese | + ita | desita | preached |
@@ -69,7 +69,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 
 ### 4. root + na
 
-|  |  |  |  |  |  |
+| | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | chindati | √chid | to cut | + na | chi**nn**a | cut |
 | jirati | √jīr | to age | + na | ji**ṇṇ**a | aged |
@@ -91,7 +91,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 
 e.g. gata
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | gat**o** | gat**ā** |
 | 2.acc | gat**aṃ** | gat**e** |
@@ -106,7 +106,7 @@ e.g. gata
 
 e.g. gatā
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | gat**ā** | gat**ā**<br>gat**āyo** |
 | 2.acc | gat**aṃ** | gat**ā**<br>gat**āyo** |
@@ -121,7 +121,7 @@ e.g. gatā
 
 e.g. gataṃ
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1.nom | gat**aṃ** | gat**ā**<br>gat**āni** |
 | 2.acc | gat**aṃ** | gat**e**<br>gat**āni** |

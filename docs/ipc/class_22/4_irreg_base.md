@@ -4,8 +4,8 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 
 **Irregular Present Tense Bases**
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | **√as** | sa | santi | there are |
 | **√chand** | chāde | chādeti | pleases; gives pleasure |
 | **√ḍaṃs** | ḍasa | ḍasati | bites, stings |
@@ -31,8 +31,8 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 
 **Irregular Aorist Bases**
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | **√kus** | koccha | akkocchi | abused |
 | **√labh** | lattha | alatthuṃ | they got; they obtained |
 | **√vac** | voca | avocuṃ | they said |
@@ -40,8 +40,8 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 
 **Irregular Future Bases**
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | **√bhā** | bhāhi | bhāhiti | will shine |
 | **√dā** | dassa | dassati | will give |
 | **√gah** | gahessa | gahessati | will grasp |

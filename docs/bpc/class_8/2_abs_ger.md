@@ -56,8 +56,8 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 ### 1. tvā added to the root
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √gam | to go | √gam + tvā | ga**n**tvā | having gone |
 | √dā | to give | √dā + tvā | d**a**tvā | having given |
 | √hū | to be | √hū + tvā | h**u**tvā | having been |
@@ -68,8 +68,8 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 ### 2. itvā added to the root
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √tar | to cross | √tar + itvā | taritvā | having crossed |
 | √vad | to speak | √vad + itvā | vaditvā | having said |
 | √ruh | to ascend | √ruh + itvā | ruhitvā | having climbed |
@@ -82,8 +82,8 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 Mostly group 8 verbs and causative verbs.
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √cint | cinte | cinte + tvā | cintetvā | having thought |
 | √mar | māre | māre + tvā | māretvā | having killed |
 | √vas | vāse | ni + vāse + tvā | nivāsetvā | having dressed |
@@ -93,8 +93,8 @@ Mostly group 8 verbs and causative verbs.
 
 ### 4. itvā added to the verbal base
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √bhuj | bhuñja | bhuñja + itvā | bhuñjitvā | having eaten |
 | √chid | chinda | chind + itvā | chinditvā | having cut off |
 | √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā<br>(=gahetvā) | having grabbed |
@@ -106,8 +106,8 @@ Mostly group 8 verbs and causative verbs.
 
 There is very often sandhi that takes place, please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √gam | to go | √gam + ya | ga**mma** | having gone |
 | √vic | to separate | vi + √vic + ya | vivi**cca** | having separated |
 | √ñā | to know | ā + √ñā + ya | aññā**ya** | having understood |
@@ -123,8 +123,8 @@ This is another form of -ya, occurring in only a few words, but which are common
 
 The result from sandhi is the ending **tya \> cca**
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √i | to come | abhi + sam + √i + **ty**a | abhisame**cc**a | having completely understood |
 | √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | having leaned back |
 | √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
@@ -134,9 +134,9 @@ The result from sandhi is the ending **tya \> cca**
 
 These forms mostly occur in poetry, often for metrical reasons, but occasionally you can find them in suttas.
 
-|  | **-tvāna** | **-tūna** | **-(i)yāna** |
-|---|---|---|---|
-| VIN[^20] | 43 |  |  |
+| | **-tvāna** | **-tūna** | **-(i)yāna** |
+| --- | --- | --- | --- |
+| VIN[^20] | 43 | | |
 | DN | 35 | 0 | 1 |
 | MN | 15 | 0 | 0 |
 | SN | 48 | 0 | 1 |

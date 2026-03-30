@@ -20,18 +20,18 @@ Let’s look at the present tense **reflexive** **voice** and **passive voice**.
 
 **Aorist Attanopada “gave by oneself”<br>√dā + dā + a \> dadā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **s** | **pl** |
+| | **s** | **pl** |
 | 3 paṭhama | adad**ā** | adad**ū** |
 | 2 majjhima | adad**ise** | adad**ivhaṃ** |
 | 1 uttama | adad**aṃ** | adad**imhe** |
 
 **Aorist Passive Attanopada “was cut (by oneself)”<br>√chid + ya \> chijja**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **s** | **pl** |
+| | **s** | **pl** |
 | 3 paṭhama | chijj**ā** | chijj**ū** |
 | 2 majjhima | chijj**ise** | chijj**ivhaṃ** |
 | 1 uttama | chijj**aṃ** | chijj**imhe** |

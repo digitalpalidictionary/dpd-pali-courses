@@ -2,7 +2,7 @@
 
 **around, all around, about, all about, overall, completely**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √khaṇ | to dig | palikhaṇati | digs all around |
 | √veṭh | to twist | paliveṭheti | encircles |

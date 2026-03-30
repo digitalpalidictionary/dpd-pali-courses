@@ -1,6 +1,6 @@
 # Changes Of Certain Words In Compounds
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | aha | day | ahu | tadahu | that very day |
 | akkhi | eye | akkha | akkhadassa | judge; lit. sees with eyes |

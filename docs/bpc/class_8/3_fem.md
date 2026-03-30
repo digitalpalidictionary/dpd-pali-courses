@@ -2,8 +2,8 @@
 
 ## Feminine Nouns ending in -i {: #feminine-nouns-ending-in-i}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | bhūm**i** | bhūm**ī**<br>bhūm**iyo** |
 | 2.acc | bhūm**iṃ** | bhūm**ī**<br>bhūm**iyo** |
 | 3.inst | bhūm**iyā** | bhūm**īhi** |
@@ -17,7 +17,7 @@
 
 This is a common way of forming feminine versions of masculine nouns.
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | brahmaṇa | Brahman | brahmaṇ**ī** | Brahman woman |
 | sakha | friend | sakh**ī** | female friend |
@@ -33,8 +33,8 @@ this group also includes common feminine nouns like:
 
 ### Declination of Feminine Nouns ending in -ī {: #feminine-nouns-ending-in-ii}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | kumār**ī** | kumār**ī**<br>kumār**iyo** |
 | 2.acc | kumār**iṃ** | kumār**ī**<br>kumār**iyo** |
 | 3.inst | kumār**iyā** | kumār**īhi** |
@@ -46,8 +46,8 @@ this group also includes common feminine nouns like:
 
 ## Feminine Nouns ending in -u {: #feminine-nouns-ending-in-u}
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | yāg**u** | yāg**ū**<br>yāg**uyo** |
 | 2.acc | yāg**uṃ** | yāg**ū**<br>yāg**uyo** |
 | 3.inst | yāg**uyā** | yāg**ūhi** |
@@ -63,8 +63,8 @@ the most common feminine noun in this group - **dhātu**
 
 These are irregular in form
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1.nom | māt**ā** | māt**aro** |
 | 2.acc | māt**araṃ** | māt**aro** |
 | 3.inst | māt**arā**<br>māt**uyā** | māt**ūhi**<br>māt**arehi** |
@@ -78,7 +78,7 @@ These are irregular in form
 
 A common way to create masculine nouns is with **-aka** suffix. The feminine version of this is **-ikā**. These nouns are declined like **vedanā**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | dāy**aka** | giver, donor | dāy**ikā** | fem. giver |
 | dār**aka** | young boy | dār**ikā** | young girl |
@@ -93,7 +93,7 @@ A common way to create masculine nouns is with **-aka** suffix. The feminine ver
 
 Masculine nouns ending in **-ī** having the feminine form of **-inī**. They are declined like **kumarī**.
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | hatth**ī** | elephant | hatth**inī** | fem. elephant |
 | sām**ī** | master | sām**inī** | mistress |

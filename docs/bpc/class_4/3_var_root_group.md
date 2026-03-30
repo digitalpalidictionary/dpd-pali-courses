@@ -1,8 +1,8 @@
 # Different systems of root groups
 
 | Pāli | POS | Grammar |
-|---|---|---|
-|  | **Padarūpasiddhi**<br>**Buddhadatta** | **Kaccāyana (7th CE)**<br>**Saddanīti (1154 CE)** |
+| --- | --- | --- |
+| | **Padarūpasiddhi**<br>**Buddhadatta** | **Kaccāyana (7th CE)**<br>**Saddanīti (1154 CE)** |
 | 1 | √bhū + **a** | √bhū + **a** |
 | 2 | √rudh + **ṃa** | √rudh + **ṃa** |
 | 3 | √div + **ya** | √div + **ya** |

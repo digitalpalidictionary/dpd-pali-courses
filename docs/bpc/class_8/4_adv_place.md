@@ -4,7 +4,7 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 
 **-ttha (and Sk -tra) “place”**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | ta | that | + ttha | tattha (tatra) | there |
 | ima | this | + ttha | ettha | here |
@@ -13,7 +13,7 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 | sabba | all, every | + ttha | sabbattha | everywhere |
 | eka | one | +ttha | ekattha | in one place |
 | añña | another | + ttha | aññattha | somewhere else |
-| **-to** “from a place” |  |  |  |  |
+| **-to** “from a place” | | | | |
 | ka | what? | + to | k**u**to | from where? |
 | ta | that | + to | tato | from there |
 | eka | one | + to | ekato | from one side |
@@ -23,7 +23,7 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 
 **-hiṃ**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | ka | what? | + hiṃ | k**u**hiṃ | where? |
 | ta | that | + hiṃ | tahiṃ | there |

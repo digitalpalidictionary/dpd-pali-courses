@@ -20,14 +20,14 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **a![](../../assets/images/pacman-forward.png)i \> a**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | iti’ss**a** | **i**me | itiss**a**me |
 | thus for him | these | thus for him these |
 
 **ā![](../../assets/images/pacman-forward.png)i \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | chāy**ā** | **i**va | chāy**ā**va |
 | shadow | like | like a shadow |
@@ -36,7 +36,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **ā![](../../assets/images/pacman-forward.png)e \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tamh**ā** | **e**va | tamh**ā**va |
 | from that | just | just from that |
@@ -45,13 +45,13 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **i![](../../assets/images/pacman-forward.png)a \> i**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | it**i** | **a**pi | it**i**pi |
 | thus | and | and thus |
 | it**i** | **a**ssa | it**i**ssa |
 | thus | for him | thus for him |
-| **u![](../../assets/images/pacman-forward.png)a \> u** |  |  |
+| **u![](../../assets/images/pacman-forward.png)a \> u** | | |
 | n**u** | **a**si | n**u**si |
 | are? | you are | are you? |
 | ut**u** | **a**kkhāna | ut**u**kkhāna |
@@ -59,7 +59,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **u![](../../assets/images/pacman-forward.png)i \> u**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | cakkh**u** | **i**ndriya | cakkh**u**ndriya |
 | eye | faculty | sense of sight |
@@ -68,21 +68,21 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **u![](../../assets/images/pacman-forward.png)e \> u**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | n**u** | **e**ttha | n**u**ttha |
 | what? | here | what here? |
 
 **ū![](../../assets/images/pacman-forward.png)a \> ū**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | akataññ**ū** | **a**si | akataññ**ū**si |
 | knower of the uncreated | you are | you are a knower of the uncreated |
 
 **e![](../../assets/images/pacman-forward.png)a \> e**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | t**e** | **a**pi | t**e**pi |
 | they | even | even they |
@@ -91,7 +91,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **e![](../../assets/images/pacman-forward.png)i \> e**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | dv**e** | **i**me | dv**e**me |
 | two | these | these two |
@@ -100,7 +100,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **o![](../../assets/images/pacman-forward.png)a \> o**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | es**o** | **a**haṃ asmi | es**o**hamasmi |
 | this | I am | I am this |
@@ -109,13 +109,13 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 **o![](../../assets/images/pacman-forward.png)i \> o**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | cattār**o** | **i**me | cattār**o**me |
 | four | these | these four |
 | y**o** | **i**dha | y**o**dha |
 | whoever | here | whoever here |
-| **o![](../../assets/images/pacman-forward.png)e \> o** |  |  |
+| **o![](../../assets/images/pacman-forward.png)e \> o** | | |
 | ek**o** | **e**va | ek**o**va |
 | one | just | alone |
 | pāt**o** | **e**va | pāt**o**va |

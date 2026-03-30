@@ -8,7 +8,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **c + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | vi + √muc + ta | vimu**tt**a | pp. freed |
 | pa + √vac + tar | pava**tt**ar | m. preacher |
@@ -17,20 +17,20 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **c + t \> kk**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √pac + ta | pa**kk**a | pp. cooked |
 | paṭi + √muc + ta | paṭimu**kk**a | pp. clothed in |
 
 **ch + t \> ṭṭh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √pucch + ta | pu**ṭṭh**a | pp. questioned |
 
 **j + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | saṃ + √yuj + ta | saṃyu**tt**a | pp. connected |
 | vi + √bhaj + ta | vibha**tt**a | pp. divided |
@@ -38,13 +38,13 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **j + t \> bb**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √tij + ta | ti**bb**a | adj. sharp |
 
 **j + t \> gg**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √bhañj + ta | bha**gg**a | pp. broken |
 | ni + √mujj + ta | nimu**gg**a | pp. immersed |
@@ -52,20 +52,20 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **jj + t \> ṭṭh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | saṃ + √majj + ta | samma**ṭṭh**a | pp. polished |
 | vi + saṃ + √sajj + ta | visaṃsa**ṭṭh**a | pp. separated |
 
 **t + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | paṭi + √yat + ta | paṭiya**tt**a | pp. prepared |
 
 **d + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ā + √pad + ti | āpa**tt**i | f. offence |
 | √mad + ta | ma**tt**a | pp. intoxicated |
@@ -73,7 +73,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **dh + t \> ddh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √budh + ta | bu**ddh**a | pp. woken up |
 | √badh + ta | ba**ddh**a | pp. tied up |
@@ -82,7 +82,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **n + t \> t**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √han + ta | ha**t**a | pp. struck |
 | √khan + ta | kha**t**a | pp. hurt; injured |
@@ -91,7 +91,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **p + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ā + √dīp + ta | ādi**tt**a | pp. blazing |
 | saṃ + √tap + ta | santa**tt**a | pp. heated |
@@ -99,13 +99,13 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **p + t \> pp**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √tij \> tip + ta | ti**pp**a | adj. sharp |
 
 **bh + t \> ddh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ā + √rabh + ta | āra**ddh**a | pp. aroused |
 | √labh + ta | la**ddh**a | pp. obtained |
@@ -114,7 +114,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **m + t \> nt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | abhi + √kam + ta | abhikka**nt**a | pp. gone past |
 | √dam + ta | da**nt**a | pp. tamed |
@@ -123,7 +123,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **m + t \> t**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √gam + ta | ga**t**a | pp. gone |
 | √ram + ti | ra**t**i | f. delight |
@@ -131,7 +131,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **r + t \> t**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √mar + ta | ma**t**a | pp. died |
 | √kar + ta | ka**t**a | pp. done |
@@ -141,14 +141,14 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **r + t \> tt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √kar + tabba | ka**tt**abba | ptp. could be done |
 | √kar + tuṃ | ka**tt**uṃ | inf. to do |
 
 **(ṛ) r + t \> ṭ**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √phar + ta | phu**ṭ**a | pp. pervaded |
 | dur + √kar + ta | dukka**ṭ**a | pp. badly done |
@@ -157,7 +157,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **s + t \> ṭṭh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √dis + ti | di**ṭṭh**i | f. view |
 | √dus + ta | du**ṭṭh**a | pp. corrupted |
@@ -167,7 +167,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **s + t \> tth**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | √sas + ta | sa**tth**a | nt. weapon |
 | √vas + ta | vu**tth**a | pp. lived |
@@ -176,7 +176,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 **h + t \> ḷh**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | ā + √gāh + ta | āgā**ḷh**a | pp. harsh |
 | ā + √ruh + ta | ārū**ḷh**a | pp. climbed up |

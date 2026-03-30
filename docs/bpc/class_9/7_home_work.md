@@ -11,7 +11,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p134 – 136 (the infinitive) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

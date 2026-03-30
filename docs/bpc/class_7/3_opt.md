@@ -44,7 +44,7 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 **Conjugation of -eyya opt**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 3rd | gacche**yya**<br>gacche | gacche**yyuṃ** |
 | 2nd | gacche**yyāsi**<br>gacche | gacche**yyātha** |
@@ -54,8 +54,8 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 It has two forms:
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
 | 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you could be |
 | 1st | **assaṃ**<br>**siyaṃ** | I could be | **assāma**<br>**-** | we could be |

@@ -12,7 +12,7 @@ You will become very familiar with these cases in the upcoming weeks
 
 ## Some Basic Vocabulary to illustrate the case endings
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | thera | masc. | elder |
 | sāvaka | masc. | disciple |
@@ -139,7 +139,7 @@ ehi **paññādhammika!**
 
 **In Summary**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | 1. Nominative | nar**o** | the man (subject) |
 | 2. Accusative | nar**aṃ** | the man (object) |
@@ -160,9 +160,9 @@ Which one is correct?
 
 ## Declension of -a masc {: #declension-of-a-masc}
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | Singular | Plural |
+| | Singular | Plural |
 | 1. Nominative | nar**o** | nar**ā** |
 | 2. Accusative | nar**aṃ** | nar**e** |
 | 3. Instrumental | nar**ena** | nar**ehi** |
@@ -174,20 +174,17 @@ Which one is correct?
 
 Please learn this table by heart. Why?
 
-|  | **Frequency of appearance in Tipiṭaka[^3]** |
-|---|---|
+| | **Frequency of appearance in Tipiṭaka[^3]** |
+| --- | --- |
 | masculine nouns ending in **-a** | **11834** |
 | masculine nouns ending in **-i -ī -u -ū** | 1549 |
 | masculine nouns total | **13383** |
 | masculine nouns ending in **-a** | **88%** |
-
-[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
-
-|  |  |
-| --- | --- |
 | neuter nouns ending in **-aṃ** | **14747** |
 | neuter nouns ending in **-i -u** | 452 |
 | neuter nouns total | **15199** |
-|  | **97%** |
+| | **97%** |
 
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
+
+[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.

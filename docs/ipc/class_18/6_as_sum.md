@@ -1,6 +1,6 @@
 **Assimilation Summary**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kk | k + y | √sa**k y**a | sa**kk**a |
 | kk | c + t | √pa**c t**a | pa**kk**a |

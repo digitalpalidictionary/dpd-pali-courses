@@ -18,7 +18,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **o![](../../assets/images/arrow.png)a \> va**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | k**o** | **a**ttho | k**va**ttho |
 | what | meaning | what is the meaning? |
@@ -27,7 +27,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **o![](../../assets/images/arrow.png)a \> vā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | kh**o** | **a**haṃ | kh**vā**haṃ |
 | indeed | I | I definitely |
@@ -40,7 +40,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **u![](../../assets/images/arrow.png)a \> va**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | an**u** | **a**ddhamāsaṃ | an**va**ddhamāsaṃ |
 | (following) | half month | every half month |
@@ -49,7 +49,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **u![](../../assets/images/arrow.png)a \> vā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tes**u** | **a**haṃ | tes**vā**haṃ |
 | in those | I | I in those |
@@ -58,7 +58,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **u![](../../assets/images/arrow.png)ā \> vā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | madh**u** | **ā**sava | madh**vā**sava |
 | honey | extract | honey liquor |
@@ -69,7 +69,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 
 **u![](../../assets/images/arrow.png)e \> ve**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | an**u** | **e**ti | an**ve**ti |
 | (follow) | goes | follows |

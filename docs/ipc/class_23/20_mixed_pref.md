@@ -1,6 +1,6 @@
 **Mixed Prefixes**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | abhi + ā | √cikkh | to show | abbhācikkhati | misrepresents |
 | abhi + ni | √sad | to sink | abhinisīdati | sit down hard |

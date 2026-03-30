@@ -10,7 +10,7 @@ In Kaccāyana this is called (19) **sabbo caṃ ti**
 
 and (28) **para dvebhāvo ṭhāne.**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | a**ti** | **a**nta | a**cc**anta | adj | final, complete |
 | i**ti** | **e**taṃ | i**cc**etaṃ | pron | thus this |

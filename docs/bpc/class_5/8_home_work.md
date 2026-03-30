@@ -11,7 +11,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | A.K. Warder Introduction to Pāli | p54-55 (future tense) |
 | V. Perniola<br>Pāli Grammar | p87-90 (future tense) |

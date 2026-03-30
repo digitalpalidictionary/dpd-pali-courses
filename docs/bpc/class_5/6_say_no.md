@@ -4,7 +4,7 @@
 
 The easiest way to make a verb into its negative is to add the particle “**na**” before it.
 
-|  |  |
+| | |
 | --- | --- |
 | ahaṃ jānāmi | I know |
 | ahaṃ na jānāmi | I don’t know |

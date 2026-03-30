@@ -2,8 +2,8 @@
 
 Ordinal numbers describe the position of something; first, second, third etc. They are mostly formed from the cardinal numbers with **suffixes** and are declined like regular **adjectives**.
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | 1st | paṭha**ma** | first |
 | 2nd | du**tiya** | second |
 | 3rd | ta**tiya** | third |
@@ -31,9 +31,9 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 
 **Declension - Singular**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
-|  | **Masculine** | **Feminine ā** | **Feminine ī** | **Neuter** |
+| | **Masculine** | **Feminine ā** | **Feminine ī** | **Neuter** |
 | 1.nom | paṭham**o** | paṭham**ā** | catutth**ī** | paṭham**aṃ** |
 | 2.acc | paṭham**aṃ** | paṭham**aṃ** | catutth**iṃ** | paṭham**aṃ** |
 | 3.instr | paṭham**ena** | paṭham**āya** | catutth**iyā** | paṭham**ena** |
@@ -45,9 +45,9 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 
 **Declension - Plural**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
-|  | **Masculine** | **Feminine<br>ā** | **Feminine<br>ī** | **Neuter** |
+| | **Masculine** | **Feminine<br>ā** | **Feminine<br>ī** | **Neuter** |
 | 1.nom | paṭham**ā** | paṭham**ā**<br>paṭham**āyo** | catutth**ī**<br>catutth**iyo** | paṭham**ā**<br>paṭham**āni** |
 | 2.acc | paṭham**e** | paṭham**ā**<br>paṭham**āyo** | catutth**ī**<br>catutth**iyo** | paṭham**e**<br>paṭham**āni** |
 | 3.instr | paṭham**ehi** | paṭham**āhi** | catutth**īhi** | paṭham**ehi** |

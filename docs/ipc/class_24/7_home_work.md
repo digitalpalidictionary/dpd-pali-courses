@@ -14,6 +14,6 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | Duroiselle | Passive Voice (481-490)<br>Causative Verbs (491-497) |

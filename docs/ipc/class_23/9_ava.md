@@ -2,7 +2,7 @@
 
 **down, off, away, back, aside, inside, less, disrespect**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √ñā | to know | avajānāti | denies |
 | √man | to think | avamaññati | belittles |

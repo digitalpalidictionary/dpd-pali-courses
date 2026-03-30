@@ -18,7 +18,7 @@ They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto 
 
 **√ñā (to know)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √ñā + nā | jānā | pajānāti | he knows |
 | √ñā + \*āpe | ñāpē | paññāpeti | he teaches; causes to know |
@@ -30,7 +30,7 @@ bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe
 
 **√his (to hurt, harm)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √his + ṃa | hiṃsa | vihiṃsati | he hurts |
 | √his + \*e | hese | viheseti | he harasses; causes to hurt |
@@ -42,7 +42,7 @@ Hopefully there would be a change of mind for (them) being verbally abused, insu
 
 **√ṭhā (to stand)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √ṭhā + a | tiṭṭha | uttiṭṭhati | he stands up |
 | √ṭhā + \*āpe | ṭhāpe | uṭṭhāpeti | he makes stand up |
@@ -54,7 +54,7 @@ My good man did you not see among men, a man or a woman very ill, suffering, ext
 
 **√bhū (to be)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √bhū + a | bhava | bhavati | he is; becomes |
 | √bhū + \*e | bhāve | bhāveti | he causes to be; causes to become |
@@ -66,8 +66,8 @@ Monks, these four times **being** well **developed,** being well rotated, cause 
 
 ## Irregular Causative Passive Bases
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
 | √ṭhā | to stand | \*āpe + īya | ṭhapiyya | ṭhapiyyati | is set aside; lit. is caused to stand |
 | √sad | to sink, sit | \*āpe + īya | sīdāpīya | nisīdāpīyati | causes to be seated |
 | √ñā | to know | \*āpe + iya | ñapiya | paññapiyamāna | being taught; lit. being caused to be known |

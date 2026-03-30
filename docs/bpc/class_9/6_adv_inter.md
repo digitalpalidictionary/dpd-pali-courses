@@ -1,6 +1,6 @@
 # How to ask a question with Adverbs & Indeclinable
 
-|  |  |
+| | |
 | --- | --- |
 | api | have? did? |
 | api nu | who? what? how? would? |

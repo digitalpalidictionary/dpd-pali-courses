@@ -12,18 +12,18 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 
 **Present Tense Attanopada “kills by oneself” <br>√han + a \> hana**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **s** | **pl** |
+| | **s** | **pl** |
 | 3 paṭhama | hana**te** | hanan**te**<br>hana**re** |
 | 2 majjhima | hana**se** | hana**vhe** |
 | 1 uttama | han**e** | han**āmhe** |
 
 **Present Tense Passive Attanopada √han “is killed (by oneself)[^10]”<br>√han + ya \> hañña**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **s** | **pl** |
+| | **s** | **pl** |
 | 3 paṭhama | hañña**te** | hañña**nte**<br>hañña**re** |
 | 2 majjhima | hañña**se** | hañña**vhe** |
 | 1 uttama | haññ**e** | haññ**āmhe** |

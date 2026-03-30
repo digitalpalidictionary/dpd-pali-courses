@@ -10,7 +10,7 @@ vassasataṃ jīv**a** (May you live 100 years!)
 
 **Conjugation of -ati imp**
 
-|  |  |  |  |  |
+| | | | | |
 | --- | --- | --- | --- | --- |
 | 3rd | vada**tu** | he must speak | vad**antu** | they must speak |
 | 2nd | vad**a**<br>vad**āhi** | you must speak | vad**atha** | you all must speak |

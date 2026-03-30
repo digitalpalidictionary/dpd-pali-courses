@@ -1,7 +1,7 @@
 # Mixed Sandhi (vomissaka-sandhi)
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | **di \> dy \> jj** | ya**di** evaṃ | ya**jj**evaṃ |
 | **di \> dy \> jj** | sa √div \> dyu \> **jj**u | sa**jj**u |
 | **dhi \> dhy \> jjh** | bo**dhi** aṅga | bo**jjh**aṅga |
@@ -18,7 +18,7 @@
 **Examples of -a- augment coming in-between prefixes and the root.**
 
 | **Pāli1** | **Construction** | **Meaning** |
-|---|---|---|
+| --- | --- | --- |
 | abbhaññāsi | abhi + a + √ñā + si | directly knew |
 | accaruci | ati + a + √ruc + i | outshone |
 | accatari | ati + a + √tar + i | crossed beyond |

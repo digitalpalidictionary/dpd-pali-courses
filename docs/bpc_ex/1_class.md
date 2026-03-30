@@ -3,11 +3,11 @@
 1. namo tassa bhagavato arahato sammā-sambuddhassa
 
 | Pāli | POS | Grammar | English | Root |
-|---|---|---|---|---|
-| namo |  |  |  |  |
-| tassa |  |  |  |  |
-| bhagavato |  |  |  |  |
-| arahato |  |  |  |  |
-| sammā - |  |  |  |  |
-| sambuddhassa |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| namo | | | | |
+| tassa | | | | |
+| bhagavato | | | | |
+| arahato | | | | |
+| sammā - | | | | |
+| sambuddhassa | | | | |
 | |

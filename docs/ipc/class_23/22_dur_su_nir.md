@@ -6,7 +6,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **bad, difficult, unwholesome, negative, poor, ill, mean**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √man | to think | domanassa | mental suffering |
 | √vac | to speak | dubbacana | harsh words, abuse |
@@ -24,7 +24,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **good, well, thoroughly, easily, auspiciously, abundance**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √man | to think | somanassa | happiness, good mind |
 | √bhar | to support | subhara | easy to support |
@@ -38,7 +38,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **not, without, no, negative**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √van | to desire | nibbana | without craving |
 | √chā | to be hungry | nicchāta | satisfied, not hungry |
@@ -52,7 +52,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **bad, negative, small, mean**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | kā | lavaṇa | kālavaṇa[^18] | pinch of salt |
 | kā | purisa | kāpurisa | evil man |
@@ -73,7 +73,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 **with, having, affected with**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | bhaya | fear | sabhaya | dangerous |
 | kaṇṭaka | thorn | sakaṇṭaka | problematic; with thorns |

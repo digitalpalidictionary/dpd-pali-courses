@@ -4,8 +4,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## nta (prp)
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √añch | añcha | **+ nta** | añcha**nta** | turning; cutting |
 | √bhaṇ | bhaṇa | **+ nta** | bhaṇa**nta** | telling, preaching |
 | √ḍah | ḍaha | **+ nta** | ḍaha**nta** | burning |
@@ -18,8 +18,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## āna (prp)
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √ādā | ādiya | **+ āna** | ādiy**āna** | grasping |
 | √dhā | daha | **+ āna** | saddah**āna** | believing |
 | √es | esa | **+ āna** | es**āna** | seeking, searching |
@@ -31,8 +31,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## māna (prp)
 
-|  |  |  |  |  |
-|---|---|---|---|---|
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √as | sa | **+ māna** | sa**māna** | being |
 | √bhaj | bhaja | **+ māna** | bhaja**māna** | associating |
 | √cu | cava | **+ māna** | cava**māna** | falling, dying |
@@ -48,8 +48,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## ta (pp)
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √bhañj | **+ ta** | bha**gga** | broken, shattered |
 | √caj | **+ ta** | ca**tta** | given up, abandoned |
 | √ḍah | **+ ta** | da**ḍḍha** | burnt |
@@ -66,8 +66,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## ita (pp)
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √citt | **+ ita** | citt**ita** | designed, created |
 | √jaṭ | **+ ita** | jaṭ**ita** | twisted, tangled |
 | √kup | **+ ita** | kup**ita** | angered, annoyed |
@@ -84,8 +84,8 @@ Kita are a large group of suffixes which include present and past particles, as 
 
 ## na (pp)
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | √bhid | **+ na** | bhin**na** | broken, damaged |
 | √car | **+ na** | c**i**ṇ**ṇa** | done, practised |
 | √chad | **+ na** | cha**nna** | covered, hidden |

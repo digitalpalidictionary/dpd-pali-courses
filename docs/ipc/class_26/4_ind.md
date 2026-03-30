@@ -2,7 +2,7 @@
 
 ## khattuṃ (times) adverbs of manner
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | anekasata | + kkhattuṃ | anekasata**kkhattuṃ** | many 100’s of times |
 | cha | + kkhattuṃ | cha**kkhattuṃ** | 6 times |
@@ -16,7 +16,7 @@
 
 ## thā (in such way) adverbs of manner
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | sabba | + thā | sabba**thā** | in every way |
 | añña | + thā | añña**thā** | in another way |
@@ -26,13 +26,13 @@
 
 ## thaṃ (in such way) adverbs of manner
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | ka | + thaṃ | ka**thaṃ** | in what way? how? |
 
 ## ttha (in such place) adverbs of place
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | añña | + ttha | añña**ttha** | in another place |
 | ima | + ttha | e**ttha** | in this place, here |
@@ -46,7 +46,7 @@
 
 ## tra (in such place) adverbs of place
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | amu | + tra | amu**tra** | in such place, |
 | añña | + tra | añña**tra** | in another place, elsewhere |
@@ -57,7 +57,7 @@
 
 ## dā & dāni (at such time) adverbs of time
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | eka | + dā | eka**dā** | at one time, one day |
 | ima | + dāni | i**dāni** | at this time, now |
@@ -69,7 +69,7 @@
 
 ## dhā (ways, pieces) adverbs
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | eka | + dhā | eka**dhā** | in one way |
 | neka | + dhā | neka**dhā** | in many ways |
@@ -83,7 +83,7 @@
 
 ## so (in ways, by) distributive adverbs
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | bahu | + so | bahu**so** | in many ways |
 | bila | + so | bila**so** | into portions |
@@ -93,8 +93,8 @@
 
 ## so (according to) distributive adverbs
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | āyatana | + so | āyatana**so** | according to senses |
 | dhātu | + so | dhātu**so** | according to elements |
 | hetu | + so | hetu**so** | according to cause |
@@ -103,7 +103,7 @@
 
 ## to (as) adverbs
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | anicca | **+ to** | anicca**to** | as impermanent |
 | asāra | **+ to** | asāra**to** | as essenceless |
@@ -118,7 +118,7 @@
 
 ## to (from, in) adverbs
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | antara | **+ to** | antara**to** | from within |
 | dīgha | **+ to** | dīgha**to** | in length |
@@ -133,14 +133,14 @@
 
 ## haṃ (in such place) adverbs of place
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | ka | + haṃ | **kahaṃ** | in what place, where? |
 | ta | + haṃ | **tahaṃ** | in that place, there |
 
 ## hiṃ (in such place) adverbs of place
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | ka | + hiṃ | **kuhiṃ** | in what place, where? |
 | ta | + hiṃ | **tahiṃ** | in that place, there |

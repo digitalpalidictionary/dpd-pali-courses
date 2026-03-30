@@ -9,8 +9,8 @@
 
 There are a number of tenses and moods of verbs in Pāli.
 
-|  |  |  |  |
-|---|---|---|---|
+| | | | |
+| --- | --- | --- | --- |
 | 1. | Present Tense | dhāvati | he runs, he is running |
 | 2. | Past Tense (Aorist) | dhāvi | he ran |
 | 3. | Future Tense | dhāvissati | he will run |

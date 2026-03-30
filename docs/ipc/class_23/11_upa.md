@@ -2,7 +2,7 @@
 
 **unto, to, close, towards, near to, with, by the side of, strongly, as, like, up to, up, higher, (opposed to apa)**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √dis | to see | upadissati | is seen (among) |
 | √ādā | to take | upādiyati | grasps |

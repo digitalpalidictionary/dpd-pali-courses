@@ -2,7 +2,7 @@
 
 **beyond, across, over, past, very much, very, excessively**
 
-|  |  |  |  |
+| | | | |
 | --- | --- | --- | --- |
 | √i | to go | accayati | goes beyond |
 | √car | to walk | aticarati | transgresses |

@@ -11,7 +11,7 @@
 
 ## Extra Reading
 
-|  |  |
+| | |
 | --- | --- |
 | V. Perniola<br>Pāli Grammar | p110 - 118 (the past participle) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

@@ -3,7 +3,7 @@
 1. namo tassa bhagavato arahato sammā-sambuddhassa
 
 | Pāli | POS | Grammar | English |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | namo | ind | ind | homage; reverence |
 | tassa | pron | masc.dat.sg | to him |
 | bhagavato | noun | masc.dat.sg | to the Blessed One; to the Fortunate One |

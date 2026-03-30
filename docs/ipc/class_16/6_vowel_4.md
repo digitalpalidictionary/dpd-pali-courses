@@ -20,17 +20,17 @@ In Kaccāyana this is called (16) **pubbo ca.**
 
 **a![](../../assets/images/arrow.png)![](../../assets/images/pacman-forward.png)i \> ā**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | itthattāy**a** | **i**ti | itthattāy**ā**ti |
 | for such an existence | thus | for such an existence” |
 | dukkhass**a** | **i**ti | dukkhass**ā**ti |
 | of suffering | thus | of suffering” |
-| this occurs with all words ending in **a + iti** |  |  |
+| this occurs with all words ending in **a + iti** | | |
 
 **i![](../../assets/images/arrow.png)![](../../assets/images/pacman-forward.png)a \> ī**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | v**i** | **a**tināmeti | v**ī**tināmeti |
 | (prefix) | spends time | spends time |
@@ -41,7 +41,7 @@ In Kaccāyana this is called (16) **pubbo ca.**
 
 **u![](../../assets/images/arrow.png)![](../../assets/images/pacman-forward.png)i \> ū**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | sādh**u** | **i**ti | sādh**ū**ti |
 | well said | thus | well said” |
@@ -49,7 +49,7 @@ In Kaccāyana this is called (16) **pubbo ca.**
 | what? | here | what here? |
 | vāyodhāt**u** | **i**ti | vāyodhāt**ū**ti |
 | wind element | thus | wind element” |
-| this occurs with all words ending in **u + iti** |  |  |
+| this occurs with all words ending in **u + iti** | | |
 
 what is **Possibility \#4 ?**
 

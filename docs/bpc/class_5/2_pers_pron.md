@@ -4,9 +4,9 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 **1st person ahaṃ**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | **singular “I”** | **plural “We”** |
+| | **singular “I”** | **plural “We”** |
 | 1. Nominative | ahaṃ | mayaṃ<br>amhe |
 | 2. Accusative | maṃ<br>mamaṃ<br>**me** | amhe<br>amhākaṃ<br>**no** |
 | 3. Instrumental | mayā<br>**me** | amhehi<br>**no** |
@@ -20,8 +20,8 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 [^14]: In the mūla part of the 4 Nikāyas
 
-|  |  |  |
-|---|---|---|
+| | | |
+| --- | --- | --- |
 | **ahaṃ** | **I** | **14232** |
 | **maṃ** | **me** | **1173** |
 | mayā | by me, from me | 593 |
@@ -36,9 +36,9 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 **2nd person tvaṃ**
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
-|  | singular “you” | plural “you all” |
+| | singular “you” | plural “you all” |
 | 1. Nominative | tvaṃ<br>tuvaṃ | tumhe |
 | 2. Accusative | taṃ<br>tuvaṃ<br>tavaṃ<br>**te** | tumhe<br>tumhākaṃ<br>**vo** |
 | 3. Instrumental | tayā<br>**te** | tumhehi<br>**vo** |
@@ -51,7 +51,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 [^15]: In the mūla part of the 4 Nikāyas
 
-|  |  |  |
+| | | |
 | --- | --- | --- |
 | tvaṃ | you | **16207** |
 | **taṃ** | **you,** <br>(that) | **6995** <br>(Including 3rd) |
