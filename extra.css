@@ -248,6 +248,22 @@
     font-size: 0.9rem;
 }
 
+/* Standalone images (alone in their paragraph): centered, full-size — web only.
+   PDF uses .standalone-image class added by Python; :has() is not used for PDF. */
+@media screen {
+    .md-typeset p:has(> img:only-child) {
+        text-align: center;
+    }
+    .md-typeset p:has(> img:only-child) img {
+        display: block !important;
+        height: auto !important;
+        width: auto !important;
+        max-width: 90% !important;
+        margin: 0 auto !important;
+        vertical-align: initial !important;
+    }
+}
+
 /* Inline Symbols: Pacman and Arrows */
 img[src*="pacman"], img[src*="arrow"] {
     display: inline-block !important;
@@ -260,17 +276,21 @@ img[src*="pacman"], img[src*="arrow"] {
 /* PDF Specific Styles (Paged Media) */
 @media print {
     @page {
+        margin-left: 10mm;
+        margin-right: 10mm;
         @footnote {
             border-top: 1px solid black;
             padding-top: 0.5em;
+            text-align: left;
         }
     }
 
     .pdf-footnote {
         float: footnote;
+        text-align: left;
         font-size: 0.9em;
         font-style: italic;
-        font-weight: normal;
+        font-weight: normal !important;
         line-height: 1.2;
     }
 
@@ -292,6 +312,95 @@ img[src*="pacman"], img[src*="arrow"] {
         font-style: normal;
         margin-right: 0.3em;
     }
+
+    /* Footnote forward and back links */
+    sup.manual-fn-ref a {
+        text-decoration: none;
+        color: inherit;
+    }
+    .pdf-footnote-backref {
+        font-style: normal;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    /* Standalone images: centered and full-size */
+    .standalone-image {
+        text-align: center;
+        margin: 1em 0;
+    }
+    .standalone-image img {
+        display: block !important;
+        height: auto !important;
+        width: auto !important;
+        max-width: 90% !important;
+        margin: 0 auto !important;
+    }
+
+    /* Keep short tables from splitting across pages, and keep preceding label with them */
+    table {
+        break-inside: avoid;
+        break-before: avoid;
+    }
+
+    /* Long tables (12+ rows) are allowed to split so headings stay with table start */
+    table.long-table {
+        break-inside: auto;
+    }
+
+    /* Wide tables keep auto layout — graduated font sizes handle fitting */
+
+    /* Graduated font sizes by column count: 7=0.9, 8=0.85, 9=0.8, 10+=0.7 */
+    .content table.cols-7 td, .content table.cols-7 th {
+        font-size: 0.9rem !important;
+        padding: 4px 3px !important;
+    }
+    .content table.cols-8 td, .content table.cols-8 th {
+        font-size: 0.85rem !important;
+        padding: 3px 2px !important;
+    }
+    .content table.cols-9 td, .content table.cols-9 th {
+        font-size: 0.8rem !important;
+        padding: 3px 2px !important;
+    }
+    .content table.cols-10 td, .content table.cols-10 th {
+        font-size: 0.7rem !important;
+        padding: 3px 2px !important;
+    }
+
+    /* Keep headings with the content that follows */
+    h1, h2, h3, h4, h5, h6 {
+        break-after: avoid;
+    }
+
+    /* Prevent orphaned lines at top/bottom of pages */
+    p {
+        orphans: 2;
+        widows: 2;
+    }
+
+    /* Exercise PDFs: left-align all table text (overrides global center alignment) */
+    body.bpc_ex table td, body.bpc_ex table th,
+    body.ipc_ex table td, body.ipc_ex table th {
+        text-align: left !important;
+    }
+
+
+    /* ex/key PDFs: allow tables to flow freely — no forced new-page behaviour */
+    body.bpc_ex table, body.bpc_key table,
+    body.ipc_ex table, body.ipc_key table {
+        break-inside: auto;
+        break-before: auto;
+    }
+
+    /* Exclude cover page and sub-headings of front-matter from PDF bookmark sidebar.
+       h1 of about/literature/toc pages remain as top-level bookmarks. */
+    .pdf-title-page h1,
+    .pdf-about-page h2, .pdf-about-page h3,
+    .pdf-literature-page h2, .pdf-literature-page h3,
+    .pdf-toc-page h2, .pdf-toc-page h3 {
+        bookmark-level: none;
+    }
 }
 
 /* Hide auto-injected h1 title to avoid duplication when baselevel is used */
@@ -299,14 +408,20 @@ img[src*="pacman"], img[src*="arrow"] {
     display: none;
 }
 
+/* Force table wrapper to full width so tables stretch to page width */
+.md-typeset__table {
+    display: block !important;
+    width: 100% !important;
+}
+
 /* Global Table Alignment, Font Size and Borders */
-.md-typeset table:not([class]), 
-.md-typeset table.grammar, 
+.md-typeset table:not([class]),
+.md-typeset table.grammar,
 .md-typeset table.inflection,
 .content table {
     width: 100% !important;
     display: table !important;
-    table-layout: fixed !important;
+    table-layout: auto !important;
     margin-bottom: 1em !important;
     border-collapse: collapse !important;
     border: none !important;
