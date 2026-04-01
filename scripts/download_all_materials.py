@@ -7,6 +7,7 @@ import os
 import zipfile
 import re
 import sys # Added for sys.exit()
+from tools.printer import printer as pr
 
 # --- Configuration ---
 BPC_INFO = [
@@ -37,152 +38,120 @@ def sanitize_filename(name):
 
 def extract_doc_id(url):
     """Extracts Google Doc ID from its URL."""
-    # Regex to find the ID in URLs like /document/d/DOC_ID/edit or /document/d/DOC_ID/
     match = re.search(r'/document/d/([a-zA-Z0-9-_]+)', url)
     if match:
         return match.group(1)
-    else:
-        print(f"Error: Could not extract document ID from URL: {url}")
-        return None
+    pr.warning(f"Could not extract document ID from URL: {url}")
+    return None
 
 def download_google_doc(doc_id, base_filename, export_format, download_to_dir):
     """Downloads a Google Doc in the specified format (pdf or docx)."""
     if not doc_id:
         return None
 
-    file_extension = export_format
-    # The export URL uses 'pdf' and 'docx' directly as format parameters.
-    export_url = f"https://docs.google.com/document/d/{doc_id}/export?format={export_format}"
-    
-    output_filename = f"{base_filename}.{file_extension}"
+    output_filename = f"{base_filename}.{export_format}"
     output_filepath = os.path.join(download_to_dir, output_filename)
+    export_url = f"https://docs.google.com/document/d/{doc_id}/export?format={export_format}"
 
-    print(f"Downloading {output_filename} (doc_id: {doc_id})...")
+    pr.green(f"Downloading {output_filename}")
     try:
         response = requests.get(export_url, stream=True)
-        response.raise_for_status()  # Raises an HTTPError for bad responses (4XX or 5XX)
-
+        response.raise_for_status()
         with open(output_filepath, 'wb') as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
-        print(f"Successfully downloaded: {output_filepath}")
+        pr.yes("ok")
         return output_filepath
     except requests.exceptions.RequestException as e:
-        print(f"Error downloading {output_filename}: {e}")
+        pr.no("failed")
+        pr.warning(str(e))
         return None
 
 def create_zip_archive(file_paths, zip_filename, archive_base_dir):
     """Creates a ZIP archive from a list of file paths."""
     zip_filepath = os.path.join(archive_base_dir, zip_filename)
-    print(f"Creating ZIP archive: {zip_filepath}...")
+    pr.green(f"Creating {zip_filename}")
     try:
         with zipfile.ZipFile(zip_filepath, 'w', zipfile.ZIP_DEFLATED) as zf:
             for file_path in file_paths:
                 if file_path and os.path.exists(file_path):
-                    # arcname ensures the file is stored with its base name in the zip
-                    arcname = os.path.basename(file_path)
-                    zf.write(file_path, arcname=arcname)
-                    print(f"  Added {arcname} to {zip_filename}")
+                    zf.write(file_path, arcname=os.path.basename(file_path))
                 else:
-                    print(f"  Warning: File not found or invalid, skipping: {file_path}")
-        print(f"Successfully created ZIP: {zip_filepath}")
+                    pr.warning(f"File not found, skipping: {file_path}")
+        pr.yes("ok")
         return zip_filepath
     except Exception as e:
-        print(f"Error creating ZIP archive {zip_filepath}: {e}")
+        pr.no("failed")
+        pr.warning(str(e))
         return None
 
 def process_course_documents(course_docs_info, course_name_prefix, output_dir):
     """
     Downloads PDF and DOCX versions of documents for a specific course.
     Returns a tuple of (list_of_pdf_paths, list_of_docx_paths).
-    If any download fails, it prints an error and returns (None, None) to signal failure.
+    If any download fails, returns (None, None) to signal failure.
     """
     downloaded_pdfs = []
     downloaded_docx_files = []
 
-    print(f"\n--- Processing {course_name_prefix} Pāli Course ---")
+    pr.title(f"{course_name_prefix} Pāli Course")
 
     for doc_info in course_docs_info:
         original_name = doc_info["name"]
         doc_url = doc_info["url"]
-
-        print(f"\nProcessing document: '{original_name}'")
         doc_id = extract_doc_id(doc_url)
         if not doc_id:
-            print(f"Skipping '{original_name}' due to missing document ID.")
+            pr.warning(f"Skipping '{original_name}' — missing document ID.")
             continue
 
-        # Sanitize the original name to create a safe base filename
         base_filename = sanitize_filename(original_name)
 
-        # Download as PDF
         pdf_filepath = download_google_doc(doc_id, base_filename, "pdf", output_dir)
         if pdf_filepath:
             downloaded_pdfs.append(pdf_filepath)
         else:
-            print(f"ERROR: Failed to download PDF for '{original_name}'. Aborting this course processing.")
-            return None, None # Signal failure
+            pr.no(f"PDF failed: {original_name}")
+            return None, None
 
-        # Download as DOCX
         docx_filepath = download_google_doc(doc_id, base_filename, "docx", output_dir)
         if docx_filepath:
             downloaded_docx_files.append(docx_filepath)
         else:
-            print(f"ERROR: Failed to download DOCX for '{original_name}'. Aborting this course processing.")
-            return None, None # Signal failure
-            
+            pr.no(f"DOCX failed: {original_name}")
+            return None, None
+
     return downloaded_pdfs, downloaded_docx_files
 
 def main():
-    # Ensure the base output directory exists
     os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
     all_downloads_successful = True
 
-    # Process Beginner Pāli Course
     bpc_pdfs, bpc_docx_files = process_course_documents(BPC_INFO, "Beginner", OUTPUT_BASE_DIR)
     if bpc_pdfs is None or bpc_docx_files is None:
-        print("ERROR: Failures occurred during Beginner Pāli Course document processing.")
+        pr.no("Beginner course download failed")
         all_downloads_successful = False
-    
-    # Process Intermediate Pāli Course
+
     ipc_pdfs, ipc_docx_files = process_course_documents(IPC_INFO, "Intermediate", OUTPUT_BASE_DIR)
     if ipc_pdfs is None or ipc_docx_files is None:
-        print("ERROR: Failures occurred during Intermediate Pāli Course document processing.")
+        pr.no("Intermediate course download failed")
         all_downloads_successful = False
 
     if not all_downloads_successful:
-        print("\n--- Critical errors encountered during document download. Aborting release process. ---")
-        sys.exit(1) # Exit with a non-zero status code to indicate failure
+        pr.error("Critical errors during download — aborting.")
+        sys.exit(1)
 
-    # Create ZIP archives for Beginner Pāli Course
-    if bpc_pdfs:
-        create_zip_archive(bpc_pdfs, BPC_PDF_ZIP_FILENAME, OUTPUT_BASE_DIR)
-    else:
-        print(f"No PDF files were downloaded for {BPC_PDF_ZIP_FILENAME} to archive.")
+    for paths, zip_name in [
+        (bpc_pdfs, BPC_PDF_ZIP_FILENAME),
+        (bpc_docx_files, BPC_DOCX_ZIP_FILENAME),
+        (ipc_pdfs, IPC_PDF_ZIP_FILENAME),
+        (ipc_docx_files, IPC_DOCX_ZIP_FILENAME),
+    ]:
+        if paths:
+            create_zip_archive(paths, zip_name, OUTPUT_BASE_DIR)
+        else:
+            pr.warning(f"No files downloaded for {zip_name}")
 
-    if bpc_docx_files:
-        create_zip_archive(bpc_docx_files, BPC_DOCX_ZIP_FILENAME, OUTPUT_BASE_DIR)
-    else:
-        print(f"No DOCX files were downloaded for {BPC_DOCX_ZIP_FILENAME} to archive.")
-
-    # Create ZIP archives for Intermediate Pāli Course
-    if ipc_pdfs:
-        create_zip_archive(ipc_pdfs, IPC_PDF_ZIP_FILENAME, OUTPUT_BASE_DIR)
-    else:
-        print(f"No PDF files were downloaded for {IPC_PDF_ZIP_FILENAME} to archive.")
-
-    if ipc_docx_files:
-        create_zip_archive(ipc_docx_files, IPC_DOCX_ZIP_FILENAME, OUTPUT_BASE_DIR)
-    else:
-        print(f"No DOCX files were downloaded for {IPC_DOCX_ZIP_FILENAME} to archive.")
-
-    print("\n--- Processing Complete ---")
-    print(f"All output files are located in: {os.path.abspath(OUTPUT_BASE_DIR)}")
-    
-    # Print paths to created archives
-    for zip_filename in [BPC_PDF_ZIP_FILENAME, BPC_DOCX_ZIP_FILENAME, IPC_PDF_ZIP_FILENAME, IPC_DOCX_ZIP_FILENAME]:
-        if os.path.exists(os.path.join(OUTPUT_BASE_DIR, zip_filename)):
-            print(f"Archive created: {zip_filename}")
+    pr.info(f"Output: {os.path.abspath(OUTPUT_BASE_DIR)}")
 
 if __name__ == "__main__":
     main()

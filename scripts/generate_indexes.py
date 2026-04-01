@@ -4,9 +4,8 @@ Creates a Table of Contents based on individual lesson headings.
 """
 import re
 import os
-import urllib.parse
-from pathlib import Path
 from tools.paths import SSGPaths
+from tools.printer import printer as pr
 
 def clean_title(title):
     """Normalized title cleanup."""
@@ -127,53 +126,6 @@ def get_html_rel_path(file_path, target_path):
     return prefix + rel.replace(".md", "/")
 
 def update_page_navigation(file_path, prev_page, next_page, all_headings, docs_dir):
-    heading = all_headings.get(file_path)
-    if not heading:
-        return
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    content = remove_navigation_block(content)
-    file_rel = file_path.relative_to(docs_dir)
-    prev_link = ""
-    if prev_page:
-        prev_heading = all_headings.get(prev_page, "Previous")
-        html_rel = get_html_rel_path(file_path, prev_page)
-        prev_link = f'<a href="{html_rel}" class="prev">← {prev_heading}</a>'
-    next_link = ""
-    if next_page:
-        next_heading = all_headings.get(next_page, "Next")
-        html_rel = get_html_rel_path(file_path, next_page)
-        next_link = f'<a href="{html_rel}" class="next">{next_heading} →</a>'
-    cross_link = ""
-    parts = list(file_rel.parts)
-    if parts[0] == "bpc" and len(parts) > 1 and "class_" in parts[1]:
-        class_num = re.search(r'\d+', parts[1])
-        if class_num:
-            ex_path = docs_dir / "bpc_ex" / f"{class_num.group()}_class.md"
-            if ex_path.exists():
-                html_rel = get_html_rel_path(file_path, ex_path)
-                cross_link = f'<a href="{html_rel}">Go to Exercises</a>'
-    elif parts[0] == "bpc_ex":
-        class_num_match = re.search(r'\d+', parts[0] if len(parts) == 1 else parts[1])
-        if class_num_match:
-            key_path = docs_dir / "bpc_key" / f"{class_num_match.group()}_class.md"
-            if key_path.exists():
-                html_rel = get_html_rel_path(file_path, key_path)
-                cross_link = f'<a href="{html_rel}">Go to Answer Key</a>'
-    elif parts[0] == "ipc" and len(parts) > 1 and "class_" in parts[1]:
-        class_num = re.search(r'\d+', parts[1])
-        if class_num:
-            ex_path = docs_dir / "ipc_ex" / f"{class_num.group()}_class.md"
-            if ex_path.exists():
-                html_rel = get_html_rel_path(file_path, ex_path)
-                cross_link = f'<a href="{html_rel}">Go to Exercises</a>'
-    elif parts[0] == "ipc_ex":
-        class_num_match = re.search(r'\d+', parts[0] if len(parts) == 1 else parts[1])
-        if class_num_match:
-            key_path = docs_dir / "ipc_key" / f"{class_num_match.group()}_class.md"
-            if key_path.exists():
-                html_rel = get_html_rel_path(file_path, key_path)
-                cross_link = f'<a href="{html_rel}">Go to Answer Key</a>'
     # DO NOT INJECT NAV LINKS INTO MD SOURCES
     # All navigation should be handled by MkDocs hooks/theme.
     pass
@@ -227,6 +179,7 @@ def generate_class_index(class_path, class_title):
         f.write("\n".join(content))
 
 def main(paths=None):
+    pr.green("Generating index pages")
     if paths is None:
         paths = SSGPaths()
     sections = {
@@ -264,6 +217,8 @@ def main(paths=None):
             next_page = None
             
         update_page_navigation(page, prev_page, next_page, all_headings, paths.docs_dir)
+
+    pr.yes("ok")
 
 if __name__ == "__main__":
     main()

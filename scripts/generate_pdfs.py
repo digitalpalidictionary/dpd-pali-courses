@@ -2,13 +2,16 @@
 Script to generate PDF course materials from Markdown source files using WeasyPrint.
 It applies course-specific styling, cleans UI elements, and handles footnote reformatting.
 """
+import argparse
 import os
+import time
 import yaml
 import markdown
 import re
 import subprocess
 import sys
 from bs4 import BeautifulSoup
+from tools.printer import printer as pr
 
 # Ensure Homebrew libraries are found on macOS
 if sys.platform == "darwin":
@@ -61,8 +64,19 @@ def fix_list_numbering(html_content):
 
 def pre_process_content(text):
     """Protects source footnote and list markers from renumbering."""
+    # Collapse 3+ blank lines FIRST, before repl_def/repl_list inject extra newlines.
+    # This prevents their injected newlines from triggering spurious <br> insertion.
+    def repl_newlines(m):
+        count = m.group(0).count('\n')
+        if count > 2:
+            return '\n\n' + '<br>\n' * (count - 2)
+        return m.group(0)
+    text = re.sub(r'\n{3,}', repl_newlines, text)
+
     def repl_def(m):
-        prefix = m.group(1); fn_num = m.group(2); content = m.group(3).strip()
+        prefix = m.group(1)
+        fn_num = m.group(2)
+        content = m.group(3).strip()
         return f"\n<div class='manual-fn-def' data-fn='{fn_num}' markdown='1'>\n\n{prefix}{content}\n\n</div>\n\n"
     pattern = r'^([ \t*_]*)\[\^(\d+)\]:\s*(.*?)(?=\n[ \t]*\n|\n[ \t]*[-*_]{3,}|\n[ \t]*#|\n\[\^|\Z)'
     text = re.sub(pattern, repl_def, text, flags=re.MULTILINE | re.DOTALL)
@@ -72,29 +86,194 @@ def pre_process_content(text):
         return f"\n<div class='manual-list-start' data-start='{num}'></div>\n\n{num}. "
     text = re.sub(r'^\s*(\d+)\.\s+', repl_list, text, flags=re.MULTILINE)
 
-    def repl_newlines(m):
-        count = m.group(0).count('\n')
-        if count > 2:
-            return '\n\n' + '<br>\n' * (count - 2)
-        return m.group(0)
-    text = re.sub(r'\n{3,}', repl_newlines, text)
-    
+    # Remove <br> tags immediately before table rows so tables parse correctly
+    text = re.sub(r'(<br>\n)+(\|)', r'\n\2', text)
+
     return text
 
-def process_footnotes_for_pdf(html_content):
-    """Moves manual footnote definitions into WeasyPrint-compatible floats."""
+def mark_wide_tables(html_content: str, col_threshold: int = 7, row_threshold: int = 12) -> str:
+    """Add sizing and layout classes to tables based on column count and row count."""
     soup = BeautifulSoup(html_content, 'html.parser')
+    for table in soup.find_all('table'):
+        first_row = table.find('tr')
+        if not first_row:
+            continue
+        cols = len(first_row.find_all(['td', 'th']))
+        rows = len(table.find_all('tr'))
+        classes = list(table.get('class') or [])
+        if cols >= col_threshold:
+            text_len = len(table.get_text())
+            effective_cols = cols
+            if text_len > 800 and cols < 10:
+                effective_cols = cols + 1
+            capped = min(effective_cols, 10)
+            classes += ['wide-table', f'cols-{capped}']
+        if rows > row_threshold:
+            classes.append('long-table')
+        if classes:
+            table['class'] = " ".join(classes)
+    return str(soup)
+
+
+def equalize_table_columns(html_content: str) -> str:
+    """Set explicit equal-width on every cell so WeasyPrint renders truly equal columns."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for table in soup.find_all('table'):
+        first_row = table.find('tr')
+        if not first_row:
+            continue
+        n = len(first_row.find_all(['td', 'th']))
+        if n < 2:
+            continue
+        col_width = f"{100 / n:.4f}%"
+        for cell in table.find_all(['td', 'th']):
+            cell['style'] = f"width: {col_width};"
+    return str(soup)
+
+
+def remove_empty_thead(html_content):
+    """Removes thead elements where all th cells are empty, preventing double borders."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for thead in soup.find_all('thead'):
+        th_cells = thead.find_all('th')
+        if th_cells and all(not th.get_text(strip=True) for th in th_cells):
+            thead.decompose()
+    return str(soup)
+
+def process_footnotes_for_pdf(html_content):
+    """Moves manual footnote definitions into WeasyPrint-compatible floats with bidirectional links.
+    Also marks standalone image paragraphs in the same pass to avoid an extra parse cycle."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    # Mark standalone image paragraphs (single <img>, no other content)
+    for p in soup.find_all('p'):
+        meaningful = [c for c in p.children
+                      if getattr(c, 'name', None) or str(c).strip()]
+        if len(meaningful) == 1 and getattr(meaningful[0], 'name', None) == 'img':
+            existing = p.get('class') or []
+            if isinstance(existing, list):
+                existing = ' '.join(str(c) for c in existing)
+            p['class'] = f"{existing} standalone-image".strip()
     defs = {d['data-fn']: d for d in soup.find_all('div', class_='manual-fn-def')}
     for ref in soup.find_all('sup', class_='manual-fn-ref'):
         fn_num = ref['data-fn']
+        ref['id'] = f"fnref-{fn_num}"
+        a_link = soup.new_tag('a', href=f"#fn-{fn_num}")
+        a_link.string = str(fn_num)
+        ref.clear()
+        ref.append(a_link)
         if fn_num in defs:
-            new_span = soup.new_tag('span', attrs={'class': 'pdf-footnote'})
-            label = soup.new_tag('b', attrs={'class': 'pdf-footnote-label'}); label.string = f"{fn_num}. "
+            new_span = soup.new_tag('span', attrs={'class': 'pdf-footnote', 'id': f"fn-{fn_num}"})
+            label = soup.new_tag('b', attrs={'class': 'pdf-footnote-label'})
+            label.string = f"{fn_num}. "
             new_span.append(label)
             fn_soup = BeautifulSoup(defs[fn_num].decode_contents(), 'html.parser')
-            for p in fn_soup.find_all('p'): p.unwrap()
-            new_span.append(fn_soup); ref.insert_after(new_span)
-    for d in defs.values(): d.decompose()
+            for p in fn_soup.find_all('p'):
+                p.unwrap()
+            new_span.append(fn_soup)
+            backref = soup.new_tag('a', href=f"#fnref-{fn_num}", attrs={'class': 'pdf-footnote-backref'})
+            backref.string = ' ↩'
+            new_span.append(backref)
+            ref.insert_after(new_span)
+    for d in defs.values():
+        d.decompose()
+    # Hoist pdf-footnote spans out of <strong> — float:footnote fails inside strong
+    for strong in soup.find_all('strong'):
+        fn_spans = strong.find_all('span', class_='pdf-footnote')
+        for fn_span in reversed(fn_spans):
+            fn_span.extract()
+            strong.insert_after(fn_span)
+    return str(soup)
+
+def post_process_html(html_content: str) -> str:
+    """Single-pass HTML post-processor — replaces 5 separate BeautifulSoup parse/serialize cycles
+    with one, dramatically reducing processing time on large course documents."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    # Fix internal .md links → PDF anchors
+    for a in soup.find_all('a', href=True):
+        href = str(a['href'])
+        if '.md' in href and not href.startswith('http'):
+            file_part = href.split('#')[0] if '#' in href else href
+            basename = os.path.basename(file_part)
+            if basename == 'index.md':
+                # Preserve parent dir to avoid collision (class_1/index.md → class_1_index_md)
+                parts = [p for p in file_part.replace('\\', '/').split('/') if p and p != '..']
+                anchor_id = '_'.join(parts).replace('.', '_')
+            else:
+                anchor_id = basename.replace('.', '_')
+            a['href'] = f"#{anchor_id}"
+
+    # Fix ordered list start numbers via manual-list-start markers
+    for marker in soup.find_all('div', class_='manual-list-start'):
+        start_val = str(marker.get('data-start') or '1')
+        next_ol = marker.find_next_sibling('ol')
+        if next_ol:
+            next_ol['start'] = start_val
+            next_ol['style'] = f"counter-reset: list-item {int(start_val) - 1};"
+        marker.decompose()
+
+    # Remove empty thead (prevents double border on headerless tables)
+    for thead in soup.find_all('thead'):
+        th_cells = thead.find_all('th')
+        if th_cells and all(not th.get_text(strip=True) for th in th_cells):
+            thead.decompose()
+
+    # Mark wide/long tables with sizing classes
+    for table in soup.find_all('table'):
+        first_row = table.find('tr')
+        if not first_row:
+            continue
+        cols = len(first_row.find_all(['td', 'th']))
+        rows = len(table.find_all('tr'))
+        classes = list(table.get('class') or [])
+        if cols >= 7:
+            effective_cols = cols + 1 if len(table.get_text()) > 800 and cols < 10 else cols
+            classes += ['wide-table', f'cols-{min(effective_cols, 10)}']
+        if rows > 12:
+            classes.append('long-table')
+        if classes:
+            table['class'] = ' '.join(classes)
+
+    # Mark standalone image paragraphs (single <img>, no other content)
+    for p in soup.find_all('p'):
+        meaningful = [c for c in p.children
+                      if getattr(c, 'name', None) or str(c).strip()]
+        if len(meaningful) == 1 and getattr(meaningful[0], 'name', None) == 'img':
+            existing = p.get('class') or []
+            if isinstance(existing, list):
+                existing = ' '.join(str(c) for c in existing)
+            p['class'] = f"{existing} standalone-image".strip()
+
+    # Process footnotes: WeasyPrint floats + bidirectional links
+    defs = {d['data-fn']: d for d in soup.find_all('div', class_='manual-fn-def')}
+    for ref in soup.find_all('sup', class_='manual-fn-ref'):
+        fn_num = ref['data-fn']
+        ref['id'] = f"fnref-{fn_num}"
+        a_link = soup.new_tag('a', href=f"#fn-{fn_num}")
+        a_link.string = str(fn_num)
+        ref.clear()
+        ref.append(a_link)
+        if fn_num in defs:
+            new_span = soup.new_tag('span', attrs={'class': 'pdf-footnote', 'id': f"fn-{fn_num}"})
+            label = soup.new_tag('b', attrs={'class': 'pdf-footnote-label'})
+            label.string = f"{fn_num}. "
+            new_span.append(label)
+            fn_soup = BeautifulSoup(defs[fn_num].decode_contents(), 'html.parser')
+            for fp in fn_soup.find_all('p'):
+                fp.unwrap()
+            new_span.append(fn_soup)
+            backref = soup.new_tag('a', href=f"#fnref-{fn_num}", attrs={'class': 'pdf-footnote-backref'})
+            backref.string = ' ↩'
+            new_span.append(backref)
+            ref.insert_after(new_span)
+    for d in defs.values():
+        d.decompose()
+    for strong in soup.find_all('strong'):
+        fn_spans = strong.find_all('span', class_='pdf-footnote')
+        for fn_span in reversed(fn_spans):
+            fn_span.extract()
+            strong.insert_after(fn_span)
+
     return str(soup)
 
 def resolve_image_paths(content: str, file_path: str) -> str:
@@ -131,14 +310,25 @@ def build_html_document(title, files_data, title_md_content="", literature_md_co
 
         md.reset()
         topic_html = md.convert(pre_process_content(c))
-        file_id = os.path.basename(file_path).replace('.', '_')
+        # Shift heading levels only for bpc/ipc which have a class→topic hierarchy.
+        # ex/key folders have flat class files — their h1s stay at h1 so they appear
+        # as top-level bookmarks alongside "Table of Contents".
+        if not is_idx and folder_type in ('bpc', 'ipc'):
+            topic_html = re.sub(r'<(/?)h([1-5])', lambda m: f'<{m.group(1)}h{int(m.group(2))+1}', topic_html)
+        if is_idx:
+            # Use parent dir + filename so class_1/index.md → class_1_index_md (not all "index_md")
+            parent = os.path.basename(os.path.dirname(file_path))
+            file_id = f"{parent}_index_md"
+        else:
+            file_id = os.path.basename(file_path).replace('.', '_')
         div_class = 'pdf-class-header' if is_idx else 'pdf-topic-page'
         full_course_html += f"<div class='{div_class}' id='{file_id}'>{topic_html}</div>"
     
     md.reset()
     if root_index_content:
-        # For lessons, use the provided root index content
-        toc_html = f'<div class="pdf-toc-page">{md.convert(pre_process_content(root_index_content))}</div>'
+        # For lessons, use the provided root index content.
+        # Wrap with an id so PDF internal links can target the TOC page.
+        toc_html = f'<div class="pdf-toc-page" id="toc-page">{md.convert(pre_process_content(root_index_content))}</div>'
     else:
         # For ex and key, generate TOC from full merged content to capture all headings
         all_md = ""
@@ -149,64 +339,98 @@ def build_html_document(title, files_data, title_md_content="", literature_md_co
         toc_html = f'<div class="pdf-toc-page"><h1>Table of Contents</h1>{toc}</div>'
     
     full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
-    full_body_html = fix_internal_links(full_body_html)
-    full_body_html = fix_list_numbering(full_body_html)
-    full_body_html = process_footnotes_for_pdf(full_body_html)
-    
-    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{title}</title><style>.pdf-title-page, .pdf-about-page, .pdf-literature-page, .pdf-toc-page, .pdf-class-header, .pdf-topic-page {{ page-break-before: always; }} .pdf-title-page {{ page-break-before: avoid; }} .pdf-footnote-label {{ font-weight: bold; margin-right: 0.3em; }} .pdf-footnote {{ float: footnote; font-size: 0.9em; font-style: italic; }} .manual-list-start {{ display: none; }} p img, td img, li img {{ height: 1em; width: auto; vertical-align: middle; }}</style></head><body>{full_body_html}</body></html>"
+    full_body_html = post_process_html(full_body_html)
+    if folder_type in ('bpc_ex', 'ipc_ex'):
+        full_body_html = equalize_table_columns(full_body_html)
+
+    body_class = f' class="{folder_type}"' if folder_type else ""
+    return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{title}</title><style>.pdf-title-page, .pdf-about-page, .pdf-literature-page, .pdf-toc-page, .pdf-class-header, .pdf-topic-page {{ page-break-before: always; }} .pdf-title-page {{ page-break-before: avoid; }} .manual-list-start {{ display: none; }} p:not(.standalone-image) img, td img, li img {{ height: 1em; width: auto; vertical-align: middle; }} .standalone-image {{ text-align: center; margin: 1em 0; }} .standalone-image img {{ height: auto !important; width: auto !important; max-width: 90%; display: block; margin: 0 auto; }} sup.manual-fn-ref a {{ text-decoration: none; color: inherit; }} .pdf-footnote-backref {{ font-style: normal; text-decoration: none; color: inherit; margin-left: 0.2em; }}</style></head><body{body_class}>{full_body_html}</body></html>"
 
 def get_markdown_files(docs_dir: str):
     mkdocs_yaml_path = "mkdocs.yaml"
-    if not os.path.exists(mkdocs_yaml_path): mkdocs_yaml_path = os.path.join(os.path.dirname(__file__), "..", "mkdocs.yaml")
-    with open(mkdocs_yaml_path, "r", encoding="utf-8") as f: config = yaml.safe_load(f)
-    def ext(item, d, l):
+    if not os.path.exists(mkdocs_yaml_path):
+        mkdocs_yaml_path = os.path.join(os.path.dirname(__file__), "..", "mkdocs.yaml")
+    with open(mkdocs_yaml_path, "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+    def ext(item, d, files):
         if isinstance(item, str):
-            if item.endswith('.md'): l.append(os.path.join(d, item))
+            if item.endswith('.md'):
+                files.append(os.path.join(d, item))
         elif isinstance(item, list):
-            for i in item: ext(i, d, l)
+            for i in item:
+                ext(i, d, files)
         elif isinstance(item, dict):
-            for k, v in item.items(): ext(v, d, l)
+            for k, v in item.items():
+                ext(v, d, files)
     all_files = []
     ext(config.get("nav", []), docs_dir, all_files)
     folders = ['bpc', 'bpc_ex', 'bpc_key', 'ipc', 'ipc_ex', 'ipc_key']
     f_by_dir = {f: [] for f in folders}
     for file_path in all_files:
-        rel = os.path.relpath(file_path, docs_dir); folder = rel.split(os.sep)[0]
-        if folder in f_by_dir and os.path.exists(file_path): f_by_dir[folder].append(file_path)
+        rel = os.path.relpath(file_path, docs_dir)
+        folder = rel.split(os.sep)[0]
+        if folder in f_by_dir and os.path.exists(file_path):
+            f_by_dir[folder].append(file_path)
     return f_by_dir
 
 def generate_pdf(html_content, output_pdf, css_paths=None):
     from weasyprint import HTML, CSS
-    css_objs = [CSS(filename=p) for p in (css_paths or []) if os.path.exists(p)]
-    HTML(string=html_content, base_url=os.path.abspath(".")).write_pdf(output_pdf, stylesheets=css_objs)
+    from weasyprint.text.fonts import FontConfiguration
+    font_config = FontConfiguration()
+    css_objs = [CSS(filename=p, font_config=font_config) for p in (css_paths or []) if os.path.exists(p)]
+    HTML(string=html_content, base_url=os.path.abspath(".")).write_pdf(output_pdf, stylesheets=css_objs, font_config=font_config)
 
 def main():
+    parser = argparse.ArgumentParser(description="Generate PDF course materials")
+    parser.add_argument("folder", nargs="?", choices=list(FOLDER_NAMES.keys()),
+                        help="Generate only this folder (default: all)")
+    parser.add_argument("--html-only", action="store_true",
+                        help="Dump intermediate HTML to pdf_exports/<folder>_debug.html, skip WeasyPrint")
+    args = parser.parse_args()
+
     docs_dir = "docs"
-    css_paths = ["identity/dpd-variables.css", "identity/dpd.css", "identity/extra.css"]
-    with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f: title_c = f.read()
-    with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f: lit_c = f.read()
+    css_paths = ["identity/dpd-pdf-fonts.css", "identity/dpd-variables.css", "identity/dpd.css", "identity/extra.css"]
+    with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f:
+        title_c = f.read()
+    with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f:
+        lit_c = f.read()
     f_by_dir = get_markdown_files(docs_dir)
+    os.makedirs("pdf_exports", exist_ok=True)
     for fld, files in f_by_dir.items():
-        if not files: continue
-        print(f"Processing {fld}...")
+        if args.folder and fld != args.folder:
+            continue
+        if not files:
+            continue
+        pr.green(f"Generating {fld}")
         data = []
         for file_path in files:
             rel = os.path.relpath(file_path, docs_dir)
-            if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'): continue
-            with open(file_path, "r", encoding="utf-8") as f: data.append((file_path, f.read()))
+            if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'):
+                continue
+            with open(file_path, "r", encoding="utf-8") as f:
+                data.append((file_path, f.read()))
         ri_path = os.path.join(docs_dir, fld, "index.md")
         # ONLY use root_index for bpc and ipc (lessons), NOT for ex or key
         ri_c = ""
         if fld in ['bpc', 'ipc'] and os.path.exists(ri_path):
-            ri_c = open(ri_path, "r", encoding="utf-8").read()
-            
-        html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
-        if not os.path.exists("pdf_exports"): os.makedirs("pdf_exports")
-        generate_pdf(html, os.path.join("pdf_exports", f"{fld}.pdf"), css_paths=css_paths)
+            with open(ri_path, "r", encoding="utf-8") as f:
+                ri_c = f.read()
 
-    print("\nRunning numbering verification...")
-    try: subprocess.run(["uv", "run", "python", "scripts/verify_numbering.py"], check=True)
-    except Exception as e: print(f"Verification failed: {e}")
+        t_html_start = time.time()
+        html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
+        html_t = time.time() - t_html_start
+
+        if args.html_only:
+            debug_path = os.path.join("pdf_exports", f"{fld}_debug.html")
+            with open(debug_path, "w", encoding="utf-8") as f:
+                f.write(html)
+            pr.yes(f"html {html_t:.1f}s → {debug_path}")
+        else:
+            generate_pdf(html, os.path.join("pdf_exports", f"{fld}.pdf"), css_paths=css_paths)
+            pr.yes("ok")
+
+    if not args.html_only:
+        subprocess.run(["uv", "run", "python", "scripts/verify_numbering.py"], check=False)
 
 if __name__ == '__main__':
     main()

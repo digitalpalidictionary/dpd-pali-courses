@@ -7,10 +7,12 @@ import re
 import argparse
 import unicodedata
 from pdfminer.high_level import extract_text
+from tools.printer import printer as pr
 
 def normalize_pali(text):
     """Robust normalization for Pāḷi text comparison."""
-    if not text: return ""
+    if not text:
+        return ""
     text = unicodedata.normalize('NFD', text)
     # Remove diacritics
     text = "".join([c for c in text if not unicodedata.combining(c)])
@@ -42,7 +44,8 @@ def verify_content(pdf_path, md_files):
             md_words = set(re.findall(r'\b[a-zāīūṃṅñṭḍṇḷļ]{6,}\b', f.read().lower()))
             
         for word in sorted(list(md_words)):
-            if is_ignored(word): continue
+            if is_ignored(word):
+                continue
             
             term = normalize_pali(word)
             if term not in pdf_compact:
@@ -63,11 +66,14 @@ def main():
     args = parser.parse_args()
     
     if args.pdf and args.md:
+        pr.green(f"Verifying {os.path.basename(args.pdf)}")
         missing = verify_content(args.pdf, [args.md])
-        if not missing: print(f"SUCCESS: 100% integrity.")
+        if not missing:
+            pr.yes("ok")
         else:
-            print(f"FAILURE: {len(missing)} missing:")
-            for m in missing: print(f"  - {m}")
+            pr.no(f"{len(missing)} missing")
+            for m in missing:
+                pr.warning(m)
         return
 
     volumes = {
@@ -79,32 +85,39 @@ def main():
         'ipc_key.pdf': ['docs/ipc_key'],
     }
     
+    pr.green("Verifying PDF content")
     overall_passed = True
     for pdf_name, source_dirs in volumes.items():
         pdf_path = os.path.join(args.pdf_dir, pdf_name)
-        if not os.path.exists(pdf_path): continue
-        
+        if not os.path.exists(pdf_path):
+            continue
+
         md_files = []
         for s_dir in source_dirs:
-            if os.path.isfile(s_dir): md_files.append(s_dir)
+            if os.path.isfile(s_dir):
+                md_files.append(s_dir)
             else:
                 for root, _, files in os.walk(s_dir):
                     for f in files:
                         rel_p = os.path.relpath(os.path.join(root, f), args.docs_dir)
-                        if len(rel_p.split(os.sep)) == 2 and f == 'index.md': continue
-                        if f.endswith('.md'): md_files.append(os.path.join(root, f))
-        
+                        if len(rel_p.split(os.sep)) == 2 and f == 'index.md':
+                            continue
+                        if f.endswith('.md'):
+                            md_files.append(os.path.join(root, f))
+
         missing = verify_content(pdf_path, md_files)
-            
+
         if missing:
-            print(f"FAILED {pdf_name}: {len(missing)} words missing.")
-            for m in missing[:10]: print(f"    - {m}")
+            pr.warning(f"{pdf_name}: {len(missing)} words missing")
+            for m in missing[:10]:
+                pr.warning(f"  {m}")
             overall_passed = False
 
-    if not overall_passed: 
+    if not overall_passed:
+        pr.no("failures found")
         exit(1)
     else:
-        print("[VERIFIED] PDF Content: OK")
+        pr.yes("ok")
 
 if __name__ == "__main__":
     main()

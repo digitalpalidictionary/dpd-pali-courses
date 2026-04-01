@@ -6,6 +6,8 @@ import os
 import re
 import yaml
 
+from tools.printer import printer as pr
+
 def get_first_heading(file_path):
     """Extracts the first level 1 heading and strips numbers/IDs."""
     if not os.path.exists(file_path): return None
@@ -119,5 +121,7 @@ config = {
     'plugins': ['search']
 }
 
+pr.green("Generating mkdocs.yaml")
 with open('mkdocs.yaml', 'w', encoding='utf-8') as f:
     yaml.dump(config, f, sort_keys=False, allow_unicode=True)
+pr.yes("ok")

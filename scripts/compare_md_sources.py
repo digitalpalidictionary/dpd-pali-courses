@@ -7,6 +7,7 @@ import subprocess
 import re
 import argparse
 import difflib
+from tools.printer import printer as pr
 
 def get_tokens(text):
     """
@@ -52,37 +53,34 @@ def main():
                     md_files.append(os.path.join(root, file))
 
     if not md_files:
-        print(f"No .md files found in {args.dir}")
+        pr.warning(f"No .md files found in {args.dir}")
         return
 
-    print(f"Comparing {len(md_files)} file(s) against commit {args.commit} using word-by-word diff...")
-    
+    pr.green(f"Comparing {len(md_files)} files vs {args.commit[:8]}")
     files_with_losses = 0
 
     for file_path in md_files:
         old_content = get_old_content(file_path, args.commit)
         if old_content is None:
             continue
-        
+
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 new_content = f.read()
         except Exception as e:
-            print(f"Error reading {file_path}: {e}")
+            pr.warning(f"Error reading {file_path}: {e}")
             continue
 
         old_tokens = get_tokens(old_content)
         new_tokens = get_tokens(new_content)
 
         s = difflib.SequenceMatcher(None, old_tokens, new_tokens)
-        
+
         missing_phrases = []
         for tag, i1, i2, j1, j2 in s.get_opcodes():
             if tag in ('delete', 'replace'):
                 deleted_words = old_tokens[i1:i2]
                 if deleted_words:
-                    # we only consider it missing if the phrase isn't found anywhere in the new tokens
-                    # This check makes it robust against simple reordering of paragraphs.
                     deleted_phrase = " ".join(deleted_words)
                     new_text = " ".join(new_tokens)
                     if deleted_phrase not in new_text:
@@ -90,22 +88,18 @@ def main():
 
         if missing_phrases:
             files_with_losses += 1
-            print(f"\n[DATA LOSS] {file_path}: {len(missing_phrases)} phrases missing")
-            if args.verbose:
-                for mp in missing_phrases:
-                    print(f"  - '{mp}'")
-            else:
-                for mp in missing_phrases[:5]:
-                    # Truncate long phrases for summary output
-                    display_mp = mp if len(mp) < 60 else mp[:57] + "..."
-                    print(f"  - '{display_mp}'")
-                if len(missing_phrases) > 5:
-                    print(f"    ... and {len(missing_phrases)-5} more phrases.")
+            pr.warning(f"[DATA LOSS] {file_path}: {len(missing_phrases)} phrases missing")
+            phrases = missing_phrases if args.verbose else missing_phrases[:5]
+            for mp in phrases:
+                display_mp = mp if len(mp) < 60 else mp[:57] + "..."
+                pr.warning(f"  '{display_mp}'")
+            if not args.verbose and len(missing_phrases) > 5:
+                pr.warning(f"  ... and {len(missing_phrases)-5} more phrases.")
 
     if files_with_losses == 0:
-        print("\nNo data loss detected!")
+        pr.yes("ok")
     else:
-        print(f"\nTotal files with potential data loss: {files_with_losses}")
+        pr.no(f"{files_with_losses} files with data loss")
 
 if __name__ == "__main__":
     main()

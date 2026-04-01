@@ -6,13 +6,14 @@ come before class_2 footnotes. Duplicate numbers and out-of-order numbers are co
 import os
 import re
 import argparse
-
+from tools.printer import printer as pr
 
 def get_files_sorted(directory):
     files = [f for f in os.listdir(directory) if f.endswith('.md') and f != 'index.md']
     def sort_key(f):
         parts = f.split('_')
-        if parts[0].isdigit(): return (0, int(parts[0]))
+        if parts[0].isdigit():
+            return (0, int(parts[0]))
         return (1, f)
     return sorted(files, key=sort_key)
 
@@ -85,7 +86,7 @@ def renumber_footnotes_in_files(files: list[str], dry_run: bool = False) -> int:
 
         for old_num, new_nums in occurrence_map.items():
             if len(new_nums) > 1:
-                print(f"  [AUTO-FIX] Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
+                pr.warning(f"Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
 
         # Single-pass replacement: refs and defs tracked separately by occurrence index.
         # The Nth definition of a given number pairs with the Nth reference of that number.
@@ -109,9 +110,6 @@ def renumber_footnotes_in_files(files: list[str], dry_run: bool = False) -> int:
         if not dry_run:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(new_content)
-            print(f"  [RENUMBERED] {file_path}")
-        else:
-            print(f"  [WOULD RENUMBER] {file_path}")
 
     return total_changed
 
@@ -121,18 +119,20 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true", help="Print what would be changed.")
     args = parser.parse_args()
 
+    pr.green("Renumbering footnotes")
     target_dirs = ['docs/bpc', 'docs/ipc', 'docs/bpc_ex', 'docs/ipc_ex', 'docs/bpc_key', 'docs/ipc_key']
 
-    total_changed_across_all = 0
+    total_changed = 0
     for d in target_dirs:
         if not os.path.exists(d):
             continue
         ordered_files = get_ordered_files_for_folder(d)
-        changed = renumber_footnotes_in_files(ordered_files, dry_run=args.dry_run)
-        total_changed_across_all += changed
+        total_changed += renumber_footnotes_in_files(ordered_files, dry_run=args.dry_run)
 
-    if total_changed_across_all > 0:
-        print(f"Renumbered footnotes in {total_changed_across_all} files.")
+    if total_changed:
+        pr.no(f"{total_changed} files")
+    else:
+        pr.yes("ok")
 
 
 if __name__ == "__main__":

@@ -2,12 +2,13 @@
 Script to synchronize CSS variables from source configurations to the SSG stylesheets.
 """
 from tools.paths import SSGPaths
+from tools.printer import printer as pr
 
 def update_css(paths: SSGPaths):
     """Save the CSS Variables to the ssg/stylesheets folder."""
-    
+
     if not paths.source_dpd_variables_css.exists():
-        print(f"Warning: {paths.source_dpd_variables_css} not found.")
+        pr.warning(f"{paths.source_dpd_variables_css} not found.")
         return
 
     # Ensure identity directory exists
@@ -27,8 +28,10 @@ def update_css(paths: SSGPaths):
         paths.extra_css.write_text(paths.source_extra_css.read_text())
 
 def main():
+    pr.green("Updating CSS")
     paths = SSGPaths()
     update_css(paths)
+    pr.yes("ok")
 
 if __name__ == "__main__":
     main()

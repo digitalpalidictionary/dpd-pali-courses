@@ -11,6 +11,7 @@ from docx import Document
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 import argparse
+from tools.printer import printer as pr
 
 # Ensure pandoc is available
 try:
@@ -227,7 +228,7 @@ def main() -> None:
         if args.folder and fld != args.folder:
             continue
 
-        print(f"Processing {fld}...")
+        pr.green(f"Generating {fld}")
         data = []
         for file_path in files:
             # _ex and _key: skip folder-level index.md (it's a navigation list, not content)
@@ -251,11 +252,9 @@ def main() -> None:
         output_file = os.path.join("docx_exports", f"{fld}.docx")
         generate_docx(agg_md, output_file, folder=fld)
         post_process_docx(output_file, fld)
-        print(f"Generated {output_file}")
+        pr.yes("ok")
 
-    print("\nRunning numbering verification...")
-    try: subprocess.run(["uv", "run", "python", "scripts/verify_docx_content.py"], check=True)
-    except Exception as e: print(f"Verification failed: {e}")
+    subprocess.run(["uv", "run", "python", "scripts/verify_docx_content.py"], check=False)
 
 
 if __name__ == '__main__':

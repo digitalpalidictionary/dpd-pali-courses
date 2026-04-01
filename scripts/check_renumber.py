@@ -5,6 +5,7 @@ Supports dry-run and automatic re-numbering of exercises and answer keys.
 import os
 import re
 import argparse
+from tools.printer import printer as pr
 
 def renumber_file(file_path, dry_run=False):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -41,11 +42,7 @@ def renumber_file(file_path, dry_run=False):
         if not dry_run:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(new_lines) + ('\n' if content.endswith('\n') else ''))
-            print(f"  [RENUMBERED] {file_path}")
-            return True
-        else:
-            print(f"  [WOULD RENUMBER] {file_path}")
-            return True
+        return True
     return False
 
 def main():
@@ -53,9 +50,9 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print what would be changed without modifying files.")
     args = parser.parse_args()
 
+    pr.green("Checking sentence numbering")
     target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key']
-    
-    total_changed = 0
+    changed: list[str] = []
     for d in target_dirs:
         if not os.path.exists(d):
             continue
@@ -64,10 +61,14 @@ def main():
                 if file.endswith('.md') and file != 'index.md':
                     fp = os.path.join(root, file)
                     if renumber_file(fp, args.dry_run):
-                        total_changed += 1
-                        
-    if total_changed > 0:
-        print(f"Renumbered {total_changed} files.")
+                        changed.append(fp)
+
+    if changed:
+        pr.no(f"{len(changed)} files")
+        for fp in changed:
+            pr.warning(fp)
+    else:
+        pr.yes("ok")
 
 if __name__ == "__main__":
     main()

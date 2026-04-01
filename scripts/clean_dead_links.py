@@ -5,8 +5,9 @@ Specifically targets list items in index files that link to removed .md files.
 import os
 import re
 from pathlib import Path
+from tools.printer import printer as pr
 
-def resolve_link(base_file: Path, link_target: str) -> Path:
+def resolve_link(base_file: Path, link_target: str) -> Path | None:
     # If the link has an anchor like target.md#section, strip it
     if '#' in link_target:
         link_target = link_target.split('#')[0]
@@ -57,19 +58,23 @@ def clean_dead_links_in_file(file_path: Path):
     return False
 
 def main():
+    pr.green("Cleaning dead links")
     docs_dir = Path('docs').resolve()
-    total_changed = 0
-    
+    changed: list[str] = []
+
     for root, _, files in os.walk(docs_dir):
         for file in files:
             if file.endswith('.md'):
                 file_path = Path(root) / file
                 if clean_dead_links_in_file(file_path):
-                    print(f"Removed dead link(s) from {file_path.relative_to(docs_dir)}")
-                    total_changed += 1
-                    
-    if total_changed > 0:
-        print(f"Cleaned dead links in {total_changed} files.")
+                    changed.append(str(file_path.relative_to(docs_dir)))
+
+    if changed:
+        pr.no(f"{len(changed)} files")
+        for fp in changed:
+            pr.warning(fp)
+    else:
+        pr.yes("ok")
 
 if __name__ == '__main__':
     main()

@@ -7,6 +7,7 @@ import sys
 import re
 from docx import Document
 import yaml
+from tools.printer import printer as pr
 
 def get_docx_text(path):
     """Extracts text from a .docx file."""
@@ -23,7 +24,7 @@ def get_docx_text(path):
 def verify_docx(docx_path, original_md_paths):
     """Verifies that the docx contains content from all original markdown files."""
     if not os.path.exists(docx_path):
-        print(f"Error: {docx_path} not found.")
+        pr.warning(f"{docx_path} not found.")
         return False
         
     docx_text = get_docx_text(docx_path)
@@ -39,9 +40,9 @@ def verify_docx(docx_path, original_md_paths):
             
             # Extract potential text fragments for verification
             # 1. Headers
-            headers = [l.strip("# ").strip() for l in content.split("\n") if l.strip().startswith("#")]
+            headers = [ln.strip("# ").strip() for ln in content.split("\n") if ln.strip().startswith("#")]
             # 2. Paragraphs
-            paragraphs = [l.strip() for l in content.split("\n") if len(l.strip()) > 15 and not l.strip().startswith(("<", "|", "#"))]
+            paragraphs = [ln.strip() for ln in content.split("\n") if len(ln.strip()) > 15 and not ln.strip().startswith(("<", "|", "#"))]
             # 3. Table cells (for table-only files)
             cells = []
             if "|" in content:
@@ -74,12 +75,10 @@ def verify_docx(docx_path, original_md_paths):
                 missing_files.append(md_path)
                 
     if missing_files:
-        print(f"Verification failed for {docx_path}. Missing content from:")
         for f in missing_files:
-            print(f"  - {f}")
+            pr.warning(f"{os.path.basename(docx_path)}: missing content from {f}")
         return False
-    else:
-        return True
+    return True
 
 def main():
     docs_dir = "docs"
@@ -117,16 +116,18 @@ def main():
                 continue
             f_by_dir[folder].append(file_path)
             
+    pr.green("Verifying DOCX content")
     all_success = True
     for folder, files in f_by_dir.items():
         docx_path = os.path.join(docx_dir, f"{folder}.docx")
         if os.path.exists(docx_path):
             if not verify_docx(docx_path, files):
                 all_success = False
-                
+
     if all_success:
-        print("[VERIFIED] DOCX Content: OK")
+        pr.yes("ok")
     else:
+        pr.no("failures found")
         sys.exit(1)
 
 if __name__ == '__main__':

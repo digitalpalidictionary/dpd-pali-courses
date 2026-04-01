@@ -1,6 +1,6 @@
 # Traditional Pāli Root lists
 
--   Dhātupātha
+-   Dhātupāṭha
 -   Dhātumañjūsa
 -   Saddanīti
 

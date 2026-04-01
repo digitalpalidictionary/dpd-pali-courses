@@ -1,6 +1,6 @@
 # DPD Pāḷi Courses
 
-This repository contains the source materials for the Digital Pāḷi Dictionary (DPD) Pāḷi courses, transformed from original Google Docs into a modern, searchable static website.
+This repository contains the source materials for the Digital Pāḷi Dictionary (DPD) Pāḷi courses, transformed from original Google Docs into a modern, searchable [static website](https://digitalpalidictionary.github.io/dpd-pali-courses/).
 
 ## Repository Contents
 
@@ -116,6 +116,12 @@ All scripts are located in the `scripts/` directory and can be run using `uv run
 
 - **`clean_dead_links.py`**: Finds and removes dead links in Markdown files. Specifically targets list items in index files that link to removed `.md` files.
   - Usage: `uv run python scripts/clean_dead_links.py`
+
+- **`fix_heading_hierarchy.py`**: Normalizes heading levels across all Markdown files. Converts bolded top lines to H1 headings and ensures no heading levels are skipped (e.g., `#` to `###` becomes `#` to `##`).
+  - Usage: `uv run python scripts/fix_heading_hierarchy.py`
+
+- **`fixing_tables.py`**: Performs automated cleanup of Markdown tables. Normalizes cell padding, standardizes separator rows, and strips unnecessary bolding from footnote definitions.
+  - Usage: `uv run python scripts/fixing_tables.py`
 
 ### Site & Metadata Generation
 

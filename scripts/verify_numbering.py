@@ -8,10 +8,12 @@ import argparse
 import glob
 import unicodedata
 from bs4 import BeautifulSoup
-from pypdf import PdfReader
+from pdfminer.high_level import extract_text as pdf_extract_text
+from tools.printer import printer as pr
 
 def normalize_pali(text):
-    if not text: return ""
+    if not text:
+        return ""
     text = unicodedata.normalize('NFD', text)
     text = "".join([c for c in text if not unicodedata.combining(c)])
     return text.lower().strip()
@@ -29,14 +31,15 @@ def get_md_numbering(md_path):
     }
 
 def get_html_numbering(html_path):
-    if not os.path.exists(html_path): return None
+    if not os.path.exists(html_path):
+        return None
     with open(html_path, 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f.read(), 'html.parser')
     fn_refs = soup.find_all('sup', class_='manual-fn-ref')
     footnotes = [r.get_text().strip() for r in fn_refs]
     visible_list_numbers = []
     for ol in soup.find_all('ol'):
-        start = int(ol.get('start', 1))
+        start = int(str(ol.get('start', '1')))
         for i, li in enumerate(ol.find_all('li', recursive=False)):
             visible_list_numbers.append(start + i)
     return {
@@ -68,8 +71,7 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing.append(n)
         
         if missing:
-            print(f"\nVerifying {md_rel_path}:")
-            print(f"  - ERROR: Missing list markers in PDF: {missing[:10]}...")
+            pr.warning(f"{md_rel_path}: missing list markers {missing[:10]}")
             status = False
 
     # Check Footnotes
@@ -80,11 +82,9 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
             marker = f"{n}." # Our labels are "n. "
             if marker not in pdf_text_compact:
                 missing_fn.append(n)
-        
+
         if missing_fn:
-            if status: # First error for this file
-                print(f"\nVerifying {md_rel_path}:")
-            print(f"  - ERROR: Missing footnote markers in PDF: {missing_fn}")
+            pr.warning(f"{md_rel_path}: missing footnote markers {missing_fn}")
             status = False
 
     return status
@@ -92,8 +92,9 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--file", help="Specific MD file")
-    args = parser.parse_args()
-    
+    parser.parse_args()
+
+    pr.green("Verifying numbering")
     # Pre-extract FULL PDF text for verification
     pdf_texts = {}
     for pdf_name in ['bpc.pdf', 'bpc_ex.pdf', 'bpc_key.pdf', 'ipc.pdf', 'ipc_ex.pdf', 'ipc_key.pdf']:
@@ -103,24 +104,26 @@ def main():
         folder_name = pdf_name.split('.')[0]
         md_files = glob.glob(f"docs/{folder_name}/**/*.md", recursive=True)
         if md_files and max(os.path.getmtime(f) for f in md_files) > os.path.getmtime(path):
-            print(f"[SKIP] {pdf_name}: PDF is older than source files — regenerate to verify")
+            pr.warning(f"{pdf_name}: older than source — regenerate to verify")
             continue
-        reader = PdfReader(path)
-        raw = "\n".join(page.extract_text() or "" for page in reader.pages)
+        raw = pdf_extract_text(path)
         # Remove whitespace but KEEP numbers and dots
         pdf_texts[folder_name] = re.sub(r'\s+', '', raw)
 
     files = glob.glob("docs/**/*.md", recursive=True)
-    total_files = 0; failed_files = 0
-    
+    total_files = 0
+    failed_files = 0
+
     for f in sorted(files):
         rel = os.path.relpath(f, "docs")
-        if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'): continue
-        
+        if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'):
+            continue
+
         folder = rel.split(os.sep)[0]
         pdf_text = pdf_texts.get(folder)
-        if not pdf_text: continue
-        
+        if not pdf_text:
+            continue
+
         with open(f, 'r') as file:
             content = file.read()
             if '[^' in content or re.search(r'^\s*\d+\.\s+', content, re.MULTILINE):
@@ -128,11 +131,11 @@ def main():
                 if not verify_file_strict(rel, pdf_text):
                     failed_files += 1
 
-    if failed_files > 0: 
-        print(f"\nSummary: {total_files} files checked, {failed_files} failures found.")
+    if failed_files > 0:
+        pr.no(f"{failed_files}/{total_files} failures")
         exit(1)
     else:
-        print("[VERIFIED] Numbering: OK")
+        pr.yes("ok")
 
 if __name__ == "__main__":
     main()

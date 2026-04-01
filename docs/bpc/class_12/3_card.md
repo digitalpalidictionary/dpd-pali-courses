@@ -25,9 +25,7 @@ so let’s have a closer look at them individually.
 
 ## eka “one”
 
-three genders – singular
-
-agrees in gender & case
+three genders; singular; agrees in gender and case
 
 | | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
@@ -49,9 +47,7 @@ declension is the same as **ye**
 
 ## dve “two”
 
-no gender, plural
-
-agrees in case only
+no gender; plural; agrees in case only
 
 | | |
 | --- | --- |
@@ -65,9 +61,7 @@ agrees in case only
 
 ## ti “three”
 
-three genders, plural
-
-agrees in gender and case
+three genders; plural; agrees in gender and case
 
 | | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
@@ -81,9 +75,7 @@ agrees in gender and case
 
 ## catu “four”
 
-three genders & plural
-
-agrees in gender and case
+three genders; plural; agrees in gender and case
 
 | | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
@@ -97,9 +89,7 @@ agrees in gender and case
 
 ## pañca “five”
 
-no gender, plural
-
-agrees in case only
+no gender; plural; agrees in case only
 
 | | |
 | --- | --- |
@@ -113,7 +103,7 @@ agrees in case only
 
 ## cha “six” to aṭṭharasa “eighteen”
 
-same as *pañca*. no gender, plural. agrees in case only
+same as *pañca* - no gender; plural; agrees in case only
 
 | | |
 | --- | --- |
@@ -133,9 +123,7 @@ same as *pañca*. no gender, plural. agrees in case only
 
 ## ekūnavīsati “19” to aṭṭhanavuti “98”
 
-(one less than twenty)
-
-feminine singular, agree in case only
+feminine; singular; agrees in case only
 
 | | 20 (like bhūmi) | 20 (like vedanā) |
 | --- | --- | --- |
@@ -151,13 +139,11 @@ I see **twenty men**   vīsatiṃ purise
 
 **with twenty feelings** vīsatiyā vedanāhi
 
-i**n twenty minds** vīsatiyaṃ cittesu
+**in twenty minds** vīsatiyaṃ cittesu
 
 ## sata “100”, sahasa “1000” and lakkha “100 000”
 
-neuter singular and plural
-
-agrees in case and number
+neuter; singular and plural; agrees in case and number
 
 | | | |
 | --- | --- | --- |
@@ -171,9 +157,7 @@ agrees in case and number
 
 ## koṭi “10 000 000”
 
-feminine singular, sometimes plural
-
-agrees in case only
+feminine; singular, sometimes plural; agrees in case only
 
 | | | |
 | --- | --- | --- |
@@ -187,7 +171,7 @@ agrees in case only
 
 ## Summary of numbers gender and numbers
 
-| | **Gender** | **Number** | | | |
+| | **Gender** | | | **Number** | |
 | --- | --- | --- | --- | --- | --- |
 | | **Mas.** | **fem.** | **Neut.** | **Sin.** | **Pl.** |
 | 1 | ✔ | ✔ | ✔ | ✔ | |

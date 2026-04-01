@@ -27,12 +27,7 @@ This project contains materials for Pāḷi language courses, specifically the D
 - Unless otherwise specified the repository in question is https://github.com/digitalpalidictionary/dpd-pali-courses.
 
 ## Tools/printer.py
-This module provides colored console output with timing and TSV logging.
-
-### Import
-```python
-from tools.printer import printer as pr
-```
+Colored console output with timing. Import: `from tools.printer import printer as pr`
 
 ## Script Registry
 If a script is intended to be run regularly (e.g., generators, verifiers, cleanup tools), it MUST be added to the project's root README.md with a brief explanation of how to use it.

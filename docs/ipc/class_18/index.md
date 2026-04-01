@@ -8,7 +8,7 @@
 - [Assimilation Summary](6_as_sum.md)
 - [Mixed Sandhi (vomissaka-sandhi)](7_mix_san.md)
 - [Another consonant assimilation](8_as_misc.md)
-- [Please construct and deconstruct:](9_ex.md)
+- [Practice](9_ex.md)
 - [Some Irregular Masculine Nouns](10_irreg_masc.md)
 - [Practice](11_ex.md)
 - [Homeless work](home_work.md)

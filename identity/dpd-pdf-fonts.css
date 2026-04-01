@@ -1,0 +1,36 @@
+/* Registers Inter static fonts for WeasyPrint PDF generation — must be loaded before dpd.css.
+   Static instances are used (not the variable font) to avoid Pango CMap corruption of
+   composed Unicode characters (ṭ, ṃ, ḷ etc.) and OpenType ligature copy/paste issues. */
+
+@font-face {
+    font-family: "Inter";
+    src: url("../website_example/identity_dpd/fonts/Inter-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../website_example/identity_dpd/fonts/Inter-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../website_example/identity_dpd/fonts/Inter-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../website_example/identity_dpd/fonts/Inter-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+body {
+    font-variant-ligatures: none;
+    font-feature-settings: "liga" 0, "clig" 0;
+}

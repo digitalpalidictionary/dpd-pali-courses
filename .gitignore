@@ -16,6 +16,7 @@ sources/
 agents
 memory
 skills
+*.log
 
 
 # Python build artifacts

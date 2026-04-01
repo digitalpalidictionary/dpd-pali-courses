@@ -1,4 +1,6 @@
-# Intermediate Pāḷi Course (IPC)
+# Table of Contents
+
+**Intermediate Pāḷi Course (IPC)**
 
 ## [Class 16](class_16/index.md)
 - [Sandhi](class_16/1_sandhi.md)
@@ -43,7 +45,7 @@
 - [Assimilation Summary](class_18/6_as_sum.md)
 - [Mixed Sandhi (vomissaka-sandhi)](class_18/7_mix_san.md)
 - [Another consonant assimilation](class_18/8_as_misc.md)
-- [Please construct and deconstruct:](class_18/9_ex.md)
+- [Practice](class_18/9_ex.md)
 - [Some Irregular Masculine Nouns](class_18/10_irreg_masc.md)
 - [Practice](class_18/11_ex.md)
 

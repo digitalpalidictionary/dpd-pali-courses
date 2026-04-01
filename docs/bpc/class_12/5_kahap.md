@@ -12,10 +12,10 @@ kahāpaṇāna = 4 pāda
 
 **Fun Indo-European Etymology Story[^26]**
 
-[^26]: Please understand that this is meant as a humorous element.
-
 The Sanskrit word for kahāpaṇāna is *kārṣāpaṇa*.
 
 The coins were called *kārṣāpaṇa* because they weighed one *karṣa* each, a weight measured in cowrie shells.
 
 The English word, "Cash", seems similar to the Sanskrit word, *karṣa*.
+
+[^26]: Please understand that this is meant as a humorous element.

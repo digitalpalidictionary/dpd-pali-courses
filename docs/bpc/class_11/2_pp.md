@@ -89,8 +89,6 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 
 **Masculine ending in -a**
 
-e.g. gata
-
 | | | |
 | --- | --- | --- |
 | 1.nom | gat**o** | gat**ā** |
@@ -104,8 +102,6 @@ e.g. gata
 
 **Feminine ending in -ā**
 
-e.g. gatā
-
 | | | |
 | --- | --- | --- |
 | 1.nom | gat**ā** | gat**ā**<br>gat**āyo** |
@@ -118,8 +114,6 @@ e.g. gatā
 | 8.voc | gat**e** | gat**ā**<br>gat**āyo** |
 
 **Neuter ending in -aṃ**
-
-e.g. gataṃ
 
 | | | |
 | --- | --- | --- |
