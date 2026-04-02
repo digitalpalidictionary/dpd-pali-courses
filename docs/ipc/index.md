@@ -1,6 +1,4 @@
-# Table of Contents
-
-**Intermediate Pāḷi Course (IPC)**
+# Content (IPC)
 
 ## [Class 16](class_16/index.md)
 - [Sandhi](class_16/1_sandhi.md)

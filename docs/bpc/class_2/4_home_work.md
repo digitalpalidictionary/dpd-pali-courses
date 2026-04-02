@@ -1,12 +1,10 @@
 # How to do the exercises
 
-Fold an A4 page into 4 or use the ruler to make 3 (4) columns.
-
-| **Pāli** | **Grammar** | **English** | **2nd language[^4]** |
-| --- | --- | --- | --- |
-| purisassa | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | человека |
-| goṇo | masc.nom.sg | the ox | бык |
-| **the man’s ox**<br>**бык человека** | | | |
+| **Pāli** | **POS** | **Grammar** | **English** | **2nd language[^4]** |
+| --- | --- | --- | --- | --- |
+| purisassa | noun | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | человека |
+| goṇo | noun | masc.nom.sg | the ox | бык |
+| **the man’s ox**<br>**бык человека** |
 
 [^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorize words.
 

@@ -183,8 +183,8 @@ def main(paths=None):
     if paths is None:
         paths = SSGPaths()
     sections = {
-        "bpc": "Beginner Pāḷi Course (BPC)",
-        "ipc": "Intermediate Pāḷi Course (IPC)",
+        "bpc": "Content (BPC)",
+        "ipc": "Content (IPC)",
         "bpc_ex": "BPC Exercises",
         "bpc_key": "BPC Keys",
         "ipc_ex": "IPC Exercises",

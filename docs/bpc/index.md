@@ -1,6 +1,4 @@
-# Table of Contents
-
-**Beginner Pāḷi Course (BPC)**
+# Content (BPC)
 
 ## [Class 1](class_1/index.md)
 
