@@ -130,7 +130,7 @@ def main() -> None:
         total_changed += renumber_footnotes_in_files(ordered_files, dry_run=args.dry_run)
 
     if total_changed:
-        pr.no(f"{total_changed} files")
+        pr.yes(f"{total_changed} files")
     else:
         pr.yes("ok")
 

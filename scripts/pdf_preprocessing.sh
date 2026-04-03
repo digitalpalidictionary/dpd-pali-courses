@@ -3,8 +3,9 @@
 
 set -e
 
-echo "Starting PDF/DOCX pre-processing..."
+scripts/regenerate_pages.sh
 
+echo "Starting PDF/DOCX pre-processing..."
 uv run python scripts/generate_mkdocs_yaml.py
 uv run python scripts/check_renumber.py
 uv run python scripts/renumber_footnotes.py

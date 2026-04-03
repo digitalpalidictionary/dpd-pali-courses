@@ -55,15 +55,13 @@ def process_file(filepath: str) -> bool:
 def main() -> None:
     pr.green("Fixing heading hierarchy")
     files = sorted(glob.glob("docs/**/*.md", recursive=True))
-    changed: list[str] = []
+    count = 0
     for filepath in files:
         if process_file(filepath):
-            changed.append(filepath)
+            count += 1
 
-    if changed:
-        pr.no(f"{len(changed)} files")
-        for filepath in changed:
-            pr.warning(filepath)
+    if count > 0:
+        pr.yes(f"{count} files")
     else:
         pr.yes("ok")
 

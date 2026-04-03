@@ -207,54 +207,161 @@ def get_markdown_files(docs_dir: str) -> dict[str, list[str]]:
     return f_by_dir
 
 
+def deduplicate_vocab_table(content: str, seen_words: set[str]) -> str:
+    """Filter vocab table rows whose Pāḷi word (col 1) was seen in a prior class file."""
+    lines = content.splitlines(keepends=True)
+    out: list[str] = []
+    in_table = False
+    header_done = False
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith('|') and not in_table:
+            in_table = True
+            header_done = False
+            out.append(line)
+            continue
+        if in_table and stripped.startswith('|'):
+            if not header_done and not stripped.replace(' ', '').strip('|-:'):
+                header_done = True
+                out.append(line)
+                continue
+            if header_done:
+                # Use regex to split only on unescaped pipes
+                cols = [c.strip() for c in re.split(r"(?<!\\)\|", stripped.strip("|"))]
+                word = cols[0] if cols else ''
+                # Handle pipe-escaped word: word\|1 -> word|1
+                word = word.replace('\\|', '|')
+                if word in seen_words:
+                    continue
+                seen_words.add(word)
+            out.append(line)
+        else:
+            if not stripped:
+                in_table = False
+                header_done = False
+            out.append(line)
+    return ''.join(out)
+
+
+def generate_reference_docx(docs_dir: str, output_dir: str, target: str | None = None) -> None:
+    """Generate DOCX for generated vocabulary and abbreviations."""
+    from pathlib import Path
+
+    # 1. Vocab DOCX
+    if not target or target == "vocab":
+        pr.green("vocab docx")
+        vocab_files = sorted(Path(docs_dir).joinpath("generated/vocab").glob("class-*.md"))
+        if vocab_files:
+            combined_md = ""
+            seen_words: set[str] = set()
+            for i, file_path in enumerate(vocab_files):
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                c = deduplicate_vocab_table(content, seen_words)
+                c = clean_markdown_content(c)
+                if i > 0:
+                    combined_md += PAGEBREAK
+                combined_md += f"{c}\n\n"
+            
+            output_file = os.path.join(output_dir, "vocab.docx")
+            try:
+                pypandoc.convert_text(
+                    combined_md,
+                    'docx',
+                    format='markdown',
+                    outputfile=output_file,
+                    extra_args=['--standalone', '--resource-path=docs:docs/assets/images:.']
+                )
+                pr.yes("ok")
+            except Exception as e:
+                pr.no(str(e))
+        else:
+            pr.no("no vocab files")
+
+    # 2. Abbreviations DOCX
+    if not target or target == "abbreviations":
+        pr.green("abbrev docx")
+        abbrev_file = Path(docs_dir) / "generated/abbreviations.md"
+        if abbrev_file.exists():
+            with open(abbrev_file, "r", encoding="utf-8") as f:
+                content = f.read()
+            c = clean_markdown_content(content)
+            output_file = os.path.join(output_dir, "abbreviations.docx")
+            try:
+                pypandoc.convert_text(
+                    c,
+                    'docx',
+                    format='markdown',
+                    outputfile=output_file,
+                    extra_args=['--standalone', '--resource-path=docs:docs/assets/images:.']
+                )
+                pr.yes("ok")
+            except Exception as e:
+                pr.no(str(e))
+        else:
+            pr.no("abbreviations.md not found")
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate .docx from course markdown.")
-    parser.add_argument("--folder", help="Specific folder to generate (e.g., bpc_ex)")
+    parser.add_argument("--folder", choices=list(FOLDER_NAMES.keys()) + ["vocab", "abbreviations"],
+                        help="Specific folder to generate (e.g., bpc_ex)")
     args = parser.parse_args()
 
     docs_dir = "docs"
+    output_dir = "docx_exports"
     f_by_dir = get_markdown_files(docs_dir)
 
-    about_path = os.path.join(docs_dir, "about.md")
-    lit_path = os.path.join(docs_dir, "literature.md")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
-    about_c = open(about_path, "r", encoding="utf-8").read() if os.path.exists(about_path) else ""
-    lit_c = open(lit_path, "r", encoding="utf-8").read() if os.path.exists(lit_path) else ""
+    if args.folder not in ["vocab", "abbreviations"]:
+        about_path = os.path.join(docs_dir, "about.md")
+        lit_path = os.path.join(docs_dir, "literature.md")
 
-    for fld, files in f_by_dir.items():
-        if not files:
-            continue
+        about_c = open(about_path, "r", encoding="utf-8").read() if os.path.exists(about_path) else ""
+        lit_c = open(lit_path, "r", encoding="utf-8").read() if os.path.exists(lit_path) else ""
 
-        if args.folder and fld != args.folder:
-            continue
-
-        pr.green(f"Generating {fld}")
-        data = []
-        for file_path in files:
-            # _ex and _key: skip folder-level index.md (it's a navigation list, not content)
-            if fld.endswith(('_ex', '_key')) and os.path.basename(file_path) == 'index.md':
+        for fld, files in f_by_dir.items():
+            if not files:
                 continue
-            with open(file_path, "r", encoding="utf-8") as f:
-                data.append((file_path, f.read()))
 
-        title = FOLDER_NAMES.get(fld, fld)
-        agg_md = aggregate_markdown(
-            title,
-            data,
-            folder=fld,
-            about_content=about_c if fld in ('bpc', 'ipc') else "",
-            lit_content=lit_c if fld in ('bpc', 'ipc') else ""
-        )
+            if args.folder and fld != args.folder:
+                continue
 
-        if not os.path.exists("docx_exports"):
-            os.makedirs("docx_exports")
+            pr.green(f"Generating {fld}")
+            data = []
+            for file_path in files:
+                # _ex and _key: skip folder-level index.md (it's a navigation list, not content)
+                if fld.endswith(('_ex', '_key')) and os.path.basename(file_path) == 'index.md':
+                    continue
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data.append((file_path, f.read()))
 
-        output_file = os.path.join("docx_exports", f"{fld}.docx")
-        generate_docx(agg_md, output_file, folder=fld)
-        post_process_docx(output_file, fld)
-        pr.yes("ok")
+            title = FOLDER_NAMES.get(fld, fld)
+            agg_md = aggregate_markdown(
+                title,
+                data,
+                folder=fld,
+                about_content=about_c if fld in ('bpc', 'ipc') else "",
+                lit_content=lit_c if fld in ('bpc', 'ipc') else ""
+            )
 
-    subprocess.run(["uv", "run", "python", "scripts/verify_docx_content.py"], check=False)
+            output_file = os.path.join(output_dir, f"{fld}.docx")
+            generate_docx(agg_md, output_file, folder=fld)
+            post_process_docx(output_file, fld)
+            pr.yes("ok")
+
+    # Reference generation
+    if not args.folder or args.folder in ["vocab", "abbreviations"]:
+        if not args.folder:
+            generate_reference_docx(docs_dir, output_dir)
+        elif args.folder == "vocab":
+            generate_reference_docx(docs_dir, output_dir, target="vocab")
+        elif args.folder == "abbreviations":
+            generate_reference_docx(docs_dir, output_dir, target="abbreviations")
+
+    if not args.folder:
+        subprocess.run(["uv", "run", "python", "scripts/verify_docx_content.py"], check=False)
 
 
 if __name__ == '__main__':

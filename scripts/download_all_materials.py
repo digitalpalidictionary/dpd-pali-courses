@@ -122,6 +122,48 @@ def process_course_documents(course_docs_info, course_name_prefix, output_dir):
 
     return downloaded_pdfs, downloaded_docx_files
 
+def add_reference_files_to_zips(archive_base_dir: str):
+    """Appends reference PDF/DOCX files (if present) to all 4 course zip archives."""
+    pr.green("reference files")
+    
+    reference_pdf_files = [
+        ("pdf_exports/vocab.pdf", "vocab.pdf"),
+        ("pdf_exports/abbreviations.pdf", "abbreviations.pdf"),
+    ]
+    reference_docx_files = [
+        ("docx_exports/vocab.docx", "vocab.docx"),
+        ("docx_exports/abbreviations.docx", "abbreviations.docx"),
+    ]
+    
+    zip_files = [
+        (BPC_PDF_ZIP_FILENAME, reference_pdf_files),
+        (BPC_DOCX_ZIP_FILENAME, reference_docx_files),
+        (IPC_PDF_ZIP_FILENAME, reference_pdf_files),
+        (IPC_DOCX_ZIP_FILENAME, reference_docx_files),
+    ]
+    
+    any_added = False
+    for zip_name, ref_files in zip_files:
+        zip_path = os.path.join(archive_base_dir, zip_name)
+        if not os.path.exists(zip_path):
+            continue
+            
+        try:
+            with zipfile.ZipFile(zip_path, 'a') as zf:
+                # Get list of existing files to avoid duplicates
+                existing_files = zf.namelist()
+                for src, arcname in ref_files:
+                    if os.path.exists(src) and arcname not in existing_files:
+                        zf.write(src, arcname=arcname)
+                        any_added = True
+        except Exception as e:
+            pr.warning(f"Error adding reference files to {zip_name}: {e}")
+            
+    if any_added:
+        pr.yes("ok")
+    else:
+        pr.no("none added")
+
 def main():
     os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
     all_downloads_successful = True
@@ -150,6 +192,9 @@ def main():
             create_zip_archive(paths, zip_name, OUTPUT_BASE_DIR)
         else:
             pr.warning(f"No files downloaded for {zip_name}")
+
+    # Add generated reference files to zips
+    add_reference_files_to_zips(OUTPUT_BASE_DIR)
 
     pr.info(f"Output: {os.path.abspath(OUTPUT_BASE_DIR)}")
 

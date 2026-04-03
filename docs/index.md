@@ -5,6 +5,7 @@ hide:
 # Welcome to DPD Pāḷi Courses
 
 - [About](about.md)
+- [Download Materials](downloads.md)
 - [Literature](literature.md)
 
 ---
@@ -18,3 +19,16 @@ hide:
 ## [Intermediate Pāḷi Course (IPC)](ipc/index.md)
 - [IPC Exercises](ipc_ex/index.md)
 - [IPC Keys to the Exercises](ipc_key/index.md)
+
+---
+
+## Study Tools
+
+- [Anki Decks](anki/index.md)
+
+---
+
+## Reference
+
+- [Abbreviations](generated/abbreviations.md)
+- [Vocabulary](generated/vocab/index.md)

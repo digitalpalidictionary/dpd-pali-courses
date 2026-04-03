@@ -10,6 +10,7 @@ import markdown
 import re
 import subprocess
 import sys
+from pathlib import Path
 from bs4 import BeautifulSoup
 from tools.printer import printer as pr
 
@@ -380,56 +381,173 @@ def generate_pdf(html_content, output_pdf, css_paths=None):
     css_objs = [CSS(filename=p, font_config=font_config) for p in (css_paths or []) if os.path.exists(p)]
     HTML(string=html_content, base_url=os.path.abspath(".")).write_pdf(output_pdf, stylesheets=css_objs, font_config=font_config)
 
+def deduplicate_vocab_table(content: str, seen_words: set[str]) -> str:
+    """Filter vocab table rows whose Pāḷi word (col 1) was seen in a prior class file."""
+    lines = content.splitlines(keepends=True)
+    out: list[str] = []
+    in_table = False
+    header_done = False
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith('|') and not in_table:
+            in_table = True
+            header_done = False
+            out.append(line)
+            continue
+        if in_table and stripped.startswith('|'):
+            if not header_done and not stripped.replace(' ', '').strip('|-:'):
+                header_done = True
+                out.append(line)
+                continue
+            if header_done:
+                # Use regex to split only on unescaped pipes
+                cols = [c.strip() for c in re.split(r"(?<!\\)\|", stripped.strip("|"))]
+                word = cols[0] if cols else ''
+                # Handle pipe-escaped word: word\|1 -> word|1
+                word = word.replace('\\|', '|')
+                if word in seen_words:
+                    continue
+                seen_words.add(word)
+            out.append(line)
+        else:
+            if not stripped:
+                in_table = False
+                header_done = False
+            out.append(line)
+    return ''.join(out)
+
+
+def generate_reference_pdfs(docs_dir: str, output_dir: str, css_paths: list[str], target: str | None = None) -> None:
+    """Generate PDFs for generated vocabulary and abbreviations."""
+    from weasyprint import HTML, CSS
+    from weasyprint.text.fonts import FontConfiguration
+    font_config = FontConfiguration()
+    css_objs = [CSS(filename=p, font_config=font_config) for p in css_paths if os.path.exists(p)]
+    md = markdown.Markdown(extensions=['toc', 'tables', 'fenced_code', 'attr_list', 'sane_lists', 'md_in_html', 'nl2br'])
+
+    # 1. Vocab PDF
+    if not target or target == "vocab":
+        pr.green("vocab pdf")
+        vocab_files = sorted(Path(docs_dir).joinpath("generated/vocab").glob("class-*.md"))
+        if vocab_files:
+            combined_html = ""
+            seen_words: set[str] = set()
+            for i, file_path in enumerate(vocab_files):
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                c = deduplicate_vocab_table(content, seen_words)
+                c = clean_markdown_content(c)
+                c = pre_process_content(c)
+                md.reset()
+                html_fragment = md.convert(c)
+                page_break = '<div style="page-break-before: always;"></div>' if i > 0 else ""
+                combined_html += f'{page_break}<div class="pdf-topic-page">{html_fragment}</div>'
+            
+            full_html = f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Vocabulary</title></head><body>{post_process_html(combined_html)}</body></html>"
+            try:
+                HTML(string=full_html, base_url=os.path.abspath(".")).write_pdf(
+                    os.path.join(output_dir, "vocab.pdf"), 
+                    stylesheets=css_objs, 
+                    font_config=font_config
+                )
+                pr.yes("ok")
+            except Exception as e:
+                pr.no(str(e))
+        else:
+            pr.no("no vocab files")
+
+    # 2. Abbreviations PDF
+    if not target or target == "abbreviations":
+        pr.green("abbrev pdf")
+        abbrev_file = Path(docs_dir) / "generated/abbreviations.md"
+        if abbrev_file.exists():
+            with open(abbrev_file, "r", encoding="utf-8") as f:
+                content = f.read()
+            c = clean_markdown_content(content)
+            c = pre_process_content(c)
+            md.reset()
+            html_fragment = md.convert(c)
+            full_html = f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Abbreviations</title></head><body>{post_process_html(html_fragment)}</body></html>"
+            try:
+                HTML(string=full_html, base_url=os.path.abspath(".")).write_pdf(
+                    os.path.join(output_dir, "abbreviations.pdf"), 
+                    stylesheets=css_objs, 
+                    font_config=font_config
+                )
+                pr.yes("ok")
+            except Exception as e:
+                pr.no(str(e))
+        else:
+            pr.no("abbreviations.md not found")
+
 def main():
     parser = argparse.ArgumentParser(description="Generate PDF course materials")
-    parser.add_argument("folder", nargs="?", choices=list(FOLDER_NAMES.keys()),
+    parser.add_argument("folder", nargs="?", choices=list(FOLDER_NAMES.keys()) + ["vocab", "abbreviations"],
                         help="Generate only this folder (default: all)")
     parser.add_argument("--html-only", action="store_true",
                         help="Dump intermediate HTML to pdf_exports/<folder>_debug.html, skip WeasyPrint")
     args = parser.parse_args()
 
     docs_dir = "docs"
+    output_dir = "pdf_exports"
     css_paths = ["identity/dpd-pdf-fonts.css", "identity/dpd-variables.css", "identity/dpd.css", "identity/extra.css"]
-    with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f:
-        title_c = f.read()
-    with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f:
-        lit_c = f.read()
+    
+    # Existing course generation
     f_by_dir = get_markdown_files(docs_dir)
-    os.makedirs("pdf_exports", exist_ok=True)
-    for fld, files in f_by_dir.items():
-        if args.folder and fld != args.folder:
-            continue
-        if not files:
-            continue
-        pr.green(f"Generating {fld}")
-        data = []
-        for file_path in files:
-            rel = os.path.relpath(file_path, docs_dir)
-            if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'):
+    os.makedirs(output_dir, exist_ok=True)
+    
+    if args.folder not in ["vocab", "abbreviations"]:
+        with open(os.path.join(docs_dir, "about.md"), "r", encoding="utf-8") as f:
+            title_c = f.read()
+        with open(os.path.join(docs_dir, "literature.md"), "r", encoding="utf-8") as f:
+            lit_c = f.read()
+            
+        for fld, files in f_by_dir.items():
+            if args.folder and fld != args.folder:
                 continue
-            with open(file_path, "r", encoding="utf-8") as f:
-                data.append((file_path, f.read()))
-        ri_path = os.path.join(docs_dir, fld, "index.md")
-        # ONLY use root_index for bpc and ipc (lessons), NOT for ex or key
-        ri_c = ""
-        if fld in ['bpc', 'ipc'] and os.path.exists(ri_path):
-            with open(ri_path, "r", encoding="utf-8") as f:
-                ri_c = f.read()
+            if not files:
+                continue
+            pr.green(f"Generating {fld}")
+            data = []
+            for file_path in files:
+                rel = os.path.relpath(file_path, docs_dir)
+                if len(rel.split(os.sep)) == 2 and rel.endswith('index.md'):
+                    continue
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data.append((file_path, f.read()))
+            ri_path = os.path.join(docs_dir, fld, "index.md")
+            ri_c = ""
+            if fld in ['bpc', 'ipc'] and os.path.exists(ri_path):
+                with open(ri_path, "r", encoding="utf-8") as f:
+                    ri_c = f.read()
 
-        t_html_start = time.time()
-        html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
-        html_t = time.time() - t_html_start
+            t_html_start = time.time()
+            html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
+            html_t = time.time() - t_html_start
 
-        if args.html_only:
-            debug_path = os.path.join("pdf_exports", f"{fld}_debug.html")
-            with open(debug_path, "w", encoding="utf-8") as f:
-                f.write(html)
-            pr.yes(f"html {html_t:.1f}s → {debug_path}")
-        else:
-            generate_pdf(html, os.path.join("pdf_exports", f"{fld}.pdf"), css_paths=css_paths)
-            pr.yes("ok")
+            if args.html_only:
+                debug_path = os.path.join(output_dir, f"{fld}_debug.html")
+                with open(debug_path, "w", encoding="utf-8") as f:
+                    f.write(html)
+                pr.yes(f"html {html_t:.1f}s → {debug_path}")
+            else:
+                generate_pdf(html, os.path.join(output_dir, f"{fld}.pdf"), css_paths=css_paths)
+                pr.yes("ok")
 
+    # Reference generation
     if not args.html_only:
+        if not args.folder or args.folder in ["vocab", "abbreviations"]:
+            if not args.folder:
+                generate_reference_pdfs(docs_dir, output_dir, css_paths)
+            elif args.folder == "vocab":
+                generate_reference_pdfs(docs_dir, output_dir, css_paths, target="vocab")
+            elif args.folder == "abbreviations":
+                generate_reference_pdfs(docs_dir, output_dir, css_paths, target="abbreviations")
+
+    if not args.html_only and not args.folder:
+        subprocess.run(["uv", "run", "python", "scripts/verify_numbering.py"], check=False)
+
+    if not args.html_only and not args.folder:
         subprocess.run(["uv", "run", "python", "scripts/verify_numbering.py"], check=False)
 
 if __name__ == '__main__':

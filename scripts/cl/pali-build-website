@@ -9,7 +9,7 @@ PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." >/dev/null 2>&1 && pwd
 # Change to the project root
 cd "$PROJECT_ROOT" || exit 1
 
-uv run bash scripts/web_preprocessing.sh
+(unset VIRTUAL_ENV && uv run bash scripts/web_preprocessing.sh)
 
 echo "Starting MkDocs development server..."
 echo "Press Ctrl+C to stop."

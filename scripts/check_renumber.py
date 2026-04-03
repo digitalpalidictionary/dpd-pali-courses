@@ -52,7 +52,7 @@ def main():
 
     pr.green("Checking sentence numbering")
     target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key']
-    changed: list[str] = []
+    count = 0
     for d in target_dirs:
         if not os.path.exists(d):
             continue
@@ -61,12 +61,10 @@ def main():
                 if file.endswith('.md') and file != 'index.md':
                     fp = os.path.join(root, file)
                     if renumber_file(fp, args.dry_run):
-                        changed.append(fp)
+                        count += 1
 
-    if changed:
-        pr.no(f"{len(changed)} files")
-        for fp in changed:
-            pr.warning(fp)
+    if count > 0:
+        pr.yes(f"{count} files")
     else:
         pr.yes("ok")
 

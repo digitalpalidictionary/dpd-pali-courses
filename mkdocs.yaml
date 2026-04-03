@@ -6,13 +6,15 @@ theme:
   language: en
   custom_dir: identity
   palette:
-  - scheme: default
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
     primary: brown
     accent: orange
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode
-  - scheme: slate
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
     primary: brown
     accent: orange
     toggle:
@@ -32,6 +34,10 @@ extra_css:
 extra_javascript:
 - footnotes.js
 - search_order.js
+- tablesort.min.js
+- tablesort.number.js
+- tablesort_init.js
+- theme-images.js
 markdown_extensions:
 - attr_list
 - toc:
@@ -51,6 +57,7 @@ hooks:
 nav:
 - Home: index.md
 - About: about.md
+- Downloads: downloads.md
 - Literature: literature.md
 - Beginner Course (BPC):
   - Lessons:
@@ -389,5 +396,43 @@ nav:
     - Class 27 Key to Exercises: ipc_key/27_class.md
     - Class 28 Key to Exercises: ipc_key/28_class.md
     - Class 29 Key to Exercises: ipc_key/29_class.md
+- Study Tools:
+  - Anki Decks:
+    - Anki Decks: anki/index.md
+    - How to Update: anki/updating.md
+    - Suspend Extra Cards: anki/suspend-extra.md
+    - Advanced CSV Update: anki/csv-update.md
+- Reference:
+  - Abbreviations: generated/abbreviations.md
+  - Vocabulary:
+    - Vocabulary Index: generated/vocab/index.md
+    - Class 2: generated/vocab/class-02.md
+    - Class 3: generated/vocab/class-03.md
+    - Class 4: generated/vocab/class-04.md
+    - Class 5: generated/vocab/class-05.md
+    - Class 6: generated/vocab/class-06.md
+    - Class 7: generated/vocab/class-07.md
+    - Class 8: generated/vocab/class-08.md
+    - Class 9: generated/vocab/class-09.md
+    - Class 10: generated/vocab/class-10.md
+    - Class 11: generated/vocab/class-11.md
+    - Class 12: generated/vocab/class-12.md
+    - Class 13: generated/vocab/class-13.md
+    - Class 14: generated/vocab/class-14.md
+    - Class 15: generated/vocab/class-15.md
+    - Class 16: generated/vocab/class-16.md
+    - Class 17: generated/vocab/class-17.md
+    - Class 18: generated/vocab/class-18.md
+    - Class 19: generated/vocab/class-19.md
+    - Class 20: generated/vocab/class-20.md
+    - Class 21: generated/vocab/class-21.md
+    - Class 22: generated/vocab/class-22.md
+    - Class 23: generated/vocab/class-23.md
+    - Class 24: generated/vocab/class-24.md
+    - Class 25: generated/vocab/class-25.md
+    - Class 26: generated/vocab/class-26.md
+    - Class 27: generated/vocab/class-27.md
+    - Class 28: generated/vocab/class-28.md
+    - Class 29: generated/vocab/class-29.md
 plugins:
 - search

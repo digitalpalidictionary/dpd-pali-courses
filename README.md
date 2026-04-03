@@ -100,10 +100,10 @@ All scripts are located in the `scripts/` directory and can be run using `uv run
 
 ### Document Generation
 
-- **`generate_pdfs.py`**: Generates high-quality PDF course materials from Markdown source files using WeasyPrint. Applies course-specific styling, cleans UI elements, and handles footnote reformatting. Output goes to `pdf_exports/`.
+- **`generate_pdfs.py`**: Generates high-quality PDF course materials from Markdown source files using WeasyPrint. Now also generates `pdf_exports/vocab.pdf` and `pdf_exports/abbreviations.pdf`.
   - Usage: `uv run python scripts/generate_pdfs.py`
 
-- **`generate_docx.py`**: Generates Word (.docx) documents from Markdown source using Pandoc. Maintains visual parity with PDF output for offline study. Output goes to `docx_exports/`.
+- **`generate_docx.py`**: Generates Word (.docx) documents from Markdown source using Pandoc. Maintains visual parity with PDF output for offline study. Now also generates `docx_exports/vocab.docx` and `docx_exports/abbreviations.docx`.
   - Usage: `uv run python scripts/generate_docx.py`
 
 ### Content Cleanup & Maintenance
@@ -133,6 +133,9 @@ All scripts are located in the `scripts/` directory and can be run using `uv run
 
 - **`update_css.py`**: Synchronizes CSS variables from source configurations to the Identity stylesheet directory.
   - Usage: `uv run python scripts/update_css.py`
+
+- **`vocab_abbrev_pali_course.py`** (in `dpd-db`): Generates Markdown vocabulary and abbreviation reference pages from the DPD database. These pages are published in the "Reference" section of the website.
+  - Usage: `cd ../dpd-db && uv run python scripts/export/vocab_abbrev_pali_course.py`
 
 ### Pre-Processing Workflows
 

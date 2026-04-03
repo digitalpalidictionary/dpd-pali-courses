@@ -60,19 +60,17 @@ def clean_dead_links_in_file(file_path: Path):
 def main():
     pr.green("Cleaning dead links")
     docs_dir = Path('docs').resolve()
-    changed: list[str] = []
+    count = 0
 
     for root, _, files in os.walk(docs_dir):
         for file in files:
             if file.endswith('.md'):
                 file_path = Path(root) / file
                 if clean_dead_links_in_file(file_path):
-                    changed.append(str(file_path.relative_to(docs_dir)))
+                    count += 1
 
-    if changed:
-        pr.no(f"{len(changed)} files")
-        for fp in changed:
-            pr.warning(fp)
+    if count > 0:
+        pr.yes(f"{count} files")
     else:
         pr.yes("ok")
 
