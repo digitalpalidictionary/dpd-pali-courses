@@ -1,8 +1,8 @@
 # Project Rules
 
-> **Both files are always active.** The agent loads the global `~/.config/agents/AGENTS.md` and this file simultaneously. Global rules apply here too — this file only adds project-specific rules on top.
+> **Both files are always active.** The agent loads the global `~/agents/AGENTS.md` and this file simultaneously. Global rules apply here too — this file only adds project-specific rules on top.
 
-These rules are specific to the DPD Pāḷi Courses project. Universal rules (security, testing, git, conductor, debugging, etc.) are now in the global `/Users/deva/.config/agents/AGENTS.md`.
+These rules are specific to the DPD Pāḷi Courses project. Universal rules (security, testing, git, debugging, etc.) are now in the global `/Users/deva/.config/agents/AGENTS.md`.
 
 ## Project: DPD Pāḷi Courses
 
@@ -15,7 +15,6 @@ This project contains materials for Pāḷi language courses, specifically the D
 - **Data Integrity:** All automated changes must be verified against original meaning and structure.
 
 ## Project Structure
-- `conductor/`: Project orchestration files.
 - `docs/bpc/`: Beginner Pāḷi Course materials.
 - `docs/bpc_ex/`: Beginner Pāḷi Course exercises.
 - `docs/bpc_key/`: Beginner Pāḷi Course keys.
@@ -25,9 +24,6 @@ This project contains materials for Pāḷi language courses, specifically the D
 
 ## GitHub (upstream repository)
 - Unless otherwise specified the repository in question is https://github.com/digitalpalidictionary/dpd-pali-courses.
-
-## Tools/printer.py
-Colored console output with timing. Import: `from tools.printer import printer as pr`
 
 ## Script Registry
 If a script is intended to be run regularly (e.g., generators, verifiers, cleanup tools), it MUST be added to the project's root README.md with a brief explanation of how to use it.
