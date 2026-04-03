@@ -8,7 +8,7 @@
 
 **Extra:**
 
--   Find 2–5 sentences in DPR/TPR using [vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) from class 6 (see vocab-for-classes.xlsx sheet class6).
+-   Find 2–5 sentences in DPR/TPR using [vocabulary](../../generated/vocab/class-06.md) from class 6.
 
 ## Extra Reading
 

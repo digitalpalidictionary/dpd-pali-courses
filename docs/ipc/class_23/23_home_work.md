@@ -1,7 +1,7 @@
 # Homeless work
 
 1.  Please re-read this lesson
-2.  Complete exercises and examples from Tipiṭaka for class 23
+2.  Complete exercises for class 23
 3.  In the exercises, break up every verb and participle into
 prefix + root + root sign + verbal ending / suffix.
 e.g. paṭiggaṇhāmi: or the classic way:

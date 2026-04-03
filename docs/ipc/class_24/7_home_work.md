@@ -1,7 +1,7 @@
 # Homeless work
 
 1.  Please re-read this lesson
-2.  Complete exercises and examples from Tipiṭaka for class 24
+2.  Complete exercises for class 24
 3.  In the exercises, break up every verb and participle into root, group and sign / prefix, base and verbal termination.
 
     e.g. paṭiggaṇhāti: pati + √gah + ṇhā + ti

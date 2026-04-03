@@ -1,7 +1,7 @@
 # Homeless work
 
 1.  Please re-read this lesson
-2.  Complete exercises and examples from Tipiṭaka for class 16
+2.  Complete exercises for class 16
 3.  Learn the sandhi using Anki Deck “Grammar Pāli Class”
 4.  Learn the vocabulary from the exercises using Anki Deck “Vocab Pāli Class”
 5.  Learn roots and try to understand phonetic changes using any of the available decks.

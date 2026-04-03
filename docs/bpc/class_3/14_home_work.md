@@ -2,7 +2,7 @@
 
 1.  Exercises for class 3
 
-2.  Make 5 sentences (English - Pāli) using [vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) from class 3 (see vocab-for-classes.xlsx sheet class3).
+2.  Make 5 sentences (English - Pāli) using [vocabulary](../../generated/vocab/class-03.md) from class 3.
 3.  Learn the vocabulary from class 3 using Anki Deck “Vocab Pāli Class”
 4.  Learn conjugation of pr. from class 3 from Anki Deck “Grammar Pāli Class”
 

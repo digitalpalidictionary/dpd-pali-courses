@@ -1,6 +1,6 @@
 # Homeless work
 
-1.  Complete exercises and examples from Tipiṭaka for class 17
+1.  Complete exercises for class 17
 2.  Learn the Pāli Alphabet Analysis
 3.  Reread this class
 4.  Learn the vocabulary from the exercises using Anki Deck “Vocab Pāli Class”

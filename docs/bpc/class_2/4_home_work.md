@@ -11,7 +11,7 @@
 ## Homeless work
 
 1.  Exercises for class 2
-2.  Make 5 sentences (English - Pāli) using [vocabulary](https://sasanarakkha.github.io/study-tools/pali-class/vocab/index-vocab.html) from class 2 (see vocab-for-classes.xlsx sheet class2).
+2.  Make 5 sentences (English - Pāli) using [vocabulary](../../generated/vocab/class-02.md) from class 2.
 3.  Learn the vocabulary from class 2 using Anki Deck “Vocab Pāli Class”
 4.  Learn declension of masculine nouns in -a from “Grammar Pāli Class” class 2
 5.  Have a student meeting sometime before the class to discuss exercises. Go over each sentence.
