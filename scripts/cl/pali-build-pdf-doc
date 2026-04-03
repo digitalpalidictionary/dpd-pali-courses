@@ -9,6 +9,8 @@ PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." >/dev/null 2>&1 && pwd
 # Change to the project root
 cd "$PROJECT_ROOT" || exit 1
 
+uv run bash scripts/regenerate_pages.sh
+
 uv run bash scripts/pdf_preprocessing.sh
 
 echo "Generating PDFs..."

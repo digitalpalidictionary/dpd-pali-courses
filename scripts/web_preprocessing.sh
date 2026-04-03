@@ -3,8 +3,6 @@
 
 set -e
 
-scripts/regenerate_pages.sh
-
 echo "Starting web pre-processing..."
 uv run python scripts/generate_mkdocs_yaml.py
 uv run python scripts/check_renumber.py
