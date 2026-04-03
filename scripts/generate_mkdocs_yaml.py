@@ -135,7 +135,7 @@ config = {
         'features': ['navigation.tabs', 'navigation.tabs.sticky', 'navigation.top', 'navigation.indexes', 'content.code.copy', 'hide.generator']
     },
     'extra_css': ['dpd.css', 'dpd-variables.css', 'extra.css'],
-    'extra_javascript': ['footnotes.js', 'search_order.js', 'tablesort.min.js', 'tablesort.number.js', 'tablesort_init.js', 'theme-images.js'],
+    'extra_javascript': ['footnotes.js', 'search_order.js', 'tablesort-all.js', 'theme-images.js'],
     'markdown_extensions': [
         'attr_list',
         {'toc': {

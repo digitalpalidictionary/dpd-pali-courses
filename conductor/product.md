@@ -14,5 +14,6 @@ To serve as the definitive, version-controlled source for Digital Pāli Dictiona
 - **Markdown Source of Truth:** Centralized storage of course lessons, exercises, and answer keys in human-readable Markdown.
 - **Automated Web Publishing:** A CI/CD workflow using MkDocs and Material for MkDocs that transforms Markdown source into a functional HTML website upon every update.
 - **Automated PDF Export:** A CI/CD workflow that transforms Markdown sources into styled PDF documents upon every update, utilizing the same CSS as the website.
+- **Automated Reference Material:** A pipeline to generate comprehensive vocabulary and abbreviation reference pages directly from the DPD database.
 - **Collaborative Maintenance:** An environment where corrections, improvements, and additions to the course material can be tracked and managed via Git.
 - **Resource Bundling:** Tools (like Python scripts) to package and distribute materials for offline study.

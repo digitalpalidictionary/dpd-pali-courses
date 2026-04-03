@@ -15,9 +15,15 @@
 
 ## Maintenance Tools
 - **`check_renumber.py`**: Automated script to ensure sequential Pāḷi sentence numbering in exercise and key files.
+**vocab_abbrev_pali_course.py** (in `dpd-db`): Generates Markdown vocabulary and abbreviation pages from the DPD database.
+**tablesort**: JS library for sortable tables on the website.
+**theme-images.js**: Custom JS for switching between dark and light image variants.
 
 ## Dependencies (Python)
 - `requests`: For handling external data and document downloads.
 - `zipfile`, `os`, `re`: Standard libraries for file management and text processing.
 - `mkdocs`, `mkdocs-material`: For building the documentation site.
 - `weasyprint`, `markdown`: For HTML to PDF generation.
+- `pypandoc`: For Markdown to DOCX generation.
+- `python-docx`: For post-processing DOCX documents.
+

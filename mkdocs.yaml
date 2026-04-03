@@ -34,9 +34,7 @@ extra_css:
 extra_javascript:
 - footnotes.js
 - search_order.js
-- tablesort.min.js
-- tablesort.number.js
-- tablesort_init.js
+- tablesort-all.js
 - theme-images.js
 markdown_extensions:
 - attr_list
