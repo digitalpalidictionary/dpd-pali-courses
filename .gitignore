@@ -11,12 +11,13 @@ site/
 .env
 .venv/
 archive/
-conductor/sessions/
+sessions
 sources/
 agents
 memory
 skills
 *.log
+*.code-workspace
 
 
 # Python build artifacts

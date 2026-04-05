@@ -2,7 +2,7 @@
 
 > **Both files are always active.** The agent loads the global `~/agents/AGENTS.md` and this file simultaneously. Global rules apply here too — this file only adds project-specific rules on top.
 
-These rules are specific to the DPD Pāḷi Courses project. Universal rules (security, testing, git, debugging, etc.) are now in the global `/Users/deva/.config/agents/AGENTS.md`.
+These rules are specific to the DPD Pāḷi Courses project. Universal rules (security, testing, git, debugging, etc.) are now in the global `~/agents/AGENTS.md`.
 
 ## Project: DPD Pāḷi Courses
 
