@@ -130,7 +130,7 @@
 | karoti 1 | pr | does; acts; performs | √kar 7 o (do, make) | karo + ti | karoti pr | 3 |
 | khādati | pr | chews; devours; eats | √khād 1 a (chew) | khāda + ti | ati pr | 3 |
 | labhati 1 | pr | gets; receives; obtains (something for) | √labh 1 a (get) | labha + ti | ati pr | 3 |
-| nibbindati 1 | pr | is dis-enchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
+| nibbindati 1 | pr | is disenchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
 | paggaṇhāti 2 | pr | holds out; raises up | √gah 6 ṇhā (grasp) | pa + gaṇhā + ti | āti pr | 3 |
 | pajahati | pr | gives up; abandons; lets go (of); releases | √hā 1 a (abandon) | pa + jaha + ti | ati pr | 3 |
 | pajānāti | pr | knows; knows clearly; understands; distinguishes | √ñā 5 nā (know) | pa + jānā + ti | āti pr | 3 |

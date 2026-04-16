@@ -71,7 +71,7 @@
 | khattiya 2 | masc | man of the warrior caste; high caste man; nobleman | | | a masc | 2 |
 | khaya | masc | wearing away; exhaustion; erosion; depletion; destruction (of) | √khī 1 a (exhaust, destroy) | √khī > khay + *a | a masc | 2 |
 | kulla 1.1 | masc | boat; raft | | | a masc | 2 |
-| kumāra 2 | masc | prince | √kumār 8 *e (play) | √kumār + a | a masc | 2 |
+| kumāra 2 | masc | prince | | | a masc | 2 |
 | kāla 1.1 | masc | time; occasion (for) | √kal 8 *e (spend time) | √kal > kāl + *a | a masc | 2 |
 | kāma 3 | masc | sense desire; sensual pleasure (of) | √kam 8 *e (desire) | √kam > kām + *a | a masc | 2 |
 | kāra 1 | masc | deed; action; service | √kar 7 o (do, make) | √kar > kār + *a | a masc | 2 |
@@ -286,7 +286,7 @@
 | nahāyati | pr | takes a bath; bathes; washes | √nhā 3 ya (bathe) | nahāya + ti | ati pr | 3 |
 | neti 1.1 | pr | leads; carries away; takes away | √nī 1 a (lead, carry) | ne + ti | eti pr | 3 |
 | nibbattati 1 | pr | re-arises; re-appears; regrows; is reborn | √vatt 1 a (be, proceed) | nī + vatta + ti | ati pr | 3 |
-| nibbindati 1 | pr | is dis-enchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
+| nibbindati 1 | pr | is disenchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
 | nikkhipati 2 | pr | puts down; places down; lays down | √khip 1 a (throw) | ni + khipa + ti | ati pr | 3 |
 | nikkhipati 3 | pr | sets aside; lays aside; keeps; saves; stores (something in) | √khip 1 a (throw) | ni + khipa + ti | ati pr | 3 |
 | nisīdati 1 | pr | sits (on); sits down (in) | √sad 1 a (sink, sit, settle) | ni + sīda + ti | ati pr | 3 |
@@ -644,7 +644,7 @@
 | upekkhā | fem | looking on; mental poise; mental balance; equanimity; equipoise; non-reactivity; composure | √ikkh 1 a (see, mark) | upa + √ikkh + ā | ā fem | 7 |
 | upāsikā | fem | female disciple; laywomen; female devotee | √ās 1 a (sit) | upa + √ās + ikā | ā fem | 7 |
 | vadeyya | opt | would say; could speak; could tell | √vad 1 a (say, speak) | vada + eyya | ati pr | 7 |
-| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; sensation; second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
+| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
 | vijjā 1 | fem | knowledge; wisdom; understanding | √vid 3 ya (know, understand) | √vid + yā | ā fem | 7 |
 | vipassanā | fem | insight; penetrating internal vision; introspection | √dis 1 a (see) | vi + passa + anā | ā fem | 7 |
 | vācā 1 | fem | speech; words; statement; talk | √vac 1 a (say, speak) | √vac > vāc + *ā | ā fem | 7 |
@@ -769,7 +769,7 @@
 | agga 1.3 | nt | tip; top; peak | | | a nt | 9 |
 | agāra 1 | nt | dwelling; building; house; home; hut | | | a nt | 9 |
 | agāra 2 | nt | household life; domestic living | | | a nt | 9 |
-| alaṃ 1 | ind | (it is) suitable (to); proper (to); appropriate (to); worthy (for) | | | | 9 |
+| alaṃ 1 | ind | (it is) suitable; proper; worthy; appropriate (to) | | | | 9 |
 | alaṃ 2 | ind | is able (to); is possible (to); is capable (of) | | ala + aṃ | | 9 |
 | alaṃ 3 | ind | enough; it is enough (for) | | | | 9 |
 | alika 1 | nt | lie; falsehood; untruth | | | a nt | 9 |
@@ -1459,7 +1459,7 @@
 | parimuccati | pr | is completely freed; is totally liberated; escapes (from) | √muc 2 ya (release, free) | pari + mucca + ti | ati pr | 13 |
 | parimukhaṃ 1 | ind | as first priority; to the fore; (comm) directed towards the meditation object | | pari + mukha + aṃ | | 13 |
 | parisujjhati | pr | is purified; is cleansed (by) | √sudh 3 ya (be pure) | pari + sujjha + ti | ati pr | 13 |
-| paritassati | pr | is perturbed; is shaken; is agitated; is anguished | √tas 1 ya (tremble, fear) | pari + tassa + ti | ati pr | 13 |
+| paritassati | pr | is perturbed; is shaken; is agitated; is anxious; is anguished | √tas 1 ya (tremble, fear) | pari + tassa + ti | ati pr | 13 |
 | pariyesanaṃ | ind | looking for; in search of; on a quest for | √es 1 a (seek, search) | pari + [y] + √es + anā + aṃ | | 13 |
 | pariyāyena 1 | ind | in one way; from a certain point of view; figuratively speaking | √i 1 a (come, go) | pari + [y] + √i > āy + *a + ena | | 13 |
 | pariḍayhamāna | prp | being burnt; being tormented; being afflicted; being distressed (by) | √ḍah 1 ya (burn) | pari + ḍayha + māna | māna prp | 13 |

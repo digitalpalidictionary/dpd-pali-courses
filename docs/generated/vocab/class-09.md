@@ -204,7 +204,7 @@
 | maññati 1 | pr | thinks; imagines; conceives; presumes; supposes | √man 3 ya (think) | mañña + ti | ati pr | 3 |
 | nahāyati | pr | takes a bath; bathes; washes | √nhā 3 ya (bathe) | nahāya + ti | ati pr | 3 |
 | neti 1.1 | pr | leads; carries away; takes away | √nī 1 a (lead, carry) | ne + ti | eti pr | 3 |
-| nibbindati 1 | pr | is dis-enchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
+| nibbindati 1 | pr | is disenchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
 | nikkhipati 3 | pr | sets aside; lays aside; keeps; saves; stores (something in) | √khip 1 a (throw) | ni + khipa + ti | ati pr | 3 |
 | nisīdati 1 | pr | sits (on); sits down (in) | √sad 1 a (sink, sit, settle) | ni + sīda + ti | ati pr | 3 |
 | obhāsati 1.1 | pr | speaks coarsely; speaks suggestively; talks rudely; talks dirty (to) | √bhās 1 a (speak) | ava + bhāsa + ti | ati pr | 3 |
@@ -451,7 +451,7 @@
 | upekkhā | fem | looking on; mental poise; mental balance; equanimity; equipoise; non-reactivity; composure | √ikkh 1 a (see, mark) | upa + √ikkh + ā | ā fem | 7 |
 | upāsikā | fem | female disciple; laywomen; female devotee | √ās 1 a (sit) | upa + √ās + ikā | ā fem | 7 |
 | vadeyya | opt | would say; could speak; could tell | √vad 1 a (say, speak) | vada + eyya | ati pr | 7 |
-| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; sensation; second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
+| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
 | vijjā 1 | fem | knowledge; wisdom; understanding | √vid 3 ya (know, understand) | √vid + yā | ā fem | 7 |
 | vipassanā | fem | insight; penetrating internal vision; introspection | √dis 1 a (see) | vi + passa + anā | ā fem | 7 |
 | vīmaṃsā 1 | fem | inquiry; judgement; investigation; discrimination | √man 3 sa (think) | vīmaṃsa + ā | ā fem | 7 |
@@ -537,7 +537,7 @@
 | adhicitta | nt | meditation; mental development; higher consciousness | √cit 8 *e (think, intend) | adhi + √cit + ta | a nt | 9 |
 | agāra 1 | nt | dwelling; building; house; home; hut | | | a nt | 9 |
 | agāra 2 | nt | household life; domestic living | | | a nt | 9 |
-| alaṃ 1 | ind | (it is) suitable (to); proper (to); appropriate (to); worthy (for) | | | | 9 |
+| alaṃ 1 | ind | (it is) suitable; proper; worthy; appropriate (to) | | | | 9 |
 | alaṃ 2 | ind | is able (to); is possible (to); is capable (of) | | ala + aṃ | | 9 |
 | alaṃ 3 | ind | enough; it is enough (for) | | | | 9 |
 | alika 1 | nt | lie; falsehood; untruth | | | a nt | 9 |

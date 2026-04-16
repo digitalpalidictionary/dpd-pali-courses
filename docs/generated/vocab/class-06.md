@@ -166,7 +166,7 @@
 | labhati 1 | pr | gets; receives; obtains (something for) | √labh 1 a (get) | labha + ti | ati pr | 3 |
 | maññati 1 | pr | thinks; imagines; conceives; presumes; supposes | √man 3 ya (think) | mañña + ti | ati pr | 3 |
 | neti 1.1 | pr | leads; carries away; takes away | √nī 1 a (lead, carry) | ne + ti | eti pr | 3 |
-| nibbindati 1 | pr | is dis-enchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
+| nibbindati 1 | pr | is disenchanted (with); is disinterested (in); is disillusioned (by); loses interest (in); is dispassionate (towards) | √vid 2 ṃa (feel, like) | nī + vinda + ti | ati pr | 3 |
 | nisīdati 1 | pr | sits (on); sits down (in) | √sad 1 a (sink, sit, settle) | ni + sīda + ti | ati pr | 3 |
 | okirati | pr | sprinkles; scatters down (onto) | √kir 1 a (scatter, sprinkle) | ava + kira + ti | ati pr | 3 |
 | paggaṇhāti 2 | pr | holds out; raises up | √gah 6 ṇhā (grasp) | pa + gaṇhā + ti | āti pr | 3 |

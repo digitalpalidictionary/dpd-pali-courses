@@ -2,6 +2,8 @@
 
 For users with very old versions of the deck or those who have trouble updating with the `.apkg` file, this method is more reliable but complex.
 
+__! Important !__ Before updating, synchronize your collection across all devices. Go to **Tools > Preferences > Syncing** and enable "*On next sync force changes in one direction*". This creates a secure backup on AnkiWeb.
+
 ## Step 1: Download the CSV Files
 
 Download the latest `.csv` file for your deck from the links below:
@@ -13,7 +15,6 @@ Download the latest `.csv` file for your deck from the links below:
     - [note:pali class Sandhi](https://github.com/sasanarakkha/study-tools/releases/latest/download/grammar-pali-class-sandhi.csv)
 - [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.csv)
 - [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.csv)
-- [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.csv)
 - [Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.csv)
 
 ## Step 2: Verify Field Lists
@@ -22,19 +23,16 @@ Before importing, you must ensure your local field names exactly match the curre
 
 ![Manage Note Types](../assets/images/anki/manage-note-types-b.png)
 
-Check your field list against the official links below:
-- [Field list for Vocab deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-vocab-class.txt)
-- [Field list for Root/Phonetic deck](https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-roots-class.txt)
-- [Field list for Grammar decks](https://github.com/sasanarakkha/study-tools/tree/main/anki-style)
+Compare your current field list with the [most recent list](https://sasanarakkha.github.io/study-tools/5-anki/field-lists/) associated with the deck you’re updating.
 
 ## Step 3: Check Card Settings
 
-Ensure your **Front Template**, **Back Template**, and **Styling** match the official versions.
+Ensure your **Front Template**, **Back Template**, and **Styling** match the [latest versions](https://sasanarakkha.github.io/study-tools/5-anki/templates/).
 
 ![Verify Note Type](../assets/images/anki/card-settings-check-b.png)
 
 Reference templates:
-- [Vocab Styling and Templates](https://github.com/sasanarakkha/study-tools/tree/main/anki-style)
+- [Vocab Styling and Templates](https://github.com/sasanarakkha/study-tools/anki-style)
 
 ## Step 4: Perform the Import
 

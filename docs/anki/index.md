@@ -11,7 +11,6 @@ Download the latest versions of the decks below:
 - [Common Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.apkg)
 - [Phonetic Changes](https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.apkg)
 - [Roots](https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.apkg)
-- [Suttas Advanced Pāli Class](https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.apkg)
 
 ## Study Tools
 

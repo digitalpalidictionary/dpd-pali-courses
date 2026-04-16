@@ -27,7 +27,7 @@ All tasks follow a strict lifecycle:
 
 Before marking any task complete, verify:
 
-- [ ] All tests pass via `uv run pytest --tb=short -q`.
+- [ ] All tests pass via `uv run pytest {file-name}`.
 - [ ] Code follows project style guides (see `conductor/code_styleguides/`).
 - [ ] No security vulnerabilities introduced.
 - [ ] Documentation updated if needed.
