@@ -5156,6 +5156,7 @@
 <h1>Advanced CSV Update</h1>
 <h2 id="advanced-updating-with-csv">Advanced: Updating with CSV<a class="headerlink" href="#advanced-updating-with-csv" title="Permanent link">¶</a></h2>
 <p>For users with very old versions of the deck or those who have trouble updating with the <code>.apkg</code> file, this method is more reliable but complex.</p>
+<p><strong>! Important !</strong> Before updating, synchronize your collection across all devices. Go to <strong>Tools &gt; Preferences &gt; Syncing</strong> and enable "<em>On next sync force changes in one direction</em>". This creates a secure backup on AnkiWeb.</p>
 <h3 id="step-1-download-the-csv-files">Step 1: Download the CSV Files<a class="headerlink" href="#step-1-download-the-csv-files" title="Permanent link">¶</a></h3>
 <p>Download the latest <code>.csv</code> file for your deck from the links below:</p>
 <ul>
@@ -5168,21 +5169,17 @@
 </li>
 <li><a href="https://github.com/sasanarakkha/study-tools/releases/latest/download/roots-pali-class.csv">Roots</a></li>
 <li><a href="https://github.com/sasanarakkha/study-tools/releases/latest/download/phonetic-pali-class.csv">Phonetic Changes</a></li>
-<li><a href="https://github.com/sasanarakkha/study-tools/releases/latest/download/suttas-advanced-pali-class.csv">Suttas Advanced Pāli Class</a></li>
 <li><a href="https://github.com/sasanarakkha/study-tools/releases/latest/download/common-roots.csv">Common Roots</a></li>
 </ul>
 <h3 id="step-2-verify-field-lists">Step 2: Verify Field Lists<a class="headerlink" href="#step-2-verify-field-lists" title="Permanent link">¶</a></h3>
 <p>Before importing, you must ensure your local field names exactly match the current versions. Go to <strong>Tools &gt; Manage Note Types</strong> to verify.</p>
 <p><img alt="Manage Note Types" src="../../assets/images/anki/manage-note-types-b.png"/></p>
-<p>Check your field list against the official links below:<br/>
-- <a href="https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-vocab-class.txt">Field list for Vocab deck</a><br/>
-- <a href="https://github.com/sasanarakkha/study-tools/blob/main/anki-style/field-list-roots-class.txt">Field list for Root/Phonetic deck</a><br/>
-- <a href="https://github.com/sasanarakkha/study-tools/tree/main/anki-style">Field list for Grammar decks</a></p>
+<p>Compare your current field list with the <a href="https://sasanarakkha.github.io/study-tools/5-anki/field-lists/">most recent list</a> associated with the deck you’re updating.</p>
 <h3 id="step-3-check-card-settings">Step 3: Check Card Settings<a class="headerlink" href="#step-3-check-card-settings" title="Permanent link">¶</a></h3>
-<p>Ensure your <strong>Front Template</strong>, <strong>Back Template</strong>, and <strong>Styling</strong> match the official versions.</p>
+<p>Ensure your <strong>Front Template</strong>, <strong>Back Template</strong>, and <strong>Styling</strong> match the <a href="https://sasanarakkha.github.io/study-tools/5-anki/templates/">latest versions</a>.</p>
 <p><img alt="Verify Note Type" src="../../assets/images/anki/card-settings-check-b.png"/></p>
 <p>Reference templates:<br/>
-- <a href="https://github.com/sasanarakkha/study-tools/tree/main/anki-style">Vocab Styling and Templates</a></p>
+- <a href="https://github.com/sasanarakkha/study-tools/anki-style">Vocab Styling and Templates</a></p>
 <h3 id="step-4-perform-the-import">Step 4: Perform the Import<a class="headerlink" href="#step-4-perform-the-import" title="Permanent link">¶</a></h3>
 <div class="manual-list-start" data-start="1" style="display: none;"></div>
 <ol start="1">
@@ -5240,9 +5237,7 @@
 <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
 <script src="../../footnotes.js"></script>
 <script src="../../search_order.js"></script>
-<script src="../../tablesort.min.js"></script>
-<script src="../../tablesort.number.js"></script>
-<script src="../../tablesort_init.js"></script>
+<script src="../../tablesort-all.js"></script>
 <script src="../../theme-images.js"></script>
 <div class="nav-links">
   <a href="../suspend-extra/" class="prev">← Suspend Extra Cards</a>
