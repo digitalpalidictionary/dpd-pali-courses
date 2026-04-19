@@ -1,6 +1,6 @@
 # Anki Decks
 
-Anki is a powerful tool for memorizing vocabulary and grammar. We provide several pre-made decks tailored for the DPD Pāḷi Courses.
+Anki is a powerful tool for memorizing vocabulary and grammar. We provide several pre-made decks tailored for the Pāḷi Courses.
 
 ## Download Decks
 

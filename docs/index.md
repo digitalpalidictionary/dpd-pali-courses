@@ -25,6 +25,7 @@ hide:
 ## Study Tools
 
 - [Anki Decks](anki/index.md)
+- [DPD with examples for the courses](https://sasanarakkha.github.io/study-tools/4-dictionaries/sbs-pali-dictionary/)
 
 ---
 

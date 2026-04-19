@@ -8,3 +8,5 @@ explore option for downloading whole websire for offline use, so that students c
 
 
 add a description of the usage of materials as a whole. explain how to use the website, what materials are available, and how to navigate through them. also provide tips and recommendations for students on how to make the most out of the materials and improve their learning experience.
+
+- remove doc of the course from the zip - it need formating and not really nessesary there.
