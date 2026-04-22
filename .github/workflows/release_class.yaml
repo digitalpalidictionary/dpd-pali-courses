@@ -18,6 +18,7 @@ jobs:
       BPC_DOCX_ARCHIVE: beginner_pali_course_exercises_docx.zip
       IPC_PDF_ARCHIVE: intermediate_pali_course_pdfs.zip
       IPC_DOCX_ARCHIVE: intermediate_pali_course_exercises_docx.zip
+      SITE_ZIP: website_offline.zip
 
     steps:
       - name: Checkout repository
@@ -37,6 +38,12 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
+      - name: Run web pre-processing
+        run: bash scripts/web_preprocessing.sh
+
+      - name: Build MkDocs site
+        run: uv run mkdocs build
+
       - name: Run pre-processing
         run: bash scripts/pdf_preprocessing.sh
 
@@ -55,6 +62,8 @@ jobs:
           cd ../docx_exports
           zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }} bpc_ex.docx bpc_key.docx
           zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }} ipc_ex.docx ipc_key.docx
+          cd ..
+          zip -r ${{ env.OUTPUT_DIR }}/${{ env.SITE_ZIP }} site/
 
       - name: Generate release tag
         run: echo "RELEASE_TAG=release-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
@@ -74,11 +83,14 @@ jobs:
             **Intermediate Pāli Course**
             - PDF archive: `${{ env.IPC_PDF_ARCHIVE }}`
             - DOCX archive (exercises): `${{ env.IPC_DOCX_ARCHIVE }}`
+
+            - Website offline archive: `website_offline.zip` — unzip and open `index.html` in a browser
           files: |
             ${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }}
+            ${{ env.OUTPUT_DIR }}/${{ env.SITE_ZIP }}
           make_latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
