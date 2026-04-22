@@ -3,7 +3,7 @@ name: Generate and Release Documents
 on:
   push:
     paths:
-      - 'docs/**'
+      - "docs/**"
   workflow_dispatch:
 
 jobs:
@@ -15,9 +15,9 @@ jobs:
     env:
       OUTPUT_DIR: output_documents
       BPC_PDF_ARCHIVE: beginner_pali_course_pdfs.zip
-      BPC_DOCX_ARCHIVE: beginner_pali_course_docx.zip
+      BPC_DOCX_ARCHIVE: beginner_pali_course_exercises_docx.zip
       IPC_PDF_ARCHIVE: intermediate_pali_course_pdfs.zip
-      IPC_DOCX_ARCHIVE: intermediate_pali_course_docx.zip
+      IPC_DOCX_ARCHIVE: intermediate_pali_course_exercises_docx.zip
 
     steps:
       - name: Checkout repository
@@ -53,8 +53,8 @@ jobs:
           zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }} bpc.pdf bpc_ex.pdf bpc_key.pdf
           zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_PDF_ARCHIVE }} ipc.pdf ipc_ex.pdf ipc_key.pdf
           cd ../docx_exports
-          zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }} bpc.docx bpc_ex.docx bpc_key.docx
-          zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }} ipc.docx ipc_ex.docx ipc_key.docx
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }} bpc_ex.docx bpc_key.docx
+          zip ../${{ env.OUTPUT_DIR }}/${{ env.IPC_DOCX_ARCHIVE }} ipc_ex.docx ipc_key.docx
 
       - name: Generate release tag
         run: echo "RELEASE_TAG=release-$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
@@ -69,11 +69,11 @@ jobs:
 
             **Beginner Pāli Course**
             - PDF archive: `${{ env.BPC_PDF_ARCHIVE }}`
-            - DOCX archive: `${{ env.BPC_DOCX_ARCHIVE }}`
+            - DOCX archive (exercises): `${{ env.BPC_DOCX_ARCHIVE }}`
 
             **Intermediate Pāli Course**
             - PDF archive: `${{ env.IPC_PDF_ARCHIVE }}`
-            - DOCX archive: `${{ env.IPC_DOCX_ARCHIVE }}`
+            - DOCX archive (exercises): `${{ env.IPC_DOCX_ARCHIVE }}`
           files: |
             ${{ env.OUTPUT_DIR }}/${{ env.BPC_PDF_ARCHIVE }}
             ${{ env.OUTPUT_DIR }}/${{ env.BPC_DOCX_ARCHIVE }}
