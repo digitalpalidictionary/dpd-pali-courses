@@ -5,6 +5,7 @@ website_example/
 GEMINI.md
 CLAUDE.md
 __pycache__
+__init__.py
 .obsidian/
 tests/
 site/
@@ -18,7 +19,7 @@ memory
 skills
 *.log
 *.code-workspace
-
+NOTES.md
 
 # Python build artifacts
 *.egg-info/

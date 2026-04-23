@@ -20,12 +20,12 @@ dependencies = [
     "fonttools>=4.62.1",
 ]
 
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
-[tool.setuptools]
+[tool.hatch.build.targets.wheel]
 packages = ["tools", "scripts"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
 [dependency-groups]
 dev = [

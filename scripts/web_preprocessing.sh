@@ -10,7 +10,6 @@ uv run python scripts/renumber_footnotes.py
 uv run python scripts/clean_dead_links.py
 uv run python scripts/fix_heading_hierarchy.py
 uv run python scripts/fixing_tables.py
-export PYTHONPATH=$PYTHONPATH:.
 uv run python scripts/generate_indexes.py
 uv run python scripts/update_css.py
 
