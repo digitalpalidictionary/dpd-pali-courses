@@ -18,6 +18,8 @@ dependencies = [
     "pdfminer-six>=20260107",
     "pypdf>=6.9.2",
     "fonttools>=4.62.1",
+    "python-dotenv>=1.2.2",
+    "language-tool-python>=3.3.0",
 ]
 
 [tool.hatch.build.targets.wheel]

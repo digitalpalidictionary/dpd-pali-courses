@@ -26,3 +26,4 @@ NOTES.md
 pdf_exports/
 .coverage
 docx_exports/
+temp/

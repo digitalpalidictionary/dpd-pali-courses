@@ -24,6 +24,15 @@ The website is built using [MkDocs](https://www.mkdocs.org/) with the [Material 
 
 In addition to the static website, this project can generate high-quality PDF and Word (`.docx`) documents for offline study and editing. These documents are generated directly from the same Markdown source files used for the website, ensuring consistency across all formats.
 
+#### External Requirements
+
+The following external tools are required for certain scripts:
+
+- **Java (JRE/JDK):** Required for `scripts/grammar_check.py`.
+  - On macOS (Homebrew): `brew install openjdk && sudo ln -sfn $(brew --prefix openjdk)/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
+- **OpenRouter API Key:** Required for `scripts/rewrite_english.py`.
+  - Add `OPENROUTER_API_KEY=your_key_here` to a `.env` file in the project root.
+
 #### System Dependencies
 
 To generate documents locally, you must install the following system-level dependencies:
@@ -146,6 +155,16 @@ Pre-processing scripts run a series of checks and corrections before building th
 
 - **`pdf_preprocessing.sh`**: Runs pre-processing steps required before generating PDF and DOCX documents.
   - Usage: `uv run bash scripts/pdf_preprocessing.sh`
+
+### Content Improvement & Writing
+
+- **`rewrite_english.py`**: Interactive AI-assisted English rewriting for markdown files using OpenRouter, with Pāḷi awareness. *(symlinked from study-tools)*
+  - Usage: `uv run scripts/rewrite_english.py [--test] <file_or_folder>`
+  - Add `--test` or `-t` to use free models during development.
+
+- **`grammar_check.py`**: Grammar and spelling check for markdown files using LanguageTool (offline, no API key needed). *(symlinked from study-tools)*
+  - Usage: `uv run scripts/grammar_check.py <file_or_folder>`
+  - Pāḷi terms with diacritics are automatically ignored.
 
 ### Utilities & Legacy Tools
 
