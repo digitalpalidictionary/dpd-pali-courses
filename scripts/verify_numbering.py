@@ -71,7 +71,7 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing.append(n)
         
         if missing:
-            pr.warning(f"{md_rel_path}: missing list markers {missing[:10]}")
+            pr.amber(f"{md_rel_path}: missing list markers {missing[:10]}")
             status = False
 
     # Check Footnotes
@@ -84,7 +84,7 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing_fn.append(n)
 
         if missing_fn:
-            pr.warning(f"{md_rel_path}: missing footnote markers {missing_fn}")
+            pr.amber(f"{md_rel_path}: missing footnote markers {missing_fn}")
             status = False
 
     return status
@@ -104,7 +104,7 @@ def main():
         folder_name = pdf_name.split('.')[0]
         md_files = glob.glob(f"docs/{folder_name}/**/*.md", recursive=True)
         if md_files and max(os.path.getmtime(f) for f in md_files) > os.path.getmtime(path):
-            pr.warning(f"{pdf_name}: older than source — regenerate to verify")
+            pr.amber(f"{pdf_name}: older than source — regenerate to verify")
             continue
         raw = pdf_extract_text(path)
         # Remove whitespace but KEEP numbers and dots

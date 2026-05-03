@@ -41,7 +41,7 @@ def extract_doc_id(url):
     match = re.search(r'/document/d/([a-zA-Z0-9-_]+)', url)
     if match:
         return match.group(1)
-    pr.warning(f"Could not extract document ID from URL: {url}")
+    pr.amber(f"Could not extract document ID from URL: {url}")
     return None
 
 def download_google_doc(doc_id, base_filename, export_format, download_to_dir):
@@ -64,7 +64,7 @@ def download_google_doc(doc_id, base_filename, export_format, download_to_dir):
         return output_filepath
     except requests.exceptions.RequestException as e:
         pr.no("failed")
-        pr.warning(str(e))
+        pr.amber(str(e))
         return None
 
 def create_zip_archive(file_paths, zip_filename, archive_base_dir):
@@ -77,12 +77,12 @@ def create_zip_archive(file_paths, zip_filename, archive_base_dir):
                 if file_path and os.path.exists(file_path):
                     zf.write(file_path, arcname=os.path.basename(file_path))
                 else:
-                    pr.warning(f"File not found, skipping: {file_path}")
+                    pr.amber(f"File not found, skipping: {file_path}")
         pr.yes("ok")
         return zip_filepath
     except Exception as e:
         pr.no("failed")
-        pr.warning(str(e))
+        pr.amber(str(e))
         return None
 
 def process_course_documents(course_docs_info, course_name_prefix, output_dir):
@@ -94,14 +94,14 @@ def process_course_documents(course_docs_info, course_name_prefix, output_dir):
     downloaded_pdfs = []
     downloaded_docx_files = []
 
-    pr.title(f"{course_name_prefix} Pāli Course")
+    pr.green_title(f"{course_name_prefix} Pāli Course")
 
     for doc_info in course_docs_info:
         original_name = doc_info["name"]
         doc_url = doc_info["url"]
         doc_id = extract_doc_id(doc_url)
         if not doc_id:
-            pr.warning(f"Skipping '{original_name}' — missing document ID.")
+            pr.amber(f"Skipping '{original_name}' — missing document ID.")
             continue
 
         base_filename = sanitize_filename(original_name)
@@ -157,7 +157,7 @@ def add_reference_files_to_zips(archive_base_dir: str):
                         zf.write(src, arcname=arcname)
                         any_added = True
         except Exception as e:
-            pr.warning(f"Error adding reference files to {zip_name}: {e}")
+            pr.amber(f"Error adding reference files to {zip_name}: {e}")
             
     if any_added:
         pr.yes("ok")
@@ -179,7 +179,7 @@ def main():
         all_downloads_successful = False
 
     if not all_downloads_successful:
-        pr.error("Critical errors during download — aborting.")
+        pr.red("Critical errors during download — aborting.")
         sys.exit(1)
 
     for paths, zip_name in [
@@ -191,12 +191,12 @@ def main():
         if paths:
             create_zip_archive(paths, zip_name, OUTPUT_BASE_DIR)
         else:
-            pr.warning(f"No files downloaded for {zip_name}")
+            pr.amber(f"No files downloaded for {zip_name}")
 
     # Add generated reference files to zips
     add_reference_files_to_zips(OUTPUT_BASE_DIR)
 
-    pr.info(f"Output: {os.path.abspath(OUTPUT_BASE_DIR)}")
+    pr.green(f"Output: {os.path.abspath(OUTPUT_BASE_DIR)}")
 
 if __name__ == "__main__":
     main()

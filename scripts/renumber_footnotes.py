@@ -86,7 +86,7 @@ def renumber_footnotes_in_files(files: list[str], dry_run: bool = False) -> int:
 
         for old_num, new_nums in occurrence_map.items():
             if len(new_nums) > 1:
-                pr.warning(f"Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
+                pr.amber(f"Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
 
         # Single-pass replacement: refs and defs tracked separately by occurrence index.
         # The Nth definition of a given number pairs with the Nth reference of that number.

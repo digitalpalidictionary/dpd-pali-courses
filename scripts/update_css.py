@@ -8,7 +8,7 @@ def update_css(paths: SSGPaths):
     """Save the CSS Variables to the ssg/stylesheets folder."""
 
     if not paths.source_dpd_variables_css.exists():
-        pr.warning(f"{paths.source_dpd_variables_css} not found.")
+        pr.amber(f"{paths.source_dpd_variables_css} not found.")
         return
 
     # Ensure identity directory exists

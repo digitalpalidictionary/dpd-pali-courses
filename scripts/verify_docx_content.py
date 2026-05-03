@@ -24,7 +24,7 @@ def get_docx_text(path):
 def verify_docx(docx_path, original_md_paths):
     """Verifies that the docx contains content from all original markdown files."""
     if not os.path.exists(docx_path):
-        pr.warning(f"{docx_path} not found.")
+        pr.amber(f"{docx_path} not found.")
         return False
         
     docx_text = get_docx_text(docx_path)
@@ -76,7 +76,7 @@ def verify_docx(docx_path, original_md_paths):
                 
     if missing_files:
         for f in missing_files:
-            pr.warning(f"{os.path.basename(docx_path)}: missing content from {f}")
+            pr.amber(f"{os.path.basename(docx_path)}: missing content from {f}")
         return False
     return True
 

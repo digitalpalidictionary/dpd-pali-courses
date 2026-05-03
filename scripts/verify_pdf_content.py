@@ -73,7 +73,7 @@ def main():
         else:
             pr.no(f"{len(missing)} missing")
             for m in missing:
-                pr.warning(m)
+                pr.amber(m)
         return
 
     volumes = {
@@ -108,9 +108,9 @@ def main():
         missing = verify_content(pdf_path, md_files)
 
         if missing:
-            pr.warning(f"{pdf_name}: {len(missing)} words missing")
+            pr.amber(f"{pdf_name}: {len(missing)} words missing")
             for m in missing[:10]:
-                pr.warning(f"  {m}")
+                pr.amber(f"  {m}")
             overall_passed = False
 
     if not overall_passed:
