@@ -8,19 +8,19 @@
 | anusaya | masc | underlying tendency (to); inherent inclination (to); dormant disposition (towards); propensity (to) | √sī 1 a (lie, sleep) | anu + √sī > say + *a | a masc | 2 |
 | attha 1.1 | masc | meaning; sense; significance | √ar 1 a (move, attain) | √ar + tha | a masc | 2 |
 | attha 2.1 | masc | need; want (for) | √atth 8 *aya (wish for) | √atth + a | a masc | 2 |
-| balibadda | masc | ox; bull | | | a masc | 2 |
+| balibadda | masc | ox; bull |  |  | a masc | 2 |
 | bhava 2 | masc | being; becoming; existence | √bhū 1 a (be, become) | √bhū > bhav + *a | a masc | 2 |
 | bheda 1 | masc | breakup; dissolution; destruction (of) | √bhid 2 ṃa (break, split) | √bhid > bhed + *a | a masc | 2 |
 | bhoga 1.1 | masc | wealth; possessions; property; riches | √bhuj 2 ṃa (use, eat, enjoy) | √bhuj > bhoj > bhog + *a | a masc | 2 |
 | brāhmaṇa 1 | masc | Brahman; priest; man of the Brahman caste | √brah 1 a (increase) | √brah > brāh + ma + *aṇa | a masc | 2 |
-| bāla 2 | masc | fool; idiot; immature person | | | a masc east | 2 |
+| bāla 2 | masc | fool; idiot; immature person |  |  | a masc east | 2 |
 | chanda 1 | masc | interest (in); self-interest (in); desire (for); wish (for); intention (to); impulse (for) | √chand 8 *e (desire, please) | √chand + a | a masc | 2 |
 | cora | masc | thief; robber | √cur 8 *e (steal) | √cur > cor + *a | a masc | 2 |
 | cāga 1 | masc | giving up; relinquishing; abandoning | √caj 1 a (give up, let go) | √caj > cāg + *a | a masc | 2 |
 | cāga 2 | masc | generosity; sharing; liberality | √caj 1 a (give up, let go) | √caj > cāg + *a | a masc | 2 |
-| danta 1.1 | masc | tooth | | | a masc | 2 |
+| danta 1.1 | masc | tooth |  |  | a masc | 2 |
 | dava 1.1 | masc | fun; joke; play; sport; pleasure | √dū 1 a (go, run) | √dū > dav + *a | a masc | 2 |
-| daṇḍa 1 | masc | stick; truncheon; nightstick; club | | | a masc | 2 |
+| daṇḍa 1 | masc | stick; truncheon; nightstick; club |  |  | a masc | 2 |
 | deva 1 | masc | deity; god | √div 3 ya (shine) | √div > dev + *a | a masc | 2 |
 | dhaja 1 | masc | flag; banner | √dhaj 1 a (move, flap) | √dhaj + a | a masc | 2 |
 | dhamma 1.01 | masc | nature; character | √dhar 1 a (hold, carry, endure) | √dhar + ma | a masc | 2 |
@@ -31,18 +31,18 @@
 | dhamma 1.07 | masc | truth; reality; principle; truth behind the teaching | √dhar 1 a (hold, carry, endure) | √dhar + ma | a masc | 2 |
 | dhamma 1.09 | masc | law; case; rule; legal process | √dhar 1 a (hold, carry, endure) | √dhar + ma | a masc | 2 |
 | dosa 1.1 | masc | aversion; ill-will; hate; hatred | √dus 3 ya (hate, dislike) | √dus > dos + *a | a masc | 2 |
-| dāra | masc | wife | | | a masc | 2 |
-| gabbha 3 | masc | room; inside room; inner chamber | | | a masc | 2 |
-| gotama 1 | masc | family name of the Buddha | | gotama + a | a masc | 2 |
+| dāra | masc | wife |  |  | a masc | 2 |
+| gabbha 3 | masc | room; inside room; inner chamber |  |  | a masc | 2 |
+| gotama 1 | masc | family name of the Buddha |  | gotama + a | a masc | 2 |
 | gāha 2.2 | masc | hideaway; lair | √gāh 1 a (dive, plunge) | √gāh + a | a masc | 2 |
-| gāma 1 | masc | village; hamlet | | | a masc | 2 |
-| hattha 1 | masc | hand | | | a masc | 2 |
+| gāma 1 | masc | village; hamlet |  |  | a masc | 2 |
+| hattha 1 | masc | hand |  |  | a masc | 2 |
 | kassaka | masc | farmer; ploughman | √kass 1 a (drag, draw along) | √kass + aka | a masc | 2 |
-| kassapa 1 | masc | name of the 1st previous Buddha | | | a masc | 2 |
-| kesa 1 | masc | (head) hair | | | a masc | 2 |
+| kassapa 1 | masc | name of the 1st previous Buddha |  |  | a masc | 2 |
+| kesa 1 | masc | (head) hair |  |  | a masc | 2 |
 | khandha 1 | masc | mass; heap; pile; volume; aggregation | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
 | khandha 3 | masc | aggregate; combination; conglomeration; bundle | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
-| khattiya 2 | masc | man of the warrior caste; high caste man; nobleman | | | a masc | 2 |
+| khattiya 2 | masc | man of the warrior caste; high caste man; nobleman |  |  | a masc | 2 |
 | khaya | masc | wearing away; exhaustion; erosion; depletion; destruction (of) | √khī 1 a (exhaust, destroy) | √khī > khay + *a | a masc | 2 |
 | kāma 3 | masc | sense desire; sensual pleasure (of) | √kam 8 *e (desire) | √kam > kām + *a | a masc | 2 |
 | kāra 1 | masc | deed; action; service | √kar 7 o (do, make) | √kar > kār + *a | a masc | 2 |
@@ -51,19 +51,19 @@
 | kāya 1.2 | masc | group; host; company; collection; multitude; mass | √ci 5 nā (gather, accumulate) | √ci > ki > kay + *a | a masc | 2 |
 | loka 1 | masc | world; universe; cosmos | √lok 8 *e (look) | √lok + a | a masc | 2 |
 | loka 2 | masc | world; plane of existence | √lok 8 *e (look) | √lok + a | a masc | 2 |
-| loma 1 | masc | body hair | | | a masc | 2 |
+| loma 1 | masc | body hair |  |  | a masc | 2 |
 | mada 1 | masc | excess; pleasure; indulgence | √mad 3 ya (be mad, be intoxicated) | √mad + a | a masc | 2 |
 | magga 2 | masc | way; means; method | √magg 1 a (seek, search) | √magg + a | a masc | 2 |
-| manussa | masc | human being; man; person | | manu + ssa | a masc | 2 |
-| moggallāna 1 | masc | name of a monk; chief disciple; great disciple of the Buddha; foremost disciple in psychic power | | muggala > moggala + *yāna | a masc | 2 |
+| manussa | masc | human being; man; person |  | manu + ssa | a masc | 2 |
+| moggallāna 1 | masc | name of an arahant monk; chief disciple; great disciple of the Buddha; foremost monk in psychic power |  | muggala > moggala + *yāna | a masc | 2 |
 | moha 1 | masc | illusion; delusion; misapprehension | √muh 3 ya (be deluded, be confused) | √muh > moh + *a | a masc | 2 |
 | mugga | masc | mung beans | √mud 1 a (be soft, be happy) | √mud > mug + ga | a masc | 2 |
 | māna 1.1 | masc | pride; conceit; egotism; superiority; comparing oneself | √man 3 ya (think) | √man > mān + *a | a masc | 2 |
 | māra | masc | death; Death; death personified | √mar 1 a (die) | √mar > mār + *a | a masc | 2 |
-| māsa 2.1 | masc | bean | | | a masc | 2 |
-| māṇava 1 | masc | young man; young gentleman; young Brahman | | manu > māṇav + *a | a masc | 2 |
-| nakha 1 | masc | fingernail; toenail | | | a masc | 2 |
-| nara | masc | man; person | | | a masc | 2 |
+| māsa 2.1 | masc | bean |  |  | a masc | 2 |
+| māṇava 1 | masc | young man; young gentleman; young Brahman |  | manu > māṇav + *a | a masc | 2 |
+| nakha 1 | masc | fingernail; toenail |  |  | a masc | 2 |
+| nara | masc | man; person |  |  | a masc | 2 |
 | nirodha | masc | ending; cessation; termination; finishing (of) | √rudh 2 ṃa (obstruct) | ni + √rudh > rodh + *a | a masc | 2 |
 | nissaya 2 | masc | (vinaya) formal dependence on a teacher | √si 1 a (depend on, associate with) | ni + √si > say + *a | a masc | 2 |
 | nīvaraṇa 1 | masc | obstacle; obstruction; barrier; hindrance | √var 1 a (cover, dress, restrain) | ni > nī + √var + *aṇa | a masc | 2 |
@@ -78,27 +78,27 @@
 | patha 2 | masc | range; mode; way | √path 1 a (go, move) | √path + a | a masc | 2 |
 | patta 1.1 | masc | bowl; alms bowl; begging bowl | √pā 1 a (drink) | √pā + ta | a masc | 2 |
 | pañha 2 | masc | question; enquiry | √pañh 1 a (ask, question) | √pañh + a | a masc | 2 |
-| paṇḍita 2 | masc | sage; intelligent person; wise man; smart person | | | a masc east | 2 |
+| paṇḍita 2 | masc | sage; intelligent person; wise man; smart person |  |  | a masc east | 2 |
 | paṭighāta 1 | masc | warding off; repelling; driving off; keeping at bay (of) | √ghaṭ 8 *e (strike, kill) | pati + √ghaṭ > ghāṭ + *a | a masc | 2 |
 | paṭinissagga | masc | giving up; relinquishing; dropping; abandoning (of) | √sajj 1 a (relinquish, let loose) | pati + nī + √sajj > sagg + a | a masc | 2 |
 | pessaka 1 | masc | messenger | √pis 8 ya (send) | √pis > pes + *ya + ka | a masc | 2 |
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
-| puggala | masc | person; individual | | | a masc | 2 |
-| purisa 1 | masc | man; male; person | | | a masc | 2 |
-| putta 1 | masc | son; child | | | a masc | 2 |
+| puggala | masc | person; individual |  |  | a masc | 2 |
+| purisa 1 | masc | man; male; person |  |  | a masc | 2 |
+| putta 1 | masc | son; child |  |  | a masc | 2 |
 | pāda 1 | masc | foot | √pad 3 ya (go, step) | √pad > pād + *a | a masc | 2 |
-| pātimokkha 2 | masc | (vinaya) precepts for Buddhist monastics | | | a masc | 2 |
+| pātimokkha 2 | masc | (vinaya) precepts for Buddhist monastics |  |  | a masc | 2 |
 | rasa 1 | masc | taste; flavour | √ras 1 a (taste) | √ras + a | a masc | 2 |
-| rukkha 1 | masc | tree | | | a masc | 2 |
+| rukkha 1 | masc | tree |  |  | a masc | 2 |
 | rāga 1.1 | masc | desire; passion; lust; greed (for); infatuation (with) | √raj 3 ya (desire) | √raj > rag > rāg + *a | a masc | 2 |
-| rāhula | masc | name of an arahant monk; Buddha's son | | | a masc | 2 |
-| sakuṇa | masc | bird | | | a masc | 2 |
+| rāhula | masc | name of an arahant monk; Buddha's son |  |  | a masc | 2 |
+| sakuṇa | masc | bird |  |  | a masc | 2 |
 | samatha 1.1 | masc | stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification | √sam 3 ya (be calm, be tired) | √sam + a + tha | a masc | 2 |
 | samatikkama | masc | surpassing; overcoming (of); going beyond; transcendence | √kam 1 a (go) | saṃ + ati + √kam + a | a masc | 2 |
 | samaya 1.1 | masc | time; occasion | √i 1 a (come, go) | saṃ + √i > ay + *a | a masc | 2 |
 | samaṇa 1 | masc | ascetic; renunciant; holy man; monk; recluse | √sam 3 ya (exert, strive) | √sam + aṇa | a masc | 2 |
 | sambodha | masc | full awakening; perfect understanding; enlightenment | √budh 3 ya (know, wake up) | saṃ + √budh > bodh + *a | a masc | 2 |
-| samudaya 1 | masc | source; origination; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
+| samudaya 1 | masc | source; origination; arising; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
 | samudda | masc | sea; ocean | √ud 2 ṃa (be wet) | saṃ + √ud + ra | a masc | 2 |
 | saṃvara 1 | masc | control; restraint; holding back (according to) | √var 1 a (cover, dress, restrain) | saṃ + √var + a | a masc | 2 |
 | saṃvara 2 | masc | control (over); restraint (of); holding back (of) | √var 1 a (cover, dress, restrain) | saṃ + √var + a | a masc | 2 |
@@ -106,14 +106,14 @@
 | saṅgha 1 | masc | community; fellowship; monastic order | √ghaṭ 1 a (join together) | saṃ + √ghaṭ + a | a masc | 2 |
 | saṅkhāra 1 | masc | intention; volitional formation; choice; karmic activity | √kar 7 o (do, make) | saṃ + √kar > khār + *a | a masc | 2 |
 | sekha 1 | masc | trainee; apprentice; learner; initiate; (comm) seven stages of a noble person before arahantship | √sikkh 1 a (learn, train) | √sikkh > sekh + *a | a masc | 2 |
-| sippika 1.1 | masc | craftsman; artisan | | sippa + ika | a masc | 2 |
+| sippika 1.1 | masc | craftsman; artisan |  | sippa + ika | a masc | 2 |
 | soka | masc | grief; sorrow; sadness (over) | √suc 1 *a (grieve) | √suc > suk > sok + *a | a masc | 2 |
 | sota 1.1 | masc | stream; river; current | √su 1 a (flow) | √su > so + *ta | a masc | 2 |
 | sugata 2 | masc | Accomplished One; Fortunate One; epithet of the Buddha | √gam 1 a (go) | su + √gam + ta | a masc | 2 |
 | sāvaka | masc | disciple; pupil; follower | √su 4 ṇā (hear) | √su > sāv + *aka | a masc | 2 |
-| sīha 1 | masc | lion | | | a masc | 2 |
-| taca 1 | masc | (of a human) skin | | | a masc | 2 |
-| taṇḍula 1 | masc | dehusked rice; (comm) grain from grass | | | a masc | 2 |
+| sīha 1 | masc | lion |  |  | a masc | 2 |
+| taca 1 | masc | (of a human) skin |  |  | a masc | 2 |
+| taṇḍula 1 | masc | dehusked rice; (comm) grain from grass |  |  | a masc | 2 |
 | thera 1.2 | masc | elder; senior monk; monastic of ten or more years standing | √ṭhā 1 a (stand) | √ṭhā > thā + ira > thera | a masc | 2 |
 | uddesa 1 | masc | proposition; synopsis; statement in brief; summary; introduction | √dis 1 a (point out, explain) | ud + √dis > des + *a | a masc | 2 |
 | upajjhāya | masc | preceptor; teacher; mentor | √i 1 a (study, recite) | upa + adhi > adhy > ajjh + √i > āy + *a | a masc | 2 |
@@ -132,14 +132,14 @@
 | visesa 1 | masc | distinction; attainment; superior state; eminence | √sis 8 *e (remain, distinguish) | vi + √sis > ses + *a | a masc | 2 |
 | vitakka 1 | masc | thought; reflection; pondering | √takk 8 *e (think) | vi + √takk + a | a masc | 2 |
 | viveka 1 | masc | seclusion; solitude; detachment; disengagement; independence | √vic 1 a (separate) | vi + √vic > vec > vek + *a | a masc | 2 |
-| vāṇija | masc | trader; dealer; merchant | | vaṇija > vāṇija + *a | a masc | 2 |
+| vāṇija | masc | trader; dealer; merchant |  | vaṇija > vāṇija + *a | a masc | 2 |
 | ñāya | masc | way; means; method; system; approach | √i 1 a (come, go) | nī > ny > ñ + √i > ay + *a | a masc | 2 |
 | ābādha 2 | masc | affliction; oppression; suffering | √bādh 1 a (press, oppress) | ā + √bādh + a | a masc | 2 |
 | ācariya 1 | masc | teacher; religious leader | √car 1 a (act, behave) | ā + √car + iya | a masc | 2 |
 | ājīva | masc | livelihood; mode of living; way of life; way of earning a living | √jīv 1 a (live) | ā + √jīv + a | a masc | 2 |
 | ākāsa 1.2 | masc | sky; air | √kās 1 a (shine, be visible) | ā + √kās + a | a masc | 2 |
 | āloka | masc | light; brightness; clarity | √lok 8 *e (look) | ā + √lok + a | a masc | 2 |
-| ānanda 2 | masc | name of an arahant monk; attendant of the Buddha; great disciple of the Buddha; foremost disciple in great learning, remembrance, conduct, resoluteness and service | √nand 1 a (delight, enjoy) | ā + √nand + a | a masc | 2 |
+| ānanda 2 | masc | name of an arahant monk; attendant of the Buddha; great disciple of the Buddha; foremost monk in great learning; foremost monk in excellent recollection; foremost monk in retention; foremost monk in total recall; foremost monk in assistance | √nand 1 a (delight, enjoy) | ā + √nand + a | a masc | 2 |
 | āsava 1.2 | masc | discharge; suppuration; outflow; effluent; (comm) defilement | √su 1 a (flow) | ā + √su > sav + *a | a masc | 2 |
 | āsaya 3 | masc | nest; lair (of) | √sī 1 a (lie, sleep) | ā + √sī > say + *a | a masc | 2 |
 | āvāsa 1 | masc | home; dwelling place; residence (of) | √vas 1 a (live) | ā + √vas > vās + *a | a masc | 2 |
@@ -240,12 +240,12 @@
 | byākāsi 1 | aor | answered; replied | √kar 7 o (do, make) | vi > vy > by + ā + √kar > kā + si | āsi aor | 4 |
 | ehi | imp | come! | √i 1 a (come, go) | e + hi | eti pr 2 | 4 |
 | gaccha 1 | imp | go!; begone!; away with you! | √gam 1 a (go) | gaccha + a | ati pr | 4 |
-| gāmaṇi | masc | chief; chieftain; headman; leader | | gāma + aṇi | i masc | 4 |
+| gāmaṇi | masc | chief; chieftain; headman; leader |  | gāma + aṇi | i masc | 4 |
 | hontu | imp | may they be!; they must be! | √hū 1 a (be) | ho + ntu | hoti pr | 4 |
 | hotha | imp | may you all be!; you all must be!; I pray you all may be! | √hū 1 a (be) | ho + tha | hoti pr | 4 |
 | hoti 1 | pr | is; becomes | √hū 1 a (be) | ho + ti | hoti pr | 4 |
 | hotu 1 | imp | may it be (for)! | √hū 1 a (be) | ho + tu | hoti pr | 4 |
-| isi | masc | seer; sage | | | i masc | 4 |
+| isi | masc | seer; sage |  |  | i masc | 4 |
 | karohi | imp | do!; make! | √kar 7 o (do, make) | karo + hi | karoti pr | 4 |
 | muni 1 | masc | monk; sage; seer; hermit; silent sage | √mun 5 nā (think, know) | √mun + i | i masc | 4 |
 | niddisi 1 | aor | indicated; pointed out; designated; appointed | √dis 1 a (point out, explain) | nī + √dis + i | i aor | 4 |
@@ -256,18 +256,18 @@
 | passa 2.1 | imp | see!; look (at)! | √dis 1 a (see) | passa + a | ati pr | 4 |
 | pucchi | aor | asked; enquired; questioned (somebody about) | √pucch 1 a (ask, question) | √pucch + i | i aor issaṃ | 4 |
 | sammodi | aor | greeted; exchanged pleasantries; had a friendly conversation (with) | √mud 1 *a (be soft, be happy) | saṃ + moda + i | i aor | 4 |
-| samādhi 1 | masc | perfect peace of mind; stability of mind; stillness of mind; mental composure | √dhā 1 a (place, support) | saṃ + ā + √dhā + i | i masc | 4 |
+| samādhi 1 | masc | perfect peace of mind; stability of mind; stillness of mind; meditative composure | √dhā 1 a (place, support) | saṃ + ā + √dhā + i | i masc | 4 |
 | soci | aor | grieved; was sad | √suc 1 *a (grieve) | soca + i | i aor | 4 |
-| sāli | masc | fine rice | | | i masc | 4 |
+| sāli | masc | fine rice |  |  | i masc | 4 |
 | udapādi 1 | aor | arose; sprung up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
 | upasaṅkami | aor | approached; drew near; went (to) | √kam 1 a (go) | upa + saṃ + √kam + i | i aor | 4 |
-| vīhi | masc | rice paddy; Oryza sativa | | | i masc | 4 |
+| vīhi | masc | rice paddy; Oryza sativa |  |  | i masc | 4 |
 | ñāti | masc | family; relative; kinsman | √ñā 5 nā (know) | √ñā + ti | i masc | 4 |
 | āmantesi | aor | addressed; said (to); advised | √mant 8 *e (counsel, invite) | ā + mante + si | esi aor | 4 |
 | āsi 1.1 | aor | was | √as 1 a (be) | a + √as + i | āsi aor irreg | 4 |
-| abyāpāda | masc | goodwill; kindness; friendliness; benevolence | √pad 3 ya (go, step) | na > a + vi > vy > by + ā + √pad > pād + *a | a masc | 5 |
+| abyāpāda | masc | absence of ill-will; goodwill; kindness; friendliness; benevolence | √pad 3 ya (go, step) | na > a + vi > vy > by + ā + √pad > pād + *a | a masc | 5 |
 | adhamma 2 | masc | false teaching; something opposed to the teaching | √dhar 1 a (hold, carry, endure) | na > a + √dhar + ma | a masc | 5 |
-| ahaṃ | pron | I | | | ahaṃ pron | 5 |
+| ahaṃ | pron | I |  |  | ahaṃ pron | 5 |
 | anupassī 1 | adj | looking (at); observing; following; noticing; witnessing; watching | √dis 1 a (see) | anu + passa + ī | ī adj | 5 |
 | anāgāmī 1 | adj | who does not return; non-returning | √gam 1 a (go) | na > an + ā + √gam > gām + *ī | ī adj | 5 |
 | anālaya 1 | masc | non-clinging; non-attachment; non-reliance; unstuck; epithet of Nibbāna | √lī 3 ya (stick, hide) | na > an + ā + √lī > lay + *a | a masc | 5 |
@@ -282,68 +282,68 @@
 | gavesī 1 | adj | seeking; searching for; looking for | √gaves 1 a (seek, search) | √gaves + ī | ī adj | 5 |
 | khemī | adj | at peace; safe; secure (from) | √khi 1 a (live, abide peacefully) | √khi > khe + *ma + ī | ī adj | 5 |
 | medhāvī | masc | intelligent man; wise man; who has good judgment | √medh 1 a (be wise) | √medh + ā + vī | ī masc | 5 |
-| mā 1.1 | ind | do not; may one not; don't let | | | | 5 |
-| na 1 | ind | no; not; neither; nor | | | | 5 |
+| mā 1.1 | ind | do not; may one not; don't let |  |  |  | 5 |
+| na 1 | ind | no; not; neither; nor |  |  |  | 5 |
 | nappaṭikaṅkhati | pr | does not anticipate; does not expect; does not await; does not personally wish (for) | √kaṅkh 1 a (wish for) | na + pati + kaṅkha + ti | ati pr | 5 |
 | natthi 1 | pr | is not; it is not; there is not; there is no; there is nothing | √as 1 a (be) | na + √as + ti | natthi pr | 5 |
-| neva 1 | sandhi | neither; not | | na + eva | | 5 |
+| neva 1 | sandhi | neither; not |  | na + eva |  | 5 |
 | niraya 1 | masc | hell; hell realm | √i 1 a (come, go) | nir + √i > ay + *a | a masc | 5 |
-| no 1.1 | ind | no; not | | na + u > no | | 5 |
+| no 1.1 | ind | no; not |  | na + u > no |  | 5 |
 | nābhijānāti 1 | pr | does not know; does not understand | √ñā 5 nā (know) | na + abhi + jānā + ti | āti pr | 5 |
 | ottappī | adj | afraid of wrong; conscientious | √tapp 1 a (regret) | ud > od + √tapp + *ī | ī adj | 5 |
-| pakkhī 1 | masc | bird | | pakkha + ī | ī masc | 5 |
+| pakkhī 1 | masc | bird |  | pakkha + ī | ī masc | 5 |
 | passasissati | fut | will exhale; will breathe out | √sas 1 a (breath) | pa + sasissa + ti | ati pr | 5 |
 | paṭisaṃvedī | adj | experiencing; feeling; sensitive to | √vid 8 *e (know, sense, feel) | pati + saṃ + √vid > ved + *ī | ī adj | 5 |
-| saddhiṃ | ind | together (with); with | | | | 5 |
-| saha 1.2 | ind | with; together (with); accompanied (by) | | | | 5 |
+| saddhiṃ | ind | together (with); with |  |  |  | 5 |
+| saha 1.2 | ind | with; together (with); accompanied (by) |  |  |  | 5 |
 | sukhī 2 | masc | happy one; who is at ease; who is happy; who is comfortable | √sukh 1 a (please, be comfortable) | √sukh + ī | ī masc | 5 |
-| tvaṃ 1 | pron | you (subject) | | tumha + aṃ > tuvaṃ > tvaṃ | tvaṃ pron | 5 |
+| tvaṃ 1 | pron | you (subject) |  | tumha + aṃ > tuvaṃ > tvaṃ | tvaṃ pron | 5 |
 | vihārī | adj | (of a state of being) living in; who has; being | √har 1 a (live) | vi + √har > hār + *ī | ī adj | 5 |
 | vippaṭisārī | adj | remorseful; regretful; repentant; sorry | √sar 1 a (remember) | vi + pati + √sar > sār + *ī | ī adj | 5 |
 | virāga 1.1 | masc | fading of desire (for); dispassion (towards); detachment (from); indifference (to) | √raj 3 ya (desire) | vi + √raj > rag > rāg + *a | a masc | 5 |
 | vādī 1 | adj | speaking; saying; telling | √vad 1 a (say, speak) | √vad > vād + *ī | ī adj | 5 |
-| yasassī 1 | adj | famous; renowned; illustrious; celebrated | | yasas + sī | ī adj | 5 |
+| yasassī 1 | adj | famous; renowned; illustrious; celebrated |  | yasas + sī | ī adj | 5 |
 | āgāmī 1 | adj | who returns; who comes back | √gam 1 a (go) | ā + √gam > gām + *ī | ī adj | 5 |
 | abhibhū 1 | masc | conqueror; victor; vanquisher; master (of) | √bhū 1 a (be, become) | abhi + √bhū + ū | ū masc | 6 |
-| ajja | ind | today; now | | ima + jja | | 6 |
+| ajja | ind | today; now |  | ima + jja |  | 6 |
 | assutavant | adj | unlearned; untaught; uninitiated; untrained | √su 4 ṇā (hear) | na > a + √su + ta + vant | ant adj | 6 |
 | balavant 1 | adj | strong; powerful | √bal 1 a (be strong, live) | √bal + a + vant | ant adj | 6 |
 | bhagavant 1 | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epithet of the Buddha | √bhaj 1 a (divide, distribute) | √bhaj > bhag + a + vant | ant masc | 6 |
 | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk | √bhikkh 1 a (beg) | √bhikkh + u | u masc | 6 |
-| bhātar | masc | brother | | | ar2 masc | 6 |
+| bhātar | masc | brother |  |  | ar2 masc | 6 |
 | bāhu | masc | arm; forearm | √bah 1 a (increase) | √bah > bāh + *u | u masc | 6 |
-| ca 2.1 | ind | and; both | | | | 6 |
+| ca 2.1 | ind | and; both |  |  |  | 6 |
 | cakkhumant 2 | masc | person with sight; who can see | √cakkh 1 a (see) | √cakkh + u + mant | ant masc | 6 |
-| ciraṃ | ind | for a long time | | cira + aṃ | | 6 |
+| ciraṃ | ind | for a long time |  | cira + aṃ |  | 6 |
 | dātar 1 | masc | giver; donor (of) | √dā 1 a (give) | √dā + tar | ar masc | 6 |
 | garu 5 | masc | respect; honour | √gar 1 a (esteem, be heavy) | √gar + u | u masc | 6 |
 | hirimant | adj | having a conscience; with scruples; with an internal sense of right and wrong | √hir 3 ya (be ashamed) | √hir + i + mant | ant adj | 6 |
-| kālena | ind | timely; at the right time; at an appropriate moment | √kal 8 *e (spend time) | √kal > kāl + *a + ena | | 6 |
-| lokavidū | masc | who knows the world; who understands the universe; epithet of the Buddha | | loka + vidū | ū masc | 6 |
+| kālena | ind | timely; at the right time; at an appropriate moment | √kal 8 *e (spend time) | √kal > kāl + *a + ena |  | 6 |
+| lokavidū | masc | who knows the world; who understands the universe; epithet of the Buddha |  | loka + vidū | ū masc | 6 |
 | maccu | masc | death; Death | √mar 1 a (die) | √mar + tyu | u masc | 6 |
-| mattaññū | adj | knowing the correct measure; knowing the limit; moderate (in) | | matta + ñū | ū adj | 6 |
+| mattaññū | adj | knowing the correct measure; knowing the limit; moderate (in) |  | matta + ñū | ū adj | 6 |
 | nahāru | masc | tendon; sinew | √nah 3 ya (bind, arm) | √nah + āru | u masc | 6 |
-| pacchā 1 | ind | afterwards; later; in the future | | paccha + ā | | 6 |
+| pacchā 1 | ind | afterwards; later; in the future |  | paccha + ā |  | 6 |
 | pavattar 1 | masc | proclaimer; propagator; disseminator (of) | √vac 1 a (say, speak) | pa + √vac + tar | ar masc | 6 |
 | paññavant 1 | adj | wise; intelligent; discerning; insightful; percipient | √ñā 5 nā (know) | pa + √ñā + ā + vant | ant adj | 6 |
 | phāsu 2 | masc | ease; comfort (for) | √phus 1 a (touch) | √phus > phās + *u | u masc | 6 |
-| pitar | masc | father | | | ar2 masc | 6 |
-| pubbe 1 | ind | before; previously; formerly; in the past | | pubba + e | | 6 |
-| pure 2 | ind | formerly; previously; in the past | | | | 6 |
-| rattaññū | adj | old; experienced; of long standing | | ratta + ñū | ū adj | 6 |
-| sabbavidū 1 | adj | all-knowing; omniscient | | sabba + vidū | ū adj | 6 |
-| sabbābhibhū | adj | all conquering; victorious over everything | | sabba + abhibhū | ū adj | 6 |
-| sadā | ind | always; ever; all the time | | saṃ + dā | | 6 |
+| pitar | masc | father |  |  | ar2 masc | 6 |
+| pubbe 1 | ind | before; previously; formerly; in the past |  | pubba + e |  | 6 |
+| pure 2 | ind | formerly; previously; in the past |  |  |  | 6 |
+| rattaññū | adj | old; experienced; of long standing |  | ratta + ñū | ū adj | 6 |
+| sabbavidū 1 | adj | all-knowing; omniscient |  | sabba + vidū | ū adj | 6 |
+| sabbābhibhū | adj | all conquering; victorious over everything |  | sabba + abhibhū | ū adj | 6 |
+| sadā | ind | always; ever; all the time |  | saṃ + dā |  | 6 |
 | satimant 1 | adj | mindful; fully present; attentive | √sar 1 a (remember) | √sar + ti + mant | ant adj | 6 |
 | satthar 1 | masc | master; teacher | √sās 1 a (order, instruct) | √sās + tar | ar masc | 6 |
-| suve | ind | tomorrow | | | | 6 |
+| suve | ind | tomorrow |  |  |  | 6 |
 | sīlavant | adj | virtuous; ethical; moral | √sīl 1 a (conduct oneself) | √sīl + a + vant | ant adj | 6 |
 | upasaṅkamitar 1 | masc | visitor; guest | √kam 1 a (go) | upa + saṃ + √kam + itar | ar masc | 6 |
 | vajjavant | adj | at fault; in error; with mistakes | √vajj 8 *e (turn, avoid) | √vajj + ya + vant | ant adj | 6 |
 | vidū 1 | adj | wise; knowing; understanding | √vid 1 a (know) | √vid + ū | ū adj | 6 |
 | viññū 1 | adj | wise; intelligent; discerning; knowledgeable | √ñā 5 nā (know) | vi + √ñā + ū | ū adj | 6 |
-| vā 1 | ind | or; either or | | | | 6 |
-| yadā | ind | when; whenever | | ya + dā | | 6 |
+| vā 1 | ind | or; either or |  |  |  | 6 |
+| yadā | ind | when; whenever |  | ya + dā |  | 6 |
 | āgantar 2 | masc | returner; who comes back (to) | √gam 1 a (go) | ā + √gam + tar | ar masc | 6 |
 | āyasmant 1 | masc | sir; venerable; reverend | √i 1 a (come, go) | ā + √i > ay + *as + mant | ant masc | 6 |
 | abhijjhā | fem | wishing; wanting; covetousness; greed | √jhā 3 ya (think, meditate) | abhi + √jhā + ā | ā fem | 7 |
@@ -358,13 +358,13 @@
 | bāhā 1 | fem | arm | √bah 1 a (increase) | √bah > bāh + *ā | ā fem | 7 |
 | devatā | fem | deity; god | √div 3 ya (shine) | √div > dev + *a + tā | ā fem | 7 |
 | disā 1 | fem | direction; cardinal point | √dis 1 a (point out, explain) | √dis + ā | ā fem | 7 |
-| gayā 1 | fem | name of a village | | | ā fem | 7 |
+| gayā 1 | fem | name of a village |  |  | ā fem | 7 |
 | gāthā 1 | fem | verse; poem; stanza | √gā 3 ya (sing) | √gā + thā | ā fem | 7 |
 | jarā | fem | old age; ageing | √jar 1 a (age) | √jar + ā | ā fem | 7 |
-| jivhā | fem | tongue | | | ā fem | 7 |
+| jivhā | fem | tongue |  |  | ā fem | 7 |
 | jāneyya | opt | should know; should understand; should find out | √ñā 5 nā (know) | jānā + eyya | āti pr | 7 |
 | kareyya 2 | opt | would make; could make | √kar 7 o (do, make) | √kar + eyya | karoti pr | 7 |
-| karuṇā | fem | compassion; sympathy; kindness (towards unfortunate beings) | | | ā fem | 7 |
+| karuṇā | fem | compassion; sympathy; kindness (towards unfortunate beings) |  |  | ā fem | 7 |
 | kathā 1 | fem | talk; speech; conversation; discussion | √kath 8 *e (speak, narrate) | √kath + ā | ā fem | 7 |
 | mettā | fem | goodwill (towards); friendliness (to); benevolence (for) | √mitt 1 a (be friendly) | √mitt > mett + *ā | ā fem | 7 |
 | muditā | fem | happiness (for); appreciation; sympathetic joy | √mud 1 a (be soft, be happy) | √mud + ita + ā | ā fem | 7 |
@@ -376,17 +376,17 @@
 | pūjā 1 | fem | veneration (of); homage (to); honouring | √pūj 8 *e (honour, venerate) | √pūj + ā | ā fem | 7 |
 | saddhā 1 | fem | faith; belief; trust (in) | √dhā 1 a (place, support) | sad + √dhā + ā | ā fem | 7 |
 | saññā 1 | fem | perception; conception; recognition; third of the five aggregates | √ñā 5 nā (know) | saṃ + √ñā + ā | ā fem | 7 |
-| senā | fem | army; military | | | ā fem | 7 |
+| senā | fem | army; military |  |  | ā fem | 7 |
 | siyaṃ | opt | I could be; may I be; I might be; I should be | √as 1 a (be) | siya + aṃ | siyā opt | 7 |
 | siyuṃ | opt | they would be; there could be | √as 1 a (be) | siya + uṃ | siyā opt | 7 |
 | siyā 2 | opt | there could be | √as 1 a (be) | siya + ā | siyā opt | 7 |
-| sīmā 2 | fem | (vinaya) legal boundary; territory; perimeter | | | ā fem | 7 |
+| sīmā 2 | fem | (vinaya) legal boundary; territory; perimeter |  |  | ā fem | 7 |
 | taṇhā 1 | fem | craving; wanting; desire (for) | √tas 6 ṇhā (thirst) | taṇhā + ā | ā fem | 7 |
 | upasampadā 2 | fem | (vinaya) higher ordination as monastic | √pad 3 ya (go, step) | upa + saṃ + √pad + ā | ā fem | 7 |
 | upekkhā | fem | looking on; mental poise; mental balance; equanimity; equipoise; non-reactivity; composure | √ikkh 1 a (see, mark) | upa + √ikkh + ā | ā fem | 7 |
 | upāsikā | fem | female disciple; laywomen; female devotee | √ās 1 a (sit) | upa + √ās + ikā | ā fem | 7 |
-| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
+| vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; sensation (coming from six sense experience); second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
 | vijjā 1 | fem | knowledge; wisdom; understanding | √vid 3 ya (know, understand) | √vid + yā | ā fem | 7 |
 | vipassanā | fem | insight; penetrating internal vision; introspection | √dis 1 a (see) | vi + passa + anā | ā fem | 7 |
 | āgaccheyya | opt | could come; would come along; could approach; would arrive | √gam 1 a (go) | ā + gaccha + eyya | eyya opt | 7 |
-| ṭīkā | fem | sub-commentary; commentary on a commentary | | | ā fem | 7 |
+| ṭīkā | fem | sub-commentary; commentary on a commentary |  |  | ā fem | 7 |
