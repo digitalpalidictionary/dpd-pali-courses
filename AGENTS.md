@@ -29,5 +29,24 @@ If a script is intended to be run regularly (e.g., generators, verifiers, cleanu
 ## CLI Scripts (`scripts/cl/`)
 All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immediately after creation.
 
+## Output & Debugging
+- Use `tools/printer.py` for all script output: `pr.green("task")` → `pr.yes("ok")` on success, `pr.no(f"{n} files")` + `pr.warning(f)` per item on failure. No bare `print()`. Shell scripts have no `echo` step labels.
+- Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
+
 ## Useful Links
 - [GitHub Project](https://github.com/orgs/digitalpalidictionary/projects/2)
+
+## Pre-Completion Validation (MANDATORY)
+
+**Before reporting ANY Python code changes as complete, run ALL of:**
+
+1. `uv run ruff check --fix <file>`
+2. `uv run ruff format <file>`
+3. `uv run pyright <file>`
+4. `uv run --with pyrefly pyrefly check --min-severity warn <file>`
+5. `uv run pytest tests/test_<feature>.py -v` (for affected tests)
+
+**Do NOT report completion until all checks pass.** This is non-negotiable. Do not skip or defer these. Pyrefly warnings count as failures unless explicitly approved by the user. Type safety is mandatory, not optional.
+- **Verification:** Write tests for accurate data output (not UI components). Readme MUST be updated.
+- **Research:** Always perform Google Search for framework/OS quirks.
+- **Sync Tracking:** Only track and update exporters in the sync registry that contain localized data (Russian, SBS, or DPS-specific).
