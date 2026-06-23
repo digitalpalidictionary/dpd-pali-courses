@@ -213,13 +213,6 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | c**e** | **e**va | c**e**va |
 | if | only | only if |
 
-**o![](../../assets/images/pacman-backwards.png)a \> a**
-
-| | | |
-| --- | --- | --- |
-| tay**o** | **a**ssu | tay**a**ssu |
-| three | they may be | three things may be |
-
 **o![](../../assets/images/pacman-backwards.png)u \> u**
 
 | | | |
