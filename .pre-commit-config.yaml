@@ -1,0 +1,30 @@
+exclude: ^(archive|scripts/bash|tools/writemdict)/
+
+repos:
+  - repo: local
+    hooks:
+      - id: ruff
+        name: ruff lint
+        entry: uv run ruff check --fix
+        language: system
+        types: [python]
+
+      - id: ruff-format
+        name: ruff format
+        entry: uv run ruff format
+        language: system
+        types: [python]
+
+      - id: pyright
+        name: pyright
+        entry: uv run pyright
+        language: system
+        types: [python]
+        pass_filenames: true
+
+      - id: pyrefly
+        name: pyrefly
+        entry: uv run --with pyrefly pyrefly check --min-severity warn
+        language: system
+        types: [python]
+        pass_filenames: true
