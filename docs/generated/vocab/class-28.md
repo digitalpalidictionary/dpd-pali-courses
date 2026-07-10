@@ -211,7 +211,7 @@
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
 | piṇḍa 2 | masc | bit of food; alms food | √piṇḍ 8 *e (collect) | √piṇḍ + a | a masc | 2 |
 | potaliya 1 | masc | name of a householder |  |  | a masc | 2 |
-| puggala | masc | person; individual |  |  | a masc | 2 |
+| puggala 1 | masc | person; individual |  |  | a masc | 2 |
 | purisa 1 | masc | man; male; person |  |  | a masc | 2 |
 | putta 1 | masc | son; child |  |  | a masc | 2 |
 | putta 2 | masc | (used to form diminutives) young man; descendent; son of |  |  | a masc | 2 |
@@ -241,7 +241,7 @@
 | sambhava 1.1 | masc | birth; origin; source (of) | √bhū 1 a (be, become) | saṃ + √bhū > bhav + *a | a masc | 2 |
 | sambheda 1 | masc | confusion; disarray | √bhid 2 ṃa (break, split) | saṃ + √bhid > bhed + *a | a masc | 2 |
 | sambodha | masc | full awakening; perfect understanding; enlightenment | √budh 3 ya (know, wake up) | saṃ + √budh > bodh + *a | a masc | 2 |
-| samudaya 1 | masc | source; origination; arising; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
+| samudaya 1 | masc | source; origin; origination (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
 | samudda | masc | sea; ocean | √ud 2 ṃa (be wet) | saṃ + √ud + ra | a masc | 2 |
 | samugghāta 1 | masc | eradication; extermination; destruction | √ghaṭ 8 *e (strike, kill) | saṃ + ud + √ghaṭ > ghāṭ + *a | a masc | 2 |
 | samuppāda 1 | masc | origin; arising; appearance (of) | √pad 3 ya (go, step) | saṃ + ud + √pad > pād + *a | a masc | 2 |
@@ -533,7 +533,7 @@
 | saṃvattati 1 | pr | leads (to); results (in); causes | √vatt 1 a (be, proceed) | saṃ + vatta + ti | ati pr | 3 |
 | saṃvaṇṇeti 1 | pr | praises; commends; extols; speaks highly (of) | √vaṇṇ 8 *e (praise) | saṃ + vaṇṇe + ti | eti pr | 3 |
 | saṇṭhāti | pr | remains; continues; persists; is established; stands firm (in) | √ṭhā 1 a (stand) | saṃ + ṭhā + ti | āti pr | 3 |
-| seti 2 | pr | sleeps | √sī 1 a (lie, sleep) | se + ti | eti pr | 3 |
+| seti 2 | pr | sleeps (on) | √sī 1 a (lie, sleep) | se + ti | eti pr | 3 |
 | sikkhati 2 | pr | trains (in); trains (for the purpose of); practices (for the sake of); practice (to) | √sikkh 1 a (learn, train) | sikkha + ti | ati pr | 3 |
 | siñcati 1 | pr | waters; pours; sprinkles; scatters (something onto) | √sic 2 ṃa (sprinkle, pour) | siñca + ti | ati pr | 3 |
 | sobhati 2 | pr | looks beautiful (in) | √subh 1 *a (shine, adorn) | sobha + ti | ati pr | 3 |
@@ -568,7 +568,7 @@
 | vedeti 2 | pr | knows; understands; learns about | √vid 8 *e (know, sense, feel) | vede + ti | eti pr | 3 |
 | vibhajati 1 | pr | dissects; analyses in detail; explains at length | √bhaj 1 a (divide, distribute) | vi + bhaja + ti | ati pr | 3 |
 | viharati 1 | pr | lives; dwells; stays (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
-| viharati 2 | pr | stays; remains; continues; dwells; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
+| viharati 2 | pr | stays; remains; continues; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
 | vihiṃsati | pr | hurts; harms; injures; is cruel (towards) | √his 2 ṃa (hurt, harm) | vi + hiṃsa + ti | ati pr | 3 |
 | vijānāti 1 | pr | comprehends; understands; recognises; distinguishes; is aware (of) | √ñā 5 nā (know) | vi + jānā + ti | āti pr | 3 |
 | vinassati 1 | pr | perishes; is destroyed | √nas 3 ya (be lost, disappear) | vi + nassa + ti | ati pr | 3 |
@@ -916,7 +916,7 @@
 | mātucchā | fem | maternal aunt; mother's sister |  | ?? mātu + chā | ā fem | 7 |
 | māyā 2 | fem | magic; illusion; conjurer's trick |  |  | ā fem | 7 |
 | natthitā | fem | nonexistence; absence; fact of not being present | √as 1 a (be) | na + √as + ti + tā | ā fem | 7 |
-| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in); dispassion (towards) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
+| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
 | niddā | fem | sleep; (comm) sleeping too much | √dā 3 ya (sleep) | ni + √dā + ā | ā fem | 7 |
 | nindā | fem | blame; criticism; fault-finding; disgrace | √nind 1 a (blame, abuse) | √nind + ā | ā fem | 7 |
 | nisajjā 1 | fem | sitting; sitting down | √sad 1 a (sink, sit, settle) | ni + √sad + ya + ā | ā fem | 7 |
@@ -1057,7 +1057,7 @@
 | petī | fem | female ghost; female spirit | √i 1 a (come, go) | pa + e + ta + ī | ī fem | 8 |
 | pharitvā 1 | abs | having suffused; having pervaded; having filled | √phar 1 a (suffuse, pervade) | √phar + itvā |  | 8 |
 | purato 1 | ind | in front (of) |  | pura + to |  | 8 |
-| pāripūrī | fem | fulfilment; completion; perfecting; maturity | √pūr 1 a (fill, fulfil) | pari + √pūr + ī | ī fem | 8 |
+| pāripūri 1 | fem | fulfilment; completion; culmination; maturity (of) | √pūr 1 a (fill, fulfil) | pari + √pūr + i | i fem | 8 |
 | pārisuddhi 1 | fem | purity; purification | √sudh 3 ya (be pure) | pari > pāri + √sudh + ta + *i | i fem | 8 |
 | pāti 1.1 | fem | cup; drinking bowl | √pā 1 a (drink) | √pā + ti | i fem | 8 |
 | pīti 1.1 | fem | delight; heartfelt joy; pleasure; feeling of love | √pī 5 nā (love, please) | √pī + ti | i fem | 8 |
@@ -1084,7 +1084,7 @@
 | suvatthi 1 | fem | safety; well-being (for) | √as 1 a (be) | su + [v] + √as + ti | i fem | 8 |
 | sāmaggī 1 | fem | concord; unity; peace; harmony |  | saṃ > sām + agga + *ī | ī fem | 8 |
 | sāmaṇerī | fem | female novice; female apprentice nun | √sam 3 ya (exert, strive) | √sam > sām + aṇa + *era + ī | ī fem | 8 |
-| sāmīci 1 | fem | right way; correct course; proper procedure |  |  | i fem | 8 |
+| sāmīci 1 | fem | right way; correct course; proper procedure (for) |  |  | i fem | 8 |
 | sāvatthī | fem | name of a city; capital of Kosala | √su 1 a (flow) | √su > sāv + a + ttha + *ī | ī fem | 8 |
 | sāyitvā | abs | having tasted | √sāy 1 a (taste) | √sāy + itvā |  | 8 |
 | sūci 1 | fem | needle; any sharp pointed object |  |  | i fem | 8 |
@@ -2018,6 +2018,7 @@
 | thūla 1 | adj | massive; large | √thūl 8 *e (be fat, be coarse) | √thūl + a | a adj | 11 |
 | thūla 2 | adj | gross; coarse | √thūl 8 *e (be fat, be coarse) | √thūl + a | a adj | 11 |
 | tittaka 1 | adj | bitter; sharp | √tij 1 a (be sharp, be bitter) | √tij + ta + ka | a adj | 11 |
+| tāvataka | adj | just this much; just so much |  | tāva + ta + aka | aka adj | 11 |
 | ubbhata 2 | pp | withdrawn; disallowed; suspended | √bhar 1 a (carry, support) | ud + √bhar + ta | a pp | 11 |
 | ubhato | ind | both; on both sides (of); in both ways; dually |  | ubha + to |  | 11 |
 | ucca 1 | adj | high; tall |  | ud + ya | a adj | 11 |
@@ -2910,7 +2911,6 @@
 | apattamānasa | adj | not fulfilled one's intention; not achieved one's goal; (comm) not attained arahantship |  | apatta + mānasa | a adj | 19 |
 | appamāṇacetasa | adj | with immeasurable mind; with unrestricted mind |  | appamāṇa + cetasa | a adj | 19 |
 | appamāṇasamādhi | masc | immeasurable meditative composure; boundless stability of mind |  | appamāṇa + samādhi | i masc | 19 |
-| apparajakkhajātika | adj | who has little dirt in the eye |  | apparajakkha + jātika | a adj | 19 |
 | appiyarūpa | adj | unpleasant; disliked; bad |  | na > a + piya + rūpa | a adj | 19 |
 | appābādhatā | fem | health; wellness; well-being |  | appa + ābādha + tā | ā fem | 19 |
 | appātaṅkatā | fem | health; wellness; well-being |  | appa + ātaṅka + tā | ā fem | 19 |
@@ -3080,7 +3080,7 @@
 | gihippaṭisaṃyutta | adj | (vinaya) connected with laypeople |  | gihī + paṭisaṃyutta | a adj | 19 |
 | gimhānamāsa | masc | hot month; hottest month |  | gimhānaṃ + māsa | a masc | 19 |
 | gocara 1 | masc | food; fodder; grazing; pasture |  | go + cara | a masc | 19 |
-| gocara 3 | masc | sphere; domain; field; range |  | go + cara | a masc | 19 |
+| gocara 4 | masc | sphere; domain; field; range |  | go + cara | a masc | 19 |
 | gopālaka | masc | young cowherd; young cowboy |  | go + pālaka | a masc | 19 |
 | gopānasivaṅka | adj | as crooked as a rafter |  | gopānasī + vaṅka | a adj | 19 |
 | gāthābhigīta | adj | chanted over with verses; recited over |  | gāthā + abhigīta | a adj | 19 |
@@ -3411,7 +3411,6 @@
 | sukhadukkha 1 | nt | ease and discomfort; pleasure and pain; happiness and sorrow |  | sukha + dukkha | a nt east | 19 |
 | sukhassāhāra | masc | cause for comfort; support for ease |  | sukhassa + āhāra | a masc | 19 |
 | sukhavihārī | adj | who lives at ease; who lives comfortably; experiencing bodily pleasure; abiding in sublime pleasure |  | sukha + vihārī | ī adj | 19 |
-| sukhitatta | adj | happy; easy going; (comm) with pleased mind |  | sukhita + atta | a adj | 19 |
 | sutadhana | nt | wealth that is learning; treasure of knowledge |  | suta + dhana | a nt | 19 |
 | suttanta 1 | masc | discourse; teaching; instruction |  | sutta + anta | a masc | 19 |
 | suññatāpaṭisaṃyutta | adj | about emptiness (of a self); regarding non-subjectivity |  | suññatā + paṭisaṃyutta | a adj | 19 |
@@ -3427,7 +3426,7 @@
 | sāyanha | masc | evening |  | sāyaṃ + anha | a masc | 19 |
 | sāyanhasamaya | masc | late afternoon; early evening |  | sāyanha + samaya | a masc | 19 |
 | sīhanāda 1 | masc | confident assertion; bold statement |  | sīha + nāda | a masc | 19 |
-| sīhaseyyā | fem | sleeping posture of a lion |  | sīha + seyyā | ā fem | 19 |
+| sīhaseyyā | fem | lying posture of a lion |  | sīha + seyyā | ā fem | 19 |
 | sīladhana | nt | wealth that is ethical behaviour; treasure of conduct |  | sīla + dhana | a nt | 19 |
 | sīlakathā | fem | talk on ethical conduct; discussion about correct behaviour |  | sīla + kathā | ā fem | 19 |
 | sīlavata | nt | precepts and practices; ethics and observances; rites and rituals |  | sīla + vata | a nt | 19 |
@@ -3527,7 +3526,6 @@
 | āpattidesanā | fem | confessing an offence; admitting a transgression |  | āpatti + desanā | ā fem | 19 |
 | āpodhātu 1 | fem | liquids; liquid state; (comm) element of cohesion |  | āpo + dhātu | u fem | 19 |
 | āragga | nt | pin-point; needle-tip; awl-point |  | ārā + agga | a nt | 19 |
-| āturakāya | adj | sick in body; physically unhealthy |  | ātura + kāya | a adj | 19 |
 | āvaṭṭaggāha | masc | clutch of a whirlpool; sucked in by a whirlpool |  | āvaṭṭa + gāha | a masc | 19 |
 | āvikattar | masc | who reveals; who divulges (to) |  | āvi + kattar | ar masc | 19 |
 | āyamukha | nt | inflow; income; entrance |  | āya + mukha | a nt | 19 |
@@ -3543,6 +3541,7 @@
 | appakicca | adj | unencumbered; with few obligations; with few duties; with little work |  | appa + kicca | a adj | 20 |
 | appapurisa | adj | with few men |  | appa + purisa | a adj | 20 |
 | apparajakkha | adj | having little dirt in the eye |  | appa + rajas + akkha | a adj | 20 |
+| apparajakkhajātika | adj | who has little dirt in the eye |  | apparajakkha + jātika | a adj | 20 |
 | appassuta | adj | ignorant; uneducated; unlearned |  | appa + suta | a adj | 20 |
 | appiccha | adj | with few wishes; wanting little; having few needs; modest |  | appa + icchā + a | a adj | 20 |
 | appābādha | adj | well; healthy; seldom sick |  | appa + ābādha | a adj | 20 |
@@ -3605,10 +3604,12 @@
 | samantapāsādika | adj | who inspires confidence in every way; totally awe-inspiring |  | samanta + pāsādika | a adj | 20 |
 | sammādiṭṭhisamādāna | adj | who has undertaken right view |  | sammādiṭṭhi + samādāna | a adj | 20 |
 | santindriya | adj | calm; at peace |  | santa + indriya | a adj | 20 |
+| sukhitatta | adj | happy; easy going; (comm) with pleased mind |  | sukhita + atta | a adj | 20 |
 | tathārūpa 1 | adj | such; such kind; of such quality; so formed |  | tathā + rūpa | aī adj | 20 |
 | tathūpama | adj | comparable in the same way; similar to that; like this |  | tathā + upama | a adj | 20 |
 | tatonidānaṃ | ind | because of that; on that account; for that reason |  | tato + nidāna + aṃ |  | 20 |
 | tenaṅgena | ind | on account of that; in that respect; in that regard |  | tena + aṅga + ena |  | 20 |
+| tevijjaka | adj | related to the three Vedas |  | ti > te + vijjā + *a + ka | a adj | 20 |
 | ubhayamantarena | ind | in-between the two |  | ubhayaṃ + antara + ena |  | 20 |
 | ucchinnamūla | adj | cut at the root; eradicated at the source |  | ucchinna + mūla | a adj east | 20 |
 | udakorohaka | masc | bather; ritual bather |  | udaka + orohaka | a masc | 20 |
@@ -3637,3 +3638,4 @@
 | yāvatatiyaṃ | ind | as many as three times; after the third time; up to the third time |  | yāva + tatiya + aṃ |  | 20 |
 | ādittacela | adj | whose clothes are on fire; with blazing garments |  | āditta + cela | a adj | 20 |
 | ādittasīsa | masc | whose head is on fire; with a blazing head |  | āditta + sīsa | a masc | 20 |
+| āturakāya | adj | sick in body; physically unhealthy |  | ātura + kāya | a adj | 20 |

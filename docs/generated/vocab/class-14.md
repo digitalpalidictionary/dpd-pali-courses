@@ -118,7 +118,7 @@
 | paṭinissagga | masc | giving up; relinquishing; dropping; abandoning (of) | √sajj 1 a (relinquish, let loose) | pati + nī + √sajj > sagg + a | a masc | 2 |
 | pessaka 1 | masc | messenger | √pis 8 ya (send) | √pis > pes + *ya + ka | a masc | 2 |
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
-| puggala | masc | person; individual |  |  | a masc | 2 |
+| puggala 1 | masc | person; individual |  |  | a masc | 2 |
 | purisa 1 | masc | man; male; person |  |  | a masc | 2 |
 | putta 1 | masc | son; child |  |  | a masc | 2 |
 | pāda 1 | masc | foot | √pad 3 ya (go, step) | √pad > pād + *a | a masc | 2 |
@@ -138,7 +138,7 @@
 | samaṇa 1 | masc | ascetic; renunciant; holy man; monk; recluse | √sam 3 ya (exert, strive) | √sam + aṇa | a masc | 2 |
 | sambhava 1.1 | masc | birth; origin; source (of) | √bhū 1 a (be, become) | saṃ + √bhū > bhav + *a | a masc | 2 |
 | sambodha | masc | full awakening; perfect understanding; enlightenment | √budh 3 ya (know, wake up) | saṃ + √budh > bodh + *a | a masc | 2 |
-| samudaya 1 | masc | source; origination; arising; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
+| samudaya 1 | masc | source; origin; origination (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
 | samudda | masc | sea; ocean | √ud 2 ṃa (be wet) | saṃ + √ud + ra | a masc | 2 |
 | samuppāda 2 | masc | issue; conflict; something which arises | √pad 3 ya (go, step) | saṃ + ud + √pad > pād + *a | a masc | 2 |
 | samācāra | masc | conduct; behaviour; activity | √car 1 a (act, behave) | saṃ + ā + √car > cār + *a | a masc | 2 |
@@ -306,7 +306,7 @@
 | saṃvattati 1 | pr | leads (to); results (in); causes | √vatt 1 a (be, proceed) | saṃ + vatta + ti | ati pr | 3 |
 | saṃvaṇṇeti 1 | pr | praises; commends; extols; speaks highly (of) | √vaṇṇ 8 *e (praise) | saṃ + vaṇṇe + ti | eti pr | 3 |
 | saṇṭhāti | pr | remains; continues; persists; is established; stands firm (in) | √ṭhā 1 a (stand) | saṃ + ṭhā + ti | āti pr | 3 |
-| seti 2 | pr | sleeps | √sī 1 a (lie, sleep) | se + ti | eti pr | 3 |
+| seti 2 | pr | sleeps (on) | √sī 1 a (lie, sleep) | se + ti | eti pr | 3 |
 | sikkhati 2 | pr | trains (in); trains (for the purpose of); practices (for the sake of); practice (to) | √sikkh 1 a (learn, train) | sikkha + ti | ati pr | 3 |
 | siñcati 1 | pr | waters; pours; sprinkles; scatters (something onto) | √sic 2 ṃa (sprinkle, pour) | siñca + ti | ati pr | 3 |
 | sobhati 2 | pr | looks beautiful (in) | √subh 1 *a (shine, adorn) | sobha + ti | ati pr | 3 |
@@ -331,7 +331,7 @@
 | vaḍḍhati | pr | increases; grows; develops (in) | √vaḍḍh 1 a (grow, increase) | vaḍḍha + ti | ati pr | 3 |
 | vedeti 1 | pr | feels; experiences; senses | √vid 8 *e (know, sense, feel) | vede + ti | eti pr | 3 |
 | viharati 1 | pr | lives; dwells; stays (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
-| viharati 2 | pr | stays; remains; continues; dwells; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
+| viharati 2 | pr | stays; remains; continues; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
 | vijānāti 1 | pr | comprehends; understands; recognises; distinguishes; is aware (of) | √ñā 5 nā (know) | vi + jānā + ti | āti pr | 3 |
 | vinassati 1 | pr | perishes; is destroyed | √nas 3 ya (be lost, disappear) | vi + nassa + ti | ati pr | 3 |
 | visahati 1.1 | pr | is able (to) | √sah 1 a (be able) | vi + saha + ti | ati pr | 3 |
@@ -539,7 +539,7 @@
 | mattikā 1 | fem | clay; earth | √madd 1 a (crush, grind) | √madd > matt + ikā | ā fem | 7 |
 | mettā | fem | goodwill (towards); friendliness (to); benevolence (for) | √mitt 1 a (be friendly) | √mitt > mett + *ā | ā fem | 7 |
 | muditā | fem | happiness (for); appreciation; sympathetic joy | √mud 1 a (be soft, be happy) | √mud + ita + ā | ā fem | 7 |
-| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in); dispassion (towards) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
+| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
 | niddā | fem | sleep; (comm) sleeping too much | √dā 3 ya (sleep) | ni + √dā + ā | ā fem | 7 |
 | nisajjā 1 | fem | sitting; sitting down | √sad 1 a (sink, sit, settle) | ni + √sad + ya + ā | ā fem | 7 |
 | pabbajjā 1 | fem | (vinaya) novice ordination; renunciation; becoming a monastic | √vaj 1 a (go on) | pa + √vaj > baj + yā | ā fem | 7 |
@@ -624,7 +624,7 @@
 | petī | fem | female ghost; female spirit | √i 1 a (come, go) | pa + e + ta + ī | ī fem | 8 |
 | pharitvā 1 | abs | having suffused; having pervaded; having filled | √phar 1 a (suffuse, pervade) | √phar + itvā |  | 8 |
 | purato 1 | ind | in front (of) |  | pura + to |  | 8 |
-| pāripūrī | fem | fulfilment; completion; perfecting; maturity | √pūr 1 a (fill, fulfil) | pari + √pūr + ī | ī fem | 8 |
+| pāripūri 1 | fem | fulfilment; completion; culmination; maturity (of) | √pūr 1 a (fill, fulfil) | pari + √pūr + i | i fem | 8 |
 | pīti 1.1 | fem | delight; heartfelt joy; pleasure; feeling of love | √pī 5 nā (love, please) | √pī + ti | i fem | 8 |
 | ruci | fem | preference; choice; liking; approval | √ruc 1 *a (shine, like) | √ruc + i | i fem | 8 |
 | sabbattha 1 | ind | everywhere; every place |  | sabba + ttha |  | 8 |
@@ -641,7 +641,7 @@
 | sugati | fem | good destination; happy fate; state of happiness | √gam 1 a (go) | su + √gam + ti | i fem | 8 |
 | suggati | fem | good destination; happy fate; state of happiness | √gam 1 a (go) | su + √gam + ti | i fem | 8 |
 | sutvā | abs | having heard; having listened (to) | √su 4 ṇā (hear) | √su + tvā |  | 8 |
-| sāmīci 1 | fem | right way; correct course; proper procedure |  |  | i fem | 8 |
+| sāmīci 1 | fem | right way; correct course; proper procedure (for) |  |  | i fem | 8 |
 | sāvatthī | fem | name of a city; capital of Kosala | √su 1 a (flow) | √su > sāv + a + ttha + *ī | ī fem | 8 |
 | sāyitvā | abs | having tasted | √sāy 1 a (taste) | √sāy + itvā |  | 8 |
 | tatra 1 | ind | there; in that place |  | ta + tra |  | 8 |
@@ -1138,6 +1138,7 @@
 | thāvara 1 | adj | stationary; stable; immobile; arahant; (comm) without craving | √ṭhā 1 a (stand) | √ṭhā + [v] + ara | a adj | 11 |
 | thūla 1 | adj | massive; large | √thūl 8 *e (be fat, be coarse) | √thūl + a | a adj | 11 |
 | thūla 2 | adj | gross; coarse | √thūl 8 *e (be fat, be coarse) | √thūl + a | a adj | 11 |
+| tāvataka | adj | just this much; just so much |  | tāva + ta + aka | aka adj | 11 |
 | uggahīta | pp | grasped; held onto; raised up | √gah 6 ṇhā (grasp) | ud + √gah + ita | a pp | 11 |
 | uju 1 | adj | straight; upright; erect | √uj 1 a (be straight) | √uj + u | u adj | 11 |
 | upadduta | pp | afflicted; troubled; persecuted; oppressed; tyrannized (by) | √du 1 a (burn, torment) | upa + √du + ta | a pp | 11 |

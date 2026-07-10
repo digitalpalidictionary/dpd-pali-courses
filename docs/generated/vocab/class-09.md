@@ -95,7 +95,7 @@
 | paṭinissagga | masc | giving up; relinquishing; dropping; abandoning (of) | √sajj 1 a (relinquish, let loose) | pati + nī + √sajj > sagg + a | a masc | 2 |
 | pessaka 1 | masc | messenger | √pis 8 ya (send) | √pis > pes + *ya + ka | a masc | 2 |
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
-| puggala | masc | person; individual |  |  | a masc | 2 |
+| puggala 1 | masc | person; individual |  |  | a masc | 2 |
 | purisa 1 | masc | man; male; person |  |  | a masc | 2 |
 | putta 1 | masc | son; child |  |  | a masc | 2 |
 | pāda 1 | masc | foot | √pad 3 ya (go, step) | √pad > pād + *a | a masc | 2 |
@@ -111,7 +111,7 @@
 | samaya 1.1 | masc | time; occasion | √i 1 a (come, go) | saṃ + √i > ay + *a | a masc | 2 |
 | samaṇa 1 | masc | ascetic; renunciant; holy man; monk; recluse | √sam 3 ya (exert, strive) | √sam + aṇa | a masc | 2 |
 | sambodha | masc | full awakening; perfect understanding; enlightenment | √budh 3 ya (know, wake up) | saṃ + √budh > bodh + *a | a masc | 2 |
-| samudaya 1 | masc | source; origination; arising; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
+| samudaya 1 | masc | source; origin; origination (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
 | samudda | masc | sea; ocean | √ud 2 ṃa (be wet) | saṃ + √ud + ra | a masc | 2 |
 | samuppāda 2 | masc | issue; conflict; something which arises | √pad 3 ya (go, step) | saṃ + ud + √pad > pād + *a | a masc | 2 |
 | saṃvara 1 | masc | control; restraint; holding back (according to) | √var 1 a (cover, dress, restrain) | saṃ + √var + a | a masc | 2 |
@@ -257,7 +257,7 @@
 | vaḍḍhati | pr | increases; grows; develops (in) | √vaḍḍh 1 a (grow, increase) | vaḍḍha + ti | ati pr | 3 |
 | vedeti 1 | pr | feels; experiences; senses | √vid 8 *e (know, sense, feel) | vede + ti | eti pr | 3 |
 | viharati 1 | pr | lives; dwells; stays (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
-| viharati 2 | pr | stays; remains; continues; dwells; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
+| viharati 2 | pr | stays; remains; continues; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
 | visahati 1.1 | pr | is able (to) | √sah 1 a (be able) | vi + saha + ti | ati pr | 3 |
 | voharati 1 | pr | speaks; communicates; gives expression; uses language | √har 1 a (carry) | vi + ava + hara + ti | ati pr | 3 |
 | vāyamati | pr | tries (to); makes an effort (to); strives (for); exerts oneself (to) | √yam 1 a (control, strive, end) | vi + ā + yama + ti | ati pr | 3 |
@@ -427,7 +427,7 @@
 | khuddā 1.1 | fem | hunger | √khud 1 a (be hungry) | √khud + yā | ā fem | 7 |
 | mettā | fem | goodwill (towards); friendliness (to); benevolence (for) | √mitt 1 a (be friendly) | √mitt > mett + *ā | ā fem | 7 |
 | muditā | fem | happiness (for); appreciation; sympathetic joy | √mud 1 a (be soft, be happy) | √mud + ita + ā | ā fem | 7 |
-| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in); dispassion (towards) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
+| nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disinterest (in) | √vid 2 ṃa (feel, like) | nī + √vid > bid + ā | ā fem | 7 |
 | nisajjā 1 | fem | sitting; sitting down | √sad 1 a (sink, sit, settle) | ni + √sad + ya + ā | ā fem | 7 |
 | pabbajjā 1 | fem | (vinaya) novice ordination; renunciation; becoming a monastic | √vaj 1 a (go on) | pa + √vaj > baj + yā | ā fem | 7 |
 | paccāsā | fem | expectation; hope; anticipation (for) | √is 1 a (wish for) | pati > paty > pacc + ā + √is + ā | ā fem | 7 |
@@ -493,7 +493,7 @@
 | patvā 1 | abs | having reached; having arrived (at) | √ap 4 uṇā (reach, attain) | pa + √ap + tvā |  | 8 |
 | paṇidhāya 1 | ger | guiding; directing; determining; setting | √dhā 1 a (place, support) | pa + ni + √dhā + ya |  | 8 |
 | petī | fem | female ghost; female spirit | √i 1 a (come, go) | pa + e + ta + ī | ī fem | 8 |
-| pāripūrī | fem | fulfilment; completion; perfecting; maturity | √pūr 1 a (fill, fulfil) | pari + √pūr + ī | ī fem | 8 |
+| pāripūri 1 | fem | fulfilment; completion; culmination; maturity (of) | √pūr 1 a (fill, fulfil) | pari + √pūr + i | i fem | 8 |
 | pīti 1.1 | fem | delight; heartfelt joy; pleasure; feeling of love | √pī 5 nā (love, please) | √pī + ti | i fem | 8 |
 | ruci | fem | preference; choice; liking; approval | √ruc 1 *a (shine, like) | √ruc + i | i fem | 8 |
 | sabbattha 1 | ind | everywhere; every place |  | sabba + ttha |  | 8 |

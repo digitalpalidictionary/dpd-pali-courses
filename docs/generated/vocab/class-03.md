@@ -48,7 +48,7 @@
 | patta 1.1 | masc | bowl; alms bowl; begging bowl | √pā 1 a (drink) | √pā + ta | a masc | 2 |
 | paṭinissagga | masc | giving up; relinquishing; dropping; abandoning (of) | √sajj 1 a (relinquish, let loose) | pati + nī + √sajj > sagg + a | a masc | 2 |
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
-| puggala | masc | person; individual |  |  | a masc | 2 |
+| puggala 1 | masc | person; individual |  |  | a masc | 2 |
 | putta 1 | masc | son; child |  |  | a masc | 2 |
 | pāda 1 | masc | foot | √pad 3 ya (go, step) | √pad > pād + *a | a masc | 2 |
 | pātimokkha 2 | masc | (vinaya) precepts for Buddhist monastics |  |  | a masc | 2 |

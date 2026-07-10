@@ -69,7 +69,7 @@
 | paṭinissagga | masc | giving up; relinquishing; dropping; abandoning (of) | √sajj 1 a (relinquish, let loose) | pati + nī + √sajj > sagg + a | a masc | 2 |
 | pessaka 1 | masc | messenger | √pis 8 ya (send) | √pis > pes + *ya + ka | a masc | 2 |
 | phassa 1 | masc | sense contact; sense impingement; sense impression; sense experience | √phus 1 a (touch) | √phus > phass + a | a masc | 2 |
-| puggala | masc | person; individual |  |  | a masc | 2 |
+| puggala 1 | masc | person; individual |  |  | a masc | 2 |
 | putta 1 | masc | son; child |  |  | a masc | 2 |
 | pāda 1 | masc | foot | √pad 3 ya (go, step) | √pad > pād + *a | a masc | 2 |
 | pātimokkha 2 | masc | (vinaya) precepts for Buddhist monastics |  |  | a masc | 2 |
@@ -83,7 +83,7 @@
 | samaya 1.1 | masc | time; occasion | √i 1 a (come, go) | saṃ + √i > ay + *a | a masc | 2 |
 | samaṇa 1 | masc | ascetic; renunciant; holy man; monk; recluse | √sam 3 ya (exert, strive) | √sam + aṇa | a masc | 2 |
 | sambodha | masc | full awakening; perfect understanding; enlightenment | √budh 3 ya (know, wake up) | saṃ + √budh > bodh + *a | a masc | 2 |
-| samudaya 1 | masc | source; origination; arising; appearance (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
+| samudaya 1 | masc | source; origin; origination (of) | √i 1 a (come, go) | saṃ + ud + √i > ay + *a | a masc | 2 |
 | samudda | masc | sea; ocean | √ud 2 ṃa (be wet) | saṃ + √ud + ra | a masc | 2 |
 | saṃvara 1 | masc | control; restraint; holding back (according to) | √var 1 a (cover, dress, restrain) | saṃ + √var + a | a masc | 2 |
 | saṃvara 2 | masc | control (over); restraint (of); holding back (of) | √var 1 a (cover, dress, restrain) | saṃ + √var + a | a masc | 2 |
