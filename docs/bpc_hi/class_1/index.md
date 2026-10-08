@@ -1,65 +1,65 @@
-# Class 1
+# कक्षा 1
 
-**Why study Pāli ?**
+**पालि क्यों सीखें?**
 
-Please come up with at least 3 reasons why you want to study Pāli. Write them down and share with your classmates.
+पालि सीखने के कम से कम **3 कारण** सोचें, उन्हें लिखें और अपने सहपाठियों के साथ साझा करें।
 
-**What is your Pāli name?**
+**आपका पालि नाम क्या है?**
 
-If you have one make sure you know the literal and figurative meaning of your Pāli name. If you don't have one, you can create one for yourself. Use [DPD dictionary](https://dpdict.net): English - Pāli and Pāli - English.
+यदि आपका पालि नाम है, तो उसका शाब्दिक (literal) और लाक्षणिक/भावनात्मक (figurative) अर्थ जानें। यदि आपका पालि नाम नहीं है, तो आप [DPD शब्दकोश](https://dpdict.net) का उपयोग करके (अंग्रेज़ी-पालि एवं पालि-अंग्रेज़ी) अपने लिए एक पालि नाम बना सकते हैं।
 
-## Course Structure {: #course-structure}
+## पाठ्यक्रम की संरचना {: #course-structure}
 
-1. Class meeting once per 2 weeks (2h / class)
-    - Short review test
-    - Questions related to the exercises
-    - New grammar information
-    - Practical examples from the Tipiṭaka
-2. Homeless work[^1]
-    - Grammar Exercises (3-6 h / class)
-    - Daily Vocabulary and Grammar Revision (Anki Decks) (20-40 min / day)
+1. पाक्षिक कक्षा बैठक (प्रति 2 सप्ताह में एक बार) (2 घंटे / कक्षा)
+    - लघु समीक्षा परीक्षा (Short review test)
+    - अभ्यासों से संबंधित प्रश्न
+    - नई व्याकरण संबंधी जानकारी
+    - तिपिटक (*Tipiṭaka*) से व्यावहारिक उदाहरण
+2. अनगारिक कार्य[^1]
+    - व्याकरण अभ्यास (प्रति कक्षा 3–6 घंटे)
+    - दैनिक शब्दावली और व्याकरण पुनरावृत्ति (Anki डेक्स द्वारा) (प्रतिदिन 20–40 मिनट)
         \- Vocab Pāli Class
         \- Grammar Pāli Class
-3. Weekly student meeting (1h / class)
-4. How to use digital tools
-5. Extra Reading for those who want to broaden and deepen their understanding.
+3. साप्ताहिक छात्र बैठक (प्रति कक्षा 1 घंटा)
+4. डिजिटल उपकरणों का उपयोग
+5. समझ को गहरा करने के लिए अतिरिक्त वाचन (Extra Reading)।
 6. Be up-to-date.
 
 [^1]: Meant a humorous element. The Pāli course was offered originally to the Bhikkhu Saṅgha, who ideally go forth from home to homelessness (agārasmā anāgāriyaṃ pabbajanti).
 
-## Skills you need to develop {: #skills-you-need-to-develop}
+## विकास के लिए आवश्यक कौशल {: #skills-you-need-to-develop}
 
-1.  pronunciation
-2.  grammar
-3.  vocabulary
-4.  reading & chanting
-5.  (writing)
-6.  (speaking)
-7.  (listening)
-8.  (thinking)
+1.  उच्चारण (pronunciation)
+2.  व्याकरण (grammar)
+3.  शब्दावली (vocabulary)
+4.  वाचन एवं पाठ/सज्झायन (reading & chanting)
+5.  (लेखन)
+6.  (भाषण)
+7.  (श्रवण)
+8.  (चिंतन)
 
-## How to set up basic digital tools {: #how-to-set-up-basic-digital-tools}
+## बुनियादी डिजिटल उपकरण सेट करना {: #how-to-set-up-basic-digital-tools}
 
-1. Golden Dictionary (MDict / DictTango)
+1. गोल्डन डिक्शनरी (MDict / DictTango)
     - [DPD](https://dpdict.net) (Digital Pāli Dictionary)
     - [Anki](https://docs.ankiweb.net/)
 
-2. [Basic Anki Decks](../../anki/index.md):
+2. [बुनियादी अंकी डेक्स](../../anki/index.md):
     - Vocab Pāli Class
     - Grammar Pāli Class
 
-3. Additional Anki Decks:
+3. अतिरिक्त अंकी डेक्स:
     - [SBS Pāli English Recitations](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
-    - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
-    - [The Buddha’s Words](http://filesrv1:8083/home/index.html)
+    - [पातिमोक्ख Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
+    - [बुद्धवचन (The Buddha’s Words)](http://filesrv1:8083/home/index.html)
 
-## Homeless work
+## अनगारिक कार्य (Homeless work)
 
-1.  Set up digital tools for yourself (and help your classmates)
-2.  Learn the basic Buddhist vocabulary from class 1 using Anki Deck “Vocab Pāli Class”
-3.  Learn abbreviations from “Grammar Pāli Class”
+1.  अपने लिए डिजिटल उपकरण स्थापित करें (और सहपाठियों की सहायता करें)
+2.  "Vocab Pāli Class" अंकी डेक का उपयोग करके कक्षा 1 की बुनियादी बौद्ध शब्दावली सीखें
+3.  "Grammar Pāli Class" से संक्षेपाक्षर (abbreviations) सीखें
 
-Optional:
--   Find 2-3 of your favorites and most inspiring sentences from the Tipiṭaka Pāli
+ऐच्छिक (Optional):
+-   तिपिटक पालि से अपने 2–3 पसंदीदा और प्रेरणादायक वाक्य खोजें
 
 
