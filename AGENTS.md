@@ -19,6 +19,7 @@ This project contains materials for Pāḷi language courses, specifically the D
 - `docs/ipc/`: Intermediate Pāḷi Course materials.
 - `docs/ipc_ex/`: Intermediate Pāḷi Course exercises.
 - `docs/ipc_key/`: Intermediate Pāḷi Course keys.
+- `docs/bpc_hi/`, `docs/bpc_hi_ex/`, `docs/bpc_hi_key/`: Hindi BPC translation (in progress, unpublished). See `kamma/tech.md` → Multi-language support.
 
 ## GitHub (upstream repository)
 - Unless otherwise specified the repository in question is https://github.com/digitalpalidictionary/dpd-pali-courses.
@@ -30,7 +31,7 @@ If a script is intended to be run regularly (e.g., generators, verifiers, cleanu
 All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immediately after creation.
 
 ## Output & Debugging
-- Use `tools/printer.py` for all script output: `pr.green("task")` → `pr.yes("ok")` on success, `pr.no(f"{n} files")` + `pr.warning(f)` per item on failure. No bare `print()`. Shell scripts have no `echo` step labels.
+- Use `tools/printer.py` for all script output: `pr.green_tmr("task")` → `pr.yes("ok")` on success (`green_tmr` keeps "ok" and the timing on the same line; plain `pr.green` adds a newline and never starts the timer), `pr.no(f"{n} files")` + `pr.amber(f)` per item on failure. Collect per-item warnings during the step and print them after `pr.yes`/`pr.no`, never between `green_tmr` and the result. No bare `print()`. Shell scripts have no `echo` step labels.
 - Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
 
 ## Useful Links

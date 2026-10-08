@@ -56,8 +56,9 @@ def main():
         pr.amber(f"No .md files found in {args.dir}")
         return
 
-    pr.green(f"Comparing {len(md_files)} files vs {args.commit[:8]}")
+    pr.green_tmr(f"Comparing {len(md_files)} files vs {args.commit[:8]}")
     files_with_losses = 0
+    warnings = []
 
     for file_path in md_files:
         old_content = get_old_content(file_path, args.commit)
@@ -68,7 +69,7 @@ def main():
             with open(file_path, 'r', encoding='utf-8') as f:
                 new_content = f.read()
         except Exception as e:
-            pr.amber(f"Error reading {file_path}: {e}")
+            warnings.append(f"Error reading {file_path}: {e}")
             continue
 
         old_tokens = get_tokens(old_content)
@@ -88,18 +89,20 @@ def main():
 
         if missing_phrases:
             files_with_losses += 1
-            pr.amber(f"[DATA LOSS] {file_path}: {len(missing_phrases)} phrases missing")
+            warnings.append(f"[DATA LOSS] {file_path}: {len(missing_phrases)} phrases missing")
             phrases = missing_phrases if args.verbose else missing_phrases[:5]
             for mp in phrases:
                 display_mp = mp if len(mp) < 60 else mp[:57] + "..."
-                pr.amber(f"  '{display_mp}'")
+                warnings.append(f"  '{display_mp}'")
             if not args.verbose and len(missing_phrases) > 5:
-                pr.amber(f"  ... and {len(missing_phrases)-5} more phrases.")
+                warnings.append(f"  ... and {len(missing_phrases)-5} more phrases.")
 
     if files_with_losses == 0:
         pr.yes("ok")
     else:
         pr.no(f"{files_with_losses} files with data loss")
+    for w in warnings:
+        pr.amber(w)
 
 if __name__ == "__main__":
     main()

@@ -50,12 +50,13 @@ def get_html_numbering(html_path):
 def verify_file_strict(md_rel_path, pdf_text_compact):
     """
     STRICTLY verifies numbering by searching for markers in the FINAL PDF text.
+    Returns a list of problems; empty means the file passed.
     """
     docs_dir = "docs"
     md_path = os.path.join(docs_dir, md_rel_path)
     md_data = get_md_numbering(md_path)
     
-    status = True
+    problems = []
     
     # Check Lists
     if md_data['lists']:
@@ -71,8 +72,7 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing.append(n)
         
         if missing:
-            pr.amber(f"{md_rel_path}: missing list markers {missing[:10]}")
-            status = False
+            problems.append(f"{md_rel_path}: missing list markers {missing[:10]}")
 
     # Check Footnotes
     if md_data['footnotes']:
@@ -84,27 +84,27 @@ def verify_file_strict(md_rel_path, pdf_text_compact):
                 missing_fn.append(n)
 
         if missing_fn:
-            pr.amber(f"{md_rel_path}: missing footnote markers {missing_fn}")
-            status = False
+            problems.append(f"{md_rel_path}: missing footnote markers {missing_fn}")
 
-    return status
+    return problems
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--file", help="Specific MD file")
     parser.parse_args()
 
-    pr.green("Verifying numbering")
+    pr.green_tmr("Verifying numbering")
     # Pre-extract FULL PDF text for verification
     pdf_texts = {}
-    for pdf_name in ['bpc.pdf', 'bpc_ex.pdf', 'bpc_key.pdf', 'ipc.pdf', 'ipc_ex.pdf', 'ipc_key.pdf']:
+    warnings = []
+    for pdf_name in ['bpc.pdf', 'bpc_ex.pdf', 'bpc_key.pdf', 'bpc_hi.pdf', 'bpc_hi_ex.pdf', 'bpc_hi_key.pdf', 'ipc.pdf', 'ipc_ex.pdf', 'ipc_key.pdf']:
         path = os.path.join("pdf_exports", pdf_name)
         if not os.path.exists(path):
             continue
         folder_name = pdf_name.split('.')[0]
         md_files = glob.glob(f"docs/{folder_name}/**/*.md", recursive=True)
         if md_files and max(os.path.getmtime(f) for f in md_files) > os.path.getmtime(path):
-            pr.amber(f"{pdf_name}: older than source — regenerate to verify")
+            warnings.append(f"{pdf_name}: older than source — regenerate to verify")
             continue
         raw = pdf_extract_text(path)
         # Remove whitespace but KEEP numbers and dots
@@ -128,14 +128,19 @@ def main():
             content = file.read()
             if '[^' in content or re.search(r'^\s*\d+\.\s+', content, re.MULTILINE):
                 total_files += 1
-                if not verify_file_strict(rel, pdf_text):
+                problems = verify_file_strict(rel, pdf_text)
+                if problems:
                     failed_files += 1
+                    warnings.extend(problems)
 
     if failed_files > 0:
         pr.no(f"{failed_files}/{total_files} failures")
-        exit(1)
     else:
         pr.yes("ok")
+    for w in warnings:
+        pr.amber(w)
+    if failed_files > 0:
+        exit(1)
 
 if __name__ == "__main__":
     main()

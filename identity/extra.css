@@ -381,6 +381,7 @@ img[src*="pacman"], img[src*="arrow"] {
 
     /* Exercise PDFs: left-align all table text (overrides global center alignment) */
     body.bpc_ex table td, body.bpc_ex table th,
+    body.bpc_hi_ex table td, body.bpc_hi_ex table th,
     body.ipc_ex table td, body.ipc_ex table th {
         text-align: left !important;
     }
@@ -388,6 +389,7 @@ img[src*="pacman"], img[src*="arrow"] {
 
     /* ex/key PDFs: allow tables to flow freely — no forced new-page behaviour */
     body.bpc_ex table, body.bpc_key table,
+    body.bpc_hi_ex table, body.bpc_hi_key table,
     body.ipc_ex table, body.ipc_key table {
         break-inside: auto;
         break-before: auto;

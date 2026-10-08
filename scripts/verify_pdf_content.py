@@ -66,7 +66,7 @@ def main():
     args = parser.parse_args()
     
     if args.pdf and args.md:
-        pr.green(f"Verifying {os.path.basename(args.pdf)}")
+        pr.green_tmr(f"Verifying {os.path.basename(args.pdf)}")
         missing = verify_content(args.pdf, [args.md])
         if not missing:
             pr.yes("ok")
@@ -80,13 +80,16 @@ def main():
         'bpc.pdf': ['docs/bpc', 'docs/about.md', 'docs/literature.md'],
         'bpc_ex.pdf': ['docs/bpc_ex'],
         'bpc_key.pdf': ['docs/bpc_key'],
+        'bpc_hi.pdf': ['docs/bpc_hi', 'docs/about.md', 'docs/literature.md'],
+        'bpc_hi_ex.pdf': ['docs/bpc_hi_ex'],
+        'bpc_hi_key.pdf': ['docs/bpc_hi_key'],
         'ipc.pdf': ['docs/ipc', 'docs/about.md', 'docs/literature.md'],
         'ipc_ex.pdf': ['docs/ipc_ex'],
         'ipc_key.pdf': ['docs/ipc_key'],
     }
     
-    pr.green("Verifying PDF content")
-    overall_passed = True
+    pr.green_tmr("Verifying PDF content")
+    warnings = []
     for pdf_name, source_dirs in volumes.items():
         pdf_path = os.path.join(args.pdf_dir, pdf_name)
         if not os.path.exists(pdf_path):
@@ -108,13 +111,13 @@ def main():
         missing = verify_content(pdf_path, md_files)
 
         if missing:
-            pr.amber(f"{pdf_name}: {len(missing)} words missing")
-            for m in missing[:10]:
-                pr.amber(f"  {m}")
-            overall_passed = False
+            warnings.append(f"{pdf_name}: {len(missing)} words missing")
+            warnings.extend(f"  {m}" for m in missing[:10])
 
-    if not overall_passed:
+    if warnings:
         pr.no("failures found")
+        for w in warnings:
+            pr.amber(w)
         exit(1)
     else:
         pr.yes("ok")

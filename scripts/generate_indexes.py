@@ -76,7 +76,7 @@ def should_skip_in_main_index(heading, filename):
 def get_all_pages(paths: SSGPaths):
     """Returns a flat list of all relevant pages in order, including class indexes."""
     all_pages = []
-    sections = ["bpc", "ipc", "bpc_ex", "ipc_ex", "bpc_key", "ipc_key"]
+    sections = ["bpc", "ipc", "bpc_ex", "ipc_ex", "bpc_key", "ipc_key", "bpc_hi", "bpc_hi_ex", "bpc_hi_key"]
     for section in sections:
         section_path = paths.docs_dir / section
         if not section_path.exists():
@@ -152,7 +152,8 @@ def generate_section_index(section_path, title):
             for f in files:
                 topic_heading = get_first_heading(f)
                 if topic_heading and not should_skip_in_main_index(topic_heading, f.name):
-                    rel_path = f.relative_to(section_path)
+                    # as_posix: markdown links need '/' even when run on Windows
+                    rel_path = f.relative_to(section_path).as_posix()
                     content.append(f"- [{topic_heading}]({rel_path})")
             content.append("")
             generate_class_index(subdir, class_label)
@@ -162,7 +163,7 @@ def generate_section_index(section_path, title):
             heading = get_first_heading(f)
             if heading:
                 content.append(f"- [{heading}]({f.name})")
-    with open(index_path, "w", encoding="utf-8") as f:
+    with open(index_path, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(content))
 
 def generate_class_index(class_path, class_title):
@@ -175,11 +176,11 @@ def generate_class_index(class_path, class_title):
         heading = get_first_heading(f)
         if heading:
             content.append(f"- [{heading}]({f.name})")
-    with open(index_path, "w", encoding="utf-8") as f:
+    with open(index_path, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(content))
 
 def main(paths=None):
-    pr.green("Generating index pages")
+    pr.green_tmr("Generating index pages")
     if paths is None:
         paths = SSGPaths()
     sections = {
@@ -188,7 +189,10 @@ def main(paths=None):
         "bpc_ex": "BPC Exercises",
         "bpc_key": "BPC Keys",
         "ipc_ex": "IPC Exercises",
-        "ipc_key": "IPC Keys"
+        "ipc_key": "IPC Keys",
+        "bpc_hi": "Content (BPC Hindi)",
+        "bpc_hi_ex": "BPC Hindi Exercises",
+        "bpc_hi_key": "BPC Hindi Keys"
     }
     for folder, title in sections.items():
         section_path = paths.docs_dir / folder

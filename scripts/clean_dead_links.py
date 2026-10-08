@@ -58,7 +58,7 @@ def clean_dead_links_in_file(file_path: Path):
     return False
 
 def main():
-    pr.green("Cleaning dead links")
+    pr.green_tmr("Cleaning dead links")
     docs_dir = Path('docs').resolve()
     count = 0
 

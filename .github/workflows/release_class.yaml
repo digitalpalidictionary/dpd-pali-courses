@@ -2,8 +2,14 @@ name: Generate and Release Documents
 
 on:
   push:
+    # main only: translators push to the hindi branch, which must not cut public releases
+    branches:
+      - main
     paths:
       - "docs/**"
+      - "!docs/bpc_hi/**"
+      - "!docs/bpc_hi_ex/**"
+      - "!docs/bpc_hi_key/**"
   workflow_dispatch:
 
 jobs:

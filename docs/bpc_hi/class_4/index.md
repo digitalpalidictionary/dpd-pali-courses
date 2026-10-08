@@ -1,0 +1,15 @@
+# Class 4
+
+- [Review](1_review.md)
+- [How to use DPR](2_dpr_tpr.md)
+- [Different systems of root groups](3_var_root_group.md)
+- [avuddhika / guṇa / vuḍḍhi](4_vuddhi.md)
+- [Root Group 2 - rudhādigaṇa](5_root_2.md)
+- [Root Group 3 – divādigaṇa](6_root_3.md)
+- [Some Basic Sandhi – The Assimilation of the Letter y](7_basic_assim.md)
+- [Root Group 7 – tanādigaṇa](8_root_7.md)
+- [Masculine Noun ending in -i](9_masc_i.md)
+- [The Aorist or Past Tense (ajjatanī)](10_aor.md)
+- [Irregular verb √as (be)](11_root_as.md)
+- [Irregular verb √hū (be)](12_root_huu.md)
+- [Homeless work](13_home_work.md)

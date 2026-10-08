@@ -52,7 +52,7 @@ def _is_line_def(content: str, pos: int, end: int) -> bool:
     return bool(re.match(r'^[\s*_]*$', prefix)) and content[end:end + 1] == ':'
 
 
-def renumber_footnotes_in_files(files: list[str], dry_run: bool = False) -> int:
+def renumber_footnotes_in_files(files: list[str], warnings: list[str], dry_run: bool = False) -> int:
     # Counter persists across all files in this folder so numbering is globally unique.
     global_counter = 1
     total_changed = 0
@@ -86,7 +86,7 @@ def renumber_footnotes_in_files(files: list[str], dry_run: bool = False) -> int:
 
         for old_num, new_nums in occurrence_map.items():
             if len(new_nums) > 1:
-                pr.amber(f"Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
+                warnings.append(f"Duplicate [^{old_num}] in {file_path} — split into {new_nums}")
 
         # Single-pass replacement: refs and defs tracked separately by occurrence index.
         # The Nth definition of a given number pairs with the Nth reference of that number.
@@ -119,20 +119,23 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true", help="Print what would be changed.")
     args = parser.parse_args()
 
-    pr.green("Renumbering footnotes")
-    target_dirs = ['docs/bpc', 'docs/ipc', 'docs/bpc_ex', 'docs/ipc_ex', 'docs/bpc_key', 'docs/ipc_key']
+    pr.green_tmr("Renumbering footnotes")
+    target_dirs = ['docs/bpc', 'docs/ipc', 'docs/bpc_ex', 'docs/ipc_ex', 'docs/bpc_key', 'docs/ipc_key', 'docs/bpc_hi', 'docs/bpc_hi_ex', 'docs/bpc_hi_key']
 
     total_changed = 0
+    warnings: list[str] = []
     for d in target_dirs:
         if not os.path.exists(d):
             continue
         ordered_files = get_ordered_files_for_folder(d)
-        total_changed += renumber_footnotes_in_files(ordered_files, dry_run=args.dry_run)
+        total_changed += renumber_footnotes_in_files(ordered_files, warnings, dry_run=args.dry_run)
 
     if total_changed:
         pr.yes(f"{total_changed} files")
     else:
         pr.yes("ok")
+    for w in warnings:
+        pr.amber(w)
 
 
 if __name__ == "__main__":

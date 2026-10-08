@@ -53,7 +53,7 @@ def download_google_doc(doc_id, base_filename, export_format, download_to_dir):
     output_filepath = os.path.join(download_to_dir, output_filename)
     export_url = f"https://docs.google.com/document/d/{doc_id}/export?format={export_format}"
 
-    pr.green(f"Downloading {output_filename}")
+    pr.green_tmr(f"Downloading {output_filename}")
     try:
         response = requests.get(export_url, stream=True)
         response.raise_for_status()
@@ -70,15 +70,18 @@ def download_google_doc(doc_id, base_filename, export_format, download_to_dir):
 def create_zip_archive(file_paths, zip_filename, archive_base_dir):
     """Creates a ZIP archive from a list of file paths."""
     zip_filepath = os.path.join(archive_base_dir, zip_filename)
-    pr.green(f"Creating {zip_filename}")
+    pr.green_tmr(f"Creating {zip_filename}")
+    skipped = []
     try:
         with zipfile.ZipFile(zip_filepath, 'w', zipfile.ZIP_DEFLATED) as zf:
             for file_path in file_paths:
                 if file_path and os.path.exists(file_path):
                     zf.write(file_path, arcname=os.path.basename(file_path))
                 else:
-                    pr.amber(f"File not found, skipping: {file_path}")
+                    skipped.append(file_path)
         pr.yes("ok")
+        for file_path in skipped:
+            pr.amber(f"File not found, skipping: {file_path}")
         return zip_filepath
     except Exception as e:
         pr.no("failed")
@@ -124,7 +127,7 @@ def process_course_documents(course_docs_info, course_name_prefix, output_dir):
 
 def add_reference_files_to_zips(archive_base_dir: str):
     """Appends reference PDF/DOCX files (if present) to all 4 course zip archives."""
-    pr.green("reference files")
+    pr.green_tmr("reference files")
     
     reference_pdf_files = [
         ("pdf_exports/vocab.pdf", "vocab.pdf"),
@@ -143,6 +146,7 @@ def add_reference_files_to_zips(archive_base_dir: str):
     ]
     
     any_added = False
+    errors = []
     for zip_name, ref_files in zip_files:
         zip_path = os.path.join(archive_base_dir, zip_name)
         if not os.path.exists(zip_path):
@@ -157,12 +161,14 @@ def add_reference_files_to_zips(archive_base_dir: str):
                         zf.write(src, arcname=arcname)
                         any_added = True
         except Exception as e:
-            pr.amber(f"Error adding reference files to {zip_name}: {e}")
+            errors.append(f"Error adding reference files to {zip_name}: {e}")
             
     if any_added:
         pr.yes("ok")
     else:
         pr.no("none added")
+    for err in errors:
+        pr.amber(err)
 
 def main():
     os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)

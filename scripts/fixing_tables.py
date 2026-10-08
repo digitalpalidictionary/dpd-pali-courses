@@ -2,6 +2,7 @@
 
 import re
 import glob
+import os
 from tools.printer import printer as pr
 
 def normalize_cell_padding(line: str) -> str:
@@ -83,8 +84,10 @@ def process_file(filepath: str) -> bool:
 
 
 def main() -> None:
-    pr.green("Fixing tables and formatting")
-    files = sorted(glob.glob("docs/**/*.md", recursive=True))
+    pr.green_tmr("Fixing tables and formatting")
+    # docs/generated/ is written by the dpd-db exporter; rewriting its cell padding
+    # here only creates diffs that the next export reverts.
+    files = sorted(f for f in glob.glob("docs/**/*.md", recursive=True) if not f.startswith(os.path.join("docs", "generated")))
     count = 0
     for filepath in files:
         if process_file(filepath):

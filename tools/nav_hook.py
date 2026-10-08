@@ -3,7 +3,6 @@
 MkDocs hook to automatically generate navigation buttons (Prev, Next, Exercises, Feedback).
 Allows removal of hardcoded navigation HTML from Markdown source files.
 """
-import os
 import re
 from mkdocs.utils import get_relative_url
 
@@ -55,6 +54,12 @@ def on_post_page(output, page, config):
         ex_url = get_relative_url(f"bpc_ex/{class_num}_class/", page.url)
         nav_html += f'  <div class="cross"><a href="{ex_url}">Go to Exercises</a></div>\n'
     
+    match_hi = re.search(r'bpc_hi/class_(\d+)', page.file.src_path)
+    if match_hi:
+        class_num = match_hi.group(1)
+        ex_url = get_relative_url(f"bpc_hi_ex/{class_num}_class/", page.url)
+        nav_html += f'  <div class="cross"><a href="{ex_url}">Go to Exercises</a></div>\n'
+
     match_ipc = re.search(r'ipc/class_(\d+)', page.file.src_path)
     if match_ipc:
         class_num = match_ipc.group(1)

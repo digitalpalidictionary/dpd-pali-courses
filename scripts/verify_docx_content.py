@@ -22,10 +22,10 @@ def get_docx_text(path):
     return "\n".join(full_text)
 
 def verify_docx(docx_path, original_md_paths):
-    """Verifies that the docx contains content from all original markdown files."""
+    """Verifies that the docx contains content from all original markdown files.
+    Returns a list of problems; empty means the docx passed."""
     if not os.path.exists(docx_path):
-        pr.amber(f"{docx_path} not found.")
-        return False
+        return [f"{docx_path} not found."]
         
     docx_text = get_docx_text(docx_path)
     # Basic cleaning of docx text for comparison
@@ -74,11 +74,7 @@ def verify_docx(docx_path, original_md_paths):
             if not found and candidates:
                 missing_files.append(md_path)
                 
-    if missing_files:
-        for f in missing_files:
-            pr.amber(f"{os.path.basename(docx_path)}: missing content from {f}")
-        return False
-    return True
+    return [f"{os.path.basename(docx_path)}: missing content from {f}" for f in missing_files]
 
 def main():
     docs_dir = "docs"
@@ -101,9 +97,9 @@ def main():
                 extract_nav(v, base_dir, file_list)
 
     all_files = []
-    extract_nav(config.get("nav", []), docs_dir, all_files)
-    
-    folders = ['bpc', 'bpc_ex', 'bpc_key', 'ipc', 'ipc_ex', 'ipc_key']
+    extract_nav(config.get("nav", []) + config.get("extra", {}).get("unpublished_nav", []), docs_dir, all_files)
+
+    folders = ['bpc', 'bpc_ex', 'bpc_key', 'bpc_hi', 'bpc_hi_ex', 'bpc_hi_key', 'ipc', 'ipc_ex', 'ipc_key']
     f_by_dir = {f: [] for f in folders}
     
     for file_path in all_files:
@@ -116,18 +112,19 @@ def main():
                 continue
             f_by_dir[folder].append(file_path)
             
-    pr.green("Verifying DOCX content")
-    all_success = True
+    pr.green_tmr("Verifying DOCX content")
+    problems = []
     for folder, files in f_by_dir.items():
         docx_path = os.path.join(docx_dir, f"{folder}.docx")
         if os.path.exists(docx_path):
-            if not verify_docx(docx_path, files):
-                all_success = False
+            problems.extend(verify_docx(docx_path, files))
 
-    if all_success:
+    if not problems:
         pr.yes("ok")
     else:
-        pr.no("failures found")
+        pr.no(f"{len(problems)} failures")
+        for p in problems:
+            pr.amber(p)
         sys.exit(1)
 
 if __name__ == '__main__':

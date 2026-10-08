@@ -34,3 +34,42 @@ body {
     font-variant-ligatures: none;
     font-feature-settings: "liga" 0, "clig" 0;
 }
+
+/* Noto Sans Devanagari static fonts for Hindi translations (bpc_hi etc.).
+   Inter has no Devanagari glyphs; without these WeasyPrint renders blanks.
+   Devanagari has no true italics — regular is registered for italic too so
+   faux-italic contexts fall back cleanly instead of dropping glyphs.
+   unicode-range keeps the font to Devanagari: the TTF also carries ASCII digits
+   and punctuation, which otherwise render in Noto whenever Inter is missing (CI). */
+
+@font-face {
+    font-family: "Noto Sans Devanagari";
+    src: url("fonts/NotoSansDevanagari-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D, U+25CC;
+}
+
+@font-face {
+    font-family: "Noto Sans Devanagari";
+    src: url("fonts/NotoSansDevanagari-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D, U+25CC;
+}
+
+@font-face {
+    font-family: "Noto Sans Devanagari";
+    src: url("fonts/NotoSansDevanagari-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D, U+25CC;
+}
+
+@font-face {
+    font-family: "Noto Sans Devanagari";
+    src: url("fonts/NotoSansDevanagari-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D, U+25CC;
+}

@@ -24,6 +24,9 @@ FOLDER_NAMES = {
     'bpc': 'Beginner Pāḷi Course (BPC)',
     'bpc_ex': 'Beginner Pāḷi Course (BPC) - Exercises',
     'bpc_key': 'Beginner Pāḷi Course (BPC) - Answer Key',
+    'bpc_hi': 'Beginner Pāḷi Course (BPC) - Hindi',
+    'bpc_hi_ex': 'Beginner Pāḷi Course (BPC) - Hindi Exercises',
+    'bpc_hi_key': 'Beginner Pāḷi Course (BPC) - Hindi Answer Key',
     'ipc': 'Intermediate Pāḷi Course (IPC)',
     'ipc_ex': 'Intermediate Pāḷi Course (IPC) - Exercises',
     'ipc_key': 'Intermediate Pāḷi Course (IPC) - Answer Key',
@@ -114,7 +117,7 @@ def aggregate_markdown(title: str, files_data: list[tuple[str, str]], folder: st
     if folder.endswith(('_ex', '_key')):
         aggregated += build_manual_toc(files_data) + PAGEBREAK
 
-    needs_file_pagebreaks = folder in ('bpc', 'ipc') or folder.endswith(('_ex', '_key'))
+    needs_file_pagebreaks = folder in ('bpc', 'ipc', 'bpc_hi') or folder.endswith(('_ex', '_key'))
     is_ex = folder.endswith('_ex')
 
     for i, (file_path, content) in enumerate(files_data):
@@ -193,9 +196,9 @@ def get_markdown_files(docs_dir: str) -> dict[str, list[str]]:
                 extract_nav(v, base_dir, file_list)
 
     all_files: list[str] = []
-    extract_nav(config.get("nav", []), docs_dir, all_files)
+    extract_nav(config.get("nav", []) + config.get("extra", {}).get("unpublished_nav", []), docs_dir, all_files)
 
-    folders = ['bpc', 'bpc_ex', 'bpc_key', 'ipc', 'ipc_ex', 'ipc_key']
+    folders = ['bpc', 'bpc_ex', 'bpc_key', 'bpc_hi', 'bpc_hi_ex', 'bpc_hi_key', 'ipc', 'ipc_ex', 'ipc_key']
     f_by_dir: dict[str, list[str]] = {f: [] for f in folders}
 
     for file_path in all_files:
@@ -249,7 +252,7 @@ def generate_reference_docx(docs_dir: str, output_dir: str, target: str | None =
 
     # 1. Vocab DOCX
     if not target or target == "vocab":
-        pr.green("vocab docx")
+        pr.green_tmr("vocab docx")
         vocab_files = sorted(Path(docs_dir).joinpath("generated/vocab").glob("class-*.md"))
         if vocab_files:
             combined_md = ""
@@ -280,7 +283,7 @@ def generate_reference_docx(docs_dir: str, output_dir: str, target: str | None =
 
     # 2. Abbreviations DOCX
     if not target or target == "abbreviations":
-        pr.green("abbrev docx")
+        pr.green_tmr("abbrev docx")
         abbrev_file = Path(docs_dir) / "generated/abbreviations.md"
         if abbrev_file.exists():
             with open(abbrev_file, "r", encoding="utf-8") as f:
@@ -328,7 +331,7 @@ def main() -> None:
             if args.folder and fld != args.folder:
                 continue
 
-            pr.green(f"Generating {fld}")
+            pr.green_tmr(f"Generating {fld}")
             data = []
             for file_path in files:
                 # _ex and _key: skip folder-level index.md (it's a navigation list, not content)
@@ -342,8 +345,8 @@ def main() -> None:
                 title,
                 data,
                 folder=fld,
-                about_content=about_c if fld in ('bpc', 'ipc') else "",
-                lit_content=lit_c if fld in ('bpc', 'ipc') else ""
+                about_content=about_c if fld in ('bpc', 'ipc', 'bpc_hi') else "",
+                lit_content=lit_c if fld in ('bpc', 'ipc', 'bpc_hi') else ""
             )
 
             output_file = os.path.join(output_dir, f"{fld}.docx")

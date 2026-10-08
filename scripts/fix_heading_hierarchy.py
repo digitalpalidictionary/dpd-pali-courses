@@ -53,7 +53,7 @@ def process_file(filepath: str) -> bool:
 
 
 def main() -> None:
-    pr.green("Fixing heading hierarchy")
+    pr.green_tmr("Fixing heading hierarchy")
     files = sorted(glob.glob("docs/**/*.md", recursive=True))
     count = 0
     for filepath in files:

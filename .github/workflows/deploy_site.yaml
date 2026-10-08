@@ -6,10 +6,13 @@ on:
       - main
     paths:
       - 'docs/**'
-      - 'mkdocs.yaml'
       - '.github/workflows/deploy_site.yaml'
       - 'identity/**'
       - 'scripts/**'
+      # Hindi is excluded from the site until published (see kamma/tech.md)
+      - '!docs/bpc_hi/**'
+      - '!docs/bpc_hi_ex/**'
+      - '!docs/bpc_hi_key/**'
   workflow_dispatch:
 
 jobs:

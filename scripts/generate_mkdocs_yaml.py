@@ -3,6 +3,7 @@ Helper script to update mkdocs.yaml based on course folder structure.
 Automatically generates the navigation section using headings from Markdown files.
 """
 import os
+import posixpath
 import re
 import yaml
 
@@ -33,22 +34,24 @@ def get_files_sorted(directory):
         return (1, f)
     return sorted(files, key=sort_key)
 
+# Nav paths must use '/' on every OS: os.path.join gives backslashes on Windows,
+# which breaks the 'docs/' strip and the generated mkdocs.yaml.
 def build_class_nav(base_dir):
-    folders = sorted([d for d in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, d)) and d.startswith('class_')], 
+    folders = sorted([d for d in os.listdir(base_dir) if os.path.isdir(posixpath.join(base_dir, d)) and d.startswith('class_')], 
                      key=lambda x: int(x.split('_')[1]) if x.split('_')[1].isdigit() else 0)
     nav = []
-    section_index = os.path.join(base_dir, 'index.md').replace('docs/', '')
-    if os.path.exists(os.path.join('docs', section_index)):
+    section_index = posixpath.join(base_dir, 'index.md').replace('docs/', '')
+    if os.path.exists(posixpath.join('docs', section_index)):
         nav.append({'Lessons Index': section_index})
 
     for folder in folders:
-        folder_path = os.path.join(base_dir, folder)
+        folder_path = posixpath.join(base_dir, folder)
         items = []
-        index_path = os.path.join(folder_path, 'index.md')
+        index_path = posixpath.join(folder_path, 'index.md')
         if os.path.exists(index_path):
             items.append({'Index': index_path.replace('docs/', '')})
         for f in get_files_sorted(folder_path):
-            file_path = os.path.join(folder_path, f)
+            file_path = posixpath.join(folder_path, f)
             h = get_first_heading(file_path)
             items.append({(h if h else f.replace('.md', '').title()): file_path.replace('docs/', '')})
         if len(items) == 1:
@@ -59,11 +62,11 @@ def build_class_nav(base_dir):
 
 def build_file_nav(directory):
     nav = []
-    index_path = os.path.join(directory, 'index.md')
+    index_path = posixpath.join(directory, 'index.md')
     if os.path.exists(index_path):
         nav.append({'Index': index_path.replace('docs/', '')})
     for f in get_files_sorted(directory):
-        file_path = os.path.join(directory, f)
+        file_path = posixpath.join(directory, f)
         h = get_first_heading(file_path)
         nav.append({(h if h else f.replace('.md', '').title()): file_path.replace('docs/', '')})
     return nav
@@ -86,7 +89,7 @@ def build_reference_nav():
     vocab_dir = 'docs/generated/vocab'
     if os.path.exists(vocab_dir):
         vocab_items = []
-        index_path = os.path.join(vocab_dir, 'index.md')
+        index_path = posixpath.join(vocab_dir, 'index.md')
         if os.path.exists(index_path):
             vocab_items.append({'Vocabulary Index': 'generated/vocab/index.md'})
         
@@ -165,10 +168,19 @@ config = {
         {'Study Tools': [{'Anki Decks': build_anki_nav()}]},
         {'Reference': build_reference_nav()}
     ],
-    'plugins': ['search']
+    'plugins': ['search'],
+    # Translations stay off the website until finished. The PDF/DOCX scripts
+    # still read 'unpublished_nav' for file order, so drafts can be built locally.
+    # To publish: move the entry into 'nav' and drop its 'exclude_docs' pattern.
+    'exclude_docs': '/bpc_hi/\n/bpc_hi_ex/\n/bpc_hi_key/\n',
+    'extra': {
+        'unpublished_nav': [
+            {'Beginner Course Hindi (BPC-HI)': [{'Lessons': build_class_nav('docs/bpc_hi')}, {'Exercises': build_file_nav('docs/bpc_hi_ex')}, {'Answer Keys': build_file_nav('docs/bpc_hi_key')}]},
+        ]
+    }
 }
 
-pr.green("Generating mkdocs.yaml")
-with open('mkdocs.yaml', 'w', encoding='utf-8') as f:
+pr.green_tmr("Generating mkdocs.yaml")
+with open('mkdocs.yaml', 'w', encoding='utf-8', newline='\n') as f:
     yaml.dump(config, f, sort_keys=False, allow_unicode=True)
 pr.yes("ok")

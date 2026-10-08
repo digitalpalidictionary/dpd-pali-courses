@@ -50,8 +50,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print what would be changed without modifying files.")
     args = parser.parse_args()
 
-    pr.green("Checking sentence numbering")
-    target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key']
+    pr.green_tmr("Checking sentence numbering")
+    target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key', 'docs/bpc_hi_ex', 'docs/bpc_hi_key']
     count = 0
     for d in target_dirs:
         if not os.path.exists(d):

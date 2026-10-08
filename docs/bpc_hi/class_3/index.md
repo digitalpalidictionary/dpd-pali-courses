@@ -1,0 +1,16 @@
+# Class 3
+
+- [Review](1_review.md)
+- [Conjugation of Verbs](2_conjug.md)
+- [Present Tense Verbs](3_preset.md)
+- [Imperative Verbs!](4_imper.md)
+- [Verbal roots (dhātu)](5_roots.md)
+- [Root Group 1 - bhūvādigaṇa](6_root_1.md)
+- [Root Group 4 - svādigaṇa](7_root_4.md)
+- [Root Group 5 - kiyādigaṇa](8_root_5.md)
+- [Root Group 6 - gahādigaṇa](9_root_6.md)
+- [Root Group 8 - curādigaṇa](10_root_8.md)
+- [Historical Present](11_histor_pr.md)
+- [Some things that will help you when doing the exercises](12_help_with_ex.md)
+- [Some tricky bases](13_tricky_base.md)
+- [Homeless work](14_home_work.md)

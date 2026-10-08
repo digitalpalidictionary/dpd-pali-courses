@@ -1,0 +1,2 @@
+# Store text with LF so edits made on Windows don't rewrite whole files.
+* text=auto

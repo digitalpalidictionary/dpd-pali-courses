@@ -27,6 +27,9 @@ FOLDER_NAMES = {
     'bpc': 'Beginner Pāḷi Course (BPC)',
     'bpc_ex': 'Beginner Pāḷi Course (BPC) - Exercises',
     'bpc_key': 'Beginner Pāḷi Course (BPC) - Answer Key',
+    'bpc_hi': 'Beginner Pāḷi Course (BPC) - Hindi',
+    'bpc_hi_ex': 'Beginner Pāḷi Course (BPC) - Hindi Exercises',
+    'bpc_hi_key': 'Beginner Pāḷi Course (BPC) - Hindi Answer Key',
     'ipc': 'Intermediate Pāḷi Course (IPC)',
     'ipc_ex': 'Intermediate Pāḷi Course (IPC) - Exercises',
     'ipc_key': 'Intermediate Pāḷi Course (IPC) - Answer Key',
@@ -283,7 +286,8 @@ def resolve_image_paths(content: str, file_path: str) -> str:
     def replacer(match):
         alt, src = match.group(1), match.group(2)
         if not src.startswith('http') and not os.path.isabs(src):
-            src = os.path.normpath(os.path.join(file_dir, src))
+            # file:// URI, not a bare path: a Windows "C:\..." path reads as URL scheme "c:"
+            src = Path(os.path.normpath(os.path.join(file_dir, src))).as_uri()
         return f'![{alt}]({src})'
     return re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', replacer, content)
 
@@ -314,7 +318,7 @@ def build_html_document(title, files_data, title_md_content="", literature_md_co
         # Shift heading levels only for bpc/ipc which have a class→topic hierarchy.
         # ex/key folders have flat class files — their h1s stay at h1 so they appear
         # as top-level bookmarks alongside "Table of Contents".
-        if not is_idx and folder_type in ('bpc', 'ipc'):
+        if not is_idx and folder_type in ('bpc', 'ipc', 'bpc_hi'):
             topic_html = re.sub(r'<(/?)h([1-5])', lambda m: f'<{m.group(1)}h{int(m.group(2))+1}', topic_html)
         if is_idx:
             # Use parent dir + filename so class_1/index.md → class_1_index_md (not all "index_md")
@@ -341,7 +345,7 @@ def build_html_document(title, files_data, title_md_content="", literature_md_co
     
     full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
     full_body_html = post_process_html(full_body_html)
-    if folder_type in ('bpc_ex', 'ipc_ex'):
+    if folder_type in ('bpc_ex', 'ipc_ex', 'bpc_hi_ex'):
         full_body_html = equalize_table_columns(full_body_html)
 
     body_class = f' class="{folder_type}"' if folder_type else ""
@@ -364,8 +368,8 @@ def get_markdown_files(docs_dir: str):
             for k, v in item.items():
                 ext(v, d, files)
     all_files = []
-    ext(config.get("nav", []), docs_dir, all_files)
-    folders = ['bpc', 'bpc_ex', 'bpc_key', 'ipc', 'ipc_ex', 'ipc_key']
+    ext(config.get("nav", []) + config.get("extra", {}).get("unpublished_nav", []), docs_dir, all_files)
+    folders = ['bpc', 'bpc_ex', 'bpc_key', 'bpc_hi', 'bpc_hi_ex', 'bpc_hi_key', 'ipc', 'ipc_ex', 'ipc_key']
     f_by_dir = {f: [] for f in folders}
     for file_path in all_files:
         rel = os.path.relpath(file_path, docs_dir)
@@ -427,7 +431,7 @@ def generate_reference_pdfs(docs_dir: str, output_dir: str, css_paths: list[str]
 
     # 1. Vocab PDF
     if not target or target == "vocab":
-        pr.green("vocab pdf")
+        pr.green_tmr("vocab pdf")
         vocab_files = sorted(Path(docs_dir).joinpath("generated/vocab").glob("class-*.md"))
         if vocab_files:
             combined_html = ""
@@ -458,7 +462,7 @@ def generate_reference_pdfs(docs_dir: str, output_dir: str, css_paths: list[str]
 
     # 2. Abbreviations PDF
     if not target or target == "abbreviations":
-        pr.green("abbrev pdf")
+        pr.green_tmr("abbrev pdf")
         abbrev_file = Path(docs_dir) / "generated/abbreviations.md"
         if abbrev_file.exists():
             with open(abbrev_file, "r", encoding="utf-8") as f:
@@ -507,7 +511,7 @@ def main():
                 continue
             if not files:
                 continue
-            pr.green(f"Generating {fld}")
+            pr.green_tmr(f"Generating {fld}")
             data = []
             for file_path in files:
                 rel = os.path.relpath(file_path, docs_dir)
@@ -517,12 +521,12 @@ def main():
                     data.append((file_path, f.read()))
             ri_path = os.path.join(docs_dir, fld, "index.md")
             ri_c = ""
-            if fld in ['bpc', 'ipc'] and os.path.exists(ri_path):
+            if fld in ['bpc', 'ipc', 'bpc_hi'] and os.path.exists(ri_path):
                 with open(ri_path, "r", encoding="utf-8") as f:
                     ri_c = f.read()
 
             t_html_start = time.time()
-            html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc'] else "", lit_c if fld in ['bpc', 'ipc'] else "", fld, root_index_content=ri_c)
+            html = build_html_document(FOLDER_NAMES.get(fld, fld), data, title_c if fld in ['bpc', 'ipc', 'bpc_hi'] else "", lit_c if fld in ['bpc', 'ipc', 'bpc_hi'] else "", fld, root_index_content=ri_c)
             html_t = time.time() - t_html_start
 
             if args.html_only:
