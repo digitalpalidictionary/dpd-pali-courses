@@ -1,26 +1,26 @@
-# How to do the exercises
+# अभ्यास कैसे करें
 
-| **Pāli** | **POS** | **Grammar** | **English** | **2nd language[^4]** |
+| **Pāli** | **POS** | **Grammar** | **English** | **हिन्दी[^4]** |
 | --- | --- | --- | --- | --- |
-| purisassa | noun | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | человека |
-| goṇo | noun | masc.nom.sg | the ox | бык |
-| **the man’s ox**<br>**бык человека** |
+| purisassa | noun | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | मनुष्य का<br>मनुष्य के लिए |
+| goṇo | noun | masc.nom.sg | the ox | बैल |
+| **the man’s ox**<br>**मनुष्य का बैल** |
 
-[^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorize words.
+[^4]: यदि अंग्रेज़ी आपकी मातृभाषा नहीं है, तो अपनी मातृभाषा का एक कॉलम जोड़ने की पुरज़ोर अनुशंसा की जाती है। इससे मस्तिष्क में अधिक संबंध बनेंगे और शब्दों को याद रखना आसान होगा।
 
-## Homeless work
+## अनगारिक कार्य (Homeless work)
 
-1.  Exercises for class 2
-2.  Make 5 sentences (English - Pāli) using [vocabulary](../../generated/vocab/class-02.md) from class 2.
-3.  Learn the vocabulary from class 2 using Anki Deck “Vocab Pāli Class”
-4.  Learn declension of masculine nouns in -a from “Grammar Pāli Class” class 2
-5.  Have a student meeting sometime before the class to discuss exercises. Go over each sentence.
+1.  कक्षा 2 के लिए अभ्यास
+2.  कक्षा 2 की [शब्दावली](../../generated/vocab/class-02.md) का उपयोग करके (हिन्दी/अंग्रेज़ी से पालि में) 5 वाक्य बनाएं।
+3.  "Vocab Pāli Class" अंकी डेक का उपयोग करके कक्षा 2 की शब्दावली याद करें।
+4.  "Grammar Pāli Class" अंकी डेक से कक्षा 2 के अकारान्त पुल्लिंग रूप (नर) याद करें।
+5.  अभ्यासों पर चर्चा करने के लिए कक्षा से पहले सहपाठियों के साथ बैठक करें। प्रत्येक वाक्य का अध्ययन करें।
 
-## Extra Reading
+## अतिरिक्त वाचन (Extra Reading)
 
 | | |
 | --- | --- |
-| A.K. Warder <br>Introduction to Pāli | p1-9 |
-| V. Perniola<br>Pāli Grammar | p1-3 (alphabet & pronunciation) <br>p29 onwards (declension) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | p4-6 (alphabet & pronunciation)<br>p24-27 (declension of masculine nouns) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
+| A.K. Warder <br>Introduction to Pāli | पृष्ठ 1–9 |
+| V. Perniola<br>Pāli Grammar | पृष्ठ 1–3 (वर्णमाला एवं उच्चारण) <br>पृष्ठ 29 से आगे (संज्ञा रूप) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | पृष्ठ 4–6 (वर्णमाला एवं उच्चारण)<br>पृष्ठ 24–27 (अकारान्त पुल्लिंग शब्द रूप) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | संबंधित अध्याय |

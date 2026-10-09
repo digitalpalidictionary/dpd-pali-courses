@@ -1,6 +1,6 @@
 # Class 2
 
 - [पुनरावृत्ति](1_review.md)
-- [The Alphabet & Pronunciation](2_alphabet.md)
-- [Declension of Nouns](3_decl_nouns.md)
-- [How to do the exercises](4_home_work.md)
+- [वर्णमाला एवं उच्चारण](2_alphabet.md)
+- [संज्ञा रूप / विभक्ति विधान](3_decl_nouns.md)
+- [अभ्यास कैसे करें](4_home_work.md)

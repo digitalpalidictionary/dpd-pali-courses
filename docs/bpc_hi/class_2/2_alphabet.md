@@ -1,120 +1,120 @@
-# The Alphabet & Pronunciation
+# वर्णमाला एवं उच्चारण
 
-There are 8 vowels and 33 consonants in the Pāli alphabet.
+पालि वर्णमाला में कुल 8 स्वर और 33 व्यंजन होते हैं।
 
-All of them are pronounced phonetically.
+इन सभी का उच्चारण उनके लिखे अनुसार ही ध्वन्यात्मक रूप से किया जाता है।
 
-**8 Vowels (sara) a ā i ī u ū e o**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| **a**tta | (self) | a | as in | c**u**t, h**u**t, **u**tter (not b**a**t) |
-| **ā**misa | (material) | ā | as in | f**a**ther, b**a**rn, **a**rt <br>(not h**a**te) |
-| s**i**r**i** | (radiance) | i | as in | **i**t, b**i**t, m**i**nt, **i**nk |
-| s**ī**la | (behaviour) | ī | as in | b**ee,** tr**ee,** s**ee** (not sl**i**de) |
-| k**u**ṭi | (hut) | u | as in | p**u**t, f**oo**t, sh**oo**k, l**oo**k |
-| th**ū**la | (large) | ū | as in | r**u**le, f**oo**l, b**oo**t, r**oo**ster, fl**u**te |
-| m**e**ttā | (friendliness) | e | as in | m**e**t, s**e**t, Z**e**n (short) |
-| h**e**manta | (winter) | e | as in | **ai**r, h**ai**r, f**ai**r (long) |
-| **o**ttappa | (remorse) | o | as in | **o**range, **o**mit (short) |
-| **o**dana | (rice) | o | as in | f**o**r, **aw**ning, **aw**e (long) |
-
-**5 Guttural Consonants (kaṇṭhaja – produced in the throat)**
+**8 स्वर (sara) a ā i ī u ū e o**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **k**aruṇā | (compassion) | **k** | as in | **k**ey, **c**andle, **c**ook (not aspirate) |
-| **kh**etta | (field) | **kh[^2]** | as in | blac**kh**ead, bac**kh**and, bun**kh**ouse |
-| **g**āma | (village) | **g** | as in | **g**ood, **g**et |
-| **gh**ara | (house) | **gh** | as in | bi**g-h**ouse, lo**g h**ouse |
-| sa**ṅ**gha | (community) | **ṅ** | as in | si**ng**er |
+| **a**tta | (आत्मा/स्वयं) | a | जैसा | c**u**t, h**u**t, **u**tter (b**a**t की तरह नहीं) |
+| **ā**misa | (भौतिक वस्तु/सामिष) | ā | जैसा | f**a**ther, b**a**rn, **a**rt <br>(h**a**te की तरह नहीं) |
+| s**i**r**i** | (शोभा/कांति) | i | जैसा | **i**t, b**i**t, m**i**nt, **i**nk |
+| s**ī**la | (सदाचार) | ī | जैसा | b**ee,** tr**ee,** s**ee** (sl**i**de की तरह नहीं) |
+| k**u**ṭi | (कुटिया) | u | जैसा | p**u**t, f**oo**t, sh**oo**k, l**oo**k |
+| th**ū**la | (बड़ा/स्थूल) | ū | जैसा | r**u**le, f**oo**l, b**oo**t, r**oo**ster, fl**u**te |
+| m**e**ttā | (मैत्री) | e | जैसा | m**e**t, s**e**t, Z**e**n (ह्रस्व) |
+| h**e**manta | (शीतकाल) | e | जैसा | **ai**r, h**ai**r, f**ai**r (दीर्घ) |
+| **o**ttappa | (पाप-भीरुता) | o | जैसा | **o**range, **o**mit (ह्रस्व) |
+| **o**dana | (भात/चावल) | o | जैसा | f**o**r, **aw**ning, **aw**e (दीर्घ) |
 
-[^2]: h - aspirate sound
-
-**5 Palatal Consonants (tāluja – produced on the front-palate)**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| **c**uṇṇa | (powder) | **c** | as in | **ch**urch, **ch**ild, **c**ello (not aspirate) |
-| **ch**atta | (umbrella) | **ch** | as in | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
-| **j**ina | (conqueror) | **j** | as in | **j**am, **j**ug, **j**elly |
-| **jh**āna | (meditation) | **jh** | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
-| **ñ**āṇa | (wisdom) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
-
-**5 Cerebral or Retroflex Consonants <br>(muddhaja – produced at the top)**
-These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate.
+**5 कण्ठ्य व्यंजन (kaṇṭhaja – गले से उच्चारित)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dukka**ṭ**a | (wrong doing) | **ṭ** | | retroflex t |
-| **ṭh**āna | (place) | **ṭh** | | retroflex th |
-| gaṇ**ḍ**a | (boil) | **ḍ** | | retroflex d |
-| vuḍ**ḍh**i | (increase) | **ḍh** | | retroflex dh |
-| go**ṇ**a | (ox) | **ṇ** | | retroflex n |
+| **k**aruṇā | (दया) | **k** | जैसा | **k**ey, **c**andle, **c**ook (अल्पप्राण) |
+| **kh**etta | (खेत/क्षेत्र) | **kh[^2]** | जैसा | blac**kh**ead, bac**kh**and, bun**kh**ouse |
+| **g**āma | (गाँव) | **g** | जैसा | **g**ood, **g**et |
+| **gh**ara | (घर) | **gh** | जैसा | bi**g-h**ouse, lo**g h**ouse |
+| sa**ṅ**gha | (संघ) | **ṅ** | जैसा | si**ng**er |
 
-**5 Dental Consonants (dantaja – produced on the teeth)**
+[^2]: h - महाप्राण ध्वनि (aspirate sound)
 
-| | | | | |
-| --- | --- | --- | --- | --- |
-| i**t**i | (thus) | **t** | as in | **t**op, **t**ap, s**t**ay (not aspirate) |
-| **th**era | (elder) | **th** | as in | **th**omas, ligh**th**ouse, an**th**ill, ca**th**ouse |
-| **d**āna | (gift) | **d** | as in | **d**ead, **d**id, **d**og |
-| **dh**amma | (teaching) | **dh** | as in | dea**dh**and, a**dh**erent, ma**dh**ouse |
-| **n**amo | (veneration) | **n** | as in | **n**ow, **n**ame, **n**o, **n**ose |
-
-**5 Labial Consonants (oṭṭhaja – produced by the lips)**
+**5 तालव्य व्यंजन (tāluja – तालु से उच्चारित)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **p**utta | (son) | p | as in | **p**ut, **p**ad, s**p**ace (not aspirate) |
-| **ph**ala | (fruit) | ph | as in | to**ph**at, u**ph**ill, u**ph**eaval |
-| **b**āla | (fool) | b | as in | **b**rother, **b**ucket, **b**e |
-| **bh**āra | (burden) | bh | as in | a**bh**orrent, clu**bh**ouse |
-| **m**āra | (death) | m | as in | **m**other, **m**aker, **m**u**m**ble |
+| **c**uṇṇa | (चूर्ण/पाउडर) | **c** | जैसा | **ch**urch, **ch**ild, **c**ello (अल्पप्राण) |
+| **ch**atta | (छत्र/छाता) | **ch** | जैसा | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
+| **j**ina | (विजेता/जिन) | **j** | जैसा | **j**am, **j**ug, **j**elly |
+| **jh**āna | (ध्यान) | **jh** | जैसा | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
+| **ñ**āṇa | (ज्ञान) | **ñ** | जैसा | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
 
-**8 Other Consonants & Semi-vowels**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| **y**oniso | (thoroughly) | y | as in | **y**es, **y**ear, **y**ou |
-| **r**ukkha | (tree) | r | as in | (Spanish) seño**r**a, **r**apido |
-| **l**oka | (world) | l | as in | **l**aw, **l**ike, **l**ove |
-| **v**ihāra | (monastery) | v | as in | **v**ision, ad**v**ise |
-| **s**īha | (lion) | s | as in | **s**ee, **s**ing, **s**tory |
-| **h**iri | (shame) | h | as in | **h**ut, **h**ope, in**h**erent |
-| o**ḷ**ārika | (gross) | ḷ | as in | similar to gir**l** (but retroflex) |
-| sa**ṃ**yojana | (fetter) | ṃ | as in | similar to si**ng** |
-| sa**ṁ**yojana | (fetter) | ṁ | as in | similar to si**ng** |
-| sa**ŋ**yojana | (fetter) | ŋ | as in | similar to si**ng** |
-
-**Sanskrit Letters**
+**5 मूर्धन्य / प्रतिवेष्टित व्यंजन <br>(muddhaja – तालु के ऊपरी हिस्से से उच्चारित)**
+इन्हें जीभ की नोक को पीछे की ओर मोड़कर तालु के पिछले हिस्से से स्पर्श करके बोला जाता है। अंग्रेजी में इनके समतुल्य वर्ण नहीं हैं।
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **2 more vowels** | | | | |
-| **ṛ**ṣi | (sage) | ṛ | as in | **ri**m, c**ri**sp (but retroflex) |
-| p**ṝ** | (fill up) | ṝ | as in | c**ree**k (but retroflex) |
-| **2 diphthongs** | | | | |
-| avadhy**ai** | (disregards)<br>Pāli ujjhāyati | ai | as in | **ai**sle, p**ie** |
-| k**au**kṛtya | (worry)<br>Pāli kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
-| **2 more sibilants** | | | | |
-| **ś**amatha | (tranquillity) | ś | as in | **sh**ip, **sh**ape |
-| di**ṣ**ṭa | (seen) | ṣ | as in | retroflex **sh** |
+| dukka**ṭ**a | (दुष्कृत/गलत कार्य) | **ṭ** | | मूर्धन्य t |
+| **ṭh**āna | (स्थान) | **ṭh** | | मूर्धन्य th |
+| gaṇ**ḍ**a | (फोड़ा/गंड) | **ḍ** | | मूर्धन्य d |
+| vuḍ**ḍh**i | (वृद्धि/समृद्धि) | **ḍh** | | मूर्धन्य dh |
+| go**ṇ**a | (बैल) | **ṇ** | | मूर्धन्य n |
 
-## Double Consonants
+**5 दन्त्य व्यंजन (dantaja – दाँतों से उच्चारित)**
 
-Double consonants are pronounced individually, like in the English word u**nn**ecessary. For example:
+| | | | | |
+| --- | --- | --- | --- | --- |
+| i**t**i | (इस प्रकार) | **t** | जैसा | **t**op, **t**ap, s**t**ay (अल्पप्राण) |
+| **th**era | (स्थविर/ज्येष्ठ भिक्षु) | **th** | जैसा | **th**omas, ligh**th**ouse, an**th**ill, ca**th**ouse |
+| **d**āna | (दान) | **d** | जैसा | **d**ead, **d**id, **d**og |
+| **dh**amma | (धर्म/उपदेश) | **dh** | जैसा | dea**dh**and, a**dh**erent, ma**dh**ouse |
+| **n**amo | (नमन) | **n** | जैसा | **n**ow, **n**ame, **n**o, **n**ose |
+
+**5 ओष्ठ्य व्यंजन (oṭṭhaja – होंठों से उच्चारित)**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| **p**utta | (पुत्र) | p | जैसा | **p**ut, **p**ad, s**p**ace (अल्पप्राण) |
+| **ph**ala | (फल) | ph | जैसा | to**ph**at, u**ph**ill, u**ph**eaval |
+| **b**āla | (मूर्ख) | b | जैसा | **b**rother, **b**ucket, **b**e |
+| **bh**āra | (बोझ/भार) | bh | जैसा | a**bh**orrent, clu**bh**ouse |
+| **m**āra | (मार/मृत्यु) | m | जैसा | **m**other, **m**aker, **m**u**m**ble |
+
+**8 अन्य एवं अन्तःस्थ व्यंजन (Other Consonants & Semi-vowels)**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| **y**oniso | (योनिशः/अच्छी तरह से) | y | जैसा | **y**es, **y**ear, **y**ou |
+| **r**ukkha | (वृक्ष) | r | जैसा | (स्पैनिश) seño**r**a, **r**apido |
+| **l**oka | (संसार) | l | जैसा | **l**aw, **l**ike, **l**ove |
+| **v**ihāra | (विहार/आवास) | v | जैसा | **v**ision, ad**v**ise |
+| **s**īha | (सिंह) | s | जैसा | **s**ee, **s**ing, **s**tory |
+| **h**iri | (लज्जा) | h | जैसा | **h**ut, **h**ope, in**h**erent |
+| o**ḷ**ārika | (स्थूल) | ḷ | जैसा | gir**l** के समान (मूर्धन्य) |
+| sa**ṃ**yojana | (बंधन) | ṃ | जैसा | si**ng** में 'ng' ध्वनि के समान |
+| sa**ṁ**yojana | (बंधन) | ṁ | जैसा | si**ng** में 'ng' ध्वनि के समान |
+| sa**ŋ**yojana | (बंधन) | ŋ | जैसा | si**ng** में 'ng' ध्वनि के समान |
+
+**संस्कृत वर्ण (Sanskrit Letters - तुलना हेतु)**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| **2 अतिरिक्त स्वर** | | | | |
+| **ṛ**ṣi | (ऋषि) | ṛ | जैसा | **ri**m, c**ri**sp (मूर्धन्य) |
+| p**ṝ** | (भरना) | ṝ | जैसा | c**ree**k (मूर्धन्य) |
+| **2 संयुक्त स्वर (Diphthongs)** | | | | |
+| avadhy**ai** | (उपेक्षा करता है)<br>पालि ujjhāyati | ai | जैसा | **ai**sle, p**ie** |
+| k**au**kṛtya | (चिंता/कौकृत्य)<br>पालि kukkucca | au | जैसा | d**ow**n, h**ou**nd, br**ow**n |
+| **2 अतिरिक्त ऊष्म व्यंजन** | | | | |
+| **ś**amatha | (शमथ) | ś | जैसा | **sh**ip, **sh**ape |
+| di**ṣ**ṭa | (देखा गया) | ṣ | जैसा | मूर्धन्य **sh** |
+
+## संयुक्त / द्वित्व व्यंजन (Double Consonants)
+
+द्वित्व व्यंजनों में प्रत्येक व्यंजन का उच्चारण अलग-अलग और स्पष्ट रूप से किया जाता है, जैसे अंग्रेजी के u**nn**ecessary शब्द में। उदाहरण के लिए:
 
 | | | | |
 | --- | --- | --- | --- |
-| buddha | pronounced | bud-dha | not budha |
-| mettā | pronounced | met-taa | not metaa |
-| pabbajjā | pronounced | pab-baj-jaa | not pabajaa |
-| moggallāna | pronounced | mog-gal-laa-na | not mogalaana |
+| buddha | उच्चारण | bud-dha | budha नहीं |
+| mettā | उच्चारण | met-taa | metaa नहीं |
+| pabbajjā | उच्चारण | pab-baj-jaa | pabajaa नहीं |
+| moggallāna | उच्चारण | mog-gal-laa-na | mogalaana नहीं |
 
-## How to use a Pāli dictionary?
+## पालि शब्दकोश का क्रम (Pāli Dictionary Order)
 
-Pāli alphabetical order is from a to ṃ.
+पालि वर्णमाला का क्रम a से लेकर ṃ तक होता है।
 
 **a ā i ī u ū e o**
 
@@ -130,4 +130,4 @@ Pāli alphabetical order is from a to ṃ.
 
 **y r l v s h ḷ ṃ**
 
-or use a digital dictionary!
+या डिजिटल शब्दकोश का उपयोग करें!

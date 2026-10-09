@@ -1,105 +1,105 @@
-# Declension of Nouns
+# संज्ञा रूप / विभक्ति विधान
 
-Declension is a system of adding inflections to a nominal stem indicating gender, number and the case. (rephrasing V. Perniola)
+विभक्ति विधान (Declension) संज्ञा अंग (stem) में प्रत्यय जोड़कर उसके लिंग, वचन और कारक को दर्शाने की व्याकरणिक प्रणाली है। (V. Perniola के अनुसार)
 
-Nouns have **3 genders** – masculine, neuter and feminine. (gram.)
+संज्ञाओं के **3 लिंग** होते हैं – पुल्लिंग, नपुंसकलिङ्ग और स्त्रीलिङ्ग। (gram.)
 
-Nouns have **2 numbers** – singular and plural.
+संज्ञाओं के **2 वचन** होते हैं – एकवचन और बहुवचन।
 
-Nouns are declined in **8 cases.**
+संज्ञाएँ **8 विभक्तियों** में रूपान्तरित होती हैं।
 
-You will become very familiar with these cases in the upcoming weeks
+आने वाले सप्ताहों में आप इन विभक्तियों से भली-भांति परिचित हो जाएँगे।
 
-## Some Basic Vocabulary to illustrate the case endings
+## विभक्ति उदाहरणों हेतु बुनियादी शब्दावली
 
 | | | |
 | --- | --- | --- |
-| thera | masc. | elder |
-| sāvaka | masc. | disciple |
-| sīha | masc. | lion |
-| upāsaka | masc. | devotee |
-| āvāsa | masc. | residence |
-| gāma | masc. | village |
-| patta | masc. | alms bowl |
-| magga | masc. | road |
-| gacchati | masc. | goes |
-| khādati | masc. | eats |
-| carati | masc. | walks |
-| deti | masc. | gives |
+| thera | masc. | स्थविर / ज्येष्ठ भिक्षु |
+| sāvaka | masc. | शिष्य |
+| sīha | masc. | सिंह |
+| upāsaka | masc. | उपासक / भक्त |
+| āvāsa | masc. | आवास / निवास स्थान |
+| gāma | masc. | गाँव |
+| patta | masc. | भिक्षापात्र |
+| magga | masc. | मार्ग / रास्ता |
+| gacchati | masc. | जाता है |
+| khādati | masc. | खाता है |
+| carati | masc. | चलता है / घूमता है |
+| deti | masc. | देता है |
 
-## 1. Nominative Case (paṭhamā)
+## 1. प्रथमा विभक्ति (paṭhamā)
 
-The **subject** of the sentence is in the nominative case.
+वाक्य का **कर्ता (Subject)** प्रथमा विभक्ति में होता है।
 
-**The elder** walks.
+**स्थविर** चलते हैं।
 
 **thero** carati.
 
-## 2. Accusative Case (dutiyā)
+## 2. द्वितीया विभक्ति (dutiyā)
 
-The **object** of a sentence is in the accusative case.
+वाक्य का **कर्म (Object)** द्वितीया विभक्ति में होता है।
 
-The lion eats **the disciple.**
+सिंह **शिष्य को** खाता है।
 
 sīho sāvak**aṃ** khādati.
 
-How would you say the disciple eats the lion in Pāli?
+यदि कहना हो "शिष्य सिंह को खाता है", तो पालि में कैसे कहेंगे? (सावको सीहं खादति)
 
-The Accusative Case also expresses **going to** or **going along.**
+द्वितीया विभक्ति किसी स्थान की ओर **जाने** या रास्ते पर **चलने** को भी दर्शाती है।
 
-The lay devotee goes **to** **the village.**
+उपासक **गाँव को** जाता है।
 
 upāsako gām**aṃ** gacchati.
 
-The elder walks **along the road.**
+स्थविर **मार्ग पर** चलते हैं।
 
 thero magg**aṃ** carati.
 
-This is called “**the accusative of motion**” and is very common.
+इसे “**गतिवाचक द्वितीया**” (accusative of motion) कहा जाता है और यह अत्यंत सामान्य है।
 
-**3. The Instrumental Case (tatiyā & karaṇa)**
+**3. तृतीया विभक्ति (tatiyā & karaṇa)**
 
-Refers to an action done **by** or **with** someone or something.
+किसी साधन या किसी के **द्वारा**, **साथ** या माध्यम से किए गए कार्य को प्रकट करती है।
 
-Usually translated using **by,** **with** or **through.**
+सामान्यतः इसका अनुवाद **द्वारा,** **साथ** या **से** के रूप में किया जाता है।
 
-The elder goes to the village **with** **the disciple**.
+स्थविर **शिष्य के साथ** गाँव जाते हैं।
 
 thero **sāvakena** gāmaṃ gacchati.
 
-The elder goes to the village **by air**.
+स्थविर **आकाश मार्ग से** गाँव जाते हैं।
 
 thero ākās**ena** gāmaṃ gacchati.
 
-The disciple is being eaten **by the lion**.
+शिष्य **सिंह द्वारा** खाया जाता है।
 
 sāvako sīh**ena** khajjati
 
-## 4. Dative Case (catutthī)
+## 4. चतुर्थी विभक्ति (catutthī)
 
-Refers to an object given or directed to someone.
+जिसके लिए कोई वस्तु दी जाती है या निर्दिष्ट की जाती है।
 
-Usually translated using **to** or **for.**
+सामान्यतः इसका अनुवाद **के लिए** या **को** के रूप में किया जाता है।
 
-The elder gives an alms bowl **to the disciple.**
+स्थविर उपासक को पात्र देते हैं।
 
 thero **upāsakassa** pattaṃ deti.
 
 thero **sāvakāya** cīvaraṃ deti.
 
-(translate)
+(अनुवाद करें: स्थविर शिष्य के लिए चीवर देते हैं)
 
 namo **tassa** **bhagavato**.
 
-(translate)
+(अनुवाद करें: उन भगवान् को नमस्कार!)
 
-## 5. Ablative Case (pañcamī)
+## 5. पञ्चमी विभक्ति (pañcamī)
 
-The opposite of the Dative case.
+चतुर्थी विभक्ति का विपरीत।
 
-Usually translated using **from, away from**
+सामान्यतः किसी स्थान या वस्तु **से अलग होने** (from, away from) का भाव।
 
-The lay devotee walks **from the residence.**
+उपासक **आवास से** जाता है।
 
 upāsako **āvāsamhā** gacchati.
 
@@ -107,84 +107,84 @@ upāsako **āvāsā** gacchati.
 
 upāsako **āvāsasmā** gacchati.
 
-## 6. Genitive Case (chaṭṭhī)
+## 6. षष्ठी विभक्ति (chaṭṭhī)
 
-Denotes possession. Usually translated using **of** or **‘s.**
+स्वामित्व या सम्बन्ध प्रकट करती है। सामान्यतः अनुवाद **का / के / की** (of, 's) होता है।
 
-A noun in the Genitive Case always comes **before** the object it qualifies.
+षष्ठी विभक्ति का पद हमेशा उस संज्ञा पद से **पहले** आता है जिसकी वह विशेषता बताता है।
 
-The **elder’s** disciple goes to the village.
+**स्थविर का** शिष्य गाँव जाता है।
 
 **therassa** sāvako gāmaṃ gacchati.
 
-## 7. Locative Case (sattamī)
+## 7. सप्तमी विभक्ति (sattamī)
 
-Refers to location. Usually translated using **in**, **on**, **at**, or **among**.
+स्थान या अधिकरण को प्रकट करती है। अनुवाद **में, पर** (in, on, at, among) होता है।
 
-The lion walks **in the village**.
+सिंह **गाँव में** घूमता है।
 
 sīho gām**e** carati.
 
 sīho gām**asmiṃ** carati.
 
-## 8. Vocative Case (ālapana)
+## 8. सम्बोधन (ālapana)
 
-Used when addressing people directly.
+किसी को सीधे संबोधित करने के लिए प्रयुक्त होती है।
 
-**O, lay devotee,** come here!
+**हे उपासक,** आओ!
 
 ehi **upāsaka**!
 
 ehi **paññādhammika!**
 
-**In Summary**
+**संक्षिप्त सारांश (In Summary)**
 
 | | | |
 | --- | --- | --- |
-| 1. Nominative | nar**o** | the man (subject) |
-| 2. Accusative | nar**aṃ** | the man (object) |
-| 3. Instrumental | nar**ena** | by, with, through the man |
-| 4. Dative | nar**āya**<br>nar**assa** | to the man, for the man |
-| 5. Ablative | nar**ā**<br>nar**amhā**<br>nar**asmā** | from the man |
-| 6. Genitive | nar**assa** | of the man, the man’s |
-| 7. Locative | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | in, on, at the man |
-| 8. Vocative | nar**a**<br>nar**ā** | hey, man! o, man! |
+| 1. प्रथमा (Nominative) | nar**o** | मनुष्य (कर्ता) |
+| 2. द्वितीया (Accusative) | nar**aṃ** | मनुष्य को (कर्म) |
+| 3. तृतीया (Instrumental) | nar**ena** | मनुष्य के द्वारा / साथ |
+| 4. चतुर्थी (Dative) | nar**āya**<br>nar**assa** | मनुष्य के लिए / को |
+| 5. पञ्चमी (Ablative) | nar**ā**<br>nar**amhā**<br>nar**asmā** | मनुष्य से |
+| 6. षष्ठी (Genitive) | nar**assa** | मनुष्य का / के / की |
+| 7. सप्तमी (Locative) | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | मनुष्य में / पर |
+| 8. सम्बोधन (Vocative) | nar**a**<br>nar**ā** | हे मनुष्य! |
 
-What’s the difference between Thai and Sri Lankan bhikkhu names?
+थाई और श्रीलंकाई भिक्षुओं के नामों में क्या अंतर है?
 
 Sumedh**o**
 
 Sumedh**a**
 
-Which one is correct?
+इनमें से कौन सा सही है? (थाई में प्रथमा एकवचन 'ओ' प्रत्यय, श्रीलंकाई में मूल प्रातिपदिक रूप)
 
-## Declension of -a masc {: #declension-of-a-masc}
+## अकारान्त पुल्लिंग शब्द रूप {: #declension-of-a-masc}
 
 | | | |
 | --- | --- | --- |
-| | Singular | Plural |
-| 1. Nominative | nar**o** | nar**ā** |
-| 2. Accusative | nar**aṃ** | nar**e** |
-| 3. Instrumental | nar**ena** | nar**ehi** |
-| 4. Dative | nar**āya**<br>nar**assa** | nar**ānaṃ** |
-| 5. Ablative | nar**ā**<br>nar**amhā**<br>nar**asmā** | nar**ehi** |
-| 6. Genitive | nar**assa** | nar**ānaṃ** |
-| 7. Locative | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | nar**esu** |
-| 8. Vocative | nar**a**<br>nar**ā** | nar**ā** |
+| | एकवचन (Singular) | बहुवचन (Plural) |
+| 1. प्रथमा (Nominative) | nar**o** | nar**ā** |
+| 2. द्वितीया (Accusative) | nar**aṃ** | nar**e** |
+| 3. तृतीया (Instrumental) | nar**ena** | nar**ehi** |
+| 4. चतुर्थी (Dative) | nar**āya**<br>nar**assa** | nar**ānaṃ** |
+| 5. पञ्चमी (Ablative) | nar**ā**<br>nar**amhā**<br>nar**asmā** | nar**ehi** |
+| 6. षष्ठी (Genitive) | nar**assa** | nar**ānaṃ** |
+| 7. सप्तमी (Locative) | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | nar**esu** |
+| 8. सम्बोधन (Vocative) | nar**a**<br>nar**ā** | nar**ā** |
 
-Please learn this table by heart. Why?
+कृपया इस तालिका को कंठस्थ करें। क्यों?
 
-| | **Frequency of appearance in Tipiṭaka[^3]** |
+| | **तिपिटक में आवृत्ति (Frequency)[^3]** |
 | --- | --- |
-| masculine nouns ending in **-a** | **11834** |
-| masculine nouns ending in **-i -ī -u -ū** | 1549 |
-| masculine nouns total | **13383** |
-| masculine nouns ending in **-a** | **88%** |
-| neuter nouns ending in **-aṃ** | **14747** |
-| neuter nouns ending in **-i -u** | 452 |
-| neuter nouns total | **15199** |
+| **-a** कारान्त पुल्लिंग शब्द | **11834** |
+| **-i -ī -u -ū** कारान्त पुल्लिंग शब्द | 1549 |
+| कुल पुल्लिंग शब्द | **13383** |
+| **-a** कारान्त पुल्लिंग शब्द | **88%** |
+| **-aṃ** कारान्त नपुंसकलिङ्ग शब्द | **14747** |
+| **-i -u** कारान्त नपुंसकलिङ्ग शब्द | 452 |
+| कुल नपुंसकलिङ्ग शब्द | **15199** |
 | | **97%** |
 
-That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
+यह केवल शब्दकोश के रूप हैं ... विशेषणों और कृदन्तों की तो बात ही छोड़ें जो इसी रूप में चलते हैं।
 
 [^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.

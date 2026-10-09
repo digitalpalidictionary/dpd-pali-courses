@@ -3,9 +3,9 @@
 ## [Class 1](class_1/index.md)
 
 ## [Class 2](class_2/index.md)
-- [The Alphabet & Pronunciation](class_2/2_alphabet.md)
-- [Declension of Nouns](class_2/3_decl_nouns.md)
-- [How to do the exercises](class_2/4_home_work.md)
+- [वर्णमाला एवं उच्चारण](class_2/2_alphabet.md)
+- [संज्ञा रूप / विभक्ति विधान](class_2/3_decl_nouns.md)
+- [अभ्यास कैसे करें](class_2/4_home_work.md)
 
 ## [Class 3](class_3/index.md)
 - [Conjugation of Verbs](class_3/2_conjug.md)
