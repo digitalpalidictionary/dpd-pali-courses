@@ -1,393 +1,393 @@
-# Class 2 Key to Exercises
+# कक्षा 2 अभ्यासों की उत्तर कुंजी
 
-1. [SN10.8](https://find.dhamma.gift/bw/sn/sn10.8.html)<br>buddho kira loke uppanno
+1. [SN10.8](https://find.dhamma.gift/bw/sn/sn10.8.html)<br>बुद्धो किर लोके उप्पन्नो (buddho kira loke uppanno)
 
-| Pāli | POS | Grammar | English |
+| पालि (Pāli) | पदभेद (POS) | व्याकरण (Grammar) | हिन्दी |
 | --- | --- | --- | --- |
-| buddho | noun | masc.nom.sg | the Awakened One |
-| kira | ind | adv | indeed, truly |
-| loke | noun | masc.loc.sg | in the world |
-| uppanno | pp | masc.nom.sg | has arisen |
+| बुद्धो (buddho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | बुद्ध; जागृत पुरुष |
+| किर (kira) | अव्यय (ind) | क्रि.वि. (adv) | वास्तव में, सचमुच |
+| लोके (loke) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | लोक में; संसार में |
+| उप्पन्नो (uppanno) | कृदन्त (pp) | पु.प्र.एक (masc.nom.sg) | उत्पन्न हुए हैं; प्रकट हुए हैं |
 
-**A Buddha has indeed arisen in the world.**
+**संसार में सचमुच एक बुद्ध उत्पन्न हुए हैं।**
 
-2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca
+2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>अरञ्ञ**े** रुक्ख**ानं** मूल**ेसु**, कन्दरा**सु** गुहा**सु** च (araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca)
 
 | | | | |
 | --- | --- | --- | --- |
-| araññe | noun | nt.loc.sg | in a forest |
-| rukkhānaṃ | noun | masc.gen.pl | of trees |
-| mūlesu | noun | masc.loc.pl | at the foot [lit: roots] |
-| kandarāsu | noun | fem.loc.pl | in grottos; in gorges; in valleys |
-| guhāsu | noun | fem.loc.pl | in caves |
-| ca | ind | conj | and |
+| अरञ्ञे (araññe) | संज्ञा (noun) | नपुं.स.एक (nt.loc.sg) | जंगल में; अरण्य में |
+| रुक्खानं (rukkhānaṃ) | संज्ञा (noun) | पु.ष.बहु (masc.gen.pl) | वृक्षों के; पेड़ों के |
+| मूलेसु (mūlesu) | संज्ञा (noun) | पु.स.बहु (masc.loc.pl) | मूल में; नीचे [शाब्दिक: जड़ों में] |
+| कन्दरासु (kandarāsu) | संज्ञा (noun) | स्त्री.स.बहु (fem.loc.pl) | कंदराओं में; घाटियों में |
+| गुहासु (guhāsu) | संज्ञा (noun) | स्त्री.स.बहु (fem.loc.pl) | गुफाओं में |
+| च (ca) | अव्यय (ind) | संयोजक (conj) | और |
 
-**At the foot of a tree in a forest, in valleys, and in caves.**
+**जंगल में एक वृक्ष के नीचे (मूल में), घाटियों में, और गुफाओं में।**
 
-3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
-
-| | | | |
-| --- | --- | --- | --- |
-| maggo | noun | masc.nom.sg | the road; the path |
-| hoti | verb | pr.3rd.sg | it is |
-| sokaparidevānaṃ | noun | masc.gen.pl | of sorrow and lamentation |
-| samatikkamāya | noun | masc.dat.sg | for the overcoming of |
-| ñāyassa | noun | masc.gen.sg | of the method |
-| adhigamāya | noun | masc.dat.sg | for the reaching of; the attainment of |
-| nibbānassa | noun | nt.gen.sg | of total emancipation; complete quenching |
-| sacchikiriyāya | noun | fem.dat.sg | for personal experience |
-
-**It is the path for the overcoming of sorrow and lamentation, for the attainment of the (right) method, for personal experience of total emancipation.**
-
-4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>uttarimanussadhammo alam'ariyañāṇadassanaviseso<br>uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
+3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>मग्गो होति सोकपरिदेवानं समतिक्कमाय, ञायस्स अधिगमाय, निब्बानस्स सच्छिकिरियाय। (maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.)
 
 | | | | |
 | --- | --- | --- | --- |
-| uttarissa | adj | masc.gen.sg | of superior (than); higher (than); better (than) |
-| manussassa | noun | masc.gen.sg | of a human being |
-| dhammo | noun | masc.nom.sg | the quality; state; nature |
-| alam'ariyo | adj | masc.nom.sg | suitable for a noble person; worthy of an enlightened |
-| ñāṇadassanassa | noun | masc.gen.sg | of knowing and seeing |
-| viseso | noun | masc.nom.sg | attainment; distinction |
+| मग्गो (maggo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | मार्ग; रास्ता |
+| होति (hoti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | है |
+| सोकपरिदेवानं (sokaparidevānaṃ) | संज्ञा (noun) | पु.ष.बहु (masc.gen.pl) | शोक और विलाप का/के |
+| समतिक्कमाय (samatikkamāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | पार करने के लिए; अतिक्रमण के लिए |
+| ञायस्स (ñāyassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | सम्यक् पद्धति का; न्याय का |
+| अधिगमाय (adhigamāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | प्राप्ति के लिए; अधिगम के लिए |
+| निब्बानस्स (nibbānassa) | संज्ञा (noun) | नपुं.ष.एक (nt.gen.sg) | निर्वाण का; परम शान्ति का |
+| सच्छिकिरियाय (sacchikiriyāya) | संज्ञा (noun) | स्त्री.च.एक (fem.dat.sg) | प्रत्यक्ष अनुभव के लिए; साक्षात्कार के लिए |
 
-**the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**
+**यह शोक और विलाप के अतिक्रमण के लिए, सम्यक् पद्धति की प्राप्ति के लिए, और निर्वाण के साक्षात अनुभव के लिए मार्ग है।**
 
-5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ kāye kesā lomā nakhā dantā taco
-
-| | | | |
-| --- | --- | --- | --- |
-| atthi | verb | pr.3rd.sg | there is (there are) |
-| imasmiṃ | pron | masc.loc.sg | in this |
-| kāye | noun | masc.loc.sg | in body |
-| kesā | noun | masc.nom.pl | hair(s) of the head |
-| lomā | noun | masc.nom.pl | hairs of the body |
-| nakhā | noun | masc.nom.pl | nails |
-| dantā | noun | masc.nom.pl | teeth |
-| taco | noun | masc.nom.sg | skin |
-
-**There are in this body, hair [on the head], hairs of the body, nails, teeth, skin.**
-
-6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
+4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>उत्तरिमनुस्सधम्मो अलमरियञाणदस्सनविसेसो<br>उत्तरि**स्स** मनुस्स**स्स** धम्म**ो** अलम'रिय**ो** ञाणदस्सन**स्स** विसेस**ो** (uttarissa manussassa dhammo alam'ariyo ñāṇadassanassa viseso)
 
 | | | | |
 | --- | --- | --- | --- |
-| na | ind | neg | not; no |
-| sāmisena | adj | masc.instr.sg | soiled; dirty |
-| hatthena | noun | masc.instr.sg | with a hand |
-| pānīyassa | noun | nt.gen.sg | of drinking water |
-| thālakaṃ | noun | masc.acc.sg | cup; small bowl |
-| paṭiggahessāmi | verb | fut.1st.sg | I will take; accept |
+| उत्तरिस्स (uttarissa) | विशेषण (adj) | पु.ष.एक (masc.gen.sg) | श्रेष्ठतर (का); उच्चतर (का) |
+| मनुस्सस्स (manussassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | मनुष्य का |
+| धम्मो (dhammo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | धर्म; गुण; स्वभाव |
+| अलम'रियो (alam'ariyo) | विशेषण (adj) | पु.प्र.एक (masc.nom.sg) | आर्यों के योग्य; आर्य जन के अनुरूप |
+| ञाणदस्सनस्स (ñāṇadassanassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | ज्ञान-दर्शन का |
+| विसेसो (viseso) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | विशेष उपलब्धि; विशिष्ट प्राप्ति |
 
-**I will not take a water cup with a soiled hand.**
+**श्रेष्ठ मनुष्य का धर्म (गुण), आर्य जन के योग्य ज्ञान-दर्शन की विशिष्ट प्राप्ति,**
 
-7. VIN PAT NID nidānuddeso<br>saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya
-
-| | | | |
-| --- | --- | --- | --- |
-| saṅgho | noun | masc.nom.sg | community of monks |
-| uposathaṃ | noun | masc.acc.sg | full-moon or new-moon observance day |
-| kareyya | verb | opt.3rd.sg | should perform |
-| pātimokkhaṃ | noun | masc.acc.sg | the training rules; the disciplinary code |
-| uddiseyya | verb | opt.3rd.sg | should recite; should chant |
-
-**The community of monks should perform the observance day [and] should recite the training rules.**
-
-8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
+5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>अत्थि इमस्मिं काये केसा लोमा नखा दन्ता तचो (atthi imasmiṃ kāye kesā lomā nakhā dantā taco)
 
 | | | | |
 | --- | --- | --- | --- |
-| iti'pi | iti + api | ind + ind | it is so; thus |
-| so | pron | masc.nom.sg | he |
-| bhagavā | noun | masc.nom.sg | the Blessed One |
-| arahaṃ | noun | masc.nom.sg | the Worthy One |
-| sammāsambuddho | noun | masc.nom.sg | the fully Enlightened One |
-| vijjācaraṇasampanno | adj | masc.nom.sg | endowed with knowledge and conduct |
-| sugato | noun | masc.nom.sg | Fortunate One; well-gone |
-| lokavidū | noun | masc.nom.sg | knower of the world |
-| anuttaro | adj | masc.nom.sg | incomparable |
-| purisadammasārathi | noun | masc.nom.sg | leader of persons to be tamed |
-| satthā | noun | masc.nom.sg | teacher |
-| devamanussānaṃ | noun | masc.gen.pl | of gods and humans |
-| buddho | noun | masc.nom.sg | the Awakened One |
-| bhagavā | noun | masc.nom.sg | the Blessed One |
-| iti | ind | ind | end quote |
+| अत्थि (atthi) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | है (विद्यमान हैं) |
+| इमस्मिं (imasmiṃ) | सर्वनाम (pron) | पु.स.एक (masc.loc.sg) | इस |
+| काये (kāye) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | शरीर में; काया में |
+| केसा (kesā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | केश; सिर के बाल |
+| लोमा (lomā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | रोम; शरीर के बाल |
+| नखा (nakhā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | नख; नाखून |
+| दन्ता (dantā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | दन्त; दाँत |
+| तचो (taco) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | त्वचा; चमड़ी |
 
-**It is so (thus) "He [is] the Blessed One, the Worthy One, the fully Enlightened One, endowed with wisdom and ethical conduct, Fortunate One, knower of the world, incomparable leader of persons to be tamed, teacher of gods and humans, the Awakened One, the Blessed One."**
+**इस शरीर में सिर के बाल (केश), शरीर के बाल (रोम), नाखून, दाँत और त्वचा हैं।**
 
-9. kāyassa bhedā
+6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>न सामिसेन हत्थेन पानीयस्स थालकं पटिग्गहेस्सामि (na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi)
 
 | | | | |
 | --- | --- | --- | --- |
-| kāyassa | noun | masc.gen.sg<br>masc.dat.sg | of the body<br>to/for the body |
-| bhedā | noun | masc.abl.sg<br>masc.nom.pl | from the break-up<br>break-ups |
+| न (na) | अव्यय (ind) | निषेध (neg) | नहीं |
+| सामिसेन (sāmisena) | विशेषण (adj) | पु.तृ.एक (masc.instr.sg) | जूठे; सने हुए (हाथ से) |
+| हत्थेन (hatthena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | हाथ से |
+| पानीयस्स (pānīyassa) | संज्ञा (noun) | नपुं.ष.एक (nt.gen.sg) | पीने के पानी का |
+| थालकं (thālakaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | पात्र; कटोरा |
+| पटिग्गहेस्सामि (paṭiggahessāmi) | क्रिया (verb) | भ.का.उ.पु.एक (fut.1st.sg) | मैं लूँगा; स्वीकार करूँगा |
 
-**From the break-up of the body**
+**मैं जूठे (सने हुए) हाथ से पीने के पानी का पात्र नहीं लूँगा।**
 
-10. samaṇo gotamo
-
-| | | | |
-| --- | --- | --- | --- |
-| samaṇo | noun | masc.nom.sg | the recluse |
-| gotamo | noun | masc.nom.sg | Gotama |
-
-**The recluse Gotama**
-
-11. virāgāya nirodhāya
+7. VIN PAT NID nidānuddeso<br>सङ्घ**ो** उपोसथ**ं** करेय्य, पातिमोक्ख**ं** उद्दिसेय्य (saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya)
 
 | | | | |
 | --- | --- | --- | --- |
-| virāgāya | noun | masc.dat.sg | for dispassion |
-| nirodhāya | noun | masc.dat.sg | for the cessation |
+| सङ्घो (saṅgho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | भिक्षु संघ |
+| उपोसथं (uposathaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | उपोसथ (व्रत/नियम दिवस) |
+| करेय्य (kareyya) | क्रिया (verb) | विधिलिङ्.प्र.पु.एक (opt.3rd.sg) | करना चाहिए |
+| पातिमोक्खं (pātimokkhaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | पातिमोक्ख (विनय नियम संहिता) |
+| उद्दिसेय्य (uddiseyya) | क्रिया (verb) | विधिलिङ्.प्र.पु.एक (opt.3rd.sg) | पाठ करना चाहिए; उच्चारण करना चाहिए |
 
-**for dispassion, for cessation**
+**संघ को उपोसथ करना चाहिए [और] पातिमोक्ख का पाठ करना चाहिए।**
 
-12. bālassa mohāya
-
-| | | | |
-| --- | --- | --- | --- |
-| bālassa | noun | masc.gen.sg<br>masc.dat.sg | of the fool<br>to/for the fool |
-| mohāya | noun | masc.dat.sg | for delusion |
-
-**for the delusion of the fool**
-
-13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
+8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html)<br>इतिपि सो भगवा अरहं सम्मासम्बुद्धो विज्जाचरणसम्पन्नो सुगतो लोकविदू अनुत्तरो पुरिसदम्मसारथि सत्था देवमनुस्सानं बुद्धो भगवा'ति (itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti)
 
 | | | | |
 | --- | --- | --- | --- |
-| kāmehi | noun | masc.instr.pl<br>masc.abl.pl | with/by sensual pleasures<br>from sensual pleasures |
-| lokamhi | noun | masc.loc.sg | in the world |
+| इति'पि (iti'pi) | इति + अपि (iti + api) | अव्यय + अव्यय (ind + ind) | ऐसा ही है; इस प्रकार |
+| सो (so) | सर्वनाम (pron) | पु.प्र.एक (masc.nom.sg) | वह; वे |
+| भगवा (bhagavā) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | भगवान् |
+| अरहं (arahaṃ) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | अर्हन्त; पूज्य |
+| सम्मासम्बुद्धो (sammāsambuddho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | सम्यक् सम्बुद्ध |
+| विज्जाचरणसम्पन्नो (vijjācaraṇasampanno) | विशेषण (adj) | पु.प्र.एक (masc.nom.sg) | विद्या और आचरण से सम्पन्न |
+| सुगतो (sugato) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | सुगत; उत्तम गति को प्राप्त |
+| लोकविदू (lokavidū) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | लोकविद्; संसार को जानने वाले |
+| अनुत्तरो (anuttaro) | विशेषण (adj) | पु.प्र.एक (masc.nom.sg) | अनुत्तर; अतुलनीय |
+| पुरिसदम्मसारथि (purisadammasārathi) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | दमन-योग्य पुरुषों के सारथि |
+| सत्था (satthā) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | शास्ता; गुरु |
+| देवमनुस्सानं (devamanussānaṃ) | संज्ञा (noun) | पु.ष.बहु (masc.gen.pl) | देवताओं और मनुष्यों के |
+| बुद्धो (buddho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | बुद्ध; जागे हुए |
+| भगवा (bhagavā) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | भगवान् |
+| इति (iti) | अव्यय (ind) | अव्यय (ind) | इति (उद्धरण समाप्ति) |
 
-**[there is no satisfaction] by sensual pleasures in the world**
+**वे भगवान् इस प्रकार हैं: "वे [हैं] अर्हन्त, सम्यक् सम्बुद्ध, विद्या और आचरण से सम्पन्न, सुगत, लोकविद्, अनुत्तर, दमन-योग्य पुरुषों के सारथि, देवताओं और मनुष्यों के शास्ता, बुद्ध, भगवान्।"**
 
-14. devā manussā
-
-| | | | |
-| --- | --- | --- | --- |
-| devā | noun | masc.abl.sg<br>masc.nom.pl | from the deity<br>deities |
-| manussā | noun | masc.abl.sg<br>masc.nom.pl | from the human<br>humans |
-
-**gods and humans**
-
-15. cāgo paṭinissaggo anālayo
-
-| | | | |
-| --- | --- | --- | --- |
-| cāgo | noun | masc.nom.sg | the relinquishing |
-| paṭinissaggo | noun | masc.nom.sg | the abandoning |
-| anālayo | noun | masc.nom.sg | the non-attachment |
-
-**The relinquishing, the abandonment, the non-attachment**
-
-16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
+9. कायस्स भेदा (kāyassa bhedā)
 
 | | | | |
 | --- | --- | --- | --- |
-| pāde | noun | masc.loc.sg<br>masc.acc.pl | at/on the foot<br>the feet |
-| pādaṃ | noun | masc.acc.sg | the foot (object) |
+| कायस्स (kāyassa) | संज्ञा (noun) | पु.ष.एक<br>पु.च.एक (masc.gen.sg<br>masc.dat.sg) | शरीर का<br>शरीर के लिए |
+| भेदा (bhedā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | भेद (विनाश) से<br>भेद / विखंडन |
 
-**[he places] a foot on a foot**
+**शरीर के भेद (विनाश) होने से**
 
-17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| dhammānaṃ | noun | masc.gen.pl<br>masc.dat.pl | of states of mind<br>for/to states of mind |
-| uppādāya | noun | masc.dat.sg | for the arising |
-| chandaṃ | noun | masc.acc.sg | desire (object) |
-
-**[he arouses] desire for the arising of states of mind**
-
-18. khandhānaṃ bhedo
+10. समणो गोतमो (samaṇo gotamo)
 
 | | | | |
 | --- | --- | --- | --- |
-| khandhānaṃ | noun | masc.gen.pl<br>masc.dat.pl | of the aggregates<br>for/to the aggregates |
-| bhedo | noun | masc.nom.sg | the break-up |
+| समणो (samaṇo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | श्रमण |
+| गोतमो (gotamo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | गोतम |
 
-**the break-up of the aggregates**
+**श्रमण गोतम**
 
-19. dhammā sekhassa
-
-| | | | |
-| --- | --- | --- | --- |
-| dhammā | noun | masc.abl.sg<br>masc.nom.pl | from the quality<br>the qualities |
-| sekhassa | noun | masc.gen.sg<br>masc.dat.sg | of the trainee<br>for/to the trainee |
-
-**qualities of a trainee**
-
-20. samaṇena vā brāhmaṇena vā devena vā mārena vā
+11. विरागाय निरोधाय (virāgāya nirodhāya)
 
 | | | | |
 | --- | --- | --- | --- |
-| samaṇena | noun | masc.instr.sg | with recluse |
-| vā | ind | conj | or |
-| brāhmaṇena | noun | masc.instr.sg | with brahmin |
-| devena | noun | masc.instr.sg | with deity |
-| mārena | noun | masc.instr.sg | with Mara |
+| विरागाय (virāgāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | विराग (वैराग्य) के लिए |
+| निरोधाय (nirodhāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | निरोध के लिए |
 
-**with either a recluse or a brahmin or a deity or Mara**
+**विराग के लिए, निरोध के लिए**
 
-21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+12. बालस्स मोहाय (bālassa mohāya)
 
 | | | | |
 | --- | --- | --- | --- |
-| sokehi | noun | masc.instr.pl<br>masc.abl.pl | with griefs<br>from griefs |
-| paridevehi | noun | masc.instr.pl<br>masc.abl.pl | with lamentations<br>from lamentations |
-| dukkhehi | noun | masc.instr.pl<br>masc.abl.pl | with sufferings, pains<br>from sufferings, pains |
-| domanassehi | noun | masc.instr.pl<br>masc.abl.pl | with distresses<br>from distresses |
-| upāyāsehi | noun | masc.instr.pl<br>masc.abl.pl | with afflictions<br>from afflictions |
+| बालस्स (bālassa) | संज्ञा (noun) | पु.ष.एक<br>पु.च.एक (masc.gen.sg<br>masc.dat.sg) | मूर्ख का<br>मूर्ख के लिए |
+| मोहाय (mohāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | मोह के लिए |
 
-**[burning] with griefs, lamentations,pains, distresses, afflictions**
+**मूर्ख के मोह के लिए**
 
-22. dhammo vinayo
+13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>कामेहि लोकम्हि (kāmehi lokamhi)
 
 | | | | |
 | --- | --- | --- | --- |
-| dhammo | noun | masc.nom.sg | the Doctrine, the Teaching |
-| vinayo | noun | masc.nom.sg | the Discipline |
+| कामेहि (kāmehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | काम-भोगों से/द्वारा<br>काम-भोगों से |
+| लोकम्हि (lokamhi) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | संसार में; लोक में |
 
-**The Doctrine the Discipline**
+**संसार में काम-भोगों से [कोई तृप्ति नहीं है]**
 
-23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| vinipātaṃ | noun | masc.acc.sg | a state of suffering |
-| nirayaṃ | noun | masc.acc.sg | hell |
-
-**[is reborn in] a state of suffering, hell.**
-
-24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
+14. देवा मनुस्सा (devā manussā)
 
 | | | | |
 | --- | --- | --- | --- |
-| aparena | adj | masc.instr.sg | by/with other; another |
-| samayena | noun | masc.instr.sg | by/with the occasion |
-| buddho | noun | masc.nom.sg | the Awakened One |
+| देवा (devā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | देव से<br>देवता |
+| मनुस्सा (manussā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | मनुष्य से<br>मनुष्य |
 
-**on another occasion, the Awakened One…**
+**देवता और मनुष्य**
 
-25. gabbhe cīvaraṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| gabbhe | noun | masc.loc.sg<br>masc.acc.pl | in the room<br>rooms (object) |
-| cīvaraṃ | noun | nt.nom.sg<br>nt.acc.sg | the robe<br>the robe (object) |
-
-**the robe in the room**
-
-26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
+15. चागो पटिनिस्सग्गो अनालयो (cāgo paṭinissaggo anālayo)
 
 | | | | |
 | --- | --- | --- | --- |
-| āvāse | noun | masc.loc.sg<br>masc.acc.pl | in/at the dwelling place<br>dwelling places (object) |
-| vassaṃ | noun | masc.acc.sg | rainy season (object) |
+| चागो (cāgo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | त्याग |
+| पटिनिस्सग्गो (paṭinissaggo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | विसर्जन; छोड़ना |
+| अनालयो (anālayo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | अनासक्ति; निर्लिप्तता |
 
-**[he entered] the rainy season at the dwelling place.**
+**त्याग, विसर्जन, अनासक्ति**
 
-27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html)<br>nīvaraṇehi brāhmaṇo
-
-| | | | |
-| --- | --- | --- | --- |
-| nīvaraṇehi | noun | masc.instr.pl<br>masc.abl.pl | with the hindrances<br>from the hindrances |
-| brāhmaṇo | noun | masc.nom.sg | the brahmin |
-
-**The brahmin [is filled] with the [five] hindrances**
-
-28. kāme brāhmaṇa
+16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>पादे पादं (pāde pādaṃ)
 
 | | | | |
 | --- | --- | --- | --- |
-| kāme | noun | masc.loc.sg<br>masc.acc.pl | in sensual pleasure<br>sensual pleasures (object) |
-| brāhmaṇa | noun | masc.voc.sg | O, brahmin! |
+| पादे (pāde) | संज्ञा (noun) | पु.स.एक<br>पु.द्वि.बहु (masc.loc.sg<br>masc.acc.pl) | पैर पर<br>पैरों को |
+| पादं (pādaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | पैर को (कर्म) |
 
-**O, brahmin! … sensual pleasures**
+**[वह] पैर पर पैर [रखता है]**
 
-29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
-
-| | | | |
-| --- | --- | --- | --- |
-| atthamhi | noun | masc.loc.sg | in the need; (when the need) |
-| sahāyā | noun | masc.abl.sg<br>masc.nom.pl | from the friend/companion<br>friends/companions |
-
-**[Good are] friends in [arisen] need <br>[Good are] friends when need [arises]**
-
-30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
+17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>धम्मानं उप्पादाय छन्दं (dhammānaṃ uppādāya chandaṃ)
 
 | | | | |
 | --- | --- | --- | --- |
-| gotamo | noun | masc.nom.sg | Gotama |
-| sāvake | noun | masc.loc.sg<br>masc.acc.pl | at the disciple<br>the disciples (object) |
-| gotamassa | noun | masc.gen.sg<br>masc.dat.sg | of Gotama<br>for/to Gotama |
-| sāvakesu | noun | masc.loc.pl | among the disciples |
+| धम्मानं (dhammānaṃ) | संज्ञा (noun) | पु.ष.बहु<br>पु.च.बहु (masc.gen.pl<br>masc.dat.pl) | मानसिक धर्मों (अवस्थाओं) का<br>मानसिक धर्मों के लिए |
+| उप्पादाय (uppādāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | उत्पन्न होने के लिए; उत्पत्ति के लिए |
+| छन्दं (chandaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | इच्छा / छन्द को (कर्म) |
 
-**Gotama [trains] disciples … among the disciples of the Gotama.**
+**[वह] मानसिक अवस्थाओं की उत्पत्ति के लिए छन्द (इच्छा) [उत्पन्न करता है]**
 
-31. kassapassa vinayasmiṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| kassapassa | proper noun | masc.gen.sg<br>masc.dat.sg | of the Kassapa<br>for/to the Kassapa |
-| vinayasmiṃ | noun | masc.loc.sg | at/in the discipline |
-
-**in the discipline of the Kassapa**
-
-## Class 2 Extra
-
-1. [SN12.1](https://find.dhamma.gift/bw/sn/sn12.1.html)<br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
-
-| Pāli | POS | Grammar | English |
-| --- | --- | --- | --- |
-| avijjāya | noun | fem.gen.sg | of ignorance |
-| tv'eva | tu + eva | ind + ind | but thus; however |
-| asesa- | adj | - | complete |
-| virāga- | noun | - | the fading away |
-| nirodhā | noun | masc.abl.sg | from cessation |
-| saṅkhāra- | noun | - | volitional formation |
-| nirodho | noun | masc.nom.sg | the cessation |
-| viññāṇa- | noun | - | consciousness |
-| nāmarūpa- | noun | - | name and form |
-| saḷāyatana- | noun | - | six sense bases |
-| phassa- | noun | - | contact |
-| vedanā- | noun | - | feeling |
-| taṇhā- | noun | - | craving |
-| upādāna- | noun | - | clinging |
-| bhava- | noun | - | becoming |
-| jāti- | noun | - | birth |
-| jarā- | noun | - | old age |
-| maraṇaṃ | noun | nt.nom.sg | death |
-| soka- | noun | - | grief; sorrow |
-| parideva- | noun | - | lamentation |
-| dukkha- | noun | - | suffering |
-| domanassa- | noun | - | depression |
-| upāyāsā | noun | masc.nom.pl | afflictions |
-| nirujjhanti | verb | pr.3rd.pl | cease |
-
-**But from the complete fading away and cessation of ignorance there is cessation of volitional formations; from the cessation of volitional formations, cessation of consciousness; from the cessation of consciousness, cessation of name-and-form; from the cessation of name-and-form, cessation of the six sense bases; from the cessation of the six sense bases, cessation of contact; from the cessation of contact, cessation of feeling; from the cessation of feeling, cessation of craving; from the cessation of craving, cessation of clinging; from the cessation of clinging, cessation of becoming; from the cessation of becoming, cessation of birth; from the cessation of birth, aging-and-death, sorrow, lamentation, pain, displeasure, and despair cease.**
-
-2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>dhammā virāgāya
+18. खन्धानं भेदो (khandhānaṃ bhedo)
 
 | | | | |
 | --- | --- | --- | --- |
-| dhammā | noun | masc.abl.sg<br>masc.nom.pl | from a quality, thing<br>qualities, things |
-| virāgāya | noun | masc.dat.sg | for dispassion |
+| खन्धानं (khandhānaṃ) | संज्ञा (noun) | पु.ष.बहु<br>पु.च.बहु (masc.gen.pl<br>masc.dat.pl) | स्कन्धों का<br>स्कन्धों के लिए |
+| भेदो (bhedo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | भेद; विखंडन |
 
-**[these] things/qualities [lead] to dispassion**
+**स्कन्धों का भेद (विखंडन)**
 
-3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>saṅkhārā ābādhāya
-
-| | | | |
-| --- | --- | --- | --- |
-| saṅkhārā | noun | masc.abl.sg<br>masc.nom.pl | from the volitional formation<br>volitional formations |
-| ābādhāya | noun | masc.dat.sg | to sufferings |
-
-**Volitional formations [are conducive] to suffering**
-
-4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html)<br>saṅghamhā saṅgho
+19. धम्मा सेखस्स (dhammā sekhassa)
 
 | | | | |
 | --- | --- | --- | --- |
-| saṅghamhā | noun | masc.abl.sg | from the Saṅgha; community of monks |
-| saṅgho | noun | masc.nom.sg | the Saṅgha; community of monks |
+| धम्मा (dhammā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | गुण से<br>धर्म; गुण |
+| सेखस्स (sekhassa) | संज्ञा (noun) | पु.ष.एक<br>पु.च.एक (masc.gen.sg<br>masc.dat.sg) | शैक्ष (साधक) का<br>शैक्ष के लिए |
 
-**[far] from the Saṅgha [and] the Saṅgha [is far from]…**
+**शैक्ष (प्रशिक्षु साधक) के धर्म (गुण)**
+
+20. समणेन वा ब्राह्मणेन वा देवेन वा मारेन वा (samaṇena vā brāhmaṇena vā devena vā mārena vā)
+
+| | | | |
+| --- | --- | --- | --- |
+| समणेन (samaṇena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | श्रमण द्वारा / के साथ |
+| वा (vā) | अव्यय (ind) | संयोजक (conj) | या; अथवा |
+| ब्राह्मणेन (brāhmaṇena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | ब्राह्मण द्वारा / के साथ |
+| देवेन (devena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | देव द्वारा / के साथ |
+| मारेन (mārena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | मार द्वारा / के साथ |
+
+**या तो किसी श्रमण द्वारा, या ब्राह्मण द्वारा, या देव द्वारा, या मार द्वारा**
+
+21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>सोकेहि परिदेवेहि दुक्खेहि दोमनस्सेहि उपायासेहि (sokehi paridevehi dukkhehi domanassehi upāyāsehi)
+
+| | | | |
+| --- | --- | --- | --- |
+| सोकेहि (sokehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | शोकों से / द्वारा<br>शोकों से |
+| परिदेवेहि (paridevehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | विलापों से / द्वारा<br>विलापों से |
+| दुक्खेहि (dukkhehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | दुःखों, कष्टों से / द्वारा<br>दुःखों, कष्टों से |
+| दोमनस्सेहि (domanassehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | दौर्मनस्यों से / द्वारा<br>दौर्मनस्यों से |
+| उपायासेहि (upāyāsehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | निराशाओं/उपायासों से / द्वारा<br>निराशाओं से |
+
+**शोकों, विलापों, दुःखों, दौर्मनस्यों और निराशाओं से [जल रहा है]**
+
+22. धम्मो विनयो (dhammo vinayo)
+
+| | | | |
+| --- | --- | --- | --- |
+| धम्मो (dhammo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | धर्म; उपदेश |
+| विनयो (vinayo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | विनय; अनुशासन |
+
+**धर्म और विनय**
+
+23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>विनिपातं निरयं (vinipātaṃ nirayaṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| विनिपातं (vinipātaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | दुर्गति में; विनिपात में |
+| निरयं (nirayaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | नरक में |
+
+**दुर्गति में, नरक में [उत्पन्न होता है]।**
+
+24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>अपरेन समयेन बुद्धो (aparena samayena buddho)
+
+| | | | |
+| --- | --- | --- | --- |
+| अपरेन (aparena) | विशेषण (adj) | पु.तृ.एक (masc.instr.sg) | दूसरे; अन्य (द्वारा/समय) |
+| समयेन (samayena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | अवसर पर; समय पर |
+| बुद्धो (buddho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | बुद्ध |
+
+**किसी अन्य अवसर पर, बुद्ध…**
+
+25. गब्भे चीवरं (gabbhe cīvaraṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| गब्भे (gabbhe) | संज्ञा (noun) | पु.स.एक<br>पु.द्वि.बहु (masc.loc.sg<br>masc.acc.pl) | कक्ष (कमरे) में<br>कमरों को |
+| चीवरं (cīvaraṃ) | संज्ञा (noun) | नपुं.प्र.एक<br>नपुं.द्वि.एक (nt.nom.sg<br>nt.acc.sg) | चीवर<br>चीवर को |
+
+**कमरे में चीवर**
+
+26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>आवासे वस्सं (āvāse vassaṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| आवासे (āvāse) | संज्ञा (noun) | पु.स.एक<br>पु.द्वि.बहु (masc.loc.sg<br>masc.acc.pl) | निवास स्थान (आवास) में<br>आवासों को |
+| वस्सं (vassaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | वर्षावास को (कर्म) |
+
+**[उन्होंने] उस आवास में वर्षावास [व्यतीत किया]।**
+
+27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html)<br>नीवरणेहि ब्राह्मणो (nīvaraṇehi brāhmaṇo)
+
+| | | | |
+| --- | --- | --- | --- |
+| नीवरणेहि (nīvaraṇehi) | संज्ञा (noun) | पु.तृ.बहु<br>पु.प.बहु (masc.instr.pl<br>masc.abl.pl) | नीवरणों (रुकावटों) से<br>नीवरणों से |
+| ब्राह्मणो (brāhmaṇo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | ब्राह्मण |
+
+**ब्राह्मण [पाँच] नीवरणों से [घिरा/भरा हुआ है]**
+
+28. कामे ब्राह्मण (kāme brāhmaṇa)
+
+| | | | |
+| --- | --- | --- | --- |
+| कामे (kāme) | संज्ञा (noun) | पु.स.एक<br>पु.द्वि.बहु (masc.loc.sg<br>masc.acc.pl) | काम-भोग में<br>काम-भोगों को |
+| ब्राह्मण (brāhmaṇa) | संज्ञा (noun) | पु.सं.एक (masc.voc.sg) | हे ब्राह्मण! |
+
+**हे ब्राह्मण! … काम-भोग**
+
+29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>अत्थम्हि सहाया (atthamhi sahāyā)
+
+| | | | |
+| --- | --- | --- | --- |
+| अत्थम्हि (atthamhi) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | आवश्यकता में; प्रयोजन उपस्थित होने पर |
+| सहाया (sahāyā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | मित्र से<br>मित्र; साथी |
+
+**आवश्यकता पड़ने पर मित्र [उत्तम होते हैं] <br>प्रयोजन उपस्थित होने पर साथी [अच्छे होते हैं]**
+
+30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>गोतमो सावके … गोतमस्स सावकेसु (gotamo sāvake … gotamassa sāvakesu)
+
+| | | | |
+| --- | --- | --- | --- |
+| गोतमो (gotamo) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | गोतम |
+| सावके (sāvake) | संज्ञा (noun) | पु.स.एक<br>पु.द्वि.बहु (masc.loc.sg<br>masc.acc.pl) | शिष्य में<br>शिष्यों को (कर्म) |
+| गोतमस्स (gotamassa) | संज्ञा (noun) | पु.ष.एक<br>पु.च.एक (masc.gen.sg<br>masc.dat.sg) | गोतम का/के<br>गोतम के लिए |
+| सावकेसु (sāvakesu) | संज्ञा (noun) | पु.स.बहु (masc.loc.pl) | शिष्यों में |
+
+**गोतम शिष्यों को [सिखाते हैं] … गोतम के शिष्यों में।**
+
+31. कस्सपस्स विनयस्मिं (kassapassa vinayasmiṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| कस्सपस्स (kassapassa) | व्यक्तिवाचक संज्ञा (proper noun) | पु.ष.एक<br>पु.च.एक (masc.gen.sg<br>masc.dat.sg) | कस्सप का<br>कस्सप के लिए |
+| विनयस्मिं (vinayasmiṃ) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | विनय में; अनुशासन में |
+
+**कस्सप के विनय (अनुशासन) में**
+
+## कक्षा 2 अतिरिक्त
+
+1. [SN12.1](https://find.dhamma.gift/bw/sn/sn12.1.html)<br>अविज्जाय त्वेव असेसा-विराग-निरोधा सङ्खार-निरोधो, सङ्खार-निरोधा विञ्ञाण-निरोधो, विञ्ञाण-निरोधा नामरूप-निरोधो, नामरूप-निरोधा सलायतन-निरोधो, सलायतन-निरोधा फस्स-निरोधो, फस्स-निरोधा वेदना-निरोधो, वेदना-निरोधा तण्हा-निरोधो, तण्हा-निरोधा उपादान-निरोधो, उपादान-निरोधा भव-निरोधो, भव-निरोधा जाति-निरोधो, जाति-निरोधा जरा-मरणं सोक-परिदेव-दुक्ख-दोमनस्सुपायासा निरुज्झन्ति। (avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.)
+
+| पालि (Pāli) | पदभेद (POS) | व्याकरण (Grammar) | हिन्दी |
+| --- | --- | --- | --- |
+| अविज्जाय (avijjāya) | संज्ञा (noun) | स्त्री.ष.एक (fem.gen.sg) | अविद्या का |
+| त्वेव (tv'eva) | तु + एव (tu + eva) | अव्यय + अव्यय (ind + ind) | किन्तु इस प्रकार; तथापि |
+| असेसे- (asesa-) | विशेषण (adj) | - | पूर्ण; सम्पूर्ण |
+| विराग- (virāga-) | संज्ञा (noun) | - | विराग; क्षय |
+| निरोधा (nirodhā) | संज्ञा (noun) | पु.प.एक (masc.abl.sg) | निरोध से |
+| सङ्खार- (saṅkhāra-) | संज्ञा (noun) | - | संस्कार; चेतना-संस्कार |
+| निरोधो (nirodho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | निरोध; समाप्ति |
+| विञ्ञाण- (viññāṇa-) | संज्ञा (noun) | - | विज्ञान; चेतना |
+| नामरूप- (nāmarūpa-) | संज्ञा (noun) | - | नाम और रूप |
+| सलायतन- (saḷāyatana-) | संज्ञा (noun) | - | षडायतन (छह इन्द्रिय-द्वार) |
+| फस्स- (phassa-) | संज्ञा (noun) | - | स्पर्श |
+| वेदना- (vedanā-) | संज्ञा (noun) | - | वेदना; अनुभूति |
+| तण्हा- (taṇhā-) | संज्ञा (noun) | - | तृष्णा |
+| उपादान- (upādāna-) | संज्ञा (noun) | - | उपादान; आसक्ति |
+| भव- (bhava-) | संज्ञा (noun) | - | भव; अस्तित्व |
+| जाति- (jāti-) | संज्ञा (noun) | - | जाति; जन्म |
+| जरा- (jarā-) | संज्ञा (noun) | - | जरा; बुढ़ापा |
+| मरणं (maraṇaṃ) | संज्ञा (noun) | नपुं.प्र.एक (nt.nom.sg) | मरण; मृत्यु |
+| सोक- (soka-) | संज्ञा (noun) | - | शोक |
+| परिदेव- (parideva-) | संज्ञा (noun) | - | परिदेव; विलाप |
+| दुक्ख- (dukkha-) | संज्ञा (noun) | - | दुःख |
+| दोमनस्स- (domanassa-) | संज्ञा (noun) | - | दौर्मनस्य; मानसिक संताप |
+| उपायासा (upāyāsā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | उपायास; घोर निराशाएँ |
+| निरुज्झन्ति (nirujjhanti) | क्रिया (verb) | व.का.प्र.पु.बहु (pr.3rd.pl) | निरुद्ध होते हैं; समाप्त होते हैं |
+
+**परन्तु अविद्या के ही सम्पूर्ण विराग और निरोध से संस्कारों का निरोध होता है; संस्कारों के निरोध से विज्ञान का निरोध होता है; विज्ञान के निरोध से नाम-रूप का निरोध होता है; नाम-रूप के निरोध से षडायतन का निरोध होता है; षडायतन के निरोध से स्पर्श का निरोध होता है; स्पर्श के निरोध से वेदना का निरोध होता है; वेदना के निरोध से तृष्णा का निरोध होता है; तृष्णा के निरोध से उपादान का निरोध होता है; उपादान के निरोध से भव का निरोध होता है; भव के निरोध से जाति का निरोध होता है; और जाति के निरोध से जरा-मरण, शोक, विलाप, दुःख, दौर्मनस्य और उपायास निरुद्ध हो जाते हैं।**
+
+2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>धम्मा विरागाय (dhammā virāgāya)
+
+| | | | |
+| --- | --- | --- | --- |
+| धम्मा (dhammā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | धर्म (गुण/वस्तु) से<br>धर्म, गुण |
+| विरागाय (virāgāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | विराग के लिए |
+
+**[ये] धर्म/गुण विराग की ओर [ले जाते हैं]**
+
+3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>सङ्खारा आबाधाय (saṅkhārā ābādhāya)
+
+| | | | |
+| --- | --- | --- | --- |
+| सङ्खारा (saṅkhārā) | संज्ञा (noun) | पु.प.एक<br>पु.प्र.बहु (masc.abl.sg<br>masc.nom.pl) | संस्कार से<br>संस्कार |
+| आबाधाय (ābādhāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | कष्ट/बाधा के लिए |
+
+**संस्कार कष्ट/बाधा को [बढ़ाने वाले होते हैं]**
+
+4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html)<br>सङ्घम्हा सङ्घो (saṅghamhā saṅgho)
+
+| | | | |
+| --- | --- | --- | --- |
+| सङ्घम्हा (saṅghamhā) | संज्ञा (noun) | पु.प.एक (masc.abl.sg) | संघ से; भिक्षु संघ से |
+| सङ्घो (saṅgho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | संघ; भिक्षु संघ |
+
+**संघ से [दूर] [और] संघ [दूर है]…**

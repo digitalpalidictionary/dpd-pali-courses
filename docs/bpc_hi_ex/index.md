@@ -1,7 +1,7 @@
 # BPC Hindi Exercises
 
-- [Class 1 Exercises](1_class.md)
-- [Class 2 Exercises](2_class.md)
+- [कक्षा 1 अभ्यास](1_class.md)
+- [कक्षा 2 अभ्यास](2_class.md)
 - [Class 3 Exercises](3_class.md)
 - [Class 4 Exercises](4_class.md)
 - [Class 5 Exercises](5_class.md)

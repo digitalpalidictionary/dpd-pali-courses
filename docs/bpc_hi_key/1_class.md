@@ -1,14 +1,14 @@
-# Class 1 Key to Exercises
+# कक्षा 1 अभ्यासों की उत्तर कुंजी
 
-1. namo tassa bhagavato arahato sammā-sambuddhassa
+1. नमो तस्स भगवतो अरहतो सम्मा-सम्बुद्धस्स (namo tassa bhagavato arahato sammā-sambuddhassa)
 
-| Pāli | POS | Grammar | English |
+| पालि (Pāli) | पदभेद (POS) | व्याकरण (Grammar) | हिन्दी |
 | --- | --- | --- | --- |
-| namo | ind | ind | homage; reverence |
-| tassa | pron | masc.dat.sg | to him |
-| bhagavato | noun | masc.dat.sg | to the Blessed One; to the Fortunate One |
-| arahato | noun | masc.dat.sg | to the Worthy One |
-| sammā - | ind | adv | fully; completely |
-| sambuddhassa | noun | masc.dat.sg | to the Enlightened One |
+| नमो (namo) | अव्यय (ind) | अव्यय (ind) | नमन; वंदना |
+| तस्स (tassa) | सर्वनाम (pron) | पु.च.एक (masc.dat.sg) | उन (भगवान्) को |
+| भगवतो (bhagavato) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | भगवान् को; धन्यवान् को |
+| अरहतो (arahato) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | अर्हन्त को; पूजनीय को |
+| सम्मा - (sammā -) | अव्यय (ind) | क्रि.वि. (adv) | सम्यक्; पूर्ण रूप से |
+| सम्बुद्धस्स (sambuddhassa) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | संबुद्ध को |
 
-**Homage to him, the Blessed One, the Worthy One, the fully Enlightened One.**
+**उन भगवान्, अर्हन्त, सम्यक् संबुद्ध को नमस्कार।**

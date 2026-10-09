@@ -1,7 +1,7 @@
 # BPC Hindi Keys
 
-- [Class 1 Key to Exercises](1_class.md)
-- [Class 2 Key to Exercises](2_class.md)
+- [कक्षा 1 अभ्यासों की उत्तर कुंजी](1_class.md)
+- [कक्षा 2 अभ्यासों की उत्तर कुंजी](2_class.md)
 - [Class 3 Key to Exercises](3_class.md)
 - [Class 4 Key to Exercises](4_class.md)
 - [Class 5 Key to Exercises](5_class.md)
