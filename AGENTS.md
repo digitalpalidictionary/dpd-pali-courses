@@ -153,7 +153,7 @@ Translate the English prose into clear, natural Hindi. Keep everything else exac
 
 **Never add** raw HTML (other than the existing `<br>`), `&nbsp;`, or other special codes.
 
-**Footnotes:** the Hindi file must have exactly the same footnote numbers as the English file, in the same places.
+**Footnotes:** the Hindi file must have exactly the same footnote numbers as the English file, in the same places. Attach footnote markers (e.g., `[^1]`) only once to the Devanagari text, never repeat them inside the Roman transliteration in parentheses, so that footnotes do not duplicate in the generated PDF.
 
 When you finish a file, compare it with the English file: the same headings count, the same footnote numbers, the same numbered items, and the same table rows.
 
