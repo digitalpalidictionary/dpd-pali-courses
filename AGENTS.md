@@ -255,3 +255,4 @@ translate class 3 lessons into Hindi
 - If a passage is unclear, or the English seems to contain a mistake, keep the English meaning, add nothing new, and note it for the translator to raise with the maintainer.
 - Do not "improve" or restructure the course content. This is a faithful translation.
 - Do not edit `mkdocs.yaml`. It is generated, and git ignores it.
+- Wherever you encounter a repeated problem, ask the user if you can add the solution to the `AGENTS.md` file, so it does not happen in the next session.
