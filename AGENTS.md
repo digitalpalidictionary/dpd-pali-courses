@@ -126,9 +126,8 @@ Translate the English prose into clear, natural Hindi. Keep everything else exac
 
 | What | Example |
 | --- | --- |
-| Pāḷi words and sentences, in Roman script with all diacritics | `ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi` |
 | Heading marks at the start of a line | `#`, `##`, `###` |
-| Bold and italic marks | `**text**`, `*text*` (translate the text inside) |
+| Bold and italic marks | `**text**`, `*text*` (translate/convert the text inside) |
 | Heading IDs and layout tags | `{: #declension-of-u-masc}`, `{: .align-right }` |
 | Line breaks | `<br>` |
 | Escaped characters | `\>` (keep the backslash) |
@@ -137,17 +136,18 @@ Translate the English prose into clear, natural Hindi. Keep everything else exac
 | Link targets | the part in `( )`: `(../../generated/vocab/class-10.md)`, `(https://find.dhamma.gift/...)` |
 | Text-reference links | `[MN4](...)`, `[DHP130](...)` |
 | Images | `![](../../assets/images/kahapana.png)` |
-| Grammar abbreviations | `pron`, `masc.acc.sg`, `pr.1st.sg`, `nt`, `fem.nom.sg` |
-| Root and derivation lines | `**√gam 1 a (go) ; √gam + a \> gaccha ; ...**` |
+| Root and derivation structure | `**√gam 1 a (go) ; √gam + a \> gaccha ; ...**` |
 
-**Translate:**
+**Translate / Convert:**
 
 - Headings (after the `#` marks)
 - Explanations, instructions, and notes
+- **Pāḷi words, phrases, and sentences:** convert into Devanagari script (e.g., `naro` → `नरो`, `ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi` → `अहं भवन्तं गोतमं सरणं गच्छामि`). Roman script with diacritics can be kept in parentheses alongside where helpful.
+- **Grammar terms and abbreviations:** convert into Hindi/Devanagari (e.g., `noun` → `संज्ञा`, `pron` → `सर्वनाम`, `masc.nom.sg` → `पु.प्र.एक`, `pr.1st.sg` → `व.का.उ.पु.एक / लट् १.१`, etc.).
 - Link text that is an English word, for example `[vocabulary](...)` → `[शब्दावली](...)`. Keep the target.
 - Footnote text (after `[^12]:`)
-- In exercise and key tables, the **English** column and its header (`English` → `हिन्दी`). Keep the `Pāli`, `POS` and `Grammar` columns as they are.
-- In the keys, the bold sentence translation under each table, for example `**I go for refuge to the master Gotama**`.
+- In exercise and key tables, convert `Pāli` to Devanagari script, translate `POS` and `Grammar` to Hindi, and translate the `English` column to `हिन्दी`.
+- In the keys, the bold sentence translation under each table, for example `**I go for refuge to the master Gotama**` → `**मैं उन भगवान् गोतम की शरण जाता हूँ**`.
 
 **Tables:** keep every `|` and the `| --- |` separator row. Keep the same number of rows and columns. Do not put a `|` inside your Hindi text.
 

@@ -2,9 +2,9 @@
 
 विभक्ति विधान (Declension) संज्ञा अंग (stem) में प्रत्यय जोड़कर उसके लिंग, वचन और कारक को दर्शाने की व्याकरणिक प्रणाली है। (V. Perniola के अनुसार)
 
-संज्ञाओं के **3 लिंग** होते हैं – पुल्लिंग, नपुंसकलिङ्ग और स्त्रीलिङ्ग। (gram.)
+संज्ञाओं के **3 लिंग** होते हैं – पुल्लिंग (masculine), नपुंसकलिङ्ग (neuter) और स्त्रीलिङ्ग (feminine)। (gram.)
 
-संज्ञाओं के **2 वचन** होते हैं – एकवचन और बहुवचन।
+संज्ञाओं के **2 वचन** होते हैं – एकवचन (singular) और बहुवचन (plural)।
 
 संज्ञाएँ **8 विभक्तियों** में रूपान्तरित होती हैं।
 
@@ -14,18 +14,18 @@
 
 | | | |
 | --- | --- | --- |
-| thera | masc. | स्थविर / ज्येष्ठ भिक्षु |
-| sāvaka | masc. | शिष्य |
-| sīha | masc. | सिंह |
-| upāsaka | masc. | उपासक / भक्त |
-| āvāsa | masc. | आवास / निवास स्थान |
-| gāma | masc. | गाँव |
-| patta | masc. | भिक्षापात्र |
-| magga | masc. | मार्ग / रास्ता |
-| gacchati | masc. | जाता है |
-| khādati | masc. | खाता है |
-| carati | masc. | चलता है / घूमता है |
-| deti | masc. | देता है |
+| थेर (thera) | पु. (masc.) | स्थविर / ज्येष्ठ भिक्षु |
+| सावक (sāvaka) | पु. (masc.) | शिष्य |
+| सीह (sīha) | पु. (masc.) | सिंह |
+| उपासक (upāsaka) | पु. (masc.) | उपासक / भक्त |
+| आवास (āvāsa) | पु. (masc.) | आवास / निवास स्थान |
+| गाम (gāma) | पु. (masc.) | गाँव |
+| पत्त (patta) | पु. (masc.) | भिक्षापात्र |
+| मग्ग (magga) | पु. (masc.) | मार्ग / रास्ता |
+| गच्छति (gacchati) | क्रि. (verb) | जाता है |
+| खादति (khādati) | क्रि. (verb) | खाता है |
+| चरति (carati) | क्रि. (verb) | चलता है / घूमता है |
+| देति (deti) | क्रि. (verb) | देता है |
 
 ## 1. प्रथमा विभक्ति (paṭhamā)
 
@@ -33,7 +33,7 @@
 
 **स्थविर** चलते हैं।
 
-**thero** carati.
+**थेरो चरति।** (thero carati)
 
 ## 2. द्वितीया विभक्ति (dutiyā)
 
@@ -41,19 +41,19 @@
 
 सिंह **शिष्य को** खाता है।
 
-sīho sāvak**aṃ** khādati.
+**सीहो सावकं खादति।** (sīho sāvakaṃ khādati)
 
-यदि कहना हो "शिष्य सिंह को खाता है", तो पालि में कैसे कहेंगे? (सावको सीहं खादति)
+यदि कहना हो "शिष्य सिंह को खाता है", तो पालि में कैसे कहेंगे? (**सावको सीहं खादति।**)
 
 द्वितीया विभक्ति किसी स्थान की ओर **जाने** या रास्ते पर **चलने** को भी दर्शाती है।
 
 उपासक **गाँव को** जाता है।
 
-upāsako gām**aṃ** gacchati.
+**उपासको गामं गच्छति।** (upāsako gāmaṃ gacchati)
 
 स्थविर **मार्ग पर** चलते हैं।
 
-thero magg**aṃ** carati.
+**थेरो मग्गं चरति।** (thero maggaṃ carati)
 
 इसे “**गतिवाचक द्वितीया**” (accusative of motion) कहा जाता है और यह अत्यंत सामान्य है।
 
@@ -65,15 +65,15 @@ thero magg**aṃ** carati.
 
 स्थविर **शिष्य के साथ** गाँव जाते हैं।
 
-thero **sāvakena** gāmaṃ gacchati.
+**थेरो सावकेन गामं गच्छति।** (thero sāvakena gāmaṃ gacchati)
 
 स्थविर **आकाश मार्ग से** गाँव जाते हैं।
 
-thero ākās**ena** gāmaṃ gacchati.
+**थेरो आकासेन गामं गच्छति।** (thero ākāsena gāmaṃ gacchati)
 
 शिष्य **सिंह द्वारा** खाया जाता है।
 
-sāvako sīh**ena** khajjati
+**सावको सीहेन खज्जति।** (sāvako sīhena khajjati)
 
 ## 4. चतुर्थी विभक्ति (catutthī)
 
@@ -83,13 +83,13 @@ sāvako sīh**ena** khajjati
 
 स्थविर उपासक को पात्र देते हैं।
 
-thero **upāsakassa** pattaṃ deti.
+**थेरो उपासकस्स पत्तं देति।** (thero upāsakassa pattaṃ deti)
 
-thero **sāvakāya** cīvaraṃ deti.
+**थेरो सावकाय चीवरं देति।** (thero sāvakāya cīvaraṃ deti)
 
 (अनुवाद करें: स्थविर शिष्य के लिए चीवर देते हैं)
 
-namo **tassa** **bhagavato**.
+**नमो तस्स भगवतो।** (namo tassa bhagavato)
 
 (अनुवाद करें: उन भगवान् को नमस्कार!)
 
@@ -101,11 +101,11 @@ namo **tassa** **bhagavato**.
 
 उपासक **आवास से** जाता है।
 
-upāsako **āvāsamhā** gacchati.
+**उपासको आवासम्हा गच्छति।** (upāsako āvāsamhā疏gacchati)
 
-upāsako **āvāsā** gacchati.
+**उपासको आवासा गच्छति।** (upāsako āvāsā gacchati)
 
-upāsako **āvāsasmā** gacchati.
+**उपासको आवासस्मा गच्छति।** (upāsako āvāsasmā gacchati)
 
 ## 6. षष्ठी विभक्ति (chaṭṭhī)
 
@@ -115,7 +115,7 @@ upāsako **āvāsasmā** gacchati.
 
 **स्थविर का** शिष्य गाँव जाता है।
 
-**therassa** sāvako gāmaṃ gacchati.
+**थेरस्स सावको गामं गच्छति।** (therassa sāvako gāmaṃ gacchati)
 
 ## 7. सप्तमी विभक्ति (sattamī)
 
@@ -123,9 +123,9 @@ upāsako **āvāsasmā** gacchati.
 
 सिंह **गाँव में** घूमता है।
 
-sīho gām**e** carati.
+**सीहो गामे चरति।** (sīho gāme carati)
 
-sīho gām**asmiṃ** carati.
+**सीहो गामस्मिं चरति।** (sīho gāmasmiṃ carati)
 
 ## 8. सम्बोधन (ālapana)
 
@@ -133,28 +133,28 @@ sīho gām**asmiṃ** carati.
 
 **हे उपासक,** आओ!
 
-ehi **upāsaka**!
+**एहि उपासक!** (ehi upāsaka!)
 
-ehi **paññādhammika!**
+**एहि पञ्ञाधम्मिक!** (ehi paññādhammika!)
 
 **संक्षिप्त सारांश (In Summary)**
 
 | | | |
 | --- | --- | --- |
-| 1. प्रथमा (Nominative) | nar**o** | मनुष्य (कर्ता) |
-| 2. द्वितीया (Accusative) | nar**aṃ** | मनुष्य को (कर्म) |
-| 3. तृतीया (Instrumental) | nar**ena** | मनुष्य के द्वारा / साथ |
-| 4. चतुर्थी (Dative) | nar**āya**<br>nar**assa** | मनुष्य के लिए / को |
-| 5. पञ्चमी (Ablative) | nar**ā**<br>nar**amhā**<br>nar**asmā** | मनुष्य से |
-| 6. षष्ठी (Genitive) | nar**assa** | मनुष्य का / के / की |
-| 7. सप्तमी (Locative) | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | मनुष्य में / पर |
-| 8. सम्बोधन (Vocative) | nar**a**<br>nar**ā** | हे मनुष्य! |
+| 1. प्रथमा (Nominative) | **नरो** (naro) | मनुष्य (कर्ता) |
+| 2. द्वितीया (Accusative) | **नरं** (naraṃ) | मनुष्य को (कर्म) |
+| 3. तृतीया (Instrumental) | **नरेन** (narena) | मनुष्य के द्वारा / साथ |
+| 4. चतुर्थी (Dative) | **नराय / नरस्स** (narāya / narassa) | मनुष्य के लिए / को |
+| 5. पञ्चमी (Ablative) | **नरा / नरम्हा / नरस्मा** (narā / naramhā / narasmā) | मनुष्य से |
+| 6. षष्ठी (Genitive) | **नरस्स** (narassa) | मनुष्य का / के / की |
+| 7. सप्तमी (Locative) | **नरे / नरम्हि / नरस्मिं** (nare / naramhi / narasmiṃ) | मनुष्य में / पर |
+| 8. सम्बोधन (Vocative) | **नर / नरा** (nara / narā) | हे मनुष्य! |
 
 थाई और श्रीलंकाई भिक्षुओं के नामों में क्या अंतर है?
 
-Sumedh**o**
+**सुमेधो** (Sumedho)
 
-Sumedh**a**
+**सुमेध** (Sumedha)
 
 इनमें से कौन सा सही है? (थाई में प्रथमा एकवचन 'ओ' प्रत्यय, श्रीलंकाई में मूल प्रातिपदिक रूप)
 
@@ -163,14 +163,14 @@ Sumedh**a**
 | | | |
 | --- | --- | --- |
 | | एकवचन (Singular) | बहुवचन (Plural) |
-| 1. प्रथमा (Nominative) | nar**o** | nar**ā** |
-| 2. द्वितीया (Accusative) | nar**aṃ** | nar**e** |
-| 3. तृतीया (Instrumental) | nar**ena** | nar**ehi** |
-| 4. चतुर्थी (Dative) | nar**āya**<br>nar**assa** | nar**ānaṃ** |
-| 5. पञ्चमी (Ablative) | nar**ā**<br>nar**amhā**<br>nar**asmā** | nar**ehi** |
-| 6. षष्ठी (Genitive) | nar**assa** | nar**ānaṃ** |
-| 7. सप्तमी (Locative) | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | nar**esu** |
-| 8. सम्बोधन (Vocative) | nar**a**<br>nar**ā** | nar**ā** |
+| 1. प्रथमा (Nominative) | **नरो** (naro) | **नरा** (narā) |
+| 2. द्वितीया (Accusative) | **नरं** (naraṃ) | **नरे** (nare) |
+| 3. तृतीया (Instrumental) | **नरेन** (narena) | **नरेहि** (narehi) |
+| 4. चतुर्थी (Dative) | **नराय / नरस्स** (narāya / narassa) | **नरानं** (narānaṃ) |
+| 5. पञ्चमी (Ablative) | **नरा / नरम्हा / नरस्मा** (narā / naramhā / narasmā) | **नरेहि** (narehi) |
+| 6. षष्ठी (Genitive) | **नरस्स** (narassa) | **नरानं** (narānaṃ) |
+| 7. सप्तमी (Locative) | **नरे / नरम्हि / नरस्मिं** (nare / naramhi / narasmiṃ) | **नरेसु** (naresu) |
+| 8. सम्बोधन (Vocative) | **नर / नरा** (nara / narā) | **नरा** (narā) |
 
 कृपया इस तालिका को कंठस्थ करें। क्यों?
 
@@ -187,4 +187,4 @@ Sumedh**a**
 
 यह केवल शब्दकोश के रूप हैं ... विशेषणों और कृदन्तों की तो बात ही छोड़ें जो इसी रूप में चलते हैं।
 
-[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
+[^3]: इस दस्तावेज़ में आवृत्ति का सारा डेटा वर्ष 2023 में DPD से एकत्र किया गया था। ध्यान दें कि शब्दकोश में अक्सर एक शब्द के कई अर्थ होते हैं, और प्रत्येक अर्थ को एक अलग प्रविष्टि माना जाता है।

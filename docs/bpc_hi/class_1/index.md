@@ -23,9 +23,9 @@
 3. साप्ताहिक छात्र बैठक (प्रति कक्षा 1 घंटा)
 4. डिजिटल उपकरणों का उपयोग
 5. समझ को गहरा करने के लिए अतिरिक्त वाचन (Extra Reading)।
-6. Be up-to-date.
+6. अद्यतन (अप-टू-डेट) रहें।
 
-[^1]: Meant a humorous element. The Pāli course was offered originally to the Bhikkhu Saṅgha, who ideally go forth from home to homelessness (agārasmā anāgāriyaṃ pabbajanti).
+[^1]: यह एक हास्यपूर्ण तत्व है। यह पालि पाठ्यक्रम मूल रूप से भिक्षु संघ के लिए प्रस्तुत किया गया था, जो आदर्श रूप से घर से बेघर होने के लिए प्रव्रजित होते हैं (अगारस्मा अनागारियं पब्बजन्ति - agārasmā anāgāriyaṃ pabbajanti)।
 
 ## विकास के लिए आवश्यक कौशल {: #skills-you-need-to-develop}
 
@@ -50,7 +50,7 @@
 
 3. अतिरिक्त अंकी डेक्स:
     - [SBS Pāli English Recitations](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)
-    - [पातिमोक्ख Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
+    - [पातिमोक्ख (Pātimokkha) Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)
     - [बुद्धवचन (The Buddha’s Words)](http://filesrv1:8083/home/index.html)
 
 ## अनगारिक कार्य (Homeless work)
