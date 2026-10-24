@@ -1,26 +1,26 @@
-# Homeless work
+# अनगारिक कार्य (Homeless work)
 
-1.  Exercises for class 3
+1.  कक्षा 3 के लिए अभ्यास
 
-2.  Make 5 sentences (English - Pāli) using [vocabulary](../../generated/vocab/class-03.md) from class 3.
-3.  Learn the vocabulary from class 3 using Anki Deck “Vocab Pāli Class”
-4.  Learn conjugation of pr. from class 3 from Anki Deck “Grammar Pāli Class”
+2.  कक्षा 3 की [शब्दावली](../../generated/vocab/class-03.md) का उपयोग करके (हिन्दी/अंग्रेज़ी से पालि में) 5 वाक्य बनाएं।
+3.  "Vocab Pāli Class" अंकी डेक का उपयोग करके कक्षा 3 की शब्दावली याद करें।
+4.  "Grammar Pāli Class" अंकी डेक से कक्षा 3 के वर्तमान काल रूप याद करें।
 
-**Extra:**
+**अतिरिक्त (Extra):**
 
--   Please break up each verb into:
+-   कृपया प्रत्येक क्रिया को इस प्रकार विभाजित करें:
 
-    root + conjugational sign \> base
+    धातु + विकरण प्रत्यय \> अंग (base)
 
-    base + verbal termination \> verb
+    अंग + आख्यात प्रत्यय \> क्रिया (verb)
 
-    e.g. coreti: √cur (steal) + e \> core + ti \> coreti
+    उदा. चोरेति (coreti): √चुर् (cur - चुराना) + ए (e) \> चोरे (core) + ति (ti) \> चोरेति (coreti)
 
-## Extra Reading
+## अतिरिक्त वाचन (Extra Reading)
 
 | | |
 | --- | --- |
-| A.K. Warder Introduction to Pāli | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group |
-| V. Perniola<br>Pāli Grammar | p70 – 84 (chapter 6 verbs) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | p83 – 93 (chapter 10 verbs) |
-| A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
+| A.K. Warder Introduction to Pāli | पृष्ठ 10–13 (प्रथम गण)<br>पृष्ठ 15–17 (अनियमित अंग)<br>पृष्ठ 21–22 (सप्तम गण) |
+| V. Perniola<br>Pāli Grammar | पृष्ठ 70–84 (अध्याय 6, क्रियाएँ) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | पृष्ठ 83–93 (अध्याय 10, क्रियाएँ) |
+| A Bhikkhu Māgadhabhāsā (Pāḷi) | संबंधित अध्याय |

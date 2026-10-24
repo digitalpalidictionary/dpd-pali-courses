@@ -1,16 +1,16 @@
-# Historical Present
+# ऐतिहासिक वर्तमान काल (Historical Present)
 
-In Pāli, verbs in the **present tense** are sometimes used to describe **past events**.  
-This is called the [**historical present**](https://en.wikipedia.org/wiki/Historical_present)
+पालि में, कभी-कभी **भूतकाल की घटनाओं** का वर्णन करने के लिए **वर्तमान काल** की क्रियाओं का प्रयोग किया जाता है।  
+इसे [**ऐतिहासिक वर्तमान काल (historical present)**](https://en.wikipedia.org/wiki/Historical_present) कहा जाता है।
 
-It is grammatically present tense, but is **translated in the past tense** in English.
+व्याकरण की दृष्टि से यह वर्तमान काल है, परन्तु अनुवाद में इसे **भूतकाल के रूप में अनूदित** किया जाता है।
 
-Usually used in sutta introductions.
+यह प्रायः सुत्तों की भूमिकाओं (निदान) में प्रयुक्त होता है।
 
-*Atha kho bhagavā ārāmaṃ gacchati.*
+*अथ खो भगवा आरामं गच्छति। (Atha kho bhagavā ārāmaṃ gacchati.)*
 
-Lit. Then the Blessed One goes to the monastery.
+शाब्दिक: तब भगवान् आराम (विहार) को जाते हैं।
 
-But in translation we say:
+परन्तु अनुवाद में हम कहते हैं:
 
-Then the Blessed One went to the monastery.
+तब भगवान् आराम (विहार) को गए।

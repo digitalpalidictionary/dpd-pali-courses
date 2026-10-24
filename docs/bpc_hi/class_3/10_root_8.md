@@ -1,60 +1,60 @@
-# Root Group 8 - curādigaṇa
+# धातु-गण 8 – चुरादिगण (curādigaṇa)
 
-= cur + ādi + gaṇa
+= चुर् + आदि + गण (cur + ādi + gaṇa)
 
-= √cur + etc + group
+= √चुर् + आदि + समूह (√cur + etc + group)
 
-The next most common root group with around 100 roots is the √cur group. Their bases have two forms, created by the conjugational signs **e** and **aya**.
+लगभग 100 धातुओं के साथ अगला सबसे सामान्य धातु-समूह √चुर् समूह है। इनके अंग के दो रूप होते हैं, जो **ए (e)** और **अय (aya)** विकरण प्रत्ययों द्वारा बनते हैं।
 
-√mant (counsel, invite) √cit (think, intend)
+√मन्त् (mant - परामर्श करना, निमंत्रित करना) √चित् (cit - सोचना, विचारना)
 
-√chad (cover, conceal) √lok (look)
+√छद् (chad - ढकना, छिपाना) √लोक् (lok - देखना)
 
-**root + conjugational sign \> base**
+**धातु (Root) + विकरण प्रत्यय (Conjugational sign) \> अंग (Base)**
 
-**[prefix(es)] + base + verbal ending \> verb**
+**[उपसर्ग] + अंग + आख्यात प्रत्यय \> क्रिया (Verb)**
 
-1\. √cur (steal) + \*[^11]e \> c**o**re
+1\. √चुर् (cur - चुराना) + \*[^11]ए (e) \> च**ो**रे (core)
 
-[^11]: We use symbol **\*** or traditionally **ṇa** (sign for vuddhi)
+[^11]: हम प्रतीक चिह्न **\*** या पारम्परिक रूप से **ण** (वृद्धि का संकेतक) का उपयोग करते हैं।
 
-core + ti \> coreti (he steals)
+चोरे (core) + ति (ti) \> चोरेति (coreti) (वह चुराता है)
 
-2\. √cur (steal) + \*aya \> c**o**raya
+2\. √चुर् (cur - चुराना) + \*अय (aya) \> च**ो**रय (coraya)
 
-coraya + ti \> corayati (he steals)
+चोरय (coraya) + ति (ti) \> चोरयति (corayati) (वह चुराता है)
 
-1\. √mant (counsel) + \*e \> mante
+1\. √मन्त् (mant - परामर्श करना) + \*ए (e) \> मन्ते (mante)
 
-mante + ti \> manteti (he advises)
+मन्ते (mante) + ति (ti) \> मन्तेति (manteti) (वह सलाह देता है)
 
-2\. √mant (counsel) + \*aya \> mantaya
+2\. √मन्त् (mant - परामर्श करना) + \*अय (aya) \> मन्तय (mantaya)
 
-mantaya + ti \> mantayati (he advises)
+मन्तय (mantaya) + ति (ti) \> मन्तयति (mantayati) (वह सलाह देता है)
 
-**Conjugation of -eti pr**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | so dhāre**ti** | he carries | te dhāre**nti** | they carry |
-| 2nd | tvaṃ dhāre**si** | you carry | tumhe dhāre**tha** | you all carry |
-| 1st | ahaṃ dhāre**mi** | I carry | mayaṃ dhāre**ma** | we carry |
-
-**Conjugation of -ati pr**
+**-eti कारान्त वर्तमान काल रूप-विधान (Conjugation of -eti pr)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | dhāraya**ti** | he carries | dhāraya**nti** | they carry |
-| 2nd | dhāraya**si** | you carry | dhāraya**tha** | you all carry |
-| 1st | dhāray**āmi** | I carry | dhāray**āma** | we carry |
+| | एकवचन (singular) | | बहुवचन (plural) | |
+| प्रथम पुरुष (3rd) | सो धारे**ति** (so dhāre**ti**) | वह धारण करता है | ते धारे**न्ति** (te dhāre**nti**) | वे धारण करते हैं |
+| मध्यम पुरुष (2nd) | त्वं धारे**सि** (tvaṃ dhāre**si**) | तुम धारण करते हो | तुम्हे धारे**थ** (tumhe dhāre**tha**) | तुम सब धारण करते हो |
+| उत्तम पुरुष (1st) | अहं धारे**मि** (ahaṃ dhāre**mi**) | मैं धारण करता हूँ | मयं धारे**म** (mayaṃ dhāre**ma**) | हम धारण करते हैं |
+
+**-ati कारान्त वर्तमान काल रूप-विधान (Conjugation of -ati pr)**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| | एकवचन (singular) | | बहुवचन (plural) | |
+| प्रथम पुरुष (3rd) | धारय**ति** (dhāraya**ti**) | वह धारण करता है | धारय**न्ति** (dhāraya**nti**) | वे धारण करते हैं |
+| मध्यम पुरुष (2nd) | धारय**सि** (dhāraya**si**) | तुम धारण करते हो | धारय**थ** (dhāraya**tha**) | तुम सब धारण करते हो |
+| उत्तम पुरुष (1st) | धारय**ामि** (dhāray**āmi**) | मैं धारण करता हूँ | धारय**ाम** (dhāray**āma**) | हम धारण करते हैं |
 
 ---
 
-And now let’s reread the definition:
+और अब आइए उस परिभाषा को पुनः पढ़ें:
 
-*“**Conjugation**, or the inflection of verbs, consists in making the verbal root undergo **certain changes in form**, by the addition to it of certain **prefixes** and **terminations** to show the difference of **Voice**, of **Tense**, of **Mode**, of **Person**, and of **Number**.”*
+*“**आख्यात-विधान (Conjugation)** अथवा क्रियाओं के रूप-परिवर्तन का तात्पर्य धातु में कुछ **उपसर्ग** और **प्रत्यय** जोड़कर उसके **रूप में विशिष्ट परिवर्तन** करने से है, ताकि **वाच्य (Voice)**, **काल (Tense)**, **भाव/अर्थ (Mood/Mode)**, **पुरुष (Person)** और **वचन (Number)** के भेद को दर्शाया जा सके।”*
 
-\- Charles Duroiselle
+\- चार्ल्स डुरोइसेल (Charles Duroiselle)
 {: .align-right }

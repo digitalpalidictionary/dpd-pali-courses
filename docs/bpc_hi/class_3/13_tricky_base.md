@@ -1,19 +1,19 @@
-# Some tricky bases
+# कुछ जटिल धातु-अंग (Tricky Bases)
 
-These are some forms of verbal bases you may encounter in the exercises, they are worth mentioning.
+ये क्रिया-अंगों के कुछ रूप हैं जो आपको अभ्यासों में मिल सकते हैं, इनका उल्लेख करना उपयोगी है:
 
-√dis (see) + a \> passa + ti \> passati (sanskrit)
+√दिस् (dis - देखना) + अ (a) \> पस्स (passa) + ति (ti) \> पस्सति (passati) (संस्कृत-प्रभाव)
 
-√ṭhā (stand) + ṭhā + a \> tiṭṭha + ti \> tiṭṭhati (reduplication)
+√ठा (ṭhā - खड़ा होना) + ठा + अ (a) \> तिट्ठ (tiṭṭha) + ति (ti) \> तिट्ठति (tiṭṭhati) (द्वित्व / reduplication)
 
-√sad (sit) + a \> sīda + ti \> nisīdati (sanskrit)
+√सद् (sad - बैठना) + अ (a) \> सीद (sīda) + ति (ti) \> निसीदति (nisīdati) (संस्कृत-प्रभाव)
 
-√gam (go) + a \> gaccha + ti \> gacchati (sanskrit)
+√गम् (gam - जाना) + अ (a) \> गच्छ (gaccha) + ति (ti) \> गच्छति (gacchati) (संस्कृत-प्रभाव)
 
-√sī (sleep) + a \> saya + ti \> sayati (vuddhi)
+√सी (sī - सोना) + अ (a) \> सय (saya) + ति (ti) \> सयति (sayati) (वृद्धि/गुण / vuddhi)
 
-√ñā (know) + nā \> jānā + ti \> jānāti (sanskrit)
+√ञा (ñā - जानना) + ना (nā) \> जाना (jānā) + ति (ti) \> जानाति (jānāti) (संस्कृत-प्रभाव)
 
-√dā (give) + dā + a \> dadā + ti \> dadāti (reduplication)
+√दा (dā - देना) + दा + अ (a) \> ददा (dadā) + ति (ti) \> ददाति (dadāti) (द्वित्व / reduplication)
 
-pa + √hā (abandon) + hā + a \> jaha + ti \> pajahati (reduplication)
+प (pa) + √हा (hā - छोड़ना) + हा + अ (a) \> जह (jaha) + ति (ti) \> पजहति (pajahati) (द्वित्व / reduplication)

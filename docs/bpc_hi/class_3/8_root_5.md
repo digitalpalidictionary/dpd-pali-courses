@@ -1,30 +1,30 @@
-# Root Group 5 - kiyādigaṇa
+# धातु-गण 5 – क्रियादिगण (kiyādigaṇa)
 
-= ki + ādi + gaṇa
+= कि + आदि + गण (ki + ādi + gaṇa)
 
-= √ki + etc + group
+= √कि + आदि + समूह (√ki + etc + group)
 
-This group has only about 20 roots which are very commonly used.
+इस गण में केवल लगभग 20 धातुएँ हैं जिनका बहुत अधिक प्रयोग होता है।
 
-It has the conjugational sign **nā.**
+इसका विकरण प्रत्यय **ना (nā)** है।
 
-e.g. √ci (collect) + **nā** \> cinā
+उदा. √चि (ci - एकत्र करना) + **ना (nā)** \> चिना (cinā)
 
-cinā + ti \> cināti (he collects)
+चिना (cinā) + ति (ti) \> चिनाति (cināti) (वह एकत्र करता है)
 
-√ji (conquer) + **nā** \> jinā
+√जि (ji - जीतना) + **ना (nā)** \> जिना (jinā)
 
-jinā + ti \> jināti (he conquers)
+जिना (jinā) + ति (ti) \> जिनाति (jināti) (वह जीतता है)
 
-√ñā (know) + **nā** \> jānā
+√ञा (ñā - जानना) + **ना (nā)** \> जाना (jānā)
 
-jānā + ti \> jānāti (he knows)
+जाना (jānā) + ति (ti) \> जानाति (jānāti) (वह जानता है)
 
-**Conjugation of -āti pr**
+**-āti कारान्त वर्तमान काल रूप-विधान (Conjugation of -āti pr)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | so jānā**ti** | he knows | te jāna**nti** | they know |
-| 2nd | tvaṃ jānā**si** | you know | tumhe jānā**tha** | you all know |
-| 1st | ahaṃ jānā**mi** | I know | mayaṃ jānā**ma** | we know |
+| | एकवचन (singular) | | बहुवचन (plural) | |
+| प्रथम पुरुष (3rd) | सो जाना**ति** (so jānā**ti**) | वह जानता है | ते जान**न्ति** (te jāna**nti**) | वे जानते हैं |
+| मध्यम पुरुष (2nd) | त्वं जाना**सि** (tvaṃ jānā**si**) | तुम जानते हो | तुम्हे जाना**थ** (tumhe jānā**tha**) | तुम सब जानते हो |
+| उत्तम पुरुष (1st) | अहं जाना**मि** (ahaṃ jānā**mi**) | मैं जानता हूँ | मयं जाना**म** (mayaṃ jānā**ma**) | हम जानते हैं |

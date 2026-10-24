@@ -1,30 +1,30 @@
-# Present Tense Verbs
+# वर्तमान काल की क्रियाएँ (Present Tense)
 
-There are **2 Voices**
+**2 वाच्य (Voices)** होते हैं:
 
 | | |
 | --- | --- |
-| Active Voice<br>(parassapada) | the action transfers to another person<br>e.g. hana**ti** – he hits (someone else) |
-| Middle or Reflective Voice<br>(attanopada)[^6] | the action comes back to the agent <br>e.g. hana**te** – he hits (himself) |
+| कर्तृवाच्य / परस्मैपद<br>(parassapada) | क्रिया का फल अन्य व्यक्ति पर पड़ता है<br>उदा. हन**ति** (hana**ti**) – वह मारता है (किसी अन्य को) |
+| आत्मनेपद<br>(attanopada)[^6] | क्रिया का फल स्वयं कर्ता पर लौटता है<br>उदा. हन**ते** (hana**te**) – वह मारता है (स्वयं को) |
 
-[^6]: This is discussed in details in the Intermediate Pāli Course
+[^6]: इसकी चर्चा इंटरमीडिएट पालि कोर्स (Intermediate Pāli Course) में विस्तार से की गई है।
 
-There are **2 numbers**
+**2 वचन (Numbers)** होते हैं:
 
 | | | | |
 | --- | --- | --- | --- |
-| 1. | singular | vada**ti** | he speaks |
-| 2. | plural | vada**nti** | they speak |
+| 1. | एकवचन (singular) | वद**ति** (vada**ti**) | वह बोलता है |
+| 2. | बहुवचन (plural) | वद**न्ति** (vada**nti**) | वे बोलते हैं |
 
-And there are **3 persons**
+और **3 पुरुष (Persons)** होते हैं:
 
-**Conjugation of -ati pr**
+**-ati कारान्त वर्तमान काल रूप-विधान (Conjugation)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd person[^7] | so vada**ti** | he speaks | te vada**nti** | they speak |
-| 2nd person | tvaṃ vada**si** | you speak | tumhe vada**tha** | you all speak |
-| 1st person | ahaṃ vad**āmi** | I speak | mayaṃ vad**āma** | we speak |
+| | एकवचन (singular) | बहुवचन (plural) | | |
+| प्रथम पुरुष (3rd person)[^7] | सो वद**ति** (so vada**ti**) | वह बोलता है | ते वद**न्ति** (te vada**nti**) | वे बोलते हैं |
+| मध्यम पुरुष (2nd person) | त्वं वद**सि** (tvaṃ vada**si**) | तुम बोलते हो | तुम्हे वद**थ** (tumhe vada**tha**) | तुम सब बोलते हो |
+| उत्तम पुरुष (1st person) | अहं वद**ामि** (ahaṃ vad**āmi**) | मैं बोलता हूँ | मयं वद**ाम** (mayaṃ vad**āma**) | हम बोलते हैं |
 
-[^7]: Please note that Pāli grammars refer to the 3 persons in the opposite order of English.
+[^7]: कृपया ध्यान दें कि पालि व्याकरण में 3 पुरुषों का क्रम अंग्रेज़ी के विपरीत (प्रथम पुरुष = 3rd person, मध्यम = 2nd, उत्तम = 1st) होता है।

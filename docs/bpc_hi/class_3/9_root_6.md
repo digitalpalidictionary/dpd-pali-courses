@@ -1,15 +1,15 @@
-# Root Group 6 - gahādigaṇa
+# धातु-गण 6 – गहादिगण (gahādigaṇa)
 
-= gah + ādi + gaṇa
+= गह + आदि + गण (gah + ādi + gaṇa)
 
-= √gah + etc + group
+= √गह + आदि + समूह (√gah + etc + group)
 
-It has the conjugational sign **ṇhā.**
+इसका विकरण प्रत्यय **ण्हा (ṇhā)** है।
 
-√gah (grasp) + **ṇhā** \> gaṇhā
+√गह (gah - पकड़ना) + **ण्हा (ṇhā)** \> गण्हा (gaṇhā)
 
-gaṇhā + ti \> gaṇhāti (he grabs, takes)
+गण्हा (gaṇhā) + ति (ti) \> गण्हाति (gaṇhāti) (वह पकड़ता है, ग्रहण करता है)
 
-√tas (thirst) + **ṇhā** \> taṇhā
+√तस् (tas - प्यासा होना) + **ण्हा (ṇhā)** \> तण्हा (taṇhā)
 
-taṇhā + ā \> taṇhā (craving)
+तण्हा (taṇhā) + आ (ā) \> तण्हा (taṇhā) (तृष्णा / आसक्ति)

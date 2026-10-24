@@ -1,34 +1,34 @@
-# Some things that will help you when doing the exercises
+# कुछ बातें जो आपको अभ्यास करते समय मदद करेंगी
 
-## Word Order
+## पद-क्रम (Word Order)
 
-English has typical **SVO** word order: **S**ubject **V**erb **O**bject
+अंग्रेज़ी में प्रायः **SVO** पद-क्रम होता है: **S**ubject (कर्ता) **V**erb (क्रिया) **O**bject (कर्म)
 
-Pāli has **SOV** word order. **S**ubject **O**bject **V**erb
+पालि (हिन्दी की तरह) में **SOV** पद-क्रम होता है: **S**ubject (कर्ता) **O**bject (कर्म) **V**erb (क्रिया)
 
-e.g. English: the man goes to the village
+उदा. अंग्रेज़ी: the man goes to the village
 
-Pāli: naro gāmaṃ gacchati (man village he goes)
+पालि: नरो गामं गच्छति (naro gāmaṃ gacchati) (मनुष्य गाँव को जाता है)
 
-There are, of course, numerous exceptions, but this is most common in Pāli prose.
+यद्यपि कई अपवाद भी हैं, किन्तु पालि गद्य में यही क्रम सर्वाधिक सामान्य है।
 
-## The genitive case
+## षष्ठी विभक्ति (The Genitive Case)
 
-The genitive case always comes *before* the noun it qualifies.
+षष्ठी विभक्ति का पद सदैव उस संज्ञा से *पहले* आता है जिसकी वह विशेषता बताता है।
 
-e.g. the body of the man, the man’s body
+उदा. मनुष्य का शरीर (the man’s body)
 
-manussassa kāyo
+मनुस्सस्स कायो (manussassa kāyo)
 
-## Agreement between nouns (pronouns…) and verbs
+## संज्ञा (सर्वनाम...) और क्रिया के बीच अन्वय (Agreement)
 
-The **subject** of the sentence and the **verb** must **agree** in **number**.
+वाक्य के **कर्ता (Subject)** और **क्रिया (Verb)** का **वचन (Number)** समान होना चाहिए।
 
-e.g. sakuṇā ākāse uḍḍayanti.
+उदा. सकुना आकासे उड्डयन्ति। (sakuṇā ākāse uḍḍayanti.)
 
 | | | | |
 | --- | --- | --- | --- |
-| sakuṇā | noun | masc.nom.**pl** | birds |
-| ākāse | noun | masc.loc.sg | in the sky |
-| uḍḍayanti | verb | pr.3.**pl** | (they) fly |
-| Birds fly in the sky. | | | |
+| सकुना (sakuṇā) | संज्ञा (noun) | पु.प्र.**बहु** (masc.nom.**pl**) | पक्षीगण |
+| आकासे (ākāse) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | आकाश में |
+| उड्डयन्ति (uḍḍayanti) | क्रिया (verb) | व.का.प्र.पु.**बहु** (pr.3.**pl**) | (वे) उड़ते हैं |
+| पक्षी आकाश में उड़ते हैं। | | | |

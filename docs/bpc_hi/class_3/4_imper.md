@@ -1,19 +1,19 @@
-# Imperative Verbs!
+# आज्ञार्थक क्रियाएँ (Imperative Verbs)!
 
-The imperative mood can express a command, gentle advice, a blessing, a curse, a wish or a prayer.
+आज्ञार्थक भाव (Imperative mood) आज्ञा, विनम्र सलाह, आशीर्वाद, शाप, इच्छा या प्रार्थना को व्यक्त कर सकता है।
 
-e.g. gacch**a**! (Go! You must go!)
+उदा. गच्छ! (gacch**a**!) (जाओ! तुम्हें जाना चाहिए!)
 
-phāsu vihar**atu** (Let him live comfortably!)
+फासु विहर**तु** (phāsu vihar**atu**) (वह सुखपूर्वक रहे!)
 
-vassasataṃ jīv**a** (May you live 100 years!)
+वस्ससतं जीव (vassasataṃ jīv**a**) (आप सौ वर्ष जिएँ!)
 
-**Conjugation of -ati imp**
+**-ati कारान्त आज्ञार्थक रूप-विधान (Conjugation of -ati imp)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| 3rd | vada**tu** | he must speak | vad**antu** | they must speak |
-| 2nd | vad**a**<br>vad**āhi** | you must speak | vad**atha** | you all must speak |
-| 1st | vad**āmi** | I must speak | vad**āma** | we must speak |
+| प्रथम पुरुष (3rd) | वद**तु** (vada**tu**) | उसे बोलना चाहिए | वद**न्तु** (vad**antu**) | उन्हें बोलना चाहिए |
+| मध्यम पुरुष (2nd) | वद<br>वद**ाहि** (vad**a**<br>vad**āhi**) | तुम्हें बोलना चाहिए | वद**थ** (vad**atha**) | तुम सब को बोलना चाहिए |
+| उत्तम पुरुष (1st) | वद**ामि** (vad**āmi**) | मुझे बोलना चाहिए | वद**ाम** (vad**āma**) | हमें बोलना चाहिए |
 
-Notice the similarity between the present tense and the imperative.
+वर्तमान काल और आज्ञार्थक रूपों के बीच की समानता पर ध्यान दें।

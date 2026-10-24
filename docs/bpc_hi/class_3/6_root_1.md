@@ -1,35 +1,35 @@
-# Root Group 1 - bhūvādigaṇa
+# धातु-गण 1 – भूवादिगण (bhūvādigaṇa)
 
-= bhū + ādi + gaṇa
+= भू + आदि + गण (bhū + ādi + gaṇa)
 
-= √bhū + etc + group
+= √भू + आदि + समूह (√bhū + etc + group)
 
-66% of roots in Pāli (around 500) [^9] belong to the first root group
+पालि की 66% धातुएँ (लगभग 500)[^9] प्रथम धातु-गण से संबंधित हैं।
 
-[^9]: Statistical numbers are based on DPD root analysis conducted in 2023.
+[^9]: ये सांख्यिकीय आँकड़े 2023 में किए गए DPD धातु विश्लेषण पर आधारित हैं।
 
-√gam (go) √ṭhā (stand)
+√गम् (gam - जाना) √ठा (ṭhā - खड़ा होना, रुकना)
 
-√dis (see) √dhā (place, support)
+√दिस् (dis - देखना) √धा (dhā - रखना, धारण करना)
 
-√kam (go) √i (come, go)
+√कम् (kam - जाना, कदम रखना) √इ (i - आना, जाना)
 
-√bhū (be) √car (act, go)
+√भू (bhū - होना) √चर् (car - चलना, आचरण करना)
 
-which has the conjugational sign **a**. All these verbs get formed like this:
+जिसका विकरण प्रत्यय **अ (a)** है। ये सभी क्रियाएँ इस प्रकार बनती हैं:
 
-**root + conjugational sign \> base**
+**धातु (Root) + विकरण प्रत्यय (Conjugational sign) \> अंग (Base)**
 
-**[prefix(es)] + base + verbal ending \> verb**
+**[उपसर्ग] + अंग + आख्यात प्रत्यय \> क्रिया (Verb)**
 
-√kam (go) + **a** \> kama
+√कम् (kam - जाना) + **अ (a)** \> कम (kama)
 
-kama + ti \> kamati (he goes)
+कम (kama) + ति (ti) \> कमति (kamati) (वह जाता है)
 
-√dhāv (run) + **a** \> dhāva
+√धाव् (dhāv - दौड़ना) + **अ (a)** \> धाव (dhāva)
 
-pari + dhāva + ti \> paridhāvati (he runs around)
+परि (pari) + धाव (dhāva) + ति (ti) \> परिधावति (paridhāvati) (वह चारों ओर दौड़ता है)
 
-√car (walk) + **a** \> cara
+√चर् (car - चलना) + **अ (a)** \> चर (cara)
 
-pari + cara + ti \> paricarati (he walks around)
+परि (pari) + चर (cara) + ति (ti) \> परिचरति (paricarati) (वह सेवा करता है / चारों ओर घूमता है)

@@ -1,23 +1,23 @@
-# Conjugation of Verbs
+# क्रिया रूप / आख्यात विधान
 
-*“**Conjugation**, or the inflection of verbs, consists in making the verbal root undergo **certain changes in form**, by the addition to it of certain **prefixes** and **terminations** to show the difference of **Voice**, of **Tense**, of **Mode**, of **Person**, and of **Number**.”*
+*“**आख्यात-विधान (Conjugation)** अथवा क्रियाओं के रूप-परिवर्तन का तात्पर्य धातु में कुछ **उपसर्ग** और **प्रत्यय** जोड़कर उसके **रूप में विशिष्ट परिवर्तन** करने से है, ताकि **वाच्य (Voice)**, **काल (Tense)**, **भाव/अर्थ (Mood/Mode)**, **पुरुष (Person)** और **वचन (Number)** के भेद को दर्शाया जा सके।”*
 
-\- Charles Duroiselle
+\- चार्ल्स डुरोइसेल (Charles Duroiselle)
 {: .align-right }
 
-*“What does that mean!?”*
+*“इसका क्या अर्थ है!?”*
 
-There are a number of tenses and moods of verbs in Pāli.
+पालि में क्रियाओं के कई काल (tenses) और भाव/अर्थ (moods) होते हैं।
 
 | | | | |
 | --- | --- | --- | --- |
-| 1. | Present Tense | dhāvati | he runs, he is running |
-| 2. | Past Tense (Aorist) | dhāvi | he ran |
-| 3. | Future Tense | dhāvissati | he will run |
-| 4. | Imperative | dhāvatu | he must run; run! |
-| 5. | Optative | dhāveyya | he could run, he should run |
-| 6. | Imperfect Past [^5] | dhāvā | he ran (starting from yesterday, when seen) |
-| 7. | Perfect Past | dadhāva | he ran (unseen) |
-| 8. | Conditional | dhāvissa | if he would have run, then... |
+| 1. | वर्तमान काल (Present Tense) | धावति (dhāvati) | वह दौड़ता है, वह दौड़ रहा है |
+| 2. | भूतकाल (Past Tense / Aorist) | धावि (dhāvi) | वह दौड़ा |
+| 3. | भविष्यत् काल (Future Tense) | धाविस्सति (dhāvissati) | वह दौड़ेगा |
+| 4. | आज्ञार्थक (Imperative) | धावतु (dhāvatu) | उसे दौड़ना चाहिए; दौड़ो! |
+| 5. | विधिलिङ् (Optative) | धावेय्य (dhāveyya) | वह दौड़ सकता है, उसे दौड़ना चाहिए |
+| 6. | अनद्यतन भूतकाल (Imperfect Past)[^5] | धावा (dhāvā) | वह दौड़ा (कल से शुरू होकर, देखा गया) |
+| 7. | परोक्ष भूतकाल (Perfect Past) | दधाव (dadhāva) | वह दौड़ा (परोक्ष / अनदेखा) |
+| 8. | हेतुहेतुमद्भाव (Conditional) | धाविस्स (dhāvissa) | यदि वह दौड़ता, तो... |
 
-[^5]: Those are discussed in details in the Intermediate Pāli Course
+[^5]: इनकी चर्चा इंटरमीडिएट पालि कोर्स (Intermediate Pāli Course) में विस्तार से की गई है।

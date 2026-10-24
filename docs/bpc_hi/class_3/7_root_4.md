@@ -1,42 +1,42 @@
-# Root Group 4 - svādigaṇa
+# धातु-गण 4 – स्वादिगण (svādigaṇa)
 
-= su + ādi + gaṇa
+= सु + आदि + गण (su + ādi + gaṇa)
 
-= √su + etc + group
+= √सु + आदि + समूह (√su + etc + group)
 
-There are only a few roots in this group. This group has the conjugational sign **ṇā** (**ṇo)[^10]** after a vowel and **uṇā** after a consonant.
+इस समूह में बहुत कम धातुएँ हैं। इस गण का विकरण प्रत्यय स्वर के बाद **णा (ṇā)** (**णो / ṇo)[^10]** और व्यंजन के बाद **उणा (uṇā)** होता है।
 
-[^10]: less common
+[^10]: अपेक्षाकृत कम प्रयुक्त
 
-√su (hear)
+√सु (su - सुनना)
 
-√ap (reach, attain)
+√अप् (ap - पहुँचना, प्राप्त करना)
 
-√sak (be able)
+√सक् (sak - समर्थ होना, सकना)
 
-√hi (send)
+√हि (hi - भेजना, प्रेषित करना)
 
-e.g. √su (hear) + **ṇā** \> suṇā
+उदा. √सु (su - सुनना) + **णा (ṇā)** \> सुणा (suṇā)
 
-suṇā + ti \> suṇāti (he hears)
+सुणा (suṇā) + ति (ti) \> सुणाति (suṇāti) (वह सुनता है)
 
-√su (hear) + **ṇo** \> suṇo
+√सु (su - सुनना) + **णो (ṇo)** \> सुणो (suṇo)
 
-suṇo + ti \> suṇoti (he hears)
+सुणो (suṇo) + ति (ti) \> सुणोति (suṇoti) (वह सुनता है)
 
-√ap (reach, attain) + u**ṇā** \> apuṇā
+√अप् (ap - पहुँचना) + उ**णा (uṇā)** \> अपुणा (apuṇā)
 
-pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
+प (pa) + अपुणा (apuṇā) + ति (ti) \> पापुणाति (pāpuṇāti) (वह पहुँचता है, प्राप्त करता है)
 
-√sak (be able) + **uṇā** \> sakuṇā
+√सक् (sak - समर्थ होना) + **उणा (uṇā)** \> सकुणा (sakuṇā)
 
-sakuṇā + ti \> sakuṇāti (he is able)
+सकुणा (sakuṇā) + ति (ti) \> सकुणाति (sakuṇāti) (वह समर्थ है / कर सकता है)
 
-**Conjugation of -āti pr**
+**-āti कारान्त वर्तमान काल रूप-विधान (Conjugation of -āti pr)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | suṇā**ti** | he hears | suṇa**nti** | they hear |
-| 2nd | suṇā**si** | you hear | suṇā**tha** | you all hear |
-| 1st | suṇā**mi** | I hear | suṇā**ma** | we hear |
+| | एकवचन (singular) | | बहुवचन (plural) | |
+| प्रथम पुरुष (3rd) | सुणा**ति** (suṇā**ti**) | वह सुनता है | सुण**न्ति** (suṇa**nti**) | वे सुनते हैं |
+| मध्यम पुरुष (2nd) | सुणा**सि** (suṇā**si**) | तुम सुनते हो | सुणा**थ** (suṇā**tha**) | तुम सब सुनते हो |
+| उत्तम पुरुष (1st) | सुणा**मि** (suṇā**mi**) | मैं सुनता हूँ | सुणा**म** (suṇā**ma**) | हम सुनते हैं |
