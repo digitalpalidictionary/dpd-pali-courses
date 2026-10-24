@@ -2,7 +2,7 @@
 
 - [कक्षा 1 अभ्यास](1_class.md)
 - [कक्षा 2 अभ्यास](2_class.md)
-- [Class 3 Exercises](3_class.md)
+- [कक्षा 3 अभ्यास](3_class.md)
 - [Class 4 Exercises](4_class.md)
 - [Class 5 Exercises](5_class.md)
 - [Class 6 Exercises](6_class.md)

@@ -1,354 +1,354 @@
-# Class 3 Key to Exercises
-1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html)<br>ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
+# कक्षा 3 अभ्यासों की उत्तर कुंजी
+1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html)<br>अहं भवन्तं गोतमं सरणं गच्छामि (ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi)
 
-| Pāli | POS | Grammar | English |
+| पालि (Pāli) | पदभेद (POS) | व्याकरण (Grammar) | हिन्दी |
 | --- | --- | --- | --- |
-| ahaṃ | pron | 1st.nom.sg | I |
-| bhavantaṃ | noun | masc.acc.sg | the master, sir |
-| gotamaṃ | noun | masc.acc.sg | Gotama |
-| saraṇaṃ | noun | nt.acc.sg | refuge |
-| gacchāmi | verb | pr.1st.sg | I go |
+| अहं (ahaṃ) | सर्वनाम (pron) | उ.पु.प्र.एक (1st.nom.sg) | मैं |
+| भवन्तं (bhavantaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | भगवान्, आदरणीय, श्रीमान् |
+| गोतमं (gotamaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | गोतम |
+| सरणं (saraṇaṃ) | संज्ञा (noun) | नपुं.द्वि.एक (nt.acc.sg) | शरण |
+| गच्छामि (gacchāmi) | क्रिया (verb) | व.का.उ.पु.एक (pr.1st.sg) | जाता हूँ |
 
-**I go for refuge to the master Gotama**
+**मैं उन भगवान् गोतम की शरण जाता हूँ।**
 
-2. [DHP130](https://find.dhamma.gift/bw/dhp/dhp129-145.html) <br>sabbe tasanti daṇḍassa.
+2. [DHP130](https://find.dhamma.gift/bw/dhp/dhp129-145.html) <br>सब्बे तसन्ति दण्डस्स। (sabbe tasanti daṇḍassa.)
 
 | | | | |
 | --- | --- | --- | --- |
-| sabbe | pron | masc.nom.pl | all |
-| tasanti | verb | pr.3rd.pl [+gen] | are fearful |
-| daṇḍassa | noun | masc.gen.sg | of a club; stick |
+| सब्बे (sabbe) | सर्वनाम (pron) | पु.प्र.बहु (masc.nom.pl) | सभी, सब |
+| तसन्ति (tasanti) | क्रिया (verb) | व.का.प्र.पु.बहु [+षष्ठी] (pr.3rd.pl [+gen]) | डरते हैं, भयभीत होते हैं |
+| दण्डस्स (daṇḍassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | दण्ड से; लाठी से |
 
-**All are fearful of a stick.**
+**सभी दण्ड से भयभीत होते हैं।**
 
-3. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) <br>tathāgate saddhaṃ paṭilabhati
-
-| | | | |
-| --- | --- | --- | --- |
-| tathāgate | noun | masc.loc.sg | in the Tathāgata |
-| saddhaṃ | noun | fem.acc.sg | faith; confidence |
-| paṭilabhati | verb | pr.3rd.sg [+acc] | obtains; receives |
-
-**He obtains faith in the Tathāgata.**
-
-4. [MN64](https://find.dhamma.gift/bw/mn/mn64.html) <br>so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.
+3. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) <br>तथागते सद्धं पटिलभति (tathāgate saddhaṃ paṭilabhati)
 
 | | | | |
 | --- | --- | --- | --- |
-| so | pron | masc.nom.sg | he |
-| tattha | ind | adv | there |
-| ṭhito | pp | masc.nom.sg | stood, standing, remaining |
-| āsavānaṃ | noun | masc.gen.pl | of the effluents, defilements |
-| khayaṃ | noun | masc.acc.sg | destruction |
-| pāpuṇāti | verb | pr.3rd.sg | he reaches, he attains. |
+| तथागते (tathāgate) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | तथागत में |
+| सद्धं (saddhaṃ) | संज्ञा (noun) | स्त्री.द्वि.एक (fem.acc.sg) | श्रद्धा; विश्वास |
+| पटिलभति (paṭilabhati) | क्रिया (verb) | व.का.प्र.पु.एक [+द्वितीया] (pr.3rd.sg [+acc]) | प्राप्त करता है |
 
-**Remaining there, he reaches the destruction of the defilements.**
+**वह तथागत में श्रद्धा प्राप्त करता है।**
 
-5. [DHP354](https://find.dhamma.gift/bw/dhp/dhp334-359.html) <br>sabbarasaṃ dhammaraso jināti
+4. [MN64](https://find.dhamma.gift/bw/mn/mn64.html) <br>सो तत्थ ठितो आसवानं खयं पापुणाति। (so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.)
 
 | | | | |
 | --- | --- | --- | --- |
-| sabba-rasaṃ | noun | masc.acc.sg | every flavour |
-| dhamma-raso | noun | masc.nom.sg | dhamma flavour |
-| jināti | verb | pr.3rd.sg | it conquers; surpasses |
+| सो (so) | सर्वनाम (pron) | पु.प्र.एक (masc.nom.sg) | वह |
+| तत्थ (tattha) | अव्यय (ind) | क्रि.वि. (adv) | वहाँ |
+| ठितो (ṭhito) | कृदन्त (pp) | पु.प्र.एक (masc.nom.sg) | स्थित, ठहरा हुआ, रहकर |
+| आसवानं (āsavānaṃ) | संज्ञा (noun) | पु.ष.बहु (masc.gen.pl) | आस्रवों का; विकारों का |
+| खयं (khayaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | क्षय; नाश |
+| पापुणाति (pāpuṇāti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | वह प्राप्त करता है, पहुँचता है |
 
-**The flavour of the Dhamma surpasses every flavour.**
+**वहाँ स्थित रहकर, वह आस्रवों के क्षय को प्राप्त करता है।**
 
-6. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
-
-| | | | |
-| --- | --- | --- | --- |
-| so | pron | masc.nom.sg | he |
-| ‘idaṃ dukkhan'ti | pron+noun+ind | nt.nom.sg | "this is suffering"; "this is dissatisfaction" |
-| yathābhūtaṃ | ind | adv | as it truly is |
-| pajānāti | verb | pr.3rd.sg | knows clearly; understands |
-
-**He knows clearly "this is suffering" as it truly is.**
-
-7. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>paṭiggaṇhātu āyasmā cīvaracetāpannaṃ
+5. [DHP354](https://find.dhamma.gift/bw/dhp/dhp334-359.html) <br>सब्बरसं धम्मरसो जिनाति (sabbarasaṃ dhammaraso jināti)
 
 | | | | |
 | --- | --- | --- | --- |
-| paṭiggaṇhātu | verb | imp.3rd.sg | may he receive |
-| āyasmā | noun | masc.nom.sg | the venerable |
-| cīvaracetāpannaṃ | noun | nt.acc.sg | robe-fund |
+| सब्ब-रसं (sabba-rasaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | प्रत्येक रस को; सभी रसों को |
+| धम्म-रसो (dhamma-raso) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | धर्म का रस, धर्म-रस |
+| जिनाति (jināti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | जीतता है; श्रेष्ठतर होता है |
 
-**Let the venerable receive the robe-fund.**
+**धर्म का रस सभी रसों को जीत लेता है (सभी रसों से बढ़कर है)।**
 
-8. [DN19.7](https://find.dhamma.gift/bw/dn/dn19.html) (simpl) <br>rājā jotipālaṃ māṇavaṃ āmantayati
-
-| | | | |
-| --- | --- | --- | --- |
-| rājā | noun | masc.nom.sg | king |
-| joti-pālaṃ | noun | masc.acc.sg | Protector of the Light |
-| māṇavaṃ | noun | masc.acc.sg | young gentleman, Brahman |
-| āmantayati | verb | pr.3rd.sg | he addresses |
-
-**The king addresses the young gentleman (brahmin), Protector of the Light (Jotipāla).**
-
-9. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>so kāyaṃ vivekajena pītisukhena paripūreti
+6. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>सो ‘इदं दुक्खन्’ति यथाभूतं पजानाति (so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti)
 
 | | | | |
 | --- | --- | --- | --- |
-| so | pron | masc.nom.sg | he |
-| kāyaṃ | noun | masc.acc.sg | the body |
-| vivekajena | adj | nt.instr.sg | with born from seclusion |
-| pītisukhena | noun | nt.instr.sg | with joy and happiness |
-| paripūreti | verb | pr.3rd.sg | he completely fills; suffuses |
+| सो (so) | सर्वनाम (pron) | पु.प्र.एक (masc.nom.sg) | वह |
+| ‘इदं दुक्खन्’ति (‘idaṃ dukkhan'ti) | सर्वनाम+संज्ञा+अव्यय (pron+noun+ind) | नपुं.प्र.एक (nt.nom.sg) | "यह दुःख है" |
+| यथाभूतं (yathābhūtaṃ) | अव्यय (ind) | क्रि.वि. (adv) | जैसा वास्तव में है; यथार्थ रूप में |
+| पजानाति (pajānāti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | भली-भाँति जानता है; स्पष्ट समझता है |
 
-**He completely fills up the body with joy and happiness produced by seclusion.**
+**वह यथार्थ रूप से भली-भाँति जानता है कि "यह दुःख है"।**
 
-10. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>sukhaṃ ca kāyena paṭisaṃvedeti
-
-| | | | |
-| --- | --- | --- | --- |
-| sukhaṃ | noun | nt.acc.sg | happiness; pleasure; ease |
-| ca | ind | conj | and |
-| kāyena | noun | masc.instr.sg | by means of the body; with the body |
-| paṭisaṃvedeti | verb | pr.3rd.sg | he experiences; feels |
-
-**He experiences pleasure by means of the body.**
-
-11. [SNP22](https://find.dhamma.gift/bw/snp/snp2.10.html)<br>devā manussā ca sitā tiṭṭhanti
+7. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>पटिग्गण्हातु आयस्मा चीवरचेतापन्नं (paṭiggaṇhātu āyasmā cīvaracetāpannaṃ)
 
 | | | | |
 | --- | --- | --- | --- |
-| devā | noun | masc.nom.pl | deities |
-| manussā | noun | masc.nom.pl | human beings |
-| ca | conj | ind | and |
-| sitā | pp | masc.nom.pl | attached; dependent |
-| tiṭṭhanti | verb | pr.3rd.pl | they remain |
+| पटिग्गण्हातु (paṭiggaṇhātu) | क्रिया (verb) | आज्ञा.प्र.पु.एक (imp.3rd.sg) | स्वीकार करें; ग्रहण करें |
+| आयस्मा (āyasmā) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | आयुष्मान्; आदरणीय |
+| चीवरचेतापन्नं (cīvaracetāpannaṃ) | संज्ञा (noun) | नपुं.द्वि.एक (nt.acc.sg) | चीवर-मूल्य (चीवर निधि) |
 
-**Deities and human beings remain attached.**
+**आयुष्मान् चीवर-मूल्य (चीवर निधि) स्वीकार करें।**
 
-12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
+8. [DN19.7](https://find.dhamma.gift/bw/dn/dn19.html) (simpl) <br>राजा जोतिपालं माणवं आमन्तयति (rājā jotipālaṃ māṇavaṃ āmantayati)
 
 | | | | |
 | --- | --- | --- | --- |
-| paṭipadā | noun | fem.nom.sg | path of practice; way |
-| upasamāya | noun | masc.dat.sg | for calmness/tranquility |
-| sambodhāya | noun | masc.dat.sg | for full awakening |
-| nibbānāya | noun | nt.dat.sg | for total emancipation |
-| saṃvattati | verb | pr.3rd.sg | is conducive |
+| राजा (rājā) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | राजा |
+| जोति-पालं (joti-pālaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | ज्योतिपाल (प्रकाश का रक्षक) |
+| माणवं (māṇavaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | माणवक, तरुण ब्राह्मण |
+| आमन्तयति (āmantayati) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | सम्बोधित करता है, बुलाता है |
 
-**The path of practice is conducive for calmness, full awakening [and] total emancipation.**
+**राजा युवा ब्राह्मण, ज्योतिपाल (प्रकाश के रक्षक) को सम्बोधित करता है।**
 
-13. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl)<br>dhammaṃ suṇāti putto
-
-| | | | |
-| --- | --- | --- | --- |
-| dhammaṃ | noun | masc.acc.sg | the Dhamma |
-| suṇāti | verb | pr.3rd.sg | listens to/hears |
-| putto | noun | masc.nom.sg | the son |
-
-**The son listens to the Dhamma.**
-
-14. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html) (simpl)<br>sāvako dhammaṃ anussarati
+9. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>सो कायं विवेकजेन पीतिसुखेन परिपूरेति (so kāyaṃ vivekajena pītisukhena paripūreti)
 
 | | | | |
 | --- | --- | --- | --- |
-| sāvako | noun | masc.nom.sg | the disciple |
-| dhammaṃ | noun | masc.acc.sg | the Dhamma |
-| anussarati | verb | pr.3rd.sg | remembers/recollects |
+| सो (so) | सर्वनाम (pron) | पु.प्र.एक (masc.nom.sg) | वह |
+| कायं (kāyaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | शरीर को |
+| विवेकजेन (vivekajena) | विशेषण (adj) | नपुं.तृ.एक (nt.instr.sg) | विवेक-जन्य से; एकान्त से उत्पन्न |
+| पीतिसुखेन (pītisukhena) | संज्ञा (noun) | नपुं.तृ.एक (nt.instr.sg) | प्रीति और सुख से |
+| परिपूरेति (paripūreti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | परिपूर्ण करता है; पूरी तरह भरता है |
 
-**The disciple recollects the Dhamma.**
+**वह एकान्त (विवेक) से उत्पन्न प्रीति और सुख से शरीर को परिपूर्ण करता है।**
 
-15. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) (simpl)<br>āvāse therā viharanti
-
-| | | | |
-| --- | --- | --- | --- |
-| āvāse | noun | masc.loc.sg | in the residence |
-| therā | noun | masc.nom.pl | the elders |
-| viharanti | verb | pr.3rd.pl | they dwell |
-
-**The elders dwell in the residence.**
-
-16. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html)<br>parikkhāraṃ paṭisevāmi
+10. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>सुखं च कायेन पटिसंवेदेति (sukhaṃ ca kāyena paṭisaṃvedeti)
 
 | | | | |
 | --- | --- | --- | --- |
-| parikkhāraṃ | noun | masc.ac.sg | the requisite (object) |
-| paṭisevāmi | verb | pr.1st.sg | I make use of |
+| सुखं (sukhaṃ) | संज्ञा (noun) | नपुं.द्वि.एक (nt.acc.sg) | सुख, प्रसन्नता, शान्ति |
+| च (ca) | अव्यय (ind) | संयोजक (conj) | और |
+| कायेन (kāyena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | शरीर से; काया के द्वारा |
+| पटिसंवेदेति (paṭisaṃvedeti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | अनुभव करता है; महसूस करता है |
 
-**I make use of the requisite.**
+**और वह काया से (शरीर के द्वारा) सुख का अनुभव करता है।**
 
-17. [AN3.79](https://find.dhamma.gift/bw/an/an3.78.html)<br>kusalā dhammā abhivaḍḍhanti
-
-| | | | |
-| --- | --- | --- | --- |
-| kusalā | adj | masc.nom.pl | wholesome |
-| dhammā | noun | masc.nom.pl | states of mind |
-| abhivaḍḍhanti | verb | pr.3rd.pl | increase more and more |
-
-**Wholesome states of mind increase more and more.**
-
-18. [SN22.25](https://find.dhamma.gift/bw/sn/sn22.25.html) (simpl)<br>saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
+11. [SNP22](https://find.dhamma.gift/bw/snp/snp2.10.html)<br>देवा मनुस्सा च सिता तिट्ठन्ति (devā manussā ca sitā tiṭṭhanti)
 
 | | | | |
 | --- | --- | --- | --- |
-| saṅkhāresu | noun | masc.loc.pl | in volitional formations |
-| chandaṃ | noun | masc.acc.sg | desire; interest |
-| ca | conj | ind | and |
-| rāgaṃ | noun | masc.acc.sg | passion; lust; desire |
-| pajahatha | verb | imp.2nd.pl | you (all) must abandon |
+| देवा (devā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | देवतागण, देव |
+| मनुस्सा (manussā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | मनुष्य, मनुष्यगण |
+| च (ca) | संयोजक (conj) | अव्यय (ind) | और |
+| सिता (sitā) | कृदन्त (pp) | पु.प्र.बहु (masc.nom.pl) | आसक्त; आश्रित |
+| तिट्ठन्ति (tiṭṭhanti) | क्रिया (verb) | व.का.प्र.पु.बहु (pr.3rd.pl) | रहते हैं; स्थित रहते हैं |
 
-**Abandon interest and desire for volitional formations.**
+**देवता और मनुष्य आसक्त रहते हैं।**
 
-19. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) (simpl)<br>passatha, ānanda, vacanassa pathaṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| passatha | verb | pr.2nd.pl | you (all) see |
-| ānanda | noun | masc.voc.sg | o Ānanda |
-| vacanassa | noun | masc.gen.sg | of speech |
-| pathaṃ | noun | masc.acc.sg | a course |
-
-**You see, Ānanda, a course of speech**
-
-20. [SN55.6](https://find.dhamma.gift/bw/sn/sn55.6.html) (simpl)<br>suṇāma: kosalehi mallesu pakkamati
+12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>पटिपदा उपसमाय सम्बोधाय निब्बानाय संवत्तति (paṭipadā upasamāya sambodhāya nibbānāya saṃvattati)
 
 | | | | |
 | --- | --- | --- | --- |
-| suṇāma | verb | pr.1st.pl | we hear |
-| kosalehi | noun | masc.abl.pl | from the Kosalans |
-| mallesu | noun | masc.loc.pl | in / among the Mallans |
-| pakkamati | verb | pr.3rd.sg | he goes away/sets out |
+| पटिपदा (paṭipadā) | संज्ञा (noun) | स्त्री.प्र.एक (fem.nom.sg) | प्रतिपदा; साधना-मार्ग |
+| उपसमाय (upasamāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | उपशम के लिए; शान्ति के लिए |
+| सम्बोधाय (sambodhāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | सम्बोध के लिए; पूर्ण ज्ञान के लिए |
+| निब्बानाय (nibbānāya) | संज्ञा (noun) | नपुं.च.एक (nt.dat.sg) | निर्वाण के लिए; परम मुक्ति के लिए |
+| संवत्तति (saṃvattati) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | संवर्तित होती है; सहायक होती है |
 
-**We hear: (the Blessed One) sets out from the Kosalans (on tour) in the Mallans.**
+**यह साधना-मार्ग (प्रतिपदा) उपशम के लिए, पूर्ण ज्ञान के लिए, [और] परम मुक्ति (निर्वाण) के लिए संवर्तित होता है।**
 
-21. [MN133](https://find.dhamma.gift/bw/mn/mn133.html) (simpl)<br>dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
-
-| | | | |
-| --- | --- | --- | --- |
-| dhārehi | verb | imp.2nd.sg | you must remember |
-| bhikkhu | noun | masc.voc.sg | monk/bhikkhu |
-| uddesaṃ | noun | masc.acc.sg | the summary |
-| ca | ind | conj | and |
-| vibhaṅgaṃ | noun | masc.acc.sg | the analysis |
-
-**Remember, monk, the summary and the analysis.**
-
-22. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html) (simpl)<br>puthujjano punabbhavāya ceteti
+13. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl)<br>धम्मं सुणाति पुत्तो (dhammaṃ suṇāti putto)
 
 | | | | |
 | --- | --- | --- | --- |
-| puthujjano | noun | masc.nom.sg | a common person |
-| punabbhavāya | noun | masc.dat.sg | for rebirth |
-| ceteti | verb | pr.3rd.sg | intends |
+| धम्मं (dhammaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | धर्म को |
+| सुणाति (suṇāti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | सुनता है |
+| पुत्तो (putto) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | पुत्र, बेटा |
 
-**A common person intends for rebirth.**
+**पुत्र धर्म सुनता है।**
 
-23. [SNP34](https://find.dhamma.gift/bw/snp/snp3.8.html)<br>passa lokassa pariyāyaṃ.
-
-| | | | |
-| --- | --- | --- | --- |
-| passa | verb | imp.2nd.sg | you must see |
-| lokassa | noun | masc.gen.sg | of the world |
-| pariyāyaṃ | noun | masc.acc.sg | the nature; way |
-
-**See the nature of the world.**
-
-24. [MN36](https://find.dhamma.gift/bw/mn/mn36.html)<br>taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
+14. [AN3.71](https://find.dhamma.gift/bw/an/an3.70.html) (simpl)<br>सावको धम्मं अनुस्सरति (sāvako dhammaṃ anussarati)
 
 | | | | |
 | --- | --- | --- | --- |
-| taṃ | pron | masc.acc.sg | that |
-| suṇāhi | verb | imp.2nd.sg | listen |
-| sādhukaṃ | adv | ind | thoroughly; properly |
-| manasi | noun | masc.loc.sg | in mind |
-| karohi | verb | imp.2nd.sg | make |
-| bhāsissāmi | verb | fut.1st.sg | I will speak |
+| सावको (sāvako) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | श्रावक; शिष्य |
+| धम्मं (dhammaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | धर्म को |
+| अनुस्सरति (anussarati) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | स्मरण करता है; अनुस्मरण करता है |
 
-**Listen to that, thoroughly pay attention, I will speak.**
+**श्रावक धर्म का अनुस्मरण करता है।**
 
-25. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl)<br>pātimokkhe saṃvarena viharāhi
+15. [AN4.180](https://find.dhamma.gift/bw/an/an4.180.html) (simpl)<br>आवासे थेरा विहरन्ति (āvāse therā viharanti)
 
 | | | | |
 | --- | --- | --- | --- |
-| pātimokkhe | noun | masc.loc.sg | in the disciplinary code |
-| saṃvarena | noun | masc.instr.sg | with restraint |
-| viharāhi | verb | imp.2nd.sg | you must dwell |
+| आवासे (āvāse) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | आवास में; विहार में |
+| थेरा (therā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | स्थविरगण, थेरगण, वरिष्ठ भिक्षु |
+| विहरन्ति (viharanti) | क्रिया (verb) | व.का.प्र.पु.बहु (pr.3rd.pl) | विहार करते हैं; रहते हैं |
 
-**Dwell with restraint according to the disciplinary code!**
+**स्थविरगण (वरिष्ठ भिक्षु) आवास में विहार करते हैं।**
 
-26. [VIN PAT PC 36](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>handa bhikkhu khāda vā bhuñja vā
-
-| | | | |
-| --- | --- | --- | --- |
-| handa | excl | ind | come on!; come now! let's! |
-| bhikkhu | noun | masc.voc.sg | Bhikkhu |
-| khāda | verb | imp.2nd.sg | chew; eat |
-| vā | conj | ind | or |
-| bhuñja | verb | imp.2nd.sg | consume |
-
-**Come on, bhikkhu, eat or consume!**
-
-27. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
+16. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html)<br>परिक्खारं पटिसेवामि (parikkhāraṃ paṭisevāmi)
 
 | | | | |
 | --- | --- | --- | --- |
-| āyasmato | noun | masc.gen.sg | of venerable |
-| sāriputtassa | noun | masc.gen.sg | of Sāriputta |
-| bhāsitaṃ | noun | nt.acc.sg | the statement; utterance |
-| evaṃ | adv | ind | thus; like this |
-| ājānāma | verb | pr.1st.pl | we understand |
+| परिक्खारं (parikkhāraṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | परिष्कार का; आवश्यक सामग्री का |
+| पटिसेवामि (paṭisevāmi) | क्रिया (verb) | व.का.उ.पु.एक (pr.1st.sg) | उपयोग करता हूँ; सेवन करता हूँ |
 
-**We understand the statement of venerable Sāriputta thus.**
+**मैं आवश्यक सामग्री (परिष्कार) का उपयोग करता हूँ।**
 
-28. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>labhāmi paccattaṃ samathaṃ
+17. [AN3.79](https://find.dhamma.gift/bw/an/an3.78.html)<br>कुसला धम्मा अभिवड्ढन्ति (kusalā dhammā abhivaḍḍhanti)
 
 | | | | |
 | --- | --- | --- | --- |
-| labhāmi | verb | pr.1st.sg | I obtain |
-| paccattaṃ | adv | ind | for oneself; individually |
-| samathaṃ | noun | masc.acc.sg | serenity |
+| कुसला (kusalā) | विशेषण (adj) | पु.प्र.बहु (masc.nom.pl) | कुशल |
+| धम्मा (dhammā) | संज्ञा (noun) | पु.प्र.बहु (masc.nom.pl) | धर्म, मानसिक भाव |
+| अभिवड्ढन्ति (abhivaḍḍhanti) | क्रिया (verb) | व.का.प्र.पु.बहु (pr.3rd.pl) | निरन्तर बढ़ते हैं; अभिवृद्धि पाते हैं |
 
-**I obtain serenity individually.**
+**कुशल मानसिक भाव निरन्तर अभिवृद्धि पाते हैं।**
 
-29. VIN<br>passasi taṃ āpattiṃ
-
-| | | | |
-| --- | --- | --- | --- |
-| passasi | verb | pr.2nd.sg | you see |
-| taṃ | pron | fem.acc.sg | that |
-| āpattiṃ | noun | fem.acc.sg | offence |
-
-**You see that offence.**
-
-30. [SN41.3](https://find.dhamma.gift/bw/sn/sn41.3.html)<br>gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
+18. [SN22.25](https://find.dhamma.gift/bw/sn/sn22.25.html) (simpl)<br>सङ्खारेसु छन्दं च रागं पजहथ। (saṅkhāresu chandaṃ ca rāgaṃ pajahatha.)
 
 | | | | |
 | --- | --- | --- | --- |
-| gahapati | noun | masc.voc.sg | householder |
-| pucchasi | verb | pr.2nd.sg | you ask |
-| diṭṭhiyo | noun | fem.nom.pl | views; beliefs; opinions |
-| loke | noun | masc.loc.sg | in the world |
-| uppajjanti | verb | pr.3rd.pl | arise; appear |
+| सङ्खारेसु (saṅkhāresu) | संज्ञा (noun) | पु.स.बहु (masc.loc.pl) | संस्कारों में |
+| छन्दं (chandaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | छन्द को; रुचि को, इच्छा को |
+| च (ca) | संयोजक (conj) | अव्यय (ind) | और |
+| रागं (rāgaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | राग को; तीव्र इच्छा को |
+| पजहथ (pajahatha) | क्रिया (verb) | आज्ञा.म.पु.बहु (imp.2nd.pl) | त्याग दो! छोड़ दो! |
 
-**You ask, householder: "…views arise in the world…"**
+**संस्कारों के प्रति रुचि (इच्छा) और राग का त्याग करो!**
 
-## Class 3 Extra
-
-1. [MN30](https://find.dhamma.gift/bw/mn/mn30.html) (simpl) <br> brāhmaṇa, puggalaṃ vadāmi.
-
-| Pāli | POS | Grammar | English |
-| --- | --- | --- | --- |
-| brāhmaṇa | noun | masc.voc.sg | O brahmin |
-| puggalaṃ | noun | masc.acc.sg | a person/individual |
-| vadāmi | verb | pr.1st.sg | I speak |
-
-**O brahmin, I speak (about) a person.**
-
-2. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) (simpl) <br>sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
+19. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) (simpl)<br>पस्सथ, आनन्द, वचनस्स पथं (passatha, ānanda, vacanassa pathaṃ)
 
 | | | | |
 | --- | --- | --- | --- |
-| sādhu | ind | ind | it would be good (if) |
-| āyasmantaṃ | noun | masc.acc.sg | venerable (object) |
-| sāriputtaṃ | noun | masc.acc.sg | Sāriputta |
-| paṭibhātu | verb | imp.3rd.sg | may occur (to), become evident (to), lit. may shine back |
-| etassa | pron | nt.gen.sg | of this |
-| bhāsitassa | noun | nt.gen.sg | statement |
-| attho | noun | masc.nom.sg | the meaning |
+| पस्सथ (passatha) | क्रिया (verb) | व.का.म.पु.बहु (pr.2nd.pl) | तुम सब देखो! |
+| आनन्द (ānanda) | संज्ञा (noun) | पु.संबो.एक (masc.voc.sg) | हे आनन्द! |
+| वचनस्स (vacanassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | वचन का; वाणी का |
+| पथं (pathaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | मार्ग, प्रवाह, पथ |
 
-**It would be good if the meaning of this statement may become evident to Venerable Sāriputta. (so that he could explain it to us)<br>fig: It would be good if Ven. Sāriputta would explain the meaning of this statement.**
+**आनन्द! तुम वचन के पथ (प्रवाह) को देखो।**
+
+20. [SN55.6](https://find.dhamma.gift/bw/sn/sn55.6.html) (simpl)<br>सुणाम: कोसलेहि मल्लेसु पक्कमति (suṇāma: kosalehi mallesu pakkamati)
+
+| | | | |
+| --- | --- | --- | --- |
+| सुणाम (suṇāma) | क्रिया (verb) | व.का.उ.पु.बहु (pr.1st.pl) | हम सुनते हैं |
+| कोसलेहि (kosalehi) | संज्ञा (noun) | पु.पं.बहु (masc.abl.pl) | कोसल वासियों से, कोसल देश से |
+| मल्लेसु (mallesu) | संज्ञा (noun) | पु.स.बहु (masc.loc.pl) | मल्लों में, मल्ल देश में |
+| पक्कमति (pakkamati) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | प्रस्थान करते हैं; जाते हैं |
+
+**हम सुनते हैं: (भगवान्) कोसल देश से मल्ल देश में प्रस्थान करते हैं।**
+
+21. [MN133](https://find.dhamma.gift/bw/mn/mn133.html) (simpl)<br>धारेहि, भिक्खु, उद्देसं च विभङ्गं च (dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca)
+
+| | | | |
+| --- | --- | --- | --- |
+| धारेहि (dhārehi) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | धारण करो; याद रखो |
+| भिक्खु (bhikkhu) | संज्ञा (noun) | पु.संबो.एक (masc.voc.sg) | हे भिक्षु! |
+| उद्देसं (uddesaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | संक्षेप को, उद्देश को |
+| च (ca) | अव्यय (ind) | संयोजक (conj) | और |
+| विभङ्गं (vibhaṅgaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | विस्तार को, विभंग को |
+
+**हे भिक्षु! संक्षेप (उद्देश) और विस्तार (विभंग) को धारण करो।**
+
+22. [SN35.248](https://find.dhamma.gift/bw/sn/sn35.248.html) (simpl)<br>पुथुज्जनो पुनब्भवाय चेतेति (puthujjano punabbhavāya ceteti)
+
+| | | | |
+| --- | --- | --- | --- |
+| पुथुज्जनो (puthujjano) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | पृथग्जन, साधारण व्यक्ति |
+| पुनब्भवाय (punabbhavāya) | संज्ञा (noun) | पु.च.एक (masc.dat.sg) | पुनर्जन्म के लिए |
+| चेतेति (ceteti) | क्रिया (verb) | व.का.प्र.पु.एक (pr.3rd.sg) | संकल्प करता है; चेष्टा करता है |
+
+**साधारण व्यक्ति (पृथग्जन) पुनर्जन्म के लिए संकल्प करता है।**
+
+23. [SNP34](https://find.dhamma.gift/bw/snp/snp3.8.html)<br>पस्स लोकस्स परियायं। (passa lokassa pariyāyaṃ.)
+
+| | | | |
+| --- | --- | --- | --- |
+| पस्स (passa) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | देखो! |
+| लोकस्स (lokassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | संसार का/की |
+| परियायं (pariyāyaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | स्वभाव को; रीति को |
+
+**संसार की रीति (स्वभाव) को देखो।**
+
+24. [MN36](https://find.dhamma.gift/bw/mn/mn36.html)<br>तं सुणाहि, साधुकं मनसि करोहि, भासिस्सामि (taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi)
+
+| | | | |
+| --- | --- | --- | --- |
+| तं (taṃ) | सर्वनाम (pron) | पु.द्वि.एक (masc.acc.sg) | उसे |
+| सुणाहि (suṇāhi) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | सुनो! |
+| साधुकं (sādhukaṃ) | क्रि.वि. (adv) | अव्यय (ind) | अच्छी तरह, भली-भाँति |
+| मनसि (manasi) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | मन में |
+| करोहि (karohi) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | करो; धारण करो |
+| भासिस्सामि (bhāsissāmi) | क्रिया (verb) | भ.का.उ.पु.एक (fut.1st.sg) | मैं बोलूँगा |
+
+**उसे सुनो, भली-भाँति मन में धारण करो, मैं बोलूँगा।**
+
+25. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl)<br>पातिमोक्खे संवरेन विहराहि (pātimokkhe saṃvarena viharāhi)
+
+| | | | |
+| --- | --- | --- | --- |
+| पातिमोक्खे (pātimokkhe) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | प्रातिमोक्ष में |
+| संवरेन (saṃvarena) | संज्ञा (noun) | पु.तृ.एक (masc.instr.sg) | संवर (संयम) से |
+| विहराहि (viharāhi) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | विहार करो! |
+
+**प्रातिमोक्ष के संवर (संयम) के साथ विहार करो!**
+
+26. [VIN PAT PC 36](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>हन्द भिक्खु खाद वा भुञ्ज वा (handa bhikkhu khāda vā bhuñja vā)
+
+| | | | |
+| --- | --- | --- | --- |
+| हन्द (handa) | विस्मयादि. (excl) | अव्यय (ind) | अहो!, आओ!, चलो! |
+| भिक्खु (bhikkhu) | संज्ञा (noun) | पु.संबो.एक (masc.voc.sg) | हे भिक्षु! |
+| खाद (khāda) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | खाओ; चबाओ |
+| वा (vā) | संयोजक (conj) | अव्यय (ind) | या |
+| भुञ्ज (bhuñja) | क्रिया (verb) | आज्ञा.म.पु.एक (imp.2nd.sg) | भोग करो; भोजन करो |
+
+**आओ भिक्षु, खाओ या भोजन करो!**
+
+27. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>आयस्मतो सारिपुत्तस्स भासितं एवं आजानाम (āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma)
+
+| | | | |
+| --- | --- | --- | --- |
+| आयस्मतो (āyasmato) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | आयुष्मान् का/के |
+| सारिपुत्तस्स (sāriputtassa) | संज्ञा (noun) | पु.ष.एक (masc.gen.sg) | सारिपुत्र के |
+| भासितं (bhāsitaṃ) | संज्ञा (noun) | नपुं.द्वि.एक (nt.acc.sg) | कथन को; वचन को |
+| एवं (evaṃ) | क्रि.वि. (adv) | अव्यय (ind) | इस प्रकार; ऐसे |
+| आजानाम (ājānāma) | क्रिया (verb) | व.का.उ.पु.बहु (pr.1st.pl) | हम समझते हैं |
+
+**हम आयुष्मान् सारिपुत्र के कथन को इस प्रकार समझते हैं।**
+
+28. [MN48](https://find.dhamma.gift/bw/mn/mn48.html)<br>लभामि पच्चत्तं समथं (labhāmi paccattaṃ samathaṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| लभामि (labhāmi) | क्रिया (verb) | व.का.उ.पु.एक (pr.1st.sg) | मैं प्राप्त करता हूँ |
+| पच्चत्तं (paccattaṃ) | क्रि.वि. (adv) | अव्यय (ind) | व्यक्तिगत रूप से; स्वयं के भीतर |
+| समथं (samathaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | शम को; मानसिक शान्ति को |
+
+**मैं स्वयं अपने भीतर शम (मानसिक शान्ति) प्राप्त करता हूँ।**
+
+29. VIN<br>पस्ससि तं आपत्तिं (passasi taṃ āpattiṃ)
+
+| | | | |
+| --- | --- | --- | --- |
+| पस्ससि (passasi) | क्रिया (verb) | व.का.म.पु.एक (pr.2nd.sg) | तुम देखते हो |
+| तं (taṃ) | सर्वनाम (pron) | स्त्री.द्वि.एक (fem.acc.sg) | उसे |
+| आपत्तिं (āpattiṃ) | संज्ञा (noun) | स्त्री.द्वि.एक (fem.acc.sg) | आपत्ति को; अपराध को |
+
+**तुम उस आपत्ति (अपराध) को देखते हो।**
+
+30. [SN41.3](https://find.dhamma.gift/bw/sn/sn41.3.html)<br>गहपति, पुच्छसि — "... दिट्ठियो लोके उप्पज्जन्ति… (gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…)
+
+| | | | |
+| --- | --- | --- | --- |
+| गहपति (gahapati) | संज्ञा (noun) | पु.संबो.एक (masc.voc.sg) | हे गृहपति! |
+| पुच्छसि (pucchasi) | क्रिया (verb) | व.का.म.पु.एक (pr.2nd.sg) | तुम पूछते हो |
+| दिट्ठियो (diṭṭhiyo) | संज्ञा (noun) | स्त्री.प्र.बहु (fem.nom.pl) | दृष्टियाँ; मान्यताएँ |
+| लोके (loke) | संज्ञा (noun) | पु.स.एक (masc.loc.sg) | संसार में; लोक में |
+| उप्पज्जन्ति (uppajjanti) | क्रिया (verb) | व.का.प्र.पु.बहु (pr.3rd.pl) | उत्पन्न होती हैं; प्रकट होती हैं |
+
+**हे गृहपति, तुम पूछते हो — "... लोक में दृष्टियाँ उत्पन्न होती हैं..."**
+
+## कक्षा 3 अतिरिक्त
+
+1. [MN30](https://find.dhamma.gift/bw/mn/mn30.html) (simpl) <br> ब्राह्मण, पुग्गलं वदामि। (brāhmaṇa, puggalaṃ vadāmi.)
+
+| पालि (Pāli) | पदभेद (POS) | व्याकरण (Grammar) | हिन्दी |
+| --- | --- | --- | --- |
+| ब्राह्मण (brāhmaṇa) | संज्ञा (noun) | पु.संबो.एक (masc.voc.sg) | हे ब्राह्मण! |
+| पुग्गलं (puggalaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | पुद्गल की; व्यक्ति की |
+| वदामि (vadāmi) | क्रिया (verb) | व.का.उ.पु.एक (pr.1st.sg) | मैं बात करता हूँ; कहता हूँ |
+
+**हे ब्राह्मण, मैं एक व्यक्ति (पुद्गल) के विषय में कहता हूँ।**
+
+2. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) (simpl) <br>साधु आयस्मन्तं सारिपुत्तं पटिभातु एतस्स भासितस्स अत्थो (sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho)
+
+| | | | |
+| --- | --- | --- | --- |
+| साधु (sādhu) | अव्यय (ind) | अव्यय (ind) | अच्छा होगा (यदि) |
+| आयस्मन्तं (āyasmantaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | आयुष्मान् को |
+| सारिपुत्तं (sāriputtaṃ) | संज्ञा (noun) | पु.द्वि.एक (masc.acc.sg) | सारिपुत्र को |
+| पटिभातु (paṭibhātu) | क्रिया (verb) | आज्ञा.प्र.पु.एक (imp.3rd.sg) | प्रतिभासित हो, स्पष्ट हो (शाब्दिक: प्रकाशित हो) |
+| एतस्स (etassa) | सर्वनाम (pron) | नपुं.ष.एक (nt.gen.sg) | इस |
+| भासितस्स (bhāsitassa) | संज्ञा (noun) | नपुं.ष.एक (nt.gen.sg) | कथन का; वचन का |
+| अत्थो (attho) | संज्ञा (noun) | पु.प्र.एक (masc.nom.sg) | अर्थ |
+
+**अच्छा होगा यदि इस कथन का अर्थ आयुष्मान् सारिपुत्र को स्पष्ट हो जाए (ताकि वे हमें समझा सकें)।<br>भावार्थ: अच्छा होगा यदि आयुष्मान् सारिपुत्र इस कथन के अर्थ की व्याख्या करें।**
