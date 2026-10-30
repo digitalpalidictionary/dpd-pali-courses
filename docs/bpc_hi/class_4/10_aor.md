@@ -42,7 +42,7 @@
 
 ## प्रथम धातु-गण एवं अन्य (1st conjugation group & others)
 
-**-i कारान्त अद्यतनी रूप-विधान (Conjugation of -i aor)**
+**इकारान्त अद्यतनी रूप-विधान (Conjugation of -i aor)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |

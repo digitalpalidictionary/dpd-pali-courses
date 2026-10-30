@@ -144,6 +144,7 @@ Translate the English prose into clear, natural Hindi. Keep everything else exac
 - Explanations, instructions, and notes
 - **Pāḷi words, phrases, and sentences:** convert into Devanagari script (e.g., `naro` → `नरो`, `ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi` → `अहं भवन्तं गोतमं सरणं गच्छामि`). Roman script with diacritics can be kept in parentheses alongside where helpful.
 - **Grammar terms and abbreviations:** convert into Hindi/Devanagari (e.g., `noun` → `संज्ञा`, `pron` → `सर्वनाम`, `masc.nom.sg` → `पु.प्र.एक`, `pr.1st.sg` → `व.का.उ.पु.एक / लट् १.१`, etc.).
+- **Vowel-ending grammatical terms (कारान्त):** always use standard Sanskrit/Hindi grammatical terms: **अकारान्त** (`-a`), **आकारान्त** (`-ā`), **इकारान्त** (`-i`), **ईकारान्त** (`-ī`), **उकारान्त** (`-u`), **ऊकारान्त** (`-ū`). Never use hyphenated or mixed forms like `-i कारान्त` or `- i कारान्त`.
 - Link text that is an English word, for example `[vocabulary](...)` → `[शब्दावली](...)`. Keep the target.
 - Footnote text (after `[^12]:`)
 - In exercise and key tables, convert `Pāli` to Devanagari script, translate `POS` and `Grammar` to Hindi, and translate the `English` column to `हिन्दी`.

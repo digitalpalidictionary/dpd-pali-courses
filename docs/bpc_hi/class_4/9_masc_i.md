@@ -1,8 +1,8 @@
-# -i कारान्त पुल्लिंग संज्ञा शब्द (Masculine Noun ending in -i)
+# इकारान्त पुल्लिंग संज्ञा शब्द (Masculine Noun ending in -i)
 
 DPD में ऐसी लगभग 400 संज्ञाएँ हैं[^12]।
 
-## -i कारान्त पुल्लिंग रूप-विधान (Declension of -i masc) {: #declension-of-i-masc}
+## इकारान्त पुल्लिंग रूप-विधान (Declension of -i masc) {: #declension-of-i-masc}
 
 | कारक (Case) | एकवचन (Singular) | बहुवचन (Plural) |
 | --- | --- | --- |

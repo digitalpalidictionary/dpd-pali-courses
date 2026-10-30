@@ -9,7 +9,7 @@
 
 | | |
 | --- | --- |
-| A.K. Warder Introduction to Pāli | पृ. 23 – 26 (अद्यतनी / aorist)<br>पृ. 121 – 122 (i कारान्त पुल्लिंग संज्ञाएँ) |
-| V. Perniola<br>Pāli Grammar | पृ. 32 – 34 (i कारान्त पुल्लिंग संज्ञाएँ)<br>पृ. 73 – 74 (स्वर-वृद्धि / vowel gradation)<br>पृ. 91 – 98 (अद्यतनी / aorist) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | पृ. 19 – 20 (य का समीभवन / assimilation of y)<br>पृ. 30 – 31 (i कारान्त पुल्लिंग संज्ञाएँ)<br>पृ. 93 – 97 (अद्यतनी / aorist) |
+| A.K. Warder Introduction to Pāli | पृ. 23 – 26 (अद्यतनी / aorist)<br>पृ. 121 – 122 (इकारान्त पुल्लिंग संज्ञाएँ) |
+| V. Perniola<br>Pāli Grammar | पृ. 32 – 34 (इकारान्त पुल्लिंग संज्ञाएँ)<br>पृ. 73 – 74 (स्वर-वृद्धि / vowel gradation)<br>पृ. 91 – 98 (अद्यतनी / aorist) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | पृ. 19 – 20 (य का समीभवन / assimilation of y)<br>पृ. 30 – 31 (इकारान्त पुल्लिंग संज्ञाएँ)<br>पृ. 93 – 97 (अद्यतनी / aorist) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | सम्बन्धित अध्याय |

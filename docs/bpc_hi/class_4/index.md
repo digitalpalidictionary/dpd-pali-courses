@@ -8,7 +8,7 @@
 - [धातु-गण 3 – दिवादिगण (divādigaṇa)](6_root_3.md)
 - [कुछ आधारभूत सन्धि – वर्ण 'य' (y) का समीभवन (समीकरण)](7_basic_assim.md)
 - [धातु-गण 7 – तनादिगण (tanādigaṇa)](8_root_7.md)
-- [-i कारान्त पुल्लिंग संज्ञा शब्द (Masculine Noun ending in -i)](9_masc_i.md)
+- [इकारान्त पुल्लिंग संज्ञा शब्द (Masculine Noun ending in -i)](9_masc_i.md)
 - [अद्यतनी या भूतकाल (The Aorist or Past Tense - ajjatanī)](10_aor.md)
 - [अनियमित क्रिया √अस् (√as - होना)](11_root_as.md)
 - [अनियमित क्रिया √हू (√hū - होना)](12_root_huu.md)
