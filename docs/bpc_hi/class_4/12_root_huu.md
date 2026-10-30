@@ -1,29 +1,29 @@
-## Irregular verb √hū (be)
+## अनियमित क्रिया √हू (√hū - होना)
 
-### Present Tense √hū
+### वर्तमान काल √हू (Present Tense √hū)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | ho**ti** | he is | ho**nti** | they are |
-| 2nd | ho**si** | you are | ho**tha** | you all are |
-| 1st | ho**mi** | I am | ho**ma** | we are |
+| प्रथम पुरुष (3rd) | होति (ho**ti**) | वह है | होन्ति (ho**nti**) | वे हैं |
+| मध्यम पुरुष (2nd) | होसि (ho**si**) | तुम हो | होथ (ho**tha**) | तुम सब हो |
+| उत्तम पुरुष (1st) | होमि (ho**mi**) | मैं हूँ | होम (ho**ma**) | हम हैं |
 
 
 
-### Imperative √hū
+### आज्ञार्थक √हू (Imperative √hū)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | ho**tu** | he must be | ho**ntu** | they must be |
-| 2nd | ho**hi** | you must be | ho**tha** | you all must be |
-| 1st | ho**mi** | I must be | ho**ma** | we must be |
+| प्रथम पुरुष (3rd) | होतु (ho**tu**) | उसे होना चाहिए | होन्तु (ho**ntu**) | उन्हें होना चाहिए |
+| मध्यम पुरुष (2nd) | होहि (ho**hi**) | तुम्हें होना चाहिए | होथ (ho**tha**) | तुम सब को होना चाहिए |
+| उत्तम पुरुष (1st) | होमि (ho**mi**) | मुझे होना चाहिए | होम (ho**ma**) | हमें होना चाहिए |
 
 
 
-### Aorist √hū
+### अद्यतनी / भूतकाल √हू (Aorist √hū)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | aho**si** | he was | ahe**suṃ** | they were |
-| 2nd | aho**si** | you were | ahuva**ttha** | you all were |
-| 1st | aho**siṃ** | I was | ahu**mhā** <br>ahu**mha** | we were |
+| प्रथम पुरुष (3rd) | अहोसि (aho**si**) | वह था | अहेसुं (ahe**suṃ**) | वे थे |
+| मध्यम पुरुष (2nd) | अहोसि (aho**si**) | तुम थे | अहुवत्थ (ahuva**ttha**) | तुम सब थे |
+| उत्तम पुरुष (1st) | अहोसिं (aho**siṃ**) | मैं था | अहुम्हा (ahu**mhā**) <br>अहुम्ह (ahu**mha**) | हम थे |

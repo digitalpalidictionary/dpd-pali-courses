@@ -1,25 +1,25 @@
-# Root Group 2 - rudhādigaṇa
+# धातु-गण 2 – रुधादिगण (rudhādigaṇa)
 
-= rudh + ādi + gaṇa
+= रुध् + आदि + गण (rudh + ādi + gaṇa)
 
-= √rudh + etc. + group
+= √रुध् + आदि + समूह (√rudh + etc. + group)
 
-This group has only a few roots, but they are very commonly used.
+इस गण में केवल कुछ ही धातुएँ हैं, किन्तु वे बहुत अधिक प्रयुक्त होती हैं।
 
-It has the conjugational sign **ṃa** / ṃ-a
+इसका विकरण प्रत्यय **ंअ (ṃa)** / ṃ-a (निग्गहीत) है।
 
-**root + conjugational sign \> base**
+**धातु (Root) + विकरण प्रत्यय (Conjugational sign) \> अंग (Base)**
 
-**[prefix(es)] + base + verbal ending \> verb**
+**[उपसर्ग] + अंग + आख्यात प्रत्यय \> क्रिया (Verb)**
 
-√bhuj (eat) + ṃa \> bhujṃa \> bhuṃja \> bhuñja
+√भुज् (bhuj - खाना) + ṃa \> bhujṃa \> bhuṃja \> भुञ्ज (bhuñja)
 
-bhunja + ti \> bhuñjati (he eats, enjoys)
+भुञ्ज (bhuñja) + ति (ti) \> भुञ्जति (bhuñjati) (वह खाता है, उपभोग करता है)
 
-√his (hurt) + ṃa \> hisṃa \> hiṃsa
+√हिस् (his - चोट पहुँचाना) + ṃa \> hisṃa \> हिंसा (hiṃsa)
 
-hiṃsa + ti \> hiṃsati (he hurts, harms)
+हिंसा (hiṃsa) + ति (ti) \> हिंसति (hiṃsati) (वह चोट पहुँचाता है, हानि करता है)
 
-√yuj (join) + ṃa \> yujṃa \> yuṃja \> yuñja
+√युज् (yuj - जुड़ना) + ṃa \> yujṃa \> yuṃja \> युञ्ज (yuñja)
 
-yuñja + ti \> yuñjati (he engages in, joins with)
+युञ्ज (yuñja) + ति (ti) \> युञ्जति (yuñjati) (वह प्रवृत्त होता है, जुड़ता है)

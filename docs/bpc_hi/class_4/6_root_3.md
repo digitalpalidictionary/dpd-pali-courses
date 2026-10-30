@@ -1,13 +1,13 @@
-# Root Group 3 – divādigaṇa
+# धातु-गण 3 – दिवादिगण (divādigaṇa)
 
-= div + ādi + gaṇa
+= दिव् + आदि + गण (div + ādi + gaṇa)
 
-= √div + etc + group
+= √दिव् + आदि + समूह (√div + etc + group)
 
-This common group has the conjugational sign **ya** which is added to the root.
+इस सामान्य गण का विकरण प्रत्यय **य (ya)** है जो धातु से जुड़ता है।
 
-√div (shine) + ya \> divya \> di**bb**a
+√दिव् (div - चमकना) + य (ya) \> divya \> दि**ब्ब** (dibba)
 
-dibba + ti \> dibbati (he shines, illuminates)
+दिब्ब (dibba) + ति (ti) \> दिब्बति (dibbati) (वह चमकता है, प्रकाशित होता है)
 
-**How does √div become dibbati?**
+**√दिव् से दिब्बति कैसे बनता है?**

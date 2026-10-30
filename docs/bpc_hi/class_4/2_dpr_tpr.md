@@ -1,35 +1,35 @@
-# How to use DPR
+# DPR का उपयोग कैसे करें
 
-Digital Pāli Reader
+डिजिटल पालि रीडर (Digital Pāli Reader)
 
-Here link to [some useful videos](https://www.digitalpalireader.online/_dprhtml/help.html). While watching them try to find answers for those questions:
+यहाँ [कुछ उपयोगी वीडियो](https://www.digitalpalireader.online/_dprhtml/help.html) का लिंक है। उन्हें देखते समय इन प्रश्नों के उत्तर ढूँढने का प्रयास करें:
 
-1.  How do I install offline?
+1.  मैं इसे ऑफ़लाइन कैसे संस्थापित (install) करूँ?
 
-2.  How do I navigate to a sutta?
+2.  मैं किसी सुत्त तक कैसे नेविगेट करूँ?
 
-3.  How do I find a specific sutta?
+3.  मैं कोई विशिष्ट सुत्त कैसे ढूँढूँ?
 
-4.  How do I search for a specific phrase in the Tipiṭaka? “pathavīsamaṃ”
+4.  मैं तिपिटक में किसी विशिष्ट वाक्यांश को कैसे खोजूँ? “पथवीसमं” (“pathavīsamaṃ”)
 
-5.  How do I read the English translation?
+5.  मैं अंग्रेज़ी अनुवाद कैसे पढ़ूँ?
 
-6.  What are the different dictionaries?
+6.  विभिन्न शब्दकोश (dictionaries) कौन-कौन से हैं?
 
-7.  What is DPR analysis?
+7.  DPR विश्लेषण (DPR analysis) क्या है?
 
-8.  How do I break apart a compound?
+8.  मैं किसी समस्त पद (समास) का विग्रह कैसे करूँ?
 
-9.  How do I search for a word in the dictionaries?
+9.  मैं शब्दकोशों में किसी शब्द को कैसे खोजूँ?
 
-10. What are some of the other functions?
+10. इसके कुछ अन्य कार्य (functions) क्या हैं?
 
-11. What are the buttons on the side?
+11. किनारे (साइड) पर दिए गए बटन क्या हैं?
 
-## How to use TPR
+## TPR का उपयोग कैसे करें
 
-\- Tipiṭaka Pāli Reader: This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of an app that offers TPR.
+\- तिपिटक पालि रीडर: यह TPR उपलब्ध कराने वाले ऐप का [आधिकारिक वेबपेज](https://americanmonk.org/tipitaka-pali-reader/) है।
 
-\- YouTube Channel: There’s a [YouTube](https://www.youtube.com/@tipitakaPali) channel that provides demos and manuals for TPR.
+\- यूट्यूब चैनल: एक [यूट्यूब](https://www.youtube.com/@tipitakaPali) चैनल भी है जो TPR के लिए डेमो और मार्गदर्शिकाएँ प्रदान करता है।
 
-\- Similar Questions: Try to find answers to the same questions as for DPR.
+\- समान प्रश्न: DPR की तरह ही TPR के लिए भी इन्हीं प्रश्नों के उत्तर ढूँढने का प्रयास करें।

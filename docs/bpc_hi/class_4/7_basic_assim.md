@@ -1,76 +1,76 @@
-# Some Basic Sandhi – The Assimilation of the Letter y  {: #basic-assim-y}
+# कुछ आधारभूत सन्धि – वर्ण 'य' (y) का समीभवन (समीकरण)  {: #basic-assim-y}
 
-In order to understand how verbs from group 3 get formed, you need to understand how the letter **y** gets assimilated when combined with other consonants. This is called consonant sandhi.
+गण 3 की क्रियाओं के निर्माण को समझने के लिए, आपको यह समझना होगा कि अन्य व्यंजनों के साथ जुड़ने पर **य (y)** वर्ण का समीभवन (assimilation) कैसे होता है। इसे व्यंजन सन्धि कहते हैं।
 
-**c + y \> cc**
+**c + y \> cc (च् + य \> च्च)**
 
-√mu**c** 3 ya (be free) + **y**a \> mu**cc**a
+√मु**च्** (muc) 3 ya (मुक्त होना) + **य** (ya) \> मु**च्च** (mucca)
 
-mucca + ti \> mu**cc**ati (he is free) (sk mu**cy**ate)
+मुच्च (mucca) + ति (ti) \> मु**च्च**ति (muccati) (वह मुक्त होता है) (संस्कृत: मुच्यते)
 
-**j + y \> jj**
+**j + y \> jj (ज् + य \> ज्ज)**
 
-vi + √ra**j** (desire) + **y**a + ti \> vira**jj**ati (he is detached)
+वि (vi) + √र**ज्** (raj - राग/इच्छा) + **य** (ya) + ति (ti) \> विर**ज्ज**ति (virajjati) (वह विरक्त होता है)
 
-√sa**j** (cling) + **y**a + ti \> sa**jj**ati (he is attached)
+√स**ज्** (saj - आसक्त होना) + **य** (ya) + ति (ti) \> स**ज्ज**ति (sajjati) (वह आसक्त होता है)
 
-**d + y \> jj**
+**d + y \> jj (द् + य \> ज्ज)**
 
-√bhi**d** (break) + **y**a + ti \> bhi**jj**ati (it is broken)
+√भि**द्** (bhid - टूटना) + **य** (ya) + ति (ti) \> भि**ज्ज**ति (bhijjati) (यह टूटता है)
 
-√khā**d** (eat) + **y**a + ti \> kha**jj**ati (it is eaten)
+√खा**द्** (khād - खाना) + **य** (ya) + ति (ti) \> ख**ज्ज**ति (khajjati) (यह खाया जाता है)
 
-√chi**d** (cut) + **y**a + ti \> chi**jj**ati (it is cut)
+√छि**द्** (chid - कटना) + **य** (ya) + ति (ti) \> छि**ज्ज**ति (chijjati) (यह कटता है)
 
-√ma**d** (be intoxicated) + **y**a + ti \> ma**jj**ati (he is intoxicated)
+√म**द्** (mad - मदमत्त होना) + **य** (ya) + ति (ti) \> म**ज्ज**ति (majjati) (वह मदमत्त होता है)
 
-√vi**d** (be found, exist) + **y**a + ti \>vi**jj**ati (he is existing)
+√वि**द्** (vid - मिलना, होना) + **य** (ya) + ति (ti) \> वि**ज्ज**ति (vijjati) (वह विद्यमान है)
 
-ā + √pa**d** (step) + **y**a + ti \> āpa**jj**ati (he experiences)
+आ (ā) + √प**द्** (pad - जाना, कदम रखना) + **य** (ya) + ति (ti) \> आप**ज्ज**ति (āpajjati) (वह अनुभव करता है/प्राप्त करता है)
 
-**dh + y \> jjh**
+**dh + y \> jjh (ध् + य \> ज्झ)**
 
-√bu**dh** (know, wake up) + **y**a + ti \> bu**jjh**ati (he wakes up)
+√बु**ध्** (budh - जानना, जागना) + **य** (ya) + ति (ti) \> बु**ज्झ**ति (bujjhati) (वह जागता है/जानता है)
 
-√gi**dh** (be greedy) + **y**a + ti \> gi**jjh**ati (he is greedy)
+√गि**ध्** (gidh - लोभ करना) + **य** (ya) + ति (ti) \> गि**ज्झ**ति (gijjhati) (वह लोभ करता है)
 
-√i**dh** (succeed) + **y**a + ti \> i**jjh**ati (he succeeds)
+√इ**ध्** (idh - सफल होना) + **य** (ya) + ति (ti) \> इ**ज्झ**ति (ijjhati) (वह सफल होता है/सिद्ध होता है)
 
-√ru**dh** (block) + **y**a + ti \> ru**jjh**ati (he is obstructed)
+√रु**ध्** (rudh - रुकना) + **य** (ya) + ति (ti) \> रु**ज्झ**ति (rujjhati) (वह अवरुद्ध होता है)
 
-vi + √su**dh** (be pure) + **y**a + ti \> visu**jjh**ati (he is purified)
+वि (vi) + √सु**ध्** (sudh - शुद्ध होना) + **य** (ya) + ति (ti) \> विसु**ज्झ**ति (visujjhati) (वह शुद्ध होता है)
 
-**n + y \> ññ**  
-√ha**n** (kill) + **y**a + ti \> ha**ññ**ati (he is killed)
+**n + y \> ññ (न् + य \> ञ्ञ)**  
+√ह**न्** (han - मारना) + **य** (ya) + ति (ti) \> ह**ञ्ञ**ति (haññati) (वह मारा जाता है)
 
-√ma**n** (think) + **y**a + ti \> ma**ññ**ati (he thinks)
+√म**न्** (man - सोचना, मानना) + **य** (ya) + ति (ti) \> म**ञ्ञ**ति (maññati) (वह सोचता है/मानता है)
 
-**p + y \> pp**
+**p + y \> pp (प् + य \> प्प)**
 
-√dī**p** (shine) + **y**a + ti \> di**pp**ati (he shines)
+√दी**प्** (dīp - चमकना) + **य** (ya) + ति (ti) \> दि**प्प**ति (dippati) (वह चमकता है)
 
-√ku**p** (be angry) + **y**a + ti \> ku**pp**ati (he is angry)
+√कु**प्** (kup - कुपित होना) + **य** (ya) + ति (ti) \> कु**प्प**ति (kuppati) (वह कुपित/क्रोधित होता है)
 
-√ru**p** (be broken) + **y**a + ti \> ru**pp**ati (he is hurt)
+√रु**प्** (rup - टूटना, पीड़ित होना) + **य** (ya) + ति (ti) \> रु**प्प**ति (ruppati) (वह पीड़ित होता है)
 
-**bh + y \> bbh**
+**bh + y \> bbh (भ् + य \> ब्भ)**
 
-√lu**bh** (be greedy) + **y**a + ti \> lu**bbh**ati (he is greedy)
+√लु**भ्** (lubh - लोभ करना) + **य** (ya) + ति (ti) \> लु**ब्भ**ति (lubbhati) (वह लोभ करता है)
 
-**m + y \> mm**
+**m + y \> mm (म् + य \> म्म)**
 
-√sa**m** (be calm) + **y**a + ti \> sa**mm**ati (he is calmed)
+√श**म्** / सम (sam - शान्त होना) + **य** (ya) + ति (ti) \> स**म्म**ति (sammati) (वह शान्त होता है)
 
-**v + y \> vv \> bb**
+**v + y \> vv \> bb (व् + य \> व्व \> ब्ब)**
 
-√si**v** (sew) + ya + ti \> si**vv**ati \> si**bb**ati (he sews)
+√सि**व्** (siv - सीना) + य (ya) + ति (ti) \> सि**व्व**ति \> सि**ब्ब**ति (sibbati) (वह सीता है)
 
-√di**v** (shine) + ya + ti \> di**vv**ati \> di**bb**ati (he shines)
+√दि**व्** (div - चमकना) + य (ya) + ति (ti) \> दि**व्व**ति \> दि**ब्ब**ति (dibbati) (वह चमकता है)
 
-**s + y \> ss**
+**s + y \> ss (स् + य \> स्स)**
 
-√du**s** (hate) + **y**a + ti \> du**ss**ati (he hates)
+√दु**स्** (dus - द्वेष करना) + **य** (ya) + ति (ti) \> दु**स्स**ति (dussati) (वह द्वेष करता है)
 
-√kili**s** (be dirty) + **y**a + ti \> kili**ss**ati (he is dirtied)
+√किलि**स्** (kilis - मलिन होना) + **य** (ya) + ति (ti) \> किलि**स्स**ति (kilissati) (वह मलिन/अपवित्र होता है)
 
-You will find more examples of the **assimilation of the letter y** when you study the [**passive voice**](../class_13/3_pass_verb.md#passive-verbs)**.**
+जब आप [**कर्मवाच्य**](../class_13/3_pass_verb.md#passive-verbs) का अध्ययन करेंगे तो **वर्ण 'य' के समीभवन** के और भी उदाहरण पाएँगे।

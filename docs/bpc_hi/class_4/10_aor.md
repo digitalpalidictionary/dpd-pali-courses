@@ -1,80 +1,80 @@
-# The Aorist or Past Tense (ajjatanī)
+# अद्यतनी या भूतकाल (The Aorist or Past Tense - ajjatanī)
 
-The Aorist is the most common form of Past Tense in the Tipiṭaka. It is formed directly on the root or on the base.
+तिपिटक में भूतकाल का सर्वाधिक सामान्य रूप अद्यतनी (Aorist) है। यह सीधे धातु से अथवा क्रिया-अंग से निर्मित होता है।
 
-**It can be formed on the root:**
+**यह धातु से सीधे बन सकता है:**
 
-this occurs mostly with group 1 roots
+यह मुख्य रूप से प्रथम गण की धातुओं के साथ होता है
 
-√har 1 a (carry)
+√हर् (har) 1 a (ले जाना)
 
-√har + **i** \> har**i** (he carried)
+√हर् (har) + **इ (i)** \> हरि (har**i**) (उसने वहन किया / ले गया)
 
-√nand 1 a (be happy)
+√नन्द् (nand) 1 a (प्रसन्न होना)
 
-abhi + √nand + **i** \> abhinand**i** (he was delighted)
+अभि (abhi) + √नन्द् (nand) + **इ (i)** \> अभिनन्दि (abhinand**i**) (वह प्रसन्न हुआ / आनन्दित हुआ)
 
-**Or it can be formed on the verbal base:**
+**अथवा यह क्रिया-अंग से बन सकता है:**
 
-just like the present tense
+वर्तमान काल की ही भाँति
 
-√bhuj 2 ṃa (eat, enjoy) \> bhuñja
+√भुज् (bhuj) 2 ṃa (खाना, उपभोग करना) \> भुञ्ज (bhuñja)
 
-bhuñja + i \> bhuñji (he ate, enjoyed)
+भुञ्ज (bhuñja) + इ (i) \> भुञ्जि (bhuñji) (उसने खाया, उपभोग किया)
 
-√mant 8 aya (counsel, invite) \> mantaya
+√मन्त् (mant) 8 aya (परामर्श करना, आमन्त्रित करना) \> मन्तय (mantaya)
 
-ā + mantaya + **i** \> āmantayi (he addressed)
+आ (ā) + मन्तय (mantaya) + **इ (i)** \> आमन्तयि (āmantayi) (उसने सम्बोधित किया)
 
-what would **another form** of this verb be?[^13]
+इस क्रिया का **दूसरा रूप** क्या होगा?[^13]
 
-[^13]: āmantesi
+[^13]: आमन्तेसि (āmantesi)
 
-**Sometimes the aorist takes an augment of “a”**
+**कभी-कभी अद्यतनी में “अ” (a) का आगम होता है**
 
-√ṭhā 1 a (stand)
+√ठा (ṭhā) 1 a (खड़ा होना)
 
-a + √ṭhā + si \> **a**ṭṭhāsi (he stood)
+अ (a) + √ठा (ṭhā) + सि (si) \> **अ**ट्ठासि (**a**ṭṭhāsi) (वह खड़ा हुआ)
 
-√dā 1 a (give)
+√दा (dā) 1 a (देना)
 
-a + √dā + si \> **a**dāsi (he gave)
+अ (a) + √दा (dā) + सि (si) \> **अ**दासि (**a**dāsi) (उसने दिया)
 
-## 1st conjugation group & others
+## प्रथम धातु-गण एवं अन्य (1st conjugation group & others)
 
-**Conjugation of -i aor**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu**<br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
-| 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha**<br>apac**ittha** | you all cooked |
-| 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
-
-## 8th conjugation group
-
-8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”
-
-**Conjugation of -esi aor**
+**-i कारान्त अद्यतनी रूप-विधान (Conjugation of -i aor)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | dese**si** | he taught | dese**suṃ** | they taught |
-| 2nd | dese**si** | you taught | des**ittha** | you all taught |
-| 1st | dese**siṃ** | I taught | des**imha**<br>des**imhā** | we taught |
+| | एकवचन (singular) | बहुवचन (plural) | | |
+| प्रथम पुरुष (3rd) | पचि (pac**i**)<br>अपचि (apac**i**) | उसने पकाया | पचिंसु (pac**iṃsu**)<br>अपचिंसु (apac**iṃsu**)<br>पचुं (pac**uṃ**)<br>अपचुं (apac**uṃ**) | उन्होंने पकाया |
+| मध्यम पुरुष (2nd) | पचि (pac**i**)<br>अपचि (apac**i**)<br>पचो (pac**o**)<br>अपचो (apac**o**) | तुमने पकाया | पचित्थ (pac**ittha**)<br>अपचित्थ (apac**ittha**) | तुम सब ने पकाया |
+| उत्तम पुरुष (1st) | पचिं (pac**iṃ**)<br>अपचिं (apac**iṃ**) | मैंने पकाया | पचिम्हा (pac**imhā**)<br>अपचिम्हा (apac**imhā**) | हमने पकाया |
 
-similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
+## 8वाँ धातु-गण (8th conjugation group)
 
-## Roots ending in vowels
+8वें धातु-गण और **ए (e)** कारान्त अन्य अंग, जैसे प्रेरणार्थक क्रियाएँ, बीच में “स्” (s) जोड़कर रूप बनाती हैं
 
-Some roots ending in long vowels also have the “s” aorist ending. Note the plural endings.
-
-**Conjugation of -āsi aor**
+**-esi कारान्त अद्यतनी रूप-विधान (Conjugation of -esi aor)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
-| 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
-| 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
-| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**<br>aṭṭha**mhā** | we stood |
+| | एकवचन (singular) | बहुवचन (plural) | | |
+| प्रथम पुरुष (3rd) | देसेसि (dese**si**) | उसने उपदेश दिया | देसेसुं (dese**suṃ**) | उन्होंने उपदेश दिया |
+| मध्यम पुरुष (2nd) | देसेसि (dese**si**) | तुमने उपदेश दिया | देसित्थ (des**ittha**) | तुम सब ने उपदेश दिया |
+| उत्तम पुरुष (1st) | देसेसिं (dese**siṃ**) | मैंने उपदेश दिया | देसिम्ह (des**imha**)<br>देसिम्हा (des**imhā**) | हमने उपदेश दिया |
+
+इसी प्रकार समचिन्तेसि (samacintesi), आमन्तेसि (āmantesi), सन्तप्पेसि (santappesi), समुत्तेजेसि (samuttejesi) आदि।
+
+## दीर्घ स्वरान्त धातुएँ (Roots ending in vowels)
+
+दीर्घ स्वरान्त कुछ धातुओं में भी “स्” (s) अद्यतनी प्रत्यय लगता है। बहुवचन रूपों पर ध्यान दें।
+
+**-āsi कारान्त अद्यतनी रूप-विधान (Conjugation of -āsi aor)**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| | एकवचन (singular) | बहुवचन (plural) | | |
+| प्रथम पुरुष (3rd) | अट्ठासि (aṭṭhā**si**) | वह खड़ा हुआ | अट्ठंसु (aṭṭha**ṃsu**) | वे खड़े हुए |
+| मध्यम पुरुष (2nd) | अट्ठासि (aṭṭhā**si**) | तुम खड़े हुए | अट्ठत्थ (aṭṭha**ttha**) | तुम सब खड़े हुए |
+| उत्तम पुरुष (1st) | अट्ठासिं (aṭṭhā**siṃ**) | मैं खड़ा हुआ | अट्ठम्ह (aṭṭha**mha**)<br>अट्ठम्हा (aṭṭha**mhā**) | हम खड़े हुए |

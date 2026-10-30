@@ -1,15 +1,15 @@
-# Root Group 7 – tanādigaṇa
+# धातु-गण 7 – तनादिगण (tanādigaṇa)
 
-= tan + ādi + gaṇa
+= तन् + आदि + गण (tan + ādi + gaṇa)
 
-= √tan + etc + group
+= √तन् + आदि + समूह (√tan + etc + group)
 
-This small group of roots has the conjugational sign **o**. There are only two commonly used roots in this group.
+धातुओं के इस छोटे गण का विकरण प्रत्यय **ओ (o)** है। इस गण में केवल दो ही धातुएँ सामान्यतः प्रयुक्त होती हैं।
 
-√kar (do, make) \> kar + o \> karo
+√कर् (kar - करना) \> kar + o \> करो (karo)
 
-karo + ti \> karoti (he does, makes)
+करो (karo) + ति (ti) \> करोति (karoti) (वह करता है)
 
-√tan (extend) \> tan + o \> tano
+√तन् (tan - फैलाना, विस्तार करना) \> tan + o \> तनो (tano)
 
-tano + ti \> tanoti (he stretches, extends)
+तनो (tano) + ति (ti) \> तनोति (tanoti) (वह फैलाता है, विस्तार करता है)

@@ -1,94 +1,94 @@
-# avuddhika / guṇa / vuḍḍhi
+# अवुद्धिक / गुण / वृद्धि (avuddhika / guṇa / vuḍḍhi)
 
-(weak / strengthened / lengthened)
+(ह्रस्व/मूल / गुण / वृद्धि)
 
-(weak / medium / strong)
+(दुर्बल / मध्यम / प्रबल)
 
-There are some very common changes in vowel sounds that are worth remembering.
+स्वरों में होने वाले कुछ अत्यंत सामान्य परिवर्तन हैं जिन्हें याद रखना उपयोगी है।
 
-**a \> ā**
+**a \> ā (अ \> आ)**
 
-√dh**a**r 8 \*e (wear, hold, carry)
+√धर् (dhar) 8 \*e (धारण करना, पहनना, ले जाना)
 
-dh**a**r + \*e \> dh**ā**re
+dh**a**r + \*e \> dh**ā**re (धारे)
 
-dhāre + ti \> dhāreti
+धारे (dhāre) + ति (ti) \> धारेति (dhāreti)
 
-**i \> e**
+**i \> e (इ \> ए)**
 
-√**i** 1 a (come)
+√इ (i) 1 a (आना, जाना)
 
-**i** + a \> **e**
+**i** + a \> **e** (ए)
 
-e + ti \> eti (he comes)
+ए (e) + ति (ti) \> एति (eti) (वह आता है)
 
-√v**i**d 8 \*e (know, sense, feel)
+√विद् (vid) 8 \*e (जानना, अनुभव करना)
 
-v**i**d + \*e \> v**e**de
+v**i**d + \*e \> v**e**de (वेदे)
 
-vede + ti \> vedeti (he feels)
+वेदे (vede) + ति (ti) \> वेदेति (vedeti) (वह अनुभव करता है)
 
-**ī \> e**
+**ī \> e (ई \> ए)**
 
-√s**ī** 1 a (lie, sleep)
+√सी (sī) 1 a (लेटना, सोना)
 
-s**ī** + a \> s**e**
+s**ī** + a \> s**e** (से)
 
-se + ti \> seti (he sleeps)
+से (se) + ति (ti) \> सेति (seti) (वह सोता है)
 
-**ī \> ay**
+**ī \> ay (ई \> अय)**
 
-√bh**ī** 1 a (fear) \> bhī + a \> bh**ay**a
+√भी (bhī) 1 a (डरना) \> bhī + a \> bh**ay**a (भय)
 
-bhaya + ti \> bhayati (he fears)
+भय (bhaya) + ति (ti) \> भयति (bhayati) (वह डरता है)
 
-**u \> o**
+**u \> o (उ \> ओ)**
 
-√c**u**d 8 \*e (impel, accuse)
+√चुद् (cud) 8 \*e (प्रेरित करना, दोष लगाना)
 
-c**u**d + \*e \> c**o**de
+c**u**d + \*e \> c**o**de (चोदे)
 
-code + ti \> codeti (he blames)
+चोदे (code) + ति (ti) \> चोदेति (codeti) (वह दोष लगाता है)
 
-√r**u**c 1 \*e (shine, like)
+√रुच् (ruc) 1 \*e (चमकना, पसंद आना)
 
-ruc + \*e \> r**o**ce (caus)
+ruc + \*e \> r**o**ce (प्रेरणार्थक / caus)
 
-ā + roce + ti \> āroceti (he explains)
+आ (ā) + रोचे (roce) + ति (ti) \> आरोचेति (āroceti) (वह निवेदन करता है/बताता है)
 
-**ū \> av \> āv**
+**ū \> av \> āv (ऊ \> अव \> आव)**
 
-√bh**ū** 1 a (be) \> bhū + a \> bh**av**a \> bh**āv**a (state)
+√भू (bhū) 1 a (होना) \> bhū + a \> bh**av**a \> bh**āv**a (भाव / अवस्था)
 
-bhava + ti \> bhavati (it is)
+भव (bhava) + ति (ti) \> भवति (bhavati) (वह होता है)
 
-Here’s another word in all three grades
+यहाँ तीनों स्तरों में एक अन्य शब्द दिया गया है:
 
-| *weak* | *strong* | *long* |
+| *मूल (weak)* | *गुण (strong)* | *वृद्धि (long)* |
 | --- | --- | --- |
-| √s**u** (hear) | s**o**ta (ear) | s**āv**aka (hearer) |
-| | s**av**ana (hearing) | |
+| √सु (su) (सुनना) | सोत (sota) (कान) | सावक (sāvaka) (श्रावक / सुनने वाला) |
+| | सवन (savana) (श्रवण) | |
 
-**ṛ \> ar \> ār**
+**ṛ \> ar \> ār (ऋ \> अर् \> आर्)**
 
-√s**ṛ** (Sanskrit root; ‘flow’) \> √sar + a \> sara (base)
+√सृ (sṛ) (संस्कृत धातु; ‘बहना’) \> √सर् (sar) + अ (a) \> सर (sara) (अंग)
 
-saṃ + sara + ti \> saṃsarati (he wanders on; lit. flows together)
+सं (saṃ) + सर (sara) + ति (ti) \> संसरति (saṃsarati) (संसरण करता है; शाब्दिक: साथ बहता है)
 
-saṃ + √sar + \*a \> saṃs**ā**ra
+सं (saṃ) + √सर् (sar) + \*अ (\*a) \> संसार (saṃsāra)
 
-√k**ṛ** (Sanskrit root, ‘make’) \> √k**ar** (do) \> karo
+√कृ (kṛ) (संस्कृत धातु, ‘करना’) \> √कर् (kar) (करना) \> करो (karo)
 
-karo + ti \> karoti \> (he does, makes)
+करो (karo) + ति (ti) \> करोति (karoti) \> (वह करता है)
 
-These changes are very common in all areas of Pāli grammar and **worth learning by heart.**
+ये परिवर्तन पालि व्याकरण के सभी क्षेत्रों में बहुत सामान्य हैं और **कंठस्थ करने योग्य हैं।**
 
 | | | |
 | --- | --- | --- |
-| avuḍḍhika <br>(zero) | guṇa <br>(strengthened) | vuḍḍhi <br>(lengthened) |
-| | **a** | **ā** |
-| **i** | **e / ay** | **āy** |
-| **ī** | **e / ay** | **āy** |
-| **u** | **o / av** | **āv** |
-| **ū** | **o / av** | **āv** |
-| **( ṛ )** | **ar** | **ār** |
+| अवुद्धिक (avuḍḍhika) <br>(मूल / zero) | गुण (guṇa) <br>(गुण / strengthened) | वृद्धि (vuḍḍhi) <br>(वृद्धि / lengthened) |
+| | **अ (a)** | **आ (ā)** |
+| **इ (i)** | **ए / अय (e / ay)** | **आय (āy)** |
+| **ई (ī)** | **ए / अय (e / ay)** | **आय (āy)** |
+| **उ (u)** | **ओ / अव (o / av)** | **आव (āv)** |
+| **ऊ (ū)** | **ओ / अव (o / av)** | **आव (āv)** |
+| **( ऋ / ṛ )** | **अर् (ar)** | **आर् (ār)** |

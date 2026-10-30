@@ -1,37 +1,37 @@
-## Irregular verb √as (be)
+## अनियमित क्रिया √अस् (√as - होना)
 
-### Present Tense √as
+### वर्तमान काल √अस् (Present Tense √as)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | atthi | he is | santi | they are |
-| 2nd | asi | you are | attha | you all are |
-| 1st | amhi<br>asmi | I am | amha <br>amhā <br>asma | we are |
+| प्रथम पुरुष (3rd) | अत्थि (atthi) | वह है | सन्ति (santi) | वे हैं |
+| मध्यम पुरुष (2nd) | असि (asi) | तुम हो | अत्थ (attha) | तुम सब हो |
+| उत्तम पुरुष (1st) | अम्हि (amhi)<br>अस्मि (asmi) | मैं हूँ | अम्ह (amha) <br>अम्हा (amhā) <br>अस्म (asma) | हम हैं |
 
-n’eso’ham’asmi
+नेसोहमस्मि (n’eso’ham’asmi)
 
-na + eso + ahaṃ + **asmi**
+न (na) + एसो (eso) + अहं (ahaṃ) + **अस्मि (asmi)**
 
-lit. not this I am
+शाब्दिक: नहीं यह मैं हूँ
 
-“I am not this”
+“मैं यह नहीं हूँ”
 
-### Imperative √as
+### आज्ञार्थक √अस् (Imperative √as)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | atthu | he must be | santu | they must be |
-| 2nd | āhi | you must be | attha | you all must be |
-| 1st | amhi<br>asmi | I must be | amha <br>amhā <br>asma | we must be |
+| प्रथम पुरुष (3rd) | अत्थु (atthu) | उसे होना चाहिए | सन्तु (santu) | उन्हें होना चाहिए |
+| मध्यम पुरुष (2nd) | आहि (āhi) | तुम्हें होना चाहिए | अत्थ (attha) | तुम सब को होना चाहिए |
+| उत्तम पुरुष (1st) | अम्हि (amhi)<br>अस्मि (asmi) | मुझे होना चाहिए | अम्ह (amha) <br>अम्हा (amhā) <br>अस्म (asma) | हमें होना चाहिए |
 
-### Aorist √as
+### अद्यतनी / भूतकाल √अस् (Aorist √as)
 
-| | singular | plural | | |
+| | एकवचन (singular) | बहुवचन (plural) | | |
 | --- | --- | --- | --- | --- |
-| 3rd | ās**i** | he was | ās**iṃsu**<br>ās**uṃ** | they were |
-| 2nd | ās**i** | you were | ās**ittha** | you all were |
-| 1st | ās**iṃ** | I was | ās**imha**<br>ās**imhā** | we were |
+| प्रथम पुरुष (3rd) | आसि (ās**i**) | वह था | आसिंसु (ās**iṃsu**)<br>आसुं (ās**uṃ**) | वे थे |
+| मध्यम पुरुष (2nd) | आसि (ās**i**) | तुम थे | आसित्थ (ās**ittha**) | तुम सब थे |
+| उत्तम पुरुष (1st) | आसिं (ās**iṃ**) | मैं था | आसिम्ह (ās**imha**)<br>आसिम्हा (ās**imhā**) | हम थे |
 
-Root: √as (be)
+धातु: √अस् (as - होना)
 
-Construction: **a** + √as + i \> **ā**si
+संरचना: **अ (a)** + √अस् (as) + इ (i) \> **आ**सि (**ā**si)
