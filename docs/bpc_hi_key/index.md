@@ -3,7 +3,7 @@
 - [कक्षा 1 अभ्यासों की उत्तर कुंजी](1_class.md)
 - [कक्षा 2 अभ्यासों की उत्तर कुंजी](2_class.md)
 - [कक्षा 3 अभ्यासों की उत्तर कुंजी](3_class.md)
-- [Class 4 Key to Exercises](4_class.md)
+- [कक्षा 4 अभ्यासों की उत्तर कुंजी](4_class.md)
 - [Class 5 Key to Exercises](5_class.md)
 - [Class 6 Key to Exercises](6_class.md)
 - [Class 7 Key to Exercises](7_class.md)
