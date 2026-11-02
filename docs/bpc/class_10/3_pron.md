@@ -235,6 +235,10 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 6.gen | t**assa** | a**ssa**<br>ima**ssa** | y**assa** | t**esaṃ**<br>t**esānaṃ** | im**esaṃ** | y**esaṃ**<br>y**esānaṃ** |
 | 7.loc | t**amhi**<br>t**asmiṃ** | a**smiṃ**<br>ima**mhi**<br>ima**smiṃ** | y**amhi**<br>y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
+**In summary:** learn the **ta** declension by heart — all other pronouns follow it with small
+variations. For **ima**, memorize only the high-frequency forms: ayaṃ, imaṃ, idaṃ, iminā, imassa,
+asmiṃ, ime, imāni, imesaṃ.
+
 ## Some common pronouns (in the nominative case)
 
 | | |
@@ -250,16 +254,16 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | taṃ | that (thing) |
 | te | those (things) |
 | eso | this |
-| ete | those |
+| ete | these |
 | ayaṃ | this |
-| ime | those |
+| ime | these |
 | amu | so and so |
 | sabbo | all, every |
 | ubho | both |
 | kati | how many? |
 | yo | whoever |
 | ko | who? which? |
-| koci | someone, anything |
+| koci | someone, something |
 | sa | one’s own |
 | pubbo | the previous |
 | itaro | the other |

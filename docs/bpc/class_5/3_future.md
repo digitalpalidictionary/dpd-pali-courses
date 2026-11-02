@@ -59,9 +59,9 @@ vi + √har + issa + tha \> viharissatha (you all will live)
 
 For verbs with bases ending in **-e** from **group 8** and **causative** **verbs** etc, just add “ssa” between the base and the verbal ending.
 
-√dhar 8 e (hold, carry) \> dhar**e**
+√dhar 8 \*e (hold, carry) \> dhāre
 
-dhar**e** + **ssa** + ti \> **dhāressati** (he will hold)
+dhār**e** + **ssa** + ti \> **dhāressati** (he will hold)
 
 √dis 8 e (point out) \> dese
 

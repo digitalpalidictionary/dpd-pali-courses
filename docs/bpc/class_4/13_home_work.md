@@ -3,7 +3,7 @@
 1. Exercises for class 4
 2. Watch videos regarding how to use DPR, TPR and find 5 sentences in DPR / TPR using [vocabulary](../../generated/vocab/class-04.md) from class 4 (video find-words-dpr.mkv may help you). Please find two or more words in a single sentence, following the method from the video.
 3. Learn the vocabulary from class 4 using Anki Deck “Vocab Pāli Class”
-4. Learn conjugations and declinations from class 4 “Grammar Pāli Class”
+4. Learn conjugations and declensions from class 4 “Grammar Pāli Class”
 
 ## Extra Reading
 

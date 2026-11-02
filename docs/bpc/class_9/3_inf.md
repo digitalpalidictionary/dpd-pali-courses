@@ -97,13 +97,13 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 | sakkoti | pr | is able (to) |
 | sakkuṇāti | pr | is able (to) |
 | visahati | pr | dares (to) |
-| samattha[^23] | adj | able (to), capable (to) |
+| samattha[^24] | adj | able (to), capable (to) |
 | varatara | adj | better (to) |
 | vaṭṭati | pr | it is suitable (to), it is right (to) |
 | anucchavika | adj | suitable (to), proper (to) |
 | kāmatā | fem | desire (to), longing (to), wish (to) |
 
-[^23]: Words from here onwards are present mostly in later literature
+[^24]: Words from here onwards are present mostly in later literature
 
 Some other words can also occasionally take +inf.
 

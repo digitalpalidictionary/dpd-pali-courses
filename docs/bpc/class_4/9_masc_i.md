@@ -4,7 +4,7 @@ There are about 400 of these nouns in the DPD[^12].
 
 ## Declension of -i masc {: #declension-of-i-masc}
 
-| Pāli | POS | Grammar |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1. Nominative | agg**i** | agg**ī**<br>agg**ayo** |
 | 2. Accusative | agg**iṃ** | agg**ī**<br>agg**ayo** |

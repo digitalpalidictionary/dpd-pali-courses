@@ -12,4 +12,4 @@ gaṇhā + ti \> gaṇhāti (he grabs, takes)
 
 √tas (thirst) + **ṇhā** \> taṇhā
 
-taṇhā + ā \> taṇhā (craving)
+taṇhā (fem. noun) — craving; lit. thirst

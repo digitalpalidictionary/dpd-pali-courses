@@ -3,7 +3,7 @@
 | | **example** |
 | --- | --- |
 | - u | bhikkh**u** ; gar**u** |
-| - tu / -tar (1) | sat**t**h**ar ;** bhāsi**tar** |
+| - tu / -tar (1) | satth**ar** ; bhāsi**tar** |
 | - tu / -tar (2) | pit**ar** ; bhāt**ar** |
 | - ū | vid**ū** |
 
@@ -90,6 +90,8 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | 6.gen | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | bhāt**ūnaṃ** |
 | 7.loc | bhāt**ari** | bhāt**aresu**<br>bhāt**ūsu** |
 | 8.voc | bhāt**a**<br>bhāt**ā** | bhāt**aro** |
+
+**In summary:** learn the **bhikkhu** declension by heart. For **satthar / pitar**, it is enough at minimum to be able to *recognize* the most frequent forms: satthā, satthāraṃ, satthu, satthārā, pitā, pitaraṃ, pitu.
 
 ## Comparison table for nouns ending in -u
 

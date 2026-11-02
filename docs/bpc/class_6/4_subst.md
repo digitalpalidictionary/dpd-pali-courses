@@ -1,6 +1,8 @@
 # Substantives (guṇanāma)
 
-Substantives are formed by taking a noun and adding a suffix at the end.
+Substantives are formed by taking a noun and adding a suffix at the end.[^18]
+
+[^18]: These -vant/-mant words are often called **possessive adjectives**. Note that the term *guṇanāma* is also used for ordinary adjectives (see class 11); the traditional grammatical terminology overlaps here.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -32,7 +34,7 @@ cakkh**u** + **mant** \> cakkhumant (one with eyesight)
 
 bandh**u** + **mant** \> bandhumant (one with relatives)
 
-When a substantive stands alone it **can** functions as a noun.
+When a substantive stands alone it **can** function as a noun.
 
 [SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html) sā devatā **bhagavantaṃ** etad’avoca
 
@@ -65,7 +67,7 @@ At which time, monks, the **thieves** are **powerful** …
 | 7.loc | bhagav**ati**<br>bhagav**ante**<br>bhagav**antamhi**<br>bhagav**antasmiṃ** | bhagav**antesu** |
 | 8.voc | bhagav**aṃ**<br>bhagav**a**<br>bhagav**ā** | bhagav**anto**<br>bhagav**antā** |
 
-bhagavā 4803[^18]
+bhagavā 4803[^19]
 
 bhagavantaṃ 1755
 
@@ -73,5 +75,5 @@ bhagavatā 1168
 
 bhagavato 1942
 
-[^18]: In the mūla part of the 4 Nikāyas
+[^19]: In the mūla part of the 4 Nikāyas
 

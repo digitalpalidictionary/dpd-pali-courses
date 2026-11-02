@@ -21,9 +21,9 @@ Many of these agent nouns can also be used as adjectives.
 | vasa | control | vasī | has control | master |
 | bhāga | portion | bhāgī | has portion | shareholder |
 | vāda | doctrine | vādī | has doctrine | adherent |
-| dhamma | truth | dhammī | has truth | who righteous |
-| macchara | stinginess | maccharī | has stinginess | who is a stingy |
-| ottappa | regret | ottappī | has regret | who conscientious |
+| dhamma | truth | dhammī | has truth | righteous person |
+| macchara | stinginess | maccharī | has stinginess | stingy person |
+| ottappa | regret | ottappī | has regret | conscientious person |
 
 ## Declension of -ī masc {: #declension-of-i-masc_1}
 

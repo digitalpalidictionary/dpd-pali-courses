@@ -141,7 +141,7 @@ I see **twenty men**   vīsatiṃ purise
 
 **in twenty minds** vīsatiyaṃ cittesu
 
-## sata “100”, sahasa “1000” and lakkha “100 000”
+## sata “100”, sahassa “1000” and lakkha “100 000”
 
 neuter; singular and plural; agrees in case and number
 

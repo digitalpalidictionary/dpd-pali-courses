@@ -91,7 +91,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc_1) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc_1) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^26] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
 | 1.nom | ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i**<br>ātāp**iṃ** |
 | 2.acc | ātāp**inaṃ**<br>ātāp**iṃ** | ātāp**iniṃ** | ātāp**i**<br>ātāp**iṃ** |
 | 3.inst | ātāp**inā** | ātāp**iniyā** | ātāp**inā** |
@@ -101,7 +101,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 7.loc | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** | ātāp**iniyā**<br>ātāp**iniyāṃ** | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** |
 | 8.voc | ātāp**i** | ātāp**ī**<br>ātāp**inī** | ātāp**i** |
 
-[^25]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
+[^26]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
 
 **Adjectives ending in -ī (plural)**
 
@@ -158,37 +158,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 5.abl | vid**unā** | vid**uniyā** | vid**unā** |
 | 6.gen | vid**uno**<br>vid**ussa** | vid**uniyā** | vid**uno**<br>vid**ussa** |
 | 7.loc | vid**umhi**<br>vid**usmiṃ** | vid**uniyā**<br>vid**uniyaṃ** | vid**umhi**<br>vid**usmiṃ** |
-| 8.voc | vid**ū** | vid**unī | vid**ū** |
-
-**Adjectives ending in -ū (plural)**
-
-| | | | |
-| --- | --- | --- | --- |
-| | **masc** | **fem** | **neuter** |
-| 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
-| 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
-| 3.inst | vid**ūhi** | vid**unīhi** | vid**ūhi** |
-| 4.dat | vid**ūnaṃ** | vid**unīnaṃ** | vid**ūnaṃ** |
-| 5.abl | vid**ūhi** | vid**unīhi** | vid**ūhi** |
-| 6.gen | vid**ūnaṃ**<br>vid**unnaṃ** | vid**unīnaṃ** | vid**ūnaṃ**<br>vid**unnaṃ** |
-| 7.loc | vid**ūsu** | vid**unīsu** | vid**ūsu** |
-| 8.voc | vid**ū**<br>vid**uno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
-
-## Usage of adjectives
-
-Nouns and adjectives interchangeable unless proven otherwise from the context
-
-n'eva tasmiṃ samaye **sukhaṃ** vedanaṃ vedeti, na adukkham'asukhaṃ vedanaṃ vedeti *[MN74](https://find.dhamma.gift/bw/mn/mn74.html)*
-
-At that time, he feels neither a **pleasant** sensation, nor neutral.
-
-sato ca sampajāno, **sukhaṃ** ca kāyena paṭisaṃvedeti *[SN45.8](https://find.dhamma.gift/bw/sn/sn45.8.html)*
-
-Mindful and clearly knowing, he experiences **pleasure** by the body.
-vidumhi 
-vidusmiṃ
-
-
+| 8.voc | vid**ū** | vid**unī** | vid**ū** |
 
 **Adjectives ending in -ū (plural)**
 

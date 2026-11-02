@@ -18,7 +18,7 @@ seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *[SN12.61](
 
 Just like, monks, a **monkey** **roaming** **around** in a forest wilderness…
 
-makkato = masc.nom.sg
+makkaṭo = masc.nom.sg
 
 caramāno = masc.nom.sg
 
@@ -83,9 +83,9 @@ There are 3 ways to form present participles
 
 Present participles ending in **-āna**
 
-DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta
+DPD has only about 40[^25] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta
 
-[^24]: This data is relevant for the year 2025
+[^25]: This data is relevant for the year 2025
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -210,4 +210,4 @@ Just like, monks, a monkey, **wandering** **in a forest, in wilderness.**
 
 Please keep this in mind when you work with present participles.
 
-Additionally, some time if prp in nom case (usually in form like gacch**aṃ)**, qualifying subject they can be translated figuratevley with "*when*"
+Additionally, a present participle in the nominative case qualifying the subject (often in the short form like gacch**aṃ**) can sometimes be translated figuratively with "*when …*".

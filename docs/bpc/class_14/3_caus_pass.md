@@ -12,7 +12,7 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 
 **Here are some examples**
 
-**√ṭhā･1 a (stand)**
+**√ṭhā 1 a (stand)**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Good man, did you not see among humans a woman or man, sick, afflicted, seriousl
 
 √ṭhā (stand)
 
-ud + √tḥā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
+ud + √ṭhā + \*āpe \> vuṭṭhāpe (caus) + iya + māna
 
 √vis (enter)
 

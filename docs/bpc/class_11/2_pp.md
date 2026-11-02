@@ -37,7 +37,7 @@ There are, quite literally, thousands of examples...
 | mussati | √mus | to forget | + ta | mu**ṭṭ**ha | forgotten |
 | jānāti | √ñā | to know | + ta | ñāta | known |
 
-When we study sandhi, we will study the rules related to the changes that happen with **ta**. Please refer to IPC class 18.
+When we study sandhi, we will study the rules related to the changes that happen with **ta**. Please refer to [IPC class 18](../../ipc/class_18/3_as_ta.md).
 
 ### 2. root + ita
 
@@ -80,7 +80,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 | upapajjati | √pad | to go | + na | upapa**nn**a | appeared |
 | vikirati | √kir | to scatter | + na | viki**ṇṇ**a | scattered |
 
-Again, sandhi rules regarding the assimilation of **na** will be studied in detail later. Please refer to IPC class 18.
+Again, sandhi rules regarding the assimilation of **na** will be studied in detail later. Please refer to [IPC class 18](../../ipc/class_18/4_as_na.md).
 
 ## Declension of Past Participles
 

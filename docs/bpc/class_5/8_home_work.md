@@ -2,7 +2,7 @@
 
 1.  Exercises for class 5
 2.  Learn the vocabulary from class 5 using Anki Deck “Vocab Pāli Class”
-3.  Learn conjugations and declinations from class 5 “Grammar Pāli Class”
+3.  Learn conjugations and declensions from class 5 “Grammar Pāli Class”
 4.  Learn roots from Anki Deck "Common Roots Pāli Class"
 
 **Extra:**

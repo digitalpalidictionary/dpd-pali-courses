@@ -120,9 +120,9 @@ In the case of group 8 verbs, they only take the causative suffixes *-***āpe** 
 
 √cud + \***āpaya** \> cod**āpaya**ti (he causes to accuse)
 
-## How To Decline Causative Verbs
+## How To Conjugate Causative Verbs
 
-Other than the base, the declension of causative verbs follows the normal pattern in all the tenses.
+Other than the base, the conjugation of causative verbs follows the normal pattern in all the tenses.
 
 √pac + \*āpe \> pācāpe (causes to cook)
 
@@ -134,7 +134,7 @@ Other than the base, the declension of causative verbs follows the normal patter
 
 **optative**: pācāpe**yya** pācāpe**yyuṃ** pācāpe**yyāsi** pācāpe**yyātha** pācāpe**yyaṃ** pācāpe**yyāma** pācāpe**yyāmi**
 
-How would you decline √**pac + \*e \> pāce**
+How would you conjugate √**pac + \*e \> pāce**
 
 in the present?
 

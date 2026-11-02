@@ -28,3 +28,7 @@ They often come **first** in the sentence.
 | ciraṃ | for a long time |
 | atisāyaṃ | too late (in the day); too late at night |
 | kālena | at the proper time |
+
+**ajja** eva kiccaṃ ātappaṃ, ko jaññā maraṇaṃ **suve** ([MN131](https://find.dhamma.gift/bw/mn/mn131.html))
+
+**Just today** the effort should be made; who could know — death (may come) **tomorrow**.

@@ -22,10 +22,10 @@ You will become very familiar with these cases in the upcoming weeks
 | gāma | masc. | village |
 | patta | masc. | alms bowl |
 | magga | masc. | road |
-| gacchati | masc. | goes |
-| khādati | masc. | eats |
-| carati | masc. | walks |
-| deti | masc. | gives |
+| gacchati | pr. | goes |
+| khādati | pr. | eats |
+| carati | pr. | walks |
+| deti | pr. | gives |
 
 ## 1. Nominative Case (paṭhamā)
 
@@ -81,7 +81,7 @@ Refers to an object given or directed to someone.
 
 Usually translated using **to** or **for.**
 
-The elder gives an alms bowl **to the disciple.**
+The elder gives an alms bowl **to the lay devotee.**
 
 thero **upāsakassa** pattaṃ deti.
 

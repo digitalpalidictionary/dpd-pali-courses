@@ -38,7 +38,7 @@ what are the **subordinate clauses**?
 
 Absolutive ending in **tvā** are very common and extensively used.
 
-7800 times in Vinaya[^19]
+7800 times in Vinaya[^20]
 
 1800 times in Dīgha Nikāya
 
@@ -50,7 +50,7 @@ Absolutive ending in **tvā** are very common and extensively used.
 
 9200 times in Khuddaka Nikāya
 
-[^19]: In the Mūla part
+[^20]: In the Mūla part
 
 ## How to form pubbakiriyā
 
@@ -99,7 +99,7 @@ Mostly group 8 verbs and causative verbs.
 | √chid | chinda | chind + itvā | chinditvā | having cut off |
 | √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā<br>(=gahetvā) | having grabbed |
 | √lu | lāya | lāya + itvā | lāyitvā | having reaped |
-| √sad | sīda | ni + sīda + itvā | nisīditva | having sat down |
+| √sad | sīda | ni + sīda + itvā | nisīditvā | having sat down |
 | √dis | passa | passa + itvā | passitvā | having seen |
 
 ### 5. -ya added to the root
@@ -126,7 +126,7 @@ The result from sandhi is the ending **tya \> cca**
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √i | to come | abhi + sam + √i + **ty**a | abhisame**cc**a | having completely understood |
-| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | having leaned back |
+| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of<br>(lit. having gone back to) |
 | √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
 | √vid | to know | anu + vid + **ty**a | anuvi**cc**a | having investigated |
 
@@ -136,14 +136,14 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 
 | | **-tvāna** | **-tūna** | **-(i)yāna** |
 | --- | --- | --- | --- |
-| VIN[^20] | 43 | | |
+| VIN[^21] | 43 | | |
 | DN | 35 | 0 | 1 |
 | MN | 15 | 0 | 0 |
 | SN | 48 | 0 | 1 |
 | AN | 51 | 0 | 1 |
 | KN | \>1000 | 4 | 17 |
 
-[^20]: In the Mūla part
+[^21]: In the Mūla part
 
 Examples: **disvāna ; vatvāna ; sutvāna ; ovariyāna ; akātūna**
 
@@ -153,13 +153,21 @@ DPD is based on the study of hundreds of verbal forms found throughout the Tipi�
 
 -   Completed actions — **absolutives**, typically ending in **-tvā**, **-itvā**, **-tvāna**, etc.
 
-*(clear example free from interpretations which can not be doubt)*
+    atha kho bhagavā pubbaṇhasamayaṃ **nivāsetvā** … sāvatthiṃ piṇḍāya pāvisi ([MN18](https://find.dhamma.gift/bw/mn/mn18.html))
+
+    Then the Blessed One, **having dressed** in the morning, … entered Sāvatthī for alms.
+
+    The dressing is fully completed *before* the going begins.
 
 -   Ongoing or contemporaneous actions — **gerunds**, typically ending in **-ya**, **-iya**, **-eyya**, etc.
 
     In some contexts **gerunds** can be translated the same as **absolutives** - as completed actions.
-    
-*(clear example free from interpretations which can not be doubt)*
+
+    patta-cīvaram **ādāya** sāvatthiṃ piṇḍāya pāvisi ([MN18](https://find.dhamma.gift/bw/mn/mn18.html))
+
+    **Taking** bowl and robe, he entered Sāvatthī for alms.
+
+    The "taking" continues during the going — he is carrying them, not "having taken" and left them behind.
 
 The commentaries, of course, regularly gloss verbs ending in **-ya** with equivalent **-tvā** forms, without making any explicit distinction between them.
 

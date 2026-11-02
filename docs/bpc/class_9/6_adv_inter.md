@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | api | have? did? |
-| api nu | who? what? how? would? |
+| api nu | (marks a yes/no question) is it? did? would? |
 | nu | (adds a question mark) |
 | kahaṃ <br>katama | where?<br>what?; which? |
 | kasmā | why? |
@@ -14,3 +14,7 @@
 | kīva | how far? how much? |
 | kuhiṃ | where? |
 | kuvaṃ | where? |
+
+**kathaṃ** nu tvaṃ, mārisa, oghaṃ atari? ([SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html))
+
+But **how**, dear sir, did you cross the flood?

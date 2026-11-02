@@ -82,7 +82,7 @@
 - [Numbers (saṅkhyā)](class_12/2_numb.md)
 - [Cardinal Numbers (saṅkhyā-padhāna)](class_12/3_card.md)
 - [Ordinal Numbers (saṅkhyā-pūraṇa)](class_12/4_ordin.md)
-- [Kahāpaṇāna](class_12/5_kahap.md)
+- [Kahāpaṇa](class_12/5_kahap.md)
 
 ## [Class 13](class_13/index.md)
 - [Adverbs](class_13/2_adv.md)

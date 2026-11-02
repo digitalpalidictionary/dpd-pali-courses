@@ -31,7 +31,7 @@ this group also includes common feminine nouns like:
 
 **itthī** (woman), **pathavī** (earth), **bhaginī** (sister) etc.
 
-### Declination of Feminine Nouns ending in -ī {: #feminine-nouns-ending-in-ii}
+### Declension of Feminine Nouns ending in -ī {: #feminine-nouns-ending-in-ii}
 
 | | | |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ A common way to create masculine nouns is with **-aka** suffix. The feminine ver
 
 ## Feminine Nouns ending in -inī {: #feminine-nouns-ending-in-ini}
 
-Masculine nouns ending in **-ī** having the feminine form of **-inī**. They are declined like **kumarī**.
+Masculine nouns ending in **-ī** have the feminine form **-inī**. They are declined like **kumārī**.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -106,6 +106,6 @@ Masculine nouns ending in **-ī** having the feminine form of **-inī**. They ar
 
 ## Feminine Nouns ending in -unī {: #feminine-nouns-ending-in-uni}
 
-Similar to the previous one. The most common example is **bhikkhunī**. It is declined like **kumarī**.
+Similar to the previous one. The most common example is **bhikkhunī**. It is declined like **kumārī**.
 
-They are declined same as [**ī fem**](../class_8/3_fem.md#feminine-nouns-ending-in-ii) (like **kumārī)**
+They are declined the same as [**ī fem**](#feminine-nouns-ending-in-ii) (like **kumārī**)
