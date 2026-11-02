@@ -28,9 +28,9 @@ suṇo + ti \> suṇoti (he hears)
 
 pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
 
-√sak (be able) + **uṇā** \> sakuṇā
+√sak (be able) + **ṇo** \> sakko
 
-sakuṇā + ti \> sakuṇāti (he is able)
+sakko + ti \> sakkoti (he is able)
 
 **Conjugation of -āti pr**
 
