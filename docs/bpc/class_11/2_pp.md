@@ -60,7 +60,6 @@ When we study sandhi, we will study the rules related to the changes that happen
 | bhāveti | √bhū | bhāve | + ita | bhāvita | developed |
 | deseti | √dis | dese | + ita | desita | preached |
 | kāreti | √kar | kāre | + ita | kārita | had built |
-| sevati | √si | seva | + ita | sevita | associated |
 | pakāseti | √kās | kāse | + ita | pakāsita | explained |
 | parisedati | √sid | sede | + ita | parisedita | incubated |
 | phasseti | √phus | phasse | + ita | phassita | touched |
