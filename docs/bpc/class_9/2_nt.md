@@ -57,8 +57,6 @@ These are very rare, there are only few of them in the Tipiṭaka.
 | aṭṭhi | bone |
 | dadhi | curd |
 | sappi | ghee, clarified butter |
-| suci | purity |
-| asuci | impurity |
 | vāri | water |
 | byanti | end |
 
@@ -100,7 +98,6 @@ These are also rare, at most 400 in the current DPD database[^22].
 | cakkhu | eye |
 | āyu | long life, age |
 | massu | beard |
-| ahu | day |
 | pheggu | fibre; sapwood |
 | madhu | honey |
 | āgu | crime; offence |
