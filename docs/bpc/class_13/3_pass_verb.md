@@ -146,6 +146,6 @@ Please note that some passive verbs can look **very similar** to their active ve
 | --- | --- | --- | --- |
 | pa**c**ati | he cooks | pa**cc**ati | it is cooked |
 | ta**p**ati | he burns | ta**pp**ati | it is burned |
-| na**s**ati | he destroys | na**ss**ati | it is destroyed |
+| uddi**s**ati | he points up | uddi**ss**ati | it is pointed up |
 
 What’s the reason for that?
