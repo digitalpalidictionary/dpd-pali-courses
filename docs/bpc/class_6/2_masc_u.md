@@ -42,7 +42,7 @@ They are collectively known as **agent nouns** because they describe a person wh
 | √gam | to go | √gam + tar \> gantar | traveller |
 | √kar | to do, make | √kar + tar \> kattar | doer, maker |
 | √vac | to speak | pa + √vac + tar \> pavattar | proclaimer |
-| √dhār | to hold | √dhar + tar \> dhātar | upholder |
+| √dhar | to hold | √dhar + tar \> dhātar | upholder |
 | √su | to hear | √su \> so + tar \> sotar | hearer |
 | √vac | to speak | √vac + tar \> vattar | speaker |
 | √pucch | to ask | √pucch + itar \> pucchitar | questioner |
