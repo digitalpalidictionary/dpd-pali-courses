@@ -16,8 +16,9 @@ There are a number of tenses and moods of verbs in Pāli.
 | 3. | Future Tense | dhāvissati | he will run |
 | 4. | Imperative | dhāvatu | he must run; run! |
 | 5. | Optative | dhāveyya | he could run, he should run |
-| 6. | Imperfect Past [^5] | dhāvā | he ran (starting from yesterday, when seen) |
+| --- | --- | --- | --- |
+| 6. | Imperfect Past [^5] | adhāvā | he ran (starting from yesterday, when seen) |
 | 7. | Perfect Past | dadhāva | he ran (unseen) |
-| 8. | Conditional | dhāvissa | if he would have run, then... |
+| 8. | Conditional | adhāvissa | if he would have run, then... |
 
-[^5]: Those are discussed in details in the Intermediate Pāli Course
+[^5]: Those 3 are discussed in details in the Intermediate Pāli Course
