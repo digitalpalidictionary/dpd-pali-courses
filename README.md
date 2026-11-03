@@ -55,12 +55,13 @@ brew install pandoc
 sudo apt-get install python3-pip python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0
 
 # For DOCX generation
-sudo apt-get install pandoc
+sudo apt-get install pandoc libxml2-dev libxslt1-dev
 ```
 
 ### Generating Documents Locally
 
 1. **Install Python Dependencies**:
+   The Python version is pinned in `.python-version` (uv installs and uses it automatically) — do not bump it without re-locking, since pre-built wheels are locked per Python version.
    Ensure your local environment is up to date:
    ```bash
    uv sync
