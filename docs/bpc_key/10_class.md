@@ -56,7 +56,7 @@
 | dibbena | adj | nt.instr.sg | with divine | √div･3 ya (shine) |
 | cakkhunā | noun | nt.instr.sg | with eye | √cakkh･1 a (see) |
 | satte | noun | masc.acc.pl | beings | √as･1 a (be) |
-| passeyyaṃ | verb | opt.refflx.1st.sg | I could see by myself | √dis･1 a (see) |
+| passeyyaṃ | verb | opt.1st.sg (reflexive) | I could see by myself | √dis･1 a (see) |
 | cavamāne | prp | masc.acc.pl | dying | √cu･1 a (shift, fall away, die) |
 | upapajjamāne | prp | masc.acc.pl | re-arising | √pad･3 ya (go, step) |
 
@@ -73,7 +73,8 @@
 | gaḷantena | prp | nt.instr.sg | with dripping | √gal･1 a (drip, flow) |
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
-| tena-upasaṅkami | verb | aor.3rd.sg | he approached there | |
+| tena | ind | adv | there | |
+| upasaṅkami | verb | aor.3rd.sg | he approached | √kam･1 a (go) |
 
 **And then Ven. Aṅgulimāla approached the Blessed One with blood dripping.**
 
@@ -180,7 +181,7 @@
 | atthaṅ'gate | pp | masc.loc.sg<br>(loc abs) | has set; has vanished (lit: has gone home) | |
 | suriye | noun | masc.loc.sg | the sun | |
 | bhikkhuniyo | noun | fem.acc.pl | the nuns | |
-| ovadeyya | verb | opt.3rd.sg | should enxhort; should instruct | √vad･1 a (say, speak) |
+| ovadeyya | verb | opt.3rd.sg | should exhort; should instruct | √vad･1 a (say, speak) |
 | pācittiyaṃ | noun | nt.nom.sg | offence requiring confession | |
 
 **Even if authorized, should a monk instruct the nuns when the sun has set, [this is] an offence requiring confession.**
@@ -252,7 +253,7 @@
 | paribbājakā | noun | masc.nom.pl | wandering ascetics | √vaj･1 a (go on) |
 | andhā | adj | masc.nom.pl | blind | |
 | acakkhukā | adj | masc.nom.pl | sightless; visionless; [lit: without eyes] | √cakkh･1 a (see) |
-| ajānantā | prp | masc.nom.pl | not knowing | ajānantā |
+| ajānantā | prp | masc.nom.pl | not knowing | √ñā･5 nā (know) |
 | ārogyaṃ | noun | nt.acc.sg | freedom from disease; health | √ruj･1 a (hurt, be painful) |
 | apassantā | prp | masc.nom.pl | not seeing | √dis･1 a (see) |
 | nibbānaṃ | noun | nt.acc.sg | total emancipation; Nibbāna | √vā･1 a (blow, emit odour) |
@@ -270,7 +271,7 @@
 | paṭiggahetvā | verb | abs | having accepted | √gah･6 ṇhā (grasp) |
 | tiyojanaparamaṃ | ind<br>(comp) | adv | for three units of linear measure (yojanas) at the most | |
 | sahatthā | pron | masc.instr.sg | by means of his own hand | |
-| haritabbāni | fpp | nt.nom.pl | it can be carried | √har･1 a (carry) |
+| haritabbāni | ptp | nt.nom.pl | it can be carried | √har･1 a (carry) |
 | asante | prp | masc.loc.sg | (when) … not present (loc abs) | |
 | hārake | noun | masc.loc.sg | one [who] can carry | |
 
@@ -297,7 +298,7 @@
 | mama | pron | 1st.gen.sg | mine | |
 | eso | pron | masc.nom.sg | this | |
 | ahaṃ | pron | 1st.nom.sg | I | |
-| asmi | verb | pr.3rd.sg | am | √as･1 a (be) |
+| asmi | verb | pr.1st.sg | am | √as･1 a (be) |
 | eso | pron | masc.nom.sg | this | |
 | me | pron | 1st.gen.sg | my | |
 | attā'ti | noun | masc.nom.sg | self | |
@@ -416,9 +417,9 @@
 | anuttaraṃ | adj | masc.acc.sg | highest; unsurpassed | |
 | yogakkhemaṃ | noun | masc.acc.sg | security from bondage | |
 | patthayamānā | prp | masc.nom.pl [+acc] | aspiring for; wishing for | √atth･8 \*aya (wish for) |
-| viharanti | verb | pr.3rd.pl. | dwell | √har･1 a (live) |
+| viharanti | verb | pr.3rd.pl | dwell | √har･1 a (live) |
 | tesu | pron | masc.loc.pl | in reference to them | |
-| me | pron | masc.gen.sg | my | |
+| me | pron | 1st.gen.sg | my | |
 | ayaṃ | pron | fem.nom.sg | this | |
 | evarūpī | adj | fem.nom.sg | of such a kind; of such quality | |
 | anusāsanī | noun | fem.nom.sg | instruction; advice | √sās･1 a (order, instruct) |
@@ -437,7 +438,7 @@
 | upaghātī | adj | masc.nom.sg | who injures; who harms | √ghaṭ･8 \*e (strike, kill) |
 | na | ind | neg | not | |
 | samaṇo | noun | masc.nom.sg | an ascetic; a monk | √sam･3 ya (exert, strive) |
-| hoti | verb | pr.3rd.sg. | is | √hū･1 a (be) |
+| hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | paraṃ | pron | masc.acc.sg | another | |
 | viheṭhayanto. | prp | masc.nom.sg | harming; troubling | √heṭh･8 \*aya (harass, annoy) |
 
@@ -624,6 +625,8 @@
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
+| idha | ind | adv | here; in this regard | |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | santaṃ | prp | masc.acc.sg | existing; is present | √as･1 a (be) |
 | vā | ind | - | or | |
@@ -651,7 +654,7 @@
 | manussā | noun | masc.nom.pl | humans | |
 | ca | ind | conj | and | |
 | maṅgalāni | noun | nt.acc.pl | what is auspicious; blessing | |
-| acintayuṃ | verb | aor.3.pl | they thought (about); pondered (over) | √cint･8 \*aya (think) |
+| acintayuṃ | verb | aor.3rd.pl | they thought (about); pondered (over) | √cint･8 \*aya (think) |
 | ākaṅkhamānā | prp | masc.nom.pl | wishing, wanting | √kaṅkh･1 a (wish for) |
 | sotthānaṃ, | noun | nt.acc.sg | well being | √as･1 a (be) |
 | brūhi | verb | imp.2nd.sg | tell about!; say! | √brū･1 a (say) |
@@ -736,7 +739,7 @@
 | eva | ind | emph | only; just | |
 | anudhāvati | verb | pr.3rd.sg | run along | √dhāv･1 a (run, flow) |
 
-**There are few among humans, whose people who cross over, but the rest of the people only runs along the shore.**
+**Few among humans are those people who cross over, but the rest of the people only runs along the shore.**
 
 7. [DHP153](https://find.dhamma.gift/bw/dhp/dhp146-156.html) <br>anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
 

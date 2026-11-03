@@ -8,7 +8,7 @@
 | bhikkhū | noun | masc.acc.pl | the monks | √bhikkh･1 a (beg) |
 | āmantesi | verb | aor.3rd.sg | he spoke to, addressed | √mant･8 \*e (counsel, invite) |
 | bhikkhavo | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| ‘ti | ind | quote | "" | |
+| ‘ti | ind | quote | " " | |
 
 **The Blessed One addressed the monks, "O monks!"**
 
@@ -30,7 +30,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | esa | pron | masc.nom.sg | this | |
-| bhagavato | noun | masc.gen.sg | of the Buddha, Buddha's | √bhaj･1 a (divide, distribute) |
+| bhagavato | noun | masc.gen.sg | of the Blessed One, Buddha's | √bhaj･1 a (divide, distribute) |
 | sāvaka-saṅgho | noun | masc.nom.sg | community of disciples | |
 | āhuneyyo | adj | masc.nom.sg | worthy of offerings | √hu･1 a (offer as oblation) |
 
@@ -180,7 +180,7 @@
 | bhikkhave | noun | masc.voc.pl | o monks | √bhikkh･1 a (beg) |
 | samaye | noun | masc.loc.sg | at time; occasion | |
 | corā | noun | masc.nom.pl | thieves | √cur･8 \*e (steal) |
-| balavanto | adj | masc.acc.pl | powerful | √bal･1 a (be strong, live) |
+| balavanto | adj | masc.nom.pl | powerful | √bal･1 a (be strong, live) |
 | honti | verb | pr.3rd.pl | they are | √hū･1 a (be) |
 
 **At whichever time, monks, thieves are powerful…**
@@ -192,7 +192,7 @@
 | upekkhako | adj | masc.nom.sg | equanimous | √ikkh･1 a (see, mark) |
 | satimā | adj | masc.nom.sg | mindful; attentive | √sar･1 a (remember) |
 | sukhavihārī | adj | masc.nom.sg | who lives at ease | |
-| iti | ind | | "" | |
+| iti | ind | quote | " " | |
 
 **"(He) who is equanimous [and] mindful lives at ease."**
 
@@ -227,7 +227,7 @@
 | aniccaṃ | adj | nt.nom.sg | impermanent | |
 | vā'ti | ind | conj + quote | or" | |
 
-**"What do you think, Rāhula, s the eye permanent or impermanent?"**
+**"What do you think, Rāhula, is the eye permanent or impermanent?"**
 
 18. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati.
 
@@ -283,8 +283,8 @@
 | iti | ind | quote | " " | |
 | yadā | ind | adv | when; whenever | |
 | paññāya | noun | fem.instr.sg | with wisdom | √ñā･5 nā (know) |
-| passati | verb | pr.3rd.sg | one sees | |
-| atha | ind | | then | √dis･1 a (see) |
+| passati | verb | pr.3rd.sg | one sees | √dis･1 a (see) |
+| atha | ind | | then | |
 | nibbindati | verb | pr.3rd.sg | one is disenchanted; disillusioned | √vid･2 ṃa (feel, like) |
 | dukkhe | noun | nt.loc.sg | with regard to suffering | √dukkh･1 a (be painful) |
 | esa | pron | masc.nom.sg | this | |
@@ -303,7 +303,7 @@
 | aṭṭhi | noun | nt.nom.sg | bone | |
 | avasissatu | verb | imp.3rd.sg | let it remain | √sis･8 ya (remain, distinguish) |
 | sarīre | noun | nt.loc.sg | on the body | |
-| upasussatu | verb | imp.3rd.sg | let it dry up | √sis･8 ya (remain, distinguish) |
+| upasussatu | verb | imp.3rd.sg | let it dry up | √sus･3 ya (become dry) |
 | maṃsalohitaṃ | noun | nt.nom.sg | flesh and blood | |
 
 **Let [my] skin, sinew, and bone remain, let [my] flesh and blood dry up in [my] body.**
@@ -344,7 +344,9 @@
 | ottappino | adj | masc.nom.pl | feeling shame | √tapp･1 a (regret) |
 | bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
 | satimanto | adj | masc.nom.pl | mindful; attentive | √sar･1 a (remember) |
+| bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
 | paññavanto | adj | masc.nom.pl | wise; insightful | √ñā･5 nā (know) |
+| bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
 
 **Monks should be conscientious, they should be feeling shame, they should be mindful, they should be wise.**
 
@@ -355,7 +357,7 @@
 | sukhino | adj | masc.nom.pl | at ease | √sukh･1 a (please, be comfortable) |
 | vā | ind | conj | or | |
 | khemino | adj | masc.nom.pl | safe; at peace | √khi×1 a (live, abide peacefully) |
-| hontu | verb | imp 3rd.pl | may they be | √hū･1 a (be) |
+| hontu | verb | imp.3rd.pl | may they be | √hū･1 a (be) |
 | sabbe | pron | masc.nom.pl | all | |
 | sattā | noun | masc.nom.pl | living beings | √as･1 a (be) |
 | bhavantu | verb | imp.3rd.pl | may they be | √bhū･1 a (be, become) |
@@ -403,7 +405,7 @@
 | vikappaṃ | noun | masc.acc.sg | an alteration | √kapp･1 a (be fit, be suitable) |
 | āpajjissati | verb | fut.3rd.sg | will cause; will effect | √pad･3 ya (go, step) |
 
-**If that monk, previously uninvited, would approache [there], cause an alteration in a robe…**
+**If that monk, previously uninvited, would approach [there], cause an alteration in a robe…**
 
 30. [VIN PAT SE 18](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl) <br>na bāhu-pacālakaṃ antaraghare nisīdissāmi
 
@@ -519,7 +521,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| nidhīnaṃ | noun | masc.acc.sg | a treasure | √dhā･1 a (place, support) |
+| nidhīnaṃ | noun | masc.gen.pl | of treasures | √dhā･1 a (place, support) |
 | va | ind | | as, like | |
 | pavattāraṃ | noun | masc.acc.sg | who points out | √vac･1 a (say, speak) |
 | vajjadassinaṃ | adj | masc.acc.sg | who sees fault | |

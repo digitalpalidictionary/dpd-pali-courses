@@ -12,7 +12,7 @@
 | pītisukhena | noun | nt.instr.sg | with joy and ease | |
 | abhisandeti | verb.caus | pr.3rd.sg | he makes flow to top; he causes to overflow | √sand･1 \*e (flow) |
 | parisandeti | verb.caus | pr.3rd.sg | he soaks; he makes flow around | √sand･1 \*e (flow) |
-| paripūreti | verb.caus | pr .3rd.sg | he makes fill up all around | √pūr･1 \*e (fill, fulfil) |
+| paripūreti | verb.caus | pr.3rd.sg | he makes fill up all around | √pūr･1 \*e (fill, fulfil) |
 | parippharati | verb | pr.3rd.sg | he suffuses | √phar･1 a (suffuse, pervade) |
 
 **He causes this very body to overflow, to flow around, to fill up all around, to suffuse with the joy and happiness born from separation [from the hindrances].**
@@ -197,7 +197,7 @@
 | atthi | verb | pr.3rd.sg | it is, there is | √as･1 a (be) |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | pañho | noun | masc.nom.sg | question | √pañh･1 a (ask, question) |
-| vibhajja- | verb | ger | explaining in detail; analysing in detail | √bhaj･1 a (divide, distribute) |
+| vibhajja- | verb | abs | explaining in detail; analysing in detail | √bhaj･1 a (divide, distribute) |
 | byākaraṇīyo | ptp | masc.nom.sg | should be answered | √kar･7 o (do, make) |
 
 **There is, monks, a question which should be answered by analysing in detail.**
@@ -385,7 +385,7 @@
 | --- | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he | |
 | dhammaṃ | noun | masc.acc.sg | the doctrine | √dhar･1 a (hold, carry, endure) |
-| deseti | verb | aor.3rd.sg | he teaches | √dis･1 \*e (point out, explain) |
+| deseti | verb | pr.3rd.sg | he teaches | √dis･1 \*e (point out, explain) |
 | ādikalyāṇaṃ | adj | masc.acc.sg | beneficial in the beginning | |
 | majjhekalyāṇaṃ | adj | masc.acc.sg | beneficial in the middle | |
 | pariyosānakalyāṇaṃ | adj | masc.acc.sg | beneficial at the end | |
@@ -445,7 +445,7 @@
 | yathā- | ind | adv | as; how | |
 | paññattesu | pp | nt.loc.pl | in formulated; prescribed; declared | √ñā･5 \*āpe (know) |
 | sikkhāpadesu | noun | nt.loc.pl | in training rules | |
-| samādāya | verb | ger | undertaking; accepting | √ādā･3 ya (take, seize) |
+| samādāya | verb | abs | undertaking; accepting | √ādā･3 ya (take, seize) |
 | vattissanti | verb | fut.3rd.pl | they will practise; lit. proceed | √vatt･1 a (be, proceed) |
 
 **they will practise accepting the training rules as they had been formulated.**
@@ -534,7 +534,7 @@
 | pabbājenti | verb. caus | pr.3rd.pl | they banish (lit: cause to leave) | √vaj･1 \*e (go on) |
 | ekaccaṃ | pron | masc.acc.sg | another one, a certain one | |
 | na | ind | neg | not | |
-| pabbājentī"ti | verb | pres.caus.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
+| pabbājentī"ti | verb | caus pr.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
 | so | pron | masc.nom.sg | that | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | bhikkhūhi | noun | masc.instr.pl | by the monks | √bhikkh･1 a (beg) |
@@ -648,7 +648,7 @@
 | ca | ind | conj | and | |
 | avijjaṃ | noun | fem.acc.sg | ignorance | √vid･3 ya (know, understand) |
 | ca | ind | conj | and | |
-| virājiya | verb | ger | removing; cleansing | √raj･3 ya (desire) |
+| virājiya | verb | abs | removing; cleansing | √raj･3 ya (desire) |
 | khīṇ'āsavā | adj | masc.nom.pl | who have destroyed the effluents/taints | |
 | arahanto | noun | masc.nom.pl | enlightened beings (lit: worthy ones) | √arah･1 a (deserve, be worthy) |
 | te | pron | masc.nom.pl | they | |
@@ -690,7 +690,7 @@
 | āmantesi | verb | aor.3rd.sg | addressed | √mant･8 \*e (counsel, invite) |
 | ārādhayiṃsu | verb | aor.3rd.pl | satisfied; pleased | √rādh･3 \*aya (succeed, please) |
 | vata | ind | emph | surely | |
-| me | pron | masc.gen.sg | my | |
+| me | pron | 1st.gen.sg | my | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhū | noun | masc.nom.pl | the monks | √bhikkh･1 a (beg) |
 | ekaṃ | card | masc.acc.sg | at one; on one | |
@@ -818,7 +818,7 @@
 | purisa | noun | masc.voc.sg | man | |
 | na | ind | neg | not | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
-| addasa | verb | aor.2rd.sg | you saw | √dis･1 a (see) |
+| addasa | verb | aor.2nd.sg | you saw | √dis･1 a (see) |
 | manussesu | noun | masc.loc.pl | among men; among human beings | |
 | itthiṃ | noun | fem.acc.sg | a woman | |
 | vā | ind | conj | or | |

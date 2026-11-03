@@ -40,7 +40,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ekaṃ samayaṃ | card+noun [idiom] | masc.acc.sg | at one time | |
+| ekaṃ samayaṃ | idiom | masc.acc.sg (card+noun) | at one time | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | vesāliyaṃ | noun | fem.loc.sg | in Vesali | |
 | viharati | verb | pr.3rd.sg | he lives; dwells | √har･1 a (live) |
@@ -109,7 +109,7 @@
 | pana | ind | - | and | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | oren'addhamāsaṃ | ind | adv | sooner than a fortnight; within less than half a month | |
-| nahāyeyya | verb | opt.3rd.sg | should bath | √nhā･3 ya (bathe) |
+| nahāyeyya | verb | opt.3rd.sg | should bathe | √nhā･3 ya (bathe) |
 | pācittiyaṃ | noun | nt.nom.sg | a case requiring confession | |
 
 **whichever monk should bathe sooner than a fortnight, that is an offence requiring confession**
@@ -318,7 +318,7 @@
 | anāgatam'addhānaṃ | ind | adv | in the future | |
 | evaṃvedano | adj | masc.nom.sg | having such feeling | |
 
-**In this regard, householder, one think [lit: there is thus for a certain], may I be of such form in the future, may I be having such feeling in the future.**
+**In this regard, householder, it occurs to someone [lit: for a certain one there is thus]: "may I be of such form in the future, may I be having such feeling in the future.**
 
 25. [MN25](https://find.dhamma.gift/bw/mn/mn25.html) (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
 
@@ -388,17 +388,17 @@
 | cha | card | x.acc.pl | six | |
 | sāraṇīye | adj | masc.acc.pl | cordial | √raj･3 ya (desire) |
 | dhamme | adj | masc.acc.pl | things, principles | √dhar･1 a (hold, carry, endure) |
-| samādāya | verb | ger | undertaking; taking up; accepting | √ādā･3 ya (take, seize) |
+| samādāya | verb | abs | undertaking; taking up; accepting | √ādā･3 ya (take, seize) |
 | vatteyyātha | verb | opt.2nd.pl | would practice; would continue | √vatt･1 a (be, proceed) |
 | passatha | verb | pr.2nd.pl | you see | √dis･1 a (see) |
 | no | ind | interr | surely?; didn't?; isn't it? | |
 | tumhe | pron | 2nd.nom.pl | you | |
-| taṃ                                                                                          z | pron | masc.acc.sg | that | |
+| taṃ | pron | masc.acc.sg | that | |
 | vacanapathaṃ | noun | masc.acc.sg | way of saying things; mode of expression | |
 | aṇuṃ | adj | masc.acc.sg | subtle; fine | |
 | vā | ind | | or | |
-| thūlaṃ | adj | masc.acc.sg | gross; coarse | |
-| vā | ind | | or | √thūl×8 \*e (be fat, coarse) |
+| thūlaṃ | adj | masc.acc.sg | gross; coarse | √thūl×8 \*e (be fat, coarse) |
+| vā | ind | | or | |
 | yaṃ | pron | masc.acc.sg | that which | |
 | tumhe | pron | 2nd.nom.pl | you | |
 | n'ādhivāseyyātha | verb | opt.2nd.pl | should not endure; would not tolerate | |
@@ -419,14 +419,14 @@
 | ca | ind | conj | and | |
 | pesalā | adj | masc.nom.pl | well-behaved | |
 | sabrahmacārī | noun | masc.nom.pl | fellow monks | |
-| āgaccheyyuṃ | verb | opt.3rd.pl | could approach; could come along | gam･1 a (go) |
-| āgatā | adj | masc.nom.pl | have come; arrived | gam･1 a (go) |
+| āgaccheyyuṃ | verb | opt.3rd.pl | could approach; could come along | √gam･1 a (go) |
+| āgatā | adj | masc.nom.pl | have come; arrived | √gam･1 a (go) |
 | ca | ind | conj | and | |
 | pesalā | adj | masc.nom.pl | well-behaved | |
 | sabrahmacārī | noun | masc.nom.pl | fellow monks | |
 | phāsuṃ | ind | adv | comfortably; at ease | √phus･1 a (touch) |
 | vihareyyuṃ | verb | opt.3rd.pl | they could dwell | √har･1 a (live) |
-| iti | ind | quote mark | " " | |
+| iti | ind | quote | " " | |
 
 **Bhikkhus, the monks will establish mindfulness individually [with the intention]: "How then well-behaved fellow monks [who] have not come could come and (how) well-behaved monks [who] have come could dwell at ease?"**
 

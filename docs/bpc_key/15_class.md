@@ -1,4 +1,4 @@
-# Class 15
+# Class 15 Key to Exercises
 
 **Translation Assignment**
 
@@ -64,7 +64,7 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | pariṇāmaṃ | noun | masc.acc.sg | digestion | |
 | gacchati, | v | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
 
-**what has been eaten, drunk, chewed, [and] tasted [is] gets digested thoroughly.**
+**what has been eaten, drunk, chewed, [and] tasted gets digested thoroughly.**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -85,8 +85,8 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 | bhikkhave, | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
 | pañca | card | x.nom.pl | five | |
 | caṅkame | noun | masc.loc.sg | in walking meditation (in regard to…) | √kam･1 a (go) |
-| ānisaṃsā | n | m.n.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
-| "ti | ind | endquote | "" | |
+| ānisaṃsā | n | masc.nom.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
+| "ti | ind | quote | " " | |
 
 **Monks, these [are], indeed, the five benefits of walking meditation."**
 
@@ -103,7 +103,7 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 | dhammehi | noun | masc.instr.pl | with qualities | √dhar･1 a (hold, carry, endure) |
 | samannāgato | adj | masc.nom.sg (+instr) | endowed with; possessed of; possessing | √gam･1 a (go) |
 | bālo | noun | masc.nom.sg | fool | |
-| veditabbo | ptp | masc.noun.sg | should be known | √vid･8 \*e (know, sense, feel) |
+| veditabbo | ptp | masc.nom.sg | should be known | √vid･8 \*e (know, sense, feel) |
 
 **Monks, one endowed with three qualities should be known as a fool.**
 
@@ -148,11 +148,11 @@ accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappa�
 | yathā- | ind | adv | as; like; in relation to; according to | |
 | dhammaṃ | noun | masc.acc.sg | doctrine, teaching | √dhar･1 a (hold, carry, endure) |
 | na- | ind | neg | not | |
-| paṭiggaṇhāti | verb | pr.3rd.sg | takes; receives; accepts | pati + √gah･6 ṇhā (grasp) |
+| paṭiggaṇhāti | verb | pr.3rd.sg | takes; receives; accepts | √gah･6 ṇhā (grasp) |
 
 **Indeed, when another person is pointing out a fault, he does not accept [it] in accordance with the Doctrine.**
 
-imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
+imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -287,7 +287,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | n'atthitaṃ | noun | fem.acc.sg | the idea of non-existence (lit: there is not state) | |
 | ca | ind | conj | and | |
 
-**This world, Kaccāna, for the most part [is] dependent on a duality–on the idea of existence as well as the ideal of non-existence.**
+**This world, Kaccāna, for the most part [is] dependent on a duality–on the idea of existence as well as the idea of non-existence.**
 
 lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke n'atthitā sā na hoti.
 
@@ -297,7 +297,7 @@ lokasamudayaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke
 | kho | ind | emph | but; certainly | |
 | kaccāna | noun | masc.voc.sg | Kaccāna | |
 | yathābhūtaṃ | adj | masc.acc.sg | as it truly is; in reality (lit: like become) | |
-| sammappaññāya | noun | fem.dat.sg | with correct understanding; with perfect wisdom | |
+| sammappaññāya | noun | fem.instr.sg | with correct understanding; with perfect wisdom | |
 | passato | prp | masc.dat.sg | to/for one seeing | √dis･1 a (see) |
 | yā | pron | fem.nom.sg | which | |
 | loke | noun | masc.loc.sg | in regard to the world | √lok･8 \*e (look) |
@@ -316,7 +316,7 @@ lokanirodhaṃ kho, kaccāna, yathābhūtaṃ sammappaññāya passato yā loke 
 | kho | ind | emph | indeed | |
 | kaccāna | noun | masc.voc.sg | Kaccāna | |
 | yathābhūtaṃ | adj | masc.acc.sg | as it really is | |
-| sammappaññāya | noun | fem.dat.sg | with perfect wisdom; with correct understanding | |
+| sammappaññāya | noun | fem.instr.sg | with perfect wisdom; with correct understanding | |
 | passato | prp | masc.dat.sg | for one seeing | √dis･1 a (see) |
 | yā | pron | fem.nom.sg | which | |
 | loke | noun | masc.loc.sg | in regard to the world | √lok･8 \*e (look) |
@@ -352,7 +352,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | adhiṭṭhānaṃ | noun | nt.acc.sg | standpoint; prejudice; bias; preconception | |
 | abhinives'ānusayaṃ | noun | masc.acc.sg | adherence and underlying tendency | |
 | na | ind | neg | not | |
-| upeti | verb | pr.3rd.sg (+acc) | engage in; get involved with | upa +√i･1 a (come, go) |
+| upeti | verb | pr.3rd.sg (+acc) | engage in; get involved with | √i･1 a (come, go) |
 | na | ind | neg | not | |
 | upādiyati | verb | pr.3rd.sg (+acc) | grasp; cling to | √ādā･3 ya (take, seize) |
 | n'ādhiṭṭhāti | verb | pr.3rd.sg | does not take a stand | √ṭhā･1 a (stand) |
@@ -365,7 +365,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dukkhaṃ | noun | nt.nom.sg | suffering | √cit･8 \*e (think, intend) |
+| dukkhaṃ | noun | nt.nom.sg | suffering | √dukkh･1 a (be painful) |
 | eva | ind | emph | only | |
 | uppajjamānaṃ | prp | nt.nom.sg | arising | √pad･3 ya (go, step) |
 | uppajjati | verb | pr.3rd.sg | arises | √pad･3 ya (go, step) |
@@ -373,7 +373,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | nirujjhamānaṃ | prp | nt.nom.sg | ceasing | √rudh･2 ya (obstruct) |
 | nirujjhatī'ti | verb | pr.3rd.sg +endquote | ceases | √rudh･2 ya (obstruct) |
 
-**Arise is only arising suffering, cease is (only) ceasing suffering.**
+**What arises is only suffering arising; what ceases is only suffering ceasing.**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -437,10 +437,10 @@ ete te, kaccāna, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti.
 | kaccāna | noun | masc.voc.sg | Kaccāna | |
 | ubho | pron | masc.acc.pl | both | |
 | ante | noun | masc.acc.pl | extremes | |
-| anupagamma | verb | ger (+acc) | avoiding; not adopting | √gam･1 a (go) |
+| anupagamma | verb | abs (+acc) | avoiding; not adopting | √gam･1 a (go) |
 | majjhena | adj | masc.instr.sg | by means of the middle | |
-| tathāgato | noun | masc.nom.sg | the Tathāgata (the Thus- Gone; Such Become) | √dhar･1 a (hold, carry, endure) |
-| dhammaṃ | noun | masc.acc.sg | the doctrine | |
+| tathāgato | noun | masc.nom.sg | the Tathāgata (the Thus- Gone; Such Become) | |
+| dhammaṃ | noun | masc.acc.sg | the doctrine | √dhar･1 a (hold, carry, endure) |
 | deseti | verb | pr.3rd.sg | teaches | √dis･1 \*e (point out, explain) |
 
 **Avoiding both these extremes, Kaccāna, the Tathāgata teaches the doctrine by means of the middle.**

@@ -48,12 +48,12 @@
 | seyyathāpi | ind | | just like, as | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | ādittacelo | noun | masc.nom.sg | whose clothes are on fire; with blazing garments | |
-| \#āditto | pp | masc.nom.sg | blazing, on fire | √dīp･3 ya (shine, blaze) |
-| \#celo | adj | masc.nom.sg | with clothes | √cil･1 a (clothe) |
+| āditta- | pp | masc.nom.sg | blazing, on fire | √dīp･3 ya (shine, blaze) |
+| -celo | adj | masc.nom.sg | with clothes | √cil･1 a (clothe) |
 | vā | ind | conj | or | |
 | ādittasīso | noun | masc.nom.sg | whose head is on fire | |
-| \#āditto | pp | masc.nom.sg | blazing, on fire | √dīp･3 ya (shine, blaze) |
-| \#sīso | adj | masc.nom.sg | with head | |
+| āditta- | pp | masc.nom.sg | blazing, on fire | √dīp･3 ya (shine, blaze) |
+| -sīso | adj | masc.nom.sg | with head | |
 | vā | ind | conj | or | |
 
 **Monks, just as [a man whose] clothes were on fire or [whose] head was burning…**
@@ -72,7 +72,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | upaṭṭhitā | pp | fem.nom.sg | present, established | √ṭhā･1 a (stand) |
-| sati | noun | fem.nom.sg | mindfulness | √as･1 a (be) |
+| sati | noun | fem.nom.sg | mindfulness | √sar･1 a (remember) |
 | asammuṭṭhā, | pp | fem.nom.sg | unconfused; not forgotten | √mus･3 ya (lie, forget) |
 
 **Mindfulness is present and not forgotten**
@@ -226,7 +226,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | atthi | verb | pr.3rd.sg | there is | |
-| dinnaṃ | pp | nt.nom.sg | what is given | dinnaṃ |
+| dinnaṃ | pp | nt.nom.sg | what is given | √dā･1 a (give) |
 | atthi | verb | pr.3rd.sg | there is | |
 | yiṭṭhaṃ | pp | nt.nom.sg | what is sacrificed | √yaj･1 a (honour, sacrifice) |
 | atthi | verb | pr.3rd.sg | there is | |
@@ -402,7 +402,7 @@
 | avinīto | adj | masc.nom.sg | undisciplined in; uneducated about | √nī･1 a (lead, carry) |
 | rūpaṃ | noun | nt.acc.sg | materiality; form | √rūp･8 \*e (form, produce) |
 | attato | ind | adv | as self | |
-| samanupassati | verb | pr.3rd sg | regards; considers | √dis･1 a (see) |
+| samanupassati | verb | pr.3rd.sg | regards; considers | √dis･1 a (see) |
 
 **who has no regard for righteous men, [who is] not proficient in the teaching of righteous men, [who is] uneducated about the teaching of righteous men, regards form as self.**
 
@@ -550,7 +550,7 @@
 | --- | --- | --- | --- | --- |
 | satthā | noun | masc.nom.sg | the teacher | √sās･1 a (order, instruct) |
 | ca | ind | conj | and; but | |
-| me | pron | masc.dat.sg | for me | |
+| me | pron | 1st.dat.sg | for me | |
 | lokaṃ | noun | masc.acc.sg | world | √lok･8 \*e (look) |
 | imaṃ | pron | masc.acc.sg | this | |
 | adhiṭṭhahi | verb | aor.3rd.sg | resolved; determined | √ṭhā･1 a (stand) |

@@ -110,7 +110,7 @@
 | devamanussānaṃ | noun | masc.gen.pl | of gods and humans |
 | buddho | noun | masc.nom.sg | the Awakened One |
 | bhagavā | noun | masc.nom.sg | the Blessed One |
-| iti | ind | ind | end quote |
+| iti | ind | quote | " " |
 
 **It is so (thus) "He [is] the Blessed One, the Worthy One, the fully Enlightened One, endowed with wisdom and ethical conduct, Fortunate One, knower of the world, incomparable leader of persons to be tamed, teacher of gods and humans, the Awakened One, the Blessed One."**
 
@@ -237,7 +237,7 @@
 | domanassehi | noun | masc.instr.pl<br>masc.abl.pl | with distresses<br>from distresses |
 | upāyāsehi | noun | masc.instr.pl<br>masc.abl.pl | with afflictions<br>from afflictions |
 
-**[burning] with griefs, lamentations,pains, distresses, afflictions**
+**[burning] with griefs, lamentations, pains, distresses, afflictions**
 
 22. dhammo vinayo
 
@@ -246,7 +246,7 @@
 | dhammo | noun | masc.nom.sg | the Doctrine, the Teaching |
 | vinayo | noun | masc.nom.sg | the Discipline |
 
-**The Doctrine the Discipline**
+**The Doctrine, the Discipline**
 
 23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 

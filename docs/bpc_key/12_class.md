@@ -72,7 +72,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ekaṃ samayaṃ | ind | idiom | at one time; on one occasion | |
+| ekaṃ samayaṃ | idiom | masc.acc.sg (card+noun) | at one time; on one occasion | |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | sakkesu | noun | masc.loc.pl | among the Sakyans | √sak･4 ṇo (be able, powerful) |
 | viharati | verb | pr.3rd.sg | he lives; dwells | √har･1 a (live) |
@@ -202,11 +202,11 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tathā | ind | adv | like this, likewise | |
-| dutiyaṃ | adj | fem.acc.sg | the second (direction) | |
+| dutiyaṃ | ordin | fem.acc.sg | the second (direction) | |
 | tathā | ind | adv | like this, likewise | |
-| tatiyaṃ | adj | fem.acc.sg | the third (direction) | |
+| tatiyaṃ | ordin | fem.acc.sg | the third (direction) | |
 | tathā | ind | adv | like this, likewise | |
-| catutthaṃ | adj | fem.acc.sg | the fourth (direction) | |
+| catutthaṃ | ordin | fem.acc.sg | the fourth (direction) | |
 
 **Likewise, the second, third and fourth.**
 
@@ -264,8 +264,8 @@
 | me | pron | 1st.dat.sg | for me | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | imesu | pron | masc.loc.pl | in these | |
-| catūsu | card | masc.loc.pl | four | |
-| ariyasaccesu | noun | masc.loc.pl | noble truths | |
+| catūsu | card | nt.loc.pl | four | |
+| ariyasaccesu | noun | nt.loc.pl | noble truths | |
 | saha | ind | prep | together with | |
 | tīhi | card | masc.instr.pl | with three | |
 | parivaṭṭehi | noun | masc.instr.pl | with phases (lit: circles) | √vaṭṭ･1 a (turn) |
@@ -313,7 +313,7 @@
 | catunnaṃ | card | masc.gen.pl | of the four | |
 | ca | ind | conj | and | |
 | mahābhūtānaṃ | noun | masc.gen.pl | of the primary elements | |
-| upādāya | ind | ger | dependent on; derived from | √ādā･3 ya (take, seize) |
+| upādāya | verb | abs | dependent on; derived from | √ādā･3 ya (take, seize) |
 | rūpaṃ | noun | nt.nom.sg | material form | √rūp･8 \*e (form, produce) |
 | idaṃ | pron | nt.nom.sg | this | |
 | vuccati | verb | pr.3rd.sg | is called | √vac･1 ya (say, speak) |
@@ -367,8 +367,8 @@
 | samannāgato | adj [pp] | masc.nom.sg | endowed with | √gam･1 a (go) |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | samanta'pāsādiko | adj | masc.nom.sg | one who inspires confidence in every way | |
-| ca | ind | conj | and | √hū･1 a (be) |
-| hoti | verb | pr.3rd.sg | is | |
+| ca | ind | conj | and | |
+| hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | sabb'ākāraparipūro | adj | masc.nom.sg | complete in every aspect | |
 | ca | ind | conj | and | |
 
@@ -438,9 +438,9 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dissati | verb | pr.3rd.sg | it is seen; observed | |
+| dissati | verb | pr.3rd.sg | it is seen; observed | √dis･1 ya (see) |
 | ayaṃ | pron | masc.nom.sg | this | |
-| bhikkhave | noun | masc.voc.pl | monks | √dis･1 ya (see) |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | cātumahābhūtiko | adj | masc.nom.sg | made of the four great elements | |
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
 | ekaṃ | pron | nt.acc.sg | one | |
@@ -455,13 +455,13 @@
 | cattāri | card | nt.acc.pl | four (4) | |
 | pañca | card | x.acc.pl | five (5) | |
 | dasa | card | x.acc.pl | ten (10) | |
-| vīsati | card | fem.acc.pl | twenty (20) | |
-| tiṃsaṃ | card | fem.acc.pl | thirty (30) | |
-| cattārīsaṃ | card | fem.acc.pl | forty (40) | |
+| vīsati | card | fem.acc.sg | twenty (20) | |
+| tiṃsaṃ | card | fem.acc.sg | thirty (30) | |
+| cattārīsaṃ | card | fem.acc.sg | forty (40) | |
 | api | ind | ind | only | |
 | vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
-| paññāsaṃ | card | fem.acc.pl | fifty (50) | |
+| paññāsaṃ | card | fem.acc.sg | fifty (50) | |
 | api | ind | ind | only | |
 | vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
@@ -479,8 +479,8 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | evaṃ | ind | emph | yes; indeed | |
-| bhante'ti | noun | masc.voc.sg +end quote | venerable sir | |
-| kho | ind | emph | certainly; surely; truly [not translated] | √bhad×1 a (be good, lucky) |
+| bhante'ti | noun | masc.voc.sg +end quote | venerable sir | √bhad×1 a (be good, lucky) |
+| kho | ind | emph | certainly; surely; truly [not translated] | |
 | āyasmā | noun | masc.nom.sg | Venerable | √i･1 a (come, go) |
 | soṇo | noun | masc.nom.sg | Soṇa | |
 | bhagavato | noun | masc.dat.sg | to the Blessed One | √bhaj･1 a (divide, distribute) |

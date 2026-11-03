@@ -115,7 +115,7 @@
 | --- | --- | --- | --- |
 | devā | noun | masc.nom.pl | deities |
 | manussā | noun | masc.nom.pl | human beings |
-| ca | conj | ind | and |
+| ca | ind | conj | and |
 | sitā | pp | masc.nom.pl | attached; dependent |
 | tiṭṭhanti | verb | pr.3rd.pl | they remain |
 
@@ -167,7 +167,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| parikkhāraṃ | noun | masc.ac.sg | the requisite (object) |
+| parikkhāraṃ | noun | masc.acc.sg | the requisite (object) |
 | paṭisevāmi | verb | pr.1st.sg | I make use of |
 
 **I make use of the requisite.**
@@ -188,7 +188,7 @@
 | --- | --- | --- | --- |
 | saṅkhāresu | noun | masc.loc.pl | in volitional formations |
 | chandaṃ | noun | masc.acc.sg | desire; interest |
-| ca | conj | ind | and |
+| ca | ind | conj | and |
 | rāgaṃ | noun | masc.acc.sg | passion; lust; desire |
 | pajahatha | verb | imp.2nd.pl | you (all) must abandon |
 
@@ -254,7 +254,7 @@
 | --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that |
 | suṇāhi | verb | imp.2nd.sg | listen |
-| sādhukaṃ | adv | ind | thoroughly; properly |
+| sādhukaṃ | ind | adv | thoroughly; properly |
 | manasi | noun | masc.loc.sg | in mind |
 | karohi | verb | imp.2nd.sg | make |
 | bhāsissāmi | verb | fut.1st.sg | I will speak |
@@ -278,7 +278,7 @@
 | handa | excl | ind | come on!; come now! let's! |
 | bhikkhu | noun | masc.voc.sg | Bhikkhu |
 | khāda | verb | imp.2nd.sg | chew; eat |
-| vā | conj | ind | or |
+| vā | ind | conj | or |
 | bhuñja | verb | imp.2nd.sg | consume |
 
 **Come on, bhikkhu, eat or consume!**
@@ -290,7 +290,7 @@
 | āyasmato | noun | masc.gen.sg | of venerable |
 | sāriputtassa | noun | masc.gen.sg | of Sāriputta |
 | bhāsitaṃ | noun | nt.acc.sg | the statement; utterance |
-| evaṃ | adv | ind | thus; like this |
+| evaṃ | ind | adv | thus; like this |
 | ājānāma | verb | pr.1st.pl | we understand |
 
 **We understand the statement of venerable Sāriputta thus.**
@@ -300,7 +300,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | labhāmi | verb | pr.1st.sg | I obtain |
-| paccattaṃ | adv | ind | for oneself; individually |
+| paccattaṃ | ind | adv | for oneself; individually |
 | samathaṃ | noun | masc.acc.sg | serenity |
 
 **I obtain serenity individually.**

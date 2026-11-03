@@ -14,4 +14,4 @@
 - [Class 12 Key to Exercises](12_class.md)
 - [Class 13 Key to Exercises](13_class.md)
 - [Class 14 Key to Exercises](14_class.md)
-- [Class 15](15_class.md)
+- [Class 15 Key to Exercises](15_class.md)

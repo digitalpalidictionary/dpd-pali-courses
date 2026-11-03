@@ -40,7 +40,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ahaṃ | pron | 1st.nom.sg. | I | |
+| ahaṃ | pron | 1st.nom.sg | I | |
 | yathākammaṃ | ind | adv | according to actions | |
 | gamissāmi | verb | fut.1st.sg | I will go | √gam･1 \*e (go) |
 
@@ -78,7 +78,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | alaṃ | ind | excl | Stop! Enough! | |
-| ānanda | noun | masc.voc.sg | Happy, joyful | |
+| ānanda | noun | masc.voc.sg | O Ānanda! (lit. joyful) | |
 | mā | ind | neg | don't! | |
 | soci | verb | aor.3rd.sg | grieved | √suc･1 \*a (grieve) |
 | mā | ind | neg | don't! | |
@@ -118,7 +118,7 @@
 | pītiṃ | noun | fem.acc.sg | rapture; delight | √pī･5 nā (love, please) |
 | paṭisaṃvedī | adj | masc.nom.sg | experiencing | √vid･8 \*e (know, sense, feel) |
 | assasissāmi | verb | fut.1st.sg | I will breathe in | √sas･1 a (breath) |
-| iti | ind | | " "; thus | |
+| iti | ind | quote | " "; thus | |
 | sikkhati | verb | pr.3rd.sg | one trains | √sikkh･1 a (learn, train) |
 
 **One trains thus: "I will breathe in experiencing delight."**
@@ -130,6 +130,8 @@
 | aniccaṃ | noun | masc.acc.sg | impermanence | |
 | anupassī | adj | masc.nom.sg | looking (at); observing; lit. seeing again and again | √dis･1 a (see) |
 | passasissāmi | verb | fut.1st.sg | I will breathe out | √sas･1 a (breath) |
+| iti | ind | quote | " "; thus | |
+| sikkhati | verb | pr.3rd.sg | one trains | √sikkh･1 a (learn, train) |
 
 **One trains thus: "I will breathe out, observing impermanence."**
 
@@ -352,7 +354,7 @@
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
 | uccāsoṇḍaṃ | noun | fem.acc.sg | a high trunk | |
-| paggahetvā | ind | abs | having raised up; having lifted up [this and previous word form an idiom: arrogantly; with an attitude] | √gah･6 ṇhā (grasp) |
+| paggahetvā | verb | abs | having raised up; having lifted up [this and previous word form an idiom: arrogantly; with an attitude] | √gah･6 ṇhā (grasp) |
 | kulāni | noun | nt.acc.pl | families | √kul･1 a (be close) |
 | upasaṅkamissāmi | verb | fut.1st.sg | I will approach | √kam･1 a (go) |
 
@@ -524,10 +526,10 @@
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
-| jina | verb | imp.2.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
+| jina | verb | imp.2nd.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
 | kadariyaṃ | noun | nt.acc.sg | stinginess | |
 | dānena | noun | masc.instr.sg | by generosity | √dā･1 a (give) |
-| jina | verb | imp.2.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
+| jina | verb | imp.2nd.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
 | saccena | noun | nt.instr.sg | by truth | √as･1 a (be) |
 | alikavādinaṃ | noun | masc.acc.sg | liar; who lies | |
 
@@ -558,10 +560,10 @@
 | mā | ind | neg | not; don't; don't let | |
 | pacchā | ind | adv | afterwards | |
 | vippaṭisārino | adj | masc.nom.pl | remorseful; regretful | √sar･1 a (remember) |
-| ahuvattha | verb | aor.2nd.pl | you all were | |
-| ayaṃ | pron | fem.nom.sg | this | √hū･1 a (be) |
-| vo | pron | masc.dat.pl | for you | |
-| amhākaṃ | pron | masc.gen.pl | (royal plural) my; lit. our | |
+| ahuvattha | verb | aor.2nd.pl | you all were | √hū･1 a (be) |
+| ayaṃ | pron | fem.nom.sg | this | |
+| vo | pron | 2nd.dat.pl | for you | |
+| amhākaṃ | pron | 1st.gen.pl | (royal plural) my; lit. our | |
 | anusāsanī | noun | fem.nom.sg | advice; instruction | √sās･1 a (order, instruct) |
 
 **Meditate, monks! You must not be negligent, do not have remorse afterwards! This [is] my advice for you.**

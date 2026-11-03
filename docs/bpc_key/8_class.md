@@ -4,7 +4,7 @@
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
-| nisajja | verb | ger | sitting down; having sat down | √sad･1 a (sink, sit, settle) |
+| nisajja | verb | abs | sitting down; having sat down | √sad･1 a (sink, sit, settle) |
 | kho | ind | - | - | |
 | bhagavā | noun | masc.nom.sg | The Blessed One | √bhaj･1 a (divide, distribute) |
 | bhikkhū | noun | masc.acc.pl | monks | √bhikkh･1 a (beg) |
@@ -16,7 +16,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| vivicca | verb | ger (+abl) | having separated; separating (from); aloof (from) | √vic･1 a (separate) |
+| vivicca | verb | abs (+abl) | having separated; separating (from); aloof (from) | √vic･1 a (separate) |
 | kāmehi | noun | masc.abl.pl | from sensual pleasures | √kam･8 \*e (desire) |
 | vivicca | verb | abs (+abl) | aloof (from) | √vic･1 a (separate) |
 | akusalehi | adj | masc.abl.pl | from unwholesome | |
@@ -129,23 +129,23 @@
 | sampajāno | adj | masc.nom.sg | knowing clearly | √ñā･5 nā (know) |
 | satimā | adj | masc.nom.sg | mindful | √sar･1 a (remember) |
 
-9. ardent, knowing clearly, mindful
+**ardent, knowing clearly, mindful**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| vineyya | ind | abs | having removed, removing | √nī･1 a (lead, carry) |
+| vineyya | verb | abs | having removed, removing | √nī･1 a (lead, carry) |
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
 | abhijjhā-domanassaṃ | noun | nt.acc.sg | craving & mental suffering | |
 
 **removing craving and mental suffering towards the world.**
 
-10. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>āyasmā ānando uṭṭhāya āsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.
+9. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>āyasmā ānando uṭṭhāya āsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
 | ānando | noun | masc.nom.sg | Ānanda | |
-| uṭṭhāya | verb | ger | rising, getting up | |
+| uṭṭhāya | verb | abs | rising, getting up | |
 | āsanā | noun | nt.abl.sg | from seat | √ās･1 a (sit) |
 | ekaṃsaṃ | ind | adv | on one shoulder | |
 | uttarāsaṅgaṃ | noun | masc.acc.sg | upper robe, outer robe | |
@@ -161,7 +161,7 @@
 
 **Venerable Ananda, rising from his seat and adjusting his upper robe over one shoulder, stretched out his palms towards the Blessed One and said this to the Blessed One.**
 
-11. [SN6.5](https://find.dhamma.gift/bw/sn/sn6.5.html) <br>atha kho bhagavā tassa brahmuno upari vehāsaṃ pallaṅkena nisīdi tejodhātuṃ samāpajjitvā
+10. [SN6.5](https://find.dhamma.gift/bw/sn/sn6.5.html) <br>atha kho bhagavā tassa brahmuno upari vehāsaṃ pallaṅkena nisīdi tejodhātuṃ samāpajjitvā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -178,7 +178,7 @@
 
 **And then the Blessed One, having attained the fire element, sat above that god in the sky in a cross-legged sitting posture.**
 
-12. [VIN PAT PA 1](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>yo pana bhikkhu sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya pārājiko hoti asaṃvāso
+11. [VIN PAT PA 1](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>yo pana bhikkhu sikkhaṃ apaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya pārājiko hoti asaṃvāso
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -186,7 +186,7 @@
 | pana | ind | | and | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | sikkhaṃ | noun | fem.acc.sg | training | |
-| apaccakkhāya | verb | ger | not renouncing, not rejecting | √sikkh･1 a (learn, train) |
+| apaccakkhāya | verb | abs | not renouncing, not rejecting | √sikkh･1 a (learn, train) |
 | dubbalyaṃ | noun | nt.acc.sg | weakness | |
 | anāvikatvā | verb | abs | having not disclosed, declared | |
 | methunaṃ | adj | masc.acc.sg | sexual | √mith×1 a (pair) |
@@ -198,7 +198,7 @@
 
 **And whichever monk, not renouncing the training, and not having disclosed his weakness, should engage in sexual activity, (that monk) is defeated and excommunicated.**
 
-13. [AN2.16](https://find.dhamma.gift/bw/an/an2.16.html)<br>atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. upasaṅkamitvā bhagavatā saddhiṃ sammodi
+12. [AN2.16](https://find.dhamma.gift/bw/an/an2.16.html)<br>atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. upasaṅkamitvā bhagavatā saddhiṃ sammodi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -216,26 +216,26 @@
 
 **After that, a certain brahmin approached the Blessed One. Having approached, he exchanged pleasantries with the Blessed One.**
 
-14. [DHP087](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl)<br>kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāve paṇḍito, okā anokaṃ āgamma, viveke yattha dūramaṃ.
+13. [DHP087](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl)<br>kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāve paṇḍito, okā anokaṃ āgamma, viveke yattha dūramaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | kaṇhaṃ | adj | masc.acc.sg | dark; evil | |
 | dhammaṃ | noun | masc.acc.sg | thing[s]; states; qualities | √dhar･1 a (hold, carry, endure) |
-| vippahāya | verb | ger | completely abandoning | √hā･1 a (abandon) |
+| vippahāya | verb | abs | completely abandoning | √hā･1 a (abandon) |
 | sukkaṃ | adj | masc.acc.sg | white; pure | √suc×1 a (be pure, bright) |
 | bhāve | verb | opt.3rd.sg | would develop; cultivate | √bhū･1 a (be, become) |
 | paṇḍito | noun | masc.nom.sg | a wise one; an intelligent person | |
 | okā | noun | masc.abl.sg | from home | √uc×3 ya (comfort) |
 | anokaṃ | adj (as noun) | nt.acc.sg | homelessness | √uc×3 ya (comfort) |
-| āgamma | verb | ger | coming; approaching | √gam･1 a (go) |
+| āgamma | verb | abs | coming; approaching | √gam･1 a (go) |
 | viveke | noun | masc.loc.sg | seclusion; detachment | √vic･1 a (separate) |
 | yattha | ind | adv | where | |
 | dūramaṃ | adj | masc.acc.sg [+loc] | difficult to find delight (in) | √ram･1 a (delight, please) |
 
 **A wise person, completely abandoning dark qualities, would cultivate pure [qualities], coming from home to homelessness, [living] in seclusion, where [it is] difficult to find delight.**
 
-15. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl) <br>yan'nūn'āhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyāmi
+14. [MN27](https://find.dhamma.gift/bw/mn/mn27.html) (simpl) <br>yan'nūn'āhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -251,7 +251,7 @@
 
 **Having shaved hair and beard, and having clothed myself in brown robes, let me go forth from the household life to homelessness. <br>[What if I shave hair and beard, clothe myself in brown robes and go forth…?]**
 
-16. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>idha bhikkhu pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā, …
+15. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>idha bhikkhu pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā, …
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -261,18 +261,18 @@
 | ābhujitvā | verb | abs | having bent; having folded | √bhuj･1 a (bend) |
 | ujuṃ | ind | adv | uprightly; erectly | √uj×1 a (be straight) |
 | kāyaṃ | noun | masc.acc.sg | body | √ci･5 nā (gather, accumulate) |
-| paṇidhāya | verb | ger | directing; guiding | √dhā･1 a (place, support) |
+| paṇidhāya | verb | abs | directing; guiding | √dhā･1 a (place, support) |
 | parimukhaṃ | ind | adv | to the fore; as first priority [lit: around the face] | |
 | satiṃ | noun | fem.acc.sg | mindfulness | √sar･1 a (remember) |
 | upaṭṭhapetvā | verb | abs | having established | √ṭhā･1 \*āpe (stand) |
 
 **Here, a monk, having folded [his legs] in the cross-legged sitting position, directing [his] body [to sit] erectly, having established mindfulness as first priority.**
 
-17. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. tatra kho bhagavā pañcavaggiye bhikkhū āmantesi
+16. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. tatra kho bhagavā pañcavaggiye bhikkhū āmantesi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ekaṃ samayaṃ | idiom | [card + noun] masc.acc.sg | on one occasion | |
+| ekaṃ samayaṃ | idiom | masc.acc.sg (card+noun) | on one occasion | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | bārāṇasiyaṃ | noun | fem.loc.sg | in Varanasi | |
 | viharati | verb | pr.3rd.sg | dwells | √har･1 a (live) |
@@ -287,7 +287,7 @@
 
 **On one occasion, the Blessed One was dwelling in Varanasi, in the Deer Park at Isipatana. There, the Blessed One addressed the monks belonging to the group of five.**
 
-18. [VIN PAT SA 5](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ
+17. [VIN PAT SA 5](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>yo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -303,7 +303,7 @@
 
 **If any monk should engage in carrying proposals of man's intention to a woman or woman's intention to a man…**
 
-19. [VIN PAT SA 11](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl)<br>dhammavādī ca eso bhikkhu vinayavādī ca eso bhikkhu amhākaṃ ca eso bhikkhu chandaṃ ca ruciṃ ca ādāya voharati
+18. [VIN PAT SA 11](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl)<br>dhammavādī ca eso bhikkhu vinayavādī ca eso bhikkhu amhākaṃ ca eso bhikkhu chandaṃ ca ruciṃ ca ādāya voharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -323,12 +323,12 @@
 | ca | ind | conj | and | |
 | ruciṃ | noun | fem.acc.sg | approval; liking; preference | √ruc･1 \*a (shine, like) |
 | ca | ind | conj | and | |
-| ādāya | verb | ger | adopting; considering; according to | √ādā･3 ya (take, seize) |
+| ādāya | verb | abs | adopting; considering; according to | √ādā･3 ya (take, seize) |
 | voharati | verb | pr.3rd.sg | speaks; uses language | √har･1 a (carry) |
 
 **This monk who speaks according to the Dhamma, and this monk who speaks according to the Vinaya, speaks according to (i.e. in accordance with) our preference and approval…**
 
-20. VIN PAT SA <br>ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo.
+19. VIN PAT SA <br>ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -345,7 +345,7 @@
 
 **A monk who has performed penance, where there could be a community of twenty monks, in that place he should be rehabilitated.**
 
-21. [VIN PAT PC 42](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>ekakassa me kathā vā nisajjā vā phāsu hotī"ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+20. [VIN PAT PC 42](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>ekakassa me kathā vā nisajjā vā phāsu hotī"ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -360,13 +360,13 @@
 | etaṃ | pron | masc.acc.sg | this | |
 | eva | ind | emph | thus; just | |
 | paccayaṃ | noun | masc.acc.sg | reason | √i･1 a (come, go) |
-| karitvā | ind | abs | having done[something] | √kar･7 o (do, make) |
+| karitvā | verb | abs | having done[something] | √kar･7 o (do, make) |
 | anaññaṃ | pron | masc.acc.sg | not another; no other | |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession | |
 
 **"There is ease for me talking or sitting down by myself;" having done this just for that reason, [and] no other, [this is] an offence requiring confession.**
 
-22. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā
+21. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -379,15 +379,15 @@
 | kappeyyāsi | verb | opt.2nd.sg | you should adopt | √kapp･1 a (be fit, be suitable) |
 | pāde | noun | masc.loc.sg | on a foot | √pad･3 ya (go, step) |
 | pādaṃ | noun | masc.acc.sg | a foot | √pad･3 ya (go, step) |
-| accādhāya | verb | ger | placing | √dhā･1 a (place, support) |
+| accādhāya | verb | abs | placing | √dhā･1 a (place, support) |
 | sato | adj | masc.nom.sg | mindful | √sar･1 a (remember) |
 | sampajāno | adj | masc.nom.sg | fully knowing; completely comprehending | √ñā･5 nā (know) |
 | uṭṭhānasaññaṃ | noun | fem.acc.sg | wake-up time | |
-| manasikaritvā | ind | abs [+acc] | having applied the mind [having noted in the mind] | |
+| manasikaritvā | verb | abs [+acc] | having applied the mind [having noted in the mind] | |
 
 **In the middle watch of the night, you should adopt the lion's pose, [lying] on the right flank, placing [one] foot on the [other] foot, mindful, fully knowing, having noted in the mind the wake-up time.**
 
-23. [SN1.39](https://find.dhamma.gift/bw/sn/sn1.39.html) <br>atha kho pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā
+22. [SN1.39](https://find.dhamma.gift/bw/sn/sn1.39.html) <br>atha kho pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -403,7 +403,7 @@
 
 **And then, when the night had progressed, the daughter of the god of rain, stunningly beautiful, having illuminated the entire great wood [approached the Blessed One].**
 
-24. [MN43](https://find.dhamma.gift/bw/mn/mn43.html) <br>dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā, sabbanimittānaṃ ca amanasikāro, animittāya ca dhātuyā manasikāro.
+23. [MN43](https://find.dhamma.gift/bw/mn/mn43.html) <br>dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā, sabbanimittānaṃ ca amanasikāro, animittāya ca dhātuyā manasikāro.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -424,7 +424,7 @@
 
 **Friend, [there are] indeed two supporting conditions for the attainment of the signless liberation of mind: non-attention to all objects and attention to the signless state.**
 
-25. [SN15.1](https://find.dhamma.gift/bw/sn/sn15.1.html) <br>ayaṃ me mātā, tassā me mātu ayaṃ mātā iti, apariyādinnā eva bhikkhave, tassa purisassa mātumātaro assu.
+24. [SN15.1](https://find.dhamma.gift/bw/sn/sn15.1.html) <br>ayaṃ me mātā, tassā me mātu ayaṃ mātā iti, apariyādinnā eva bhikkhave, tassa purisassa mātumātaro assu.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -447,7 +447,7 @@
 
 **"This [is] my mother, this [is] the mother of my mother"; [the sequence] of that man's mothers' mothers would not even be exhausted.**
 
-26. [VIN1.3.1](https://find.dhamma.gift/bw/vi/bu-vb-an1.html) <br>mātugāmo nāma manuss'itthī, na yakkhī na petī na tiracchānagatā. antamaso tad'ahujātā api dārikā, pag'eva mahattarī.
+25. [VIN1.3.1](https://find.dhamma.gift/bw/vi/bu-vb-an1.html) <br>mātugāmo nāma manuss'itthī, na yakkhī na petī na tiracchānagatā. antamaso tad'ahujātā api dārikā, pag'eva mahattarī.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -469,7 +469,7 @@
 
 **[What] is called a woman [is] a human female, not a female demon not a female ghost not a female animal, even a girl born that very day, to say nothing of [one] older.**
 
-27. [AN5.207](https://find.dhamma.gift/bw/an/an5.207.html) <br>khuddaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, ām'āvasesaṃ pāceti. ime kho, bhikkhave, pañca ānisaṃsā yāguyā.
+26. [AN5.207](https://find.dhamma.gift/bw/an/an5.207.html) <br>khuddaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, ām'āvasesaṃ pāceti. ime kho, bhikkhave, pañca ānisaṃsā yāguyā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -524,7 +524,7 @@
 | asammosāya | noun | masc.dat.sg | for non-disappearance / not forgetting | √mus･3 ya (lie, forget) |
 | bhiyyobhāvāya | noun | masc.dat.sg | for growth; for increase | |
 | vepullāya | noun | nt.dat.sg | for maturity; fullness | √pul×8 \*e (increase) |
-| bhāvanāya | noun | fem.instr.sg | by development; by cultivation | bhū･1 \*e (be, become) |
+| bhāvanāya | noun | fem.instr.sg | by development; by cultivation | √bhū･1 \*e (be, become) |
 | pāripūriyā | noun | fem.dat.sg | for fulfilment; for completion | √pūr･1 a (fill, fulfil) |
 | chandaṃ | noun | masc.acc.sg | interest, wish, desire | √chand･8 \*e (desire, please) |
 | janeti | verb | pr.3rd.sg | arouses; generates [lit: causes to be born] | √jan･3 \*e (be born, produce) |
@@ -557,7 +557,7 @@
 | pāripūriyā | noun | fem.dat.sg | for the completion; fulfilment | √pūr･1 a (fill, fulfil) |
 | paccāsā | noun | fem.nom.sg | expectation; anticipation | √is･1 a (wish for) |
 
-**If it [i.e. the robe-cloth] should not be [enough] for completion, that monk canset [it] aside for a month at the most if there should be the expectation for the completion of the deficiency…**
+**If it [i.e. the robe-cloth] should not be [enough] for completion, that monk can set [it] aside for a month at the most if there should be the expectation for the completion of the deficiency…**
 
 4. [SNP56](https://find.dhamma.gift/bw/snp/snp5.2.html) <br>yattha nāmaṃ ca rūpaṃ ca asesaṃ uparujjhati, <br>viññāṇassa nirodhena, ettha etaṃ uparujjhati.
 

@@ -46,7 +46,7 @@
 | ime | pron | masc.nom.pl | these |
 | tilā | noun | masc.nom.pl | sesame |
 | ime | pron | masc.nom.pl | these |
-| taṇḍulā'ti | noun | masc.nom.pl | dehusked rice"" |
+| taṇḍulā'ti | noun | masc.nom.pl | dehusked rice" |
 | (honti) | verb | pr.3rd.pl | (these are) |
 
 **"These are fine rices, these are paddy, these are mung beans, these are speckled beans, these are sesame, these are dehusked rice."**
@@ -81,7 +81,7 @@
 | --- | --- | --- | --- |
 | āyasmā | noun | masc.nom.sg | venerable |
 | rāhulo | noun | masc.nom.sg | Rahula |
-| bhagavato | noun | masc.gen.sg | of the Buddha |
+| bhagavato | noun | masc.gen.sg | of the Blessed One |
 | bhāsitaṃ | noun | nt.acc.sg | words, speech |
 | abhinandi | verb | aor.3rd.sg | delighted in, was happy with |
 
@@ -116,7 +116,7 @@
 | --- | --- | --- | --- |
 | samaṇā | noun | masc.nom.pl | renunciants; ascetics |
 | amha- | verb | pr.1st.pl | we are |
-| iti | ind | | "" |
+| iti | ind | quote | " " |
 | paṭijānātha | verb | pr.2nd.pl | you all claim, agree |
 
 **You all claim, "We are ascetics."**
@@ -168,7 +168,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| evaṃ | adv | ind | thus; like this |
+| evaṃ | ind | adv | thus; like this |
 | me | pron | 1st.gen.sg | my; mine |
 | saṅkhārā | noun | masc.nom.pl | volitional formations |
 | hontu | verb | imp.3rd.pl | let them be |
@@ -214,7 +214,7 @@
 | --- | --- | --- | --- |
 | atthi | verb | pr.3rd.sg | there is |
 | kāyo | noun | masc.nom.sg | a body |
-| iti | ind | | "" |
+| iti | ind | quote | " " |
 | sati | noun | fem.nom.sg | mindfulness |
 | hoti | verb | pr.3rd.sg | there is |
 
@@ -225,12 +225,12 @@
 | | | | |
 | --- | --- | --- | --- |
 | santi | verb | pr.3rd.pl | there are |
-| idha | adv | ind | here; in this world |
+| idha | ind | adv | here; in this world |
 | ekacce | pron | masc.nom.pl | some; a few; certain |
 | khattiyā | noun | masc.nom.pl | noblemen |
 | ca | ind | conj | and |
 | brāhmaṇā | noun | masc.nom.pl | brahmins |
-| iti | ind | | "" |
+| iti | ind | quote | " " |
 | bhaṇati | verb | pr.3rd.sg | he says |
 
 **He says, "There are here some noblemen [and] brahmins."**
@@ -307,7 +307,7 @@
 | --- | --- | --- | --- |
 | coro | noun | masc.nom.sg | a thief |
 | ahaṃ | pron | 1st.nom.sg | I |
-| pure | adv | ind | formerly; previously; in the past |
+| pure | ind | adv | formerly; previously; in the past |
 | āsiṃ | verb | aor.1st.sg | I was |
 | aṅgulimālo | noun | masc.nom.sg | Angulimāla; lit. garland of fingers |
 | vissuto | adj | masc.nom.sg | famous, renowned |
@@ -339,7 +339,7 @@
 | idaṃ | pron | nt.nom.sg | this |
 | na | ind | neg | not |
 | kappati | verb | pr.3rd.sg | is suitable |
-| iti | ind | | (end of quote) |
+| iti | ind | quote | " " |
 
 **We are troubled – "this is suitable, this is not suitable"**
 
@@ -369,7 +369,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | nibbindati | verb | pr.3rd.sg | one is disenchanted |
-| dukkhe | noun | masc.loc.sg | in suffering |
+| dukkhe | noun | nt.loc.sg | in suffering |
 | esa | pron | masc.nom.sg | this |
 | maggo | noun | masc.nom.sg | path |
 | visuddhiyā | noun | fem.dat.sg | for purification |
@@ -380,8 +380,8 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| evaṃ | adv | ind | thus, like this |
-| game | noun | masc.loc.sg | in the village |
+| evaṃ | ind | adv | thus, like this |
+| gāme | noun | masc.loc.sg | in the village |
 | muni | noun | masc.nom.sg | the sage |
 | cari | verb | aor.3rd.sg | walked |
 
@@ -394,7 +394,7 @@
 | kāyassa | noun | masc.gen.sg | of the body |
 | saṃvarāya | noun | masc.dat.sg | for the restraint |
 | paṭipajjāhi | verb | imp.2nd.sg | practice |
-| rakkhāhi | verb | Imp.2nd.sg | guard |
+| rakkhāhi | verb | imp.2nd.sg | guard |
 | kāyaṃ | noun | masc.acc.sg | the body |
 | kāye | noun | masc.loc.sg | in regard to the body |
 | saṃvaraṃ | noun | masc.acc.sg | restraint |

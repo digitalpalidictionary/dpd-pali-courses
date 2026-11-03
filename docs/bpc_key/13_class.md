@@ -44,7 +44,7 @@
 | yaṃnūn'āhaṃ | idiom | pron+ind+pron 1st.nom.sg | what if I | |
 | saṇikaṃ | ind | adv | slowly | |
 | gaccheyyāmi | verb | opt.1st.sg | I should go | √gam･1 a (go) |
-| ‘ti | ind | quote | "" | |
+| ‘ti | ind | quote | " " | |
 
 **"What if I were to go slowly?"**
 
@@ -67,7 +67,7 @@
 | gāthāhi | noun | fem.instr.pl | with verses, stanzas | √gā･3 ya (sing) |
 | abhiṇhaṃ | ind | adv | frequently | |
 | ovadati | verb | pr.3rd.sg | advises, admonish | √vad･1 a (say, speak) |
-| 'ti | ind | quote | "" | |
+| 'ti | ind | quote | " " | |
 
 **The Blessed One frequently advises Venerable Rāhula with these verses.**
 
@@ -87,10 +87,10 @@
 | vā | ind | conj | or | |
 | vinassantu | verb.pass | imp.3rd.pl | may they be destroyed | √nas･3 ya (be lost, disappear) |
 | vā | ind | conj | or | |
-| mā | ind | | don't may they not | |
+| mā | ind | | don't; may they not | |
 | vā | ind | conj | or | |
 | ahesuṃ | verb | aor.3rd.pl | they were, existed | √hū･1 a (be) |
-| ‘ti | ind | quote | "" | |
+| ‘ti | ind | quote | " " | |
 
 **"May these beings be killed, be tied up, be chopped up, be destroyed, may they cease to exist!"**
 
@@ -155,7 +155,7 @@
 | na | ind | neg | not | |
 | parimuccati | verb.pass | pr.3rd.sg | he is completely freed | √muc･2 ya (release, free) |
 | dukkhasmā | noun | nt.abl.sg | from suffering | √dukkh･1 a (be painful) |
-| 'ti | ind | quote | "" | |
+| 'ti | ind | quote | " " | |
 | vadāmi | verb | pr.1st.sg | I say | √vad･1 a (say, speak) |
 
 **He is not completely freed from suffering."**
@@ -241,7 +241,7 @@
 | bhaññamāne | prp. pass | masc.loc.sg (loc abs) | when being spoken | √bhaṇ･1 ya (talk, speak) |
 | pañcavaggiyānaṃ | adj | masc.gen.pl | of belonging to a group of five | |
 | bhikkhūnaṃ | noun | masc.gen.pl | of monks | √bhikkh･1 a (beg) |
-| anupādāya | verb | ger | not grasping onto; detaching from | √ādā･3 ya (take, seize) |
+| anupādāya | verb | abs | not grasping onto; detaching from | √ādā･3 ya (take, seize) |
 | āsavehi | noun | masc.abl.pl | from taints; effluents | √su･1 a (flow) |
 | cittāni | noun | nt.nom.pl | minds | √cit･8 \*e (think, intend) |
 | vimucciṃsū'ti | verb. pass | aor.3rd.pl<br>+end quote | freed" | √muc･2 ya (release, free) |
@@ -303,7 +303,7 @@
 | diṭṭhigataṃ | noun | nt.acc.sg | belief; view, misconception | |
 | thāmasā | ind | adv | obstinately; stubbornly | √ṭhā･1 a (stand) |
 | parāmāsā | ind | adv | clinging (lit: with attachment) | √mas･1 a (touch, rub) |
-| abhinivissa | verb | ger (+acc) | attaching; adhering | √vis･1 a (enter) |
+| abhinivissa | verb | abs (+acc) | attaching; adhering | √vis･1 a (enter) |
 | voharati | verb | pr.3rd.sg | he speaks; gives expression | √har･1 a (carry) |
 
 **Similarly, a monk being cross-questioned, interrogated, admonished by those monks, speaks adhering to that very wrong view, obstinately and with attachment.**
@@ -363,7 +363,7 @@
 | na | ind | neg | not | |
 | munī | noun | masc.nom.sg | sage, monk | √mun･5 nā (think, know) |
 | gāmaṃ | noun | masc.acc.sg | village | |
-| āgamma | verb | ger [+acc] | coming, arriving | √gam･1 a (go) |
+| āgamma | verb | abs [+acc] | coming, arriving | √gam･1 a (go) |
 | kulesu | noun | nt.loc.pl | among households | √kul･1 a (be close) |
 | sahasā | ind | adv | rashly; in haste | |
 | care | verb | opt.3rd.sg | he should walk | √car･1 a (move, walk) |
@@ -378,7 +378,7 @@
 | purimaṃ | adj | nt.acc.sg | former, previous, old | |
 | nāmaṃ | noun | nt.acc.sg | name | |
 | buddhaputtā | noun | masc.nom.pl | sons of the Buddha | |
-| iti | ind | quote | "" | |
+| iti | ind | quote | " " | |
 | ñāyanti | verb.pass | pr.3rd.pl | they are known as | √ñā･5 ya (know) |
 
 **They give up their former names and are known as "Buddha's sons"**
