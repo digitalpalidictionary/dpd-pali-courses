@@ -35,7 +35,7 @@
 | sukhaṃ | noun | nt.acc.sg | happiness | |
 | so | pron | masc.nom.sg | he | |
 | adhigacchati | verb | pr.3rd.sg | he acquires; obtains | adhi + √gam + a + ti |
-| āyuṃ | noun | nt.acc.sg | long life | |
+| āyuṃ | noun | nt.acc.sg | life | |
 | datvā | verb | abs. | having given | √dā + tvā |
 | balaṃ | noun | nt.acc.sg | strength; power | |
 | vaṇṇaṃ | noun | masc.acc.sg | beauty | |
@@ -43,7 +43,7 @@
 | \#sukhaṃ | noun | nt.acc.sg | happiness; pleasure | |
 | \#ca | ind | conj | and | |
 | **paṭibhānakaṃ** | noun | nt.acc.sg | understanding; intelligence | pati + √bhaṇ + \*a + ka |
-| dīgh'āyu | adj | nt.nom.sg | with long life | kammadhāraya \> bahubbīhi |
+| dīgh'āyu | adj | masc.nom.sg | with long life | kammadhāraya \> bahubbīhi |
 | \#dīgha | adj | | long | |
 | \#āyu | noun | nt.nom.sg | life | |
 | **yasavā** | adj | masc.nom.sg | famous; renowned (lit: having fame quality) | yasas + vant |
@@ -93,7 +93,7 @@
 | \#\#attānaṃ | noun | masc.acc.sg | self | |
 | \#\#kilamathaṃ | noun | masc.acc.sg | mortification; fatigue; weariness | |
 | \#anuyogo | noun | masc.nom.sg | practice (of); devotion to | |
-| dukkho | adj | masc.nomm.sg | unpleasant; painful | |
+| dukkho | adj | masc.nom.sg | unpleasant; painful | |
 | anariyo | adj | masc.nom.sg | ignoble; coarse | |
 | anatthasañhito | adj | masc.nom.sg | unprofitable; unbeneficial | kammadhāraya |
 | \#anattha | noun | masc. | harm; misfortune; damage | |
@@ -117,11 +117,11 @@
 | yo | pron | masc.nom.sg | he; who | |
 | pana | ind | | moreover; and so | |
 | bhikkhu | noun | masc.nom.sg | a monk | |
-| **aññātikāya** | adj | fem.instr.sg | by a not blood-related | na + √ñā + ta + ka |
+| **aññātikāya** | adj | fem.gen.sg | of a not blood-related | na + √ñā + ta + ka |
 | **bhikkhuniyā** | noun | fem.gen.sg | of a nun (bhikkhunī) | √bhikkh + u + nī |
 | **hatthato** | noun | masc.abl.sg (+gen) | from the hand (of) | hattha + to |
 | cīvaraṃ | noun | nt.acc.sg | a robe | |
-| paṭiggaṇheyya | verb | opt.3rd.sg | should receive; should accept | pati + √gah + ṇhā + ti |
+| paṭiggaṇheyya | verb | opt.3rd.sg | should receive; should accept | pati + √gah + ṇhā + eyya |
 | **aññatra** | ind | adv (+instr/abl) | except (for) | añña + tra |
 | pārivattakā | noun | masc.instr/abl.sg | in an exchange | |
 | nissaggiyaṃ | adj | nt.nom.sg | with forfeiture; involving relinquishment | |
@@ -140,10 +140,10 @@
 | c'eva | sandhi | | and just | |
 | \#ca | ind | conj | and | |
 | \#eva | ind | emph | just | |
-| khādeyyuṃ | verb | opt.3rd.pl | they would eat; devour | √khād + a + ti |
+| khādeyyuṃ | verb | opt.3rd.pl | they would eat; devour | √khād + a + eyyuṃ |
 | ure | noun | masc.loc.sg. | breast; heart | |
 | ca | ind | conj | and | |
-| paṭipiseyyuṃ | verb | opt.3rd.pl<br>(+acc) | they would beat against | pati + √pis + ṃa + ti |
+| paṭipiseyyuṃ | verb | opt.3rd.pl<br>(+acc) | they would beat against | pati + √pis + ṃa + eyyuṃ |
 | **kahaṃ** | ind | adv | where | ka + haṃ |
 | ekaputtaka | sandhi | | only young son | |
 | \#eka | adj | masc. | only | |
@@ -164,14 +164,14 @@
 | hi | ind | emph | indeed | |
 | verena | noun | nt.instr.sg | by ill-will; by hatred | |
 | verāni | noun | nt.nom.pl | ill-will(s); hatred(s); animosities | |
-| sammant'īdha | sandhi | | | |
+| sammant'īdha | sandhi | | are calmed here |  |
 | \#sammanti | verb | pr.pass.3rd.pl | is (lit: are) calmed; is (are) appeased | √sam + ya + ti |
 | \#idha | ind | adv | here; in this world; now | |
 | **kudācanaṃ** | ind | adv | at some time; at any time; ever | ka + dā + canaṃ |
 | averena | noun | nt.instr.sg | by not hatred; by non-ill-will | |
 | ca | ind | conj | and; but | |
 | sammanti | verb | pr.pass.3rd.pl | they are calmed, appeased | |
-| eso | pron | masc.nomm.sg | this | |
+| eso | pron | masc.nom.sg | this | |
 | dhammo | noun | masc.nom.sg | doctrine; law; truth | |
 | **sanantano** | adj | masc.nom.sg | eternal; perpetual | sanaṃ + tana |
 
@@ -190,7 +190,7 @@
 | hirī | noun | fem.nom.sg | sense of shame; conscience | |
 | ottappiyaṃ | noun | nt.nom.sg | fear of wrongdoing | |
 | dhanaṃ | noun | nt.nom.sg | wealth; value | |
-| sutadhanañ'ca | sandhi | | | |
+| sutadhanañ'ca | sandhi | | and the value of learning |  |
 | \#sutadhanaṃ | noun | nt.nom.sg | value of learning; treasure of knowledge | kammadhāraya |
 | \#\#suta (eva) | noun | nt. | learning; knowledge | |
 | \#\#dhanaṃ | noun | nt.nom.sg | wealth | |
@@ -199,30 +199,27 @@
 | ca | ind | conj | and | |
 | paññā | noun | fem.nom.sg | wisdom | |
 | ve | ind | emph | indeed; truly | |
-| **sattamaṃ** | adj | nt.nom.sg | best; most excellent; highest | sa + √as + a + nta + tama |
+| **sattamaṃ** | adj | nt.nom.sg | seventh | satta + ma |
 | dhanaṃ | noun | nt.nom.sg | virtue; value; quality | |
 
-**Wealth of faith, wealth of ethical conduct, [the wealth of] sense of shame and] fear of wrongdoing, wealth of learning [and] generosity, and wisdom, indeed, the most excellent [kind] of value.**
+**Wealth of faith, wealth of ethical conduct, [the wealth of] sense of shame [and] fear of wrongdoing, wealth of learning [and] generosity, and wisdom, indeed, the seventh [kind of] wealth.**
 
 10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | ahaṃ | pron | 1st.nom.sg | I | |
-| kho | ind | ind | truly | |
+| kho | ind | emph | truly | |
 | pubbe | ind | adv | previously | |
 | ābādhiko | adj | masc.nom.sg | sick | taddhita |
-
-**ābādha + ika**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | ahosiṃ | verb | aor.1st.sg | I was | |
 | dukkhito | adj | masc.nom.sg | suffering | |
 | bāḷhagilāno | adj | masc.nom.sg | extremely ill | |
 | \#bāḷha | adj | | extreme | |
 | \#gilāno | adj | | ill | |
-| bhattañ'ca | noun | nt.nom.sg | and food | |
+| bhattañ'ca | sandhi | | and food | |
+| \#bhattaṃ | noun | nt.nom.sg | food | |
+| \#ca | ind | conj | and | |
 | me | pron | 1st.dat.sg | to me | |
 | nacchādesi | verb | aor.3rd.sg | it did not please | |
 | na | ind | neg | not | |
@@ -231,8 +228,10 @@
 | āsi | verb | aor.3rd.sg | there was | |
 | kāye | noun | masc.loc.sg | in body | |
 | balamattā | noun | fem.nom.sg | some strength | |
-| \#bala | | | | |
-| \#mattā | | | | |
+| \#bala | noun | nt. | strength | |
+| \#mattā | noun | fem. | measure; amount | |
+
+**ābādha + ika**
 
 **Previously I was truly sick, suffering, extremely ill. Food did not please me and there was no strength in my body.**
 
@@ -248,31 +247,28 @@
 | saddahati | verb | pr.3rd.sg | he believes in | |
 | adhimuccati | verb | pr.3rd.sg | he is settled (on) | |
 | ayaṃ | pron | masc.nom.sg | he, this person | |
-| vuccati | voc.pass | pr.3rd.sg | is called | |
+| vuccati | verb pass | pr.3rd.sg | is called | |
 | saddhānusārī | noun | masc.nom.sg | faith follower | |
-| \#saddhā | | | | |
-| \#anusārī | | | | |
+| \#saddhā | noun | fem. | faith | |
+| \#anusārī | adj | masc.nom.sg | follower | |
 | okkanto | pp | masc.nom.sg | entered | |
 | sammattaniyāmaṃ | noun | masc.acc.sg | fixed correct course | |
-| \#sammatta | | | | taddhita |
-
-**sammā + tta**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| \#niyāma | | | | |
-| sappurisabhūmiṃ | noun | fem.acc.sg | level of the honourable man | chaṭṭhi tappurisa |
-| \#sappurisānaṃ | | | | kammadhāraya |
+| \#sammatta | noun | nt. | rightness | taddhita |
+| \#niyāma | noun | masc. | fixed course; certainty | |
+| sappurisabhūmiṃ | noun | fem.acc.sg | level of the honourable man | chaṭṭhī tappurisa |
+| \#sappurisānaṃ | noun | masc.gen.pl | of honourable men | kammadhāraya |
 | \#\#sat | ind | | good; right; true | |
 | \#\#purisaṃ | noun | masc. | man | |
 | \#bhūmiṃ | noun | fem. | plane; level; stage; sphere | |
 | okkanto | pp | masc.nom.sg | entered | |
 | vītivatto | pp | masc.nom.sg | transcended | |
-| puthujjanabhūmiṃ | noun | fem.acc.sg | level of common man | chaṭṭhi tappurisa |
-| \#puthujjanassa | | | | kammadhāraya |
-| \#\#puthu | | | | |
-| \#\#jana | | | | |
-| \#bhūmiṃ | | | | |
+| puthujjanabhūmiṃ | noun | fem.acc.sg | level of common man | chaṭṭhī tappurisa |
+| \#puthujjanassa | noun | masc.gen.sg | of the common man | kammadhāraya |
+| \#\#puthu | adj | - | many; separate | |
+| \#\#jana | noun | masc. | person; man | |
+| \#bhūmiṃ | noun | fem.acc.sg | level; plane | |
+
+**sammā + tta**
 
 **Whoever has such faith in these teachings and is settled on them, this person is called a faith follower who has entered a unalterable fixed course, entered the level of the superior man, transcended the level of the common man.**
 
@@ -281,40 +277,36 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | porāṇam'etaṃ | sandhi | | this is ancient | |
-| \#porāṇaṃ | adj | nt.nom.sg | | taddhita |
-
-**pura \> pora + \*aṇa**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| \#etaṃ | pron | nt.nom.sg | | |
+| \#porāṇaṃ | adj | nt.nom.sg | ancient | taddhita |
+| \#etaṃ | pron | nt.nom.sg | this | |
 | atula | noun | masc.voc.sg | name of a man; lit. immeasurable; uncountable | |
-| netaṃ | pron | nt.nom.sg | this is not | |
+| netaṃ | sandhi | | this is not | |
+| \#na | ind | neg | not | |
+| \#etaṃ | pron | nt.nom.sg | this | |
 | ajjatanām'iva | adj | nt.nom.sg | just related to the present | |
-| \#ajjatanaṃ | adj | | | taddhita |
-
-**ajja + tana**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| \#iva | ind | | | |
+| \#ajjatanaṃ | adj | nt.nom.sg | of the present; modern | taddhita |
+| \#iva | ind | - | just; like | |
 | nindanti | verb | pr.3rd.pl | they blame | |
 | tuṇhimāsīnaṃ | sandhi | | sitting silently | |
-| \#tuṇhiṃ | ind | | | |
-| \#āsīnaṃ | adj | masc.acc.sg | | |
+| \#tuṇhiṃ | ind | adv | silently | |
+| \#āsīnaṃ | adj | masc.acc.sg | sitting | |
 | nindanti | verb | pr.3rd.pl | they blame | |
 | bahubhāṇinaṃ | adj | masc.acc.sg | who talks a lot | kammadhāraya |
-| \#bahu | | | | |
-| \#bhāṇinaṃ | | | | |
+| \#bahu | adj | - | much; many | |
+| \#bhāṇinaṃ | noun | masc.acc.sg | speaker; one who talks | |
 | mitabhāṇim'pi | sandhi | masc.acc.sg | even one who talks in measure | |
-| \#mitabhāṇiṃ | adj | | | dutiyā tappurisa |
-| \#\#mitaṃ | | | | |
-| \#\#bhāṇiṃ | | | | |
-| \#api | | | | |
+| \#mitabhāṇiṃ | adj | masc.acc.sg | one who talks in measure | dutiyā tappurisa |
+| \#\#mitaṃ | adj | masc.acc.sg | measured; moderate | |
+| \#\#bhāṇiṃ | noun | masc.acc.sg | speaker | |
+| \#api | ind | emph | even | |
 | nindanti | verb | pr.3rd.pl | they blame | |
 | natthi | verb | pr.3rd.sg | there is not | |
 | loke | noun | masc.loc.sg | in the world | |
 | anindito | pp (as noun) | masc.nom.sg | one not blamed | |
+
+**pura \> pora + \*aṇa**
+
+**ajja + tana**
 
 **This is an ancient thing, Atula, not only related to the present. They blame one sitting silently, they blame one talking a lot, they blame one measured in speech. There is not (anyone) in the world not blamed.**
 
@@ -328,28 +320,19 @@
 | catunnaṃ | adj | masc.gen.pl | of four | |
 | puggalānaṃ | noun | masc.gen.pl | of people | |
 | katamo | pron | masc.nom.sg | which? | taddhita |
-
-**ka + tama**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | te | pron | 2nd.dat.sg | for you | |
 | puggalo | noun | masc.nom.sg | person | |
 | khamati | verb | pr.3rd.sg | seems good (+dat) | |
 | abhikkantataro | adj | masc.nom.sg | more excellent | taddhita |
+| ca | ind | conj | and | |
+| paṇītataro | adj | masc.nom.sg | more refined | taddhita |
+| cā'ti | ind | conj | and "" | |
+
+**ka + tama**
 
 **abhikkanta + tara**
 
-| | | | | |
-| --- | --- | --- | --- | --- |
-| ca | ind | conj | and | |
-| paṇītataro | adj | masc.nom.sg | more refined | taddhita |
-
 **paṇīta + tara**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| cā'ti | ind | conj | and "" | |
 
 **Among these four types of persons, Potaliya, which person seems good to you, more excellent and sublime?**
 
@@ -358,20 +341,17 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | avitakko'mhi | sandhi | | I am without thought | |
-| \#avitakko | adj | masc.nom.sg | without thought | kammadhāraya as bahubbīhi |
-| \#amhi | verb | pr.1st.sg | | |
-| avicāro | adj | masc.nom.sg | without planning | kammadhāraya as bahubbīh |
+| \#avitakko | adj | masc.nom.sg | without thought | kammadhāraya > bahubbīhi |
+| \#amhi | verb | pr.1st.sg | I am | |
+| avicāro | adj | masc.nom.sg | without planning | kammadhāraya > bahubbīhi |
 | ajjhattaṃ | ind | adv | internally | |
 | satimā | adj | masc.nom.sg | mindful, aware | taddhita |
+| sukhamasmī'ti | sandhi | | I am comfortable, at ease "" | |
+| \#sukhaṃ | adj | nt.nom.sg | comfortable; at ease | |
+| \#asmi | verb | pr.1st.sg | I am | |
+| pajānāti | verb | pr.3rd.sg | he understands | |
 
 **sati + mant**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| sukhamasmī'ti | sadnhi | | I am comfortable, at ease "" | |
-| \#sukhaṃ | | | | |
-| \#asmi | verb | pr.1st.sg | | |
-| pajānāti | verb | pr.3rd.sg | he understands | |
 
 **He knows, "I am free from discursive thought, internally mindful and comfortable."**
 
@@ -383,25 +363,23 @@
 | upanāhī | adj | masc.nom.sg | resentful, | |
 | ca | ind | conj | and | |
 | pāpamakkhī | adj | masc.nom.sg | who slanders badly | |
-| \#pāpa | | | | |
-| \#makkhī | | | | |
+| \#pāpa | adj | nt. | bad; evil | |
+| \#makkhī | adj | masc.nom.sg | slanderer | |
 | ca | ind | conj | and | |
 | yo | pron | masc.nom.sg | whoever | |
 | naro | noun | masc.nom.sg | man | |
-| vipannadiṭṭhi | adj | masc.nom.sg | who has wrong view; with perverted belief | kammadhāraya as bahubbīhi |
-| vipanna + diṭṭhi + ī | taddhita | | | |
-| \#vipanna | | | | |
-| \#diṭṭhi | | | | |
+| vipannadiṭṭhi | adj | masc.nom.sg | who has wrong view; with perverted belief | kammadhāraya > bahubbīhi |
+| \#vipanna | pp | masc. | perverted; wrong | |
+| \#diṭṭhi | noun | fem. | view | |
 | māyāvī | adj | masc.nom.sg | deceitful | taddhita |
-
-**māyā + vī**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that person | |
-| jaññā | verb | opt.2nd.sg | you should know | |
+| jaññā | verb | opt.3rd.sg | one should know | |
 | vasalo | noun | masc.nom.sg | outcast | |
 | iti | ind | - | "" | |
+
+**vipanna + diṭṭhi + ī (taddhita)**
+
+**māyā + vī**
 
 **Whoever is angry, resentful, slanders badly of others, who has a distorted view, who is deceitful – you should know that person as "an outcast".**
 
@@ -411,26 +389,25 @@
 | --- | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | who, whoever | |
 | hi | ind | - | indeed | |
-| gahapati | noun | masc.voc.sg | householder | chaṭṭhi tappurisa |
-| \#gahassa | | | | |
-| \#pati | | | | |
+| gahapati | noun | masc.voc.sg | householder | chaṭṭhī tappurisa |
+| \#gahassa | noun | nt.gen.sg | of the house | |
+| \#pati | noun | masc. | lord; master | |
 | imaṃ | pron | masc.acc.sg | this | |
 | kāyaṃ | noun | masc.acc.sg | body | |
 | pariharanto | prp | masc.nom.sg | carrying around, taking care of | |
 | muhuttam'pi | ind | adv | even for a moment | |
-| muhu + tta + aṃ | taddhita | | | |
 | ārogyaṃ | noun | nt.acc.sg | health, freedom from disease | |
-| aroga + \*ya | taddhita | | | |
 | paṭijāneyya | verb | opt.3rd.sg | he could claim | |
 | kimaññatra | sandhi | | what apart from (+abl) | |
-| \#kiṃ | ind | adv | | |
-| \#aññatra | ind | adv | | taddhita |
+| \#kiṃ | ind | adv | what | |
+| \#aññatra | ind | adv | apart from; other than | taddhita |
+| bālyā | noun | nt.abl.sg | from foolishness | taddhita |
+
+**muhu + tta + aṃ (taddhita)**
+
+**aroga + \*ya (taddhita)**
 
 **añña + tra**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| bālyā | noun | nt.abl.sg | from foolishness | taddhita |
 
 **bāla + ya**
 
@@ -443,28 +420,13 @@
 | yāni | pron | nt.nom.pl | whichever | |
 | kho | ind | - | indeed | |
 | pan'assa | sandhi | | and his | |
-| \#pana | | | | |
-| \#assa | pron | masc.gen.sg | | |
+| \#pana | ind | conj | and; but | |
+| \#assa | pron | masc.gen.sg | his | |
 | honti | verb | pr.3rd.pl | there are | |
 | sāṭheyyāni | noun | nt.nom.pl | treachery | |
 | kūṭeyyāni | noun | nt.nom.pl | crookedness | taddhita |
-
-**kūṭa + eyya**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | jimheyyāni | noun | nt.nom.pl | subterfuge | taddhita |
-
-**jimha + eyya**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | vaṅkeyyāni | noun | nt.nom.pl | dishonesty | taddhita |
-
-**vaṅka + eyya**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | tāni | pron | nt.nom.pl | those, those things | |
 | yathābhūtaṃ | ind | adv | as they are | |
 | āvikattā | noun | masc.nom.sg | who openly reveals (+loc) | |
@@ -474,6 +436,12 @@
 | viññūsu | adj | masc.loc.pl | to wise | |
 | vā | ind | conj | or | |
 | sabrahmacārīsu | noun | masc.loc.pl | to fellow monks | |
+
+**kūṭa + eyya**
+
+**jimha + eyya**
+
+**vaṅka + eyya**
 
 **And whatever his treachery, crookedness, subterfuge and dishonesty there are, he is one who openly reveals those things as they are to the teacher or wise fellow monks.**
 
@@ -503,16 +471,16 @@
 | \#\#**madhura** | adj | | sweet | madhu + ra |
 | \#\#aggehi | adj | masc.instr.pl | extremely; most | |
 | \#api | ind | | just | |
-| **khārikehi**'pi | sandhi | | | |
+| **khārikehi**'pi | sandhi | | even hot |  |
 | \#**khārikehi** | adj | masc.instr.pl | hot; alkaline; caustic | khāra + ika |
 | \#api | ind | | just | |
-| akhārikehi'pi | sandhi | | | |
+| akhārikehi'pi | sandhi | | even not hot |  |
 | \#akhārikehi | adj | masc.instr.pl | not hot; not alkaline; not caustic | |
 | \#api | ind | | just | |
-| **loṇikehi**'pi | sandhi | | | |
+| **loṇikehi**'pi | sandhi | | even salty |  |
 | \#**loṇikehi** | adj | masc.instr.pl | salty | loṇa + ika |
 | \#api | ind | | just | |
-| aloṇikehi'pi | sandhi | | | |
+| aloṇikehi'pi | sandhi | | even not salty |  |
 | \#aloṇikehi | adj | masc.instr.pl | not salty | |
 | \#api | ind | | just | |
 
@@ -523,26 +491,25 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | seyyathāpi | ind | adv | just like | |
-| bhikkhave | noun | masc.voc.sg | monks | |
+| bhikkhave | noun | masc.voc.pl | monks | |
 | yāni | pron | nt.nom.pl | whichever | |
 | kānici | pron | nt.nom.pl | any whatsoever | taddhita |
-
-**kāni + ci**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | kulāni | noun | nt.nom.pl | families | |
-| bahutthikāni | adj | nt.nom.pl | with many women | kammadhāraya as bahubbīhi |
-| bahu + itthi + ka | taddhita | | | |
-| appapurisāni | adj | nt.nom.pl | with few men | kammadhāraya as bahubbīhi |
-| appa + purisa + a | taddhita | | | |
+| bahutthikāni | adj | nt.nom.pl | with many women | kammadhāraya > bahubbīhi |
+| appapurisāni | adj | nt.nom.pl | with few men | kammadhāraya > bahubbīhi |
 | tāni | pron | nt.nom.pl | those | |
 | suppadhaṃsiyāni | adj | nt.nom.pl | easily overcome | |
 | honti | verb | pr.3rd.pl | they are | |
 | corehi | noun | masc.instr.pl | by thieves | |
 | kumbhatthenakehi | noun | masc.instr.pl | by burglars | |
-| \#kumbha | | | | |
-| \#thenakehi | | | | |
+| \#kumbha | noun | masc. | pot; jar | |
+| \#thenakehi | noun | masc.instr.pl | by thieves | |
+
+**bahu + itthi + ka (taddhita)**
+
+**appa + purisa + a (taddhita)**
+
+**kāni + ci**
 
 **Just like, monks, whichever families with many women and few men are easily overcome by robbers and burglars ...**
 
@@ -555,11 +522,6 @@
 | kamma (irreg) | noun | nt.acc.sg | action, deed | |
 | karoti | verb | pr.3rd.sg | he does | |
 | pāpakaṃ | adj | nt.acc.sg | evil | taddhita |
-
-**pāpa + ka**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | kāyena | noun | masc.instr.sg | by body | |
 | vācā | noun | fem.instr.sg | by speech | |
 | uda | ind | conj | or | |
@@ -567,17 +529,12 @@
 | vā | ind | conj | or | |
 | abhabba | ptp | masc.nom.sg | incapable (+inf or +dat) | |
 | so | pron | masc.nom.sg | he | |
-| tassa | noun | masc.gen.sg | of that | |
+| tassa | pron | masc.gen.sg | of that | |
 | paṭicchadāya | noun | masc.dat.sg | to cover, to conceal | |
 | abhabbatā | noun | fem.nom.sg | impossibility, inability | taddhita |
-
-**abhabba + tā**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| diṭṭhapadassa | noun | masc.dat.sg | for (one who) seen the path | dutiyā tappurisa |
-| \#diṭṭha | | | | |
-| \#padaṃ | | | | |
+| diṭṭhapadassa | noun | masc.dat.sg | for (one who has) seen the path | dutiyā tappurisa |
+| \#diṭṭha | pp | masc. | seen | |
+| \#padaṃ | noun | nt.acc.sg | path; state | |
 | vuttā | pp | fem.nom.sg | is said | |
 | idam'pi | pron | nt.nom.sg | this | |
 | saṅghe | noun | masc.loc.sg | in the community | |
@@ -585,12 +542,13 @@
 | paṇītaṃ | adj | nt.nom.sg | refined | |
 | etena | pron | nt.instr.sg | by this | |
 | saccena | noun | nt.instr.sg | by the truth | taddhita |
-
-**sat + ya**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | suvatthi | noun | fem.nom.sg | well-being, safety, prosperity | |
 | hotu | verb | imp.3rd.sg | may there be! | |
+
+**pāpa + ka**
+
+**abhabba + tā**
+
+**sat + ya**
 
 **Although he may do an evil deed by body speech or mind, he is unable to hide that, it is said (to be) an impossibility for one who has seen the path – this sublime jewel also exists in the community, by the truth of this statement, may you be well!**

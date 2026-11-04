@@ -106,30 +106,30 @@
 | hatthehi | noun | masc.instr.pl | with [my] hands | |
 | ca | ind | conj | and | |
 | pādehi | noun | masc.instr.pl | with [my] feet | √pad･3 ya (go, step) |
-| vāyamamāno | prp | masc.nom.sg | making and effort; exerting myself | √yam･1 a (control, strive, end) |
+| vāyamamāno | prp | masc.nom.sg | making an effort; exerting myself | √yam･1 a (control, strive, end) |
 | sotthinā | ind | adv (instr.) | safely; lit. with safety | √as･1 a (be) |
 | pāraṃ | noun | nt.acc.sg | to the far shore | |
 | uttiṇṇo | pp | masc.nom.sg | crossed over | √tar･1 a (cross) |
 
 **This raft, indeed, [was] extremely helpful for me; being supported by this raft [and] exerting myself with (my) hands and (my) feet, I safely crossed over to the far shore.**
 
-3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>ev'āhaṁ ajānanto 'evarūpaṁ sukhaṁ vedanaṁ pajahathā'ti vadeyyaṁ
+3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>ev'āhaṃ ajānanto 'evarūpaṃ sukhaṃ vedanaṃ pajahathā'ti vadeyyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ev'āhaṁ | sandhi | | so I; just I | |
-| \#eva | eva | ind | so; just | |
-| \#ahaṁ | pron | 1st.nom.sg | I | |
+| ev'āhaṃ | sandhi | | so I; just I | |
+| \#eva | ind | emph | so; just | |
+| \#ahaṃ | pron | 1st.nom.sg | I | |
 | ajānanto | prp | masc.nom.sg | not knowing | √ñā･5 nā (know) |
-| evarūpaṁ | adj | fem.acc.sg | of such a kind | |
-| \#evaṁ | ind | emph | only; just | |
-| \#rūpaṁ | adj | fem.acc.sg | of kind; of type | √rūp･8 \*e (form, produce) |
-| sukhaṁ | adj | fem.acc.sg | pleasant | √sukh･1 a (please, be comfortable) |
-| vedanaṁ | noun | fem.acc.sg | feeling | √vid･8 \*e (know, sense, feel) |
+| evarūpaṃ | adj | fem.acc.sg | of such a kind | |
+| \#evaṃ | ind | emph | only; just | |
+| \#rūpaṃ | adj | fem.acc.sg | of kind; of type | √rūp･8 \*e (form, produce) |
+| sukhaṃ | adj | fem.acc.sg | pleasant | √sukh･1 a (please, be comfortable) |
+| vedanaṃ | noun | fem.acc.sg | feeling | √vid･8 \*e (know, sense, feel) |
 | pajahathā'ti | sandhi | | you (all) give up; abandon" | |
 | \#pajahatha | verb | imp.2nd.pl | [you] give up; abandon | √hā･1 a (abandon) |
 | \#iti | ind | quotation mark | "" | |
-| vadeyyaṁ | verb | opt.1st.p.sg (reflex) | I myself should say | √vad･1 a (say, speak) |
+| vadeyyaṃ | verb | opt.1st.nom.sg (reflex) | I myself should say | √vad･1 a (say, speak) |
 
 **Not knowing [this], I could myself [then] say, "abandon this kind of pleasant feeling".**
 
@@ -138,7 +138,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | phalam'icchaṃ'va | sandhi | | wishing only for fruit | |
-| \#phalaṃ | noun | masc.acc.sg | fruit | √phal･1 a (fruit, ripen) |
+| \#phalaṃ | noun | nt.acc.sg | fruit | √phal･1 a (fruit, ripen) |
 | \#icchaṃ | prp (adj) | masc.nom.sg | wishing for | √is･1 a (wish for) |
 | \#eva | ind | emph | only | |
 | vanasmi[ṃ] | noun | nt.loc.sg | in a forest grove | |
@@ -315,7 +315,7 @@
 | pahitattā | adj | fem.nom.sg | resolute; determined; applying oneself; lit. applied self | |
 | \#pahita | pp | - | applied; directed; exercised; lit. placed forward | √dhā･1 a (place, support) |
 | \#atta | noun | m | self | |
-| vihareyyanti | - | - | I could live" | |
+| vihareyyanti | sandhi | | I could live" | |
 | \#vihareyyaṃ | verb | opt.reflx.1st.sg | I could live | √har･1 a (live) |
 | \#iti | ind | - | "" | |
 
@@ -334,7 +334,7 @@
 | paṭisañcikkhati | verb | pr.3rd.sg | he reflects, considers | √cikkh･1 a (show, tell) |
 | na | ind | neg | not | |
 | kho | ind | - | indeed | |
-| ahaññeveko | - | - | only I alone | |
+| ahaññeveko | sandhi | | only I alone | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | \#eva | ind | - | just | |
 | \#eko | adj | masc.nom.sg | one, alone | |
@@ -401,16 +401,16 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yadapi | - | - | whatever even; which just | |
+| yadapi | sandhi | | whatever even; which just | |
 | \#yaṃ | pron | nt.nom.sg | whatever | |
 | \#api | ind | - | even, just | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | alobho | noun | masc.nom.sg | not greed | √lubh･3 ya (be greedy) |
-| tadapi | - | - | that even | |
+| tadapi | sandhi | | that even | |
 | \#taṃ | pron | nt.nom.sg | that | |
 | \#api | ind | - | even, just | |
 | kusalamūlaṃ | noun | nt.nom.sg | wholesome root | |
-| yadapi | - | - | whatever even | |
+| yadapi | sandhi | | whatever even | |
 | \#yaṃ | pron | nt.acc.sg | whatever | |
 | \#api | ind | - | even, just | |
 | aluddho | noun | masc.nom.sg | one who is not greedy | √lubh･3 ya (be greedy) |
@@ -418,7 +418,7 @@
 | kāyena | noun | masc.instr.sg | by body | √ci･5 nā (gather, accumulate) |
 | vācāya | noun | fem.instr.sg | by speech | √vac･1 a (say, speak) |
 | manasā | noun | masc.instr.sg | by mind | √man･3 ya (think) |
-| tadapi | - | - | that even | |
+| tadapi | sandhi | | that even | |
 | \#taṃ | pron | nt.nom.sg | that | |
 | \#api | ind | - | even, just | |
 | kusalaṃ | noun | nt.nom.sg | wholesome | |
@@ -429,13 +429,13 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaññadeva | - | - | any whatsoever | |
+| yaññadeva | sandhi | | any whatsoever | |
 | \#yaṃ | pron | nt.acc.sg | whichever | |
 | \#yaṃ | pron | nt.acc.sg | whichever | |
 | \#eva | ind | - | even | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
-| bahulamanuvitakketi | | | | |
+| bahulamanuvitakketi | sandhi | | often he thinks about | |
 | \#bahulaṃ | ind | adv | often | |
 | \#anuvitakketi | verb | pr.3rd.sg | he thinks about | √takk･8 \*e (think) |
 | anuvicāreti | verb | pr.3rd.sg | he ponders about | √car･1 \*e (move, walk) |
@@ -452,11 +452,11 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | api | ind | - | also | |
-| cāhaṃ | - | - | and I | |
+| cāhaṃ | sandhi | | and I | |
 | \#ca | ind | conj | and | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | āvuso | noun | masc.voc.pl | friends | |
-| imasmiṃyeva | - | - | in this very, in this exact | |
+| imasmiṃyeva | sandhi | | in this very, in this exact | |
 | \#imasmiṃ | pron | nt.loc.sg | in this | |
 | \#eva | ind | - | just, only | |
 | byāmamatte | adj | nt.loc.sg | in fathom length | kammadhāraya |
@@ -469,20 +469,20 @@
 | \#lokaṃ | noun | masc.acc.sg | world | |
 | \#ca | ind | conj | and | |
 | paññāpemi | verb | pr.1st.sg | I declare, I state, I define | √ñā･5 \*āpe (know) |
-| lokasamudayañca | - | - | and the source of the world | |
+| lokasamudayañca | sandhi | | and the source of the world | |
 | \#lokassa | noun | masc.gen.sg | of the world | √lok･8 \*e (look) |
 | \#samudayaṃ | noun | masc.acc.sg | arising, source | √i･1 a (come, go) |
 | \#ca | ind | conj | and | |
-| lokanirodhañca | - | - | and the end of the world | |
+| lokanirodhañca | sandhi | | and the end of the world | |
 | \#loka | noun | masc | world | √lok･8 \*e (look) |
 | \#nirodhaṃ | noun | masc.acc.sg | end | √rudh･2 ṃa (obstruct) |
 | \#ca | ind | conj | and | |
-| lokanirodhagāminiñca | - | - | and leading to the end of the world | |
+| lokanirodhagāminiñca | sandhi | | and leading to the end of the world | |
 | \#lokassa | noun | masc.gen.sg | of world | √lok･8 \*e (look) |
-| \#nirodhaṇ | noun | masc.acc.sg | end | √rudh･2 ṃa (obstruct) |
+| \#nirodhaṃ | noun | masc.acc.sg | end | √rudh･2 ṃa (obstruct) |
 | \#gāminiṃ | adj | fem.acc.sg | leading to | √gam･1 a (go) |
 | \#ca | ind | conj | and | |
-| paṭipadan'ti | - | - | path of practice, way | |
+| paṭipadan'ti | sandhi | | path of practice, way | |
 | \#paṭipadaṃ | noun | fem.acc.sg | path of practice, way | √pad･3 ya (go, step) |
 | \#iti | ind | - | "" | |
 
@@ -503,7 +503,7 @@
 | idappaccayā | - | - | on account of this; due to this (lit: from condition of this) | |
 | \#idaṃ | pron | - | this | |
 | \#paccayā | noun | masc.abl.sg | from cause, from condition | √i･1 a (come, go) |
-| avijjā'ti | noun | fem.nom.sg | ignorance"" | |
+| avijjā'ti | sandhi | fem.nom.sg | ignorance"" | |
 | \#avijjā | noun | fem.nom.sg | ignorance | √vid･3 ya (know, understand) |
 | \#iti | ind | - | "" | |
 
@@ -563,7 +563,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | iti | ind | adv | thus; like this | |
-| uddham'adho | ind | adv | above and below | |
+| uddham'adho | sandhi | adv | above and below | |
 | \#uddhaṃ [ca] | ind | prep | above | |
 | \#adho [ca] | ind | prep | below | |
 | tiriyaṃ | ind | adv | across | √tir･1 a (cross) |
@@ -608,9 +608,9 @@
 | \#vuṭṭhi | noun | fem.nom.sg | rain; rainfall | √vass･1 a (rain) |
 | \#iva | ind | | like; as | |
 | rajaṃ | noun | masc.acc.sg | dust | √raj･1 a (colour) |
-| samūhataṃ | pp | masc.acc.sg | has removed; eradicated | saṃ+ud√han･1 a (strike, kill) |
+| samūhataṃ | pp | masc.acc.sg | stirred up; raised | saṃ+ud√han･1 a (strike, kill) |
 
-**One truly calms investigated thoughts like rainfall that has removed dust.**
+**He truly calms thoughts and examinations, as rain [settles] stirred-up dust.**
 
 5. [MN148](https://find.dhamma.gift/bw/mn/mn148.html)<br>attā me uppajjati ca veti cā'ti icc'assa evam'āgataṃ hoti.
 
@@ -629,7 +629,7 @@
 | \#assa | pron | masc.dat.sg | to him; to that one | |
 | evam'āgataṃ | sandhi | | thus concluded | |
 | \#evaṃ | ind | emph | thus | |
-| \#agataṃ | pp | nt.nom.sg | come | √gam･1 a (go) |
+| \#āgataṃ | pp | nt.nom.sg | come | √gam･1 a (go) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 
 **…and so he would thus conclude (lit: and so to him, it is thus concluded), "my self arises and disappears."**
@@ -651,7 +651,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dutiyampi | - | - | also for the second time | |
+| dutiyampi | sandhi | | also for the second time | |
 | \#dutiyaṃ | ind | adv | for the second time | |
 | \#api | ind | emph | just, only, also | |
 | kho | ind | emph | indeed | |
@@ -673,7 +673,7 @@
 | nāma | ind | - | called, named | |
 | isi | noun | masc.nom.sg | sage, seer | |
 | ahosiṃ | verb | aor.1st.sg | I was | √hū･1 a (be) |
-| bhojaputto | noun | masc.nom.sg | resident of the Bhoja country; lit. son of Bhoja | kammadhāraya |
+| bhojaputto | noun | masc.nom.sg | resident of the Bhoja country; lit. son of Bhoja | chaṭṭhī tappurisa |
 | \#bhoja | noun | masc. | bhoja (a country) | |
 | \#putto | noun | masc.nom.sg | son | |
 | iddhimā | adj | masc.nom.sg | with psychic powers | √idh･3 ya (succeed, accomplish) |

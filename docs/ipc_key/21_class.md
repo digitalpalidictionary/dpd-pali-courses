@@ -15,8 +15,8 @@
 | samādhim'ānantarikañ'ñam'āhu | sandhi | | they say that stability of mind with immediate results | |
 | \#samādhiṃ | noun | masc.acc.sg | (perfect) peace of mind; stillness of mind | √dhā･1 a (place, support) |
 | \#ānantarikaṃ | adj | masc.acc.sg | immediate; without delay; with immediate results | |
-| \#yaṃ | pron | nt.nom.sg | that which | |
-| \#āhu | verb | perf.3rd.pl | they say[^18] | √ah･1 a (speak) |
+| \#yaṃ | pron | masc.acc.sg | which | |
+| \#āhu | verb | perf.3rd.pl | they say[^20] | √ah･1 a (speak) |
 
 **The foremost Buddha extolled pure stillness of the mind, which they say with immediate results.**
 
@@ -33,7 +33,7 @@
 | \#ajjhagā | verb | imperf.3rd.sg | obtained; attained | √gam･1 a (go) |
 | sakyamunī | noun | masc.nom.sg | the Sakyan sage | kammadhāraya |
 | \#sakya | adj | masc | of the Sakyan family | |
-| \#munī | noun | masc.nom.sg | the sages | √mun･5 nā (think, know) |
+| \#munī | noun | masc.nom.sg | the sage | √mun･5 nā (think, know) |
 | samāhito | pp | masc.nom.sg | composed; settled; concentrated | √dhā･1 a (place, support) |
 
 **The wearing away, the dispassion, the deathless, the sublime (or sublime deathless) which the concentrated Sakyan sage attained…**
@@ -43,7 +43,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | khaṇo | noun | masc.nom.sg | the moment; the opportunity | |
-| vo | pron | 2nd.instr.pl | by you | |
+| vo | pron | 2nd.acc.pl | you | |
 | mā | ind | neg | don't let | |
 | upaccagā | verb | imperf.3rd.sg | passed by | √gam･1 a (go) |
 | khaṇ'ātītā | noun | masc.nom.pl | who have missed the chance | kammadhāraya\> bahubbīhi |
@@ -89,11 +89,11 @@
 | \#sīla (ca) | noun | nt.nom.pl | precepts; virtues | √sīl×1 a (conduct oneself) |
 | \#vatāni (ca) | noun | nt.nom.pl | religious practices | √vat×1 a (be, proceed) |
 | jantu | agent noun | masc.nom.sg | a man; a person (lit: one who is born) | √jan･3 ya (be born, produce) |
-| anānupuṭṭho'va | sandhi | | | |
+| anānupuṭṭho'va | sandhi | | just unasked |  |
 | \#anānupuṭṭho | pp | masc.nom.sg | unasked | √pucch･1 a (ask, question) |
 | \#eva | ind | emph | only; just | |
 | paresa(ṃ) | pron | masc.dat.pl (irreg form) | to others | |
-| pāva | verb | perf.3rd.sg | spoke (about); boasted (about) | √vad･1 a (say, speak)[^19] |
+| pāva | verb | perf.3rd.sg | spoke (about); boasted (about) | √vad･1 a (say, speak)[^21] |
 | anariyadhammaṃ | noun | masc.acc.sg | ignoble nature | kammadhāraya |
 | \#anariyaṃ | adj | masc.acc.sg | ignoble | |
 | \#dhammaṃ | noun | masc.acc.sg | nature | √dhar･1 a (hold, carry, endure) |
@@ -124,7 +124,7 @@
 | dukkhakkhandhassa | noun | masc.gen.sg | heap of suffering | chaṭṭhī tappurisa |
 | \#dukkhassa | noun | nt.gen.sg | of suffering | √dukkh･1 a (be painful) |
 | \#khandhassa | noun | masc.gen.sg | of the heap | √khand･1 a (jump up, pile up) |
-| antakiriyā | noun | fem.nom.sg | the making an end of[^20]; ending | dutiyā tappurisa |
+| antakiriyā | noun | fem.nom.sg | the making an end of[^22]; ending | dutiyā tappurisa |
 | \#antaṃ | noun | masc.acc.sg | an end | |
 | \#kiriyā | noun | fem.nom.sg | making | √kar･7 o (do, make) |
 | paññāyethā'ti | sandhi | | "...it itself would be evident" | |
@@ -148,7 +148,7 @@
 | \#iti | ind | emph | thus | |
 | \#assa | pron | masc.dat.sg | to him | |
 | bhavanti | verb | pr.3rd.pl | there are | √bhū･1 a (be, become) |
-| vattāro | agent noun | masc.nom.pl | they who say; who speak[^21] | √vac･1 a (say, speak) |
+| vattāro | agent noun | masc.nom.pl | they who say; who speak[^23] | √vac･1 a (say, speak) |
 
 **"Please, Venerable, first you should train yourself bodily", there will be those who say thus to him.**
 
@@ -166,26 +166,26 @@
 | kathaṃ | ind | adv interr | how? | |
 | lokaṃ | noun | masc.acc.sg | the world | √lok･8 \*e (look) |
 | avekkhantaṃ | prp | masc.acc.sg | seeing; viewing | |
-| maccurājā | noun | masc.voc.sg | king of death | chaṭṭhī tappurisa |
+| maccurājā | noun | masc.nom.sg | king of death | chaṭṭhī tappurisa |
 | \#maccuno | noun | masc.gen.sg | of death | √mar･1 a (die) |
 | \#rājā | noun | masc.nom.sg | king | √rāj･1 a (rule, shine) |
 | na | ind | neg | not | |
 | passati | verb | pr.3rd.sg | sees | √dis･1 a (see) |
 
-**I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^22] [so that ] the king of death does not see [him]?**
+**I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^24] [so that ] the king of death does not see [him]?**
 
-[^18]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)". Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.
+[^20]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)". Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.
 
-[^19]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.
-[^20]: Slightly different is Cone: "putting an end to; destruction"
-[^21]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."
-[^22]: Lokaṁ avekkhantaṁ is object in the acc. for passati, which seems almost untranslatable in English.
+[^21]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.
+[^22]: Slightly different is Cone: "putting an end to; destruction"
+[^23]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."
+[^24]: Lokaṃ avekkhantaṃ is object in the acc. for passati, which seems almost untranslatable in English.
 
 9. [SN1.31](https://find.dhamma.gift/bw/sn/sn1.31.html)<br>sabbhireva **samāsetha**,<br>sabbhi **kubbetha** santhavaṃ,<br>sataṃ saddhammamaññāya,<br>sattā gacchanti suggatin'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| sabbhireva | - | - | just the virtuous | |
+| sabbhireva | sandhi | | just the virtuous | |
 | \#sabbhi | noun | masc.instr.pl | with virtuous people | √as･1 a (be) |
 | \#eva | ind | - | just; only | |
 | samāsetha | verb | opt.reflx.3rd.sg | one should associate oneself | √ās･1 a (sit) |
@@ -193,16 +193,18 @@
 | kubbetha | verb | opt.reflx.3rd.sg | one should make oneself | √kar･7 o (do, make) |
 | santhavaṃ | noun | masc.acc.sg | intimacy, closeness | √thu･1 a (be familiar, praise) |
 | sataṃ | noun | masc.gen.pl | of virtuous people | √as･1 a (be) |
-| saddhammam'aññāya | - | - | understanding the true teaching | |
+| saddhammam'aññāya | sandhi | | understanding the true teaching | |
 | \#saddhammaṃ | noun | masc.acc.sg | true teaching | |
 | \#aññāya | verb | ger | knowing; understanding | √ñā･5 nā (know) |
 | sattā | noun | masc.nom.pl | beings | √as･1 a (be) |
 | gacchanti | verb | pr.3rd.pl | they go | √gam･1 a (go) |
-| suggatin'ti | noun | masc.acc.sg | good place | √gam･1 a (go) |
+| suggatin'ti | sandhi | | good place | |
+| \#suggatiṃ | noun | fem.acc.sg | good place | √gam･1 a (go) |
+| \#iti | ind | - | "" | |
 
 **One should associate oneself just with the virtuous,<br>one should make oneself intimate with the virtuous,<br>having understood the true teaching of the virtuous,<br>beings go (on) to a good destination.**
 
-10. [UD5.10](https://find.dhamma.gift/bw/ud/ud1.5.html)<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
+10. [UD5.10](https://find.dhamma.gift/bw/ud/ud5.10.html)<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -242,12 +244,12 @@
 | paro | pron | masc.nom.sg | one person | |
 | paraṃ | pron | masc.acc.sg | another person | |
 | nikubbetha | verb | opt.reflx.3rd.sg | should cheat; lit. should make down | √kar･7 o (do, make) |
-| n'ātimaññetha | - | - | he should not despise | |
+| n'ātimaññetha | sandhi | | he should not despise | |
 | \#na | ind | - | not | |
 | \#atimaññetha | verb | opt.reflx.3rd.sg | he should not despise | √man･3 ya (think) |
 | katthaci | ind | adv | somewhere | |
 | naṃ | pron | masc.acc.sg | that, him | |
-| kiñci | ind | - | anyone | |
+| kiñci | pron | masc.acc.sg | anyone | |
 | byārosanā(ya) | noun | fem.instr.sg | by anger | √rus･1 \*e (be angry) |
 | paṭighasaññā(ya) | noun | fem.instr.sg | by dislike; ill-will | chaṭṭhī tappurisa |
 | \#paṭighassa | noun | masc.gen sg | of aversion | √ghaṭ･8 \*e (strike, kill) |
@@ -282,7 +284,9 @@
 | abhavissa | verb | cond.3rd.sg | would be | √bhū･1 a (be, become) |
 | kusalaṃ | noun | nt.acc.sg | the good, merit | |
 | bhāvetuṃ | verb | inf | to cultivate | √bhū･1 \*e (be, become) |
-| nāhaṃ | pron | 1st.nom.sg | I not | |
+| nāhaṃ | sandhi | | I not | |
+| \#na | ind | neg | not | |
+| \#ahaṃ | pron | 1st.nom.sg | I | |
 | evaṃ | ind | - | thus | |
 | vadeyyaṃ | verb | opt.reflx.1st.sg | I would say myself | √vad･1 a (say, speak) |
 | kusalaṃ | noun | nt.acc.sg | the good, merit | |
@@ -295,20 +299,20 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ahañceva | - | - | if I just | |
+| ahañceva | sandhi | | if I just | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | \#ce | ind | - | if | |
 | \#eva | ind | - | just, even | |
 | kho | ind | - | truly | |
 | pana | ind- | | moreover | |
 | jarādhammo | adj | masc.nom.sg | liable to grow old | kammadhāraya<br>\> bahubbīhi |
-| \#jarā | adj | masc. | | √jar･1 a (age) |
+| \#jarā | noun | fem. | old age | √jar･1 a (age) |
 | \#dhammo | noun | masc.nom.sg | quality; characteristic | √dhar･1 a (hold, carry, endure) |
-| samāno | prp | masc.nom.sg | being | √mā･5 nā (measure) |
+| samāno | prp | masc.nom.sg | being | √as･1 a (be) |
 | jaraṃ | noun | fem.acc.sg | old age | √jar･1 a (age) |
 | anatīto | pp | masc.nom.sg | not passed; not exempt from | √i･1 a (come, go) |
 | \#na | ind | neg | not | |
-| \#atīto | pp | masc.nom.sg | | √i･1 a (come, go) |
+| \#atīto | pp | masc.nom.sg | passed; gone beyond | √i･1 a (come, go) |
 | paraṃ | adj | masc.acc.sg | another | |
 | jiṇṇaṃ | noun | masc.acc.sg | old man | √jīr･1 a (grow old, decay) |
 | disvā | verb | abs | having seen | √dis･1 a (see) |
@@ -320,11 +324,13 @@
 | \#me | pron | masc.dat.sg | for me | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | assa | verb | pot.3rd.sg | it would be | √as･1 a (be) |
-| patirūpan'ti | adj | nt.nom.sg | "…suitable, proper" | patirūpan'ti |
+| patirūpan'ti | sandhi | | "…suitable, proper" | |
+| \#patirūpaṃ | adj | nt.nom.sg | suitable, proper | |
+| \#iti | ind | - | "" | |
 
 **"And if I, being of a nature to get old, who is not exempt from old age, would see another old person and would become troubled, ashamed and disgusted, this would not be suitable for me".**
 
-14. [UD5.10](https://find.dhamma.gift/bw/ud/ud1.5.html) <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
+14. [UD5.10](https://find.dhamma.gift/bw/ud/ud5.10.html) <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -333,8 +339,8 @@
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | āyasmantaṃ | noun | masc.acc.sg | venerable | |
 | cūḷapanthakaṃ | noun | masc.acc.sg | Smaller Traveller | |
-| \#cūḷa | | | | |
-| \#panthakaṃ | | | | √panth×1 a (go, move) |
+| \#cūḷa | adj | masc. | small; lesser | |
+| \#panthakaṃ | noun | masc.acc.sg | traveller | √panth×1 a (go, move) |
 | avidūre | ind | adv | not far away, nearby | |
 | nisinnaṃ | pp | masc.acc.sg | seated | √sad･1 a (sink, sit, settle) |
 | pallaṅkaṃ | noun | masc.acc.sg | cross-legged sitting position; meditation posture | √añc･1 a (bend) |
@@ -365,11 +371,11 @@
 | vitakkāni | noun | nt.acc.pl | thoughts | √takk･8 \*e (think) |
 | vicāritāni | pp | nt.acc.pl | thought about; contemplated; investigated | √car･1 \*e (move, walk) |
 | sameti | verb | caus.pr.3rd.sg | he causes to be calm | √sam･3 \*e (be calm, tired) |
-| vuṭṭhī'va | noun | fem.nom.sg | like the rain | |
-| \#vuṭṭhi | | | | |
+| vuṭṭhī'va | sandhi | fem.nom.sg | like the rain | |
+| \#vuṭṭhi | noun | fem.nom.sg | rain | |
 | \#iva | ind | | like | |
 | rajaṃ | noun | masc.acc.sg | dust | √raj･1 a (colour) |
-| samūhataṃ | pp | masc.acc.sg | removed; uprooted | √han･1 a (strike, kill) |
+| samūhataṃ | pp | masc.acc.sg | stirred up; raised | √han･1 a (strike, kill) |
 | sa | pron | masc.nom.sg | he | |
 | ve | ind | - | indeed, truly | |
 | vitakkūpasamena | noun | masc.instr.sg | with calming of thoughts; settling the mind | chaṭṭhī tappurisa |
@@ -394,8 +400,8 @@
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | sampayojesuṃ | verb | aor.3rd.pl | they quarreled | √yuj･2 \*e (yoke, join) |
 | tatreko | adj | masc.nom.sg | there one | |
-| \#tatra | | | | |
-| \#eko | | | | |
+| \#tatra | ind | adv | there | |
+| \#eko | adj | masc.nom.sg | one | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | accasarā | verb | imperf.3rd.sg | he transgressed, overstepped | √sar･1 a (go, flow) |
 | atha kho | ind | - | then | |
@@ -415,7 +421,7 @@
 
 ## Class 21 Extra Examples
 
-1. SN.2.8 (Dhp 313)<br>kayirā ce, kayirāth'enaṃ, daḷham'enaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
+1. [SN2.8](https://find.dhamma.gift/bw/sn/sn2.8.html) (Dhp 313)<br>kayirā ce, kayirāth'enaṃ, daḷham'enaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -450,14 +456,14 @@
 | dīgham'āyuṃ | noun | nt.acc.sg | long life | kammadhāraya |
 | \#dīgham | adj | nt.acc.sg | long | |
 | \#āyuṃ | noun | nt.acc.sg | life | √i･1 a (come, go) |
-| labhate | verb | pr (reflex) 3rd.sg | one oneself gets | |
+| labhate | verb | pr (reflex) 3rd.sg | one oneself gets | √labh･1 a (get) |
 | dhanena | noun | nt.instr.sg | by means of wealth | √dhan×1 a (be rich) |
 | na | ind | neg | not | |
 | c'āpi | sandhi | | and even | |
 | \#ca | ind | conj | and | |
 | \#api | ind | | even | |
 | vittena | noun | nt.instr.sg | by means of property; possessions | √vid･2 ṃa (get, find) |
-| jaraṃ | noun | masc.acc.sg | old age | √jar･1 a (age) |
+| jaraṃ | noun | fem.acc.sg | old age | √jar･1 a (age) |
 | vihanti | verb | pr.3rd.sg | ward off; banish | √han･1 a (strike, kill) |
 
 **Not by means of wealth does one get oneself a long life and not even by means of possessions does one banish old age.**
@@ -491,7 +497,7 @@
 | vo | pron | 2nd.gen.pl | of you; yours | |
 | sakaṃ | noun | nt.nom.sg | what is one's own | |
 | vinassā"ti | sandhi | | "...get lost; perish" | |
-| \#vinassa | verb | imp.2nd.sg | got lost; perished | vi√nas･3 ya (be lost, disappear) |
+| \#vinassa | verb | aor.3rd.sg (with mā) | may [it] not perish | vi√nas･3 ya (be lost, disappear) |
 | \#ti | ind | quotation mark | "" | |
 
 **"Let the venerables regain what is your own; do not let what is your own get lost."**
@@ -501,8 +507,8 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | visenikatvā | verb | abs | having disarmed; not opposing; at peace; | |
-| \#viseni | fem | | disarming; not opposing | |
-| \#katvā | verb | abs | having made | |
+| \#viseni | noun | fem. | disarming; not opposing | |
+| \#katvā | verb | abs | having made | √kar･7 o (do, make) |
 | pana | ind | - | and | |
 | ye | pron | masc.nom.pl | those who | |
 | caranti | verb | pr.3rd.pl | they wander | √car･1 a (move, walk) |
@@ -514,12 +520,14 @@
 | kiṃ | pron | nt.acc.sg | what? | |
 | labhetho | verb | opt.reflx.2nd.sg | you could get yourself | √labh･1 a (get) |
 | pasūra | noun | masc.voc.sg | Pasura | |
-| yesīdha | - | - | in whoever here | |
+| yesīdha[^25] | - | - | in whoever here | |
 | \#yesu | pron | masc.loc.pl | in whoever | |
 | \#idha | ind | adv | here | |
 | natthī | verb | pr.3rd.sg | there is not | √as･1 a (be) |
 | paramuggahītaṃ | - | - | grasped as supreme | |
-| \#parama | pron | - | highest | |
+| \#parama | adj | - | highest | |
 | \#uggahitaṃ | pp | nt.nom.sg | grasped | √gah･6 ṇhā (grasp) |
 
 **They wander around at peace, not opposing a view with views. In them, what could you get yourself, Pasura, in whom there is nothing grasped as the highest.**
+
+[^25]: Here yesīdha is analysed as yesu + idha. Norman and most editors read yesaṃ + idha ("for whom here"), which would also match natthi + genitive.

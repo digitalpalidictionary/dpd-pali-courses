@@ -24,8 +24,7 @@
 | | |
 | --- | --- |
 | ku + sobbha | |
-| aṭṭhaṃ + katvā | |
-| ku + sobbha | |
+| aṭṭhiṃ + katvā | |
 | adhi + matta | |
 | abhi + attha | |
 | adhi + sīla | |

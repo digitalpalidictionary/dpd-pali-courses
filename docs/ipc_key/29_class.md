@@ -29,7 +29,7 @@ disvāna taṇhaṃ aratiṃ ragañ'ca,
 | taṇhaṃ | noun | fem.acc.sg | craving | |
 | aratiṃ | noun | fem.acc.sg | dissatisfaction; aversion (lit: non-delight) | |
 | ragañ'ca | sandhi | | and | |
-| \#ragaṃ | noun | fem.acc.sg | lust; passion | |
+| \#ragaṃ | noun | masc.acc.sg | lust; passion (m.c. for rāgaṃ) | |
 | \#ca | ind | conj | and | |
 
 **Having seen craving, non-delight, and desire (the three daughters of Death)**
@@ -53,7 +53,7 @@ kim'ev'idaṃ mutta-karīsa-puṇṇaṃ,
 | \#kiṃ | pron. | nt.nom.sg | what? | |
 | \#eva | ind | emph | only; just | |
 | \#idaṃ | pron. | nt.nom.sg | this | |
-| mutta-karīsa-puṇṇaṃ | sandhi | | | kammadhāraya |
+| mutta-karīsa-puṇṇaṃ | sandhi | | full of urine and excrement | kammadhāraya |
 | \#muttakarīsaṃ | noun | nt.nom.sg | urine and excrement | dvanda |
 | \#\#mutta (ca) | noun | nt. | (of) urine | |
 | \#\#karīsa (ca) | noun | nt. | (of) excrement | |
@@ -68,7 +68,7 @@ pādā'pi naṃ samphusituṃ na icche.
 | pādā'pi | sandhi | | even with foot | |
 | \#pādā | noun | masc.instr.sg. | by foot | |
 | \#api | ind | | even | |
-| naṃ | pron. | nt.acc.sg | her | |
+| naṃ | pron | fem.acc.sg | her | |
 | samphusituṃ | verb | inf | to touch (with) | saṃ + √phus + ituṃ |
 | na | ind | neg | not | |
 | icche | verb | opt.1st.sg | I would wish | |
@@ -86,13 +86,13 @@ etādisaṃ ce ratanaṃ na icchasi,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| etādisaṃ[^49] | adj | | such as this; of this type | kammadhāraya |
+| etādisaṃ[^53] | adj | nt.acc.sg | such as this; of this type | kammadhāraya |
 | \#eta | pron | nt. | this | |
 | \#ādisaṃ | adj | nt.nom.sg | kind; quality | |
 | ce | ind | cond. | if | |
 | ratanaṃ | noun | nt.acc.sg | treasure; jewel | |
 | na | ind | neg | not | |
-| icchasi | verb | pr.2nd.sg | you want; wish | √is + a + ti |
+| icchasi | verb | pr.2nd.sg | you want; wish | √is + a + si |
 
 **If you do not want a jewel such as this,**
 
@@ -129,20 +129,20 @@ bhav'ūpapattiñ'ca vadesi kīdisaṃ.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | bhav'ūpapattiñ'ca | sandhi | | and re-arising into existence | |
-| \#bhavūpapattiṃ | noun | | rebirth (or re-arising) into existence | kammadhāraya |
+| \#bhavūpapattiṃ | noun | fem.acc.sg | rebirth (or re-arising) into existence | kammadhāraya |
 | \#\#bhava | noun | masc. | existence | |
 | \#\#upapattiṃ | noun | fem.acc.sg | rebirth; re-arising | |
 | \#ca | ind | conj | and | |
 | vadesi | verb | pr.2nd.sg | you say; proclaim | √vad + a + si |
-| kīdisaṃ[^50] | adj | nt.acc.sg | of what kind? | kammadhāraya |
+| kīdisaṃ[^54] | adj | nt.acc.sg | of what kind? | kammadhāraya |
 | \#ka | pron | nt. | what? | |
-| \#ādisaṃ | adj | nt.nom.sg | kind; quality | |
+| \#ādisaṃ | adj | nt.acc.sg | kind; quality | |
 
 **and re-arising into existence do you proclaim?**
 
-[^49]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa. An adjective \*ādisa (S. \*ādṛśa) is listed neither in PED, CPD nor Cone and is also unknown to MW, Apte and Böthlingk, so it seems this is a ghost word in DPD.
+[^53]: This is etad + disa (S. dṛśa), corresponding to S. etādṛśa, tādṛśa. An adjective \*ādisa (S. \*ādṛśa) is listed neither in PED, CPD nor Cone and is also unknown to MW, Apte and Böthlingk, so it seems this is a ghost word in DPD.
 
-[^50]: See kīdṛśa.
+[^54]: See kīdṛśa.
 
 idaṃ vadāmī'ti na tassa hoti, (māgaṇḍiyā'ti bhagavā)
 dhammesu niccheyya samuggahītaṃ.
@@ -157,7 +157,7 @@ idaṃ vadāmī'ti na tassa hoti, (māgaṇḍiyā'ti bhagavā)
 | --- | --- | --- | --- | --- |
 | idaṃ | pron. | nt.acc.sg | this | |
 | vadāmī'ti | sandhi | | "...I say; proclaim" | |
-| \#vadāmi | verb | pr.1st.sg | I say; proclaim | √vad + a + ti |
+| \#vadāmi | verb | pr.1st.sg | I say; proclaim | √vad + a + mi |
 | \#iti | ind | quotation mark | "" | |
 | na | ind | neg | not | |
 | tassa | pron | masc.dat.sg | to him; to one | |
@@ -174,7 +174,7 @@ dhammesu niccheyya samuggahītaṃ.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | dhammesu | noun | masc.loc.pl | among teachings; in regard to doctrines | |
-| niccheyya | verb | ger | evaluating; discriminating | nī + √ci + \*ya |
+| niccheyya | verb | ger | evaluating; discriminating | nis + √ci + \*ya |
 | samuggahītaṃ | pp | nt.acc.sg | what has been embraced; accepted; taken up | saṃ + ud + √gah + ita |
 
 **Discriminating among teachings and [evaluating] what has been taken up,**
@@ -186,7 +186,7 @@ passañ'ca diṭṭhīsu anuggahāya,
 | passañ'ca | sandhi | | but seeing | |
 | \#passaṃ | prp | masc.nom.sg | seeing | √dis + a + nta |
 | \#ca | ind | conj | but; and | |
-| diṭṭhīsu | noun | fem.instr.pl | in regard to views; from among views | |
+| diṭṭhīsu | noun | fem.loc.pl | in regard to views; from among views | |
 | anuggahāya | verb | ger | not taking up | na + ud + √gah + ṇhā + ya |
 
 **but seeing, [and] not taking up in regard to views,**
@@ -214,13 +214,15 @@ vinicchayā yāni pakappitāni, (iti māgaṇḍiyo)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| vinicchayā | noun | masc.nom.pl | evaluations | |
+| vinicchayā[^55] | noun | masc.nom.pl | evaluations | |
 | yāni | pron | nt.nom.pl | whichever (things) | |
 | pakappitāni | pp | nt.nom.pl | what have been imagined; fabricated; fashioned | pa + √kapp + ita |
 | iti | ind | quotation mark | "" | |
 | māgaṇḍiyo | noun | masc.nom.sg | Māgaṇḍiya | |
 
 **"The evaluations, whatever things have been fashioned," ([said] Māgaṇḍiya),**
+
+[^55]: Most translators read vinicchayā as ablative singular, "fashioned from judgement", which fits pakappitāni (nt.pl). The nom.pl subject taken here does not agree with it.
 
 te ve munī brūsi anuggahāya.
 
@@ -229,7 +231,7 @@ te ve munī brūsi anuggahāya.
 | te | pron | nt.acc.pl | them | |
 | ve | ind | emph | indeed; truly | |
 | munī | noun | masc.voc.sg | Sage | |
-| brūsi | verb | pr.2nd.sg | you say | √brū + a + ti |
+| brūsi | verb | pr.2nd.sg | you say | √brū + a + si |
 | anuggahāya | verb | ger | not grasping; not taking up | na + ud + √gah + ṇhā + ya |
 
 **indeed, not grasping them, Sage say,**
@@ -240,7 +242,7 @@ ajjhatta-santī'ti yam'etam'atthaṃ
 | --- | --- | --- | --- | --- |
 | ajjhatta-santī'ti | sandhi | | "inner peace" | |
 | \#ajjhatta-santi | noun | fem.nom.sg | inner peace | kammadhāraya |
-| \#\#ajjhata | adj | fem. | inner | |
+| \#\#ajjhatta | adj | fem. | inner | |
 | \#\#santi | noun | fem.nom.sg | peace | |
 | \#iti | ind | quotation mark | "" | |
 | yam'etam'atthaṃ | sandhi | | which is this meaning; concerning this matter | |
@@ -256,7 +258,7 @@ kathaṃ nu dhīrehi paveditaṃ taṃ.
 | --- | --- | --- | --- | --- |
 | kathaṃ | ind | adv | how | |
 | nu | ind | question marker | ? | |
-| dhīrehi | now | masc.instr.pl | by wise men; by the wise | |
+| dhīrehi | noun | masc.instr.pl | by wise men; by the wise | |
 | paveditaṃ | pp | nt.nom.sg | made known | pa + √vid + \*e + ita |
 | taṃ | pron | nt.nom.sg | it | |
 
@@ -319,7 +321,7 @@ asīlatā abbatā no'pi tena.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | asīlatā(ya) | noun | fem.instr.sg | without moral conduct | |
-| abbatā | noun | nt.instr.sg | without religious practice; without ritual observance(s) | |
+| abbatā | noun | fem.instr.sg | without religious practice; without ritual observance(s) | |
 | no'pi | sandhi | | nor even | |
 | \#no | ind | neg | nor | |
 | \#api | ind | | even | |
@@ -346,7 +348,7 @@ santo anissāya bhavaṃ na jappe.
 | anissāya | verb | ger | not depending; not dependent | na + ni + √si + ya |
 | bhavaṃ | noun | masc.acc.sg | existence | |
 | na | ind | neg | not | |
-| jappe | verb | opt.3rd.sg +acc | one should desire; yearn for | √japp + a + ti |
+| jappe | verb | opt.3rd.sg +acc | one should desire; yearn for | √japp + a + e |
 
 **at peace [and] not depending, one should not yearn for existence.**
 
@@ -408,7 +410,7 @@ asīlatā abbatā no'pi tena.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | asīlatā | noun | fem.instr.sg | without moral conduct | |
-| abbatā | noun | nt.instr.sg | without religious practice; without ritual observance(s) | |
+| abbatā | noun | fem.instr.sg | without religious practice; without ritual observance(s) | |
 | no'pi | sandhi | | nor even | |
 | \#no | ind | neg | nor | |
 | \#api | ind | | even | |
@@ -421,7 +423,7 @@ maññām'ahaṃ momuham'eva dhammaṃ,
 | | | | | |
 | --- | --- | --- | --- | --- |
 | maññām'ahaṃ | sandhi | | I am thinking; imagining | |
-| \#maññāmi | verb | pr 1st sg | I think; imagine | √man + ya + ti |
+| \#maññāmi | verb | pr.1st.sg | I think; imagine | √man + ya + mi |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | momuham'eva | sandhi | | just completely confused | |
 | \#momuhaṃ | adj | masc.acc.sg | very foolish; completely confused; totally deluded; entirely stupid | |
@@ -481,8 +483,8 @@ ito ca n'āddakkhi aṇum'pi saññaṃ
 | --- | --- | --- | --- | --- |
 | ito | ind | adv | because of this ; lit. from this | |
 | ca | ind | conj | and; but | |
-| n'āddakkhi | verb | aor.3rd.sg | he did not see; has not seen (i.e. you did not see) | na + a + √dis + a + i |
-| aṇum'pi | sandhi | | | |
+| n'āddakkhi | verb | aor.2nd.sg | you did not see | na + a + √dis + a + i |
+| aṇum'pi | sandhi | | even tiny |  |
 | \#aṇuṃ | adj | fem.acc.sg | tiny; minuscule | |
 | \#api | ind | emph | even | |
 | saññaṃ | noun | fem.acc.sg | notion | |
@@ -496,7 +498,7 @@ tasmā tuvaṃ momuhato dahāsi
 | tasmā | ind | adv | therefore | |
 | tuvaṃ | pron | 2nd.nom.sg | you | |
 | momuhato | ind | adv (masc.abl.sg) | as very foolish; as completely confused | |
-| dahāsi | verb | pr.2nd.sg | consider (it); take (it) | √dhā + a + ti |
+| dahāsi | verb | pr.2nd.sg | consider (it); take (it) | √dhā + a + si |
 
 **therefore, you consider [it] as completely confused.**
 
@@ -526,7 +528,7 @@ yo maññatī so vivadetha tena.
 | yo | pron | masc.nom.sg | who | |
 | maññati | verb | pr.3rd.sg | thinks; imagines | √man + ya + ti |
 | so | pron | masc.nom.sg | he | |
-| vivadetha | verb | opt.3rd.sg (+instr) | might quarrel | vi + √vad + a + ti |
+| vivadetha | verb | opt.3rd.sg (+instr) | might quarrel | vi + √vad + a + etha |
 | tena | pron | masc.instr.sg | because of that (lit: by means of that) | |
 
 **one who thinks (himself) [in those terms] might quarrel because of that.**
@@ -572,7 +574,7 @@ saccan'ti so brāhmaṇo kiṃ vadeyya,
 | so | pron | masc.nom.sg | that | |
 | brāhmaṇo | noun | masc.nom.sg | brahmin | |
 | kiṃ | pron | nt.nom.sg | why; what; how | |
-| vadeyya | verb | opt.3rd.sg | he would, could say | √vad + a + ti |
+| vadeyya | verb | opt.3rd.sg | he would, could say | √vad + a + eyya |
 
 **Why would/How could that brahmin say, "[it] is true,"**
 
@@ -584,8 +586,8 @@ musā'ti vā so vivadetha kena.
 | \#musā | ind | adv | false | |
 | \#iti | ind | quotation mark | "" | |
 | vā | ind | conj | or | |
-| so | pron | masc.nom.g | he | |
-| vivadetha | verb | opt.3rd.sg | he would quarrel | vi + √vad + a + ti |
+| so | pron | masc.nom.sg | he | |
+| vivadetha | verb | opt.3rd.sg | he would quarrel | vi + √vad + a + etha |
 | kena | pron | masc.instr.sg | with whom | |
 
 **or with whom would he dispute, "[it is] false"?**
@@ -682,7 +684,7 @@ yehi vivitto vicareyya loke,
 | --- | --- | --- | --- | --- |
 | yehi | pron | nt.abl.pl | from whatever (things) | |
 | vivitto | pp | masc.nom.sg | detached; separated; aloof | vi + √vic + ta |
-| vicareyya | verb | opt.3rd.sg | he should, would move about | vi + √car + a + ti |
+| vicareyya | verb | opt.3rd.sg | he should, would move about | vi + √car + a + eyya |
 | loke | noun | masc.loc.sg | in the world | |
 
 **He should move about, aloof from whatever things [there are] in the world,**
@@ -694,7 +696,7 @@ na tāni uggayha vadeyya nāgo.
 | na | ind | neg | not | |
 | tāni | pron | nt.acc.pl | them | |
 | uggayha | verb | ger | grasping; taking up; holding (onto) | ud + √gah + ya |
-| vadeyya | verb | opt.3rd.sg | should speak | √vad + a + ti |
+| vadeyya | verb | opt.3rd.sg | should speak | √vad + a + eyya |
 | nāgo | noun | masc.nom.sg | the noble person; great man | |
 
 **the noble man should not speak, grasping them.**
@@ -722,7 +724,7 @@ jalena paṅkena c'anūpalittaṃ,
 | paṅkena | noun | masc.instr.sg | by mud | |
 | c'anūpalittaṃ | sandhi | | and unstained; unsullied | |
 | \#ca | ind | conj | and | |
-| \#anūpalittaṃ | pp | masc.acc.sg | not smeared (by); not sullied (by) | na + upa + √lip + ta |
+| \#anūpalittaṃ | pp | nt.nom.sg | not smeared (by); not sullied (by) | na + upa + √lip + ta |
 
 **and unsullied by water and mud,**
 
@@ -732,7 +734,7 @@ evaṃ munī santivādo agiddho,
 | --- | --- | --- | --- | --- |
 | evaṃ | ind | adv | so; in the same manner; just so | |
 | munī | noun | masc.nom.sg | the sage; the monk; the hermit | |
-| santivādo | adj | masc.nom.sg | professing peace; (a proponent of) a doctrine of peace | kammadhāraya as bahubbīhi |
+| santivādo | adj | masc.nom.sg | professing peace; (a proponent of) a doctrine of peace | kammadhāraya > bahubbīhi |
 | \#santi | noun | fem. | (of) peace | |
 | \#vādo | adj | masc.nom.sg | having a doctrine | |
 | agiddho | adj | masc.nom.sg | without greed; without desire | na + √gidh + ta |
@@ -763,7 +765,7 @@ na vedagū diṭṭhiyā na mutiyā,
 | | | | | |
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
-| vedagū | noun | masc.nom.sg | who has perfect knowledge | dutiyā tappuirsa |
+| vedagū | noun | masc.nom.sg | who has perfect knowledge | dutiyā tappurisa |
 | \#vedaṃ | noun | nt.acc.sg. | knowledge; understanding | |
 | \#gū | noun | masc.nom.sg | complete in (lit: goer) | |
 | diṭṭhiyā | noun | fem.instr.sg | by view | |
@@ -824,11 +826,11 @@ saññā-virattassa na santi ganthā,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| saññāvirattassa | adj | masc.dat.sg | (for one who is) detached from perception | sattamī tappurisa |
-| \#saññāyaṃ | noun | fem.loc.sg | from perception | |
+| saññāvirattassa | adj | masc.dat.sg | (for one who is) detached from perception | pañcamī tappurisa |
+| \#saññāya | noun | fem.abl.sg | from perception | |
 | \#virattassa | pp | masc.dat.sg | (for one who is) detached | vi + √raj + ta |
 | na | ind | neg | not; no | |
-| santi | verb | pr.3rd.pl | there are | sa + √as + a + nti |
+| santi | verb | pr.3rd.pl | there are | √as + a + nti |
 | ganthā | noun | masc.nom.pl | knots | |
 
 **there are no knots for him who is detached from perception,**
@@ -853,11 +855,11 @@ saññañ'ca diṭṭhiñ'ca ye aggahesuṃ,
 | saññañ'ca | sandhi | | and perception | |
 | \#saññaṃ | noun | fem.acc.sg | label; concept; idea; notion | |
 | \#ca | ind | conj | and | |
-| diṭṭhiñ'ca | noun | fem.acc.sg | and view | |
+| diṭṭhiñ'ca | sandhi | fem.acc.sg | and view | |
 | \#diṭṭhiṃ | noun | fem.acc.sg | view | |
 | \#ca | ind | conj | and | |
 | ye | pron | masc.nom.pl | those | |
-| aggahesuṃ | verb | aor.3rd.pl +acc | grabbed hold (of); taken up | a + √gah + ṇhā + si |
+| aggahesuṃ | verb | aor.3rd.pl +acc | grabbed hold (of); taken up | a + √gah + e + suṃ |
 
 **[But] those who have grabbed hold of/taken up notion(s) and view(s)**
 

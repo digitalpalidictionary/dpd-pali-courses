@@ -36,9 +36,9 @@
 | \#agge | adj | masc.loc.sg | in highest; topmost; foremost; first | |
 | te | pron | masc.instr.sg | by you | |
 | āvuso | ind | voc.sg | friend; brother | |
-| samaṇ'uddesa | noun | masc.voc.sg | novice (lit: nearly a monk) | dutiya tappurisa |
+| samaṇ'uddesa | noun | masc.voc.sg | novice (lit: nearly a monk) | dutiyā tappurisa |
 | \#samaṇaṃ | noun | masc.acc.sg | an ascetic | √sam･3 ya (exert, strive) |
-| \#uddesa | adj | masc.voc.sg | destined to be | √dis･1 a (point out, explain)[^14] |
+| \#uddesa | adj | masc.voc.sg | destined to be | √dis･1 a (point out, explain)[^16] |
 | na | ind | neg | not | |
 | c'eva | sandhi | | and just | |
 | \#ca | ind | conj | and | |
@@ -83,7 +83,7 @@
 | pana | ind | | but | |
 | bhikkhu | noun | masc.nom.sg | monk | |
 | jānaṃ | prp | masc.nom.sg | knowingly | |
-| yathādhammaṃ | adj | nt.acc.sg | fairly; correctly (lit: according to the law) | abyayībhāva[^15] |
+| yathādhammaṃ | adj | nt.acc.sg | fairly; correctly (lit: according to the law) | abyayībhāva[^17] |
 | \#yathā | ind | adv | according to | |
 | \#dhammā | noun | masc.abl.sg | the law; case; rule | |
 | nihat'ādhikaraṇaṃ | noun | nt.acc.sg | a legal issue which has been disposed of | kammadhāraya |
@@ -112,7 +112,7 @@
 | pajā | noun | fem.nom.sg | generation | |
 | tasmā | ind | adv, abl sg of ta | therefore; that is why | |
 | hi | ind | emph | indeed; certainly | |
-| vītarāgesu | masc | masc.loc.pl | in saints; holy men; [those who are] free from desires | kammadhāraya \> bahubbīhi |
+| vītarāgesu | adj | masc.loc.pl | in saints; holy men; [those who are] free from desires | kammadhāraya \> bahubbīhi |
 | \#vīta | pp (as adj) | masc. | without; free from | √i･1 a (come, go) |
 | \#rāgesu | noun | masc.loc.pl | in desires; passions | |
 | dinnaṃ | noun (pp) | nt.nom.sg (+loc or dat) | an offering (to) | |
@@ -168,21 +168,21 @@
 | \#micchā | ind | adv | wrongly | |
 | \#diṭṭhiko | adj | masc.nom.sg | one holding a view | |
 
-**What do you think, headman, here could be a person who kills living being, takes what is not given, who engages in sexual misconduct, speaks falsely, divisively, harshly, and chatters frivolously, [one] who is covetous, has a malicious mind and holds a wrong view.**
+**What do you think, headman, here could be a person who kills living beings, takes what is not given, who engages in sexual misconduct, speaks falsely, divisively, harshly, and chatters frivolously, [one] who is covetous, has a malicious mind and holds a wrong view.**
 
-[^14]: The relevant meaning of uddesa here would be, cf. Cone s.v.: "that to which one refers, point
+[^16]: The relevant meaning of uddesa here would be, cf. Cone s.v.: "that to which one refers, point
 
-**of authority".**
+    **of authority".**
 
-**Cf. also BHSD s.v. śramaṇoddeśa: "a subordinate of a (Buddhist) monk" and MW s.v. uddeśya: "anything to which one refers or which one has in view".**
+    **Cf. also BHSD s.v. śramaṇoddeśa: "a subordinate of a (Buddhist) monk" and MW s.v. uddeśya: "anything to which one refers or which one has in view".**
 
-**There are analogous formations in attuddesa "intended for oneself" (cf. Cone s.v.) and in aññasatthāruddesa "adopting another teacher".**
+    **There are analogous formations in attuddesa "intended for oneself" (cf. Cone s.v.) and in aññasatthāruddesa "adopting another teacher".**
 
-**Based on this, I would take the meaning of samaṇuddesa as "who refers to a samaṇa as his point of authority" and would analyze as a dutiya tappurisa. But: cum grano salis.**
+    **Based on this, I would take the meaning of samaṇuddesa as "who refers to a samaṇa as his point of authority" and would analyze as a dutiyā tappurisa. But: cum grano salis.**
 
-[^15]: So also Ñāṇatusita, but puna(r) is an ind.
+[^17]: So also Ñāṇatusita, but puna(r) is an ind.
 
-**I wonder if it could also be classified as avyayībhāva that retains its case ending, cf. Duroiselle: "Sometimes, however, the case-ending is retained; the cases thus retained being mostly the Ablative and the Locative."**
+    **I wonder if it could also be classified as avyayībhāva that retains its case ending, cf. Duroiselle: "Sometimes, however, the case-ending is retained; the cases thus retained being mostly the Ablative and the Locative."**
 
 7. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
 
@@ -204,12 +204,12 @@
 | kāyaṃ | noun | masc.acc.sg | body | √ci･5 nā (gather, accumulate) |
 | paṇidhāya | verb | ger | directing; positioning | √dhā･1 a (place, support) |
 | parimukhaṃ | ind | adv | as first priority; to the fore lit. around the front | |
-| satiṃ | noun | fem.acc.sg | mindfulness | √as･1 a (be) |
+| satiṃ | noun | fem.acc.sg | mindfulness | √sar･1 a (remember) |
 | upaṭṭhapetvā | verb | abs | having set up; having made sure is present | √ṭhā･1 \*āpe (stand) |
 
 **After the meal, after returning from alms-round, he sits down, having folded [his legs] into a cross-legged sitting position, positioning the body uprightly, having set up mindfulness as first priority.**
 
-**pacchābhattaṃ \< pacchā + bhattaṃ (avyāyibhāva)**
+**pacchābhattaṃ \< pacchā + bhattaṃ (abyayībhāva)**
 
 **piṇḍapāta \> piṇḍaṃ + pāta (dutiyā tappurisa)**
 
@@ -284,9 +284,9 @@
 
 **vinayavādī \< vinaya + vādī (dutiyā tappurisa - bahubbīhi)**
 
-**sāpadesaṃ \< saha + apadesa (kammadhāraya - bahubbīhi)**
+**sāpadesaṃ \< saha + apadesa (kammadhāraya > bahubbīhi)**
 
-**atthasaṃhita \< atthaena + saṃhita (tatiya tappurisa)**
+**atthasaṃhita \< atthena + saṃhita (tatiyā tappurisa)**
 
 10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
 
@@ -313,11 +313,11 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | seyyathāpi | ind | - | just like | |
-| bhikkhave | verb | masc.voc.pl | monks | √bhikkh･1 a (beg) |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | uparipabbate | noun | masc.loc.sg | on top of the mountain | |
 | \#upari | ind | prep | top | |
 | \#pabbate | noun | masc.loc.sg | on the mountain | |
-| thullaphusitake | adj | masc.acc.pl | which has big drops | |
+| thullaphusitake | adj | masc.loc.sg (loc abs) | which has big drops | |
 | \#thulla | adj | nt. | big | √thūl×8 \*e (be fat, coarse) |
 | \#phusitake | noun | nt.loc.sg.<br>(loc abs) | drops | √phus･1 a (sprinkle, splash) |
 | deve | noun | masc.loc.sg (loc abs) | when rain cloud | √div･3 ya (shine) |
@@ -327,7 +327,7 @@
 | yathāninnaṃ | ind | adv | downwards (lit: according to the slope) | |
 | \#yathā | ind | adv | according to | |
 | \#ninnaṃ | adj (as adv) | nt.acc.sg | sloped down | √nam･1 a (bend) |
-| pavattamānaṃ | prp | nt..nom.sg | proceeding | √vatt･1 a (be, proceed) |
+| pavattamānaṃ | prp | nt.nom.sg | proceeding | √vatt･1 a (be, proceed) |
 | pabbatakandarapadarasākhā | noun | fem.acc.pl | mountain gorges, crevices and creeks | |
 | \#pabbatakandarā | noun | fem. | mountains and ravines | |
 | \#\#pabbata | noun | masc. | mountains | |
@@ -373,7 +373,7 @@
 
 **Come, my dear! Be someone who wears a patchwork robe! When you are someone who wears a patchwork robe, when you are covetous, by the mere fact of wearing a patchwork robe, covetousness will be abandoned.**
 
-**bhadramukha \< bhadra + mukha (kammadhāraya - bahubbīhi)**
+**bhadramukha \< bhadra + mukha (kammadhāraya > bahubbīhi)**
 
 **saṅghāṭidhāraṇamatta \< saṅghāṭidhāraṇa + matta (kammadhāraya)**
 
@@ -413,8 +413,8 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | pītimanassa | adj | masc.dat.sg | for one who has a joyful mind | |
-| \#pīti | | | | √pī･5 nā (love, please) |
-| \#manassa | | | | √man･3 ya (think) |
+| \#pīti | noun | fem. | joy; delight | √pī･5 nā (love, please) |
+| \#manassa | noun | nt.dat.sg | mind | √man･3 ya (think) |
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
 | passambhati | verb | pr.3rd.sg | it calms down, relaxes | √sambh･1 a (be calm, confident) |
 
@@ -444,7 +444,7 @@
 
 **pītimana \< pītiyā + mana (tatiyā tappurisa \> bahubbīhi)**
 
-**passaddhakāya \< passaddha + kāya (kammadhāraya - bahubbīhi)**
+**passaddhakāya \< passaddha + kāya (kammadhāraya > bahubbīhi)**
 
 14. [AN10.176](https://find.dhamma.gift/bw/an/an10.176.html) <br>brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemī'ti
 
@@ -466,22 +466,24 @@
 | \#udake | noun | nt.loc.sg | in water | √ud･2 ṃa (be wet) |
 | \#orohakā | noun | masc.nom.pl | who descend | √ruh･1 \*a (ascend, grow) |
 | soceyyāni | noun | nt.acc.pl | purification rites | √suc×1 a (be pure, bright) |
-| paññapenti, | verb | pr.3rd.sg | they preach; proclaim | √ñā･5 \*āpe (know) |
-| tesāhaṃ | sandhi | - | their I | |
+| paññapenti | verb | pr.3rd.pl | they preach; proclaim | √ñā･5 \*āpe (know) |
+| tesāhaṃ | sandhi | | their I | |
 | \# tesaṃ | pron | masc.gen.pl | their, of them | |
 | \# ahaṃ | pron | 1st.nom.sg | I | |
 | soceyyāni | noun | nt.acc.pl | purification rites | √suc×1 a (be pure, bright) |
-| rocemī'ti | verb | pr.1st.sg | I approve of | √ruc･1 \*e (shine, like) |
+| rocemī'ti | sandhi | | I approve of | |
+| \#rocemi | verb | pr.1st.sg | I approve of | √ruc･1 \*e (shine, like) |
+| \#iti | ind | - | "" | |
 
 **Venerable sir, the Brahmans from the Western lands who carry water pitchers, who wear moss garlands, who tend the sacred fire, who bathe ritually, they proclaim purification rites. I approve of their purification rites.**
 
-**pacchābhūmaka \< pacchā + bhūmaka (kammadhāraya - bahubbīhi)**
+**pacchābhūmaka \< pacchā + bhūmaka (kammadhāraya > bahubbīhi)**
 
-**sevālamālika \< sevāla + mālika (kammadhāraya - bahubbīhi)**
+**sevālamālika \< sevāla + mālika (kammadhāraya > bahubbīhi)**
 
 **aggiparicārika \< aggiṃ + paricārika (dutiyā tappurisa - bahubbīhi)**
 
-**udakorohaka \< udake + orohaka (sattāmī tappurisa - bahubbīhi)**
+**udakorohaka \< udake + orohaka (sattamī tappurisa - bahubbīhi)**
 
 ## Class 20 Extra Examples
 
@@ -501,10 +503,10 @@
 | somanassadomanassānaṃ | noun | nt.gen.pl | satisfaction and dissatisfaction | dvanda |
 | \#somanassa [ca] | noun | nt. | mental pleasure; satisfaction of mind, joy [and] | √man･3 ya (think) |
 | \#domanassānaṃ [ca] | noun | nt.gen.pl | of distress; dissatisfaction; dejection [and] | √man･3 ya (think) |
-| atthaṅ'gamā | noun | masc.abl.sg (+gen)[^16] | from the passing away (of); with the disappearance (of) | alutta dutiyā tappurisa |
+| atthaṅ'gamā | noun | masc.abl.sg (+gen)[^18] | from the passing away (of); with the disappearance (of) | alutta dutiyā tappurisa |
 | \#atthaṃ | noun | masc.acc.sg | home; rest | |
 | \#gamā | adj | masc.abl.sg | going | √gam･1 a (go) |
-| adukkham'asukhaṃ | adj | nt.acc.sg | neither unpleasant nor pleasant | dvanda[^17] |
+| adukkham'asukhaṃ | adj | nt.acc.sg | neither unpleasant nor pleasant | dvanda[^19] |
 | \#adukkhaṃ [ca] | adj | nt.acc.sg | without suffering | kammadhāraya |
 | \#\#na | ind | neg | not | |
 | \#\#dukkhaṃ | adj | nt.acc.sg | suffering | √dukkh･1 a (be painful) |
@@ -597,11 +599,11 @@
 
 **Now on that occasion, seven dread-locked ascetics, seven Jains, seven naked ascetics, seven one-robe ascetics, and seven wandering ascetics, with long armpit hair, nails and body hair, and carrying bundles of personal belongings on a pole, passed by near to the Blessed One.**
 
-[^16]: Although -ā is a permitted termination of the instrumental in the -a declension, usually the instrumental takes the ending in -ena.
+[^18]: Although -ā is a permitted termination of the instrumental in the -a declension, usually the instrumental takes the ending in -ena.
 
-**this can be classified as an ablative of cause. Cf. Wijesekara, para. 122: "This use of the abl. brings it into contact with the inst. which as we have seen elsewhere (§67) is also employed to denote reason or cause. Pāṇinī has two parallel rules to that effect7 and Kaccāyana lays down the same rule in both cases, viz. 'hetvatthe' (291 & 277 hetu). [...] It may denote the cause proper, in which case it can be rendered by such expressions as "from", "through", "as a result of" or "in consequence of". e.g., āsavānaṃ khayā anāsavaṃ cetovimuttiṃ upasampajja A I.107; D III.102 "**
+    **this can be classified as an ablative of cause. Cf. Wijesekara, para. 122: "This use of the abl. brings it into contact with the inst. which as we have seen elsewhere (§67) is also employed to denote reason or cause. Pāṇinī has two parallel rules to that effect7 and Kaccāyana lays down the same rule in both cases, viz. 'hetvatthe' (291 & 277 hetu). [...] It may denote the cause proper, in which case it can be rendered by such expressions as "from", "through", "as a result of" or "in consequence of". e.g., āsavānaṃ khayā anāsavaṃ cetovimuttiṃ upasampajja A I.107; D III.102 "**
 
-[^17]: As bahubbīhi qual. jhānaṁ.
+[^19]: As bahubbīhi qual. jhānaṃ.
 
 4. [MN12](https://find.dhamma.gift/bw/mn/mn12.html) <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
 
@@ -613,14 +615,14 @@
 | sāriputto | noun | masc.nom.sg | Son of Sāri | |
 | sunakkhattassa | noun | masc.gen.sg (gen abs) | when Lucky Star | |
 | licchaviputtassa | noun | masc.gen.sg (gen abs) | when Son of the Licchavi's | |
-| \#licchavīnaṃ | noun | masc.gen.pl | | |
-| \#puttassa | noun | masc.gen.sg | | |
+| \#licchavīnaṃ | noun | masc.gen.pl | of the Licchavis | |
+| \#puttassa | noun | masc.gen.sg | son | |
 | vesāliyaṃ | noun | fem.loc.sg | in Vesali | |
 | parisati | noun | fem.loc.sg | in the assembly | √sad･1 a (sink, sit, settle) |
 | evaṃ | ind | adv | thus, like this | |
-| vācaṃ | noun | fem.acc.sg | talk, speach | √vac･1 a (say, speak) |
+| vācaṃ | noun | fem.acc.sg | talk, speech | √vac･1 a (say, speak) |
 | bhāsamānassa | prp | masc.gen.sg (gen abs) | when speaking | √bhās･1 a (speak) |
-| natthi | verb | pr.3rd.pl | there are not | √as･1 a (be) |
+| natthi | verb | pr.3rd.sg | there is not | √as･1 a (be) |
 | samaṇassa | noun | masc.dat.sg | for the ascetic | √sam･3 ya (exert, strive) |
 | gotamassa | noun | masc.dat.sg | for Gotama | |
 | uttarimanussadhammā | noun | masc. | superhuman attainments | |
@@ -632,7 +634,7 @@
 | \#alamariya | adj | | suitable for a noble person | catutthī tappurisa |
 | \#\#alaṃ | ind | emph (+dat) | suitable | |
 | \#\#ariyānaṃ | noun | masc.dat.pl | for noble persons | |
-| \#ñāṇadassanavisesa | noun | masc. | distinction in knowledge and vision | chaṭṭḥī tappurisa |
+| \#ñāṇadassanavisesa | noun | masc. | distinction in knowledge and vision | chaṭṭhī tappurisa |
 | \#\#ñāṇadassanassa | noun | nt.gen.sg | knowledge and vision | |
 | \#\#\#ñāṇa (+ca) | noun | nt. | knowledge | √ñā･5 nā (know) |
 | \#\#\#dassana (+ca) | noun | nt. | vision | √dis･1 a (see) |
@@ -646,11 +648,11 @@
 
 **uttarimanussadhamma \< uttari + manussadhamma (kammadhāraya)**
 
-**manussadhamma \< manussassa + dhamma (chaṭṭḥī tappurisa)**
+**manussadhamma \< manussassa + dhamma (chaṭṭhī tappurisa)**
 
 **ñāṇadassana \< ñāṇa ca dassana ca (dvanda)**
 
-**ñāṇadassanavisesa \< ñāṇadassanassa + visesa (chaṭṭḥī tappurisa)**
+**ñāṇadassanavisesa \< ñāṇadassanassa + visesa (chaṭṭhī tappurisa)**
 
 **alamariya \< alaṃ + ariya (kammadhāraya)**
 

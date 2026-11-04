@@ -117,12 +117,14 @@
 | \#eva | ind | emph | just; even | |
 | dhamme | noun | masc.loc.sg | in the thing(s) [idiom: in the present life] | √dhar･1 a (hold, carry, endure) |
 | sayaṃ | ind | adv | by himself | |
-| abhiññā | noun | fem.instr.sg | by direct knowledge | √ñā･5 nā (know) |
+| abhiññā[^1] | verb | ger | directly knowing | √ñā･5 nā (know) |
 | sacchikatvā | verb | abs | having experienced | |
 | upasampajja | verb | ger | reaching; attaining; arriving at | √pad･3 ya (go, step) |
 | viharati | verb | pr.3rd.sg | he dwells, lives | √har･1 a (live) |
 
 **He dwells having reached even in this life that unsurpassed perfection of the holy life, for the purpose of which sons of respectable families rightly go forth from home to homelessness, having experienced it for himself by direct knowledge.**
+
+[^1]: Abhiññā is analysed here as a gerund, "directly knowing". Some read it as the instrumental singular of the noun abhiññā, "by direct knowledge".
 
 3. [MN117](https://find.dhamma.gift/bw/mn/mn117.html)<br>iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
 
@@ -168,7 +170,7 @@
 | kakacena | noun | masc.instr.sg | with a saw | |
 | corā | noun | masc.nom.pl | thieves | √cur･8 \*e (steal) |
 | ocarakā | adj | masc.nom.pl | mean; rough | √car･1 a (act, behave) |
-| aṅgam'aṅgāni | noun | nt.instr.pl | limb by limb | dvanda |
+| aṅgam'aṅgāni | noun | nt.acc.pl | limb by limb | dvanda |
 | \#aṅgaṃ | noun | nt.acc.sg | limb | √añj･8 \*e (distinguish) |
 | \#aṅgāni | noun | nt.instr.pl | by limb(s) | √añj･8 \*e (distinguish) |
 | okanteyyuṃ | verb | opt.3rd.pl | should cut off | √kat･2 ṃa (cut) |
@@ -197,9 +199,9 @@
 | \#pana | ind | | and | |
 | \#aniccaṃ | adj. | nt.nom.sg | impermanent; unstable | |
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable; unpleasant; unsatisfactory | √dukkh･1 a (be painful) |
-| vipariṇāmadhammaṃ | adj | nt.acc.sg | of changing nature | kammadhāraya |
+| vipariṇāmadhammaṃ | adj | nt.nom.sg | of changing nature | kammadhāraya > bahubbīhi |
 | \#vipariṇāma | noun | masc | change; alteration | √nam･1 a (bend) |
-| \#dhammaṃ | noun | masc.acc.sg | nature | √dhar･1 a (hold, carry, endure) |
+| \#dhammaṃ | noun | masc.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
 | kallaṃ | ind | impers (+inf) | is it suitable | √kal×8 a (accomplish) |
 | nu | ind | interr | ? | |
 | taṃ | pron | nt.acc.sg | that | |
@@ -208,11 +210,11 @@
 | mama | pron | 1st.gen.sg | mine | |
 | eso'ham'asmi | sandhi | pron+pron+pr | this I am | |
 | \#eso | pron | masc.nom.sg | this | |
-| \#ahaṁ | pron | 1st.nom.sg | I | |
+| \#ahaṃ | pron | 1st.nom.sg | I | |
 | \#asmi | verb | pr.1st.sg | am | √as･1 a (be) |
 | eso | pron | masc.nom.sg | this | |
 | me | pron | 1st.gen.sg | my | |
-| attā'ti | noun | masc.nom.sg+end quote | self" | |
+| attā'ti | sandhi | masc.nom.sg+end quote | self" | |
 | \#attā | noun | masc.nom.sg | self | |
 | \#iti | ind | end quote | "" | |
 | no | ind | neg | no | |
@@ -264,10 +266,10 @@
 | \#assa | pron | masc.dat.sg | for him | |
 | pahīno | pp | masc.nom.sg | abandoned; eliminated; removed | √hā･1 a (abandon) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
-| ucchinnamūlo | adj | masc.nom.sg | cut off at the root; eradicated at the source | kammadhāraya |
+| ucchinnamūlo | adj | masc.nom.sg | cut off at the root; eradicated at the source | kammadhāraya > bahubbīhi |
 | \#ucchinna | pp | masc. | has been cut off | √chid･2 ṃa (cut, steal) |
 | \#mūlo | noun | masc.nom.sg | the root | √mūl･1 a (support) |
-| tāl'āvatthukato | adj | masc.nom.sg | uprooted like a palm tree (lit: made without a base [like] a palm tree) | kammadhāraya |
+| tāl'āvatthukato | adj | masc.nom.sg | uprooted like a palm tree (lit: made without a base [like] a palm tree) | kammadhāraya > bahubbīhi |
 | \#tāla | noun | masc | palm tree | √tal×8 \*e (support, rest on) |
 | \#avatthukato | adj | masc.nom.sg | uprooted | kammadhāraya |
 | \#\#avatthu | adj | | without base | √vas･1 a (live) |
@@ -276,7 +278,7 @@
 | \#anabhāvaṃ | noun | masc.acc.sg | obliteration; annihilation; total destruction | |
 | \#kato | pp | masc.nom.sg | made; done | √kar･7 o (do, make) |
 | āyatiṃ | ind | adv | in the future | √yat･1 a (stretch, strive) |
-| anuppādadhammo | adj | masc.nom.sg | never arising again (lit: non-arising nature) | kammadhāraya |
+| anuppādadhammo | adj | masc.nom.sg | never arising again (lit: non-arising nature) | kammadhāraya > bahubbīhi |
 | \#anuppāda | noun | masc | not arising | √pad･3 ya (go, step) |
 | \#dhammo | noun | masc.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
 
@@ -297,15 +299,15 @@
 | kathaṃsu | sandhi | adv+ind (interr) | how? | |
 | \#kathaṃ | ind | adv | how | |
 | \#su | ind | interr (emph) | ? | |
-| ñāṇ'ūpapannaṃ | noun | nt.acc.sg | possessed of knowledge; having understanding; endowed with wisdom | tatiyā tappurisa |
+| ñāṇ'ūpapannaṃ | adj | masc.acc.sg | possessed of knowledge; having understanding; endowed with wisdom | tatiyā tappurisa |
 | \#ñāṇena | noun | nt.instr.sg | by knowledge | |
-| \#upapannaṃ | pp | nt.nom.sg (+instr) | possessed (of); having; with | √pad･3 ya (go, step) |
+| \#upapannaṃ | pp | masc.acc.sg (+instr) | possessed (of); having; with | √pad･3 ya (go, step) |
 | no | ind | interr | ? | |
 | muniṃ | noun | masc.acc.sg | a sage | √mun･5 nā (think, know) |
 | vadanti | verb | pr.3rd.pl | they are called (lit: they say) | √vad･1 a (say, speak) |
 | udāhu | ind | (second part of a question) | or | |
 | ve | ind | emph | indeed; truly | |
-| jīviten'ūpapannaṃ | noun | nt.acc.sg | having lifestyle; endowed with way of life | tatiyā tappurisa |
+| jīviten'ūpapannaṃ | adj | masc.acc.sg | having lifestyle; endowed with way of life | tatiyā tappurisa |
 | \#jīvitena | noun | nt.instr.sg | by lifestyle; way of life | √jīv･1 a (live) |
 | \#upapannaṃ | pp | nt.acc.sg | possessed (of); having; with | √pad･3 ya (go, step) |
 
@@ -315,19 +317,19 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| neso | sandhi | - | this is not | |
+| neso | sandhi | | this is not | |
 | \#na | ind | neg | not | |
 | \#eso | pron | masc.nom.sg | this | |
 | dhammo | noun | masc.nom.sg | teaching | √dhar･1 a (hold, carry, endure) |
-| neso | sandhi | - | this is not | |
+| neso | sandhi | | this is not | |
 | \#na | ind | neg | not | |
 | \#eso | pron | masc.nom.sg | this | |
 | vinayo | noun | masc.nom.sg | discipline | vi+√nī･1 a (lead, carry) |
-| netaṃ | sandhi | - | this is not | |
+| netaṃ | sandhi | | this is not | |
 | \#na | ind | neg | not | |
 | \#etaṃ | pron | nt.nom.sg | this | |
-| satthusāsananti | sandhi | - | teacher's instruction | alutta chaṭṭhī tappurisa |
-| \#satthu | noun | masc.gen.sg. | teacher | satthu |
+| satthusāsananti | sandhi | | teacher's instruction | alutta chaṭṭhī tappurisa |
+| \#satthu | noun | masc.gen.sg. | of the teacher | |
 | \#sāsanaṃ | noun | nt.nom.sg | message, instruction | √sās･1 a (order, instruct) |
 | \#iti | ind | - | "" | |
 
@@ -337,7 +339,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| cattārome | sandhi | - | these four | |
+| cattārome | sandhi | | these four | |
 | \#cattāro | adj | masc.nom.pl | four | |
 | \#ime | pron | masc.nom.pl | these | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -348,7 +350,7 @@
 | ṭhitiyā | noun | fem.dat.sg | for remaining, for maintaining | √ṭhā･1 a (stand) |
 | sambhavesīnaṃ | noun | masc.gen.pl | for those seeking birth (who are about to be) | dutiyā tappurisa |
 | \#sambhavaṃ | noun | masc.acc.sg | birth | √bhū･1 a (be, become) |
-| \#esīnaṃ | noun | masc.gen.sg | of those seeking | √es･1 a (seek, search) |
+| \#esīnaṃ | noun | masc.gen.pl | of those seeking | √es･1 a (seek, search) |
 | vā | ind | - | or | |
 | anuggahāya | noun | nt.dat.sg | for helping, for assistance | √gah･6 ṇhā (grasp) |
 
@@ -359,11 +361,11 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
-| cāhaṃ | sandhi | - | but I | |
+| cāhaṃ | sandhi | | but I | |
 | \#ca | ind | - | and, but | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | āvuso | noun | masc.voc.pl | friends | |
-| appatvāva | sandhi | - | having not even reached | |
+| appatvāva | sandhi | | having not even reached | |
 | \#appatvā | verb | abs | having not reached | √ap･4 uṇā (reach, attain) |
 | \#eva | ind | - | only, just, even | |
 | lokassa | noun | masc.gen.sg | of the world | √lok･8 \*e (look) |
@@ -378,7 +380,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dveme | sandhi | - | these two | |
+| dveme | sandhi | | these two | |
 | \#dve | adj | x.nom.pl | two | |
 | \#ime | pron | masc.nom.pl | these | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -396,7 +398,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ekova | sandhi | - | just alone | |
+| ekova | sandhi | | just alone | |
 | \#eko | adj | masc.nom.sg | alone | |
 | \#eva | ind | - | just | |
 | bhagavā | noun | masc.nom.sg | the Buddha | √bhaj･1 a (divide, distribute) |
@@ -412,7 +414,7 @@
 | samaye | noun | masc.loc.sg | at time | √i･1 a (come, go) |
 | kenaci | pron | masc.instr.sg | by anyone | |
 | anubandhitabbo | ptp | masc.nom.sg | should be followed | √bandh･1 a (bind, tie) |
-| hotīti | sandhi | - | he is "" | |
+| hotīti | sandhi | | he is "" | |
 | \#hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 | \#iti | ind | - | "" | |
 
@@ -422,24 +424,24 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| sacepi | sandhi | - | even if | |
+| sacepi | sandhi | | even if | |
 | \#sace | ind | - | if | |
 | \#api | ind | - | even | |
 | dasa | adj | x.acc.pl | ten | |
 | pajjote | noun | masc.acc.pl | lamps | √jut･1 \*a (shine) |
 | dhārayissasi | verb | fut.2nd.sg | you will hold; will keep; will carry | |
 | kassapa | noun | masc.voc.sg | Kassapa | |
-| neva | sandhi | - | not even | |
+| neva | sandhi | | not even | |
 | \#na | ind | neg | not | |
 | \#eva | ind | - | even | |
-| dakkhati | verb | pr.3rd.sg | he sees | √dis･1 a (see) |
+| dakkhati | verb | fut.3rd.sg | he will see | √dis･1 a (see) |
 | rūpāni | noun | nt.acc.pl | forms | √rūp･8 \*e (form, produce) |
 | cakkhu | noun | nt.nom.sg | the faculty of seeing, sight | √cakkh･1 a (see) |
-| hissa | sandhi | - | because for him | |
+| hissa | sandhi | | because for him | |
 | \#hi | ind | - | because | |
 | \#assa | pron | masc.dat.sg | for him | |
 | na | ind | neg | not | |
-| vijjatīti | sandhi | - | it exists" | |
+| vijjatīti | sandhi | | it exists" | |
 | \#vijjati | verb | pr.3rd.sg | it exists, it is found | √vid･3 ya (be found, exist) |
 | \#iti | ind | - | "" | |
 
@@ -450,24 +452,24 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | no | ind | neg | not | |
-| cetaṃ | sandhi | - | if this | |
+| cetaṃ | sandhi | | if this | |
 | \#ce | ind | - | if | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | chando | noun | masc.nom.sg | intention, will | √chand･8 \*e (desire, please) |
-| jāyetha | verb | opt.reflx.3rd.sg | he would produce, arouse | √jan･3 ya (be born, produce) |
+| jāyetha | verb | opt.reflx.3rd.sg | it would arise; it would be born | √jan･3 ya (be born, produce) |
 | nayidaṃ | - | - | not that | |
 | \#na | ind | neg | not | |
 | \#idaṃ | pron | nt.nom.sg | this | |
 | ussaheyya | verb | opt.3rd.sg | he would strive | √sah･1 a (overcome, prevail) |
 
-**If one would not arouse intention, one would not strive.**
+**If this desire did not arise, one would not strive (lit: if this desire would not arise, one would not make this effort).**
 
 16. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yassa | pron | masc.dat.sg | for which | |
-| khvāhaṃ | sandhi | - | indeed I | |
+| khvāhaṃ | sandhi | | indeed I | |
 | \#kho | ind | - | indeed | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | atthāya | noun | masc.dat.sg | for purpose | √ar･1 a (move, attain) |
@@ -484,12 +486,12 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| maraṇadhammomhi | sandhi | - | I have a nature to die | |
+| maraṇadhammomhi | sandhi | | I have a nature to die | |
 | \#maraṇa | noun | nt | death | √mar･1 a (die) |
 | \#dhammo | noun | masc.nom.sg | nature, condition | |
 | \#amhi | verb | pr.1st.sg | I am | |
 | maraṇaṃ | noun | nt.acc.sg. | death | √mar･1 a (die) |
-| anatītoti | sandhi | - | not past"" | |
+| anatītoti | sandhi | | not past"" | |
 | \#anatīto | pp | masc.nom.sg | not past; not free from | √i･1 a (come, go) |
 | \#iti | ind | - | "" | |
 | abhiṇhaṃ | ind | adv | often, again and again | |
@@ -516,10 +518,10 @@
 | dvijaṃ | adj | masc.acc.sg | twice born (from eggs) | kammadhāraya |
 | \#dvi | adj | - | twice | |
 | \#jaṃ | adj | masc.acc.sg | born | √jan･3 ya (be born, produce) |
-| vāpi | sandhi | - | or even | |
+| vāpi | sandhi | | or even | |
 | \#vā | ind | - | or | |
 | \#api | ind | - | even | |
-| yodha | sandhi | - | whoever here | |
+| yodha | sandhi | | whoever here | |
 | \#yo | pron | masc.nom.sg | whoever | |
 | \#idha | ind | adv | here | |
 | pāṇaṃ | noun | masc.acc.sg | being | √an･1 a (breath, blow) |
@@ -527,7 +529,7 @@
 | yassa | pron | masc.gen.sg | of whoever, of whom | |
 | pāṇe | noun | masc.loc.sg | in (regard to a) living being | √an･1 a (breath, blow) |
 | dayā | noun | fem.nom.sg | pity, sympathy, compassion | √day×1 a (be kind, have pity) |
-| natthi | sandhi | - | there is not | |
+| natthi | sandhi | | there is not | |
 | \#na | ind | - | not | |
 | \#atthi | verb | pr.3rd.sg | there is | √as･1 a (be) |
 | taṃ | pron | masc.acc.sg | him | |
@@ -541,14 +543,14 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃnūnāhaṃ | sandhi | - | what if I were to | |
+| yaṃnūnāhaṃ | sandhi | | what if I were to | |
 | \#yaṃ | pron | nt.nom.sg | what | |
 | \#nūna | ind | - | shall, what if, perhaps, | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | imaṃ | pron | masc.acc.sg | this | |
 | piṇḍapātaṃ | noun | masc.acc.sg | alms-food | dutiyā tappurisa |
-| \#piṇḍaṃ | | | | |
-| \#pātaṃ | | | | |
+| \#piṇḍaṃ | noun | masc.acc.sg | lump; bit of food | √piṇḍ･8 \*e (collect) |
+| \#pātaṃ | noun | masc.acc.sg | dropping; falling | √pat･1 a (fall) |
 | bhuñjitvā | verb | abs | having eaten | √bhuj･2 ṃa (use, eat, enjoy) |
 | jighacchādubbalyaṃ | noun | nt.acc.sg | hunger and weakness | dvanda |
 | \#jighacchā | noun | fem | hunger | |
@@ -557,7 +559,7 @@
 | evaṃ | ind | adv | thus, like this, in this way | |
 | imaṃ | pron | nt.acc.sg | this | |
 | rattindivaṃ | noun | nt.acc.sg | night and day | |
-| vītināmeyyanti | sandhi | - | I could spend" | |
+| vītināmeyyanti | sandhi | | I could spend" | |
 | \#vītināmeyyaṃ | verb | opt.reflx.1st.sg | I could spend | √nam･1 \*e (bend) |
 | \#iti | ind | - | "" | |
 
@@ -567,12 +569,12 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| neva | sandhi | - | neither | |
+| neva | sandhi | | neither | |
 | \#na | ind | neg | not | |
 | \#eva | ind | - | even | |
 | kho | ind | - | indeed | |
-| tyāhaṃ | sandhi | - | I (to) you | |
-| \#te | pron | 2nd.acc.sg | you | |
+| tyāhaṃ | sandhi | | I (to) you | |
+| \#te | pron | 2nd.gen.sg | of you; your | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | brāhmaṇa | noun | masc.voc.sg | Brahmin | √brah×1 a (increase) |
 | anumodāmi | verb | pr.1st.sg | I applaud, I approve (of); am pleased (with) | √mud･1 \*a (be soft, happy) |
@@ -586,9 +588,9 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | puttā | noun | masc.nom.pl | sons | |
-| matthi | sandhi | | this are my (I have) | |
-| \#me | pron | masc.gen.sg | my | |
-| \#atthi | verb | pr.3rd.pl | there are | |
+| matthi | sandhi | | these are mine (I have) | |
+| \#me | pron | 1st.gen.sg | my | |
+| \#atthi | verb | pr.3rd.sg | there is (used with plural subject) | |
 | dhanammatthi | sandhi | | this is my wealth (I have) | |
 | \#dhanaṃ | noun | nt.nom.sg | wealth | |
 | \#me | pron | masc.gen.sg | my | |
@@ -804,25 +806,25 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| esevanto | sandhi | - | just this is the end | |
+| esevanto | sandhi | | just this is the end | |
 | \#eso | pron | masc.nom.sg | this | |
 | \#eva | ind | - | just | |
 | \#anto | noun | masc.nom.sg | the end | |
-| rāgānusayānaṃ | noun | masc.gen.pl | of the latent tendencies to passion | catutthī tappurisa |
+| rāgānusayānaṃ | noun | masc.gen.pl | of the latent tendencies to passion | chaṭṭhī tappurisa |
 | \#rāgassa | noun | masc.gen.sg | of desire, passion, lust | √raj･3 ya (desire) |
 | \#anusayānaṃ | noun | masc.gen.pl | of underlying tendency | √sī･1 a (lie, sleep) |
-| esevanto | sandhi | - | just this is the end | |
+| esevanto | sandhi | | just this is the end | |
 | \#eso | pron | masc.nom.sg | this | |
 | \#eva | ind | - | just | |
 | \#anto | noun | masc.nom.sg | end | |
-| paṭighānusayānaṃ | noun | masc.gen.pl | of an inherent tendency to aversion; persistent aversion | catutthī tappurisa |
+| paṭighānusayānaṃ | noun | masc.gen.pl | of an inherent tendency to aversion; persistent aversion | chaṭṭhī tappurisa |
 | \#paṭighassa | noun | masc.gen.sg | of anger; aversion | √ghaṭ･8 \*e (strike, kill) |
 | \#anusayānaṃ | noun | masc.gen.pl | of sleeping tendency | √sī･1 a (lie, sleep) |
-| esevanto | sandhi | - | just this is the end | |
+| esevanto | sandhi | | just this is the end | |
 | \#eso | pron | masc.nom.sg | this | |
 | \#eva | ind | - | just | |
 | \#anto | noun | masc.nom.sg | end | |
-| diṭṭhānusayānaṃ | noun | masc.gen.pl | of dormant views | catutthī tappurisa |
+| diṭṭhānusayānaṃ | noun | masc.gen.pl | of dormant views | chaṭṭhī tappurisa |
 | \#diṭṭhiyā | noun | fem.gen.sg | of view, belief, dogma | √dis･1 a (see) |
 | \#anusayānaṃ | noun | masc.gen.pl | of sleeping tendency | √sī･1 a (lie, sleep) |
 
@@ -834,22 +836,22 @@
 | --- | --- | --- | --- | --- |
 | disvāna | verb | abs | having seen | √dis･1 a (see) |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
-| etadavoca | sandhi | - | he said this | |
+| etadavoca | sandhi | | he said this | |
 | \#etad | pron | nt.acc.sg | this | |
 | \#avoca | verb | aor.3rd.sg | he said | √vac･1 a (say, speak) |
-| tatreva | sandhi | - | just there, right there | |
+| tatreva | sandhi | | just there, right there | |
 | \#tatra | ind | adv | there | |
 | \#eva | ind | - | just | |
 | muṇḍaka | noun | masc.voc.sg | baldy! | √muṇḍ･1 a (be bald, shave) |
-| tatreva | sandhi | - | just there, right there | |
+| tatreva | sandhi | | just there, right there | |
 | \#tatra | ind | adv | there | |
 | \#eva | ind | - | just | |
 | samaṇaka | noun | masc.voc.sg | low ascetic | √sam･3 ya (exert, strive) |
-| tatreva | sandhi | - | just there, right there | |
+| tatreva | sandhi | | just there, right there | |
 | \#tatra | ind | adv | there | |
 | \#eva | ind | - | just | |
 | vasalaka | noun | masc.voc.sg | outcast! | |
-| tiṭṭhāhīti | sandhi | - | stand!" | |
+| tiṭṭhāhīti | sandhi | | stand!" | |
 | \#tiṭṭhāhi | verb | imp.2nd.sg | stand! stay! remain! | √ṭhā･1 a (stand) |
 | \#iti | ind | - | "" | |
 

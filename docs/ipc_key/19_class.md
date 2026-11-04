@@ -23,8 +23,7 @@
 | | |
 | --- | --- |
 | ku + sobbha | kusobbha |
-| aṭṭhaṃ + katvā | aṭṭhiṃkatvā |
-| ku + sobbha | kusubbha |
+| aṭṭhiṃ + katvā | aṭṭhiṃkatvā |
 | adhi + matta | adhimatta |
 | abhi + attha | abbhattha |
 | adhi + sīla | adhisīla |
@@ -55,7 +54,7 @@
 | \#mahanta | adj | masc | great | |
 | \#rāja | noun | masc.voc.sg | king | √rāj･1 a (rule, shine) |
 | puriso | noun | masc.nom.sg | a person | |
-| iṇaṃ | noun | masc.acc.sg | a loan | |
+| iṇaṃ | noun | nt.acc.sg | a loan | |
 | ādāya | verb | ger | taking | √ādā･3 ya (take, seize) |
 | kamm'ante | noun | masc.acc.pl | work; business activity | chaṭṭhī tappurisa |
 | \#kammassa | noun | nt.gen.sg | of the action; deed | √kar･7 o (do, make) |
@@ -79,7 +78,7 @@
 | \#ime | pron | masc.nom.pl | these | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | dhammā | noun | masc.nom.pl | principles | √dhar･1 a (hold, carry, endure) |
-| sāraṇīyā[^2] | adj | masc.nom.pl | polite; pleasant; charming (lit: to be desired) | |
+| sāraṇīyā[^3] | adj | masc.nom.pl | polite; pleasant; charming (lit: to be desired) | |
 | piyakaraṇā | adj | masc.nom.pl | which create affection | dutiyā tappurisa |
 | \#piyaṃ | adj | masc.acc.sg | dear; affection | √pī･5 nā (love, please) |
 | \#karaṇā | adj | masc.nom.pl | causing; making | √kar･7 o (do, make) |
@@ -90,20 +89,20 @@
 | avivādāya | adj | masc.dat.sg | not quarrelling; harmony | kammadhāraya |
 | \#na | prefix | | not | |
 | \#vivādāya | noun | masc.dat.sg | dispute; quarrel | |
-| sāmaggiyā | adj | fem.dat.sg | for concord; unity; peace; harmony | |
+| sāmaggiyā | noun | fem.dat.sg | for concord; unity; peace; harmony | |
 | ekībhāvāya | noun | masc.dat.sg | for unity; harmony; lit. one state | digu (numerical compound) |
 | \#eka \> ekī | card | masc. | one | |
 | \#bhāvāya | noun | masc.dat.sg | for the state | √bhū･1 a (be, become) |
 | saṃvattanti | verb | pr.3rd.pl (+dat) | lead to; are conducive for | √vatt･1 a (be, proceed) |
 
-**There are these six principles of cordiality[^3], monks, creating affection and respect, for maintaining relationships lead to, non-dispute, concord and unity.**
+**There are these six principles of cordiality[^4], monks, creating affection and respect, for maintaining relationships lead to, non-dispute, concord and unity.**
 
 3. [AN3.24](https://find.dhamma.gift/bw/an/an3.24.html)<br>puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | puggalo | noun | masc.nom.sg | a person; an individual | |
-| āsavānaṃ | noun | nt.gen.pl | of the effluents; of the taints | √su･1 a (flow) |
+| āsavānaṃ | noun | masc.gen.pl | of the effluents; of the taints | √su･1 a (flow) |
 | khayā | noun | masc.abl.sg | from the wearing away | √khī･1 a ( exhaust) |
 | anāsavaṃ | adj | fem.acc.sg | free from the effluents; taints | kammadhāraya |
 | \#na | ind | neg | not; without | |
@@ -114,13 +113,13 @@
 | paññāvimuttiṃ | noun | fem.acc.sg | liberation by wisdom | tatiyā tappurisa |
 | \#paññāya | noun | fem.instr.sg | by wisdom | √ñā･5 nā (know) |
 | \#vimuttiṃ | noun | fem.acc.sg | liberation | √muc･2 ṃa (release, free) |
-| diṭṭh'eva dhamme | idiom | in this life; in the present | | |
+| diṭṭh'eva dhamme | idiom | | in this life; in the present | |
 | diṭṭh'eva | sandhi | | even in what is seen | |
 | \#diṭṭhe | pp | masc.loc.sg | seen | √dis･1 a (see) |
 | \#eva | ind | emph | even | |
 | dhamme | noun | masc.loc.sg | things | √dhar･1 a (hold, carry, endure) |
 | sayaṃ | ind | adv | by himself | |
-| abhiññā | verb | ger | directly knowing | √ñā･5 nā (know) |
+| abhiññā[^5] | verb | ger | directly knowing | √ñā･5 nā (know) |
 | sacchikatvā | verb | abs | having personally experienced | |
 | \#sacchi | adj | | personal; lit. with eyes | |
 | \#katvā | verb | abs | having made; having done | √kar･7 o (do, make) |
@@ -128,6 +127,8 @@
 | viharati | verb | pr.3rd.sg | he dwells | √har･1 a (live) |
 
 **With the exhaustion of the taints, an individual, having personally experienced in this life directly knowing by himself the liberation of the mind without taints, liberation by wisdom, dwells having reached [this state].**
+
+[^5]: Abhiññā is analysed here as a gerund, "directly knowing". Some read it as the instrumental singular of the noun abhiññā, "by direct knowledge".
 
 4. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html)<br>alam'eva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ
 
@@ -151,7 +152,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| sat'ādhipateyyā | adj | masc.nom.pl | ruled by mindfulness | kammadhāraya[^4] |
+| sat'ādhipateyyā | adj | masc.nom.pl | ruled by mindfulness | kammadhāraya[^6] |
 | \#sati [eva] | noun | fem. | mindfulness [just] | √sar･1 a (remember) |
 | \#ādhipateyyā | adj | masc.nom.pl | authority; influence; power | √pat×3 ya (command) |
 | sabbe | pron | masc.nom.pl | all | |
@@ -161,12 +162,12 @@
 | \#uttarā | noun | masc.nom.pl | higher; superior | |
 | sabbe | pron | masc.nom.pl | all | |
 | dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
-| vimuttisārā | adj | masc.nom.pl | centered in liberation (lit: have liberation as essence or core) | kammadhāraya[^5] |
+| vimuttisārā | adj | masc.nom.pl | centered in liberation (lit: have liberation as essence or core) | kammadhāraya[^7] |
 | \#vimutti [eva] | noun | fem.nom.pl | liberation [just] | √muc･2 ṃa (release, free) |
 | \#sārā | noun | masc.nom.pl | essence; substance | √sar･1 a (go, flow) |
 | amat'ogadhā | adj | masc.nom.pl | flowing into the deathless | sattamī tappurisa |
 | \#amatasmiṃ | noun | nt.loc.sg | into the deathless | |
-| \#ogadhā | pp | masc.nom.pl | immersed in; plunged into[^6] | ava√gāh･1 a (dive, plunge) |
+| \#ogadhā | pp | masc.nom.pl | immersed in; plunged into[^8] | ava√gāh･1 a (dive, plunge) |
 | sabbe | pron | masc.nom.pl | all | |
 | dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
 | nibbānapariyosānā | adj | masc.nom.pl | culminating in Nibbāna; (or) having Nibbāna as conclusion | sattamī tappurisa<br>or <br>kammadhāraya |
@@ -177,7 +178,7 @@
 | \#dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
 | \#ti | ind | quotation mark | "" | |
 
-**"All things are governed by mindfulness, all things have understanding as (their) highest, all things have liberation as [their] core, all things are plunged into the deathless, all things are culminating in extinguishment."[^7]**
+**"All things are governed by mindfulness, all things have understanding as (their) highest, all things have liberation as [their] core, all things are plunged into the deathless, all things are culminating in extinguishment."[^9]**
 
 6. [SN55.31](https://find.dhamma.gift/bw/sn/sn55.31.html)<br>ayaṃ paṭhamo puññ'ābhisando kusal'ābhisando sukhass'āhāro.
 
@@ -191,19 +192,19 @@
 | kusal'ābhisando | noun | masc.nom.sg | outflow of wholesome | chaṭṭhī tappurisa |
 | \#kusalassa | noun | nt.gen.sg | of good; wholesome | |
 | \#abhisando | noun | masc.nom.sg | result; outcome; outflow | √sand･1 a (flow) |
-| sukhass'āhāro | noun | masc.nom.sg | cause for comfort; support for ease | alutta catutthī tappurisa[^8] |
+| sukhass'āhāro | noun | masc.nom.sg | cause for comfort; support for ease | alutta catutthī tappurisa[^10] |
 | \#sukhassa | noun | nt.dat.sg | for ease; for comfort | √sukh･1 a (please) |
 | \#āhāro | noun | masc.nom.sg | food; nutriment | √har･1 a (take, seize) |
 
 **This is the first outflow of merit, [the first] outflow of wholesome, [which is] a cause (or nutriment) for comfort.**
 
-[^2]: Bh. Bodhi notes: "The correct derivation, however, as PED notes, is from Skt saṁran̄janı̄ya, "causing delight."
-[^3]: "These six delightful practices, monks, creating affection and respect, lead to coherence, harmony, concord and unity."
-[^4]: as bahubbīhi, qualifying dhammā
-[^5]: as bahubbīhi
-[^6]: In the cp. amatogadha, Cone (cf. s.v.) takes ogadha as a noun with the sense "(m.) plunging into, immersion;"
-[^7]: Alt.: "All things have mindfulness as (their) controlling influence; all things have understanding as (their) highest; all things have liberation as their essence; all things have (their) immersion in the deathless; all things have extinguishment as (their) conclusion."
-[^8]: Can be simply a regular sandhi of sukhassa+āhāro
+[^3]: Bh. Bodhi notes: "The correct derivation, however, as PED notes, is from Skt saṃran̄janı̄ya, "causing delight."
+[^4]: "These six delightful practices, monks, creating affection and respect, lead to coherence, harmony, concord and unity."
+[^6]: as bahubbīhi, qualifying dhammā
+[^7]: as bahubbīhi
+[^8]: In the cp. amatogadha, Cone (cf. s.v.) takes ogadha as a noun with the sense "(m.) plunging into, immersion;"
+[^9]: Alt.: "All things have mindfulness as (their) controlling influence; all things have understanding as (their) highest; all things have liberation as their essence; all things have (their) immersion in the deathless; all things have extinguishment as (their) conclusion."
+[^10]: Can be simply a regular sandhi of sukhassa+āhāro
 
 7. [MN10.3](https://find.dhamma.gift/bw/mn/mn10.html) <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
 
@@ -225,7 +226,7 @@
 | viharati | verb | pr.3rd.sg | he lives, remains, dwells | √har･1 a (live) |
 | samudayavayadhammānupassī | adj | masc.nom.sg | seeing the arising and disappearance of phenomena; (or) contemplating the nature of arising and disappearance | dutiyā tappurisa |
 | \#samudayavayadhamma | adj | masc | of the nature to appear and disappear | kammadhāraya |
-| \#\#samudayavaya | | | | dvandha |
+| \#\#samudayavaya | noun | masc. | rising and disappearing | dvanda |
 | \#\#\#samudaya (ca) | noun | masc | rising, origin | √i･1 a (come, go) |
 | \#\#\#vaya (ca) | noun | masc | decay | √i･1 a (come, go) |
 | \#\#dhamma | noun | masc | phenomena | √dhar･1 a (hold, carry, endure) |
@@ -318,7 +319,7 @@
 | tesu | pron | masc.loc.pl (loc abs) | when they | |
 | bhaññamānesu | pprp | masc.loc.pl (loc abs) | when are being spoken | √bhaṇ･1 ya (talk, speak) |
 | na | ind | neg | not | |
-| sussūsanti | verb | pr.3rd.pl | they wish to listen (desidat. verb) | √su･4 sa (hear) |
+| sussūsanti | verb | pr.3rd.pl | they wish to listen (desiderative verb) | √su･4 sa (hear) |
 
 **There are those discourses preached by the Such Become One that are deep, with profound meaning, world transcending, concerned with emptiness. When they are being preached, they do not wish to listen.**
 
@@ -334,22 +335,19 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| imasmiñca | - | - | and when this | |
+| imasmiñca | sandhi | | and when this | |
 | \#imasmiṃ | pron | nt.loc.sg (loc abs) | when this | |
 | \#ca | ind | conj | and | |
 | pana | ind | - | now | |
 | veyyākaraṇasmiṃ | noun | nt.loc.sg (loc abs) | when explanation | √kar･7 o (do, make) |
 | bhaññamāne | prp | nt.loc.sg (loc abs) | when being spoken | √bhaṇ･1 ya (talk, speak) |
-
-**√bhaṇ (to speak) + ya + māna**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | sahassī | adj | fem.nom.sg | having one thousand | |
 | lokadhātu | noun | fem.nom.sg | world system | |
 | akampitthāti | sandhi | | it shook itself" | |
 | \#akampittha | verb | aor.rflx.3rd.sg | it shook itself | √kamp･1 a (shake, tremble) |
 | \#iti | ind | - | "" | |
+
+**√bhaṇ (to speak) + ya + māna**
 
 **"And when this explanation was being spoken, the one-thousand-world system shook."**
 
@@ -363,19 +361,19 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | sīlakathāya | noun | fem.gen.sg (gen abs) | when talk about morality | chaṭṭhī tappurisa |
 | \#sīlassa | noun | nt.gen.sg | of ethical conduct; virtue | |
-| \#kathāya | noun | frm.gen.sg<br>(gen abs) | when talk; speech; conversation | |
+| \#kathāya | noun | fem.gen.sg<br>(gen abs) | when talk; speech; conversation | |
 | kacchamānāya | pprp | fem.gen.sg (gen abs) | when is being spoken | √kath･8 ya (speak, narrate) |
 | abhisajjati | verb | pr.3rd.sg | he curses | √saj･3 ya (stick, cling) |
 | kuppati | verb | pr.3rd.sg | he gets angry | √kup･3 ya (shake, be angry) |
 | byāpajjati | verb | pr.3rd.sg | he is repelled (by) | √pad･3 ya (go, step) |
 | patitthīyati | verb | pr.3rd.sg | he is resistant, obstinate | √thī･1 ya (be dense, compact) |
-| kopañca | - | - | and anger | |
+| kopañca | sandhi | | and anger | |
 | \#kopaṃ | noun | masc.acc.sg | anger | √kup･3 ya (shake, be angry) |
 | \#ca | ind | conj | and | |
-| dosañca | - | - | and ill will, hatred | |
+| dosañca | sandhi | | and ill will, hatred | |
 | \#dosaṃ | noun | masc.acc.sg | ill will, hatred | √dus･3 ya (hate, dislike) |
 | \#ca | ind | conj | and | |
-| appaccayañca | - | - | and outrage | |
+| appaccayañca | sandhi | | and outrage | |
 | \#appaccayaṃ | noun | masc.acc.sg | outrage, indignation | √i･1 a (come, go) |
 | \#ca | ind | conj | and | |
 | pātukaroti | verb | pr.3rd.sg | he displays, manifests | |
@@ -423,7 +421,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tatiyampi | - | - | just for the third time | |
+| tatiyampi | sandhi | | just for the third time | |
 | \#tatiyaṃ | ind | adv | for the third time | |
 | \#api | ind | - | just | |
 | kho | ind | - | indeed | |
@@ -437,7 +435,7 @@
 | uddhaste | pp | masc.loc.sg (loc abs) | when arisen | √dhaṃs･1 a (fall down, destroy) |
 | aruṇe | noun | masc.loc.sg (loc abs) | when dawn | |
 | nandimukhiyā | adj | fem.loc.sg (loc abs) | when happy faced; bright faced; with a cheerful expression | |
-| \#nandi | fem | | pleasure; enjoyment; relish; delight | |
+| \#nandi | noun | fem. | pleasure; enjoyment; relish; delight | |
 | \#mukhiyā | adj | fem.loc.sg (loc abs) | with a face; having a mouth | |
 | rattiyā | noun | fem.loc.sg (loc abs) | of the night | |
 | uṭṭhāyāsanā | - | - | arising from (his) seat | |
@@ -448,17 +446,17 @@
 | \#aṃsa | noun | m | shoulder | √aṃs×8 \*e (divide, distribute) |
 | uttarāsaṅgaṃ | noun | masc.acc.sg | outer robe | |
 | \#uttara | adj | - | upper | |
-| \#āsaṅga | nounn | m | robe, garment | √sañj･1 a (clasp, embrace) |
+| \#āsaṅga | noun | m | robe, garment | √sañj･1 a (clasp, embrace) |
 | karitvā | verb | abs | having made | √kar･7 o (do, make) |
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | tenañjaliṃ | - | - | there palms together | |
 | \#tena | ind | adv | there | |
-| \#añjaliṃ | noun | fem.acc.sg | palms together | √añj×1 a (pay respect) |
+| \#añjaliṃ | noun | masc.acc.sg | palms together | √añj×1 a (pay respect) |
 | paṇāmetvā | verb | abs | having stretched out | √nam･1 \*e (bend) |
 | bhagavantaṃ | noun | masc.acc.sg | to the Blessed One | √bhaj･1 a (divide, distribute) |
 | etadavoca | - | - | he said this | |
-| \#etad | noun | nt.acc.sg | this | |
+| \#etad | pron | nt.acc.sg | this | |
 | \#avoca | verb | aor.3rd.sg | he said | √vac･1 a (say, speak) |
 
 **And then for the third time, when the night had progressed, when the final watch had passed, when dawn had risen and the night had a cheerful face, Venerable Ananda rose from his seat, adjusted his robe on one shoulder, stretched out his palms together towards the Blessed One, and said this to the Blessed One**
@@ -489,7 +487,7 @@
 | gāthaṃ | noun | fem.acc.sg | verse | √gā･3 ya (sing) |
 | abhāsi | verb | aor.3rd.sg | spoke | a√bhā･1 a (shine, speak) |
 
-**[This] took place at Sāvatthi[^9]. That deity stood to one side in the presence of the Blessed One, [and] then spoke this verse.**
+**[This] took place at Sāvatthi[^11]. That deity stood to one side in the presence of the Blessed One, [and] then spoke this verse.**
 
 2. [MN30](https://find.dhamma.gift/bw/mn/mn30.html)<br>akuppā cetovimutti - etad'attham'idaṃ, brāhmaṇa, brahmacariyaṃ
 
@@ -511,7 +509,7 @@
 | \#brahma | adj | nt. | holy | √brah×1 a (increase) |
 | \#cariyaṃ | noun | nt.nom.sg | conduct; way of behaving | √car･1 a (act, behave) |
 
-**Unshakable mental liberation, brahmin, - this holy life [has] that as a goal[^10].**
+**Unshakable mental liberation, brahmin, - this holy life [has] that as a goal[^12].**
 
 3. [MN70](https://find.dhamma.gift/bw/mn/mn70.html)<br>kīva dūr'ev'ime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
 
@@ -541,21 +539,21 @@
 | ye | pron | masc.nom.pl | who | |
 | te | pron | masc.nom.pl | those | |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
-| app'icchā | adj | masc.nom.pl | with/of few wishes | kammadhāraya[^11] |
+| app'icchā | adj | masc.nom.pl | with/of few wishes | kammadhāraya[^13] |
 | \#appa | adj | fem. | few | |
 | \#icchā | noun | fem.nom.pl | wishes | √is･1 a (wish for) |
 | santuṭṭhā | pp | masc.nom.pl | satisfied; content | √tus･3 ya (be content) |
 | lajjino | adj | masc.nom.pl | conscientious | √lajj･1 a (be ashamed) |
 | kukkuccakā | adj | masc.nom.pl | principled; scrupulous | √kar･7 o (do, make) |
-| sikkhākāmā | adj | masc.nom.pl | desiring training | catutthī tappurisa[^12] |
+| sikkhākāmā | adj | masc.nom.pl | desiring training | catutthī tappurisa[^14] |
 | \#sikkhāya | noun | fem.dat.sg | for training | √sikkh･1 a (learn, train) |
 | \#kāmā | adj | masc.nom.pl | desiring | √kam･8 \*e (desire) |
 | te | pron | masc.nom.pl | they | |
-| ujjhāyanti | verb | pr.3rd.sg | find fault | √jhā･3 ya (think, meditate) |
-| khiyyanti | verb | pr.3rd.sg | criticise; bring down | √khī･1 a ( exhaust) |
-| vipācenti | verb | pr.3rd.sg <br>caus | circulate; discuss widely | √vac･1 \*e (say, speak) |
+| ujjhāyanti | verb | pr.3rd.pl | find fault | √jhā･3 ya (think, meditate) |
+| khiyyanti | verb | pr.3rd.pl | criticise; bring down | √khī･1 a ( exhaust) |
+| vipācenti | verb | pr.3rd.pl <br>caus | circulate; discuss widely | √vac･1 \*e (say, speak) |
 
-**Those monks who are of few wishes, content, conscientious, scrupulous, [and] desiring training, find fault, criticise and discuss widely [about Venerable Dhaniya]. (source text uses past tense)[^13]**
+**Those monks who are of few wishes, content, conscientious, scrupulous, [and] desiring training, find fault, criticise and discuss widely [about Venerable Dhaniya]. (source text uses past tense)[^15]**
 
 5. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.
 
@@ -580,7 +578,7 @@
 | \#na | ind | neg | not | |
 | \#vicāraṃ | noun | masc.acc.sg | examining | √car･1 \*e (move, walk) |
 | samādhijaṃ | adj | masc.acc.sg | produced by stability of mind | pañcamī tappurisa |
-| \#samādhinā | noun | masc.abl.sg | from a collected mind | √dhā･1 \*e (place, support) |
+| \#samādhito | noun | masc.abl.sg | from a collected mind | √dhā･1 \*e (place, support) |
 | \#jaṃ | adj | masc.acc.sg (+abl) | born | √jan･3 ya (be born, produce) |
 | pītisukhaṃ | noun | nt.acc.sg | joy and happiness | dvanda |
 | \#pīti [ca] | noun | fem.acc.sg | joy; delight [and] | √pī･5 nā (love, please) |
@@ -592,20 +590,20 @@
 
 **With the settling of thoughts and examinations, [by gaining] settled assurance internally and singleness of mind, and having entered the second state of deep meditative calm, [which is ] free from thinking, free from examining, [and with] joy and happiness born from being collected, he dwells.**
 
-[^9]: Alt.: "The preamble is (that of) Sāvatthi."
-[^10]: "for the sake of this is this holy life"
-[^11]: Bahubbīhi based on kammadhāraya: "Whose wishes are few, who have few wishes." Te bhikkhū yesaṁ icchā appā hontīti bhikkhū appicchā.
+[^11]: Alt.: "The preamble is (that of) Sāvatthi."
+[^12]: "for the sake of this is this holy life"
+[^13]: Bahubbīhi based on kammadhāraya: "Whose wishes are few, who have few wishes." Te bhikkhū yesaṃ icchā appā hontīti bhikkhū appicchā.
 
-**Bh. Bodhi puts it nicely: "The bahubbīhi is not a different kind of compound but a compound of any of the preceding types used as an adjective to describe a noun external to itself."**
+    **Bh. Bodhi puts it nicely: "The bahubbīhi is not a different kind of compound but a compound of any of the preceding types used as an adjective to describe a noun external to itself."**
 
-[^12]: bahubbīhi
-[^13]: The historical present can be translated in the past tense.
+[^14]: bahubbīhi
+[^15]: The historical present can be translated in the past tense.
 
 6. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃ | noun | nt.acc.sg | whatever | |
+| yaṃ | pron | nt.acc.sg | whatever | |
 | papañceti | verb | pr.3rd.sg | he proliferates about, thinks a lot | √pañc･8 \*e (expand, spread) |
 | tatonidānaṃ | ind | adv | on account of that, because of that | |
 | \#tato | pron | masc.abl.sg | from that | |
@@ -613,8 +611,8 @@
 | purisaṃ | noun | masc.acc.sg | a man | |
 | papañcasaññāsaṅkhā | noun | fem.nom.pl | proliferation of opinions, concepts and constructs; (or) classification of diverse perceptions | |
 | \#papañca | noun | masc | proliferation | √pañc･8 \*e (expand, spread) |
-| \#saññā | noun | ffem | perceptions | √ñā･5 nā (know) |
-| \#saṅkhā | noun | ffem | definition; classification; concept; category | √khā･1 a (tell, announce) |
+| \#saññā | noun | fem | perceptions | √ñā･5 nā (know) |
+| \#saṅkhā | noun | fem | definition; classification; concept; category | √khā･1 a (tell, announce) |
 | samudācaranti | verb | pr.3rd.pl | they overwhelm, assail | √car･1 a (act, behave) |
 | atītānāgatapaccuppannesu | adj | nt.loc.pl | among past future and present | |
 | \#atīta | adj | - | past | √i･1 a (come, go) |
@@ -625,9 +623,9 @@
 | \#viññeyya | ptp | - | perceivable, could be perceived | √ñā･5 nā (know) |
 | rūpesu | noun | nt.loc.pl | among forms | √rūp･8 \*e (form, produce) |
 
-**Whatever he proliferates about, because of that proliferations, perceptions, and concepts regarding forms perceivable by the eye in the past, future, and present overwhelm a man**
+**Whatever he proliferates about, because of that, proliferations, perceptions and concepts regarding forms perceivable by the eye in the past, future, and present overwhelm a man**
 
-**tatonidānaṃ \< tato + nidānaṃ (avyāyibhāva)**
+**tatonidānaṃ \< tato + nidānaṃ (abyayībhāva)**
 
 **saññāsaṅkhā \< saññā ca saṅkhā ca (dvanda)**
 

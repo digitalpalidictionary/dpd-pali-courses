@@ -25,7 +25,7 @@
 | **ajāyamāno** | prp | masc.nom.sg | not being born; not coming into being | na + √jan + ya + māna |
 | kiṃ | ind | adv | how? | |
 | **jīyissati** | verb | fut.3rd.sg | will get old; will age | √jī + ya + ti |
-| **ajīyamāno** | prp | masc.nomm.sg | not getting old; not ageing | na + √jī + ya + māna |
+| **ajīyamāno** | prp | masc.nom.sg | not getting old; not ageing | na + √jī + ya + māna |
 | kiṃ | ind | adv | how? | |
 | **mīyissati** | verb | fut.pass.3rd.sg | will be killed; will die | √mar + īya + ti |
 | **amīyamāno** | prp | masc.nom.sg | not dying; not being killed | na + √mar + īya + māna |
@@ -46,7 +46,7 @@
 | \#upamaṃ | adj | masc.acc.sg | like; as | |
 | kāyam'imaṃ | sandhi | | this body | |
 | \#kāyaṃ | noun | masc.acc.sg. | body | |
-| \#imaṃ | pron. | masc.acc.sg | this[^28] (here) | |
+| \#imaṃ | pron. | masc.acc.sg | this[^31] (here) | |
 | viditvā | verb | abs | having perceived; having understood | √vid + itvā |
 | nagar'ūpamaṃ | adj | nt.acc.sg | like a town; fortress | kammadhāraya |
 | \#nagara | noun | nt. | a town; a fortress | |
@@ -55,15 +55,15 @@
 | \#cittaṃ | noun | nt.acc.sg. | mind | |
 | \#idaṃ | pron | nt.acc.sg | this | |
 | **ṭhapetvā** | verb | abs caus | having set up; having strengthened | √ṭhā + \*āpe + tvā |
-| **yodhetha** | verb | opt.reflx.3rd.sg | one would/should fight (against) by oneself; engage in battle (with) by himself | √yudh + \*e + ti |
+| **yodhetha** | verb | opt.reflx.3rd.sg | one would/should fight (against) by oneself; engage in battle (with) by himself | √yudh + \*e + etha |
 | māraṃ | noun | masc.acc.sg | death | |
-| paññ'āvudhena | noun | nt.instr.sg | weapon of wisdom; sword of understanding | chaṭṭhī tappurisa[^29] |
+| paññ'āvudhena | noun | nt.instr.sg | weapon of wisdom; sword of understanding | chaṭṭhī tappurisa[^32] |
 | \#paññāya | noun | fem.gen.sg | of understanding | |
 | \#āvudhena | noun | nt.instr.sg | with the weapon | |
 | jitañ'ca | sandhi | | and conquest; victory | |
 | \#jitaṃ | pp (as noun) | nt.acc.sg | victory (lit. what has been won) | |
 | \#ca | ind | conj | and | |
-| rakkhe | verb | opt.3nd.sg | one should protect; guard | |
+| rakkhe | verb | opt.3rd.sg | one should protect; guard | |
 | anivesano | adj | masc.nom.sg | without attaching; without clinging (lit. homeless). | na + ni + √vis + \*ana |
 | siyā | verb | opt.3rd.sg (+nom) | one could be; one should be | |
 
@@ -103,7 +103,7 @@
 | anaññātaññassāmī't'indriyaṃ | sandhi | nt.nom.sg | the faculty that senses "I will know the unknown" | kammadhāraya |
 | \#anaññātaññassāmīti | sandhi | | "I will know the unknown" | |
 | \#\#anaññāta | pp | nt. | the unknown | |
-| \#\#ñassāmi | verb | fut.1st.sg | I will know | √ñā + ssa + ti |
+| \#\#ñassāmi | verb | fut.1st.sg | I will know | √ñā + ssa + ssa + mi |
 | \#\#iti | ind | quotation mark | "" | |
 | \#indriyaṃ | noun | nt.nom.sg | faculty | |
 | aññ'indriyaṃ | noun | nt.nom.sg | faculty of enlightenment | kammadhāraya |
@@ -124,7 +124,7 @@
 | **santadassāvī** | adj | masc.nom.sg | who sees peace (in) +loc | dutiyā tappurisa |
 | \#santaṃ | pp (as noun) | masc.nom.sg | peaceful (peacefulness) | |
 | \#dassāvī | app (as adj) | masc.nom.sg | who has seen | √dis + a + āvī |
-| bhavissāmi | verb | fut.1st.sg | I will be | √bhū + a + ti |
+| bhavissāmi | verb | fut.1st.sg | I will be | √bhū + a + issa + mi |
 | anusayā | noun | masc.nom.pl | underlying tendencies | |
 | ca | ind | conj | and | |
 | me | pron | 1st.gen.sg | my | |
@@ -160,16 +160,16 @@
 | vā | ind | conj | or | |
 | bhojanīyaṃ | ptp | nt.acc.sg | cooked food (lit: to be savored) | √bhuj + anīya |
 | vā | ind | conj | or | |
-| khādeyya | verb | opt.3rd.sg | should chew | √khād + a + ti |
+| khādeyya | verb | opt.3rd.sg | should chew | √khād + a + eyya |
 | vā | ind | conj | or | |
-| bhuñjeyya | verb | opt.3rd.sg | should consume | √bhuj + ṃa + ti |
+| bhuñjeyya | verb | opt.3rd.sg | should consume | √bhuj + ṃa + eyya |
 | vā | ind | conj | or | |
 | pācittiyaṃ | noun | nt.nom.sg | offence requiring confession; [this is a case] involving confession. | |
 
 **If any monk who has eaten (a meal), who has been invited (to take more and refused), should chew uncooked food or consume food to be savored, which is not left over, [this is a case] involving confession.**
 
-[^28]: I did not note this earlier, but it might be useful to take the deixis of the respective pronouns into account: ima designates what is nearest, accantasamipa, either physically or in thought, "this here". Cf. Collins, p. 63.
-[^29]: alt. kammadhāraya: paññā eva āvudhaṃ. "The weapon that is understanding".
+[^31]: I did not note this earlier, but it might be useful to take the deixis of the respective pronouns into account: ima designates what is nearest, accantasamipa, either physically or in thought, "this here". Cf. Collins, p. 63.
+[^32]: alt. kammadhāraya: paññā eva āvudhaṃ. "The weapon that is understanding".
 
 7. [SN4.19](https://find.dhamma.gift/bw/sn/sn4.19.html) <br>api, samaṇa, balībadde addasā'ti?
 
@@ -178,9 +178,9 @@
 | api | ind | interrog | did? perhaps? maybe? | |
 | samaṇa | noun | masc.voc.sg | ascetic | |
 | balībadde | noun | masc.acc.pl | oxen | |
-| addasā | verb | imperf.3rd.sg | he saw | √dis + a \> disa \> dasa (irreg) |
+| addasā | verb | imperf.2nd.sg | you saw | √dis + a \> disa \> dasa (irreg) |
 
-**Perhaps, ascetic, he saw oxen?**
+**Ascetic, did you perhaps see [my] oxen?**
 
 8. [MN31](https://find.dhamma.gift/bw/mn/mn31.html) kiṃ nu kho mayaṃ āyasmato anuruddhassa evam'ārocimha, imāsañ'ca imāsañ'ca vihārasamāpattīnaṃ mayaṃ lābhino'ti
 
@@ -223,11 +223,11 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kiṃsu | pron | nt.nom.sg | what? | |
+| kiṃsu | pron | nt.acc.sg | what? | |
 | chetvā | verb | abs | having cut off, severed | √chid \> ched + \*tvā |
 | sukhaṃ | ind | adv | comfortably | |
 | seti | verb | pr.3rd.sg | he sleeps | √sī + a \> se |
-| kiṃsu | pron | nt.nom.sg | what? | |
+| kiṃsu | pron | nt.acc.sg | what? | |
 | chetvā | verb | abs | having cut off, severed | √chid \> ched + \*tvā |
 | na | ind | neg | not | |
 | socati | verb | pr.3rd.sg | he mourns | soca + ti |
@@ -236,10 +236,10 @@
 | \#ssu | ind | | certainly; definitely | |
 | ekadhammassa | noun | masc.gen.sg | of one thing | digu |
 | vadhaṃ | noun | masc.acc.sg | slaughter, murder, execution | |
-| rocesi | verb | caus.pr.2nd.sg | you consent to | roce + ti |
-| gotamā'ti | noun | masc.voc.sg | "...Gotama" | |
-| \#gotama | | | | |
-| \#iti | | | | |
+| rocesi | verb | caus.pr.2nd.sg | you consent to | roce + si |
+| gotamā'ti | sandhi | masc.voc.sg | "...Gotama" | |
+| \#gotama | noun | masc.voc.sg | Gotama | |
+| \#iti | ind | - | "" | |
 
 **Having severed what, he sleeps comfortably? Having severed what, he does not mourn? The slaughter of which one thing, O Gotama, do you consent to?**
 
@@ -255,7 +255,7 @@
 | rattiṃ | ind | adv | by night | |
 | tathā | ind | adv | so | |
 | divā | ind | adv | by day | |
-| abhibhuyya | verb | abs | overcoming | abhi + √bhū + ya |
+| abhibhuyya | verb | ger | overcoming | abhi + √bhū + ya |
 | disā | noun | fem.acc.pl | directions | |
 | sabbā | adj | fem.acc.pl | all | |
 | appamāṇasamādhinā | noun | masc.instr.sg | with boundless mental stability | kammadhāraya |
@@ -286,7 +286,7 @@
 | karoti | verb | pr.3rd.sg | he does | karo + ti |
 | tathā | ind | adv | like that | |
 | tathā | ind | adv | like that | |
-| taṃ | noun | nt.acc.sg | that | |
+| taṃ | pron | nt.acc.sg | that | |
 | paṭisaṃvediyatī'ti | verb | pr.3rd.sg | he experiences" | √vid･8 \*aya (know, sense, feel) |
 
 **In whatever way a person performs a deed, in exactly that way he experiences that (result).**
@@ -300,7 +300,7 @@
 | na | ind | neg | not | |
 | hoti | verb | pr.3rd.sg | there is | ho + ti |
 | okāso | noun | masc.nom.sg | opportunity, chance, lit. space | |
-| na | ind | not | not | |
+| na | ind | neg | not | |
 | paññāyati | verb | pass.pr.3rd.sg | is evident, is clear | pa + ñāya + ti |
 | sammā | ind | - | complete, perfect | |
 | dukkhassa | noun | nt.gen.sg | of suffering | |
@@ -316,7 +316,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | |
 | ādittacelo<br>\#āditta<br>\#celo | noun<br>pp<br>noun | masc.nom.sg | whose clothes are on fire <br>on fire<br>clothes | bahubbīhi |
 | vā | ind | conj | or | |
-| ādittasīso<br>\#āditta<br>\#sīso | noun<br>pp<br>noun | masc.nom.sg | who's head on fire<br>on fire<br>head | bahubbīhi |
+| ādittasīso<br>\#āditta<br>\#sīso | noun<br>pp<br>noun | masc.nom.sg | whose head [is] on fire<br>on fire<br>head | bahubbīhi |
 | vā | ind | conj | or | |
 
 **Imagine if, monks, someone's clothes or head was on fire.**
@@ -336,14 +336,14 @@
 | vāyāmañ'ca | noun | masc.acc.sg | and effort, striving | |
 | ussāhañ'ca | noun | masc.acc.sg | and energy, effort | |
 | ussoḷhiñ'ca | noun | fem.acc.sg | and energy, effort | |
-| appaṭivāniñ'ca | noun | masc.acc.sg | and tireless determination | na \> a + pati + √vā + na + ī |
+| appaṭivāniñ'ca | noun | fem.acc.sg | and tireless determination | na \> a + pati + √vā + na + ī |
 | satiñ'ca | noun | fem.acc.sg | and mindfulness | |
 | sampajaññañ'ca | noun | nt.acc.sg | and clear attention | saṃ + pa + jānā + ya |
 | kareyya | verb | opt.3rd.sg | he would make | √kar + eyya |
 
 **He would (set) extreme intention and (make) effort and energy, endurance and tireless determination and (have) mindfulness and clear attention for putting out that exact clothes or head.**
 
-14. [SN46.52](https://find.dhamma.gift/bw/sn/sn46.52.html)/53 <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ n'eva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā'ti.
+14. [SN46.52](https://find.dhamma.gift/bw/sn/sn46.52.html)/[53](https://find.dhamma.gift/bw/sn/sn46.53.html) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ n'eva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -355,8 +355,8 @@
 | paribbājakānaṃ | noun | masc.gen.pl | of wandering ascetics | pari + √vaj \> baj \> bāj + \*aka |
 | bhāsitaṃ | pp (as noun) | nt.acc.sg | speech, statement | |
 | n'eva | ind | neg | neither | |
-| abhinandiṃsu | verb | aor.3rd.pl | they were delighted | abhi + √nand + i |
-| nappaṭikkosiṃsu | verb | aor.3rd.pl | nor rejected | a + pati + kosa + i |
+| abhinandiṃsu | verb | aor.3rd.pl | they were delighted | abhi + √nand + iṃsu |
+| nappaṭikkosiṃsu | verb | aor.3rd.pl | nor rejected | a + pati + kosa + iṃsu |
 
 **Then those monks neither approved of nor rejected the statement of those wandering ascetics of another religion.**
 
@@ -364,7 +364,9 @@
 | --- | --- | --- | --- | --- |
 | anabhinanditvā | verb | abs | having not approved of | na \> an + abhi + √nand + itvā |
 | appaṭikkositvā | verb | abs | having not rejected | na \> a + pati + kosa + itvā |
-| uṭṭhāyāsanā | verb | ger | having risen from the seat | |
+| uṭṭhāyāsanā | sandhi | | having risen from the seat | |
+| \#uṭṭhāya | ind | abs | having arisen | √ṭhā･1 a (stand) |
+| \#āsanā | noun | nt.abl.sg | from the seat | √ās･1 a (sit) |
 | pakkamiṃsu | verb | aor.3rd.pl | they left | pa + √kam + iṃsu |
 
 **Having neither approved of nor rejected, they got up from their seats and left.**
@@ -377,8 +379,8 @@
 | bhāsitassa | pp (as noun) | nt.gen.sg | of statement | |
 | atthaṃ | noun | masc.acc.sg | meaning | |
 | ājānissāmā'ti | verb | fut.1st.pl | we will learn, understand | ā + jānā + ti |
-| \#ājānissāma | | | | |
-| \#iti | | | | |
+| \#ājānissāma | verb | fut.1st.pl | we will learn; understand | |
+| \#iti | ind | - | "" | |
 
 **"We will learn the meaning of this statement in the presence of the Blessed One," (they said).**
 
@@ -399,8 +401,8 @@
 | --- | --- | --- | --- | --- |
 | paṭisaṅkhā | verb | abs | reflecting, considering | |
 | yoniso | ind | adv (fem.abl.sg.) | deeply, lit. to the source | |
-| āhāraṃ | noun | masc.acc.sg | food | ā + √har \> hāgrammarr + \*a |
-| āhāreyyāsi | verb | opt.2nd.sgg | you should eat | ā + hāre + ti |
+| āhāraṃ | noun | masc.acc.sg | food | ā + √har \> hār + \*a |
+| āhāreyyāsi | verb | opt.2nd.sg | you should eat | ā + hāre + eyyāsi |
 | n'eva | ind | neg | neither | |
 | davāya | noun | masc.dat.sg | for fun, sport, play | |
 | na | ind | neg | not, nor | |
@@ -420,7 +422,7 @@
 | ṭhitiyā | noun | fem.dat.sg | for continuance | |
 | yāpanāya | noun | nt.dat.sg | for nourishment | |
 | vihiṃsūparatiyā | noun | fem.dat.sg | for avoiding harm | chaṭṭhī tappurisa |
-| brahmacariyānuggahāya | noun | nt.dat.sg | for supporting the spiritual path | chaṭṭhi tappurisa |
+| brahmacariyānuggahāya | noun | nt.dat.sg | for supporting the spiritual path | chaṭṭhī tappurisa |
 
 **Only for as much the continuance of this body and for nourishment of this body, and for avoiding harm to this body, and for supporting the spiritual life.**
 
@@ -433,7 +435,7 @@
 | navañ'ca | adj | fem.acc.sg | and new | |
 | vedanaṃ | noun | fem.acc.sg | feeling | |
 | na | ind | neg | not | |
-| uppādessāmi | verb | caus.fut.1rd.sg | I will cause to arise | ud + pāde + ti |
+| uppādessāmi | verb | caus.fut.1st.sg | I will cause to arise | ud + pāde + ssa + mi |
 
 **Thus I will destroy the old feelings (of hunger) and not cause a new feeling (of fullness) to arise**
 
@@ -441,8 +443,8 @@
 | --- | --- | --- | --- | --- |
 | yātrā | noun | fem.nom.sg | way; means; support | |
 | ca | ind | conj | and | |
-| no | pron | masc.dat.pl | for us | |
-| bhavissati | verb | fut.3rd.pl | it will be | √bhū + a \> bhava |
+| no | pron | 1st.dat.pl | for us | |
+| bhavissati | verb | fut.3rd.sg | it will be | √bhū + a \> bhava |
 | anavajjatā | noun | fem.nom.sg | blamelessness, faultlessness | na \> an + ava + √vad + ya + tā |
 | ca | ind | conj | and | |
 | phāsuvihāro | noun | masc.nom.sg | comfortable existence; easy living; living in comfort | |
@@ -468,14 +470,14 @@
 | \#api | ind | | even | |
 | gaṇheyya | verb | opt.3rd.sg | he would grab hold (of); seize | |
 | te | pron | masc.nom .pl | they | |
-| **palujjeyyuṃ** | verb | opt.3rd.pl | would break off | pa + √luj + ya + ti |
+| **palujjeyyuṃ** | verb | opt.3rd.pl | would break off | pa + √luj + ya + eyyuṃ |
 | tatonidānaṃ | sandhi | | because of that; for that reason (lit: from that reason) | |
 | \#tato | ind | adv | from that | |
 | \#nidānaṃ | noun | nt.acc.sg | reason; source | |
 | anayabyasanaṃ | noun | nt.nom.sg | misfortune and disaster | dvanda |
 | \#anaya (+ca) | noun | masc. | trouble; tragedy; misfortune; calamity | |
 | \#byasanaṃ<br>(+ca) | noun | nt.acc.sg | disaster | |
-| āpajjeyya | verb | opt.3rd.sg | would experience; gets; lit. come to[^30] | ā + √pad + ya + ti |
+| āpajjeyya | verb | opt.3rd.sg | would experience; gets; lit. come to[^33] | ā + √pad + ya + eyya |
 
 **A person being carried along by its (the rivers) current, even if he grabbed hold of the grasses (growing along the bank), they would break off and because of that he would experience misfortune and disaster.**
 
@@ -492,7 +494,7 @@
 | \#māyaṃ | noun | fem.acc.sg | magic; illusion | |
 | \#kāro | noun | masc.nom.sg | maker | |
 | vā | ind | conj | or | |
-| māyākār'antevāsī | noun | masc.nom.sg | magician's apprentice | chaṭṭhi tappurisa |
+| māyākār'antevāsī | noun | masc.nom.sg | magician's apprentice | chaṭṭhī tappurisa |
 | \#māyākārassa | noun | masc.gen.sg. | of a magician | dutiyā tappurisa |
 | \#\#māyaṃ | noun | fem.acc.sg | magic; illusion | |
 | \#\#kāro | noun | masc.nom.sg | maker | |
@@ -504,7 +506,7 @@
 | \#\#mahanta | adj | | great; grand | |
 | \#\#pathā | noun | masc.nom.pl | roads | |
 | māyaṃ | noun | fem.acc.sg | illusion | |
-| **vidaṃseyya** | verb | opt.caus. 3rd.sg | would exhibit; should display | vi + √dis + \*e + ti |
+| **vidaṃseyya** | verb | opt.caus. 3rd.sg | would exhibit; should display | vi + √dis + \*e + eyya |
 
 **Just as a magician or a magician's apprentice would display an illusion at a crossroads (i.e. at the meeting of four great roads).**
 
@@ -535,7 +537,7 @@
 | kāraṇaṃ | noun | nt.acc.sg | a task | |
 | **kāriyamānassa** | prp pass | masc.gen.sg (gen abs) | being made to do | |
 
-**While[^31] [the colt] is being made to do a task with the bit, there are just twistings, tricks, and vacillations in whichever way, [because] it is being made to do that task not previously done before.**
+**While[^34] [the colt] is being made to do a task with the bit, there are just twistings, tricks, and vacillations in whichever way, [because] it is being made to do that task not previously done before.**
 
 4. [SN35.245](https://find.dhamma.gift/bw/sn/sn35.245.html) <br>seyyathāpi, bhikkhu, purisassa kiṃsuko adiṭṭhapubbo assa. so yen'aññataro puriso kiṃsukassa **dassāvī** ten'upasaṅkameyya.
 
@@ -546,7 +548,7 @@
 | \#yathā | ind | adv | as | |
 | \#api | ind | | just | |
 | bhikkhu | noun | masc.voc.sg | monk | |
-| purisassa | noun | masc.dat[^32].sg | to a person (by a person) | |
+| purisassa | noun | masc.gen[^35].sg | to a person (by a person) | |
 | kiṃsuko | noun | masc.nom.sg | parrot tree | |
 | adiṭṭhapubbo | adj | masc.nom.sg (+dat) | never seen before | kammadhāraya |
 | \#adiṭṭha | pp | masc. | not seen | na + √dis + ta |
@@ -561,15 +563,15 @@
 | **dassāvī** | adj | masc.nom.sg (+gen) | seeing; knowing (lit: who has seen) | √dis + a + **āvī** |
 | tenupasaṅkameyya | sandhi | | would go there; would approach that place | |
 | \#tena | ind | adv | there | |
-| \#upasaṅkameyya | verb | opt.3rd.sg | would approach | upa + saṃ + √kam + a + ti |
+| \#upasaṅkameyya | verb | opt.3rd.sg | would approach | upa + saṃ + √kam + a + eyya |
 
 **Suppose there were (lit: would be) a man who had never seen a parrot tree before (lit: by whom a parrot tree had not been seen before); he would approach a certain person who has seen a parrot tree….**
 
-[^30]: "comes to, reaches; enters upon, falls into, is reduced to (a state or condition), is changed into; gets into trouble" Cf. Cone s.v.
-[^31]: The genetive absolute often has an adversative sense, and can be translated as "although".
-[^32]: This is a subjective genitive.
+[^33]: "comes to, reaches; enters upon, falls into, is reduced to (a state or condition), is changed into; gets into trouble" Cf. Cone s.v.
+[^34]: The genitive absolute often has an adversative sense, and can be translated as "although".
+[^35]: This is a subjective genitive.
 
-**Cf. Syntax, p. 231: "The subjective Gen. can also be regarded as an extension of the possessive gen. (cp. KVG §559) since the verbal noun qualified represents some action of the person denoted by the noun in the gen. (vide §140). But more particularly it denotes agency as shown by the following examples where the action is expressed by a p.p.p. in -ta: imassa ca bhikkhuno duggahītaṃ D II.124 "also a misconception of this monk"; paresaṃ subhāsitaṃ D I.3 "good-speech (lit. well-spoken) of others". We may observe from these examples that the gen. in such instances is interchangeable with the inst. of agent (§88)."**
+    **Cf. Syntax, p. 231: "The subjective Gen. can also be regarded as an extension of the possessive gen. (cp. KVG §559) since the verbal noun qualified represents some action of the person denoted by the noun in the gen. (vide §140). But more particularly it denotes agency as shown by the following examples where the action is expressed by a p.p.p. in -ta: imassa ca bhikkhuno duggahītaṃ D II.124 "also a misconception of this monk"; paresaṃ subhāsitaṃ D I.3 "good-speech (lit. well-spoken) of others". We may observe from these examples that the gen. in such instances is interchangeable with the inst. of agent (§88)."**
 
 5. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>ko c'āhāro ayonisomanasikārassa. assaddhiyan'ti'ssa vacanīyaṃ. assaddhiyam'p'āhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko c'āhāro assaddhiyassa. asaddhammassavanan'ti'ssa vacanīyaṃ
 
@@ -580,25 +582,25 @@
 | ayonisomanasikārassa | noun | masc.gen.sg | of improper attention | kammadhāraya |
 | \#ayoniso | ind | adv | improper | |
 | \#manasikārassa | noun | masc.gen.sg | of attention | alutta tappurisa |
-| assaddhiyan'ti'ssa | - | - | disbelief, lack of confidence" | |
+| assaddhiyan'ti'ssa | sandhi | | disbelief, lack of confidence" | |
 | \#assaddhiyaṃ | noun | nt.nom.sg | disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
 | \#ti | ind | - | "" | |
 | \#assa | pron | masc.dat/gen.sg | to this, of this | |
 | vacanīyaṃ | ptp | nt.nom.sg | it should be said | √vac + anīya |
-| assaddhiyampāhaṃ | - | - | disbelief too I | |
+| assaddhiyampāhaṃ | sandhi | | disbelief too I | |
 | \#assaddhiyaṃ | noun | nt.nom.sg | disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
 | \#api | ind | - | also, too | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhikkhave | noun | masc.voc.pl | monks | |
 | sāhāraṃ | adj | nt.nom.sg | with fuel, having sustenance | |
-| vadāmi | verb | pr.1st.sg | I say | vada + ti |
+| vadāmi | verb | pr.1st.sg | I say | vada + mi |
 | no | ind | neg | not | |
 | anāhāraṃ | adj | nt.nom.sg | without fuel | na + ā + √har + \*a |
 | ko | pron | masc.nom.sg | what? | |
 | cāhāro | noun | masc.nom.sg | and food, fuel | |
-| assaddhiyassa | noun | masc.gen.sg | of disbelief, lack of confidence | a \> a + sad + √dhā + ā + iya |
-| asaddhammassavanantissa | - | - | "not hearing the pure teaching" | |
-| \#na | prfx | neg | not | |
+| assaddhiyassa | noun | masc.gen.sg | of disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
+| asaddhammassavanantissa | sandhi | | "not hearing the pure teaching" | |
+| \#na | prefix | neg | not | |
 | \#saddhamma | noun | masc | true, good teaching | sat + dhamma |
 | \#savanaṃ | noun | nt.nom.sg. | hearing | |
 | \#ti | ind | - | "" | |

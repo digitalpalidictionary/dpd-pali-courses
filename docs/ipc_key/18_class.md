@@ -109,7 +109,7 @@
 | \#piya | adj | nt. | pleasing | √pī･5 nā (love, please) |
 | \#rūpe | noun | nt.loc.sg | in form | √rūp･8 \*e (form, produce) |
 | rūpe | noun | nt.loc.sg | in form | √rūp･8 \*e (form, produce) |
-| n'ādhimuccati | verb | pr.3rd.sg | is not intent (on); is not drawn (to) | |
+| n'ādhimuccati | sandhi | pr.3rd.sg | is not intent (on); is not drawn (to) | |
 | \#na | ind | neg | not | |
 | \#adhimuccati | verb | pr.3rd.sg (+loc) | is intent (on); is drawn (to) | √muc･2 ya (release, free) |
 | appiyarūpe | adj | nt.loc.sg | unpleasant; disagreeable | |
@@ -125,7 +125,7 @@
 | \#kāyassati | noun | fem.nom.sg | mindfulness of the body | |
 | \#\#kāya | noun | masc. | the body | √ci･5 nā (gather, accumulate) |
 | \#\#sati | noun | fem.nom.sg | mindfulness | √sar･1 a (remember) |
-| ca | | | and | |
+| ca | ind | conj | and | |
 | viharati | verb | pr.3rd.sg | he dwells | |
 | appamāṇacetaso | adj | masc.nom.sg | with an immeasurable mind; with an unrestricted mind | √har･1 a (live) |
 | \#appamāṇa | adj | masc. | immeasurable | |
@@ -160,7 +160,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | byāpādo | noun | masc.nom.sg | ill-will | √pad･3 ya (go, step) |
-| bhikkhave | noun | masc.voc.sg | monks | √bhikkh･1 a (beg) |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | āvaraṇo | noun | masc.nom.sg | obstruction; obstacle; blockage; impediment | √var･1 a (cover, dress, restrain) |
 | nīvaraṇo | noun | masc.nom.sg | obstacle; obstruction; barrier; hindrance | √var･1 a (cover, dress, restrain) |
 | cetaso | noun | masc.gen.sg | of mind | √cit･8 \*e (think, intend) |
@@ -193,7 +193,7 @@
 | manaso | noun | masc.gen.sg | of mind | √man･3 ya (think) |
 | vijaññā | verb | opt.3rd.sg | he could recognise | √ñā･5 nā (know) |
 | kaṇhassa | noun | masc.gen.sg | of the black one, evil one | |
-| pakkho'ti | noun | - | side "" | |
+| pakkho'ti | sandhi | | side "" | |
 | \#pakkho | noun | masc.nom.sg | side; flank | |
 | \#iti | ind | - | "" | |
 | vinodayeyya | verb | opt.3rd.sg | he should drive out, dispel, remove | √nud･1 \*aya (drive out, reject) |
@@ -206,7 +206,7 @@
 | --- | --- | --- | --- | --- |
 | tathārūpāssa | sandhi | | of such kind, for him | |
 | \#tathārūpā | adj | masc.nom.pl | of such quality | |
-| \#\#tathā | ind | adv | so, thus, in suchh a way | |
+| \#\#tathā | ind | adv | so, thus, in such a way | |
 | \#\#rūpa | adj | masc.nom.pl | of quality, of kind | |
 | \#assa | pron | masc.dat.sg | for him; by him | |
 
@@ -235,12 +235,12 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | puna | ind | - | again | |
-| caparaṃ | - | - | and further, and what is more | |
+| caparaṃ | sandhi | | and further, and what is more | |
 | \#ca | ind | conj | and | |
 | \#paraṃ | ind | adv | further, more | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
-| imameva | - | - | this very | |
+| imameva | sandhi | | this very | |
 | \#imaṃ | pr | masc.acc.sg | this | |
 | \#eva | ind | - | just, only | |
 | kāyaṃ | noun | masc.acc.sg | body | |
@@ -264,7 +264,7 @@
 | tejodhātu | noun | fem.nom.sg | fire state | |
 | \#teja | noun | masc.nom.sg | fire, heat | √tij･8 \*e (be sharp, hot) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
-| vāyodhātū'ti | noun | fem.nom.sg | gaseous state | |
+| vāyodhātū'ti | sandhi | fem.nom.sg | gaseous state | |
 | \#vāya | noun | masc.nom.sg | wind, air | √vā･1 a (blow, emit odour) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | \#iti | ind | - | "" | |
@@ -299,7 +299,7 @@
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
 | rūpaṃ | noun | nt.acc.sg | physical form, matter, body | √rūp･8 \*e (form, produce) |
-| attato | ind | masc.abl.sg | as a self | |
+| attato | noun | masc.abl.sg | as a self | |
 | samanupassati | verb | pr.3rd.sg | he perceives | √dis･1 a (see) |
 | na | ind | neg | not | |
 | rūpavantaṃ | adj | masc.acc.sg | having physical form | |
@@ -316,9 +316,9 @@
 | ahaṃ | pron | 1st.nom.sg | I | |
 | rūpaṃ | noun | nt.nom.sg | physical form, matter, body | √rūp･8 \*e (form, produce) |
 | mama | pron | 1st.gen.sg | my, mine | |
-| rūpan'ti | noun | nt.nom.sg | "physical form, matter, body" | |
+| rūpan'ti | sandhi | nt.nom.sg | "physical form, matter, body" | |
 | \#rūpaṃ | noun | nt.nom.sg | physical form, matter, body | √rūp･8 \*e (form, produce) |
-| \#iti | ind | - | this | |
+| \#iti | ind | - | "" | |
 | na | ind | neg | not | |
 | pariyuṭṭhaṭṭhāyī | adj | masc.nom.sg | who remains obsessed; who is stuck in the preconceived idea of | kammadhāraya |
 | \#pariyuṭṭha | adj | | possessed, obsessed; overwhelmed | |
@@ -391,17 +391,12 @@
 | --- | --- | --- | --- | --- |
 | anattani | noun | masc.loc.sg | in regard to what is not self | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| attāti | - | | "self" | |
+| attāti | sandhi | | "self" | |
 | \#attā | noun | masc.nom.sg | self | |
-| \#iti | ind | - | "' | |
+| \#iti | ind | - | "" | |
 | saññāvipallāso | noun | masc.nom.sg | distortion of perception | |
 | \#saññā | noun | fem | perception | √ñā･5 nā (know) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
-
-**vipallāsa = vi + pari \> pali \> paly \> pall + √as \> ās + \*a**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | cittavipallāso | noun | masc.nom.sg | distortion of mind | |
 | \#citta | noun | nt | mind, thought, cognition | √cit･8 \*e (think, intend) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
@@ -409,7 +404,9 @@
 | \#diṭṭhi | noun | fem | view, opinion, theory | √dis･1 a (see) |
 | \#vipallāso | noun | masc.nom.sg | distortion, inversion | √as･3 ya (throw, hurl) |
 
-**"In regard to what is not (a) self, "(This is) self". (is) the distortion of perception, the distortion of thought, the distortion of view.**
+**vipallāsa = vi + pari \> pali \> paly \> pall + √as \> ās + \*a**
+
+**"In regard to what is not self, [the notion] "(This is) self" is the distortion of perception, the distortion of thought, the distortion of view.**
 
 ## Class 18 Extra Examples
 
@@ -428,7 +425,7 @@
 | seso | noun | masc.nom.sg | [what] remains, (is) remaining | √sis･8 \*e (remain) |
 | gimhānan'ti | sandhi | | "...hot season and so | |
 | \#gimhānaṃ | noun | masc.gen.pl | of the hot [months] | |
-| \#iti | ind | adv[^1] | this is; and so; thus | |
+| \#iti | ind | adv[^2] | this is; and so; thus | |
 | vassānassa | noun | masc.gen.sg | of the rainy season | √vass･1 a (rain) |
 | paṭhamo | ordin | masc.nom.sg | first | √ṭhā･1 a (stand) |
 | māso | noun | masc.nom.sg | month | √mā･5 nā (measure) |
@@ -485,8 +482,8 @@
 | --- | --- | --- | --- | --- |
 | taṃ | pron | masc.acc.sg | that | |
 | aṭṭhiṃ katvā | idiom | | having paid attention; lit. having made important | |
-| aṭṭhiṃ | noun | masc.acc.sg | purpose; goal | |
-| katvā | verb | abs | having made | √kar･7 o (do, make) |
+| \#aṭṭhiṃ | noun | masc.acc.sg | purpose; goal | |
+| \#katvā | verb | abs | having made | √kar･7 o (do, make) |
 | manasi | noun | masc.loc.sg | in [his] mind | √man･3 ya (think) |
 | katvā | verb | abs | having made | √kar･7 o (do, make) |
 | sabbaṃ | ind | adv | completely | |
@@ -557,7 +554,7 @@
 | mahācoro | noun | masc.nom.sg | master thief | |
 | \#mahā | adj | masc. | great | |
 | \#coro | noun | masc.nom.sg | thief | √cur･8 \*e (steal) |
-| rājānaṃ | noun | masc.gen.pl. | of the the king | √rāj･1 a (rule, shine) |
+| rājānaṃ | noun | masc.acc.sg | the king | √rāj･1 a (rule, shine) |
 | vā | ind | conj | or | |
 | rājamahāmattānaṃ | noun | masc.gen.pl. | of the royal minister | chaṭṭhī tappurisa |
 | \#rājino | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
@@ -566,7 +563,7 @@
 | nissito | pp | masc.nom.sg | attached to; dependent on | √si･1 a (depend on, associate with) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 
-**Here, monks, a master thief is dependent on kings or the royal ministers.**
+**Here, monks, a master thief is dependent on a king or royal ministers.**
 
 6. [MN82](https://find.dhamma.gift/bw/mn/mn82.html)<br>app'ekad'āhaṃ, bho raṭṭhapāla, 'idha pādaṃ karissāmī'ti aññen'eva pādaṃ karomī"ti.
 
@@ -595,4 +592,4 @@
 
 **"Just sometimes, master Raṭṭhapāla, thinking, "I will place the foot here", I place it at (lit.: with) another (place)."**
 
-[^1]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single word or name or expression; a list"
+[^2]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single word or name or expression; a list"
