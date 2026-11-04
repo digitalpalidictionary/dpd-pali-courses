@@ -58,7 +58,7 @@
 | \#tuṇhī | ind | adv | silent | |
 | \#bhāvena | noun | masc.instr.sg | by the state [of being] | |
 | kho | ind | emph | indeed | |
-| pan'āyasmante | sandhi | | moreover the Venerables |  |
+| pan'āyasmante | sandhi | | moreover the Venerables | |
 | \#pana | ind | | moreover; and so; but; or; however | |
 | \#āyasmante | noun | masc.acc.pl | the Venerables | |
 | **parisuddhā**'ti | sandhi | | "...[are] pure" | |
@@ -112,7 +112,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| oḷārikassa'pi | sandhi | | even of gross |  |
+| oḷārikassa'pi | sandhi | | even of gross | |
 | \#oḷārikassa | adj | masc.gen.sg | of gross | |
 | \#api | ind | | but | |
 | kho | ind | emph | indeed | |

@@ -164,7 +164,7 @@
 | hi | ind | emph | indeed | |
 | verena | noun | nt.instr.sg | by ill-will; by hatred | |
 | verāni | noun | nt.nom.pl | ill-will(s); hatred(s); animosities | |
-| sammant'īdha | sandhi | | are calmed here |  |
+| sammant'īdha | sandhi | | are calmed here | |
 | \#sammanti | verb | pr.pass.3rd.pl | is (lit: are) calmed; is (are) appeased | √sam + ya + ti |
 | \#idha | ind | adv | here; in this world; now | |
 | **kudācanaṃ** | ind | adv | at some time; at any time; ever | ka + dā + canaṃ |
@@ -190,7 +190,7 @@
 | hirī | noun | fem.nom.sg | sense of shame; conscience | |
 | ottappiyaṃ | noun | nt.nom.sg | fear of wrongdoing | |
 | dhanaṃ | noun | nt.nom.sg | wealth; value | |
-| sutadhanañ'ca | sandhi | | and the value of learning |  |
+| sutadhanañ'ca | sandhi | | and the value of learning | |
 | \#sutadhanaṃ | noun | nt.nom.sg | value of learning; treasure of knowledge | kammadhāraya |
 | \#\#suta (eva) | noun | nt. | learning; knowledge | |
 | \#\#dhanaṃ | noun | nt.nom.sg | wealth | |
@@ -471,16 +471,16 @@
 | \#\#**madhura** | adj | | sweet | madhu + ra |
 | \#\#aggehi | adj | masc.instr.pl | extremely; most | |
 | \#api | ind | | just | |
-| **khārikehi**'pi | sandhi | | even hot |  |
+| **khārikehi**'pi | sandhi | | even hot | |
 | \#**khārikehi** | adj | masc.instr.pl | hot; alkaline; caustic | khāra + ika |
 | \#api | ind | | just | |
-| akhārikehi'pi | sandhi | | even not hot |  |
+| akhārikehi'pi | sandhi | | even not hot | |
 | \#akhārikehi | adj | masc.instr.pl | not hot; not alkaline; not caustic | |
 | \#api | ind | | just | |
-| **loṇikehi**'pi | sandhi | | even salty |  |
+| **loṇikehi**'pi | sandhi | | even salty | |
 | \#**loṇikehi** | adj | masc.instr.pl | salty | loṇa + ika |
 | \#api | ind | | just | |
-| aloṇikehi'pi | sandhi | | even not salty |  |
+| aloṇikehi'pi | sandhi | | even not salty | |
 | \#aloṇikehi | adj | masc.instr.pl | not salty | |
 | \#api | ind | | just | |
 

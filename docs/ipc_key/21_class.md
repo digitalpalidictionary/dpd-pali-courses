@@ -89,7 +89,7 @@
 | \#sīla (ca) | noun | nt.nom.pl | precepts; virtues | √sīl×1 a (conduct oneself) |
 | \#vatāni (ca) | noun | nt.nom.pl | religious practices | √vat×1 a (be, proceed) |
 | jantu | agent noun | masc.nom.sg | a man; a person (lit: one who is born) | √jan･3 ya (be born, produce) |
-| anānupuṭṭho'va | sandhi | | just unasked |  |
+| anānupuṭṭho'va | sandhi | | just unasked | |
 | \#anānupuṭṭho | pp | masc.nom.sg | unasked | √pucch･1 a (ask, question) |
 | \#eva | ind | emph | only; just | |
 | paresa(ṃ) | pron | masc.dat.pl (irreg form) | to others | |

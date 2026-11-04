@@ -208,7 +208,7 @@
 | --- | --- | --- | --- | --- |
 | **sotatto** | adj | masc.nom.sg | scorched; burnt | su + √tap + ta + \*a |
 | **sosinno** | adj | masc.nom.sg | freezing; frozen | su + √sid + na + \*a |
-| c'eva | sandhi | | and just |  |
+| c'eva | sandhi | | and just | |
 | \#ca | ind | conj | and | |
 | \#eva | ind | emph | just; only; still | |
 | eko | adj | masc.nom.sg | single; alone | |

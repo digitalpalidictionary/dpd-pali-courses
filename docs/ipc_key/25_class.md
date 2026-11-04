@@ -433,7 +433,7 @@
 | \#\#bhāvanāya | noun | fem.gen.sg | developing; cultivating | |
 | \#\#anuyogaṃ | noun | masc.acc.sg (+gen) | pursuit of; devotion to | |
 | \#anuyuttā | pp | masc.nom.pl | engaged in; applied oneself to | anu + √yuj + ta |
-| viharissāmā'ti | sandhi | | "we will dwell" |  |
+| viharissāmā'ti | sandhi | | "we will dwell" | |
 | \#viharissāma | verb | fut.1st.pl | we will dwell | vi + √har + a + issa + ma |
 | \#iti | ind | quotation mark | "" | |
 

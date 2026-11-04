@@ -484,7 +484,7 @@ ito ca n'āddakkhi aṇum'pi saññaṃ
 | ito | ind | adv | because of this ; lit. from this | |
 | ca | ind | conj | and; but | |
 | n'āddakkhi | verb | aor.2nd.sg | you did not see | na + a + √dis + a + i |
-| aṇum'pi | sandhi | | even tiny |  |
+| aṇum'pi | sandhi | | even tiny | |
 | \#aṇuṃ | adj | fem.acc.sg | tiny; minuscule | |
 | \#api | ind | emph | even | |
 | saññaṃ | noun | fem.acc.sg | notion | |

@@ -171,7 +171,7 @@
 | dukkhassa | noun | nt.gen.sg | of suffering | |
 | ca | ind | conj | and | |
 | **atikkamaṃ** | noun | masc.acc.sg (+gen) | transcending; overcoming | ati + √kam + a |
-| ariyañ'c'aṭṭh'aṅgikaṃ | sandhi | | and the noble eightfold |  |
+| ariyañ'c'aṭṭh'aṅgikaṃ | sandhi | | and the noble eightfold | |
 | \#ariyaṃ | adj | masc.acc.sg | noble | |
 | \#ca | ind | conj | and | |
 | \#aṭṭhaṅgikaṃ | adj | masc.acc.sg | eightfold | kammadhāraya \> bahubbīhi |
@@ -550,7 +550,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| savanampāhaṃ | sandhi | | even I, by hearing |  |
+| savanampāhaṃ | sandhi | | even I, by hearing | |
 | \#savanaṃ | noun | nt.acc.sg | hearing (of); listening (to) | |
 | \#api | ind | | even; just | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
@@ -561,19 +561,19 @@
 | \#bahu | adj | masc. | much | |
 | \#kāraṃ | noun | masc.acc.sg | action; service | |
 | vadāmi | verb | pr.1st.sg | I say | √vad + a + mi |
-| upasaṅkamanampāhaṃ | sandhi | | even I, by approaching |  |
+| upasaṅkamanampāhaṃ | sandhi | | even I, by approaching | |
 | \#upasaṅkamanaṃ | noun | nt.acc.sg | approaching; visiting | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.sg | I | |
-| payirupāsanampāhaṃ | sandhi | | even I, by attending closely |  |
+| payirupāsanampāhaṃ | sandhi | | even I, by attending closely | |
 | \#payirupāsanā | noun | fem.acc.sg | attending closely | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| anussatimpāhaṃ | sandhi | | even I, by recollection |  |
+| anussatimpāhaṃ | sandhi | | even I, by recollection | |
 | \#anussati | noun | fem.acc.sg | memory (of); recollection (of) | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| anupabbajjampāhaṃ | sandhi | | even I, by following into the monastic life |  |
+| anupabbajjampāhaṃ | sandhi | | even I, by following into the monastic life | |
 | \#anupabbajjaṃ | noun | fem.acc.sg | following into the monastic life | |
 | \#api | ind | | just | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
