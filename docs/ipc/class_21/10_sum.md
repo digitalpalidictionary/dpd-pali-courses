@@ -16,7 +16,7 @@ from Kaccāyana:
 
 429, 472. **Bhavissantī** ssati ssanti, ssasi ssatha, ssāmi ssāma, ssate ssante, ssase ssavhe, ssaṃ ssāmhe.
 
-430, 373. **Kālātipatti** ssā ssaṃsu, sse ssatha, ssaṃ ssāmhā, ssatha sissu, ssase ssavhe, ssiṃ ssāmhase.
+430, 373. **Kālātipatti** ssā ssaṃsu, sse ssatha, ssaṃ ssāmhā, ssatha ssisu, ssase ssavhe, ssiṃ ssāmhase.
 
 Here’s a large table of the full set of parassapada and attanopada verbal endings.
 
@@ -49,5 +49,3 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 | **ajjatanī** | ā | ū | se | vhaṃ | aṃ | mhe |
 | **bhavissantī** | ssate | ssante | ssase | ssavhe | ssaṃ | ssāmhe |
 | **kālātipatti** | ssatha | ssisu | ssase | ssavhe | ssiṃ | ssāmhase |
-
-Please double check these tables!

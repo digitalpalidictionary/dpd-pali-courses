@@ -48,11 +48,13 @@ pitar + maha \> pit**ā**maha (grandfather)
 
 mātar + sambhava \> matt**i**sambhava (born from a mother)
 
-9.  the numeral **2** often occurs in unusual forms in compounds. **dvi- dve- di- du- duv-**
+9.  the numeral **2** often occurs in unusual forms in compounds. **dva- dvi- dve- di- du- duv-**
 
 dvi + pada \> **dvi**pada (two footed)
 
-dvi + ti \> **dve**ti (two or three)
+dvi + ti \> **dva**tti (two or three)
+
+dvi + tisso \> **dve**tisso (two or three)
 
 dvi + ja \> **di**ja (twice born = bird or Brahman)
 

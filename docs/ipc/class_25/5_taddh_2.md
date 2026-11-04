@@ -132,7 +132,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | heṭṭḥā | + ima | heṭṭh**ima** | lower \> lowest |
 | majjha | + ima | majjh**ima** | middle \> medium |
 | ora | + ima | or**ima** | near shore \> closest |
-| parā | + ima | pār**ima** | far shore \> furthest |
+| pāra | + ima | pār**ima** | far shore \> furthest |
 | pura | + ima | pur**ima** | before, east \> earlier, eastern |
 | pacchā | + ima | pacch**ima** | after, west \> last, western |
 | paccanta | + ima | paccant**ima** | far end \> border, frontier |

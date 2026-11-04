@@ -559,7 +559,7 @@ suffix \***ī** is used to form a large group of **adjectives** and some **mascu
 | adj | 143 |
 | masc | 9 |
 | fem | 5 |
-| **total** | **146** |
+| **total** | **157** |
 
 **+ \*ī agent nouns**
 

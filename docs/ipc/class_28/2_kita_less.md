@@ -79,7 +79,6 @@
 | √puṇ | be skilful, precise | **+ ya** | apuñ**ña** | merit |
 | √rāj | to rule | **+ ya** | raj**ja** | kingdom |
 | √sīl | to conduct | **+ ya** | dussīl**ya** | bad behaviour |
-| √yudh | to fight | **+ ya** | yuddha | war, battle |
 
 **+ ya masculine nouns**
 
@@ -396,7 +395,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | --- | --- | --- | --- | --- |
 | √likh | to scratch | **+ \*ā** | l**e**kh**ā** | writing |
 | √vac | to speak | **+ \*ā** | v**ā**c**ā** | speech |
-| √mitta | to be friendly | **+ \*ā** | m**e**tt**ā** | friendliness |
+| √mitt | to be friendly | **+ \*ā** | m**e**tt**ā** | lit. friendliness |
 | √his | to hurt, harm | **+ \*ā** | vih**e**s**ā** | irritation |
 
 ## \*u

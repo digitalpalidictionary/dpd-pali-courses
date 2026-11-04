@@ -116,7 +116,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 | | | |
 | --- | --- | --- |
-| abhi + √kam + ta | abhikka**nt**a | pp. gone past |
+| abhi + √kam + ta | abhikka**nt**a | pp. gone forward |
 | √dam + ta | da**nt**a | pp. tamed |
 | √kham + ti | kha**nt**i | f. patience |
 | √sam + ti | sa**nt**i | f. peace |

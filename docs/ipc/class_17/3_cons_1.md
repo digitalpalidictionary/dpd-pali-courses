@@ -47,7 +47,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 | | | | |
 | --- | --- | --- | --- |
 | n**a** | **c**uta | a**cc**uta | adj. everlasting |
-| par**i** | **c**aja | pari**cc**aja | masc. boundary |
+| par**i** | **c**aja | pari**cc**aja | masc. rejection |
 | a + par**i** | **c**atta | apari**cc**atta | pp. not given up |
 
 **vowel + ch**
@@ -160,7 +160,7 @@ after a vowel, **v** can become **bb**
 
 | | | | |
 | --- | --- | --- | --- |
-| **a** | **b**haya | a**bbh**aya | adj. without fear |
+| n**a** | **b**haya | a**bbh**aya | adj. without fear |
 | puna \> pon**o** | **b**havika | pono**bbh**avika | adj. leading to repeated existence |
 
 **vowel + m**
@@ -180,7 +180,6 @@ after a vowel, **v** can become **bb**
 | | | | |
 | --- | --- | --- | --- |
 | vijj**u** | **l**atā | vijju**ll**atā | fem. forks of lightning |
-| ava \> **o** | **l**ujjati | ullu**jj**ati | pr. is breaking down |
 
 **vowel + s**
 
