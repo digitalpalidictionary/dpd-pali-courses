@@ -21,7 +21,7 @@
 | \#na | ind | neg | not | |
 | \#atthi | verb | pr.3rd.sg | there is | |
 | yena | pron | nt.instr.sg | by which | |
-| **jāyetha** | verb | opt. reflex.pass. 3rd.g | one oneself could be born | √jan + ya + etha |
+| **jāyetha** | verb | opt.reflx.pass.3rd.sg | one oneself could be born | √jan + ya + etha |
 | **ajāyamāno** | prp | masc.nom.sg | not being born; not coming into being | na + √jan + ya + māna |
 | kiṃ | ind | adv | how? | |
 | **jīyissati** | verb | fut.3rd.sg | will get old; will age | √jī + ya + ti |
@@ -45,16 +45,16 @@
 | \#kumbha | noun | masc | clay pot | |
 | \#upamaṃ | adj | masc.acc.sg | like; as | |
 | kāyam'imaṃ | sandhi | | this body | |
-| \#kāyaṃ | noun | masc.acc.sg. | body | |
+| \#kāyaṃ | noun | masc.acc.sg | body | |
 | \#imaṃ | pron. | masc.acc.sg | this[^31] (here) | |
 | viditvā | verb | abs | having perceived; having understood | √vid + itvā |
 | nagar'ūpamaṃ | adj | nt.acc.sg | like a town; fortress | kammadhāraya |
 | \#nagara | noun | nt. | a town; a fortress | |
 | \#upamaṃ | adj | nt.acc.sg | like; as | |
 | cittam'idaṃ | sandhi | | this mind | |
-| \#cittaṃ | noun | nt.acc.sg. | mind | |
+| \#cittaṃ | noun | nt.acc.sg | mind | |
 | \#idaṃ | pron | nt.acc.sg | this | |
-| **ṭhapetvā** | verb | abs caus | having set up; having strengthened | √ṭhā + \*āpe + tvā |
+| **ṭhapetvā** | verb | abs (caus) | having set up; having strengthened | √ṭhā + \*āpe + tvā |
 | **yodhetha** | verb | opt.reflx.3rd.sg | one would/should fight (against) by oneself; engage in battle (with) by himself | √yudh + \*e + etha |
 | māraṃ | noun | masc.acc.sg | death | |
 | paññ'āvudhena | noun | nt.instr.sg | weapon of wisdom; sword of understanding | chaṭṭhī tappurisa[^32] |
@@ -77,7 +77,7 @@
 | pavaraṃ | adj | masc.acc.sg | excellent; distinguished | |
 | vīraṃ | noun | masc.acc.sg | hero; great man | |
 | mahesiṃ | noun | masc.acc.sg | great sage | |
-| **vijitāvinaṃ** | app (as adj) | masc.acc.sg | who has conquered; who has vanquished | vi + √ji + tāvī |
+| **vijitāvinaṃ** | adj (app) | masc.acc.sg | who has conquered; who has vanquished | vi + √ji + tāvī |
 | anejaṃ | adj | masc.acc.sg | unperturbed; unmoved | na + √ej + a |
 | nhātakaṃ | adj | masc.acc.sg | perfected; purified (lit: one who has bathed) | |
 | buddhaṃ | pp | masc.acc.sg | the awakened one | √budh + ta |
@@ -110,7 +110,7 @@
 | \#aññā | noun | fem. | spiritual insight; enlightenment; final knowledge | |
 | \#indriyaṃ | noun | nt.nom.sg | faculty | |
 | aññātāv'indriyaṃ | noun | nt.nom.sg | faculty of one who is enlightened | kammadhāraya |
-| \#aññātāvī | app (as adj) | | who is enlightened; who has understood | |
+| \#aññātāvī | adj (app) | | who is enlightened; who has understood | |
 | \#indriyaṃ | noun | nt.nom.sg | the faculty | |
 
 **Monks, [there are] these three mental faculties. Which three? The faculty (that senses) "I will know the unknown," the faculty of final knowledge, the faculty of one who has understood.**
@@ -123,7 +123,7 @@
 | ca | ind | conj | and | |
 | **santadassāvī** | adj | masc.nom.sg | who sees peace (in) +loc | dutiyā tappurisa |
 | \#santaṃ | pp (as noun) | masc.nom.sg | peaceful (peacefulness) | |
-| \#dassāvī | app (as adj) | masc.nom.sg | who has seen | √dis + a + āvī |
+| \#dassāvī | adj (app) | masc.nom.sg | who has seen | √dis + a + āvī |
 | bhavissāmi | verb | fut.1st.sg | I will be | √bhū + a + issa + mi |
 | anusayā | noun | masc.nom.pl | underlying tendencies | |
 | ca | ind | conj | and | |
@@ -175,7 +175,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| api | ind | interrog | did? perhaps? maybe? | |
+| api | ind | interr | did? perhaps? maybe? | |
 | samaṇa | noun | masc.voc.sg | ascetic | |
 | balībadde | noun | masc.acc.pl | oxen | |
 | addasā | verb | imperf.2nd.sg | you saw | √dis + a \> disa \> dasa (irreg) |
@@ -374,7 +374,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | bhagavato | noun | masc.gen.sg | of the Blessed One | |
-| santike | ind | adv (nt.loc.sg.) | in the presence | |
+| santike | ind | adv (nt.loc.sg) | in the presence | |
 | etassa | pron | nt.gen.sg | of this | |
 | bhāsitassa | pp (as noun) | nt.gen.sg | of statement | |
 | atthaṃ | noun | masc.acc.sg | meaning | |
@@ -388,7 +388,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ehi | verb | imp.2rd.sg | come | √i + a \> e |
+| ehi | verb | imp.2nd.sg | come | √i + a \> e |
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | bhikkhu | noun | masc.voc.sg | monk | |
 | bhojane | noun | nt.loc.sg | in (regard to) food, eating | |
@@ -400,7 +400,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | paṭisaṅkhā | verb | abs | reflecting, considering | |
-| yoniso | ind | adv (fem.abl.sg.) | deeply, lit. to the source | |
+| yoniso | ind | adv (fem.abl.sg) | deeply, lit. to the source | |
 | āhāraṃ | noun | masc.acc.sg | food | ā + √har \> hār + \*a |
 | āhāreyyāsi | verb | opt.2nd.sg | you should eat | ā + hāre + eyyāsi |
 | n'eva | ind | neg | neither | |
@@ -462,14 +462,14 @@
 | --- | --- | --- | --- | --- |
 | tassā | pron | fem.gen.sg | of that (river) | |
 | puriso | noun | masc.nom.sg | a person | |
-| sotena | noun | masc. or nt. instr.sg | by a stream; by a current | |
+| sotena | noun | masc/nt.instr.sg | by a stream; by a current | |
 | **vuyhamāno** | prp | masc.nom.sg | being carried (by); being pulled along (by) | √vah + ya + māna |
 | kāse | noun | masc.acc.pl | grass(es) growing along river banks | |
 | ce'pi | sandhi | | even if | |
 | \#ce | ind | cond | if | |
 | \#api | ind | | even | |
 | gaṇheyya | verb | opt.3rd.sg | he would grab hold (of); seize | |
-| te | pron | masc.nom .pl | they | |
+| te | pron | masc.nom.pl | they | |
 | **palujjeyyuṃ** | verb | opt.3rd.pl | would break off | pa + √luj + ya + eyyuṃ |
 | tatonidānaṃ | sandhi | | because of that; for that reason (lit: from that reason) | |
 | \#tato | ind | adv | from that | |
@@ -495,7 +495,7 @@
 | \#kāro | noun | masc.nom.sg | maker | |
 | vā | ind | conj | or | |
 | māyākār'antevāsī | noun | masc.nom.sg | magician's apprentice | chaṭṭhī tappurisa |
-| \#māyākārassa | noun | masc.gen.sg. | of a magician | dutiyā tappurisa |
+| \#māyākārassa | noun | masc.gen.sg | of a magician | dutiyā tappurisa |
 | \#\#māyaṃ | noun | fem.acc.sg | magic; illusion | |
 | \#\#kāro | noun | masc.nom.sg | maker | |
 | \#antevāsī | noun | masc.nom.sg | apprentice (lit: living within) | kammadhāraya |
@@ -506,7 +506,7 @@
 | \#\#mahanta | adj | | great; grand | |
 | \#\#pathā | noun | masc.nom.pl | roads | |
 | māyaṃ | noun | fem.acc.sg | illusion | |
-| **vidaṃseyya** | verb | opt.caus. 3rd.sg | would exhibit; should display | vi + √dis + \*e + eyya |
+| **vidaṃseyya** | verb | opt.caus.3rd.sg | would exhibit; should display | vi + √dis + \*e + eyya |
 
 **Just as a magician or a magician's apprentice would display an illusion at a crossroads (i.e. at the meeting of four great roads).**
 
@@ -602,7 +602,7 @@
 | asaddhammassavanantissa | sandhi | | "not hearing the pure teaching" | |
 | \#na | prefix | neg | not | |
 | \#saddhamma | noun | masc | true, good teaching | sat + dhamma |
-| \#savanaṃ | noun | nt.nom.sg. | hearing | |
+| \#savanaṃ | noun | nt.nom.sg | hearing | |
 | \#ti | ind | - | "" | |
 | \#assa | pron | masc.dat/gen.sg | to this, of this | |
 | vacanīyaṃ | ptp | nt.nom.sg | it should be said | √vac + anīya |

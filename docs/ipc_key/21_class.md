@@ -102,7 +102,7 @@
 | \#taṃ | pron | masc.acc.sg | him | |
 | \#āhu | verb | perf.3rd.pl | they call (lit: they said) | √ah･1 a (speak) |
 | yo | pron | masc.nom.sg | whoever | |
-| ātumānaṃ | noun (as pron) | masc.acc.sg. | himself | |
+| ātumānaṃ | noun (as pron) | masc.acc.sg | himself | |
 | sayam'eva | sandhi | | just by oneself; just on one's own accord | |
 | \#sayaṃ | ind | adv | by oneself | |
 | \#eva | ind | emph | just | |
@@ -128,7 +128,7 @@
 | \#antaṃ | noun | masc.acc.sg | an end | |
 | \#kiriyā | noun | fem.nom.sg | making | √kar･7 o (do, make) |
 | paññāyethā'ti | sandhi | | "...it itself would be evident" | |
-| \#paññāyetha | verb | opt. (reflex) 3rd.sg | it could be discerned, would be apparent, lit. make itself known | √ñā･5 ya (know) |
+| \#paññāyetha | verb | opt.reflx.3rd.sg | it could be discerned, would be apparent, lit. make itself known | √ñā･5 ya (know) |
 | \#ti | ind | quotation mark | "" | |
 
 **"If only the ending of this whole mass of suffering would be apparent. (lit. make itself known)"**
@@ -142,7 +142,7 @@
 | āyasmā | noun | masc.voc.sg | venerable | √i･1 a (come, go) |
 | kāyikaṃ | adj (as adv) | masc.acc.sg | bodily; physical; related to the body | √ci･5 nā (gather, accumulate) |
 | sikkhassū'ti | sandhi | | "...you must train yourself" | |
-| \#sikkhassu | verb | imp. (reflex) 2nd.sg | you must train yourself | √sikkh･1 a (learn, train) |
+| \#sikkhassu | verb | imp.reflx.2nd.sg | you must train yourself | √sikkh･1 a (learn, train) |
 | \#ti | ind | quotation mark | "" | |
 | iti'ssa | sandhi | | thus to him | |
 | \#iti | ind | emph | thus | |
@@ -162,8 +162,8 @@
 | \#dassāviṃ | adj | masc.acc.sg | seeing; knowing; aware of | √dis･1 a (see) |
 | atthi | noun | masc.nom.sg | a seeker | |
 | pañhena | noun | masc.instr.sg | with a question | √pañh･1 a (ask, question) |
-| āgamaṃ | verb | aor. (reflex) 1st.sg | I myself have come | √gam･1 a (go) |
-| kathaṃ | ind | adv interr | how? | |
+| āgamaṃ | verb | aor.reflx.1st.sg | I myself have come | √gam･1 a (go) |
+| kathaṃ | ind | adv+interr | how? | |
 | lokaṃ | noun | masc.acc.sg | the world | √lok･8 \*e (look) |
 | avekkhantaṃ | prp | masc.acc.sg | seeing; viewing | |
 | maccurājā | noun | masc.nom.sg | king of death | chaṭṭhī tappurisa |
@@ -252,7 +252,7 @@
 | kiñci | pron | masc.acc.sg | anyone | |
 | byārosanā(ya) | noun | fem.instr.sg | by anger | √rus･1 \*e (be angry) |
 | paṭighasaññā(ya) | noun | fem.instr.sg | by dislike; ill-will | chaṭṭhī tappurisa |
-| \#paṭighassa | noun | masc.gen sg | of aversion | √ghaṭ･8 \*e (strike, kill) |
+| \#paṭighassa | noun | masc.gen.sg | of aversion | √ghaṭ･8 \*e (strike, kill) |
 | \#saññāya | noun | fem.instr.sg | by concept; idea; notion | √ñā･5 nā (know) |
 | nāññamaññassa | pron | masc.dat.sg | not one for another | |
 | \#na | ind | neg | not | |
@@ -304,7 +304,7 @@
 | \#ce | ind | - | if | |
 | \#eva | ind | - | just, even | |
 | kho | ind | - | truly | |
-| pana | ind- | | moreover | |
+| pana | ind | | moreover | |
 | jarādhammo | adj | masc.nom.sg | liable to grow old | kammadhāraya<br>\> bahubbīhi |
 | \#jarā | noun | fem. | old age | √jar･1 a (age) |
 | \#dhammo | noun | masc.nom.sg | quality; characteristic | √dhar･1 a (hold, carry, endure) |
@@ -323,7 +323,7 @@
 | metaṃ | - | - | for me this | |
 | \#me | pron | masc.dat.sg | for me | |
 | \#etaṃ | pron | nt.nom.sg | this | |
-| assa | verb | pot.3rd.sg | it would be | √as･1 a (be) |
+| assa | verb | opt.3rd.sg | it would be | √as･1 a (be) |
 | patirūpan'ti | sandhi | | "…suitable, proper" | |
 | \#patirūpaṃ | adj | nt.nom.sg | suitable, proper | |
 | \#iti | ind | - | "" | |
@@ -428,7 +428,7 @@
 | kayirā | verb | opt.3rd.sg | one should do | √kar･7 o (do, make) |
 | ce | ind | cond | if | |
 | kayirāth'enaṃ | sandhi | | one should do it oneself | |
-| \#kayirātha | verb | opt (reflex) 3rd.sg | one should do oneself | √kar･7 o (do, make) |
+| \#kayirātha | verb | opt.reflx.3rd.sg | one should do oneself | √kar･7 o (do, make) |
 | \#enaṃ | pron | nt.acc.sg | it; this | |
 | daḷham'enaṃ | sandhi | | firmly this; vigorously this | |
 | \#daḷhaṃ | ind | adv | firmly; vigorously | |
@@ -443,7 +443,7 @@
 | hi | ind | emph | indeed; (or) because | |
 | paribbājo | (agent) noun | masc.nom.sg | wandering monk; one who has gone forth | √vaj･1 a (go on) |
 | bhiyyo | ind | adv | more | |
-| ākirate | verb | pr. (reflex)<br>3rd.sg | stirs up for himself; heap up | √kir･1 a (scatter, sprinkle) |
+| ākirate | verb | pr.reflx.3rd.sg | stirs up for himself; heap up | √kir･1 a (scatter, sprinkle) |
 | rajaṃ | noun | masc.acc.sg | defilement, impurity | √raj･1 a (colour) |
 
 **A wandering monk [who is] lax would certainly stir up for himself more defilement.<br>(or)<br>A wandering monk, because (he is) lax, would stir up for himself more defilement.**
@@ -456,7 +456,7 @@
 | dīgham'āyuṃ | noun | nt.acc.sg | long life | kammadhāraya |
 | \#dīgham | adj | nt.acc.sg | long | |
 | \#āyuṃ | noun | nt.acc.sg | life | √i･1 a (come, go) |
-| labhate | verb | pr (reflex) 3rd.sg | one oneself gets | √labh･1 a (get) |
+| labhate | verb | pr.reflx.3rd.sg | one oneself gets | √labh･1 a (get) |
 | dhanena | noun | nt.instr.sg | by means of wealth | √dhan×1 a (be rich) |
 | na | ind | neg | not | |
 | c'āpi | sandhi | | and even | |

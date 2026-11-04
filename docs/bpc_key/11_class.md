@@ -251,15 +251,15 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | mettāya | noun | fem.instr.sg | with goodwill | √mitt･1 a (be friendly) |
-| cetovimuttiyā | noun | fem.loc.sg loc abs | when liberation of mind | |
-| āsevitāya | pp | fem.loc.sg loc abs | when practiced persistently | √sev･1 a (serve, associate) |
-| bhāvitāya | pp | fem.loc.sg loc abs | when developed; cultivated | √bhū･1 \*e (be, become) |
-| bahulīkatāya | pp | fem.loc.sg loc abs | when often practiced; made much of | |
-| yānīkatāya | adj | fem.loc.sg loc abs | when mastered; [lit:made a vehicle] | |
-| vatthukatāya | adj | fem.loc.sg loc abs | when firmly established; made a basis | |
-| anuṭṭhitāya | pp | fem.loc.sg loc abs | when established | √ṭhā･1 a (stand) |
-| paricitāya | pp | fem.loc.sg loc abs | when accustomed; familiarized | √ci･5 nā (gather, accumulate) |
-| susamāraddhāya | adj | fem.loc.sg loc abs | when energetically undertaken | √rabh･1 a (begin) |
+| cetovimuttiyā | noun | fem.loc.sg (loc abs) | when liberation of mind | |
+| āsevitāya | pp | fem.loc.sg (loc abs) | when practiced persistently | √sev･1 a (serve, associate) |
+| bhāvitāya | pp | fem.loc.sg (loc abs) | when developed; cultivated | √bhū･1 \*e (be, become) |
+| bahulīkatāya | pp | fem.loc.sg (loc abs) | when often practiced; made much of | |
+| yānīkatāya | adj | fem.loc.sg (loc abs) | when mastered; [lit:made a vehicle] | |
+| vatthukatāya | adj | fem.loc.sg (loc abs) | when firmly established; made a basis | |
+| anuṭṭhitāya | pp | fem.loc.sg (loc abs) | when established | √ṭhā･1 a (stand) |
+| paricitāya | pp | fem.loc.sg (loc abs) | when accustomed; familiarized | √ci･5 nā (gather, accumulate) |
+| susamāraddhāya | adj | fem.loc.sg (loc abs) | when energetically undertaken | √rabh･1 a (begin) |
 
 **When the liberation of mind by means of goodwill has been practiced persistently, developed, made much of, mastered, made a basis, established, familiarized and energetically undertaken,**
 

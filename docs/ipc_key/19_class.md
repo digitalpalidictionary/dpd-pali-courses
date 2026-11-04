@@ -144,7 +144,7 @@
 | \#kulassa | noun | nt.gen.sg | of a good family | √kul･1 a (be close) |
 | \#puttena | noun | masc.instr.sg | by the son | |
 | vīriyaṃ | noun | nt.acc.sg | effort; energy | √vīr×8 \*e (be heroic, hostile) |
-| ārabhituṃ | verb | inf | to begin; to start; to undertake | √rabh 1 a (to begin) |
+| ārabhituṃ | verb | inf | to begin; to start; to undertake | √rabh･1 a (begin) |
 
 **It is quite enough for a respectable young man who ordained out of confidence to undertake the effort. (lit: it is enough to undertake the effort by a respectable young man…)**
 
@@ -317,7 +317,7 @@
 | \#suññatāya | noun | fem.instr.sg | (with) emptiness, non-self | |
 | \#paṭisaṃyutta | pp | - | connected, concerned | √yuj･2 ṃa (yoke, join) |
 | tesu | pron | masc.loc.pl (loc abs) | when they | |
-| bhaññamānesu | pprp | masc.loc.pl (loc abs) | when are being spoken | √bhaṇ･1 ya (talk, speak) |
+| bhaññamānesu | prp pass | masc.loc.pl (loc abs) | when are being spoken | √bhaṇ･1 ya (talk, speak) |
 | na | ind | neg | not | |
 | sussūsanti | verb | pr.3rd.pl | they wish to listen (desiderative verb) | √su･4 sa (hear) |
 
@@ -344,7 +344,7 @@
 | sahassī | adj | fem.nom.sg | having one thousand | |
 | lokadhātu | noun | fem.nom.sg | world system | |
 | akampitthāti | sandhi | | it shook itself" | |
-| \#akampittha | verb | aor.rflx.3rd.sg | it shook itself | √kamp･1 a (shake, tremble) |
+| \#akampittha | verb | aor.reflx.3rd.sg | it shook itself | √kamp･1 a (shake, tremble) |
 | \#iti | ind | - | "" | |
 
 **√bhaṇ (to speak) + ya + māna**
@@ -362,7 +362,7 @@
 | sīlakathāya | noun | fem.gen.sg (gen abs) | when talk about morality | chaṭṭhī tappurisa |
 | \#sīlassa | noun | nt.gen.sg | of ethical conduct; virtue | |
 | \#kathāya | noun | fem.gen.sg<br>(gen abs) | when talk; speech; conversation | |
-| kacchamānāya | pprp | fem.gen.sg (gen abs) | when is being spoken | √kath･8 ya (speak, narrate) |
+| kacchamānāya | prp pass | fem.gen.sg (gen abs) | when is being spoken | √kath･8 ya (speak, narrate) |
 | abhisajjati | verb | pr.3rd.sg | he curses | √saj･3 ya (stick, cling) |
 | kuppati | verb | pr.3rd.sg | he gets angry | √kup･3 ya (shake, be angry) |
 | byāpajjati | verb | pr.3rd.sg | he is repelled (by) | √pad･3 ya (go, step) |
@@ -396,7 +396,7 @@
 | rattiyā | noun | fem.gen.sg | of the night | |
 | paccūsasamayaṃ | ind | adv | at dawn time | |
 | \#paccūsa | adj | - | dawn | |
-| \#samayaṃ | noun | m | time | √i･1 a (come, go) |
+| \#samayaṃ | noun | masc | time | √i･1 a (come, go) |
 | sūriye | noun | masc.loc.sg (loc abs) | when the sun | √sur･1 a (shine, be supreme) |
 | uggacchante | prp | masc.loc.sg (loc abs) | when rising | √gam･1 a (go) |
 | jāneyyāsi | verb | opt.2nd.sg | you could know | √ñā･5 nā (know) |
@@ -443,10 +443,10 @@
 | \#āsanā | noun | masc.abl.sg | from (his) seat | √ās･1 a (sit) |
 | ekaṃsaṃ | adj | masc.acc.sg | on one shoulder | |
 | \#eka | adj | - | one | |
-| \#aṃsa | noun | m | shoulder | √aṃs×8 \*e (divide, distribute) |
+| \#aṃsa | noun | masc | shoulder | √aṃs×8 \*e (divide, distribute) |
 | uttarāsaṅgaṃ | noun | masc.acc.sg | outer robe | |
 | \#uttara | adj | - | upper | |
-| \#āsaṅga | noun | m | robe, garment | √sañj･1 a (clasp, embrace) |
+| \#āsaṅga | noun | masc | robe, garment | √sañj･1 a (clasp, embrace) |
 | karitvā | verb | abs | having made | √kar･7 o (do, make) |
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
@@ -482,7 +482,7 @@
 | sā | pron | fem.nom.sg | that | |
 | devatā | noun | fem.nom.sg | deity | √div･3 ya (shine) |
 | bhagavato | noun | masc.gen.sg | of the Blessed One | √bhaj･1 a (divide) |
-| santike | nt | nt.loc.sg | in the vicinity of; in the presence of | |
+| santike | noun | nt.loc.sg | in the vicinity of; in the presence of | |
 | imaṃ | pron | fem.acc.sg | this | |
 | gāthaṃ | noun | fem.acc.sg | verse | √gā･3 ya (sing) |
 | abhāsi | verb | aor.3rd.sg | spoke | a√bhā･1 a (shine, speak) |
@@ -497,7 +497,7 @@
 | \#na | prefix | | not | |
 | \#kuppā | adj | fem.nom.sg | shakeable, lit. to be shaken | √kup･3 ya (shake) |
 | cetovimutti | noun | fem.nom.sg | mental liberation; emancipation of heart | kammadhāraya<br>or chaṭṭhī tappurisa |
-| \#ceto (or)<br>\#cetaso | noun (as adj) | -<br>masc.gen.sg. | mind<br>of mind | √cit･8 \*e (think, intend) |
+| \#ceto (or)<br>\#cetaso | noun (as adj) | -<br>masc.gen.sg | mind<br>of mind | √cit･8 \*e (think, intend) |
 | \#vimutti | noun | fem.nom.sg | liberation; emancipation | √muc･2 ṃa (release, free) |
 | etad'attham'idaṃ | sandhi | | this is that goal | |
 | \#etadatthaṃ | noun (as adj) | nt.nom.sg | (with) that [as] purpose | kammadhāraya \> bahubbīhi |
@@ -551,7 +551,7 @@
 | te | pron | masc.nom.pl | they | |
 | ujjhāyanti | verb | pr.3rd.pl | find fault | √jhā･3 ya (think, meditate) |
 | khiyyanti | verb | pr.3rd.pl | criticise; bring down | √khī･1 a ( exhaust) |
-| vipācenti | verb | pr.3rd.pl <br>caus | circulate; discuss widely | √vac･1 \*e (say, speak) |
+| vipācenti | verb | pr.caus.3rd.pl | circulate; discuss widely | √vac･1 \*e (say, speak) |
 
 **Those monks who are of few wishes, content, conscientious, scrupulous, [and] desiring training, find fault, criticise and discuss widely [about Venerable Dhaniya]. (source text uses past tense)[^15]**
 

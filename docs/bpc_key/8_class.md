@@ -409,7 +409,7 @@
 | --- | --- | --- | --- | --- |
 | dve | card | x.nom.pl | two | |
 | kho | ind | adv | indeed; surely | |
-| āvuso | ind | voc. sg or pl | o friend; brother | |
+| āvuso | ind | voc.sg or voc.pl | o friend; brother | |
 | paccayā | noun | masc.nom.pl | supporting conditions | √i･1 a (come, go) |
 | animittāya | adj | fem.gen.sg | of the signless | |
 | cetovimuttiyā | noun | fem.gen.sg | of the liberation of mind | |

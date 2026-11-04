@@ -340,7 +340,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| evam'eva | sandh | adv+ind | similarly; in the same way | |
+| evam'eva | sandhi | adv+ind | similarly; in the same way | |
 | tesaṃ | pron | masc.dat.pl | for those | |
 | caturāsītīnaṃ | card | fem.dat.pl | for eighty-four | |
 | pāṇānaṃ | noun | masc.dat.pl | for living beings (lit: breath) | √an･1 a (breath, blow) |
@@ -568,7 +568,7 @@
 | kiñ'c'āpi | ind | ind+ind+ind | although; even though | |
 | te | pron | masc.nom.pl | they | |
 | honti | verb | pr.3rd.pl | are | √hū･1 a (be) |
-| bhusaṃ | ind | adv | exceedingly; very | √bhus 1 a (to fall, strike) |
+| bhusaṃ | ind | adv | exceedingly; very | √bhus･1 a (fall, strike) |
 | pamattā | adj | masc.nom.pl | heedless; negligent | √mad･3 ya (be mad, intoxicated) |
 | na | ind | neg | not | |
 | te | pron | masc.nom.pl | they | |

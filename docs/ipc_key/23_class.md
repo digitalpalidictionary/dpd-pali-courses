@@ -198,7 +198,7 @@
 | \#appa | adj | masc. | few; not many | |
 | \#kicco | noun (ptp) | masc.nom.sg | obligation (for); duty (for); work (for) | √kar + tya |
 | ca | ind | conj | and | |
-| **sallahuka**vutti | adj | masc(fem?).nom.sg | of frugal livelihood; living lightly | kammadhāraya \> bahubbīhi |
+| **sallahuka**vutti | adj | masc.nom.sg (fem?) | of frugal livelihood; living lightly | kammadhāraya \> bahubbīhi |
 | \#**sallahuka** | adj | masc. | frugal; light | saṃ + lahu + ka |
 | \#vutti | noun | fem.nom.sg | livelihood | |
 | sant'indriyo | adj | masc.nom.sg | calm; at peace (lit: with calm faculties) | kammadhāraya \> bahubbīhi |
@@ -403,7 +403,60 @@
 
 **Ananda, this pair of Sal trees is in full blossom with out of season flowers. They rain down, scatter down, completely cover the body of the Tathagata, in worship of the Tathagata.**
 
-13. [AN5.23](https://find.dhamma.gift/bw/an/an5.23.html) <br>so sace ākaṅkhati, anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ, eko'pi hutvā bahudhā assaṃ, bahudhā'pi hutvā eko assaṃ, āvibhāvaṃ tirobhāvaṃ
+13. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>cakkhunā rūpaṃ disvā mā nimittaggāhino ahuvattha, mā anubyañjanaggāhino. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ.
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| cakkhunā | noun | nt.instr.sg | with the eye | |
+| rūpaṃ | noun | nt.acc.sg | form | |
+| disvā | verb | abs | having seen | |
+| mā | ind | prohib | do not | |
+| nimittaggāhino | adj | masc.nom.pl | grasping the external characteristics; focusing on prominent features; lit. grasping signs | dutiyā tappurisa |
+| \#nimittaṃ | noun | nt.acc.sg | image; sign | |
+| \#gāhino | adj | masc.nom.pl | grasping after; grabbing hold | |
+| ahuvattha | verb | aor.2nd.pl | you all (don't) be, lit. you all were | |
+| mā | ind | prohib | do not | |
+| anubyañjanaggāhino | adj | masc.nom.pl | enticed by the details; focussing on the secondary characteristics | dutiyā tappurisa |
+| \#anubyañjanāni | noun | nt.acc.pl | secondary characteristic; detail; feature; lit. differentiating | |
+| \#gāhino | adj | masc.nom.pl | grasping after; grabbing hold | |
+| yatvādhikaraṇamenaṃ | sandhi | | on account of which this | |
+| \#yato | ind | adv | because; lit. from which | |
+| \#adhikaraṇaṃ | noun | nt. | reason | |
+| \#enaṃ | pron | nt.acc.sg | him, her, it, this | |
+| cakkhundriyaṃ | noun | nt.acc.sg | eye faculty | kammadhāraya |
+| \#cakkhu | noun | nt. | eye | |
+| \#indriyaṃ | noun | nt.acc.sg | faculty | |
+| asaṃvutaṃ | adj | nt.acc.sg | unrestrained | |
+| viharantaṃ | prp | nt.acc.sg | living; remaining | |
+| abhijjhādomanassā | noun | masc.nom.pl | covetousness and grief | dvanda |
+| \#abhijjhā (+ca) | noun | fem. | greed, covetousness | |
+| \#domanassā (+ca) | noun | nt. | grief, distress | |
+| pāpakā | adj | masc.nom.pl | evil | |
+| akusalā | adj | masc.nom.pl | unhealthy | |
+| dhammā | noun | masc.nom.pl | mental states | |
+| anvāssaveyyuṃ | verb | opt.3rd.pl | they could flood in, overwhelm | |
+
+**ni + √mā + tta**
+
+**√hū 1 a (to be) \> huva. a + huva + ttha**
+
+**anu + vi + √añj + ana**
+
+**adhi + √kar + aṇa**
+
+**na + saṃ + √var + ta**
+
+**√har 1 a (to live) \> hara. vi + hara + nta**
+
+**abhi + √jhā + ā**
+
+**dur + √man + as + \*ya**
+
+**√su 1 a (to flow) \> sava. anu + ā + sava + ti**
+
+**Having seen a form with the eye, do not grasp at (its) signs and features. Since, if you were to leave the eye-faculty unguarded, evil unwholesome states of covetousness and grief might invade you.**
+
+14. [AN5.23](https://find.dhamma.gift/bw/an/an5.23.html) <br>so sace ākaṅkhati, anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ, eko'pi hutvā bahudhā assaṃ, bahudhā'pi hutvā eko assaṃ, āvibhāvaṃ tirobhāvaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -452,7 +505,7 @@
 
 **If he wishes, "I could manifest various kinds of psychic power. Having been one I could become many, having been many I could become one. (I could) appear and disappear."**
 
-14. [MN61](https://find.dhamma.gift/bw/mn/mn61.html) <br>sace tvaṃ, rāhula, paccavekkhamāno evaṃ jāneyyāsi, yaṃ kho ahaṃ idaṃ kāyena kammaṃ kattukāmo idaṃ me kāyakammaṃ attabyābādhāya'pi saṃvatteyya
+15. [MN61](https://find.dhamma.gift/bw/mn/mn61.html) <br>sace tvaṃ, rāhula, paccavekkhamāno evaṃ jāneyyāsi, yaṃ kho ahaṃ idaṃ kāyena kammaṃ kattukāmo idaṃ me kāyakammaṃ attabyābādhāya'pi saṃvatteyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -564,7 +617,7 @@
 | upasaṅkamanampāhaṃ | sandhi | | even I, by approaching | |
 | \#upasaṅkamanaṃ | noun | nt.acc.sg | approaching; visiting | |
 | \#api | ind | | just; only | |
-| \#ahaṃ | pron | 1st.sg | I | |
+| \#ahaṃ | pron | 1st.nom.sg | I | |
 | payirupāsanampāhaṃ | sandhi | | even I, by attending closely | |
 | \#payirupāsanā | noun | fem.acc.sg | attending closely | |
 | \#api | ind | | just; only | |
@@ -663,7 +716,7 @@
 | atho'pi | sandhi | | and too; and even | |
 | \#atho | ind | | and then | |
 | \#api | ind | | even then | |
-| **sakkacca** | ind | adv;<br>ger of sakkaroti | respectfully; reverentially | sat + kacca |
+| **sakkacca** | ind | adv (ger of sakkaroti) | respectfully; reverentially | sat + kacca |
 | suṇantu | verb | imp.3rd.pl (+acc) | let them listen | √su + ṇā + ntu |
 | bhāsitaṃ | noun or<br>pp | nt.acc.sg | utterance; saying<br>what is said | |
 

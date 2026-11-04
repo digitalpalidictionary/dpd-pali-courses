@@ -220,7 +220,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | nu kho | ind | interr | does? is? were? | |
 | mayaṃ | pron | 1st.nom.pl | we | |
 | atītam'addhānaṃ | ind | adv | in the past; previously | |
-| nanu | ind | neg emph | is it not? wouldn't it? | |
+| nanu | ind | neg+emph | is it not? wouldn't it? | |
 | kho | ind | emph | indeed; surely | |
 | ahesumha | verb | aor.1st.pl | we were | √hū･1 a (be) |
 | atītam'addhānaṃ | ind | adv | in the past; previously | |
@@ -382,7 +382,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | hitāya | noun | nt.dat.sg | for benefit | √dhā･1 a (place, support) |
 | sukhāya | noun | nt.dat.sg | for happiness | √sukh･1 a (please, be comfortable) |
 | bhavissati | verb | fut.3rd.sg | it will be | √bhū･1 a (be, become) |
-| kiñ'ca | ind | pron+ind interr | and what? | |
+| kiñ'ca | ind | pron+ind+interr | and what? | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | na | ind | neg | not | |
 | tumhākaṃ | pron | 2nd.gen.pl | yours | |

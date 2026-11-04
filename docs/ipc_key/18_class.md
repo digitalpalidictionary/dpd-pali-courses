@@ -117,7 +117,7 @@
 | \#\#na | prefix | | not | |
 | \#\#piya | adj | nt. | loved; liked; dear | √pī･5 nā (love, please) |
 | \#rūpe | noun | nt.loc.sg | form [object of the eye] | √rūp･8 \*e (form, produce) |
-| rūpe | noun | nt.loc.sg. | form [object of the eye] | √rūp･8 \*e (form, produce) |
+| rūpe | noun | nt.loc.sg | form [object of the eye] | √rūp･8 \*e (form, produce) |
 | na | ind | neg | not | |
 | byāpajjati | verb | pr.3rd.sg (+acc) | dislikes; hates; is repelled (by) | √pad･3 ya (go, step) |
 | upaṭṭhitakāyassati | adj | masc.nom.sg | with body awareness present | |
@@ -241,7 +241,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | imameva | sandhi | | this very | |
-| \#imaṃ | pr | masc.acc.sg | this | |
+| \#imaṃ | pron | masc.acc.sg | this | |
 | \#eva | ind | - | just, only | |
 | kāyaṃ | noun | masc.acc.sg | body | |
 | yathāṭhitaṃ | adj | masc.acc.sg | however it is standing | |
@@ -378,7 +378,7 @@
 | gunnaṃ | noun | masc.gen.pl | of the cows | |
 | na | ind | neg | not | |
 | tādisaṃ | adj | nt.nom.sg | of the same quality | |
-| padaṃ | noun | nt.nom.sg | footprint | pad･3 ya (go, step) |
+| padaṃ | noun | nt.nom.sg | footprint | √pad･3 ya (go, step) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 | seyyathāpi | ind | - | just like | |
 | gunnaṃ | noun | masc.gen.pl | of the cows | |
@@ -461,7 +461,7 @@
 | \#damma | adj | masc. | able to be tamed; fit to be trained | √dam･3 ya (be tame) |
 | \#sārathi | noun | masc.nom.sg | a trainer; a driver | |
 | kāraṇaṃ | noun | nt.acc.sg | a task | √kar･7 \*e (do, make) |
-| kāreti | verb | pr caus 3rd.sg | makes one do; causes to make | √kar･7 \*e (do, make) |
+| kāreti | verb | pr.caus.3rd.sg | makes one do; causes to make | √kar･7 \*e (do, make) |
 
 **to whichever task the elephant trainer has him perform,**
 
@@ -541,7 +541,7 @@
 | bhasmani | noun | masc.loc.sg | in ashes | |
 | mosavajjaṃ | noun | nt.nom.sg | untruth; false speech | |
 | \#mosa | adj | nt. | untrue | √mus･1 a (steal) |
-| \#vajjaṃ | adj (as noun) | nt.nom.sg | speaking; saying | √vad 1 a (to say, speak) |
+| \#vajjaṃ | adj (as noun) | nt.nom.sg | speaking; saying | √vad･1 a (say, speak) |
 
 **Conceit, O brahmin, is indeed the burden carried across your shoulders; anger the smoke, false speech (is in) the ashes.**
 
@@ -556,9 +556,9 @@
 | \#coro | noun | masc.nom.sg | thief | √cur･8 \*e (steal) |
 | rājānaṃ | noun | masc.acc.sg | the king | √rāj･1 a (rule, shine) |
 | vā | ind | conj | or | |
-| rājamahāmattānaṃ | noun | masc.gen.pl. | of the royal minister | chaṭṭhī tappurisa |
+| rājamahāmattānaṃ | noun | masc.gen.pl | of the royal minister | chaṭṭhī tappurisa |
 | \#rājino | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
-| \#mahāmattānaṃ | noun | masc.gen.pl. | of the chief minister | |
+| \#mahāmattānaṃ | noun | masc.gen.pl | of the chief minister | |
 | vā | ind | conj | or (not translated) | |
 | nissito | pp | masc.nom.sg | attached to; dependent on | √si･1 a (depend on, associate with) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |

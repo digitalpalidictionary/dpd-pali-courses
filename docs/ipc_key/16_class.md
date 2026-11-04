@@ -73,7 +73,7 @@
 | kāyakammaṃ | noun | nt.nom.sg | bodily action; physical action | kammadhāraya |
 | \#kāya | noun | masc | body | √ci･5 nā (gather, accumulate) |
 | \#kammaṃ | noun | nt.nom.sg | action | |
-| paccupaṭṭhitaṃ | pp | nt.nom.sg | established; in place | √ṭhā 1 a (to stand) |
+| paccupaṭṭhitaṃ | pp | nt.nom.sg | established; in place | √ṭhā･1 a (stand) |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | sabrahmacārīsu | noun | masc.loc.pl | in regard to fellow monks; in regard to spiritual companions | kammadhāraya |
 | \#sa | prefix | | with | |
@@ -216,7 +216,7 @@
 | me | pron | 1st.gen.sg | my | |
 | attā'ti | sandhi | masc.nom.sg+end quote | self" | |
 | \#attā | noun | masc.nom.sg | self | |
-| \#iti | ind | end quote | "" | |
+| \#iti | ind | quote | "" | |
 | no | ind | neg | no | |
 | h'etaṃ | sandhi | ind+pron | indeed this | |
 | \#hi | ind | emph | indeed | |
@@ -239,7 +239,7 @@
 | \#kiṃ | pron | nt.nom.sg | what | |
 | \#ca | ind | conj | and | |
 | \#etaṃ | pron | nt.nom.sg | this | |
-| paṭicca | verb | ger | dependent/depending on | √i 1 a (to come, go) |
+| paṭicca | verb | ger | dependent/depending on | √i･1 a (come, go) |
 | vuttaṃ | pp | nt.nom.sg | has been said | √vac･1 a (say, speak) |
 
 **Thus, indeed, it has been said. And depending on what has this been said?**
@@ -329,7 +329,7 @@
 | \#na | ind | neg | not | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | satthusāsananti | sandhi | | teacher's instruction | alutta chaṭṭhī tappurisa |
-| \#satthu | noun | masc.gen.sg. | of the teacher | |
+| \#satthu | noun | masc.gen.sg | of the teacher | |
 | \#sāsanaṃ | noun | nt.nom.sg | message, instruction | √sās･1 a (order, instruct) |
 | \#iti | ind | - | "" | |
 
@@ -473,7 +473,7 @@
 | \#kho | ind | - | indeed | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | atthāya | noun | masc.dat.sg | for purpose | √ar･1 a (move, attain) |
-| cittaṃ | noun | nt.acc.sg | mind | cit･8 \*e (think, intend) |
+| cittaṃ | noun | nt.acc.sg | mind | √cit･8 \*e (think, intend) |
 | paṇidahiṃ | verb | aor.1st.sg | I directed, I placed, I applied | √dhā･1 a (place, support) |
 | so | pron | masc.nom.sg | that | |
 | me | pron | 1st.instr.sg | by me | |
@@ -490,7 +490,7 @@
 | \#maraṇa | noun | nt | death | √mar･1 a (die) |
 | \#dhammo | noun | masc.nom.sg | nature, condition | |
 | \#amhi | verb | pr.1st.sg | I am | |
-| maraṇaṃ | noun | nt.acc.sg. | death | √mar･1 a (die) |
+| maraṇaṃ | noun | nt.acc.sg | death | √mar･1 a (die) |
 | anatītoti | sandhi | | not past"" | |
 | \#anatīto | pp | masc.nom.sg | not past; not free from | √i･1 a (come, go) |
 | \#iti | ind | - | "" | |
@@ -595,7 +595,7 @@
 | \#dhanaṃ | noun | nt.nom.sg | wealth | |
 | \#me | pron | masc.gen.sg | my | |
 | \#atthi | verb | pr.3rd.sg | there is | |
-| iti | ind | quotation | "" | |
+| iti | ind | quotation mark | "" | |
 | bālo | noun | masc.nom.sg | the fool | |
 | vihaññati | verb | pr.3rd.sg | suffers hardship (because of); suffers anguish (from) | √han･1 ya (strike, kill) |
 | attā | noun | masc.nom.sg | self | |
@@ -696,7 +696,7 @@
 | anūhate | pp | masc.loc.sg | when not destroyed; not uprooted | √han･1 a (strike, kill) |
 | \#na | prefix | | not | |
 | \#ūhate | pp | masc.loc.sg | removed; taken away | √han･1 a (strike, kill) |
-| nibbattati | pr | pr.3rd.sg <br>(i \> ī) | re-arises; re-appears; regrows; is reborn | √vatt (be, proceed) |
+| nibbattati | verb | pr.3rd.sg <br>(i \> ī) | re-arises; re-appears; regrows; is reborn | √vatt･1 a (be, proceed) |
 | dukkham'idaṃ | sandhi | noun+pron | this suffering | |
 | \#dukkhaṃ | noun | nt.nom.sg | suffering | |
 | \#idaṃ | pron | nt.nom.sg | this | √dukkh･1 a (be painful) |
@@ -735,16 +735,16 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | dīghaso | ind | adv | in length | |
-| dvādasa | card | x nom.pl | twelve | dvanda |
-| \#dvi \> dva \> dvā [ca] | card | x nom.pl | two and | |
-| \#dasa [ca] | card | x nom.pl | ten and | |
+| dvādasa | card | x.nom.pl | twelve | dvanda |
+| \#dvi \> dva \> dvā [ca] | card | x.nom.pl | two and | |
+| \#dasa [ca] | card | x.nom.pl | ten and | |
 | vidatthiyo | noun | fem.nom.pl | spans | |
 | sugatavidatthiyā | noun | fem.gen.sg | of the standard span; well-gone span | kammadhāraya |
 | \#sugata | adj | masc. | standard; commonly accepted; lit. well-gone | √gam･1 a (go) |
 | \#vidatthiyā | noun | fem.gen.sg | of the span | |
 | tiriyaṃ | ind | adv | across | √tir･1 a (cross) |
 | satt'antarā | sandhi | card+adv | seven inside | |
-| \#satta | card | x nom.pl | seven | |
+| \#satta | card | x.nom.pl | seven | |
 | \#antarā | ind | adv | inside | |
 
 **Twelve spans of the sugata-span in length [and] seven [span] across inside.**
@@ -797,8 +797,8 @@
 | gahito | pp | masc.nom.sg | taken; lit. grasped | √gah･6 ṇhā (grasp) |
 | sīhanādo | noun | masc.nom.sg | a lion's roar | |
 | \#sīhassa | noun | masc.gen.sg | of a lion | |
-| \#nāda | noun | masc.nom.sg | a roar | √nad 1 a (to roar) |
-| nadito | pp | masc.nom.sg | roared, made a noise | √nad 1 a (to roar) |
+| \#nāda | noun | masc.nom.sg | a roar | √nad･1 a (roar) |
+| nadito | pp | masc.nom.sg | roared, made a noise | √nad･1 a (roar) |
 
 **So, how is it then, Sāriputta, that this lofty, imposing statement, taken as definite, has been spoken, (that) a lion's roar has been roared by you?**
 

@@ -10,20 +10,20 @@
 | \#kiṃ | pron (or ind) | nt.nom.sg | what | |
 | \#sū | ind | interr | ? | |
 | asissāmi | verb | fut.1st.sg | I will eat | √as･1 a (eat) |
-| kuvaṃ | ind | adv interr | where? | |
+| kuvaṃ | ind | adv+interr | where? | |
 | vā | ind | conj | or | |
-| asissaṃ | verb | fut. (reflex) 1st.sg | I myself will eat | √as･1 a (eat) |
+| asissaṃ | verb | fut.reflx.1st.sg | I myself will eat | √as･1 a (eat) |
 | dukkhaṃ | ind | adv | badly; uncomfortably | √dukkh･1 a (be painful) |
 | vata | ind | excl | alas! oh dear! | |
 | settha | verb | aor.2nd.pl | you slept | √sī･1 a (lie, sleep) |
 | kv'ajja | sandhi | interr | where today? | |
 | \#kva | ind | adv | where | |
 | \#ajja | ind | adv | today | |
-| sessaṃ | verb | fut (reflex) 1st.sg | I myself sleep | √sī･1 a (lie, sleep) |
+| sessaṃ | verb | fut.reflx.1st.sg | I myself sleep | √sī･1 a (lie, sleep) |
 | ete | pron | masc.acc.pl | these | |
 | vitakke | noun | masc.acc.pl | reflections; thoughts | √takk･8 \*e (think) |
 | paridevaneyye | adj (ptp) | masc.acc.pl | sorrowful; lamentable | |
-| vinayetha | verb | opt. (reflex) 3rd sg | he should remove; dispel | √nī･1 a (lead, carry) |
+| vinayetha | verb | opt.reflx.3rd.sg | he should remove; dispel | √nī･1 a (lead, carry) |
 | sekho | noun | masc.nom.sg | a trainee | √sikkh･1 a (learn, train) |
 | aniketacārī | noun | masc.nom.sg | [one who is] wandering homeless | kammadhāraya |
 | \#aniketa | adj | masc. | homeless (lit: one who is without a home) | |
@@ -50,14 +50,14 @@
 | \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | bhavissan'ti | sandhi | | "I will be" | |
-| \#bhavissaṃ | verb | fut.(reflex) 1st.sg | I will be; I will become | √bhū･1 a (be, become) |
+| \#bhavissaṃ | verb | fut.reflx.1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" | |
 | maññitam'etaṃ | sandhi | | this is imagination | |
 | \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | na | ind | neg | not | |
 | bhavissan'ti | sandhi | | "I will be" | |
-| \#bhavissaṃ | verb | fut. (reflex) 1st.sg | I will be; I will become | √bhū･1 a (be, become) |
+| \#bhavissaṃ | verb | fut.reflx.1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" | |
 
 **"I am" is imagination; "this I am" is imagination; "I will be." is imagination; "I will not be." is imagination.**
@@ -68,14 +68,14 @@
 | --- | --- | --- | --- | --- |
 | moneyyaṃ | noun | nt.acc.sg | sagacity; sagehood | √mun･5 nā (think, know) |
 | te | pron | 2nd.dat.sg | to you | |
-| upaññissaṃ | verb | fut. (reflex) 1st.sg | I myself will explain | √ñā･5 nā (know) |
+| upaññissaṃ | verb | fut.reflx.1st.sg | I myself will explain | √ñā･5 nā (know) |
 | dukkaraṃ | adj | nt.acc.sg | difficult to do; hard to achieve | √kar･7 o (do, make) |
 | durabhisambhavaṃ | adj | nt.acc.sg | hard to attain; difficult to achieve | √bhū･1 a (be, become) |
 | handa | ind | excl | well then! come! | |
 | te | pron | 2nd.dat.sg | to you | |
 | naṃ | pron | nt.acc.sg | it | |
 | pavakkhāmi | verb | fut.1st.sg | I will tell; explain | √vac･1 a (say, speak) |
-| santhambhassu | verb | imp (reflex) 2nd.sg | you must yourself stand firm; stand yourself firm | √thambh･1 a (support, be stiff) |
+| santhambhassu | verb | imp.reflx.2nd.sg | you must yourself stand firm; stand yourself firm | √thambh･1 a (support, be stiff) |
 | daḷho | adj | masc.nom.sg | strong; firm; steady | |
 | bhava | verb | imp.2nd.sg (+nom) | you must be | √bhū･1 a (be, become) |
 
@@ -91,7 +91,7 @@
 | samathehi | noun | masc.instr.pl | with stilling; calming; serenity | √sam･3 ya (be calm, tired) |
 | yutto | adj | masc.nom.sg (+instr) | engaged in | |
 | paññāya | noun | fem.instr.sg | with knowing, wisdom | √ñā･5 nā (know) |
-| dacchaṃ | verb | fut. (reflex) 1st.sg | I myself will know; will see | √dis･1 a (see) |
+| dacchaṃ | verb | fut.reflx.1st.sg | I myself will know; will see | √dis･1 a (see) |
 | tad'idaṃ | sandhi | | this state | |
 | \#tad | pron | nt.acc.sg | that | |
 | \#idaṃ | pron | nt.acc.sg | this | |
@@ -106,7 +106,7 @@
 | --- | --- | --- | --- | --- |
 | aniccaṃ | adj (as noun) | nt.acc.sg | what is impermanent | |
 | aniccato | ind | adv | as impermanent | |
-| dakkhuṃ | verb | aor.3rd.pl | they saw | √dis ･･1 a (see) |
+| dakkhuṃ | verb | aor.3rd.pl | they saw | √dis･1 a (see) |
 | dukkham'addakkhu | sandhi | adj + nt | saw discomfort; saw suffering | |
 | \#dukkhaṃ | noun | nt.acc.sg | discomfort; suffering | √dukkh･1 a (be painful) |
 | \#addakkhu | verb | imperf.3rd.pl (+acc) | saw | √dis･1 a (see) |
@@ -142,7 +142,7 @@
 | puriso | noun | masc.nom.sg | a person | |
 | koci | pron | masc.nom.sg | any; some(one) | |
 | lokasmiṃ | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
-| vijjati | verb | pr.pass. 3rd.sg | exists (in); is found (in) | √vid･3 ya (be found, exist) |
+| vijjati | verb | pr.pass.3rd.sg | exists (in); is found (in) | √vid･3 ya (be found, exist) |
 | yo | pron | masc.nom.sg | who, whoever | |
 | nindaṃ | noun | fem.acc.sg | fault-finding; blame | |
 | apabodheti | verb | pr.3rd.sg (+acc) | avoids; shies away from | √budh･3 \*e (know, wake up) |
@@ -362,7 +362,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tassa | pr | masc.dat.sg | for it | |
+| tassa | pron | masc.dat.sg | for it | |
 | nevassa | sandhi | | not even would be | |
 | \#na | ind | neg | not | |
 | \#eva | ind | emph | even | |
@@ -400,7 +400,7 @@
 | \#mattāya | adj | fem.abl.sg | from measure | √mā･5 nā (measure) |
 | ujjhāyantiyo | prp | fem.nom.pl | finding fault; thinking badly of | √jhā･3 ya (think, meditate) |
 | vehāsaṃ | noun | masc.acc.sg | in the air; in the sky | |
-| abbhuggañchuṃ | verb | aor.3rd.pl (+acc) | rose up; flew up (into) | abhi ud√gam･1 a (go) |
+| abbhuggañchuṃ | verb | aor.3rd.pl (+acc) | rose up; flew up (into) | abhi+ud√gam･1 a (go) |
 
 **After that those deities, finding fault to an even greater measure, flew up into the sky.**
 
@@ -543,7 +543,7 @@
 | majjhe | adj | masc.loc.sg | in the middle | |
 | saṃsīdissatha | verb | fut.2nd.pl | you all will sink down | √sad･1 a (sink, sit, settle) |
 | na | ind | neg | not | |
-| thale | noun | nt.loc.sg | on dry ground | thal･1 a (be firm) |
+| thale | noun | nt.loc.sg | on dry ground | √thal･1 a (be firm) |
 | ussīdissatha | verb | fut.2nd.pl | you all will wash up, run aground | √sad･1 a (sink, sit, settle) |
 | na | ind | neg | not | |
 | manussaggāho | noun | masc.nom.sg | capture by humans; clutch of humans | tatiyā tappurisa |

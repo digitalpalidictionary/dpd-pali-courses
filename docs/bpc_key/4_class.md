@@ -17,7 +17,7 @@
 | sugatiṃ | noun | fem.acc.sg | a good destination |
 | saggaṃ | adj | masc.acc.sg | heavenly |
 | lokaṃ | noun | masc.acc.sg | world; plane of existence |
-| upapajjāmi | verb | pr.1st sg | I am reborn; I go towards |
+| upapajjāmi | verb | pr.1st.sg | I am reborn; I go towards |
 
 **I go towards a good destination, a heavenly plane of existence.**
 

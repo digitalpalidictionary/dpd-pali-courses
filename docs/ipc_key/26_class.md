@@ -36,7 +36,7 @@
 | so | pron | masc.nom.sg | he | |
 | adhigacchati | verb | pr.3rd.sg | he acquires; obtains | adhi + √gam + a + ti |
 | āyuṃ | noun | nt.acc.sg | life | |
-| datvā | verb | abs. | having given | √dā + tvā |
+| datvā | verb | abs | having given | √dā + tvā |
 | balaṃ | noun | nt.acc.sg | strength; power | |
 | vaṇṇaṃ | noun | masc.acc.sg | beauty | |
 | sukhañ'ca | sandhi | | and happiness; and pleasure | |
@@ -141,7 +141,7 @@
 | \#ca | ind | conj | and | |
 | \#eva | ind | emph | just | |
 | khādeyyuṃ | verb | opt.3rd.pl | they would eat; devour | √khād + a + eyyuṃ |
-| ure | noun | masc.loc.sg. | breast; heart | |
+| ure | noun | masc.loc.sg | breast; heart | |
 | ca | ind | conj | and | |
 | paṭipiseyyuṃ | verb | opt.3rd.pl<br>(+acc) | they would beat against | pati + √pis + ṃa + eyyuṃ |
 | **kahaṃ** | ind | adv | where | ka + haṃ |

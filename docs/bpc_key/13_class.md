@@ -41,7 +41,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃnūn'āhaṃ | idiom | pron+ind+pron 1st.nom.sg | what if I | |
+| yaṃnūn'āhaṃ | idiom | pron+ind+pron.1st.nom.sg | what if I | |
 | saṇikaṃ | ind | adv | slowly | |
 | gaccheyyāmi | verb | opt.1st.sg | I should go | √gam･1 a (go) |
 | ‘ti | ind | quote | " " | |
@@ -504,7 +504,7 @@
 | ca | ind | conj | and | |
 | sameti | verb | pr.3rd.sg | calms down; make subside; stills | √sam･3 \*e (be calm, tired) |
 | pāpāni | noun | nt.acc.pl | evil deeds | |
-| aṇuṃ | adj | nt.acc.sg | small; miniscule | pl in meaning |
+| aṇuṃ | adj | nt.acc.sg | small; miniscule (pl in meaning) | |
 | thūlāni | adj | nt.acc.pl | gross; large | |
 | sabbaso | ind | adv | completely; altogether | |
 | samitattā | noun | nt.abl.sg (+gen) | because of the calming; subsiding | √sam･3 \*e (be calm, tired) |

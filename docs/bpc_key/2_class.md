@@ -96,7 +96,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| iti'pi | iti + api | ind + ind | it is so; thus |
+| iti'pi | sandhi (iti + api) | ind + ind | it is so; thus |
 | so | pron | masc.nom.sg | he |
 | bhagavā | noun | masc.nom.sg | the Blessed One |
 | arahaṃ | noun | masc.nom.sg | the Worthy One |
@@ -339,7 +339,7 @@
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
 | avijjāya | noun | fem.gen.sg | of ignorance |
-| tv'eva | tu + eva | ind + ind | but thus; however |
+| tv'eva | sandhi (tu + eva) | ind + ind | but thus; however |
 | asesa- | adj | - | complete |
 | virāga- | noun | - | the fading away |
 | nirodhā | noun | masc.abl.sg | from cessation |

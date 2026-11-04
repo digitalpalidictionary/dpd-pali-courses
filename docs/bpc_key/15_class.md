@@ -50,7 +50,7 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | --- | --- | --- | --- | --- |
 | appa- | adj | | not many | |
 | ābādho | noun | masc.nom.sg | affliction, illness, disease | √bādh･1 a (press, oppress) |
-| hoti | v | pr.3rd.sg | he is | √hū･1 a (be) |
+| hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 
 **he is healthy (lit: of not many illnesses)**
 
@@ -62,7 +62,7 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | sāyitaṃ | pp | nt.acc.sg | what has been tasted | √sāy･1 a (taste) |
 | sammā | ind | adv | properly; rightly; thoroughly | |
 | pariṇāmaṃ | noun | masc.acc.sg | digestion | |
-| gacchati, | v | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
+| gacchati, | verb | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
 
 **what has been eaten, drunk, chewed, [and] tasted gets digested thoroughly.**
 
@@ -85,7 +85,7 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 | bhikkhave, | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
 | pañca | card | x.nom.pl | five | |
 | caṅkame | noun | masc.loc.sg | in walking meditation (in regard to…) | √kam･1 a (go) |
-| ānisaṃsā | n | masc.nom.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
+| ānisaṃsā | noun | masc.nom.pl | profits; merits; good results, benefits | √saṃs･1 a (proclaim, praise) |
 | "ti | ind | quote | " " | |
 
 **Monks, these [are], indeed, the five benefits of walking meditation."**
@@ -201,11 +201,11 @@ kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti,
 | kālena | ind | adv | at the proper time; at the right moment. | √kal×8 \*e (spend time) |
 | ca | ind | conj | and | |
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
-| hoti, | v | pr.3rd.sg | it is | √hū･1 a (be) |
+| hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 | saccā | adj | fem.nom.sg | true; reliable; honest | √as･1 a (be) |
 | ca | ind | conj | and | |
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
-| hoti, | v | pr.3rd.sg | it is | √hū･1 a (be) |
+| hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 | saṇhā | adj | fem.nom.sg | smooth; soft; gentle | |
 | ca | ind | conj | and | |
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
@@ -219,7 +219,7 @@ kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti,
 | cittena | noun | masc.instr.sg | with mind | √cit･8 \*e (think, intend) |
 | ca | ind | conj | and | |
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
-| hoti. | v | pr.3rd.sg | it is | √hū･1 a (be) |
+| hoti. | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 
 **It is (speech) spoken at the proper time, it is spoken truthfully, it is spoken gently, it is spoken beneficially, it is spoken with a friendly mind.**
 
@@ -231,7 +231,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | kho | ind | emph | indeed | |
 | bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
 | pañcahi | card | x.instr.pl | with five | |
-| aṅgehi | nom | masc.instr.pl | qualities | √añj･8 \*e (distinguish) |
+| aṅgehi | noun | masc.instr.pl | qualities | √añj･8 \*e (distinguish) |
 | samannāgatā | adj | fem.nom.sg | endowed with | |
 | vācā | noun | fem.nom.sg | speech | √vac･1 a (say, speak) |
 | subhāsitā | pp | fem.nom.sg | well-spoken | √bhās･1 a (speak) |

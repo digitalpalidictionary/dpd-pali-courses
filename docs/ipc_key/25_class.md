@@ -33,21 +33,21 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tato | ind | | therefore (com: tasmā) | |
-| pāsādikaṃ | adj | nt.nom.sg. | pleasing; inspiring confidence | pa + √sad + \*e + a + ika |
+| pāsādikaṃ | adj | nt.nom.sg | pleasing; inspiring confidence | pa + √sad + \*e + a + ika |
 | āsi | verb | aor.3rd.sg | was | √as･1 a (be) |
-| gataṃ | pp (as noun) | nt.nom.sg. | going; walking | |
-| bhuttaṃ | pp (as noun) | nt.nom.sg. | eating | |
-| nisevitaṃ | pp (as noun) | nt.nom.sg. | resorting to; practice | |
-| siniddhā | adj | fem.nom.sg. | smooth, soft | |
+| gataṃ | pp (as noun) | nt.nom.sg | going; walking | |
+| bhuttaṃ | pp (as noun) | nt.nom.sg | eating | |
+| nisevitaṃ | pp (as noun) | nt.nom.sg | resorting to; practice | |
+| siniddhā | adj | fem.nom.sg | smooth, soft | |
 | teladhārā'va | sandhi | | like the stream of oil | |
-| \#teladhārā | noun | fem.nom.sg. | stream of oil | chaṭṭhī tappurisa |
-| \#\#telassa | noun | nt.gen.sg. | of oil | *tila* + \*a |
-| \#\#dhārā | noun | fem.nom.sg. | stream; flow | |
+| \#teladhārā | noun | fem.nom.sg | stream of oil | chaṭṭhī tappurisa |
+| \#\#telassa | noun | nt.gen.sg | of oil | *tila* + \*a |
+| \#\#dhārā | noun | fem.nom.sg | stream; flow | |
 | \#iva | ind | | like, as | |
-| ahosi | verb | aor.3rd.sg. | was | √hū･1 a (be)<br> + a \> ho |
-| iriyāpatho | noun | masc.nom.sg. | movement; mode of behaviour, deportment | chaṭṭhī tappurisa |
-| \#iriyāya | noun | fem.gen.sg. | conduct, deportment | |
-| \#patho | noun | masc.nom.sg. | way | |
+| ahosi | verb | aor.3rd.sg | was | √hū･1 a (be)<br> + a \> ho |
+| iriyāpatho | noun | masc.nom.sg | movement; mode of behaviour, deportment | chaṭṭhī tappurisa |
+| \#iriyāya | noun | fem.gen.sg | conduct, deportment | |
+| \#patho | noun | masc.nom.sg | way | |
 
 **Therefore (their) walking, eating and practice was inspiring confidence, (their) deportment was as smooth as a stream of oil.**
 
@@ -55,32 +55,32 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yā | pron | fem.nom.sg. | whichever | |
-| sā | pron | fem.nom.sg. | that | |
-| vācā | noun | fem.nom.sg. | speech | √vac + \*ā |
-| nelā | adj | fem.nom.sg. | polite; gentle | |
-| kaṇṇasukhā | adj | fem.nom.sg. | easy on the ear; pleasant to hear | catutthī (dat) tappurisa |
-| \#kaṇṇānaṃ | noun | masc.dat.pl. | for/to the ears | |
-| \#sukhā | adj | fem.nom.sg. | pleasant, easy | |
-| pemanīyā | adj | fem.nom.sg. | endearing; friendly | √pī + \*ma + anīya |
-| hadayaṅgamā | adj | fem.nom.sg. | heart warming; from the heart; touching the heart; | alutta dutiyā tappurisa |
-| \#hadayaṃ | noun | nt.acc.sg. | to the heart | hada + ya |
-| \#gamā | adj. | fem.nom.sg. | going; able to go | √gam + a |
-| porī | adj | fem.nom.sg. | urbane; polite | |
-| bahujanakantā | adj | fem.nom.sg. | pleasing to many people; | catutthī (dat) tappurisa |
-| \#bahujanassa | adj | masc.dat.sg. | to/for many people | kammadhāraya |
+| yā | pron | fem.nom.sg | whichever | |
+| sā | pron | fem.nom.sg | that | |
+| vācā | noun | fem.nom.sg | speech | √vac + \*ā |
+| nelā | adj | fem.nom.sg | polite; gentle | |
+| kaṇṇasukhā | adj | fem.nom.sg | easy on the ear; pleasant to hear | catutthī (dat) tappurisa |
+| \#kaṇṇānaṃ | noun | masc.dat.pl | for/to the ears | |
+| \#sukhā | adj | fem.nom.sg | pleasant, easy | |
+| pemanīyā | adj | fem.nom.sg | endearing; friendly | √pī + \*ma + anīya |
+| hadayaṅgamā | adj | fem.nom.sg | heart warming; from the heart; touching the heart; | alutta dutiyā tappurisa |
+| \#hadayaṃ | noun | nt.acc.sg | to the heart | hada + ya |
+| \#gamā | adj. | fem.nom.sg | going; able to go | √gam + a |
+| porī | adj | fem.nom.sg | urbane; polite | |
+| bahujanakantā | adj | fem.nom.sg | pleasing to many people; | catutthī (dat) tappurisa |
+| \#bahujanassa | adj | masc.dat.sg | to/for many people | kammadhāraya |
 | \#\#bahu | adj | masc. | many | |
-| \#\#janassa | noun | masc.dat.sg. | to/for the people | |
-| \#kantā | adj | fem.nom.sg. | pleasing | |
-| bahujanamanāpā | adj | fem.nom.sg. | charming to the people | catutthī (dat) tappurisa |
-| \#bahujanassa | adj | masc.dat.sg. | to/for the people | kammadhāraya |
+| \#\#janassa | noun | masc.dat.sg | to/for the people | |
+| \#kantā | adj | fem.nom.sg | pleasing | |
+| bahujanamanāpā | adj | fem.nom.sg | charming to the people | catutthī (dat) tappurisa |
+| \#bahujanassa | adj | masc.dat.sg | to/for the people | kammadhāraya |
 | \#\#bahu | adj | masc. | many | |
-| \#\#janassa | noun | masc.dat.sg. | to/for the people | |
-| manāpā | adj | fem.nom.sg. | pleasant; likeable | |
-| tathārūpiṃ | adj | fem.acc.sg. | such; such kind | kammadhāraya |
-| \#tathā | adv | | so; thus; in such a way | |
-| \#rūpiṃ | adj | fem.acc.sg. | of type; of kind; having the quality of | |
-| vācaṃ | noun | fem.acc.sg. | speech | √vac + \*ā |
+| \#\#janassa | noun | masc.dat.sg | to/for the people | |
+| manāpā | adj | fem.nom.sg | pleasant; likeable | |
+| tathārūpiṃ | adj | fem.acc.sg | such; such kind | kammadhāraya |
+| \#tathā | ind | adv | so; thus; in such a way | |
+| \#rūpiṃ | adj | fem.acc.sg | of type; of kind; having the quality of | |
+| vācaṃ | noun | fem.acc.sg | speech | √vac + \*ā |
 | bhāsitā | noun | masc.nom.sg | speaker; who talks (about) | √bhās + ita |
 | hoti | verb | pr.3rd.sg | becomes | √hū + a + ti |
 
@@ -95,14 +95,14 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | vevaṇṇiy'amhi | sandhi | | I am/have … change of appearance | |
-| \#vevaṇṇiyaṃ | noun | nt.acc.sg. | change of appearance; change of social order | *vivaṇṇa + \*iya* |
+| \#vevaṇṇiyaṃ | noun | nt.acc.sg | change of appearance; change of social order | *vivaṇṇa + \*iya* |
 | \#amhi | verb | pr.1st.sg | I am | |
 | ajjhupagato'ti | sandhi | | "I am come to; I have arrived at" | |
-| \#ajjhupagato | pp | masc.nom.sg. | arrived (at); reached; come to | |
+| \#ajjhupagato | pp | masc.nom.sg | arrived (at); reached; come to | |
 | \#iti | ind | quotation mark | thus; "" | |
-| pabbajitena | pp (as noun) | masc.instr.sg. | by a monk; monastic; renunciant | |
-| abhiṇhaṃ | adv. | | constantly; frequently | |
-| paccavekkhitabbaṃ | ptp | nt.nom.sg. | should be contemplated; should be reflected (on) | |
+| pabbajitena | pp (as noun) | masc.instr.sg | by a monk; monastic; renunciant | |
+| abhiṇhaṃ | ind | adv | constantly; frequently | |
+| paccavekkhitabbaṃ | ptp | nt.nom.sg | should be contemplated; should be reflected (on) | |
 
 **"I have come to a change of social order", should be frequently reflected on by a renunciant.**
 
@@ -377,25 +377,25 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yo | pron | masc.nom.sg. | who(ever); which(ever) | |
+| yo | pron | masc.nom.sg | who(ever); which(ever) | |
 | pana | ind | | and; further; moreover | |
-| bhikkhu | noun | masc.nom.sg. | monk; fully ordained monk; mendicant | |
-| bhikkhussa | noun | masc.dat.sg. | to a monk | |
+| bhikkhu | noun | masc.nom.sg | monk; fully ordained monk; mendicant | |
+| bhikkhussa | noun | masc.dat.sg | to a monk | |
 | vā | ind | | or | |
-| bhikkhuniyā | noun | fem.dat.sg. | to a nun | |
+| bhikkhuniyā | noun | fem.dat.sg | to a nun | |
 | vā | ind | | or | |
-| sikkhamānāya | noun (from prp) | fem.dat.sg. | to a nun-in-training, female probationer | |
+| sikkhamānāya | noun (from prp) | fem.dat.sg | to a nun-in-training, female probationer | |
 | vā | ind | | or | |
 | sāmaṇerassa | noun | masc.dat.sg | to a novice, to an apprentice monk | *samaṇa + \*era* |
 | vā | ind | | or | |
-| sāmaṇeriyā | noun | fem.dat.sg. | to a female novice | samaṇera + ī |
+| sāmaṇeriyā | noun | fem.dat.sg | to a female novice | samaṇera + ī |
 | vā | ind | | or | |
-| sāmaṃ | adv | masc./nt.acc.sg. | himself; by himself | |
-| cīvaraṃ | noun | nt.acc.sg. | robe; cloth, robe-cloth | |
+| sāmaṃ | ind | adv (masc./nt.acc.sg) | himself; by himself | |
+| cīvaraṃ | noun | nt.acc.sg | robe; cloth, robe-cloth | |
 | vikappetvā | verb | abs | having assigned ownership; | |
-| appaccuddhāraṇaṃ | adv | nt.acc.sg. | without withdrawing (the assignment) | |
-| paribhuñjeyya | verb | opt.3rd.sg. | should/would use, make use of | |
-| pācittiyaṃ | noun | nt.nom.sg. | an offence requiring confession | |
+| appaccuddhāraṇaṃ | ind | adv (nt.acc.sg) | without withdrawing (the assignment) | |
+| paribhuñjeyya | verb | opt.3rd.sg | should/would use, make use of | |
+| pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession | |
 
 **Whatever Bhikkhu, having himself assigned a robe to a monk, a nun, a female probationer, a male novice or a female novice, should use (it) without withdrawing (the assignment), there is an offence requiring confession.**
 
@@ -403,25 +403,25 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| indriyesu | noun | nt.loc.pl. | regarding the senses | *indra + iya* |
-| guttadvārā | adj | masc.nom.pl. | with the doors guarded, protected; | kammadhāraya > bahubbīhi |
+| indriyesu | noun | nt.loc.pl | regarding the senses | *indra + iya* |
+| guttadvārā | adj | masc.nom.pl | with the doors guarded, protected; | kammadhāraya > bahubbīhi |
 | \#gutta | pp | nt. | guarded; protected | |
-| \#dvārāni | noun | nt.nom.pl. | doors; entrances; gates | |
-| bhavissāma | verb | fut.1st.pl. | we will be | |
-| bhojane | noun | nt.loc.sg. | in regard to food, to the meal | |
-| mattaññuno | adj | masc.nom.pl. | knowing the (correct) measure (in); knowing the limit (in); moderate (in) | dutiyā tappurisa (upapada) |
+| \#dvārāni | noun | nt.nom.pl | doors; entrances; gates | |
+| bhavissāma | verb | fut.1st.pl | we will be | |
+| bhojane | noun | nt.loc.sg | in regard to food, to the meal | |
+| mattaññuno | adj | masc.nom.pl | knowing the (correct) measure (in); knowing the limit (in); moderate (in) | dutiyā tappurisa (upapada) |
 | \#mattaṃ | noun | fem.acc.sg | measure | |
-| \#ñū | noun | masc.nom.pl. | knower; who understands | |
-| jāgariyaṃ | noun | nt.acc.sg. | being awake; wakefulness | |
+| \#ñū | noun | masc.nom.pl | knower; who understands | |
+| jāgariyaṃ | noun | nt.acc.sg | being awake; wakefulness | |
 | anuyuttā | pp | masc.nom.pl (+acc) | devoted (to); applied oneself (to) | |
 | vipassakā | adj (as noun) | masc.nom.pl | who have clear insight; who perceive distinctly | |
-| kusalānaṃ | noun | masc.gen.pl. | wholesome | |
-| dhammānaṃ | noun | masc.gen.pl. | qualities | |
-| pubbarattā'pararattaṃ | adv; sandhi | | in the first and last part of the night; in the late evening and early morning; | |
-| \#pubbarattaṃ | adv | | earlier part of the night; first third of the night; 6pm to 10pm | kammadhāraya |
+| kusalānaṃ | noun | masc.gen.pl | wholesome | |
+| dhammānaṃ | noun | masc.gen.pl | qualities | |
+| pubbarattā'pararattaṃ | sandhi | adv | in the first and last part of the night; in the late evening and early morning; | |
+| \#pubbarattaṃ | ind | adv | earlier part of the night; first third of the night; 6pm to 10pm | kammadhāraya |
 | \#\#pubbaṃ | adj | nt.acc.sg | previous | |
 | \#\#rattaṃ | noun | nt.acc.sg | night | |
-| \#apararattaṃ | adv | | later part of the night; last third of the night; 2am to 6am | kammadhāraya |
+| \#apararattaṃ | ind | adv | later part of the night; last third of the night; 2am to 6am | kammadhāraya |
 | \#\#aparaṃ | adj | nt.acc.sg | further; next | |
 | \#\#rattaṃ | noun | nt.acc.sg | night | |
 | bodhipakkhiyānaṃ | adj | masc.gen.pl | related to awakening; leading to enlightenment | bodhi + pakkha + iya |
@@ -453,7 +453,7 @@
 | nāma | ind | adv | by the name of | |
 | māro | noun | masc.nom.sg | death; Mara | |
 | ahosiṃ | verb | aor.1st.sg | I was | a + √hū + a + siṃ |
-| tassa | pron | masc.gen.(or dat.) sg | to him; to that one | |
+| tassa | pron | masc.gen/dat.sg | to him; to that one | |
 | me | pron | 1st.gen.sg | my | |
 | **kāḷī** | noun | fem.nom.sg | name of Mahāmoggallāna's sister in a previous incarnation | kāḷa + ī |
 | nāma | ind | adv | by the name of | |

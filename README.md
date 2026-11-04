@@ -112,6 +112,10 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 - **`verify_numbering.py`**: Verifies consistency of sentence numbering (footnotes, lists) across Markdown, website, and PDF. Identifies discrepancies where numbering resets or differs between formats.
   - Usage: `uv run python scripts/verify_numbering.py`
 
+- **`verify_key.py`**: Verifies the BPC and IPC answer keys (`docs/bpc_key/`, `docs/ipc_key/`) against the exercise files and the tag vocabulary: numbering, POS/Grammar tags, root-cell format, compound-type spelling, stray characters. Exits 1 on any error; word-coverage warnings never affect the exit code. With `--dpd`, also checks each row's form, tag and root against the local DPD database and writes a TSV report (advisory only, never affects the exit code; local-only because the DB lives outside the repo).
+  - Usage: `uv run python scripts/verify_key.py [--course bpc|ipc|all] [--warnings] [--dpd [PATH]] [--report PATH]`
+  - `--course`: which course to check (default `all`). `--warnings`: list the word-coverage warnings instead of only counting them. `--dpd [PATH]`: run the DPD check (default DB `/Users/deva/Documents/dpd-db/dpd.db`). `--report PATH`: TSV report location (default `temp/key_dpd_report.tsv`).
+
 - **`compare_md_sources.py`**: Compares current Markdown files against an older Git commit to detect potential data loss or regressions in course content.
   - Usage: `uv run python scripts/compare_md_sources.py [--commit <hash>]`
 

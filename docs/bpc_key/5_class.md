@@ -154,7 +154,7 @@
 | bhikkhū | noun | masc.nom.pl | the monks | √bhikkh･1 a (beg) |
 | uppannāya | pp | fem.gen.sg | arisen | |
 | taṇhāya | noun | fem.gen.sg | of craving | √tas･6 ṇhā (thirst) |
-| na | part | ind | not | |
+| na | ind | neg | not | |
 | vasaṃ | noun | masc.acc.sg | the authority; power | √vas×1 a (want, control) |
 | gacchissanti | verb | fut.3rd.pl | they will go; follow; submit to | √gam･1 a (go) |
 
@@ -216,7 +216,7 @@
 | evaṃ | ind | adv | thus | |
 | me | pron | 1st.gen.sg | my | |
 | saṅkhārā | noun | masc.nom.pl | volitional formations | √kar･7 o (do, make) |
-| mā | part | ind | not; don't; don't let | |
+| mā | ind | neg | not; don't; don't let | |
 | ahesuṃ | verb | aor.3rd.pl | there were | √hū･1 a (be) |
 
 **Let my volitional formations be thus, let my volitional formations not be thus.**
@@ -587,7 +587,7 @@
 | --- | --- | --- | --- | --- |
 | gaccha | verb | imp.2nd.sg | go! begone! | √gam･1 a (go) |
 | āvuso | ind | voc.sg | friend | |
-| na | part | ind | no; not | |
+| na | ind | neg | no; not | |
 | me | pron | 1st.dat.sg | to me; for me | |
 | saddhiṃ | ind | prep | together with | |
 | kathā | noun | fem.nom.sg | speech; talk | √kath･8 \*e (speak, narrate) |

@@ -110,7 +110,7 @@
 | \#dosā | noun (as adj) | fem.nom.sg | defect; corruption; problem | |
 | ayaṃ | pron | fem.nom.sg | this | |
 | pajā | noun | fem.nom.sg | generation | |
-| tasmā | ind | adv, abl sg of ta | therefore; that is why | |
+| tasmā | ind | adv (abl sg of ta) | therefore; that is why | |
 | hi | ind | emph | indeed; certainly | |
 | vītarāgesu | adj | masc.loc.pl | in saints; holy men; [those who are] free from desires | kammadhāraya \> bahubbīhi |
 | \#vīta | pp (as adj) | masc. | without; free from | √i･1 a (come, go) |
@@ -200,7 +200,7 @@
 | nisīdati | verb | pr.3rd.sg | he sits down | √sad･1 a (sink, sit, settle) |
 | pallaṅkaṃ | noun | masc.acc.sg | couch, cross-legged position | √añc･1 a (bend) |
 | ābhujitvā | verb | abs | having folded, bent | √bhuj･1 a (bend) |
-| ujuṃ | adv. | masc.acc.sg | uprightly; erectly, in a straight line | √uj×1 a (be straight) |
+| ujuṃ | ind | adv (masc.acc.sg) | uprightly; erectly, in a straight line | √uj×1 a (be straight) |
 | kāyaṃ | noun | masc.acc.sg | body | √ci･5 nā (gather, accumulate) |
 | paṇidhāya | verb | ger | directing; positioning | √dhā･1 a (place, support) |
 | parimukhaṃ | ind | adv | as first priority; to the fore lit. around the front | |
@@ -319,7 +319,7 @@
 | \#pabbate | noun | masc.loc.sg | on the mountain | |
 | thullaphusitake | adj | masc.loc.sg (loc abs) | which has big drops | |
 | \#thulla | adj | nt. | big | √thūl×8 \*e (be fat, coarse) |
-| \#phusitake | noun | nt.loc.sg.<br>(loc abs) | drops | √phus･1 a (sprinkle, splash) |
+| \#phusitake | noun | nt.loc.sg<br>(loc abs) | drops | √phus･1 a (sprinkle, splash) |
 | deve | noun | masc.loc.sg (loc abs) | when rain cloud | √div･3 ya (shine) |
 | vassante | prp | masc.loc.sg (loc abs) | when raining | √vass･1 a (rain) |
 | taṃ | pron | nt.nom.sg | that | |
@@ -352,13 +352,13 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ehi | verb | imp 2nd.sg | come! | |
+| ehi | verb | imp.2nd.sg | come! | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | bhadramukha | noun | masc.voc.sg | my dear, lit. lucky face (one whose face is lucky) | |
 | \#bhadra | adj | masc | lucky | √bhad×1 a (be good, lucky) |
 | \#mukha | noun | masc.voc.sg | face | |
 | saṅghāṭiko | adj | masc.nom.sg | who wears patchwork robe | √ghaṭ･1 a (join together) |
-| hohi | verb | imp 2nd.sg | be! | √hū･1 a (be) |
+| hohi | verb | imp.2nd.sg | be! | √hū･1 a (be) |
 | saṅghāṭikassa | adj | masc.gen.sg (gen abs) | when who wears patchwork robe | √ghaṭ･1 a (join together) |
 | te | pron | 2nd.gen.sg (gen abs) | when you | |
 | sato | prp | masc.gen.sg (gen abs) | when existing, being | √as･1 a (be) |
@@ -390,12 +390,12 @@
 | akusalehi | adj | masc.abl.pl | from unskilled | |
 | dhammehi | noun | masc.abl.pl | from mental states | √dhar･1 a (hold, carry, endure) |
 | visuddhamattānaṃ | sandhi | pp + masc | one's own purification; oneself as purified | |
-| \#visuddhaṃ | pp. | masc.acc.sg. | cleansed; purified | √sudh･3 ya (be pure) |
+| \#visuddhaṃ | pp. | masc.acc.sg | cleansed; purified | √sudh･3 ya (be pure) |
 | \#attānaṃ | noun | masc.acc.sg | oneself | |
 | samanupassato | prp | masc.gen.sg (gen abs) | when seeing | √dis･1 a (see) |
 | vimuttamattānaṃ | sandhi | pp + masc | one's freedom from; oneself as free from | |
-| \#vimuttaṃ | pp. | masc.acc.sg. | freed (from); liberated | √muc･2 ṃa (release, free) |
-| \#attānaṃ | noun | masc.acc.sg. | oneself | |
+| \#vimuttaṃ | pp. | masc.acc.sg | freed (from); liberated | √muc･2 ṃa (release, free) |
+| \#attānaṃ | noun | masc.acc.sg | oneself | |
 | samanupassato | prp | masc.gen.sg (gen abs) | when seeing | √dis･1 a (see) |
 | pāmojjaṃ | noun | nt.nom.sg | happiness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | it is born, it arises | √jan･3 ya (be born, produce) |
@@ -496,7 +496,7 @@
 | pahānā | noun | nt.abl.sg | from the abandoning | √hā･1 a (abandon) |
 | dukkhassa | noun | nt.gen.sg | of pain; physical discomfort | √dukkh･1 a (be painful) |
 | ca | ind | conj | and | |
-| pahānā | noun | nt.abl.sg. | from the abandoning | √hā･1 a (abandon) |
+| pahānā | noun | nt.abl.sg | from the abandoning | √hā･1 a (abandon) |
 | pubb'eva | sandhi | | just before | |
 | \#pubbe | ind (or adj) | adv | previously; in the past | |
 | \#eva | ind | emph | just; only | |
@@ -537,11 +537,11 @@
 | \#lakkhaṇesu | noun | nt.loc.pl | about, in regard to the auspicious marks | |
 | kaṅkhati | verb | pr.3rd.sg (+loc) | doubts, has doubt (about) | √kaṅkh･1 a (doubt) |
 | vicikicchati | verb | pr.3rd.sg | is uncertain (about) | vi√cit･8 cha (think, intend) |
-| n'ādhimuccati | verb | pr.3rd.sg (+loc) | has not made up his mind (about); does not draw a definite conclusion (about); is not resolved (about) | na adhi √muc･2 ya (release, free) |
+| n'ādhimuccati | verb | pr.3rd.sg (+loc) | has not made up his mind (about); does not draw a definite conclusion (about); is not resolved (about) | na+adhi√muc･2 ya (release, free) |
 | \#na | ind | neg | not | |
 | \#adhimuccati | verb | pr.3rd.sg | has made up his mind (about); inclines (to); is resolved (on) | |
 | na | ind | neg | not | |
-| sampasīdati | verb | pr.3rd.sg | is settled (on); has made up one's mind (about); has faith (in); inclines (towards); | saṃ pa√sad･1 a (sink, sit, settle) |
+| sampasīdati | verb | pr.3rd.sg | is settled (on); has made up one's mind (about); has faith (in); inclines (towards); | saṃ+pa√sad･1 a (sink, sit, settle) |
 | kos'ohite | adj | masc.loc.sg | (in regard to, about what is) sheathed; enclosed | sattamī tappurisa |
 | \#kose | noun | masc.loc.sg | in a shell; sheath | |
 | \#ohite | pp | masc.loc.sg | hidden; confined within | ava√dhā･1 a (place, support) |
@@ -549,7 +549,7 @@
 | vatthaguyhe | noun (as adj) | masc.loc.sg | male genitals (lit: to be hidden in a cloth) | sattamī tappurisa \> bahubbīhi |
 | \#vatthe | noun | nt.loc.sg | in a cloth | |
 | \#guyhe | ptp | masc.loc.sg | to be hidden (in); should be hidden (in) | |
-| pahūtajivhatāya | fem | fem.loc.sg | regarding the largeness of the tongue | kammadhāraya |
+| pahūtajivhatāya | noun | fem.loc.sg | regarding the largeness of the tongue | kammadhāraya |
 | \#pahūta | adj | fem. | abundant; vast | |
 | \#jivhatāya | noun | fem.gen.sg | of the fact of having a tongue | |
 
@@ -575,7 +575,7 @@
 | \#na | ind | neg | not | |
 | \#celakā | noun | masc.nom.pl | one for whom there are clothes | |
 | satta | card | x.nom.pl | seven | |
-| ca | conj | and | and | |
+| ca | ind | conj | and | |
 | ekasāṭakā | noun | masc.nom.pl | one-robe ascetics; those for whom there is one cloak | digu \> bahubbīhi |
 | \#eka | card | masc. | one | |
 | \#sāṭakā | noun | masc.nom.pl | one cloak; outer garment | |

@@ -379,7 +379,7 @@
 | dhammaṃ | noun | masc.acc.sg | the doctrine; Dhamma | √dhar･1 a (hold, carry, endure) |
 | paññāya | noun | fem.instr.sg | with wisdom | √ñā･5 nā (know) |
 | pavicinato | prp | masc.dat.sg<br>(or)<br>masc.gen.sg | for investigating<br>(or) when investigating | √ci･5 nā (gather, accumulate) |
-| pavicarato | prp | masc.dat.sg<br>(or)<br>masc.gen.sg | for examining<br>(or) when examining | √car 1 a (to move, walk) |
+| pavicarato | prp | masc.dat.sg<br>(or)<br>masc.gen.sg | for examining<br>(or) when examining | √car･1 a (move, walk) |
 | parivīmaṃsaṃ | noun | fem.acc.sg | thorough investigation | √man･3 sa (think) |
 | āpajjato | prp | masc.dat.sg<br>(or) <br>masc.gen.sg | for arousing; <br>(or) when exhibiting | √pad･3 ya (go, step) |
 | āraddhaṃ | pp | nt.nom.sg | applied; aroused | √rabh･1 a (begin) |
@@ -591,7 +591,7 @@
 | na | ind | neg | not | |
 | tāva | ind | adv | so long | |
 | ahaṃ | pron | 1st.nom.sg | I | |
-| āvuso | ind | voc.sg or pl | friends | |
+| āvuso | ind | voc.sg or voc.pl | friends | |
 | etasmiṃ | noun | nt.loc.sg | in this | |
 | sikkhāpade | noun | nt.loc.sg | in training rule | |
 | sikkhissāmi | verb | fut.1st.sg | I will train; practice | √sikkh･1 a (learn, train) |

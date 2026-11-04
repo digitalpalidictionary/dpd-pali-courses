@@ -116,7 +116,7 @@
 | \#oḷārikassa | adj | masc.gen.sg | of gross | |
 | \#api | ind | | but | |
 | kho | ind | emph | indeed | |
-| ahaṃ | pron | 1st.sg.nom | I | |
+| ahaṃ | pron | 1st.nom.sg | I | |
 | poṭṭhapāda | noun | masc.voc.sg | Poṭṭhapāda | |
 | attapaṭilābhassa | noun | masc.gen.sg | of the acquisition of a self | dutiyā tappurisa |
 | \#attānaṃ | noun | masc.acc.sg | a self | |
@@ -160,9 +160,9 @@
 | --- | --- | --- | --- | --- |
 | **alajjitāye** | ptp | masc.loc.sg | should not be ashamed (lit: not to be ashamed) | na + √lajj + itāya |
 | lajjanti | verb | pr.3rd.pl | they are ashamed | |
-| **lajjitāye** | ptp | masc.loc.sg. | should be ashamed (lit: to be ashamed) | √lajj + itāya |
+| **lajjitāye** | ptp | masc.loc.sg | should be ashamed (lit: to be ashamed) | √lajj + itāya |
 | na | ind | neg | not | |
-| lajjare | verb | pr.reflex.3rd.pl (+loc) | they embarrass themselves (about) | |
+| lajjare | verb | pr.reflx.3rd.pl (+loc) | they embarrass themselves (about) | |
 | micchādiṭṭhisamādānā | noun | masc.nom.pl | believing in wrong views (lit: taking up wrong views) | dutiyā tappurisa as bahubbīhi<br> |
 | \#micchādiṭṭhiṃ | noun | fem.acc.sg | wrong view | kammadhāraya |
 | \#\#micchā | adj | fem. | wrong | |
@@ -207,7 +207,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| nisajjaṃ | noun | fem.acc.sg. | the sitting down | |
+| nisajjaṃ | noun | fem.acc.sg | the sitting down | |
 | bhikkhu | noun | masc.nom.sg | a monk | |
 | **paṭijānamāno** | prp | masc.nom.sg | admitting | pati + √ñā + nā + māna |
 | tiṇṇaṃ | card | masc.gen.pl | of three | |
@@ -370,7 +370,7 @@
 | **samāpannassa** | pp | masc.dat.sg | entered | saṃ + ā + √pad + na |
 | bhikkhuno | noun | masc.dat.sg | for a monk | |
 | vuṭṭhānaṃ | noun | nt.nom.sg | emerging | |
-| paññāyetha | verb | opt.pass.reflex.3rd.sg | it would be apparent; it would be evident | pa + √ñā + ya + etha |
+| paññāyetha | verb | opt.pass.reflx.3rd.sg | it would be apparent; it would be evident | pa + √ñā + ya + etha |
 
 **And if, friend, life forces were things that could be felt, [then] for a monk [who had] entered into the cessation of perception and feeling, emerging (from it) would not be evident.**
 

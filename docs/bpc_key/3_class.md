@@ -275,7 +275,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| handa | excl | ind | come on!; come now! let's! |
+| handa | ind | excl | come on!; come now! let's! |
 | bhikkhu | noun | masc.voc.sg | Bhikkhu |
 | khāda | verb | imp.2nd.sg | chew; eat |
 | vā | ind | conj | or |

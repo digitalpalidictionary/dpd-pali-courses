@@ -34,6 +34,9 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 - Use `tools/printer.py` for all script output: `pr.green_tmr("task")` → `pr.yes("ok")` on success (`green_tmr` keeps "ok" and the timing on the same line; plain `pr.green` adds a newline and never starts the timer), `pr.no(f"{n} files")` + `pr.amber(f)` per item on failure. Collect per-item warnings during the step and print them after `pr.yes`/`pr.no`, never between `green_tmr` and the result. No bare `print()`. Shell scripts have no `echo` step labels.
 - Use `icecream` (`from icecream import ic`) for debug output, not `print()`.
 
+## Key Verification
+- Before any commit touching `docs/bpc_key/`, `docs/bpc_ex/`, `docs/ipc_key/` or `docs/ipc_ex/`, run `uv run python scripts/verify_key.py`; it must exit 0. `--dpd` is optional, local-only and advisory.
+
 ## Useful Links
 - [GitHub Project](https://github.com/orgs/digitalpalidictionary/projects/2)
 

@@ -129,7 +129,7 @@
 | pajahathā'ti | sandhi | | you (all) give up; abandon" | |
 | \#pajahatha | verb | imp.2nd.pl | [you] give up; abandon | √hā･1 a (abandon) |
 | \#iti | ind | quotation mark | "" | |
-| vadeyyaṃ | verb | opt.1st.nom.sg (reflex) | I myself should say | √vad･1 a (say, speak) |
+| vadeyyaṃ | verb | opt.reflx.1st.sg | I myself should say | √vad･1 a (say, speak) |
 
 **Not knowing [this], I could myself [then] say, "abandon this kind of pleasant feeling".**
 
@@ -152,13 +152,13 @@
 | --- | --- | --- | --- | --- |
 | coro'si | sandhi | | you are a robber | |
 | \#coro | noun | masc.nom.sg | a robber | √cur･8 \*e (steal) |
-| \#asi | verb | pr.2nd sg | you are | √as･1 a (be) |
+| \#asi | verb | pr.2nd.sg | you are | √as･1 a (be) |
 | bālo'si | sandhi | | you are a fool | |
 | \#bālo | noun | masc.nom.sg | a fool | |
-| \#asi | verb | pr.2nd sg | you are | √as･1 a (be) |
+| \#asi | verb | pr.2nd.sg | you are | √as･1 a (be) |
 | mūḷho'si | sandhi | | you are a deluded man | |
 | \#mūḷho | noun | masc.nom.sg | a deluded man | √muh･3 ya (be deluded, confused) |
-| \#asi | verb | pr.2nd sg | you are | √as･1 a (be) |
+| \#asi | verb | pr.2nd.sg | you are | √as･1 a (be) |
 | theno'sī'ti | sandhi | | you are a thief" | |
 | \#theno | noun | masc.nom.sg | a thief | √then･8 \*e (steal) |
 | \#asi | verb | pr.2nd.sg | you are | √as･1 a (be) |
@@ -199,7 +199,7 @@
 | ten'añjaliṃ | sandhi | | there palm placed together; there venerated | |
 | \#tena | ind | adv | there | |
 | \#añjaliṃ | noun | masc.acc.sg | palms placed together | √añj×1 a (pay respect) |
-| paṇāmetvā | verb | abs caus | having stretched out | √nam･1 \*e (bend) |
+| paṇāmetvā | verb | abs (caus) | having stretched out | √nam･1 \*e (bend) |
 | bhagavantaṃ | noun | masc.acc.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | etad'avoca | sandhi | | this said | |
 | \#etad | pron | nt.acc.sg | this | |
@@ -314,7 +314,7 @@
 | ātāpinī | adj | fem.nom.sg | ardent, lit. burning | √tap･1 a (burn, radiate heat) |
 | pahitattā | adj | fem.nom.sg | resolute; determined; applying oneself; lit. applied self | |
 | \#pahita | pp | - | applied; directed; exercised; lit. placed forward | √dhā･1 a (place, support) |
-| \#atta | noun | m | self | |
+| \#atta | noun | masc | self | |
 | vihareyyanti | sandhi | | I could live" | |
 | \#vihareyyaṃ | verb | opt.reflx.1st.sg | I could live | √har･1 a (live) |
 | \#iti | ind | - | "" | |
@@ -603,7 +603,7 @@
 | ve | ind | emph | truly; definitely | |
 | vitakkāni | noun | nt.acc.pl | thoughts | √takk･8 \*e (think) |
 | vicāritāni | pp caus | nt.acc.pl | investigated ; examined (lit: caused to move about) | √car･1 \*e (move, walk) |
-| sameti | verb | pr.3rd.sg. caus | calms down | √sam･3 \*e (be calm, tired) |
+| sameti | verb | pr.caus.3rd.sg | calms down | √sam･3 \*e (be calm, tired) |
 | vuṭṭhī'va | sandhi | | like rainfall | |
 | \#vuṭṭhi | noun | fem.nom.sg | rain; rainfall | √vass･1 a (rain) |
 | \#iva | ind | | like; as | |

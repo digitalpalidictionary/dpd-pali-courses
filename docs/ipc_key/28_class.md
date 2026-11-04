@@ -94,8 +94,8 @@
 | \#**rajena** | noun | masc.instr.sg | pollen | √raj + as |
 | **samuṭṭhitā** | pp (as adj) | masc.nom.pl (+instr) | laden (with); full (of) | saṃ + ud + √ṭhā + ita |
 | dumā | noun | masc.nom.pl | trees | |
-| paṭhama**vasanto** | noun | masc.nom.sg. | first month of spring; early spring | kammadhāraya |
-| \#paṭhama | ord | masc. | first | pa√ṭhā･1 a (stand)+ ma |
+| paṭhama**vasanto** | noun | masc.nom.sg | first month of spring; early spring | kammadhāraya |
+| \#paṭhama | ordin | masc. | first | pa√ṭhā･1 a (stand)+ ma |
 | \#**vasanto** | noun | masc.nom.sg | spring | √vas + a + nta |
 | **sukho** | adj | masc.nom.sg | pleasant | √sukh + a |
 | utu | noun | masc.nom.sg | the season | |
@@ -135,7 +135,7 @@
 | catūsu | card | nt.loc.pl | in four; at four | |
 | **dvāresu** | noun | nt.loc.pl | doors; entrances; gates | √dvar + \*a |
 | dānaṃ | noun | nt.nom.sg | an offering; giving | |
-| dīyittha | verb | aor.pass.reflex.3rd.sg | was offered | √dā + īya + ittha |
+| dīyittha | verb | aor.pass.reflx.3rd.sg | was offered | √dā + īya + ittha |
 | samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ | noun | masc.dat.pl | to ascetics, priests, tramps, paupers and beggars | dvanda |
 | **\#samaṇa** (ca) | noun | masc. | ascetics | √sam + aṇa |
 | **\#brāhmaṇa** (ca) | noun | masc. | brahmins | √brah + ma + \*aṇa |
@@ -212,7 +212,7 @@
 | \#ca | ind | conj | and | |
 | \#eva | ind | emph | just; only; still | |
 | eko | adj | masc.nom.sg | single; alone | |
-| **bhiṃsanake** | adj | nt.loc. sg | in frightening; terrifying | √bhis + ṃa + ana + ka |
+| **bhiṃsanake** | adj | nt.loc.sg | in frightening; terrifying | √bhis + ṃa + ana + ka |
 | vane | noun | nt.loc.sg | in a grove | |
 | naggo | adj | masc.nom.sg | naked | |
 | na | ind | neg | not | |
@@ -272,7 +272,7 @@
 | \#\#\#ratta | noun | nt | night | |
 | \#iti | ind | quotation mark | "" | |
 | **santo** | adj | masc.nom.sg | still; calm; at peace; tranquil | √sam + ta |
-| ācikkhate | verb | pr.reflex.3rd.sg | describes; shows | ā + √cikkh + a + te |
+| ācikkhate | verb | pr.reflx.3rd.sg | describes; shows | ā + √cikkh + a + te |
 | **muni** | noun | masc.nom.sg | the sage | √mun + i |
 
 **"Living thus ardently, tirelessly throughout the day and night, – it is, indeed, he, whom the peaceful sage describes as having a single auspicious night."**
@@ -315,7 +315,7 @@
 | **viharato** | prp | masc.gen/dat.sg | when/for staying; dwelling | vi + √har + a + nta |
 | taṃ | pron | nt.nom.sg | that | |
 | middhaṃ | noun | nt.nom.sg | drowsiness; sluggishness | |
-| pahīyetha | verb | opt.pass.3rd.sg. | decreases; is abandoned | pa + √hā + īya + etha |
+| pahīyetha | verb | opt.pass.3rd.sg | decreases; is abandoned | pa + √hā + īya + etha |
 | **tato** | ind | adv | after that; then; next | ta + to |
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | **moggallāna** | noun | masc.voc.sg | **Moggallāna** | muggala + \*yāna |
@@ -370,7 +370,7 @@
 | --- | --- | --- | --- | --- |
 | **sīlaṃ** | noun | nt.acc.sg | virtue | √sīl + a |
 | rakkheyya | verb | opt.3rd.sg | should protect; would guard | √rakkh + a + eyya |
-| **medhāvī** | noun | masc.nom.sg. | the wise man; intelligent man | √medh + ā + vī |
+| **medhāvī** | noun | masc.nom.sg | the wise man; intelligent man | √medh + ā + vī |
 | **patthayāno** | prp | masc.nom.sg | wishing (for); aspiring (for) | pa + √atth + \*aya + āna |
 | tayo | card | masc.acc.pl | three | |
 | sukhe | noun | nt.acc.pl | comforts; pleasures | |
@@ -394,7 +394,7 @@
 | enti | verb | pr.3rd.pl | they come [back] (to) | √i + a + ti |
 | **manussattaṃ** | noun | nt.acc.sg | human existence; human state | manu + ssa + tta |
 | dalidde | adj | masc.loc.sg | poor | |
-| jāyare | verb | pr.pass.reflex.3rd.pl | are born | √jan + ya + re |
+| jāyare | verb | pr.pass.reflx.3rd.pl | are born | √jan + ya + re |
 | **kule** | noun | nt.loc.sg | family; household | √kul + a |
 | coḷaṃ | noun | nt.nom.sg | cloth[ing]; rag | |
 | **piṇḍo** | noun | masc.nom.sg | a bit of food | √piṇḍ + a |

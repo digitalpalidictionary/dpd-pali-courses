@@ -17,6 +17,15 @@
 - **Clean Markdown:** Source files must be user-friendly, avoid raw HTML, and rely on scripts/hooks for complex formatting.
 - **Performance:** Ensure high accessibility and fast load times for the static website.
 
+## Key verification (added November 2026)
+`scripts/verify_key.py` checks the answer keys (`docs/bpc_key/`, `docs/ipc_key/`) against the exercise files and the tag vocabulary. It is read-only on `docs/` and mandatory before any commit touching `docs/bpc_key/`, `docs/bpc_ex/`, `docs/ipc_key/` or `docs/ipc_ex/` (AGENTS.md → Key Verification); it must exit 0.
+
+Two layers:
+- **Structural (gating, exit 1 on any error):** key-vs-exercise numbering, POS and grammar tag vocabulary, root-cell format, IPC compound-type spelling, stray characters. Word-coverage is warnings only and never affects the exit code.
+- **`--dpd` (advisory, never gates):** every row's form/tag/root checked against the local DPD SQLite DB, bucketed IMPOSSIBLE / AMBIGUOUS / CONFIRMED / NOT-FOUND / ROOT-MISMATCH / SKIPPED and written to a sorted TSV (`temp/key_dpd_report.tsv` by default; `temp/` is git-ignored). The DB lives outside the repo at `/Users/deva/Documents/dpd-db/dpd.db` (2.4 GB, machine-local), so `--dpd` is local-only — other machines pass a path.
+
+Conventions to respect when extending it: the tag vocabulary lives as data (sets/regex constants at the top of the script), so new tags are added there rather than in check logic; the TSV columns and `row_key` format (`course/file/section/item/word/occ`) are a contract with the sentence-review threads, so a column change must update any consumer's spec. Feature rows are meant to be verified by fixture tests in `tests/test_verify_key.py` (`tests/` is git-ignored in this repo — the tests are local).
+
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.

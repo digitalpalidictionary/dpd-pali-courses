@@ -534,7 +534,7 @@
 | pabbājenti | verb. caus | pr.3rd.pl | they banish (lit: cause to leave) | √vaj･1 \*e (go on) |
 | ekaccaṃ | pron | masc.acc.sg | another one, a certain one | |
 | na | ind | neg | not | |
-| pabbājentī"ti | verb | caus pr.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
+| pabbājentī"ti | verb | pr.caus.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
 | so | pron | masc.nom.sg | that | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | bhikkhūhi | noun | masc.instr.pl | by the monks | √bhikkh･1 a (beg) |

@@ -25,7 +25,7 @@ disvāna taṇhaṃ aratiṃ ragañ'ca,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| disvāna | verb | abs. | having seen | √dis + tvāna |
+| disvāna | verb | abs | having seen | √dis + tvāna |
 | taṇhaṃ | noun | fem.acc.sg | craving | |
 | aratiṃ | noun | fem.acc.sg | dissatisfaction; aversion (lit: non-delight) | |
 | ragañ'ca | sandhi | | and | |
@@ -66,7 +66,7 @@ pādā'pi naṃ samphusituṃ na icche.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | pādā'pi | sandhi | | even with foot | |
-| \#pādā | noun | masc.instr.sg. | by foot | |
+| \#pādā | noun | masc.instr.sg | by foot | |
 | \#api | ind | | even | |
 | naṃ | pron | fem.acc.sg | her | |
 | samphusituṃ | verb | inf | to touch (with) | saṃ + √phus + ituṃ |
@@ -89,7 +89,7 @@ etādisaṃ ce ratanaṃ na icchasi,
 | etādisaṃ[^53] | adj | nt.acc.sg | such as this; of this type | kammadhāraya |
 | \#eta | pron | nt. | this | |
 | \#ādisaṃ | adj | nt.nom.sg | kind; quality | |
-| ce | ind | cond. | if | |
+| ce | ind | cond | if | |
 | ratanaṃ | noun | nt.acc.sg | treasure; jewel | |
 | na | ind | neg | not | |
 | icchasi | verb | pr.2nd.sg | you want; wish | √is + a + si |
@@ -766,7 +766,7 @@ na vedagū diṭṭhiyā na mutiyā,
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
 | vedagū | noun | masc.nom.sg | who has perfect knowledge | dutiyā tappurisa |
-| \#vedaṃ | noun | nt.acc.sg. | knowledge; understanding | |
+| \#vedaṃ | noun | nt.acc.sg | knowledge; understanding | |
 | \#gū | noun | masc.nom.sg | complete in (lit: goer) | |
 | diṭṭhiyā | noun | fem.instr.sg | by view | |
 | na | ind | neg | not | |
