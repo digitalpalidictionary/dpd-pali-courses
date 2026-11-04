@@ -96,9 +96,9 @@ araññ**e** vāso \> araññavāso (living **in** the forest)
 
 gām**e** vāsī \> gāmavāsī (living **in** a village = villager)
 
-guh**e** āsaya \> guhāsayaṃ (resting **in** a cave)
+guh**āyaṃ** āsaya \> guhāsayaṃ (resting **in** a cave)
 
-bhūm**asmiṃ** + ṭha \> bhūmaṭṭha (standing **on** the ground)
+bhūm**iyaṃ** + ṭha \> bhūmaṭṭha (standing **on** the ground)
 
 dhamm**e** rato \> dhammarato (enjoying **in** the teaching)
 
@@ -148,4 +148,4 @@ dukkh**assa** anta \> dukkh**assa**nta (end **of** suffering)
 
 man**asi** + kāro \> man**asi**kāro (making **in** mind = attention)
 
-majjh**e** + kalyāṇāṇaṃ \> majjh**e**kalyāṇaṃ (beneficial **in** the middle)
+majjh**e** + kalyāṇaṃ \> majjh**e**kalyāṇaṃ (beneficial **in** the middle)

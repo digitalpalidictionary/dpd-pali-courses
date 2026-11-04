@@ -1,4 +1,4 @@
-# Possibility \#7
+# Possibility \#7 — u & o Become v
 
 **u** or **o** followed by a dissimilar vowel can become its relative semi-vowel **v**. The following vowel may be lengthened.
 

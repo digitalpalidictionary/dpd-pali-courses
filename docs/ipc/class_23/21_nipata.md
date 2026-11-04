@@ -84,7 +84,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 | | | | |
 | --- | --- | --- | --- |
 | | kuṭṭa | tirokuṭṭaṃ | through a wall |
-| √vass | vassa | terovassika | many years old |
+| √vass | vassa | terovassika | many years old; lit. more than a year old |
 | √bhū | bhāva | tirobhāva | disappearance |
 
 ## vinā-

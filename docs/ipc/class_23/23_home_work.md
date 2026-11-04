@@ -4,8 +4,8 @@
 2.  Complete exercises for class 23
 3.  In the exercises, break up every verb and participle into
 prefix + root + root sign + verbal ending / suffix.
-e.g. paṭiggaṇhāmi: or the classic way:
-pati + √gah + ṇhā + ti √gah 6 (to grasp) + ṇhā \> gaṇhā
+e.g. paṭiggaṇhāmi: pati + √gah + ṇhā + mi
+or the classic way: √gah 6 (to grasp) + ṇhā \> gaṇhā;
 pati + gaṇhā + mi
 
 And other words with prefixes or the classic way:

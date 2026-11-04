@@ -31,7 +31,7 @@
 | tth | s + t | su √a**s t**i | so**tth**i |
 | ddh | dh + t | √bu**dh t**a | bu**ddh**a |
 | ddh | bh + t | √la**bh t**a | la**ddh**a |
-| nt | m + t | abhi √ka**m t**a | abhika**nt**a |
+| nt | m + t | abhi √ka**m t**a | abhikka**nt**a |
 | nn | d + n | √bhi**d n**a | bhi**nn**a |
 | pp | p + t | √tij \> tip + ta | tippa |
 | pp | p + y | √ta**p y**a ti | ta**pp**ati |

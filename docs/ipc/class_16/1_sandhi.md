@@ -10,6 +10,8 @@ This occurs at every level of the language, from the formation of words to the b
 
 ## What is sandhi called in English?
 
+In English linguistics this is called **euphonic combination** — sounds merging to flow more smoothly in speech.
+
 ## Some English examples of Sandhi
 
 can’t = can n**o**t
@@ -38,11 +40,13 @@ wouldn’t = would not
 
 gonna = going to
 
-wonna = will not
+wanna = want to
 
 Can you think of any others?
 
 Why is there sandhi?
+
+For ease and economy of pronunciation — the changes make the combined sounds easier to say.
 
 There are three basic types of Sandhi in Pāli:
 

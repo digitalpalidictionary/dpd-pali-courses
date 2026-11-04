@@ -1,4 +1,4 @@
-# Possibility \#1
+# Possibility \#1 — Consonant Reduplication
 
 When a word or particle **ends** in a **vowel**,
 
@@ -6,7 +6,7 @@ the following **consonant** is generally **reduplicated**.
 
 There are thousands of such examples.
 
-e.g. pañc**a** + **kh**anda \> pañca**kkh**andha
+e.g. pañc**a** + **kh**andha \> pañca**kkh**andha
 
 In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
@@ -101,7 +101,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 | --- | --- | --- | --- |
 | ch**a** | **t**iṃsati | cha**tt**iṃsati | fem. thirty-six |
 | cat**u** | **t**āla | catu**tt**āla | adj. four palm trees in height |
-| par**i** | **y**asati | pari**tt**asati | pr. worries |
+| par**i** | **t**asati | pari**tt**asati | pr. worries |
 
 **vowel + th**
 

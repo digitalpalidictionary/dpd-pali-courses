@@ -1,6 +1,6 @@
 # Perfect Past Tense (*parokkhā*)
 
-Kaccāyana 417. apaccakk’parokkhā’tīte.
+Kaccāyana 417. apaccakkhe parokkhā’tīte.
 
 “when not present to sight, perfect past”
 

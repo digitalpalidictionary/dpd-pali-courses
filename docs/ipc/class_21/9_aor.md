@@ -14,7 +14,7 @@ But in the Canon we find that, apart from a few cases in poetry, the aorist now 
 
 Please conjugate the word **chindati** (cuts) in the aorist active voice.
 
-Let’s look at the present tense **reflexive** **voice** and **passive voice**.
+Let’s look at the aorist **reflexive** **voice** and **passive voice**.
 
 (Theory) How is the reflexive formed? How is the passive formed?
 
@@ -36,4 +36,10 @@ Let’s look at the present tense **reflexive** **voice** and **passive voice**.
 | 2 majjhima | chijj**ise** | chijj**ivhaṃ** |
 | 1 uttama | chijj**aṃ** | chijj**imhe** |
 
-Although Passive Aorist with Attanopada endings exist in theory. If you find an example of those, please let us know :)
+The Passive Aorist with Attanopada endings exists in theory. If you find an example of it, please let us know :)
+
+A practical example of the aorist attanopada:
+
+… bhagavantaṃ gāthāya **ajjhabhāsatha** ([SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html) etc.)
+
+… **addressed** the Blessed One in verse

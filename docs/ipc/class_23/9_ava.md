@@ -1,6 +1,6 @@
-## ava- o-
+# ava- o-
 
-**down, off, away, back, aside, inside, less, disrespect**
+**down**, off, away, back, aside, inside, less, disrespect
 
 | | | | |
 | --- | --- | --- | --- |

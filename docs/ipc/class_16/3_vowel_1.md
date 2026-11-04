@@ -37,7 +37,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | bhatt**a** | **a**gga | bhatt**a**gga |
 | food | hall | dining hall |
 | dos**a** | **a**ntara | dos**a**ntara |
-| angers | inside | with anger inside |
+| anger | inside | with anger inside |
 | **a![](../../assets/images/pacman-backwards.png)ā \> ā** | | |
 | kām**a** | **ā**sava | kām**ā**sava |
 | sensual pleasure | effluent | effluent of sensual pleasure |
@@ -140,7 +140,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | indeed | thus | thus indeed |
 | idān**i** | **e**va | idān**e**va |
 | now | just | only now |
-| sabbeh**i** | **e**va | sabb**e**heva |
+| sabbeh**i** | **e**va | sabbeh**e**va |
 | by all | just | with all indeed |
 | sant**i** | **e**ttha | sant**e**ttha |
 | they are | here | here there are |
@@ -184,7 +184,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | pañcas**u** | **u**pādānakkhandhesu | pañcas**u**pādānakkhandhesu |
 | in five | in grasping aggregates | in the five aggregates that are clung to |
 | lah**u** | **u**ṭṭhāna | lah**u**ṭṭhāna |
-| quick | **rising** | quick to get up |
+| quick | rising | quick to get up |
 | tadah**u** | **u**posathe | tadah**u**posathe |
 | that day | on uposatha | on that uposatha day |
 | **e![](../../assets/images/pacman-backwards.png)a \> a** | | |

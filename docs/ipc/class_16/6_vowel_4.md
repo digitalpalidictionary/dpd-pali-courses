@@ -1,4 +1,4 @@
-# Possibility \#4
+# Possibility \#4 — Lengthening of the Preceding Vowel
 
 When the second vowel is elided, the first vowel may be lengthened.
 

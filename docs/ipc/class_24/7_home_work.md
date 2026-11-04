@@ -9,7 +9,7 @@
     Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences
 
 4.  Learn the vocabulary from the exercises using Anki Deck “Vocab Pāli Class”
-5.  Learn the declinations using Anki Deck “Grammar Pāli Class”
+5.  Learn the conjugations and declensions using Anki Deck “Grammar Pāli Class”
 6.  Learn roots and phonetic changes using any of the available decks.
 
 ## Extra Reading

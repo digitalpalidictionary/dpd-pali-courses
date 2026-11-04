@@ -18,7 +18,7 @@ adjective + noun
 
 mahant**o** puris**o** \> mahāpuriso (great man)
 
-mahant**o** bal**o** \> mahabbalo (great force)
+mahant**aṃ** bal**aṃ** \> mahabbalaṃ (great force)
 
 thull**aṃ** + accay**aṃ** \> thullaccay**aṃ** (heavy offence)
 

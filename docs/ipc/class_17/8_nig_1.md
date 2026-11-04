@@ -26,7 +26,7 @@ In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
 | ekamanta**ṃ** | | **ṭh**ito | standing to one side |
 | kāyasmi**ṃ** | | **ḍ**āho | burning in the body |
 | ya**ṃ** | | **t**aṃ | whatever that |
-| catutthasmi**ṃ** | | **th**ane | in the fourth place |
+| catutthasmi**ṃ** | | **ṭh**āne | in the fourth place |
 | apāya**ṃ** | | **d**uggatiṃ | hell, a bad destination |
 | ima**ṃ** | | **dh**ammaṃ | this teaching |
 | ekamanta**ṃ** | | **n**isīdi | sat down on one side |
@@ -34,7 +34,7 @@ In Kaccāyana this is called (30) **aṃ** **byañjane** **niggahitaṃ**.
 | disa**ṃ** | | **ph**aritvā | pervading the directions |
 | eva**ṃ** | | **b**ahulīkatā | often practiced in this way |
 | citta**ṃ** | | **bh**āveti | develops the mind |
-| ala**ṃ** | | **m**e | it is suitable for |
+| ala**ṃ** | | **m**e | it is suitable for me |
 | yathābāla**ṃ** | | **y**athāmūḷhaṃ | so stupidly, so foolishly! |
 | sabba**ṃ** | | **r**ūpaṃ | all form |
 | aya**ṃ** | | **l**oko | this world |

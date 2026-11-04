@@ -102,8 +102,8 @@ what do you notice about these words?
 
 | | | | |
 | --- | --- | --- | --- |
-| √kar | + anīya | kar**aṇīya** | to be done |
-| √ram | + anīya | ram**aṇīya** | to be enjoyed |
+| √kar | + aṇīya | kar**aṇīya** | to be done |
+| √ram | + aṇīya | ram**aṇīya** | to be enjoyed |
 | √tar | + aṇīya | tar**aṇīya** | to be crossed |
 | √raj | + aṇīya | sār**aṇīya** | to be desired |
 
@@ -154,7 +154,7 @@ after roots ending in vowels, \***ya** become **eyya**
 | √hu | + eyya | āhun**eyya** | to be offered to |
 | √khā | + eyya | akkh**eyya** | to be said |
 | √ñā | + eyya | viññ**eyya** | to be understood |
-| √ñā | + eyya | n**eyya** | to be known |
+| √ñā | + eyya | ñ**eyya** | to be known |
 | √nī | + eyya | n**eyya** | to be led, guided |
 | √pā | + eyya | p**eyya** | to be drunk |
 

@@ -1,4 +1,4 @@
-# Possibility \#2
+# Possibility \#2 — ṃ Becomes the Group Nasal
 
 When **ṃ** is followed by a **consonant**,
 

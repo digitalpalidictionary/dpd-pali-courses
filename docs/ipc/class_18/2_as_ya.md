@@ -1,4 +1,4 @@
-# Phonetic changes
+# Phonetic changes of -y-
 
 ## Phonetic changes of -y-
 
@@ -8,7 +8,7 @@ Often a part of speech ending in **-i** can change to **-y** and then these same
 
 How is **ya** used to form **group 3 & passive verbs**?
 
-How is **ya** used to form **potential particles**?
+How is **ya** used to form **potential participles**?
 
 How is **ya** used to form **gerunds**?
 
@@ -26,7 +26,7 @@ chijja + ti \> chijjati (it is cut)
 
 mucca + ti \> muccati (is freed)
 
-**How is ya used to form potential particles?**
+**How is ya used to form potential participles?**
 
 prefixes + √root + ya \> ptp
 

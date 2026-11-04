@@ -1,4 +1,4 @@
-# Possibility \#6
+# Possibility \#6 — i & e Become y
 
 **i** or **e** followed by a dissimilar vowel can become its relative semi-vowel **y**. The following vowel may be lengthened.
 

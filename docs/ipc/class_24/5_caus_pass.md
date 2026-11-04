@@ -8,11 +8,11 @@ the **causative passive** means "it is caused to be done" or, more rarely, "he c
 
 They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto the **causative** **base**
 
-**root** + (\***e** \| \***aya** \| **\*āpe** \| **\*āpāya**) + (**ya** \| **iya** \| **īya**)
+**root** + (\***e** \| \***aya** \| **\*āpe** \| **\*āpaya**) + (**ya** \| **iya** \| **īya**)
 
 (or rarely)
 
-**root +** (**ya** \| **iya** \| **īya**) + (\***e** \| \***aya** \| **\*āpe** \| **\*āpāya**)
+**root +** (**ya** \| **iya** \| **īya**) + (\***e** \| \***aya** \| **\*āpe** \| **\*āpaya**)
 
 **Here are some sutta examples**
 
@@ -24,7 +24,7 @@ They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto 
 | √ñā + \*āpe | ñāpē | paññāpeti | he teaches; causes to know |
 | √ñā + \*āpe + iya | ñāpiya | paññāpiyati | is caused to be known |
 
-bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe
+bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe ([MN65](https://find.dhamma.gift/bw/mn/mn65.html) bhaddālisuttaṃ)
 
 “when the training rules were being regulated (lit. being caused to be known) in the community of monks by the Buddha”
 
@@ -48,7 +48,7 @@ Hopefully there would be a change of mind for (them) being verbally abused, insu
 | √ṭhā + \*āpe | ṭhāpe | uṭṭhāpeti | he makes stand up |
 | √ṭhā + \*āpe + iya | ṭhāpiya | uṭṭhāpiyati | is caused to stand up |
 
-ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi **vuṭṭhāpiyamānaṃ**, aññehi **saṃvesiyamānanti**?
+ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi **vuṭṭhāpiyamānaṃ**, aññehi **saṃvesiyamānanti**? ([AN3.36](https://find.dhamma.gift/bw/an/an3.36.html) devadūtasuttaṃ)
 
 My good man did you not see among men, a man or a woman very ill, suffering, extremely sick, sleeping immersed in their own urine and excrement, **being made to stand up** and **being put to bed (being caused to enter)** by others?
 
@@ -60,7 +60,7 @@ My good man did you not see among men, a man or a woman very ill, suffering, ext
 | √bhū + \*e | bhāve | bhāveti | he causes to be; causes to become |
 | √bhū + \*e + īya | bhāvīya | bhāvīyati | is caused to be = <br>is developed |
 
-cattārome, bhikkhave, kālā sammā **bhāviyamānā** sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti
+cattārome, bhikkhave, kālā sammā **bhāviyamānā** sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti ([AN4.147](https://find.dhamma.gift/bw/an/an4.147.html) dutiyakālasuttaṃ)
 
 Monks, these four times **being** well **developed,** being well rotated, cause one to gradually reach the destruction of the defilements.
 

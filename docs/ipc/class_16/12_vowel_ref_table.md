@@ -46,33 +46,33 @@ nuttha =
 
 navayime =
 
-hidaṃ
+hidaṃ =
 
-idhāvuso
+idhāvuso =
 
-panassa
+panassa =
 
-pañcime
+pañcime =
 
-dūratova
+dūratova =
 
-esāhaṃ
+esāhaṃ =
 
-icchāmahaṃ
+icchāmahaṃ =
 
-pubbevassa
+pubbevassa =
 
-yena midhekacco
+yena midhekacco =
 
-lābhīmhi
+lābhīmhi =
 
-māyaṃ
+māyaṃ =
 
-tatrāpāsiṃ
+tatrāpāsiṃ =
 
-tyāssa
+tyāssa =
 
-khvāssa
+khvāssa =
 
 ## Alternative Reference Table
 

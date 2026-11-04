@@ -1,6 +1,6 @@
-## apa-
+# apa-
 
-**off, away, away from, badly, negatively, wrongly, forth, reverentially, less, down**
+off, **away**, away from, badly, negatively, wrongly, *forth*, *reverentially*, *less*, down
 
 | | | | |
 | --- | --- | --- | --- |

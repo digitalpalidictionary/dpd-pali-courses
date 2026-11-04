@@ -1,4 +1,4 @@
-# Possibility \#2
+# Possibility \#2 — Elision of the Following Vowel
 
 When a dissimilar vowel follows another vowel, it is sometimes elided.
 

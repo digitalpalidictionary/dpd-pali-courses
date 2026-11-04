@@ -18,7 +18,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| pa + √vatt | to be, proceed | + a | pavattana | happening |
+| pa + √vatt | to be, proceed | + ana | pavattana | happening |
 | √bhar | to support | + aṇa | bharaṇa | supporting |
 | √cud | to impel, accuse | + \*anā | c**o**danā | prompting |
 | √ādā | to take, eat | + na | ādāna | eating |
@@ -32,7 +32,7 @@
 | √sad | to sink, sit, settle | + \*a | pasāda | brightness |
 | √day | to take pity | + ā | dayā | compassion |
 | √iss | to be envious | + ā | issā | jealousy |
-| √sar | to remember | + i | sati | memory |
+| √sar | to remember | + ti | sati | memory |
 | √sādh | to accomplish | + u | sādhu | goodness |
 | √kuh | to deceive | + anā | kuhanā | deception |
 

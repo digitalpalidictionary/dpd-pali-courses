@@ -44,7 +44,7 @@ pañcasīlaṃ (five precepts)
 
 saḷāyatanaṃ (six sense fields)
 
-chāratta (six nights)
+chārattaṃ (six nights)
 
 chāhaṃ (six days)
 

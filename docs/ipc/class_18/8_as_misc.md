@@ -9,7 +9,7 @@ When prefixes **ud- ; dur- ; nir-** combine with roots beginning with a consonan
 | ud | √pad | d + p \> pp | uppajjati | appears; arises |
 | ud | √gah | d + g \> gg | uggaṇhāti | picks up |
 | dur | √car | r + c \> cc | duccarita | misconduct |
-| dur | √thūl | r + th \> tth \> ṭṭh | duṭṭhulla | heavy |
+| dur | √thūl | r + th \> tth \> ṭṭh | duṭṭhulla | heavy; gross |
 | nir | √kuh | r + k \> kk | nikkuha | not deceitful |
 | nir | √mal | r + m \> mm | nimmala | spotless |
 | sat | dhamma | t + dh \> ddh | saddhamma | true doctrine |

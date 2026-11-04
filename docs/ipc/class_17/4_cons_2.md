@@ -1,4 +1,4 @@
-# Possibility \#2
+# Possibility \#2 — Vowel Shortening + Reduplication
 
 When a word or particle ends in a **long vowel**,
 
@@ -28,7 +28,7 @@ and (26) **rassaṃ**.
 
 Counter-examples:
 
-avijj**ā** + **kh**anda \> avijj**ākkh**andha
+avijj**ā** + **kh**andha \> avijj**ākkh**andha
 
 su + **ā** + **kh**āta \> sv**ākkh**āta
 

@@ -129,7 +129,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | | | | belonging to the ... |
 | --- | --- | --- | --- |
 | anta | + ima | ant**ima** | end \> final |
-| heṭṭḥā | + ima | heṭṭh**ima** | lower \> lowest |
+| heṭṭhā | + ima | heṭṭh**ima** | lower \> lowest |
 | majjha | + ima | majjh**ima** | middle \> medium |
 | ora | + ima | or**ima** | near shore \> closest |
 | pāra | + ima | pār**ima** | far shore \> furthest |
@@ -226,7 +226,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | asma | + maya | asma**maya** | made of stone |
 | dāru | + maya | dāru**maya** | made of wood |
 | go | + maya | go**maya** | made of cow, cow dung |
-| mana | + maya | mano**maya** | mind-made |
+| manas | + maya | mano**maya** | mind-made |
 | phalika | + maya | phalika**maya** | made of crystal |
 | rūpiya | + maya | rūpiya**maya** | made of silver |
 | veḷuriya | + maya | veḷuriya**maya** | made of cats-eye |

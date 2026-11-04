@@ -28,7 +28,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 
 | | | | |
 | --- | --- | --- | --- |
-| kumbha | + ila | kumbh**īla** | with a pot |
+| kumbha | + ila | kumbh**īla** | crocodile; lit. having a pot (belly) |
 | pheṇa | + ila | pheṇ**ila** | soap plant |
 
 ### ī (having, possessing) agent nouns
@@ -114,7 +114,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | | | | |
 | --- | --- | --- | --- |
 | loma | + sa | loma**sa** | hairy |
-| nir āsā | + sa | nirāsāsa | desireless |
+| nir āsā | + sa | nirāsā**sa** | desireless |
 
 ### sī (having, possessing)
 

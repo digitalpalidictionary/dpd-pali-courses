@@ -1,8 +1,8 @@
-# Possibility \#3
+# Possibility \#3 — Metri Causa Lengthening & Shortening
 
 A **vowel** before a **consonant**
 
-can be **lengthened** or **shorted**
+can be **lengthened** or **shortened**
 
 for the sake of meter in verse.
 

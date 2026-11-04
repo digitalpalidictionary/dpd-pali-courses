@@ -1,4 +1,4 @@
-# Possibility \#5
+# Possibility \#5 — ti Becomes cc
 
 When **ti** follows a vowel, it becomes **cc**
 

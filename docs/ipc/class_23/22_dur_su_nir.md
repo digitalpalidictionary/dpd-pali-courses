@@ -4,7 +4,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 ## dur-
 
-**bad, difficult, unwholesome, negative, poor, ill, mean**
+**bad**, **difficult**, unwholesome, negative, poor, ill, mean
 
 | | | | |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 
 ## su-
 
-**good, well, thoroughly, easily, auspiciously, abundance**
+**good**, well, thoroughly, **easily**, *auspiciously*, *abundance*
 
 | | | | |
 | --- | --- | --- | --- |

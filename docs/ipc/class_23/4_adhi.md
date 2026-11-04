@@ -1,6 +1,6 @@
-## adhi- ajjh-
+# adhi- ajjh-
 
-**over, above, on, upon, at, to, in, great, superiority, excessively, completely, regarding, within; inside**
+**over**, above, on, upon, at, to, in, great, superiority, excessively, completely, *regarding*, within; inside
 
 | | | | |
 | --- | --- | --- | --- |
@@ -11,4 +11,4 @@
 | √ṭhā | to stand | adhiṭṭhahati | resolves, determines |
 | √vas | to live | adhivāsayati | endures, tolerates |
 | √is | to wish | ajjhesati | requests, invites |
-| atta | self | ajjhattam | internally |
+| atta | self | ajjhattaṃ | internally |

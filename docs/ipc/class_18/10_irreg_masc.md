@@ -102,3 +102,9 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 6.gen | ra**ñño**<br>rāj**ino** | ra**ññaṃ**<br>rāj**ūnaṃ**<br>rāj**ānaṃ** |
 | 7.loc | rāj**ini**<br>ra**ññe**<br>rāj**amhi**<br>rāj**asmiṃ** | rāj**ūsu**<br>rāj**esu** |
 | 8.voc | rāj**a**<br>rāj**ā** | rāj**āno** |
+
+**In summary:** for the **mano-group**, learn to recognize the compound form in **-o**
+(manokamma), and the endings **-asā** (inst/abl), **-aso** (dat/gen) and **-asi** (loc).
+For **go**: gāvo, gavaṃ, gunnaṃ. For **atta**: attā, attānaṃ, attanā, attano, attani.
+For **rāja**: rājā, rājānaṃ, raññā, rañño, raññe, rājūnaṃ. The remaining forms are rare —
+recognize them from context.

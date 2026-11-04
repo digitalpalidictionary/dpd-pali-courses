@@ -1,6 +1,6 @@
-## pati- paṭi- (sk prati)
+# pati- paṭi- (sk prati)
 
-**against, back to, return, oppositely, towards, personally, similarly, near**
+against, **back to**, return, oppositely, *towards*, personally, similarly, *near*
 
 | | | | |
 | --- | --- | --- | --- |

@@ -1,4 +1,4 @@
-# Possibility \#4
+# Possibility \#4 — so & eso Become sa & esa
 
 The **o** in **so,** **eso & n’eso** may be changed to **a**
 

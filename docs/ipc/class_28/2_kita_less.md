@@ -76,7 +76,7 @@
 | --- | --- | --- | --- | --- |
 | √dhan | to be rich | **+ ya** | dhañ**ña** | grain |
 | √mad | to be drunk | **+ ya** | maj**ja** | drug, intoxicant |
-| √puṇ | be skilful, precise | **+ ya** | apuñ**ña** | merit |
+| √puṇ | be skilful, precise | **+ ya** | apuñ**ña** | demerit |
 | √rāj | to rule | **+ ya** | raj**ja** | kingdom |
 | √sīl | to conduct | **+ ya** | dussīl**ya** | bad behaviour |
 

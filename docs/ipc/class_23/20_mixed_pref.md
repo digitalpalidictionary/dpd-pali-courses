@@ -21,7 +21,7 @@
 | saṃ + pa | √yuj | to join | sampayojeti | quarrels |
 | sam + pati | √is | to wish | sampaṭicchati | accepts, receives |
 | saṃ + ud | √chid | to cut | samucchindati | eradicates |
-| upa + ni | √band | to tie | upanibandhati | ties down onto |
+| upa + ni | √bandh | to tie | upanibandhati | ties down onto |
 | upa + pari | √ikkh | to see | upaparikkhati | investigates |
 | upa + saṃ | √kam | to go | upasaṅkamati | approaches |
 | vi + ā | √kar | to do | byākaroti | answers |

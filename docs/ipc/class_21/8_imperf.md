@@ -12,7 +12,7 @@ This past tense has also almost completely died out in Pāli, apart from some co
 
 This verbal form also can take an **a-** augment in front, like the aorist. Let’s look at the conjugation.
 
-**Imperfect Past Attanopada “went or was going”<br>(√gam)**
+**Imperfect Past Parassapada “went or was going”<br>(√gam)**
 
 | | | |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 | 2 majjhima | agam**o** | agam**attha** |
 | 1 uttama | agam**a**<br>agam**aṃ** | agam**amhā** |
 
-**Imperfect Past Parassapada <br>“went by oneself or was going by oneself”<br>(√gam)**
+**Imperfect Past Attanopada <br>“went by oneself or was going by oneself”<br>(√gam)**
 
 | | | |
 | --- | --- | --- |
@@ -31,3 +31,9 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 | 1 uttama | agam**iṃ** | agam**amhase** |
 
 Technically there is also a **Passive Imperfect Past**. How would that be formed?
+
+A practical example:
+
+agam**ā** rājagahaṃ buddho ([SNP27](https://find.dhamma.gift/bw/snp/snp3.1.html))
+
+the Buddha **went** to Rājagaha

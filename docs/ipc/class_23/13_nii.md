@@ -1,6 +1,6 @@
-## nī-
+# nī-
 
-**away from, off, out, removal**
+away from, off, **out**, removal
 
 | | | | |
 | --- | --- | --- | --- |

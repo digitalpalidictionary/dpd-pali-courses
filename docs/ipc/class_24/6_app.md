@@ -51,6 +51,10 @@ Active Past Participles are declined in all three genders. They are very regular
 | gen | dass**āvino** | dass**āvinaṃ**<br>dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino**<br>dass**āvissa** | dass**āvinaṃ**<br>dass**āvīnaṃ** |
 | loc | dass**āvini**<br>dass**āvismiṃ**<br>dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** | dass**āviniyā**<br>dass**āviniyaṃ** | dass**āvinīsu** | dass**āvismiṃ**<br>dass**āvimhi** | dass**āvisu**<br>dass**āvīsu** |
 
+**In summary:** the forms that actually occur are almost always masculine nominative:
+dassāvī (sg) and dassāvino (pl). Learn those two; recognize the rest from the pakkhī
+pattern.
+
 Please translate and highlight the syntax of the following:
 
 [SN3.13](https://find.dhamma.gift/bw/sn/sn3.13.html) doṇapākasuttaṃ

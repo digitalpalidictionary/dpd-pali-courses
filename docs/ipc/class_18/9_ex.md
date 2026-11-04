@@ -16,7 +16,7 @@
 | danta | √dam ta |
 | √kilam + ta | kilanta |
 | pariṇata | pari √nam ta |
-| nī + √sar + ta | visaññutta |
+| nī + √sar + ta | nissaṭa |
 | mata | √mar ta |
 | vi + saṃ + √yuj + ta | visaññutta |
 | uddhata | ud √dhar ta |

@@ -17,7 +17,7 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√is** | iccha | icchati | wishes |
 | **√jan** | jāya | jāyati | is born |
 | **√kar** | kubba | kubbati | does; makes |
-| **√kar** | kuru | kurute | one oneself does |
+| **√kar** | kuru | kurute | he himself does |
 | **√khī** | khiyya | khiyyati | criticises; complains |
 | **√ñā** | jānā | jānāti | knows |
 | **√pā** | piva | pivati | drinks |

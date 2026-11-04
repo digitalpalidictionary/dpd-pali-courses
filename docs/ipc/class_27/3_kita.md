@@ -1,6 +1,6 @@
 # Kita
 
-Kita are a large group of suffixes which include present and past particles, as well as all the common noun and adjective suffixes.
+Kita are a large group of suffixes which include present and past participles, as well as all the common noun and adjective suffixes.
 
 ## nta (prp)
 

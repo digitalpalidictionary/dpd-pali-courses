@@ -1,6 +1,6 @@
-## parā- (quite rare)
+# parā- (quite rare)
 
-**beyond, again, continuously, wrongly, away, back, opposite, aside**
+**beyond**, again, continuously, wrongly, away, back, opposite, *aside*
 
 | | | | |
 | --- | --- | --- | --- |

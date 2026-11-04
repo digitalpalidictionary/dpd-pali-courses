@@ -1,4 +1,4 @@
-# Possibility \#9
+# Possibility \#9 — e Becomes ri
 
 When a word ends in a **long vowel** and the next word begins with **e**,
 

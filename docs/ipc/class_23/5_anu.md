@@ -1,6 +1,6 @@
-## anu-
+# anu-
 
-**following, after, alongside, according to, near to, behind, below, less than, beneath, suitable for, repeatedly**
+**following**, **after**, alongside, according to, near to, behind, below, *less than*, beneath, suitable for, repeatedly
 
 | | | | |
 | --- | --- | --- | --- |

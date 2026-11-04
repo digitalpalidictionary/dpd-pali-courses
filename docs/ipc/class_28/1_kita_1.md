@@ -649,7 +649,7 @@ suffix **i** is used to forming a large group of **feminine and masculine nouns*
 | √gah | to hold | **+ \*aka** | g**ā**h**aka** | carrier |
 | √kar | to do | **+ \*aka** | k**ā**r**aka** | doer, maker |
 | √nī | to lead | **+ \*aka** | n**āyaka** | leader |
-| √pu | to purify | **+ \*aka** | p**āvaka** | fire; lut. purifier |
+| √pu | to purify | **+ \*aka** | p**āvaka** | fire; lit. purifier |
 | √su | to hear | **+ \*aka** | s**āvaka** | disciple; lit. hearer |
 | √vad | to speak | **+ \*aka** | v**ā**d**aka** | speaker |
 | ni √gah | to seize | **+ \*aka** | nigg**ā**h**aka** | oppressor |

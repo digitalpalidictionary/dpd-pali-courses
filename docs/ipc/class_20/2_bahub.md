@@ -136,7 +136,7 @@ cirappavāsī - (a traveller) who has long lived abroad
 
 dassanasampanno - (a meditator) who has vision
 
-dhammadharo – (a monk) who bearers the teaching
+dhammadharo – (a monk) who bears the teaching
 
 ekavihārī - (a monk) who lives alone
 
@@ -234,15 +234,27 @@ pahūtā + paññā \> pahūtapañño
 
 tvaṁ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://find.dhamma.gift/bw/an/an8.14.html))
 
+You have committed an offence **of such-and-such name**.
+
 ariyasāvako **sammāsamādhi** hoti ([AN4.196](https://find.dhamma.gift/bw/an/an4.196.html))
+
+A noble disciple is **one of right stability of mind**.
 
 … mahesiṃ **khīṇāsavaṃ** **kukkuccavūpasantaṃ** ([SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html))
 
+… the great sage, **whose effluents are destroyed**, **whose remorse is stilled**.
+
 dinnaṃ hoti **mahapphalaṃ** ([DHP356](https://find.dhamma.gift/bw/dhp/dhp334-359.html))
+
+What is given (to them) **bears great fruit**.
 
 ahaṃ **evaṃvādī** **evaṃdiṭṭhī** ([AN4.183](https://find.dhamma.gift/bw/an/an4.183.html))
 
+I am **one who speaks thus**, **one whose view is thus**.
+
 rūpaṃ tathāgatassa pahīnaṃ **ucchinnamūlaṃ** ([MN72](https://find.dhamma.gift/bw/mn/mn72.html))
+
+Form is abandoned by the Realised One, **its root cut off**.
 
 In some grammar books you will find a detailed analysis of the 7 types of *bahubbīhi* compounds according to their case relationship with the noun they are attributed to.
 

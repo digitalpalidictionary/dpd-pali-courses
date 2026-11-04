@@ -29,3 +29,9 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 | 1 uttama | haññ**e** | haññ**āmhe** |
 
 [^10]: Please note that very often reflexive can be translated without this reflexive pronoun
+
+A practical example of the present attanopada:
+
+pecca so na labha**te** sukhaṃ ([DHP131](https://find.dhamma.gift/bw/dhp/dhp129-145.html))
+
+after death, he does not **get** happiness (see the Three Voices page for discussion)

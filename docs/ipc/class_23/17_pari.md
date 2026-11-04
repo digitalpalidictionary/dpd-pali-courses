@@ -1,6 +1,6 @@
-## pari- pali-
+# pari- pali-
 
-**around, all around, about, all about, overall, completely**
+around, **all around**, about, all about, overall, **completely**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -13,4 +13,4 @@
 | √rudh | to obstruct | parirundhati | besieges; surrounds |
 | √ādā | to take | pariyādiyati | completely overcomes |
 | √ap | to reach | pariyāpuṇāti | studies, masters |
-| √yā | to go | pariyāyati | flee in all directions |
+| √yā | to go | pariyāyati | flees in all directions |

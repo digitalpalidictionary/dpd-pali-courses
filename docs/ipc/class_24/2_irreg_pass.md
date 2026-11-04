@@ -46,8 +46,8 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 | √hā | to decrease | īya | h**iyy**a | hiyyati\* | is decreased |
 | √mar | to die | īya | m**īy**a | mīyati | is killed, dies |
 | √mar | to die | īya | m**iyy**a | miyyati | is killed, dies |
-| √nī | to lead | ya | n**īy**a | nīyati | is lead |
-| √nī | to lead | ya | n**iyy**a | niyyati | is lead |
+| √nī | to lead | ya | n**īy**a | nīyati | is led |
+| √nī | to lead | ya | n**iyy**a | niyyati | is led |
 | √su | to hear | ya | s**ūy**a | sūyati | is heard |
 | √su | to hear | ya | s**uyy**a | suyyati | is heard |
 

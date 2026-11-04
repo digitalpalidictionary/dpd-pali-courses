@@ -1,12 +1,12 @@
-## abhi- abbh-
+# abhi- abbh-
 
-**to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, highly, strongly**
+to, unto, towards, beyond, against, in the direction of, very, reverently, completely, particularity, **highly**, strongly
 
 | | | | |
 | --- | --- | --- | --- |
 | √dham | to blow | abhidhamati | fans, blows on |
 | √gajj | to roar | abhigajjati | roars, thunders |
-| √har | to carry | abhiharati | abuses, curses |
+| √har | to carry | abhiharati | offers; presents |
 | √ñā | to know | abhijānāti | totally understands |
 | √japp | to mumble | abhijappati | prays for |
 | √kaṅkh | to wish | abhikaṅkhati | yearns for, longs for |

@@ -154,7 +154,7 @@ As you can see, these are quite rare.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ghaṭ | e | ghāṭe | ghāteti | kills, slays |
+| √ghaṭ | e | ghāte | ghāteti | kills, slays |
 | √vid | e | vede | vedeti | feels, experiences |
 | √chad | e | chāde | chādeti | covers, conceals |
 | √kam | e | kāme | kāmeti | desires |
