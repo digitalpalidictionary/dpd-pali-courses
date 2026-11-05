@@ -26,6 +26,9 @@ Two layers:
 
 Conventions to respect when extending it: the tag vocabulary lives as data (sets/regex constants at the top of the script), so new tags are added there rather than in check logic; the TSV columns and `row_key` format (`course/file/section/item/word/occ`) are a contract with the sentence-review threads, so a column change must update any consumer's spec. Feature rows are meant to be verified by fixture tests in `tests/test_verify_key.py` (`tests/` is git-ignored in this repo — the tests are local).
 
+### Re-running the sentence-level review (added November 2026)
+The `--dpd` buckets still leave rows DPD alone cannot settle, so a human/agent pass judges each one against its sentence and translation. That repeatable process is documented in `kamma/key_validation/` — `verifier.md` (the tool), `new_thread.md` (how to spawn the thread), `draft_spec.md` / `draft_plan.md` (templates). Standing rules from the first run (BPC + IPC, 2026-11-05): report **errors only** — a tag that is a valid reading of the form stays untouched, so no `UNDECIDED` verdicts and no notes lists; the single approval file is the only thing the user reviews; nothing in `docs/` changes until the user confirms it.
+
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.
