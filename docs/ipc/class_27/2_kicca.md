@@ -146,7 +146,7 @@ please note the small spelling differences that are present in the canon
 
 ## eyya (ptp)
 
-after roots ending in vowels, \***ya** become **eyya**
+after roots ending in vowels, \***ya** becomes **eyya**
 
 | | | | |
 | --- | --- | --- | --- |

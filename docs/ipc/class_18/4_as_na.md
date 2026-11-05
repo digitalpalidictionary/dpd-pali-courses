@@ -11,7 +11,11 @@ This occurs with the **past participle** or **adjectives** ending -na, **neuter 
 | √ad + na | a**nn**a | nt. food |
 | ni + √sad \> sīd + na | nisi**nn**a | pp. seated |
 | √bhid + na | bhi**nn**a | pp. broken |
-| **r + n \> ṇṇ** | | |
+
+**r + n \> ṇṇ**
+
+| | | |
+| --- | --- | --- |
 | √tir + na | ti**ṇṇ**a | pp. crossed |
 | √car + na | ci**ṇṇ**a | pp. completed |
 | dur + √var + na | dubba**ṇṇ**a | adj. ugly |

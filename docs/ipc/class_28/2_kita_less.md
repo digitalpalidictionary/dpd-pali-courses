@@ -39,7 +39,11 @@
 | √path | to go, move | **+ u** | puth**u** | broad, wide, flat |
 | √sād | to relish | **+ u** | sād**u** | sweet, delicious |
 | √uj | to be straight | **+ u** | uj**u** | straight, upright |
-| **+ u masculine nouns** | | | | |
+
+**+ u masculine nouns**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √bandh | to bind, tie | **+ u** | bandh**u** | relative, relation |
 | √gar | to be heavy | **+ u** | gar**u** | teacher |
 
@@ -142,7 +146,11 @@
 | √dū | to run | **+ ra** | dū**ra** | far away, distant |
 | √khip | to throw | **+ ra** | khip**pa** | quick, fast |
 | √suc | to be pure | **+ ra** | suk**ka** | pure, bright, good |
-| **+ ra neuter nouns** | | | | |
+
+**+ ra neuter nouns**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
 | √bhad | to be good | **+ ra** | bhad**ra** | good fortune, luck |
 
 **+ ra masculine nouns**

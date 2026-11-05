@@ -89,15 +89,24 @@ These retroflex consonants have no English equivalents. They are formed by curli
 
 **Sanskrit Letters**
 
+**2 more vowels**
+
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **2 more vowels** | | | | |
 | **ṛ**ṣi | (sage) | ṛ | as in | **ri**m, c**ri**sp (but retroflex) |
 | p**ṝ** | (fill up) | ṝ | as in | c**ree**k (but retroflex) |
-| **2 diphthongs** | | | | |
+
+**2 diphthongs**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
 | avadhy**ai** | (disregards)<br>Pāli ujjhāyati | ai | as in | **ai**sle, p**ie** |
 | k**au**kṛtya | (worry)<br>Pāli kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
-| **2 more sibilants** | | | | |
+
+**2 more sibilants**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
 | **ś**amatha | (tranquillity) | ś | as in | **sh**ip, **sh**ape |
 | di**ṣ**ṭa | (seen) | ṣ | as in | retroflex **sh** |
 

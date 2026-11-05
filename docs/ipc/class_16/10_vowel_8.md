@@ -24,7 +24,11 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | (all around) | searches | searches all around |
 | nav**a** | **i**me | nava**y**ime |
 | nine | these | these nine |
-| **v (common)** | | |
+
+**v (common)**
+
+| | | |
+| --- | --- | --- |
 | s**u** | **a**tthi | s**uva**tthi |
 | (well) | there is | well-being |
 | kālass’ev**a** | **u**ṭṭhahanto | kālass’ev**a v**uṭṭhahanto |
@@ -55,7 +59,11 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | perfectly | understanding | understanding perfectly |
 | kiñc**i** | **e**va | kiñci**d**eva |
 | something | just | just something |
-| **n (rare)** | | |
+
+**n (rare)**
+
+| | | |
+| --- | --- | --- |
 | vutta atth**ā** | **e**va | vutt’atthā**n**eva |
 | said meaning | just | the meanings have already been stated |
 | s**a** | **d**iṭṭhi | sa**n**diṭṭhi |

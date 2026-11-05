@@ -111,7 +111,11 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | --- | --- | --- |
 | tath**ā** | **u**pama | tath**ū**pama |
 | such | like | similar to that |
-| **u![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū** | | |
+
+**u![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)u \> ū**
+
+| | | |
+| --- | --- | --- |
 | bah**u** | **u**pakāra | bah**ū**pakāra |
 | much | help | very helpful |
 

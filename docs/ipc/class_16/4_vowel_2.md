@@ -51,7 +51,11 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | thus | and | and thus |
 | it**i** | **a**ssa | it**i**ssa |
 | thus | for him | thus for him |
-| **u![](../../assets/images/pacman-forward.png)a \> u** | | |
+
+**u![](../../assets/images/pacman-forward.png)a \> u**
+
+| | | |
+| --- | --- | --- |
 | n**u** | **a**si | n**u**si |
 | are? | you are | are you? |
 | ut**u** | **a**kkhāna | ut**u**kkhāna |
@@ -115,7 +119,11 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | four | these | these four |
 | y**o** | **i**dha | y**o**dha |
 | whoever | here | whoever here |
-| **o![](../../assets/images/pacman-forward.png)e \> o** | | |
+
+**o![](../../assets/images/pacman-forward.png)e \> o**
+
+| | | |
+| --- | --- | --- |
 | ek**o** | **e**va | ek**o**va |
 | one | just | alone |
 | pāt**o** | **e**va | pāt**o**va |

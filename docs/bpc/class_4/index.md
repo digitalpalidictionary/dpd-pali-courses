@@ -3,7 +3,7 @@
 - [Review](1_review.md)
 - [How to use DPR](2_dpr_tpr.md)
 - [Different systems of root groups](3_var_root_group.md)
-- [avuddhika / guṇa / vuḍḍhi](4_vuddhi.md)
+- [avuddhika / guṇa / vuddhi](4_vuddhi.md)
 - [Root Group 2 - rudhādigaṇa](5_root_2.md)
 - [Root Group 3 – divādigaṇa](6_root_3.md)
 - [Some Basic Sandhi – The Assimilation of the Letter y](7_basic_assim.md)

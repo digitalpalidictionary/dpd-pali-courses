@@ -24,7 +24,7 @@
 ## [Class 4](class_4/index.md)
 - [How to use DPR](class_4/2_dpr_tpr.md)
 - [Different systems of root groups](class_4/3_var_root_group.md)
-- [avuddhika / guṇa / vuḍḍhi](class_4/4_vuddhi.md)
+- [avuddhika / guṇa / vuddhi](class_4/4_vuddhi.md)
 - [Root Group 2 - rudhādigaṇa](class_4/5_root_2.md)
 - [Root Group 3 – divādigaṇa](class_4/6_root_3.md)
 - [Some Basic Sandhi – The Assimilation of the Letter y](class_4/7_basic_assim.md)

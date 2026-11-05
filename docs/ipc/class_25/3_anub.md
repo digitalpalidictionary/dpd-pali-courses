@@ -2,7 +2,7 @@
 
 When suffixes are added, all the usual rules of **sandhi** apply
 
-Some *kita* and *taddhita* suffixes force **guṇa** & **vuḍḍhi** to take place. These are noted in traditional grammars by the letter **ṇ.** We are using the symbol **\***. This is called an **anubandha** or indicatory symbol.
+Some *kita* and *taddhita* suffixes force **guṇa** & **vuddhi** to take place. These are noted in traditional grammars by the letter **ṇ.** We are using the symbol **\***. This is called an **anubandha** or indicatory symbol.
 
 e.g. ṇ**a or \*a**
 

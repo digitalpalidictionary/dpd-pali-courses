@@ -29,7 +29,11 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 | taṇh**ā** | **kh**aya | taṇhā**kkh**aya | masc. destruction of craving |
 | n**i** | **kh**itta | ni**kkh**itta | pp. discarded |
 | pur**a** | **kh**ata | pura**kkh**ata | pp. preferred; lit. made in front |
-| **vowel + g** | | | |
+
+**vowel + g**
+
+| | | | |
+| --- | --- | --- | --- |
 | **a** | **g**ahesi | a**gg**ahesi | aor. took, grabbed |
 | v**i** | **g**aha | vi**gg**aha | masc. quarrel, argument |
 | cat**u** | **g**uṇa | catu**gg**uṇa | adj. folded four times |

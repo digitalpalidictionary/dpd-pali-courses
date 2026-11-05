@@ -1,4 +1,4 @@
-# avuddhika / guṇa / vuḍḍhi
+# avuddhika / guṇa / vuddhi
 
 (weak / strengthened / lengthened)
 
@@ -85,7 +85,7 @@ These changes are very common in all areas of Pāli grammar and **worth learning
 
 | | | |
 | --- | --- | --- |
-| avuḍḍhika <br>(zero) | guṇa <br>(strengthened) | vuḍḍhi <br>(lengthened) |
+| avuddhika <br>(zero) | guṇa <br>(strengthened) | vuddhi <br>(lengthened) |
 | | **a** | **ā** |
 | **i** | **e / ay** | **āy** |
 | **ī** | **e / ay** | **āy** |

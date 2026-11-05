@@ -38,7 +38,11 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | food | hall | dining hall |
 | dos**a** | **a**ntara | dos**a**ntara |
 | anger | inside | with anger inside |
-| **a![](../../assets/images/pacman-backwards.png)ā \> ā** | | |
+
+**a![](../../assets/images/pacman-backwards.png)ā \> ā**
+
+| | | |
+| --- | --- | --- |
 | kām**a** | **ā**sava | kām**ā**sava |
 | sensual pleasure | effluent | effluent of sensual pleasure |
 | yena | **āyasmā** | yen**ā**yasmā |
@@ -73,7 +77,11 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | here | Udāyī | here, Udāyī |
 | daḷh**a** | **u**ddāpa | daḷh**u**ddāpa |
 | strong | fortification | strong fortification |
-| **a![](../../assets/images/pacman-backwards.png)e \> e** | | |
+
+**a![](../../assets/images/pacman-backwards.png)e \> e**
+
+| | | |
+| --- | --- | --- |
 | aj**a** | **e**ḷakā | aj**e**ḷakā |
 | goat | sheep | goats and sheep |
 | vivicc**a** | **e**va | vivicc**e**va |
@@ -82,7 +90,11 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | and, but | even | and even, but even |
 | tatr**a** | **e**va | tatr**e**va |
 | there | just | right there |
-| **a![](../../assets/images/pacman-backwards.png)o \> o** | | |
+
+**a![](../../assets/images/pacman-backwards.png)o \> o**
+
+| | | |
+| --- | --- | --- |
 | amat**a** | **o**gadha | amat**o**gadha |
 | deathless | immersed | immersed in the deathless |
 | ten**a** | **o**bhāsena | ten**o**bhāsena |
@@ -187,7 +199,11 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | quick | rising | quick to get up |
 | tadah**u** | **u**posathe | tadah**u**posathe |
 | that day | on uposatha | on that uposatha day |
-| **e![](../../assets/images/pacman-backwards.png)a \> a** | | |
+
+**e![](../../assets/images/pacman-backwards.png)a \> a**
+
+| | | |
+| --- | --- | --- |
 | m**e** | **a**tthi | m**a**tthi |
 | my | these are | these are my |
 | sac**e** | **a**ssa | sac**a**ssa |
