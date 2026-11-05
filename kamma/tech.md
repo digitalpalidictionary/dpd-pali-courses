@@ -17,6 +17,9 @@
 - **Clean Markdown:** Source files must be user-friendly, avoid raw HTML, and rely on scripts/hooks for complex formatting.
 - **Performance:** Ensure high accessibility and fast load times for the static website.
 
+### Mid-table sub-header rows (added November 2026)
+A data table that needs a grouped heading part-way down must not carry it as a body row (`| **label** | | ... |`); such a row renders as a stray near-empty line and breaks the row grouping in the PDF and DOCX. Instead close the table and restart: blank line, `**label**`, blank line, then a new table that begins with an empty header row of the same column count and its `| --- |` separator (precedent: `docs/ipc/class_17/3_cons_1.md`). If the sub-header is the first body row directly under an empty header row, put the bold line above the existing table and drop the row, so no empty one-row table is created. This is a manual editing convention only — `scripts/fixing_tables.py` does not fix it, because the exercise and answer files contain look-alike rows (`docs/ipc_ex/23_class.md`, `docs/ipc_ex/24_class.md`, `docs/bpc_ex/2_class.md`, `docs/ipc/class_18/11_ex.md`, a homework row in each course) that must stay as rows.
+
 ## Key verification (added November 2026)
 `scripts/verify_key.py` checks the answer keys (`docs/bpc_key/`, `docs/ipc_key/`) against the exercise files and the tag vocabulary. It is read-only on `docs/` and mandatory before any commit touching `docs/bpc_key/`, `docs/bpc_ex/`, `docs/ipc_key/` or `docs/ipc_ex/` (AGENTS.md → Key Verification); it must exit 0.
 
