@@ -31,9 +31,9 @@
 | \#purisaṃ | noun | masc.acc.sg | man | |
 | vadāmi | verb | pr.1st.sg (+acc) | I say (to); I tell (to) | √vad + a + mi |
 | yo | pron | masc.nom.sg | who; he | |
-| ariyasaccāni | noun | nt.nom.pl | noble truths | kammadhāraya[^39] |
+| ariyasaccāni | noun | nt.acc.pl | noble truths | kammadhāraya[^39] |
 | \#ariya | adj | masc. | noble | |
-| \#saccāni | noun | nt.nom.pl | truths | |
+| \#saccāni | noun | nt.acc.pl | truths | |
 | avecca | ind | | perfectly; absolutely (lit: going into)[^40] | ava + √i + a + tya |
 | passati | verb | pr.3rd.sg | sees; understands | √dis + a + ti |
 
@@ -179,7 +179,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | taṃ | pron | nt.acc.sg | that | |
-| kiṃ | pron | nt.nom.sg | what | |
+| kiṃ | pron | nt.acc.sg | what | |
 | maññasi | verb | pr.2nd.sg | do you think | √man + ya + si |
 | aggivessana | noun | masc.voc.sg | Aggivessana | |
 | vatteyya | verb | opt.3rd.sg | would wield; would exercise | √vatt + a + eyya |
@@ -188,7 +188,7 @@
 | muddh'**āvasittassa** | adj | masc.gen.sg | of a head-anointed; inaugurated | sattamī tappurisa |
 | \#muddhani | noun | masc.loc.sg | on the head | |
 | \#avasittassa | pp | masc.gen.sg | anointed | ava + √sic + ta |
-| sakasmiṃ | adj | masc.loc.sg | in one's own | |
+| sakasmiṃ | adj | nt.loc.sg | in one's own | |
 | **vijite** | noun | nt.loc.sg | realm; kingdom | vi + √ji + ta |
 | vaso | noun | masc.nom.sg | authority; power | |
 | **ghātetāyaṃ** | ptp | masc.acc.sg | worthy to be executed; fit to be killed | √ghaṭ + \*e + tāya |
@@ -335,7 +335,7 @@
 | phusasi | verb | pr.2nd.sg | you feel; experience | |
 | na | ind | neg | not | |
 | ca | ind | conj | and | |
-| te | pron | 2nd.instr.sg | by you | |
+| te | pron | 2nd.dat.sg | by you | |
 | hoti | verb | pr.3rd.sg | there is | |
 | **phuseyyan**'ti | sandhi | | "...I would myself touch" | |
 | **\#phuseyyaṃ** | verb | opt.reflx.1st.sg | I would touch | √phus + eyya |
@@ -422,7 +422,7 @@
 | panudanti | verb | pr.3rd.pl | dispel; drive out; reject | pa + √nud + a + ti |
 | buddhā | noun | masc.nom.pl | the Awakened Ones | |
 | dhamme | noun | masc.loc.sg (loc abs) | when [their] principle | |
-| satī | prp | fem.loc.sg (loc abs) | when being; existing | with metrically lengthened ī |
+| satī | prp | masc.loc.sg (loc abs) | when being; existing | with metrically lengthened ī |
 | brāhmaṇa | noun | masc.voc.sg | brahmin | |
 | vutti'r'esā | sandhi | | this is [their] way of life | [r] inserted between vowels |
 | \#vutti | noun | fem.nom.sg | way of life | |

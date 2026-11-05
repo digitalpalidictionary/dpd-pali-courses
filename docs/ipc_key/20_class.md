@@ -34,7 +34,7 @@
 | ajja't'agge | ind | adv | from today onwards | abyayībhāva (adverbial compound) |
 | \#ajja | ind | adv | today | |
 | \#agge | adj | masc.loc.sg | in highest; topmost; foremost; first | |
-| te | pron | masc.instr.sg | by you | |
+| te | pron | 2nd.instr.sg | by you | |
 | āvuso | ind | voc.sg | friend; brother | |
 | samaṇ'uddesa | noun | masc.voc.sg | novice (lit: nearly a monk) | dutiyā tappurisa |
 | \#samaṇaṃ | noun | masc.acc.sg | an ascetic | √sam･3 ya (exert, strive) |
@@ -57,7 +57,7 @@
 | yāvajīvam'pi | sandhi | | as long as one lives; for one's entire life | |
 | \#yāvajīvaṃ | ind | adv | as long as one lives; lit. as long as life (lasts) | abyayībhāva (adverbial compound) |
 | \#\#yāva | ind | prep | as long as | |
-| \#\#jīvaṃ | noun | nt.nom.sg | life | √jīv･1 a (live) |
+| \#\#jīvaṃ | noun | nt.acc.sg | life | √jīv･1 a (live) |
 | \#api | ind | emph | just; only | |
 | ce | ind | cond | if | |
 | bālo | noun | masc.nom.sg | a fool | |
@@ -223,7 +223,7 @@
 | savicāraṃ | adj | nt.acc.sg | with discursive thought | √car･1 \*e (move, walk) |
 | vivekajaṃ | adj | nt.acc.sg | born from separation | pañcamī tappurisa |
 | \#vivakasmā | noun | masc.abl.sg | from separation | √vic･1 a (separate) |
-| \#jaṃ | adj | masc.acc.sg | born | √jan･3 ya (be born, produce) |
+| \#jaṃ | adj | nt.acc.sg | born | √jan･3 ya (be born, produce) |
 | pītisukhaṃ | noun | nt.acc.sg | joy and happiness | dvanda \> bahubbīhi |
 | \#pīti (ca) | noun | fem. | joy | √pī･5 nā (love, please) |
 | \#sukha (ca) | noun | nt. | happiness | √sukh･1 a (please, be comfortable) |
@@ -362,7 +362,7 @@
 | saṅghāṭikassa | adj | masc.gen.sg (gen abs) | when who wears patchwork robe | √ghaṭ･1 a (join together) |
 | te | pron | 2nd.gen.sg (gen abs) | when you | |
 | sato | prp | masc.gen.sg (gen abs) | when existing, being | √as･1 a (be) |
-| saṅghāṭidhāraṇamattena | noun | masc.instr.sg | by the mere fact of wearing a patchwork robe | kammadhāraya |
+| saṅghāṭidhāraṇamattena | noun | nt.instr.sg | by the mere fact of wearing a patchwork robe | kammadhāraya |
 | \#saṅghāṭidhāraṇa | noun | nt. | wearing an outer robe | dutiyā tappurisa |
 | \#\#saṅghāṭiṃ | noun | fem.acc.sg | outer robe | √ghaṭ･1 a (join together) |
 | \#\#dhāraṇa | noun | nt. | wearing | √dhar･8 \*e (wear, hold, carry) |
@@ -546,12 +546,12 @@
 | \#kose | noun | masc.loc.sg | in a shell; sheath | |
 | \#ohite | pp | masc.loc.sg | hidden; confined within | ava√dhā･1 a (place, support) |
 | ca | ind | conj | and | |
-| vatthaguyhe | noun (as adj) | masc.loc.sg | male genitals (lit: to be hidden in a cloth) | sattamī tappurisa \> bahubbīhi |
+| vatthaguyhe | noun (as adj) | nt.loc.sg | male genitals (lit: to be hidden in a cloth) | sattamī tappurisa \> bahubbīhi |
 | \#vatthe | noun | nt.loc.sg | in a cloth | |
 | \#guyhe | ptp | masc.loc.sg | to be hidden (in); should be hidden (in) | |
 | pahūtajivhatāya | noun | fem.loc.sg | regarding the largeness of the tongue | kammadhāraya |
 | \#pahūta | adj | fem. | abundant; vast | |
-| \#jivhatāya | noun | fem.gen.sg | of the fact of having a tongue | |
+| \#jivhatāya | noun | fem.loc.sg | of the fact of having a tongue | |
 
 **He has doubt, he is uncertain about two auspicious marks of a great man, he has not made up his mind [and] is unsettled regarding [them]: about the genitals being enclosed in a sheath and about the largeness of the tongue.**
 
@@ -589,7 +589,7 @@
 | \#\#nakha (ca) | noun | masc. | finger nails [and] | |
 | \#\#lomā (ca) | noun | masc.nom.pl | body hair [and] | |
 | khārivividham'ādāya | sandhi | | carrying bundles of personal belongings on a pole | |
-| \#khārivividhaṃ | noun | masc.acc.sg | bundles of personal belongings on a pole | kammadhāraya |
+| \#khārivividhaṃ | noun | nt.acc.sg | bundles of personal belongings on a pole | kammadhāraya |
 | \#\#khāri | noun | fem. | goods carried on a pole across the shoulders; lit. khāri measure | |
 | \#\#vividhaṃ | noun | masc.acc.sg | a shoulder pole | |
 | \#ādāya | verb | ger | carrying | |

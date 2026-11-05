@@ -122,7 +122,7 @@
 | nibbāne | noun | nt.loc.sg | in total emancipation; extinguishment | |
 | ca | ind | conj | and | |
 | **santadassāvī** | adj | masc.nom.sg | who sees peace (in) +loc | dutiyā tappurisa |
-| \#santaṃ | pp (as noun) | masc.nom.sg | peaceful (peacefulness) | |
+| \#santaṃ | pp (as noun) | nt.acc.sg | peaceful (peacefulness) | |
 | \#dassāvī | adj (app) | masc.nom.sg | who has seen | √dis + a + āvī |
 | bhavissāmi | verb | fut.1st.sg | I will be | √bhū + a + issa + mi |
 | anusayā | noun | masc.nom.pl | underlying tendencies | |
@@ -155,10 +155,10 @@
 | bhikkhu | noun | masc.nom.sg | a monk | |
 | bhuttāvī | adj (app) | masc.nom.sg | who has eaten (a meal) | √bhuj + tāvī |
 | pavārito | pp | masc.nom.sg | satisfied; fulfilled; lit. invited | pa + √var + \*e + ita |
-| anatirittaṃ | pp | masc.acc.sg | not left over | na + ati + √ric + ta |
+| anatirittaṃ | pp | nt.acc.sg | not left over | na + ati + √ric + ta |
 | khādanīyaṃ | ptp | nt.acc.sg | uncooked food; food to be chewed | √khād + anīya |
 | vā | ind | conj | or | |
-| bhojanīyaṃ | ptp | nt.acc.sg | cooked food (lit: to be savored) | √bhuj + anīya |
+| bhojanīyaṃ | noun | nt.acc.sg | cooked food (lit: to be savored) | √bhuj + anīya |
 | vā | ind | conj | or | |
 | khādeyya | verb | opt.3rd.sg | should chew | √khād + a + eyya |
 | vā | ind | conj | or | |
@@ -294,7 +294,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | evaṃ | ind | adv | thus | |
-| santaṃ | prp | nt.nom.sg | being (the case) | sa + nta |
+| santaṃ | prp | nt.acc.sg | being (the case) | sa + nta |
 | bhikkhave | noun | masc.voc.pl | monks | |
 | brahmacariyavāso | adj | masc.nom.sg | living the holy life | dutiyā tappurisa |
 | na | ind | neg | not | |
@@ -324,7 +324,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tasseva | sandhi | | of that very; of that exact; of the same | |
-| \#tassa | pron | masc.gen.sg | of that; his | |
+| \#tassa | pron | nt.gen.sg | of that; his | |
 | \#eva | ind | | just | |
 | celassa | noun | nt.gen.sg | of clothes | |
 | vā | ind | conj | or | |
@@ -351,7 +351,7 @@
 | te | pron | masc.nom.pl | those | |
 | bhikkhū | noun | masc.nom.pl | monks | |
 | tesaṃ | pron | masc.gen.pl | of those | |
-| aññatitthiyānaṃ | noun | masc.gen.pl | of another religion | kammadhāraya (as bahubbīhi) |
+| aññatitthiyānaṃ | adj | masc.gen.pl | of another religion | kammadhāraya (as bahubbīhi) |
 | paribbājakānaṃ | noun | masc.gen.pl | of wandering ascetics | pari + √vaj \> baj \> bāj + \*aka |
 | bhāsitaṃ | pp (as noun) | nt.acc.sg | speech, statement | |
 | n'eva | ind | neg | neither | |
@@ -422,7 +422,7 @@
 | ṭhitiyā | noun | fem.dat.sg | for continuance | |
 | yāpanāya | noun | nt.dat.sg | for nourishment | |
 | vihiṃsūparatiyā | noun | fem.dat.sg | for avoiding harm | chaṭṭhī tappurisa |
-| brahmacariyānuggahāya | noun | nt.dat.sg | for supporting the spiritual path | chaṭṭhī tappurisa |
+| brahmacariyānuggahāya | noun | masc.dat.sg | for supporting the spiritual path | chaṭṭhī tappurisa |
 
 **Only for as much the continuance of this body and for nourishment of this body, and for avoiding harm to this body, and for supporting the spiritual life.**
 
@@ -474,7 +474,7 @@
 | tatonidānaṃ | sandhi | | because of that; for that reason (lit: from that reason) | |
 | \#tato | ind | adv | from that | |
 | \#nidānaṃ | noun | nt.acc.sg | reason; source | |
-| anayabyasanaṃ | noun | nt.nom.sg | misfortune and disaster | dvanda |
+| anayabyasanaṃ | noun | nt.acc.sg | misfortune and disaster | dvanda |
 | \#anaya (+ca) | noun | masc. | trouble; tragedy; misfortune; calamity | |
 | \#byasanaṃ<br>(+ca) | noun | nt.acc.sg | disaster | |
 | āpajjeyya | verb | opt.3rd.sg | would experience; gets; lit. come to[^33] | ā + √pad + ya + eyya |
@@ -522,7 +522,7 @@
 | **kāriyamānassa** | prp pass | masc.gen.sg (gen abs) | being made to do | √kar + iya +māna |
 | honti | verb | pr.3rd.pl | there are | √hū + a + ti |
 | y'eva | sandhi | | only; just; merely; exclusively | |
-| \#ye | pron | masc.nom.pl | whatever | |
+| \#ye | ind | masc.nom.pl | just; only | |
 | \#eva | ind | emph | only; just; indeed | |
 | visūkāyitāni | noun | nt.nom.pl | restlessness; twistings; wrigglings | |
 | visevitāni | noun | nt.nom.pl | tricks | |
@@ -588,17 +588,17 @@
 | \#assa | pron | masc.dat/gen.sg | to this, of this | |
 | vacanīyaṃ | ptp | nt.nom.sg | it should be said | √vac + anīya |
 | assaddhiyampāhaṃ | sandhi | | disbelief too I | |
-| \#assaddhiyaṃ | noun | nt.nom.sg | disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
+| \#assaddhiyaṃ | noun | nt.acc.sg | disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
 | \#api | ind | - | also, too | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhikkhave | noun | masc.voc.pl | monks | |
-| sāhāraṃ | adj | nt.nom.sg | with fuel, having sustenance | |
+| sāhāraṃ | adj | nt.acc.sg | with fuel, having sustenance | |
 | vadāmi | verb | pr.1st.sg | I say | vada + mi |
 | no | ind | neg | not | |
-| anāhāraṃ | adj | nt.nom.sg | without fuel | na + ā + √har + \*a |
+| anāhāraṃ | adj | nt.acc.sg | without fuel | na + ā + √har + \*a |
 | ko | pron | masc.nom.sg | what? | |
 | cāhāro | noun | masc.nom.sg | and food, fuel | |
-| assaddhiyassa | noun | masc.gen.sg | of disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
+| assaddhiyassa | noun | nt.gen.sg | of disbelief, lack of confidence | na \> a + sad + √dhā + ā + iya |
 | asaddhammassavanantissa | sandhi | | "not hearing the pure teaching" | |
 | \#na | prefix | neg | not | |
 | \#saddhamma | noun | masc | true, good teaching | sat + dhamma |

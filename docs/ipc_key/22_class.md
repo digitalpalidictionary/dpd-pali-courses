@@ -7,7 +7,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | kiṃ'sū | sandhi | | what? | |
-| \#kiṃ | pron (or ind) | nt.nom.sg | what | |
+| \#kiṃ | pron | nt.acc.sg | what | |
 | \#sū | ind | interr | ? | |
 | asissāmi | verb | fut.1st.sg | I will eat | √as･1 a (eat) |
 | kuvaṃ | ind | adv+interr | where? | |
@@ -416,7 +416,7 @@
 | \#mayaṃ | pron | 1st.nom.pl | we | |
 | \#api | ind | | too | |
 | āyasmantānaṃ | noun | masc.dat.pl | to the sirs | √i･1 a (come, go) |
-| kiñcimattaṃ | noun | masc.acc.sg | a little something | kammadhāraya |
+| kiñcimattaṃ | noun | nt.acc.sg | a little something | kammadhāraya |
 | \#kiñci | pron | masc | anything; something; some | |
 | \#mattaṃ | noun | masc.acc.sg | amount; measure | √mā･5 nā (measure) |
 | anupadajjeyyāmā'ti | sandhi | | "...we should give." | |
@@ -428,7 +428,7 @@
 | so | pron | masc.nom.sg | that | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | vatvā | verb | abs | having said | √vad･1 a (say, speak) |
-| kiñcimattaṃ | noun | masc.acc.sg | a little something; small gift | kammadhāraya |
+| kiñcimattaṃ | noun | nt.acc.sg | a little something; small gift | kammadhāraya |
 | \#kiñci | ind | | something; anything | |
 | \#mattaṃ | adj | masc.acc.sg | amount of; measure of | √mā･5 nā (measure) |
 | anupadajjeyya | verb | opt.3rd.sg | should give | |

@@ -541,7 +541,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | ekam'id'āhaṃ | sandhi | | this one [time] I | |
-| \#ekaṃ | card | nt.acc.sg | one | |
+| \#ekaṃ | card | masc.acc.sg | one | |
 | \#idaṃ | pron | nt.acc.sg | this | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -551,10 +551,10 @@
 | subhagavane | noun | nt.loc.sg | in the blessed wood | |
 | \#subhaga | adj | nt. | blessed | √bhaj･1 a (divide, distribute) |
 | \#vane | noun | nt.loc.sg | wood | |
-| sālarājamūle | noun | masc.loc.sg | at the root of a king of sāl trees | |
+| sālarājamūle | noun | nt.loc.sg | at the root of a king of sāl trees | |
 | \#sāla | noun | masc. | sal tree | |
 | \#rāja | noun | masc. | king | √rāj･1 a (rule, shine) |
-| \#mūle | noun | masc.loc.sg | at the root | √mūl･1 a (support) |
+| \#mūle | noun | nt.loc.sg | at the root | √mūl･1 a (support) |
 
 **On this one occasion, monks, I was dwelling in the blessed wood, in Ukkaṭṭhā, at the root of a king of sāl trees.**
 

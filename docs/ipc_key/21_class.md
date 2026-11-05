@@ -140,7 +140,7 @@
 | iṅgha | ind | excl | please! come on! | |
 | tāva | ind | adv | that much; to that extent; first | |
 | āyasmā | noun | masc.voc.sg | venerable | √i･1 a (come, go) |
-| kāyikaṃ | adj (as adv) | masc.acc.sg | bodily; physical; related to the body | √ci･5 nā (gather, accumulate) |
+| kāyikaṃ | adj (as adv) | nt.acc.sg | bodily; physical; related to the body | √ci･5 nā (gather, accumulate) |
 | sikkhassū'ti | sandhi | | "...you must train yourself" | |
 | \#sikkhassu | verb | imp.reflx.2nd.sg | you must train yourself | √sikkh･1 a (learn, train) |
 | \#ti | ind | quotation mark | "" | |
@@ -321,7 +321,7 @@
 | jiguccheyyaṃ | verb | opt.reflx.1st.sg | I would myself be disgusted | √gup･1 cha (dislike) |
 | na | ind | neg | not | |
 | metaṃ | - | - | for me this | |
-| \#me | pron | masc.dat.sg | for me | |
+| \#me | pron | 1st.dat.sg | for me | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | assa | verb | opt.3rd.sg | it would be | √as･1 a (be) |
 | patirūpan'ti | sandhi | | "…suitable, proper" | |
@@ -375,7 +375,7 @@
 | \#vuṭṭhi | noun | fem.nom.sg | rain | |
 | \#iva | ind | | like | |
 | rajaṃ | noun | masc.acc.sg | dust | √raj･1 a (colour) |
-| samūhataṃ | pp | masc.acc.sg | stirred up; raised | √han･1 a (strike, kill) |
+| samūhataṃ | pp | nt.acc.sg | stirred up; raised | √han･1 a (strike, kill) |
 | sa | pron | masc.nom.sg | he | |
 | ve | ind | - | indeed, truly | |
 | vitakkūpasamena | noun | masc.instr.sg | with calming of thoughts; settling the mind | chaṭṭhī tappurisa |

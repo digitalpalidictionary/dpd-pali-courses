@@ -172,7 +172,7 @@
 | ocarakā | adj | masc.nom.pl | mean; rough | √car･1 a (act, behave) |
 | aṅgam'aṅgāni | noun | nt.acc.pl | limb by limb | dvanda |
 | \#aṅgaṃ | noun | nt.acc.sg | limb | √añj･8 \*e (distinguish) |
-| \#aṅgāni | noun | nt.instr.pl | by limb(s) | √añj･8 \*e (distinguish) |
+| \#aṅgāni | noun | nt.acc.pl | limb(s) | √añj･8 \*e (distinguish) |
 | okanteyyuṃ | verb | opt.3rd.pl | should cut off | √kat･2 ṃa (cut) |
 | tatrā'pi | sandhi | adv+ind | even in that case; even then | |
 | \#tatra | ind | adv | there; in that case | |
@@ -201,7 +201,7 @@
 | dukkhaṃ | adj | nt.nom.sg | uncomfortable; unpleasant; unsatisfactory | √dukkh･1 a (be painful) |
 | vipariṇāmadhammaṃ | adj | nt.nom.sg | of changing nature | kammadhāraya > bahubbīhi |
 | \#vipariṇāma | noun | masc | change; alteration | √nam･1 a (bend) |
-| \#dhammaṃ | noun | masc.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
+| \#dhammaṃ | adj | nt.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
 | kallaṃ | ind | impers (+inf) | is it suitable | √kal×8 a (accomplish) |
 | nu | ind | interr | ? | |
 | taṃ | pron | nt.acc.sg | that | |
@@ -236,7 +236,7 @@
 | \#etaṃ | pron | nt.nom.sg | this | |
 | vuttaṃ | pp | nt.nom.sg | has been said | √vac･1 a (say, speak) |
 | kiñ'c'etaṃ | sandhi | pron+ind+pron (interr) | and what this | |
-| \#kiṃ | pron | nt.nom.sg | what | |
+| \#kiṃ | pron | nt.acc.sg | what | |
 | \#ca | ind | conj | and | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | paṭicca | verb | ger | dependent/depending on | √i･1 a (come, go) |
@@ -309,7 +309,7 @@
 | ve | ind | emph | indeed; truly | |
 | jīviten'ūpapannaṃ | adj | masc.acc.sg | having lifestyle; endowed with way of life | tatiyā tappurisa |
 | \#jīvitena | noun | nt.instr.sg | by lifestyle; way of life | √jīv･1 a (live) |
-| \#upapannaṃ | pp | nt.acc.sg | possessed (of); having; with | √pad･3 ya (go, step) |
+| \#upapannaṃ | pp | masc.acc.sg | possessed (of); having; with | √pad･3 ya (go, step) |
 
 **There are sages in the world, people say, but how is that so? Do they call one a sage (because of) having knowledge or rather (because of) having lifestyle?**
 
@@ -402,15 +402,15 @@
 | \#eko | adj | masc.nom.sg | alone | |
 | \#eva | ind | - | just | |
 | bhagavā | noun | masc.nom.sg | the Buddha | √bhaj･1 a (divide, distribute) |
-| tasmiṃ | pron | masc.loc.sg (loc abs) | at that | |
-| samaye | noun | masc.loc.sg (loc abs) | at time | √i･1 a (come, go) |
+| tasmiṃ | pron | masc.loc.sg | at that | |
+| samaye | noun | masc.loc.sg | at time | √i･1 a (come, go) |
 | viharitukāmo | adj | masc.nom.sg | wishing to live | tuṃpaccaya tappurisa |
 | \#viharituṃ | verb | inf | to live | √har･1 a (live) |
 | \#kāmo | adj | masc.nom.sg | wishing, wanting | √kam･8 \*e (desire) |
 | hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 | na | ind | - | not | |
 | bhagavā | noun | masc.nom.sg | the Buddha | √bhaj･1 a (divide, distribute) |
-| tasmiṃ | noun | masc.loc.sg | at that | |
+| tasmiṃ | pron | masc.loc.sg | at that | |
 | samaye | noun | masc.loc.sg | at time | √i･1 a (come, go) |
 | kenaci | pron | masc.instr.sg | by anyone | |
 | anubandhitabbo | ptp | masc.nom.sg | should be followed | √bandh･1 a (bind, tie) |
@@ -459,7 +459,7 @@
 | jāyetha | verb | opt.reflx.3rd.sg | it would arise; it would be born | √jan･3 ya (be born, produce) |
 | nayidaṃ | - | - | not that | |
 | \#na | ind | neg | not | |
-| \#idaṃ | pron | nt.nom.sg | this | |
+| \#idaṃ | pron | nt.acc.sg | this | |
 | ussaheyya | verb | opt.3rd.sg | he would strive | √sah･1 a (overcome, prevail) |
 
 **If this desire did not arise, one would not strive (lit: if this desire would not arise, one would not make this effort).**
@@ -590,10 +590,10 @@
 | puttā | noun | masc.nom.pl | sons | |
 | matthi | sandhi | | these are mine (I have) | |
 | \#me | pron | 1st.gen.sg | my | |
-| \#atthi | verb | pr.3rd.sg | there is (used with plural subject) | |
+| \#atthi | verb | pr.3rd.pl | there is (used with plural subject) | |
 | dhanammatthi | sandhi | | this is my wealth (I have) | |
 | \#dhanaṃ | noun | nt.nom.sg | wealth | |
-| \#me | pron | masc.gen.sg | my | |
+| \#me | pron | 1st.gen.sg | my | |
 | \#atthi | verb | pr.3rd.sg | there is | |
 | iti | ind | quotation mark | "" | |
 | bālo | noun | masc.nom.sg | the fool | |
@@ -675,10 +675,10 @@
 | \#yathā | ind | adv | like | |
 | \#api | ind | | just | |
 | mūle | noun | nt.loc.sg (loc.abs) | when the root | √mūl･1 a (support) |
-| anupaddave | adj | masc.loc.sg | when free from danger; unafflicted | √du･1 a (burn, torment) |
+| anupaddave | adj | nt.loc.sg | when free from danger; unafflicted | √du･1 a (burn, torment) |
 | \#na | prefix | | not | |
 | \#upaddave | noun | masc.loc.sg | accident; misfortune | √du･1 a (burn, torment) |
-| daḷhe | adj | masc.loc.sg | when strong; firm | √dah×1 a (be strong) |
+| daḷhe | adj | nt.loc.sg | when strong; firm | √dah×1 a (be strong) |
 | chinno'pi | sandhi | pp+ind | even if cut off; severed | |
 | \#chinno | pp | masc.nom.sg | cut off | √chid･2 ṃa (cut, steal) |
 | \#api | ind | | even if | |
@@ -784,7 +784,7 @@
 | \#kiṃ | pron | nt.nom.sg (interr) | what? | |
 | \#carahi | ind | | then | |
 | ty'āyaṃ | sandhi | pron+pron | this by you | |
-| \#te | pron | masc.instr.sg | by you | |
+| \#te | pron | 2nd.instr.sg | by you | |
 | \#ayaṃ | pron | fem.nom.sg | this | |
 | sāriputta | noun | masc.voc.sg | Sāriputta | |
 | uḷārā | adj | fem.nom.sg | vast; lofty | |

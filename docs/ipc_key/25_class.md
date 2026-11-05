@@ -222,7 +222,7 @@
 | \#puna | ind | adv | again | |
 | \#bhava | noun | masc. | existence; becoming | |
 | sadarā | adj | masc.nom.pl | troublesome | |
-| dukkhavipākā | noun | masc.nom.pl | with painful results | kammadhāraya > bahubbīhi |
+| dukkhavipākā | adj | masc.nom.pl | with painful results | kammadhāraya > bahubbīhi |
 | \#dukkha | noun | nt. | suffering | |
 | \#vipākā | noun | masc.nom.pl | results | |
 | āyatiṃ | ind | adv | in future | |

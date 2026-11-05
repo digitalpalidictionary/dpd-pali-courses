@@ -68,7 +68,7 @@ pādā'pi naṃ samphusituṃ na icche.
 | pādā'pi | sandhi | | even with foot | |
 | \#pādā | noun | masc.instr.sg | by foot | |
 | \#api | ind | | even | |
-| naṃ | pron | fem.acc.sg | her | |
+| naṃ | pron | nt.acc.sg | her | |
 | samphusituṃ | verb | inf | to touch (with) | saṃ + √phus + ituṃ |
 | na | ind | neg | not | |
 | icche | verb | opt.1st.sg | I would wish | |
@@ -573,7 +573,7 @@ saccan'ti so brāhmaṇo kiṃ vadeyya,
 | \#iti | ind | quotation mark | "" | |
 | so | pron | masc.nom.sg | that | |
 | brāhmaṇo | noun | masc.nom.sg | brahmin | |
-| kiṃ | pron | nt.nom.sg | why; what; how | |
+| kiṃ | pron | nt.acc.sg | why; what; how | |
 | vadeyya | verb | opt.3rd.sg | he would, could say | √vad + a + eyya |
 
 **Why would/How could that brahmin say, "[it] is true,"**

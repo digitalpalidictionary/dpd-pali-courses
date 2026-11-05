@@ -131,7 +131,7 @@
 | \#appamāṇa | adj | masc. | immeasurable | |
 | \#\#na | prefix | | not | |
 | \#\#pamāṇa | adj | masc. | measuring | √mā･5 nā (measure) |
-| \#cetaso | adj | masc.instr.sg | with mind; having mind | √cit･8 \*e (think, intend) |
+| \#cetaso | adj | masc.nom.sg | having an immeasurable mind | √cit･8 \*e (think, intend) |
 
 **Here, monks, having seen a form with the eye, a monk is not drawn to a pleasing form, and he is not repelled by an unpleasant form; with mindfulness of the body present, he dwells with an immeasurable mind.**
 
@@ -346,7 +346,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | samaye | noun | masc.loc.sg | at time, occasion | √i･1 a (come, go) |
 | rañño | noun | masc.dat.sg | for the king | √rāj･1 a (rule, shine) |
-| phāsu | adj | masc.nom.sg | comfortable, easy | √phus･1 a (touch) |
+| phāsu | adj | nt.nom.sg | comfortable, easy | √phus･1 a (touch) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 | atiyātuṃ | verb | inf | to re-enter, return | √yā･1 a (go) |
 | vā | ind | conj | or | |
@@ -454,7 +454,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yam'enaṃ | sandhi | | that which | |
-| \#yaṃ | pron | masc.acc.sg | whichever | |
+| \#yaṃ | pron | nt.acc.sg | whichever | |
 | \#enaṃ | pron | masc.acc.sg | that | |
 | hatthidammasārathi | noun | masc.nom.sg | elephant tamer | |
 | \#hatthī | noun | masc. | elephant | |
@@ -491,7 +491,7 @@
 | samannāharitvā | verb | abs | having focused | √har･1 a (carry) |
 | ohitasoto | adj | masc.nom.sg | listening attentively lit. with applied ear | |
 | \#ohita | pp | masc. | applied; paid (of attention) | √dhā･1 a (place, support) |
-| \#soto | noun | nt.nom.sg | the ear | √su･4 ṇā (hear) |
+| \#soto | adj | masc.nom.sg | with applied ear | √su･4 ṇā (hear) |
 | suṇāti | verb | pr.3rd.sg | he listens | √su･4 ṇā (hear) |
 
 **having focused and paid attention on that (task), having concentrated completely with the mind, he listens with applied ear.**

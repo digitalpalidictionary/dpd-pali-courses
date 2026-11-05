@@ -427,7 +427,7 @@
 | kūṭeyyāni | noun | nt.nom.pl | crookedness | taddhita |
 | jimheyyāni | noun | nt.nom.pl | subterfuge | taddhita |
 | vaṅkeyyāni | noun | nt.nom.pl | dishonesty | taddhita |
-| tāni | pron | nt.nom.pl | those, those things | |
+| tāni | pron | nt.acc.pl | those, those things | |
 | yathābhūtaṃ | ind | adv | as they are | |
 | āvikattā | noun | masc.nom.sg | who openly reveals (+loc) | |
 | hoti | verb | pr.3rd.sg | he is | |

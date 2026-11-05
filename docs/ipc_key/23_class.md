@@ -126,7 +126,7 @@
 | \#\#dāna (ca) | noun | nt. | giving [and] | |
 | \#\#saṃvibhāge | noun | masc.loc.sg | in sharing | saṃ + vi + √bhaj + \*a |
 | \#rato | adj | masc.nom.sg | delighting in; taking pleasure in | |
-| ayaṃ | pron | masc.nom.sg | this | |
+| ayaṃ | pron | fem.nom.sg | this | |
 | vuccati | verb | pr.pass.3rd.sg | is called; is said to be | √vac + ya + ti |
 | gahapati | noun | masc.voc.sg | householder | |
 | cāgasampadā | noun | fem.nom.sg | the attainment of generosity | chaṭṭhī tappurisa |
@@ -269,7 +269,7 @@
 | saṅgho | noun | masc.nom.sg | the community | |
 | imaṃ | pron | nt.acc.sg | this | |
 | adhikaraṇaṃ | noun | nt.acc.sg | legal case, dispute | |
-| tiṇavatthārakena | noun | nt.instr.sg | by covering with grass | tatiyā tappurisa |
+| tiṇavatthārakena | noun | masc.instr.sg | by covering with grass | tatiyā tappurisa |
 | \#tiṇena | noun | nt.instr.sg | with grass | |
 | \#avatthārakena | noun | nt.instr.sg | by covering over | |
 | vūpasameyya | verb | opt.3rd.sg | it could settle | √sam･3 \*e (be calm, be tired) |
@@ -308,8 +308,8 @@
 | \#dhamme | noun | masc.loc.sg | to the teaching | |
 | \#yogā | adj | masc.nom.pl | governed, devoted to (lit: yoking) | |
 | bhikkhū | noun | masc.nom.pl | monks | |
-| jhāyī | adj | masc.nom.pl | meditating | |
-| bhikkhū | noun | masc.nom.pl | monks | |
+| jhāyī | adj | masc.acc.pl | meditating | |
+| bhikkhū | noun | masc.acc.pl | monks | |
 | apasādenti | verb | pr.3rd.pl | they disparage, put down, belittle | |
 | ime | pron | masc.nom.pl | these | |
 | pana | ind | - | and, but | |
@@ -422,12 +422,12 @@
 | yatvādhikaraṇamenaṃ | sandhi | | on account of which this | |
 | \#yato | ind | adv | because; lit. from which | |
 | \#adhikaraṇaṃ | noun | nt. | reason | |
-| \#enaṃ | pron | nt.acc.sg | him, her, it, this | |
+| \#enaṃ | pron | masc.acc.sg | him, her, it, this | |
 | cakkhundriyaṃ | noun | nt.acc.sg | eye faculty | kammadhāraya |
 | \#cakkhu | noun | nt. | eye | |
 | \#indriyaṃ | noun | nt.acc.sg | faculty | |
 | asaṃvutaṃ | adj | nt.acc.sg | unrestrained | |
-| viharantaṃ | prp | nt.acc.sg | living; remaining | |
+| viharantaṃ | prp | masc.acc.sg | living; remaining | |
 | abhijjhādomanassā | noun | masc.nom.pl | covetousness and grief | dvanda |
 | \#abhijjhā (+ca) | noun | fem. | greed, covetousness | |
 | \#domanassā (+ca) | noun | nt. | grief, distress | |
@@ -747,7 +747,7 @@
 | aññaṃ | pron | masc.acc.sg | another | |
 | bhāraṃ | noun | masc.acc.sg | burden | |
 | **anādiya** | verb | ger | not taking up | na + √ādā + ya |
-| **samūlaṃ** | adj | masc.acc.sg | with the root; at the source | sa + √mūl + a |
+| **samūlaṃ** | adj | fem.acc.sg | with the root; at the source | sa + √mūl + a |
 | taṇham'**abbuyha** | sandhi | | uprooting desire; pulling out craving | |
 | \#taṇhaṃ | noun | fem.acc.sg | craving | |
 | \#**abbuyha** | verb | ger | pulling out | ā + √buh + ya |
@@ -828,12 +828,12 @@
 | yatvādhikaraṇamenaṃ | sandhi | | on account of which this | |
 | \#yato | ind | adv | because; lit. from which | |
 | \#adhikaraṇaṃ | noun | nt. | reason | |
-| \#enaṃ | pron | nt.acc.sg | him, her, it, this | |
+| \#enaṃ | pron | masc.acc.sg | him, her, it, this | |
 | cakkhundriyaṃ | noun | nt.acc.sg | eye faculty | kammadhāraya |
 | \#cakkhu | noun | nt. | eye | |
 | \#indriyaṃ | noun | nt.acc.sg | faculty | |
 | asaṃvutaṃ | adj | nt.acc.sg | unrestrained | |
-| viharantaṃ | prp | nt.acc.sg | living; remaining | |
+| viharantaṃ | prp | masc.acc.sg | living; remaining | |
 | abhijjhādomanassā | noun | masc.nom.pl | covetousness and grief | dvanda |
 | \#abhijjhā (+ca) | noun | fem. | greed, covetousness | |
 | \#domanassā (+ca) | noun | nt. | grief, distress | |

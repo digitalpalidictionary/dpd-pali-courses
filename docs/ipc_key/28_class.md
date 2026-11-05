@@ -63,13 +63,13 @@
 | **ekacce** | pron | masc.nom.pl | certain | eka + tya |
 | **mogha**purisā | noun | masc.nom.pl | foolish persons; stupid persons | kammadhāraya |
 | \#mogha | adj | masc. | stupid; foolish (lit: empty) | √muh + \*gha |
-| \#purisā | noun | masc.nom.sg | persons | |
+| \#purisā | noun | masc.nom.pl | persons | |
 | dhammaṃ | noun | masc.acc.sg | the teaching | |
 | pariyāpuṇanti | verb | pr.3rd.pl | study well; learn thoroughly (lit: reach) | pari + ā + √ap + uṇā + ti |
 | **suttaṃ** | noun | nt.acc.sg | discourse (lit: thread) | √siv + ta |
 | **geyyaṃ** | noun (ptp) | nt.acc.sg | mixed verse (lit: to be sung) | √gā + eyya |
 | **veyyākaraṇaṃ** | noun | nt.acc.sg | a detailed exposition | vi + ā + √kar + aṇa + \*a |
-| **gāthaṃ** | noun | nt.acc.sg | verse; poem (lit: song) | √gā + thā |
+| **gāthaṃ** | noun | fem.acc.sg | verse; poem (lit: song) | √gā + thā |
 | **udānaṃ** | noun | nt.acc.sg | inspired saying; exclamation | ud + √an + \*a |
 | **itivuttakaṃ** | noun | nt.acc.sg | thus said; quotations | iti + vutta + ka |
 | **jātakaṃ** | noun | nt.acc.sg | stories of previous lives; birth stories (lit: about born) | √jan + ta + ka |
@@ -119,7 +119,7 @@
 | **gilānassa** | noun | masc.dat.sg | to one who is ill | √gilā + ana |
 | dānaṃ | noun | nt.acc.sg | a gift; an offering | |
 | deti | verb | pr.3rd.sg | gives; offers | |
-| **dubbhikkhe** | noun | masc.loc.sg | in scarcity of alms-food; famine | dur + √bhikkh + ā + a |
+| **dubbhikkhe** | noun | nt.loc.sg | in scarcity of alms-food; famine | dur + √bhikkh + ā + a |
 | dānaṃ | noun | nt.acc.sg | a gift; an offering | |
 | deti | verb | pr.3rd.sg | gives | √dā + a + ti |
 
@@ -351,7 +351,7 @@
 | sa | pron | masc.nom.sg | he; the | |
 | **pannabhāro** | adj | masc.nom.sg | who has laid down the load | kammadhāraya \> bahubbīhi |
 | **\#panna** | adj (pp) | masc. | lowered; put down | √pat + na |
-| **\#bhāro** | noun | masc.acc.sg | the load | √bhar + \*a |
+| **\#bhāro** | noun | masc.nom.sg | the load | √bhar + \*a |
 | muni | noun | masc.nom.sg | sage | |
 | **vippamutto** | pp | masc.nom.sg | freed; released | vi + pa + √muc + ta |
 | na | ind | neg | not | |
@@ -393,7 +393,7 @@
 | sace | ind | cond | if | |
 | enti | verb | pr.3rd.pl | they come [back] (to) | √i + a + ti |
 | **manussattaṃ** | noun | nt.acc.sg | human existence; human state | manu + ssa + tta |
-| dalidde | adj | masc.loc.sg | poor | |
+| dalidde | adj | nt.loc.sg | poor | |
 | jāyare | verb | pr.pass.reflx.3rd.pl | are born | √jan + ya + re |
 | **kule** | noun | nt.loc.sg | family; household | √kul + a |
 | coḷaṃ | noun | nt.nom.sg | cloth[ing]; rag | |
@@ -428,7 +428,7 @@
 | tadajj'ahaṃ | sandhi | | that today I; that today now | |
 | \#tad | pron | nt. | that | |
 | \#ajja | ind | adv | today; now | |
-| \#ahaṃ | pron | masc.nom.sg | I | |
+| \#ahaṃ | pron | 1st.nom.sg | I | |
 | niggahessāmi | verb | fut.1st.sg | will restrain; will hold back | ni + √gah + ṇhā + ssa + ssa + mi |
 | **yoniso** | ind | adv | thoroughly; carefully; intelligently (lit: from the source) | √yu + \*ni + so |
 | **hatthippabhinnaṃ** | adj | masc.acc.sg | elephant in rut | kammadhāraya |
@@ -456,7 +456,7 @@
 | **\#añjanena** | noun | nt.instr.sg | with eye ointment | √añj + ana |
 | **\#makkhitā** | pp | nt.nom.pl | smeared [with] | √makkh + ita |
 | alaṃ | ind | (+dat) | enough; it is enough (for) | |
-| bālassa | noun | masc.dat.sg | a fool | |
+| bālassa | noun | masc.gen.sg | a fool | |
 | **mohāya** | noun | masc.dat.sg | for delusion | √muh + \*a |
 | no | ind | neg | not | |
 | ca | ind | conj | and; here: but | |

@@ -301,7 +301,7 @@
 | ye | pron | masc.nom.pl | whichever | |
 | te | pron | masc.nom.pl | those | |
 | suttantā | noun | masc.nom.pl | discourses | chaṭṭhī tappurisa |
-| \#suttassa | noun | masc.gen.sg | of discourse | |
+| \#suttassa | noun | nt.gen.sg | of discourse | |
 | \#antā | noun | masc.nom.pl | side | |
 | tathāgatabhāsitā | adj | masc.nom.pl | preached by the Buddha | |
 | \#tathāgatena | noun | masc | (by) Realised One; Buddha | |
@@ -440,7 +440,7 @@
 | rattiyā | noun | fem.loc.sg (loc abs) | of the night | |
 | uṭṭhāyāsanā | - | - | arising from (his) seat | |
 | \#uṭṭhāya | ind | abs | having arisen, having stood up | √ṭhā･1 a (stand) |
-| \#āsanā | noun | masc.abl.sg | from (his) seat | √ās･1 a (sit) |
+| \#āsanā | noun | nt.abl.sg | from (his) seat | √ās･1 a (sit) |
 | ekaṃsaṃ | adj | masc.acc.sg | on one shoulder | |
 | \#eka | adj | - | one | |
 | \#aṃsa | noun | masc | shoulder | √aṃs×8 \*e (divide, distribute) |
@@ -571,15 +571,15 @@
 | ekodibhāvaṃ | noun | masc.acc.sg | singleness; unification | kammadhāraya |
 | \#ekodi | adj | masc | unified; single | |
 | \#bhāvaṃ | noun | masc.acc.sg | state; condition | √bhū･1 a (be, become) |
-| avitakkaṃ | adj | masc.acc.sg | free from thinking | kammadhāraya |
+| avitakkaṃ | adj | nt.acc.sg | free from thinking | kammadhāraya |
 | \#na | prefix | | not | |
 | \#vitakkaṃ | noun | masc.acc.sg | thinking | √takk･8 \*e (think) |
-| avicāraṃ | adj | masc.acc.sg | not examining | kammadhāraya |
+| avicāraṃ | adj | nt.acc.sg | not examining | kammadhāraya |
 | \#na | ind | neg | not | |
 | \#vicāraṃ | noun | masc.acc.sg | examining | √car･1 \*e (move, walk) |
-| samādhijaṃ | adj | masc.acc.sg | produced by stability of mind | pañcamī tappurisa |
+| samādhijaṃ | adj | nt.acc.sg | produced by stability of mind | pañcamī tappurisa |
 | \#samādhito | noun | masc.abl.sg | from a collected mind | √dhā･1 \*e (place, support) |
-| \#jaṃ | adj | masc.acc.sg (+abl) | born | √jan･3 ya (be born, produce) |
+| \#jaṃ | adj | nt.acc.sg | born | √jan･3 ya (be born, produce) |
 | pītisukhaṃ | noun | nt.acc.sg | joy and happiness | dvanda |
 | \#pīti [ca] | noun | fem.acc.sg | joy; delight [and] | √pī･5 nā (love, please) |
 | \#sukhaṃ [ca] | noun | nt.acc.sg | happiness; pleasure [and] | √sukh･1 a (be comfortable) |
