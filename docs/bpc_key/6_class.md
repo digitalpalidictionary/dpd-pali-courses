@@ -55,7 +55,7 @@
 | --- | --- | --- | --- | --- |
 | mā | ind | neg | don't | |
 | maṃ | pron | 1st.acc.sg | me | |
-| āyasmanto | noun | masc.nom.pl | Venerables | √i･1 a (come, go) |
+| āyasmanto | noun | masc.voc.pl | Venerables | √i･1 a (come, go) |
 | kiñci | pron | nt.acc.sg | something | |
 | avacuttha | verb | aor.2nd.pl (neg imp) | you all spoke = speak | √vac･1 a (say, speak) |
 | kalyāṇaṃ | adj | nt.acc.sg | good | |

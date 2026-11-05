@@ -271,8 +271,8 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | seyyathidaṃ | ind | idiom | i.e.; as follows; lit. (like) that like this | |
 | cattāro | card | masc.nom.pl | four | |
 | satipaṭṭhānā | noun | masc.nom.pl | foundations of mindfulness | |
-| cattāro | card | nt.nom.pl | four | |
-| sammappadhānā | noun | nt.nom.pl | right efforts; right striving | |
+| cattāro | card | masc.nom.pl | four | |
+| sammappadhānā | noun | masc.nom.pl | right efforts; right striving | |
 | cattāro | card | masc.nom.pl | four | |
 | iddhipādā | noun | masc.nom.pl | bases for psychic power | |
 | pañc'indriyāni | noun | nt.nom.pl | five faculties | |
@@ -312,7 +312,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | ghānasmiṃ | noun | nt.loc.sg | with regard to the nose | √ghā･3 ya (smell) |
 | api | ind | - | also | |
 | nibbindati | verb | pr.3rd.sg [+loc] | is disenchanted | √vid･2 ṃa (feel, like) |
-| gandhesu | noun | masc.loc.sg | with regard to smell; scent | √ghā･3 ya (smell) |
+| gandhesu | noun | masc.loc.pl | with regard to smell; scent | √ghā･3 ya (smell) |
 | api | ind | - | also | |
 | nibbindati | verb | pr.3rd.sg | is disenchanted | √vid･2 ṃa (feel, like) |
 | ghānaviññāṇe | noun | nt.loc.sg | with regard to nose consciousness | |
@@ -448,7 +448,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | idha | ind | adv | here; in this case | |
 | puriso | noun | masc.nom.sg | a man | |
 | āgaccheyya | verb | opt.3rd.sg | would come along | √gam･1 a (go) |
-| rājagahaṃ | noun | masc.acc.sg | Rājagaha | |
+| rājagahaṃ | noun | nt.acc.sg | Rājagaha | |
 | gantu'kāmo | adj | masc.nom.sg [+acc] | wishing to go to | |
 | so | pron | masc.nom.sg | he | |
 | taṃ | pron | 2nd.acc.sg | you (object) | |
@@ -458,11 +458,11 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | icchāmi | verb | pr.1st.sg | I wish | √is･1 a (wish for) |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
-| rājagahaṃ | noun | masc.acc.sg | Rājagaha | |
+| rājagahaṃ | noun | nt.acc.sg | Rājagaha | |
 | gantuṃ | verb | inf | to go [to] | √gam･1 a (go) |
-| tassa | pron | masc.dat.sg | to that [not translated] | |
+| tassa | pron | masc.gen.sg | of that | |
 | me | pron | 1st.dat.sg | to me | |
-| rājagahassa | noun | masc.dat.sg | to Rājagaha | |
+| rājagahassa | noun | nt.gen.sg | to Rājagaha | |
 | maggaṃ | noun | masc.acc.sg | the way; the path | √magg･8 \*e (seek, search) |
 | upadisā'ti | verb | imp.2nd.sg + end quote | show; point out | √dis･1 a (point out, explain) |
 
@@ -593,7 +593,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | aparikkamane | adj | nt.loc.sg | on not accessible; not approachable; not having a surrounding space | √kam･1 a (go) |
 | saññācikāya | noun | fem.instr.sg | by one's own begging | |
 | kuṭiṃ | noun | fem.acc.sg | a hut | √kuṭ･1 a (be crooked, bent) |
-| kāreyya | verb | opt.3rd.sg | should build | √kam･1 a (go) |
+| kāreyya | verb.caus | opt.3rd.sg | should build | √kar･7 \*e (do, make) |
 | bhikkhū | noun | masc.acc.pl | monks | √bhikkh･1 a (beg) |
 | vā | ind | conj | or | |
 | anabhineyya | verb | opt.3rd.sg | should not invite; bring | √nī･1 a (lead, carry) |
@@ -689,7 +689,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | uggahītaṃ | pp | nt.nom.sg | what is grasped; held onto | √gah･6 ṇhā (grasp) |
 | tesu | pron | masc.loc.pl | among them (for them) | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
-| kiṃ | pron | nt.nom.sg | what? | |
+| kiṃ | pron | nt.acc.sg | what? | |
 | labhe | verb | opt.2nd.sg | you would gain | √labh･1 a (get) |
 | pasūra | noun | masc.voc.sg | Pasūra | |
 

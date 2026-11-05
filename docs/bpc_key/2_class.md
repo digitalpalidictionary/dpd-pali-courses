@@ -47,27 +47,12 @@
 | manussassa | noun | masc.gen.sg | of a human being |
 | dhammo | noun | masc.nom.sg | the quality; state; nature |
 | alam'ariyo | adj | masc.nom.sg | suitable for a noble person; worthy of an enlightened |
-| ñāṇadassanassa | noun | masc.gen.sg | of knowing and seeing |
+| ñāṇadassanassa | noun | nt.gen.sg | of knowing and seeing |
 | viseso | noun | masc.nom.sg | attainment; distinction |
 
 **the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**
 
-5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ kāye kesā lomā nakhā dantā taco
-
-| | | | |
-| --- | --- | --- | --- |
-| atthi | verb | pr.3rd.sg | there is (there are) |
-| imasmiṃ | pron | masc.loc.sg | in this |
-| kāye | noun | masc.loc.sg | in body |
-| kesā | noun | masc.nom.pl | hair(s) of the head |
-| lomā | noun | masc.nom.pl | hairs of the body |
-| nakhā | noun | masc.nom.pl | nails |
-| dantā | noun | masc.nom.pl | teeth |
-| taco | noun | masc.nom.sg | skin |
-
-**There are in this body, hair [on the head], hairs of the body, nails, teeth, skin.**
-
-6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
+5. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -80,7 +65,7 @@
 
 **I will not take a water cup with a soiled hand.**
 
-7. VIN PAT NID nidānuddeso<br>saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya
+6. VIN PAT NID nidānuddeso<br>saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -92,7 +77,7 @@
 
 **The community of monks should perform the observance day [and] should recite the training rules.**
 
-8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
+7. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -114,7 +99,7 @@
 
 **It is so (thus) "He [is] the Blessed One, the Worthy One, the fully Enlightened One, endowed with wisdom and ethical conduct, Fortunate One, knower of the world, incomparable leader of persons to be tamed, teacher of gods and humans, the Awakened One, the Blessed One."**
 
-9. kāyassa bhedā
+8. kāyassa bhedā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -123,7 +108,7 @@
 
 **From the break-up of the body**
 
-10. samaṇo gotamo
+9. samaṇo gotamo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -132,7 +117,7 @@
 
 **The recluse Gotama**
 
-11. virāgāya nirodhāya
+10. virāgāya nirodhāya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -141,7 +126,7 @@
 
 **for dispassion, for cessation**
 
-12. bālassa mohāya
+11. bālassa mohāya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -150,7 +135,7 @@
 
 **for the delusion of the fool**
 
-13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
+12. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -159,7 +144,7 @@
 
 **[there is no satisfaction] by sensual pleasures in the world**
 
-14. devā manussā
+13. devā manussā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -168,7 +153,7 @@
 
 **gods and humans**
 
-15. cāgo paṭinissaggo anālayo
+14. cāgo paṭinissaggo anālayo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -178,7 +163,7 @@
 
 **The relinquishing, the abandonment, the non-attachment**
 
-16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
+15. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -187,7 +172,7 @@
 
 **[he places] a foot on a foot**
 
-17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
+16. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -197,7 +182,7 @@
 
 **[he arouses] desire for the arising of states of mind**
 
-18. khandhānaṃ bhedo
+17. khandhānaṃ bhedo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -206,7 +191,7 @@
 
 **the break-up of the aggregates**
 
-19. dhammā sekhassa
+18. dhammā sekhassa
 
 | | | | |
 | --- | --- | --- | --- |
@@ -215,7 +200,7 @@
 
 **qualities of a trainee**
 
-20. samaṇena vā brāhmaṇena vā devena vā mārena vā
+19. samaṇena vā brāhmaṇena vā devena vā mārena vā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -227,7 +212,7 @@
 
 **with either a recluse or a brahmin or a deity or Mara**
 
-21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+20. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -239,7 +224,7 @@
 
 **[burning] with griefs, lamentations, pains, distresses, afflictions**
 
-22. dhammo vinayo
+21. dhammo vinayo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -248,7 +233,7 @@
 
 **The Doctrine, the Discipline**
 
-23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
+22. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -257,7 +242,7 @@
 
 **[is reborn in] a state of suffering, hell.**
 
-24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
+23. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
 
 | | | | |
 | --- | --- | --- | --- |
@@ -267,7 +252,7 @@
 
 **on another occasion, the Awakened One…**
 
-25. gabbhe cīvaraṃ
+24. gabbhe cīvaraṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -276,7 +261,7 @@
 
 **the robe in the room**
 
-26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
+25. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -285,7 +270,7 @@
 
 **[he entered] the rainy season at the dwelling place.**
 
-27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html)<br>nīvaraṇehi brāhmaṇo
+26. [MN99](https://find.dhamma.gift/bw/mn/mn99.html)<br>nīvaraṇehi brāhmaṇo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -294,7 +279,7 @@
 
 **The brahmin [is filled] with the [five] hindrances**
 
-28. kāme brāhmaṇa
+27. kāme brāhmaṇa
 
 | | | | |
 | --- | --- | --- | --- |
@@ -303,7 +288,7 @@
 
 **O, brahmin! … sensual pleasures**
 
-29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
+28. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -312,7 +297,7 @@
 
 **[Good are] friends in [arisen] need <br>[Good are] friends when need [arises]**
 
-30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
+29. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -323,7 +308,7 @@
 
 **Gotama [trains] disciples … among the disciples of the Gotama.**
 
-31. kassapassa vinayasmiṃ
+30. kassapassa vinayasmiṃ
 
 | | | | |
 | --- | --- | --- | --- |

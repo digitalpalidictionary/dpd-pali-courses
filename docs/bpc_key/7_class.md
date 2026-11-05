@@ -8,7 +8,7 @@
 | rasaṃ | noun | masc.acc.sg | flavour, taste | |
 | sāyitvā | verb | abs | having tasted | √sāy･1 a (taste) |
 | uppajjati | verb | pr.3rd.sg | it arises | √pad･3 ya (go, step) |
-| manāpaṃ | noun | masc.acc.sg | pleasant experience; what is pleasant | |
+| manāpaṃ | noun | nt.nom.sg | pleasant experience; what is pleasant | |
 
 **Having tasted a flavour with the tongue, a pleasant experience arises.**
 
@@ -228,7 +228,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ye | pron | masc.nom.pl | whatever; whichever | |
+| ye | pron | masc.acc.pl | whatever; whichever | |
 | kho | ind | emph | indeed | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | dhamme | noun | masc.acc.pl | things; phenomena | √dhar･1 a (hold, carry, endure) |
@@ -276,10 +276,10 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | n'atthi | verb | pr.3rd.sg | there is not | |
-| taṃ | pron | masc.acc.sg | that | |
-| kiñci | pron | masc.acc.sg | anything | |
+| taṃ | pron | nt.nom.sg | that | |
+| kiñci | pron | nt.nom.sg | anything | |
 | lokasmiṃ | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
-| yaṃ | pron | masc.acc.sg | which | |
+| yaṃ | pron | nt.acc.sg | which | |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | upādiyamāno | prp | masc.nom.sg | grasping; holding onto | √ādā･3 ya (take, seize) |
 | na | ind | neg | not | |
@@ -387,7 +387,7 @@
 | tumhe | pron | 2nd.nom.pl | you | |
 | cha | card | x.acc.pl | six | |
 | sāraṇīye | adj | masc.acc.pl | cordial | √raj･3 ya (desire) |
-| dhamme | adj | masc.acc.pl | things, principles | √dhar･1 a (hold, carry, endure) |
+| dhamme | noun | masc.acc.pl | things, principles | √dhar･1 a (hold, carry, endure) |
 | samādāya | verb | abs | undertaking; taking up; accepting | √ādā･3 ya (take, seize) |
 | vatteyyātha | verb | opt.2nd.pl | would practice; would continue | √vatt･1 a (be, proceed) |
 | passatha | verb | pr.2nd.pl | you see | √dis･1 a (see) |
@@ -456,7 +456,7 @@
 | ce | ind | ind | if | |
 | sabbadā | ind | adv | always; at all times | |
 | siyuṃ | verb | opt.3rd.pl | they would be; there could be | √as･1 a (be) |
-| taṇhāya | noun | fem.loc.sg | in the craving | √tas･6 ṇhā (thirst) |
+| taṇhāya | noun | fem.gen.sg | of craving | √tas･6 ṇhā (thirst) |
 | mūlato | noun | nt.abl.sg | from the source | √mūl･1 a (support) |
 | chetvā | verb | abs | having cut off; having severed | √chid･2 ṃa (cut) |
 | kissa | pron.<br>interr | masc.dat.sg | for what reason?; why? | |

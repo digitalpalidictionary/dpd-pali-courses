@@ -127,7 +127,7 @@
 | --- | --- | --- | --- | --- |
 | cattāri | card | nt.nom.pl | four | |
 | imāni | pron | nt.nom.pl | these | |
-| bhikkhave | noun | masc.voc.sg | monks | √bhikkh･1 a (beg) |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | ariya-saccāni. | noun | nt.nom.pl | noble truths. | |
 | katamāni | pron | nt.nom.pl | which? what? | |
 | cattāri? | card | nt.nom.pl | four | |
@@ -263,7 +263,7 @@
 | yāvakīvañ'ca | ind | adv+adv+ind | and as long as | |
 | me | pron | 1st.dat.sg | for me | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| imesu | pron | masc.loc.pl | in these | |
+| imesu | pron | nt.loc.pl | in these | |
 | catūsu | card | nt.loc.pl | four | |
 | ariyasaccesu | noun | nt.loc.pl | noble truths | |
 | saha | ind | prep | together with | |
@@ -348,8 +348,8 @@
 | tasmiṃ | pron | nt.loc.sg | in that | |
 | eva | ind | emph | only; just; very | |
 | āsane | noun | nt.loc.sg | in seat; fig. in place | √ās･1 a (sit) |
-| virajaṃ | adj | nt.acc.sg | pure; stainless; untainted | √raj･1 a (colour) |
-| vītamalaṃ | adj | nt.acc.sg | spotless | |
+| virajaṃ | adj | nt.nom.sg | pure; stainless; untainted | √raj･1 a (colour) |
+| vītamalaṃ | adj | nt.nom.sg | spotless | |
 | dhammacakkhuṃ | noun | nt.nom.sg | understanding of the way things are; insight into the nature of reality; lit. Dhamma eye | |
 | udapādi | verb | aor.3rd.sg | arose | √pad･3 ya (go, step) |
 
@@ -443,7 +443,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | cātumahābhūtiko | adj | masc.nom.sg | made of the four great elements | |
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
-| ekaṃ | pron | nt.acc.sg | one | |
+| ekaṃ | card | nt.acc.sg | one | |
 | api | ind | ind | only | |
 | vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
@@ -543,9 +543,9 @@
 | apāyehi | noun | masc.abl.pl | from states of misery (lit: going down) | √i･1 a (come, go) |
 | ca | ind | conj | and | |
 | vippamutto | pp | masc.nom.sg | released from | √muc･2 ṃa (release, free) |
-| cha | card | x.nom.pl | six | |
+| cha | card | x.acc.pl | six | |
 | ca | ind | conj | and | |
-| abhiṭhānāni | noun | nt.nom.pl | heinous crimes; great wrongs | √ṭhā･1 a (stand) |
+| abhiṭhānāni | noun | nt.acc.pl | heinous crimes; great wrongs | √ṭhā･1 a (stand) |
 | abhabbo | adj | masc.nom.sg | unable; unlikely | √bhū･1 a (be, become) |
 | kātuṃ | verb | inf | to do; to perform | √kar･7 o (do, make) |
 
@@ -569,11 +569,11 @@
 | te | pron | masc.nom.pl | they | |
 | honti | verb | pr.3rd.pl | are | √hū･1 a (be) |
 | bhusaṃ | ind | adv | exceedingly; very | √bhus･1 a (fall, strike) |
-| pamattā | adj | masc.nom.pl | heedless; negligent | √mad･3 ya (be mad, intoxicated) |
+| pamattā | pp | masc.nom.pl | heedless; negligent | √mad･3 ya (be mad, intoxicated) |
 | na | ind | neg | not | |
 | te | pron | masc.nom.pl | they | |
 | bhavaṃ | noun | masc.acc.sg | state of existence | √bhū･1 a (be, become) |
-| aṭṭhamaṃ | ordin | nt.acc.sg | eighth | |
+| aṭṭhamaṃ | ordin | masc.acc.sg | eighth | |
 | ādiyanti | verb | pr.3rd.pl | grasp; embrace | √ādā･3 ya (take, seize) |
 
 **Even though they are exceedingly negligent, they do not grasp an eighth state of existence.**

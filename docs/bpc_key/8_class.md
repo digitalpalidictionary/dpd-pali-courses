@@ -153,7 +153,7 @@
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | Blessed One | √bhaj･1 a (divide, distribute) |
 | tena | ind | adv | there | |
-| añjaliṃ | noun | fem.acc.sg | palms together | √añj×1 a (pay respect) |
+| añjaliṃ | noun | masc.acc.sg | palms together | √añj×1 a (pay respect) |
 | paṇāmetvā | verb | abs | having stretched out | √nam･1 \*e (bend) |
 | bhagavantaṃ | noun | masc.acc.sg | to the Blessed One | √bhaj･1 a (divide, distribute) |
 | etad- | pron | nt.acc.sg | this | |
@@ -186,7 +186,7 @@
 | pana | ind | | and | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | sikkhaṃ | noun | fem.acc.sg | training | |
-| apaccakkhāya | verb | abs | not renouncing, not rejecting | √sikkh･1 a (learn, train) |
+| apaccakkhāya | verb | abs | not renouncing, not rejecting | √khā･1 a (tell, announce) |
 | dubbalyaṃ | noun | nt.acc.sg | weakness | |
 | anāvikatvā | verb | abs | having not disclosed, declared | |
 | methunaṃ | adj | masc.acc.sg | sexual | √mith×1 a (pair) |
@@ -414,12 +414,12 @@
 | animittāya | adj | fem.gen.sg | of the signless | |
 | cetovimuttiyā | noun | fem.gen.sg | of the liberation of mind | |
 | samāpattiyā | noun | fem.dat.sg | for the attainment | |
-| sabbanimittānaṃ | noun | nt.dat.pl | to all objects | |
+| sabbanimittānaṃ | noun | nt.gen.pl | of all objects | |
 | ca | ind | conj | and | |
 | amanasikāro | noun | masc.nom.sg | non-attention | |
-| animittāya | adj | fem.dat.sg | for the signless | |
+| animittāya | adj | fem.gen.sg | of the signless | |
 | ca | ind | conj | and | |
-| dhātuyā | noun | fem.dat.sg | for state; condition | √dhā･1 a (place, support) |
+| dhātuyā | noun | fem.gen.sg | of state; condition | √dhā･1 a (place, support) |
 | manasikāro | noun | masc.nom.sg | attention; mental application | |
 
 **Friend, [there are] indeed two supporting conditions for the attainment of the signless liberation of mind: non-attention to all objects and attention to the signless state.**
@@ -517,14 +517,14 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| uppannānaṃ | pp | masc.dat.pl | for arisen; appeared | √pad･3 ya (go, step) |
-| kusalānaṃ | adj | masc.dat.pl | for beneficial, wholesome | |
-| dhammānaṃ | noun | masc.dat.pl | qualities; things; states | √dhar･1 a (hold, carry, endure) |
+| uppannānaṃ | pp | masc.gen.pl | of arisen | √pad･3 ya (go, step) |
+| kusalānaṃ | adj | masc.gen.pl | of wholesome | |
+| dhammānaṃ | noun | masc.gen.pl | of qualities; of things; of states | √dhar･1 a (hold, carry, endure) |
 | ṭhitiyā | noun | fem.dat.sg | for constancy; for persistence | √ṭhā･1 a (stand) |
 | asammosāya | noun | masc.dat.sg | for non-disappearance / not forgetting | √mus･3 ya (lie, forget) |
 | bhiyyobhāvāya | noun | masc.dat.sg | for growth; for increase | |
 | vepullāya | noun | nt.dat.sg | for maturity; fullness | √pul×8 \*e (increase) |
-| bhāvanāya | noun | fem.instr.sg | by development; by cultivation | √bhū･1 \*e (be, become) |
+| bhāvanāya | noun | fem.dat.sg | for development; for cultivation | √bhū･1 \*e (be, become) |
 | pāripūriyā | noun | fem.dat.sg | for fulfilment; for completion | √pūr･1 a (fill, fulfil) |
 | chandaṃ | noun | masc.acc.sg | interest, wish, desire | √chand･8 \*e (desire, please) |
 | janeti | verb | pr.3rd.sg | arouses; generates [lit: causes to be born] | √jan･3 \*e (be born, produce) |
@@ -548,7 +548,7 @@
 | māsaparamaṃ | ind | adv | for a month at the most | |
 | so | pron | masc.nom.sg | the; that | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
-| taṃ | pron | masc.acc.sg | that | |
+| taṃ | pron | nt.acc.sg | that | |
 | cīvaraṃ | noun | nt.acc.sg | robe[-cloth] | |
 | nikkhipeyya | verb | opt.3rd.sg | should set aside | √khip･1 a (throw) |
 | ce | ind | ind | if | |
@@ -571,7 +571,7 @@
 | asesaṃ | ind | adv | completely; without remnant | √sis･8 \*e (remain, distinguish) |
 | uparujjhati | verb | pr.3rd.sg | is stopped; is ended | √rudh･2 ya (obstruct) |
 | viññāṇassa | noun | nt.gen.sg | of consciousness | √ñā･5 nā (know) |
-| nirodhena | noun | nt.instr.sg | by means of the cessation; ending | √rudh･2 ṃa (obstruct) |
+| nirodhena | noun | masc.instr.sg | by means of the cessation; ending | √rudh･2 ṃa (obstruct) |
 | ettha | ind | adv | here; in this place | |
 | etaṃ | pron | nt.nom.sg | this thing/subject | |
 | uparujjhati | verb | pr.3rd.sg | is ended | √rudh･2 ṃa (obstruct) |

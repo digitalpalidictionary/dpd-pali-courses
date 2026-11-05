@@ -190,10 +190,10 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃ | pron | nt.acc.sg | whatever | |
+| yaṃ | pron | nt.nom.sg | whatever | |
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
-| piyarūpaṃ | adj | nt.acc.sg | agreeable, enticing | |
-| sātarūpaṃ | adj | nt.acc.sg | pleasant, beautiful | |
+| piyarūpaṃ | adj | nt.nom.sg | agreeable, enticing | |
+| sātarūpaṃ | adj | nt.nom.sg | pleasant, beautiful | |
 
 **Whatever in the world is agreeable and pleasant**
 
@@ -277,10 +277,10 @@
 | --- | --- | --- | --- | --- |
 | ariyasāvako | noun | masc.nom.sg | noble disciple | |
 | uṭṭhānavīriyena | noun | nt.instr.sg | with effort and exertion | |
-| adhigatehi | pp | nt.instr.pl | with acquired | √gam･1 a (go) |
+| adhigatehi | pp | masc.instr.pl | with acquired | √gam･1 a (go) |
 | bhogehi | noun | masc.instr.pl | with wealth | √bhuj･2 ṃa (use, eat, enjoy) |
 | bāhābalena | noun | nt.instr.sg | with manual labor | |
-| paricitehi | pp | nt.instr.pl | with completely accumulated | √ci･5 nā (gather, accumulate) |
+| paricitehi | pp | masc.instr.pl | with completely accumulated | √ci･5 nā (gather, accumulate) |
 | seda-avakkhittehi | adj | masc.instr.pl | with dropped sweat | √khip･1 a (throw) |
 | dhammikehi | adj | masc.instr.pl | with righteous | √dhar･1 a (hold, carry, endure) |
 | dhammena | noun | masc.instr.sg | by righteous means | √dhar･1 a (hold, carry, endure) |
@@ -348,11 +348,11 @@
 | eva | ind | emph | just [yadeva= whatever] | |
 | tattha | ind | adv | there; in that regard | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
-| rūpagataṃ | adj | masc.acc.sg | connected with materiality | |
-| vedanāgataṃ | adj | masc.acc.sg | connected with feeling | |
-| saññāgataṃ | adj | masc.acc.sg | connected with perception | |
-| saṅkhāragataṃ | adj | masc.acc.sg | connected with volitional formation | |
-| viññāṇagataṃ | adj | masc.acc.sg | connected with consciousness | |
+| rūpagataṃ | adj | nt.nom.sg | connected with materiality | |
+| vedanāgataṃ | adj | nt.nom.sg | connected with feeling | |
+| saññāgataṃ | adj | nt.nom.sg | connected with perception | |
+| saṅkhāragataṃ | adj | nt.nom.sg | connected with volitional formation | |
+| viññāṇagataṃ | adj | nt.nom.sg | connected with consciousness | |
 
 **Whatever in that regard there is connected with materiality, connected with feeling, connected with perception, connected with volitional formations, connected with consciousness,**
 
@@ -417,7 +417,7 @@
 | manāpānaṃ | adj | nt.gen.pl | of pleasant; agreeable | |
 | manoramānaṃ | adj | nt.gen.pl | of delightful; attractive | |
 | lok'āmisena | noun | nt.instr.sg | with worldly pleasure [lit: flesh of the world] | |
-| paṭisaṃyuttānaṃ | adj | masc.gen.pl [+instr] | of connected to; related to | √yuj･2 ṃa (yoke, join) |
+| paṭisaṃyuttānaṃ | adj | nt.gen.pl | of connected to; related to | √yuj･2 ṃa (yoke, join) |
 | paṭilābhaṃ | noun | masc.acc.sg | acquiring of; obtaining of | √labh･1 a (get) |
 | paṭilābhato | noun | masc.abl.sg | as a personal acquisition | √labh･1 a (get) |
 | samanupassato | prp | masc.dat.sg | for one perceiving; seeing | √dis･1 a (see) |
@@ -450,7 +450,7 @@
 | santuṭṭho | pp | masc.nom.sg | satisfied; content | √tus･3 ya (be content, pleased) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | kāyaṃ | noun | masc.acc.sg | the body | √ci･5 nā (gather, accumulate) |
-| parihārikena | adj | masc.instr.sg | taking care of; lit. carrying around | √har･1 a (carry) |
+| parihārikena | adj | nt.instr.sg | taking care of; lit. carrying around | √har･1 a (carry) |
 | cīvarena | noun | nt.instr.sg | with robe | √ci･5 nā (gather, accumulate) |
 | kucchiṃ | noun | masc.acc.sg | stomach | √kus×1 \*a (fill, enfold) |
 | parihārikena | adj | masc.instr.sg | taking care of; lit. carrying around | √har･1 a (carry) |
@@ -566,7 +566,7 @@
 | maṃ | pron | masc.acc.sg | me | |
 | citta | noun | nt.voc.sg | o mind | √cit･8 \*e (think, intend) |
 | jinassa | noun | masc.gen.sg | of the conqueror | √ji･5 nā (conquer) |
-| sāsane | noun | nt.acc.sg | the teachings | √sās･1 a (order, instruct) |
+| sāsane | noun | nt.loc.sg | the teachings | √sās･1 a (order, instruct) |
 | tārehi | verb | imp.2nd.sg | save; rescue | √tar･1 \*e (cross) |
 | oghā | noun | masc.abl.sg | torrent; deluge | |
 | mahatā | adj | masc.abl.sg | great | √mah×1 a (increase) |
@@ -668,10 +668,10 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| phuṭṭhassa | pp | nt.gen.sg | of touched | √phus･1 a (touch) |
+| phuṭṭhassa | pp | masc.gen.sg | of touched | √phus･1 a (touch) |
 | lokadhammehi | noun | masc.instr.pl | by worldly matters | |
 | cittaṃ | noun | nt.nom.sg | a mind | √cit･8 \*e (think, intend) |
-| yassa | pron | nt.gen.sg | of which; whoever | |
+| yassa | pron | masc.gen.sg | of which; whoever | |
 | na | ind | neg | not | |
 | kampati | verb | pr.3rd.sg | trembles; is disturbed | √kamp･1 a (shake, tremble) |
 | asokaṃ | adj | nt.nom.sg | free from sadness | √suc･1 \*a (grieve) |

@@ -200,7 +200,7 @@
 | --- | --- | --- | --- |
 | passatha | verb | pr.2nd.pl | you (all) see |
 | ānanda | noun | masc.voc.sg | o Ānanda |
-| vacanassa | noun | masc.gen.sg | of speech |
+| vacanassa | noun | nt.gen.sg | of speech |
 | pathaṃ | noun | masc.acc.sg | a course |
 
 **You see, Ānanda, a course of speech**

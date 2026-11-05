@@ -80,9 +80,9 @@
 | alaṃ | ind | excl | Stop! Enough! | |
 | ānanda | noun | masc.voc.sg | O Ānanda! (lit. joyful) | |
 | mā | ind | neg | don't! | |
-| soci | verb | aor.3rd.sg | grieved | √suc･1 \*a (grieve) |
+| soci | verb | aor.2nd.sg | you grieved | √suc･1 \*a (grieve) |
 | mā | ind | neg | don't! | |
-| paridevi | verb | aor.3rd.sg | lamented, wailed | √dev･1 a (lament) |
+| paridevi | verb | aor.2nd.sg | you lamented | √dev･1 a (lament) |
 
 **Stop Ānanda, don't grieve, don't lament!**
 
@@ -127,7 +127,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| aniccaṃ | noun | masc.acc.sg | impermanence | |
+| aniccaṃ | noun | nt.acc.sg | impermanence | |
 | anupassī | adj | masc.nom.sg | looking (at); observing; lit. seeing again and again | √dis･1 a (see) |
 | passasissāmi | verb | fut.1st.sg | I will breathe out | √sas･1 a (breath) |
 | iti | ind | quote | " "; thus | |
@@ -418,8 +418,8 @@
 | --- | --- | --- | --- | --- |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | saṅghaṃ | noun | masc.acc.sg | community of monks | √ghaṭ･1 a (join together) |
-| kuṭivatthussa | noun | nt.dat.sg | for the site of a hut | |
-| olokanaṃ | noun | nt.nom.sg | checking | √lok･8 \*e (look) |
+| kuṭivatthussa | noun | nt.gen.sg | of the site of a hut | |
+| olokanaṃ | noun | nt.acc.sg | checking | √lok･8 \*e (look) |
 | yācati | verb | pr.3rd.sg | asks; requests | √yāc･1 a (beg) |
 
 **A monk asks the Community to check the place of the hut.**
@@ -490,7 +490,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | mā | ind | neg | do not | |
-| akāsi | verb | aor.3rd.sg | did; made | √kar･7 o (do, make) |
+| akāsi | verb | aor.2nd.sg | you did | √kar･7 o (do, make) |
 | pāpakaṃ | adj | nt.acc.sg | bad; evil | |
 | kammaṃ | noun | nt.acc.sg | action; deed | √kar･7 o (do, make) |
 
@@ -515,7 +515,7 @@
 | tacena | noun | masc.instr.sg | with skin | |
 | onaddhaṃ | pp | nt.nom.sg | covered | √nadh･2 ṃa (wrap, twist) |
 | saha | ind | prep [+instr] | with | |
-| vatthehi | noun | masc.instr.pl | clothes | √vas･8 \*e (wear, dress) |
+| vatthehi | noun | nt.instr.pl | clothes | √vas･8 \*e (wear, dress) |
 | sobhati | verb | pr.3rd.sg | shines; radiates; looks beautiful | √subh･1 \*a (shine, adorn) |
 
 **A bone covered with skin; it looks beautiful with clothes.**
@@ -528,7 +528,7 @@
 | --- | --- | --- | --- | --- |
 | jina | verb | imp.2nd.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
 | kadariyaṃ | noun | nt.acc.sg | stinginess | |
-| dānena | noun | masc.instr.sg | by generosity | √dā･1 a (give) |
+| dānena | noun | nt.instr.sg | by generosity | √dā･1 a (give) |
 | jina | verb | imp.2nd.sg | you must win, conquer, defeat | √ji･5 nā (conquer) |
 | saccena | noun | nt.instr.sg | by truth | √as･1 a (be) |
 | alikavādinaṃ | noun | masc.acc.sg | liar; who lies | |
@@ -602,11 +602,11 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| te | pron | 2nd.gen.pl | your | |
+| te | pron | 2nd.gen.sg | your | |
 | diṭṭhiṃ | noun | fem.acc.sg | the view | √dis･1 a (see) |
 | n'ābhijānāmi | verb | pr.1st.sg | I do not know; not understand | √ñā･5 nā (know) |
 | gotamassa | noun | masc.gen.sg | of Gotama | |
-| yasassino | adj | masc.dat.sg | of the famous | |
+| yasassino | adj | masc.gen.sg | of the famous | |
 
 **I don't understand your view; [the view] of the famous Gotama.**
 

@@ -56,10 +56,10 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| asitaṃ | pp | nt.acc.sg | what has been eaten | √as･1 a (eat) |
-| pītaṃ | pp | nt.acc.sg | what has been drunk | √pā･1 a (drink) |
-| khāyitaṃ | pp | nt.acc.sg | what has been chewed | √khād･1 a (chew) |
-| sāyitaṃ | pp | nt.acc.sg | what has been tasted | √sāy･1 a (taste) |
+| asitaṃ | pp | nt.nom.sg | what has been eaten | √as･1 a (eat) |
+| pītaṃ | pp | nt.nom.sg | what has been drunk | √pā･1 a (drink) |
+| khāyitaṃ | pp | nt.nom.sg | what has been chewed | √khād･1 a (chew) |
+| sāyitaṃ | pp | nt.nom.sg | what has been tasted | √sāy･1 a (taste) |
 | sammā | ind | adv | properly; rightly; thoroughly | |
 | pariṇāmaṃ | noun | masc.acc.sg | digestion | |
 | gacchati, | verb | pr.3rd.sg | he gets; lit. goes; moves | √gam･1 a (go) |
@@ -216,7 +216,7 @@ kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti,
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
 | hoti, | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 | metta- | adj | masc (in comp) | friendly, benevolent, kind | √mitt･1 a (be friendly) |
-| cittena | noun | masc.instr.sg | with mind | √cit･8 \*e (think, intend) |
+| cittena | noun | nt.instr.sg | with mind | √cit･8 \*e (think, intend) |
 | ca | ind | conj | and | |
 | bhāsitā | pp | fem.nom.sg | said; spoken | √bhās･1 a (speak) |
 | hoti. | verb | pr.3rd.sg | it is | √hū･1 a (be) |
@@ -231,7 +231,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | kho | ind | emph | indeed | |
 | bhikkhave | noun | masc.voc.pl | o monks! | √bhikkh･1 a (beg) |
 | pañcahi | card | x.instr.pl | with five | |
-| aṅgehi | noun | masc.instr.pl | qualities | √añj･8 \*e (distinguish) |
+| aṅgehi | noun | nt.instr.pl | qualities | √añj･8 \*e (distinguish) |
 | samannāgatā | adj | fem.nom.sg | endowed with | |
 | vācā | noun | fem.nom.sg | speech | √vac･1 a (say, speak) |
 | subhāsitā | pp | fem.nom.sg | well-spoken | √bhās･1 a (speak) |
@@ -344,7 +344,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| taṃ | pron | masc.acc.sg | that | |
+| taṃ | pron | nt.acc.sg | that | |
 | ca | ind | ind | but | |
 | ayaṃ | pron | masc.nom.sg | this (person) | |
 | upayupādānaṃ | noun | nt.acc.sg | engaging/engagement and grasping | |

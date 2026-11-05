@@ -234,11 +234,11 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| imasmiṃ | pron | masc.loc.sg (loc abs) | when this | |
+| imasmiṃ | pron | nt.loc.sg (loc abs) | when this | |
 | ca | ind | conj | and | |
 | pana | ind | ind | so | |
 | veyyākaraṇasmiṃ | noun | nt.loc.sg <br>(loc abs) | when answer; detailed exposition | |
-| bhaññamāne | prp. pass | masc.loc.sg (loc abs) | when being spoken | √bhaṇ･1 ya (talk, speak) |
+| bhaññamāne | prp. pass | nt.loc.sg (loc abs) | when being spoken | √bhaṇ･1 ya (talk, speak) |
 | pañcavaggiyānaṃ | adj | masc.gen.pl | of belonging to a group of five | |
 | bhikkhūnaṃ | noun | masc.gen.pl | of monks | √bhikkh･1 a (beg) |
 | anupādāya | verb | abs | not grasping onto; detaching from | √ādā･3 ya (take, seize) |
@@ -270,10 +270,10 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃ | pron | nt.acc.sg | what; whatever; that which | |
+| yaṃ | pron | nt.nom.sg | what; whatever; that which | |
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
-| piyarūpaṃ | adj | nt.acc.sg | enticing (lit: lovely form) | |
-| sātarūpaṃ | adj | nt.acc.sg | pleasant; agreeable | |
+| piyarūpaṃ | adj | nt.nom.sg | enticing (lit: lovely form) | |
+| sātarūpaṃ | adj | nt.nom.sg | pleasant; agreeable | |
 | ettha | ind | adv | here; in this place | |
 | esā | pron | fem.nom.sg | this | |
 | taṇhā | noun | fem.nom.sg | craving | √tas･6 ṇhā (thirst) |
@@ -552,7 +552,7 @@
 | tucchā | ind | adv | baselessly; groundlessly; emptily | |
 | musā | ind | adv | untruthfully | √mus･3 ya (lie, forget) |
 | abhūtena | ind | adv | falsely; untruthfully | √bhū･1 a (be, become) |
-| abbhācikkhi | verb | aor.3rd.sg | slandered; misrepresented | √cikkh･1 a (show, tell) |
+| abbhācikkhi | verb | aor.2nd.sg | slandered; misrepresented | √cikkh･1 a (show, tell) |
 
 **O monk, truly you are at fault, you who so foolishly, so misguidedly, so unskilfully, unjustly, baselessly, untruthfully and falsely slandered Sāriputta.**
 

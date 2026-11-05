@@ -181,7 +181,7 @@
 | --- | --- | --- | --- |
 | bhikkhū | noun | masc.nom.pl | the monks |
 | bhagavato | noun | masc.gen.sg | of the Blessed One |
-| bhāsitaṃ | noun | masc.acc.sg | the utterance; the speech |
+| bhāsitaṃ | noun | nt.acc.sg | the utterance; the speech |
 | abhinanduṃ | verb | aor.3rd.pl | they were pleased with (+acc) |
 
 **The monks were pleased with the utterance of the Blessed One.**

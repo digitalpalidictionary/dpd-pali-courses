@@ -557,7 +557,7 @@
 | santar'uttaraparamaṃ | noun | nt.nom.sg | an underrobe and upper robe at most; not more than an inner and outer robe | |
 | tena | pron | masc.instr.sg | by that | |
 | bhikkhunā | noun | masc.instr.sg | by a monk | √bhikkh･1 a (beg) |
-| tato | pron | nt.nom.sg | from that; therefrom; from him | |
+| tato | pron | nt.abl.sg | from that; therefrom; from him | |
 | cīvaraṃ | noun | nt.nom.sg | robe cloth | |
 | sāditabbaṃ | ptp | nt.nom.sg | could/should be accepted by | √sād･1 \*e (taste, relish) |
 
@@ -591,7 +591,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| bhajitabbe | prp | masc.acc.pl | should be adhered to | √bhaj･1 a (associate, keep company) |
+| bhajitabbe | ptp | masc.acc.pl | should be adhered to | √bhaj･1 a (associate, keep company) |
 | dhamme | noun | masc.acc.pl | things | √dhar･1 a (hold, carry, endure) |
 | na | ind | neg | not | |
 | jānāti | verb | pr.3rd.sg | knows | √ñā･5 nā (know) |
@@ -607,11 +607,11 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tassa | pron | masc.dat.sg | for him | |
-| amanasikaraṇīyānaṃ | ptp | masc.dat.pl | to should not be attended to; should not be kept in mind (lit: not to be made in mind) | |
-| dhammānaṃ | noun | masc.dat.pl | to the things | √dhar･1 a (hold, carry, endure) |
+| amanasikaraṇīyānaṃ | ptp | masc.gen.pl | of what should not be attended to | |
+| dhammānaṃ | noun | masc.gen.pl | of the things | √dhar･1 a (hold, carry, endure) |
 | amanasikārā | noun | masc.abl.sg | from/because of non-attention | |
-| manasikaraṇīyānaṃ | ptp | masc.dat.pl | to should be attended to | |
-| dhammānaṃ | noun | masc.dat.pl | to the things; phenomena | √dhar･1 a (hold, carry, endure) |
+| manasikaraṇīyānaṃ | ptp | masc.gen.pl | of what should be attended to | |
+| dhammānaṃ | noun | masc.gen.pl | of the things | √dhar･1 a (hold, carry, endure) |
 | manasikārā | noun | masc.abl.sg | from/because of attention | |
 
 **For him, because of non-attention to the things that should not be attended to [and] attention to the things that should be attended to,**
@@ -827,7 +827,7 @@
 | ābādhikaṃ | adj | masc.acc.sg | ill | √bādh･1 a (press, oppress) |
 | dukkhitaṃ | adj | masc.acc.sg | afflicted; suffering | √dukkh･1 a (be painful) |
 | bāḷhagilānaṃ | adj | masc.acc.sg | extremely ill | |
-| sake | adj | masc.loc.sg | in his own | |
+| sake | adj | nt.loc.sg | in his own | |
 | muttakarīse | noun | nt.loc.sg | in urine and excrement | |
 | palipannaṃ | pp | masc.acc.sg [+loc] | immersed (in) | √pad･3 ya (go, step) |
 | semānaṃ | prp | masc.acc.sg | lying down | √sī･1 a (lie, sleep) |

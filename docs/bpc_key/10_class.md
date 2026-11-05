@@ -270,7 +270,7 @@
 | --- | --- | --- | --- | --- |
 | paṭiggahetvā | verb | abs | having accepted | √gah･6 ṇhā (grasp) |
 | tiyojanaparamaṃ | ind<br>(comp) | adv | for three units of linear measure (yojanas) at the most | |
-| sahatthā | pron | masc.instr.sg | by means of his own hand | |
+| sahatthā | ind | masc.instr.sg | by oneself; with own hand | |
 | haritabbāni | ptp | nt.nom.pl | it can be carried | √har･1 a (carry) |
 | asante | prp | masc.loc.sg | (when) … not present (loc abs) | |
 | hārake | noun | masc.loc.sg | one [who] can carry | |
@@ -448,7 +448,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tathārūpaṃ | adj | masc.acc.sg | of such a kind | |
+| tathārūpaṃ | adj | nt.acc.sg | of such a kind | |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | adinnaṃ | noun | nt.acc.sg | what is not given | √dā･1 a (give) |
 | ādiyamāno | prp | masc.nom.sg [+acc] | taking; stealing | √dā･1 a (give) |
@@ -530,7 +530,7 @@
 | na | ind | neg | not | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | imassa | pron | nt.gen.sg | of this | |
-| nirodhā | noun | nt.abl.sg | from the cessation | √rudh･2 ṃa (obstruct) |
+| nirodhā | noun | masc.abl.sg | from the cessation | √rudh･2 ṃa (obstruct) |
 | idaṃ | pron | nt.nom.sg | that | |
 | nirujjhati | verb | pr.3rd.sg | ceases | √rudh･2 ṃa (obstruct) |
 
@@ -541,15 +541,15 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tassa | pron | masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg | when he<br>(or)<br>for him | |
-| sabbehi | pron | nt.abl.pl | from all | |
-| imehi | pron | nt.abl.pl | from these | |
-| pāpakehi | adj | nt.abl.pl | worthless; evil | |
-| akusalehi | adj | nt.abl.pl | unwholesome | |
+| sabbehi | pron | masc.abl.pl | from all | |
+| imehi | pron | masc.abl.pl | from these | |
+| pāpakehi | adj | masc.abl.pl | worthless; evil | |
+| akusalehi | adj | masc.abl.pl | unwholesome | |
 | dhammehi | noun | masc.abl.pl | states | √dhar･1 a (hold, carry, endure) |
 | visuddhaṃ | pp | masc.acc.sg | cleansed; purified; refined | √sudh･3 ya (be pure) |
 | attānaṃ | noun | masc.acc.sg | self; himself; herself; itself; yourself; oneself | |
 | samanupassato | prp | masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg | when sees; perceives (or)<br>for one seeing | √dis･1 a (see) |
-| pāmojjaṃ | noun | nt.acc.sg | happiness; gladness | √mud･1 a (be soft, happy) |
+| pāmojjaṃ | noun | nt.nom.sg | happiness; gladness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | arises; is produced | √jan･3 ya (be born, produce) |
 
 **When one seeing himself purified from all these evil, unwholesome states, gladness arises.<br>(or)<br>For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
@@ -592,7 +592,7 @@
 | tāva | ind | adv | so long | |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | āvuso | ind | voc.sg or voc.pl | friends | |
-| etasmiṃ | noun | nt.loc.sg | in this | |
+| etasmiṃ | pron | nt.loc.sg | in this | |
 | sikkhāpade | noun | nt.loc.sg | in training rule | |
 | sikkhissāmi | verb | fut.1st.sg | I will train; practice | √sikkh･1 a (learn, train) |
 | yāva | ind | adv | as long as; until | |
@@ -725,7 +725,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| appakā | noun | nt.nom.pl | few | |
+| appakā | adj | masc.nom.pl | few | |
 | te | pron | masc.nom.pl | they | |
 | manussesu | noun | masc.loc.pl | among humans | |
 | ye | pron | masc.nom.pl | who; which | |

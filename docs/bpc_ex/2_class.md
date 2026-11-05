@@ -48,21 +48,7 @@
 | viseso | | | | |
 | |
 
-5. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>atthi imasmiṃ **kāye** **kesā** **lomā** **nakhā** **dantā** **taco**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| atthi | verb | pr.3rd.sg | | |
-| imasmiṃ | pron | | | |
-| kāye | | | | |
-| kesā | | | | |
-| lomā | | | | |
-| nakhā | | | | |
-| dantā | | | | |
-| taco | | | | |
-| |
-
-6. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
+5. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena **hatthena** pānīyassa **thālakaṃ**[^5] paṭiggahessāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -74,7 +60,7 @@
 | paṭiggahessāmi | verb | fut.1st.sg | | |
 | |
 
-7. VIN PAT NID nidānuddeso<br>**saṅgho** **uposathaṃ** kareyya, **pātimokkhaṃ** uddiseyya
+6. VIN PAT NID nidānuddeso<br>**saṅgho** **uposathaṃ** kareyya, **pātimokkhaṃ** uddiseyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -85,7 +71,7 @@
 | uddiseyya | verb | opt.3rd.sg | | |
 | |
 
-8. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html) <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
+7. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html) <br>itipi so bhagavā arahaṃ **sammāsambuddho** vijjācaraṇasampanno **sugato** lokavidū anuttaro purisadammasārathi satthā **devamanussānaṃ** **buddho** bhagavā’ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -106,7 +92,7 @@
 | iti | ind | ind | | |
 | |
 
-9. kāyassa bhedā
+8. kāyassa bhedā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -114,7 +100,7 @@
 | bhedā | noun | | | |
 | |
 
-10. samaṇo gotamo
+9. samaṇo gotamo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -122,7 +108,7 @@
 | gotamo | | | | |
 | |
 
-11. virāgāya nirodhāya
+10. virāgāya nirodhāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -130,7 +116,7 @@
 | nirodhāya | | | | |
 | |
 
-12. bālassa mohāya
+11. bālassa mohāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -138,7 +124,7 @@
 | mohāya | | | | |
 | |
 
-13. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
+12. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -146,7 +132,7 @@
 | lokamhi | | | | |
 | **[there is no satisfaction]**[^6] |
 
-14. devā manussā
+13. devā manussā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -154,7 +140,7 @@
 | manussā | | | | |
 | |
 
-15. cāgo paṭinissaggo anālayo
+14. cāgo paṭinissaggo anālayo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -163,7 +149,7 @@
 | anālayo | | | | |
 | |
 
-16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
+15. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -171,7 +157,7 @@
 | pādaṃ | | | | |
 | **[he places]** |
 
-17. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
+16. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -180,7 +166,7 @@
 | chandaṃ | | | | |
 | **[he arouses]** |
 
-18. khandhānaṃ bhedo
+17. khandhānaṃ bhedo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -188,7 +174,7 @@
 | bhedo | | | | |
 | |
 
-19. dhammā sekhassa
+18. dhammā sekhassa
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -196,7 +182,7 @@
 | sekhassa | | | | |
 | |
 
-20. samaṇena vā brāhmaṇena vā devena vā mārena vā
+19. samaṇena vā brāhmaṇena vā devena vā mārena vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -207,7 +193,7 @@
 | mārena | | | | |
 | |
 
-21. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+20. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -218,7 +204,7 @@
 | upāyāsehi | | | | |
 | **[burning]** |
 
-22. dhammo vinayo
+21. dhammo vinayo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -226,7 +212,7 @@
 | vinayo | | | | |
 | |
 
-23. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
+22. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -236,7 +222,7 @@
 
 
 
-24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
+23. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -245,7 +231,7 @@
 | buddho | | | | |
 | |
 
-25. gabbhe cīvaraṃ
+24. gabbhe cīvaraṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -253,7 +239,7 @@
 | cīvaraṃ | noun | nt.nom.sg<br>nt.acc.sg | | |
 | |
 
-26. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
+25. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -261,7 +247,7 @@
 | vassaṃ | | | | |
 | **[he entered]** |
 
-27. [MN99](https://find.dhamma.gift/bw/mn/mn99.html) <br>nīvaraṇehi brāhmaṇo
+26. [MN99](https://find.dhamma.gift/bw/mn/mn99.html) <br>nīvaraṇehi brāhmaṇo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -269,7 +255,7 @@
 | brāhmaṇo | | | | |
 | **[is filled]** |
 
-28. kāme brāhmaṇa
+27. kāme brāhmaṇa
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -277,7 +263,7 @@
 | brāhmaṇa | | | | |
 | |
 
-29. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
+28. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -285,7 +271,7 @@
 | sahāyā | | | | |
 | **[Good are] [arisen]** |
 
-30. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
+29. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -295,7 +281,7 @@
 | sāvakesu | | | | |
 | **[trains]** |
 
-31. kassapassa vinayasmiṃ
+30. kassapassa vinayasmiṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
