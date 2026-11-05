@@ -111,7 +111,7 @@ upāsako **āvāsasmā** gacchati.
 
 Denotes possession. Usually translated using **of** or **‘s.**
 
-A noun in the Genitive Case always comes **before** the object it qualifies.
+A noun in the Genitive Case usually comes **before** the object it qualifies.
 
 The **elder’s** disciple goes to the village.
 
@@ -135,7 +135,7 @@ Used when addressing people directly.
 
 ehi **upāsaka**!
 
-ehi **paññādhammika!**
+ehi **paññādhammika!** (a name; names in ‑a take the same vocative as any a‑stem).
 
 **In Summary**
 

@@ -17,7 +17,7 @@
 | --- | --- | --- | --- |
 | araññe | noun | nt.loc.sg | in a forest |
 | rukkhānaṃ | noun | masc.gen.pl | of trees |
-| mūlesu | noun | masc.loc.pl | at the foot [lit: roots] |
+| mūlesu | noun | nt.loc.pl | at the foot [lit: roots] |
 | kandarāsu | noun | fem.loc.pl | in grottos; in gorges; in valleys |
 | guhāsu | noun | fem.loc.pl | in caves |
 | ca | ind | conj | and |
