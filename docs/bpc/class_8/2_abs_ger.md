@@ -2,7 +2,7 @@
 
 You’ll be happy to hear that one of the most common forms of verbal adjectives in Pāli has **no declensions**.
 
-*atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi* ([AN2.16](https://find.dhamma.gift/bw/an/an2.16.html))
+*atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi* ([AN2.16](https://s.dhamma.gift/an/an2/index.html#an2.16))
 
 Then a certain Brahman approached the Blessed One. **Having approached**, he exchanged polite conversation with the Blessed One.
 
@@ -153,7 +153,7 @@ DPD is based on the study of hundreds of verbal forms found throughout the Tipi�
 
 -   Completed actions — **absolutives**, typically ending in **-tvā**, **-itvā**, **-tvāna**, etc.
 
-    atha kho bhagavā pubbaṇhasamayaṃ **nivāsetvā** … sāvatthiṃ piṇḍāya pāvisi ([MN18](https://find.dhamma.gift/bw/mn/mn18.html))
+    atha kho bhagavā pubbaṇhasamayaṃ **nivāsetvā** … sāvatthiṃ piṇḍāya pāvisi ([MN18](https://s.dhamma.gift/mn/mn18/index.html))
 
     Then the Blessed One, **having dressed** in the morning, … entered Sāvatthī for alms.
 
@@ -163,7 +163,7 @@ DPD is based on the study of hundreds of verbal forms found throughout the Tipi�
 
     In some contexts **gerunds** can be translated the same as **absolutives** - as completed actions.
 
-    patta-cīvaram **ādāya** sāvatthiṃ piṇḍāya pāvisi ([MN18](https://find.dhamma.gift/bw/mn/mn18.html))
+    patta-cīvaram **ādāya** sāvatthiṃ piṇḍāya pāvisi ([MN18](https://s.dhamma.gift/mn/mn18/index.html))
 
     **Taking** bowl and robe, he entered Sāvatthī for alms.
 

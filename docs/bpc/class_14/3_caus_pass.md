@@ -20,7 +20,7 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 | √ṭhā + \*āpe | ṭhāpe \> ṭhape | ṭhapeti | sets aside; lit. causes to stand |
 | ṭhape + īya | ṭhāpīya \> ṭhapiyya | ṭhapiyyati | is kept; is set aside; lit. is caused to stand |
 
-[VIN1.4.2.8](https://find.dhamma.gift/bw/vi/bu-vb-np18.html) āyasmato upanandassa sakyaputtassa paṭiviso ṭhapiyyati.
+[VIN1.4.2.8](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-np/index.html#pli-tv-bu-vb-np18) āyasmato upanandassa sakyaputtassa paṭiviso ṭhapiyyati.
 
 ## More Participles
 
@@ -62,7 +62,7 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 
 Don't worry, that's probably the trickiest construction in the entire Pāli language. There are very few of them in the Tipiṭaka.
 
-[AN3.36](https://find.dhamma.gift/bw/an/an3.36.html) devadūtasuttaṃ
+[AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36) devadūtasuttaṃ
 
 ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi **vuṭṭhāpiyamānaṃ**, aññehi **saṃvesiyamānaṃ** iti?
 

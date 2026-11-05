@@ -1,6 +1,6 @@
 # Class 11 Key to Exercises
 
-1. [SN22.43](https://find.dhamma.gift/bw/sn/sn22.43.html) <br>**attadīpā**, bhikkhave, viharatha **attasaraṇā** **anaññasaraṇā**, **dhammadīpā** **dhammasaraṇā** **anaññasaraṇā**.
+1. [SN22.43](https://s.dhamma.gift/sn/sn22/index.html#sn22.43) <br>**attadīpā**, bhikkhave, viharatha **attasaraṇā** **anaññasaraṇā**, **dhammadīpā** **dhammasaraṇā** **anaññasaraṇā**.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 **A good reputation has spread about Venerable Gotama in this way.**
 
-3. [UD73](https://find.dhamma.gift/bw/ud/ud8.3.html) <br>atthi bhikkhave ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
+3. [UD73](https://s.dhamma.gift/kn/ud/index.html#ud8.3) <br>atthi bhikkhave ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@
 
 **Monks, there is [something] not born, not become, not made, not constructed/unconditioned.**
 
-4. [AN8.74](https://find.dhamma.gift/bw/an/an8.74.html) <br>seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā
+4. [AN8.74](https://s.dhamma.gift/an/an8/index.html#an8.74) <br>seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 
 **Monks, just as [a man whose] clothes were on fire or [whose] head was burning…**
 
-5. [ITI111](https://find.dhamma.gift/bw/it/it.html) <br>āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ
+5. [ITI111](https://s.dhamma.gift/kn/iti/index.html) <br>āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -93,7 +93,7 @@
 
 **The mind is composed and unified.**
 
-6. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>asite pīte khāyite sāyite sampajānakārī
+6. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>asite pīte khāyite sāyite sampajānakārī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@
 
 **Lit: [He is] making clear knowing in (what is) eaten, in (what is) drunk, in (what is) chewed, in (what is) tasted<br>Fig: [He is] cultivating attention in eating, drinking, chewing and tasting.<br>(or)<br>Fig: [He is] cultivating attention while eating, drinking, chewing and tasting.**
 
-7. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>seyyathā'pi puriso ābādhiko assa dukkhito bāḷhagilāno
+7. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>seyyathā'pi puriso ābādhiko assa dukkhito bāḷhagilāno
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -118,7 +118,7 @@
 
 **imagine if a person would be ill, miserable, very sick.**
 
-8. [AN2.135](https://find.dhamma.gift/bw/an/an2.135.html) <br>bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati
+8. [AN2.135](https://s.dhamma.gift/an/an2/index.html#an2.135) <br>bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@
 
 **The foolish, untrained, wicked man maintains himself injured and damaged.**
 
-9. [AN5.114](https://find.dhamma.gift/bw/an/an5.114.html) <br>ye te, ānanda, bhikkhū navā acirapabbajitā adhun'āgatā imaṃ dhammavinayaṃ
+9. [AN5.114](https://s.dhamma.gift/an/an5/index.html#an5.114) <br>ye te, ānanda, bhikkhū navā acirapabbajitā adhun'āgatā imaṃ dhammavinayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -150,7 +150,7 @@
 
 **Ananda, those monks who [are] recently ordained, [who] recently come to this teaching and discipline.**
 
-10. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>upekkhako tattha viharati sato sampajāno
+10. [MN152](https://s.dhamma.gift/mn/mn152/index.html) <br>upekkhako tattha viharati sato sampajāno
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -162,7 +162,7 @@
 
 **He remains there, equanimous, mindful and completely comprehending.**
 
-11. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>sakko ujū ca suhujū ca suvaco cassa mudu anatimānī
+11. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>sakko ujū ca suhujū ca suvaco cassa mudu anatimānī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -177,7 +177,7 @@
 
 **He should be able, straight, upright, meek, soft and not arrogant.**
 
-12. [SN12.66](https://find.dhamma.gift/bw/sn/sn12.66.html) <br>samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato dakkhissanti dukkhato dakkhissanti anattato dakkhissanti rogato dakkhissanti bhayato dakkhissanti, te taṇhaṃ pajahissanti.
+12. [SN12.66](https://s.dhamma.gift/sn/sn12/index.html#sn12.66) <br>samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato dakkhissanti dukkhato dakkhissanti anattato dakkhissanti rogato dakkhissanti bhayato dakkhissanti, te taṇhaṃ pajahissanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -221,7 +221,7 @@
 
 **they will abandon craving.**
 
-13. [MN41](https://find.dhamma.gift/bw/mn/mn41.html) <br>atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
+13. [MN41](https://s.dhamma.gift/mn/mn41/index.html) <br>atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -234,7 +234,7 @@
 
 **There is what is given, there is what is sacrificed, there is what is offered**
 
-14. [DN14.14](https://find.dhamma.gift/bw/dn/dn14.html) <br>seyyathā'pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
+14. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html) <br>seyyathā'pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -246,7 +246,7 @@
 
 **Just as clean cloth free from stain…**
 
-15. [AN11.15](https://find.dhamma.gift/bw/an/an11.15.html) (simpl) <br>mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
+15. [AN11.15](https://s.dhamma.gift/an/an11/index.html#an11.15) (simpl) <br>mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -271,7 +271,7 @@
 
 **eleven benefits are to be expected.**
 
-16. [AN4.61](https://find.dhamma.gift/bw/an/an4.61.html)(simpl) <br>ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
+16. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl) <br>ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -298,7 +298,7 @@
 
 **is one who does these four worthy deeds.**
 
-17. [MN48](https://find.dhamma.gift/bw/mn/mn48.html) (simpl) <br>yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
+17. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl) <br>yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -318,7 +318,7 @@
 
 **Whichever [of] those virtues, which are unbroken, without cracks, not mottled, unblemished, liberating, commended by wise persons, irreproachable and conducive for stability of mind…**
 
-18. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
+18. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -340,7 +340,7 @@
 
 **Materiality in the past, future and present, internally or externally, coarse or fine, low or superior, [that] which [is] near or far away – all materiality ...**
 
-19. [MN64](https://find.dhamma.gift/bw/mn/mn64.html) <br>yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
+19. [MN64](https://s.dhamma.gift/mn/mn64/index.html) <br>yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -375,7 +375,7 @@
 
 **he sees those states as impermanent, as suffering, as illness, as a boil, as a dagger, as pain, as disease, as alien, as disintegrating, as empty, as not oneself.**
 
-20. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
+20. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) <br>idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -406,7 +406,7 @@
 
 **who has no regard for righteous men, [who is] not proficient in the teaching of righteous men, [who is] uneducated about the teaching of righteous men, regards form as self.**
 
-21. [MN137](https://find.dhamma.gift/bw/mn/mn137.html) <br>cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok'āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
+21. [MN137](https://s.dhamma.gift/mn/mn137/index.html) <br>cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok'āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -424,7 +424,7 @@
 
 **For one perceiving acquisition as a personal acquisition of forms perceivable by the eye, related to worldly pleasure, wished for, desirable, pleasant, [and] delightful …**
 
-22. [SN11.3](https://find.dhamma.gift/bw/sn/sn11.3.html) <br>svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
+22. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3) <br>svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -441,7 +441,7 @@
 
 **The teaching by the Blessed One [is] well taught, directly visible, timeless, inviting one to come and see, practical, [and is] to be experienced individually by wise persons.**
 
-23. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) (simpl) <br>evam'eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
+23. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl) <br>evam'eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -458,7 +458,7 @@
 
 **In the same way, a monk is content with robe taking care of the body, [and] with alms food taking care of the stomach.**
 
-24. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
+24. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -484,7 +484,7 @@
 
 **he inclines [his] mind for the knowledge from the recollection of previous lives.**
 
-25. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam'iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
+25. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam'iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -508,7 +508,7 @@
 
 **[He understands:] "Birth is exhausted, the holy life is completed…"**
 
-26. [SN12.70](https://find.dhamma.gift/bw/sn/sn12.70.html) <br>tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
+26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70) <br>tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -527,7 +527,7 @@
  
 ## Class 11 Extra
 
-1. [DHP012](https://find.dhamma.gift/bw/dhp/dhp1-20.html) (simpl) <br>sāraṃ ca sārato ñatvā, asāraṃ ca asārato, te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
+1. [DHP012](https://s.dhamma.gift/kn/dhp/index.html#dhp1) (simpl) <br>sāraṃ ca sārato ñatvā, asāraṃ ca asārato, te sāraṃ adhigacchanti, sammāsaṅkappagocarā.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -544,7 +544,7 @@
 
 **Having known the essential as essential and the inessential as inessential, they attain the essence, having domain in the right intention.**
 
-2. [TH262](https://find.dhamma.gift/bw/tha/tha19.html) <br>satthā ca me lokaṃ imaṃ adhiṭṭhahi, <br>aniccato addhuvato asārato, <br>pakkhanda maṃ citta jinassa sāsane, <br>tārehi oghā mahatā suduttarā.
+2. [TH262](https://s.dhamma.gift/kn/thag/index.html#thag19.1) <br>satthā ca me lokaṃ imaṃ adhiṭṭhahi, <br>aniccato addhuvato asārato, <br>pakkhanda maṃ citta jinassa sāsane, <br>tārehi oghā mahatā suduttarā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -574,7 +574,7 @@
 
 **O mind, make me leap forth into the teachings of the conqueror; save me from the great torrent, extremely difficult to cross.**
 
-3. [MN22](https://find.dhamma.gift/bw/mn/mn22.html) <br>attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yam'pi taṃ diṭṭhiṭṭhānaṃ, — so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tath'eva ṭhassāmī'ti, — nanu ayaṃ, bhikkhave, kevalo paripūro bāladhammo'ti?
+3. [MN22](https://s.dhamma.gift/mn/mn22/index.html) <br>attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yam'pi taṃ diṭṭhiṭṭhānaṃ, — so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tath'eva ṭhassāmī'ti, — nanu ayaṃ, bhikkhave, kevalo paripūro bāladhammo'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -621,7 +621,7 @@
 
 **wouldn't this, monks, [be] a totally complete doctrine of fools?"**
 
-4. [SN6.2](https://find.dhamma.gift/bw/sn/sn6.2.html) <br>ye ca atītā sambuddhā, ye ca buddhā anāgatā. <br>yo ca eta'r'ahi sambuddho, bahunnaṃ sokanāsano.
+4. [SN6.2](https://s.dhamma.gift/sn/sn6/index.html#sn6.2) <br>ye ca atītā sambuddhā, ye ca buddhā anāgatā. <br>yo ca eta'r'ahi sambuddho, bahunnaṃ sokanāsano.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -642,7 +642,7 @@
 
 **The Awakened Ones who are past, and the Buddhas not yet come and the present Awakened One [are] dispeller[s] of sorrow for many.**
 
-5. [DHP086](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl) <br>ye ca kho sammā-akkhāte dhamme dhammaṃ anuvattino, te janā pāraṃ essanti, maccuno dheyyaṃ suduttaraṃ.
+5. [DHP086](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl) <br>ye ca kho sammā-akkhāte dhamme dhammaṃ anuvattino, te janā pāraṃ essanti, maccuno dheyyaṃ suduttaraṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -664,7 +664,7 @@
 
 **Indeed, whoever acting according to the teaching in the perfectly declared teaching, those people will go to the far shore; the realm of death, extremely difficult to cross.**
 
-6. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam'uttamaṃ.
+6. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam'uttamaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

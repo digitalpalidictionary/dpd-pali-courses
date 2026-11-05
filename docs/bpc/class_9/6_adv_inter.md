@@ -15,6 +15,6 @@
 | kuhiṃ | where? |
 | kuvaṃ | where? |
 
-**kathaṃ** nu tvaṃ, mārisa, oghaṃ atari? ([SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html))
+**kathaṃ** nu tvaṃ, mārisa, oghaṃ atari? ([SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1))
 
 But **how**, dear sir, did you cross the flood?

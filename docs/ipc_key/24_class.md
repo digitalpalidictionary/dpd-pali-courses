@@ -8,7 +8,7 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-1. [MN140](https://find.dhamma.gift/bw/mn/mn140.html)<br>tañ'hi'ssa, bhikkhu, n'atthi yena **jāyetha**, **ajāyamāno** kiṃ **jīyissati**, **ajīyamāno** kiṃ **mīyissati**, **amīyamāno** kiṃ **kuppissati**, **akuppamāno** kissa **pihessati**?
+1. [MN140](https://s.dhamma.gift/mn/mn140/index.html)<br>tañ'hi'ssa, bhikkhu, n'atthi yena **jāyetha**, **ajāyamāno** kiṃ **jīyissati**, **ajīyamāno** kiṃ **mīyissati**, **amīyamāno** kiṃ **kuppissati**, **akuppamāno** kissa **pihessati**?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@
 
 **Monk, there is indeed for him (i.e. he has indeed) not that by which he himself could be born. Not being born, how will he age? Not getting old, how will he die? Not dying, how will he be agitated? Not being agitated, for what will he long?**
 
-2. [DHP40](https://find.dhamma.gift/bw/dhp/dhp33-43.html)<br>kumbh'ūpamaṃ kāyam'imaṃ viditvā,<br>nagar'ūpamaṃ cittam'idaṃ **ṭhapetvā**.<br>**yodhetha** māraṃ paññ'āvudhena, <br>jitañ'ca rakkhe anivesano siyā.
+2. [DHP40](https://s.dhamma.gift/kn/dhp/index.html#dhp33)<br>kumbh'ūpamaṃ kāyam'imaṃ viditvā,<br>nagar'ūpamaṃ cittam'idaṃ **ṭhapetvā**.<br>**yodhetha** māraṃ paññ'āvudhena, <br>jitañ'ca rakkhe anivesano siyā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@
 
 **Having perceived this body [is fragile] like a clay pot, having set up this mind like a fortress, you should fight against death with the weapon of wisdom; one should protect the conquest and be without attachment.**
 
-3. [DHP422](https://find.dhamma.gift/bw/dhp/dhp383-423.html)<br>usabhaṃ pavaraṃ vīraṃ, mahesiṃ **vijitāvinaṃ**,<br>anejaṃ nhātakaṃ buddhaṃ, tam'ahaṃ brūmi brāhmaṇaṃ.
+3. [DHP422](https://s.dhamma.gift/kn/dhp/index.html#dhp383)<br>usabhaṃ pavaraṃ vīraṃ, mahesiṃ **vijitāvinaṃ**,<br>anejaṃ nhātakaṃ buddhaṃ, tam'ahaṃ brūmi brāhmaṇaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -89,7 +89,7 @@
 
 **The one who is foremost, the supreme hero, the great sage, the conqueror, unmoved, cleansed, the awakened one – him do I call a brahmin.**
 
-4. [ITI62](https://find.dhamma.gift/bw/it/it.html)<br>tīṇ'imāni, bhikkhave, indriyāni. katamāni tīṇi? anaññātaññassāmī't'indriyaṃ, aññ'indriyaṃ, **aññātāv**'indriyaṃ
+4. [ITI62](https://s.dhamma.gift/kn/iti/index.html)<br>tīṇ'imāni, bhikkhave, indriyāni. katamāni tīṇi? anaññātaññassāmī't'indriyaṃ, aññ'indriyaṃ, **aññātāv**'indriyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@
 
 **Monks, [there are] these three mental faculties. Which three? The faculty (that senses) "I will know the unknown," the faculty of final knowledge, the faculty of one who has understood.**
 
-5. [AN6.103](https://find.dhamma.gift/bw/an/an6.103.html) <br>nibbāne ca **santadassāvī** bhavissāmi, anusayā ca me samugghātaṃ gacchissanti, kiccakārī ca bhavissāmi, satthā ca me pariciṇṇo bhavissati mettāvatāyā'ti.
+5. [AN6.103](https://s.dhamma.gift/an/an6/index.html#an6.103) <br>nibbāne ca **santadassāvī** bhavissāmi, anusayā ca me samugghātaṃ gacchissanti, kiccakārī ca bhavissāmi, satthā ca me pariciṇṇo bhavissati mettāvatāyā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -146,7 +146,7 @@
 
 **"I will be one who has seen peacefulness in extinguishment, my underlying tendencies will be(come) exterminated (there will be extermination of my underlying tendencies), I will be one who has done his duty, and my teacher will (have) be(en) served with goodwill."**
 
-6. [VIN PAT PC 35](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>yo pana bhikkhu **bhuttāvī** pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
+6. [VIN PAT PC 35](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>yo pana bhikkhu **bhuttāvī** pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -171,7 +171,7 @@
 [^31]: I did not note this earlier, but it might be useful to take the deixis of the respective pronouns into account: ima designates what is nearest, accantasamipa, either physically or in thought, "this here". Cf. Collins, p. 63.
 [^32]: alt. kammadhāraya: paññā eva āvudhaṃ. "The weapon that is understanding".
 
-7. [SN4.19](https://find.dhamma.gift/bw/sn/sn4.19.html) <br>api, samaṇa, balībadde addasā'ti?
+7. [SN4.19](https://s.dhamma.gift/sn/sn4/index.html#sn4.19) <br>api, samaṇa, balībadde addasā'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -182,7 +182,7 @@
 
 **Ascetic, did you perhaps see [my] oxen?**
 
-8. [MN31](https://find.dhamma.gift/bw/mn/mn31.html) kiṃ nu kho mayaṃ āyasmato anuruddhassa evam'ārocimha, imāsañ'ca imāsañ'ca vihārasamāpattīnaṃ mayaṃ lābhino'ti
+8. [MN31](https://s.dhamma.gift/mn/mn31/index.html) kiṃ nu kho mayaṃ āyasmato anuruddhassa evam'ārocimha, imāsañ'ca imāsañ'ca vihārasamāpattīnaṃ mayaṃ lābhino'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -199,7 +199,7 @@
 
 **"Did we ever inform the venerable Anuruddha, 'We obtain such and such meditation attainments'?"**
 
-9. [MN18](https://find.dhamma.gift/bw/mn/mn18.html) <br>ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā'ti
+9. [MN18](https://s.dhamma.gift/mn/mn18/index.html) <br>ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -219,7 +219,7 @@
 
 **Who, then, would expound in detail the meaning of this brief statement declared by the Blessed One, the meaning not (yet) analysed in detail?**
 
-10. [SN1.71](https://find.dhamma.gift/bw/sn/sn1.71.html) <br>kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati, kissassu ekadhammassa, vadhaṃ rocesi gotamā'ti.
+10. [SN1.71](https://s.dhamma.gift/sn/sn1/index.html#sn1.71) <br>kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati, kissassu ekadhammassa, vadhaṃ rocesi gotamā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -243,7 +243,7 @@
 
 **Having severed what, he sleeps comfortably? Having severed what, he does not mourn? The slaughter of which one thing, O Gotama, do you consent to?**
 
-11. [AN3.91](https://find.dhamma.gift/bw/an/an3.90.html) <br>yathā divā tathā rattiṃ, yathā rattiṃ tathā divā, abhibhuyya disā sabbā, appamāṇasamādhinā.
+11. [AN3.91](https://s.dhamma.gift/an/an3/index.html#an3.90) <br>yathā divā tathā rattiṃ, yathā rattiṃ tathā divā, abhibhuyya disā sabbā, appamāṇasamādhinā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -264,7 +264,7 @@
 
 **As by day, so by night, as by night, so by day. Overcoming all directions with a boundless stable mind.**
 
-12. [AN3.101](https://find.dhamma.gift/bw/an/an3.100.html) <br>yo, bhikkhave, evaṃ vadeyya, yathā yath'āyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī'ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya.
+12. [AN3.101](https://s.dhamma.gift/an/an3/index.html#an3.100) <br>yo, bhikkhave, evaṃ vadeyya, yathā yath'āyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī'ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -308,7 +308,7 @@
 
 **This being the case, monks, there is no living the holy life, no opportunity is evident for the complete ending of suffering.**
 
-13. [AN10.51](https://find.dhamma.gift/bw/an/an10.51.html) <br>seyyathā'pi, bhikkhave, ādittacelo vā ādittasīso vā, tass'eva celassa vā sīsassa vā nibbāpanāya adhimattaṃ chandañ'ca vāyāmañ'ca ussāhañ'ca ussoḷhiñ'ca appaṭivāniñ'ca satiñ'ca sampajaññañ'ca kareyya.
+13. [AN10.51](https://s.dhamma.gift/an/an10/index.html#an10.51) <br>seyyathā'pi, bhikkhave, ādittacelo vā ādittasīso vā, tass'eva celassa vā sīsassa vā nibbāpanāya adhimattaṃ chandañ'ca vāyāmañ'ca ussāhañ'ca ussoḷhiñ'ca appaṭivāniñ'ca satiñ'ca sampajaññañ'ca kareyya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -343,7 +343,7 @@
 
 **He would (set) extreme intention and (make) effort and energy, endurance and tireless determination and (have) mindfulness and clear attention for putting out that exact clothes or head.**
 
-14. [SN46.52](https://find.dhamma.gift/bw/sn/sn46.52.html)/[53](https://find.dhamma.gift/bw/sn/sn46.53.html) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ n'eva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā'ti.
+14. [SN46.52](https://s.dhamma.gift/sn/sn46/index.html#sn46.52)/[53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ n'eva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -384,7 +384,7 @@
 
 **"We will learn the meaning of this statement in the presence of the Blessed One," (they said).**
 
-15. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi n'eva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃs'ūparatiyā brahmacariy'ānuggahāya iti purāṇañ'ca vedanaṃ paṭihaṅkhāmi navañ'ca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cā'ti
+15. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi n'eva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃs'ūparatiyā brahmacariy'ānuggahāya iti purāṇañ'ca vedanaṃ paṭihaṅkhāmi navañ'ca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -456,7 +456,7 @@
 
 ## Class 24 Extra Examples
 
-1. [SN22.93](https://find.dhamma.gift/bw/sn/sn22.93.html)<br>tassā puriso sotena **vuyhamāno** kāse ce'pi gaṇheyya, te **palujjeyyuṃ**. so tatonidānaṃ anayabyasanaṃ āpajjeyya.
+1. [SN22.93](https://s.dhamma.gift/sn/sn22/index.html#sn22.93)<br>tassā puriso sotena **vuyhamāno** kāse ce'pi gaṇheyya, te **palujjeyyuṃ**. so tatonidānaṃ anayabyasanaṃ āpajjeyya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -481,7 +481,7 @@
 
 **A person being carried along by its (the rivers) current, even if he grabbed hold of the grasses (growing along the bank), they would break off and because of that he would experience misfortune and disaster.**
 
-2. [SN22.95](https://find.dhamma.gift/bw/sn/sn22.95.html)<br>seyyathā'pi, bhikkhave, māyākāro vā māyākār'antevāsī vā catumahāpathe māyaṃ **vidaṃseyya**.
+2. [SN22.95](https://s.dhamma.gift/sn/sn22/index.html#sn22.95)<br>seyyathā'pi, bhikkhave, māyākāro vā māyākār'antevāsī vā catumahāpathe māyaṃ **vidaṃseyya**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -510,7 +510,7 @@
 
 **Just as a magician or a magician's apprentice would display an illusion at a crossroads (i.e. at the meeting of four great roads).**
 
-3. [MN65](https://find.dhamma.gift/bw/mn/mn65.html)<br>tassa mukh'ādhāne kāraṇaṃ **kāriyamānassa** honti y'eva visūkāyitāni visevitāni vipphanditāni kānici kānici, yathā taṃ akāritapubbaṃ kāraṇaṃ **kāriyamānassa**.
+3. [MN65](https://s.dhamma.gift/mn/mn65/index.html)<br>tassa mukh'ādhāne kāraṇaṃ **kāriyamānassa** honti y'eva visūkāyitāni visevitāni vipphanditāni kānici kānici, yathā taṃ akāritapubbaṃ kāraṇaṃ **kāriyamānassa**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -539,7 +539,7 @@
 
 **While[^34] [the colt] is being made to do a task with the bit, there are just twistings, tricks, and vacillations in whichever way, [because] it is being made to do that task not previously done before.**
 
-4. [SN35.245](https://find.dhamma.gift/bw/sn/sn35.245.html) <br>seyyathāpi, bhikkhu, purisassa kiṃsuko adiṭṭhapubbo assa. so yen'aññataro puriso kiṃsukassa **dassāvī** ten'upasaṅkameyya.
+4. [SN35.245](https://s.dhamma.gift/sn/sn35/index.html#sn35.245) <br>seyyathāpi, bhikkhu, purisassa kiṃsuko adiṭṭhapubbo assa. so yen'aññataro puriso kiṃsukassa **dassāvī** ten'upasaṅkameyya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -573,7 +573,7 @@
 
     **Cf. Syntax, p. 231: "The subjective Gen. can also be regarded as an extension of the possessive gen. (cp. KVG §559) since the verbal noun qualified represents some action of the person denoted by the noun in the gen. (vide §140). But more particularly it denotes agency as shown by the following examples where the action is expressed by a p.p.p. in -ta: imassa ca bhikkhuno duggahītaṃ D II.124 "also a misconception of this monk"; paresaṃ subhāsitaṃ D I.3 "good-speech (lit. well-spoken) of others". We may observe from these examples that the gen. in such instances is interchangeable with the inst. of agent (§88)."**
 
-5. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>ko c'āhāro ayonisomanasikārassa. assaddhiyan'ti'ssa vacanīyaṃ. assaddhiyam'p'āhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko c'āhāro assaddhiyassa. asaddhammassavanan'ti'ssa vacanīyaṃ
+5. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61) <br>ko c'āhāro ayonisomanasikārassa. assaddhiyan'ti'ssa vacanīyaṃ. assaddhiyam'p'āhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko c'āhāro assaddhiyassa. asaddhammassavanan'ti'ssa vacanīyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |

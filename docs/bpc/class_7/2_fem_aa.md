@@ -13,10 +13,10 @@
 
 Some practical examples:
 
-tisso imā, bhikkhave, **vedanā** ([SN36.1](https://find.dhamma.gift/bw/sn/sn36.1.html))
+tisso imā, bhikkhave, **vedanā** ([SN36.1](https://s.dhamma.gift/sn/sn36/index.html#sn36.1))
 
 There are these three **feelings**, monks.
 
-**avijjāya** tu eva asesavirāganirodhā saṅkhāranirodho ([SN12.1](https://find.dhamma.gift/bw/sn/sn12.1.html))
+**avijjāya** tu eva asesavirāganirodhā saṅkhāranirodho ([SN12.1](https://s.dhamma.gift/sn/sn12/index.html#sn12.1))
 
 But from the complete fading away and cessation **of ignorance** comes the cessation of formations.

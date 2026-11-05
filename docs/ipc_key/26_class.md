@@ -8,7 +8,7 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-1. [SNP48](https://find.dhamma.gift/bw/snp/snp4.10.html)<br>patilīno akuhako, **apihālu** **amaccharī**,<br>appagabbho **ajeguccho**, **pesuṇeyye** ca no yuto.
+1. [SNP48](https://s.dhamma.gift/kn/snp/index.html#snp4.10)<br>patilīno akuhako, **apihālu** **amaccharī**,<br>appagabbho **ajeguccho**, **pesuṇeyye** ca no yuto.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@
 
 **Withdrawn, not deceitful, not envious, not selfish, courteous, honorable, and he is not engaged in slander.**
 
-2. [AN5.37](https://find.dhamma.gift/bw/an/an5.37.html)<br>sukhassa dātā **medhāvī**, sukhaṃ so adhigacchati. āyuṃ datvā balaṃ vaṇṇaṃ, sukhañ'ca **paṭibhānakaṃ**, dīgh'āyu **yasavā** hoti, **yattha** yatth'ūpapajjatī'ti.
+2. [AN5.37](https://s.dhamma.gift/an/an5/index.html#an5.37)<br>sukhassa dātā **medhāvī**, sukhaṃ so adhigacchati. āyuṃ datvā balaṃ vaṇṇaṃ, sukhañ'ca **paṭibhānakaṃ**, dīgh'āyu **yasavā** hoti, **yattha** yatth'ūpapajjatī'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@
 
 **"The intelligent man, [who is a] bestower of happiness, obtains happiness; having given long-life, strength, beauty, happiness and understanding, he has long life and is renowned wherever he is reborn."**
 
-3. [AN3.36](https://find.dhamma.gift/bw/an/an3.36.html)<br>(addasa) **āsītikaṃ** vā **nāvutikaṃ** vā **vassasatikaṃ** vā jātiyā jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyaṇaṃ pavedhamānaṃ gacchantaṃ
+3. [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36)<br>(addasa) **āsītikaṃ** vā **nāvutikaṃ** vā **vassasatikaṃ** vā jātiyā jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyaṇaṃ pavedhamānaṃ gacchantaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@
 
 **[Didn't you ever see among human beings a man or woman] eighty or ninety or one hundred years old (lit: from birth), worn out, crooked as a rafter, bent, walking along trembling, supported by a staff….?**
 
-4. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) <br>yo c'āyaṃ atta**kilamath**'ānuyogo dukkho anariyo anatthasañhito.
+4. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11) <br>yo c'āyaṃ atta**kilamath**'ānuyogo dukkho anariyo anatthasañhito.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@
 
 **…and this practice of self-mortification, which is painful, ignoble, [and] unbeneficial.**
 
-5. [VIN PAT PC 54](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>**anādariye**, pācittiyaṃ.
+5. [VIN PAT PC 54](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>**anādariye**, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@
 
 **In disrespect, [there is an] offence requiring confession.**
 
-6. [VIN PAT NP 5](https://find.dhamma.gift/bw/vi/bu-pt.html#np)<br>yo pana bhikkhu **aññātikāya** **bhikkhuniyā** **hatthato** cīvaraṃ paṭiggaṇheyya, **aññatra** pārivattakā, nissaggiyaṃ pācittiyaṃ.
+6. [VIN PAT NP 5](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)<br>yo pana bhikkhu **aññātikāya** **bhikkhuniyā** **hatthato** cīvaraṃ paṭiggaṇheyya, **aññatra** pārivattakā, nissaggiyaṃ pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@
 
 **If any monk should accept a robe from the hand of a nun, not related by blood, except in an exchange, [it is] an offence requiring confession with forfeiture.**
 
-7. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html)<br>te puttamaṃsāni c'eva khādeyyuṃ, ure ca paṭipiseyyuṃ, **kahaṃ**, eka**puttaka**, kahaṃ, ekaputtakā'ti
+7. [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63)<br>te puttamaṃsāni c'eva khādeyyuṃ, ure ca paṭipiseyyuṃ, **kahaṃ**, eka**puttaka**, kahaṃ, ekaputtakā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -156,7 +156,7 @@
 
 **And just as they would eat (or, were eating) the flesh of [their] son, they would beat their breasts, [saying] "Where [are you] [our] only young son, where [are you] [our] only young son?"**
 
-8. [DHP5](https://find.dhamma.gift/bw/dhp/dhp1-20.html) <br>na hi verena verāni,<br>sammant'īdha **kudācanaṃ**,<br>averena ca sammanti,<br>esa dhammo **sanantano**.
+8. [DHP5](https://s.dhamma.gift/kn/dhp/index.html#dhp1) <br>na hi verena verāni,<br>sammant'īdha **kudācanaṃ**,<br>averena ca sammanti,<br>esa dhammo **sanantano**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -177,7 +177,7 @@
 
 **Indeed, in this world, hatred is never appeased by hatred; they are appeased by non-hatred. This is an eternal truth.**
 
-9. [AN7.6](https://find.dhamma.gift/bw/an/an7.6.html)<br>saddhādhanaṃ sīladhanaṃ,<br>hirī ottappiyaṃ dhanaṃ,<br>sutadhanañ'ca cāgo ca,<br>paññā ve **sattamaṃ** dhanaṃ.
+9. [AN7.6](https://s.dhamma.gift/an/an7/index.html#an7.6)<br>saddhādhanaṃ sīladhanaṃ,<br>hirī ottappiyaṃ dhanaṃ,<br>sutadhanañ'ca cāgo ca,<br>paññā ve **sattamaṃ** dhanaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -204,7 +204,7 @@
 
 **Wealth of faith, wealth of ethical conduct, [the wealth of] sense of shame [and] fear of wrongdoing, wealth of learning [and] generosity, and wisdom, indeed, the seventh [kind of] wealth.**
 
-10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā
+10. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno, bhattañca me nacchādesi, na ca me āsi kāye balamattā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -235,7 +235,7 @@
 
 **Previously I was truly sick, suffering, extremely ill. Food did not please me and there was no strength in my body.**
 
-11. [SN25.1](https://find.dhamma.gift/bw/sn/sn25.1.html) <br>yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati saddhānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ.
+11. [SN25.1](https://s.dhamma.gift/sn/sn25/index.html#sn25.1) <br>yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati saddhānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -272,7 +272,7 @@
 
 **Whoever has such faith in these teachings and is settled on them, this person is called a faith follower who has entered a unalterable fixed course, entered the level of the superior man, transcended the level of the common man.**
 
-12. [DHP227](https://find.dhamma.gift/bw/dhp/dhp221-234.html)<br>porāṇametaṃ atula, netaṃ ajjatanāmiva, <br>nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ, <br>mitabhāṇimpi nindanti, natthi loke anindito.
+12. [DHP227](https://s.dhamma.gift/kn/dhp/index.html#dhp221)<br>porāṇametaṃ atula, netaṃ ajjatanāmiva, <br>nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ, <br>mitabhāṇimpi nindanti, natthi loke anindito.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -310,7 +310,7 @@
 
 **This is an ancient thing, Atula, not only related to the present. They blame one sitting silently, they blame one talking a lot, they blame one measured in speech. There is not (anyone) in the world not blamed.**
 
-13. [AN4.100](https://find.dhamma.gift/bw/an/an4.100.html) <br>imesaṃ kho, potaliya, catunnaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cāti?
+13. [AN4.100](https://s.dhamma.gift/an/an4/index.html#an4.100) <br>imesaṃ kho, potaliya, catunnaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cāti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -336,7 +336,7 @@
 
 **Among these four types of persons, Potaliya, which person seems good to you, more excellent and sublime?**
 
-14. [SN47.10](https://find.dhamma.gift/bw/sn/sn47.10.html) <br>avitakkomhi avicāro ajjhattaṃ satimā sukhamasmīti pajānāti
+14. [SN47.10](https://s.dhamma.gift/sn/sn47/index.html#sn47.10) <br>avitakkomhi avicāro ajjhattaṃ satimā sukhamasmīti pajānāti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -355,7 +355,7 @@
 
 **He knows, "I am free from discursive thought, internally mindful and comfortable."**
 
-15. [SNP7](https://find.dhamma.gift/bw/snp/snp1.7.html)<br>kodhano upanāhī ca, pāpamakkhī ca yo naro,<br>vipannadiṭṭhi māyāvī, taṃ jaññā vasalo iti.
+15. [SNP7](https://s.dhamma.gift/kn/snp/index.html#snp1.7)<br>kodhano upanāhī ca, pāpamakkhī ca yo naro,<br>vipannadiṭṭhi māyāvī, taṃ jaññā vasalo iti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -383,7 +383,7 @@
 
 **Whoever is angry, resentful, slanders badly of others, who has a distorted view, who is deceitful – you should know that person as "an outcast".**
 
-16. [SN22.1](https://find.dhamma.gift/bw/sn/sn22.1.html) <br>yo hi, gahapati, imaṃ kāyaṃ pariharanto muhuttampi ārogyaṃ paṭijāneyya, kimaññatra bālyā?
+16. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) <br>yo hi, gahapati, imaṃ kāyaṃ pariharanto muhuttampi ārogyaṃ paṭijāneyya, kimaññatra bālyā?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -413,7 +413,7 @@
 
 **O householder, whoever, taking care of this body, would claim health, even for a moment, what is that other than foolishness!?**
 
-17. [AN8.13](https://find.dhamma.gift/bw/an/an8.13.html) <br>yāni kho panassa honti sāṭheyyāni kūṭeyyāni jimheyyāni vaṅkeyyāni, tāni yathābhūtaṃ āvikattā hoti satthari vā viññūsu vā sabrahmacārīsu.
+17. [AN8.13](https://s.dhamma.gift/an/an8/index.html#an8.13) <br>yāni kho panassa honti sāṭheyyāni kūṭeyyāni jimheyyāni vaṅkeyyāni, tāni yathābhūtaṃ āvikattā hoti satthari vā viññūsu vā sabrahmacārīsu.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -447,7 +447,7 @@
 
 ## Class 26 Extra Examples
 
-1. [SN47.8](https://find.dhamma.gift/bw/sn/sn47.8.html)<br>**ambil**'aggehi'pi, **tittak**'aggehi'pi, **kaṭuk**'aggehi'pi, **madhur**'aggehi'pi, **khārikehi**'pi, akhārikehi'pi, **loṇikehi**'pi, aloṇikehi'pi.
+1. [SN47.8](https://s.dhamma.gift/sn/sn47/index.html#sn47.8)<br>**ambil**'aggehi'pi, **tittak**'aggehi'pi, **kaṭuk**'aggehi'pi, **madhur**'aggehi'pi, **khārikehi**'pi, akhārikehi'pi, **loṇikehi**'pi, aloṇikehi'pi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -486,7 +486,7 @@
 
 **[Bhikkhus, suppose a foolish, incompetent, unskillful cook were to present a king or royal minister with various kinds of curries:] (ones) predominantly sour, predominantly bitter, predominantly pungent, predominantly sweet, alkaline, not alkaline, salty, not salty.**
 
-2. [SN20.3](https://find.dhamma.gift/bw/sn/sn20.3.html) <br>seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṃsiyāni honti corehi kumbhatthenakehi.
+2. [SN20.3](https://s.dhamma.gift/sn/sn20/index.html#sn20.3) <br>seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṃsiyāni honti corehi kumbhatthenakehi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -513,7 +513,7 @@
 
 **Just like, monks, whichever families with many women and few men are easily overcome by robbers and burglars ...**
 
-3. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html)<br>kiñcāpi so kamma karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā,<br>abhabba so tassa paṭicchadāya,<br>abhabbatā diṭṭhapadassa vuttā,<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu
+3. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)<br>kiñcāpi so kamma karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā,<br>abhabba so tassa paṭicchadāya,<br>abhabbatā diṭṭhapadassa vuttā,<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu
 
 | | | | | |
 | --- | --- | --- | --- | --- |

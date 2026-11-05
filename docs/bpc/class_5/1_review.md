@@ -2,22 +2,22 @@
 
 1.  ekaputto ahaṃ **āsiṃ**, piyo mātu piyo pitu.
 
-[TH226](https://find.dhamma.gift/bw/tha/tha7.html)
+[TH226](https://s.dhamma.gift/kn/thag/index.html#thag7.1)
 {: .align-right }
 
 2.  tato cuto amutra **udapādiṃ**
 
-[AN10.21](https://find.dhamma.gift/bw/an/an10.21.html)
+[AN10.21](https://s.dhamma.gift/an/an10/index.html#an10.21)
 {: .align-right }
 
 3.  **atthi** ayaṃ loko, **atthi** paro loko
 
-[MN60](https://find.dhamma.gift/bw/mn/mn60.html)
+[MN60](https://s.dhamma.gift/mn/mn60/index.html)
 {: .align-right }
 
 4.  mayaṃ otiṇṇā **amha** jātijarāmaraṇena
 
-[AN4.122](https://find.dhamma.gift/bw/an/an4.122.html) (simpl)
+[AN4.122](https://s.dhamma.gift/an/an4/index.html#an4.122) (simpl)
 {: .align-right }
 
 5.  sabbe sattā sukhī **hontu**
@@ -27,5 +27,5 @@ Uddissan'ādhiṭṭhānā
 
 6.  na **āsi** kāye balaṃ
 
-[MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl)
+[MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
 {: .align-right }

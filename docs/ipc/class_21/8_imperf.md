@@ -34,6 +34,6 @@ Technically there is also a **Passive Imperfect Past**. How would that be formed
 
 A practical example:
 
-agam**ā** rājagahaṃ buddho ([SNP27](https://find.dhamma.gift/bw/snp/snp3.1.html))
+agam**ā** rājagahaṃ buddho ([SNP27](https://s.dhamma.gift/kn/snp/index.html#snp3.1))
 
 the Buddha **went** to Rājagaha

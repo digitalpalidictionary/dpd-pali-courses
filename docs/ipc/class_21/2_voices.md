@@ -70,7 +70,7 @@ he obtains something **for himself**
 
 The reflexive voice contains the idea of an action coming back to the person who did the action, i.e. **reflecting back** to the doer.
 
-[DHP131](https://find.dhamma.gift/bw/dhp/dhp129-145.html)
+[DHP131](https://s.dhamma.gift/kn/dhp/index.html#dhp129)
 
 pecca so na labha**te** sukhaṃ.
 

@@ -1,6 +1,6 @@
 # Class 12 Key to Exercises
 
-1. [MN4](https://find.dhamma.gift/bw/mn/mn4.html) <br>anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ - ekam'pi jātiṃ dve'pi jātiyo tisso'pi jātiyo catasso'pi jātiyo pañca'pi jātiyo dasa'pi jātiyo vīsam'pi jātiyo tiṃsam'pi jātiyo cattālīsam'pi jātiyo paññāsam'pi jātiyo jātisatam'pi jātisahassam'pi jātisatasahassam'pi
+1. [MN4](https://s.dhamma.gift/mn/mn4/index.html) <br>anekavihitaṃ pubbenivāsaṃ anussarāmi, seyyathidaṃ - ekam'pi jātiṃ dve'pi jātiyo tisso'pi jātiyo catasso'pi jātiyo pañca'pi jātiyo dasa'pi jātiyo vīsam'pi jātiyo tiṃsam'pi jātiyo cattālīsam'pi jātiyo paññāsam'pi jātiyo jātisatam'pi jātisahassam'pi jātisatasahassam'pi
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 **I recollected manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births**
 
-2. [MN16](https://find.dhamma.gift/bw/mn/mn16.html) <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.
+2. [MN16](https://s.dhamma.gift/mn/mn16/index.html) <br>seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@
 
 **Imagine if, monks, there could be hen's eggs, eight or ten or twelve.**
 
-3. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso, <br>evam'eva kho, bhikkhave, ayaṃ dhammavinayo ekaraso vimuttiraso
+3. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>seyyathāpi, bhikkhave, mahāsamuddo ekaraso loṇaraso, <br>evam'eva kho, bhikkhave, ayaṃ dhammavinayo ekaraso vimuttiraso
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@
 
 **Likewise, monks, this teaching and training has one taste, the flavour of liberation.**
 
-4. [SN1.37](https://find.dhamma.gift/bw/sn/sn1.37.html) <br>ekaṃ samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeh'eva arahantehi
+4. [SN1.37](https://s.dhamma.gift/sn/sn1/index.html#sn1.37) <br>ekaṃ samayaṃ bhagavā sakkesu viharati bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeh'eva arahantehi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@
 
 **with a community of monks, five hundred monks, all exclusively arahants.**
 
-5. [AN1.12](https://find.dhamma.gift/bw/an/an1.12.html) <br>n'āhaṃ, bhikkhave, aññaṃ ekadhammam'pi samanupassāmi yena anuppanno byāpādo uppajjati, yathayidaṃ, bhikkhave, paṭighanimittaṃ
+5. [AN1.12](https://s.dhamma.gift/an/an1/index.html#an1.12) <br>n'āhaṃ, bhikkhave, aññaṃ ekadhammam'pi samanupassāmi yena anuppanno byāpādo uppajjati, yathayidaṃ, bhikkhave, paṭighanimittaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -121,7 +121,7 @@
 
 **such as a disliked image.**
 
-6. [SN56.14](https://find.dhamma.gift/bw/sn/sn56.14.html) <br>cattāri imāni, bhikkhave, ariyasaccāni. katamāni cattāri?
+6. [SN56.14](https://s.dhamma.gift/sn/sn56/index.html#sn56.14) <br>cattāri imāni, bhikkhave, ariyasaccāni. katamāni cattāri?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -134,7 +134,7 @@
 
 **Monks, [there are] these four noble truths, which four?**
 
-7. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ
+7. [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63) <br>kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -169,7 +169,7 @@
 
 **consciousness is the fourth**
 
-8. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye chaṭṭho acchariyo abbhuto dhammo
+8. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>ayaṃ, bhikkhave, imasmiṃ dhammavinaye chaṭṭho acchariyo abbhuto dhammo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -184,7 +184,7 @@
 
 **Monks, this is the sixth wonderful and amazing quality in this Dhamma and Vinaya.**
 
-9. [DN13.8](https://find.dhamma.gift/bw/dn/dn13.html) <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ
+9. [DN13.8](https://s.dhamma.gift/dn/dn13/index.html) <br>so mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -210,7 +210,7 @@
 
 **Likewise, the second, third and fourth.**
 
-10. [DN9.6](https://find.dhamma.gift/bw/dn/dn9.html) <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
+10. [DN9.6](https://s.dhamma.gift/dn/dn9/index.html) <br>eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -221,7 +221,7 @@
 
 **Some monks and brahmins who speaking thus, holding such view…**
 
-11. [SN36.22](https://find.dhamma.gift/bw/sn/sn36.22.html) <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
+11. [SN36.22](https://s.dhamma.gift/sn/sn36/index.html#sn36.22) <br>aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -256,7 +256,7 @@
 
 **also I have spoken of one hundred and eight feelings by [another] way.**
 
-12. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) (simpl)<br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
+12. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11) (simpl)<br>yāvakīvañ'ca me, bhikkhave, imesu catūsu ariyasaccesu saha tīhi parivaṭṭehi saha dvādasahi ākārehi yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -280,7 +280,7 @@
 
 **Monks, as long as for me, knowledge and vision were not perfectly purified with regard to the Four Noble Truths as they truly are in [their] three phases together with [their] twelve aspects….**
 
-13. [VIN PAT SA 11](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
+13. [VIN PAT SA 11](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) <br>tassa eva kho pana bhikkhussa bhikkhū honti, anuvattakā vaggavādakā, eko vā dve vā tayo vā, te evaṃ vadeyyuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -303,7 +303,7 @@
 
 **But now there are monks who are followers of just that monk, [and] who are proponents of [his] faction – one or two or three – [and] they should say thus…**
 
-14. [SN12.2](https://find.dhamma.gift/bw/sn/sn12.2.html) <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
+14. [SN12.2](https://s.dhamma.gift/sn/sn12/index.html#sn12.2) <br>cattāro ca mahābhūtā, catunnaṃ ca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -321,7 +321,7 @@
 
 **The four great elements and the material form derived from the four great elements; this is called material form.**
 
-15. [SN11.3](https://find.dhamma.gift/bw/sn/sn11.3.html) <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
+15. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3) <br>yad'idaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -336,7 +336,7 @@
 
 **This is the community of disciples of the Blessed One, namely, the four pairs of persons, the eight individuals.**
 
-16. [DN14.14](https://find.dhamma.gift/bw/dn/dn14.html) <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
+16. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html) <br>evam'eva tesaṃ caturāsītīnaṃ pāṇānaṃ sahassānaṃ tasmiṃ eva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -355,7 +355,7 @@
 
 **Similarly, spotless, untainted insight into the nature of reality arose for those eighty-four thousand beings just in that very place.**
 
-17. [AN10.8](https://find.dhamma.gift/bw/an/an10.8.html) <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
+17. [AN10.8](https://s.dhamma.gift/an/an10/index.html#an10.8) <br>imehi kho, bhikkhave, dasahi dhammehi samannāgato bhikkhu samanta'pāsādiko ca hoti sabb'ākāraparipūro ca
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -374,7 +374,7 @@
 
 **Surely, a monk endowed with these ten qualities is one who inspires confidence in every way and complete in every aspect.**
 
-18. [AN10.61](https://find.dhamma.gift/bw/an/an10.61.html) <br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
+18. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61) <br>pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -400,7 +400,7 @@
 
 **And what is the nutriment of the five hindrances? The three [kinds of] misconduct.**
 
-19. [SN12.63](https://find.dhamma.gift/bw/sn/sn12.63.html) (simpl) <br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
+19. [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63) (simpl) <br>taṃ kiṃ maññatha, api nu so puriso divasaṃ tīhi sattīhi satehi haññamāno tatonidānaṃ dukkhaṃ domanassaṃ paṭisaṃvediyeyya?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -422,7 +422,7 @@
 
 **"What do you think? Wouldn't that man, being struck during the day with three hundred spears, experience suffering and distress on that account?"**
 
-20. [AN4.67](https://find.dhamma.gift/bw/an/an4.67.html) <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
+20. [AN4.67](https://s.dhamma.gift/an/an4/index.html#an4.67) <br>namo bhagavato, namo sattannaṃ sammāsambuddhānaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -434,7 +434,7 @@
 
 **Homage to the Blessed One, homage to the seven Perfectly Enlightened Ones.**
 
-21. [SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
+21. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) <br>dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -474,7 +474,7 @@
 
 **It is observed, monks, [that] this body, composed of the four great elements, is standing just one year, [or] just two years, … three … four … five … ten … twenty … thirty … forty … fifty [or] remaining one hundred years [or] even remaining more than [that].**
 
-22. [UD46](https://find.dhamma.gift/bw/ud/ud5.6.html) <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
+22. [UD46](https://s.dhamma.gift/kn/ud/index.html#ud5.6) <br>evaṃ, bhante'ti kho āyasmā soṇo bhagavato paṭissutvā soḷasa aṭṭhakavaggikāni sabbāni eva sarena abhaṇi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -494,7 +494,7 @@
 
 **"Yes, venerable sir." Having responded in agreement to the Blessed One, Venerable Soṇa indeed recited melodiously all sixteen [suttas], belonging to the groups of eight.**
 
-23. [MN91](https://find.dhamma.gift/bw/mn/mn91.html) <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
+23. [MN91](https://s.dhamma.gift/mn/mn91/index.html) <br>tassa imāni satta ratanāni bhavanti, seyyath'idaṃ, cakkaratanaṃ, hatthiratanaṃ, assaratanaṃ, maṇiratanaṃ, itthiratanaṃ, gahapatiratanaṃ, pariṇāyakaratanaṃ eva sattamaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -518,7 +518,7 @@
 
 ## Class 12 Extra
 
-1. [SNP5](https://find.dhamma.gift/bw/snp/snp1.5.html) <br>caturo samaṇā na pañcam'atthi, <br>te te āvikaromi sakkhipuṭṭho.
+1. [SNP5](https://s.dhamma.gift/kn/snp/index.html#snp1.5) <br>caturo samaṇā na pañcam'atthi, <br>te te āvikaromi sakkhipuṭṭho.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -535,7 +535,7 @@
 
 **There are four (kinds of) ascetics, there is not a fifth.<br>Questioned face to face, I will clarify those for you.**
 
-2. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) (simpl)<br>catūhi apāyehi ca vippamutto, cha ca abhiṭhānāni abhabbo kātuṃ
+2. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1) (simpl)<br>catūhi apāyehi ca vippamutto, cha ca abhiṭhānāni abhabbo kātuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -551,7 +551,7 @@
 
 **One is released from the four states of misery and is unable to perform the six heinous crimes.**
 
-3. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) <br>ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni. kiñ'c'āpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamaṃ ādiyanti.
+3. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1) <br>ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni. kiñ'c'āpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamaṃ ādiyanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -578,7 +578,7 @@
 
 **Even though they are exceedingly negligent, they do not grasp an eighth state of existence.**
 
-4. [VIN PAT AN 1](https://find.dhamma.gift/bw/an/an1.html) <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
+4. [VIN PAT AN 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm5) <br>tam'enaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya, pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -598,7 +598,7 @@
 
 **…a lay woman, whose words can be trusted, having then seen that should speak in accordance with one of three rules: according to an offence involving defeat, according to an offence requiring suspension, according to an offence requiring confession.**
 
-5. [SNP13](https://find.dhamma.gift/bw/snp/snp2.1.html) <br>vanappagumbe yathā phussit'agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath'ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
+5. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1) <br>vanappagumbe yathā phussit'agge, <br>gimhāna-māse paṭhamasmiṃ gimhe. <br>tath'ūpamaṃ dhamma-varaṃ adesayi, <br>nibbāna-gāmiṃ paramaṃ hitāya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -617,7 +617,7 @@
 
 **Like a forest grove with a flowering crest,<br>in the first heat of the hot month,<br>(The Buddha) taught the sublime teaching,<br>leading to the highest Nibbāna, for the benefit.**
 
-6. [AN9.15](https://find.dhamma.gift/bw/an/an9.15.html) <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
+6. [AN9.15](https://s.dhamma.gift/an/an9/index.html#an9.15) <br>seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassa assu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -640,7 +640,7 @@
 
 **That boil would have nine wound openings, nine natural orifices.**
 
-7. [SNP6](https://find.dhamma.gift/bw/snp/snp1.6.html) <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
+7. [SNP6](https://s.dhamma.gift/kn/snp/index.html#snp1.6) <br>iti h'etaṃ vijānāma, navamo so parābhavo. <br>dasamaṃ bhagavā brūhi. kiṃ parābhavato mukhaṃ?
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -4,7 +4,7 @@
 
 Most verbs of this sort take an object in the accusative case.
 
-bhikkh**u** paṭhav**iṃ** na khaṇati ([PC10](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) simpl)
+bhikkh**u** paṭhav**iṃ** na khaṇati ([PC10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) simpl)
 
 A monk does not dig the earth.
 
@@ -12,7 +12,7 @@ t**e** suriy**aṃ** passiṃsu
 
 They saw the sun.
 
-pupph**ā** tathāgatassa sarīr**aṃ** okiranti ([DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) simpl)
+pupph**ā** tathāgatassa sarīr**aṃ** okiranti ([DN16.27](https://s.dhamma.gift/dn/dn16/index.html) simpl)
 
 Flowers scatter down onto the body of the Tathagata.
 
@@ -24,11 +24,11 @@ s**o** nar**o** hoti
 
 He is a man.
 
-asur**ā** mahāsamudd**e** abhiramanti. ([UD45](https://find.dhamma.gift/bw/ud/ud5.5.html))
+asur**ā** mahāsamudd**e** abhiramanti. ([UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5))
 
 The Asuras take delight in the great ocean.
 
-pakkh**ī** sakuṇ**o** ḍeti. ([MN51](https://find.dhamma.gift/bw/mn/mn51.html) simpl)
+pakkh**ī** sakuṇ**o** ḍeti. ([MN51](https://s.dhamma.gift/mn/mn51/index.html) simpl)
 
 A winged bird flies
 
@@ -44,11 +44,11 @@ kuṭṭhī nara**ṃ** odana**ṃ** yācati
 
 The leper begs the man for food.
 
-bhikkhu saṅgh**aṃ** kuṭivatthussa olokan**aṃ** yācati ([VIN1.2.6](https://find.dhamma.gift/bw/vi/bu-vb-sn6.html))
+bhikkhu saṅgh**aṃ** kuṭivatthussa olokan**aṃ** yācati ([VIN1.2.6](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss6))
 
 A monk asks the Community to see the place of the hut.
 
-so āyasmant**aṃ** sāriputt**aṃ** uttariṃ pañh**aṃ** apucchi. ([MN43](https://find.dhamma.gift/bw/mn/mn43.html))
+so āyasmant**aṃ** sāriputt**aṃ** uttariṃ pañh**aṃ** apucchi. ([MN43](https://s.dhamma.gift/mn/mn43/index.html))
 
 He asked the Venerable Sāriputta a further question.
 

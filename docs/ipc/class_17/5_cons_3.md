@@ -14,25 +14,25 @@ an**ū**pavādo an**ū**paghāto,
 
 pātimokkañ’ca saṃvaro
 
-([DN16.14](https://find.dhamma.gift/bw/dn/dn16.html))
+([DN16.14](https://s.dhamma.gift/dn/dn16/index.html))
 
 yadattan**ī** passati ānisaṃsaṃ,
 
 diṭṭasute sīlavate mute vā
 
-([SNP43](https://find.dhamma.gift/bw/snp/snp4.5.html))
+([SNP43](https://s.dhamma.gift/kn/snp/index.html#snp4.5))
 
 lokassa antaṃ samitāvi ñatvā,
 
 nāsiṃsat**ī** lokamimaṃ parañ’cā’ti.
 
-([AN4.45](https://find.dhamma.gift/bw/an/an4.45.html))
+([AN4.45](https://s.dhamma.gift/an/an4/index.html#an4.45))
 
 manujassa sadā sat**ī**mato,
 
 mattaṃ jānato laddhabhojane.
 
-([SN3.13](https://find.dhamma.gift/bw/sn/sn3.13.html))
+([SN3.13](https://s.dhamma.gift/sn/sn3/index.html#sn3.13))
 
 **shortened**:
 
@@ -40,19 +40,19 @@ uddhaṃ adho ca tiriyaṃ,
 
 disā anudisā sv**a**haṃ
 
-([SN4.23](https://find.dhamma.gift/bw/sn/sn4.23.html))
+([SN4.23](https://s.dhamma.gift/sn/sn4/index.html#sn4.23))
 
 yaṃ kiñci yiṭṭhaṃ v**a** hutaṃ v**a** loke,
 
 saṃvaccharaṃ yajetha puññapekkho.
 
-([DHP108](https://find.dhamma.gift/bw/dhp/dhp100-115.html))
+([DHP108](https://s.dhamma.gift/kn/dhp/index.html#dhp100))
 
 pūj'ārahe pūjayato, buddhe yadi v**a** sāvake.
 
 papañcasamatikkante, tiṇṇasokapariddave.
 
-([DHP195](https://find.dhamma.gift/bw/dhp/dhp179-196.html))
+([DHP195](https://s.dhamma.gift/kn/dhp/index.html#dhp179))
 
 **Counter-examples:**
 

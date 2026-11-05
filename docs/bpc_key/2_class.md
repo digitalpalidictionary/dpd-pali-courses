@@ -1,6 +1,6 @@
 # Class 2 Key to Exercises
 
-1. [SN10.8](https://find.dhamma.gift/bw/sn/sn10.8.html)<br>buddho kira loke uppanno
+1. [SN10.8](https://s.dhamma.gift/sn/sn10/index.html#sn10.8)<br>buddho kira loke uppanno
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 
 **A Buddha has indeed arisen in the world.**
 
-2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca
+2. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)<br>araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca
 
 | | | | |
 | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 
 **At the foot of a tree in a forest, in valleys, and in caves.**
 
-3. [DN22.1](https://find.dhamma.gift/bw/dn/dn22.html) (simpl)<br>maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
+3. [DN22.1](https://s.dhamma.gift/dn/dn22/index.html) (simpl)<br>maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@
 
 **It is the path for the overcoming of sorrow and lamentation, for the attainment of the (right) method, for personal experience of total emancipation.**
 
-4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>uttarimanussadhammo alam'ariyañāṇadassanaviseso<br>uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
+4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)<br>uttarimanussadhammo alam'ariyañāṇadassanaviseso<br>uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@
 
 **the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**
 
-5. [VIN PAT SE 55](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
+5. [VIN PAT SE 55](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -77,7 +77,7 @@
 
 **The community of monks should perform the observance day [and] should recite the training rules.**
 
-7. [SN55.7](https://find.dhamma.gift/bw/sn/sn55.7.html)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
+7. [SN55.7](https://s.dhamma.gift/sn/sn55/index.html#sn55.7)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -135,7 +135,7 @@
 
 **for the delusion of the fool**
 
-12. [TH251](https://find.dhamma.gift/bw/tha/tha16.html)<br>kāmehi lokamhi
+12. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)<br>kāmehi lokamhi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -163,7 +163,7 @@
 
 **The relinquishing, the abandonment, the non-attachment**
 
-15. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>pāde pādaṃ
+15. [MN107](https://s.dhamma.gift/mn/mn107/index.html)<br>pāde pādaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -172,7 +172,7 @@
 
 **[he places] a foot on a foot**
 
-16. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>dhammānaṃ uppādāya chandaṃ
+16. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)<br>dhammānaṃ uppādāya chandaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -212,7 +212,7 @@
 
 **with either a recluse or a brahmin or a deity or Mara**
 
-20. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+20. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -233,7 +233,7 @@
 
 **The Doctrine, the Discipline**
 
-22. [SN12.41](https://find.dhamma.gift/bw/sn/sn12.41.html)<br>vinipātaṃ nirayaṃ
+22. [SN12.41](https://s.dhamma.gift/sn/sn12/index.html#sn12.41)<br>vinipātaṃ nirayaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -242,7 +242,7 @@
 
 **[is reborn in] a state of suffering, hell.**
 
-23. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>aparena samayena buddho
+23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)<br>aparena samayena buddho
 
 | | | | |
 | --- | --- | --- | --- |
@@ -261,7 +261,7 @@
 
 **the robe in the room**
 
-25. [VIN1.1.4](https://find.dhamma.gift/bw/vi/bu-vb-pj4.html)<br>āvāse vassaṃ
+25. [VIN1.1.4](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj4)<br>āvāse vassaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -270,7 +270,7 @@
 
 **[he entered] the rainy season at the dwelling place.**
 
-26. [MN99](https://find.dhamma.gift/bw/mn/mn99.html)<br>nīvaraṇehi brāhmaṇo
+26. [MN99](https://s.dhamma.gift/mn/mn99/index.html)<br>nīvaraṇehi brāhmaṇo
 
 | | | | |
 | --- | --- | --- | --- |
@@ -288,7 +288,7 @@
 
 **O, brahmin! … sensual pleasures**
 
-28. [DHP331](https://find.dhamma.gift/bw/dhp/dhp320-333.html)<br>atthamhi sahāyā
+28. [DHP331](https://s.dhamma.gift/kn/dhp/index.html#dhp320)<br>atthamhi sahāyā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -297,7 +297,7 @@
 
 **[Good are] friends in [arisen] need <br>[Good are] friends when need [arises]**
 
-29. [MN35](https://find.dhamma.gift/bw/mn/mn35.html)<br>gotamo sāvake … gotamassa sāvakesu
+29. [MN35](https://s.dhamma.gift/mn/mn35/index.html)<br>gotamo sāvake … gotamassa sāvakesu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -319,7 +319,7 @@
 
 ## Class 2 Extra
 
-1. [SN12.1](https://find.dhamma.gift/bw/sn/sn12.1.html)<br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
+1. [SN12.1](https://s.dhamma.gift/sn/sn12/index.html#sn12.1)<br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -350,7 +350,7 @@
 
 **But from the complete fading away and cessation of ignorance there is cessation of volitional formations; from the cessation of volitional formations, cessation of consciousness; from the cessation of consciousness, cessation of name-and-form; from the cessation of name-and-form, cessation of the six sense bases; from the cessation of the six sense bases, cessation of contact; from the cessation of contact, cessation of feeling; from the cessation of feeling, cessation of craving; from the cessation of craving, cessation of clinging; from the cessation of clinging, cessation of becoming; from the cessation of becoming, cessation of birth; from the cessation of birth, aging-and-death, sorrow, lamentation, pain, displeasure, and despair cease.**
 
-2. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html)<br>dhammā virāgāya
+2. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)<br>dhammā virāgāya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -359,7 +359,7 @@
 
 **[these] things/qualities [lead] to dispassion**
 
-3. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html)<br>saṅkhārā ābādhāya
+3. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>saṅkhārā ābādhāya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -368,7 +368,7 @@
 
 **Volitional formations [are conducive] to suffering**
 
-4. [AN8.19](https://find.dhamma.gift/bw/an/an8.19.html)<br>saṅghamhā saṅgho
+4. [AN8.19](https://s.dhamma.gift/an/an8/index.html#an8.19)<br>saṅghamhā saṅgho
 
 | | | | |
 | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
-1. [MN107](https://find.dhamma.gift/bw/mn/mn107.html)<br>byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahit'ānukampī
+1. [MN107](https://s.dhamma.gift/mn/mn107/index.html)<br>byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahit'ānukampī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@
 
 **Abandoning ill-will and hatred, he dwells with a mind without ill-will, compassionate for the welfare of all living beings.**
 
-2. [VIN PAT PC 70](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>ajja't'agge te, āvuso, samaṇ'uddesa na c'eva so bhagavā satthā apadisitabbo
+2. [VIN PAT PC 70](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>ajja't'agge te, āvuso, samaṇ'uddesa na c'eva so bhagavā satthā apadisitabbo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@
 
 **From today onwards, friend novice, the Blessed One is not to be referred to as the teacher by you.**
 
-3. [DHP064](https://find.dhamma.gift/bw/dhp/dhp60-75.html)<br>yāvajīvam'pi ce bālo, paṇḍitaṃ payirupāsati, <br>na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
+3. [DHP064](https://s.dhamma.gift/kn/dhp/index.html#dhp60)<br>yāvajīvam'pi ce bālo, paṇḍitaṃ payirupāsati, <br>na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@
 
 **[Even] if a fool associates closely with a wise person for the rest of his life, he will not (lit: does not) comprehend the doctrine, as a spoon [does not comprehend] the taste of the soup.**
 
-4. [VIN PAT PC 63](https://find.dhamma.gift/bw/vi/bu-pt.html#pc)<br>yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
+4. [VIN PAT PC 63](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>yo pana bhikkhu jānaṃ yathādhammaṃ nihat'ādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -97,7 +97,7 @@
 
 **If any monk should knowingly re-open for further action a legal issue which has been disposed of according to the rule, [this is an offence] involving confession.**
 
-5. [DHP356](https://find.dhamma.gift/bw/dhp/dhp334-359.html)<br>tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
+5. [DHP356](https://s.dhamma.gift/kn/dhp/index.html#dhp334)<br>tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -123,7 +123,7 @@
 
 **Fields are ruined by weeds, this generation is ruined by desire; that is why an offering to [those who are] free from desires is indeed of great fruit.**
 
-6. [SN42.6](https://find.dhamma.gift/bw/sn/sn42.6.html) <br>taṃ kiṃ maññasi, gāmaṇi, idh'assa puriso pāṇ'ātipātī adinn'ādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhiko.
+6. [SN42.6](https://s.dhamma.gift/sn/sn42/index.html#sn42.6) <br>taṃ kiṃ maññasi, gāmaṇi, idh'assa puriso pāṇ'ātipātī adinn'ādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhiko.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -184,7 +184,7 @@
 
     **I wonder if it could also be classified as avyayībhāva that retains its case ending, cf. Duroiselle: "Sometimes, however, the case-ending is retained; the cases thus retained being mostly the Ablative and the Locative."**
 
-7. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
+7. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -215,7 +215,7 @@
 
 **piṇḍapātapaṭikkanta \< piṇḍapātasmā + paṭikkanta (pañcamī tappurisa)**
 
-8. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati
+8. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html) <br>savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -242,7 +242,7 @@
 
 **pītisukha \< pīti ca sukha ca (dvanda \> bahubbīhi)**
 
-9. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) <br>kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ
+9. [MN51](https://s.dhamma.gift/mn/mn51/index.html) <br>kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -288,7 +288,7 @@
 
 **atthasaṃhita \< atthena + saṃhita (tatiyā tappurisa)**
 
-10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
+10. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -308,7 +308,7 @@
 
 **kathābāhulla \< kathāya + bāhulla (chaṭṭhī tappurisa)**
 
-11. [SN12.23](https://find.dhamma.gift/bw/sn/sn12.23.html) <br>seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti.
+11. [SN12.23](https://s.dhamma.gift/sn/sn12/index.html#sn12.23) <br>seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -348,7 +348,7 @@
 
 **pabbatakandarā \< pabbata + kandarā (dvanda)**
 
-12. [MN40](https://find.dhamma.gift/bw/mn/mn40.html) <br>ehi tvaṃ, bhadramukha, saṅghāṭiko hohi, saṅghāṭikassa te sato saṅghāṭidhāraṇamattena abhijjhālussa abhijjhā pahīyissati.
+12. [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>ehi tvaṃ, bhadramukha, saṅghāṭiko hohi, saṅghāṭikassa te sato saṅghāṭidhāraṇamattena abhijjhālussa abhijjhā pahīyissati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@
 
 **saṅghāṭidhāraṇa \< saṅghāṭiṃ + dhāraṇa (dutiyā tappurisa)**
 
-13. [MN40](https://find.dhamma.gift/bw/mn/mn40.html) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
+13. [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -446,7 +446,7 @@
 
 **passaddhakāya \< passaddha + kāya (kammadhāraya > bahubbīhi)**
 
-14. [AN10.176](https://find.dhamma.gift/bw/an/an10.176.html) <br>brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemī'ti
+14. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176) <br>brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemī'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -487,7 +487,7 @@
 
 ## Class 20 Extra Examples
 
-1. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html)<br>sukhassa ca pahānā dukkhassa ca pahānā, pubb'eva somanassadomanassānaṃ atthaṅ'gamā, adukkham'asukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
+1. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)<br>sukhassa ca pahānā dukkhassa ca pahānā, pubb'eva somanassadomanassānaṃ atthaṅ'gamā, adukkham'asukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -525,7 +525,7 @@
 
 **With the abandoning of pleasure and pain, and with the passing away of joy and dejection already before, he dwells having entered into the fourth stage of meditation, which has no pleasure and no pain, (but) has purification of awareness due to equanimity.**
 
-2. [MN91](https://find.dhamma.gift/bw/mn/mn91.html)<br>dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati n'ādhimuccati na sampasīdati, kos'ohite ca vatthaguyhe, pahūtajivhatāya ca.
+2. [MN91](https://s.dhamma.gift/mn/mn91/index.html)<br>dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati n'ādhimuccati na sampasīdati, kos'ohite ca vatthaguyhe, pahūtajivhatāya ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -555,7 +555,7 @@
 
 **He has doubt, he is uncertain about two auspicious marks of a great man, he has not made up his mind [and] is unsettled regarding [them]: about the genitals being enclosed in a sheath and about the largeness of the tongue.**
 
-3. [SN3.11](https://find.dhamma.gift/bw/sn/sn3.11.html)<br>tena kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividham'ādāya bhagavato avidūre atikkamanti.
+3. [SN3.11](https://s.dhamma.gift/sn/sn3/index.html#sn3.11)<br>tena kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividham'ādāya bhagavato avidūre atikkamanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -605,7 +605,7 @@
 
 [^19]: As bahubbīhi qual. jhānaṃ.
 
-4. [MN12](https://find.dhamma.gift/bw/mn/mn12.html) <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
+4. [MN12](https://s.dhamma.gift/mn/mn12/index.html) <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -4,20 +4,20 @@
 
 **kāmesumicchācārā** paṭivirato hoti
 
-[AN3.80](https://find.dhamma.gift/bw/an/an3.79.html)
+[AN3.80](https://s.dhamma.gift/an/an3/index.html#an3.79)
 {: .align-right }
 
 **brāhmaṇagahapatikānampi** tasmiṃ samaye na phāsu hoti
 
-[AN2.40](https://find.dhamma.gift/bw/an/an2.40.html)
+[AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40)
 {: .align-right }
 
 sāvikā bhavissanti … **dhammānudhammappaṭipannā**
 
-[DN16.20](https://find.dhamma.gift/bw/dn/dn16.html)
+[DN16.20](https://s.dhamma.gift/dn/dn16/index.html)
 {: .align-right }
 
 taṇhāya **asesavirāganirodho** cāgo paṭinissaggo mutti anālayo
 
-[DN22.17](https://find.dhamma.gift/bw/dn/dn22.html)
+[DN22.17](https://s.dhamma.gift/dn/dn22/index.html)
 {: .align-right }

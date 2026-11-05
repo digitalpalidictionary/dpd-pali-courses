@@ -1,6 +1,6 @@
 # Class 7 Key to Exercises
 
-1. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>jivhāya rasaṃ sāyitvā uppajjati manāpaṃ
+1. [MN152](https://s.dhamma.gift/mn/mn152/index.html) <br>jivhāya rasaṃ sāyitvā uppajjati manāpaṃ
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 
 **Having tasted a flavour with the tongue, a pleasant experience arises.**
 
-2. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) <br>so tathāgataṃ pūjeti paramāya pūjāya
+2. [DN16.27](https://s.dhamma.gift/dn/dn16/index.html) <br>so tathāgataṃ pūjeti paramāya pūjāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 
 **He honors the Buddha with the highest veneration.**
 
-3. [DN16.14](https://find.dhamma.gift/bw/dn/dn16.html) <br>assosuṃ mallā, bhagavā kusinārāyaṃ parinibbuto'ti
+3. [DN16.14](https://s.dhamma.gift/dn/dn16/index.html) <br>assosuṃ mallā, bhagavā kusinārāyaṃ parinibbuto'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@
 
 **The Mallans heard, "The Blessed One had final Nibbāna in Kusinara"**
 
-4. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-sālāyaṃ
+4. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) <br>ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-sālāyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@
 
 **At one time the Blessed One was living in Vesali, in the great wood, in the hall of the building with the peaked roof.**
 
-5. [DN22.7](https://find.dhamma.gift/bw/dn/dn22.html) <br>bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ
+5. [DN22.7](https://s.dhamma.gift/dn/dn22/index.html) <br>bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@
 
 **Imagine if a monk could see a dead body discarded in a charnel ground.**
 
-6. [MN14](https://find.dhamma.gift/bw/mn/mn14.html) <br>kin'ti me bhoge na corā hareyyuṃ
+6. [MN14](https://s.dhamma.gift/mn/mn14/index.html) <br>kin'ti me bhoge na corā hareyyuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@
 
 **How then could thieves not steal my valuables?**
 
-7. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi
+7. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61) <br>tvaṃ moggallāna disā anuvilokeyyāsi nakkhattāni ullokeyyāsi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -89,7 +89,7 @@
 
 **Moggallāna, you should look all around in all directions, and look up at the constellations.**
 
-8. [DN2.19](https://find.dhamma.gift/bw/dn/dn2.html) <br>so aparena samayena tamhā ābādhā mucceyya
+8. [DN2.19](https://s.dhamma.gift/dn/dn2/index.html) <br>so aparena samayena tamhā ābādhā mucceyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@
 
 **After some time, he could become free from that illness.**
 
-9. [VIN PAT PC 57](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu oren'addhamāsaṃ nahāyeyya, pācittiyaṃ
+9. [VIN PAT PC 57](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>yo pana bhikkhu oren'addhamāsaṃ nahāyeyya, pācittiyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -114,7 +114,7 @@
 
 **whichever monk should bathe sooner than a fortnight, that is an offence requiring confession**
 
-10. [VIN PAT PA 2](https://find.dhamma.gift/bw/vi/bu-pt.html#pr) <br>rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā
+10. [VIN PAT PA 2](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3) <br>rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -130,7 +130,7 @@
 
 **The king's men, having captured a thief, could punish or imprison or banish (him).**
 
-11. [DN10](https://find.dhamma.gift/bw/dn/dn10.html) <br>te tāvataken'eva attamanā assu
+11. [DN10](https://s.dhamma.gift/dn/dn10/index.html) <br>te tāvataken'eva attamanā assu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -141,7 +141,7 @@
 
 **With just this much they would be pleased.**
 
-12. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html)<br>evaṃrūpo siyaṃ anāgatamaddhānaṃ
+12. [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3)<br>evaṃrūpo siyaṃ anāgatamaddhānaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -151,7 +151,7 @@
 
 **May I be of such form in the future.**
 
-13. [MN10.16](https://find.dhamma.gift/bw/mn/mn10.html)<br>aho vata mayaṃ na maraṇadhammā assāma
+13. [MN10.16](https://s.dhamma.gift/mn/mn10/index.html)<br>aho vata mayaṃ na maraṇadhammā assāma
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -163,7 +163,7 @@
 
 **If only we could be not of the nature to die!**
 
-14. [SN8.11](https://find.dhamma.gift/bw/sn/sn8.11.html) (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi
+14. [SN8.11](https://s.dhamma.gift/sn/sn8/index.html#sn8.11) (simpl) <br>yaṃnūn'āhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -176,7 +176,7 @@
 
 **Maybe I should praise the Blessed One face-to-face with an appropriate verse.**
 
-15. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl)<br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya
+15. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl)<br>evaṃ no ayaṃ amhākaṃ pabbajjā avaṅkatā avañjhā bhaveyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@
 
 **In this way, indeed, our renunciation would not be sterile, would not be dishonest.**
 
-16. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat'ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ
+16. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl) <br>abhijjhaṃ loke pajaheyyuṃ vigat'ābhijjhena cetasā vihareyyuṃ; abhijjhāya cittaṃ parisodheyyuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -207,7 +207,7 @@
 
 **They would abandon covetousness with reference to the world, they would dwell with a mind free from covetousness, they would purify the mind from covetousness.**
 
-17. [DN16.36](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
+17. [DN16.36](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -224,7 +224,7 @@
 
 **And now there could be, Ananda, for you it would occur like this: "there is no teacher for us."**
 
-18. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ye kho tvaṃ dhamme jāneyyāsi
+18. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) <br>ye kho tvaṃ dhamme jāneyyāsi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -236,7 +236,7 @@
 
 **Indeed, whatever things you might know…**
 
-19. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>devatā bhagavantaṃ gāthāya ajjhabhāsi
+19. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>devatā bhagavantaṃ gāthāya ajjhabhāsi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -247,7 +247,7 @@
 
 **The deity addressed the Blessed One with a verse.**
 
-20. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ
+20. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>so tatonidānaṃ labheyya pāmojjaṃ, adhigaccheyya somanassaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -260,7 +260,7 @@
 
 **Because of that he would obtain gladness, he would experience pleasure.**
 
-21. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) <br>atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ.
+21. [MN131](https://s.dhamma.gift/mn/mn131/index.html) <br>atītaṃ n'ānvāgameyya, nappaṭikaṅkhe anāgataṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -271,7 +271,7 @@
 
 **He should not return to the past, he should not anticipate the future.**
 
-22. [SN22.80](https://find.dhamma.gift/bw/sn/sn22.80.html) <br>n'atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ.
+22. [SN22.80](https://s.dhamma.gift/sn/sn22/index.html#sn22.80) <br>n'atthi taṃ kiñci lokasmiṃ yaṃ ahaṃ upādiyamāno na vajjavā assaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -288,7 +288,7 @@
 
 **There is not anything in the world which I am grasping [and] would not be with faults [i.e. and would not be blameworthy].**
 
-23. [DN1.1](https://find.dhamma.gift/bw/dn/dn1.html) <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo.
+23. [DN1.1](https://s.dhamma.gift/dn/dn1/index.html) <br>ce tumhe assatha kupitā vā anattamanā vā, tumhaṃ tena antarāyo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -304,7 +304,7 @@
 
 **If you were to be angry or irritated, on that account [it would be] an obstacle for you all.**
 
-24. [SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html) <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ
+24. [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3) <br>idha, gahapati, ekaccassa evaṃ hoti, evaṃrūpo siyaṃ anāgatam'addhānaṃ, evaṃvedano siyaṃ anāgatam'addhānaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -320,7 +320,7 @@
 
 **In this regard, householder, it occurs to someone [lit: for a certain one there is thus]: "may I be of such form in the future, may I be having such feeling in the future.**
 
-25. [MN25](https://find.dhamma.gift/bw/mn/mn25.html) (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
+25. [MN25](https://s.dhamma.gift/mn/mn25/index.html) (simpl) <br>mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -335,7 +335,7 @@
 
 **"We could see the lair of a species of deer, where they would go [for] a hiding place."**
 
-26. [VIN PAT SA 3](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl)<br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya
+26. [VIN PAT SA 3](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) (simpl)<br>yo pana bhikkhu mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -347,7 +347,7 @@
 
 **If any monk should speak to a woman coarsely by means of obscene words…**
 
-27. [AN8.30](https://find.dhamma.gift/bw/an/an8.30.html) (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo
+27. [AN8.30](https://s.dhamma.gift/an/an8/index.html#an8.30) (simpl) <br>idha bhikkhuno pavivittassa viharato bhaveyyuṃ upasaṅkamitāro bhikkhū upāsakā upāsikāyo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -363,7 +363,7 @@
 
 **In this regard, for a monk dwelling secluded, there would be visitors - monks, male lay disciples, [and] female lay disciples.**
 
-28. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>yāva'd'eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya
+28. [MN2.4](https://s.dhamma.gift/mn/mn2/index.html) <br>yāva'd'eva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjhaparamatāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -378,7 +378,7 @@
 
 ## Class 7 Extra
 
-1. [MN104](https://find.dhamma.gift/bw/mn/mn104.html) <br>ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe n'ādhivāseyyātha?
+1. [MN104](https://s.dhamma.gift/mn/mn104/index.html) <br>ime ce tumhe cha sāraṇīye dhamme samādāya vatteyyātha, passatha no tumhe taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe n'ādhivāseyyātha?
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -405,7 +405,7 @@
 
 **If you could practice undertaking these six cordial things, do you see any way of saying things (i.e. mode of expression), gross or subtle, which you could not tolerate?**
 
-2. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: "kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?" iti
+2. [AN7.23](https://s.dhamma.gift/an/an7/index.html#an7.23) <br>bhikkhave, bhikkhū paccattaṃ satiṃ upaṭṭhāpessanti: "kin'ti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyuṃ?" iti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -430,7 +430,7 @@
 
 **Bhikkhus, the monks will establish mindfulness individually [with the intention]: "How then well-behaved fellow monks [who] have not come could come and (how) well-behaved monks [who] have come could dwell at ease?"**
 
-3. [VIN PAT PC 49](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya
+3. [VIN PAT PC 49](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>siyā ca tassa bhikkhuno koci'd'eva paccayo senaṃ gamanāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -445,7 +445,7 @@
 
 **And if there might be some or other reason for that monk for going to see an army…**
 
-4. [UD69](https://find.dhamma.gift/bw/ud/ud7.9.html) <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care?
+4. [UD69](https://s.dhamma.gift/kn/ud/index.html#ud7.9) <br>kiṃ kareyya udapānena, āpā ce sabbadā siyuṃ,<br>taṇhāya mūlato chetvā, kissa pariyesanaṃ care?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -465,7 +465,7 @@
 
 **What one could do with a well, if there always would be water?; Having cut off the craving from the source, why would he go about searching?**
 
-5. [MN26](https://find.dhamma.gift/bw/mn/mn26.html) <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti.
+5. [MN26](https://s.dhamma.gift/mn/mn26/index.html) <br>desetu, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ. santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

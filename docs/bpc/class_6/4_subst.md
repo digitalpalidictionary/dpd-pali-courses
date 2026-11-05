@@ -36,21 +36,21 @@ bandh**u** + **mant** \> bandhumant (one with relatives)
 
 When a substantive stands alone it **can** function as a noun.
 
-[SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html) sā devatā **bhagavantaṃ** etad’avoca
+[SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) sā devatā **bhagavantaṃ** etad’avoca
 
 That deity said this to the **Fortunate One**.
 
-[DN3.15](https://find.dhamma.gift/bw/dn/dn3.html) **cakkhumanto** rūpāni dakkhanti.
+[DN3.15](https://s.dhamma.gift/dn/dn3/index.html) **cakkhumanto** rūpāni dakkhanti.
 
 **People with eyesight** see forms.
 
 A substantive can also be used as an adjective. When it stands together with another noun, it **can** function as an adjective.
 
-[MN152](https://find.dhamma.gift/bw/mn/mn152.html) seyyathāpi **balavā** **puriso** samiñjitaṃ vā bāhaṃ pasāreyya
+[MN152](https://s.dhamma.gift/mn/mn152/index.html) seyyathāpi **balavā** **puriso** samiñjitaṃ vā bāhaṃ pasāreyya
 
 Just like a **strong man** would stretch out his bent arm or …
 
-[AN2.40](https://find.dhamma.gift/bw/an/an2.40.html) yasmiṃ, bhikkhave, samaye **corā balavanto** honti …
+[AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40) yasmiṃ, bhikkhave, samaye **corā balavanto** honti …
 
 At which time, monks, the **thieves** are **powerful** …
 

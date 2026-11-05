@@ -32,6 +32,6 @@ Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **p
 
 A practical example of the present attanopada:
 
-pecca so na labha**te** sukhaṃ ([DHP131](https://find.dhamma.gift/bw/dhp/dhp129-145.html))
+pecca so na labha**te** sukhaṃ ([DHP131](https://s.dhamma.gift/kn/dhp/index.html#dhp129))
 
 after death, he does not **get** happiness (see the Three Voices page for discussion)

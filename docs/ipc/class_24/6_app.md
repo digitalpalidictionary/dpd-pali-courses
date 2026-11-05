@@ -57,7 +57,7 @@ pattern.
 
 Please translate and highlight the syntax of the following:
 
-[SN3.13](https://find.dhamma.gift/bw/sn/sn3.13.html) doṇapākasuttaṃ
+[SN3.13](https://s.dhamma.gift/sn/sn3/index.html#sn3.13) doṇapākasuttaṃ
 
 tena kho pana samayena rājā pasenadi kosalo doṇapākaṃ sudaṃ bhuñjati.
 

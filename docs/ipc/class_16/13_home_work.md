@@ -12,7 +12,7 @@
 
 2\. Do a full grammatical analysis, breaking up all sandhis. Please translate every sentence. For example:
 
-[AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
+[AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57) **nāhaṃ** bhabbo etarahi kāmāni paṭisevituṃ.
 
 | | | | |
 | --- | --- | --- | --- |

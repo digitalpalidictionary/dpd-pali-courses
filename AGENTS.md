@@ -37,6 +37,9 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 ## Key Verification
 - Before any commit touching `docs/bpc_key/`, `docs/bpc_ex/`, `docs/ipc_key/` or `docs/ipc_ex/`, run `uv run python scripts/verify_key.py`; it must exit 0. `--dpd` is optional, local-only and advisory.
 
+## Sutta Links
+- Every sutta/Vinaya reference must use `https://s.dhamma.gift/...`; the old `find.dhamma.gift/bw/` host is dead (GitHub #9). Never hand-write a URL shape — the mapping rules (mn/dn page-per-sutta, sn/an `#<id>`, `/kn/...` for snp/ud/kp/dhp/thag/thig/iti, and the Vinaya renames sn→ss, an→as, `bu-pt` → `pm3..pm9`) live in `kamma/tech.md` → Sutta links and in `scripts/rewrite_sutta_links.py`. Re-verify with `uv run python scripts/check_sutta_links.py` (network; cached in `temp/`).
+
 ## Useful Links
 - [GitHub Project](https://github.com/orgs/digitalpalidictionary/projects/2)
 

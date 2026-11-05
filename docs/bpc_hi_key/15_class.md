@@ -4,7 +4,7 @@
 
 **Please do a word-by-word grammatical analysis and translation of the following paragraphs.**
 
-1\. [AN5.29](https://find.dhamma.gift/bw/an/an5.29.html) caṅkama-suttaṃ (paragraph 29)
+1\. [AN5.29](https://s.dhamma.gift/an/an5/index.html#an5.29) caṅkama-suttaṃ (paragraph 29)
 
 **"pañcime (pañca + ime), bhikkhave, caṅkame ānisaṃsā. katame pañca? addhānakkhamo (addhānassa + khamo) hoti, padhānakkhamo (padhānassa + khamo) hoti, appābādho (appo + ābādho) hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato (caṅkamena + adhigato) samādhi ciraṭṭhitiko hoti. ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.**
 
@@ -90,7 +90,7 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā"ti.
 
 **Monks, these [are], indeed, the five benefits of walking meditation."**
 
-2\. [AN3.4](https://find.dhamma.gift/bw/an/an3.4.html) accaya-suttaṃ (paragraph 4)
+2\. [AN3.4](https://s.dhamma.gift/an/an3/index.html#an3.4) accaya-suttaṃ (paragraph 4)
 
 **"tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti (na + paṭikaroti), parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti (na + paṭiggaṇhāti). imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.**
 
@@ -161,7 +161,7 @@ imehi kho, bhikkhave, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 
 **Certainly, monks, one possessing these three qualities should be known as a fool.**
 
-3\. [AN5.198](https://find.dhamma.gift/bw/an/an5.198.html) vācā-suttaṃ (paragraph 198)
+3\. [AN5.198](https://s.dhamma.gift/an/an5/index.html#an5.198) vācā-suttaṃ (paragraph 198)
 
 "pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ. katamehi pañcahi? kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti. imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan"ti.
 
@@ -246,7 +246,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 
 **Indeed, monks, speech endowed with these five qualities is well-spoken and not ill-spoken; it is unblameable and not censurable by wise people.**
 
-4\. [SN12.15](https://find.dhamma.gift/bw/sn/sn12.15.html) kaccānagotta-suttaṃ
+4\. [SN12.15](https://s.dhamma.gift/sn/sn12/index.html#sn12.15) kaccānagotta-suttaṃ
 
 "‘sammādiṭṭhi sammādiṭṭhī'ti, bhante, vuccati. kittāvatā nu kho, bhante, sammādiṭṭhi hotī"ti?
 

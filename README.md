@@ -138,6 +138,12 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 - **`clean_dead_links.py`**: Finds and removes dead links in Markdown files. Specifically targets list items in index files that link to removed `.md` files.
   - Usage: `uv run python scripts/clean_dead_links.py`
 
+- **`rewrite_sutta_links.py`**: Rewrites old `find.dhamma.gift/bw/...` sutta and Vinaya links in `docs/` to their `s.dhamma.gift` equivalents (link target only; link text untouched). Dry run by default; any old URL with no mapping is reported and exits 1.
+  - Usage: `uv run python scripts/rewrite_sutta_links.py [--write]`
+
+- **`check_sutta_links.py`**: Checks every `s.dhamma.gift` link in `docs/` against the live site: HTTP 200 and, for links with a `#anchor`, that the id exists on the page. Page ids are cached in `temp/sutta_link_ids/` (`--refresh` to refetch). Exits 1 on any failure.
+  - Usage: `uv run python scripts/check_sutta_links.py [PATH ...] [--refresh]`
+
 - **`fix_heading_hierarchy.py`**: Normalizes heading levels across all Markdown files. Converts bolded top lines to H1 headings and ensures no heading levels are skipped (e.g., `#` to `###` becomes `#` to `##`).
   - Usage: `uv run python scripts/fix_heading_hierarchy.py`
 

@@ -74,7 +74,7 @@ what part of speech is **paṃsukūlaṃ**?
 
 sobhati **paṃsukūlena**,
 
-sīho’va giri-gabbhare. ([TH261](https://find.dhamma.gift/bw/tha/tha18.html))
+sīho’va giri-gabbhare. ([TH261](https://s.dhamma.gift/kn/thag/index.html#thag18.1))
 
 how would you translate this?
 
@@ -232,27 +232,27 @@ pahūtā + paññā \> pahūtapañño
 
 (a person) who is rich in wisdom
 
-tvaṁ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://find.dhamma.gift/bw/an/an8.14.html))
+tvaṁ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://s.dhamma.gift/an/an8/index.html#an8.14))
 
 You have committed an offence **of such-and-such name**.
 
-ariyasāvako **sammāsamādhi** hoti ([AN4.196](https://find.dhamma.gift/bw/an/an4.196.html))
+ariyasāvako **sammāsamādhi** hoti ([AN4.196](https://s.dhamma.gift/an/an4/index.html#an4.196))
 
 A noble disciple is **one of right stability of mind**.
 
-… mahesiṃ **khīṇāsavaṃ** **kukkuccavūpasantaṃ** ([SNP4](https://find.dhamma.gift/bw/snp/snp1.4.html))
+… mahesiṃ **khīṇāsavaṃ** **kukkuccavūpasantaṃ** ([SNP4](https://s.dhamma.gift/kn/snp/index.html#snp1.4))
 
 … the great sage, **whose effluents are destroyed**, **whose remorse is stilled**.
 
-dinnaṃ hoti **mahapphalaṃ** ([DHP356](https://find.dhamma.gift/bw/dhp/dhp334-359.html))
+dinnaṃ hoti **mahapphalaṃ** ([DHP356](https://s.dhamma.gift/kn/dhp/index.html#dhp334))
 
 What is given (to them) **bears great fruit**.
 
-ahaṃ **evaṃvādī** **evaṃdiṭṭhī** ([AN4.183](https://find.dhamma.gift/bw/an/an4.183.html))
+ahaṃ **evaṃvādī** **evaṃdiṭṭhī** ([AN4.183](https://s.dhamma.gift/an/an4/index.html#an4.183))
 
 I am **one who speaks thus**, **one whose view is thus**.
 
-rūpaṃ tathāgatassa pahīnaṃ **ucchinnamūlaṃ** ([MN72](https://find.dhamma.gift/bw/mn/mn72.html))
+rūpaṃ tathāgatassa pahīnaṃ **ucchinnamūlaṃ** ([MN72](https://s.dhamma.gift/mn/mn72/index.html))
 
 Form is abandoned by the Realised One, **its root cut off**.
 

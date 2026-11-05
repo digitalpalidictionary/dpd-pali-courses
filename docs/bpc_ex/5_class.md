@@ -1,6 +1,6 @@
 # Class 5 Exercises
 
-1. [SN22.33](https://find.dhamma.gift/bw/sn/sn22.33.html) <br>viññāṇaṃ, bhikkhave, **na** (hoti) **tumhākaṃ**, taṃ pajahatha.
+1. [SN22.33](https://s.dhamma.gift/sn/sn22/index.html#sn22.33) <br>viññāṇaṃ, bhikkhave, **na** (hoti) **tumhākaṃ**, taṃ pajahatha.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | pajahatha | | | | |
 | |
 
-2. [SN22.33](https://find.dhamma.gift/bw/sn/sn22.33.html) <br>taṃ **vo** pahīnaṃ hitāya sukhāya **bhavissati**
+2. [SN22.33](https://s.dhamma.gift/sn/sn22/index.html#sn22.33) <br>taṃ **vo** pahīnaṃ hitāya sukhāya **bhavissati**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@
 | bhavissati | | | | |
 | |
 
-3. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>parisuddho **no** ājīvo **bhavissati**
+3. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>parisuddho **no** ājīvo **bhavissati**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@
 | bhavissati | | | | |
 | |
 
-4. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) (simpl) <br>**ahaṃ** yathākammaṃ **gamissāmi**
+4. [MN82](https://s.dhamma.gift/mn/mn82/index.html) (simpl) <br>**ahaṃ** yathākammaṃ **gamissāmi**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@
 | dassāmi | | | | |
 | |
 
-6. [MN2.4](https://find.dhamma.gift/bw/mn/mn2.html) <br>**n’eva** davāya, **na** madāya, **na** maṇḍanāya, **na** vibhūsanāya
+6. [MN2.4](https://s.dhamma.gift/mn/mn2/index.html) <br>**n’eva** davāya, **na** madāya, **na** maṇḍanāya, **na** vibhūsanāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@
 | vibhūsanāya | | | | |
 | |
 
-7. [DN16.32](https://find.dhamma.gift/bw/dn/dn16.html) <br>alaṃ ānanda **mā** soci **mā** paridevi
+7. [DN16.32](https://s.dhamma.gift/dn/dn16/index.html) <br>alaṃ ānanda **mā** soci **mā** paridevi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@
 | paridevi | | | | |
 | |
 
-8. [AN3.21](https://find.dhamma.gift/bw/an/an3.21.html) <br>upasaṅkamitvā āyasmatā **sāriputtena** **saddhiṃ** sammodiṃsu
+8. [AN3.21](https://s.dhamma.gift/an/an3/index.html#an3.21) <br>upasaṅkamitvā āyasmatā **sāriputtena** **saddhiṃ** sammodiṃsu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@
 | sammodiṃsu | | | | |
 | |
 
-9. [TH195](https://find.dhamma.gift/bw/tha/tha4.html) <br>adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
+9. [TH195](https://s.dhamma.gift/kn/thag/index.html#thag4.1) <br>adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@
 | suggatiṃ | noun | fem.acc.sg | | |
 | |
 
-10. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) (simpl) <br>pītiṃ paṭisaṃvedī assasissāmi iti sikkhati.
+10. [MN118](https://s.dhamma.gift/mn/mn118/index.html) (simpl) <br>pītiṃ paṭisaṃvedī assasissāmi iti sikkhati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@
 | sikkhati | | | | |
 | |
 
-11. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) (simpl)<br>aniccaṃ anupassī passasissāmi iti sikkhati
+11. [MN118](https://s.dhamma.gift/mn/mn118/index.html) (simpl)<br>aniccaṃ anupassī passasissāmi iti sikkhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@
 | passasissāmi | | | | |
 | |
 
-12. [MN48](https://find.dhamma.gift/bw/mn/mn48.html) (simpl) <br>bhikkhu sabrahmacārīhi saddhiṃ bhogī hoti
+12. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl) <br>bhikkhu sabrahmacārīhi saddhiṃ bhogī hoti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -135,7 +135,7 @@
 | hoti | | | | |
 | |
 
-13. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) <br>bhikkhū uppannāya taṇhāya na vasaṃ gacchissanti
+13. [AN7.23](https://s.dhamma.gift/an/an7/index.html#an7.23) <br>bhikkhū uppannāya taṇhāya na vasaṃ gacchissanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -147,7 +147,7 @@
 | gacchissanti | | | | |
 | |
 
-14. [AN7.25](https://find.dhamma.gift/bw/an/an7.25.html) <br>bhikkhū ottappino bhavissanti
+14. [AN7.25](https://s.dhamma.gift/an/an7/index.html#an7.25) <br>bhikkhū ottappino bhavissanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -156,7 +156,7 @@
 | bhavissanti | | | | |
 | |
 
-15. [DN16.36](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>vo mayā dhammo ca vinayo ca desito vo mama accayena satthā bhavissati
+15. [DN16.36](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>vo mayā dhammo ca vinayo ca desito vo mama accayena satthā bhavissati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -174,7 +174,7 @@
 | bhavissati | | | | |
 | |
 
-16. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
+16. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -189,7 +189,7 @@
 | ahosi | | | | |
 | |
 
-17. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>evaṃ me saṅkhārā hontu! evaṃ me saṅkhārā mā ahesuṃ!
+17. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>evaṃ me saṅkhārā hontu! evaṃ me saṅkhārā mā ahesuṃ!
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -204,7 +204,7 @@
 | ahesuṃ | | | | |
 | |
 
-18. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html) <br>ekaṃ samayaṃ bhagavā gayāyaṃ viharati gayāsīse saddhiṃ bhikkhusahassena.
+18. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28) <br>ekaṃ samayaṃ bhagavā gayāyaṃ viharati gayāsīse saddhiṃ bhikkhusahassena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -218,7 +218,7 @@
 | bhikkhusahassena | noun | nt. | | |
 | |
 
-19. [SN56.35](https://find.dhamma.gift/bw/sn/sn56.35.html) (simpl) <br>ahaṃ saha eva sukhena, saha eva somanassena catunnaṃ ariyasaccānaṃ abhisamayaṃ vadāmi.
+19. [SN56.35](https://s.dhamma.gift/sn/sn56/index.html#sn56.35) (simpl) <br>ahaṃ saha eva sukhena, saha eva somanassena catunnaṃ ariyasaccānaṃ abhisamayaṃ vadāmi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -235,7 +235,7 @@
 | vadāmi | | | | |
 | |
 
-20. [AN10.93](https://find.dhamma.gift/bw/an/an10.93.html) <br>anāthapiṇḍiko gahapati yāvatako ahosi paribbājakehi saddhiṃ kathāsallāpo, taṃ sabbaṃ bhagavato ārocesi.
+20. [AN10.93](https://s.dhamma.gift/an/an10/index.html#an10.93) <br>anāthapiṇḍiko gahapati yāvatako ahosi paribbājakehi saddhiṃ kathāsallāpo, taṃ sabbaṃ bhagavato ārocesi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -252,7 +252,7 @@
 | ārocesi | | | | |
 | |
 
-21. [VIN5.1.1](https://find.dhamma.gift/bw/vi/kd.html) <br>mā kho tumhe eso ajesi.
+21. [VIN5.1.1](https://s.dhamma.gift/vin/tv/pli-tv-kd11/index.html) <br>mā kho tumhe eso ajesi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -263,7 +263,7 @@
 | ajesi | | | | |
 | |
 
-22. [SN42.2](https://find.dhamma.gift/bw/sn/sn42.2.html) (simpl) <br>“alaṃ, gāmaṇi. mā maṃ etaṃ pucchi
+22. [SN42.2](https://s.dhamma.gift/sn/sn42/index.html#sn42.2) (simpl) <br>“alaṃ, gāmaṇi. mā maṃ etaṃ pucchi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -275,7 +275,7 @@
 | pucchi | | | | |
 | |
 
-23. [AN6.61](https://find.dhamma.gift/bw/an/an6.61.html) <br>yathā no bhagavā byākarissati, tathā naṃ mayaṃ dhāressāma
+23. [AN6.61](https://s.dhamma.gift/an/an6/index.html#an6.61) <br>yathā no bhagavā byākarissati, tathā naṃ mayaṃ dhāressāma
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -289,7 +289,7 @@
 | dhāressāma | | | | |
 | |
 
-24. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) (simpl) <br>kārā amhesu mahapphalā bhavissanti
+24. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl) <br>kārā amhesu mahapphalā bhavissanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -299,7 +299,7 @@
 | bhavissanti | | | | |
 | |
 
-25. [KHP7](https://find.dhamma.gift/bw/kp/kp7.html) <br>idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.
+25. [KHP7](https://s.dhamma.gift/kn/kp/index.html#kp7) <br>idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -312,7 +312,7 @@
 | ñātayo | | | | |
 | |
 
-26. [MN39](https://find.dhamma.gift/bw/mn/mn39.html)<br>parisuddho no kāyasamācāro bhavissati.
+26. [MN39](https://s.dhamma.gift/mn/mn39/index.html)<br>parisuddho no kāyasamācāro bhavissati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -322,7 +322,7 @@
 | bhavissati | | | | |
 | |
 
-27. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html)<br>na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmi
+27. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61)<br>na uccāsoṇḍaṃ paggahetvā kulāni upasaṅkamissāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -333,7 +333,7 @@
 | upasaṅkamissāmi | | | | |
 | |
 
-28. [VIN PAT PC 10](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) (simpl) <br>bhikkhu paṭhaviṃ na khaṇati
+28. [VIN PAT PC 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) (simpl) <br>bhikkhu paṭhaviṃ na khaṇati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -343,7 +343,7 @@
 | khaṇati | | | | |
 | |
 
-29. [DN16.27](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
+29. [DN16.27](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -353,7 +353,7 @@
 | okiranti | | | | |
 | |
 
-30. [DN14.13](https://find.dhamma.gift/bw/dn/dn14.html) (simpl) <br>bhagavā migadāye pāturahosi
+30. [DN14.13](https://s.dhamma.gift/dn/dn14/index.html) (simpl) <br>bhagavā migadāye pāturahosi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -362,7 +362,7 @@
 | pāturahosi | | | | |
 | |
 
-31. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html)<br>asurā mahāsamudde abhiramanti.
+31. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5)<br>asurā mahāsamudde abhiramanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -371,7 +371,7 @@
 | abhiramanti | | | | |
 | |
 
-32. [MN51](https://find.dhamma.gift/bw/mn/mn51.html) (simpl) <br>pakkhī sakuṇo ḍeti.
+32. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl) <br>pakkhī sakuṇo ḍeti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -380,7 +380,7 @@
 | ḍeti | | | | |
 | |
 
-33. [VIN1.2.6](https://find.dhamma.gift/bw/vi/bu-vb-sn6.html)<br>bhikkhu saṅghaṃ kuṭivatthussa olokanaṃ yācati
+33. [VIN1.2.6](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss6)<br>bhikkhu saṅghaṃ kuṭivatthussa olokanaṃ yācati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -391,7 +391,7 @@
 | yācati | | | | |
 | |
 
-34. [MN43](https://find.dhamma.gift/bw/mn/mn43.html)<br>so āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi.
+34. [MN43](https://s.dhamma.gift/mn/mn43/index.html)<br>so āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -403,7 +403,7 @@
 | apucchi | | | | |
 | |
 
-35. [AN8.53](https://find.dhamma.gift/bw/an/an8.53.html) <br>ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.
+35. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) <br>ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -415,7 +415,7 @@
 | visaṃyogāya | | | | |
 | |
 
-36. [MN74](https://find.dhamma.gift/bw/mn/mn74.html) <br>n'eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkham’asukhaṃ vedanaṃ vedeti
+36. [MN74](https://s.dhamma.gift/mn/mn74/index.html) <br>n'eva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkham’asukhaṃ vedanaṃ vedeti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -431,7 +431,7 @@
 | vedeti | | | | |
 | |
 
-37. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) <br>āyasmā raṭṭhapālo n'eva dānaṃ alattha na paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha!
+37. [MN82](https://s.dhamma.gift/mn/mn82/index.html) <br>āyasmā raṭṭhapālo n'eva dānaṃ alattha na paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha!
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -448,7 +448,7 @@
 | alattha | | | | |
 | |
 
-38. [SN10.5](https://find.dhamma.gift/bw/sn/sn10.5.html)<br>mā akāsi pāpakaṃ kammaṃ
+38. [SN10.5](https://s.dhamma.gift/sn/sn10/index.html#sn10.5)<br>mā akāsi pāpakaṃ kammaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -458,7 +458,7 @@
 | kammaṃ | | | | |
 | |
 
-39. [SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html)<br>kiṃ nu kujjhasi? mā kujjhi!
+39. [SN21.9](https://s.dhamma.gift/sn/sn21/index.html#sn21.9)<br>kiṃ nu kujjhasi? mā kujjhi!
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -468,7 +468,7 @@
 | kujjhi | | | | |
 | |
 
-40. [MN82](https://find.dhamma.gift/bw/mn/mn82.html) <br>aṭṭhi tacena onaddhaṃ,<br>saha vatthehi sobhati.
+40. [MN82](https://s.dhamma.gift/mn/mn82/index.html) <br>aṭṭhi tacena onaddhaṃ,<br>saha vatthehi sobhati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -482,7 +482,7 @@
 
 ## Class 5 Extra
 
-1. [DHP223](https://find.dhamma.gift/bw/dhp/dhp221-234.html) (simpl) <br>jina kadariyaṃ dānena, jina saccena alikavādinaṃ.
+1. [DHP223](https://s.dhamma.gift/kn/dhp/index.html#dhp221) (simpl) <br>jina kadariyaṃ dānena, jina saccena alikavādinaṃ.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -494,7 +494,7 @@
 | alikavādinaṃ | | | | |
 | |
 
-2. [TH251](https://find.dhamma.gift/bw/tha/tha16.html) (simpl) <br>alaṃ bālassa mohāya no pāraṃ gavesino
+2. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl) <br>alaṃ bālassa mohāya no pāraṃ gavesino
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -506,7 +506,7 @@
 | gavesino | | | | |
 | |
 
-3. [MN19](https://find.dhamma.gift/bw/mn/mn19.html) (simpl) <br>jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
+3. [MN19](https://s.dhamma.gift/mn/mn19/index.html) (simpl) <br>jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -525,7 +525,7 @@
 | anusāsanī | noun | fem.nom.sg | | |
 | |
 
-4. [SNP31](https://find.dhamma.gift/bw/snp/snp3.5.html) (simpl) <br>tuvaṃ hi no brahmasamo asi saccaṃ
+4. [SNP31](https://s.dhamma.gift/kn/snp/index.html#snp3.5) (simpl) <br>tuvaṃ hi no brahmasamo asi saccaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -537,7 +537,7 @@
 | saccaṃ | ind | adv | | |
 | |
 
-5. [VIN PAT PC 42](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
+5. [VIN PAT PC 42](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -553,7 +553,7 @@
 | hoti | | | | |
 | |
 
-6. [SNP70](https://find.dhamma.gift/bw/snp/snp5.16.html) (simpl) <br>te diṭṭhiṃ n'ābhijānāmi, gotamassa yasassino.
+6. [SNP70](https://s.dhamma.gift/kn/snp/index.html#snp5.16) (simpl) <br>te diṭṭhiṃ n'ābhijānāmi, gotamassa yasassino.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -564,7 +564,7 @@
 | yasassino | adj | | | |
 | |
 
-7. [SN40.1](https://find.dhamma.gift/bw/sn/sn40.1.html) (simpl) <br>mā, brāhmaṇa, jhānaṃ pamādo, jhāne cittaṃ saṇṭhapehi, jhāne cittaṃ ekodiṃ karohi
+7. [SN40.1](https://s.dhamma.gift/sn/sn40/index.html#sn40.1) (simpl) <br>mā, brāhmaṇa, jhānaṃ pamādo, jhāne cittaṃ saṇṭhapehi, jhāne cittaṃ ekodiṃ karohi
 
 | | | | | |
 | --- | --- | --- | --- | --- |

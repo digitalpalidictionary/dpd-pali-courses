@@ -1,6 +1,6 @@
 # Class 4 Exercises
 
-1. [DHP026](https://find.dhamma.gift/bw/dhp/dhp21-32.html) (simpl) <br>bālā pamādaṃ **anuyuñjanti**
+1. [DHP026](https://s.dhamma.gift/kn/dhp/index.html#dhp21) (simpl) <br>bālā pamādaṃ **anuyuñjanti**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 
 **√yuj 2 ṃa (yoke, join) ; √yuj + ṃa \> yuñja ; anu + yuñja + nti**
 
-2. [AN3.66](https://find.dhamma.gift/bw/an/an3.65.html) (simpl)<br>sugatiṃ saggaṃ lokaṃ **upapajjāmi**
+2. [AN3.66](https://s.dhamma.gift/an/an3/index.html#an3.65) (simpl)<br>sugatiṃ saggaṃ lokaṃ **upapajjāmi**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 
 **√pad 3 ya (go, step) ; √pad + ya \> pajja ; upa + pajja + mi**
 
-3. [AN3.70](https://find.dhamma.gift/bw/an/an3.69.html) (simpl)<br>kāyena kusalaṃ **abhisaṅkharoti**.
+3. [AN3.70](https://s.dhamma.gift/an/an3/index.html#an3.69) (simpl)<br>kāyena kusalaṃ **abhisaṅkharoti**.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@
 
 **√kar 7 o (do, make) ; √kar + o \> karo \> kharo ; abhi + saṃ + kharo + ti**
 
-4. [DN22.5](https://find.dhamma.gift/bw/dn/dn22.html) <br>ime **sālī** ime **vīhī** ime muggā ime māsā ime tilā ime taṇḍulā (honti)
+4. [DN22.5](https://s.dhamma.gift/dn/dn22/index.html) <br>ime **sālī** ime **vīhī** ime muggā ime māsā ime tilā ime taṇḍulā (honti)
 
 | | | | |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@
 | (honti) | | | |
 | |
 
-5. [UD45](https://find.dhamma.gift/bw/ud/ud5.5.html) <br>atha kho bhagavā bhikkhū **āmantesi**
+5. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>atha kho bhagavā bhikkhū **āmantesi**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@
 | āmantesi | | | |
 | |
 
-6. [SN21.9](https://find.dhamma.gift/bw/sn/sn21.9.html) (simpl) <br>atha kho āyasmā tisso **upasaṅkami**, ekam’antaṃ **nisīdi**.
+6. [SN21.9](https://s.dhamma.gift/sn/sn21/index.html#sn21.9) (simpl) <br>atha kho āyasmā tisso **upasaṅkami**, ekam’antaṃ **nisīdi**.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@
 | nisīdi | | | |
 | |
 
-7. [SN35.121](https://find.dhamma.gift/bw/sn/sn35.121.html) <br>āyasmā rāhulo bhagavato bhāsitaṃ **abhinandi**
+7. [SN35.121](https://s.dhamma.gift/sn/sn35/index.html#sn35.121) <br>āyasmā rāhulo bhagavato bhāsitaṃ **abhinandi**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -86,7 +86,7 @@
 | abhinandi | | | |
 | |
 
-8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>ahaṃ sakamhā gāmā amuṃ gāmaṃ **agacchiṃ**
+8. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl) <br>ahaṃ sakamhā gāmā amuṃ gāmaṃ **agacchiṃ**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@
 | agacchiṃ | | | |
 | |
 
-9. [AN5.57](https://find.dhamma.gift/bw/an/an5.57.html) <br>byādhi-dhammo **amhi[^7]**
+9. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57) <br>byādhi-dhammo **amhi[^7]**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -107,7 +107,7 @@
 | amhi | | | |
 | |
 
-10. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>“samaṇā amha” iti[^8] paṭijānātha
+10. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>“samaṇā amha” iti[^8] paṭijānātha
 
 | | | | |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@
 | paṭijānātha | | | |
 | |
 
-11. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>tatra evaṃ **aṭṭhāsiṃ,** evaṃ **nisīdiṃ,** evaṃ **abhāsiṃ,** evaṃ tuṇhī **ahosiṃ**
+11. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl) <br>tatra evaṃ **aṭṭhāsiṃ,** evaṃ **nisīdiṃ,** evaṃ **abhāsiṃ,** evaṃ tuṇhī **ahosiṃ**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -133,7 +133,7 @@
 | ahosiṃ | | | |
 | |
 
-12. [SN2.8](https://find.dhamma.gift/bw/sn/sn2.8.html) (simpl) <br>chinda sotaṃ parakkama, kāme panūda brāhmaṇa
+12. [SN2.8](https://s.dhamma.gift/sn/sn2/index.html#sn2.8) (simpl) <br>chinda sotaṃ parakkama, kāme panūda brāhmaṇa
 
 | | | | |
 | --- | --- | --- | --- |
@@ -145,7 +145,7 @@
 | brāhmaṇa | | | |
 | |
 
-13. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html) <br>paññā udapādi vijjā udapādi āloko udapādi
+13. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11) <br>paññā udapādi vijjā udapādi āloko udapādi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -157,7 +157,7 @@
 | udapādi | | | |
 | |
 
-14. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) (simpl) <br>evaṃ me saṅkhārā hontu
+14. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) (simpl) <br>evaṃ me saṅkhārā hontu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -167,7 +167,7 @@
 | hontu | | | |
 | |
 
-15. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>bhikkhū bhagavato bhāsitaṃ abhinanduṃ
+15. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>bhikkhū bhagavato bhāsitaṃ abhinanduṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -177,7 +177,7 @@
 | abhinanduṃ | | | |
 | |
 
-16. [SN12.2](https://find.dhamma.gift/bw/sn/sn12.2.html) (simpl) <br>dukkhassa khandhassa samudayo hoti
+16. [SN12.2](https://s.dhamma.gift/sn/sn12/index.html#sn12.2) (simpl) <br>dukkhassa khandhassa samudayo hoti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -187,7 +187,7 @@
 | hoti | | | |
 | |
 
-17. [DHP153](https://find.dhamma.gift/bw/dhp/dhp146-156.html) (simpl) <br>gahassa kāraka, diṭṭho asi
+17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl) <br>gahassa kāraka, diṭṭho asi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -197,7 +197,7 @@
 | asi | | | |
 | |
 
-18. [MN10](https://find.dhamma.gift/bw/mn/mn10.html) (simpl) <br>atthi kāyo'ti sati hoti.
+18. [MN10](https://s.dhamma.gift/mn/mn10/index.html) (simpl) <br>atthi kāyo'ti sati hoti.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -208,7 +208,7 @@
 | hoti | | | |
 | |
 
-19. [VIN2.5.1.2](https://find.dhamma.gift/bw/vi/bu-vb-pc2.html) <br>santi idha ekacce khattiyā ca brāhmaṇā iti bhaṇati
+19. [VIN2.5.1.2](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pc/index.html#pli-tv-bu-vb-pc2) <br>santi idha ekacce khattiyā ca brāhmaṇā iti bhaṇati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -222,7 +222,7 @@
 | bhaṇati | | | |
 | |
 
-20. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) (simpl) <br>me āsi kāye balaṃ
+20. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl) <br>me āsi kāye balaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -232,7 +232,7 @@
 | balaṃ | noun | nt.nom.sg | |
 | |
 
-21. [AN4.48](https://find.dhamma.gift/bw/an/an4.48.html) (simpl) <br>paggaṇhahi isīnaṃ dhajaṃ
+21. [AN4.48](https://s.dhamma.gift/an/an4/index.html#an4.48) (simpl) <br>paggaṇhahi isīnaṃ dhajaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -241,7 +241,7 @@
 | dhajaṃ | | | |
 | |
 
-22. [SN46.53](https://find.dhamma.gift/bw/sn/sn46.53.html) (simpl) <br>bhikkhū paribbājakehi sammodiṃsu
+22. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) (simpl) <br>bhikkhū paribbājakehi sammodiṃsu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -250,7 +250,7 @@
 | sammodiṃsu | | | |
 | |
 
-23. [MN95](https://find.dhamma.gift/bw/mn/mn95.html) (simpl) <br>saccaṃ mayaṃ bhavantaṃ gotamaṃ apucchimha, saccaṃ bhavaṃ gotamo byākāsi
+23. [MN95](https://s.dhamma.gift/mn/mn95/index.html) (simpl) <br>saccaṃ mayaṃ bhavantaṃ gotamaṃ apucchimha, saccaṃ bhavaṃ gotamo byākāsi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -265,7 +265,7 @@
 | byākāsi | | | |
 | |
 
-24. [SN22.59](https://find.dhamma.gift/bw/sn/sn22.59.html) <br>bhikkhū bhagavato paccassosuṃ
+24. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>bhikkhū bhagavato paccassosuṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -274,7 +274,7 @@
 | paccassosuṃ | | | |
 | |
 
-25. [AN3.156](https://find.dhamma.gift/bw/an/an3.155.html) <br>arogā sukhitā hotha
+25. [AN3.156](https://s.dhamma.gift/an/an3/index.html#an3.155) <br>arogā sukhitā hotha
 
 | | | | |
 | --- | --- | --- | --- |
@@ -283,7 +283,7 @@
 | hotha | | | |
 | |
 
-26. [MN86](https://find.dhamma.gift/bw/mn/mn86.html) <br>coro ahaṃ pure āsiṃ, aṅgulimālo vissuto … buddhaṃ saraṇaṃ āgamiṃ.
+26. [MN86](https://s.dhamma.gift/mn/mn86/index.html) <br>coro ahaṃ pure āsiṃ, aṅgulimālo vissuto … buddhaṃ saraṇaṃ āgamiṃ.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -298,7 +298,7 @@
 | āgamiṃ | | | |
 | |
 
-27. [AN5.28](https://find.dhamma.gift/bw/an/an5.28.html) (simpl) <br>ariyassa samādhissa bhāvanaṃ desesiṃ
+27. [AN5.28](https://s.dhamma.gift/an/an5/index.html#an5.28) (simpl) <br>ariyassa samādhissa bhāvanaṃ desesiṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -308,7 +308,7 @@
 | desesiṃ | | | |
 | |
 
-28. [DN16.39](https://find.dhamma.gift/bw/dn/dn16.html) <br>upaddutā homa — "idaṃ kappati, idaṃ na kappati" iti
+28. [DN16.39](https://s.dhamma.gift/dn/dn16/index.html) <br>upaddutā homa — "idaṃ kappati, idaṃ na kappati" iti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -327,7 +327,7 @@
 
 ## Class 4 Extra
 
-1. [MN98](https://find.dhamma.gift/bw/mn/mn98.html) <br>kassako kammunā **hoti**, sippiko **hoti** kammunā,<br>vāṇijo kammunā **hoti**, pessako **hoti** kammunā.
+1. [MN98](https://s.dhamma.gift/mn/mn98/index.html) <br>kassako kammunā **hoti**, sippiko **hoti** kammunā,<br>vāṇijo kammunā **hoti**, pessako **hoti** kammunā.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -345,7 +345,7 @@
 | kammunā | noun | nt.instr.sg | |
 | |
 
-2. [DHP183](https://find.dhamma.gift/bw/dhp/dhp179-196.html) <br>nibbindati dukkhe esa maggo visuddhiyā
+2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179) <br>nibbindati dukkhe esa maggo visuddhiyā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -356,7 +356,7 @@
 | visuddhiyā | noun | fem.dat.sg | |
 | |
 
-3. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (simpl)<br>evaṃ gāme muni cari
+3. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)<br>evaṃ gāme muni cari
 
 | | | | |
 | --- | --- | --- | --- |
@@ -366,7 +366,7 @@
 | cari | | | |
 | |
 
-4. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) (simpl) <br>kāyassa saṃvarāya paṭipajjāhi, rakkhāhi kāyaṃ, kāye saṃvaraṃ āpajjāhi.
+4. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl) <br>kāyassa saṃvarāya paṭipajjāhi, rakkhāhi kāyaṃ, kāye saṃvaraṃ āpajjāhi.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -380,7 +380,7 @@
 | āpajjāhi | | | |
 | |
 
-5. [SN35.28](https://find.dhamma.gift/bw/sn/sn35.28.html)<br>ādittaṃ rāga-agginā, dosa-agginā, moha-agginā
+5. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)<br>ādittaṃ rāga-agginā, dosa-agginā, moha-agginā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -393,7 +393,7 @@
 | agginā | | | |
 | |
 
-6. [TH257](https://find.dhamma.gift/bw/tha/tha16.html) (modif) [^9] <br>samaṇassa ahu vitakko
+6. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (modif) [^9] <br>samaṇassa ahu vitakko
 
 | | | | |
 | --- | --- | --- | --- |

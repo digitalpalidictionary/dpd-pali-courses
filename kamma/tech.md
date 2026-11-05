@@ -32,6 +32,9 @@ Conventions to respect when extending it: the tag vocabulary lives as data (sets
 ### Re-running the sentence-level review (added November 2026)
 The `--dpd` buckets still leave rows DPD alone cannot settle, so a human/agent pass judges each one against its sentence and translation. That repeatable process is documented in `kamma/key_validation/` — `verifier.md` (the tool), `new_thread.md` (how to spawn the thread), `draft_spec.md` / `draft_plan.md` (templates). Standing rules from the first run (BPC + IPC, 2026-11-05): report **errors only** — a tag that is a valid reading of the form stays untouched, so no `UNDECIDED` verdicts and no notes lists; the single approval file is the only thing the user reviews; nothing in `docs/` changes until the user confirms it.
 
+## Sutta links (added November 2026)
+All sutta/Vinaya references link to `https://s.dhamma.gift/...` (the old `find.dhamma.gift/bw/` host is dead; GitHub #9). Rules live in `scripts/rewrite_sutta_links.py` (`map_url`): mn/dn -> `/mn/mnN/index.html`; sn/an -> `/sn|an/<book>/index.html#<id>`; snp, ud, kp, dhp, thag, thig, iti under `/kn/...` (dhp anchor `#dhpA`, tha/thi `#thagN.1`/`#thigN.1`); Vinaya under `/vin/tv/pli-tv-...` (old `bu-vb-sn` = new `ss`; `bu-vb-an` = `as`, page only; `bu-pt.html#pr|sg|np|pc|pd|sk` = `pli-tv-bu-pm3|4|6|7|8|9`; `vi/kd.html` is resolved from the link text, `VIN4.n` -> kd n, `VIN5.n` -> kd 10+n). Re-verify after any change with `uv run python scripts/check_sutta_links.py` (network; large pages, first run takes minutes, then cached). The site resolves anchors with JavaScript, so the checker accepts `<id>/0` too (dhp).
+
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.

@@ -2,7 +2,7 @@
 
 This is also called the **Future Passive Participle**
 
-evaṃ eso pañho **pucchitabbo**. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html)
+evaṃ eso pañho **pucchitabbo**. [DN16.11](https://s.dhamma.gift/dn/dn16/index.html)
 
 Thus this question **should be asked**.
 

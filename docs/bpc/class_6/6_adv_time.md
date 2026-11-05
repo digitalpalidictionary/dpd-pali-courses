@@ -29,6 +29,6 @@ They often come **first** in the sentence.
 | atisāyaṃ | too late (in the day); too late at night |
 | kālena | at the proper time |
 
-**ajja** eva kiccaṃ ātappaṃ, ko jaññā maraṇaṃ **suve** ([MN131](https://find.dhamma.gift/bw/mn/mn131.html))
+**ajja** eva kiccaṃ ātappaṃ, ko jaññā maraṇaṃ **suve** ([MN131](https://s.dhamma.gift/mn/mn131/index.html))
 
 **Just today** the effort should be made; who could know — death (may come) **tomorrow**.

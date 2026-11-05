@@ -1,6 +1,6 @@
 # Class 6 Key to Exercises
 
-1. [DN2.9](https://find.dhamma.gift/bw/dn/dn2.html) <br>bhagavā bhikkhū āmantesi, bhikkhavo'ti.
+1. [DN2.9](https://s.dhamma.gift/dn/dn2/index.html) <br>bhagavā bhikkhū āmantesi, bhikkhavo'ti.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 
 **The Blessed One addressed the monks, "O monks!"**
 
-2. [MN2.2](https://find.dhamma.gift/bw/mn/mn2.html) <br>bhikkhave, assutavā puthujjano na parimuccati jātiyā
+2. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html) <br>bhikkhave, assutavā puthujjano na parimuccati jātiyā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@
 
 **Monks, an unlearned common person is not liberated from birth.**
 
-3. [DN11.6](https://find.dhamma.gift/bw/dn/dn11.html) <br>esa bhagavato sāvakasaṅgho
+3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html) <br>esa bhagavato sāvakasaṅgho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@
 
 **This community of the Blessed One's disciples is worthy of offerings.**
 
-4. [DN16.7](https://find.dhamma.gift/bw/dn/dn16.html) <br>atha kho āyasmato ānandassa etad'ahosi
+4. [DN16.7](https://s.dhamma.gift/dn/dn16/index.html) <br>atha kho āyasmato ānandassa etad'ahosi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@
 
 **This is a common Pāli idiom.**
 
-5. [VIN1.2.12](https://find.dhamma.gift/bw/vi/bu-vb-sn12.html) <br>"mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā"
+5. [VIN1.2.12](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss12) <br>"mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā"
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@
 
 **Venerables, don't say anything to me, good or bad!**
 
-6. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) (simpl) <br>satthārā karaṇīyaṃ sāvakānaṃ, kataṃ vo taṃ mayā.
+6. [MN152](https://s.dhamma.gift/mn/mn152/index.html) (simpl) <br>satthārā karaṇīyaṃ sāvakānaṃ, kataṃ vo taṃ mayā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -79,7 +79,7 @@
 
 **What should be done by a teacher for (his) disciples, that has been done by me for you.**
 
-7. [SNP9](https://find.dhamma.gift/bw/snp/snp1.9.html) <br>ye keci pāṇabhūtā atthi, tasā vā thāvarā vā anavasesā
+7. [SNP9](https://s.dhamma.gift/kn/snp/index.html#snp1.9) <br>ye keci pāṇabhūtā atthi, tasā vā thāvarā vā anavasesā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@
 
 **Whatever living beings there are, whether moving or not moving without exception.**
 
-8. [DN16.26](https://find.dhamma.gift/bw/dn/dn16.html) (simpl) <br>dve kassakā bhātaro hatā, cattāro ca balibaddā
+8. [DN16.26](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>dve kassakā bhātaro hatā, cattāro ca balibaddā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@
 
 **Two farmers, [who are] brothers, and four oxen were killed.**
 
-9. [SN1.47](https://find.dhamma.gift/bw/sn/sn1.47.html) <br>ye dadanti upassayaṃ, tesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati
+9. [SN1.47](https://s.dhamma.gift/sn/sn1/index.html#sn1.47) <br>ye dadanti upassayaṃ, tesaṃ divā ca ratto ca, sadā puññaṃ pavaḍḍhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@
 
 **Whoever gives a dwelling, merit increases for them all the time, day and night.**
 
-10. [AN8.20](https://find.dhamma.gift/bw/an/an8.20.html) <br>bhagavā tuṇhī ahosi.
+10. [AN8.20](https://s.dhamma.gift/an/an8/index.html#an8.20) <br>bhagavā tuṇhī ahosi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -136,7 +136,7 @@
 
 **The Blessed One was silent.**
 
-11. [SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html) <br>sā devatā bhagavantaṃ etad'avoca
+11. [SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) <br>sā devatā bhagavantaṃ etad'avoca
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -148,7 +148,7 @@
 
 **The deity said this to the Blessed One.**
 
-12. [DN3.15](https://find.dhamma.gift/bw/dn/dn3.html) <br>cakkhumanto rūpāni dakkhanti
+12. [DN3.15](https://s.dhamma.gift/dn/dn3/index.html) <br>cakkhumanto rūpāni dakkhanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -158,7 +158,7 @@
 
 **People with sight see forms.**
 
-13. [MN152](https://find.dhamma.gift/bw/mn/mn152.html) <br>seyyathāpi balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya
+13. [MN152](https://s.dhamma.gift/mn/mn152/index.html) <br>seyyathāpi balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -172,7 +172,7 @@
 
 **Just like a strong man would stretch out (his) bent arm or …**
 
-14. [AN2.40](https://find.dhamma.gift/bw/an/an2.40.html) <br>yasmiṃ, bhikkhave, samaye corā balavanto honti..
+14. [AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40) <br>yasmiṃ, bhikkhave, samaye corā balavanto honti..
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -185,7 +185,7 @@
 
 **At whichever time, monks, thieves are powerful…**
 
-15. [DN22.18](https://find.dhamma.gift/bw/dn/dn22.html) <br>upekkhako satimā sukhavihārī iti
+15. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html) <br>upekkhako satimā sukhavihārī iti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -196,7 +196,7 @@
 
 **"(He) who is equanimous [and] mindful lives at ease."**
 
-16. [AN10.71](https://find.dhamma.gift/bw/an/an10.71.html)<br>thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.
+16. [AN10.71](https://s.dhamma.gift/an/an10/index.html#an10.71)<br>thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -215,7 +215,7 @@
 
 **An elder monk is dear to [his] fellow monks and pleasant, respected, and worthy of esteem [by them].**
 
-17. [MN147](https://find.dhamma.gift/bw/mn/mn147.html) <br>taṃ kiṃ maññasi, rāhula, cakkhu niccaṃ vā aniccaṃ vā'ti
+17. [MN147](https://s.dhamma.gift/mn/mn147/index.html) <br>taṃ kiṃ maññasi, rāhula, cakkhu niccaṃ vā aniccaṃ vā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -229,7 +229,7 @@
 
 **"What do you think, Rāhula, s the eye permanent or impermanent?"**
 
-18. [MN118](https://find.dhamma.gift/bw/mn/mn118.html) <br>bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati.
+18. [MN118](https://s.dhamma.gift/mn/mn118/index.html) <br>bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -244,7 +244,7 @@
 
 **A monk, gone to the forest or to the foot of a tree or to an empty dwelling, sits down.**
 
-19. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) (simpl) <br>therā rattaññū ciraṃ pabbajitā saṅghassa pitaro saṅghassa pariṇāyakā
+19. [AN7.23](https://s.dhamma.gift/an/an7/index.html#an7.23) (simpl) <br>therā rattaññū ciraṃ pabbajitā saṅghassa pitaro saṅghassa pariṇāyakā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -259,7 +259,7 @@
 
 **Senior monks of long-standing, [who] have been ordained for a long time, are fathers of the community of monks, guides of the community of monks.**
 
-20. [AN7.23](https://find.dhamma.gift/bw/an/an7.23.html) (simpl) <br>bhikkhū there sakkarissanti garuṃ karissanti mānessanti pūjessanti
+20. [AN7.23](https://s.dhamma.gift/an/an7/index.html#an7.23) (simpl) <br>bhikkhū there sakkarissanti garuṃ karissanti mānessanti pūjessanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -273,7 +273,7 @@
 
 **Monks will honor, respect, revere, [and] venerate the elders.**
 
-21. [DHP277](https://find.dhamma.gift/bw/dhp/dhp273-289.html) <br>sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
+21. [DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273) <br>sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -293,7 +293,7 @@
 
 **"All things are non-self." When one sees [this] with wisdom, then one is disenchanted with suffering. This is the path to purification.**
 
-22. [SN12.22](https://find.dhamma.gift/bw/sn/sn12.22.html) <br>taco ca nahāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ
+22. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) <br>taco ca nahāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -308,7 +308,7 @@
 
 **Let [my] skin, sinew, and bone remain, let [my] flesh and blood dry up in [my] body.**
 
-23. [AN5.37](https://find.dhamma.gift/bw/an/an5.37.html) <br>sukhassa dātā medhāvī sukhaṃ so adhigacchati
+23. [AN5.37](https://s.dhamma.gift/an/an5/index.html#an5.37) <br>sukhassa dātā medhāvī sukhaṃ so adhigacchati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -321,7 +321,7 @@
 
 **The intelligent man [who is] a giver of happiness, acquires happiness.**
 
-24. [MN107](https://find.dhamma.gift/bw/mn/mn107.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi
+24. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -334,7 +334,7 @@
 
 **Come, monk, be moderate with regard to food!**
 
-25. [AN7.25](https://find.dhamma.gift/bw/an/an7.25.html) (simpl) <br>bhikkhū hirimanto bhavissanti, ottappino bhavissanti, satimanto bhavissanti, paññavanto bhavissanti
+25. [AN7.25](https://s.dhamma.gift/an/an7/index.html#an7.25) (simpl) <br>bhikkhū hirimanto bhavissanti, ottappino bhavissanti, satimanto bhavissanti, paññavanto bhavissanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -348,7 +348,7 @@
 
 **Monks should be conscientious, they should be feeling shame, they should be mindful, they should be wise.**
 
-26. [SNP8](https://find.dhamma.gift/bw/snp/snp1.8.html) <br>sukhino vā khemino hontu, sabbe sattā bhavantu sukhit'attā
+26. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>sukhino vā khemino hontu, sabbe sattā bhavantu sukhit'attā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -363,7 +363,7 @@
 
 **May all living beings be safe or at ease, may they be happy.**
 
-27. [AN8.79](https://find.dhamma.gift/bw/an/an8.79.html) <br>ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
+27. [AN8.79](https://s.dhamma.gift/an/an8/index.html#an8.79) <br>ime bhikkhave dhammā sekhassa bhikkhuno aparihānāya saṃvattanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -377,7 +377,7 @@
 
 **These principles, o monks, are conducive for the non-decline of a monk who is a trainee.**
 
-28. [VIN PAT SA 4](https://find.dhamma.gift/bw/vi/bu-pt.html#sg) (simpl) <br>mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ paricara
+28. [VIN PAT SA 4](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) (simpl) <br>mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ paricara
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -389,7 +389,7 @@
 
 **You must minister to one like me, observing the moral practices, of upright nature, one living the holy life.**
 
-29. [VIN PAT NP 8](https://find.dhamma.gift/bw/vi/bu-pt.html#np) (simpl)<br>ce so bhikkhu, pubbe appavārito, upasaṅkamissati cīvare vikappaṃ āpajjissati
+29. [VIN PAT NP 8](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) (simpl)<br>ce so bhikkhu, pubbe appavārito, upasaṅkamissati cīvare vikappaṃ āpajjissati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -405,7 +405,7 @@
 
 **If that monk, previously uninvited, would approache [there], cause an alteration in a robe…**
 
-30. [VIN PAT SE 18](https://find.dhamma.gift/bw/vi/bu-pt.html#sk) (simpl) <br>na bāhu-pacālakaṃ antaraghare nisīdissāmi
+30. [VIN PAT SE 18](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl) <br>na bāhu-pacālakaṃ antaraghare nisīdissāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -416,7 +416,7 @@
 
 **I will not sit in an inhabited area swinging [my] arms.**
 
-31. [SN21.10](https://find.dhamma.gift/bw/sn/sn21.10.html) (simpl) <br>sabbābhibhuṃ sabbaviduṃ sumedhaṃ, tam naraṃ ekavihārī iti ahaṃ brūmi
+31. [SN21.10](https://s.dhamma.gift/sn/sn21/index.html#sn21.10) (simpl) <br>sabbābhibhuṃ sabbaviduṃ sumedhaṃ, tam naraṃ ekavihārī iti ahaṃ brūmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -434,7 +434,7 @@
 
 ## Class 6 Extra
 
-1. [SNP16](https://find.dhamma.gift/bw/snp/snp2.4.html) <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho
+1. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -447,7 +447,7 @@
 
 **The looking after mother and father, the support of the wife and son.**
 
-2. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
+2. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -462,7 +462,7 @@
 
 **Just make an effort today; who knows [if] death [is] tomorrow?**
 
-3. [AN4.171](https://find.dhamma.gift/bw/an/an4.171.html) <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
+3. [AN4.171](https://s.dhamma.gift/an/an4/index.html#an4.171) <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -477,7 +477,7 @@
 
 **Living beings [who] have passed away from that group are returners, who come back to this existence.**
 
-4. [VIN PAT NP 10](https://find.dhamma.gift/bw/vi/bu-pt.html#np) <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
+4. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -499,7 +499,7 @@
 
 **Indeed, venerable sir, the steward whom the venerable one has indicated has been instructed by me; let the venerable one approach him at a suitable time; he will clothe you with a robe.**
 
-5. [VIN PAT PC 7](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
+5. [VIN PAT PC 7](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -515,7 +515,7 @@
 
 **[If any] monk expounds Dhamma to a woman by means of more than five or six sentences, except [together] with a knowledgeable male, [it is] an offence requiring confession.**
 
-6. [DHP76](https://find.dhamma.gift/bw/dhp/dhp76-89.html) (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
+6. [DHP76](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -530,7 +530,7 @@
 
 **Associate with an intelligent person, a wise man, one who reproves, who sees fault, he is (like) one who points out the treasure.**
 
-7. [SN7.15](https://find.dhamma.gift/bw/sn/sn7.15.html) (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
+7. [SN7.15](https://s.dhamma.gift/sn/sn7/index.html#sn7.15) (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -548,7 +548,7 @@
 
 **Towards mother and father, and after that, towards the eldest brother; and towards the teacher. Do not show conceit towards them.**
 
-8. [MN131](https://find.dhamma.gift/bw/mn/mn131.html) (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti
+8. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti
 
 | | | | | |
 | --- | --- | --- | --- | --- |

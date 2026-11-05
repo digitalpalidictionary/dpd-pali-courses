@@ -40,6 +40,6 @@ The Passive Aorist with Attanopada endings exists in theory. If you find an exam
 
 A practical example of the aorist attanopada:
 
-… bhagavantaṃ gāthāya **ajjhabhāsatha** ([SN1.1](https://find.dhamma.gift/bw/sn/sn1.1.html) etc.)
+… bhagavantaṃ gāthāya **ajjhabhāsatha** ([SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) etc.)
 
 … **addressed** the Blessed One in verse

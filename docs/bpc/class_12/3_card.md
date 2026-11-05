@@ -39,7 +39,7 @@ three genders; singular; agrees in gender and case
 
 declined in the plural, “**eka**” functions as pronoun meaning “*some*”
 
-**eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *[DN9.6](https://find.dhamma.gift/bw/dn/dn9.html)*
+**eke** samaṇa-brāhmaṇā evaṃvādino evaṃdiṭṭhino *[DN9.6](https://s.dhamma.gift/dn/dn9/index.html)*
 
 **some** holy men and priests speak like this and have this view.
 

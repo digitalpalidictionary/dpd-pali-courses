@@ -29,6 +29,6 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 | ta | that | + hiṃ | tahiṃ | there |
 | ya | whatever | + hiṃ | yahiṃ | wherever |
 
-**yattha** arahanto viharanti, taṃ bhūmi-rāmaṇeyyakaṃ ([DHP98](https://find.dhamma.gift/bw/dhp/dhp90-99.html))
+**yattha** arahanto viharanti, taṃ bhūmi-rāmaṇeyyakaṃ ([DHP98](https://s.dhamma.gift/kn/dhp/index.html#dhp90))
 
 **Wherever** the arahants dwell, that is delightful place.

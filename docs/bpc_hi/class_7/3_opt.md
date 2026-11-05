@@ -64,14 +64,14 @@ highly used!
 
 Some examples:
 
-te tāvataken’eva attamanā **assu** ([DN10](https://find.dhamma.gift/bw/dn/dn10.html))
+te tāvataken’eva attamanā **assu** ([DN10](https://s.dhamma.gift/dn/dn10/index.html))
 
 **They could be** pleased with just that much.
 
-evaṃrūpo **siyaṃ** anāgatam’addhānaṃ ([SN22.3](https://find.dhamma.gift/bw/sn/sn22.3.html))
+evaṃrūpo **siyaṃ** anāgatam’addhānaṃ ([SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3))
 
 **I could be** of such a form in the future.
 
-aho vata mayaṃ na maraṇadhammā **assāma** ([MN10.16](https://find.dhamma.gift/bw/mn/mn10.html))
+aho vata mayaṃ na maraṇadhammā **assāma** ([MN10.16](https://s.dhamma.gift/mn/mn10/index.html))
 
 Oh **may we** not **be** of a nature to die!

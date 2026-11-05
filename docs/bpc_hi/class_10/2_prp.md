@@ -4,7 +4,7 @@ The present participle is a **verbal adjective**. That means it describes the ac
 
 dīghaṃ vā **assasanto** “dīghaṃ assasāmī’ti pajānāti
 
-dīghaṃ vā **passasanto** “dīghaṃ passasāmī’ti pajānāti *[MN118](https://find.dhamma.gift/bw/mn/mn118.html)*
+dīghaṃ vā **passasanto** “dīghaṃ passasāmī’ti pajānāti *[MN118](https://s.dhamma.gift/mn/mn118/index.html)*
 
 **Breathing in** deeply, he knows, “I am breathing in deeply.”
 
@@ -14,7 +14,7 @@ Which is the noun/pronoun that is being described by the present participles in 
 
 Although the present participle acts as a verb, it is declined like a noun. It agrees with the noun in **gender, case and number.**
 
-seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *[SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html)*
+seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *[SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)*
 
 Just like, monks, a **monkey** **roaming** **around** in a forest wilderness…
 
@@ -22,7 +22,7 @@ makkato = masc.nom.sg
 
 caramāno = masc.nom.sg
 
-puriso passeyya **maccha-gumbaṃ** **carantaṃ** **tiṭṭhantaṃ** *[MN39](https://find.dhamma.gift/bw/mn/mn39.html)*
+puriso passeyya **maccha-gumbaṃ** **carantaṃ** **tiṭṭhantaṃ** *[MN39](https://s.dhamma.gift/mn/mn39/index.html)*
 
 a man could see a **school of fish wandering around and remaining still.**
 
@@ -192,13 +192,13 @@ One thing to notice about present participles is the fact that they are verbs. L
 
 “I will breathe out **gladdening** the **mind**” he trains.
 
-*([MN62](https://find.dhamma.gift/bw/mn/mn62.html) mahārāhulovādasuttaṃ)*
+*([MN62](https://s.dhamma.gift/mn/mn62/index.html) mahārāhulovādasuttaṃ)*
 
 aññatitthiyā paribbājakā andhā acakkhukā **ajānantā** **ārogyaṃ**, **apassantā** **nibbānaṃ**, atha ca pana imaṃ gāthaṃ bhāsanti.
 
 Wandering ascetics who belong to other sects are blind and visionless, **not knowing health,** **not seeing Nibbāna**, and yet they say this verse.
 
-([MN75](https://find.dhamma.gift/bw/mn/mn75.html) māgaṇḍiyasuttaṃ)
+([MN75](https://s.dhamma.gift/mn/mn75/index.html) māgaṇḍiyasuttaṃ)
 
 Just like other verbs, sometimes the *object* is not in the accusative case. Here it is in the **locative**.
 
@@ -206,7 +206,7 @@ seyyathāpi, bhikkhave, makkaṭo **araññe pavane caramāno.**
 
 Just like, monks, a monkey, **wandering** **in a forest, in wilderness.**
 
-*([SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) assutavāsuttaṃ)*
+*([SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) assutavāsuttaṃ)*
 
 Please keep this in mind when you work with present participles.
 

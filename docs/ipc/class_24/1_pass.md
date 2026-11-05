@@ -10,7 +10,7 @@ In what case is the object of the verb?
 
 In what case is the agent of a passive verb?
 
-dissati, bhikkhave, kāyassa ācayo’pi apacayo’pi ādānam’pi nikkhepanam’pi (purisena) ([SN12.61](https://find.dhamma.gift/bw/sn/sn12.61.html) assutavāsuttaṃ)
+dissati, bhikkhave, kāyassa ācayo’pi apacayo’pi ādānam’pi nikkhepanam’pi (purisena) ([SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) assutavāsuttaṃ)
 
 Monks, increase and decrease, taking (food) and elimination is seen for this body (by the man).
 

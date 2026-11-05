@@ -8,7 +8,7 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-1. [SN56.11](https://find.dhamma.gift/bw/sn/sn56.11.html)<br>**cātummahārājikānaṃ** devānaṃ saddaṃ sutvā **tāvatiṃsā** devā saddam'anussāvesuṃ
+1. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11)<br>**cātummahārājikānaṃ** devānaṃ saddaṃ sutvā **tāvatiṃsā** devā saddam'anussāvesuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 **Having heard the sound of the deities belonging to the Four Great Kings the deities belonging to the (Heaven of the) Thirty Three proclaimed aloud.**
 
-2. [TH257](https://find.dhamma.gift/bw/tha/tha16.html)<br>tato **pāsādikaṃ** āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā **tela**dhārā'va, ahosi iriyāpatho.
+2. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1)<br>tato **pāsādikaṃ** āsi, gataṃ bhuttaṃ nisevitaṃ.<br>siniddhā **tela**dhārā'va, ahosi iriyāpatho.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@
 
 **Therefore (their) walking, eating and practice was inspiring confidence, (their) deportment was as smooth as a stream of oil.**
 
-3. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>yā sā vācā nelā kaṇṇasukhā **pemanīyā** **hadayaṅ**'gamā **porī** bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
+3. [MN51](https://s.dhamma.gift/mn/mn51/index.html)<br>yā sā vācā nelā kaṇṇasukhā **pemanīyā** **hadayaṅ**'gamā **porī** bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@
 
 **He is a speaker of such words that are gentle, pleasing to the ear, and lovable, that go to the heart, are courteous, desired by many and agreeable to many.**
 
-4. [AN10.48](https://find.dhamma.gift/bw/an/an10.48.html)<br>**vevaṇṇiy**'amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ[^36].
+4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)<br>**vevaṇṇiy**'amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ[^36].
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@
 
 **"I have come to a change of social order", should be frequently reflected on by a renunciant.**
 
-5. [SN46.3](https://find.dhamma.gift/bw/sn/sn46.3.html)<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā **dvayena** vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
+5. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)<br>tathārūpānaṃ, bhikkhave, bhikkhūnaṃ dhammaṃ sutvā **dvayena** vūpakāsena vūpakaṭṭho viharati, kāyavūpakāsena ca cittavūpakāsena ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@
 
     **MW: "rūpa n. (perhaps connected with varpa, varpas; ifc. f.(ā), rarely (ī)) any outward appearance or phenomenon or colour (often pl.), form, shape, figure, RV. \&c. \&c. (rūpeṇa ifc. in the form of ; rūpam-√kṛ or √bhū, to assume a form; often ifc. = 'having the form or appearance or colour of', 'formed or composed of', 'consisting of', 'like to'; sometimes used after an adj. or p.p. to emphasize its meaning or almost redundantly cf. ghora-r°; or connected with a verb, e.g. pacati-rūpam, he cooks very well cf. Pāṇ. viii, 1, 57)"**
 
-6. [DN2.4](https://find.dhamma.gift/bw/dn/dn2.html) <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
+6. [DN2.4](https://s.dhamma.gift/dn/dn2/index.html) <br>kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -173,7 +173,7 @@
 
 **Ānanda, in Kusāvatī the royal capital, there were four gates of four colours, one made of gold, another of silver, another of cat's eye and another of crystals.**
 
-7. [DN16.11](https://find.dhamma.gift/bw/dn/dn16.html) <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhī'ti
+7. [DN16.11](https://s.dhamma.gift/dn/dn16/index.html) <br>dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhī'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -206,7 +206,7 @@
 
 **He has absolute faith in the teaching, "The teaching is well taught by the Blessed One, it is visible, timeless, inviting one to come and see, applicable, to be personally experienced by the wise."**
 
-8. [MN39](https://find.dhamma.gift/bw/mn/mn39.html) <br>samit'āssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
+8. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>samit'āssa honti pāpakā akusalā dhammā saṃkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -241,7 +241,7 @@
 
 **His evil unwholesome mental states are settled, (mental states which are) defiling, leading to rebirth, troublesome, having painful consequences and leading to birth, old age and death in the future.**
 
-9. [AN10.44](https://find.dhamma.gift/bw/an/an10.44.html) <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassū'ti, iti'ssa bhavanti vattāro.
+9. [AN10.44](https://s.dhamma.gift/an/an10/index.html#an10.44) <br>tassa bhavanti vattāro, iṅgha tāva āyasmā vācasikaṃ sikkhassū'ti, iti'ssa bhavanti vattāro.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -263,7 +263,7 @@
 
 **There will be those who say to him: "Please, Venerable, you should train yourself in verbal conduct," there will be those who say thus to him.**
 
-10. [AN7.61](https://find.dhamma.gift/bw/an/an7.61.html) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
+10. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -280,7 +280,7 @@
 
 **When there is argumentative talk, Moggallana, then an excess of talk is to be expected.**
 
-11. [SN16.10](https://find.dhamma.gift/bw/sn/sn16.10.html) <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etad'avoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijako'ti?
+11. [SN16.10](https://s.dhamma.gift/sn/sn16/index.html#sn16.10) <br>atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etad'avoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijako'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -311,7 +311,7 @@
 
 **Then the great venerable Kassapa said this to venerable Ananda, "Am I the needle peddler and you are the needle maker? Or am I the needle maker and you are the needle peddler?"**
 
-12. [ITI100](https://find.dhamma.gift/bw/it/it.html) <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
+12. [ITI100](https://s.dhamma.gift/kn/iti/index.html) <br>tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -342,7 +342,7 @@
 
 **You all are my legitimate sons, born from my mouth, born from the Dhamma, created by the Dhamma, inheritors of the Dhamma, not inheritor of worldly things.**
 
-13. [SN35.241](https://find.dhamma.gift/bw/sn/sn35.241.html) <br>evam'eva kho, bhikkhave, sace tumhe'pi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
+13. [SN35.241](https://s.dhamma.gift/sn/sn35/index.html#sn35.241) <br>evam'eva kho, bhikkhave, sace tumhe'pi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -373,7 +373,7 @@
 
 ## Class 25 Extra Examples
 
-1. [VIN PAT PC 59](https://find.dhamma.gift/bw/vi/bu-pt.html#pc) <br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā **sāmaṇerassa** vā **sāmaṇeriyā** vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
+1. [VIN PAT PC 59](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā **sāmaṇerassa** vā **sāmaṇeriyā** vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -399,7 +399,7 @@
 
 **Whatever Bhikkhu, having himself assigned a robe to a monk, a nun, a female probationer, a male novice or a female novice, should use (it) without withdrawing (the assignment), there is an offence requiring confession.**
 
-2. [AN6.17](https://find.dhamma.gift/bw/an/an6.17.html)<br>**indriyesu** guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṃ anuyuttā, vipassakā kusalānaṃ dhammānaṃ, pubbaratt'āpararattaṃ **bodhipakkhiyānaṃ** dhammānaṃ, bhāvanā'nuyogam'anuyuttā viharissāmā'ti.
+2. [AN6.17](https://s.dhamma.gift/an/an6/index.html#an6.17)<br>**indriyesu** guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṃ anuyuttā, vipassakā kusalānaṃ dhammānaṃ, pubbaratt'āpararattaṃ **bodhipakkhiyānaṃ** dhammānaṃ, bhāvanā'nuyogam'anuyuttā viharissāmā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -441,7 +441,7 @@
 
 **"We will be guarded regarding the sense faculties, knowing the correct measure in regard to food, devoted to wakefulness, [and] having clear insight of wholesome qualities, We will live devoted to the practice of developing the qualities pertaining to enlightenment, during the early and late parts of the night. "**
 
-3. [MN50](https://find.dhamma.gift/bw/mn/mn50.html)<br>bhūtapubb'āhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me **kāḷī** nāma **bhaginī**. tassā tvaṃ putto. so me tvaṃ **bhāgineyyo** ahosi.
+3. [MN50](https://s.dhamma.gift/mn/mn50/index.html)<br>bhūtapubb'āhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me **kāḷī** nāma **bhaginī**. tassā tvaṃ putto. so me tvaṃ **bhāgineyyo** ahosi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -469,7 +469,7 @@
 
 **Formerly, evil one, I was Mara (Death), by the name of dūsī (corrupter), [and] I had a sister by the name of kāḷī. You [were] her son, you were my nephew.**
 
-4. [MN51](https://find.dhamma.gift/bw/mn/mn51.html)<br>atha kho pesso ca **hatth**'ārohaputto **kandarako** ca paribbājako yena bhagavā ten'upasaṅkamiṃsu
+4. [MN51](https://s.dhamma.gift/mn/mn51/index.html)<br>atha kho pesso ca **hatth**'ārohaputto **kandarako** ca paribbājako yena bhagavā ten'upasaṅkamiṃsu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -495,7 +495,7 @@
 
 [^38]: kammadhāraya
 
-5. [DN3.13](https://find.dhamma.gift/bw/dn/dn3.html) <br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
+5. [DN3.13](https://s.dhamma.gift/dn/dn3/index.html) <br>aho vata re amhākaṃ paṇḍitaka, aho vata re amhākaṃ bahussutaka, aho vata re amhākaṃ tevijjaka
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -523,7 +523,7 @@
 
 **(Sarcastically) Oh, our wise man! Oh, our great scholar! Oh, our master of the three vedas!**
 
-6. [DHP295](https://find.dhamma.gift/bw/dhp/dhp290-305.html)<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
+6. [DHP295](https://s.dhamma.gift/kn/dhp/index.html#dhp290)<br>mātaraṃ pitaraṃ hantvā,<br>rājāno dve ca sotthiye,<br>veyagghapañcamaṃ hantvā,<br>anīgho yāti brāhmaṇo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

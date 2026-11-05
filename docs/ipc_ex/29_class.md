@@ -13,7 +13,7 @@
 | abhinimmitaṃ | pp | masc.acc.sg | created; produced | abhi + nī + √mā 5 nā (measure) + ta |
 | |
 
-[SNP47](https://find.dhamma.gift/bw/snp/snp4.9.html)
+[SNP47](https://s.dhamma.gift/kn/snp/index.html#snp4.9)
 disvāna taṇhaṃ aratiṃ ragañca,
 nāhosi chando api methunasmiṃ.
 kimevidaṃ muttakarīsapuṇṇaṃ,

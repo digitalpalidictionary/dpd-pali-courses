@@ -32,6 +32,6 @@ Let’s look at the optative in the reflexive **voice and passive voice.**
 
 A practical example of the optative attanopada:
 
-sace labh**etha** nipakaṃ sahāyaṃ ([DHP328](https://find.dhamma.gift/bw/dhp/dhp320-333.html))
+sace labh**etha** nipakaṃ sahāyaṃ ([DHP328](https://s.dhamma.gift/kn/dhp/index.html#dhp320))
 
 if one **should find** a wise companion …
