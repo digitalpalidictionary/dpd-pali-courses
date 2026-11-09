@@ -72,7 +72,7 @@
 | samādapetvā | verb | abs | having instigated | √ādā･3 \*āpe (take, seize) |
 | samuttejetvā | verb | abs | having fired up | √tij･8 \*e (be sharp, hot) |
 | sampahaṃsetvā | verb | abs | having delighted | √haṃs･1 \*e (rise, elate) |
-| uṭṭhāya | verb | abs (+abl) | having stood up | |
+| uṭṭhāya | verb | ger (+abl) | standing up, rising up | |
 | āsanā | noun | nt.abl.sg | from seat, chair | √ās･1 a (sit) |
 | pakkāmi | verb | aor.3rd.sg | he left | √kam･1 a (go) |
 
@@ -203,7 +203,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | atha kho | ind | ind | then; and then; after that | |
-| aññataro | adj | masc.nom.sg | a certain | |
+| aññataro | pron | masc.nom.sg | a certain | |
 | brāhmaṇo | noun | masc.nom.sg | brahmin | √brah×1 a (increase) |
 | yena | ind | adv (+nom) | where | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |

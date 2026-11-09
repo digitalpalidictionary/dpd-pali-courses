@@ -22,7 +22,7 @@
 | guhāsu | noun | fem.loc.pl | in caves |
 | ca | ind | conj | and |
 
-**At the foot of a tree in a forest, in valleys, and in caves.**
+**At the feet of the trees in a forest, in valleys, and in caves.**
 
 3. [DN22.1](https://s.dhamma.gift/dn/dn22/index.html) (simpl)<br>maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
 
@@ -379,7 +379,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | saṅkhārā | noun | masc.abl.sg<br>masc.nom.pl | from the volitional formation<br>volitional formations |
-| ābādhāya | noun | masc.dat.sg | to sufferings |
+| ābādhāya | noun | masc.dat.sg | to suffering |
 
 **Volitional formations [are conducive] to suffering**
 

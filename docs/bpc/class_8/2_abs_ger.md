@@ -22,7 +22,7 @@ From now on you will be dealing with complex sentences which have a **subordinat
 
 *ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ āgacchiṃ*
 
-*Lit.:* Having eaten food, having rinsed bowl, having cleaned teeth, I come to the hall.
+*Lit.:* Having eaten food, having rinsed bowl, having cleaned teeth, I came to the hall.
 
 *Can be translated as:* I ate food, rinsed my bowl, cleaned my teeth and came to the hall.
 
