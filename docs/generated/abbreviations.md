@@ -64,7 +64,7 @@
 | inf | infinitive verb | tumanta; avyaya | kātuṃ; pahātuṃ; carituṃ | The uninflected form of the verb. It most commonly expresses a purpose. |
 | instr | instrumental case | tatiyā, karaṇavacana | mayā - pron 1st <b>instr</b> sg of ahaṃ | shows the object or person with or by whom something is performed. (by, with or through)<br/>(e.g. by me, with me) |
 | intens | intensive verb |  | caṅkamati; jaṅgamati | Also called Frequentative Verbs, express the frequent repetition or the intensification of the action denoted by the simple root. |
-| interr | interrogative pronoun | pucchāsabhāva | kiṃ; kissa; kittaka | Has the nature of asking a question. (who? how? perhaps? how many?) |
+| interr | interrogative pronoun | pucchāsabhāva | kiṃ; kissa; kittaka | Has the nature of asking a question. (e.g. who? what? which? how many?) |
 | intrans | intransitive verb | akammaka; akammagāhī | hoti; ujjhāyati; vijjati | A verb (or verb construction) that does not take an object in the accusative case. sometimes they take what appears to be an object in another case. (e.g. there is; is conducive to) |
 | irreg | irregular conjugation or declension |  | kammunā - noun, nt instr sg of kamma, <b>irreg</b> | Differs from the usual, generally accepted patterns of conjugation or declension. |
 | lit | literal meaning |  |  | Limited to the explicit meaning of a word or parts from which the word has been constructed. |
