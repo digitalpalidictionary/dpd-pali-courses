@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | abhisamaya | masc | complete comprehension (of); total understanding (of); completely getting (of); breakthrough (to) | √i 1 a (come, go) | abhi + saṃ + √i > ay + *a | a masc | 2 |
 | adhigama 2 | masc | attainment; achievement; realization (of) | √gam 1 a (go) | adhi + √gam + a | a masc | 2 |
-| akkosa | masc | verbal abuse; insult; name calling | √kus 1 *a (call, insult) | ā + √kus > kos + *a | a masc | 2 |
+| akkosa | masc | verbal abuse; insult; name-calling | √kus 1 *a (call, insult) | ā + √kus > kos + *a | a masc | 2 |
 | anusaya | masc | underlying tendency (to); inherent inclination (to); dormant disposition (towards); propensity (to) | √sī 1 a (lie, sleep) | anu + √sī > say + *a | a masc | 2 |
 | attha 1.1 | masc | meaning; sense; significance | √ar 1 a (move, attain) | √ar + tha | a masc | 2 |
 | attha 2.1 | masc | need; want (for) | √atth 8 *aya (wish for) | √atth + a | a masc | 2 |
@@ -36,7 +36,7 @@
 | kesa 1 | masc | (head) hair |  |  | a masc | 2 |
 | khandha 1 | masc | mass; heap; pile; volume; aggregation | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
 | khandha 3 | masc | aggregate; combination; conglomeration; bundle | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
-| khattiya 2 | masc | man of the warrior caste; high caste man; nobleman |  |  | a masc | 2 |
+| khattiya 2 | masc | man of the warrior caste; high-caste man; nobleman |  |  | a masc | 2 |
 | khaya | masc | wearing away; exhaustion; erosion; depletion; destruction (of) | √khī 1 a (exhaust, destroy) | √khī > khay + *a | a masc | 2 |
 | kāma 3 | masc | sense desire; sensual pleasure (of) | √kam 8 *e (desire) | √kam > kām + *a | a masc | 2 |
 | kāra 1 | masc | deed; action; service | √kar 7 o (do, make) | √kar > kār + *a | a masc | 2 |
@@ -60,7 +60,7 @@
 | pamāda 1 | masc | carelessness; negligence; heedlessness | √mad 3 ya (be mad, be intoxicated) | pa + √mad > mād + *a | a masc | 2 |
 | papañca | masc | various opinions; proliferation; endless conceptualization | √pañc 8 *e (expand, spread) | pa + √pañc + a | a masc | 2 |
 | paribbājaka | masc | homeless spiritual seeker; wandering ascetic | √vaj 1 a (go on) | pari + √vaj > baj > bāj + *aka | a masc | 2 |
-| parideva | masc | lamentation; wailing; crying | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
+| parideva | masc | wailing; crying; lamentation | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
 | parikkhāra 1 | masc | requisite; requirement; necessity | √kar 7 o (do, make) | pari + √kar > khār + *a | a masc | 2 |
 | pariyāya 05 | masc | way; nature; habit; property; quality | √i 1 a (come, go) | pari + [y] + √i > āy + *a | a masc | 2 |
 | patha 2 | masc | range; mode; way | √path 1 a (go, move) | √path + a | a masc | 2 |
@@ -208,14 +208,14 @@
 | muni 1 | masc | monk; sage; seer; hermit; silent sage | √mun 5 nā (think, know) | √mun + i | i masc | 4 |
 | nisīdi 1 | aor | sat (on); sat down (in) | √sad 1 a (sink, sit, settle) | ni + sīda + i | i aor isuṃ | 4 |
 | paccassosi | aor | replied (to); agreed (with); assented (to) | √su 4 ṇā (hear) | pati > paty > pacc + a + so + si | i aor | 4 |
-| paridevi | aor | mourned; lamented; wailed | √dev 1 a (lament) | pari + √dev + i | i aor | 4 |
+| paridevi | aor | wailed; cried; lamented | √dev 1 a (lament) | pari + √dev + i | i aor | 4 |
 | passa 2.1 | imp | see!; look (at)! | √dis 1 a (see) | passa + a | ati pr | 4 |
 | pucchi | aor | asked; enquired; questioned (somebody about) | √pucch 1 a (ask, question) | √pucch + i | i aor issaṃ | 4 |
 | sammodi | aor | greeted; exchanged pleasantries; had a friendly conversation (with) | √mud 1 *a (be soft, be happy) | saṃ + moda + i | i aor | 4 |
 | samādhi 1 | masc | perfect peace of mind; stability of mind; stillness of mind; meditative composure | √dhā 1 a (place, support) | saṃ + ā + √dhā + i | i masc | 4 |
 | soci | aor | grieved; was sad | √suc 1 *a (grieve) | soca + i | i aor | 4 |
 | sāli | masc | fine rice |  |  | i masc | 4 |
-| udapādi 1 | aor | arose; sprung up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
+| udapādi 1 | aor | arose; sprang up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
 | upasaṅkami | aor | approached; drew near; went (to) | √kam 1 a (go) | upa + saṃ + √kam + i | i aor | 4 |
 | vīhi | masc | rice paddy; Oryza sativa |  |  | i masc | 4 |
 | ñāti | masc | family; relative; kinsman | √ñā 5 nā (know) | √ñā + ti | i masc | 4 |
@@ -232,7 +232,7 @@
 | bhavissati 1 | fut | could be; should be | √bhū 1 a (be, become) | bhavissa + ti | issati fut | 5 |
 | bhogī 1.1 | adj | enjoying; using; experiencing; partaking in | √bhuj 2 ṃa (use, eat, enjoy) | √bhuj > bhoj > bhog + *a + ī | ī adj | 5 |
 | byākarissati | fut | will explain; will define; will describe | √kar 7 o (do, make) | vi > vy > by + ā + karissa + ti | oti pr | 5 |
-| dhāressati | fut | will bear in mind; will keep in mind; will remembers | √dhar 8 *e (wear, hold, carry) | dhāre + ssa + ti | eti pr | 5 |
+| dhāressati | fut | will bear in mind; will keep in mind; will remember | √dhar 8 *e (wear, hold, carry) | dhāre + ssa + ti | eti pr | 5 |
 | gamissati 1 | fut | will go | √gam 1 a (go) | √gam + issa + ti | issati fut | 5 |
 | gavesī 1 | adj | seeking; searching for; looking for | √gaves 1 a (seek, search) | √gaves + ī | ī adj | 5 |
 | mā 1.1 | ind | do not; may one not; don't let |  |  |  | 5 |

@@ -59,7 +59,7 @@
 | imp | imperative mood | pañcamī; idānaṃ | gaccha; atthu; hotu | Mood that expresses an intention to influence the listener's behavior or expresses wish. (e.g. begone! may there be! may it be!) |
 | imperf | imperfect past tense | hiyyattanī; hīyattanī | addasā; ahuvā; accagamā | Past tense which is used for events which happened before yesterday, but were seen by the speaker. |
 | impers | impersonal | bhāva | paṭibhāti; kappati | Not relating to or responsive to individual persons (e.g. it occurs (to); it is suitable (for)) |
-| in comps | in compounds, word is only found as an element within compounds |  | anupassī; paṭisaṃvedī | Usually acts as part of a compoun |
+| in comps | in compounds, word is only found as an element within compounds |  | anupassī; paṭisaṃvedī | Usually acts as part of a compound |
 | ind | indeclinable | nipāta; avyaya | api; pana; atha | It does not have declensions or conjugations. |
 | inf | infinitive verb | tumanta; avyaya | kātuṃ; pahātuṃ; carituṃ | The uninflected form of the verb. It most commonly expresses a purpose. |
 | instr | instrumental case | tatiyā, karaṇavacana | mayā - pron 1st <b>instr</b> sg of ahaṃ | shows the object or person with or by whom something is performed. (by, with or through)<br/>(e.g. by me, with me) |
@@ -76,7 +76,7 @@
 | neut | neuter noun |  |  |  |
 | nom | nominative case | paṭhamā, paccattavacana | tuvaṃ - pron, 2nd <b>nom</b> sg of tvaṃ | The category of nouns serving as the grammatical subject of a verb |
 | noun | noun, substantive | nāma; nāmanāma | samaṇa; purisa; paṭipadā | A content word that can be used to refer to a person, place, thing, quality, or action; the word class that can serve as the subject or object of a verb, the object of a preposition, or in apposition (e.g. recluse; man; method) |
-| nt | neuter noun | napuṃsaka; napuṁsakaliṅga | citta, rūpa, viññāṇa |  |
+| nt | neuter noun | napuṃsaka; napuṃsakaliṅga | citta, rūpa, viññāṇa |  |
 | onom | onomatopoeia |  | capucapu, sū, surusuru | Using words that imitate the sound they denote |
 | opt | optative mood | sattamī | siyā; gaccheyya; uddiseyya | A mood that expresses a wish, probability, advice or capability; expressed in English by modal verbs (should / could / may / might) |
 | ordin | ordinal number | saṅkhyāpūraṇa | paṭhama; dutiya; tatiya | The number designating place in an ordered sequence (e.g. first; second; third) |

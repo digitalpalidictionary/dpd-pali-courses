@@ -5,7 +5,7 @@
 | abhisamaya | masc | complete comprehension (of); total understanding (of); completely getting (of); breakthrough (to) | √i 1 a (come, go) | abhi + saṃ + √i > ay + *a | a masc | 2 |
 | accaya 3 | masc | fault; offence; transgression | √i 1 a (come, go) | ati > aty > acc + √i > ay + *a | a masc | 2 |
 | adhigama 2 | masc | attainment; achievement; realization (of) | √gam 1 a (go) | adhi + √gam + a | a masc | 2 |
-| akkosa | masc | verbal abuse; insult; name calling | √kus 1 *a (call, insult) | ā + √kus > kos + *a | a masc | 2 |
+| akkosa | masc | verbal abuse; insult; name-calling | √kus 1 *a (call, insult) | ā + √kus > kos + *a | a masc | 2 |
 | anabhāva | masc | obliteration; annihilation; total destruction | √bhū 1 a (be, become) | anu + a + √bhū > bhāv + *a | a masc | 2 |
 | anta 1 | masc | end; limit; finish; conclusion (of) |  |  | a masc | 2 |
 | anta 2 | masc | end; side; extreme |  |  | a masc | 2 |
@@ -28,7 +28,7 @@
 | brāhmaṇa 1 | masc | Brahman; priest; man of the Brahman caste | √brah 1 a (increase) | √brah > brāh + ma + *aṇa | a masc | 2 |
 | byāma | masc | fathom; measure of length; from head to foot, or two arms extended | √yam 1 a (support, stretch) | vi > vy > by + √yam > yām + *a | a masc | 2 |
 | byāpāda | masc | dislike; ill-will; hatred; hostility; enmity; malevolence (towards) | √pad 3 ya (go, step) | vi > vy > by + ā + √pad > pād + *a | a masc | 2 |
-| bāhiya | masc | name of an ascetic; great disciple of the Buddha; foremost monk in quick realization; Bāhiya Dārucīriya | √bah 1 a (be outside) | √bah > bāh + i + *iya | a masc | 2 |
+| bāhiya 1 | masc | name of an ascetic; great disciple of the Buddha; foremost monk in quick realization; Bāhiya Dārucīriya | √bah 1 a (be outside) | √bah > bāh + i + *iya | a masc | 2 |
 | bāla 2 | masc | fool; idiot; immature person |  |  | a masc east | 2 |
 | caṅkama 1 | masc | walking meditation; walking up and down (in meditation) | √kam 1 a (go) | caṅkama + a | a masc | 2 |
 | chanda 1 | masc | interest (in); self-interest (in); desire (for); wish (for); intention (to); impulse (for) | √chand 8 *e (desire, please) | √chand + a | a masc | 2 |
@@ -71,7 +71,7 @@
 | kesa 1 | masc | (head) hair |  |  | a masc | 2 |
 | khandha 1 | masc | mass; heap; pile; volume; aggregation | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
 | khandha 3 | masc | aggregate; combination; conglomeration; bundle | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
-| khattiya 2 | masc | man of the warrior caste; high caste man; nobleman |  |  | a masc | 2 |
+| khattiya 2 | masc | man of the warrior caste; high-caste man; nobleman |  |  | a masc | 2 |
 | khaya | masc | wearing away; exhaustion; erosion; depletion; destruction (of) | √khī 1 a (exhaust, destroy) | √khī > khay + *a | a masc | 2 |
 | kodha 1.1 | masc | anger; wrath; rage; temper | √kudh 3 ya (be angry) | √kudh > kodh + *a | a masc | 2 |
 | kulla 1.1 | masc | boat; raft |  |  | a masc | 2 |
@@ -90,13 +90,13 @@
 | magga 2 | masc | way; means; method | √magg 1 a (seek, search) | √magg + a | a masc | 2 |
 | majjha 2 | masc | middle |  |  | a masc | 2 |
 | makkaṭa | masc | monkey; ape |  |  | a masc | 2 |
-| makkha 1 | masc | depreciating; denigrating; smirching | √makkh 8 *e (rub, erase) | √makkh + a | a masc | 2 |
+| makkha 1 | masc | depreciating; denigrating; besmirching | √makkh 8 *e (rub, erase) | √makkh + a | a masc | 2 |
 | manussa | masc | human being; man; person |  | manu + ssa | a masc | 2 |
 | moggallāna 1 | masc | name of an arahant monk; chief disciple; great disciple of the Buddha; foremost monk in psychic power |  | muggala > moggala + *yāna | a masc | 2 |
 | moha 1 | masc | illusion; delusion; misapprehension | √muh 3 ya (be deluded, be confused) | √muh > moh + *a | a masc | 2 |
 | mugga | masc | mung beans | √mud 1 a (be soft, be happy) | √mud > mug + ga | a masc | 2 |
 | muṇḍaka 2 | masc | shaveling; skinhead; baldy | √muṇḍ 1 a (be bald, shave) | √muṇḍ + a + ka | a masc | 2 |
-| māna 1.1 | masc | pride; conceit; egotism; superiority; comparing oneself | √man 3 ya (think) | √man > mān + *a | a masc | 2 |
+| māna 1.1 | masc | pride; conceit; egotism; comparing oneself | √man 3 ya (think) | √man > mān + *a | a masc | 2 |
 | māra | masc | death; Death; death personified | √mar 1 a (die) | √mar > mār + *a | a masc | 2 |
 | māsa 1.1 | masc | month | √mā 5 nā (measure) | √mā + sa | a masc | 2 |
 | māsa 2.1 | masc | bean |  |  | a masc | 2 |
@@ -108,15 +108,15 @@
 | nivāsa 1.3 | masc | life; existence | √vas 1 a (live) | ni + √vas > vās + *a | a masc | 2 |
 | nāda | masc | roar; bellow; shout | √nad 1 a (roar) | √nad > nād + *a | a masc | 2 |
 | nāga 3 | masc | tusker; bull elephant |  |  | a masc | 2 |
-| nātha | masc | protector; lord; refuge (of) | √nāth 1 a (have power, protect) | √nāth + a | a masc | 2 |
+| nātha | masc | protector; lord; refuge; mainstay (of) | √nāth 1 a (have power, protect) | √nāth + a | a masc | 2 |
 | nīvaraṇa 1 | masc | obstacle; obstruction; barrier; hindrance | √var 1 a (cover, dress, restrain) | ni > nī + √var + *aṇa | a masc | 2 |
 | ogha 1 | masc | (of water) flood; deluge; torrent |  |  | a masc | 2 |
 | ogha 2 | masc | (of defilements) deluge; inundation; torrent |  |  | a masc | 2 |
 | oka 1.1 | masc | home; abode | √uc 3 ya (comfort) | √uc > ok + *a | a masc | 2 |
 | paccaya 1 | masc | support; requisite; necessity | √i 1 a (come, go) | pati > paty > pacc + √i > ay + *a | a masc | 2 |
-| paccaya 2 | masc | cause; reason; supporting condition; requirement (for) | √i 1 a (come, go) | pati > paty > pacc + √i > ay + *a | a masc | 2 |
+| paccaya 3 | masc | cause; reason; supporting condition; requirement (for) | √i 1 a (come, go) | pati > paty > pacc + √i > ay + *a | a masc | 2 |
 | padesa 1 | masc | place; location; region; area | √dis 1 a (point out, explain) | pa + √dis > des + *a | a masc | 2 |
-| paggaha 3 | masc | donation; handout; give-away | √gah 6 ṇhā (grasp) | pa + √gah + a | a masc | 2 |
+| paggaha 2 | masc | donation; handout; give-away | √gah 6 ṇhā (grasp) | pa + √gah + a | a masc | 2 |
 | paggāha 1 | masc | effort; exertion; striving | √gah 6 ṇhā (grasp) | pa + √gah > gāh + *a | a masc | 2 |
 | pajjota 1 | masc | lamp; lantern | √jut 1 *a (shine) | pa + √jut > jot + *a | a masc | 2 |
 | pajjunna 1 | masc | name of a deity; god of rain; rain cloud |  |  | a masc | 2 |
@@ -125,7 +125,7 @@
 | pamāda 1 | masc | carelessness; negligence; heedlessness | √mad 3 ya (be mad, be intoxicated) | pa + √mad > mād + *a | a masc | 2 |
 | papañca | masc | various opinions; proliferation; endless conceptualization | √pañc 8 *e (expand, spread) | pa + √pañc + a | a masc | 2 |
 | paribbājaka | masc | homeless spiritual seeker; wandering ascetic | √vaj 1 a (go on) | pari + √vaj > baj > bāj + *aka | a masc | 2 |
-| parideva | masc | lamentation; wailing; crying | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
+| parideva | masc | wailing; crying; lamentation | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
 | parikkhāra 1 | masc | requisite; requirement; necessity | √kar 7 o (do, make) | pari + √kar > khār + *a | a masc | 2 |
 | paripāka 1 | masc | decay; deterioration | √pac 1 a (cook, mature, ripen) | pari + √pac > pāc > pāk + *a | a masc | 2 |
 | parivaṭṭa 2 | masc | round; revolution; repetition; cycle | √vaṭṭ 1 a (turn) | pari + √vaṭṭ + a | a masc | 2 |
@@ -255,7 +255,7 @@
 | abhisaṅkharoti 2 | pr | does; performs | √kar 7 o (do, make) | abhi + saṃ + kharo + ti | oti pr | 3 |
 | abhitthavati | pr | praises; glorifies; celebrates | √thu 1 a (be familiar, praise) | abhi + thava + ti | ati pr | 3 |
 | abhivaḍḍhati | pr | increases more and more; surpasses; outgrows | √vaḍḍh 1 a (grow, increase) | abhi + vaḍḍha + ti | ati pr | 3 |
-| acchādeti 1.1 | pr | dresses; clothes; give clothes (to) | √chad 8 *e (cover, conceal) | ā + chāde + ti | eti pr | 3 |
+| acchādeti 1.1 | pr | dresses; clothes; gives clothes (to) | √chad 8 *e (cover, conceal) | ā + chāde + ti | eti pr | 3 |
 | adhigacchati 1 | pr | gets; finds; acquires; obtains | √gam 1 a (go) | adhi + gaccha + ti | ati pr | 3 |
 | anudhāvati 1 | pr | runs along; sprints along | √dhāv 1 a (run, flow) | anu + dhāva + ti | ati pr | 3 |
 | anulometi 2 | pr | regulates; settles; balances |  | anu + loma + e + ti | eti pr | 3 |
@@ -315,7 +315,7 @@
 | ovadati | pr | advises; instructs; admonishes | √vad 1 a (say, speak) | ava + vada + ti | ati pr | 3 |
 | pabbajati | pr | ordains as a monastic; renounces the household life | √vaj 1 a (go on) | pa + vaja + ti | ati pr | 3 |
 | paccavekkhati | pr | views; reviews; regards; reflects; considers; looks upon | √ikkh 1 a (see, mark) | pati > paty > pacc + ava + ikkha + ti | ati pr | 3 |
-| padahati 1 | pr | exerts oneself; strives; applies oneself; endeavours (with) | √dhā 1 a (place, support) | pa + daha + ti | ati pr | 3 |
+| padahati 1 | pr | exerts oneself; strives; applies oneself; perseveres (with) | √dhā 1 a (place, support) | pa + daha + ti | ati pr | 3 |
 | paggaṇhāti 2 | pr | holds out; raises up | √gah 6 ṇhā (grasp) | pa + gaṇhā + ti | āti pr | 3 |
 | paggaṇhāti 3 | pr | applies effort; strives on; goes for it; endeavours | √gah 6 ṇhā (grasp) | pa + gaṇhā + ti | āti pr | 3 |
 | paharati | pr | strikes; beats; gives a blow (to) | √har 1 a (carry) | pa + hara + ti | ati pr | 3 |
@@ -336,7 +336,7 @@
 | passati 2 | pr | understands; gets | √dis 1 a (see) | passa + ti | ati pr | 3 |
 | patikuṭati | pr | bends away; turns aside (from) | √kuṭ 1 a (be crooked, be bent) | pati + kuṭa + ti | ati pr | 3 |
 | patilīyati | pr | withdraws; pulls away; draws back (from) | √lī 3 ya (stick, hide) | pati + līya + ti | ati pr | 3 |
-| pativattati | pr | bends back; fold backwards; turns back; recoils | √vatt 1 a (be, proceed) | pati + vatta + ti | ati pr | 3 |
+| pativattati | pr | bends back; folds backwards; turns back; recoils | √vatt 1 a (be, proceed) | pati + vatta + ti | ati pr | 3 |
 | pavaḍḍhati 1 | pr | increases; develops; grows | √vaḍḍh 1 a (grow, increase) | pa + vaḍḍha + ti | ati pr | 3 |
 | pavisati | pr | enters; goes (into) | √vis 1 a (enter) | pa + visa + ti | ati pr | 3 |
 | paṭibhāti | pr | comes to mind; occurs (to); inspires (someone to) | √bhā 1 a (shine, speak) | pati + bhā + ti | āti pr | 3 |
@@ -344,14 +344,14 @@
 | paṭiggaṇhāti 1 | pr | takes; accepts; receives | √gah 6 ṇhā (grasp) | pati + gaṇhā + ti | āti pr | 3 |
 | paṭiggaṇhāti 2 | pr | (of an apology) accepts | √gah 6 ṇhā (grasp) | pati + gaṇhā + ti | āti pr | 3 |
 | paṭijānāti 4 | pr | makes the claim (of); claims (to be); supposes ones is | √ñā 5 nā (know) | pati + jānā + ti | āti pr | 3 |
-| paṭikkosati | pr | rejects; refuses to accept; disses; disdains | √kus 1 *a (call, insult) | pati + kosa + ti | ati pr | 3 |
+| paṭikkosati | pr | rejects; refuses to accept; dismisses; disdains | √kus 1 *a (call, insult) | pati + kosa + ti | ati pr | 3 |
 | paṭilabhati 1 | pr | obtains; gets; receives; personally experiences | √labh 1 a (get) | pati + labha + ti | ati pr | 3 |
 | paṭinissajjati | pr | gives up; relinquishes; drops; abandons | √sajj 1 a (relinquish, let loose) | pati + nī + sajja + ti | ati pr | 3 |
 | paṭipajjati 2 | pr | practices; follows a course of action; follows a method | √pad 3 ya (go, step) | pati + pajja + ti | ati pr | 3 |
 | paṭisañcikkhati | pr | reflects; considers; discerns | √cikkh 1 a (show, tell) | pati + saṃ + cikkha + ti | ati pr | 3 |
 | paṭisaṃharati 1 | pr | withdraws from; pulls back (from) | √har 1 a (carry) | pati + saṃ + hara + ti | ati pr | 3 |
 | paṭisaṃvedeti | pr | personally experiences; undergoes; feels | √vid 8 *e (know, sense, feel) | pati + saṃ + vede + ti | eti pr | 3 |
-| paṭisevati 1 | pr | practices; indulges; engages (in) | √sev 1 a (serve, associate) | pati + seva + ti | ati pr | 3 |
+| paṭisevati 1 | pr | practices; engages; indulges (in) | √sev 1 a (serve, associate) | pati + seva + ti | ati pr | 3 |
 | paṭisevati 2 | pr | uses; makes use (of) | √sev 1 a (serve, associate) | pati + seva + ti | ati pr | 3 |
 | paṭivineti | pr | drives out; dispels; gets rid of | √nī 1 a (lead, carry) | pati + vi + ne + ti | eti pr | 3 |
 | phusati 1 | pr | touches; contacts; feels; experiences | √phus 1 a (touch) | phusa + ti | ati pr | 3 |
@@ -362,7 +362,7 @@
 | rūhati 1 | pr | grows; ascends; increases | √ruh 1 *a (ascend, grow) | rūha + ti | ati pr | 3 |
 | sakkoti | pr | is able (to) | √sak 4 ṇo (be able, be powerful) | sakko + ti | oti pr | 3 |
 | sakkuṇāti | pr | is able (to) | √sak 4 uṇā (be able, be powerful) | sakkuṇā + ti | āti pr | 3 |
-| samanupassati 2 | pr | regards; considers; recognises; sees (as) | √dis 1 a (see) | saṃ + anu + passa + ti | ati pr | 3 |
+| samanupassati 2 | pr | regards; considers; recognizes; sees (as) | √dis 1 a (see) | saṃ + anu + passa + ti | ati pr | 3 |
 | sameti 2.4 | pr | harmonizes; is united; agrees (with) | √i 1 a (come, go) | saṃ + e + ti | eti pr | 3 |
 | samucchindati 1 | pr | cuts off completely; uproots; eradicates; exterminates | √chid 2 ṃa (cut, divide) | saṃ + ud + chinda + ti | ati pr | 3 |
 | samāpajjati 2 | pr | engages (in); practices; performs | √pad 3 ya (go, step) | saṃ + ā + pajja + ti | ati pr | 3 |
@@ -389,7 +389,7 @@
 | upeti 2 | pr | enters; gets involved (with); engages (in) | √i 1 a (come, go) | upa + e + ti | eti pr | 3 |
 | uppajjati 1 | pr | appears; arises; occurs; takes place (for or in) | √pad 3 ya (go, step) | ud + pajja + ti | ati pr | 3 |
 | upādiyati | pr | grasps; holds (onto); clings (to); takes possession (of) | √ādā 3 ya (take, seize) | upa + ādiya + ti | ati pr | 3 |
-| ussahati 1.1 | pr | makes an effort; strives; actively endeavours (in) | √sah 1 a (overcome, prevail) | ud + saha + ti | ati pr | 3 |
+| ussahati 1.1 | pr | makes an (initial) effort; strives; actively endeavours (in) | √sah 1 a (overcome, prevail) | ud + saha + ti | ati pr | 3 |
 | uṭṭhahati 1 | pr | gets up; gets out; arouses oneself | √ṭhā 1 a (stand) | ud + ṭhaha + ti | ati pr | 3 |
 | vadati 1 | pr | says; speaks; tells (to) | √vad 1 a (say, speak) | vada + ti | ati pr | 3 |
 | vasati 1 | pr | lives; stays; resides (in) | √vas 1 a (live) | vasa + ti | ati pr | 3 |
@@ -399,7 +399,7 @@
 | viharati 1 | pr | lives; dwells; stays (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
 | viharati 2 | pr | stays; remains; continues; abides (in) | √har 1 a (live) | vi + hara + ti | ati pr | 3 |
 | vihiṃsati | pr | hurts; harms; injures; is cruel (towards) | √his 2 ṃa (hurt, harm) | vi + hiṃsa + ti | ati pr | 3 |
-| vijānāti 1 | pr | comprehends; understands; recognises; distinguishes; is aware (of) | √ñā 5 nā (know) | vi + jānā + ti | āti pr | 3 |
+| vijānāti 1 | pr | comprehends; understands; recognizes; distinguishes; is aware (of) | √ñā 5 nā (know) | vi + jānā + ti | āti pr | 3 |
 | vinassati 1 | pr | perishes; is destroyed | √nas 3 ya (be lost, disappear) | vi + nassa + ti | ati pr | 3 |
 | visahati 1.1 | pr | is able (to) | √sah 1 a (be able) | vi + saha + ti | ati pr | 3 |
 | vitakketi | pr | thinks (about); reflects (on); ponders (over) | √takk 8 *e (think) | vi + takke + ti | eti pr | 3 |
@@ -454,7 +454,7 @@
 | paccassosi | aor | replied (to); agreed (with); assented (to) | √su 4 ṇā (hear) | pati > paty > pacc + a + so + si | i aor | 4 |
 | pahoti 2 | pr | is able (to); is capable (of); is qualified (to) | √hū 1 a (be) | pa + ho + ti | hoti pr | 4 |
 | pakkāmi 1 | aor | left; set off; went away (from) | √kam 1 a (go) | pa + a + √kam > kām + i | i aor isuṃ | 4 |
-| paridevi | aor | mourned; lamented; wailed | √dev 1 a (lament) | pari + √dev + i | i aor | 4 |
+| paridevi | aor | wailed; cried; lamented | √dev 1 a (lament) | pari + √dev + i | i aor | 4 |
 | passa 2.1 | imp | see!; look (at)! | √dis 1 a (see) | passa + a | ati pr | 4 |
 | paṇidahi | aor | guided; directed; determined; intended; aimed | √dhā 1 a (place, support) | pa + ni + daha + i | i aor | 4 |
 | pucchi | aor | asked; enquired; questioned (somebody about) | √pucch 1 a (ask, question) | √pucch + i | i aor issaṃ | 4 |
@@ -463,7 +463,7 @@
 | soci | aor | grieved; was sad | √suc 1 *a (grieve) | soca + i | i aor | 4 |
 | sāli | masc | fine rice |  |  | i masc | 4 |
 | sārathi 2 | masc | (horse or elephant) trainer |  | sa + ratha + i | i masc | 4 |
-| udapādi 1 | aor | arose; sprung up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
+| udapādi 1 | aor | arose; sprang up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
 | upasaṅkami | aor | approached; drew near; went (to) | √kam 1 a (go) | upa + saṃ + √kam + i | i aor | 4 |
 | vīhi | masc | rice paddy; Oryza sativa |  |  | i masc | 4 |
 | ñāti | masc | family; relative; kinsman | √ñā 5 nā (know) | √ñā + ti | i masc | 4 |
@@ -497,7 +497,7 @@
 | cārī 1.1 | adj | living; acting; behaving; conducting oneself | √car 1 a (act, behave) | √car > cār + *ī | ī adj | 5 |
 | dassī 2 | adj | who sees; who knows; who perceives; who understands | √dis 1 a (see) | dassa + ī | ī adj | 5 |
 | dhammī 1 | adj | righteous; religious; moral; related to the Dhamma | √dhar 1 a (hold, carry, endure) | √dhar + ma + ī | ī adj | 5 |
-| dhāressati | fut | will bear in mind; will keep in mind; will remembers | √dhar 8 *e (wear, hold, carry) | dhāre + ssa + ti | eti pr | 5 |
+| dhāressati | fut | will bear in mind; will keep in mind; will remember | √dhar 8 *e (wear, hold, carry) | dhāre + ssa + ti | eti pr | 5 |
 | dubbalī | adj | weak; feeble | √bal 1 a (be strong, live) | dur + √bal + a | ī adj | 5 |
 | essati | fut | will go; will come (to); will reach | √i 1 a (come, go) | essa + ti | ssati fut | 5 |
 | esī | adj | who is seeking; looking for | √es 1 a (seek, search) | √es + ī | ī adj | 5 |
@@ -506,7 +506,7 @@
 | gāhī 1 | adj | grasping after; grabbing hold (of) | √gah 6 ṇhā (grasp) | √gah > gāh + *ī | ī adj | 5 |
 | gāmī 1 | adj | leading; going; heading (to) | √gam 1 a (go) | √gam > gām + *ī | ī adj | 5 |
 | gāmī 2 | adj | going; moving; who goes | √gam 1 a (go) | √gam > gām + *ī | ī adj | 5 |
-| jegucchī 1 | adj | who is disgusted (to); recoiling (from); who hates (to); who detests | √gup 1 sa (dislike) | jiguccha > jeguccha + *ī | ī adj | 5 |
+| jegucchī 1 | adj | who is disgusted; who hates (to); who detests; recoiling (from) | √gup 1 sa (dislike) | jiguccha > jeguccha + *ī | ī adj | 5 |
 | kabaḷī | masc | lump; morsel; mouthful; lump of food |  | kabaḷa > kabaḷī | ī masc | 5 |
 | khemī | adj | at peace; safe; secure (from) | √khi 1 a (live, abide peacefully) | √khi > khe + *ma + ī | ī adj | 5 |
 | medhāvī | masc | intelligent man; wise man; who has good judgment | √medh 1 a (be wise) | √medh + ā + vī | ī masc | 5 |
@@ -544,7 +544,7 @@
 | yogī | masc | meditator; practitioner | √yuj 2 ṃa (yoke, join) | √yuj > yoj > yog + *ī | ī masc | 5 |
 | āgāmī 1 | adj | who returns; who comes back | √gam 1 a (go) | ā + √gam > gām + *ī | ī adj | 5 |
 | āsabhī | adj | lordly; imposing; bold |  | usabha > āsabha + *ī | ī adj | 5 |
-| ātāpī | adj | avid; ardent; zealous; with continuous effort | √tap 1 a (burn, radiate heat) | ā + √tap > tāp + *ī | ī adj | 5 |
+| ātāpī | adj | avid; ardent; zealous; keen; with continuous effort | √tap 1 a (burn, radiate heat) | ā + √tap > tāp + *ī | ī adj | 5 |
 | ṭhassati | fut | will stand; will stay; will remain; will last | √ṭhā 1 a (stand) | √ṭhā + ssa + ti | ssati fut | 5 |
 | ṭhāyī | adj | remaining (in); staying (in); in a state (of); continuing; persisting | √ṭhā 1 a (stand) | √ṭhā + [y] + ī | ī adj | 5 |
 | abhibhū 1 | masc | conqueror; victor; vanquisher; master (of) | √bhū 1 a (be, become) | abhi + √bhū + ū | ū masc | 6 |
@@ -586,7 +586,7 @@
 | pure 2 | ind | formerly; previously; in the past |  |  |  | 6 |
 | rattaññū | adj | old; experienced; of long standing |  | ratta + ñū | ū adj | 6 |
 | rūpavant 1 | adj | material; physical; having material form; possessing form | √rūp 8 *e (form, produce) | √rūp + a + vant | ant adj | 6 |
-| sabbavidū 1 | adj | all-knowing; omniscient |  | sabba + vidū | ū adj | 6 |
+| sabbavidū | adj | all-knowing; omniscient |  | sabba + vidū | ū adj | 6 |
 | sabbābhibhū | adj | all conquering; victorious over everything |  | sabba + abhibhū | ū adj | 6 |
 | sabbāvant | adj | entire; whole; complete |  | sabba + vant | ant adj | 6 |
 | sadā | ind | always; ever; all the time |  | saṃ + dā |  | 6 |
@@ -598,7 +598,7 @@
 | vajjavant | adj | at fault; in error; with mistakes | √vajj 8 *e (turn, avoid) | √vajj + ya + vant | ant adj | 6 |
 | vidū 1 | adj | wise; knowing; understanding | √vid 1 a (know) | √vid + ū | ū adj | 6 |
 | viññū 1 | adj | wise; intelligent; discerning; knowledgeable | √ñā 5 nā (know) | vi + √ñā + ū | ū adj | 6 |
-| viññū 2 | masc | wise person; sage; knowledgable man; intelligent person | √ñā 5 nā (know) | vi + √ñā + ū | ū masc | 6 |
+| viññū 2 | masc | wise person; sage; knowledgeable man; intelligent person | √ñā 5 nā (know) | vi + √ñā + ū | ū masc | 6 |
 | vā 1 | ind | or; either or |  |  |  | 6 |
 | yadā | ind | when; whenever |  | ya + dā |  | 6 |
 | āgantar 2 | masc | returner; who comes back (to) | √gam 1 a (go) | ā + √gam + tar | ar masc | 6 |
@@ -670,8 +670,8 @@
 | ukkaṭṭhā | fem | name of town | √kas 1 a (drag, draw) | ud + √kas + ta + ā | ā fem | 7 |
 | upapajjeyya | opt | would be reborn; would re-arise (in) | √pad 3 ya (go, step) | upa + pajja + eyya | ati pr | 7 |
 | upasampadā 2 | fem | (vinaya) higher ordination as monastic | √pad 3 ya (go, step) | upa + saṃ + √pad + ā | ā fem | 7 |
-| upekkhā | fem | looking on; mental poise; mental balance; equanimity; equipoise; non-reactivity; composure | √ikkh 1 a (see, mark) | upa + √ikkh + ā | ā fem | 7 |
-| upāsikā | fem | female disciple; laywomen; female devotee | √ās 1 a (sit) | upa + √ās + ikā | ā fem | 7 |
+| upekkhā | fem | looking on; mental poise; mental balance; equanimity; equipoise; non-reactivity | √ikkh 1 a (see, mark) | upa + √ikkh + ā | ā fem | 7 |
+| upāsikā | fem | female disciple; laywoman; female devotee | √ās 1 a (sit) | upa + √ās + ikā | ā fem | 7 |
 | vadeyya | opt | would say; could speak; could tell | √vad 1 a (say, speak) | vada + eyya | ati pr | 7 |
 | vedanā 1 | fem | (pleasant, unpleasant or neutral) felt experience; feeling; feeling tone; hedonic tone; sensation (coming from six sense experience); second of the five aggregates | √vid 8 *e (know, sense, feel) | √vid > ved + *anā | ā fem | 7 |
 | vijjā 1 | fem | knowledge; wisdom; understanding | √vid 3 ya (know, understand) | √vid + yā | ā fem | 7 |
@@ -717,7 +717,7 @@
 | karitvā 1 | abs | having done; having performed | √kar 7 o (do, make) | √kar + itvā |  | 8 |
 | katvā 2 | abs | having made | √kar 7 o (do, make) | √kar + tvā |  | 8 |
 | katvāna 1 | abs | having done | √kar 7 o (do, make) | √kar + tvāna |  | 8 |
-| khanti 1 | fem | patience; endurance; tolerance | √kham 1 a (tolerate, endure) | √kham + ti | i fem | 8 |
+| khanti 1 | fem | patience (with); endurance; tolerance (of) | √kham 1 a (tolerate, endure) | √kham + ti | i fem | 8 |
 | khāri | fem | goods carried on a pole across the shoulders |  |  | i fem | 8 |
 | kuhiṃ | ind | where? |  | ka > ku + hiṃ |  | 8 |
 | kukkuṭī | fem | hen; chicken |  | kukkuṭa + ī | ī fem | 8 |
@@ -767,7 +767,7 @@
 | tattha 2 | ind | in that regard; in that case; regarding that matter |  | ta + ttha |  | 8 |
 | therī | fem | senior nun; nun of ten years standing | √ṭhā 1 a (stand) | √ṭhā > thā + ira + ī | ī fem | 8 |
 | uggahetvā 2 | abs | having learned; having memorized | √gah 6 ṇhā (grasp) | ud + gahe + tvā |  | 8 |
-| upasampajja 1 | ger | reaching; attaining; arriving at | √pad 3 ya (go, step) | upa + saṃ + √pad + ya |  | 8 |
+| upasampajja 1 | ger | arriving at; attaining; having reached | √pad 3 ya (go, step) | upa + saṃ + √pad + ya |  | 8 |
 | upasaṅkamitvā | abs | having approached; having gone; having drawn near (to) | √kam 1 a (go) | upa + saṃ + √kam + itvā |  | 8 |
 | uṭṭhāya | ger | rising; emerging; getting up (from) | √ṭhā 1 a (stand) | ud + √ṭhā + ya |  | 8 |
 | vatthi 1 | fem | bladder; urinary tract |  |  | i fem | 8 |
@@ -901,7 +901,7 @@
 | pada 09 | nt | footprint; footstep | √pad 3 ya (go, step) | √pad + a | a nt | 9 |
 | padhāna 1 | nt | making effort; exerting; striving; trying (to) | √dhā 1 a (place, support) | pa + √dhā + ana | a nt | 9 |
 | pamāṇa 3 | nt | measure; measurement; length; size; amount; quantity | √mā 5 nā (measure) | pa + √mā + aṇa | a nt | 9 |
-| parinibbāna 1 | nt | (of mental defilement) complete quenching; total excetinguishing; complete cooling | √vā 1 a (blow, emit odour) | pari + nī + bā + ana | a nt | 9 |
+| parinibbāna 1 | nt | (of mental defilement) complete quenching; total extinguishing; complete cooling | √vā 1 a (blow, emit odour) | pari + nī + bā + ana | a nt | 9 |
 | pariyosāna 1 | nt | end; finish; conclusion; culmination (of) | √sā 1 a (complete, accomplish) | pari + [y] + ava + √sā + ana | a nt | 9 |
 | passa 1.1 | nt | (of the body) side; rib |  |  | a nt | 9 |
 | pavana 1.1 | nt | woodland; forest |  | pa + vana | a nt | 9 |
@@ -1033,7 +1033,7 @@
 | passasanta | prp | exhaling; breathing out | √sas 1 a (breath) | pa + sasa + nta | anta prp | 10 |
 | patthayamāna 1 | prp | wishing; aspiring (for) | √atth 8 *aya (wish for) | pa + atthaya + māna | māna prp | 10 |
 | pavicaranta | prp | examining; investigating; considering carefully | √car 1 a (move, walk) | pa + vi + cara + nta | anta prp | 10 |
-| paṭisevanta 1 | prp | practising; indulging; engaging (in) | √sev 1 a (serve, associate) | pati + seva + nta | anta prp | 10 |
+| paṭisevanta 1 | prp | practising; engaging; indulging (in) | √sev 1 a (serve, associate) | pati + seva + nta | anta prp | 10 |
 | phandamāna | prp | trembling; quivering; shivering; palpitating | √phand 1 a (shake, quiver) | phanda + māna | māna prp | 10 |
 | sabba 1 | pron | all; every |  |  | a pron | 10 |
 | sabba 2 | pron | everything; everyone; all |  |  | a pron | 10 |
@@ -1042,14 +1042,14 @@
 | sampassamāna | prp | seeing; observing; considering | √dis 1 a (see) | saṃ + passa + māna | māna prp | 10 |
 | santa 1.1 | prp | existing; being; there is | √as 1 a (be) | sa + nta | santa prp | 10 |
 | saramāna | prp | remembering; recollecting | √sar 1 a (remember) | sara + māna | māna prp | 10 |
-| sati 2.1 | prp | when is; when exists | √as 1 a (be) | sa + nta + ti | santa prp | 10 |
-| sato | prp | when being; when is; when are | √as 1 a (be) | sa + nta + to | santa prp | 10 |
+| sati 2.1 | prp | when there is; when exists | √as 1 a (be) | sa + nta + ti | santa prp | 10 |
+| sato | prp | when being; when it is; when they are | √as 1 a (be) | sa + nta + to | santa prp | 10 |
 | sayāna | prp | lying down | √sī 1 a (lie, sleep) | saya + āna | āna prp | 10 |
 | semāna | prp | sleeping; lying down | √sī 1 a (lie, sleep) | se + māna | māna prp | 10 |
 | tasmiṃ 2 | pron | when that |  | ta + asmiṃ | ta pron | 10 |
 | tasmiṃ samaye | idiom | then; on that occasion; at that time |  |  |  | 10 |
 | tassa 3 | pron | when he; when it |  | ta + ssa | ta pron | 10 |
-| tiṭṭhamāna | prp | standing; remaining | √ṭhā 1 a (stand) | tiṭṭha + māna | māna prp | 10 |
+| tiṭṭhamāna | prp | standing; lasting; remaining; persisting | √ṭhā 1 a (stand) | tiṭṭha + māna | māna prp | 10 |
 | tiṭṭhanta 1 | prp | standing (in); standing still | √ṭhā 1 a (stand) | tiṭṭha + nta | anta prp | 10 |
 | upapajjamāna | prp | being reborn; re-arising | √pad 3 ya (go, step) | upa + pajja + māna | māna prp | 10 |
 | uppajjamāna | prp | arising; appearing; coming into being | √pad 3 ya (go, step) | ud + pajja + māna | māna prp | 10 |
@@ -1059,7 +1059,7 @@
 | vippalapanta | prp | talking; chattering | √lap 1 a (speak, chat) | vi + pa + lapa + nta | anta prp | 10 |
 | vāyamamāna | prp | making an effort (to); striving (for); exerting oneself (to) | √yam 1 a (control, strive, end) | vi + ā + yama + māna | māna prp | 10 |
 | yasmiṃ samaye | idiom | whenever; at whichever time |  |  |  | 10 |
-| ādiyamāna | prp | taking; grabbing; stealing | √ādā 3 ya (take, seize) | ādiya + māna | māna prp | 10 |
+| ādiyamāna 1 | prp | taking; grabbing; stealing | √ādā 3 ya (take, seize) | ādiya + māna | māna prp | 10 |
 | ākaṅkhamāna | prp | wishing; desiring; seeking (for) | √kaṅkh 1 a (wish for) | ā + kaṅkha + māna | māna prp | 10 |
 | āpajjanta 1 | prp | arousing; exhibiting; producing; bringing into being | √pad 3 ya (go, step) | ā + pajja + nta | anta prp | 10 |
 | abbhuggata | pp | arisen; spread; circulated (about) | √gam 1 a (go) | abhi > abhy > abbh + ud + √gam + ta | a pp | 11 |
@@ -1075,7 +1075,7 @@
 | acira | adj | (of time) not long; soon; recent |  | na > a + cira | a adj | 11 |
 | addhuva | adj | not stable; not enduring; not eternal | √dhuv 1 a (be firm, be solid) | na > a + √dhuv + a | a adj | 11 |
 | adhigata 1 | pp | got; acquired; attained; achieved | √gam 1 a (go) | adhi + √gam + ta | a pp | 11 |
-| adhimutta 1 | pp | inclined; directed; orientated (towards); intent; resolved (on) | √muc 2 ṃa (release, free) | adhi + √muc + ta | a pp | 11 |
+| adhimutta 1 | pp | inclined; directed; oriented (towards); intent; resolved (on) | √muc 2 ṃa (release, free) | adhi + √muc + ta | a pp | 11 |
 | adinna 1.1 | nt | which is not given; something not offered | √dā 1 a (give) | na > a + √dā > dī + na | a nt | 11 |
 | adiṭṭha 1.1 | pp | not seen; unseen (by) | √dis 1 a (see) | na > a + √dis + ta | a pp | 11 |
 | aghato | ind | as trouble; as pain; as bad |  | agha + to |  | 11 |
@@ -1086,7 +1086,7 @@
 | akata 1 | pp | not done; not performed; not acted | √kar 7 o (do, make) | na > a + √kar + ta | a pp | 11 |
 | akata 2 | pp | not made; not created | √kar 7 o (do, make) | na > a + √kar + ta | a pp | 11 |
 | akhaṇḍa | adj | unbroken; unfragmented; whole | √khaṇḍ 8 *e (break) | na > a + √khaṇḍ + a | a adj | 11 |
-| akiñcana | adj | with nothing; is nothing; having no; possession-less; epithet of an arahant |  | na > a + kiñci + ana | a adj | 11 |
+| akiñcana | adj | with nothing; is nothing; having nothing; possession-less; epithet of an arahant |  | na > a + kiñci + ana | a adj | 11 |
 | akkhāta | pp | said; told; declared; announced (by) | √khā 1 a (tell, announce) | ā + √khā + ta | a pp | 11 |
 | akovida | adj | unskilled (in); not expert (in); not proficient (in); not a master (of) | √vid 1 a (know) | na > a + ku > ko + √vid + *a | a adj | 11 |
 | akusala 3 | adj | unhealthy; unwholesome; unskilful; unbeneficial; kammically unprofitable |  | na > a + kusala | a adj | 11 |
@@ -1121,7 +1121,7 @@
 | apagata 1 | pp | without; free (from); with no | √gam 1 a (go) | apa + √gam + ta | a pp | 11 |
 | apara 1 | adj | another; after; further; next |  | apa + ra | a adj | 11 |
 | aparikkamana | adj | not accessible; not approachable | √kam 1 a (go) | na > a + pari + √kam + ana | a adj | 11 |
-| aparimita | pp | immeasurable; limitless | √mā 5 nā (measure) | na > a + pari + √mā > mi + ta | a pp | 11 |
+| aparimita 1 | pp | immeasurable; limitless | √mā 5 nā (measure) | na > a + pari + √mā > mi + ta | a pp | 11 |
 | aparimāṇa 1 | adj | immeasurable; boundless | √mā 5 nā (measure) | na > a + pari + √mā + aṇa | a adj | 11 |
 | apariyādinna 1 | pp | not used up; not exhausted; not consumed; not run out | √ādā 3 ya (take, seize) | na > a + pari + [y] + √ādā > ādī + na | a pp | 11 |
 | aparājita 1 | pp | unconquered; undefeated; victorious; triumphant | √ji 1 a (conquer) | na > a + parā + √ji + ta | a pp | 11 |
@@ -1195,14 +1195,14 @@
 | dullabha 1 | adj | difficult to find; hard to obtain; rare (for) | √labh 1 a (get) | dur + √labh + a | a adj | 11 |
 | duṭṭha 1 | pp | wicked; evil; bad; corrupt | √dus 3 ya (be angry, be corrupt) | √dus + ta | a pp | 11 |
 | duṭṭhulla 2 | adj | (of speech) rude; obscene; vulgar; coarse | √thūl 8 *e (be fat, be coarse) | dur + √thūl > thull + a | a adj | 11 |
-| dvāra 3 | adj | having sense-doors; with the six sense fields | √dvar 1 a (obstruct, prohibit) | √dvar > dvār + *a | a adj | 11 |
+| dvāra 2 | adj | having sense-doors; with the six sense fields | √dvar 1 a (obstruct, prohibit) | √dvar > dvār + *a | a adj | 11 |
 | dūrama | adj | difficult to delight (in); hard to enjoy | √ram 1 a (delight, please) | dur > dū + √ram + a | a adj | 11 |
 | dūrato | ind | from far away; from afar | √dū 1 a (go, run) | √dū + ra + to |  | 11 |
 | eka 3 | adj | alone; single; solitary |  |  | eka adj | 11 |
 | ekaka 1 | adj | alone; solitary |  | eka + ka | a adj | 11 |
 | gahita 1 | pp | got; grasped; grabbed; held; seized; captured; taken | √gah 6 ṇhā (grasp) | √gah + ita | a pp | 11 |
 | gama | adj | going; able to go | √gam 1 a (go) | √gam + a | a adj | 11 |
-| garu 3 | adj | respected; esteemed | √gar 1 a (esteem, be heavy) | √gar + u | u adj | 11 |
+| garu 3 | adj | respected; esteemed; honoured | √gar 1 a (esteem, be heavy) | √gar + u | u adj | 11 |
 | gata 1 | pp | gone (to); went (for) | √gam 1 a (go) | √gam + ta | a pp | 11 |
 | gata 2 | pp | become (a certain way); being in (some state); gone into (a state) | √gam 1 a (go) | √gam + ta | a pp | 11 |
 | gaṇḍato | ind | as a boil; as an abscess |  | gaṇḍa + to |  | 11 |
@@ -1224,7 +1224,7 @@
 | kanta 1.1 | pp | charming; pleasant; desirable; agreeable (to) | √kam 8 *e (desire) | √kam + ta | a pp | 11 |
 | kara 1 | adj | doing; making | √kar 7 o (do, make) | √kar + a | a adj | 11 |
 | karaṇa 1 | adj | doing; making; causing; effecting | √kar 7 o (do, make) | √kar + aṇa | a adj | 11 |
-| kata 1 | pp | done; did; completed | √kar 7 o (do, make) | √kar + ta | a pp | 11 |
+| kata 1 | pp | done; did; completed; accomplished | √kar 7 o (do, make) | √kar + ta | a pp | 11 |
 | kaṇha 1 | adj | dark; black |  |  | a adj | 11 |
 | kevala 1 | adj | all; whole lot; altogether; total; entire; complete |  |  | a adj | 11 |
 | khama 2 | adj | fit (for); capable (of); suitable (for) | √kham 1 a (tolerate, endure) | √kham + a | a adj | 11 |
@@ -1240,9 +1240,9 @@
 | kāsāya 1 | adj | organic brown; colour of Buddhist monks' robes |  | kasāya > kāsāya + *a | a adj | 11 |
 | laddha 1 | pp | obtained; gained; won; acquired | √labh 1 a (get) | √labh > ladh + ta | a pp | 11 |
 | mahanta 1 | adj | big; great; large; grand; vast; extensive | √mah 1 a (increase) | maha + nta | anta adj | 11 |
-| majjhima 1 | adj | middle; middling; medium; medium-sized; moderate |  | majjha + ima | a adj | 11 |
+| majjhima 01 | adj | middle; middling; medium; medium-sized; moderate |  | majjha + ima | a adj | 11 |
 | manāpa 1 | adj | pleasant; likeable; attractive; agreeable |  |  | a adj | 11 |
-| maya | adj | made of; constructed by; built of | √mā 5 nā (measure) | √mā + ya | a adj | 11 |
+| maya 1 | adj | made of; constructed by; built of | √mā 5 nā (measure) | √mā + ya | a adj | 11 |
 | methuna 1 | adj | sexual | √mith 1 a (pair) | √mith > meth + una + *a | a adj | 11 |
 | metta 1 | adj | friendly; benevolent; kind | √mitt 1 a (be friendly) | √mitt > mett + *a | a adj | 11 |
 | mosa 2.1 | adj | untrue; false; deceitful | √mus 3 ya (lie, forget) | √mus > mos + *a | a adj | 11 |
@@ -1284,7 +1284,7 @@
 | pariyuṭṭha | adj | obsessed (with); possessed (by); overwhelmed (by); overcome (by) | √ṭhā 1 a (stand) | pari + [y] + ud + √ṭhā + a | a adj | 11 |
 | parājita | pp | conquered; defeated; who lost | √ji 1 a (conquer) | parā + √ji + ta | a pp | 11 |
 | pasattha | pp | praised; commended; exalted (by) | √saṃs 1 a (proclaim, praise) | pa + √saṃs + ta | a pp | 11 |
-| passaddha | pp | relaxed; calmed; tranquillised | √sambh 1 a (be calm, be confident) | pa + √sambh > sabh + ta | a pp | 11 |
+| passaddha | pp | relaxed; calmed; tranquillized | √sambh 1 a (be calm, be confident) | pa + √sambh > sabh + ta | a pp | 11 |
 | pavivitta | pp | separated; secluded; detached (from) | √vic 1 a (separate) | pa + vi + √vic + ta | a pp | 11 |
 | paṇihita 1 | pp | guided; directed; orientated; determined; intended | √dhā 1 a (place, support) | pa + ni + √dhā > (da)h + ita | a pp | 11 |
 | paṇīta 2 | pp | fine; refined; excellent; superior; sublime | √nī 1 a (lead, carry) | pa + √nī + ta | a pp | 11 |
@@ -1327,7 +1327,7 @@
 | sassata | adj | eternal; everlasting; endless; perpetual; (comm) existing forever |  | sassati + a | a adj | 11 |
 | sata 1.1 | pp | mindful; present; attentive | √sar 1 a (remember) | √sar + ta | a pp | 11 |
 | saṃhita | pp | connected (with); concerning; having | √dhā 1 a (place, support) | saṃ + √dhā > (da)h + ita | a pp | 11 |
-| saṃvattanika 1 | adj | leading (to); headed (to); conducive (to); suitable (for) | √vatt 1 a (be, proceed) | saṃ + √vatt + ana + ika | a adj | 11 |
+| saṃvattanika 1 | adj | leading (to); heading (to); conducive (to); suitable (for) | √vatt 1 a (be, proceed) | saṃ + √vatt + ana + ika | a adj | 11 |
 | saṇha 1 | adj | (of speech) smooth; soft; gentle; mild; polite |  |  | a adj | 11 |
 | seyya 1.1 | adj | better (than); preferable (to) |  | sirī + *ya | a adj | 11 |
 | seṭṭha 1 | adj | foremost (among); best (of); primary; most important; supreme (among) |  | ?? siri + *ttha | a adj | 11 |
@@ -1403,7 +1403,7 @@
 | āraddha 1.1 | pp | aroused; applied; undertaken | √rabh 1 a (begin) | ā + √rabh + ta | a pp | 11 |
 | āsevita 1 | pp | practised persistently | √sev 1 a (serve, associate) | ā + √sev + ita | a pp | 11 |
 | āvaraṇa 1 | adj | obstructing; blocking; impeding | √var 1 a (cover, dress, restrain) | ā + √var + aṇa | a adj | 11 |
-| ṭhita 2 | pp | stationary; stable; stabilised; motionless; immovable | √ṭhā 1 a (stand) | √ṭhā + ita | a pp | 11 |
+| ṭhita 2 | pp | stationary; stable; stabilized; motionless; immovable | √ṭhā 1 a (stand) | √ṭhā + ita | a pp | 11 |
 | ṭhita 7 | pp | situated; standing; remaining (in) | √ṭhā 1 a (stand) | √ṭhā + ita | a pp | 11 |
 | aṭṭha 1.1 | card | eight (8) |  |  | a1 card | 12 |
 | aṭṭhama 1 | ordin | eighth (8th) |  | aṭṭha + ma | aī ordin | 12 |
@@ -1477,7 +1477,7 @@
 | chijjati 1 | pr | is cut off; is severed | √chid 2 ya (cut, divide) | chijja + ti | ati pr | 13 |
 | ci | ind | some; any |  |  |  | 13 |
 | dhātuso 1 | ind | as states; as elements; by way of the elements | √dhā 1 a (place, support) | √dhā + tu + so |  | 13 |
-| dhī | ind | shame on you!; woe on him!; damn you! |  |  |  | 13 |
+| dhī 1.1 | ind | shame on you!; woe on him!; damn you! |  |  |  | 13 |
 | dissati 1.1 | pr | is seen; is observed; is manifest | √dis 1 ya (see) | dissa + ti | ati pr | 13 |
 | dissati 1.2 | pr | seems | √dis 1 ya (see) | dissa + ti | ati pr | 13 |
 | divasaṃ | ind | by day; during the day; for a day | √div 3 ya (shine) | √div + asa + aṃ |  | 13 |
@@ -1570,7 +1570,7 @@
 | suyyati | pr | is heard | √su 4 ya (hear) | suyya + ti | ati pr | 13 |
 | sādhu 3 | ind | it is good (for); it would be good (if) | √sādh 3 ya (accomplish) | √sādh + u |  | 13 |
 | sādhukaṃ | ind | well; carefully; thoroughly; fully; completely | √sādh 3 ya (accomplish) | √sādh + u + ka + aṃ |  | 13 |
-| sādiyati 1 | pr | consents; accepts; agrees (to); permits | √sād 8 *e iya (taste, relish) | sādiya + ti | ati pr | 13 |
+| sādiyati 1 | pr | consents; agrees (to); accepts; permits | √sād 8 *e iya (taste, relish) | sādiya + ti | ati pr | 13 |
 | sāmaṃ 1 | ind | oneself; by oneself; for oneself |  | sa + āmaṃ |  | 13 |
 | sīghaṃ | ind | quickly; swiftly; rapidly |  | sīgha + aṃ |  | 13 |
 | taggha | ind | truly; surely; definitely; most certainly |  | tad + gha |  | 13 |
@@ -1613,7 +1613,7 @@
 | yāvatā 1 | ind | as long as; as far as; of all; to the extent that |  | yāva + tā |  | 13 |
 | ñāyati 1 | pr | is known; is evident; is perceived | √ñā 5 ya (know) | ñāya + ti | ati pr | 13 |
 | āvi | ind | openly; publicly; in full view; face to face |  |  |  | 13 |
-| āvuso | ind | sir; sirs; venerable; venerables; reverend; reverends | √i 1 a (come, go) | ā + √i > ay + *as + mant + o |  | 13 |
+| āvuso | ind | (informal greeting) sir; sirs; venerable; venerables; reverend; reverends; friend; friends | √i 1 a (come, go) | ā + √i > ay + *as + mant + o |  | 13 |
 | ṭhānaso 1 | ind | on the spot; right there; immediately | √ṭhā 1 a (stand) | √ṭhā + ana + so |  | 13 |
 | ṭhānaṃ | ind | it is possible; it is likely | √ṭhā 1 a (stand) | √ṭhā + ana + aṃ |  | 13 |
 | abbhetabba | ptp | (vinaya) should be rehabilitated; should be reintegrated; should be readmitted | √vhe 1 a (call, name) | ā + vhe + tabba | a ptp | 14 |
@@ -1653,7 +1653,7 @@
 | daṭṭhabba 1 | ptp | should be seen; should be regarded as; should be understood (with) | √dis 1 a (see) | dassa + tabba | a ptp | 14 |
 | desanā 3 | fem | (vinaya) appointing; allocating; indicating; designating; showing | √dis 1 *e (point out, explain) | dese + anā | ā fem | 14 |
 | desenta 1 | prp | preaching; teaching; explaining; pointing out (to) | √dis 1 *e (point out, explain) | dese + nta | enta prp | 14 |
-| deseti 1 | pr | preach; teaches; instructs; explains (something to) | √dis 1 *e (point out, explain) | dese + ti | eti pr | 14 |
+| deseti 1 | pr | preaches; teaches; instructs; explains (something to) | √dis 1 *e (point out, explain) | dese + ti | eti pr | 14 |
 | desetuṃ | inf | to preach; to teach; to explain (to) | √dis 1 *e (point out, explain) | dese + tuṃ |  | 14 |
 | desita 1 | pp | preached; taught; explained; instructed (by) | √dis 1 *e (point out, explain) | dese + ita | a pp | 14 |
 | dheyya 1 | nt | realm; sphere; power; influence (of) | √dhā 1 a (place, support) | √dhā + eyya | a nt | 14 |
@@ -1671,7 +1671,7 @@
 | kārāpesi 1 | aor | had (something) built (for); had (something) made (for) | √kar 7 *āpe (do, make) | kārāpe + si | esi aor | 14 |
 | kātabba 2 | ptp | should be made | √kar 7 o (do, make) | √kar > kā + tabba | a ptp | 14 |
 | māneti | pr | honours; reveres; holds in high esteem; (comm) loves | √man 3 *e (think) | māne + ti | eti pr | 14 |
-| nikkhāmetvā | abs | having ejected; having expelled (from) | √kam 1 *e (go) | nī + khāme + tvā |  | 14 |
+| nikkhāmetvā 1 | abs | having ejected; having expelled (from) | √kam 1 *e (go) | nī + khāme + tvā |  | 14 |
 | nipāteti 1 | pr | lets fall; drops | √pat 1 *e (fall) | ni + pāte + ti | eti pr | 14 |
 | nissaggiya 1 | ptp | involving relinquishment; to be given up; to be forfeited | √sajj 1 a (relinquish, let loose) | nī + √sajj > sagg + iya | a ptp | 14 |
 | nissajjitabba | ptp | should be given up; to be handed over; should be relinquished (to) | √sajj 1 a (relinquish, let loose) | nī + √sajj + itabba | a ptp | 14 |
@@ -1730,7 +1730,7 @@
 | sāraṇīya 1.1 | ptp | polite; pleasant; charming; (comm) fit to be remembered | √raj 3 ya (desire) | saṃ > sā + √raj + aṇīya | a ptp | 14 |
 | tāreti | pr | saves; helps across; rescues (somebody from) | √tar 1 *e (cross) | tāre + ti | eti pr | 14 |
 | uddharāpeti | pr | causes to remove; makes take away; causes to pack up | √dhar 1 *āpe (hold, carry, endure) | ud + dharāpe + ti | eti pr | 14 |
-| upaṭṭhapetvā 1 | abs | having set up; having made sure is present | √ṭhā 1 *āpe (stand) | upa + ṭhape + tvā |  | 14 |
+| upaṭṭhapetvā 1 | abs | having set up; having made sure (something) is present | √ṭhā 1 *āpe (stand) | upa + ṭhape + tvā |  | 14 |
 | upaṭṭhāpeti 2 | pr | establishes; sets up; causes to be present; makes sure one has | √ṭhā 1 *āpe (stand) | upa + ṭhāpe + ti | eti pr | 14 |
 | vacanīya 2 | ptp | should be spoken; should be told; should be said (to) | √vac 1 a (say, speak) | √vac + anīya | a ptp | 14 |
 | vajja 1.1 | ptp | speaking; saying | √vad 1 a (say, speak) | √vad + ya > vajja | a ptp | 14 |
@@ -1815,7 +1815,7 @@
 | sammadeva 2 | sandhi | rightly; correctly; truly |  | sammā + [d] + eva |  | 16 |
 | sattantarā | sandhi | seven (spans) inside |  | satta + antarā |  | 16 |
 | seyyathidaṃ | sandhi | i.e.; as follows |  | se + yathā + idaṃ |  | 16 |
-| seyyathāpi | sandhi | just like; as if; imagine if |  | se + yathā + api |  | 16 |
+| seyyathāpi | sandhi | just like; as if; imagine if; suppose |  | se + yathā + api |  | 16 |
 | sudaṃ 2 | sandhi | indeed this; truly this; surely this |  | su + idaṃ |  | 16 |
 | svāssa 1 | sandhi | that his; that for him |  | so > sv + assa |  | 16 |
 | tasmātiha | sandhi | therefore here; therefore in this regard |  | tasmā + [t] + iha |  | 16 |
@@ -1861,7 +1861,6 @@
 | etadavoca | aor | said this (to) |  | etad + avoca | avoca aor | 17 |
 | evameva | sandhi | similarly; in the same way; so too; just so |  | evaṃ + eva |  | 17 |
 | evampi | sandhi | likewise; just like this; similarly; so too |  | evaṃ + api |  | 17 |
-| evamāgata | adj | thus concluded |  | evaṃ + āgata | a adj | 17 |
 | evañcetaṃ 1 | sandhi | even if this; even if this is the case |  | evaṃ + ce + etaṃ |  | 17 |
 | evāhaṃ | sandhi | so I; thus I |  | evaṃ + ahaṃ |  | 17 |
 | idappaccayā | ind | due to this; on account of this; because of this |  | idaṃ + paccaya + ā |  | 17 |

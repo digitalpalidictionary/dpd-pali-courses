@@ -33,7 +33,7 @@
 | kesa 1 | masc | (head) hair |  |  | a masc | 2 |
 | khandha 1 | masc | mass; heap; pile; volume; aggregation | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
 | khandha 3 | masc | aggregate; combination; conglomeration; bundle | √khandh 8 *e (collect, accumulate) | √khandh + a | a masc | 2 |
-| khattiya 2 | masc | man of the warrior caste; high caste man; nobleman |  |  | a masc | 2 |
+| khattiya 2 | masc | man of the warrior caste; high-caste man; nobleman |  |  | a masc | 2 |
 | khaya | masc | wearing away; exhaustion; erosion; depletion; destruction (of) | √khī 1 a (exhaust, destroy) | √khī > khay + *a | a masc | 2 |
 | kāma 3 | masc | sense desire; sensual pleasure (of) | √kam 8 *e (desire) | √kam > kām + *a | a masc | 2 |
 | kāraka 2 | masc | builder | √kar 7 o (do, make) | √kar > kār + *aka | a masc | 2 |
@@ -54,7 +54,7 @@
 | nīvaraṇa 1 | masc | obstacle; obstruction; barrier; hindrance | √var 1 a (cover, dress, restrain) | ni > nī + √var + *aṇa | a masc | 2 |
 | papañca | masc | various opinions; proliferation; endless conceptualization | √pañc 8 *e (expand, spread) | pa + √pañc + a | a masc | 2 |
 | paribbājaka | masc | homeless spiritual seeker; wandering ascetic | √vaj 1 a (go on) | pari + √vaj > baj > bāj + *aka | a masc | 2 |
-| parideva | masc | lamentation; wailing; crying | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
+| parideva | masc | wailing; crying; lamentation | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
 | parikkhāra 1 | masc | requisite; requirement; necessity | √kar 7 o (do, make) | pari + √kar > khār + *a | a masc | 2 |
 | pariyāya 05 | masc | way; nature; habit; property; quality | √i 1 a (come, go) | pari + [y] + √i > āy + *a | a masc | 2 |
 | patha 2 | masc | range; mode; way | √path 1 a (go, move) | √path + a | a masc | 2 |
@@ -182,7 +182,7 @@
 | sammodi | aor | greeted; exchanged pleasantries; had a friendly conversation (with) | √mud 1 *a (be soft, be happy) | saṃ + moda + i | i aor | 4 |
 | samādhi 1 | masc | perfect peace of mind; stability of mind; stillness of mind; meditative composure | √dhā 1 a (place, support) | saṃ + ā + √dhā + i | i masc | 4 |
 | sāli | masc | fine rice |  |  | i masc | 4 |
-| udapādi 1 | aor | arose; sprung up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
+| udapādi 1 | aor | arose; sprang up (for) | √pad 3 ya (go, step) | ud + a + √pad + i | i aor | 4 |
 | upasaṅkami | aor | approached; drew near; went (to) | √kam 1 a (go) | upa + saṃ + √kam + i | i aor | 4 |
 | vīhi | masc | rice paddy; Oryza sativa |  |  | i masc | 4 |
 | āmantesi | aor | addressed; said (to); advised | √mant 8 *e (counsel, invite) | ā + mante + si | esi aor | 4 |

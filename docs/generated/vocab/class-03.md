@@ -41,7 +41,7 @@
 | nissaya 2 | masc | (vinaya) formal dependence on a teacher | √si 1 a (depend on, associate with) | ni + √si > say + *a | a masc | 2 |
 | nīvaraṇa 1 | masc | obstacle; obstruction; barrier; hindrance | √var 1 a (cover, dress, restrain) | ni > nī + √var + *aṇa | a masc | 2 |
 | papañca | masc | various opinions; proliferation; endless conceptualization | √pañc 8 *e (expand, spread) | pa + √pañc + a | a masc | 2 |
-| parideva | masc | lamentation; wailing; crying | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
+| parideva | masc | wailing; crying; lamentation | √dev 1 a (lament) | pari + √dev + a | a masc | 2 |
 | parikkhāra 1 | masc | requisite; requirement; necessity | √kar 7 o (do, make) | pari + √kar > khār + *a | a masc | 2 |
 | pariyāya 05 | masc | way; nature; habit; property; quality | √i 1 a (come, go) | pari + [y] + √i > āy + *a | a masc | 2 |
 | patha 2 | masc | range; mode; way | √path 1 a (go, move) | √path + a | a masc | 2 |
