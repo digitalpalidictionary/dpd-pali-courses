@@ -1,0 +1,132 @@
+FILES 14 LINES 9052
+== table column mismatches
+table rows 6604
+== footnotes (course-wide)
+refs 54 defs 55
+footnote 44: refs 0 defs 1
+ref order: 1@16 2@18 3@19 4@19 5@19 6@19 7@19 8@19 9@19 10@19 11@19 12@19 13@19 14@19 15@19 16@20 17@20 18@20 19@20 20@21 21@21 22@21 23@21 24@21 25@21 26@22 27@23 28@23 29@23 30@23 31@24 32@24 33@24 34@24 35@24 36@25 37@25 38@25 39@27 40@27 41@27 42@27 43@27 45@27 46@27 47@27 48@27 49@27 50@27 51@28 52@28 53@29 54@29 55@29
+ORDER ref 3 19_class.md:81 vs def 5 19_class.md:131
+ORDER ref 4 19_class.md:98 vs def 3 19_class.md:201
+ORDER ref 5 19_class.md:122 vs def 4 19_class.md:202
+ORDER ref 45 27_class.md:263 vs def 44 27_class.md:314
+ORDER ref 46 27_class.md:357 vs def 45 27_class.md:315
+ORDER ref 47 27_class.md:420 vs def 50 27_class.md:460
+ORDER ref 48 27_class.md:431 vs def 46 27_class.md:462
+ORDER ref 49 27_class.md:431 vs def 47 27_class.md:463
+ORDER ref 50 27_class.md:451 vs def 48 27_class.md:464
+ORDER ref 51 28_class.md:35 vs def 49 27_class.md:465
+ORDER ref 52 28_class.md:160 vs def 51 28_class.md:469
+ORDER ref 53 29_class.md:89 vs def 52 28_class.md:470
+ORDER ref 54 29_class.md:137 vs def 53 29_class.md:143
+ORDER ref 55 29_class.md:217 vs def 54 29_class.md:145
+== key vs exercise sentences
+16_class.md:193 (ex:144) #5/5
+   KEY [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
+   EX  [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — etaṃ mama, esohamasmi, eso me attāti? no hetaṃ, bhante.
+17_class.md:650 (ex:445) #7/7
+   KEY [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5). <br>dutiyampi kho bhagavā tuṇhī ahosi.
+   EX  [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>dutiyampi kho bhagavā tuṇhī ahosi.
+19_class.md:334 (ex:199) #10/10
+   KEY [AN3.125](https://s.dhamma.gift/an/an3/index.html#an3.124) <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.
+   EX  [AN3.126](https://s.dhamma.gift/an/an3/index.html#an3.125) <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.
+19_class.md:492 (ex:300) #2/2
+   KEY [MN30](https://s.dhamma.gift/mn/mn30/index.html)<br>akuppā cetovimutti - etad'attham'idaṃ, brāhmaṇa, brahmacariyaṃ
+   EX  [MN30](https://s.dhamma.gift/mn/mn30/index.html)<br>akuppā cetovimutti etadatthamidaṃ brāhmaṇa brahmacariyaṃ
+20_class.md:382 (ex:209) #13/13
+   KEY [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
+   EX  [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati
+21_class.md:136 (ex:95) #7/7
+   KEY [AN10.44](https://s.dhamma.gift/an/an10/index.html#an10.44)<br>"iṅgha tāva āyasmā kāyikaṃ sikkhassū"ti, iti'ssa bhavanti vattāro.
+   EX  iṅgha tāva āyasmā kāyikaṃ sikkhassūti, itissa bhavanti vattāro. [AN10.44](https://s.dhamma.gift/an/an10/index.html#an10.44)
+21_class.md:207 (ex:142) #10/10
+   KEY [UD5.10](https://s.dhamma.gift/kn/ud/index.html#ud5.10)<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gacche'ti.
+   EX  [UD50](https://s.dhamma.gift/kn/ud/index.html#ud5.10)<br>ṭhitena kāyena ṭhitena cetasā,<br>tiṭṭhaṃ nisinno uda vā sayāno,<br>etaṃ satiṃ bhikkhu adhiṭṭhahāno,<br>**labhetha** pubbāpariyaṃ visesaṃ,<br>laddhāna pubbāpariyaṃ visesaṃ,<br>adassanaṃ maccurājassa gaccheti.
+21_class.md:333 (ex:237) #14/14
+   KEY [UD5.10](https://s.dhamma.gift/kn/ud/index.html#ud5.10) <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
+   EX  [UD50](https://s.dhamma.gift/kn/ud/index.html#ud5.10) <br>**addasā** kho bhagavā āyasmantaṃ cūḷapanthakaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
+21_class.md:357 (ex:258) #15/15
+   KEY [ITI87](https://s.dhamma.gift/kn/iti/index.html)<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**'ti.
+   EX  [ITI87](https://s.dhamma.gift/kn/iti/index.html)<br>tayo vitakke kusale **vitakkaye**,<br>tayo pana akusale **nirākare**,<br>sa ve vitakkāni vicāritāni,<br>sameti vuṭṭhīva rajaṃ samūhataṃ,<br>sa ve vitakkūpasamena cetasā, <br>idheva so santipadaṃ **samajjhagā**ti
+21_class.md:424 (ex:320) #1/1
+   KEY [SN2.8](https://s.dhamma.gift/sn/sn2/index.html#sn2.8) (Dhp 313)<br>kayirā ce, kayirāth'enaṃ, daḷham'enaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
+   EX  SN.2.8 (Dhp 313)<br>kayirā ce, kayirāthenaṃ, daḷhamenaṃ parakkame. <br>sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
+22_class.md:135 (ex:93) #6/6
+   KEY [DHP143](https://s.dhamma.gift/kn/dhp/index.html#dhp129)<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva
+   EX  [DHP143](https://s.dhamma.gift/kn/dhp/index.html#dhp129)<br>hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodhati, asso bhadro kasāmiva.
+23_class.md:49 (ex:51) #1/1
+   KEY [AN4.198](https://s.dhamma.gift/an/an4/index.html#an4.198)<br>so navaṃ santh'āgāraṃ **pavisati**, saddhiṃ mahesiyā brāhmaṇena ca **purohitena**.
+   EX  [AN4.198](https://s.dhamma.gift/an/an4/index.html#an4.198)<br>so puratthimena nagarassa navaṃ santhāgāraṃ kārāpetvā kesamassuṃ **ohāretvā** kharājinaṃ **nivāsetvā** sappitelena kāyaṃ **abbhañjitvā** magavisāṇena piṭṭhiṃ kaṇḍuvamāno navaṃ santhāgāraṃ **pavisati**, saddhiṃ mahesiyā brāhmaṇena ca **purohitena**.
+23_class.md:69 (ex:64) #2/2
+   KEY [VIN PAT PC 68](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>mā, āyasmā, evaṃ **avaca**. mā bhagavantaṃ **abbhācikkhi**, na hi sādhu[^27] bhagavato **abbhakkhānaṃ**, na hi bhagavā evaṃ vadeyya.
+   EX  [VIN PAT PC 68](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>mā, āyasmā, evaṃ **avaca**. mā bhagavantaṃ **abbhācikkhi**, na hi sādhu bhagavato **abbhakkhānaṃ**, na hi bhagavā evaṃ vadeyya.
+23_class.md:163 (ex:127) #5/5
+   KEY [DHP191](https://s.dhamma.gift/kn/dhp/index.html#dhp179) <br>(passati) dukkhaṃ dukkha**samuppādaṃ**, dukkhassa ca **atikkamaṃ**, ariyañ'c'aṭṭh'aṅgikaṃ maggaṃ, dukkh'**ūpasama**gāminaṃ.
+   EX  [DHP191](https://s.dhamma.gift/kn/dhp/index.html#dhp179) <br>dukkhaṃ **dukkhasamuppādaṃ**, dukkhassa ca **atikkamaṃ**, ariyañcaṭṭhaṅgikaṃ maggaṃ, **dukkhūpasamagāminaṃ**.
+23_class.md:189 (ex:141) #6/6
+   KEY [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)<br>**santussako[^28]** ca **subharo** ca, appakicco ca **sallahuka**vutti, <br>sant'indriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
+   EX  [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)<br>**santussako** ca **subharo** ca, appakicco ca **sallahuka**vutti, <br>santindriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
+23_class.md:602 (ex:404) #3/3
+   KEY [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)<br>savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ[^29] bahukāraṃ vadāmi; upasaṅkamanampāhaṃ … payirupāsanampāhaṃ … anussatimpāhaṃ … anupabbajjampāhaṃ
+   EX  [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)<br>savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ bahukāraṃ vadāmi; **upasaṅkamanampāhaṃ** … **payirupāsanampāhaṃ** … **anussatimpāhaṃ** … **anupabbajjampāhaṃ**
+23_class.md:636 (ex:420) #4/4
+   KEY [AN7.67](https://s.dhamma.gift/an/an7/index.html#an7.67)<br>seyyathā'pi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** c'eva **vitthato** ca, evam'evaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** kāya**duccaritena** vacīduccaritena manoduccaritena[^30]
+   EX  [AN7.67](https://s.dhamma.gift/an/an7/index.html#an7.67)<br>seyyathāpi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** ceva **vitthato** ca, evamevaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** **kāyaduccaritena** vacīduccaritena manoduccaritena
+23_class.md:764 (ex:504) #9/9
+   KEY [SN20.10](https://s.dhamma.gift/sn/sn20/index.html#sn20.10) <br>atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tam'enaṃ biḷāro gahetvā sahasā asaṅkhāditvā ajjhohari. tassa so mudumūsi antam'pi khādi, antaguṇam'pi khādi.
+   EX  [SN20.10](https://s.dhamma.gift/sn/sn20/index.html#sn20.10) <br>atha kho so, bhikkhave, mudumūsi gocarāya **pakkāmi**. tamenaṃ biḷāro gahetvā sahasā **saṅkhāditvā** **ajjhohari**. tassa so mudumūsi antampi khādi, antaguṇampi khādi.
+24_class.md:346 (ex:272) #14/14
+   KEY [SN46.52](https://s.dhamma.gift/sn/sn46/index.html#sn46.52)/[53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ n'eva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmā'ti.
+   EX  [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) <br>atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃsu nappaṭikkosiṃsu, anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu, bhagavato santike etassa bhāsitassa atthaṃ ājānissāmāti.
+24_class.md:387 (ex:299) #15/15
+   KEY [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi n'eva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃs'ūparatiyā brahmacariy'ānuggahāya iti purāṇañ'ca vedanaṃ paṭihaṅkhāmi navañ'ca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cā'ti
+   EX  [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti navañca vedanaṃ na uppādessāma yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti
+25_class.md:93 (ex:61) #4/4
+   KEY [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)<br>**vevaṇṇiy**'amhi ajjhupagato'ti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ[^36].
+   EX  [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)<br>vevaṇṇiyamhi ajjhupagatoti, pabbajitena abhiṇhaṃ paccavekkhitabbaṃ.
+26_class.md:59 (ex:50) #3/3
+   KEY [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36)<br>(addasa) **āsītikaṃ** vā **nāvutikaṃ** vā **vassasatikaṃ** vā jātiyā jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyaṇaṃ pavedhamānaṃ gacchantaṃ
+   EX  [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36)<br>āsītikaṃ vā nāvutikaṃ vā vassasatikaṃ vā jātiyā jiṇṇaṃ gopānasivaṅkaṃ bhoggaṃ daṇḍaparāyaṇaṃ pavedhamānaṃ gacchantaṃ
+26_class.md:516 (ex:355) #3/3
+   KEY [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)<br>kiñcāpi so kamma karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā,<br>abhabba so tassa paṭicchadāya,<br>abhabbatā diṭṭhapadassa vuttā,<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu
+   EX  [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)<br>kiñcāpi so kamma karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā,<br>abhabba so tassa paṭicchadāya,<br>abhabbatā diṭṭhapadassa vuttā,<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu.
+27_class.md:96 (ex:75) #4/4
+   KEY [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53)<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^41] nisīdiṃsu
+   EX  [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) <br>sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu
+27_class.md:226 (ex:180) #10/10
+   KEY [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3)<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
+   EX  [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3)<br>okaṃ pahāya aniketasārī,<br>gāme akubbaṃ muni santhavāni,<br>kāmehi ritto apurakkharāno,<br>kathaṃ na viggayha janena kayirāti.
+28_class.md:35 (ex:30) #2/2
+   KEY [SN1.51](https://s.dhamma.gift/sn/sn1/index.html#sn1.51)<br>**sīlaṃ[^51]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
+   EX  [SN1.51](https://s.dhamma.gift/sn/sn1/index.html#sn1.51)<br>sīlaṃ yāva jarā sādhu,<br>saddhā sādhu patiṭṭhitā,<br>paññā narānaṃ ratanaṃ,<br>puññaṃ corehi dūharanti.
+28_class.md:128 (ex:107) #6/6
+   KEY [SN2.23](https://s.dhamma.gift/sn/sn2/index.html#sn2.23)<br>tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
+   EX  [SN2.23](https://s.dhamma.gift/sn/sn2/index.html#sn2.23)<br>tassa mayhaṃ, bhante, catūsu dvāresu dānaṃ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ.
+28_class.md:149 (ex:125) #7/7
+   KEY [MN49](https://s.dhamma.gift/mn/mn49/index.html)<br>eso hi, bhikkhu, **brahmā** mahābrahmā **abhibhū** anabhibhūto añña'd'atthu**daso** **vasavattī** **issaro** **kattā** **nimmātā** seṭṭho **sajitā** vasī pitā **bhūtabhabyānaṃ**.
+   EX  eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ. [MN49](https://s.dhamma.gift/mn/mn49/index.html)
+items compared 272 different after normalising quotes, bold, <br> spacing, ṁ: 28
+label / <br>-spacing differences: 31 16_class.md:316 (ex:223) 16_class.md:670 (ex:474) 16_class.md:709 (ex:494) 16_class.md:805 (ex:554) 17_class.md:598 (ex:406) 17_class.md:650 (ex:445) 18_class.md:274 (ex:196) 18_class.md:330 (ex:246) 18_class.md:528 (ex:384) 18_class.md:548 (ex:399) 19_class.md:334 (ex:199) 20_class.md:53 (ex:35) 21_class.md:136 (ex:95) 21_class.md:184 (ex:126) 21_class.md:207 (ex:142) 21_class.md:333 (ex:237) 21_class.md:424 (ex:320) 21_class.md:505 (ex:370) 22_class.md:269 (ex:183) 24_class.md:185 (ex:139) 24_class.md:346 (ex:272) 24_class.md:576 (ex:445) 25_class.md:376 (ex:260) 25_class.md:402 (ex:285) 25_class.md:498 (ex:348) 26_class.md:113 (ex:89) 26_class.md:450 (ex:322) 27_class.md:96 (ex:75) 27_class.md:346 (ex:262) 28_class.md:83 (ex:70) 28_class.md:149 (ex:125)
+== misc
+== convention counts (per class)
+ṁ            total     0  
+straight '   total   976  16:104 17:87 18:48 19:42 20:42 21:62 22:87 23:74 24:105 25:52 26:57 27:47 28:53 29:116
+curly ’      total     1  27:1
+curly ‘      total     0  
+straight "   total   578  16:42 17:43 18:49 19:40 20:28 21:42 22:62 23:32 24:53 25:32 26:20 27:43 28:26 29:66
+curly “”     total     0  
+<br>         total   502  16:44 17:30 18:32 19:34 20:23 21:62 22:43 23:44 24:36 25:30 26:36 27:37 28:51
+...          total    43  17:2 18:6 19:2 20:1 21:3 22:4 23:5 24:2 25:1 26:2 27:3 28:4 29:8
+…            total    19  17:4 18:1 19:2 21:3 23:4 24:1 25:1 26:2 28:1
+ -           total   245  16:41 17:34 18:19 19:35 20:12 21:32 22:30 23:10 24:13 25:11 26:8
+–            total    14  17:3 23:2 24:1 25:1 26:2 27:2 28:2 29:1
+—            total     2  16:1 22:1
+Pāli         total     0  
+Pāḷi         total     0  
+{:           total     0  
+→            total     0  
+>            total   106  16:5 17:1 18:5 19:6 20:19 21:2 22:2 23:35 24:22 25:3 26:2 28:3 29:1
+lit:         total   124  16:11 17:6 18:2 19:3 20:10 21:4 22:6 23:15 24:8 25:2 26:3 27:25 28:16 29:13
+lit.         total    80  16:4 17:8 18:7 19:6 20:8 21:6 22:7 23:16 24:8 25:2 26:1 27:1 28:2 29:4
+･            total  1160  16:183 17:162 18:158 19:168 20:145 21:159 22:175 23:4 24:3 25:2 28:1
+×            total    58  16:15 17:6 18:4 19:9 20:11 21:7 22:6
+double space lines 0

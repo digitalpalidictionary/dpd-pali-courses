@@ -1,0 +1,85 @@
+ipc numbering                               0     0.000
+ipc pos vocabulary                          0     0.000
+ipc grammar vocabulary                      0     0.000
+ipc root format                             0     0.000
+ipc compound spelling                       0     0.000
+ipc stray characters                        0     0.000
+ipc word coverage (warn)                   63     0.000
+docs/ipc_key/16_class.md:197 words: sentence word '—' has no row
+docs/ipc_key/16_class.md:374 words: row 'antakiriyaṃ (antaṃ + kiriyā)' not in 
+sentence
+docs/ipc_key/17_class.md:80 words: sentence word '–' has no row
+docs/ipc_key/17_class.md:501 words: row 'atha ca pana' not in sentence
+docs/ipc_key/17_class.md:646 words: row 'tato tato' not in sentence
+docs/ipc_key/17_class.md:641 words: sentence word 'VV' has no row
+docs/ipc_key/17_class.md:641 words: sentence word '52' has no row
+docs/ipc_key/18_class.md:470 words: row 'yadi vā' not in sentence
+docs/ipc_key/18_class.md:474 words: row 'yadi vā' not in sentence
+docs/ipc_key/18_class.md:484 words: row 'aṭṭhiṃ katvā' not in sentence
+docs/ipc_key/19_class.md:116 words: row 'diṭṭh'eva dhamme' not in sentence
+docs/ipc_key/21_class.md:217 words: row 'uda vā' not in sentence
+docs/ipc_key/21_class.md:253 words: row 'byārosanā(ya)' not in sentence
+docs/ipc_key/21_class.md:254 words: row 'paṭighasaññā(ya)' not in sentence
+docs/ipc_key/21_class.md:396 words: row 'tena samayena' not in sentence
+docs/ipc_key/21_class.md:407 words: row 'atha kho' not in sentence
+docs/ipc_key/21_class.md:428 words: sentence word '(Dhp' has no row
+docs/ipc_key/21_class.md:428 words: sentence word '313)' has no row
+docs/ipc_key/22_class.md:166 words: row 'tattha tattha' not in sentence
+docs/ipc_key/22_class.md:211 words: row 'api ca' not in sentence
+docs/ipc_key/22_class.md:211 words: sentence word 'cāhaṃ' has no row
+docs/ipc_key/22_class.md:331 words: row 'mā ahesun'ti' not in sentence
+docs/ipc_key/22_class.md:307 words: sentence word '—' has no row
+docs/ipc_key/22_class.md:526 words: row 'evameva kho' not in sentence
+docs/ipc_key/23_class.md:73 words: sentence word 'sādhu[^27]' has no row
+docs/ipc_key/23_class.md:119 words: row 'vossaggasmiṃ' not in sentence
+docs/ipc_key/23_class.md:167 words: sentence word '(passati)' has no row
+docs/ipc_key/23_class.md:193 words: sentence word 'santussako[^28]' has no row
+docs/ipc_key/23_class.md:264 words: sentence word 'tiṇavatthārakaṃ' has no row
+docs/ipc_key/23_class.md:606 words: sentence word 'bhikkhūnaṃ[^29]' has no row
+docs/ipc_key/23_class.md:606 words: sentence word '…' has no row
+docs/ipc_key/23_class.md:606 words: sentence word '…' has no row
+docs/ipc_key/23_class.md:606 words: sentence word '…' has no row
+docs/ipc_key/23_class.md:640 words: sentence word 'manoduccaritena[^30]' has no 
+row
+docs/ipc_key/23_class.md:768 words: row 'atha kho' not in sentence
+docs/ipc_key/24_class.md:178 words: sentence word 'addasā'ti?' has no row
+docs/ipc_key/24_class.md:189 words: row 'kiṃ nu kho' not in sentence
+docs/ipc_key/24_class.md:207 words: row 'nu kho' not in sentence
+docs/ipc_key/24_class.md:317 words: row 'ādittacelo<br>āditta<br>celo' not in 
+sentence
+docs/ipc_key/24_class.md:319 words: row 'ādittasīso<br>āditta<br>sīso' not in 
+sentence
+docs/ipc_key/24_class.md:350 words: row 'atha kho' not in sentence
+docs/ipc_key/25_class.md:97 words: sentence word 'paccavekkhitabbaṃ[^36].' has 
+no row
+docs/ipc_key/25_class.md:287 words: row 'atha kho' not in sentence
+docs/ipc_key/25_class.md:293 words: row 'kiṃ nu kho' not in sentence
+docs/ipc_key/25_class.md:349 words: row 'evam'eva kho' not in sentence
+docs/ipc_key/25_class.md:507 words: row 'aho vata re' not in sentence
+docs/ipc_key/25_class.md:512 words: row 'aho vata re' not in sentence
+docs/ipc_key/26_class.md:63 words: sentence word '(addasa)' has no row
+docs/ipc_key/26_class.md:174 words: row 'eso' not in sentence
+docs/ipc_key/26_class.md:163 words: sentence word 'esa' has no row
+docs/ipc_key/26_class.md:522 words: row 'kamma (irreg)' not in sentence
+docs/ipc_key/27_class.md:46 words: sentence word 'VIN' has no row
+docs/ipc_key/27_class.md:46 words: sentence word 'NID' has no row
+docs/ipc_key/27_class.md:100 words: sentence word 'ekam'antaṃ[^41]' has no row
+docs/ipc_key/27_class.md:256 words: sentence word 'VIN' has no row
+docs/ipc_key/27_class.md:256 words: sentence word 'PAT' has no row
+docs/ipc_key/28_class.md:39 words: sentence word 'sīlaṃ[^51]' has no row
+docs/ipc_key/28_class.md:140 words: row 'samaṇa (ca)' not in sentence
+docs/ipc_key/28_class.md:141 words: row 'brāhmaṇa (ca)' not in sentence
+docs/ipc_key/28_class.md:145 words: row 'yācakānaṃ (ca)' not in sentence
+docs/ipc_key/28_class.md:178 words: row 'bhūta (ca)' not in sentence
+docs/ipc_key/28_class.md:179 words: row 'bhabyānaṃ (ca)' not in sentence
+docs/ipc_key/28_class.md:456 words: row 'añjanena' not in sentence
+open DPD database                          ok     0.011
+ipc DPD check                       5717 rows     0.948
+  IMPOSSIBLE        85
+  AMBIGUOUS         2345
+  NOT-FOUND         21
+  ROOT-MISMATCH     4
+  CONFIRMED         1294
+  SKIPPED           1972
+write report                       /private/tmp/claude-501/-Users-deva-Documents-dpd-pali-courses/da65ce23-d364-44a
+7-b591-61b38f5c48f8/scratchpad/key_dpd_report.tsv     0.030
