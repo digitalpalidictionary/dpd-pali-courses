@@ -20,6 +20,7 @@ Rules for auditing a course folder under `docs/` (e.g. `docs/ipc/`, `docs/bpc/`)
    - footnote references vs definitions (ids are numbered across the whole course, not per file)
    - counts for conventions: arrows, straight vs curly quotes, `ṁ` vs `ṃ`, `Pāli` vs `Pāḷi`, raw HTML (`<br>`), `{: … }` attribute markup
 2. **Line-by-line read, one slice at a time.** A slice is one or two classes, about 500–1 000 lines. Print the files with line numbers and blank lines dropped (`grep -n "" file | grep -v "^[0-9]*:$"`).
+   - **Check every suspicious Pāli form, grammar tag, root, compound type or gloss in DPD before writing it down.** Do not rely on memory. Run `uv run python kamma/draft/audit/scripts/dpd_lookup.py <lemma> …` (read-only, needs `/Users/deva/Documents/dpd-db/dpd.db`). It prints pos, grammar, root, compound type, construction and meaning per headword. Drop the finding if DPD agrees with the text; lower the confidence or put `DPD lookup` in `Suggested` if DPD is silent or ambiguous. For keys, also use the advisory report from `uv run python scripts/verify_key.py --course <course> --dpd --report <path>` (IMPOSSIBLE, NOT-FOUND, ROOT-MISMATCH rows).
 3. **Save after every slice.** Write that slice's findings to its own file in `kamma/draft/audit/scratch/` before reading the next slice.
 4. **Verify the excerpts by script** once all slices are in: every backtick excerpt in `Current` must be found in the cited file within 2 lines of the cited line. Fix the rows that fail.
 5. **Merge by script** into the final file: group by category, keep class order, compute the summary table. Do not merge by hand.
@@ -85,7 +86,7 @@ Format:
 
 ## What the audit must state it did not do
 
-- Pāli forms judged from knowledge, not from the DPD database, unless lookups were actually run.
+- Pāli forms judged from knowledge, not from the DPD database, unless lookups were actually run. State which forms were looked up with `dpd_lookup.py` and which were not.
 - Kaccāyana numbers and wording, if checked from memory.
 - Link checks prove the URL exists, not that the quotation is in that sutta.
 - Frequency counts not recomputed.
@@ -105,6 +106,8 @@ Format:
 
 Three one-off scripts are kept in `kamma/draft/audit/scripts/`. They have IPC paths and the `scratch/` slice layout hardcoded, so adjust them for another course:
 
+- `dpd_lookup.py`: DPD headword lookup (see step 2). Generic, no course paths.
+- `ipc_key_mech.py`: mechanical checks for a key folder (tables, footnotes, key vs exercise sentences, convention counts).
 - `ipc-audit-mech.py`: the mechanical checks in step 1.
 - `verify_rows.py`: step 4. Parses the rows, pulls backtick excerpts from `Current`, splits them on `…`, normalises spaces around pipes, and searches the cited file near the cited lines. Reports `NOT FOUND` and `WRONG LINE`.
 - `merge_audit.py`: step 5. Reads the slice files, groups rows by category, builds the summary table (count per category per slice, and count with confidence ≥ 8), and writes the final file around a hand-written head (method and limits) and mid (confidence, owner decisions).
