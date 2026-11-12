@@ -5,7 +5,7 @@ Rules for auditing a course folder under `docs/` (e.g. `docs/ipc/`, `docs/bpc/`)
 ## Scope and ground rules
 
 - The audit is read-only. Never edit `docs/`. The output is a findings list.
-- One output file per course: `kamma/draft/audit/<course>-audit.md`. Use `bpc-audit.md` and `ipc-audit.md` as templates.
+- One output file per course: `kamma/audit/<course>-audit.md`. Use `bpc-audit.md` and `ipc-audit.md` as templates.
 - Exercises and keys (`*_ex`, `*_key`) are separate audits.
 - No commits, no pushes.
 
@@ -20,8 +20,8 @@ Rules for auditing a course folder under `docs/` (e.g. `docs/ipc/`, `docs/bpc/`)
    - footnote references vs definitions (ids are numbered across the whole course, not per file)
    - counts for conventions: arrows, straight vs curly quotes, `ṁ` vs `ṃ`, `Pāli` vs `Pāḷi`, raw HTML (`<br>`), `{: … }` attribute markup
 2. **Line-by-line read, one slice at a time.** A slice is one or two classes, about 500–1 000 lines. Print the files with line numbers and blank lines dropped (`grep -n "" file | grep -v "^[0-9]*:$"`).
-   - **Check every suspicious Pāli form, grammar tag, root, compound type or gloss in DPD before writing it down.** Do not rely on memory. Run `uv run python kamma/draft/audit/scripts/dpd_lookup.py <lemma> …` (read-only, needs `/Users/deva/Documents/dpd-db/dpd.db`). It prints pos, grammar, root, compound type, construction and meaning per headword. Drop the finding if DPD agrees with the text; lower the confidence or put `DPD lookup` in `Suggested` if DPD is silent or ambiguous. For keys, also use the advisory report from `uv run python scripts/verify_key.py --course <course> --dpd --report <path>` (IMPOSSIBLE, NOT-FOUND, ROOT-MISMATCH rows).
-3. **Save after every slice.** Write that slice's findings to its own file in `kamma/draft/audit/scratch/` before reading the next slice.
+   - **Check every suspicious Pāli form, grammar tag, root, compound type or gloss in DPD before writing it down.** Do not rely on memory. Run `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …` (read-only, needs `/Users/deva/Documents/dpd-db/dpd.db`). It prints pos, grammar, root, compound type, construction and meaning per headword. Drop the finding if DPD agrees with the text; lower the confidence or put `DPD lookup` in `Suggested` if DPD is silent or ambiguous. For keys, also use the advisory report from `uv run python scripts/verify_key.py --course <course> --dpd --report <path>` (IMPOSSIBLE, NOT-FOUND, ROOT-MISMATCH rows).
+3. **Save after every slice.** Write that slice's findings to its own file in `kamma/audit/scratch/` before reading the next slice.
 4. **Verify the excerpts by script** once all slices are in: every backtick excerpt in `Current` must be found in the cited file within 2 lines of the cited line. Fix the rows that fail.
 5. **Merge by script** into the final file: group by category, keep class order, compute the summary table. Do not merge by hand.
 6. **Delete `scratch/`** only after the final file is generated and checked.
@@ -31,7 +31,7 @@ Rules for auditing a course folder under `docs/` (e.g. `docs/ipc/`, `docs/bpc/`)
 - Do not run many subagents in parallel. Six strong-model readers at once drained the usage limit and five died with their output lost.
 - The main session can read a whole course itself: 12 classes (about 7 000 lines) fitted in one session, slice by slice.
 - If a subagent is used: one at a time, a cheaper model, and it returns findings as text. The main session saves them. Subagents cannot be relied on to write files.
-- The session scratchpad and agent transcripts do not survive a limit or a resume. Anything worth keeping goes into `kamma/draft/audit/` immediately.
+- The session scratchpad and agent transcripts do not survive a limit or a resume. Anything worth keeping goes into `kamma/audit/` immediately.
 - Keep a short state note (done / not done) in the draft folder and update it after each slice, so a restart knows where to resume.
 - When a limit warning appears: stop, save, update the state note.
 
@@ -104,7 +104,7 @@ Format:
 
 ## Scripts used for IPC
 
-Three one-off scripts are kept in `kamma/draft/audit/scripts/`. They have IPC paths and the `scratch/` slice layout hardcoded, so adjust them for another course:
+Three one-off scripts are kept in `kamma/audit/scripts/`. They have IPC paths and the `scratch/` slice layout hardcoded, so adjust them for another course:
 
 - `dpd_lookup.py`: DPD headword lookup (see step 2). Generic, no course paths.
 - `ipc_key_mech.py`: mechanical checks for a key folder (tables, footnotes, key vs exercise sentences, convention counts).

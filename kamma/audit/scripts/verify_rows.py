@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path("/Users/deva/Documents/dpd-pali-courses")
 IPC = ROOT / "docs/ipc"
-SCRATCH = ROOT / "kamma/draft/audit/scratch"
+SCRATCH = ROOT / "kamma/audit/scratch"
 
 FILE_RE = re.compile(r"((?:class_\d+/)?[0-9a-z_]+\.md)((?::[\d–\-, ]+)?)")
 

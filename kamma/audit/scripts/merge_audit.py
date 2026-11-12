@@ -1,10 +1,10 @@
-"""Merge the per-class IPC audit slices in kamma/draft/audit/scratch into the final kamma/draft/audit/ipc-audit.md."""
+"""Merge the per-class IPC audit slices in kamma/audit/scratch into the final kamma/audit/ipc-audit.md."""
 
 import re
 from collections import defaultdict
 from pathlib import Path
 
-AUDIT = Path("/Users/deva/Documents/dpd-pali-courses/kamma/draft/audit")
+AUDIT = Path("/Users/deva/Documents/dpd-pali-courses/kamma/audit")
 SCRATCH = AUDIT / "scratch"
 SLICES = [
     ("index + 16", "ipc-audit-c16.md"),

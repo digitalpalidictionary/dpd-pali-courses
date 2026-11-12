@@ -1,6 +1,6 @@
 """Read-only mechanical checks over docs/ipc for the IPC audit (table columns, links, anchors, index titles, headings, footnotes, stray characters).
 
-Usage: uv run python kamma/draft/audit/ipc-audit-mech.py <external_links_output.tsv>
+Usage: uv run python kamma/audit/ipc-audit-mech.py <external_links_output.tsv>
 Run from the repo root. Recreated from the 2026-11-10 session; not re-run after saving.
 """
 
