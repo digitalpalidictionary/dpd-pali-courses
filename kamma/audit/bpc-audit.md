@@ -49,42 +49,33 @@ The highest-value fixes are in A and B: they are what a student will memorise wr
 
 | # | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- | --- |
-| A1 | `class_2/2_alphabet.md:111` | `diṣṭa (seen)` | Sanskrit for "seen" is *dṛṣṭa*. *diṣṭa* means "shown, appointed". | `dṛṣṭa (seen)`, or keep *diṣṭa* with its real meaning | 8 |
-| A2 | `class_3/5_roots.md:27` | `paṭibhanda`, `upanibhandha`, `nibadhana` | Probable misspellings in the √bandh list. `upanibandha` is already listed, so `upanibhandha` is a duplicate with a misplaced *h*. | `paṭibandha`; delete or correct the other two after a DPD check | 7 |
-| A3 | `class_3/5_roots.md:31` | `vibhūsana`, `anubhutta` under √bhū | *vibhūsana* is from √bhūs (adorn); *anubhutta* is from √bhuj. | Remove from the √bhū list | 7 |
-| A4 | `class_3/7_root_4.md:7` vs `:31` | Rule: "ṇā (ṇo) after a vowel, uṇā after a consonant". Example: `√sak + ṇo > sakko` | √sak ends in a consonant, so the example breaks the rule just stated. | Add a note that √sak takes ṇo with assimilation (k + ṇ > kk), or reword the rule | 7 |
-| A5 | `class_3/8_root_5.md:1-5`, `index.md:17` vs `class_4/3_var_root_group.md:10` | `√ki` / `kiyādigaṇa = ki + ādi + gaṇa` vs `√kī + nā` | Same root spelled two ways. | Pick one (√kī is the usual citation form) | 9 |
-| A6 | `class_3/9_root_6.md:13-15` | `√tas (thirst) + ṇhā > taṇhā` | Shown as an example of the group 6 conjugational sign, but *taṇhā* is a noun, not a verbal base. | Remove, or mark clearly as a noun formation | 6 |
+| A1 | `class_2/2_alphabet.md:111` | `diṣṭa (seen)` | Sanskrit for "seen" is *dṛṣṭa*. *diṣṭa* means "shown, appointed". | keep *diṣṭa* with its real meaning | 8 |
+| A4 | `class_3/7_root_4.md:7` vs `:31` | Rule: "ṇā (ṇo) after a vowel, uṇā after a consonant". Example: `√sak + ṇo > sakko` | √sak ends in a consonant, so the example breaks the rule just stated. | Just remove that root and example from here | 8 |
+| A5 | `class_3/8_root_5.md:1-5`, `index.md:17` vs `class_4/3_var_root_group.md:10` | `√ki` / `kiyādigaṇa = ki + ādi + gaṇa` vs `√kī + nā` | Same root spelled two ways. | Pick one - √kī is the usual citation form | 9 |
+| A6 | `class_3/9_root_6.md:13-15` | `√tas (thirst) + ṇhā > taṇhā` | Shown as an example of the group 6 conjugational sign, but *taṇhā* is a noun, not a verbal base. | mark clearly as a noun formation = taṇhā + ā as in DPD | 8 |
 | A7 | `class_3/13_tricky_base.md:9` | `√sad (sit) + a > sīda + ti > nisīdati` | Prefix *ni* is missing from the derivation. Compare `:19`, which writes `pa + √hā`. | `ni + √sad + a > …` | 9 |
-| A8 | `class_3/13_tricky_base.md:13` | `sayati (vuddhi)` | ī > ay is guṇa by the course's own table (`class_4/4_vuddhi.md:90-91`); vuddhi would be *āy*. | `(guṇa)` | 8 |
+| A8 | `class_3/13_tricky_base.md:13` | `sayati (vuddhi)` | ī > ay is guṇa by the course's own table (`class_4/4_vuddhi.md:90-91`); vuddhi would be *āy*. | so change to english better `(strengthening)` | 8 |
 | A9 | `class_4/5_root_2.md:17` | `bhunja + ti` | Missing diacritic. | `bhuñja + ti` | 10 |
-| A10 | `class_4/7_basic_assim.md:3`, `:19-23`, `:39`, `:44` | "how verbs from group 3 get formed", followed by *bhijjati, khajjati, chijjati, rujjhati, haññati* | These are passives of roots from other groups (√khād is group 1, √rudh is group 2). Only the last line of the page mentions the passive. | Split the examples into "group 3" and "passive ya", or state up front that both are shown | 7 |
+| A10 | `class_4/7_basic_assim.md:3`, `:19-23`, `:39`, `:44` | "how verbs from group 3 get formed", followed by *bhijjati, khajjati, chijjati, rujjhati, haññati* | These are passives of roots from other groups (√khād is group 1, √rudh is group 2). Only the last line of the page mentions the passive. | State up front that both are shown | 7 |
 | A11 | `class_5/4_masc_ii.md:7` | "Many of these agent nouns…" | -ī nouns here are possessives ("has X"). "Agent noun" is the term the course uses for -tar in `class_6/2_masc_u.md:31`. | "possessive nouns" | 7 |
-| A12 | `class_5/5_trans.md:41` | `√pis (send)` | √pis is "grind, crush". *peseti* (send) is not from it. | Check DPD for the root of *peseti* | 6 |
-| A13 | `class_5/6_say_no.md:50-54` | "mā + imperative … `mā pamādā attha`" | The source reads *mā pamādattha*, which is an aorist 2nd plural, so it illustrates mā + aorist. The split *pamādā attha* is not a valid simplification. | Replace with a real mā + imperative example | 7 |
-| A14 | `class_6/2_masc_u.md:45` | `√dhar + tar > dhātar` | *dhātar* is from √dhā. | Check DPD; replace the row | 6 |
-| A15 | `class_6/3_masc_uu.md:12`, `class_11/3_adj.md:157` | dat `viduno`; gen `viduno, vidussa` | Dative and genitive singular should be identical. | Add `vidussa` to the dative | 8 |
 | A16 | `class_7/4_pali_lists.md:4` | `Dhātumañjūsa` | Title is feminine. | `Dhātumañjūsā` | 8 |
 | A17 | `class_8/2_abs_ger.md:3` | "one of the most common forms of verbal adjectives … has no declensions" | An absolutive is not an adjective. | "verbal forms" | 7 |
-| A18 | `class_8/2_abs_ger.md:9`, `:105-118`, `:150-170` | Title equates Absolutive / Gerund. Line 9: "The gerund denotes a completed or continuing action". Table 5 translates every -ya form as "having …". The last section then says -tvā = completed (absolutive), -ya = ongoing (gerund). | The page contradicts its own closing distinction. | Use one term until the distinction section, and make table 5 glosses consistent with it | 8 |
-| A19 | `class_8/2_abs_ger.md:67` | `√vad + tvā > vatvā` | *vatvā* is traditionally √vac + tvā. | Check DPD | 6 |
-| A20 | `class_8/2_abs_ger.md:115`, `class_10/2_prp.md:92`, `class_14/4_ptp.md:62` | `√ādā` | Not a root. It is ā + √dā; the same tables write `ā + √ñā` and `pa + √hā`. | `ā + √dā` | 9 |
 | A21 | `class_8/2_abs_ger.md:99` | `chind + itvā` | Base is given as `chinda` in the same row; the other rows write the full base. | `chinda + itvā` | 9 |
 | A22 | `class_8/2_abs_ger.md:128-131` | `abhi + sam + √i`, `saṃ + √i`, `anu + vid` | *sam* / *saṃ* mixed; √ missing before *vid*. | `saṃ` in both; `anu + √vid` | 9 |
 | A23 | `class_8/3_fem.md:22` | `brahmaṇa`, `brahmaṇī` | Short first vowel. The rest of the course has *brāhmaṇo*, *brāhmaṇā*. | `brāhmaṇa`, `brāhmaṇī` | 9 |
-| A24 | `class_8/3_fem.md:104` | `sappī` (serpent) | The usual masculine is *sappa*; also the only row with no bold ending. | Check DPD; replace the row if *sappī* is not attested | 6 |
-| A25 | `class_9/3_inf.md:39` | `√bhind + ituṃ` | √bhind is not a root. Root is √bhid, base *bhinda*, so the row belongs in section 3 (base + -ituṃ). | Move to section 3 as `√bhid, bhinda` | 9 |
-| A26 | `class_9/3_inf.md:48` | "Very rarely, the infinitive can be formed by … the base" | The page's opening example *passituṃ* is this type, as are *bhuñjituṃ*, *pivituṃ*. | Drop "Very rarely" | 6 |
-| A27 | `class_10/2_prp.md:158` | masc -anta loc sg `gacchante, gacchantamhi, gacchantasmiṃ` | Declared "like bhagavant", whose table has `bhagavati` (`class_6/4_subst.md:67`). | Add `gacchati` | 7 |
+| A24 | `class_8/3_fem.md:104` | `sappī` (serpent) | The usual masculine is *sappa*; also the only row with no bold ending. | Remove that row | 6 |
+| A25 | `class_9/3_inf.md:39` | `√bhind + ituṃ` | √bhind is not a root. Root is √bhid, base *bhinda*, so the row belongs in section 3 (base + -ituṃ). | Remove that row | 9 |
+| A26 | `class_9/3_inf.md:48` | "Very rarely, the infinitive can be formed by … the base" | The page's opening example *passituṃ* is this type, as are *bhuñjituṃ*, *pivituṃ*. | Drop "Very rarely" | 8 |
+| A27 | `class_10/2_prp.md:158` | masc -anta loc sg `gacchante, gacchantamhi, gacchantasmiṃ` | Declared "like bhagavant", whose table has `bhagavati` (`class_6/4_subst.md:67`). | Add "almost like bhagavant" | 7 |
 | A28 | `class_10/2_prp.md:161` | "Feminine ending in -ntī (like nadī)" | *nadī* is never introduced. The course model for -ī feminine is *kumārī*. | "(like kumārī)" | 9 |
 | A29 | `class_10/2_prp.md:185` | neuter voc pl `gacchanto, gacchantā` | Masculine forms copied into the neuter table. | `gacchantāni` | 8 |
-| A30 | `class_10/3_pron.md:242-275` | Heading "in the nominative case", rows `amu`, `sa`, `aññatara`, `añña` | These four are stems; the others are nominatives (*sabbo*, *itaro*). | Give nominatives throughout, or drop the heading claim | 8 |
+| A30 | `class_10/3_pron.md:242-275` | Heading "in the nominative case", rows `amu`, `sa`, `aññatara`, `añña` | These four are stems; the others are nominatives (*sabbo*, *itaro*). | Give nominatives throughout | 8 |
 | A31 | `class_11/2_pp.md:14`, `:30`, `:32`, `:36` | "the past participle is passive in meaning", with *bhūta*, *gata*, *mata* | Intransitive past participles are active in sense. | "usually passive; active for intransitive verbs" | 7 |
-| A32 | `class_11/2_pp.md:52` | `ṭhahati … + ita > ṭhita` | *ṭhita* is ṭhā + ta (ā > i), so it belongs in table 1. The course uses *tiṭṭhati* everywhere else. | Move; use *tiṭṭhati* | 7 |
-| A33 | `class_11/2_pp.md:64` | `parisedati … sede` | The base *sede* is causative, so the verb should be *parisedeti*. | Check DPD | 6 |
+| A32 | `class_11/2_pp.md:52` | `ṭhahati … + ita > ṭhita` | *ṭhita* is ṭhā + ta (ā > i), so it belongs in table 1. The course uses *tiṭṭhati* everywhere else. | Remove that row | 8 |
+| A33 | `class_11/2_pp.md:64` | `parisedati … sede` | The base *sede* is causative, so the verb should be *parisedeti*. | Remove that row | 8 |
 | A34 | `class_11/2_pp.md:74` | `jirati` | Short vowel; the root in the same row is √jīr. | `jīrati` | 9 |
-| A35 | `class_11/2_pp.md:75` | `khīna` | Dental n. | `khīṇa` | 9 |
-| A36 | `class_11/2_pp.md:76` | `muyhati … + na > mūḷha` | *mūḷha* is muh + ta, not + na. | Move to table 1 | 8 |
+| A35 | `class_11/2_pp.md:75` | `khīna` | Dental n. | `khīṇa` and bold ṇ | 9 |
+| A36 | `class_11/2_pp.md:76` | `muyhati … + na > mūḷha` | *mūḷha* is muh + ta, not + na. | Remove that row | 8 |
 | A37 | `class_11/3_adj.md:73`, `:101`, `:132` | `uttariyāṃ`, `ātāpiniyāṃ`, `bahuyāṃ` | Long ā before ṃ. Correct in `:160` (`viduniyaṃ`) and in `class_8/3_fem.md`. | `-iyaṃ`, `-iniyaṃ`, `-uyaṃ` | 9 |
 | A38 | `class_11/3_adj.md:118`; `:168`, `:169`, `:175` | nt voc pl `ātāpinī`; nt pl `viduni` | First looks like a feminine form; second has a short vowel (compare `bahūni`, `āyūni`). | `ātāpīni`; `vidūni` | 8 / 7 |
 
@@ -95,11 +86,9 @@ Further items in classes 12–14:
 | A39 | `class_12/3_card.md:13` | `pañca-kāma-guṇāni` | *kāmaguṇa* is masculine; `class_13/1_review.md:13` has `pañca kāmaguṇā`. | `pañca kāmaguṇā` | 7 |
 | A40 | `class_12/3_card.md:104` | heading `aṭṭharasa` | Table below has `aṭṭhārasa`. | `aṭṭhārasa` | 9 |
 | A41 | `class_12/3_card.md:236-241` | `1014`, `1042`, `1056`, `1063`, `1070`, `1076` | Superscripts lost: these are 10¹⁴ … 10⁷⁶ but now read as ordinary numbers. Zero counts in column 3 are correct (verified). | Write `10^14` etc. | 9 |
-| A42 | `class_13/3_pass_verb.md:37` | `√badh` | Elsewhere `√bandh` (`class_3/5_roots.md:25`, `class_9/3_inf.md:37`, `class_14/4_ptp.md:65`). | `√bandh` | 8 |
-| A43 | `class_13/3_pass_verb.md:149` | `uddissati` "it is pointed up" | Attestation of this passive is doubtful. | Check DPD; replace the pair if not attested | 6 |
-| A44 | `class_13/4_pprp.md:11`, `:17`, `:28` | Rule: "passive base + māna". Examples: `labbhanta`, `muccanta` | The rule names only -māna but the tables also give -nta forms. | Add -nta to the rule, or remove the -nta forms | 8 |
-| A45 | `class_14/2_caus_verb.md:167` | `√sam + *e > sāme > sāmeti` | The causative is normally *sameti*, without lengthening. | Check DPD | 6 |
-| A46 | `class_14/3_caus_pass.md:53-55` | `bhāviya`, `bhāvīyati`, `bhāviyamāna` | i / ī alternate in three consecutive rows. | Use one form | 8 |
+| A44 | `class_13/4_pprp.md:11`, `:17`, `:28` | Rule: "passive base + māna". Examples: `labbhanta`, `muccanta` | The rule names only -māna but the tables also give -nta forms. | Add -nta to the rule - `+ māna / nta` | 8 |
+| A45 | `class_14/2_caus_verb.md:167` | `√sam + *e > sāme > sāmeti` | The causative is normally *sameti*, without lengthening. |change to √dis (point out) + *e > dese > deseti | 8 |
+| A46 | `class_14/3_caus_pass.md:53-55` | `bhāviya`, `bhāvīyati`, `bhāviyamāna` | i / ī alternate in three consecutive rows. | Use one form `bhāviyati` | 8 |
 | A47 | `class_14/3_caus_pass.md:57-61` | "How To Form Causative Passive Present Participle" | Formula stops at the causative passive base. The "+ māna" step is missing. | Add the third line | 9 |
 
 ## B. Paradigm tables that disagree with each other
@@ -108,23 +97,20 @@ A student who compares two tables for the same word will find different forms.
 
 | # | Locations | Difference |
 | --- | --- | --- |
-| B1 | `class_6/2_masc_u.md:87-90` vs `:103-106` | *bhātar* plural. Stand-alone table: inst/abl `bhātūhi`, dat/gen `bhātūnaṃ`. Comparison table: `bhātarehi, bhātūhi` and `bhātarānaṃ, bhātānaṃ, bhātūnaṃ`. |
-| B2 | `class_4/10_aor.md:52` vs `:65`, `class_4/11_root_as.md:33`, `class_13/3_pass_verb.md:125` | Aorist 1st pl: *paci* table gives only `-imhā`; the others give `-imha` (and `-imhā`). |
-| B3 | `class_10/3_pron.md:37` vs `:204` | *ta* masc nom sg: `so` vs `so, sa`. |
-| B4 | `class_10/3_pron.md:40`, `:42`, `:207`, `:209` vs `:82`, `:84` | *ta* dat/gen pl: masculine `tesaṃ` only; neuter `tesaṃ, tesānaṃ`. |
-| B5 | `class_10/3_pron.md:107`, `:155` vs `:206`, `:232` | *ima* inst sg: `iminā` vs `iminā, anena`. |
-| B6 | `class_10/3_pron.md:189` vs `:230` | *ya* nt nom sg: `yaṃ, yad` vs `yaṃ`. |
-| B7 | `class_10/3_pron.md:183` vs `:223` | *ya* fem loc sg: `yassaṃ, yāyaṃ, yāya` vs `yassaṃ, yāyaṃ`. |
-| B8 | `class_5/4_masc_ii.md:39`, `class_8/3_fem.md:45` vs `class_11/3_adj.md:102`, `class_12/4_ordin.md:44` | Vocative sg of -ī stems: `pakkhī`, `kumārī` vs `ātāpi`, `catutthi / catutthī`. Standard grammars give the short vowel. |
-| B9 | `class_5/4_masc_ii.md:36` vs `class_11/3_adj.md:99` | -ī masc abl sg: without and with `-ismā`. |
-| B10 | `class_4/9_masc_i.md:15`, `class_9/2_nt.md:73` vs `class_11/3_adj.md:73` | Loc sg `-ini`: noun tables give it to the neuter only; the adjective table gives it to the masculine only. |
-| B11 | `class_11/3_adj.md:70` vs `:72` | -i adj dat sg `uttarino`; gen sg `uttarino, uttarissa`. |
-| B12 | `class_11/3_adj.md:84` vs `:86`; `:114` vs `:116`; `:171` vs `:173` | Dat pl and gen pl differ within one table (`-inaṃ` / `-unnaṃ` in one case only). |
-| B13 | `class_8/3_fem.md:7` vs `class_11/3_adj.md:81` | -i fem nom pl: `bhūmī, bhūmiyo` vs `uttariyo` only. |
-| B14 | `class_9/2_nt.md:112` vs `:125` | *āyu* nom sg: `āyu, āyuṃ` vs `āyuṃ, āyu` (second unbolded). |
-| B15 | `class_14/4_ptp.md:106`, `:119` | Neuter abl sg lists `-to`; masculine does not, in both tables. |
-| B16 | `class_7/3_opt.md:51` vs `class_14/2_caus_verb.md:135` | Optative 1st sg `-eyyaṃ` is used in class 14 but is absent from the class 7 table. Class 14 also lists seven forms for six slots, out of order. |
-| B17 | `class_2/3_decl_nouns.md:114` vs `class_3/12_help_with_ex.md:17` | Genitive "usually comes before" vs "always comes before". |
+| B1 | `class_6/2_masc_u.md:87-90` vs `:103-106` | *bhātar* plural. Stand-alone table: inst/abl `bhātūhi`, dat/gen `bhātūnaṃ`. Comparison table: `bhātarehi, bhātūhi` and `bhātarānaṃ, bhātānaṃ, bhātūnaṃ`. | - ajjust comparison table with the values of the standalon table.
+| B2 | `class_4/10_aor.md:52` vs `:65`, `class_4/11_root_as.md:33`, `class_13/3_pass_verb.md:125` | Aorist 1st pl: *paci* table gives only `-imhā`; the others give `-imha` (and `-imhā`). | add everywhere `-imha` (and `-imhā`)
+| B3 | `class_10/3_pron.md:37` vs `:204` | *ta* masc nom sg: `so` vs `so, sa`. | remove `sa` from comparison table
+| B5 | `class_10/3_pron.md:107`, `:155` vs `:206`, `:232` | *ima* inst sg: `iminā` vs `iminā, anena`. | remove `anena`
+| B6 | `class_10/3_pron.md:189` vs `:230` | *ya* nt nom sg: `yaṃ, yad` vs `yaṃ`. | add `yad`
+| B7 | `class_10/3_pron.md:183` vs `:223` | *ya* fem loc sg: `yassaṃ, yāyaṃ, yāya` vs `yassaṃ, yāyaṃ`. | add `yāya`
+| B8 | `class_5/4_masc_ii.md:39`, `class_8/3_fem.md:45` vs `class_11/3_adj.md:102`, `class_12/4_ordin.md:44` | Vocative sg of -ī stems: `pakkhī`, `kumārī` vs `ātāpi`, `catutthi / catutthī`. Standard grammars give the short vowel. | keep short and long everywhere.
+| B9 | `class_5/4_masc_ii.md:36` vs `class_11/3_adj.md:99` | -ī masc abl sg: without and with `-ismā`. | follow table in 4_masc_ii
+| B10 | `class_4/9_masc_i.md:15`, `class_9/2_nt.md:73` vs `class_11/3_adj.md:73` | Loc sg `-ini`: noun tables give it to the neuter only; the adjective table gives it to the masculine only. | follow noun table
+| B13 | `class_8/3_fem.md:7` vs `class_11/3_adj.md:81` | -i fem nom pl: `bhūmī, bhūmiyo` vs `uttariyo` only. | follow noun table
+| B14 | `class_9/2_nt.md:112` vs `:125` | *āyu* nom sg: `āyu, āyuṃ` vs `āyuṃ, āyu` (second unbolded). | make second table same as first
+| B15 | `class_14/4_ptp.md:106`, `:119` | Neuter abl sg lists `-to`; masculine does not, in both tables. | add to masc
+| B16 | `class_7/3_opt.md:51` vs `class_14/2_caus_verb.md:135` | Optative 1st sg `-eyyaṃ` is used in class 14 but is absent from the class 7 table. Class 14 also lists seven forms for six slots, out of order. | make it the same as in 3_opt
+| B17 | `class_2/3_decl_nouns.md:114` vs `class_3/12_help_with_ex.md:17` | Genitive "usually comes before" vs "always comes before". | keep usually everywhere
 
 ## C. Translation and gloss problems
 
@@ -134,18 +120,22 @@ A student who compares two tables for the same word will find different forms.
 | C2 | `class_6/5_and_or.md:13-15` | `ajā eḷakā ca` / "sheep and goats" | Order reversed: *ajā* = goats, *eḷakā* = sheep. | 9 |
 | C3 | `class_6/4_subst.md:43-45` | `dakkhanti` / "see" | Future: "will see". | 7 |
 | C4 | `class_7/3_opt.md:39` | `āhareyyāmi` "I could eat" | *āharati* is "bring". "I could bring". | 9 |
-| C5 | `class_7/3_opt.md:5` | wish: "he **wants to** go" | An optative wish is "may he go". | 7 |
 | C6 | `class_8/4_adv_place.md:34` | "that is delightful place" | "that is a delightful place". | 10 |
-| C7 | `class_9/3_inf.md:90` | *jegucchī* "who disgusted (to)" | Garbled gloss. | 9 |
+| C7 | `class_9/3_inf.md:90` | *jegucchī* "who disgusted (to)" | "who detests" | 9 |
 | C8 | `class_9/4_dat_purpose.md:5-7` | Bold on `upasaṅkamituṃ` / "to approach" | The page teaches the dative of purpose, so the bold belongs on `dassanāya` / "to see". | 9 |
-| C9 | `class_10/3_pron.md:270` | *aññatara* "a certain, the" | Truncated gloss. | 8 |
-| C10 | `class_10/3_pron.md:272-273` | *kataro* and *katamo* both "which (of the many)?" | *katara* is "which of two". | 8 |
+| C9 | `class_10/3_pron.md:270` | *aññatara* "a certain, the" | "a certain, a" | 8 |
+| C10 | `class_10/3_pron.md:272-273` | *kataro* and *katamo* both "which (of the many)?" | *kataro* is "which (of two)". | 8 |
 | C11 | `class_10/5_emph.md:11` | `dissanti … suyyanti` / "is seen as well as heard" | Plural: "are seen as well as heard". | 9 |
 | C12 | `class_11/2_pp.md:30` | *bhūta* "became" | Participle: "become, been". | 8 |
 | C13 | `class_13/2_adv.md:75` | *ajjatana* "modern" | "of today", parallel to *svātana* "of tomorrow" in the row above. | 7 |
 | C14 | `class_13/3_pass_verb.md:149` | *uddisati* "he points up" | "points out". | 8 |
 
-Glosses that vary for the same item (pick one each): *ottappa* "remorse" (`class_2/2_alphabet.md:19`) vs "regret" (`class_5/4_masc_ii.md:26`); √sad "sit" vs "sink" (`class_11/2_pp.md:77`); √dhā "to place" vs "to hold" (`class_13/3_pass_verb.md:54`, `:64`); *ka* "adj" vs "pron" (`class_13/2_adv.md:20`, `:27`); the monkey simile translated two ways (`class_10/2_prp.md:19`, `:207`).
+Glosses that vary for the same item (pick one each): 
+- *ottappa* "remorse" (`class_2/2_alphabet.md:19`) vs "regret" (`class_5/4_masc_ii.md:26`); - change everywhere for "shame in wrongdoing"
+- √sad "sit" vs "sink" (`class_11/2_pp.md:77`); pick "sit"
+- √dhā "to place" vs "to hold" (`class_13/3_pass_verb.md:54`, `:64`); pick "to place", and change dhīyati to "is placed"
+- *ka* "adj" vs "pron" (`class_13/2_adv.md:20`, `:27`); pick "pron"
+- the monkey simile translated two ways (`class_10/2_prp.md:19`, `:207`). - pick "wandering in a forest, in wilderness."
 
 ## D. English typos and grammar
 

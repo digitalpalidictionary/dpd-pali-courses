@@ -1,21 +1,25 @@
-"""Merge the per-class IPC audit slices in kamma/audit/scratch into the final kamma/audit/ipc-audit.md."""
+"""Merge audit slice files into the final audit file, grouped by category with a summary table, as described by a small TOML config.
+
+Usage, from the root of the project being audited:
+    uv run python kamma/audit/scripts/merge_audit.py <merge.toml>
+
+Config (paths are relative to the folder of the TOML file):
+    out = "../ipc-key-audit.md"          # final file
+    head = "head.md"                     # optional, hand-written: title, method, limits
+    mid = "mid.md"                       # optional, hand-written: goes after the summary table
+    tail = "mechdetail.md"               # optional, hand-written: goes last
+    tail_title = "Mechanical detail"     # optional heading for the tail
+    slices = [["16", "c16.md"], ["17–18", "c17-18.md"]]   # [summary column label, slice file], in order
+    [titles]                             # optional, replaces the default categories A–I
+    A = "A. …"
+"""
 
 import re
+import sys
+import tomllib
 from collections import defaultdict
 from pathlib import Path
 
-AUDIT = Path("/Users/deva/Documents/dpd-pali-courses/kamma/audit")
-SCRATCH = AUDIT / "scratch"
-SLICES = [
-    ("index + 16", "ipc-audit-c16.md"),
-    ("17", "ipc-audit-c17.md"),
-    ("18", "ipc-audit-c18.md"),
-    ("19", "ipc-audit-c19.md"),
-    ("20–21", "ipc-audit-c20-21.md"),
-    ("22–23", "ipc-audit-c22-23.md"),
-    ("24–25", "ipc-audit-c24-25.md"),
-    ("26–27", "ipc-audit-c26-27.md"),
-]
 TITLES = {
     "A": "A. Pāli and grammar content errors",
     "B": "B. Tables, paradigms and lists that disagree with each other or themselves",
@@ -25,6 +29,7 @@ TITLES = {
     "F": "F. Convention drift",
     "G": "G. Links",
     "H": "H. Data to re-verify (forms, references, counts)",
+    "I": "I. Further details on the material under review",
 }
 
 
@@ -37,94 +42,82 @@ def conf(row: list[str]) -> int:
     return int(m.group()) if m else 0
 
 
-rows: dict[str, list[tuple[str, list[str]]]] = defaultdict(list)
-notes: list[str] = []
+def main(cfg_path: Path) -> None:
+    base = cfg_path.parent
+    cfg = tomllib.loads(cfg_path.read_text())
+    titles: dict[str, str] = cfg.get("titles", TITLES)
+    slices: list[tuple[str, str]] = [(str(a), str(b)) for a, b in cfg["slices"]]
+    missing = [name for _, name in slices if not (base / name).is_file()]
+    for key in ("head", "mid", "tail"):
+        if key in cfg and not (base / cfg[key]).is_file():
+            missing.append(cfg[key])
+    if missing:
+        raise SystemExit(f"missing files in {base}: {', '.join(missing)}")
 
-for label, name in SLICES:
-    for line in (SCRATCH / name).read_text().splitlines():
-        if line.startswith("- ") and name == "ipc-audit-c17.md":
-            notes.append(line)
-        if not line.startswith("|") or line.startswith("| ---"):
-            continue
-        c = cells(line)
-        if len(c) != 6 or c[0] == "Cat":
-            continue
-        rows[c[0]].append((label, [x.replace("¦", "\\|") for x in c[1:]]))
+    rows: dict[str, list[tuple[str, list[str]]]] = defaultdict(list)
+    skipped: list[str] = []
+    for label, name in slices:
+        for n, line in enumerate((base / name).read_text().splitlines(), 1):
+            if not line.startswith("|") or line.startswith("| ---"):
+                continue
+            c = cells(line)
+            if c[0] == "Cat":
+                continue
+            if len(c) != 6 or c[0] not in titles:
+                skipped.append(f"{name}:{n}")
+                continue
+            rows[c[0]].append((label, [x.replace("¦", "\\|") for x in c[1:]]))
 
-draft = (SCRATCH / "ipc-audit.md").read_text().splitlines()
-start = next(i for i, x in enumerate(draft) if x.startswith("## CLASS 28"))
-end = next(i for i, x in enumerate(draft) if x.startswith("## NOT AUDITED"))
-cat = ""
-conventions28: list[str] = []
-in_conv = False
-for line in draft[start:end]:
-    m = re.match(r"### ([A-H])\. ", line)
-    if m:
-        cat, in_conv = m.group(1), False
-        continue
-    if line.startswith("### Conventions"):
-        in_conv = True
-        continue
-    if in_conv and line.startswith("- "):
-        conventions28.append(line)
-    if cat and not in_conv and line.startswith("|") and not line.startswith("| ---"):
-        c = cells(line)
-        if len(c) == 5 and c[0] != "Location":
-            rows[cat].append(("28", c))
-
-m1 = next(i for i, x in enumerate(draft) if x.startswith("### M1."))
-mech_detail = "\n".join(draft[m1:start]).rstrip().rstrip("-").rstrip()
-
-labels = [s[0] for s in SLICES] + ["28"]
-out: list[str] = []
-out.append((SCRATCH / "ipc-audit-head.md").read_text().rstrip())
-out.append("")
-out.append("## Summary")
-out.append("")
-out.append("| Category | " + " | ".join(labels) + " | Total | Conf. ≥ 8 |")
-out.append("| --- |" + " --- |" * (len(labels) + 2))
-grand = hi = 0
-for k in "ABCDEFGH":
-    per = [sum(1 for lab, _ in rows[k] if lab == x) for x in labels]
-    h = sum(1 for _, r in rows[k] if conf(r) >= 8)
-    grand += sum(per)
-    hi += h
+    labels = [s[0] for s in slices]
+    out: list[str] = []
+    if "head" in cfg:
+        out += [(base / cfg["head"]).read_text().rstrip(), ""]
+    out += ["## Summary", ""]
+    out.append("| Category | " + " | ".join(labels) + " | Total | Conf. ≥ 8 |")
+    out.append("| --- |" + " --- |" * (len(labels) + 2))
+    grand = hi = 0
+    for k in titles:
+        per = [sum(1 for lab, _ in rows[k] if lab == x) for x in labels]
+        h = sum(1 for _, r in rows[k] if conf(r) >= 8)
+        grand += sum(per)
+        hi += h
+        out.append(
+            f"| {titles[k]} | "
+            + " | ".join(str(p) for p in per)
+            + f" | {sum(per)} | {h} |"
+        )
+    tot = [sum(1 for k in titles for lab, _ in rows[k] if lab == x) for x in labels]
     out.append(
-        f"| {TITLES[k]} | " + " | ".join(str(p) for p in per) + f" | {sum(per)} | {h} |"
+        "| **Total** | "
+        + " | ".join(f"**{t}**" for t in tot)
+        + f" | **{grand}** | **{hi}** |"
     )
-tot = [sum(1 for k in "ABCDEFGH" for lab, _ in rows[k] if lab == x) for x in labels]
-out.append(
-    "| **Total** | "
-    + " | ".join(f"**{t}**" for t in tot)
-    + f" | **{grand}** | **{hi}** |"
-)
-out.append("")
-out.append((SCRATCH / "ipc-audit-mid.md").read_text().rstrip())
-out.append("")
-for k in "ABCDEFGH":
-    out.append(f"## {TITLES[k]}")
     out.append("")
-    if not rows[k]:
-        out.append("None beyond what is listed in the Method table.")
+    if "mid" in cfg:
+        out += [(base / cfg["mid"]).read_text().rstrip(), ""]
+    for k in titles:
+        out += [f"## {titles[k]}", ""]
+        if not rows[k]:
+            out += ["None.", ""]
+            continue
+        out.append("| Location | Current | Problem | Suggested | Conf. |")
+        out.append("| --- | --- | --- | --- | --- |")
+        for _, r in rows[k]:
+            out.append("| " + " | ".join(r) + " |")
         out.append("")
-        continue
-    out.append("| Location | Current | Problem | Suggested | Conf. |")
-    out.append("| --- | --- | --- | --- | --- |")
-    for _, r in rows[k]:
-        out.append("| " + " | ".join(r) + " |")
-    out.append("")
-out.append("## Mechanical detail")
-out.append("")
-out.append(mech_detail)
-out.append("")
-out.append("## Notes carried from the read")
-out.append("")
-out.extend(notes)
-out.append("")
-out.append("### Conventions observed in class 28")
-out.append("")
-out.extend(conventions28)
-out.append("")
-(AUDIT / "ipc-audit.md").write_text("\n".join(out) + "\n")
-print(f"rows {grand}, conf>=8 {hi}, per slice {dict(zip(labels, tot))}")
-print({k: len(rows[k]) for k in "ABCDEFGH"})
+    if "tail" in cfg:
+        out += [f"## {cfg.get('tail_title', 'Mechanical detail')}", ""]
+        out += [(base / cfg["tail"]).read_text().rstrip(), ""]
+    dest = base / cfg["out"]
+    dest.write_text("\n".join(out) + "\n")
+    print(f"written {dest}")
+    print(f"rows {grand}, conf>=8 {hi}, per slice {dict(zip(labels, tot))}")
+    print({k: len(rows[k]) for k in titles})
+    print({k: sum(1 for _, r in rows[k] if conf(r) >= 9) for k in titles}, "conf>=9")
+    print("skipped rows:", skipped or "none")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        raise SystemExit(__doc__)
+    main(Path(sys.argv[1]))

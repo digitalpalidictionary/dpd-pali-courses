@@ -1,10 +1,13 @@
-"""Print DPD headword rows (pos, grammar, root, compound, construction, meaning) for the lemmas given as arguments; read-only helper for the key audit."""
+"""Print DPD headword rows (pos, grammar, root, compound, construction, meaning) for the lemmas given as arguments; read-only audit helper, DB path from $DPD_DB or the default below."""
 
+import os
 import re
 import sqlite3
 import sys
 
-con = sqlite3.connect("file:/Users/deva/Documents/dpd-db/dpd.db?mode=ro", uri=True)
+DB = os.environ.get("DPD_DB", "/Users/deva/Documents/dpd-db/dpd.db")
+
+con = sqlite3.connect(f"file:{DB}?mode=ro", uri=True)
 for w in sys.argv[1:]:
     rows = con.execute(
         "select lemma_1, pos, grammar, root_key, root_sign, compound_type, compound_construction, construction, meaning_1, meaning_2 from dpd_headwords where lemma_1 = ? or lemma_1 like ? order by lemma_1",

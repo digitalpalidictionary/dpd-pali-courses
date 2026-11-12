@@ -192,12 +192,18 @@ Pre-processing scripts run a series of checks and corrections before building th
 
 ### Course Audits
 
-Helper scripts for the read-only course audits live in `kamma/audit/scripts/`; the process is described in `kamma/audit/audit-guide.md`.
+Helper scripts for the read-only audits live in `kamma/audit/scripts/`; the process is described in `kamma/audit/audit-guide.md`. The guide and the scripts hold no project paths and are symlinked into other projects (e.g. `study-tools`), so run them from the root of the project being audited.
 
-- **`dpd_lookup.py`**: Prints DPD headword rows (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. Needs a local `dpd.db`.
+- **`dpd_lookup.py`**: Prints DPD headword rows (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. Needs a local `dpd.db` (path from `$DPD_DB`).
   - Usage: `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> [<lemma> …]`
-- **`ipc_key_mech.py`**: Mechanical checks over `docs/ipc_key/` (tables, footnotes, key vs exercise sentences, convention counts).
-  - Usage: `uv run python kamma/audit/scripts/ipc_key_mech.py`
+- **`mech_checks.py`**: Mechanical checks over any folder of Markdown files (tables, links, anchors, index titles, headings, footnotes, stray characters, convention counts).
+  - Usage: `uv run python kamma/audit/scripts/mech_checks.py docs/ipc [--links-out <file>] [--folder-footnotes]`
+- **`key_vs_ex.py`**: Compares the numbered sentences of a key folder with the same-named exercise files.
+  - Usage: `uv run python kamma/audit/scripts/key_vs_ex.py docs/ipc_key docs/ipc_ex --glob "*_class.md"`
+- **`verify_rows.py`**: Checks that every backtick excerpt in the audit rows exists in the cited source file near the cited line.
+  - Usage: `uv run python kamma/audit/scripts/verify_rows.py docs/ipc_key kamma/audit/scratch/key-*.md`
+- **`merge_audit.py`**: Merges the slice files into the final audit file, as described by a TOML config (format in the audit guide).
+  - Usage: `uv run python kamma/audit/scripts/merge_audit.py kamma/audit/scratch/merge.toml`
 
 ## Local Development
 

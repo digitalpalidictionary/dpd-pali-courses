@@ -1,14 +1,18 @@
-"""Check that every backtick excerpt in the IPC audit rows exists in the cited docs/ipc file near the cited line."""
+"""Check that every backtick excerpt in the `Current` cell of audit rows exists in the cited source file within 2 lines of the cited line.
+
+Usage, from the root of the project being audited:
+    uv run python kamma/audit/scripts/verify_rows.py <source root> <audit file> [<audit file> …]
+
+<source root> is the folder the Location paths are relative to (e.g. docs/ipc_key, or . for repo-relative paths).
+Audit files are slice files (6 columns, Cat first) or a final file (5 columns).
+"""
 
 import re
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/deva/Documents/dpd-pali-courses")
-IPC = ROOT / "docs/ipc"
-SCRATCH = ROOT / "kamma/audit/scratch"
-
-FILE_RE = re.compile(r"((?:class_\d+/)?[0-9a-z_]+\.md)((?::[\d–\-, ]+)?)")
+FILE_RE = re.compile(r"(?:[\w\-.]+/)*[\w\-.]+\.(?:md|tsv|csv|txt)")
+NEAR = 2
 
 
 def norm(s: str) -> str:
@@ -33,8 +37,16 @@ def lines_of(spec: str) -> list[int]:
     return out
 
 
-def check(src: Path) -> tuple[int, int]:
-    ok = bad = 0
+def resolve(root: Path, name: str, last_dir: str) -> Path | None:
+    """A bare file name after a `dir/file` in the same cell is looked up in that dir too."""
+    for cand in (root / name, root / last_dir / name):
+        if cand.is_file():
+            return cand
+    return None
+
+
+def check(root: Path, src: Path) -> tuple[int, int, int]:
+    ok = bad = unresolved = 0
     for n, line in enumerate(src.read_text().splitlines(), 1):
         if not line.startswith("|") or line.startswith("| ---"):
             continue
@@ -47,35 +59,31 @@ def check(src: Path) -> tuple[int, int]:
             continue
         if loc in ("Location", "Cat"):
             continue
-        targets: list[tuple[Path, list[int]]] = []
+        targets: list[Path] = []
         last_dir = ""
         for m in FILE_RE.finditer(loc):
-            name = m.group(1)
+            name = m.group()
+            p = resolve(root, name, last_dir)
             if "/" in name:
-                last_dir = name.split("/")[0]
-            elif name != "index.md" and last_dir:
-                name = f"{last_dir}/{name}"
-            p = IPC / name
-            if p.exists():
-                targets.append((p, lines_of(m.group(2))))
+                last_dir = name.rsplit("/", 1)[0]
+            if p:
+                targets.append(p)
         if not targets:
+            unresolved += 1
             continue
-        allnums = lines_of(
-            re.sub(r"(?:class_\d+/)?[0-9a-z_]+\.md|class(?:es)? [\d–\-]+", "", loc)
-        )
-        targets = [(p, allnums) for p, _ in targets]
+        # every number in the cell that is not part of a file name counts as a cited line
+        nums = lines_of(FILE_RE.sub("", loc))
         for snip in re.findall(r"`([^`]+)`", cur):
             for frag in re.split(r"…|\.\.\.", snip):
                 f = norm(frag)
                 if len(f) < 3:
                     continue
                 hit = near = False
-                for p, nums in targets:
-                    text = p.read_text().splitlines()
-                    for i, t in enumerate(text, 1):
+                for p in targets:
+                    for i, t in enumerate(p.read_text().splitlines(), 1):
                         if f in norm(t):
                             hit = True
-                            if not nums or any(abs(i - k) <= 2 for k in nums):
+                            if not nums or any(abs(i - k) <= NEAR for k in nums):
                                 near = True
                 if hit and near:
                     ok += 1
@@ -83,17 +91,20 @@ def check(src: Path) -> tuple[int, int]:
                     bad += 1
                     state = "WRONG LINE" if hit else "NOT FOUND"
                     print(f"{src.name}:{n} {state} [{loc[:60]}] «{frag.strip()}»")
-    return ok, bad
+    return ok, bad, unresolved
 
 
 if __name__ == "__main__":
-    tot_ok = tot_bad = 0
-    for f in sorted(
-        SCRATCH.glob(sys.argv[1] if len(sys.argv) > 1 else "ipc-audit*.md")
-    ):
-        if "handoff" in f.name:
-            continue
-        o, b = check(f)
+    if len(sys.argv) < 3:
+        raise SystemExit(__doc__)
+    source_root = Path(sys.argv[1])
+    if not source_root.is_dir():
+        raise SystemExit(f"not a folder: {source_root}")
+    tot_ok = tot_bad = tot_unres = 0
+    for name in sys.argv[2:]:
+        o, b, u = check(source_root, Path(name))
         tot_ok += o
         tot_bad += b
-    print(f"OK {tot_ok}  FAIL {tot_bad}")
+        tot_unres += u
+    print(f"OK {tot_ok}  FAIL {tot_bad}  (rows with no source file found: {tot_unres})")
+    sys.exit(1 if tot_bad else 0)
