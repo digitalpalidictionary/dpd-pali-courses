@@ -2,7 +2,7 @@
 
 Numbers are **adjectives** that describe how many of something there are, etc.
 
-There are different types of numbers used in Pāli Grammar
+There are different types of numbers used in Pāḷi Grammar
 
 | | | |
 | --- | --- | --- |

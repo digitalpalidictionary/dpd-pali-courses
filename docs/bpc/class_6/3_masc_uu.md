@@ -1,6 +1,6 @@
-# Masculine nouns ending in -ū {: #declension-of-u-masc}
+# Masculine nouns ending in -ū {: #declension-of-uu-masc}
 
-This is a small class of nouns, mostly formed from the **ññū** (knower) and **gū** (goer) ; e.g. *matta***ññū** (knower of the limit), *anta***gū** (one who has gone to the end)
+This is a small class of nouns, mostly formed with the endings **ññū** (knower) and **gū** (goer); e.g. *matta***ññū** (knower of the limit), *anta***gū** (one who has gone to the end).
 
 Many of these nouns can also be used as adjectives.
 

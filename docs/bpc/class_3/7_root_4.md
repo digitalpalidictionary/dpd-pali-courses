@@ -12,8 +12,6 @@ There are only a few roots in this group. This group has the conjugational sign 
 
 √ap (reach, attain)
 
-√sak (be able)
-
 √hi (send)
 
 e.g. √su (hear) + **ṇā** \> suṇā
@@ -27,10 +25,6 @@ suṇo + ti \> suṇoti (he hears)
 √ap (reach, attain) + u**ṇā** \> apuṇā
 
 pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
-
-√sak (be able) + **ṇo** \> sakko
-
-sakko + ti \> sakkoti (he is able)
 
 **Conjugation of -āti pr**
 

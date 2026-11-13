@@ -12,7 +12,7 @@ There are about 400 of these nouns in the DPD[^12].
 | 4. Dative | agg**ino**<br>agg**issa** | agg**īnaṃ** |
 | 5. Ablative | agg**inā**<br>agg**imhā**<br>agg**ismā** | agg**īhi** |
 | 6. Genitive | agg**ino**<br>agg**issa** | agg**īnaṃ** |
-| 7. Locative | agg**imhi**<br>agg**ismiṃ** | agg**īsu**<br>agg**isu** |
+| 7. Locative | agg**imhi**<br>agg**ismiṃ** | agg**isu**<br>agg**īsu** |
 | 8. Vocative | agg**i** | agg**ī**<br>agg**ayo** |
 
 e.g. samādhi, gahapati, muni, gāmaṇi, isi, suci, ñāti, pāṇi, sārathi, añjali, upadhi, kāsi

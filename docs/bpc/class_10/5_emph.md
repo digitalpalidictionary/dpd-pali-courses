@@ -8,7 +8,7 @@ The meaning of the emphatic particle **eva** is mostly determined by the context
 
 -   *even; too; as well*
 
-    dissanti ca **eva** suyyanti ca - is seen as well as heard
+    dissanti ca **eva** suyyanti ca - are seen as well as heard
 
 -   *as soon as (less common)*
 

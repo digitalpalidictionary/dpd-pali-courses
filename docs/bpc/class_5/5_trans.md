@@ -30,7 +30,7 @@ The Asuras take delight in the great ocean.
 
 pakkh**ī** sakuṇ**o** ḍeti. ([MN51](https://s.dhamma.gift/mn/mn51/index.html) simpl)
 
-A winged bird flies
+A winged bird flies.
 
 s**o** rukkhassa mūl**asmiṃ** jhāyati.
 
@@ -46,10 +46,10 @@ The leper begs the man for food.
 
 bhikkhu saṅgh**aṃ** kuṭivatthussa olokan**aṃ** yācati ([VIN1.2.6](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss6))
 
-A monk asks the Community to see the place of the hut.
+A monk asks the Community for an inspection of the hut site.
 
 so āyasmant**aṃ** sāriputt**aṃ** uttariṃ pañh**aṃ** apucchi. ([MN43](https://s.dhamma.gift/mn/mn43/index.html))
 
 He asked the Venerable Sāriputta a further question.
 
-The verbs that are *intransitive*, *transitive* and *di-transitive* in English are not the same in Pāli, so look out for them on a case by case basis.
+The verbs that are *intransitive*, *transitive* and *di-transitive* in English are not the same in Pāḷi, so look out for them on a case by case basis.

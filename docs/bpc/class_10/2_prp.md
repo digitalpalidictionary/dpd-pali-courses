@@ -16,7 +16,7 @@ Although the present participle acts as a verb, it is declined like a noun. It a
 
 seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *[SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)*
 
-Just like, monks, a **monkey** **roaming** **around** in a forest wilderness…
+Just like, monks, a **monkey**, **wandering** **in a forest, in wilderness**…
 
 makkaṭo = masc.nom.sg
 
@@ -145,7 +145,7 @@ What do you notice?
 | 7.loc | gaccha**māne**<br>gaccha**mānamhi**<br>gaccha**mānasmiṃ** | gaccha**mānesu** |
 | 8.voc | gaccha**māna**<br>gaccha**mānā** | gaccha**mānāni** |
 
-**Masculine ending in -anta (**like bhagavant**)**
+**Masculine ending in -anta (**almost like bhagavant**)**
 
 | | | |
 | --- | --- | --- |
@@ -158,7 +158,7 @@ What do you notice?
 | 7.loc | gacch**ante**<br>gacch**antamhi**<br>gacch**antasmiṃ** | gacch**antesu** |
 | 8.voc | gacch**aṃ**<br>gacch**a**<br>gacch**ā** | gacch**anto**<br>gacch**antā** |
 
-**Feminine ending in -ntī** (like nadī)
+**Feminine ending in -ntī** (like kumārī)
 
 | | | |
 | --- | --- | --- |
@@ -182,7 +182,7 @@ What do you notice?
 | 5.abl | gacch**atā**<br>gacch**antamhā**<br>gacch**antasmā** | gacch**antehi** |
 | 6.gen | gacch**ato**<br>gacch**antassa** | gacch**ataṃ**<br>gacch**antānaṃ** |
 | 7.loc | gacch**ante**<br>gacch**antamhi**<br>gacch**antasmiṃ** | gacch**antesu** |
-| 8.voc | gacch**aṃ**<br>gacch**a**<br>gacch**ā** | gacch**anto**<br>gacch**antā** |
+| 8.voc | gacch**aṃ**<br>gacch**a**<br>gacch**ā** | gacch**antāni** |
 
 One thing to notice about present participles is the fact that they are verbs. Like other verbs, they can take an object in the accusative case.
 
@@ -200,7 +200,7 @@ Wandering ascetics who belong to other sects are blind and visionless, **not kno
 
 ([MN75](https://s.dhamma.gift/mn/mn75/index.html) māgaṇḍiyasuttaṃ)
 
-Just like other verbs, sometimes the *object* is not in the accusative case. Here it is in the **locative**.
+A participle can also take a word in another case. Here it is in the **locative**.
 
 seyyathāpi, bhikkhave, makkaṭo **araññe pavane caramāno.**
 

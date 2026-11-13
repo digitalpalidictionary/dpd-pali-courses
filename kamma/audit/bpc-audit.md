@@ -88,113 +88,15 @@ The owner deleted these 15 rows from the old audit. They are not reported, and a
 These are not decided in the audit; the rows say `owner decision`:
 
 - `<br>` in table cells and `{: … }` attribute markup versus the "no raw HTML in sources" rule (784 `<br>`, 78 `{:`). - [TODO] come back to it and find a way to replace with just natural readable text.
-- `Pāli` (125) or `Pāḷi` (12, all in one book title) in running text. - Pāḷi everywhere
-- UK or US spelling. - UK
-- How review pages mark the word under review (italics, bold or nothing). - bold
-
-
-Part 1 of the findings: rows the owner already approved (old sections A, B, C and the gloss list). Nothing here needs to be read again.
-## A. Pāli and grammar content errors — approved by the owner
-
-| Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- |
-| class_2/2_alphabet.md:111 | `di**ṣ**ṭa \| (seen)` | Sanskrit for "seen" is *dṛṣṭa*. *diṣṭa* means "shown, appointed". (old A1) | Owner: keep *diṣṭa* with its real meaning | 8 |
-| class_3/7_root_4.md:31 | `√sak (be able) + **ṇo** \> sakko` | Rule on line 7: ṇā (ṇo) after a vowel, uṇā after a consonant. √sak ends in a consonant, so the example breaks the rule just stated. (old A4) | Owner: Just remove that root and example from here | 8 |
-| class_3/8_root_5.md:5 | `= √ki + etc + group` | Same root spelled two ways: `√ki` here (lines 1–5 and index.md line 17), `√kī + nā` in class_4/3_var_root_group.md (line 10). (old A5) | Owner: Pick one - √kī is the usual citation form | 9 |
-| class_3/9_root_6.md:13 | `√tas (thirst) + **ṇhā** \> taṇhā` | Shown as an example of the group 6 conjugational sign, but *taṇhā* is a noun, not a verbal base. (old A6) | Owner: mark clearly as a noun formation = taṇhā + ā as in DPD | 8 |
-| class_3/13_tricky_base.md:9 | `√sad (sit) + a \> sīda + ti \> nisīdati (sanskrit)` | Prefix *ni* is missing from the derivation. Line 19 writes `pa + √hā`. (old A7) | Owner: `ni + √sad + a > …` | 9 |
-| class_3/13_tricky_base.md:13 | `√sī (sleep) + a \> saya + ti \> sayati (vuddhi)` | ī > ay is guṇa by the course's own table (class_4/4_vuddhi.md); vuddhi would be *āy*. (old A8) | Owner: so change to english better `(strengthening)` | 8 |
-| class_4/5_root_2.md:17 | `bhunja + ti \> bhuñjati (he eats, enjoys)` | Missing diacritic. (old A9) | Owner: `bhuñja + ti` | 10 |
-| class_4/7_basic_assim.md:3 | `In order to understand how verbs from group 3 get formed` | The page then lists *bhijjati, khajjati, chijjati, rujjhati, haññati* (lines 19–23, 39, 44), which are passives of roots from other groups. Only the last line of the page mentions the passive. (old A10) | Owner: State up front that both are shown | 7 |
-| class_5/4_masc_ii.md:7 | `Many of these agent nouns can also be used as adjectives.` | The -ī nouns here are possessives ("has X"). "Agent noun" is the term the course uses for -tar in class_6/2_masc_u.md line 31. (old A11) | Owner: "possessive nouns" | 7 |
-| class_7/4_pali_lists.md:4 | `-   Dhātumañjūsa` | Title is feminine. (old A16) | Owner: `Dhātumañjūsā` | 8 |
-| class_8/2_abs_ger.md:3 | `one of the most common forms of verbal adjectives in Pāli has **no declensions**` | An absolutive is not an adjective. (old A17) | Owner: "verbal forms" | 7 |
-| class_8/2_abs_ger.md:99 | `\| √chid \| chinda \| chind + itvā \| chinditvā \|` | Base is given as `chinda` in the same row; the other rows write the full base. (old A21) | Owner: `chinda + itvā` | 9 |
-| class_8/2_abs_ger.md:128-131 | `abhi + sam + √i + **ty**a` … `saṃ + √i + **ty**a` … `anu + vid + **ty**a` | *sam* / *saṃ* mixed; √ missing before *vid*. (old A22) | Owner: `saṃ` in both; `anu + √vid` | 9 |
-| class_8/3_fem.md:22 | `\| brahmaṇa \| Brahman \| brahmaṇ**ī** \| Brahman woman \|` | Short first vowel. The rest of the course has *brāhmaṇo*, *brāhmaṇā*. (old A23) | Owner: `brāhmaṇa`, `brāhmaṇī` | 9 |
-| class_8/3_fem.md:104 | `\| sappī \| serpent \| sapp**inī** \| fem. snake \|` | The usual masculine is *sappa*; also the only row with no bold ending. (old A24) | Owner: Remove that row | 6 |
-| class_9/3_inf.md:39 | `\| √bhind \| + ituṃ \| bhindituṃ \| to break \|` | √bhind is not a root. Root is √bhid, base *bhinda*, so the row belongs in section 3 (base + -ituṃ). (old A25) | Owner: Remove that row | 9 |
-| class_9/3_inf.md:48 | `Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.` | The page's opening example *passituṃ* is this type, as are *bhuñjituṃ*, *pivituṃ*. (old A26) | Owner: Drop "Very rarely" | 8 |
-| class_10/2_prp.md:158 | `\| 7.loc \| gacch**ante**<br>gacch**antamhi**<br>gacch**antasmiṃ** \| gacch**antesu** \|` | Declared "like bhagavant", whose table has `bhagavati` (class_6/4_subst.md). (old A27) | Owner: Add "almost like bhagavant" | 7 |
-| class_10/2_prp.md:161 | `**Feminine ending in -ntī** (like nadī)` | *nadī* is never introduced. The course model for -ī feminine is *kumārī*. (old A28) | Owner: "(like kumārī)" | 9 |
-| class_10/2_prp.md:185 | `\| 8.voc \| gacch**aṃ**<br>gacch**a**<br>gacch**ā** \| gacch**anto**<br>gacch**antā** \|` | Neuter vocative plural: masculine forms copied into the neuter table. (old A29) | Owner: `gacchantāni` | 8 |
-| class_10/3_pron.md:242 | `## Some common pronouns (in the nominative case)` | Rows `amu` (line 260), `sa` (267), `aññatara` (270) and `añña` (271) are stems; the others are nominatives (*sabbo*, *itaro*). (old A30) | Owner: Give nominatives throughout | 8 |
-| class_11/2_pp.md:14 | `Please note that the past participle is **passive** in meaning.` | Intransitive past participles are active in sense: *bhūta*, *gata*, *mata* (lines 30, 32, 36). (old A31) | Owner: "usually passive; active for intransitive verbs" | 7 |
-| class_11/2_pp.md:52 | `\| ṭhahati \| √ṭhā \| to stand \| + ita \| ṭhita \| stood \|` | *ṭhita* is ṭhā + ta (ā > i), so it belongs in table 1. The course uses *tiṭṭhati* everywhere else. (old A32) | Owner: Remove that row | 8 |
-| class_11/2_pp.md:64 | `\| parisedati \| √sid \| sede \| + ita \| parisedita \| incubated \|` | The base *sede* is causative, so the verb should be *parisedeti*. (old A33) | Owner: Remove that row | 8 |
-| class_11/2_pp.md:74 | `\| jirati \| √jīr \| to age \| + na \| ji**ṇṇ**a \| aged \|` | Short vowel; the root in the same row is √jīr. (old A34) | Owner: `jīrati` | 9 |
-| class_11/2_pp.md:75 | `\| khīyati \| √khī \| to destroy \| + na \| khīna \| destroyed \|` | Dental n. (old A35) | Owner: `khīṇa` and bold ṇ | 9 |
-| class_11/2_pp.md:76 | `\| muyhati \| √muh \| to be confused \| + na \| mū**ḷh**a \| confused \|` | *mūḷha* is muh + ta, not + na. (old A36) | Owner: Remove that row | 8 |
-| class_11/3_adj.md:73 | `uttar**iyā**<br>uttar**iyāṃ**` | Long ā before ṃ, also `ātāp**iniyāṃ**` (line 101) and `bah**uyāṃ**` (line 132). Correct on line 160 (`vid**uniyaṃ**`) and in class_8/3_fem.md. (old A37) | Owner: `-iyaṃ`, `-iniyaṃ`, `-uyaṃ` | 9 |
-| class_11/3_adj.md:118 | `\| 8.voc \| ātāp**ino** \| ātāp**iniyo** \| ātāp**inī** \|` | Neuter voc pl `ātāpinī` looks like a feminine form; neuter pl `vid**uni**` (lines 168, 169, 175) has a short vowel (compare `bahūni`, `āyūni`). (old A38) | Owner: `ātāpīni`; `vidūni` | 8 |
-| class_12/3_card.md:13 | `\| **pañca**-kāma-guṇāni \| **five** strings of sense pleasure \|` | *kāmaguṇa* is masculine; class_13/1_review.md line 13 has `pañca kāmaguṇā`. (old A39) | Owner: `pañca kāmaguṇā` | 7 |
-| class_12/3_card.md:104 | `## cha “six” to aṭṭharasa “eighteen”` | The table below has `aṭṭhārasa`. (old A40) | Owner: `aṭṭhārasa` | 9 |
-| class_12/3_card.md:236 | `\| pakoṭi \| 1014 \| 1 00 000 000 000 000 \|` | Superscripts lost on lines 236–241: `1014`, `1042`, `1056`, `1063`, `1070`, `1076` are 10¹⁴ … and now read as ordinary numbers. (old A41) | Owner: Write `10^14` etc. | 9 |
-| class_13/4_pprp.md:17 | `**passive base + māna \> passive present participle**` | The rule names only -māna but the tables also give -nta forms (`labbhanta`, line 11; `mucca**nta**`, line 28). (old A44) | Owner: Add -nta to the rule - `+ māna / nta` | 8 |
-| class_14/2_caus_verb.md:167 | `√sam (calm) + \*e \> sāme \> **sāmeti**` | The causative is normally *sameti*, without lengthening. (old A45) | Owner: change to √dis (point out) + *e > dese > deseti | 8 |
-| class_14/3_caus_pass.md:53-55 | `\| caus pass base \| bhāviya \| \|` … `\| caus pass pr \| bhāvīyati \|` … `\| caus pprp \| bhāviya**māna** \|` | i / ī alternate in three consecutive rows. (old A46) | Owner: Use one form `bhāviyati` | 8 |
-| class_14/3_caus_pass.md:57-61 | `### How To Form Causative Passive Present Participle` … `**causative base + ya / iya / īya \> causative passive base**` | The formula stops at the causative passive base. The "+ māna" step is missing. (old A47) | Owner: Add the third line | 9 |
-
-## B. Tables, paradigms and lists that disagree with each other or themselves — approved by the owner
-
-| Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- |
-| class_3/12_help_with_ex.md:17 | `The genitive case always comes *before* the noun it qualifies.` | class_2/3_decl_nouns.md (line 114) says "usually comes before". (old B17) | Owner: keep usually everywhere | 8 |
-| class_4/10_aor.md:52 | `pac**imhā**<br>apac**imhā**` | Aorist 1st pl: this table gives only `-imhā`; line 65, 11_root_as.md line 33 and class_13/3_pass_verb.md give `-imha` and `-imhā`. (old B2) | Owner: add everywhere `-imha` (and `-imhā`) | 8 |
-| class_6/2_masc_u.md:103 | `bhāt**arehi**<br>bhāt**ūhi**` | *bhātar* plural. Stand-alone table (lines 87–90): inst/abl `bhātūhi`, dat/gen `bhātūnaṃ`. Comparison table (lines 103–106): `bhātarehi, bhātūhi` and `bhātarānaṃ, bhātānaṃ, bhātūnaṃ`. (old B1) | Owner: - ajjust comparison table with the values of the standalon table. | 9 |
-| class_5/4_masc_ii.md:39 | `8. voc \| pakkh**ī** \|` | Vocative sg of -ī stems: `pakkhī` here and `kumārī` in class_8/3_fem.md, but `ātāpi` in class_11/3_adj.md and `catutthi / catutthī` in class_12/4_ordin.md. (old B8) | Owner: keep short and long everywhere. | 8 |
-| class_8/3_fem.md:45 | `\| 8.voc \| kumār**ī** \|` | Vocative sg of -ī stems, long only (see the row for class_5/4_masc_ii.md line 39). (old B8) | Owner: keep short and long everywhere. | 8 |
-| class_9/2_nt.md:125 | `\| 1.nom \| bhikkh**u** \| āy**uṃ**<br>āyu \|` | *āyu* nom sg: `āyu, āyuṃ` in the declension table (line 112), `āyuṃ, āyu` here, the second unbolded. (old B14) | Owner: make second table same as first | 9 |
-| class_10/3_pron.md:204 | `\| 1.nom \| s**o**<br>s**a** \|` | *ta* masc nom sg: `so` in the lesson table (line 37), `so, sa` in the comparison table. (old B3) | Owner: remove `sa` from comparison table | 9 |
-| class_10/3_pron.md:206 | `im**inā**<br>an**ena**` | *ima* inst sg: `iminā` in the lesson tables (lines 107, 155), `iminā, anena` in the comparison tables (here and line 232, where the order is `anena, iminā`). (old B5) | Owner: remove `anena` | 9 |
-| class_10/3_pron.md:230 | `\| 1.nom \| t**aṃ**<br>t**ad** \| id**aṃ**<br>im**aṃ** \| y**aṃ** \|` | *ya* nt nom sg: `yaṃ, yad` in the lesson table (line 189), `yaṃ` here. (old B6) | Owner: add `yad` | 9 |
-| class_10/3_pron.md:223 | `y**assaṃ**<br>y**āyaṃ** \| t**āsu**` | *ya* fem loc sg: `yassaṃ, yāyaṃ, yāya` in the lesson table (line 183), `yassaṃ, yāyaṃ` here. (old B7) | Owner: add `yāya` | 9 |
-| class_11/3_adj.md:102 | `\| 8.voc \| ātāp**i** \| ātāp**ī**<br>ātāp**inī** \| ātāp**i** \|` | Vocative sg of -ī stems: short only here; `pakkhī` in class_5/4_masc_ii.md. (old B8) | Owner: keep short and long everywhere. | 8 |
-| class_11/3_adj.md:99 | `ātāp**inā**<br>ātāp**imhā**<br>ātāp**ismā**` | -ī masc abl sg: with `-ismā` here, without in class_5/4_masc_ii.md line 36. (old B9) | Owner: follow table in 4_masc_ii | 8 |
-| class_11/3_adj.md:73 | `uttar**ini**<br>uttar**ismiṃ**<br>uttar**imhi**` | Loc sg `-ini`: the noun tables give it to the neuter only (class_9/2_nt.md line 73; not in class_4/9_masc_i.md line 15); the adjective table gives it to the masculine only. (old B10) | Owner: follow noun table | 8 |
-| class_11/3_adj.md:81 | `\| 1.nom \| uttar**ī**<br>uttar**ayo** \| uttar**iyo** \|` | -i fem nom pl: `uttariyo` only; the noun table has `bhūmī, bhūmiyo` (class_8/3_fem.md line 7). (old B13) | Owner: follow noun table | 8 |
-| class_13/3_pass_verb.md:125 | `\| 1st \| dīy**iṃ** \| dīy**imha** \|` | Aorist 1st pl: `-imha` only here; see the row for class_4/10_aor.md line 52. (old B2) | Owner: add everywhere `-imha` (and `-imhā`) | 8 |
-| class_14/4_ptp.md:106 | `pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato**` | Neuter abl sg lists `-to`; the masculine in the same row does not. The same in the second table (line 119). (old B15) | Owner: add to masc | 8 |
-| class_14/2_caus_verb.md:135 | `**optative**: pācāpe**yya** pācāpe**yyuṃ** pācāpe**yyāsi** pācāpe**yyātha** pācāpe**yyaṃ** pācāpe**yyāma** pācāpe**yyāmi**` | 1st sg `-eyyaṃ` is absent from the class 7 table (class_7/3_opt.md line 51); seven forms for six slots, the last two out of order. (old B16) | Owner: make it the same as in 3_opt | 8 |
-
-## C. Translation and gloss problems — approved by the owner
-
-| Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- |
-| class_2/3_decl_nouns.md:102-104 | `The lay devotee walks **from the residence.**` … `upāsako **āvāsamhā** gacchati.` | The vocabulary on the same page has *carati* = walks, *gacchati* = goes. (old C1) | Owner: Use "goes". | 9 |
-| class_2/2_alphabet.md:19 | `**o**ttappa \| (remorse)` | *ottappa* is "remorse" here and "regret" in class_5/4_masc_ii.md (line 26). (old C-gloss-ottappa) | Owner: change everywhere for "shame in wrongdoing" | 8 |
-| class_6/5_and_or.md:13-15 | `assā gāvo ajā eḷakā **ca**` … `horses, cattle, sheep **and** goats` | (old C2) | Owner: Order reversed: *ajā* = goats, *eḷakā* = sheep. | 9 |
-| class_6/4_subst.md:43-45 | `**cakkhumanto** rūpāni dakkhanti.` … `**People with eyesight** see forms.` | *dakkhanti* is future. (old C3) | Owner: Future: "will see". | 7 |
-| class_7/3_opt.md:39 | `ā + hara + **eyyāmi** \> āhareyyāmi (I could eat)` | (old C4) | Owner: *āharati* is "bring". "I could bring". | 9 |
-| class_8/4_adv_place.md:34 | `**Wherever** the arahants dwell, that is delightful place.` | Missing article. (old C6) | Owner: "that is a delightful place". | 10 |
-| class_9/3_inf.md:90 | `\| jegucchī \| masc \| who disgusted (to) \|` | (old C7) | Owner: "who detests" | 9 |
-| class_9/4_dat_purpose.md:5-7 | `dassanāya **upasaṅkamituṃ**` … `Ascetic Gotama ought **to approach** Sir Crooked Tooth to see (him).` | (old C8) | Owner: The page teaches the dative of purpose, so the bold belongs on `dassanāya` / "to see". | 9 |
-| class_10/3_pron.md:270 | `\| aññatara \| a certain, the \|` | (old C9) | Owner: "a certain, a" | 8 |
-| class_10/3_pron.md:272-273 | `\| kataro \| which (of the many)? \|` … `\| katamo \| which (of the many)? \|` | Both glossed the same. (old C10) | Owner: *kataro* is "which (of two)". | 8 |
-| class_10/5_emph.md:11 | `dissanti ca **eva** suyyanti ca - is seen as well as heard` | (old C11) | Owner: Plural: "are seen as well as heard". | 9 |
-| class_10/2_prp.md:19 | `Just like, monks, a **monkey** **roaming** **around** in a forest wilderness…` | The monkey simile is translated two ways: here, and line 207 `a monkey, **wandering** **in a forest, in wilderness.**` (old C-gloss-monkey) | Owner: pick "wandering in a forest, in wilderness." | 8 |
-| class_11/2_pp.md:30 | `\| bhavati \| √bhū \| to be \| + ta \| bhūta \| became \|` | "became" is a past tense, not a participle. (old C12) | Owner: Participle: "become, been". | 8 |
-| class_11/2_pp.md:77 | `\| nisīdati \| √sad \| to sink \| + na \| nisi**nn**a \| seated \|` | √sad is "sit" elsewhere (class_3/13_tricky_base.md, class_8/2_abs_ger.md). (old C-gloss-sad) | Owner: pick "sit" | 8 |
-| class_13/2_adv.md:75 | `\| ajjatana \| adj \| modern \| ajjatan**āya** \| adv \| for today; today \|` | (old C13) | Owner: "of today", parallel to *svātana* "of tomorrow" in the row above. | 7 |
-| class_13/3_pass_verb.md:149 | `\| uddi**s**ati \| he points up \| uddi**ss**ati \| it is pointed up \|` | (old C14) | Owner: "points out". | 8 |
-| class_13/3_pass_verb.md:64 | `\| **√dhā** \| to hold \| + īya \| **dhīya** \| **dhīya**ti \| is held \|` | √dhā is "to place" on line 54 and "to hold" here. (old C-gloss-dha) | Owner: pick "to place", and change dhīyati to "is placed" | 8 |
-| class_13/2_adv.md:20 | `\| ka \| adj \| what \| ka**thaṃ** \| adv \| in what way? \|` | *ka* is `adj` here and `pron` on line 27. (old C-gloss-ka) | Owner: pick "pron" | 8 |
-
+- How review pages mark the word under review (italics, bold or nothing). - bold Done for class 3 (italics → bold). Classes 4 and 8–14 mark no word: the word under review must be chosen before it can be bolded.
 
 Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I follow.
+
 ## A. Pāli and grammar content errors — new
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_1/index.md:28 | `agārasmā anāgāriyaṃ pabbajanti` | The stock phrase is *agārasmā anagāriyaṃ* (an + agāra + iya, short second a). bpc_ex and bpc_key class 8 both write `anagāriyaṃ`. | `anagāriyaṃ` (DPD: anagāriya, na > an + agāra + iya) | 9 |
-| class_2/3_decl_nouns.md:80 | `Refers to an object given or directed to someone.` | The dative marks the receiver ("someone"), not the object given. In the example on line 86 the dative word is `upāsakassa` (the receiver); the object given, `pattaṃ`, is accusative. | "Refers to the person or thing to which something is given or directed." | 8 |
-| class_3/10_root_8.md:19 | `We use symbol **\*** or traditionally **ṇa** (sign for vuddhi)` | The example it explains is u > o (`c**o**re`), which the course's own table in class_4/4_vuddhi.md calls guṇa. Same term problem as old A8. | "sign for strengthening" | 7 |
-| class_4/4_vuddhi.md:41-43 | `√bh**ī** 1 a (fear) \> bhī + a \> bh**ay**a` … `bhaya + ti \> bhayati (he fears)` | The verb "he fears" is *bhāyati*; *bhaya* is the noun "fear". So the example for ī > ay gives a verb that is not in use. | Replace with √nī 1 a (lead) > naya > nayati | 8 |
-| class_5/2_pers_pron.md:11 | `maṃ<br>mamaṃ<br>**me**` | The `me` is listed as accusative singular, and `te` likewise on line 43 but the frequency tables on this page also gloss `me` and `te` without an accusative sense (lines 28, 60). | acc sg is valid declination for both - make consistent that it is everywhere | 8 |
-| class_6/2_masc_u.md:35 | `√sās \> sass + tar \> satthar` | The middle step `sass` is unusual; DPD's construction is `√sās + tar` with no middle step. | `√sās + tar \> satthar` (DPD) | 8 |
-| class_5/5_trans.md:15 | `pupph**ā** tathāgatassa sarīr**aṃ** okiranti` | *puppha* is neuter (DPD: nt only); the bold ending shows a nominative plural in -ā. That form exists, but the course only teaches `-āni` / `-ā` for neuters in class 9. | at this point nt has not been studied yet, need to replace this example, find some other canonical example with masc and transitive verb - this is an exercise in the bpc_key - cl_5 #29 - line 374 - once we confurm new example we need to replace that exercise as well | 8 |
-| class_8/2_abs_ger.md:111 | `\| √gam \| to go \| √gam + ya \| ga**mma** \| having gone \|` | DPD has no absolutive *gamma*: only the adjective "vulgar" and a ptp "what should be understood or attained". The absolutive in -ya of √gam is *āgamma* (DPD: ger of āgacchati, `ā + √gam + ya`). | `ā + √gam + ya` \| `āga**mma**` \| "having come" | 7 |
------ approved untill here ------
+| class_5/5_trans.md:15 | `pupph**ā** tathāgatassa sarīr**aṃ** okiranti` | *puppha* is neuter (DPD: nt only); the bold ending shows a nominative plural in -ā. That form exists, but the course only teaches `-āni` / `-ā` for neuters in class 9. | [TODO] at this point nt has not been studied yet, need to replace this example, find some other canonical example with masc and transitive verb - this is an exercise in the bpc_key - cl_5 #29 - line 374 - once we confurm new example we need to replace that exercise as well | 8 |
 | class_10/6_loc_gen_abs.md:9 | `The **subject** of the sentence and the **participle** are in the locative **case**` | It is the subject of the absolute clause that is in the locative, not the subject of the sentence (in line 17 the sentence has its own subject). | "The subject of the clause and the participle…" | 7 |
 | class_10/2_prp.md:94 | `\| √īr \| to move \| iriya \| iriy**āna** \| going around \|` | Root and base agree with DPD (*iriyati*, `√īr 1 a`, base iriya), and *esāna* (line 93) is in DPD. The participle *iriyāna* itself was not looked up. | DPD lookup (iriyāna) | 3 |
 | class_11/5_home_work.md:25 | `na ca vokkama satthusāsanā vattanti` | The MN 122 text reads *vokkamma* (absolutive, double m). | `vokkamma` (DPD: ger of vokkamati, `vi + ud + √kam + ya`) | 8 |
@@ -207,22 +109,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_2/3_decl_nouns.md:182 | `masculine nouns ending in **-a** \| **88%**` | The masculine percentage row repeats the label of line 179; the neuter percentage row (line 186, `\| \| **97%** \|`) has no label at all. | Same label pattern for both, e.g. "share of -a" | 7 |
-| class_2/3_decl_nouns.md:183 | `neuter nouns ending in **-aṃ**` | Masculine rows name the stem ending (`-a`, `-i -ī -u -ū`), this row names the nominative ending (`-aṃ`), and the next row goes back to stems (`-i -u`). | `-a` (stem) | 8 |
-| class_2/2_alphabet.md:75 | `**8 Other Consonants & Semi-vowels**` | The table that follows has 10 rows: lines 86–88 are three spellings (`ṃ`, `ṁ`, `ŋ`) of the same letter, with no note saying so. The count 8 (and 33 consonants on line 3) is right only if the reader knows that. | Add a note that ṁ and ŋ are other ways of writing ṃ | 8 |
-| class_3/5_roots.md:62 | `ṇā (ṇo[^8]) (after vowel)<br>uṇā (after consonant)` | Footnote 8 and footnote 10 (7_root_4.md line 9) are the same text, `less common`, for the same sign. | One footnote | 6 |
-| class_3/5_roots.md:66 | `√cur (steal) + e \> c**o**re` | The summary table gives the signs as `e` and `aya`; the lesson page 10_root_8.md lines 17 and 23 writes `\*e` and `\*aya` with a footnote on `*`. 14_home_work.md line 17 again has plain `e`. | One notation in the three places - using `*` | 8 |
-| class_4/12_root_huu.md:29 | `ahu**mhā** <br>ahu**mha**` | Order long–short; the other aorist tables (10_aor.md lines 65, 80; 11_root_as.md line 33) have short–long. | `ahu**mha**<br>ahu**mhā**` | 8 |
-| class_4/4_vuddhi.md:67 | `\| *weak* \| *strong* \| *long* \|` | The three grades have four sets of names on one page: line 3 `(weak / strengthened / lengthened)`, line 5 `(weak / medium / strong)`, line 67 weak / strong / long, line 88 zero / strengthened / lengthened. "strong" is guṇa on line 67 and vuddhi on line 5. class_14/2_caus_verb.md calls a > ā "strengthened". (old F9) | One set of names - `\| *weak* \| *strong* \| *long* \|` | 9 |
-| class_5/2_pers_pron.md:41 | `\| \| singular “you” \| plural “you all” \|` | The 2nd person table differs from the 1st person table (lines 9–17) in two ways: the title row is not bold, and there is no `8. Vocative` row. | Same layout in both - bold and no `8. Vocative` for both | 8 |
-| class_6/2_masc_u.md:98 | `\| \| u \| tu<br>2 \| tu1 \| u \| tu2 \| tu1 \|` | `tu<br>2` in the second column, `tu2` in the fifth. The same two classes are called "-tu / -tar (1)" and "-u (-tu / -tar) (2)" in the headings (lines 25, 70) and "-ar masc" / "-ar2 masc" in the captions (lines 55, 81). | use `-u / -ar (1)` and `-u / -ar (2)` consistently | 8 |
-| class_8/2_abs_ger.md:139 | `\| VIN[^21] \| 43 \| \| \|` | Two empty cells where the other rows have a number (0 or more). | Fill in woth 0 | 6 |
-| class_9/2_nt.md:86 | `agg**isu**<br>agg**īsu**` | Locative plural of *aggi*: short–long here, long–short in the lesson table (class_4/9_masc_i.md line 15, `aggīsu, aggisu`). | Same order in both short–long | 7 |
-| class_9/2_nt.md:32 | `\| 8.voc \| citt**a**<br>citt**ā** \| citt**āni** \|` | Vocative plural has `cittāni` only; nominative plural (line 25) has `cittā, cittāni`. The -i and -u tables repeat both nominative forms in the vocative (lines 74, 119). | make `cittā, cittāni | 8 |
-| class_9/5_yava_tava.md:19-20 | `\| nominative singular \| yo so \|` … `\| nominative plural \| yāni tāni \|` | The singular is masculine, the plural neuter; all other rows fit the masculine. | add row `masc nominative plural` `ye te` and add to existing `nt` | 8 |
-| class_9/3_inf.md:72-74 | `## Some verbs always take an infinitive` … `almost always take an infinitive, just like in English.` | The heading says "always", the sentence below it "almost always". The next heading (line 84) again says "always" for a list that includes *icchati* and *kāmatā*. | "often take" in both headings | 7 |
-| class_9/6_adv_inter.md:8 | `\| kahaṃ <br>katama \| where?<br>what?; which? \|` | Two words share one row; *katama* is a declinable pronoun, not an adverb or indeclinable. | Separate rows | 7 |
------ approved untill here ------
 | class_10/3_pron.md:61 | `\| 4.dat \| t**assā** \|` | *ta* fem dat/gen sg has `tassā` only; *ya* has `yassā, yāya` (line 180) and *ima* `assā, imissā, imāya` (line 135); the locative of *ta* itself has three forms incl. `tissaṃ`. | verify against the DPD inflection table (`tissā`, `tāya`) | 6 |
 | class_10/3_pron.md:197 | `follow the same declension pattern as **ya***, (-a pron)* which is very similar` | The model pronoun is *ya* here and *ta* in the summary (line 238, `learn the **ta** declension by heart`). | Name one model | 7 |
 | class_10/2_prp.md:132 | `\| 7.loc \| gaccha**mānāyaṃ**<br>gaccha**mānāya** \|` | Declared "like vedanā", whose table has the order `vedanāya, vedanāyaṃ` (class_7/2_fem_aa.md line 11). | Same order | 6 |
@@ -240,17 +126,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_2/2_alphabet.md:42 | `**ñ**āṇa \| (wisdom)` | *ñāṇa* is normally "knowledge"; "wisdom" is the usual gloss of *paññā*. | "understanding" (DPD ñāṇa: "knowing; understanding; insight") | 6 |
-| class_2/3_decl_nouns.md:177 | `**Frequency of appearance in Tipiṭaka[^3]**` | The numbers are counts of dictionary headwords (footnote 3 and line 188, "That’s just dictionary forms"), not how often the words appear in the Tipiṭaka. | "Number of nouns in DPD" | 8 |
-| class_3/2_conjug.md:17 | `Imperative \| dhāvatu \| he must run; run!` | "run!" is the 2nd person (*dhāva*). *dhāvatu* is 3rd person: "let him run". | "he must run; let him run" | 8 |
-| class_4/7_basic_assim.md:27 | `\>vi**jj**ati (he is existing)` | Unidiomatic gloss; no space after `\>`. (old D15) | `\> vi**jj**ati (it exists; is found)` | 8 |
-| class_5/6_say_no.md:11 | `so naro atthi \| he is a man` | *atthi* is "there is, exists": "that man exists". "He is a man" is `so naro hoti` in 5_trans.md line 23. The same on line 12. | `so naro hoti` / `so naro na hoti` and remove footnite #16 | 8 |
-| class_5/5_trans.md:49 | `A monk asks the Community to see the place of the hut.` | *olokanaṃ yācati*: he asks for an inspection (the Community is to inspect), not "to see". | "A monk asks the Community for an inspection of the hut site." | 8 |
-| class_5/2_pers_pron.md:63 | `tumhākaṃ \| you all, for you all, yours` | "yours" for the genitive; line 34 has "our" for `amhākaṃ`. The same on line 64. | "your" | 7 |
-| class_5/7_with.md:3 | `In Pāli only the instrumental case can express the meaning of **with** or **together with**.` | Reads as "nothing but the instrumental can", which the page then contradicts with *saddhiṃ* and *saha*. (old D21) | "In Pāli the instrumental case alone can express…" | 8 |
-| class_6/6_adv_time.md:21 | `kadā \| when` | Same gloss as `yadā` (line 15); *kadā* is the question word. | "when?" | 8 |
-| class_10/3_pron.md:275 | `\| kiṃ \| who? what? which? \|` | *kiṃ* is the neuter "what?"; "who?" is *ko*, already on line 265. The same gloss is in class_9/6_adv_inter.md line 11. | "what? which?" | 8 |
------ approved untill here ------
 | class_11/2_pp.md:158 | `lit. just like a **cleaned** cloth, **gone away** stains ...` | *suddha* is "clean, pure", not "cleaned". Three dots here, `…` in the Pāli line above. | "clean"; `…` | 6 |
 | class_12/3_card.md:10 | `\| **dve** api jātiyo \| just **two** lives \|` | *api* is "even, also": "even two births". | "even **two** births" | 6 |
 | class_14/2_caus_verb.md:73 | `A monk **could pour** water to the earth.` | *mattikā* is "clay, soil"; "pour water to" is not English. The same on line 79. | "could pour water on the soil" | 6 |
@@ -260,72 +135,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_1/index.md:3 | `**Why study Pāli ?**` | Space before the question mark. (old D1) | `Pāli?` | 10 |
-| class_1/index.md:28 | `Meant a humorous element.` | Missing "as". (old D2) | "Meant as a humorous element." | 9 |
-| class_1/index.md:43 | `Golden Dictionary (MDict / DictTango)` | The program is called GoldenDict. (old D3) | "GoldenDict" | 8 |
-| class_1/index.md:63 | `Find 2-3 of your favorites and most inspiring sentences from the Tipiṭaka Pāli` | "favorites and most inspiring sentences" does not parse; hyphen for a range; no full stop. (old D4) | "Find 2–3 of your favourite and most inspiring sentences from the Pāli Tipiṭaka." | 8 |
-| class_1/index.md:9 | `If you have one make sure you know` | Comma missing after the if-clause. | "If you have one, make sure you know" | 8 |
-| class_2/3_decl_nouns.md:3 | `indicating gender, number and the case` | Stray article. (old D5) | "gender, number and case" | 9 |
-| class_2/3_decl_nouns.md:5 | `masculine, neuter and feminine. (gram.)` | "(gram.)" stands after the full stop and is not explained (probably "grammatical gender"). | "Nouns have 3 grammatical genders – …", drop "(gram.)" | 6 |
-| class_2/3_decl_nouns.md:11 | `You will become very familiar with these cases in the upcoming weeks` | No full stop. | Add the full stop | 9 |
-| class_2/3_decl_nouns.md:76 | `sāvako sīh**ena** khajjati` | No full stop; every other Pāli example on the page has one. | Add the full stop | 9 |
-| class_2/3_decl_nouns.md:100 | `Usually translated using **from, away from**` | No full stop (lines 64 and 82 have one). | Add the full stop | 9 |
-| class_2/3_decl_nouns.md:112 | `**of** or **‘s.**` | Opening quote mark used as an apostrophe. (old D6) | `**’s**.` | 9 |
-| class_2/3_decl_nouns.md:190 | `Please note that dictionary often has` | Missing article. (old D7) | "the dictionary" | 9 |
-| class_2/2_alphabet.md:49 | `dukka**ṭ**a \| (wrong doing)` | One word. | "wrongdoing" | 7 |
-| class_2/2_alphabet.md:142 | `or use a digital dictionary!` | Lower-case sentence start. | "Or use a digital dictionary!" | 7 |
-| class_3/2_conjug.md:24, class_3/3_preset.md:10 | `discussed in details` | "in detail". Both footnotes also lack a full stop. (old D8) | "in detail." | 9 |
-| class_3/3_preset.md:8 | `Middle or Reflective Voice<br>(attanopada)[^6]` | "Reflexive", as in class_13/4_pprp.md. (old D9) | "Reflexive" | 9 |
-| class_3/13_tricky_base.md:5 | `passati (sanskrit)` | Lower-case "sanskrit" on lines 5, 9, 11 and 15. (old D10) | "(Sanskrit)" | 9 |
-| class_3/14_home_work.md:23 | `p21 – 22 (7th conjugation group \|` | Parenthesis not closed. (old D11) | Close it | 10 |
-| class_3/13_tricky_base.md:3 | `you may encounter in the exercises, they are worth mentioning.` | Comma splice. | "…in the exercises; they are worth mentioning." | 7 |
-| class_3/5_roots.md:3 | `Almost all verbs are formed from a root` | No full stop. Line 7 `some common roots are:` and lines 25, 29 `some words which are derived from` start in lower case. | Full stop; capitals | 8 |
-| class_3/5_roots.md:21 | `roots ( bases ) + suffixes` | Spaces inside the brackets. | `roots (bases)` | 8 |
-| class_3/6_root_1.md:7 | `66% of roots in Pāli (around 500) [^9] belong to the first root group` | The sentence has no full stop and is continued twelve lines later, after the root list, by line 19 `which has the conjugational sign **a**.` | End the sentence on line 7; start line 19 "This group has…" | 7 |
-| class_3/11_histor_pr.md:4 | `This is called the [**historical present**](https://en.wikipedia.org/wiki/Historical_present)` | No full stop. | Add the full stop | 9 |
-| class_4/2_dpr_tpr.md:5 | `Here link to [some useful videos](https://www.digitalpalireader.online/_dprhtml/help.html). While watching them try to find answers for those questions:` | Missing verb; "answers for those". (old D12) | "Here is a link to some useful videos. While watching them, try to find answers to these questions:" | 9 |
-| class_4/3_var_root_group.md:5 | `**Kaccāyana (7th CE)**` | "7th CE" is not a date. (old D13) | "7th century CE" | 9 |
-| class_4/4_vuddhi.md:82 | `karo + ti \> karoti \> (he does, makes)` | Stray second `\>`. (old D14) | `karoti (he does, makes)` | 9 |
-| class_4/2_dpr_tpr.md:31 | `This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of an app that offers TPR.` | TPR is the app. | "This is the official webpage of the app." | 7 |
-| class_4/10_aor.md:7 | `this occurs mostly with group 1 roots` | Lower-case start and no full stop; the same on lines 19 (`just like the present tense`), 29 and 67; line 56 has no full stop. | Capitals and full stops | 8 |
-| class_4/4_vuddhi.md:65 | `Here’s another word in all three grades` | No full stop or colon. | Add a colon | 8 |
-| class_4/5_root_2.md:9 | `It has the conjugational sign **ṃa** / ṃ-a` | No full stop. | Add the full stop | 8 |
-| class_5/3_future.md:7 | `Brahmans will do ….` | Ellipsis plus full stop. (The course writes "Brahman" throughout, 5 times; there is no "brahmin" to unify with, as the old audit said.) (old D16) | "Brahmans will do …" | 8 |
-| class_5/3_future.md:76 | `bhāve**ssatha** \| you will develop` | 2nd plural glossed "you"; every other table (and line 57 above) has "you all". (old D17) | "you all will develop" | 9 |
-| class_5/4_masc_ii.md:5 | `In the PED dictionary, you will find` | "PED dictionary" doubles the word (the D is "Dictionary"). (old D18) | "In the PED, you will find" | 7 |
-| class_5/6_say_no.md:36 | `Venerable Ratthapāla **neither** received alms food **nor** rejection, on the contrary, he only received verbal abuse!` | Missing dot under ṭṭh (line 34 has `raṭṭhapālo`); comma splice. (old D20) | "Raṭṭhapāla … nor rejection; on the contrary, …" | 9 |
-| class_5/6_say_no.md:28 | `n'eva = na eva ; lit. not even; not only` | Space before the semicolon. | `na eva; lit.` | 8 |
-| class_5/5_trans.md:33 | `A winged bird flies` | No full stop. | Add the full stop | 9 |
-| class_5/3_future.md:9 | `“bhavissati” often expresses the idea of “should be”` | No full stop. | Add the full stop | 8 |
-| class_6/2_masc_u.md:27 | `These can be also be found in some dictionaries with **-tu** or **-tar** ending, eg. *satthu* or *satthar*.` | Doubled "be"; "eg.". (old D22) | "These can also be found … e.g." | 9 |
-| class_6/2_masc_u.md:29 | `the Sanskrit equivalent, ending in **-tṛ**.` | Sentence fragment in lower case. (old D23) | Join it to line 27 | 8 |
-| class_6/2_masc_u.md:31 | `the action of the verbal root` | No full stop at the end of the sentence. | Add the full stop | 8 |
-| class_6/3_masc_uu.md:3 | `mostly formed from the **ññū** (knower) and **gū** (goer) ; e.g.` | "from the ññū and gū" lacks a noun; space before the semicolon; no full stop at the end of the line. (old D24) | "formed with the endings **ññū** (knower) and **gū** (goer); e.g. … ." | 8 |
-| class_6/4_subst.md:17 | `Substantives are formed by adding the suffixes **-mant** or **-vant** to the noun` | No full stop; the same on lines 19 and 27. | Add the full stops | 8 |
-| class_6/5_and_or.md:23 | `What do you think Rāhula, is the eye permanent **or** impermanent?` | Comma missing before the name. | "What do you think, Rāhula, is…" | 8 |
-| class_6/2_masc_u.md:5 | `- u \| bhikkh**u** ; gar**u**` | Space after the hyphen in `- u`, `- tu`, `- ū` (lines 5–8) but not in `-tar`; space before the semicolons. | `-u`, `-tu / -tar`, `-ū`; no space before `;` | 7 |
-| class_7/3_opt.md:60 | `**assatha**<br>**-** \| you could be` | 2nd plural glossed "you"; the other tables have "you all". (old D17) | "you all could be" | 9 |
-| class_7/3_opt.md:63 | `highly used!` | Fragment in lower case. (old D25) | "Very frequently used!" | 8 |
-| class_7/5_home_work.md:17 | `p86-88 (Optative tense)` | The optative is a mood. (old D26) | "(optative mood)" | 8 |
-| class_7/4_pali_lists.md:9 | `All of them are present in the DPD Root dictionary` | No full stop; "DPD Root dictionary" here, "DPD Root Dictionary" in 5_home_work.md line 11. | "DPD Root Dictionary." | 8 |
-| class_8/2_abs_ger.md:39 | `Absolutive ending in **tvā** are very common` | Singular subject, plural verb. (old D27) | "Absolutives ending in" | 9 |
-| class_8/2_abs_ger.md:107 | `There is very often sandhi that takes place, please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.` | "from the Class 4"; comma splice. (old D28) | "Sandhi very often takes place; please refer to … from Class 4." | 9 |
-| class_8/2_abs_ger.md:29 | `what is the **main clause**?` | Lower-case sentence start, also on line 31. | Capitals | 8 |
-| class_8/4_adv_place.md:22 | `samantato \| from all every direction` | "all every". (old D29) | "from every direction" | 10 |
-| class_8/4_adv_place.md:14 | `\| eka \| one \| +ttha \| ekattha \|` | No space after `+`; all other rows have `+ ttha`. | `+ ttha` | 9 |
-| class_8/3_fem.md:30 | `this group also includes common feminine nouns like:` | Lower-case start; also line 60 (`the most common feminine noun in this group - **dhātu**`, no full stop). Lines 64 and 79 end without a full stop. | Capitals and full stops | 8 |
-| class_8/3_fem.md:109-111 | `It is declined like **kumārī**.` … `They are declined the same as [**ī fem**](#feminine-nouns-ending-in-ii) (like **kumārī**)` | The same statement twice in a row; the second has no full stop. | Keep one | 8 |
-| class_9/5_yava_tava.md:13 | `Where have you come across this kind of construction before ?` | Space before the question mark. (old D1) | `before?` | 10 |
-| class_9/2_nt.md:4 | `[^22]: Relevant for 2025 year` | Word order; no full stop. The same in footnote 23 (line 93), which repeats footnote 22. (old D30) | "Relevant for the year 2025." | 9 |
-| class_9/2_nt.md:51 | `These are very rare, there are only few of them in the Tipiṭaka.` | Comma splice; "only few". (old D31) | "These are very rare; there are only a few of them…" | 9 |
-| class_9/3_inf.md:17 | `## How to form the infintive` | Typo. (old D32) | "infinitive" | 10 |
-| class_9/3_inf.md:33 | `The infinitive can be formed by added the suffix **-ituṃ** to the root.` | "by added", also on line 48. (old D33) | "by adding" | 10 |
-| class_9/4_dat_purpose.md:15 | `Then those monks, having walked **for alms** in Sāvatthi …` | Short final i; `Sāvatthī` in class_8/2_abs_ger.md. (old D34) | "Sāvatthī" | 9 |
-| class_9/6_adv_inter.md:1, class_9/index.md:8, index.md:67 | `Adverbs & Indeclinable` | Singular adjective used as a noun. (old D35) | "Adverbs & Indeclinables" | 9 |
-| class_9/2_nt.md:38 | `\| \| Masc sing \| Neuter Sing \| Masc plural \| Neuter Plural \|` | Mixed capitals in the header, in all three comparison tables (lines 38, 78, 123). | `Masc sing \| Neuter sing \| Masc plural \| Neuter plural` | 8 |
-| class_9/3_inf.md:5 | `I will go to the forest **to see** the Buddha` | No full stop, also on lines 7, 21 and 114; line 9 `The infinitive can be translated as` has no colon. | Add punctuation | 8 |
-| class_9/3_inf.md:88 | `it is suitable (to) ; one is able (to)` | Space before the semicolon. | `(to); one` | 8 |
------ approved untill here ------
 | class_10/3_pron.md:11 | `Not **everyone** will understand the dhamma` | No full stop, also on lines 13 and 17. | Add the full stops | 9 |
 | class_10/2_prp.md:27 | `a man could see a **school of fish wandering around and remaining still.**` | Lower-case sentence start. | "A man…" | 8 |
 | class_10/2_prp.md:37 | `There are 3 ways to form present participles` | No full stop or colon; also line 86 (`Dhammapada and Sutta Nipāta`) and footnote 25 (line 88). 5_emph.md line 17 and 6_loc_gen_abs.md line 23 end without one too. | Add punctuation | 8 |
@@ -483,18 +292,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 | class_2/4_home_work.md:26 | `\| A Bhikkhu Māgadhabhāsā (Pāḷi) \| Corresponding chapters \|` | "Pāli" 125 times in running text; "Pāḷi" 12 times, all in this book title. Consistent as it stands. | owner decision | 5 |
 | class_10/3_pron.md:239 | `memorize only the high-frequency forms` | Spelling mixes British (behaviour ×3, colour ×2, honoured, traveller, tranquillity, recognise ×2) and American (favorites, memorize ×2, recognize ×1). | owner decision | 7 |
 
-## G. Links
-
-| Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- |
-| class_1/index.md:52 | `[SBS Pāli English Recitations](https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html)` | HTTP 404. (old G1) | https://sasanarakkha.github.io/study-tools/5-anki/1-sbs/1-sbs-vocab/ | 10 |
-| class_1/index.md:53 | `[Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html)` | HTTP 404. (old G2) | https://sasanarakkha.github.io/study-tools/5-anki/2-patimokkha/1-patimokkha-word-by-word/ | 10 |
-| class_1/index.md:54 | `[The Buddha’s Words](http://filesrv1:8083/home/index.html)` | Local-network host, no response from outside (status 000). (old G3) | Change to 4nt website name and link - https://s.dhamma.gift | 10 |
-| class_4/13_home_work.md:4 | `(video find-words-dpr.mkv may help you)` | A video file is named but there is no link to it. | https://drive.google.com/file/d/1I6JvtItfjZKiFbVIoqqetuRPwsLbAgEb/view?usp=share_link | 8 |
-| class_6/3_masc_uu.md:1 | `# Masculine nouns ending in -ū {: #declension-of-u-masc}` | The -ū page carries the same id as the -u section (2_masc_u.md line 10), and the -ī section has `#declension-of-i-masc_1` (class_5/4_masc_ii.md line 28). They resolve, but the ids name the wrong declension; class_8/3_fem.md uses the `-ii` / `-uu` pattern. (old G4) | `#declension-of-uu-masc`, `#declension-of-ii-masc` (and update the links to them) | 8 |
-
------ approved untill here ------
-
 ## H. Data to re-verify (forms, references, counts)
 
 | Location | Current | Problem | Suggested | Conf. |
@@ -515,17 +312,9 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_1/index.md:43-45 | `1. Golden Dictionary (MDict / DictTango)` … `- [Anki](https://docs.ankiweb.net/)` | Anki is listed as a sub-item of the dictionary program, next to DPD. It is a separate tool. | Own list item for Anki | 7 |
-| class_1/index.md:13 | `1. Class meeting once per 2 weeks (2h / class)` | Line 23 says `Weekly student meeting (1h / class)`: "weekly" and "per class" (every 2 weeks) do not fit together. | once per two week | 8 |
-| class_2/3_decl_nouns.md:88 | `thero **sāvakāya** cīvaraṃ deti.` | To be translated by the student, but *cīvara* is not in the vocabulary list of lines 17–28 (nor are *ākāsa*, line 72, and *khajjati*, line 76). | Add them to the list | 8 |
 | class_2/2_alphabet.md:60 | `ca**th**ouse` | Slang for a brothel; an odd example word in a course written for monastics. | [TODO] please suggest new example and confurm with user | 5 |
-| class_3/1_review.md:28 | `6.  sammāsambuddhassa sāvako *taṇhāya* khayasmiṃ *ramati*` | Sentences 3, 5, 6 and 7 are reworded from the source text (Dhp 187 reads *taṇhakkhayarato hoti sammāsambuddhasāvako*), but only sentence 4 is marked `(simpl)`. | Mark them `(simpl)` | 6 |
 | class_6/4_subst.md:1 | `# Substantives (guṇanāma)` | "Substantive" normally means a noun. The page uses it for the -vant / -mant possessive adjectives, and footnote 18 has to explain that they are "often called possessive adjectives" and that *guṇanāma* is also the term for adjectives in class 11. | [TODO] check other grammatical sources, we need to find a good name for those - sicne they can be nouns and adj depending on the context | 6 |
-| class_6/5_and_or.md:1 | `# Conjunction “ca”` | The page also teaches *vā* (line 17), which the title and the index do not show. | "Conjunctions “ca” and “vā”" | 8 |
-| class_9/2_nt.md:91 | `These are also rare, at most 400 in the current DPD database[^23].` | "rare" and "at most 400" sit oddly together; the -i group above is "very rare" with seven examples. | "less common, about 400" | 5 |
-| class_10/2_prp.md:203 | `Just like other verbs, sometimes the *object* is not in the accusative case. Here it is in the **locative**.` | In the example, *araññe pavane* is the place where the monkey roams, not an object of the verb. | Reword: "a participle can also take a word in another case" | 5 |
-| class_11/4_abl_sep.md:3 | `can be added to any noun or adjective or substantive` | "substantive" is listed as a third thing beside noun and adjective; class 6 uses the word for -vant / -mant adjectives. See the row on class_6/4_subst.md line 1. | Change here based on the decision above - line 521 | 6 |
------ approved untill here ------
+| class_11/4_abl_sep.md:3 | `can be added to any noun or adjective or substantive` | "substantive" is listed as a third thing beside noun and adjective; class 6 uses the word for -vant / -mant adjectives. See the row on class_6/4_subst.md line 1. | [TODO] Change here based on the decision above - line 521 | 6 |
 | class_11/4_abl_sep.md:1 | `# Ablative of Separation` | The page is about the suffix `-to` and its sense "as" (line 9); "separation" is not explained or shown beyond `rukkhato`. | owner decision: title "The suffix -to" | 5 |
 | class_12/3_card.md:118 | `\| 14 \| *catuddasa*<br>cuddasa \|` | The first form is in italics here and on line 119 (`*pañcadasa*`), with no note on what the italics mean. | Add a note, or remove the italics | 5 |
 | class_13/3_pass_verb.md:96-99 | `\| **√pad** \| pajja \| + iya \| **pajjiya** \| up**pajjiya**ti \| is brought into being \|` | A second table follows the first with no caption; from the roots it seems to hold the group 3 examples of point 5, the first table the group 2 ones. | Captions "group 2" / "group 3" | 5 |
@@ -560,27 +349,6 @@ Counts from `mech_checks.py docs/bpc --folder-footnotes` and the link checks. It
 - No final newline: `class_14/5_home_work.md`, `class_3/10_root_8.md`.
 - Lines with a double space: 179.
 - No tab, NBSP, zero-width or non-NFC character was reported.
-
-### M5. Links
-
-- 123 external link occurrences, 94 unique.
-- Sutta links: 82 links on 56 pages, all pass.
-- Other links (12 unique):
-
-| URL | Status |
-| --- | --- |
-| `http://filesrv1:8083/home/index.html` | 000 (local server; `class_1/index.md:54`) |
-| `https://sasanarakkha.github.io/study-tools/anki-decks/patimokkha-word-by-word.html` | 404 |
-| `https://sasanarakkha.github.io/study-tools/anki-decks/sbs-pali-english-vocab.html` | 404 |
-| `https://americanmonk.org/tipitaka-pali-reader/` | 200 |
-| `https://docs.ankiweb.net/` | 200 |
-| `https://dpdict.net` | 200 |
-| `https://en.wikipedia.org/wiki/Historical_present` | 200 |
-| `https://www.digitalpalireader.online/_dprhtml/help.html` | 200 |
-| `https://www.youtube.com/@tipitakaPali` | 200 |
-| 3 `docs.google.com` links (1 form, 2 spreadsheets) | skipped |
-
-The three failing links are rows above.
 
 ### M6. Convention counts
 

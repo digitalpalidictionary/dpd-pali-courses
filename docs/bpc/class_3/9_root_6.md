@@ -10,6 +10,6 @@ It has the conjugational sign **ṇhā.**
 
 gaṇhā + ti \> gaṇhāti (he grabs, takes)
 
-√tas (thirst) + **ṇhā** \> taṇhā
+√tas (thirst) + **ṇhā** \> taṇhā (noun formation: taṇhā + ā, as in DPD)
 
 taṇhā (fem. noun) — craving; lit. thirst

@@ -103,7 +103,7 @@ They can be used as nt. nouns.
 | 2.acc | pac**itabbaṃ** | pac**itabbe** | pac**itabbaṃ** | pac**itabbā**<br>pac**itabbāyo** | pac**itabbaṃ** | pac**itabbe**<br>pac**itabbāni** |
 | 3.inst | pac**itabbena** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbena** | pac**itabbehi** |
 | 4.dat | pac**itabbāya**<br>pac**itabbassa** | pac**itabbānaṃ** <br> | pac**itabbāya** | pac**itabbānaṃ** | pac**itabbāya**<br>pac**itabbassa** | pac**itabbānaṃ** |
-| 5.abl | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato** | pac**itabbehi** |
+| 5.abl | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato** | pac**itabbehi** |
 | 6.gen | pac**itabbassa** | pac**itabbānaṃ** | pac**itabbāya** | pac**itabbānaṃ** | pac**itabbassa** | pac**itabbānaṃ** |
 | 7.loc | pac**itabbe**<br>pac**itabbamhi**<br>pac**itabbasmiṃ** | pac**itabbesu** | pac**itabbāyaṃ**<br>pac**itabbāya** | pac**itabbāsu** | pac**itabbe**<br>pac**itabbamhi**<br>pac**itabbasmiṃ** | pac**itabbesu** |
 | 8.voc | pac**itabba**<br>pac**itabbā** | pac**itabbā** <br> | pac**itabbe** | pac**itabbā**<br>pac**itabbāyo** | pac**itabba**<br>pac**itabbā** | pac**itabbāni**<br> |
@@ -116,7 +116,7 @@ What do you notice?
 | 2.acc | pac**anīyaṃ** | pac**anīye** | pac**anīyaṃ** | pac**anīyā**<br>pac**anīyāyo** | pac**anīyaṃ** | pac**anīye**<br>pac**anīyāni** |
 | 3.inst | pac**anīyena** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyena** | pac**anīyehi** |
 | 4.dat | pac**anīyāya**<br>pac**anīyassa** | pac**anīyānaṃ** | pac**anīyāya** | pac**anīyānaṃ** | pac**anīyāya**<br>pac**anīyassa** | pac**anīyānaṃ** |
-| 5.abl | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā**<br>pac**anīyato** | pac**anīyehi** |
+| 5.abl | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā**<br>pac**anīyato** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā**<br>pac**anīyato** | pac**anīyehi** |
 | 6.gen | pac**anīyassa** | pac**anīyānaṃ** | pac**anīyāya** | pac**anīyānaṃ** | pac**anīyassa** | pac**anīyānaṃ** |
 | 7.loc | pac**anīye**<br>pac**anīyamhi**<br>pac**anīyasmiṃ** | pac**anīyesu** | pac**anīyāyaṃ**<br>pac**anīyāya** | pac**anīyāsu** | pac**anīye**<br>pac**anīyamhi**<br>pac**anīyasmiṃ** | pac**anīyesu** |
 | 8.voc | pac**anīya**<br>pac**anīyā** | pac**anīyā** | pac**anīye** | pac**anīyā**<br>pac**anīyāyo** | pac**anīya**<br>pac**anīyā** | pac**anīyāni** |

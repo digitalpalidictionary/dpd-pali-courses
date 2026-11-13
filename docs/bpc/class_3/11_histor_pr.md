@@ -1,7 +1,7 @@
 # Historical Present
 
-In Pāli, verbs in the **present tense** are sometimes used to describe **past events**.  
-This is called the [**historical present**](https://en.wikipedia.org/wiki/Historical_present)
+In Pāḷi, verbs in the **present tense** are sometimes used to describe **past events**.  
+This is called the [**historical present**](https://en.wikipedia.org/wiki/Historical_present).
 
 It is grammatically present tense, but is **translated in the past tense** in English.
 

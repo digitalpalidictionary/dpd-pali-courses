@@ -1,6 +1,6 @@
 # Ablative of Separation
 
-You will come across the suffix **-to** in your Pāli study. This is a generic suffix which can be added to any noun or adjective or substantive to create the ablative sense “*from*”.
+You will come across the suffix **-to** in your Pāḷi study. This is a generic suffix which can be added to any noun or adjective or substantive to create the ablative sense “*from*”.
 
 rukkha (tree)
 

@@ -10,7 +10,7 @@ If you want to study numbers, just open the Aṅguttara Nikāya.
 | **dve** api jātiyo | just **two** lives |
 | **tayo** pāsāde | **three** mansions |
 | **cattāri** ariyasaccāni | **four** noble truths |
-| **pañca**-kāma-guṇāni | **five** strings of sense pleasure |
+| **pañca** kāmaguṇā | **five** strings of sense pleasure |
 | **cha** ādīnavā | **six** disadvantages or dangers |
 | **satta** bojjhaṅgā | **seven** enlightenment factors |
 | ariyo **aṭṭha**-aṅgiko maggo | noble **eight**-part path |
@@ -101,7 +101,7 @@ no gender; plural; agrees in case only
 | 6.gen | pañc**annaṃ** |
 | 7.loc | pañc**asu** |
 
-## cha “six” to aṭṭharasa “eighteen”
+## cha “six” to aṭṭhārasa “eighteen”
 
 same as *pañca* - no gender; plural; agrees in case only
 
@@ -233,9 +233,9 @@ That, of course, excludes all the “amazing” numbers which you’ll come acro
 
 | | | |
 | --- | --- | --- |
-| pakoṭi | 1014 | 1 00 000 000 000 000 |
-| akkhobhinī | 1042 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-| abbuda | 1056 | 1 00 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-| nirabbuda | 1063 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-| ahaha | 1070 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
-| ababa | 1076 | 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| pakoṭi | 10^14 | 1 00 000 000 000 000 |
+| akkhobhinī | 10^42 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| abbuda | 10^56 | 1 00 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| nirabbuda | 10^63 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| ahaha | 10^70 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| ababa | 10^76 | 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |

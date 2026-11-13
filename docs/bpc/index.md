@@ -46,13 +46,13 @@
 - [Masculine nouns ending in -u](class_6/2_masc_u.md)
 - [Masculine nouns ending in -ū](class_6/3_masc_uu.md)
 - [Substantives (guṇanāma)](class_6/4_subst.md)
-- [Conjunction “ca”](class_6/5_and_or.md)
+- [Conjunctions “ca” and “vā”](class_6/5_and_or.md)
 - [Adverbs of time](class_6/6_adv_time.md)
 
 ## [Class 7](class_7/index.md)
 - [Feminine Nouns ending in -ā](class_7/2_fem_aa.md)
 - [Optative or Potential Verbs (sattamī)](class_7/3_opt.md)
-- [Traditional Pāli Root lists](class_7/4_pali_lists.md)
+- [Traditional Pāḷi Root lists](class_7/4_pali_lists.md)
 
 ## [Class 8](class_8/index.md)
 - [Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā)](class_8/2_abs_ger.md)
@@ -64,7 +64,7 @@
 - [The Infinitive (tumanta)](class_9/3_inf.md)
 - [The dative of purpose](class_9/4_dat_purpose.md)
 - [yāva … tāva](class_9/5_yava_tava.md)
-- [How to ask a question with Adverbs & Indeclinable](class_9/6_adv_inter.md)
+- [How to ask a question with Adverbs & Indeclinables](class_9/6_adv_inter.md)
 
 ## [Class 10](class_10/index.md)
 - [Present Participle (missakiriya)](class_10/2_prp.md)

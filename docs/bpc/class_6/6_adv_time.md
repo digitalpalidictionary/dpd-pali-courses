@@ -1,6 +1,6 @@
 # Adverbs of time
 
-They are part of the group of indeclinable words in Pāli.
+They are part of the group of indeclinable words in Pāḷi.
 
 Adverbs of time describe **when** the action is done.
 
@@ -18,7 +18,7 @@ They often come **first** in the sentence.
 | tadā | then |
 | sadā | always |
 | sāyaṃ | in the evening; at night |
-| kadā | when |
+| kadā | when? |
 | pāto | in the morning |
 | ekadā | one day; sometimes |
 | suve | tomorrow |

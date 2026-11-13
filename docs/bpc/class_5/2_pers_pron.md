@@ -14,7 +14,6 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | 5. Ablative | mayā | amhehi |
 | 6. Genitive | mama<br>mayhaṃ<br>mamaṃ<br>**me** | amhaṃ<br>amhākaṃ<br>**no** |
 | 7. Locative | mayi | amhesu |
-| 8. Vocative | - | - |
 
 **Frequency[^14]**
 
@@ -25,7 +24,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | **ahaṃ** | **I** | **14232** |
 | **maṃ** | **me** | **1173** |
 | mayā | by me, from me | 593 |
-| **me** | **with me, for me, my** | **4369** |
+| **me** | **me, with me, for me, my** | **4369** |
 | mayhaṃ | for me, my | 601 |
 | mama | for me, my | 629 |
 | mamaṃ | for me, my | 87 |
@@ -38,7 +37,7 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 
 | | | |
 | --- | --- | --- |
-| | singular “you” | plural “you all” |
+| | **singular “you”** | **plural “you all”** |
 | 1. Nominative | tvaṃ<br>tuvaṃ | tumhe |
 | 2. Accusative | taṃ<br>tuvaṃ<br>tavaṃ<br>**te** | tumhe<br>tumhākaṃ<br>**vo** |
 | 3. Instrumental | tayā<br>**te** | tumhehi<br>**vo** |
@@ -57,10 +56,10 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | **taṃ** | **you,** <br>(that) | **6995** <br>(Including 3rd) |
 | tuvaṃ | you | 32 |
 | tayā | by you, from you | 44 |
-| **te** | **by you, for you, your,** <br>(they, those) | **6173** <br>(Including 3rd) |
+| **te** | **you, by you, for you, your,** <br>(they, those) | **6173** <br>(Including 3rd) |
 | tava | for you, your | 46 |
 | tumhe | you all | 461 |
-| tumhākaṃ | you all, for you all, yours | 158 |
-| **vo** | you all, by you, for you, yours | **893** |
+| tumhākaṃ | you all, for you all, your | 158 |
+| **vo** | you all, by you, for you, your | **893** |
 
 Exercises will give you a good workout with these pronouns.

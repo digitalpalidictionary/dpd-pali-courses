@@ -1,8 +1,8 @@
 # How to use DPR
 
-Digital Pāli Reader
+Digital Pāḷi Reader
 
-Here link to [some useful videos](https://www.digitalpalireader.online/_dprhtml/help.html). While watching them try to find answers for those questions:
+Here is a link to [some useful videos](https://www.digitalpalireader.online/_dprhtml/help.html). While watching them, try to find answers to these questions:
 
 1.  How do I install offline?
 
@@ -28,7 +28,7 @@ Here link to [some useful videos](https://www.digitalpalireader.online/_dprhtml/
 
 ## How to use TPR
 
-\- Tipiṭaka Pāli Reader: This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of an app that offers TPR.
+\- Tipiṭaka Pāḷi Reader: This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of the app.
 
 \- YouTube Channel: There’s a [YouTube](https://www.youtube.com/@tipitakaPali) channel that provides demos and manuals for TPR.
 

@@ -11,7 +11,7 @@ The past participle is another **verbal adjective** which describes the action t
 | bhindati | he breaks |
 | **bhinna** | (is) **broken** |
 
-Please note that the past participle is **passive** in meaning.
+Please note that the past participle is **usually passive** in meaning; it is **active** for intransitive verbs.
 
 ## How to form a past participle
 
@@ -27,7 +27,7 @@ There are, quite literally, thousands of examples...
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| bhavati | √bhū | to be | + ta | bhūta | became |
+| bhavati | √bhū | to be | + ta | bhūta | become, been |
 | passati | √dis | to see | + ta | di**ṭṭ**ha | seen |
 | gacchati | √gam | to go | + ta | gata | gone |
 | hanati | √han | to kill | + ta | hata | killed |
@@ -49,7 +49,6 @@ When we study sandhi, we will study the rules related to the changes that happen
 | makkheti | √makkh | to smear | + ita | makkhita | smeared |
 | nandati | √nand | to delight | + ita | nandita | delighted |
 | pabbajati | √vaj | to go on | + ita | pabbajita | ordained |
-| ṭhahati | √ṭhā | to stand | + ita | ṭhita | stood |
 | vindati | √vid | to know | + ita | vidita | known |
 | yācati | √yāc | to beg | + ita | yācita | begged |
 
@@ -61,7 +60,6 @@ When we study sandhi, we will study the rules related to the changes that happen
 | deseti | √dis | dese | + ita | desita | preached |
 | kāreti | √kar | kāre | + ita | kārita | had built |
 | pakāseti | √kās | kāse | + ita | pakāsita | explained |
-| parisedati | √sid | sede | + ita | parisedita | incubated |
 | phasseti | √phus | phasse | + ita | phassita | touched |
 | ṭhapeti | √ṭhā | ṭhape | + ita | ṭhapita | placed |
 | vedayati | √vid | vedaya | + ita | vedayita | experienced |
@@ -71,10 +69,9 @@ When we study sandhi, we will study the rules related to the changes that happen
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | chindati | √chid | to cut | + na | chi**nn**a | cut |
-| jirati | √jīr | to age | + na | ji**ṇṇ**a | aged |
-| khīyati | √khī | to destroy | + na | khīna | destroyed |
-| muyhati | √muh | to be confused | + na | mū**ḷh**a | confused |
-| nisīdati | √sad | to sink | + na | nisi**nn**a | seated |
+| jīrati | √jīr | to age | + na | ji**ṇṇ**a | aged |
+| khīyati | √khī | to destroy | + na | khī**ṇ**a | destroyed |
+| nisīdati | √sad | to sit | + na | nisi**nn**a | seated |
 | pajahati | √hā | to abandon | + na | pah**ī**na | abandoned |
 | pūrati | √pūr | to fill | + na | pu**ṇṇ**a | completed |
 | upapajjati | √pad | to go | + na | upapa**nn**a | appeared |

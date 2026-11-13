@@ -8,10 +8,8 @@ The easiest way to make a verb into its negative is to add the particle “**na*
 | --- | --- |
 | ahaṃ jānāmi | I know |
 | ahaṃ na jānāmi | I don’t know |
-| so naro atthi | he is a man |
-| so naro na atthi[^16] | he is not a man |
-
-[^16]: It frequently appears in text as **n'atthi**
+| so naro hoti | he is a man |
+| so naro na hoti | he is not a man |
 
 ## Negative particle “no”
 
@@ -25,7 +23,7 @@ These qualities lead to attachment, **not** to detachment.
 
 This is used in the same way as **neither** … **nor** in English.
 
-n'eva = na eva ; lit. not even; not only
+n'eva = na eva; lit. not even; not only
 
 **n'eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti ([MN74](https://s.dhamma.gift/mn/mn74/index.html))
 
@@ -33,7 +31,7 @@ At that time, he **neither** feels an unpleasant sensation, **nor** does he feel
 
 āyasmā raṭṭhapālo **n'eva** dānaṃ alattha **na** paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha! ([MN82](https://s.dhamma.gift/mn/mn82/index.html))
 
-Venerable Ratthapāla **neither** received alms food **nor** rejection, on the contrary, he only received verbal abuse!
+Venerable Raṭṭhapāla **neither** received alms food **nor** rejection; on the contrary, he only received verbal abuse!
 
 ## Prohibitive Particle “mā”
 

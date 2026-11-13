@@ -1,6 +1,6 @@
 # Absolutive / Gerund / Indeclinable Past Participle (pubbakiriyā)
 
-You’ll be happy to hear that one of the most common forms of verbal adjectives in Pāli has **no declensions**.
+You’ll be happy to hear that one of the most common verbal forms in Pāḷi has **no declensions**.
 
 *atha kho aññataro brāhmaṇo yena bhagavā tena upasaṅkami. **upasaṅkamitvā** bhagavatā saddhiṃ sammodi* ([AN2.16](https://s.dhamma.gift/an/an2/index.html#an2.16))
 
@@ -26,9 +26,9 @@ From now on you will be dealing with complex sentences which have a **subordinat
 
 *Can be translated as:* I ate food, rinsed my bowl, cleaned my teeth and came to the hall.
 
-what is the **main clause**?
+What is the **main clause**?
 
-what are the **subordinate clauses**?
+What are the **subordinate clauses**?
 
 *ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ **āgacchissāmi**.*
 
@@ -36,7 +36,7 @@ what are the **subordinate clauses**?
 
 *Can be translated as:* I **will eat** food, rinse my bowl, clean my teeth and come to the hall.
 
-Absolutive ending in **tvā** are very common and extensively used.
+Absolutives ending in **tvā** are very common and extensively used.
 
 7800 times in Vinaya[^20]
 
@@ -96,7 +96,7 @@ Mostly group 8 verbs and causative verbs.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √bhuj | bhuñja | bhuñja + itvā | bhuñjitvā | having eaten |
-| √chid | chinda | chind + itvā | chinditvā | having cut off |
+| √chid | chinda | chinda + itvā | chinditvā | having cut off |
 | √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā<br>(=gahetvā) | having grabbed |
 | √lu | lāya | lāya + itvā | lāyitvā | having reaped |
 | √sad | sīda | ni + sīda + itvā | nisīditvā | having sat down |
@@ -104,11 +104,11 @@ Mostly group 8 verbs and causative verbs.
 
 ### 5. -ya added to the root
 
-There is very often sandhi that takes place, please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.
+Sandhi very often takes place; please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from Class 4.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √gam | to go | √gam + ya | ga**mma** | having gone |
+| √gam | to go | ā + √gam + ya | āga**mma** | having come |
 | √vic | to separate | vi + √vic + ya | vivi**cca** | having separated |
 | √ñā | to know | ā + √ñā + ya | aññā**ya** | having understood |
 | √ruh | to ascend | abhi + √ruh + ya | abhiru**yha** | having climbed |
@@ -125,10 +125,10 @@ The result from sandhi is the ending **tya \> cca**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √i | to come | abhi + sam + √i + **ty**a | abhisame**cc**a | having completely understood |
+| √i | to come | abhi + saṃ + √i + **ty**a | abhisame**cc**a | having completely understood |
 | √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of<br>(lit. having gone back to) |
 | √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
-| √vid | to know | anu + vid + **ty**a | anuvi**cc**a | having investigated |
+| √vid | to know | anu + √vid + **ty**a | anuvi**cc**a | having investigated |
 
 ### 7. -tvāna -tūna -(i)yāna
 
@@ -136,7 +136,7 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 
 | | **-tvāna** | **-tūna** | **-(i)yāna** |
 | --- | --- | --- | --- |
-| VIN[^21] | 43 | | |
+| VIN[^21] | 43 | 0 | 0 |
 | DN | 35 | 0 | 1 |
 | MN | 15 | 0 | 0 |
 | SN | 48 | 0 | 1 |

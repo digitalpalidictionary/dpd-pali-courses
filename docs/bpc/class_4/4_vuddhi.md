@@ -1,8 +1,6 @@
 # avuddhika / guṇa / vuddhi
 
-(weak / strengthened / lengthened)
-
-(weak / medium / strong)
+(weak / strong / long)
 
 There are some very common changes in vowel sounds that are worth remembering.
 
@@ -38,9 +36,9 @@ se + ti \> seti (he sleeps)
 
 **ī \> ay**
 
-√bh**ī** 1 a (fear) \> bhī + a \> bh**ay**a
+√n**ī** 1 a (lead) \> nī + a \> n**ay**a
 
-bhaya + ti \> bhayati (he fears)
+naya + ti \> nayati (he leads)
 
 **u \> o**
 
@@ -62,7 +60,7 @@ ruc + \*e \> r**o**ce (caus)
 
 bhava + ti \> bhavati (it is)
 
-Here’s another word in all three grades
+Here’s another word in all three grades:
 
 | *weak* | *strong* | *long* |
 | --- | --- | --- |
@@ -79,13 +77,13 @@ saṃ + √sar + \*a \> saṃs**ā**ra
 
 √k**ṛ** (Sanskrit root, ‘make’) \> √k**ar** (do) \> karo
 
-karo + ti \> karoti \> (he does, makes)
+karo + ti \> karoti (he does, makes)
 
-These changes are very common in all areas of Pāli grammar and **worth learning by heart.**
+These changes are very common in all areas of Pāḷi grammar and **worth learning by heart.**
 
 | | | |
 | --- | --- | --- |
-| avuddhika <br>(zero) | guṇa <br>(strengthened) | vuddhi <br>(lengthened) |
+| avuddhika <br>(weak) | guṇa <br>(strong) | vuddhi <br>(long) |
 | | **a** | **ā** |
 | **i** | **e / ay** | **āy** |
 | **ī** | **e / ay** | **āy** |

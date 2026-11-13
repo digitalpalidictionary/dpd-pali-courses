@@ -2,10 +2,10 @@
 
 | | **example** |
 | --- | --- |
-| - u | bhikkh**u** ; gar**u** |
-| - tu / -tar (1) | satth**ar** ; bhāsi**tar** |
-| - tu / -tar (2) | pit**ar** ; bhāt**ar** |
-| - ū | vid**ū** |
+| -u | bhikkh**u**; gar**u** |
+| -u / -ar (1) | satth**ar**; bhāsi**tar** |
+| -u / -ar (2) | pit**ar**; bhāt**ar** |
+| -ū | vid**ū** |
 
 ## Masculine nouns ending in -u like bhikkhu {: #declension-of-u-masc}
 
@@ -22,17 +22,15 @@
 
 gar**u**, het**u**, phās**u**, macc**u**, nhār**u**, paṃs**u** etc. similarly declined.
 
-## Masculine nouns ending in -tu / -tar (1)
+## Masculine nouns ending in -u / -ar (1)
 
-These can be also be found in some dictionaries with **-tu** or **-tar** ending, eg. *satthu* or *satthar*.
+These can also be found in some dictionaries with **-tu** or **-tar** ending, e.g. *satthu* or *satthar*, and the Sanskrit equivalent, ending in **-tṛ**.
 
-the Sanskrit equivalent, ending in **-tṛ**.
-
-They are collectively known as **agent nouns** because they describe a person who does the action of the verbal root
+They are collectively known as **agent nouns** because they describe a person who does the action of the verbal root.
 
 | | | | |
 | --- | --- | --- | --- |
-| √sās | to teach | √sās \> sass + tar \> satthar | teacher |
+| √sās | to teach | √sās + tar \> satthar | teacher |
 | √bhar | to support | √bhar + tar \> bhattar | lord |
 | √khā | to tell | ā + √khā + tar \> akkhātar | speaker |
 | √man | to think | √man + tar \> mantar | thinker |
@@ -52,7 +50,7 @@ They are collectively known as **agent nouns** because they describe a person wh
 | √brūh | to increase | √brūh + \*e + tar \> brūhetar | who develops |
 | √vas | to live | adhi + ā + √vas + a + tar \> ajjhāvasatar | who lives in a home |
 
-**Declension of -ar masc**
+**Declension of -u / -ar (1)**
 
 | | | |
 | --- | --- | --- |
@@ -67,18 +65,18 @@ They are collectively known as **agent nouns** because they describe a person wh
 
 Similarly bhāsi**tar**, vat**tar**, bhat**tar**, kat**tar**, dā**tar**, akkhā**tar**, man**tar**, ajjhāvasa**tar,** so**tar**, brūhe**tar**, aññā**tar** etc.
 
-## Masculine nouns ending in -u (-tu / -tar) (2)
+## Masculine nouns ending in -u / -ar (2)
 
 These nouns include all the close family relations, like bhātar (brother), pitar (father) etc.
 
 In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
-| **Pāli** | **Sanskrit** |
+| **Pāḷi** | **Sanskrit** |
 | --- | --- |
 | bhātu (BD)<br>bhātar (PED) | bhrātṛ |
 | pitu (BD)<br>pitar (PED) | pitṛ |
 
-**Declension of -ar2 masc**
+**Declension of -u / -ar (2)**
 
 | | | |
 | --- | --- | --- |
@@ -91,18 +89,18 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 | 7.loc | bhāt**ari** | bhāt**aresu**<br>bhāt**ūsu** |
 | 8.voc | bhāt**a**<br>bhāt**ā** | bhāt**aro** |
 
-**In summary:** learn the **bhikkhu** declension by heart. For **satthar / pitar**, it is enough at minimum to be able to *recognize* the most frequent forms: satthā, satthāraṃ, satthu, satthārā, pitā, pitaraṃ, pitu.
+**In summary:** learn the **bhikkhu** declension by heart. For **satthar / pitar**, it is enough at minimum to be able to *recognise* the most frequent forms: satthā, satthāraṃ, satthu, satthārā, pitā, pitaraṃ, pitu.
 
 ## Comparison table for nouns ending in -u
 
-| | u | tu<br>2 | tu1 | u | tu2 | tu1 |
+| | -u | -u / -ar (2) | -u / -ar (1) | -u | -u / -ar (2) | -u / -ar (1) |
 | --- | --- | --- | --- | --- | --- | --- |
 | | singular | singular | singular | plural | plural | plural |
 | 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū**<br>bhikkh**avo** | bhāt**aro** | satth**āro** |
 | 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū**<br>bhikkh**avo** | bhāt**are**<br>bhāt**aro** | satth**āre**<br>satth**āro** |
-| 3.inst | bhikkh**unā** | bhāt**arā**<br>bhāt**unā** | satth**ārā**<br>satth**unā** | bhikkh**ūhi** | bhāt**arehi**<br>bhāt**ūhi** | satth**ārehi** |
-| 4.dat | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ**<br>bhāt**ānaṃ**<br>bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
-| 5.abl | bhikkh**unā**<br>bhikkh**umhā**<br>bhikkh**usmā** | bhāt**arā** | satth**ārā** | bhikkh**ūhi** | bhāt**arehi**<br>bhāt**ūhi** | satth**ārehi** |
-| 6.gen | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**arānaṃ**<br>bhāt**ānaṃ**<br>bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 3.inst | bhikkh**unā** | bhāt**arā**<br>bhāt**unā** | satth**ārā**<br>satth**unā** | bhikkh**ūhi** | bhāt**ūhi** | satth**ārehi** |
+| 4.dat | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
+| 5.abl | bhikkh**unā**<br>bhikkh**umhā**<br>bhikkh**usmā** | bhāt**arā** | satth**ārā** | bhikkh**ūhi** | bhāt**ūhi** | satth**ārehi** |
+| 6.gen | bhikkh**uno**<br>bhikkh**ussa** | bhāt**u**<br>bhāt**uno**<br>bhāt**ussa** | satth**u**<br>satth**uno**<br>satth**ussa** | bhikkh**ūnaṃ** | bhāt**ūnaṃ** | satth**ārānaṃ**<br>satth**ānaṃ** |
 | 7.loc | bhikkh**umhi**<br>bhikkh**usmiṃ** | bhāt**ari** | satth**ari** | bhikkh**ūsu** | bhāt**aresu**<br>bhāt**ūsu** | satth**āresu** |
 | 8.voc | bhikkh**u** | bhāt**a**<br>bhāt**ā** | satth**a**<br>satth**ā** | bhikkh**ū**<br>bhikkh**avo**<br>bhikkh**ave** | bhāt**aro** | satth**āro** |

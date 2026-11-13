@@ -16,7 +16,7 @@ The next most common root group with around 100 roots is the √cur group. Their
 
 1\. √cur (steal) + \*[^11]e \> c**o**re
 
-[^11]: We use symbol **\*** or traditionally **ṇa** (sign for vuddhi)
+[^11]: We use symbol **\*** or traditionally **ṇa** (sign for strengthening)
 
 core + ti \> coreti (he steals)
 

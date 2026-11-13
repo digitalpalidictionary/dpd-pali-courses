@@ -1,6 +1,6 @@
 # The Alphabet & Pronunciation
 
-There are 8 vowels and 33 consonants in the Pāli alphabet.
+There are 8 vowels and 33 consonants in the Pāḷi alphabet.
 
 All of them are pronounced phonetically.
 
@@ -16,7 +16,7 @@ All of them are pronounced phonetically.
 | th**ū**la | (large) | ū | as in | r**u**le, f**oo**l, b**oo**t, r**oo**ster, fl**u**te |
 | m**e**ttā | (friendliness) | e | as in | m**e**t, s**e**t, Z**e**n (short) |
 | h**e**manta | (winter) | e | as in | **ai**r, h**ai**r, f**ai**r (long) |
-| **o**ttappa | (remorse) | o | as in | **o**range, **o**mit (short) |
+| **o**ttappa | (shame in wrongdoing) | o | as in | **o**range, **o**mit (short) |
 | **o**dana | (rice) | o | as in | f**o**r, **aw**ning, **aw**e (long) |
 
 **5 Guttural Consonants (kaṇṭhaja – produced in the throat)**
@@ -39,14 +39,14 @@ All of them are pronounced phonetically.
 | **ch**atta | (umbrella) | **ch** | as in | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
 | **j**ina | (conqueror) | **j** | as in | **j**am, **j**ug, **j**elly |
 | **jh**āna | (meditation) | **jh** | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
-| **ñ**āṇa | (wisdom) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
+| **ñ**āṇa | (understanding) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
 
 **5 Cerebral or Retroflex Consonants <br>(muddhaja – produced at the top)**
 These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dukka**ṭ**a | (wrong doing) | **ṭ** | | retroflex t |
+| dukka**ṭ**a | (wrongdoing) | **ṭ** | | retroflex t |
 | **ṭh**āna | (place) | **ṭh** | | retroflex th |
 | gaṇ**ḍ**a | (boil) | **ḍ** | | retroflex d |
 | vuḍ**ḍh**i | (increase) | **ḍh** | | retroflex dh |
@@ -87,6 +87,8 @@ These retroflex consonants have no English equivalents. They are formed by curli
 | sa**ṁ**yojana | (fetter) | ṁ | as in | similar to si**ng** |
 | sa**ŋ**yojana | (fetter) | ŋ | as in | similar to si**ng** |
 
+Note: ṁ and ŋ are other ways of writing ṃ.
+
 **Sanskrit Letters**
 
 **2 more vowels**
@@ -100,15 +102,15 @@ These retroflex consonants have no English equivalents. They are formed by curli
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| avadhy**ai** | (disregards)<br>Pāli ujjhāyati | ai | as in | **ai**sle, p**ie** |
-| k**au**kṛtya | (worry)<br>Pāli kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
+| avadhy**ai** | (disregards)<br>Pāḷi ujjhāyati | ai | as in | **ai**sle, p**ie** |
+| k**au**kṛtya | (worry)<br>Pāḷi kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
 
 **2 more sibilants**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | **ś**amatha | (tranquillity) | ś | as in | **sh**ip, **sh**ape |
-| di**ṣ**ṭa | (seen) | ṣ | as in | retroflex **sh** |
+| di**ṣ**ṭa | (shown, appointed) | ṣ | as in | retroflex **sh** |
 
 ## Double Consonants
 
@@ -121,9 +123,9 @@ Double consonants are pronounced individually, like in the English word u**nn**e
 | pabbajjā | pronounced | pab-baj-jaa | not pabajaa |
 | moggallāna | pronounced | mog-gal-laa-na | not mogalaana |
 
-## How to use a Pāli dictionary?
+## How to use a Pāḷi dictionary?
 
-Pāli alphabetical order is from a to ṃ.
+Pāḷi alphabetical order is from a to ṃ.
 
 **a ā i ī u ū e o**
 
@@ -139,4 +141,4 @@ Pāli alphabetical order is from a to ṃ.
 
 **y r l v s h ḷ ṃ**
 
-or use a digital dictionary!
+Or use a digital dictionary!

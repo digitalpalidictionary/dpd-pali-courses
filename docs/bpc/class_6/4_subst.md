@@ -14,9 +14,9 @@ Substantives are formed by taking a noun and adding a suffix at the end.[^18]
 | paññā | wisdom | pañña**vant** | has wisdom | wise person |
 | cakkhu | eye | cakkhu**mant** | has eye | who has vision |
 
-Substantives are formed by adding the suffixes **-mant** or **-vant** to the noun
+Substantives are formed by adding the suffixes **-mant** or **-vant** to the noun.
 
-Nouns ending in -**a** / **-ā** take **-vant** suffix
+Nouns ending in -**a** / **-ā** take **-vant** suffix.
 
 e.g. bhag**a** + **vant** \> bhagavant (fortunate one)
 
@@ -24,7 +24,7 @@ bal**a** + **vant** \> balavant (powerful one)
 
 vedan**ā** + **vant** \> vedanāvant (one who feels)
 
-Nouns ending in **-i** / **-ī** / **-u** / **-ū** / **-o** take **-mant**
+Nouns ending in **-i** / **-ī** / **-u** / **-ū** / **-o** take **-mant**.
 
 e.g. sat**i** + **mant** \> satimant (mindful one)
 
@@ -42,7 +42,7 @@ That deity said this to the **Fortunate One**.
 
 [DN3.15](https://s.dhamma.gift/dn/dn3/index.html) **cakkhumanto** rūpāni dakkhanti.
 
-**People with eyesight** see forms.
+**People with eyesight** will see forms.
 
 A substantive can also be used as an adjective. When it stands together with another noun, it **can** function as an adjective.
 

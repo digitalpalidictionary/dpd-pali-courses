@@ -1,4 +1,4 @@
-# Conjunction “ca”
+# Conjunctions “ca” and “vā”
 
 The most common word for “*and*” in the Tipiṭaka is “**ca**”.
 
@@ -12,7 +12,7 @@ A senior monk is well-liked **and** pleasing, **and** honoured **and** respected
 
 assā gāvo ajā eḷakā **ca**
 
-horses, cattle, sheep **and** goats
+horses, cattle, goats **and** sheep
 
 ## Conjunction “vā” meaning “or”
 
@@ -20,7 +20,7 @@ horses, cattle, sheep **and** goats
 
 [MN147](https://s.dhamma.gift/mn/mn147/index.html) taṃ kiṃ maññasi, rāhula, cakkhu niccaṃ **vā** aniccaṃ **vā** iti
 
-What do you think Rāhula, is the eye permanent **or** impermanent?
+What do you think, Rāhula, is the eye permanent **or** impermanent?
 
 [MN118](https://s.dhamma.gift/mn/mn118/index.html) bhikkhu araññagato **vā** rukkhamūlagato **vā** suññāgāragato **vā** nisīdati.
 

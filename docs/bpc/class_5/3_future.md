@@ -1,12 +1,12 @@
 # Future Tense
 
-The future tense in Pāli has the same meaning as in English – an action that will be done in the future.
+The future tense in Pāḷi has the same meaning as in English – an action that will be done in the future.
 
 **brāhmaṇā karissanti …**
 
-Brahmans will do ….
+Brahmans will do …
 
-“bhavissati” often expresses the idea of “should be”
+“bhavissati” often expresses the idea of “should be”.
 
 parisuddho no kāyasamācāro **bhavissati**. *([MN39](https://s.dhamma.gift/mn/mn39/index.html))*
 
@@ -73,5 +73,5 @@ des**e** + **ssa** + āma \> des**essāma** (we will preach)
 | --- | --- | --- | --- | --- |
 | | singular | | plural | |
 | 3rd | bhāve**ssati** | he will develop | bhāve**ssanti** | they will develop |
-| 2nd | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop |
+| 2nd | bhāve**ssasi** | you will develop | bhāve**ssatha** | you all will develop |
 | 1st | bhāve**ssāmi** | I will develop | bhāve**ssāma** | we will develop |

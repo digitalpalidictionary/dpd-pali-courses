@@ -1,14 +1,14 @@
 # Declension of Nouns
 
-Declension is a system of adding inflections to a nominal stem indicating gender, number and the case. (rephrasing V. Perniola)
+Declension is a system of adding inflections to a nominal stem indicating gender, number and case. (rephrasing V. Perniola)
 
-Nouns have **3 genders** – masculine, neuter and feminine. (gram.)
+Nouns have **3 genders** – masculine, neuter and feminine.
 
 Nouns have **2 numbers** – singular and plural.
 
 Nouns are declined in **8 cases.**
 
-You will become very familiar with these cases in the upcoming weeks
+You will become very familiar with these cases in the upcoming weeks.
 
 ## Some Basic Vocabulary to illustrate the case endings
 
@@ -26,6 +26,9 @@ You will become very familiar with these cases in the upcoming weeks
 | khādati | pr. | eats |
 | carati | pr. | walks |
 | deti | pr. | gives |
+| cīvara | nt. | robe |
+| ākāsa | masc. | air, sky |
+| khajjati | pr. | is eaten |
 
 ## 1. Nominative Case (paṭhamā)
 
@@ -43,7 +46,7 @@ The lion eats **the disciple.**
 
 sīho sāvak**aṃ** khādati.
 
-How would you say the disciple eats the lion in Pāli?
+How would you say the disciple eats the lion in Pāḷi?
 
 The Accusative Case also expresses **going to** or **going along.**
 
@@ -73,11 +76,11 @@ thero ākās**ena** gāmaṃ gacchati.
 
 The disciple is being eaten **by the lion**.
 
-sāvako sīh**ena** khajjati
+sāvako sīh**ena** khajjati.
 
 ## 4. Dative Case (catutthī)
 
-Refers to an object given or directed to someone.
+Refers to the person or thing to which something is given or directed.
 
 Usually translated using **to** or **for.**
 
@@ -97,9 +100,9 @@ namo **tassa** **bhagavato**.
 
 The opposite of the Dative case.
 
-Usually translated using **from, away from**
+Usually translated using **from, away from.**
 
-The lay devotee walks **from the residence.**
+The lay devotee goes **from the residence.**
 
 upāsako **āvāsamhā** gacchati.
 
@@ -109,7 +112,7 @@ upāsako **āvāsasmā** gacchati.
 
 ## 6. Genitive Case (chaṭṭhī)
 
-Denotes possession. Usually translated using **of** or **‘s.**
+Denotes possession. Usually translated using **of** or **’s**.
 
 A noun in the Genitive Case usually comes **before** the object it qualifies.
 
@@ -174,17 +177,17 @@ Which one is correct?
 
 Please learn this table by heart. Why?
 
-| | **Frequency of appearance in Tipiṭaka[^3]** |
+| | **Number of nouns in DPD[^3]** |
 | --- | --- |
 | masculine nouns ending in **-a** | **11834** |
 | masculine nouns ending in **-i -ī -u -ū** | 1549 |
 | masculine nouns total | **13383** |
-| masculine nouns ending in **-a** | **88%** |
-| neuter nouns ending in **-aṃ** | **14747** |
+| share of **-a** | **88%** |
+| neuter nouns ending in **-a** | **14747** |
 | neuter nouns ending in **-i -u** | 452 |
 | neuter nouns total | **15199** |
-| | **97%** |
+| share of **-a** | **97%** |
 
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
 
-[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
+[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that the dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.

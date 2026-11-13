@@ -51,7 +51,7 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 | caus pr | bhāve**ti**<br>bhāvaya**ti** | he causes to be, develops |
 | caus prp | bhāve**nta**<br>bhāvaya**nta**<br>bhāvaya**māna** | causing to be, developing |
 | caus pass base | bhāviya | |
-| caus pass pr | bhāvīyati | it is caused to be; it is developed |
+| caus pass pr | bhāviyati | it is caused to be; it is developed |
 | caus pprp | bhāviya**māna** | being caused to be; being developed |
 
 ### How To Form Causative Passive Present Participle
@@ -60,7 +60,9 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 
 **causative base + ya / iya / īya \> causative passive base**
 
-Don't worry, that's probably the trickiest construction in the entire Pāli language. There are very few of them in the Tipiṭaka.
+**causative passive base + māna \> causative passive present participle**
+
+Don't worry, that's probably the trickiest construction in the entire Pāḷi language. There are very few of them in the Tipiṭaka.
 
 [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36) devadūtasuttaṃ
 

@@ -2,11 +2,11 @@
 
 Another verbal form without declensions is the **infinitive**. It most commonly expresses a **purpose**.
 
-I will go to the forest **to see** the Buddha
+I will go to the forest **to see** the Buddha.
 
-ahaṃ buddhaṃ **passituṃ** araññaṃ gacchissāmi
+ahaṃ buddhaṃ **passituṃ** araññaṃ gacchissāmi.
 
-The infinitive can be translated as
+The infinitive can be translated as:
 
 *“to see”*
 
@@ -14,11 +14,11 @@ The infinitive can be translated as
 
 *“for the purpose of seeing”*
 
-## How to form the infintive
+## How to form the infinitive
 
 ### 1. root + -tuṃ
 
-The infinitive can be formed by adding the suffix **-tuṃ** to the root
+The infinitive can be formed by adding the suffix **-tuṃ** to the root.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -30,13 +30,12 @@ The infinitive can be formed by adding the suffix **-tuṃ** to the root
 
 ### 2. root + -ituṃ
 
-The infinitive can be formed by added the suffix **-ituṃ** to the root.
+The infinitive can be formed by adding the suffix **-ituṃ** to the root.
 
 | | | | |
 | --- | --- | --- | --- |
 | √bandh | + ituṃ | bandhituṃ | to tie, bind |
 | √bhakkh | + ituṃ | bhakkhituṃ | to eat |
-| √bhind | + ituṃ | bhindituṃ | to break |
 | √car | + ituṃ | carituṃ | to walk |
 | √jīv | + ituṃ | jīvituṃ | to live |
 | √har | + ituṃ | harituṃ | to carry |
@@ -45,7 +44,7 @@ The infinitive can be formed by added the suffix **-ituṃ** to the root.
 
 ### 3. base + -ituṃ
 
-Very rarely, the infinitive can be formed by added the suffix **-ituṃ** to the base.
+The infinitive can be formed by adding the suffix **-ituṃ** to the base.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -69,7 +68,7 @@ In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is
 | √pus | pose | + tuṃ | posetuṃ | to look after |
 | √sudh | sodhe | + tuṃ | sodhetuṃ | to clean |
 
-## Some verbs always take an infinitive
+## Some verbs often take an infinitive
 
 Some verbs like **arahati** (he deserves, is worthy), **sakkoti** (he is able) almost always take an infinitive, just like in English.
 
@@ -81,13 +80,13 @@ samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** ([DN
 
 Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 
-## More words which always take an infinitive
+## More words which often take an infinitive
 
 | | | |
 | --- | --- | --- |
-| alaṃ | ind | it is suitable (to) ; one is able (to) |
+| alaṃ | ind | it is suitable (to); one is able (to) |
 | atippago | adv | too early (to) |
-| jegucchī | masc | who disgusted (to) |
+| jegucchī | masc | who detests |
 | icchati | pr | wishes (for); desires (to) |
 | kallaṃ | ind | it is suitable (to), it is proper (to) |
 | (a)bhabba | ptp | (un)able (to); (in)capable (of) |
@@ -107,11 +106,11 @@ Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 
 Some other words can also occasionally take +inf.
 
-Pāli prose is usually very consistent in the usage of infinitives.
+Pāḷi prose is usually very consistent in the usage of infinitives.
 
 ## Infinitive + kāma
 
-Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”
+Another very common construction in the Tipiṭaka is to make a compound out of an infinitive + **kāma**. The meaning is “*wanting to (do something)*”.
 
 | | | |
 | --- | --- | --- |

@@ -11,7 +11,7 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 | ya | whatever | + ttha | yattha (yatra) | wherever |
 | ka | what? | + ttha | kattha | where? |
 | sabba | all, every | + ttha | sabbattha | everywhere |
-| eka | one | +ttha | ekattha | in one place |
+| eka | one | + ttha | ekattha | in one place |
 | añña | another | + ttha | aññattha | somewhere else |
 | **-to** “from a place” | | | | |
 | ka | what? | + to | k**u**to | from where? |
@@ -19,7 +19,7 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 | eka | one | + to | ekato | from one side |
 | pari | around | + to | parito | from all around |
 | pura | in front | + to | purato | in front of |
-| samanta | all | + to | samantato | from all every direction |
+| samanta | all | + to | samantato | from every direction |
 
 **-hiṃ**
 
@@ -31,4 +31,4 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 
 **yattha** arahanto viharanti, taṃ bhūmi-rāmaṇeyyakaṃ ([DHP98](https://s.dhamma.gift/kn/dhp/index.html#dhp90))
 
-**Wherever** the arahants dwell, that is delightful place.
+**Wherever** the arahants dwell, that is a delightful place.

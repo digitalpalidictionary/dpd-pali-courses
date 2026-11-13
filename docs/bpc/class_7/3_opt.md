@@ -36,7 +36,7 @@ kathe + **eyyātha** \> katheyyātha (you all might tell)
 
 √har 1 a (carry) \> hara
 
-ā + hara + **eyyāmi** \> āhareyyāmi (I could eat)
+ā + hara + **eyyāmi** \> āhareyyāmi (I could bring)
 
 √su 4 ṇā (hear) \> suṇā
 
@@ -57,10 +57,10 @@ It has two forms:
 | | | | | |
 | --- | --- | --- | --- | --- |
 | 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
-| 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you could be |
+| 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you all could be |
 | 1st | **assaṃ**<br>**siyaṃ** | I could be | **assāma**<br>**-** | we could be |
 
-highly used!
+Very frequently used!
 
 Some examples:
 

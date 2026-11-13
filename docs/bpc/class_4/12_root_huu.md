@@ -26,4 +26,4 @@
 | --- | --- | --- | --- | --- |
 | 3rd | aho**si** | he was | ahe**suṃ** | they were |
 | 2nd | aho**si** | you were | ahuva**ttha** | you all were |
-| 1st | aho**siṃ** | I was | ahu**mhā** <br>ahu**mha** | we were |
+| 1st | aho**siṃ** | I was | ahu**mha**<br>ahu**mhā** | we were |

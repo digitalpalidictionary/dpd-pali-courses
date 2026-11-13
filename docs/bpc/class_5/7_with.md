@@ -1,6 +1,6 @@
 # With & together with “saddhiṃ” and “saha”
 
-In Pāli only the instrumental case can express the meaning of **with** or **together with**.
+In Pāḷi the instrumental case alone can express the meaning of **with** or **together with**.
 
 ahaṃ mitt**ena** nagaraṃ agacchiṃ
 
@@ -12,7 +12,7 @@ ahaṃ mitt**ena** **saddhiṃ** nagaraṃ agacchiṃ
 
 I went to town **together with** my friend.
 
-Another preposition which is similarly used is “**saha**” which also has the meaning **with, together with** or **accompanied by.** It is much more common in the Khuddaka Nikāya and in later Pāli literature.
+Another preposition which is similarly used is “**saha**” which also has the meaning **with, together with** or **accompanied by.** It is much more common in the Khuddaka Nikāya and in later Pāḷi literature.
 
 [MN82](https://s.dhamma.gift/mn/mn82/index.html)
 

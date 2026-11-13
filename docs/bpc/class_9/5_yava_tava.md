@@ -1,6 +1,6 @@
 # yāva … tāva
 
-A common construction in Pāli is created with adverbs.
+A common construction in Pāḷi is created with adverbs.
 
 **yāva** (until, as long as, an unspecified point in time) and
 
@@ -10,14 +10,15 @@ ahaṃ, **yāva** tumhe dharatha, **tāva** paṭijaggissāmi.
 
 **As long as** you carry on living, **that long** I will look after you.
 
-Where have you come across this kind of construction before ?
+Where have you come across this kind of construction before?
 
 In the future, you might come across all the following constructions:
 
 | | |
 | --- | --- |
 | nominative singular | yo so |
-| nominative plural | yāni tāni |
+| masc nominative plural | ye te |
+| nt nominative plural | yāni tāni |
 | accusative singular | yaṃ taṃ |
 | instrumental singular | yena tena |
 | instrumental plural | yehi tehi |

@@ -62,7 +62,7 @@ so narena gāmaṃ **cāreti.**
 
 He **causes** the man **to walk** to the village.
 
-It makes no sense if you translate directly into English, so please be aware of this Pāli syntax.
+It makes no sense if you translate directly into English, so please be aware of this Pāḷi syntax.
 
 **Example 3: di-transitive \> multi-transitive**
 
@@ -132,7 +132,7 @@ Other than the base, the conjugation of causative verbs follows the normal patte
 
 **imperative**: pācāpe**tu** pācāpe**ntu** pācāpe**hi** pācāpe**tha** pācāpe**mi** pācāpe**ma**
 
-**optative**: pācāpe**yya** pācāpe**yyuṃ** pācāpe**yyāsi** pācāpe**yyātha** pācāpe**yyaṃ** pācāpe**yyāma** pācāpe**yyāmi**
+**optative**: pācāpe**yya** pācāpe**yyuṃ** pācāpe**yyāsi** pācāpe**yyātha** pācāpe**yyāmi** pācāpe**yyāma**
 
 How would you conjugate √**pac + \*e \> pāce**
 
@@ -164,9 +164,9 @@ Some causative verbs have natural English equivalents
 
 he causes to die = **he kills**
 
-√sam (calm) + \*e \> sāme \> **sāmeti**
+√dis (point out) + \*e \> dese \> **deseti**
 
-he causes to calm = **he stills, he calms**
+he causes to point out = **he teaches, he preaches**
 
 √bhū (be) + \*e \> bhāve \> **bhāveti**
 

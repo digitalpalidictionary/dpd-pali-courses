@@ -1,7 +1,7 @@
 # Neuter Nouns
 
 These are very common, more than 17000 words in the current DPD database[^22].
-[^22]: Relevant for 2025 year
+[^22]: Relevant for the year 2025.
 
 | | |
 | --- | --- |
@@ -29,13 +29,13 @@ These are very common, more than 17000 words in the current DPD database[^22].
 | 5.abl | citt**ā**<br>citt**amhā**<br>citt**asmā** | citt**ehi** |
 | 6.gen | citt**assa** | citt**ānaṃ** |
 | 7.loc | citt**e**<br>citt**amhi**<br>citt**asmiṃ** | citt**esu** |
-| 8.voc | citt**a**<br>citt**ā** | citt**āni** |
+| 8.voc | citt**a**<br>citt**ā** | citt**ā**<br>citt**āni** |
 
 What do you notice in regard to the declension of neuter nouns?
 
 ## Comparison between Masculine and Neuter Nouns -a
 
-| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| | Masc sing | Neuter sing | Masc plural | Neuter plural |
 | --- | --- | --- | --- | --- |
 | 1.nom | nar**o** | citt**aṃ** | nar**ā** | citt**ā**<br>citt**āni** |
 | 2.acc | nar**aṃ** | citt**aṃ** | nar**e** | citt**e**<br>citt**āni** |
@@ -44,11 +44,11 @@ What do you notice in regard to the declension of neuter nouns?
 | 5.abl | nar**ā**<br>nar**amhā**<br>nar**asmā** | citt**ā**<br>citt**amhā**<br>citt**asmā** | nar**ehi** | citt**ehi** |
 | 6.gen | nar**assa** | citt**assa** | nar**ānaṃ** | citt**ānaṃ** |
 | 7.loc | nar**e**<br>nar**amhi**<br>nar**asmiṃ** | citt**e**<br>citt**amhi**<br>citt**asmiṃ** | nar**esu** | citt**esu** |
-| 8.voc | nar**a**<br>nar**ā** | citt**a**<br>citt**ā** | nar**ā** | citt**āni** |
+| 8.voc | nar**a**<br>nar**ā** | citt**a**<br>citt**ā** | nar**ā** | citt**ā**<br>citt**āni** |
 
 ## Neuter Nouns ending in -i
 
-These are very rare, there are only few of them in the Tipiṭaka.
+These are very rare; there are only a few of them in the Tipiṭaka.
 
 | | |
 | --- | --- |
@@ -75,7 +75,7 @@ These are very rare, there are only few of them in the Tipiṭaka.
 
 ## Comparison between Masculine and Neuter Nouns -i
 
-| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| | Masc sing | Neuter sing | Masc plural | Neuter plural |
 | --- | --- | --- | --- | --- |
 | 1.nom | agg**i** | aṭṭh**i** | agg**ī**<br>agg**ayo** | aṭṭh**ī**<br>aṭṭh**īni** |
 | 2.acc | agg**iṃ** | aṭṭh**iṃ** | agg**ī**<br>agg**ayo** | aṭṭh**ī**<br>aṭṭh**īni** |
@@ -88,9 +88,9 @@ These are very rare, there are only few of them in the Tipiṭaka.
 
 ## Neuter Nouns ending in -u
 
-These are also rare, at most 400 in the current DPD database[^23].
+These are less common, about 400 in the current DPD database[^23].
 
-[^23]: Relevant for 2025 year
+[^23]: Relevant for the year 2025.
 
 | | |
 | --- | --- |
@@ -120,9 +120,9 @@ These are also rare, at most 400 in the current DPD database[^23].
 
 ## Comparison between Masculine and Neuter Nouns -u
 
-| | Masc sing | Neuter Sing | Masc plural | Neuter Plural |
+| | Masc sing | Neuter sing | Masc plural | Neuter plural |
 | --- | --- | --- | --- | --- |
-| 1.nom | bhikkh**u** | āy**uṃ**<br>āyu | bhikkh**ū**<br>bhikkh**avo** | āy**ū**<br>āy**ūni** |
+| 1.nom | bhikkh**u** | āy**u**<br>āy**uṃ** | bhikkh**ū**<br>bhikkh**avo** | āy**ū**<br>āy**ūni** |
 | 2.acc | bhikkh**uṃ** | āy**uṃ** | bhikkh**ū**<br>bhikkh**avo** | āy**ū**<br>āy**ūni** |
 | 3.inst | bhikkh**unā** | āy**unā** | bhikkh**ūhi** | āy**ūhi** |
 | 4.dat | bhikkh**uno**<br>bhikkh**ussa** | āy**uno**<br>āy**ussa** | bhikkh**ūnaṃ** | āy**ūnaṃ** |

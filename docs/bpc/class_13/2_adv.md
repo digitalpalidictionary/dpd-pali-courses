@@ -17,7 +17,7 @@ Adverbs are formed in various ways using **suffixes** and different **cases** of
 | satta | card | seven | satta**dhā** | adv | in 7 pieces |
 | pañca | card | five | pañca**so** | adv | five by five |
 | bahu | adj | many | bahuk**khattuṃ** | adv | many times |
-| ka | adj | what | ka**thaṃ** | adv | in what way? |
+| ka | pron | what | ka**thaṃ** | adv | in what way? |
 | piṭṭhi | noun | back | piṭṭhi**to** | adv | behind |
 | pari | prep | around | pari**to** | adv | all around |
 | dūra | adj | far | dūra**to** | adv | from far away |
@@ -42,7 +42,7 @@ and a very large number of others.
 | tatiya | ordin | third | tatiy**aṃ** | adv | for third time |
 | uddha | adj | upper | uddh**aṃ** | adv | upwards, above |
 
-Quick review: where do you find the -**aṃ** ending in Pāli grammar?
+Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?
 
 1.  masculine, feminine, neuter acc s
 
@@ -72,7 +72,7 @@ Quick review: where do you find the -**aṃ** ending in Pāli grammar?
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | svātana | adj | of tomorrow | svātan**āya** | adv | for tomorrow's (meal) |
-| ajjatana | adj | modern | ajjatan**āya** | adv | for today; today |
+| ajjatana | adj | of today | ajjatan**āya** | adv | for today; today |
 
 **Genitive Case**
 

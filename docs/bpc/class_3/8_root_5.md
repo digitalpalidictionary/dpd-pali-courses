@@ -2,7 +2,7 @@
 
 = ki + ādi + gaṇa
 
-= √ki + etc + group
+= √kī + etc + group
 
 This group has only about 20 roots which are very commonly used.
 

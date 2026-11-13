@@ -1,6 +1,6 @@
 # Adjectives (guṇanāma, guṇavacana, visesana)
 
-## Adjectives in Pāli
+## Adjectives in Pāḷi
 
 Adjectives are a class of words that give more information about a noun. 
 
@@ -70,7 +70,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 4.dat | uttar**ino** | uttar**iyā** | uttar**ino** |
 | 5.abl | uttar**inā**<br>uttar**ismā**<br>uttar**imhā** | uttar**iyā** | uttar**inā**<br>uttar**ismā**<br>uttar**imhā** |
 | 6.gen | uttar**ino**<br>uttar**issa** | uttar**iyā** | uttar**ino**<br>uttar**issa** |
-| 7.loc | uttar**ini**<br>uttar**ismiṃ**<br>uttar**imhi** | uttar**iyā**<br>uttar**iyāṃ** | uttar**ismiṃ**<br>uttar**imhi** |
+| 7.loc | uttar**ismiṃ**<br>uttar**imhi** | uttar**iyā**<br>uttar**iyaṃ** | uttar**ini**<br>uttar**ismiṃ**<br>uttar**imhi** |
 | 8.voc | uttar**i** | uttar**i** | uttar**i**<br>uttar**iṃ** |
 
 **Adjectives ending in -i (plural)**
@@ -78,7 +78,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | uttar**ī**<br>uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
+| 1.nom | uttar**ī**<br>uttar**ayo** | uttar**ī**<br>uttar**iyo** | uttar**īni**<br>uttar**ī** |
 | 2.acc | uttar**ī**<br>uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
 | 3.inst | uttar**īhi** | uttar**īhi** | uttar**īhi** |
 | 4.dat | uttar**īnaṃ** | uttar**īnaṃ** | uttar**inaṃ**<br>uttar**īnaṃ** |
@@ -91,15 +91,15 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc_1) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^26] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-ii-masc) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^26] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
 | 1.nom | ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i**<br>ātāp**iṃ** |
 | 2.acc | ātāp**inaṃ**<br>ātāp**iṃ** | ātāp**iniṃ** | ātāp**i**<br>ātāp**iṃ** |
 | 3.inst | ātāp**inā** | ātāp**iniyā** | ātāp**inā** |
 | 4.dat | ātāp**ino**<br>ātāp**issa** | ātāp**iniyā** | ātāp**ino**<br>ātāp**issa** |
-| 5.abl | ātāp**inā**<br>ātāp**imhā**<br>ātāp**ismā** | ātāp**iniyā** | ātāp**inā**<br>ātāp**imhā**<br>ātāp**ismā** |
+| 5.abl | ātāp**inā**<br>ātāp**imhā** | ātāp**iniyā** | ātāp**inā**<br>ātāp**imhā**<br>ātāp**ismā** |
 | 6.gen | ātāp**ino**<br>ātāp**issa** | ātāp**iniyā** | ātāp**ino**<br>ātāp**issa** |
-| 7.loc | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** | ātāp**iniyā**<br>ātāp**iniyāṃ** | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** |
-| 8.voc | ātāp**i** | ātāp**ī**<br>ātāp**inī** | ātāp**i** |
+| 7.loc | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** | ātāp**iniyā**<br>ātāp**iniyaṃ** | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** |
+| 8.voc | ātāp**i**<br>ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i** |
 
 [^26]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
 
@@ -115,7 +115,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 5.abl | ātāp**īhi** | ātāp**inīhi** | ātāp**īhi** |
 | 6.gen | ātāp**īnaṃ** | ātāp**inīnaṃ** | ātāp**īnaṃ** |
 | 7.loc | ātāp**īsu** | ātāp**inīsu** | ātāp**īsu** |
-| 8.voc | ātāp**ino** | ātāp**iniyo** | ātāp**inī** |
+| 8.voc | ātāp**ino** | ātāp**iniyo** | ātāp**īni** |
 
 
 **Adjectives ending in -u (singular)**
@@ -129,7 +129,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 4.dat | bah**uno**<br>bah**ussa** | bah**uyā** | bah**uno**<br>bah**ussa** |
 | 5.abl | bah**unā**<br>bah**umhā**<br>bah**usmā** | bah**uyā** | bah**unā**<br>bah**umhā**<br>bah**usmā** |
 | 6.gen | bah**uno**<br>bah**ussa** | bah**uyā** | bah**uno**<br>bah**ussa** |
-| 7.loc | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** | bah**uyā**<br>bah**uyāṃ** | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** |
+| 7.loc | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** | bah**uyā**<br>bah**uyaṃ** | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** |
 | 8.voc | bah**u** | bah**u** | bah**u** |
 
 **Adjectives ending in -u (plural)**
@@ -150,7 +150,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-ū)**](../class_6/3_masc_uu.md#declension-of-u-masc) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
+| | **masc** [**(-ū)**](../class_6/3_masc_uu.md#declension-of-uu-masc) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
 | 1.nom | vid**ū** | vid**unī** | vid**uṃ** |
 | 2.acc | vid**uṃ** | vid**uniṃ** | vid**uṃ** |
 | 3.inst | vid**unā** | vid**uniyā** | vid**unā** |
@@ -165,14 +165,14 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
-| 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
+| 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
+| 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
 | 3.inst | vid**ūhi** | vid**unīhi** | vid**ūhi** |
 | 4.dat | vid**ūnaṃ** | vid**unīnaṃ** | vid**ūnaṃ** |
 | 5.abl | vid**ūhi** | vid**unīhi** | vid**ūhi** |
 | 6.gen | vid**ūnaṃ**<br>vid**unnaṃ** | vid**unīnaṃ** | vid**ūnaṃ**<br>vid**unnaṃ** |
 | 7.loc | vid**ūsu** | vid**unīsu** | vid**ūsu** |
-| 8.voc | vid**ū**<br>vid**uno** | vid**unī**<br>vid**uniyo** | vid**uni**<br>vid**ū** |
+| 8.voc | vid**ū**<br>vid**uno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
 
 ## Usage of adjectives
 

@@ -14,7 +14,7 @@
 
 **root + ya / iya / īya \> passive base**
 
-**passive base + māna \> passive present participle**
+**passive base + māna / nta \> passive present participle**
 
 **√muc 2 ṃa (release, free)**
 
@@ -41,7 +41,7 @@ In English, these are called **reflexive** **verbs**, or the **middle** **voice*
 
 They are literally translated as **he himself**, **they themselves** etc.
 
-This form of the verb, while common in Sanskrit, has mostly died out in Pāli prose, but it is still commonly used in **idioms** and **verse**.
+This form of the verb, while common in Sanskrit, has mostly died out in Pāḷi prose, but it is still commonly used in **idioms** and **verse**.
 
-Now, this idea, introduced only lightly at this stage, will be fully explored in the Intermediate Pāli Course.
+Now, this idea, introduced only lightly at this stage, will be fully explored in the Intermediate Pāḷi Course.
 Specifically, it will be explained that every verb you’ve learned so far has both an *attanopada* and *parassapada* endings.

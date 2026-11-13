@@ -61,7 +61,7 @@ Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_as
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | **√dā** | to give | + īya | **dīya** | **dīya**ti | is given |
-| **√dhā** | to hold | + īya | **dhīya** | **dhīya**ti | is held |
+| **√dhā** | to place | + īya | **dhīya** | **dhīya**ti | is placed |
 | **√har** | to carry | + īya | **harīya** | **harīya**ti | is carried |
 | **√kar** | to do | + īya | **karīya** | **karīya**ti | is done |
 | **√pā** | to drink | + īya | **pīya** | **pīya**ti | is drunk |
@@ -122,7 +122,7 @@ Aorist “it was given”
 | --- | --- | --- |
 | 3rd | dīy**i** | dīy**uṃ** |
 | 2nd | dīy**o** | dīy**ittha** |
-| 1st | dīy**iṃ** | dīy**imha** |
+| 1st | dīy**iṃ** | dīy**imha**<br>dīy**imhā** |
 
 Future Tense “it will be given”
 
@@ -146,6 +146,6 @@ Please note that some passive verbs can look **very similar** to their active ve
 | --- | --- | --- | --- |
 | pa**c**ati | he cooks | pa**cc**ati | it is cooked |
 | ta**p**ati | he burns | ta**pp**ati | it is burned |
-| uddi**s**ati | he points up | uddi**ss**ati | it is pointed up |
+| uddi**s**ati | he points out | uddi**ss**ati | it is pointed out |
 
 What’s the reason for that?

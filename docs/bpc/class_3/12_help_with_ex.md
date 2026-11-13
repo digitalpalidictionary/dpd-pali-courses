@@ -4,17 +4,17 @@
 
 English has typical **SVO** word order: **S**ubject **V**erb **O**bject
 
-Pāli has **SOV** word order. **S**ubject **O**bject **V**erb
+Pāḷi has **SOV** word order. **S**ubject **O**bject **V**erb
 
 e.g. English: the man goes to the village
 
-Pāli: naro gāmaṃ gacchati (man village he goes)
+Pāḷi: naro gāmaṃ gacchati (man village he goes)
 
-There are, of course, numerous exceptions, but this is most common in Pāli prose.
+There are, of course, numerous exceptions, but this is most common in Pāḷi prose.
 
 ## The genitive case
 
-The genitive case always comes *before* the noun it qualifies.
+The genitive case usually comes *before* the noun it qualifies.
 
 e.g. the body of the man, the man’s body
 

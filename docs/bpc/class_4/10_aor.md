@@ -4,7 +4,7 @@ The Aorist is the most common form of Past Tense in the Tipiṭaka. It is formed
 
 **It can be formed on the root:**
 
-this occurs mostly with group 1 roots
+This occurs mostly with group 1 roots.
 
 √har 1 a (carry)
 
@@ -16,7 +16,7 @@ abhi + √nand + **i** \> abhinand**i** (he was delighted)
 
 **Or it can be formed on the verbal base:**
 
-just like the present tense
+Just like the present tense.
 
 √bhuj 2 ṃa (eat, enjoy) \> bhuñja
 
@@ -26,7 +26,7 @@ bhuñja + i \> bhuñji (he ate, enjoyed)
 
 ā + mantaya + **i** \> āmantayi (he addressed)
 
-what would **another form** of this verb be?[^13]
+What would **another form** of this verb be?[^13]
 
 [^13]: āmantesi
 
@@ -49,11 +49,11 @@ a + √dā + si \> **a**dāsi (he gave)
 | | singular | | plural | |
 | 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu**<br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
 | 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha**<br>apac**ittha** | you all cooked |
-| 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imhā**<br>apac**imhā** | we cooked |
+| 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imha**<br>pac**imhā**<br>apac**imha**<br>apac**imhā** | we cooked |
 
 ## 8th conjugation group
 
-8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”
+8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”.
 
 **Conjugation of -esi aor**
 
@@ -64,7 +64,7 @@ a + √dā + si \> **a**dāsi (he gave)
 | 2nd | dese**si** | you taught | des**ittha** | you all taught |
 | 1st | dese**siṃ** | I taught | des**imha**<br>des**imhā** | we taught |
 
-similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
+Similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 
 ## Roots ending in vowels
 

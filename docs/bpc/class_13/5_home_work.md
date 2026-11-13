@@ -1,9 +1,9 @@
 # Homeless work
 
 1.  Exercises for class 13
-2.  Learn the vocabulary from class 13 using Anki Deck “Vocab Pāli Class”
-3.  Learn adverbs from class 13 “Grammar Pāli Class”
-4.  Learn the most common roots from “Common Roots Pāli Class” or/and “Roots Class”
+2.  Learn the vocabulary from class 13 using Anki Deck “Vocab Pāḷi Class”
+3.  Learn adverbs from class 13 “Grammar Pāḷi Class”
+4.  Learn the most common roots from “Common Roots Pāḷi Class” or/and “Roots Class”
 
 **Extra:**
 
@@ -13,6 +13,6 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāli Grammar | Adverbs (p129 - 132)<br>The Passive (p89 – 101) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāli Language | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
+| V. Perniola<br>Pāḷi Grammar | Adverbs (p129 - 132)<br>The Passive (p89 – 101) |
+| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

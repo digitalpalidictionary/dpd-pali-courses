@@ -4,7 +4,7 @@
 
 = √bhū + etc + group
 
-66% of roots in Pāli (around 500) [^9] belong to the first root group
+66% of roots in Pāḷi (around 500) [^9] belong to the first root group.
 
 [^9]: Statistical numbers are based on DPD root analysis conducted in 2023.
 
@@ -16,7 +16,7 @@
 
 √bhū (be) √car (act, go)
 
-which has the conjugational sign **a**. All these verbs get formed like this:
+This group has the conjugational sign **a**. All these verbs get formed like this:
 
 **root + conjugational sign \> base**
 

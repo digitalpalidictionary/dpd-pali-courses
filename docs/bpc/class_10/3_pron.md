@@ -201,9 +201,9 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | | ta | ima | ya | ta | ima | ya |
 | --- | --- | --- | --- | --- | --- | --- |
 | | | singular | | | plural | |
-| 1.nom | s**o**<br>s**a** | ay**aṃ** | y**o** | t**e** | im**e** | y**e** |
+| 1.nom | s**o** | ay**aṃ** | y**o** | t**e** | im**e** | y**e** |
 | 2.acc | t**aṃ** | im**aṃ** | y**aṃ** | t**e** | im**e** | y**e** |
-| 3.inst | t**ena** | im**inā**<br>an**ena** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
+| 3.inst | t**ena** | im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
 | 4.dat | t**assa** | a**ssa**<br>ima**ssa** | y**assa** | t**esaṃ** | imes**aṃ** | y**esaṃ**<br>y**esānaṃ** |
 | 5.abl | t**amhā**<br>t**asmā** | a**smā**<br>ima**mhā**<br>ima**smā** | y**amhā**<br>y**asmā** | t**ehi** | im**ehi** | y**ehi** |
 | 6.gen | t**assa** | a**ssa**<br>ima**ssa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ**<br>y**esānaṃ** |
@@ -220,23 +220,23 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 4.dat | t**assā** | a**ssā**<br>imi**ssā**<br>im**āya** | y**assā**<br>y**āya** | t**āsaṃ**<br>t**āsānaṃ** | im**āsaṃ** | y**āsaṃ**<br>y**āsānaṃ** |
 | 5.abl | t**āya** | im**āya** | y**āya** | t**āhi** | im**āhi** | **yāhi** |
 | 6.gen | t**assā** | a**ssā**<br>imi**ssā**<br>im**āya** | y**assā**<br>y**āya** | t**āsaṃ**<br>**tāsānaṃ** | im**āsaṃ** | y**āsaṃ**<br>y**āsānaṃ** |
-| 7.loc | t**issaṃ**<br>t**assaṃ**<br>t**āyaṃ** | imi**ssaṃ**<br>im**āyaṃ** | y**assaṃ**<br>y**āyaṃ** | t**āsu** | im**āsu** | y**āsu** |
+| 7.loc | t**issaṃ**<br>t**assaṃ**<br>t**āyaṃ** | imi**ssaṃ**<br>im**āyaṃ** | y**assaṃ**<br>y**āyaṃ**<br>y**āya** | t**āsu** | im**āsu** | y**āsu** |
 
 ## Comparison table for pronouns nt
 
 | | ta | ima | ya | ta | ima | ya |
 | --- | --- | --- | --- | --- | --- | --- |
 | | | singular | | | plural | |
-| 1.nom | t**aṃ**<br>t**ad** | id**aṃ**<br>im**aṃ** | y**aṃ** | t**e**<br>t**āni** | im**e**<br>im**āni** | y**e**<br>y**āni** |
+| 1.nom | t**aṃ**<br>t**ad** | id**aṃ**<br>im**aṃ** | y**aṃ**<br>y**ad** | t**e**<br>t**āni** | im**e**<br>im**āni** | y**e**<br>y**āni** |
 | 2.acc | t**aṃ**<br>t**ad** | id**aṃ**<br>im**aṃ** | y**aṃ**<br>y**ad** | t**e**<br>t**āni** | im**e**<br>im**āni** | y**e**<br>y**āni** |
-| 3.inst | t**ena** | an**ena**<br>im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
+| 3.inst | t**ena** | im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
 | 4.dat | t**assa** | a**ssa**<br>ima**ssa** | y**assa** | t**esaṃ**<br>t**esānaṃ** | imes**aṃ** | y**esaṃ**<br>y**esānaṃ** |
 | 5.abl | t**amhā**<br>t**asmā** | a**smā**<br>ima**mhā**<br>ima**smā** | y**amhā**<br>y**asmā** | t**ehi** | im**ehi** | y**ehi** |
 | 6.gen | t**assa** | a**ssa**<br>ima**ssa** | y**assa** | t**esaṃ**<br>t**esānaṃ** | im**esaṃ** | y**esaṃ**<br>y**esānaṃ** |
 | 7.loc | t**amhi**<br>t**asmiṃ** | a**smiṃ**<br>ima**mhi**<br>ima**smiṃ** | y**amhi**<br>y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
 **In summary:** learn the **ta** declension by heart — all other pronouns follow it with small
-variations. For **ima**, memorize only the high-frequency forms: ayaṃ, imaṃ, idaṃ, iminā, imassa,
+variations. For **ima**, memorise only the high-frequency forms: ayaṃ, imaṃ, idaṃ, iminā, imassa,
 asmiṃ, ime, imāni, imesaṃ.
 
 ## Some common pronouns (in the nominative case)
@@ -257,19 +257,19 @@ asmiṃ, ime, imāni, imesaṃ.
 | ete | these |
 | ayaṃ | this |
 | ime | these |
-| amu | so and so |
+| asu | so and so |
 | sabbo | all, every |
 | ubho | both |
 | kati | how many? |
 | yo | whoever |
 | ko | who? which? |
 | koci | someone, something |
-| sa | one’s own |
+| sako | one’s own |
 | pubbo | the previous |
 | itaro | the other |
-| aññatara | a certain, the |
-| añña | another |
-| kataro | which (of the many)? |
+| aññataro | a certain, a |
+| añño | another |
+| kataro | which (of two)? |
 | katamo | which (of the many)? |
 | aparo | the next, the following |
-| kiṃ | who? what? which? |
+| kiṃ | what? which? |
