@@ -45,7 +45,7 @@
 ## [Class 6](class_6/index.md)
 - [Masculine nouns ending in -u](class_6/2_masc_u.md)
 - [Masculine nouns ending in -ū](class_6/3_masc_uu.md)
-- [Substantives (guṇanāma)](class_6/4_subst.md)
+- [Possessives (atthyattha)](class_6/4_subst.md)
 - [Conjunctions “ca” and “vā”](class_6/5_and_or.md)
 - [Adverbs of time](class_6/6_adv_time.md)
 

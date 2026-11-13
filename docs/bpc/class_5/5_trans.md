@@ -12,9 +12,9 @@ t**e** suriy**aṃ** passiṃsu
 
 They saw the sun.
 
-pupph**ā** tathāgatassa sarīr**aṃ** okiranti ([DN16.27](https://s.dhamma.gift/dn/dn16/index.html) simpl)
+mitt**o** saggassa magg**aṃ** ācikkhati ([DN31.13](https://s.dhamma.gift/dn/dn31/index.html) simpl)
 
-Flowers scatter down onto the body of the Tathagata.
+A friend points out the path to heaven.
 
 ## Intransitive Verbs (akammaka “no object”)
 

@@ -1,8 +1,8 @@
-# Substantives (guṇanāma)
+# Possessives (atthyattha)
 
-Substantives are formed by taking a noun and adding a suffix at the end.[^18]
+Possessives are formed by taking a noun and adding a suffix at the end.[^18]
 
-[^18]: These -vant/-mant words are often called **possessive adjectives**. Note that the term *guṇanāma* is also used for ordinary adjectives (see class 11); the traditional grammatical terminology overlaps here.
+[^18]: Traditional grammar counts -vant / -mant among the *atthyattha* (possession) secondary derivatives. English grammars often call these words **possessive adjectives**. The term *guṇanāma* is used for ordinary adjectives (see class 11).
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@ Substantives are formed by taking a noun and adding a suffix at the end.[^18]
 | paññā | wisdom | pañña**vant** | has wisdom | wise person |
 | cakkhu | eye | cakkhu**mant** | has eye | who has vision |
 
-Substantives are formed by adding the suffixes **-mant** or **-vant** to the noun.
+Possessives are formed by adding the suffixes **-mant** or **-vant** to the noun.
 
 Nouns ending in -**a** / **-ā** take **-vant** suffix.
 
@@ -34,7 +34,7 @@ cakkh**u** + **mant** \> cakkhumant (one with eyesight)
 
 bandh**u** + **mant** \> bandhumant (one with relatives)
 
-When a substantive stands alone it **can** function as a noun.
+When a possessive stands alone it **can** function as a noun.
 
 [SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) sā devatā **bhagavantaṃ** etad’avoca
 
@@ -44,7 +44,7 @@ That deity said this to the **Fortunate One**.
 
 **People with eyesight** will see forms.
 
-A substantive can also be used as an adjective. When it stands together with another noun, it **can** function as an adjective.
+A possessive can also be used as an adjective. When it stands together with another noun, it **can** function as an adjective.
 
 [MN152](https://s.dhamma.gift/mn/mn152/index.html) seyyathāpi **balavā** **puriso** samiñjitaṃ vā bāhaṃ pasāreyya
 

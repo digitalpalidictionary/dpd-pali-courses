@@ -57,7 +57,7 @@ These retroflex consonants have no English equivalents. They are formed by curli
 | | | | | |
 | --- | --- | --- | --- | --- |
 | i**t**i | (thus) | **t** | as in | **t**op, **t**ap, s**t**ay (not aspirate) |
-| **th**era | (elder) | **th** | as in | **Th**omas, ligh**th**ouse, an**th**ill, ca**th**ouse |
+| **th**era | (elder) | **th** | as in | **Th**omas, ligh**th**ouse, an**th**ill, boa**th**ouse |
 | **d**āna | (gift) | **d** | as in | **d**ead, **d**id, **d**og |
 | **dh**amma | (teaching) | **dh** | as in | dea**dh**and, a**dh**erent, ma**dh**ouse |
 | **n**amo | (veneration) | **n** | as in | **n**ow, **n**ame, **n**o, **n**ose |

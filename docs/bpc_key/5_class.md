@@ -371,16 +371,16 @@
 
 **A monk does not dig up the ground.**
 
-29. [DN16.27](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
+29. [DN31.13](https://s.dhamma.gift/dn/dn31/index.html) (simpl) <br>mitto saggassa maggaṃ ācikkhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| pupphā | noun | nt.nom.pl | flowers | √pupph･1 a (flower, expand) |
-| tathāgatassa | noun | masc.gen.sg | of the Tathāgata | |
-| sarīraṃ | noun | nt.acc.sg | the corpse; dead body | |
-| okiranti | verb | pr.3rd.pl | are sprinkled on | √kir･1 a (scatter, sprinkle) |
+| mitto | noun | masc.nom.sg | a friend | √mitt･1 a (be friendly) |
+| saggassa | noun | masc.gen.sg | of heaven; to heaven | √sar･1 a (shine) |
+| maggaṃ | noun | masc.acc.sg | the path; the way | √magg･1 a (seek, search) |
+| ācikkhati | verb | pr.3rd.sg | points out; shows | √cikkh･1 a (show, tell) |
 
-**Flowers are sprinkled on the dead body of the Tathāgata.**
+**A friend points out the path to heaven.**
 
 30. [DN14.13](https://s.dhamma.gift/dn/dn14/index.html) (simpl) <br>bhagavā migadāye pāturahosi
 

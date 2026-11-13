@@ -343,14 +343,14 @@
 | khaṇati | | | | |
 | |
 
-29. [DN16.27](https://s.dhamma.gift/dn/dn16/index.html) (simpl) <br>pupphā tathāgatassa sarīraṃ okiranti
+29. [DN31.13](https://s.dhamma.gift/dn/dn31/index.html) (simpl) <br>mitto saggassa maggaṃ ācikkhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| pupphā | | nt. | | |
-| tathāgatassa | | | | |
-| sarīraṃ | | nt. | | |
-| okiranti | | | | |
+| mitto | | | | |
+| saggassa | | | | |
+| maggaṃ | | | | |
+| ācikkhati | | | | |
 | |
 
 30. [DN14.13](https://s.dhamma.gift/dn/dn14/index.html) (simpl) <br>bhagavā migadāye pāturahosi

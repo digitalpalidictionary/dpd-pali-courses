@@ -96,7 +96,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_5/5_trans.md:15 | `pupph**ā** tathāgatassa sarīr**aṃ** okiranti` | *puppha* is neuter (DPD: nt only); the bold ending shows a nominative plural in -ā. That form exists, but the course only teaches `-āni` / `-ā` for neuters in class 9. | [TODO] at this point nt has not been studied yet, need to replace this example, find some other canonical example with masc and transitive verb - this is an exercise in the bpc_key - cl_5 #29 - line 374 - once we confurm new example we need to replace that exercise as well | 8 |
 | class_10/6_loc_gen_abs.md:9 | `The **subject** of the sentence and the **participle** are in the locative **case**` | It is the subject of the absolute clause that is in the locative, not the subject of the sentence (in line 17 the sentence has its own subject). | "The subject of the clause and the participle…" | 7 |
 | class_10/2_prp.md:94 | `\| √īr \| to move \| iriya \| iriy**āna** \| going around \|` | Root and base agree with DPD (*iriyati*, `√īr 1 a`, base iriya), and *esāna* (line 93) is in DPD. The participle *iriyāna* itself was not looked up. | DPD lookup (iriyāna) | 3 |
 | class_11/5_home_work.md:25 | `na ca vokkama satthusāsanā vattanti` | The MN 122 text reads *vokkamma* (absolutive, double m). | `vokkamma` (DPD: ger of vokkamati, `vi + ud + √kam + ya`) | 8 |
@@ -312,9 +311,6 @@ Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I foll
 
 | Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| class_2/2_alphabet.md:60 | `ca**th**ouse` | Slang for a brothel; an odd example word in a course written for monastics. | [TODO] please suggest new example and confurm with user | 5 |
-| class_6/4_subst.md:1 | `# Substantives (guṇanāma)` | "Substantive" normally means a noun. The page uses it for the -vant / -mant possessive adjectives, and footnote 18 has to explain that they are "often called possessive adjectives" and that *guṇanāma* is also the term for adjectives in class 11. | [TODO] check other grammatical sources, we need to find a good name for those - sicne they can be nouns and adj depending on the context | 6 |
-| class_11/4_abl_sep.md:3 | `can be added to any noun or adjective or substantive` | "substantive" is listed as a third thing beside noun and adjective; class 6 uses the word for -vant / -mant adjectives. See the row on class_6/4_subst.md line 1. | [TODO] Change here based on the decision above - line 521 | 6 |
 | class_11/4_abl_sep.md:1 | `# Ablative of Separation` | The page is about the suffix `-to` and its sense "as" (line 9); "separation" is not explained or shown beyond `rukkhato`. | owner decision: title "The suffix -to" | 5 |
 | class_12/3_card.md:118 | `\| 14 \| *catuddasa*<br>cuddasa \|` | The first form is in italics here and on line 119 (`*pañcadasa*`), with no note on what the italics mean. | Add a note, or remove the italics | 5 |
 | class_13/3_pass_verb.md:96-99 | `\| **√pad** \| pajja \| + iya \| **pajjiya** \| up**pajjiya**ti \| is brought into being \|` | A second table follows the first with no caption; from the roots it seems to hold the group 3 examples of point 5, the first table the group 2 ones. | Captions "group 2" / "group 3" | 5 |
