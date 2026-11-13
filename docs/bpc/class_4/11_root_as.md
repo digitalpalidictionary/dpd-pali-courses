@@ -1,6 +1,6 @@
-## Irregular verb √as (be)
+# Irregular verb √as (be)
 
-### Present Tense √as
+## Present Tense √as
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ lit. not this I am
 
 “I am not this”
 
-### Imperative √as
+## Imperative √as
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ lit. not this I am
 | 2nd | āhi | you must be | attha | you all must be |
 | 1st | amhi<br>asmi | I must be | amha <br>amhā <br>asma | we must be |
 
-### Aorist √as
+## Aorist √as
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |

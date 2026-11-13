@@ -1,6 +1,6 @@
-## Irregular verb √hū (be)
+# Irregular verb √hū (be)
 
-### Present Tense √hū
+## Present Tense √hū
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |
@@ -10,7 +10,7 @@
 
 
 
-### Imperative √hū
+## Imperative √hū
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 
 
 
-### Aorist √hū
+## Aorist √hū
 
 | | singular | | plural | |
 | --- | --- | --- | --- | --- |
