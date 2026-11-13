@@ -6,6 +6,8 @@ No file in `docs/` was modified. This is a findings list only.
 
 The audit of 2026-11-12 was close to `kamma/audit/audit-guide.md`, so the folder was not read again. This pass put the old rows into the guide's format, ran the shared scripts, sent every doubtful row through one DPD round, added category I and cross-checked the result with the new `ipc-audit.md`. Every row comes from the old audit and ends its `Problem` with `(old <id>)`; the ids were given by category and order (`A1`, `A2`, …) when the old file was frozen.
 
+Related to #6 Course enhancement with AI
+
 ## Method and limits
 
 | Check | How | Result |
@@ -912,4 +914,3 @@ Formatting drift between the two folders: bold target words only in the key at 5
 ### M4. Advisory DPD form check (`verify_key.py --course ipc --dpd`)
 
 5 717 rows: 1 294 confirmed, 2 345 ambiguous, 1 972 skipped, 85 IMPOSSIBLE, 21 NOT-FOUND, 4 ROOT-MISMATCH. The 110 flagged rows were looked at during the read. Those that are real are rows in sections A and B and say "flagged" in `Problem`. The others are metrical or sandhi forms, stems in compound sub-rows, and tags where the key follows the sentence and DPD lists only the headword's usual use. The 2 345 ambiguous rows were not reviewed one by one.
-

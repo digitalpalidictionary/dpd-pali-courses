@@ -6,6 +6,8 @@ No file in `docs/` was modified. This is a findings list only.
 
 This file replaces the audit of 2026-11-12 (started 2026-11-10), which was written before `kamma/audit/audit-guide.md` existed and without any DPD lookup. It is the result of two passes over every slice: a fresh read by the guide's full checklist, and a re-check of every row of the old audit. A row that comes from the old audit ends its `Problem` with `(old <id>)`; the ids were given to the old rows by category and order (`A1`, `A2`, …) when the old file was frozen.
 
+Related to #6 Course enhancement with AI
+
 ## Method and limits
 
 | Check | How | Result |
@@ -887,4 +889,3 @@ The Kaccāyana citation styles, the `ger.` / `abs.` terms, the gender abbreviati
 - Strengthening suffixes carry an escaped asterisk (`\*a`, `\*ana`, `\*ī`); the asterisk is not explained in this class.
 - In the result the suffix and any changed root vowel are bold (`bh**e**d**a**`).
 - No Kaccāyana citations, sutta links or footnotes in class 28.
-

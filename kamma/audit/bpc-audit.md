@@ -6,6 +6,8 @@ No file in `docs/` was modified. This is a findings list only.
 
 This file replaces the audit of 2026-11-10, which was written before `kamma/audit/audit-guide.md` existed. It is the result of two passes over every slice: a fresh read by the guide's full checklist, and a re-check of every row of the old audit. A row that comes from the old audit ends its `Problem` with `(old <id>)`.
 
+Related to #6 Course enhancement with AI
+
 ## Method and limits
 
 | Check | How | Result |
@@ -89,6 +91,7 @@ These are not decided in the audit; the rows say `owner decision`:
 
 - `<br>` in table cells and `{: … }` attribute markup versus the "no raw HTML in sources" rule (784 `<br>`, 78 `{:`). - [TODO] come back to it and find a way to replace with just natural readable text.
 - How review pages mark the word under review (italics, bold or nothing). - bold Done for class 3 (italics → bold). Classes 4 and 8–14 mark no word: the word under review must be chosen before it can be bolded.
+- class_13/2_adv/ - `Quick review: where do you find the -aṃ ending in Pāḷi grammar?` - the answer for that move to the footnote, so it is not visible at the beggining.
 
 Part 2 of the findings: new rows, not yet seen by the owner. Sections D–I follow.
 

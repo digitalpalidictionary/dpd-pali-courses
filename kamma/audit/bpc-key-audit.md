@@ -6,6 +6,8 @@ No file in `docs/` was modified. This is a findings list only.
 
 This file replaces the audit of 2026-11-11, which was written before `kamma/audit/audit-guide.md` existed and was read by parallel agents. It is the result of two passes over every slice by one reader: a fresh read by the guide's full checklist, and a re-check of every row of the old audit. A row that comes from the old audit ends its `Problem` with `(old <id>)`: Part 1 ids are written bare (`(old C9)`), Part 2 ids as `(old 4.1)`.
 
+Related to #6 Course enhancement with AI
+
 ## Method and limits
 
 | Check | How | Result |
@@ -710,4 +712,3 @@ The 51 flagged rows were read with their class. Those that are errors are rows a
 | `lit.` | 38 | classes 3–6, 8–12, 14, 15 |
 | root mark `･` | 1 729 | classes 5–15 |
 | root mark `×` | 78 | classes 5–15 |
-
