@@ -49,7 +49,7 @@ Final file: one table per category, `| Location | Current | Problem | Suggested 
 
 - **Location:** path relative to the source root plus line number(s), e.g. `class_17/5_cons_3.md:15`. For a single data file, the file name plus line (`patimokkha_word_by_word.tsv:5827`). For a second file in the same row, give its line number too, otherwise the excerpt check cannot confirm it.
 - **Current:** verbatim from the source, in backticks, so it can be grep-checked. Never paraphrase inside backticks. Use `…` to skip text. A table pipe is written `¦` in slice files and converted to `\|` by the merge.
-- **Suggested:** the fix, or `DPD lookup` / `verify` / `owner decision` when the fix is not known.
+- **Suggested:** the exact replacement text or value, so the owner can accept it without further research. Pointing at a problem is not enough: a finding without a concrete suggestion (`(?)`, "check this", "unclear") cannot be approved or applied. Use `DPD lookup` / `verify` / `owner decision` only when the fix really cannot be known from the sources, and say what must be looked up or decided. If no clear suggestion can be made, put the row under category H, not A–F.
 - **Conf.:** 1–10. Below 8 means "check before changing".
 
 ## Categories
