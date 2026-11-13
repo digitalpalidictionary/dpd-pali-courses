@@ -52,7 +52,7 @@ vi + √har + issa + tha \> viharissatha (you all will live)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd | bhav**issati** | he will be | bhav**issanti** | they will be |
 | 2nd | bhav**issasi** | you will be | bhav**issatha** | you all will be |
 | 1st | bhav**issāmi** | I will be | bhav**issāma** | we will be |
@@ -71,7 +71,7 @@ des**e** + **ssa** + āma \> des**essāma** (we will preach)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd | bhāve**ssati** | he will develop | bhāve**ssanti** | they will develop |
 | 2nd | bhāve**ssasi** | you will develop | bhāve**ssatha** | you will develop |
 | 1st | bhāve**ssāmi** | I will develop | bhāve**ssāma** | we will develop |

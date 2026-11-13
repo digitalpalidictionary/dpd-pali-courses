@@ -2,7 +2,7 @@
 
 ### Present Tense √as
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | atthi | he is | santi | they are |
 | 2nd | asi | you are | attha | you all are |
@@ -18,7 +18,7 @@ lit. not this I am
 
 ### Imperative √as
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | atthu | he must be | santu | they must be |
 | 2nd | āhi | you must be | attha | you all must be |
@@ -26,7 +26,7 @@ lit. not this I am
 
 ### Aorist √as
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | ās**i** | he was | ās**iṃsu**<br>ās**uṃ** | they were |
 | 2nd | ās**i** | you were | ās**ittha** | you all were |

@@ -2,7 +2,7 @@
 
 ### Present Tense √hū
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | ho**ti** | he is | ho**nti** | they are |
 | 2nd | ho**si** | you are | ho**tha** | you all are |
@@ -12,7 +12,7 @@
 
 ### Imperative √hū
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | ho**tu** | he must be | ho**ntu** | they must be |
 | 2nd | ho**hi** | you must be | ho**tha** | you all must be |
@@ -22,7 +22,7 @@
 
 ### Aorist √hū
 
-| | singular | plural | | |
+| | singular | | plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | aho**si** | he was | ahe**suṃ** | they were |
 | 2nd | aho**si** | you were | ahuva**ttha** | you all were |

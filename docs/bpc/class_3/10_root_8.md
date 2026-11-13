@@ -36,7 +36,7 @@ mantaya + ti \> mantayati (he advises)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd | so dhāre**ti** | he carries | te dhāre**nti** | they carry |
 | 2nd | tvaṃ dhāre**si** | you carry | tumhe dhāre**tha** | you all carry |
 | 1st | ahaṃ dhāre**mi** | I carry | mayaṃ dhāre**ma** | we carry |
@@ -45,7 +45,7 @@ mantaya + ti \> mantayati (he advises)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd | dhāraya**ti** | he carries | dhāraya**nti** | they carry |
 | 2nd | dhāraya**si** | you carry | dhāraya**tha** | you all carry |
 | 1st | dhāray**āmi** | I carry | dhāray**āma** | we carry |

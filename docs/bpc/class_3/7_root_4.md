@@ -36,7 +36,7 @@ sakko + ti \> sakkoti (he is able)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd | suṇā**ti** | he hears | suṇa**nti** | they hear |
 | 2nd | suṇā**si** | you hear | suṇā**tha** | you all hear |
 | 1st | suṇā**mi** | I hear | suṇā**ma** | we hear |

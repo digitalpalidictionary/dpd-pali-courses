@@ -22,7 +22,7 @@ And there are **3 persons**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| | singular | plural | | |
+| | singular | | plural | |
 | 3rd person[^7] | so vada**ti** | he speaks | te vada**nti** | they speak |
 | 2nd person | tvaṃ vada**si** | you speak | tumhe vada**tha** | you all speak |
 | 1st person | ahaṃ vad**āmi** | I speak | mayaṃ vad**āma** | we speak |
