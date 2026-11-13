@@ -16,3 +16,5 @@
 - 2026-11-05 [WORKFLOW] the "review.md evidence lets finalize skip re-running expensive checks" lesson is now its third near-duplicate (2026-11-04, 2026-11-05 x2) — a recurring pattern for /kamma:improve, not another copy here
 - 2026-11-13 [POSITIVE] review.md's findings table showed the one cross-audit conflict (okiranti translation in bpc vs bpc-key audit) was already fixed and re-merged, so finalize needed no re-run of verify_rows.py
 - 2026-11-13 [WORKFLOW] GitHub #6 is an umbrella "apply AI suggestions" issue, not a per-audit issue, so finalize skipped the comment-and-close step instead of closing it on an audit-only thread
+- 2026-11-13 [POSITIVE] review.md listed the CodeRabbit false positive (delimiter rows) with the cell-count evidence, so finalize needed no re-run of verify_rows.py or merge_audit.py
+- 2026-11-13 [WORKFLOW] GitHub #6 is again an umbrella issue; finalize skipped comment-and-close for this audit-only thread
