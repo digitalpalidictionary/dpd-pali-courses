@@ -52,7 +52,10 @@ If you have one, make sure you know the literal and figurative meaning of your P
 4. Additional Anki Decks:
     - [SBS Pāḷi English Recitations](https://sasanarakkha.github.io/study-tools/5-anki/1-sbs/1-sbs-vocab/)
     - [Pātimokkha Word by Word](https://sasanarakkha.github.io/study-tools/5-anki/2-patimokkha/1-patimokkha-word-by-word/)
+
+5. Useful Website:
     - [4nt DG](https://s.dhamma.gift)
+    - The Buddha's Words (local [SBS link](https://buddhas-words.sbs.rocks/home/index.html))
 
 ## Homeless work
 
@@ -62,5 +65,3 @@ If you have one, make sure you know the literal and figurative meaning of your P
 
 Optional:
 -   Find 2–3 of your favourite and most inspiring sentences from the Pāḷi Tipiṭaka.
-
-
