@@ -1,606 +1,713 @@
 # BPC key audit — `docs/bpc_key/`
 
-Date: 2026-11-10
-Scope: all 16 Markdown files under `docs/bpc_key/` (index + classes 1–15, 8 235 lines, 3 474 table rows).
+Date: 2026-11-13
+Scope: all 16 Markdown files under `docs/bpc_key/` (index + classes 1–15; 8 235 lines, 5 466 table rows, as counted by `mech_checks.py`).
 No file in `docs/` was modified. This is a findings list only.
+
+This file replaces the audit of 2026-11-11, which was written before `kamma/audit/audit-guide.md` existed and was read by parallel agents. It is the result of two passes over every slice by one reader: a fresh read by the guide's full checklist, and a re-check of every row of the old audit. A row that comes from the old audit ends its `Problem` with `(old <id>)`: Part 1 ids are written bare (`(old C9)`), Part 2 ids as `(old 4.1)`.
 
 ## Method and limits
 
 | Check | How | Result |
 | --- | --- | --- |
-| Project verifier | `uv run python scripts/verify_key.py` | Exit 0. Numbering, POS vocabulary, grammar vocabulary, root format, stray characters: 0 errors. Word coverage: 465 warnings (sandhi and compound splits; the real gaps are listed in Part 2) |
-| Table structure, characters, whitespace, punctuation | Scripted over all 15 class files | Section A |
-| Key sentence vs exercise sentence | Scripted diff of all 438 items against `docs/bpc_ex/` | Section B |
-| Sutta links | `uv run python scripts/check_sutta_links.py docs/bpc_key` | 219 links / 104 pages, all pass |
-| Citation labels | Key vs exercise label and URL, scripted; wording vs source for part of the folder | Section C |
-| Root column | Every Root cell compared with `dpd.db` (root, verb mark, group, sign, gloss) | Section D |
-| Tag notation | Scripted tally of every POS / Grammar combination | Section E |
-| Word forms vs DPD | `verify_key.py --dpd` (advisory), report written outside the repo | Section F |
-| Line-by-line reading | All 8 235 lines, by seven parallel reader agents; their main findings were then re-checked against the source lines and DPD | Part 2 |
+| Mechanical checks | `uv run python kamma/audit/scripts/mech_checks.py docs/bpc_key --links-out kamma/audit/scratch/bpc-key/links.txt` (footnotes per file: the folder has one definition) | Exit 0. 0 table column mismatches, 0 index/H1 differences, footnotes 1 ref / 1 def, 2 stray-character lines (Mechanical detail, M1) |
+| Key sentence vs exercise sentence | `uv run python kamma/audit/scripts/key_vs_ex.py docs/bpc_key docs/bpc_ex --glob "*_class.md"` | 465 items compared; 71 differ after normalising quotes, bold, `<br>` spacing and `ṁ`; 97 label or `<br>`-spacing differences (M2) |
+| Project verifier | `uv run python scripts/verify_key.py --course bpc --warnings --dpd --report kamma/audit/scratch/bpc-key/verify-key-dpd.txt` | Exit 0. Numbering, POS vocabulary, grammar vocabulary, root format, stray characters: 0 errors. Word coverage: 465 warnings (M3) |
+| Word forms vs DPD | The `--dpd` report of the same run (advisory) | 4 324 rows: 1 123 confirmed, 2 087 ambiguous, 1 079 skipped, 17 IMPOSSIBLE, 12 NOT-FOUND, 22 ROOT-MISMATCH. The 51 flagged rows were read with their class (M4) |
+| Sutta links | `uv run python scripts/check_sutta_links.py docs/bpc_key` | 219 links / 104 pages, all pass (exit 0). The folder has no other external links |
+| Full read of every file | Line by line, by the main session, 14 class slices and 1 cross-file slice; the guide's "What to look for" list, categories A–I and the key checks (tag against the sentence, Root column, gloss against translation, translation against sentence, the same word tagged in two ways) applied to each | Done; every slice file ends with its checklist note |
+| Re-check of the old audit | Every row of the old Part 1 and Part 2 re-checked against the source | 369 old ids all accounted for: in a row here or in the dropped list (see "Old rows") |
+| DPD lookups | `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`, run once over the 107 lemmas the reader had listed as suspicious | 104 rows waited for it: 30 dropped because DPD agrees with the text, 74 finalised against the DPD entry. 6 lemmas are not DPD headwords: `accagacchati`, `bahujanahita`, `bāhuppacālaka`, `ceto`, `panuda`, `uccāsoṇḍa` |
+| Excerpt check | `uv run python kamma/audit/scripts/verify_rows.py docs/bpc_key …` on every slice file and on this file: each backtick excerpt in `Current` searched in the cited file within 2 lines of the cited line | 488 excerpts pass, 0 fail (rows with no source file found: 0) |
+| Merge | `uv run python kamma/audit/scripts/merge_audit.py kamma/audit/scratch/bpc-key/merge.toml` | This file |
 
 Not verified:
 
-- Pāli grammar findings in Part 2 rest on knowledge of the language plus DPD lookups for gender, part of speech and root. Each carries a confidence score (1–10). Below 8, check DPD or the text before changing anything.
-- Canonical wording was compared with the local SuttaCentral text only for classes 1–4, 7–8 and 14. For the other classes, rows that depend on a reading say "check text". CST, which the course may follow, was not consulted at all.
-- The link checker proves that a page and anchor exist, not that the sentence is in that sutta. Only the citations listed in section C were examined; the rest are unchecked.
-- Section D accepts a Root cell if it matches any DPD headword the form resolves to, so a root that belongs to a homonym of the word in the sentence can pass unnoticed (D4 and 7.14 were found by reading, not by the script). 35 forms are not in DPD's lookup table and were not checked.
+- The DPD lookups were deferred to one run, on the owner's instruction: the reader listed what looked suspicious, and only those 107 lemmas were looked up. A tag, root or gloss that did not look suspicious rests on the reader's knowledge of the language. Each row carries a confidence score (1–10). Below 8, check DPD or the text before changing anything.
+- `dpd_lookup.py` prints headwords, not inflection tables, and it does not print the `･` / `×` mark of the Root column. Rows that say `DPD lookup` name what was not confirmed.
+- The number after a root in the lookup output is DPD's homonym number; the number in the key's Root column is the root group. Root findings were judged from the root and the conjugational sign.
 - The 2 087 "ambiguous" rows of the DPD form check were not reviewed one by one.
+- `verify_key.py` cannot align class 15 word by word: the class is laid out in paragraphs, and 209 of the 465 word-coverage warnings come from it. Class 15 was read in full, but it has no scripted word check behind it.
+- Canonical readings were not compared with a text edition. Rows that depend on a reading say `verify`.
+- The link checker proves that the page and anchor exist, not that the sentence is in that sutta.
+- `docs/bpc_ex/` was read only where it differs from the key (M2). Exercise-side errors are noted, not listed in full.
+- Translation rewordings in section C are suggestions, not corrections.
 - Rendered output (site, PDF, DOCX) was not built.
-- `docs/bpc_ex/` was read only where it differs from the key. Exercise-side errors found on the way are in section B.
+
+Paths below are relative to `docs/bpc_key/`. In `Current`, `\|` is a table pipe in the source.
 
 ## Summary
 
-| Section | Rows |
+| Category | idx–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | cross | Total | Conf. ≥ 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A. Pāli and grammar content errors | 3 | 1 | 6 | 6 | 3 | 10 | 9 | 11 | 10 | 12 | 10 | 12 | 13 | 6 | 4 | 116 | 35 |
+| B. Tables, paradigms and lists that disagree with each other or themselves | 1 | 1 | 4 | 4 | 6 | 3 | 3 | 5 | 3 | 2 | 3 | 2 | 1 | 1 | 0 | 39 | 15 |
+| C. Translation and gloss problems | 6 | 3 | 8 | 13 | 8 | 9 | 10 | 7 | 15 | 9 | 8 | 10 | 11 | 8 | 1 | 126 | 12 |
+| D. English typos and grammar | 6 | 5 | 6 | 5 | 4 | 7 | 8 | 6 | 3 | 4 | 2 | 4 | 3 | 1 | 2 | 66 | 30 |
+| E. Markdown defects that affect rendering | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 6 | 0 |
+| F. Convention drift | 3 | 2 | 1 | 1 | 2 | 5 | 1 | 3 | 6 | 7 | 6 | 2 | 12 | 3 | 27 | 81 | 14 |
+| G. Links | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 1 | 0 | 2 | 0 | 1 | 3 | 0 | 1 | 11 | 6 |
+| H. Data to re-verify (forms, references, counts) | 4 | 2 | 2 | 1 | 7 | 2 | 3 | 2 | 1 | 1 | 1 | 5 | 1 | 0 | 2 | 34 | 3 |
+| I. Further details on the material under review | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 3 | 5 | 2 |
+| **Total** | **24** | **15** | **29** | **30** | **32** | **36** | **35** | **35** | **38** | **38** | **30** | **36** | **44** | **21** | **41** | **484** | **117** |
+
+A row often covers several locations, so the number of places to edit is higher than the row count. The `cross` column holds the folder-wide findings and the old Part 1 rows that do not belong to one class.
+
+Overall confidence: 9/10 that the quoted text is where the row says (scripted). 8/10 for categories D, E, F and G (visible in the source). 7/10 for A, B, C and H as a group: DPD was consulted for the tags, roots and glosses that looked doubtful, but no text edition was. Use the per-row score.
+
+## Owner decisions carried over
+
+None. The owner has not reviewed the old key audit, so every old row was re-checked like a new finding.
+
+One decision from the BPC lesson audit was applied here: old row 5.1 (the split of `mā pamādattha`) is dropped, because the owner rejected the same point there (bpc A13) and the key follows the lesson. The owner may want to confirm this.
+
+## Old rows: mapped, corrected, dropped
+
+The old audit had its own scheme (Part 1, scripted cross-file checks A–F; Part 2, reading notes numbered by class). Every old row is now in one of the guide's categories A–I and keeps its old id in the `Problem` cell. All 369 old ids are accounted for.
+
+Dropped (9), each with its reason:
+
+| Old id | Reason |
 | --- | --- |
-| A. Structure and Markdown | 17 |
-| B. Key sentences against the exercises | 15 |
-| C. Citations | 20 |
-| D. Root column against DPD | 25 |
-| E. Notation drift | 19 |
-| F. Advisory DPD form check | 11 |
-| Part 2. Line-by-line reading (classes 1–15) | 262 |
+| A1 | Not a finding: it records that numbering, column counts and the tag vocabulary are clean (`mech_checks.py` confirms 0 table column mismatches). |
+| B4 | The exercise gives the sandhi-resolved form (`"samaṇā amha" iti`) by design, as in other classes; the key table rows already follow it. The `amha-` hyphen is kept as old 4.3. |
+| E1 | Not a defect: the empty header row on follow-up tables is the same across the folder and is how the build renders them. |
+| F11 | No change needed: the old row itself says "Leave"; DPD's reflexive-aorist reading of `avoca` does not make the plain `aor` tag wrong for a beginner key. |
+| 5.1 | The owner rejected the same point in the BPC lesson audit (bpc A13); see above. |
+| 6.7 | DPD supports the text: dakkhati 1 is `pr` "sees" (the future is dakkhati 2), so `pr.3rd.pl`, "see" is a DPD reading. |
+| 6.8 | DPD supports the text: atthi 1.2 is `pr 3rd pl of atthi`, "there are". |
+| 6.9 | No change needed: DPD supports the tag (garu 5 masc "respect"); the old row itself suggested "Leave". |
+| 11.5 | DPD supports the text: `opanayika` is the DPD headword; the CST spelling `opaneyyiko` is a variant reading, not an error. |
 
-A row often covers several locations, so the number of places to edit is several times higher.
+Corrected by the DPD lookup (same id, different content):
 
-Overall confidence in the audit: 9/10 for sections A, B, D, E (scripted and reproducible), 8/10 for C, 7/10 for Part 2 (missing: a text check of the "check text" rows against the edition the course follows, and a native-level review of the translation rewordings, which are suggestions, not corrections).
+- 7.14 (`gāhaṃ`, 7:333): the old row wanted the root `√gāh`. DPD derives every `gāha` from `√gah`, so the Root cell stands; what is doubtful is the gloss "hiding place".
+- D7 (`virājiya`, 14:651): the old row wanted a separate root "colour". DPD has the same √raj with the causative sign `*e`; only the sign is wrong.
+- 13.8 (`nirujjhamānā`, 13:283): DPD does call `nirujjhati` a passive, so the row is now about the two classes disagreeing and the gloss "is ceased".
+- 14.6 (`acchejji`, 14:802): the tag `caus.pass` follows DPD; only the MN2 reading is left to verify.
+- 12.10: `yena ¦ ind ¦ adv` (12:110) is a DPD reading; the row now cites only `sarena` (12:492).
+- 12.7 (`parābhavato`, 12:657): the tag is a DPD reading; tag and gloss still disagree.
+- A14: only 6:175 has `..`; 5:413, 10:636 and 11:341 have `...`.
 
-Highest-value fixes, in order:
+## Fresh findings dropped after the DPD lookup
 
-1. Wrong or impossible grammar tags a student will copy: `9:334` (9.5), `6:548` (6.6), `9:182` (9.6), `2:221-222` (2.3, 2.4), `4:204` (4.7), `11:170-172` (11.7), `8:376` (8.4), `14:807` (14.7), `15:192`/`15:230` (15.3), `13:88` (13.7), `12:462`/`12:466` (12.1).
-2. Sentence, table and translation out of step: `6:28` (6.1), `5:584` (5.2), `13:537` (13.1), `9:59` (9.1), `14:478` (14.18), `14:453` (14.1), `5:551` (5.1), `15:155` (15.1).
-3. Translations that say the opposite or lose the point: `13:633` (13.16), `10:445` (10.8), `14:585` (14.19), `9:191-192` (9.13).
-4. Wrong citations: C5, C6, C16, C17, C18, and the key/exercise disagreements C1–C4, C7, C8.
-5. Wrong roots: D1 (`bhante`, 12 rows), D3, D4, D5, 7.14.
-6. Stray characters: A5 (Cyrillic "с"), A6 (`ṁ`), F1, F3.
-7. Section E as a single normalisation pass, ideally enforced by extending `verify_key.py`, since its tag vocabulary currently accepts all the variants.
+27 fresh rows were written as "to confirm" during the read and dropped when DPD agreed with the text. They are listed here so that the same doubts are not raised again:
 
----
+- Genders that agree with DPD: `cetas` / `ceto` masc (7:202, 12:194, 14:462, 15:351), `mano` masc (14:225), `ayo` masc (14:74), `thālaka` masc, `vassa` "rainy season" masc, `saṅgara` nt, `kucchi` masc, `pātimokkha` masc (DPD has masc and nt), `addhāna` nt.
+- Roots and signs that agree with DPD: `pavattar` √vac, `paṭighāta` and `paṭigha` √ghaṭ `*e`, `sāraṇīya` √raj ya, `sakka` "Sakyan" √sak, `ādeti` √ādā ya, `niddā` √dā ya, `ajjhosita` √sā, `aṅga` √añj `*e`, `saṃyojana` √yuj `*e`, `sammodati` √mud `*a`.
+- Tags that agree with DPD: `vijjati` as a passive, `sañcicca` as `ind ¦ adv`.
+- Notation: `jīvitu'kāmo`, `amaritu'kāmo`, `gantu'kāmo` (9:433, 434, 452) and `bhottu'kamyatā` (13:228). DPD builds these from the infinitive in `-tuṃ`, so the mark stands for the dropped `ṃ`.
 
-## Part 1 — Cross-file checks (scripted)
+The starred sign `\*a` (9 cells, e.g. 5:83, 8:215, 10:473, 14:665) is DPD's own notation for a strengthened root vowel and is not reported. The passive sign `ya` after the root group (`√labh･1 ya`, 22 rows) is the key's convention and is not reported either.
 
-Locations are `N:LINE` = `docs/bpc_key/N_class.md`, line `LINE`.
+## Decisions for the owner
 
-### A. Structure and Markdown
+These are not decided in the audit; the rows say `owner decision`:
 
-| # | Location | Finding | Suggested |
-| --- | --- | --- | --- |
-| A1 | all files | Numbering, column counts and tag vocabulary are clean: 0 numbering gaps, 0 column-count mismatches, every item has a table and a bold translation, no unclosed bold. | — |
-| A2 | `1`, `15` | No `## Class N Extra` section (classes 2–14 all have one). | Confirm intended |
-| A3 | `3:1-2` | No blank line between the `# Class 3 Key to Exercises` heading and item 1 (every other file has one). | Add blank line |
-| A4 | `11:527` | Whitespace-only line (single space) before the Extra heading. Only trailing whitespace in the folder. | Empty line |
-| A5 | `13:412` | `ye сa dūre`: the "с" is Cyrillic U+0441, not Latin "c". Breaks search and DPD lookup. | `ye ca dūre` |
-| A6 | `11:511`, `11:523`, `12:437`, `12:448`, `12:462`, `12:466` | Niggahīta written `ṁ` (6 times) against `ṃ` everywhere else. | `ṃ` |
-| A7 | `6:11`, `9:153`, `10:11`, `12:103`, `13:47`, `13:93` (table); `3:57`, `3:62`, `4:211`, `9:392`, `10:293`, `11:611`, `14:715`, `14:735`, `15:251-257`, `15:343`, `15:364`, `15:405`, `15:419` (text) | Curly opening quote `‘` (25 in the folder) paired with a straight `'` close, or used as an elision mark (`‘ti`, `‘pi`, `jānāmī‘ti`). No `’` exists in the folder. `14:735` has a doubled `‘‘`. | Straight `'` throughout |
-| A8 | `15:25`, `15:112`, `15:191` | A sentence (`katame pañca?`, `katamehi tīhi?`, `katamehi pañcahi?`) is placed as the first table row with four empty cells. | Move above the table |
-| A9 | `8:568`, `8:570` | `ca` rows with empty POS and empty Grammar. | `ind` / `conj` |
-| A10 | `10:678`, `10:680` | `(or)` entered in the Pāli column as a pseudo-word to carry an alternative parse. | Use the in-cell `(or)` pattern of `10:377` |
-| A11 | 64 table rows, e.g. `6:292`, `7:462`, `9:79`, `10:272`, `10:519-528`, `11:466`, `11:469`, `13:207`, `13:247`, `13:280`, `14:267`, `15:183`, `15:243`, `15:360`, `15:424` | Raw `<br>` inside table cells (POS, Grammar and Pāli columns). The project rule is no raw HTML in sources. The per-item `<br>` between citation and sentence is a separate, folder-wide convention. | Decide; if kept, document it |
-| A12 | `9:68`, `9:103`, `10:443`, `10:659`, `11:68`, `11:76`, `11:212`, `11:220`, `12:131`, `12:133`, `12:161`, `5:9`, and class 15 throughout (`15:27`, `15:45`, `15:65`, `15:84`, `15:160`, …) | Sentence punctuation kept inside the Pāli cell (`samudayāya.`, `tumhākaṃ,`, `kho,`). Classes 2–8 and 13 strip it. | Strip |
-| A13 | `8:538`, `9:95`, `13:141` | Space before punctuation (`non-disappearance ,`; `pañha-vyākaraṇāni .`; `jātiyā … ,`). | Remove space |
-| A14 | `5:413`, `6:175`, `10:636`, `11:341` | Two dots `..` where an ellipsis is meant (the folder has 56 `…`); `12:281` has `….`; `12:437` and `3:318` use three ASCII dots. | `…` |
-| A15 | 438 items | The gap between citation, `(simpl)` and `<br>` is written five ways: `) <br>`, `)<br>`, `) (simpl) <br>`, `) (simpl)<br>`, `)(simpl) <br>` (`11:274`). | One form |
-| A16 | translations | 82 translations end without final punctuation and 59 start lower-case. Most are deliberate fragments of a split sentence, but the choice is not uniform inside one item (e.g. `10:23` "Or knowing" vs `10:32` "or, not seeing"). | Pick a rule for split sentences |
-| A17 | `6:50`, `13:74`, `14:123`, `15:3` | Notes or sub-headings (`This is a common Pāli idiom.`, `passive verbs:`, `Potential Participles`, `Translation Assignment`) formatted in bold exactly like a sentence translation. | Plain text or a heading |
+- `<br>` in table cells versus the "no raw HTML in sources" rule (614 in the folder).
+- Elision marks inside one word where a sandhi consonant is inserted or nothing is dropped: `añña'd'atthu` (5:481), `yāva'd'eva` (7:370), `eta'r'ahi` (11:638, 13:103), `atthaṅ'gate` (10:181), `samanta'pāsādiko` (12:369). DPD writes each as one word. If the marks are a deliberate notation for sandhi, they can stay, but the rule should be stated once in the key.
+- `kira` in SN10.8 (2:8): "it is said" or "truly". Both are DPD senses.
+- One rendering for recurring terms (`brāhmaṇa`, `dhammavinaya`, `samaṇa`, `mettā`, "Venerable sir").
+- Phrase items with no source reference (class 1, and 13 items in class 2), and commentary references with no link (5:49, 8:101).
+- AN3 labels run one higher than their link anchors (AN3.66 → `#an3.65`, and five more): the labels seem to follow the VRI numbering and the anchors SuttaCentral's. Decide which numbering the label should show.
 
-### B. Key sentences against `docs/bpc_ex/`
+## A. Pāli and grammar content errors
 
-Compared after stripping bold, footnotes, quote style and spacing. 438 items; 0 items missing on either side. Differences in sandhi apostrophes only (about 30 items, e.g. `10:3`, `13:97`, `14:136`) are not listed.
-
-| # | Key | Exercise | Difference | Suggested |
+| Location | Current | Problem | Suggested | Conf. |
 | --- | --- | --- | --- | --- |
-| B1 | `4:24` | `bpc_ex/4:26` | Word order: key `abhisaṅkharoti kāyena kusalaṃ`, exercise `kāyena kusalaṃ abhisaṅkharoti`; exercise is marked `(simpl)`, key is not. | Align |
-| B2 | `4:269` | `ex/4:253` | Exercise has `saccaṃ mayaṃ bhavantaṃ…`; key drops `mayaṃ`. | Align |
-| B3 | `4:34` | `ex/4:37` | Key ends `taṇḍulā'ti`, exercise `taṇḍulā (honti)`. | Align |
-| B4 | `4:113` | `ex/4:110` | Key `samaṇā amhā'ti`, exercise `"samaṇā amha" iti`; key table row is `amha-` (`4:118`). | Align |
-| B5 | `4:304`, `5:601`, `10:325`, `13:31` | `ex/4:286`, `ex/5:556`, `ex/10:275`, `ex/13:22` | `(simpl)` on one side only. | Align |
-| B6 | `5:3` | `ex/5:3` | Exercise `viññāṇaṃ, bhikkhave, na (hoti) tumhākaṃ`; key `viññāṇaṃ na tumhākaṃ`. | Align |
-| B7 | `6:3` | `ex/6:3` | Different sentence end (exercise adds `"bhadante"ti`) and different citation, see C1. | Align |
-| B8 | `9:59` | `ex/9:45` | Key adds `katamāni tīṇi?`, which is neither in the exercise nor in the key's table or translation. | Drop from the key sentence, or add rows |
-| B9 | `9:95` | `ex/9:73` | Key `pañha-vyākaraṇāni`, exercise `pañhabyākaraṇāni`. | One spelling |
-| B10 | `9:681` | `ex/9:633` | Key `paramaṃ`; exercise has the typo `paraṃaṃ` (exercise-side error). | Fix exercise |
-| B11 | `10:136` | `ex/10:113` | Key `na ca kiñci loke`, exercise `na kiñci loke`. | Align |
-| B12 | `11:530` | `ex/11:444` | Key `sammāsaṅkappagocarā`, exercise `sammāsaṅkappe gocarā`. | Align |
-| B13 | `12:377` | `ex/12:312` | Key `ko ca āhāro`; exercise has the typo `ahāro` (exercise-side error). | Fix exercise |
-| B14 | `13:31` | `ex/13:22` | Key `gaccheyyāmi'ti`, exercise `gaccheyyāmī'ti`. | `gaccheyyāmī'ti` |
-| B15 | `10:539` | `ex/10:477` | Exercise uses `ṁ` twice where the key has `ṃ` (exercise-side). | Fix exercise |
-
-### C. Citations
-
-All 219 `s.dhamma.gift` links pass `scripts/check_sutta_links.py`. That proves the page and anchor exist, not that the sentence is there.
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| C1 | `6:3` vs `ex/6:3` | key `DN2.9`, exercise `SN22.59` | Same item, two sources. | Check the text; make both agree | 8 |
-| C2 | `6:39` vs `ex/6:35` | key `DN16.7`, exercise `DN16.17` | Label differs by a digit. | Make both agree | 8 |
-| C3 | `6:52` vs `ex/6:47` | key `VIN1.2.12` → `pli-tv-bu-vb-ss12`; exercise `VIN PAT SA 12` → `pli-tv-bu-pm4` | Same rule cited to two different texts and in two label styles. | Make both agree | 8 |
-| C4 | `6:68` vs `ex/6:64` | key `MN152`, exercise `MN19` | The closing formula is in both suttas; the two files should name the same one. | Make both agree | 8 |
-| C5 | `6:82` vs `ex/6:79` | key `SNP9` → `#snp1.9`; exercise `SNP8` → `#snp1.8` | `ye keci pāṇabhūtatthi` is the Mettasutta, Snp 1.8; the key itself cites it as `SNP8` at `6:353`. | Key → `SNP8`, `#snp1.8` | 9 |
-| C6 | `6:276` vs `ex/6:286` | key `DHP277` → `#dhp273`; exercise `DHP185` → `#dhp179` | `sabbe dhammā anattā` is Dhp 279. Both files are wrong, in different ways. | `DHP279` in both (anchor `#dhp273`) | 9 |
-| C7 | `14:125` vs `ex/14:109` | key `AN3.83` → `#an3.82`; exercise `AN4.73` | Two different suttas. | Check the text; make both agree | 7 |
-| C8 | `11:17` vs `ex/11:16` | key `VIN0` (no link); exercise `[VIN1.0](…pli-tv-bu-vb-pj1)` | Key lost the link and has a truncated label. Same label, also unlinked, at `9:3`. | Use the exercise's form in both | 9 |
-| C9 | `2:68`, `3:308`, `5:49`, `8:101`, `8:331`, `13:373`, `14:302` | `VIN PAT NID nidānuddeso`, `VIN`, `UD-a 43`, `DNa2.3`, `VIN PAT SA`, `APA 3`, `VIN PAT NID` | Unlinked references; `VIN`, `VIN PAT SA` and `APA 3` are too vague to locate. Commentary references (`UD-a`, `DNa`) cannot be linked on the site. | Add precise references where a link exists | 7 |
-| C10 | `1:3`, `2:102-311` (13 items) | no citation | Class 1 item and 13 class 2 phrase items carry no source at all. | Confirm intended | 5 |
-| C11 | `9:526`, `9:550`, `10:312`, `13:477`, `2:14` | `TH251`, `TH257` → `#thag16.1` | Label gives the thera number, anchor always points to the first poem of the nipāta (Raṭṭhapāla is Thag 16.4, Pārāpariya 16.10). Same pattern as the Dhp anchors (vagga start). | Confirm the site has no finer anchor | 5 |
-| C12 | `11:61` | `[ITI111](…/kn/iti/index.html)` | Only KN link with no anchor. | Add the anchor if the site has one | 6 |
-| C13 | labels | `DHP012`, `DHP026`, `DHP085`, `DHP086` vs `DHP130`, `DHP277` | Zero-padded and unpadded Dhp numbers. | One form | 6 |
-| C14 | labels | `VIN1.2.12`, `VIN1.0`, `VIN0` vs `VIN PAT SA 12` | Two label systems for Vinaya (7 vs 52 uses). | One form | 6 |
-| C15 | `6:28`, `6:199`, `13:269`, `7:154` | `DN11.6`, `AN10.71`, `MN10.18`, `MN10.16` | Readers could not place the quoted wording in the cited sutta (saṅgha formula in DN11; `thero bhikkhu … piyo ca hoti` is AN5 wording; the expanded truths passage and `na maraṇadhammā assāma` are in DN22, and in MN10 only in the Burmese edition). | Verify | 4 |
-| C16 | `14:244` | `[DN16.11](…/dn/dn16/index.html)` | `evañca kho eso, bhikkhu, pañho pucchitabbo` is in DN11 (Kevaṭṭa), confirmed in the local SuttaCentral text. Label and URL are both wrong. | `[DN11](…/dn/dn11/index.html)` | 9 |
-| C17 | `4:367` | `[DHP183](…#dhp179)` | `nibbindati dukkhe, esa maggo visuddhiyā` is Dhp 277–279 (file `dhp273-289` in the local SuttaCentral text). Label and anchor are both wrong. Same verse as C6. | `DHP277`, `#dhp273` | 9 |
-| C18 | `4:200` | `DHP153` | `gahakāraka diṭṭhosi` is verse 154; `10:744` cites verse 153 (`anekajātisaṃsāraṃ`) correctly. | `DHP154` | 7 |
-| C19 | `2:236`, `2:245`, `4:259`, `3:166` | `SN12.41`; `MN39 … aparena samayena buddho`; `SN46.53`; `MN2.4 … paṭisevāmi` | Partial text searches did not find the wording in the cited sutta (`vinipātaṃ nirayaṃ` is in SN12.70; MN39 has `baddho`, not `buddho`; the SN46 phrase is in 46.52 and 46.54; MN2 has 3rd person and the item is not `(simpl)`). Leads, not confirmed. | Verify | 4 |
-| C20 | labels | `DN16.21` (used for two passages at `9:233`, `9:267` and again at `14:406`), `DN23.20`, `DN14.4`, `MN2.2`, `MN2.8`, `DN22.1`… | The sub-numbers after DN/MN do not match SuttaCentral segment numbers, and the scheme is not stated anywhere. 47 labels carry one. | State the numbering scheme | 5 |
-
-### D. Root column against the DPD database
-
-The Root column follows DPD (`root` + verb mark `･`/`×` + group + the headword's sign + root gloss). Each of the 1 772 non-empty Root cells was compared with every DPD headword the word form resolves to (`dpd.db` of 2026-11-09). 1 633 match exactly; 35 forms are not in the lookup table. The rest:
-
-| # | Location | Current | DPD | Kind | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| D1 | `6:488`, `7:473`, `8:600`, `9:349`, `9:460`, `9:651`, `10:308`, `11:517`, `12:482`, `13:127`, `15:263`, `15:268` | `bhante` → `√bhad×1 a (be good, lucky)` | `bhante`: `√bhū･1 a (be, become)` | Wrong root (12 rows) | 8 |
-| D2 | `6:291`, `9:285`, `9:466` | `maggo/maggaṃ` → `√magg･8 \*e` | `√magg･1 a (seek, search)` | Group and sign | 8 |
-| D3 | `9:363` | `saggaṃ` → `√gam･1 a (go)` | `sagga`: `√sar×1 a (shine)` or `√sajj･1 a` | Wrong root (copied from the `sugatiṃ` row above) | 9 |
-| D4 | `10:467` | `sametu` "let him agree" → `√sam･3 \*e (be calm, tired)` | `sameti 2.2` "agrees": `√i･1 a (come, go)`; `√sam` is `sameti 1.1` "calms" (correct at `13:505`) | Wrong homonym | 9 |
-| D5 | `10:454` | `ādiyamāno` → `√dā･1 a (give)` | `√ādā･3 ya (take, seize)` (as in the same key at `10:152`) | Wrong root | 9 |
-| D6 | `10:160`, `10:166` | `paritassati`, `aparitassaṃ` → `√tas･3 ya (be agitated)` | `√tas･1 ya (tremble, fear)` | Group and gloss | 8 |
-| D7 | `14:651` | `virājiya` → `√raj･3 ya (desire)` | `√raj･1 \*e (colour)` | Group, sign, gloss | 7 |
-| D8 | `14:562`, `14:571` | `sāditabbaṃ`, `sādiyeyya` → `√sād･1` | `√sād･8` | Group | 8 |
-| D9 | `15:181`, `15:243` | `anavajjā` → `√vad･1 a (say, speak)`; `ananuvajjā` → `√vad･8 \*e (salute, praise)` | DPD has it the other way round (`anavajja` √vad 8, `ananuvajja` √vad 1), and `15:241`/`15:183` follow DPD. The same word therefore gets two roots inside one item. DPD's own split of the two words is worth raising upstream. | Inconsistent | 8 |
-| D10 | `8:577`, `10:535` | `uparujjhati`, `nirujjhati` → `√rudh･2 ṃa` | `√rudh･2 ya` (as at `8:572`, `13:283`) | Sign | 8 |
-| D11 | `11:495` | `vimuttasmiṃ` → `√muc･2 ya` | `√muc･2 ṃa` | Sign | 8 |
-| D12 | `14:774` | `bhedanāya` → `√bhid･2 ṃa` | `√bhid･2 \*e` | Sign | 7 |
-| D13 | `7:270`, `8:57` | `anāgataṃ`, `upasaṅkami` → `\*e` | `√gam･1 a`, `√kam･1 a` | Sign (not causatives) | 8 |
-| D14 | `5:45` | `gamissāmi` → `√gam･1 \*e (go)` | `gamissati`: `√gam･1 a`. Only resolves to `\*e` through an unrelated causative headword. | Sign | 7 |
-| D15 | `10:490` | `uddharāpeyya` → `√dhar･1 a` | `√dhar･1 \*āpe` | Sign | 8 |
-| D16 | `9:119`, `15:383`, `9:632` | `vicikicchituṃ`, `vicikicchati`, `jegucchī` → sign `cha` | sign `sa` | Sign | 7 |
-| D17 | `14:378` | `sandissanti` → `√dis･1 iya` | `√dis･1 ya` | Sign | 7 |
-| D18 | `13:297`, `14:267`, `14:370`, `14:476`, `14:835`, `14:837`; `14:372` | `ṃa + iya`, `\*e + iya`, `\*āpe + iya`; `\*e iya` | `ṃa iya`, `\*e iya`, `\*āpe iya` (no `+`) | Notation: seven compound signs, six with `+`, one without | 9 |
-| D19 | `14:294`, `14:296` | `√sic･2 ṃa (sprinkle, pour)+ ṃa \> siñca+eyya`; `√sic･2 ṃa + \*āpe (sprinkle, pour)\> siñcāpe (caus)+eyya` | `√sic･2 ṃa (sprinkle, pour)` | Free-form derivation inside the Root cell; only two cells in the folder do this | 8 |
-| D20 | `9:177`, `10:440`, `11:184`, `12:526`, `13:513` (`samaṇo` `√sam･3`); `11:253`, `12:192`, `13:390`, `15:218` (`mettā` `√mitt･1`); `12:571` (`bhusaṃ`) | `･` | DPD now marks these roots `×` (no verb) | Verb mark out of date (10 rows) | 6 |
-| D21 | 17 rows: `5:66`, `5:158`, `8:51`, `8:262`, `8:476`, `8:620`, `9:21`, `9:560`, `11:170`, `11:172`, `11:336`, `11:640`, `12:492`, `13:423`, `13:425`, `14:463`, `14:484` | `×` | DPD now marks these roots `･` | Verb mark out of date | 6 |
-| D22 | 65 rows, e.g. `5:68`, `7:461`, `8:622`, `11:309`, `12:346`, `14:277` | `(be mad, intoxicated)`, `(cut, steal)`, `(cut)`, `(breath, blow)`, `(destroy, exhaust)` | `(be mad, be intoxicated)`, `(cut, divide)`, `(breathe, blow)`, `(exhaust, destroy)` | Root gloss differs from current DPD wording. Mostly DPD rewording since the keys were written; `(cut, steal)` and `(breath…)` are real improvements to pick up. `√chid` appears with three glosses in the keys (`cut` / `cut, steal`). | 7 |
-| D23 | `5:120`, `5:132`, `10:195-243` | `√sas･1 a (breath)` | Same in DPD (`√sas 1 … breath`) | DPD-side: noun where a verb gloss is expected. Raise upstream. | 6 |
-| D24 | folder | `×` vs `･` | DPD `root_has_verb` mark | The meaning of `×` is not explained anywhere in `docs/bpc`, `docs/bpc_ex` or `docs/bpc_key`. | 8 |
-| D25 | many | empty Root cell | — | The same word has a root in one row and none in another: `ānanda` (`5:81` vs `6:45`), `medhāvī` (`6:317` vs `6:529`), `asi`/`attha` (`5:579`, `5:559`) vs `atthi` (`6:88`), `saṅgha` (`5:420` vs `6:255`), `atthi`/`assa`/`assu` (`11:35`, `11:228-232`, `12:634` vs `12:529`, `11:115`), `khamo` (`15:44` vs `15:36`), `dukkhaṃ` (`15:372` vs `15:368`), `samannāgatā` (`15:235` vs `15:104`), `kulāni` (`13:347` vs `13:367`), `oḷāriko` (`12:143` vs `11:331`), `bhikkhu`, `cittaṃ`, `bhavissati`, `n'atthi` in class 10 (`10:180`, `10:275`, `10:286-289`, `10:330`, `10:338`, `10:577`, `10:656`). | 7 |
-
-Homonymous roots (`√har` carry / take / live, `√vid` ×4, `√dis` ×2, `√car` ×2, `√as` be / eat, `√kaṅkh` ×2) look like conflicts in the key because DPD's homonym number is dropped, but each matches DPD and is not an error.
-
-### E. Notation drift across the folder
-
-Counts are table rows. None of these is wrong in itself; each is the same thing written several ways.
-
-| # | Item | Variants found | Suggested |
-| --- | --- | --- | --- |
-| E1 | Table header | Full header on the first table of each section only; an empty header row on the other 543 tables. Consistent, but relies on a build hook. | Confirm intended |
-| E2 | Governed case | round `(+acc)` ×39, square `[+acc]` ×36, bare `+acc` ×4; sometimes after a `<br>`, and in the English column at `4:185` | One form |
-| E3 | Absolute constructions | `(loc abs)` / `(gen abs)` ×37, `[loc abs]` ×14, `(loc.abs)` ×4, `<br>loc abs` ×2; at `10:275` it sits in the English column | One form |
-| E4 | End of quotation | `+end quote` ×5, `+endquote` ×8, `+ endquote` ×2, `+ end quote` ×2, `+ quote` ×4, `+quotation marks` ×1, `adv, quote` ×1; a separate `iti`/`'ti` row ×21; in the English column at `11:496`; nothing at `11:609`, `11:620`, `13:229`, `15:245` | One form |
-| E5 | Passive / causative POS | `verb.pass` ×16, `verb. pass` ×9, `verb.caus` ×13, `verb. caus` ×8, `verb. caus.pass` ×2, `prp. pass` ×9, `prp.pass` ×1, `prp.<br>pass`, `prp caus pass` ×2, `prp caus. pass.`, `prp.<br>caus.pass`, `ptp.caus` ×2, `ptp caus pass`; inside Grammar instead at `13:351` (`pr.pass.3rd.pl`), `14:537` (`pr.caus.3rd.pl`). Plain `verb` for the same forms in classes 3–12 (`paripūreti` `3:97` vs `14:15`; `abhisandeti` `10:121` vs `14:13`; `parimuccati` `6:23` vs `13:148`; `vuccati` `9:303` vs `14:792`; `nirujjhati` `10:535` vs `13:284`). | One form; decide whether classes before 13 get the label |
-| E6 | Participle used as adjective | `adj (pp)` ×4, `adj [pp]` ×2, `adj<br>[pp]`, `pp [adj]`, `adj (\<ptp)`, `adj(\<ptp)`, `adj, <br>(\<ptp)` ×2, `adj<br>(ptp)` | One form |
-| E7 | Interrogative pronoun | `pron interr` ×4, `pron, interr`, `pron.<br>interr`, `pron<br>interr`; plain `pron` elsewhere (`ko` ×3) | `pron` + `interr` in Grammar |
-| E8 | Stray POS values | `adj.` (`5:145`, `13:449`), `noun (comp)` (`5:346`), `adj, comp` (`11:543`), `proper noun` ×1, `ind<br>(comp)` (`10:272`), `pron+noun [idiom]`, `pron+verb` | Fold into the standard set |
-| E9 | Indeclinable Grammar cell | `ca`: `conj` ×80, empty ×4, `adv` (`11:650`), `ind` (`15:348`). `vā`: `conj` ×57, `-` ×13, empty ×7, `disj` ×2. `kho`: `emph` ×33, `ind` ×4, `-` ×2, `adv` (`8:411`), empty. `eva`: `emph` ×20, `ind` ×3, empty. `api`: `ind` ×9, `-` ×7, `emph`, `adv`, empty. `evaṃ`: `adv` ×20, `emph` ×4. `pana`: `conj` ×4, `ind` ×4, `-`, empty. `ce`: `cond` ×7, `ind` ×4, empty ×2. `hi`: `emph` ×9, `adv`, `-`. 25 `ind` rows have an empty Grammar cell and 36 have `-`. | One tag per particle |
-| E10 | Infinitive POS | `verb \| inf` ×18; `ind \| inf` ×3 (`9:87`, `9:117`, `9:708`) | `verb` |
-| E11 | `āvuso` / `bhante` | `āvuso \| ind \| voc.sg` (`5:589`, `14:348`), `ind \| voc.sg or voc.pl` (`8:412`, `10:594`); `bhante \| noun \| masc.voc.sg` ×14. DPD has `āvuso` as `ind`. | `ind` with a plain note, or treat both alike |
-| E12 | Fixed phrases | `atha kho`: `ind \| adv` ×5, `idiom \| ind` ×2, `ind \|` (empty) ×2, `ind \| ind`, and split into `atha` "after" + `kho` "that" at `9:191-192`. `evam'eva`: `idiom \| ind` ×2, `idiom \| adv+ind`, `sandhi \| adv+ind`, `ind \| adv+ind`. `seyyathāpi`: `pron+adv+ind` ×9, `-`, empty. `kiṃ nu kho` / `nu kho`: `idiom`, `ind`, or three separate rows (`13:35` vs `13:167-169`, same sutta). `yo pana bhikkhu`: three Grammar cells (`7:342`, `8:294`, `14:286`). `n'eva`/`neva`: four tags. `c'eva`: `sandhi \| ind+ind`, `ind \| ind+ind`, `ind \| ind+emph`. | One analysis per phrase |
-| E13 | Compound members | Grammar `-` ×17 (class 2), empty ×4, `nt`/`masc`/`fem` ×5, `masc.` ×3, `masc (in comp)`, `masc. (in comp)`, full `masc.nom.sg` on a stem (`11:51`, `11:55`, `12:159`); stems written `rāga-`, `sammā -` (`1:11`, space before the hyphen), `adhicittam-`, `atītam-`, `divasaṃ-`, `ca-` | One form |
-| E14 | Hyphen in table, none in sentence | `6:34` `sāvaka-saṅgho`, `8:42` `nāma-gottāni`, `10:119` `viveka-jena`, `13:25` `pāda-talehi`, `15:95` `yathā-dhammaṃ` (vs `yathādhammaṃ` at `15:118`) | Match the sentence |
-| E15 | Literal-meaning note | `lit.`, `lit:`, `(lit: …)`, `[lit: …]`, `[lit:made a vehicle]`, `Lit:` | One form |
-| E16 | Supplied words | `[your]` (majority) vs `(his)`, `(done)`, `(He)`, `(like)`, `(a helper)`, `(The Buddha)`, `(there)` | Square brackets |
-| E17 | Gloss separator | comma (`consciousness, awareness`) vs semicolon (`rapture; delight`), often both inside one file | One separator |
-| E18 | Recurring English terms | `dhammavinaya`: 5 renderings; `brāhmaṇa`: Brahman / brahmin / priest / holy man / "Monk" (`5:629`); `samaṇa`: ascetic / recluse / monk; `mettā`: goodwill / friendliness / loving-kindness; `Venerable sir` / `venerable sir` / `Venerable Sir`; `Ananda`, `Sariputta`, `Mogallana`, `Kalamas`, `Brahma` without diacritics next to `Ānanda`, `Sāriputta`; US and UK spelling mixed (`honor`/`honour`, `behavior`, `practiced`, `flavour`, `offence`) | Glossary + one spelling |
-| E19 | Same word, different POS | `parisuddho` pp/adj (`5:32`, `5:344`); `āyasmato` noun/adj (`3:290`, `6:44`); `sabba` adj/pron (`5:269`, `6:280`); `ekaṃ` card/adj (`12:11`, `12:195`); `eko` card/adj (`12:295`, `9:669`); `tayo` card/adj (`14:62`); `adassāvī` noun/adj in one sentence (`11:387`, `11:398`); `pariyāyena` ind/noun in one sentence (`12:233`, `12:244`); `āgatā`/`anāgatā` adj/pp (`7:418-423`, `11:147`, `11:635`); `yathābhūtaṃ` `ind \| adv` (`3:63`) vs `adj \| masc.acc.sg` (`15:299`, `15:318`; DPD: `ind`); `bālo` adj/noun; `subhāsitā` pp vs `dubbhāsitā` adj (`15:177`, `15:180`) | One POS per word and function |
-
-### F. Advisory DPD form check (`verify_key.py --dpd`)
-
-3 474 rows: 1 123 confirmed, 1 079 skipped, 2 087 "ambiguous" (the tag is one of several DPD readings; not errors). Of the 29 rows DPD cannot reconcile, these are real:
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| F1 | `7:216` | `ananda \| noun \| masc.voc.sg \| Ananda` | Short first vowel in the Pāli cell. | `ānanda`, `Ānanda` | 9 |
-| F2 | `4:253` | `paggaṇhahi \| imp.2nd.sg` | Imperative is `paggaṇhāhi` (long ā). | `paggaṇhāhi` (check the sentence line too) | 8 |
-| F3 | `6:421`, `6:428` | `tam naraṃ` / `tam` | Plain `m` on a free-standing word. | `taṃ` | 9 |
-| F4 | `4:47` | `tilā \| noun \| masc.nom.pl` | `tila` is neuter in DPD. | `nt.nom.pl` | 6 |
-| F5 | `14:497` | `dukkhasamudayaṃ \| noun \| nt.nom.sg` | `dukkhasamudaya` is masculine; `-aṃ` is acc.sg, or nom.sg only if taken as a neuter adjective (the gloss says "noun acting as an adjective"). | `adj \| nt.nom.sg`, or re-tag | 6 |
-| F6 | `12:239` | `chattiṃsa \| card \| fem.nom.pl` | DPD lemma is `chattiṃsā`, fem. sg. | `fem.nom.sg`; check the spelling | 6 |
-| F7 | `12:458` | `vīsati \| card \| fem.acc.sg` | acc.sg would be `vīsatiṃ`; the form is nominative. | Re-tag or note | 5 |
-| F8 | `13:364` | `munī \| noun \| masc.nom.sg` | `munī` is nom.pl by form; nom.sg only as metrical lengthening. | Add a note "(metrical)" | 5 |
-| F9 | `15:438` | `ubho \| pron \| masc.acc.pl` | DPD tags `ubho` as dual. | Leave, or note | 3 |
-| F10 | `8:359` vs `15:270` | `hotī"ti` / `hoti"ti` | Sandhi vowel lengthened in one, not the other; sentence at `15:251` has `hotī"ti`. | `hotī"ti` | 7 |
-| F11 | `6:147`, `8:160`, `14:30` | `avoca`, `etadavoca \| aor.3rd.sg` | DPD lists `avoca` only as reflexive aorist. Not an error for a beginner key. | Leave | 2 |
-
-The others are DPD limits, not key errors (`catutthaṃ` fem agreeing with `disaṃ`, optatives in `-eyyāmi`, words with `'ti` attached).
-
----
-
-## Part 2 — Line-by-line reading
-
-Every line of classes 1–15 was read for Pāli forms, tags, glosses and translations. Findings that depend on a root, gender or part of speech were checked against DPD, and anything DPD contradicts was removed (e.g. `uddharati` √dhar, `taṇhā` `√tas･6 ṇhā`, `viharati` `√har (live)`, `gandha` √ghā, `tassa` as `ind`, `sandhāvissaṃ` aor, `accagamā` imperf, `pātimokkha`/`mano`/`kucchi` masc, all of which follow DPD). For classes 1–4, 7–8 and 14 readings were compared with the local SuttaCentral text; for classes 5–6, 9–13 and 15 the canonical readings were recalled, not looked up, and those rows are marked "check text".
-
-Pure notation drift is in section E and is not repeated per class. Numbering is `class.n`; a row that covers two classes takes the number of the first.
-
-### Classes 1–4
-
-Classes 1–4 have no Root column.
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 4.1 | `4:249`, `4:253` | `paggaṇhahi \| imp.2nd.sg` | Not a valid form (short a before `-hi`); not in DPD. AN4.48 itself reads `paggaṇhe` (opt). Same as F2. | `paggaṇhāhi` | 9 |
-| 4.2 | `4:103`, `4:107-108` | `byādhi dhammo amhi`; rows `byādhi \| noun \| masc.nom.sg`, `dhammo \| noun \| masc.nom.sg \| nature` | The source has the compound `byādhidhammomhi` (DPD `byādhidhamma` adj; the exercise writes `byādhi-dhammo`). The first member is tagged as a nominative. | `byādhi-dhammo`; member untagged for case; compound `adj` | 7 |
-| 4.3 | `4:118` | `amha-` | The hyphen marks compound stems elsewhere; here it is on a finite verb shortened in sandhi. | `amha` | 6 |
-| 4.4 | `4:141`, `4:149` | `panūda` | SN2.8 / Dhp 383 read `panuda`. DPD lists `panūda` as a variant. Check text. | `panuda` | 5 |
-| 4.5 | `4:50` | `(honti) \| verb \| pr.3rd.pl` | A row for a word that is not in the key sentence (it is in the exercise, see B3). | Align with B3 | 6 |
-| 4.6 | `4:72`, `4:74` | `upasaṅkami,`, `nisīdi.` | Punctuation inside the Pāli cells. | Strip | 8 |
-| 2.1 | `2:80` vs `2:84` | `itipi` / `iti'pi` | Sentence and table differ. | One spelling | 8 |
-| 2.2 | `2:42`, `2:46` | `uttarissa \| adj \| masc.gen.sg` | A constructed gen.sg of `uttari`, not in DPD; the usual analysis of `uttarimanussadhamma` is `uttari` (ind, "beyond") + `manussadhamma`. | Review the analysis | 5 |
-| 3.1 | `3:51-52`, `3:83` | `sabba-rasaṃ`, `dhamma-raso`, `joti-pālaṃ` | Hyphenated in the table only (`3:47`, `3:78`). | Match | 6 |
-| 3.2 | `3:318` | `pucchasi — "... diṭṭhiyo loke uppajjanti…` | Quote never closed; `...` and `…` in one line. | Close; one style | 8 |
-| 1.1 | `1:11-12` vs `2:88` | `sammā -` + `sambuddhassa` vs `sammāsambuddho` | The same compound is split in class 1 and whole in class 2; space before the hyphen. | One treatment; `sammā-` | 7 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 2.3 | `2:221` | `dukkhehi \| noun \| masc.instr.pl<br>masc.abl.pl` | `dukkha` is neuter (tagged nt at `4:193`). | `nt` | 9 |
-| 2.4 | `2:222` | `domanassehi \| noun \| masc.instr.pl<br>masc.abl.pl` | `domanassa` is neuter (DPD). | `nt` | 9 |
-| 4.7 | `4:204` | `gahassa \| noun \| masc.gen.sg \| of a house` | `gaha` "house" is neuter (DPD `gaha 2`); masc `gaha` is "grip", "planet". | `nt.gen.sg` | 8 |
-| 4.8 | `4:47` | `tilā \| noun \| masc.nom.pl` | DPD has `tila` as nt only; `ime tilā` in the text shows masculine concord. Same as F4. | Check | 5 |
-| 4.9 | `4:299`, `4:313` vs `4:335`, `4:206`, `3:40`, `3:119` | `sukhitā \| adj`, `vissuto \| adj` vs `upaddutā`, `diṭṭho`, `ṭhito`, `sitā \| pp` | DPD gives both as pp. | `pp` | 5 |
-| 2.5 | `2:315` | `proper noun` | Only Kassapa gets this POS; other names are `noun`. | `noun` | 8 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 2.6 | `2:367` | `ābādhāya \| masc.dat.sg \| to sufferings` | Plural gloss for a singular; the translation has "to suffering". | "to affliction" | 8 |
-| 2.7 | `2:25` | "At the foot of a tree in a forest" | `rukkhānaṃ` is gen.pl (table: "of trees"). | "At the feet of trees" | 7 |
-| 2.8 | `2:49`, `2:207-210` | `worthy of an enlightened`; `with recluse`, `with brahmin`, `with deity` | Truncated gloss; missing articles. | Complete | 7 |
-| 2.9 | `2:100` vs `2:89` | "endowed with wisdom and ethical conduct" vs "knowledge and conduct" | Gloss and translation differ. | Align | 6 |
-| 2.10 | `2:222`, `2:347`, `2:351`, `2:342` | `domanassa`: distresses / depression / displeasure; `jarā`: old age / aging | Three renderings in one file; "there is" supplied without brackets at `2:351`. | Align | 5 |
-| 2.11 | `2:8`, `2:12` | `kira \| indeed, truly`; "has indeed arisen" | In SN10.8 `kira` is hearsay (DPD `kira 2` "it is said"). | "it is said" | 4 |
-| 2.12 | `2:211`, `2:213`, `2:309`, `2:315`, `2:318` | `Mara`; "of the Gotama"; "of the Kassapa" | Missing diacritic; article before a proper name. | `Māra`; "of Gotama" | 9 |
-| 3.3 | `3:110` | "He experiences pleasure by means of the body." | `ca` untranslated. | "And he…" | 6 |
-| 3.4 | `3:351`, `4:325` | `bhāsitassa … statement`; `samādhissa … stillness, composure` | Genitive glosses without "of" (neighbours have it). | Add "of" | 6 |
-| 3.5 | `3:316` | "You see that offence." | In the Vinaya this is a question. | "Do you see that offence?" | 4 |
-| 3.6 | `3:43`, `3:84` vs `3:87`, `3:134`, `3:278`, `3:354` | `he attains.`; "Brahman" / "(brahmin)"; "conducive for"; `come now! let's!`; "Sāriputta. (so that…)" | Stray full stop in a cell; two spellings; idiom; punctuation. | Fix | 8 |
-| 4.10 | `4:20`, `4:22` | `I am reborn; I go towards`; "I go towards a good destination" | `upapajjati` = "is reborn in"; the weaker sense was chosen. | "I am reborn in a good destination, a heavenly world" | 6 |
-| 4.11 | `4:145`, `4:152` | `cross, lit. cut`; "Cross the stream" | `chinda` is "cut"; "cross" is `tarati`. | "Cut the stream" | 6 |
-| 4.12 | `4:236` | "some noblemen [and] brahmins" | `ca` is in the sentence and table; no brackets needed. | "and" | 8 |
-| 4.13 | `4:361`, `4:358` vs `4:365` | `pessako … messenger`; "merchant" vs "a trader" | In MN98's list the sense is "servant" (DPD `pessaka 2`); gloss and translation differ. | "servant"; align | 6 |
-| 4.14 | `4:32`, `4:377`, `4:424-427`, `4:302` | "He does good deeds"; "disenchanted in suffering"; "It was a thought of the recluse."; "happy (and) free from disease" | Singular `kusalaṃ`; idiom "with"; `ahu` + gen is "the recluse had"; order reversed. | Fix | 5 |
-| 4.15 | `4:83`, `4:88`, `4:312`, `4:318`, `4:314`, `4:209`, `4:49` | `Rahula`; `Angulimāla`; `The Buddha` in a gloss; "O, Builder of a house"; `dehusked rice"` | Diacritics; capitals; stray quote. | Fix | 9 |
-| 4.16 | `2:78`, `3:134`, `4:236` vs `3:340`, `4:282`, `4:302`, `4:318`; `3:19`, `3:30` vs `4:185` | `[and]` vs `(and)`, `(about)`, `(for)`; `[+gen]` in Grammar vs `(+acc)` in the English column | Bracket style and column vary. | One form | 7 |
-
-### Classes 7–8
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 7.1 | `7:210`, `7:216` | `siyā kho pana ananda`; `ananda` | Short first vowel (source: `panānanda`). Same as F1. | `ānanda` | 9 |
-| 7.2 | `7:66` vs `7:70`; `7:408`, `7:417` | `kin'ti` / `kinti`; Grammar `pron+ind` vs `interr` | Sentence and table differ; same word tagged two ways. | `kin'ti`; one tag | 8 |
-| 7.3 | `7:291` vs `7:295-303` | `kupitā vā anattamanā vā` | Second `vā` has no row (other items list each one, `7:125-129`). | Add | 7 |
-| 7.4 | `7:144`, `7:150` vs `7:307`, `7:318` | `anāgatamaddhānaṃ` / `anāgatam'addhānaṃ` | Same phrase, same sutta. | One spelling | 8 |
-| 7.5 | `7:166`, `7:170` vs `8:238`, `8:242`, `13:44` | `yaṃnūn'āhaṃ` (`ind+pron.1st.nom.sg`) / `yan'nūn'āhaṃ` (`pron+ind+pron.1st.nom.sg`) | Two spellings and two analyses of one idiom. | One | 8 |
-| 7.6 | `7:32` | `mallā,` | Comma in the Pāli cell. | Strip | 7 |
-| 7.7 | `7:179`, `7:188` | `avaṅkatā \| adj … not dishonest` | Not in SN12.22 in the SuttaCentral text; DPD's sense is a fem. abstract noun "straightness". Item is `(simpl)`. Check text. | Check | 4 |
-| 8.1 | `8:614`, `8:626` | `nārīsu` | Dhp 284 reads `nārisu` (short i, metre); not marked `(simpl)`. Check text. | `nārisu` | 6 |
-| 8.2 | `8:348`, `8:359` | `phāsu hotī"ti`; `hotī"ti` | Closing quote with no opening quote; double quote inside a table word. | Add `"`; `hotī'ti` | 6 |
-| 8.3 | `8:31` vs `8:40`; `8:116` vs `8:138` | `nāmagottāni` / `nāma-gottāni`; `abhijjhādomanassaṃ` / `abhijjhā-domanassaṃ` | Hyphen in the table only. | Match | 6 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 8.4 | `8:376-377` | `dakkhiṇena \| adj \| masc.instr.sg`; `passena \| noun \| nt.instr.sg \| with the right side…` | The adjective must agree with its noun; "right" also sits in the gloss of `passena`. | `nt.instr.sg`; "with the side" | 8 |
-| 7.8 | `7:455` | `āpā \| noun \| masc.nom.pl` | DPD: `āpa` nt (and `āpas` masc). | Check; `nt.nom.pl` | 5 |
-| 7.9 | `7:441` vs `8:601` | `koci'd'eva \| ind \| pron+ind` vs `idiom \| pron+ind` | A declined pronoun agreeing with `paccayo`; two POS. | `pron \| masc.nom.sg` | 6 |
-| 7.10 | `7:267` | `atītaṃ \| adj \| masc.acc.sg \| the past` | Used as a noun; DPD `atīta` "the past" is nt. | `noun \| nt.acc.sg` | 5 |
-| 7.11 | `7:482` | `assavanatā \| noun \| fem.instr.sg (+gen)` | `-tā` is not an instrumental ending; usually explained as an ablative of cause. | `fem.abl.sg`; check | 4 |
-| 7.12 | `7:462` | `kissa \| pron.<br>interr \| masc.dat.sg \| for what reason?; why?` | Neuter fits "why"; markup in the POS cell. | `pron \| nt.dat.sg` | 5 |
-| 7.13 | `7:295`, `7:456`, `8:545` vs `7:386` | `ce \| ind \| ind` vs `cond` | Two labels. | `cond` | 7 |
-| 8.5 | `8:206` | `aññataro \| adj` | DPD: pron; `aññaṃ`, `anaññaṃ`, `ekaccassa` are `pron` here. | `pron` | 6 |
-| 8.6 | `8:339` | `vīsatigaṇo \| noun \| group of twenty` | Bahubbīhi qualifying `bhikkhusaṅgho` (DPD: adj). | `adj` | 6 |
-| 8.7 | `8:234` | `dūramaṃ \| adj \| masc.acc.sg [+loc]` | No masc acc noun to agree with; predicate of the `yattha` clause. | `nt.nom.sg` | 5 |
-| 8.8 | `8:495` | note "can be taken as a noun masc instr sg" on `abhikkantavaṇṇā` | Instr.sg of `vaṇṇa` would be `-vaṇṇena`; `-ā` is ablative. | Reword | 4 |
-| 7.14 | `7:333` | `gāhaṃ \| noun \| masc.acc.sg \| hiding place \| √gah･6 ṇhā (grasp)` | "Hideaway; lair" is DPD `gāha 2.2`, from `√gāh` (dive, plunge); `√gah` belongs to `gāha 1` "seizure". | `√gāh･1 a (dive, plunge)` | 8 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 7.15 | `7:362` vs `7:361`, `7:364` | `upāsikāyo … female disciples` | "lay" missing. | "female lay disciples" | 7 |
-| 7.16 | `7:289` | "which I am grasping [and] would not be with faults" | `upādiyamāno` is subordinate to `assaṃ`. | "which, grasping [it], I would not be with faults" | 6 |
-| 7.17 | `7:225` | "And now there could be, Ananda, for you it would occur like this" | `siyā` and `assa` both rendered; broken sentence. | "Now, Ānanda, it could be that it would occur to you thus:" | 5 |
-| 7.18 | `7:121`, `7:131` | `rājāno … king's men` | Nom.pl "kings". | "kings [i.e. the king's men]" | 5 |
-| 7.19 | `7:431` | "Bhikkhus, the monks will establish…" | Same word rendered two ways; the quoted clause is a question in the Pāli. | "Monks…"; phrase as a question | 5 |
-| 7.20 | `7:484`, `7:466` | `parihāyanti … wasting away; decreasing`; "What one could do with a well, if there always would be water?; Having cut off the craving from the source" | Participle gloss for a finite verb; word order; `?;`; `taṇhāya` is tagged gen (`7:459`) but translated as object. | Fix | 6 |
-| 7.21 | `7:35`, `7:321`, `7:374`, `7:454`, `7:37`, `7:115` | `was extinguished""`; unclosed `"may I be…`; `[dat or purpse]`; "with well"; no full stop; lower-case start | Typos. | Fix | 9 |
-| 7.22 | `7:34`, `7:37`, `7:45`, `7:51`, `7:216`, `7:225`, `8:79`, `8:162`, `8:48`, `8:59` | `Kusinara`, `Vesali`, `Ananda`, `The Great Mogallana` | Names without diacritics; "Mogallana" misspelt (`7:84` has "Moggallāna"). | Fix | 8 |
-| 8.9 | `8:42` | "The great rivers, upon reaching the mighty ocean, they give up (their) old names." | `-gottāni` dropped; redundant "they". | "…give up (their) former names and family names." | 7 |
-| 8.10 | `8:448` | "…[the sequence] of that man's mothers' mothers would not even be exhausted." | `bhikkhave` omitted. | Add "monks" | 7 |
-| 8.11 | `8:636` | "of a man enamoured with regard to women, just that long he [is] like…" | `paṭibaddhamano` is nominative and agrees with `so`, not with gen `narassa`. | "…just that long he [is] enamoured, like a suckling calf towards [its] mother." | 7 |
-| 8.12 | `8:329` | "This monk who speaks according to the Dhamma, and this monk who…, speaks according to…" | Three coordinated predications turned into one relative clause. | "This monk is one who speaks according to the Dhamma, …" | 6 |
-| 8.13 | `8:367`, `8:361` | "having done this just for that reason, [and] no other"; `eva … thus; just` | "having made just this the reason"; `eva` is not "thus". | Fix | 6 |
-| 8.14 | `8:538`, `8:527` | "…for the continuance, non-disappearance , increase and fulfillment by development, maturity, of wholesome qualities…" | Order garbled; `bhāvanāya` tagged dat but translated "by". | Reorder | 6 |
-| 8.15 | `8:417` vs `8:414`, `8:425`; `8:468`; `8:560` vs `8:553` | `sabbanimittānaṃ … of all objects` vs `animitta` "signless"; `mahattarī … older than`; "can set aside" vs "should set aside" | Same stem two ways; stray "than"; modality. | Align | 4 |
-| 8.16 | `8:363`, `8:112`, `8:114`, `8:304`, `8:470`, `8:138` | `having done[something]`; `it stayed.`; "Senior nun grabbed…"; "of man's intention to a woman…"; missing commas; `&` | Typos and articles. | Fix | 7 |
-
-
-### Classes 5–6
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 5.1 | `5:551`, `5:558-559` | `mā pamādaṃ attha`; rows `pamādaṃ \| noun \| masc.acc.sg`, `attha \| verb \| imp.2nd.pl \| you all must be` | MN19 reads `mā pamādattha`, one aorist 2nd pl of `pamajjati` (compare `pamādo \| aor.2nd.sg` at `5:620`). Split into noun + imperative it says "be negligence". The same split is in `bpc/class_5/6_say_no.md` (A13 of the BPC audit). | `mā pamādattha`; one row, `aor.2nd.pl` | 8 |
-| 5.2 | `5:584` vs `5:588-597` | `na me tayā saddhiṃ kathā vā nisajjā vā` | `tayā` has no table row. | Add `tayā \| pron \| 2nd.instr.sg \| with you` | 9 |
-| 5.3 | `5:9` | `tumhākaṃ,` | Comma carried into the cell. | `tumhākaṃ` | 8 |
-| 5.4 | `5:287` | `"alaṃ, gāmaṇi. mā maṃ etaṃ pucchi` | Opening quotation mark never closed. | Remove `"` | 8 |
-| 6.1 | `6:28` vs `6:35`, `6:37` | `esa bhagavato sāvakasaṅgho` | The table has a row `āhuneyyo` and the translation says "is worthy of offerings", but the word is not in the sentence. | Add `āhuneyyo` to the sentence | 9 |
-| 6.2 | `6:353` vs `6:364` | `sukhit'attā` / `sukhitattā` | Sentence and table differ. | One form | 8 |
-| 6.3 | `6:353`, `6:358` | `sukhino vā khemino hontu`; `vā \| conj \| or` | Snp 1.8 reads `sukhinova` = `sukhino va` (emphatic), not "or". Check text. | `va \| ind \| emph`; "happy and safe" | 6 |
-| 6.4 | `6:410`, `6:415` | `bāhu-pacālakaṃ` | Hyphen inside the word; Sekhiya reads `bāhuppacālakaṃ`. Check text. | `bāhuppacālakaṃ` | 6 |
-| 6.5 | `6:296` vs `6:300-304`; `6:535` vs `6:539-549` | three `ca` in the sentence, one row; second `ca` missing | Repeated particles have a row elsewhere (`6:207-214`). | Add rows | 5 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 5.5 | `5:530`, `5:536` | `kadariyaṃ \| noun \| nt.acc.sg \| stinginess`; "conquer liar by truth" | In Dhp 223 it parallels `alikavādinaṃ`, a person. DPD has both `kadariya 1` adj "miserly" and `kadariya 2` nt "miserliness". | `adj \| masc.acc.sg \| the miser`; "conquer the miser by giving, the liar by truth" | 7 |
-| 5.6 | `5:295` | `etaṃ \| pron \| masc.acc.sg` | The thing asked about; neuter. | `nt.acc.sg` | 6 |
-| 5.7 | `5:305` | `no \| pron \| 1st.acc.pl \| us` | The translation (`5:313`) says "to us". | `1st.dat.pl` | 5 |
-| 5.8 | `5:596` | `phāsu \| noun \| masc.nom.sg` | DPD allows masc noun, adj and ind; as predicate of `hoti` the adjective is the natural reading. `10:476` has `ind \| adv`. | Leave or `adj`; align with `10:476` | 4 |
-| 6.6 | `6:548` | `mānaṃ \| noun \| nt.acc.sg \| pride; conceit` | `māna` "conceit" is masculine (DPD `māna 1.1`); the neuter `māna 2.1` is "measure". | `masc.acc.sg` | 9 |
-| 6.7 | `6:157`, `6:159` | `dakkhanti \| verb \| pr.3rd.pl \| see` | In `cakkhumanto rūpāni dakkhanti` the usual reading is future. DPD has both `dakkhati 1` pr and `dakkhati 2` fut. | `fut.3rd.pl \| will see`, or keep with a note | 6 |
-| 6.8 | `6:88` | `atthi \| verb \| pr.3rd.pl \| there are` | `atthi` is 3rd sg in form, here with a plural subject. | `pr.3rd.sg` + note | 6 |
-| 6.9 | `6:269` vs `6:211` | `garuṃ \| noun \| masc.acc.sg \| respect` vs `garu \| adj` | DPD has `garu 5` masc "respect", so the tag is defensible; the two rows read differently only because of the idiom `garuṃ karoti`. | Leave; consider an idiom row | 3 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 5.9 | `5:380`, `5:383` | `the corpse; dead body`; "on the dead body of the Tathāgata" | In DN16 the flowers fall on the living Tathāgata. | "body" | 7 |
-| 5.10 | `5:381`, `5:383` | `okiranti … are sprinkled on`; "Flowers are sprinkled on" | Passive gloss for an active verb (DPD: "sprinkles; scatters down"). | "they scatter down on" | 6 |
-| 5.11 | `5:629` | "you must make [your] mind unified!" | Second `jhāne` untranslated. | "…unified in meditation!" | 7 |
-| 5.12 | `5:618`, `5:629` | `brāhmaṇa`; "Monk, don't be careless" | `brāhmaṇa` rendered "Monk". | "Brahmin" | 6 |
-| 5.13 | `5:106`, `5:112` | `hell; no good fortune`; "leads to no good fortune" | The translation uses the etymological gloss and loses the contrast with `sugati`. | "leads to hell" | 6 |
-| 5.14 | `5:72`, `5:74` | `for decoration, for bulk`; "nor for physical appearance" | "for bulk" does not fit `vibhūsana`; the translation matches neither gloss. | "for decoration; for beautification" | 5 |
-| 5.15 | `5:549` | "It is enough for deluding a fool not one seeking Nibbāna." | The contrast is unmarked. | "…a fool, [but] not one seeking…" | 7 |
-| 5.16 | `5:582` | "You are truly for us equal to the Brahma." | Word order; article; diacritic. | "Truly, for us you are equal to Brahmā." | 6 |
-| 5.17 | `5:35-37` vs `5:347-349` | "should be purified" vs "will be pure/purified" | Same MN39 construction, two modalities. | "will be" | 6 |
-| 5.18 | `5:273`, `5:324` | "Whatever conversation was with wandering ascetics"; "Services (done) on us could be of great fruits." | Ungrammatical; future rendered "could be". | "Whatever conversation there was with…"; "…for us will be of great fruit." | 6 |
-| 6.10 | `6:342`, `6:344` vs `5:168` | `hirimanto … conscientious`, `ottappino … feeling shame`; class 5 has `ottappino … conscientious` | The two glosses look swapped in class 6 (DPD `ottappī`: "afraid of wrong; conscientious"). | `hirimanto` "having a sense of shame"; `ottappino` "conscientious" | 8 |
-| 6.11 | `6:533` | "…who sees fault, he is (like) one who points out the treasure." | Comma splice; `nidhīnaṃ` is gen.pl (so `6:524`). | "…who sees faults, like one who points out treasures." | 6 |
-| 6.12 | `6:542`, `6:551` | `atho … and then; after that` | `atho` here is "and also", not temporal. | "and also towards the eldest brother" | 5 |
-| 6.13 | `6:408` | "would approach [there], cause an alteration in a robe…" | Futures (glossed "will…") rendered "would"; no "and". | "will approach and…" | 5 |
-| 6.14 | `6:450` | "the support of the wife and son" | Pāli order is son, then wife. | "supporting son and wife" | 5 |
-| 6.15 | `6:465` | "Just make an effort today" | `eva` qualifies `ajja`. | "this very day" | 5 |
-| 6.16 | `6:390`, `6:155`, `6:87` | `you must minister; enjoy`; `lit: one having eyes quality`; `lit. breathing being` | "enjoy" does not fit; unidiomatic; number. | "attend on"; "lit. possessing eyes"; "breathing beings" | 6 |
-| 6.17 | `6:45`, `6:46`, `6:48` | `ānanda` (English column); `this[thought]`; "Venerable Ananda" with no full stop | Lower-case name without dative sense; missing space; missing diacritic. | `to Ānanda`; `this [thought]`; "…venerable Ānanda." | 9 |
-| 6.18 | `5:95`, `5:99`, `5:578` | `Sariputta`, `Brahma` | Missing diacritics (`Sāriputta` at `5:433`). | Add | 9 |
-| 6.19 | `5:320`, `6:378-380`, `5:190`, `6:322` | `for us; \|`; "conducive for"; comma between subject and verb twice | Trailing semicolon; idiom is "conducive to" (so `5:447`). | Fix | 7 |
-
-### Classes 9–10
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 9.1 | `9:59`, `9:61-70` | `… samudayāya. katamāni tīṇi?` | The question is in the sentence but not in the table, the translation or the exercise (B8). Item 6 (`9:104-107`) does include its `katamāni cattāri`. | Remove, or add rows and "What three?" | 9 |
-| 9.2 | `9:72` vs `9:85-87` | `kallaṃ nu taṃ samanupassituṃ` | `nu` has no row. | Add `nu \| ind \| interr` | 9 |
-| 9.3 | `9:628` vs `9:632-640` | four `vā`, three rows | Final `vā` missing. | Add | 7 |
-| 9.4 | `9:585`, `9:600-601` | `vatthuṃ desanāya` | The Pātimokkha has the compound `vatthudesanāya`; split without `(simpl)`. Check text. | Mark `(simpl)` | 4 |
-| 10.1 | `10:342`, `10:349` | `khuddaṃ samācare` | The Mettasutta reads `khuddamācare` = `khuddaṃ ācare`; the `m` appears to have been read as `sam-`. Both `ācarati` and `samācarati` exist. Check text. | `khuddaṃ ācare` | 7 |
-| 10.2 | `10:744`, `10:748` | `anekajāti saṃsāraṃ`; `anekajāti \| adj \| masc.nom.sg` | A compound written as two words; the first member cannot be nom.sg. | `anekajātisaṃsāraṃ`, or tag as a compound member | 8 |
-| 10.3 | `10:666` vs `10:676-677` | `yāvat'āssa` / `yāvatā-` + `assa` | Apostrophe placement implies a different split from the table. | Match | 5 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 9.5 | `9:334` | `ajjhāvasatā \| noun \| masc.nom.sg [+acc] \| one who is domestically settled` | Present participle, instrumental singular (agent of `na sukaraṃ … carituṃ`). Nominative is impossible for `-atā`; DPD has `ajjhāvasanta` prp. | `prp \| masc.instr.sg [+acc] \| by one living in` | 9 |
-| 9.6 | `9:182` | `dassanāya \| noun \| masc.dat.sg` | `dassana` is neuter. | `nt.dat.sg` | 9 |
-| 9.7 | `9:76-79`, `9:373` | `yaṃ / aniccaṃ / dukkhaṃ / vipariṇāmadhammaṃ \| nt.acc.sg`; `yaṃ \| nt.acc.sg` | Nominal relative clauses ("whatever is impermanent…", "what is not yours"); nominative. Only `taṃ` is the object. | `nt.nom.sg` | 7 |
-| 9.8 | `9:260-262` | `anupubbasikkhā`, `-kiriyā`, `-paṭipadā \| fem.acc.pl` | With `sakkā … paññapetuṃ` the logical object is nominative singular; the translation (`9:265`) is singular. | `fem.nom.sg` | 7 |
-| 9.9 | `9:555-558` | `parikkhāre`, `bhesajje`, `paccaye \| acc.pl` | They depend on `ussukā` (+loc); the verse continues with a locative. | `loc.sg` "in regard to" | 6 |
-| 9.10 | `9:463` | `tassa \| pron \| masc.gen.sg \| of that` | `tassa me` = "to me (being such)", agreeing with `me`. | `masc.dat.sg` | 6 |
-| 9.11 | `9:404`, `9:445` | `kiṃ \| ind \| interr` | Predicate / object pronoun ("what am I?", `taṃ kiṃ maññasi`); tagged `pron` at `9:692`. | `pron \| nt.nom.sg` / `nt.acc.sg` | 5 |
-| 9.12 | `9:85` | `kallaṃ \| ind \| -` | DPD `kalla 1.4` adj "proper"; predicate nt.nom.sg. | `adj \| nt.nom.sg` | 5 |
-| 10.4 | `10:273` | `sahatthā \| ind \| masc.instr.sg` | POS `ind` with a case tag; DPD: `ind`. | `ind \| adv` | 8 |
-| 10.5 | `10:519-520`, `10:527-528` | `imasmiṃ`, `sati`, `asati \| masc.loc.sg` | Same referent is neuter in `idaṃ`, `imassa` (`10:521`, `10:523`, `10:532`). | `nt.loc.sg` | 7 |
-| 10.6 | `10:141`, `10:396` | `evaṃ \| ind \| emph` | `adv` in the same sentence (`10:398`). | `adv` | 8 |
-| 10.7 | `10:365` | `purato \| ind \| prep` | Parallel `pacchato` (`10:363`) is `adv`. | `adv` | 6 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 9.13 | `9:191-192` | `atha \| ind \| ind \| after`; `kho \| ind \| ind \| that` | `kho` does not mean "that"; "after that" was split across the two words. `9:127` treats `atha kho` as one unit. | One row, "and then" | 9 |
-| 9.14 | `9:367` | "Is the Blessed One, the Arahant, …" | `bhante` and `pana` untranslated. | Add "venerable sir" | 8 |
-| 9.15 | `9:486` | "But because form is not self, therefore it leads to oppression." | `bhikkhave` omitted; "oppression" is the "lit." gloss, not the primary "illness" (`9:483`). | "…form, monks, is not self, form leads to affliction" | 8 |
-| 9.16 | `9:564` | "They were not overly zealously desiring medicines and requisites for life." | `paccaye` omitted; order changed. | Add "supports" | 7 |
-| 9.17 | `9:663` | "I, too, will myself be able to make safety." | `api` goes with `ekam'ekena`; `attānaṃ sotthiṃ kātuṃ` = "to make myself safe". | Reword | 6 |
-| 9.18 | `9:674`, `9:679` | `anissito`: "independent" | In context "unsupported"; "independent" hides why he cannot cross. | "unsupported" | 6 |
-| 9.19 | `9:213` | "in the slightest fault … [by] undertaking the training precepts" | `vajjesu` plural; locative `sikkhāpadesu` lost; "precepts" vs gloss "rules". | "in the slightest faults … train in the training rules" | 5 |
-| 9.20 | `9:417`, `9:421`, `9:581`, `9:544` | "have come"; "it will be"; `vaḍḍhati … increase`; "actions; deed" | Number / person agreement. | "has come"; "he will be"; "increases"; "deeds" | 7 |
-| 9.21 | `9:542` | "any states o existence" | Typo. | "of" | 10 |
-| 9.22 | `9:178`, `9:116`, `9:121`, `9:30`, `9:138-199` | `gotama`; "Kalamas"; "Son of Sari"; "Sāvatthi" | Lower-case name; missing diacritics; stem is `Sāvatthī`. | Fix | 7 |
-| 9.23 | `9:244`, `9:11` vs `9:447` | "for the comfort of"; "Brahman" vs "brahmin" | Stray "of"; two spellings. | Fix | 7 |
-| 10.8 | `10:445` | "One who has gone forth certainly does not harm another, a monk is not troubling another." | Subject and predicate inverted. Dhp 184: one who harms another is no renunciant; one troubling another is no ascetic. | Rephrase | 8 |
-| 10.9 | `10:704` | "Thus, having heard here, …" | Nothing means "thus"; `ito` is "from here" (so `10:688`). | "Having heard from here…" | 8 |
-| 10.10 | `10:219` | "Just like a monkey…" | `bhikkhave` omitted; forest/woodland in reverse order. | Add "monks" | 8 |
-| 10.11 | `10:405` | "The mind of him who sees and knows…" | Order reversed (`jānato … passato`); both `evaṃ` dropped. | "who knows thus, sees thus" | 7 |
-| 10.12 | `10:636` | "When a monk having desire for sense pleasure internally.." | `idha, bhikkhave` dropped; `santaṃ` agrees with `kāmacchandaṃ`; no "when" in the Pāli. | "Here, monks, a monk [knows] sensual desire [when] present internally…" | 7 |
-| 10.13 | `10:274`, `10:278` | "it can be carried" / "it could be carried" | Plural ptp of obligation. | "they are to be carried" | 6 |
-| 10.14 | `10:334`, `10:340` | "by means of seeing; considering" | Instrumental of agent with `alaṃ`: "for one who considers… it is fitting to strive". | Re-gloss | 6 |
-| 10.15 | `10:168-171`, `10:160-166` | `eva \| just; thus`; "completely quenched" vs "attains final liberation"; "perturbed" vs "shaking" | `eva` is not "thus"; gloss and translation disagree. | Align | 6 |
-| 10.16 | `10:10` vs `10:19-38` | `āha … he had said` | Pluperfect once; "he said" three times. | "he said" | 8 |
-| 10.17 | `10:693`, `10:691` vs `10:695`, `10:521-534` | `imesaṃ … of those`; `amutra` "there" / "in such-and-such place"; `idaṃ` "that; lit. this" / "this" / "that" | `imesaṃ` is "these" (`10:699`); same word two ways in one sentence. | Align | 6 |
-| 10.18 | `10:758`, `10:428`, `10:384` | "searching the builder of this house"; "this is my instruction to them"; `āpajjati` "for arousing" | "for"; "this" not in the Pāli; `evarūpī` untranslated; `āpajjati` is "engages in". | Reword | 6 |
-| 10.19 | `10:142`, `10:389`, `10:555`, `10:722`, `10:356`, `10:733`, `10:740` | "not seeing perceiving"; "When one investigating…"; "How many staying awake…"; "wise would reprove"; "cross over", "run along" | Missing separator; ungrammatical; missing article; bare verbs for an adjective and a 3rd sg verb. | Fix | 7 |
-
-### Classes 11–12
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 12.1 | `12:462`, `12:466` | `vassaṁ \| noun \| nt.acc.sg \| year` (twice) | The sentence (`12:437`) has `cattārīsaṃ api vassāni` and `paññāsaṃ api vassāni`. The two rows are copies of `12:448`. | `vassāni \| nt.acc.pl \| years` | 9 |
-| 12.2 | `12:94-120` | — | Both `bhikkhave` in the sentence lack a row; every other item lists it. | Add | 7 |
-| 12.3 | `12:339`, `12:345` | `caturāsītīnaṃ … fem.dat.pl` | A plural of a decade numeral; not in DPD's inflections. The text has `caturāsītiyā pāṇasahassānaṃ`. Check text. | `caturāsītiyā` | 6 |
-| 12.4 | `12:358`, `12:369` | `samanta'pāsādiko` | Apostrophe where nothing is elided. | `samantapāsādiko` | 6 |
-| 11.1 | `11:237` vs `11:241`; `11:461` vs `11:471`; `12:48` vs `12:62` | `seyyathā'pi` / `seyyathāpi`; `vigat'ūpakkilese` / `vigatūpakkilese`; `evam'eva kho` / `evameva kho` | Sentence and table differ. | Match | 8 |
-| 11.2 | `11:487`, `11:504` | `'khīṇā jāti…`; `\| 'khīṇā \|` | Opening quote never closed, and carried into the cell. | Remove | 7 |
-| 11.3 | `11:577` | `diṭṭhiṭṭhānaṃ, — so loko … ṭhassāmī'ti, — nanu` | Comma plus dash twice; closing `'ti` with no opening quote. | Tidy | 6 |
-| 11.4 | `11:624`, `11:638` | `eta'r'ahi` | Unusual split of `etarahi`. | `etarahi` | 5 |
-| 11.5 | `11:427`, `11:437` | `opanayiko` | DPD has both `opanayika` and `opaneyyika`; CST reads `opaneyyiko`. Check which edition the course follows. | Leave or align | 4 |
-| 11.6 | `11:237`, `11:409`, `12:339`, `12:377`, `12:94` | reworded sentences | Rewritten against the canon but not marked `(simpl)`. Check text. | Add `(simpl)` | 5 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 11.7 | `11:170`, `11:172` | `ujū`, `suhujū \| adj \| masc.nom.pl` | The subject is singular (`sakko … suvaco cassa`); `-ū` is metrical lengthening. | `masc.nom.sg` | 9 |
-| 11.8 | `11:566` | `maṃ \| pron \| masc.acc.sg` | Personal pronouns carry person, not gender (`1st.gen.sg` elsewhere). | `1st.acc.sg` | 9 |
-| 11.9 | `11:650` | `ca \| ind \| adv` | `conj` in 80 other rows. | `conj` | 9 |
-| 11.10 | `11:662-663`, `11:665` | `dheyyaṃ`, `suduttaraṃ \| nt.nom.sg`; "…the far shore; the realm of death, extremely difficult to cross." | No nominative role; it is the object crossed. The translation leaves it dangling. | `nt.acc.sg`; "will go beyond the realm of death, so hard to cross" | 6 |
-| 11.11 | `11:50-56` | `ādittacelo \| noun`, `āditta- \| pp \| masc.nom.sg`, `-celo \| adj` | Bahubbīhi glossed adjectivally but tagged `noun`; its members get `pp … nom.sg` and `adj`, the reverse of what they are. | Compound `adj`; members untagged for case | 6 |
-| 11.12 | `11:253` | `mettāya \| noun \| fem.instr.sg` | In apposition to `cetovimuttiyā` in the loc abs. | `fem.loc.sg (loc abs)` | 5 |
-| 11.13 | `11:584` | `attaniye \| adj \| masc.loc.sg` | Substantive "what belongs to self"; neuter. | `nt.loc.sg` | 5 |
-| 11.14 | `11:203-211`, `11:363-373` vs `11:422`, `11:520` | `aniccato \| ind \| adv` vs `paṭilābhato`, `accayato \| noun \| masc.abl.sg` | The same "-to = as X" construction tagged two ways. | One | 6 |
-| 12.5 | `12:416` vs `12:87` | `satehi \| adj \| masc.instr.pl` vs `noun \| nt.instr.pl` | DPD `sata 2.1` is `card`. | `card` or `noun \| nt.instr.pl` | 7 |
-| 12.6 | `12:654`, `12:660` | `bhagavā \| masc.nom.sg`; "May the Blessed One tell [us]" | The verb is `brūhi`, imp.2nd.sg; this is an address. | `masc.voc.sg`; "Tell [us] …, Blessed One" | 6 |
-| 12.7 | `12:657` | `parābhavato \| noun \| masc.abl.sg \| for/of the downfall` | Gloss is gen/dat, tag is abl. Usually gen.sg of the prp ("of one who is declining"); DPD has the verb `parābhavati`. | `prp \| masc.gen.sg` | 6 |
-| 12.8 | `12:605-607`, `12:618` | `vanappagumbe`, `phussit'agge \| masc.loc.sg` | The translation treats it as the subject of the simile. | Tag and translation should agree | 5 |
-| 12.9 | `12:593-597` | `pārājikena … nt`, `saṅghādisesena … masc`, `pācittiyena … masc` | Three parallel terms with different genders. DPD: `pārājika` nt, `saṅghādisesa` masc, `pācittiya` nt. | `pācittiyena` → `nt` | 6 |
-| 12.10 | `12:110`, `12:492` | `yena \| ind \| adv`; `sarena \| ind \| adv` | A relative pronoun and an instrumental noun tagged as adverbs. | `pron \| masc.instr.sg`; `noun \| masc.instr.sg` | 5 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 11.15 | `11:611` | "‘that which the world [is] the self (world = self); …" | Garbled; `so loko so attā` = "that [which is] the world, that [is] the self"; the third `so` is untranslated. | Reword | 7 |
-| 11.16 | `11:425` | "For one perceiving acquisition as a personal acquisition of forms…" | Genitive chain attached to the wrong noun; "personal" has no source. | "For one regarding the acquisition of forms … as an acquisition" | 6 |
-| 11.17 | `11:306` vs `11:319` | `tāni … these` | "those" (so the translation). | "those" | 7 |
-| 11.18 | `11:66` | `hoti … there is; there was` | "there was" is not present tense. | Remove | 6 |
-| 11.19 | `11:367`, `11:376` | "as an arrow; a dagger" / "as a dagger" | `salla` is a dart. | "as a dart" | 6 |
-| 11.20 | `11:674`, `11:628-636`, `11:569`, `11:146` | `yassa … of which; whoever`; `ye … which`; `sāsane … the teachings`; `adhunā … soon, recently` | Genitive "whose"; persons take "who"; loc.sg without "in"; "soon" is wrong. | Fix | 6 |
-| 11.21 | `11:341`, `11:178`, `11:29` | "near or far away"; "straight, upright"; "about Venerable Gotama" | Order reversed; `su-` lost; `taṃ` untranslated. | Fix | 5 |
-| 11.22 | `11:141`, `11:151` | `ānanda` (English column); "Ananda, … [who] recently come" | Lower-case; diacritic; grammar. | "Ānanda … [who have] recently come" | 9 |
-| 11.23 | `11:15`, `11:119`, `11:477`, `11:319`, `11:665`, `11:258`, `11:609`, `11:620` | "Bhikkhus you should…"; "imagine if…"; "pliable workable"; "conducive for"; "whoever acting according to"; `[lit:made a vehicle]`; stray `"` in two gloss cells | Punctuation and grammar. "Bhikkhus" is "Monks" everywhere else. | Fix | 8 |
-| 12.11 | `12:29` vs `12:9` | "I recollected manifold past lives" | Verb is present (`anussarāmi`, glossed "I remember"). | "I recollect" | 7 |
-| 12.12 | `12:375` | "Surely, a monk endowed with…" | `bhikkhave` untranslated. | Add "monks" | 8 |
-| 12.13 | `12:618`, `12:610` | "(The Buddha) taught the sublime teaching,<br>leading to the highest Nibbāna, for the benefit."; `gimhe … in heat; hot` | `tath'ūpamaṃ` untranslated; `paramaṃ` attached to Nibbāna; "first heat of the hot month" for `paṭhamasmiṃ gimhe`. | "so too he taught the sublime teaching leading to Nibbāna, for the highest benefit"; "in the first month of summer" | 6 |
-| 12.14 | `12:599` | "having then seen that should speak" | "then" has no source; `tam'enaṃ` is "him" (so the table). | "having seen him, should speak…" | 6 |
-| 12.15 | `12:87`, `12:347` | "with one hundred monks"; "for one thousand" | Plural forms (`-satehi`, `sahassānaṃ`). | "hundreds"; "thousands" | 6 |
-| 12.16 | `12:12-27`, `12:235`, `12:447-461` | `api`: "just only", "just two" …; "only" and "even" in one sentence; dropped in `12:235` | `pi` is "also / even", not limiting. | "also; even" | 6 |
-| 12.17 | `12:536`, `12:281`, `12:46` | "I will clarify"; "knowledge and vision were not"; "there could be hen's eggs" | Present tense; singular; unbracketed supply. | Fix | 5 |
-| 12.18 | `12:222`, `12:135`, `12:281` | "Some monks and brahmins who speaking thus, holding such view…"; "…noble truths, which four?"; `aspects….` | Ungrammatical; comma splice; ellipsis plus full stop. | Fix | 8 |
-| 12.19 | `12:454-460` | `three (3)` … `forty (40)` | Digits in brackets in this item only. | Remove, or apply everywhere | 5 |
-
-### Classes 13 and 15
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 13.1 | `13:537` vs `13:546-548` | `yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ` | `yathāakusalaṃ` has no row; the translation (`13:557`) has "so unskilfully". | Add row | 10 |
-| 13.2 | `13:187`, `13:191` | `ce bhikkhuṃ aññe bhikkhū …` | The rule reads `tañce bhikkhuṃ`; enclitic `ce` cannot open a sentence, and the translation still supplies "[that]". Not marked `(simpl)`. Check text. | `tañ'ce bhikkhuṃ` + `taṃ` row | 6 |
-| 13.3 | `13:187`, `13:210` | `bhiyyo'ti` | The rule continues `bhiyyo, na ca tassa bhikkhuno…`; the `'ti` and closing quote are not in it. Check text. | `bhiyyo` | 5 |
-| 13.4 | `13:439`, `13:449` | `supatiṭṭhitā \| adj.` | Khp 7 in CST reads `suppatiṭṭhitā`; DPD has both lemmas. Stray full stop in POS. Check text. | `suppatiṭṭhitā`; `adj` | 5 |
-| 13.5 | `13:458`, `13:288` | `chakkhattuṃ paramaṃ`; `evam'pi kho bhikkhu tehi bhikkhūhi` | Compound split / sentence abridged without `(simpl)` (items 2, 4, 7 are marked). Check text. | Mark `(simpl)` | 5 |
-| 13.6 | `13:582` | `na tena tato tvaṃ … dukkhassā"ti.` | Comma missing after the second `na tena` (the parallel has one); `"ti` with no opening quote. | Add comma | 6 |
-| 15.1 | `15:155-160` | table has only `imehi`, `kho,` | Six words of the sentence (`bhikkhave, tīhi dhammehi samannāgato bālo veditabbo`) have no row; items 1 and 3 repeat their closing sentence in full. | Add rows or a note | 7 |
-| 15.2 | `15:9`, `15:95` vs `15:166`, `15:253-255`; `15:249` | bold source paragraph in items 1–2, plain in 3–4; `(paragraph N)` note missing on item 4 | Layout differs between the four items of the assignment. | One layout | 7 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 13.7 | `13:88` | `vinassantu \| verb.pass \| imp.3rd.pl \| may they be destroyed` | `vinassati` is an active group-3 verb (DPD: `pr`), as the row's own root `3 ya` says. | `verb`; "may they perish" | 9 |
-| 13.8 | `13:283-284` vs `15:373-374`, `10:535` | `nirujjhamānā \| prp. pass`, `nirujjhati \| verb. pass \| is ceased` vs `prp`, `verb \| ceases` | DPD: `nirujjhati` `pr`, "ceases". Passive in class 13 only; "is ceased" is not English. | `verb`; "ceases" | 8 |
-| 13.9 | `13:320` | `saṃvijjamānā \| prp. pass` | DPD: `saṃvijjati` `pr` "exists". | `prp` | 7 |
-| 13.10 | `13:563`, `13:570` | `jayaṃ \| noun \| nt.nom.sg \| victory`; "Victory generates ill-will" | DPD does list a neuter `jaya`, so the tag is possible. The commentary on Dhp 201 reads it as the prp (`jayanto`), "the victor", which pairs with `jito` "the conquered one" in the next line. | `prp \| masc.nom.sg`; "The victor breeds enmity" | 6 |
-| 13.11 | `13:351` vs `13:343` | `dissanti \| verb \| pr.pass.3rd.pl` vs `verb.pass \| pr.3rd.pl` | Same word, same sentence. | `verb.pass \| pr.3rd.pl` | 9 |
-| 13.12 | `13:225-226`, `13:231` | `tasmiṃ … vante \| masc.loc.sg (loc abs) \| when vomited`; "after that man has vomited" | The vomited thing is the food (nt); a locative of reference with `assa` ("would that man have a desire for that vomit?"). The translation makes the man the agent. | `nt.loc.sg`; reword | 6 |
-| 13.13 | `13:528`, `13:532-533` | `āturānaṃ … dat.pl`; `sallaviddhānaṃ`, `ruppataṃ … gen.pl (gen abs)` | Three words describing the same people get two cases; the "gen abs" has no separate subject. | Same case; drop "(gen abs)" | 5 |
-| 13.14 | `13:167` vs `13:35` | `kiṃ \| pron \| nt.nom.sg \| why` | Adverbial "why" is not nominative; the same phrase is `ind` at `13:35`. | `ind \| interr` | 5 |
-| 13.15 | `13:401-404` | `uddhaṃ`, `adho`, `tiriyaṃ \| ind \| prep` | Free adverbs here. | `adv` | 4 |
-| 15.3 | `15:192`, `15:230` | `katamehi`, `imehi \| pron \| masc.instr.pl` | They qualify `aṅgehi`, tagged nt (`15:172-174`, `15:234`). Copied from item 2, where the referent `dhammehi` is masc. | `nt.instr.pl` | 8 |
-| 15.4 | `15:299`, `15:318` | `yathābhūtaṃ \| adj \| masc.acc.sg` | DPD: `ind`; adverbial gloss; `ind \| adv` at `3:63`. | `ind \| adv` | 7 |
-| 15.5 | `15:358` vs `15:424` | `n'ādhiṭṭhāti \| pr.3rd.sg` | Contains the negative but lacks `+neg`. | Add | 6 |
-| 15.6 | `15:218` | `metta- \| adj \| masc (in comp)` | A gender on an adjective stem whose head (`cittena`) is nt. | `in comp` | 6 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 13.16 | `13:633` | "[are] neither not here, nor in another world" | Double negative reverses the sense. | "neither here, nor in another world" | 9 |
-| 13.17 | `13:286` | "for what [is] pleasant and enticing in the world there, this craving, …is ceasing, is ceased" | `yaṃ` is nominative, no "for"; adjective order swapped against the table; see 13.8. | "Whatever in the world is enticing and pleasant: here this craving, being abandoned, is abandoned; here, ceasing, it ceases." | 7 |
-| 13.18 | `13:475` | "(a helper) should come up with that robe cloth" | In NP 10 the subject of `abhinipphādeyya` is the monk who stands silently; the translation invents another subject. | "…he should get that robe cloth produced" | 6 |
-| 13.19 | `13:148` vs `13:156`; `13:151` vs `13:161` | "he is released" / "he is completely freed" | Same `parimuccati` in one sentence. | One rendering | 7 |
-| 13.20 | `13:29` vs `13:25`; `13:19` vs `13:12` | "with the entire sole of [his] foot"; "in a balanced manner" vs "evenly" | Plural in the Pāli and the gloss; `samaṃ` rendered two ways. | "soles of [his] feet"; "evenly" | 6 |
-| 13.21 | `13:223`, `13:321`, `13:229` | `tassa … for this`; `lokasmiṃ … the world`; `assā'ti … would he` | "that"; locative without "in"; fragment with no end-quote note. | Fix | 6 |
-| 13.22 | `13:516`, `13:427` | "He [is one] who makes subside evil deeds …; because of the subsiding completely"; "seen or unseen … far away or near" | `ca` dropped and `sabbaso` moved to the second clause; table has `ca`, translation "or". | Reword | 5 |
-| 13.23 | `13:129`, `13:131` | "is lead"; "by what is the world lead?" | Past participle is "led". | "led" | 10 |
-| 13.24 | `13:69`, `13:300`, `13:329`, `13:505`, `13:507`, `13:516`, `13:535` | "advises, admonish"; "that; that"; "who lies" (pl. row); "make subside"; "miniscule"; "; What indeed" | Typos and agreement. | "admonishes"; "that"; "who lie"; "makes subside"; "minuscule"; lower-case | 8 |
-| 15.7 | `15:147`, `15:153` | "when another person is pointing out a fault" | `accayaṃ deseti` = "confesses a transgression"; "pointing out" reads as criticism of the fool. | "when another is confessing a fault" | 7 |
-| 15.8 | `15:362` | "does not grasp, does not get involved, with engagement …" | Verb order reversed against the Pāli and the table (`15:355`, `15:357`); stray comma. | "does not get involved with, does not grasp, that engagement…" | 7 |
-| 15.9 | `15:65` | `gacchati, … he gets; lit. goes` | The subject is neuter "what has been eaten…". | "it goes (to)" | 7 |
-| 15.10 | `15:265`, `15:272` vs `15:397` | `kittāvatā … in what way` | The correlative `ettāvatā` is "to this extent". | "to what extent" | 6 |
-| 15.11 | `15:309`, `15:328` | "Certainly, for one seeing …" | Vocative `kaccāna` omitted twice; translated at `15:341`, `15:403`. | Add "Kaccāna" | 6 |
-| 15.12 | `15:187` vs `15:247`; `15:174` vs `15:234` | "five factors" vs "these five qualities" | `aṅgehi` rendered two ways in the opening and closing sentence. | One | 6 |
-| 15.13 | `15:137`, `15:355`, `15:357` | `redress, fix, make amends`; `engage in`; `grasp` | Bare verbs for pr.3rd.sg (other rows inflect). | "redresses…" | 7 |
-| 15.14 | `15:43`, `15:72`, `15:201`, `15:442`, `15:290`, `15:272` | trailing comma; trailing full stops in gloss cells; `Thus- Gone`; `duality–on`; `"right view?"` | Punctuation. | Fix | 8 |
-
-### Class 14
-
-Quotations in this class were compared with the local SuttaCentral Mahāsaṅgīti text (`dpd-db/resources/sc-data`).
-
-#### Sentence and table
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 14.1 | `14:453`, `14:458-459` | `āhāre paṭikūlasaññāya paricitena`; rows `paṭikūlasaññāya \| fem.instr.sg`, `paricitena` | AN7.49 has one compound, `paṭikūlasaññāparicitena`; the key splits it and creates an inflected `paṭikūlasaññāya`. Not marked `(simpl)`. | Restore the compound; rows `paṭikūlasaññā-` + `paricitena` | 8 |
-| 14.2 | `14:302`, `14:315-316`; `14:527`; `14:633` | `sampajānamusāvādo assa hoti`; `evaṃ assa`; `rāgaṃ ca dosaṃ ca, avijjaṃ ca` | The sources have `-vādassa`, `evamassa`, `rāgañca dosañca avijjañca`. Sandhi is resolved silently here, while the same file writes `kathañ'ca` (`14:170`), `evañ'ca` (`14:244`). | One convention | 6 |
-| 14.3 | `14:125` vs `14:129`; `14:20` vs `14:30` | `tasmātiha` / `tasmā't'iha`; `etad'avoca` / `etadavoca` | Sentence and table differ. | Match | 5 |
-| 14.4 | `14:527`, `14:537` | `pabbājentī"ti` | Double quote as the quote mark inside a word; elsewhere an apostrophe (`paññāpessatī'ti`, `14:342`). | `pabbājentī'ti` | 8 |
-| 14.5 | `14:91`, `14:248`, `14:262` | `ca-`, `evaṃ-`, `cattāro-` | Trailing hyphen on sandhi-split words that are not compound members. | Drop | 6 |
-| 14.6 | `14:787`, `14:802` | `acchejji` | The linked text (MN2) reads `acchecchi`; DPD lists `acchejji` as a variant. | Leave or note | 3 |
-
-#### Tags
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 14.7 | `14:807` | `mān'ābhisamayā \| noun \| masc.instr.sg \| by means of a complete comprehension of conceit` | `-ā` on a masculine a-stem is ablative (so `amanasikārā \| masc.abl.sg` at `14:612`). | `masc.abl.sg`; "through / because of…" | 8 |
-| 14.8 | `14:415`, `14:425` | `abhiññā \| adj \| masc.nom.pl \| with direct knowledge` | Tagged as an adjective of `dhammā`, but glossed and translated adverbially. DPD `abhiññā 3` is a gerund "directly knowing". | `verb \| abs` | 7 |
-| 14.9 | `14:166` vs `14:163` | `akāsi \| aor.2nd.sg`; subject `āyasmā \| masc.nom.sg` | A nominative subject takes the 3rd person (polite address). | `aor.3rd.sg` | 7 |
-| 14.10 | `14:62` | `tayo \| adj \| masc.acc.pl` | Every other numeral is `card`. | `card` | 8 |
-| 14.11 | `14:328` | `vassānaṃ \| noun \| masc.gen.pl \| of years` | "Year" is neuter (DPD `vassa 1.3`); masc is "rain". | `nt.gen.pl` | 6 |
-| 14.12 | `14:348`, `14:361` | `āvuso \| ind \| voc.sg \| friend` | In MN18 a group of monks is addressed. | "friends" | 6 |
-| 14.13 | `14:296`, `14:537` vs `14:534`, `14:338` | `siñcāpeyya \| verb \| opt.caus.3rd.sg`; `pabbājentī"ti \| verb \| pr.caus.3rd.pl` | "caus" inside Grammar; the same word three rows earlier is `verb. caus \| pr.3rd.pl`. | `verb.caus` | 9 |
-| 14.14 | `14:835`, `14:837`, `14:691` | `vuṭṭhāpiyamānaṃ`, `saṃvesiyamānaṃ \| prp`; `ārādhayiṃsu \| verb` | Causative passives / a causative (per their own Root cells) without the label that `14:267`, `14:370`, `14:804` carry. | Add label | 7 |
-| 14.15 | `14:218` | `adhicittam- \| noun \| nt` | An accusative (`adhicittaṃ + anuyutta`), not a bare stem. | `nt.acc.sg` | 5 |
-| 14.16 | `14:27` | `uttaraṃ \| … \| Uttara; lit. higher \| √tar･1 a (cross)` | The name is the comparative `ud + tara` (DPD `uttara 2`, no root); `√tar` belongs to `uttara 1` "crossing over". | Empty root | 7 |
-| 14.17 | `14:61` | `kumārassa \| √kumār×8 \*e (play)` | DPD's `kumāra` has no root. | Empty root | 6 |
-
-#### Glosses and translations
-
-| # | Location | Current | Problem | Suggested | Conf. |
-| --- | --- | --- | --- | --- | --- |
-| 14.18 | `14:478` | "[his] mind withdraws from, bends back from, rolls back from craving for tastes," | `na sampasāriyati` (rows `14:475-476`) is not translated. | Add "[and] is not drawn towards it" | 9 |
-| 14.19 | `14:585` | `asevitabbe … should not be associated with; should be followed` | Negation missing in the second gloss. | "should not be followed" | 9 |
-| 14.20 | `14:42`, `14:51`, `14:441` | "You should develop wholesome qualities." / "It is possible to develop…" / "As long as monks will not make known…" | `bhikkhave` omitted in all three; `ca` dropped in the last. | Add "monks" | 8 |
-| 14.21 | `14:32` | "And then, having had summoned a young brahmin Uttara, Payasi, the young nobleman, said this." | Ungrammatical; diacritics. | "And then Pāyāsi the young nobleman, having had the young brahmin Uttara summoned, said this." | 8 |
-| 14.22 | `14:18` | "He causes this very body to overflow, to flow around, to fill up all around, to suffuse with the joy and happiness born from separation…" | `parippharati` is not causative (`14:16`); "body … to suffuse" reverses the sense; "happiness / separation" against the glosses "ease", "solitude". | "He drenches, soaks, fills and suffuses this very body with the joy and ease born of solitude." | 6 |
-| 14.23 | `14:451` | "they will practise accepting the training rules as they had been formulated." | The third condition of the `yāvakīvaṃ` clause reads as a main clause; wrong tense. | "[and] will proceed having undertaken the training rules as formulated," | 6 |
-| 14.24 | `14:156` vs `14:154`; `14:631` | "the underlying tendency"; "and even taints that have arisen" | `anusayānaṃ` is plural; `c'eva … ca` is "both … and". | Fix | 6 |
-| 14.25 | `14:603` vs `14:590`; `14:667` vs `14:671` | `dhamme` as "things" and "practices" in one sentence; "words and letters" vs "words and phrases" | Gloss and translation differ. | Align | 7 |
-| 14.26 | `14:496`, `14:494` | `pan'idaṃ \| ind+pron \| moreover`; `taṃ … this` | `idaṃ` lost in the gloss; `taṃ` glossed "this" to compensate. | "moreover this"; "that" | 6 |
-| 14.27 | `14:98`, `14:372`, `14:375`, `14:378`, `14:310`, `14:356`, `14:296`, `14:795`, `14:728` | "investigate; examine"; "being cause to see together"; singular glosses on 3rd pl verbs; "causing to be heard along"; "lit. causes to know" (future); "should cause pour"; "who restrained"; "with no patron; owner" | Bare verbs, typos, voice and tense of the literal notes. | Fix | 7 |
-| 14.28 | `14:276-280`, `14:623-658`, `14:795`; `14:369-376` vs `14:675`; `14:298` vs `14:573`; `14:551-564` | `āsava`: impurities / effluents / taints; "scripture(s)" vs "discourse(s)"; `pācittiyaṃ`: "a case" vs "an offence"; four wordings for the two robes | Same word, several renderings. | Align | 6 |
-| 14.29 | `14:25`, `14:59-66`, `14:777`, `14:658`, `14:179`, `14:174`, `14:671` | `Payasi`, `Bandhuma`, `Vipassi`; `"monk, this is…`; unclosed `"Having abandoned…`; `understood.` in a cell; `how!?`; "not … nor" | Diacritics, capitals, punctuation. | Fix | 7 |
-| 14.30 | `14:286` vs `14:306-308`, `14:507-509`; `14:24`, `14:57` vs `14:686-687`; `14:91-92`, `14:374`, `14:622` | `yo pana bhikkhu`, `atha kho`, `c'eva` | Each analysed two or three ways inside one file (see E12). | One | 8 |
+| 2_class.md:46 | `uttarissa \| adj \| masc.gen.sg` | Not in DPD (verify_key NOT-FOUND). `uttarimanussadhamma` is `uttari` + `manussadhamma`; a declined gen.sg `uttarissa` is built for the drill and is tagged as a real form. (old 2.2) | Tag `uttari` as a compound member (DPD: uttari adj / ind; compound `uttari + manussadhamma`), or label line 42 as a drill decomposition | 5 |
+| 2_class.md:221 | `dukkhehi \| noun \| masc.instr.pl<br>masc.abl.pl` | The noun `dukkha` is neuter (4_class.md tags it nt, line 193). (old 2.3) | `nt.instr.pl<br>nt.abl.pl` (DPD: the noun dukkha is nt) | 9 |
+| 2_class.md:222 | `domanassehi \| noun \| masc.instr.pl<br>masc.abl.pl` | `domanassa` is neuter. (old 2.4) | `nt.instr.pl<br>nt.abl.pl` (DPD: the noun domanassa is nt) | 9 |
+| 3_class.md:62 | `‘idaṃ dukkhan'ti \| pron+noun+ind \| nt.nom.sg` | One row and one grammar tag for three words: `idaṃ` (pron), `dukkhaṃ` (noun) and the quotative `iti` (ind), which takes no case. | Split into three rows, or tag `nt.nom.sg + nt.nom.sg + quote` | 5 |
+| 4_class.md:253 | `paggaṇhahi \| verb \| imp.2nd.sg \| raise up` | Not a valid imperative (short a before `-hi`); verify_key NOT-FOUND. The sentence (line 249) has the same form. AN4.48 reads `paggaṇhe` (opt). (old 4.1) (old F2) | `paggaṇhāhi` in sentence and table (DPD base `gaṇhā`); verify the AN4.48 reading | 8 |
+| 4_class.md:47 | `tilā \| noun \| masc.nom.pl \| sesame` | DPD has `tila` as nt only; verify_key IMPOSSIBLE (DPD reading: nt nom pl). The text's `ime tilā` shows masculine concord, so the tag follows the sentence, not DPD. (old F4) (old 4.8) | `nt.nom.pl`, or a note on the masculine concord | 6 |
+| 4_class.md:107 | `byādhi \| noun \| masc.nom.sg \| sickness` | The source has the compound `byādhidhammomhi` (the exercise writes `byādhi-dhammo`); the first member is tagged as a nominative. (old 4.2) | `byādhi-dhammo` as one adj row (DPD: byādhidhamma, adj, "liable to get sick"), or `byādhi-` untagged for case | 7 |
+| 4_class.md:149 | `panūda \| verb \| imp.2nd.sg \| dispel` | SN2.8 and Dhp 383 read `panuda`; also in the sentence (line 141). (old 4.4) | `panuda`; verify against the text (the headword lookup cannot confirm an imperative form) | 5 |
+| 4_class.md:204 | `gahassa \| noun \| masc.gen.sg \| of a house` | `gaha` "house" is neuter; masc `gaha` is "seizing", "planet". (old 4.7) | `nt.gen.sg` (DPD: gaha 2 nt "house") | 8 |
+| 4_class.md:313 | `vissuto \| adj \| masc.nom.sg \| famous, renowned` | Tagged adj; also `sukhitā \| adj` (line 299), while `upaddutā` (line 335) and `diṭṭho` (line 206) are pp. (old 4.9) | `pp` for both (DPD: vissuta pp of vi √su; sukhita pp of sukheti) | 6 |
+| 5_class.md:45 | `gamissāmi \| verb \| fut.1st.sg \| I will go \| √gam･1 \*e (go)` | `gamissati` belongs to `gacchati` (`√gam･1 a`); the `*e` sign comes from an unrelated causative headword. (old D14) | `√gam･1 a (go)` (DPD: gacchati, √gam a) | 8 |
+| 5_class.md:295 | `etaṃ \| pron \| masc.acc.sg \| this` | The thing asked about is a neuter "this". (old 5.6) | `nt.acc.sg` | 6 |
+| 5_class.md:305 | `no \| pron \| 1st.acc.pl \| us` | The translation (line 313) says "to us"; with `byākaroti` the person told is dative. (old 5.7) | `1st.dat.pl \| to us` | 5 |
+| 5_class.md:356 | `uccāsoṇḍaṃ \| noun \| fem.acc.sg \| a high trunk` | Gender and POS of `uccāsoṇḍa` to confirm (compound with `soṇḍā` fem "trunk"). | DPD lookup (`uccāsoṇḍa` is not a DPD headword; `soṇḍā` was not looked up) | 3 |
+| 5_class.md:529 | `jina \| verb \| imp.2nd.sg \| you must win, conquer, defeat \| √ji･5 nā (conquer)` | Not a valid imperative of `jināti` (that is `jināhi`); verify_key IMPOSSIBLE. Dhp 223 has the optative `jine`; the same at line 532 and in the sentence (line 525). | `jine` with `opt.3rd.sg` (the Dhp 223 reading; verify), or `jināhi` (DPD base `jinā`) | 6 |
+| 5_class.md:596 | `phāsu \| noun \| masc.nom.sg \| ease; comfort` | As predicate of `hoti`, an adjective or indeclinable reading is more natural; 10_class.md line 476 tags it `ind \| adv`. (old 5.8) | One tag in both classes. DPD has all three readings (phāsu adj, masc "ease; comfort", ind adv), so neither line is wrong by itself | 4 |
+| 6_class.md:358 | `vā \| ind \| conj \| or` | Snp 1.8 reads `sukhinova` = `sukhino va` (emphatic or "as it were"), not "or"; the translation (line 366) follows "or". (old 6.3) | verify; `va \| ind \| emph`, "happy and secure" | 6 |
+| 6_class.md:415 | `bāhu-pacālakaṃ \| ind \| adv` | Hyphen inside one word; the Sekhiya reads `bāhuppacālakaṃ`; also the sentence (line 410). (old 6.4) | `bāhuppacālakaṃ`; verify against the Sekhiya text (not a DPD headword) | 5 |
+| 6_class.md:548 | `mānaṃ \| noun \| nt.acc.sg \| pride; conceit` | `māna` "conceit" is masculine; the neuter `māna` is "measure". (old 6.6) | `masc.acc.sg` (DPD: māna 1.1 masc "pride; conceit"; māna 2.1 nt "measure") | 9 |
+| 7_class.md:175 | `abhitthaveyyāmi \| verb \| opt.1st.sg \| I would praise` | verify_key NOT-FOUND. SN8.11 reads `abhitthaveyyaṃ`. | `abhitthaveyyaṃ` (verify_key finds no DPD form `abhitthaveyyāmi`; the headword lookup cannot show the inflection table) | 6 |
+| 7_class.md:216 | `ananda \| noun \| masc.voc.sg \| Ananda` | Short first vowel; verify_key NOT-FOUND. The sentence (line 210) has the same; the source reads `panānanda`. (old 7.1) (old F1) | `ānanda`, `Ānanda` | 9 |
+| 7_class.md:267 | `atītaṃ \| adj \| masc.acc.sg \| the past` | Used as a noun "the past" (nt); also `anāgataṃ` (line 270) "the future". (old 7.10) | `atītaṃ`: `noun \| nt.acc.sg` (DPD atīta 1 nt "past; what is past"); `anāgataṃ`: `noun \| masc.acc.sg` (DPD anāgata 3 masc "future") | 6 |
+| 7_class.md:270 | `anāgataṃ \| adj \| masc.acc.sg \| the future \| √gam･1 \*e (go)` | `anāgata` is from `√gam･1 a`; `*e` is the causative sign. The same for `upasaṅkami` (`√kam`) at 8_class.md line 57. (old D13) | `√gam･1 a (go)` (DPD: anāgata, √gam a); `√kam･1 a` | 8 |
+| 7_class.md:333 | `gāhaṃ \| noun \| masc.acc.sg \| hiding place \| √gah･6 ṇhā (grasp)` | DPD derives every `gāha` from `√gah`, so the Root cell follows DPD and the old audit's `√gāh` is not supported. But DPD has no sense "hiding place" for `gāha` (its senses: capture, being caught; idea; aquatic predator); the gloss and the translation (`where they would go [for] a hiding place`) may be wrong. (old 7.14) | verify the gloss against MN 25 (DPD gāha 1.2 "capture; being caught") | 4 |
+| 7_class.md:441 | `koci'd'eva \| ind \| pron+ind \| some or other; just some` | A declined pronoun agreeing with `paccayo`; tagged `ind` here and `idiom` at 8_class.md line 601. (old 7.9) | `pron \| masc.nom.sg` | 6 |
+| 7_class.md:455 | `āpā \| noun \| masc.nom.pl \| water` | Gender of `āpa` to confirm (nt in DPD per the old audit; `āpas` masc). (old 7.8) | `nt.nom.pl` (DPD has `āpa` only as nt, in compounds); DPD lookup (`āpo`) for the free-standing noun | 5 |
+| 7_class.md:462 | `kissa \| pron.<br>interr \| masc.dat.sg \| for what reason?; why?` | The neuter fits "why"; `<br>` inside the POS cell. (old 7.12) | `pron \| nt.dat.sg` | 5 |
+| 7_class.md:463 | `pariyesanaṃ \| ind \| adv \| searching for; looking for` | `pariyesanaṃ` is the accusative of the noun `pariyesanā` (object of `care`), not an indeclinable. | `noun \| fem.acc.sg \| a search` (DPD: pariyesanā fem; no indeclinable) | 6 |
+| 7_class.md:482 | `assavanatā \| noun \| fem.instr.sg (+gen) \| by the fact of not hearing` | `-tā` is not an instrumental ending; it is usually explained as an ablative of cause (`assavanatā` abl.sg). (old 7.11) | `fem.abl.sg` (DPD gives only the headword, fem abstr; the case is not settled by the lookup) | 4 |
+| 8_class.md:174 | `pallaṅkena \| ind \| adv \| in cross-legged posture` | `pallaṅkena` is the instrumental of the noun `pallaṅka`, tagged `noun \| masc.acc.sg` at line 260. | `noun \| masc.instr.sg` (DPD: pallaṅka masc only; no indeclinable) | 7 |
+| 8_class.md:206 | `aññataro \| adj \| masc.nom.sg \| a certain` | `aññatara` is a pronoun; `aññaṃ`, `anaññaṃ` (lines 92, 364) and `ekaccassa` are tagged `pron`. (old 8.5) | `pron` (DPD: aññatara pron) | 8 |
+| 8_class.md:234 | `dūramaṃ \| adj \| masc.acc.sg [+loc] \| difficult to find delight (in)` | No masculine accusative noun to agree with; it is the predicate of the `yattha` clause. (old 8.7) | `nt.nom.sg` | 5 |
+| 8_class.md:250 | `pabbajeyyāmi \| verb \| opt.1st.sg \| I would go forth` | verify_key NOT-FOUND; MN27 reads `pabbajeyyaṃ`. Same pattern as `abhitthaveyyāmi` (7_class.md line 175). | `pabbajeyyaṃ` (verify_key finds no DPD form `pabbajeyyāmi`; the headword lookup cannot show the inflection table) | 6 |
+| 8_class.md:339 | `vīsatigaṇo \| noun \| masc.nom.sg \| group of twenty` | A bahubbīhi qualifying `bhikkhusaṅgho` ("a saṅgha numbering twenty"). (old 8.6) | `adj` (DPD: vīsatigaṇa adj, digu > bahubbīhi, "with a quorum of twenty monks") | 8 |
+| 8_class.md:376 | `dakkhiṇena \| adj \| masc.instr.sg \| with right` | The adjective must agree with `passena` (nt, line 377); "right" also sits in the gloss of `passena`. (old 8.4) | `nt.instr.sg`; `passena` "with the side" | 8 |
+| 8_class.md:495 | `[^1]: Alternatively, can be taken as a noun masc instr sg - (having illuminated) with extraordinary appearance` | An instrumental of `vaṇṇa` would be `-vaṇṇena`; `-vaṇṇā` (line 399) cannot be instr.sg. (old 8.8) | Reword the note (e.g. "a bahubbīhi, fem.nom.sg") | 4 |
+| 8_class.md:577 | `uparujjhati \| verb \| pr.3rd.sg \| is ended \| √rudh･2 ṃa (obstruct)` | The same verb has `√rudh･2 ya` at line 572 in the same item. (old D10) | `√rudh･2 ya (obstruct)`, as at line 572 (DPD: uparujjhati, √rudh with the sign ya) | 8 |
+| 8_class.md:626 | `nārīsu \| noun \| fem.loc.pl \| with regard to women` | Dhp 284 reads `nārisu` (short i, for the metre); the item is not marked `(simpl)`; also the sentence (line 614). (old 8.1) | verify; `nārisu` | 6 |
+| 9_class.md:85 | `kallaṃ \| ind \| - \| is it suitable?` | `kalla` is an adjective "proper, fitting", here the predicate (nt.nom.sg). (old 9.12) | `adj \| nt.nom.sg` (DPD: kalla 1.4 adj "proper; valid; legitimate"; no indeclinable) | 7 |
+| 9_class.md:76 | `yaṃ \| pron \| nt.acc.sg \| whatever` | `yaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ` is a nominal relative clause ("whatever is impermanent…"), so the four words (lines 76–79) are nominative; only `taṃ` (line 86) is the object. The same at line 373 (`yaṃ … na tumhākaṃ`). (old 9.7) | `nt.nom.sg` | 7 |
+| 9_class.md:119 | `vicikicchituṃ \| verb \| inf \| to be unsure, be confused \| √cit･8 cha (think, intend)` | Sign `cha` for a desiderative whose sign is `sa`; the same for `jegucchī` (line 632, `√gup･1 cha`) and `vicikicchati` at 15_class.md line 383. (old D16) | Sign `sa` (DPD: vicikicchati, √cit with sa; jegucchī, √gup with sa) | 8 |
+| 9_class.md:182 | `dassanāya \| noun \| masc.dat.sg [dat of purpose] \| to see; to look at` | `dassana` is neuter. (old 9.6) | `nt.dat.sg` (DPD: the noun dassana is nt) | 9 |
+| 9_class.md:239 | `bahujanahitāya \| noun \| nt.dat.sg [dat of purpose]` | verify_key IMPOSSIBLE (no DPD reading matches `nt.dat.sg`). `bahujanahita` is not a DPD headword, so the report has no reading to compare; the tag may still be right. | DPD lookup (`hita`) | 3 |
+| 9_class.md:260 | `anupubbasikkhā \| noun \| fem.acc.pl \| gradual training[s]` | With `sakkā … paññapetuṃ` the logical object is nominative singular; the translation (line 265) is singular; also lines 261, 262. (old 9.8) | `fem.nom.sg` | 7 |
+| 9_class.md:334 | `ajjhāvasatā \| noun \| masc.nom.sg [+acc] \| one who is domestically settled` | A present participle, instrumental singular (the agent of `na sukaraṃ … carituṃ`); `-atā` cannot be nominative. (old 9.5) | `prp \| masc.instr.sg [+acc] \| by one living in (a house)` | 9 |
+| 9_class.md:363 | `saggaṃ \| adj \| masc.acc.sg \| heavenly \| √gam･1 a (go)` | Root copied from `sugatiṃ` (line 362); verify_key ROOT-MISMATCH. (old D3) | `√sar` with the sign `a` (DPD: sagga 1.1 adj "heavenly", `√sar + ga`) | 9 |
+| 9_class.md:404 | `kiṃ \| ind \| interr \| what` | A predicate pronoun ("what am I?"); also the object at line 445 (`taṃ kiṃ maññasi`); tagged `pron` at line 692. (old 9.11) | `pron \| nt.nom.sg` / `nt.acc.sg` | 5 |
+| 9_class.md:463 | `tassa \| pron \| masc.gen.sg \| of that` | `tassa me` is "to me (being such)": `tassa` agrees with `me` (line 464, dat). (old 9.10) | `masc.dat.sg` | 6 |
+| 9_class.md:555 | `parikkhāre \| noun \| masc.acc.pl \| requisites; accessories` | With `ussukā` the objects of concern are locative ("in regard to"), and the verse continues with a locative; also `bhesajje`, `paccaye` (lines 556, 558). (old 9.9) | `loc.sg` "in regard to" | 6 |
+| 10_class.md:160 | `paritassati \| verb \| pr.3rd.sg \| he is perturbed; is shaken; is agitated; is anguished \| √tas･3 ya (be agitated)` | verify_key ROOT-MISMATCH here and for `aparitassaṃ` (line 166). (old D6) | DPD lookup: DPD has `paritassati` from √tas with the sign ya, which agrees with the cell; what verify_key objects to (root gloss or homonym) is not visible in the report | 4 |
+| 10_class.md:273 | `sahatthā \| ind \| masc.instr.sg` | POS `ind` with a case tag. (old 10.4) | `noun \| masc.abl.sg` (DPD has only the masc noun sahattha "one's own hand"), or `ind \| adv`; not `ind` with a case | 6 |
+| 10_class.md:365 | `purato \| ind \| prep \| in front` | An adverb here, like the parallel `pacchato` (line 363). (old 10.7) | `adv` | 6 |
+| 10_class.md:396 | `evaṃ \| ind \| emph \| thus; in this way` | `evaṃ` "thus" is an adverb, tagged `adv` in the same sentence (line 398); also `emph` at line 141. (old 10.6) | `adv` | 8 |
+| 10_class.md:454 | `ādiyamāno \| prp \| masc.nom.sg [+acc] \| taking; stealing \| √dā･1 a (give)` | verify_key ROOT-MISMATCH; the class has `√ādā･3 ya` for `upādiyati` (line 152). (old D5) | `√ādā･3 ya (take, seize)`, as at line 152 (DPD: ādiyati, √ādā ya) | 8 |
+| 10_class.md:467 | `sametu \| verb \| imp.3rd.sg \| he should agree (with); let him harmonize (with) \| √sam･3 \*e (be calm, tired)` | `sameti` "agrees" is a different homonym from `sameti` "calms" (√sam). (old D4) | `√i･1 a (go)` (DPD: sameti 2.2 "agrees; matches", `saṃ + e + ti`, √i) | 9 |
+| 10_class.md:490 | `uddharāpeyya \| verb \| opt.3rd.sg \| should cause removing; make to take away; cause to pack up \| √dhar･1 a (hold, carry, endure)` | A causative given the plain sign `a`. (old D15) | `√dhar･1 \*āpe` (DPD: uddharāpeti, caus of uddharati, √dhar \*āpe) | 8 |
+| 10_class.md:519 | `imasmiṃ \| pron \| masc.loc.sg<br>(loc.abs) \| when this` | The referent is neuter (`idaṃ`, `imassa` nt.gen.sg, lines 521, 523); also `sati`, `imasmiṃ`, `asati` (lines 520, 527, 528). (old 10.5) | `nt.loc.sg` | 7 |
+| 10_class.md:535 | `nirujjhati \| verb \| pr.3rd.sg \| ceases \| √rudh･2 ṃa (obstruct)` | Sign `ṃa`; `√rudh･2 ya` elsewhere in the key (8_class.md line 572, 13_class.md line 283); also `nirodhā` (line 533). (old D10) | `√rudh･2 ya` (DPD: nirujjhati, √rudh with the sign ya) | 8 |
+| 10_class.md:748 | `anekajāti \| adj \| masc.nom.sg \| with many rebirths; having multiple lives` | Dhp 153 has the compound `anekajātisaṃsāraṃ`; the first member cannot be nom.sg. The sentence (line 744) also splits it. (old 10.2) | `anekajātisaṃsāraṃ`, or tag as a compound member | 8 |
+| 11_class.md:50 | `ādittacelo \| noun \| masc.nom.sg \| whose clothes are on fire; with blazing garments` | A bahubbīhi glossed as an adjective but tagged `noun`; its members get case tags (`āditta- \| pp \| masc.nom.sg`, `-celo \| adj`, lines 51–52, 55–56). (old 11.11) | Compound `adj` (DPD: ādittacela adj, kammadhāraya > bahubbīhi); members without case | 7 |
+| 11_class.md:128 | `khataṃ \| pp \| masc.acc.sg \| injured, uprooted \| √khan･1 a (hurt, break)` | The gloss joins two DPD homonyms: `khata` "hurt; injured" is the pp of khanati (√khan, as in the Root cell); "dug up; uprooted" is the pp of khaṇati (√khaṇ). DPD also lists the idiom `khata upahata` "hurt and injured". | Gloss "injured" only | 6 |
+| 11_class.md:170 | `ujū \| adj \| masc.nom.pl \| straight, upright` | The subject is singular (`sakko … suvaco cassa`); the `-ū` is metrical lengthening. Also `suhujū` (line 172). (old 11.7) | `masc.nom.sg` | 9 |
+| 11_class.md:253 | `mettāya \| noun \| fem.instr.sg \| with goodwill` | In apposition to `cetovimuttiyā` in the loc abs ("goodwill-liberation of mind"). (old 11.12) | `fem.loc.sg (loc abs)` | 5 |
+| 11_class.md:465 | `evaṃ \| ind \| emph \| thus` | "thus" is the adverb; the same tag was flagged in class 10 (10_class.md line 396). | `adv` | 6 |
+| 11_class.md:495 | `vimuttasmiṃ \| pp \| nt.loc.sg [loc abs] \| when liberated \| √muc･2 ya (release, free)` | Sign `ya`; the old audit gives `√muc･2 ṃa`. Also `vimuccati` (line 494). (old D11) | `√muc･2 ṃa` for `vimuttasmiṃ` (DPD: vimutta, √muc ṃa); `vimuccati` keeps `ya` (DPD: muccati, √muc ya) | 7 |
+| 11_class.md:515 | `tassa \| ind \| adv \| therefore; thus; so; because of that` | In `tassa me … accayaṃ` the class 9 key reads `tassa` as a pronoun agreeing with `me` (9_class.md line 463). DPD has both readings (tassa pron; tassa 4 ind adv "therefore"). | One reading in both classes; with `me` the pronoun (`pron \| masc.gen.sg`) fits | 5 |
+| 11_class.md:566 | `maṃ \| pron \| masc.acc.sg \| me` | Personal pronouns carry person, not gender. (old 11.8) | `1st.acc.sg` | 9 |
+| 11_class.md:584 | `attaniye \| adj \| masc.loc.sg [loc abs] \| since belonging to oneself` | A substantive "what belongs to self": neuter. (old 11.13) | `nt.loc.sg` | 5 |
+| 11_class.md:638 | `eta'r'ahi \| ind \| adv \| at present` | `etarahi` split with two elision marks; also in the sentence (line 624). (old 11.4) | `etarahi` (DPD: `eta + [r] + ahi`), unless the marks are a deliberate sandhi notation: owner decision | 5 |
+| 11_class.md:650 | `ca \| ind \| adv \| and` | `ca` is `conj` in the other rows. (old 11.9) | `conj` | 9 |
+| 11_class.md:662 | `dheyyaṃ \| noun \| nt.nom.sg \| the realm of; the sphere of` | No nominative role: it is what is crossed. Also `suduttaraṃ` (line 663); the translation (line 665) leaves it dangling. (old 11.10) | `nt.acc.sg`; "…will cross the realm of death, so hard to cross" | 6 |
+| 12_class.md:492 | `sarena \| ind \| adv \| sweetly; melodiously` | An instrumental noun tagged as an adverb (DPD: sara "sound; voice" is masc only). The old row also cited `yena \| ind \| adv` (line 110); that is a DPD reading (yena 2, ind adv "because of which") and stands. (old 12.10) | `noun \| masc.instr.sg` | 6 |
+| 12_class.md:159 | `mano- \| noun \| masc.nom.sg \| mind, heart` | A compound member (`manosañcetanā`, line 137) given a case tag. (The gender agrees with DPD: mano 1, masc, in comps.) | No case for the member: `mano- \| noun \| masc` | 6 |
+| 12_class.md:209 | `catutthaṃ \| ordin \| fem.acc.sg \| the fourth (direction)` | verify_key IMPOSSIBLE: the fem. of `catuttha` is `catutthī`; DPD gives `catutthaṃ` as nt or `ind`. | `ind \| adv` or `nt.acc.sg` | 7 |
+| 12_class.md:239 | `chattiṃsa \| card \| fem.nom.pl \| thirty-six` | verify_key IMPOSSIBLE: DPD has `chattiṃsā` card fem nom sg. (old F6) | `fem.nom.sg`; check the spelling | 6 |
+| 12_class.md:345 | `caturāsītīnaṃ \| card \| fem.dat.pl \| for eighty-four` | verify_key NOT-FOUND: a plural of a decade numeral. DN14 has `caturāsītiyā pāṇasahassānaṃ`; the sentence (line 339) is reworded without `(simpl)`. (old 12.3) | verify; `caturāsītiyā` | 6 |
+| 12_class.md:416 | `satehi \| adj \| masc.instr.pl \| with one hundred` | `noun \| nt.instr.pl` for the same word at line 87. (old 12.5) | `card \| nt.instr.pl` (DPD: sata 2.1 card, nt), and the same tag at line 87 | 7 |
+| 12_class.md:458 | `vīsati \| card \| fem.acc.sg \| twenty (20)` | verify_key IMPOSSIBLE: DPD has `vīsati` as fem nom sg; the acc. sg. is `vīsatiṃ`. (old F7) | Re-tag, or note the elided form | 5 |
+| 12_class.md:597 | `pācittiyena \| noun \| masc.instr.sg \| by an offence requiring confession` | `pācittiya` is neuter, as in the key at 10_class.md line 185 (`pācittiyaṃ \| noun \| nt.nom.sg`); `pārājikena` (line 593) is nt, `saṅghādisesena` (line 595) masc. (old 12.9) | `nt.instr.sg` (DPD: pācittiya 1 nt) | 8 |
+| 12_class.md:654 | `bhagavā \| noun \| masc.nom.sg \| Blessed One` | With `brūhi` (imp.2nd.sg) this is an address; the translation (line 660) "May the Blessed One tell [us]" turns it into 3rd person. (old 12.6) | `masc.voc.sg`; "Tell [us] …, Blessed One" | 6 |
+| 12_class.md:657 | `parābhavato \| noun \| masc.abl.sg \| for/of the downfall` | The gloss is gen/dat, the tag abl.; usually read as the gen. sg. of the prp ("of one who is declining"). (old 12.7) | Either keep the tag (verify_key: `parābhava` noun masc abl sg is a DPD reading) and gloss it as an ablative, or `prp \| masc.gen.sg` "of one who is declining"; tag and gloss must agree | 5 |
+| 13_class.md:31 | `gaccheyyāmi'ti` | The vowel before `'ti` is lengthened: the exercise has `gaccheyyāmī'ti`. (old B14) | `gaccheyyāmī'ti` | 7 |
+| 13_class.md:88 | `vinassantu \| verb.pass \| imp.3rd.pl \| may they be destroyed` | `vinassati` is an active group-3 verb (DPD `pr`), as the row's own `√nas･3 ya` says. (old 13.7) | `verb`; "may they perish" | 9 |
+| 13_class.md:103 | `eta'r'ahi \| ind \| adv \| now` | `etarahi` split with two elision marks, as at 11_class.md line 638; also in the sentence (line 97). | `etarahi` (DPD: `eta + [r] + ahi`), unless the marks are a deliberate sandhi notation: owner decision | 5 |
+| 13_class.md:167 | `kiṃ \| pron \| nt.nom.sg \| why` | Adverbial "why" is not nominative; the same phrase is `ind` at line 35. (old 13.14) | `ind \| interr` | 5 |
+| 13_class.md:225 | `tasmiṃ \| pron \| masc.loc.sg (loc abs) \| when that` | The vomited thing is the food (nt): a locative of reference with `assa` ("would that man have a desire for that vomit?"); also `vante` (line 226). The translation (line 231) makes the man the agent. (old 13.12) | `nt.loc.sg`; reword | 6 |
+| 13_class.md:283 | `nirujjhamānā \| prp. pass \| fem.nom.sg \| ceasing` | DPD: `nirujjhati` is `pr, pass of ni √rudh`, "ceases", so the passive tag is defensible. But it is used here and at line 284 (`verb. pass … is ceased`) only; class 15 (15_class.md lines 373, 374) has `prp`, `verb \| ceases`. "is ceased" is not English. (old 13.8) | One tag in both classes; gloss "ceases" | 7 |
+| 13_class.md:320 | `saṃvijjamānā \| prp. pass \| masc.nom.pl` | DPD: `saṃvijjati` is `pr` "exists". (old 13.9) | `prp` (DPD: saṃvijjati 1.1 is plain `pr`, "exists; is found") | 7 |
+| 13_class.md:364 | `munī \| noun \| masc.nom.sg \| sage, monk` | verify_key IMPOSSIBLE: `munī` is nom.pl by form; nom.sg only by metrical lengthening. (old F8) | Add "(metrical)" | 5 |
+| 13_class.md:401 | `uddhaṃ \| ind \| prep \| above` | Free adverbs here; also `adho`, `tiriyaṃ` (lines 402, 404). (old 13.15) | `adv` | 4 |
+| 13_class.md:412 | `dūre vasanti avidūre` | The `c` of `ye ca` before this is Cyrillic U+0441 (mech_checks CYRILLIC); it breaks search and DPD lookup. (old A5) | Latin `ca` | 10 |
+| 13_class.md:532 | `sallaviddhānaṃ \| adj \| masc.gen.pl (gen abs) \| when pierced by an arrow` | Three words for the same people get two cases (`āturānaṃ` dat.pl, line 528; `ruppataṃ` gen.pl, line 533); the "gen abs" has no separate subject. (old 13.13) | Same case; drop "(gen abs)" | 5 |
+| 13_class.md:545 | `accagamā \| verb \| imperf.3rd.sg` | The only `imperf` tag in the key. | `aor.3rd.sg`; DPD lookup (`accagacchati` is not a DPD headword, so the tense was not confirmed) | 4 |
+| 14_class.md:27 | `uttaraṃ \| noun \| masc.acc.sg \| Uttara; lit. higher \| √tar･1 a (cross)` | The name is the comparative `ud + tara` "higher"; `√tar` belongs to `uttara` "crossing over". (old 14.16) | Empty Root cell (DPD: uttara 2.04 masc, name, `ud + tara`, no root) | 8 |
+| 14_class.md:61 | `kumārassa \| noun \| masc.dat.sg \| for prince \| √kumār×8 \*e (play)` | verify_key ROOT-MISMATCH: DPD `kumāra` has no root. (old 14.17) | Empty root | 7 |
+| 14_class.md:166 | `akāsi \| verb \| aor.2nd.sg \| did; made` | The subject `āyasmā` (line 163) is nominative, which takes the 3rd person (respectful address); `akāsi` is both 2nd and 3rd sg, so the tag is a choice. (old 14.9) | `aor.3rd.sg` | 5 |
+| 14_class.md:218 | `adhicittam- \| noun \| nt \| meditation, higher mind` | An accusative governed by `anuyutta` (`adhicittaṃ + anuyuttena`), not a bare stem. (old 14.15) | `nt.acc.sg` | 5 |
+| 14_class.md:328 | `vassānaṃ \| noun \| masc.gen.pl \| of years` | `vassa` "year" is neuter in DPD (vassa 1.3); the masculine is "rain; rainy season". (old 14.11) | `nt.gen.pl` | 8 |
+| 14_class.md:415 | `abhiññā \| adj \| masc.nom.pl \| with direct knowledge` | Tagged as an adjective of `dhammā`, but glossed and translated (line 425) adverbially; reads as the absolutive "having directly known". (old 14.8) | `verb \| abs` (DPD: abhiññā 3, ger of abhijānāti, "directly knowing") | 7 |
+| 14_class.md:458 | `paṭikūlasaññāya \| noun \| fem.instr.sg (+loc)` | AN7.49 has one compound, `āhāre paṭikūlasaññāparicitena`; the key splits it into an inflected `paṭikūlasaññāya` + `paricitena` (sentence line 453), not marked `(simpl)`. (old 14.1) | verify; `paṭikūlasaññā-` + `paricitena` | 7 |
+| 14_class.md:497 | `dukkhasamudayaṃ \| noun \| nt.nom.sg` | verify_key IMPOSSIBLE: DPD has `dukkhasamudaya` masc only (`-aṃ` = acc.sg); nom.sg nt works only as an adjective of `saccaṃ`, as the gloss says. (old F5) | `adj \| nt.nom.sg` | 6 |
+| 14_class.md:562 | `sāditabbaṃ \| ptp \| nt.nom.sg \| could/should be accepted by \| √sād･1 \*e (taste, relish)` | verify_key ROOT-MISMATCH; the old row gives DPD's group as 8. Also `sādiyeyya` (line 571). (old D8) | `√sād･8 \*e` | 7 |
+| 14_class.md:651 | `virājiya \| verb \| abs \| removing; cleansing \| √raj･3 ya (desire)` | `virājeti` is a causative: DPD gives it the sign `\*e` (caus of virajjati), from the same √raj as `virajjati` (sign ya). So the root is right but the sign `ya` is the non-causative one; the old audit's separate root "colour" is not what DPD has. (old D7) | Sign `\*e` in place of `ya` | 7 |
+| 14_class.md:774 | `bhedanāya \| noun \| nt.dat.sg \| for breaking \| √bhid･2 ṃa (break, split)` | DPD derives `bhedana` from the causative bhedeti: √bhid with the sign `\*e`. (old D12) | `√bhid･2 \*e` | 7 |
+| 14_class.md:802 | `acchejji \| verb. caus.pass \| aor.3rd.sg` | The tag follows DPD (acchejji: aor of caus pass of ā √chid, "completely cut out"), so it stands. The old row's other point remains: MN2 is said to read `acchecchi`, which DPD has as a separate headword (aor of the intensive, same meaning). (old 14.6) | verify the MN2 reading; if `acchecchi`, change sentence and row | 4 |
+| 14_class.md:807 | `mān'ābhisamayā \| noun \| masc.instr.sg` | `-ā` on a masculine a-stem is ablative, as `amanasikārā \| noun \| masc.abl.sg` (line 612). (old 14.7) | `masc.abl.sg`; "through the full penetration of conceit" | 8 |
+| 15_class.md:135 | `dhammaṃ \| noun \| masc.acc.sg \| doctrine, teaching` | In `yathādhammaṃ` ("properly, according to the rule") the compound is an adverb; the translation (lines 139, 153) has "in accordance with the Doctrine". Also line 149. | `yathādhammaṃ \| ind \| adv` (DPD: ind, adv, abyayībhāva, "fairly; correctly; justly; legally") | 6 |
+| 15_class.md:181 | `anavajjā \| adj(\<ptp) \| fem.nom.sg \| faultless; blameless; irreproachable \| √vad･1 a (say, speak)` | The same two words get different roots in the opening and closing sentences: `anavajjā` `√vad･1 a` here, `√vad･8 \*e` at line 241; `ananuvajjā` `√vad･1 a` at line 183, `√vad･8 \*e` at line 243. DPD has `anavajja` from √vad with the sign `\*e` and `ananuvajja` from √vad with the sign `a`, so lines 183 and 241 follow DPD. (old D9) | `anavajjā` `√vad･8 \*e`; `ananuvajjā` `√vad･1 a` | 8 |
+| 15_class.md:192 | `katamehi \| pron \| masc.instr.pl \| with what; with which (of the many)` | It qualifies `aṅgehi`, tagged nt (line 174); also `imehi \| pron \| masc.instr.pl` (line 230). Copied from item 2, where the referent `dhammehi` is masc. (old 15.3) | `nt.instr.pl` | 8 |
+| 15_class.md:299 | `yathābhūtaṃ \| adj \| masc.acc.sg \| as it truly is` | Adverbial gloss; `ind \| adv` at 3_class.md line 63; also line 318. (old 15.4) | `ind \| adv` (DPD: yathābhūtaṃ ind, adv, "as it truly is") | 8 |
+| 15_class.md:358 | `n'ādhiṭṭhāti \| verb \| pr.3rd.sg \| does not take a stand` | Contains the negative but has no `+neg`, unlike `n'atthī'ti \| verb \| pr.3rd.sg +neg` (line 424). (old 15.5) | Add `+neg` | 6 |
+| 15_class.md:438 | `ubho \| pron \| masc.acc.pl \| both` | verify_key IMPOSSIBLE: DPD tags `ubho` as dual. Not wrong for a beginner key. (old F9) | Leave, or note `dual` | 3 |
+| 6_class.md:488 | `bhante \| noun \| masc.voc.sg \| Venerable sir \| √bhad×1 a (be good, lucky)` | verify_key ROOT-MISMATCH: DPD derives `bhante` from `bhavant` (√bhū). 12 rows: also 7:473, 8:600, 9:349, 9:460, 9:651, 10:308, 11:517, 12:482, 13:127, 15:263, 15:268 (class:line). (old D1) | `√bhū･1 a (be, become)` | 8 |
+| 6_class.md:291 | `maggo \| noun \| masc.nom.sg \| the path \| √magg･8 \*e (seek, search)` | The old audit gives DPD's root for `magga` as `√magg･1 a`; also 9_class.md lines 285, 466. (old D2) | `√magg･1 a` (DPD: magga, √magg with the sign a) | 7 |
+| 9_class.md:177 | `samaṇo \| noun \| masc.nom.sg \| the recluse \| √sam･3 ya (exert, strive)` | Verb mark `･` where the old audit's DB comparison has DPD's `×`: `samaṇo` ×5 (also 10:440, 11:184, 12:526, 13:513), `mettā` ×4 (11:253, 12:192, 13:390, 15:218), `bhusaṃ` (12:571). (old D20) | DPD lookup: `×` if DPD has it (the lookup output does not print the `･` / `×` mark, so the old claim was not re-confirmed) | 4 |
+| 5_class.md:66 | `davāya \| noun \| masc.dat.sg \| for fun, for play \| √dū×1 a (go, run)` | 17 rows with `×` where the old audit's DB comparison has DPD's `･`: also 5:158, 8:51, 8:262, 8:476, 8:620, 9:21, 9:560, 11:170, 11:172, 11:336, 11:640, 12:492, 13:423, 13:425, 14:463, 14:484. (old D21) | DPD lookup | 5 |
+
+## B. Tables, paradigms and lists that disagree with each other or themselves
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 2_class.md:84 | `iti'pi \| sandhi (iti + api)` | The sentence (line 80) writes `itipi`. (old 2.1) | One spelling | 8 |
+| 3_class.md:51 | `sabba-rasaṃ \| noun \| masc.acc.sg` | Hyphenated in the table only; the sentence (line 47) writes `sabbarasaṃ dhammaraso`. The same for `joti-pālaṃ` (line 83) vs `jotipālaṃ` (line 78). (old 3.1) | Match the sentence | 6 |
+| 4_class.md:24 | `3. [AN3.70](https://s.dhamma.gift/an/an3/index.html#an3.69)<br>abhisaṅkharoti kāyena kusalaṃ.` | Word order differs from the exercise (`kāyena kusalaṃ abhisaṅkharoti`, bpc_ex/4_class.md line 26); the exercise is marked `(simpl)`, the key is not. (old B1) | Align sentence and marker with the exercise | 6 |
+| 4_class.md:269 | `saccaṃ bhavantaṃ gotamaṃ apucchimha` | The exercise (bpc_ex/4_class.md line 253) has `saccaṃ mayaṃ bhavantaṃ …`; the key drops `mayaṃ`. (old B2) | Align | 6 |
+| 4_class.md:34 | `ime tilā ime taṇḍulā'ti` | The key ends `taṇḍulā'ti`, the exercise (bpc_ex/4_class.md line 37) `taṇḍulā (honti)`; the table has a row `(honti)` (line 50) for a word that is not in the key sentence, and no row for `iti`. (old B3) (old 4.5) | Align sentence and table with the exercise | 6 |
+| 4_class.md:304 | `26. [MN86](https://s.dhamma.gift/mn/mn86/index.html) (simpl)<br>` | `(simpl)` in the key only; the exercise (bpc_ex/4_class.md line 286) has no marker. (old B5) | Align | 5 |
+| 5_class.md:3 | `viññāṇaṃ na tumhākaṃ, taṃ pajahatha.` | The exercise (bpc_ex/5_class.md line 3) has `viññāṇaṃ, bhikkhave, na (hoti) tumhākaṃ`; the key drops `bhikkhave` and `(hoti)`. (old B6) | Align | 6 |
+| 5_class.md:588 | `gaccha \| verb \| imp.2nd.sg \| go! begone!` | The sentence (line 584) has `na me tayā saddhiṃ kathā vā nisajjā vā`; `tayā` has no table row. (old 5.2) | Add `tayā \| pron \| 2nd.instr.sg \| with you` | 9 |
+| 5_class.md:594 | `vā \| ind \| \| or` | Empty Grammar cell; every other `vā` has `conj`. | `conj` | 8 |
+| 5_class.md:601 | `6. [SNP70](https://s.dhamma.gift/kn/snp/index.html#snp5.16) <br>te diṭṭhiṃ n'ābhijānāmi` | The exercise (bpc_ex/5_class.md line 556) marks the item `(simpl)`, the key does not. The text (Mogharāja) has `diṭṭhiṃ te nābhijānāti` (3rd sg: "the world does not know your view"), so the simplification changes the person. (old B5) | Add `(simpl)` | 6 |
+| 6_class.md:3 | `bhagavā bhikkhū āmantesi, bhikkhavo'ti.` | The exercise sentence goes on with `"bhadante"ti`; the key stops at `bhikkhavo'ti`. (old B7) | Align | 6 |
+| 6_class.md:35 | `āhuneyyo \| adj \| masc.nom.sg \| worthy of offerings` | The table and the translation (line 37) have `āhuneyyo`, but the sentence (line 28, `esa bhagavato sāvakasaṅgho`) does not. (old 6.1) | Add `āhuneyyo` to the sentence | 9 |
+| 6_class.md:97 | `8. [DN16.26](https://s.dhamma.gift/dn/dn16/index.html) (simpl)` | `(simpl)` in the key only; the exercise (bpc_ex/6_class.md line 95) has no marker. | Align | 5 |
+| 6_class.md:287 | `atha \| ind \| \| then` | Empty Grammar cell; also `va \| ind \| \| as, like` (line 525). | `adv`; `emph`/`comp` as elsewhere | 8 |
+| 6_class.md:301 | `ca \| ind \| conj \| and` | The sentence (line 296) has three `ca`, the table one row; at lines 539–549 the second `ca` (`ācariye ca`) has no row either. Repeated particles get their own rows elsewhere (lines 207–214). (old 6.5) | Add rows | 5 |
+| 6_class.md:364 | `sukhitattā \| adj \| masc.nom.pl \| happy` | The sentence (line 353) writes `sukhit'attā`. (old 6.2) | One form | 8 |
+| 7_class.md:150 | `anāgatamaddhānaṃ \| ind \| adv \| in the future` | The same phrase from the same sutta is `anāgatam'addhānaṃ` at lines 307 and 318. (old 7.4) | One spelling | 8 |
+| 7_class.md:299 | `vā \| ind \| conj \| or` | The sentence (line 291) has `kupitā vā anattamanā vā`; the second `vā` has no row, unlike lines 125–129. (old 7.3) | Add the row | 7 |
+| 7_class.md:319 | `evaṃvedano \| adj \| masc.nom.sg \| having such feeling` | The second `siyaṃ anāgatam'addhānaṃ` of the sentence (line 307) has no rows, while repeated words get rows elsewhere. | Add the rows, or mark the repeat | 4 |
+| 8_class.md:8 | `kho \| ind \| - \| -` | `-` in the English column; every other `kho` has a gloss ("indeed", line 282). | "indeed" | 6 |
+| 8_class.md:40 | `nāma-gottāni \| noun \| nt.acc.pl` | Hyphen in the table only; the sentence (line 31) writes `nāmagottāni`. The same for `abhijjhā-domanassaṃ` (line 138) vs `abhijjhādomanassaṃ` (line 116). (old 8.3) | Match the sentence | 6 |
+| 8_class.md:568 | `ca \| \| \| and` | Empty POS and Grammar cells; also line 570. (old A9) | `ind \| conj` | 8 |
+| 9_class.md:50 | `nālaṃ \| ind \| neg \| not possible; not able` | The sentence (line 44) writes `n'ālaṃ`; the table `nālaṃ` (also lines 52, 54). | One spelling | 6 |
+| 9_class.md:59 | `samudayāya. katamāni tīṇi?` | The question is in the key sentence but not in the table, the translation (line 70) or the exercise (bpc_ex/9_class.md line 45); item 6 (lines 95–107) does include its `katamāni cattāri`. (old B8) (old 9.1) | Remove, or add rows and "What three?" | 9 |
+| 9_class.md:85 | `kallaṃ \| ind \| - \| is it suitable?` | The sentence (line 72) has `kallaṃ nu taṃ`; `nu` has no row. (old 9.2) | Add `nu \| ind \| interr` | 9 |
+| 9_class.md:635 | `vā \| ind \| conj \| or` | The sentence (line 628) has four `vā`, the table three rows; the final `vā` is missing. (old 9.3) | Add the row | 7 |
+| 9_class.md:681 | `yesu idha n'atthi paramaṃ uggahītaṃ` | The exercise (bpc_ex/9_class.md line 633) has the typo `paraṃaṃ`; the key is right. Exercise-side error. (old B10) | Fix the exercise | 9 |
+| 10_class.md:136 | `na ca kiñci loke upādiyati` | The key has `ca`; the exercise (bpc_ex/10_class.md line 113) has `na kiñci loke`. (old B11) | verify against SN35.234; align | 6 |
+| 10_class.md:325 | `[SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl)` | `(simpl)` in the key only; the exercise (bpc_ex/10_class.md line 275) gives the same sentence without it. (old B5) | Align | 5 |
+| 10_class.md:539 | `attānaṃ samanupassato pāmojjaṃ jāyati.` | The exercise (bpc_ex/10_class.md line 477) writes `attānaṁ` and `pāmojjaṁ` with `ṁ`. Exercise-side. (old B15) | Fix the exercise | 9 |
+| 11_class.md:174 | `ca-assa \| verb \| opt.3rd.sg \| and he should be` | `cassa` (= `ca assa`) is one row with a hyphen, while the sentence's other `ca` has its own row (line 171). | Two rows: `ca`, `assa` | 5 |
+| 11_class.md:530 | `sammāsaṅkappagocarā.` | The exercise (bpc_ex/11_class.md line 444) has `sammāsaṅkappe gocarā`; Dhp 12 has the compound, so the key is right. Exercise-side. (old B12) | Fix the exercise | 7 |
+| 12_class.md:94 | `n'āhaṃ, bhikkhave, aññaṃ ekadhammam'pi samanupassāmi` | Both `bhikkhave` in the sentence have no table row (lines 98–120); every other item lists it. (old 12.2) | Add the rows | 7 |
+| 12_class.md:377 | `ko ca āhāro pañcannaṃ nīvaraṇānaṃ?` | The exercise (bpc_ex/12_class.md line 312) has the typo `ahāro`. Exercise-side. (old B13) | Fix the exercise | 9 |
+| 12_class.md:462 | `vassaṁ \| noun \| nt.acc.sg \| year` | The sentence (line 437) has `cattārīsaṃ api vassāni` and `paññāsaṃ api vassāni`; this row and line 466 are copies of line 448. (old 12.1) | `vassāni \| noun \| nt.acc.pl \| years` | 9 |
+| 13_class.md:31 | `[MN20](https://s.dhamma.gift/mn/mn20/index.html) <br>kiṃ nu kho ahaṃ sīghaṃ gacchāmi?` | The exercise (bpc_ex/13_class.md line 22) marks this item `(simpl)`, the key does not. (old B5) | Align | 5 |
+| 13_class.md:537 | `yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ` | `yathāakusalaṃ` has no table row (lines 546–548); the translation (line 557) has "so unskilfully". (old 13.1) | Add the row | 10 |
+| 14_class.md:68 | `divasaṃsantatte ayokaṭāhe` | The sentence writes one word; the table splits it as `divasaṃ-` (line 72) with a compound hyphen and tags it `ind`; the exercise (bpc_ex/14_class.md) has `divasaṃ santatte`. | One compound `divasaṃsantatta` (DPD headword, adj, `divasaṃ + santatta`); one spelling in sentence, table and exercise | 6 |
+| 15_class.md:160 | `kho, \| ind \| emph \| indeed; certainly` | The table for `imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo` (line 155) stops after two rows; six words have no row. Items 1 and 3 give full tables for their closing sentence. (old 15.1) | Add the rows, or a note that they repeat lines 101-106 | 7 |
+
+## C. Translation and gloss problems
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 2_class.md:8 | `kira \| ind \| adv \| indeed, truly` | In SN10.8 Anāthapiṇḍika hears the news second-hand: `kira` marks hearsay ("it is said"). The translation (line 12) follows the gloss. (old 2.11) | "it is said; reportedly" (DPD kira 2); translation "A Buddha, it is said, has arisen in the world." DPD also has "really; truly" (kira 1), so the gloss is a possible sense: owner decision | 4 |
+| 2_class.md:53 | `**the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**` | `uttarimanussadhamma` is a state beyond the human (a "superhuman state"), not the state of a superior human; the rendering follows the drill split on line 42, not the compound. | "a superhuman state, a distinction in knowledge and vision worthy of the noble ones" (DPD uttarimanussadhamma: "super-human state") | 6 |
+| 2_class.md:100 | `endowed with wisdom and ethical conduct` | The gloss of `vijjācaraṇasampanno` (line 89) says `knowledge and conduct`. (old 2.9) | Align ("knowledge and conduct") | 6 |
+| 2_class.md:347 | `domanassa- \| noun \| - \| depression` | One word, several renderings: `domanassa` "distresses" (line 222), "depression" here, "displeasure" in the translation (line 351); `jarā` "old age" (line 342) vs "aging"; `upāyāsā` "afflictions" (line 348) vs "despair". (old 2.10) | One rendering per word within the item | 5 |
+| 2_class.md:25 | `**At the foot of a tree in a forest, in valleys, and in caves.**` | `rukkhānaṃ` is gen.pl (line 19, "of trees"); the translation has a singular. (old 2.7) | "At the foot of trees in a forest, in valleys and in caves." | 6 |
+| 2_class.md:367 | `ābādhāya \| noun \| masc.dat.sg \| to sufferings` | Plural gloss for a singular; the translation (line 369) says "to suffering". (old 2.6) | "to affliction" | 8 |
+| 3_class.md:110 | `**He experiences pleasure by means of the body.**` | `ca` (line 106) is left untranslated. (old 3.3) | "And he experiences pleasure with the body." | 5 |
+| 3_class.md:316 | `**You see that offence.**` | In the Vinaya this line is a question put to the monk. (old 3.5) | "Do you see that offence?" | 4 |
+| 3_class.md:217 | `(on tour) in the Mallans.` | `mallesu` with a verb of going is "to/among the Mallas"; "in the Mallans" is not idiomatic, and the people are usually called the Mallas and the Kosalans/Kosalas. | "sets out from the Kosalans to the Mallas (on tour)" | 4 |
+| 4_class.md:20 | `upapajjāmi \| verb \| pr.1st.sg \| I am reborn; I go towards` | `upapajjati` + acc of a destination is "is reborn in"; the translation (line 22) chose the weaker "I go towards". (old 4.10) | "I am reborn in a good destination, a heavenly world." | 6 |
+| 4_class.md:145 | `chinda \| verb \| imp.2nd.sg \| cross, lit. cut` | `chinda` is "cut"; "cross" is `tarati`. The translation (line 152) says "Cross the stream". (old 4.11) | "cut"; "Cut the stream" | 6 |
+| 4_class.md:236 | `**He says, "There are here some noblemen [and] brahmins."**` | `ca` is in the sentence and the table (line 231), so "and" is not a supplied word. (old 4.12) | "and" without brackets | 7 |
+| 4_class.md:361 | `pessako \| noun \| masc.nom.sg \| messenger` | In MN98's list the sense is "servant"; `vāṇijo` is "merchant" (line 358) in the table but "a trader" in the translation (line 365). (old 4.13) | "servant" (DPD pessaka 2; "messenger" is pessaka 1, so both are DPD senses); one word for `vāṇija` | 5 |
+| 4_class.md:32 | `**He does good deeds by means of the body.**` | `kusalaṃ` is singular (line 30). (old 4.14) | "He does a good deed by means of the body." | 5 |
+| 4_class.md:377 | `**One is disenchanted in suffering, this [is] the path for purification.**` | Idiom: "disenchanted with". (old 4.14) | "One becomes disenchanted with suffering; this is the path to purification." | 5 |
+| 4_class.md:427 | `**It was a thought of the recluse.**` | `ahu` + genitive is possession: "the recluse had a thought". (old 4.14) | "A thought arose in the recluse." / "The recluse had a thought." | 6 |
+| 4_class.md:302 | `**May you all be happy (and) free from disease.**` | Order reversed against the sentence (`arogā sukhitā`). (old 4.14) | "May you all be healthy and happy." | 4 |
+| 5_class.md:37 | `**Our lifestyle should be purified.**` | The same MN39 construction (`parisuddho no … bhavissati`) is "will be pure/purified" at line 349; the table (line 35) gives both "will" and "should". (old 5.17) | "Our livelihood will be purified." | 6 |
+| 5_class.md:72 | `vibhūsanāya \| noun \| nt.dat.sg \| for decoration, for bulk` | "for bulk" does not fit `vibhūsana`; the translation (line 74) has "physical appearance", which matches neither gloss. (old 5.14) | "for decoration; for beautification", and the same in the translation | 5 |
+| 5_class.md:112 | `**False teaching leads to no good fortune, the Teaching leads to a good destination.**` | `nirayaṃ` is glossed `hell; no good fortune` (line 106); the translation uses the etymological gloss and loses the contrast with `suggatiṃ`. (old 5.13) | "False teaching leads to hell; the Teaching leads to a good destination." | 6 |
+| 5_class.md:273 | `**Whatever conversation was with wandering ascetics,` | Ungrammatical. (old 5.18) | "Whatever conversation there had been with the wandering ascetics, …" | 6 |
+| 5_class.md:324 | `**Services (done) on us could be of great fruits.**` | `bhavissanti` is future (line 322 has "could be" as a second gloss); "fruits" for "fruit". (old 5.18) | "Services done for us will be of great fruit." | 6 |
+| 5_class.md:361 | `**Having not raised up a high trunk, I will approach families. [I will not arrogantly approach families]**` | `na` negates `upasaṅkamissāmi`: the monk will not approach families with his trunk raised. The main translation negates the absolutive instead and so says the opposite; only the bracket is right. | "I will not approach families with a raised trunk (arrogantly)." | 7 |
+| 5_class.md:380 | `sarīraṃ \| noun \| nt.acc.sg \| the corpse; dead body` | In DN16 the flowers fall on the living Tathāgata, lying between the sāla trees; the translation (line 383) also says "dead body". (old 5.9) | "body" | 7 |
+| 5_class.md:381 | `okiranti \| verb \| pr.3rd.pl \| are sprinkled on` | Passive gloss for an active verb whose subject is `pupphā`; the translation (line 383) follows it. (old 5.10) | "strew; scatter on" (DPD: okirati "sprinkles; scatters down (onto)"); translation as proposed in the lesson audit (bpc class_5/5_trans.md:17), which needs a transitive verb: "Flowers cover the body of the Tathāgata." | 6 |
+| 5_class.md:530 | `kadariyaṃ \| noun \| nt.acc.sg \| stinginess` | In Dhp 223 it parallels `alikavādinaṃ`, a person ("the liar"); `kadariya` is also an adjective "miserly". The translation (line 536) has "conquer liar by truth". (old 5.5) | `adj \| masc.acc.sg \| the miser` (DPD kadariya 1 adj "miserly"; the nt noun "miserliness" is kadariya 2, so the tag is also a DPD reading); "Conquer the miser by giving, the liar by truth." | 6 |
+| 5_class.md:549 | `**It is enough for deluding a fool not one seeking Nibbāna.**` | The contrast is unmarked. (old 5.15) | "It is enough to delude a fool, but not one seeking the far shore." | 7 |
+| 5_class.md:582 | `**You are truly for us equal to the Brahma.**` | Word order, article, diacritic. (old 5.16) | "Truly, for us you are equal to Brahmā." | 6 |
+| 5_class.md:629 | `you must make [your] mind unified!**` | The second `jhāne` (line 624) is untranslated. (old 5.11) | "…make your mind unified in meditation!" | 7 |
+| 5_class.md:618 | `brāhmaṇa \| noun \| masc.voc.sg \| monk; sage; holy man` | Rendered "Monk" in the translation (line 629). In SN40.1 the Buddha addresses Moggallāna, so the choice is defensible, but "monk" is not a sense of `brāhmaṇa`. (old 5.12) | "brahmin" with a note on the addressee | 4 |
+| 6_class.md:197 | `**"(He) who is equanimous [and] mindful lives at ease."**` | `sukhavihārī` is an adjective, the third item of a list (`upekkhako satimā sukhavihārī`), not a finite verb. | "Equanimous, mindful, one who lives at ease." | 4 |
+| 6_class.md:342 | `hirimanto \| adj \| masc.nom.pl \| conscientious` | The glosses of `hirimanto` and `ottappino` (line 344, `feeling shame`) look swapped; class 5 (5_class.md line 168) has `ottappino … conscientious`. DPD: hirimant "having a conscience; with scruples", ottappī "afraid of wrong; conscientious"; "feeling shame" fits neither DPD entry for `ottappī`. (old 6.10) | `hirimanto` "having a sense of shame; having a conscience"; `ottappino` "afraid of wrong; conscientious" | 7 |
+| 6_class.md:390 | `paricara \| verb \| imp.2nd.sg \| you must minister; enjoy` | "enjoy" does not fit the imperative "attend on, serve". (old 6.16) | "attend on; serve" | 5 |
+| 6_class.md:408 | `would approach [there], cause an alteration in a robe…` | The futures (glossed "will", lines 403, 406) are rendered "would"; the two clauses have no "and". (old 6.13) | "If that monk … will approach and cause an alteration in a robe…" | 5 |
+| 6_class.md:450 | `**The looking after mother and father, the support of the wife and son.**` | The Pāli order is son, then wife; "The looking after mother" lacks "of". (old 6.14) | "Looking after mother and father, supporting son and wife." | 5 |
+| 6_class.md:465 | `**Just make an effort today;` | `eva` qualifies `ajja`: "this very day". (old 6.15) | "Make an effort this very day;" | 5 |
+| 6_class.md:533 | `who sees fault, he is (like) one who points out the treasure.**` | Comma splice; `nidhīnaṃ` is gen.pl (line 524, "of treasures"). (old 6.11) | "…who sees faults, like one who points out treasures." | 6 |
+| 6_class.md:542 | `atho \| ind \| ind \| and then; after that` | `atho` here adds an item ("and also"); it is not temporal. The translation (line 551) says "and after that". (old 6.12) | "and also"; "and also towards the eldest brother" | 5 |
+| 7_class.md:77 | `**How then could thieves not steal my valuables?**` | `kinti … na corā hareyyuṃ` expresses concern or purpose ("how can I make sure thieves don't take my wealth?"); the English reads as surprise that they could not steal it. | "How can I make sure that thieves do not steal my possessions?" | 5 |
+| 7_class.md:121 | `rājāno \| noun \| masc.nom.pl \| king's men` | `rājāno` is "kings"; the translation (line 131) follows the gloss. (old 7.18) | "kings [i.e. the king's men]" | 5 |
+| 7_class.md:124 | `haneyyuṃ \| verb \| opt.3rd.pl \| they could punish` | In Pārājika 2 `haneyyuṃ` is "would kill/execute" (`√han`, "strike, kill" in the Root cell); "punish" weakens it. | "they could execute" | 5 |
+| 7_class.md:225 | `**And now there could be, Ananda, for you it would occur like this:` | `siyā` and `assa` both rendered; the sentence breaks. (old 7.17) | "Now, Ānanda, it could be that you think thus:" | 5 |
+| 7_class.md:289 | `which I am grasping [and] would not be with faults` | `upādiyamāno` is subordinate to `assaṃ`, not a coordinate verb. (old 7.16) | "…which, grasping it, I would not be blameworthy." | 6 |
+| 7_class.md:362 | `upāsikāyo \| noun \| fem.nom.pl \| female disciples` | "lay" missing; the translation (line 364) has "female lay disciples". (old 7.15) | "female lay disciples" | 7 |
+| 7_class.md:431 | `**Bhikkhus, the monks will establish mindfulness individually` | `bhikkhave` and `bhikkhū` are rendered two ways in one line; the quoted clause is a question in the Pāli. (old 7.19) | "Monks, the monks will…" | 5 |
+| 7_class.md:466 | `**What one could do with a well, if there always would be water?; Having cut off the craving from the source, why would he go about searching?**` | Word order; `?;`; `taṇhāya` is tagged gen (line 459) but translated as the object. (old 7.20) | "What could one do with a well if there were water at all times? Having cut craving at the root, why would one go about searching?" | 6 |
+| 7_class.md:484 | `parihāyanti \| verb \| pr.3rd.pl \| wasting away; decreasing` | Participle gloss for a finite verb. (old 7.20) | "they decline; they fall away" | 6 |
+| 8_class.md:42 | `**The great rivers, upon reaching the mighty ocean, they give up (their) old names.**` | `-gottāni` ("family names", line 40) is dropped; redundant "they". (old 8.9) | "The great rivers, on reaching the great ocean, give up their former names and family names." | 7 |
+| 8_class.md:329 | `**This monk who speaks according to the Dhamma, and this monk who speaks according to the Vinaya, speaks according to (i.e. in accordance with) our preference and approval…**` | Three coordinated predications ("this monk is a speaker of Dhamma, … of Vinaya, … speaks taking up our wish") are turned into one relative clause. (old 8.12) | "This monk speaks according to the Dhamma, this monk speaks according to the Vinaya, and this monk speaks with our consent and approval…" | 6 |
+| 8_class.md:367 | `having done this just for that reason, [and] no other` | `etaṃ eva paccayaṃ karitvā anaññaṃ` is "having made just this the reason and no other"; `eva` is glossed `thus; just` (line 361), but it is not "thus". (old 8.13) | "having made just this, and nothing else, the reason" | 6 |
+| 8_class.md:385 | `uṭṭhānasaññaṃ \| noun \| fem.acc.sg \| wake-up time` | `saññā` is "perception, notion": "the perception (thought) of getting up", not a time; the translation (line 388) follows the gloss. | "the thought of getting up" | 5 |
+| 8_class.md:417 | `sabbanimittānaṃ \| noun \| nt.gen.pl \| of all objects` | The same stem `nimitta` is "signless" (`animitta`, lines 414, 420); "objects" hides the link. (old 8.15) | "of all signs" | 4 |
+| 8_class.md:448 | `**"This [is] my mother, this [is] the mother of my mother"; [the sequence] of that man's mothers' mothers would not even be exhausted.**` | `bhikkhave` (line 442) is left out. (old 8.10) | Add "monks" | 7 |
+| 8_class.md:560 | `that monk can set [it] aside for a month at the most` | `nikkhipeyya` is glossed "should set aside" (line 553); the translation says "can". (old 8.15) | "should set it aside" / "may keep it" | 4 |
+| 8_class.md:538 | `**He generates interest, puts forth effort, arouses energy, exerts his mind and strives for the continuance, non-disappearance , increase and fulfillment by development, maturity, of wholesome qualities that have arisen.**` | The order of the datives is garbled, and `bhāvanāya` is tagged dat (line 527) but translated "by". (old 8.14) | "…for the persistence, non-decay, increase, abundance, development and fulfilment of wholesome qualities that have arisen." | 6 |
+| 8_class.md:602 | `dhammo \| noun \| masc.nom.sg \| the teaching; the doctrine` | In `kocideva dhammo samuppādo uppajjeyya` `dhammo` is "a matter, an issue"; the translation (line 612) adds "[concerning] the teaching". | "some matter (dispute) could arise" | 4 |
+| 8_class.md:636 | `of a man enamoured with regard to women, just that long he [is] like a suckling calf towards [its] mother.**` | `paṭibaddhamano` is nominative and goes with `so`, not with the genitive `narassa`. (old 8.11) | "…just that long is he bound in mind, like a suckling calf to its mother." | 7 |
+| 9_class.md:191 | `atha \| ind \| ind \| after` | `kho` (line 192) is glossed `that`: "after that" was split across the two words. Line 127 treats `atha kho` as one unit. (old 9.13) | One row `atha kho`, "and then" | 9 |
+| 9_class.md:213 | `**Seeing danger in the slightest fault, train yourself [by] undertaking the training precepts.**` | `vajjesu` is plural; the locative `sikkhāpadesu` ("in the training rules") is lost; "precepts" vs the gloss "rules" (line 211). (old 9.19) | "Seeing danger in the slightest faults, undertake and train in the training rules." | 5 |
+| 9_class.md:367 | `**Is the Blessed One, the Arahant, the Perfectly Enlightened One able to act in such a way` | `bhante` and `pana` (lines 348, 349) are untranslated. (old 9.14) | "But, venerable sir, is the Blessed One…" | 8 |
+| 9_class.md:486 | `**But because form is not self, therefore it leads to oppression.**` | `bhikkhave` is left out; "oppression" is the "lit." gloss, not the primary "illness" (line 483). (old 9.15) | "But because form, monks, is not self, form leads to affliction." | 8 |
+| 9_class.md:564 | `**They were not overly zealously desiring medicines and requisites for life.**` | `paccaye` ("supports", line 558) is left out; the order is changed. (old 9.16) | "They were not overly eager for the requisites of life, medicines and supports." | 7 |
+| 9_class.md:663 | `I, too, will myself be able to make safety.**` | `api` goes with `ekam'ekena` ("even by a single one"); `attānaṃ sotthiṃ kātuṃ` is "to make myself safe". (old 9.17) | "…even by a single one of these eleven doors to the deathless, I will be able to make myself safe." | 6 |
+| 9_class.md:674 | `anissito \| pp \| masc.nom.sg \| unhindered; independent (of)` | In context "unsupported"; "independent" (also in the translation, line 679) hides why he cannot cross. (old 9.18) | "unsupported" | 6 |
+| 10_class.md:10 | `āha \| verb \| perf.3rd.sg \| he had said` | Pluperfect here; "he said" for the same form at lines 19, 29, 38 and in every translation. (old 10.16) | "he said" | 8 |
+| 10_class.md:59 | `passeyyaṃ \| verb \| opt.1st.sg (reflexive) \| I could see by myself` | The tag is right (DPD: `passati` reflx opt 1st sg; the verify_key IMPOSSIBLE flag comes from the `(reflexive)` wording), but the reflexive ending does not mean "by myself". The translation (line 63) repeats "I myself" and drops the implied quote after `ākaṅkhati` ("If he wishes: 'May I see…'"). | "I could see"; "If he wishes, [he thinks:] 'I could see beings…'" | 6 |
+| 10_class.md:168 | `eva \| ind \| emph \| just; thus` | `eva` is not "thus", yet the translation (line 171) says "thus". Gloss and translation also disagree for `parinibbāyati` ("is completely quenched", line 169, vs "attains final liberation") and for `paritassati`/`aparitassaṃ` ("perturbed" vs "shaking", lines 160, 166). (old 10.15) | "just"; align glosses with the translation | 6 |
+| 10_class.md:219 | `**Just like a monkey [who is] wandering around in a woodland, in a forest.**` | `bhikkhave` is left out; forest and woodland are in reverse order (`araññe pavane`). (old 10.10) | "Just as, monks, a monkey wandering in a forest, in a woodland…" | 8 |
+| 10_class.md:274 | `haritabbāni \| ptp \| nt.nom.pl \| it can be carried` | A plural ptp of obligation: "they are to be carried"; the translation (line 278) has "it could be carried". (old 10.13) | "are to be carried" | 6 |
+| 10_class.md:285 | `me \| pron \| 1st.gen.sg (gen abs) \| while me` | "while me" is not English; the translation (line 291) is right. | "(while) I" | 5 |
+| 10_class.md:334 | `sampassamānena \| prp \| masc.instr.sg \| by means of seeing; considering` | With `alaṃ` the instrumental marks the person for whom it is fitting: "for one who considers… it is fitting to strive"; the translation (line 340) keeps "by considering". (old 10.14) | "for one considering" | 6 |
+| 10_class.md:384 | `āpajjato \| prp \| masc.dat.sg<br>(or) <br>masc.gen.sg \| for arousing; <br>(or) when exhibiting` | Two different verbs in one gloss; with `parivīmaṃsaṃ` the verb is "engages in, undertakes" (the translation, line 389, has "exhibiting"). (old 10.18) | "engaging in" | 6 |
+| 10_class.md:405 | `**The mind of him who sees and knows is released` | Order reversed (`jānato … passato`) and both `evaṃ` dropped. (old 10.11) | "…of him who knows thus, who sees thus…" | 7 |
+| 10_class.md:428 | `this is my instruction to them.**` | `evarūpī` ("of such a kind", line 424) is not translated. (Old 10.18 also said "this" is not in the Pāli; it is: `ayaṃ`.) (old 10.18) | "…for them my instruction is of this kind." | 6 |
+| 10_class.md:445 | `**One who has gone forth certainly does not harm another, a monk is not troubling another.**` | Subject and predicate inverted: Dhp 184 says one who harms another is not one gone forth, one who troubles another is not an ascetic. (old 10.8) | "One who harms another is not one gone forth; one who troubles another is not an ascetic." | 8 |
+| 10_class.md:521 | `idaṃ \| pron \| nt.nom.sg \| that; lit. this` | One word glossed three ways in one sentence ("that; lit. this", "this" line 529, "that" line 534); also `amutra` "there" / "in such-and-such place" (lines 691, 695) and `imesaṃ` "of those" / "to these" (lines 693, 699). (old 10.17) | Align | 6 |
+| 10_class.md:636 | `**When a monk having desire for sense pleasure internally` | `idha, bhikkhave` dropped; `santaṃ` agrees with `kāmacchandaṃ` ("sensual desire being present"); no "when" in the Pāli; `pajānāti` (line 644) is only in the next translation. (old 10.12) | "Here, monks, a monk, when sensual desire is present internally, knows…" | 7 |
+| 10_class.md:704 | `**Thus, having heard here,` | Nothing means "thus"; `ito` is "from here" (line 688). (old 10.9) | "Having heard from here…" | 8 |
+| 10_class.md:758 | `searching the builder of this house` | "searching for"; "this" is not in the Pāli (`gahakāraṃ`). (old 10.18) | "seeking the house-builder" | 6 |
+| 11_class.md:66 | `hoti \| verb \| pr.3rd.sg \| there is; there was` | "there was" is not a present-tense gloss. (old 11.18) | "there is" | 6 |
+| 11_class.md:133 | `**The foolish, untrained, wicked man maintains himself injured and damaged.**` | Gloss and translation disagree: `asappuriso` "not a good man" (line 127) vs "wicked man"; `pariharati` "carries around" (line 131) vs "maintains". | Align | 5 |
+| 11_class.md:146 | `adhunā- \| ind \| adv \| soon, recently` | "soon" is wrong. Also `yassa` "of which; whoever" (line 674) is "whose"; `ye`/`yo` "which" for persons (lines 628, 632, 636); `sāsane` "the teachings" (line 569) lacks "in". (old 11.20) | "recently, just now"; "whose"; "who"; "in the teaching" | 6 |
+| 11_class.md:306 | `tāni \| pron \| nt.nom.pl \| these` | `tāni` is "those", as in the translation (line 319). (old 11.17) | "those" | 7 |
+| 11_class.md:341 | `[that] which [is] near or far away` | Order reversed (`dūre santike`). Also "about Venerable Gotama" (line 29) leaves `taṃ` out, and "straight, upright" (line 178) loses the `su-` of `suhujū`. (old 11.21) | "far or near"; "very upright" | 5 |
+| 11_class.md:367 | `sallato \| ind \| adv \| as an arrow; a dagger` | `salla` is a dart or arrow, not a dagger; the translation (line 376) has only "as a dagger". (old 11.19) | "as a dart" | 6 |
+| 11_class.md:425 | `**For one perceiving acquisition as a personal acquisition of forms` | The genitive chain is attached to the wrong noun, and "personal" has no source. (old 11.16) | "For one regarding the acquisition of forms … as an acquisition…" | 6 |
+| 11_class.md:442 | `**The teaching by the Blessed One [is] well taught,` | `bhagavatā` goes with `svākkhāto`: "well proclaimed by the Blessed One is the Dhamma". | "Well proclaimed by the Blessed One is the Dhamma…" | 6 |
+| 11_class.md:611 | `‘that which the world [is] the self (world = self);` | Garbled: `so loko so attā` is "that [which is] the world, that [is] the self"; the third `so` is untranslated. (old 11.15) | Reword | 7 |
+| 12_class.md:12 | `api \| ind \| \| just only` | `pi` is "also, even", not limiting, yet the item glosses "just two" … "just one hundred thousand births" (lines 14–27); in item 21 `api` is "only" (lines 447, 461, 465) and "even" (lines 451, 469) in one sentence, and the translation (line 475) says "just one year". The Grammar cell is empty. (old 12.16) | "even; also" | 6 |
+| 12_class.md:29 | `**I recollected manifold past lives,` | `anussarāmi` is present, glossed "I remember" (line 9). (old 12.11) | "I recollect" | 7 |
+| 12_class.md:87 | `bhikkhu-satehi \| noun \| nt.instr.pl \| with one hundred monks` | A plural ("hundreds"); also `sahassānaṃ` "for one thousand" (line 347). (old 12.15) | "with hundreds of monks"; "thousands" | 6 |
+| 12_class.md:375 | `**Surely, a monk endowed with these ten qualities` | `bhikkhave` is untranslated. (old 12.12) | "Surely, monks, a monk…" | 8 |
+| 12_class.md:489 | `aṭṭhakavaggikāni \| adj \| nt.acc.pl \| from the fourth chapter of the Sutta Nipāta` | The translation (line 495) has "belonging to the groups of eight", which reads as a count, not the Aṭṭhakavagga. | "…all sixteen [suttas] of the Aṭṭhakavagga" | 6 |
+| 12_class.md:599 | `having then seen that should speak` | "then" has no source; `tam'enaṃ` is "him" (so the table, line 585). (old 12.14) | "having seen him, should speak…" | 6 |
+| 12_class.md:605 | `vanappagumbe \| noun \| masc.loc.sg \| forest grove` | Tagged locative (also `phussit'agge`, line 607), but the translation (line 618) makes it the subject of the simile. (old 12.8) | Tag and translation should agree | 5 |
+| 12_class.md:610 | `gimhe \| noun \| masc.loc.sg \| in heat; hot` | `paṭhamasmiṃ gimhe` is "in the first month of summer", not "the first heat of the hot month" (line 618); the translation also drops `tath'ūpamaṃ` and attaches `paramaṃ` to Nibbāna. (old 12.13) | "in the first month of summer"; "so too he taught the sublime teaching leading to Nibbāna, for the highest benefit" | 6 |
+| 13_class.md:29 | `**He touches the earth evenly with the entire sole of [his] foot**` | `pādatalehi` is plural ("soles of [his] feet"), as the gloss (line 25) says; `samaṃ` is "evenly" (line 12) but "in a balanced manner" (line 19). (old 13.20) | "…with the entire soles of [his] feet"; "evenly" throughout | 6 |
+| 13_class.md:127 | `bhante \| noun \| masc.voc.sg \| lord, master` | "venerable sir" everywhere else; the translation (line 131) says "Master". | "venerable sir" | 5 |
+| 13_class.md:148 | `parimuccati \| verb.pass \| pr.3rd.sg \| he is released` | The same verb in one sentence is "is freed" (line 151), "is completely freed" (lines 156, 161). (old 13.19) | One rendering | 7 |
+| 13_class.md:223 | `tassa \| pron \| masc.dat.sg \| for this` | "that"; also `lokasmiṃ` "the world" without "in" (line 321) and `assā'ti` "would he" (line 229), a fragment with no end-quote note. (old 13.21) | "for that"; "in the world" | 6 |
+| 13_class.md:286 | `**for what [is] pleasant and enticing in the world this craving here` | `yaṃ` is nominative, there is no "for"; the adjective order is swapped against the table; "is ceased" (see the row above). (old 13.17) | "Whatever in the world is enticing and pleasant: here this craving, being abandoned, is abandoned; here, ceasing, it ceases." | 7 |
+| 13_class.md:347 | `kulāni \| noun \| nt.nom.pl \| householders; supporters` | `kula` is "family"; the translation (line 355) says "the householders". | "families" | 5 |
+| 13_class.md:475 | `(a helper) should come up with that robe cloth` | In NP 10 the subject of `abhinipphādeyya` is the monk who stands silently; the translation invents another subject. (old 13.18) | "…he should get that robe cloth produced" | 6 |
+| 13_class.md:516 | `**He [is one] who makes subside evil deeds` | `ca` dropped and `sabbaso` moved to the second clause; at line 427 the table has `ca` but the translation "or". (old 13.22) | Reword | 5 |
+| 13_class.md:563 | `jayaṃ \| noun \| nt.nom.sg \| victory` | DPD has a neuter `jaya`, so the tag is possible, but the commentary on Dhp 201 reads the prp ("the victor"), pairing with `parājito`; translation line 570. (old 13.10) | `prp \| masc.nom.sg`; "The victor breeds enmity" | 6 |
+| 13_class.md:633 | `[are] neither not here, nor in another world` | The double negative reverses the sense. (old 13.16) | "neither here, nor in another world" | 9 |
+| 14_class.md:18 | `**He causes this very body to overflow, to flow around, to fill up all around, to suffuse with the joy and happiness born from separation` | `parippharati` (line 16) is plain `verb`, not causative; "this very body … to suffuse" reverses who suffuses what; "happiness" and "separation" against the glosses "ease" (line 12) and "solitude" (line 11). (old 14.22) | "He drenches, steeps, fills and suffuses this very body with the joy and ease born of solitude." | 6 |
+| 14_class.md:42 | `**You should develop wholesome qualities.**` | `bhikkhave` (line 39) is not translated, nor at line 51 or line 441, where `ca` of `yāvakīvañ'ca` is also dropped. (old 14.20) | Add "monks"; "And as long as…" | 7 |
+| 14_class.md:92 | `eva \| ind \| \| only` | In `c'eva … na ca` ("both … and not") `eva` does not mean "only"; the Grammar cell is empty. `c'eva` is analysed three ways in this file (`ca-` + `eva` lines 91-92, `ind+ind` line 374, `ind+emph` line 622), as are `atha kho` (lines 24, 57 against 686-687) and `yo pana bhikkhu` (line 286 against 306-308, 507-509). (old 14.30) | One analysis per phrase; `c'eva` "both" | 7 |
+| 14_class.md:156 | `**Just this is the end of the underlying tendency towards conflict.**` | `anusayānaṃ` (line 154) is plural; at line 631 `c'eva … ca` is "both … and", not "and even". (old 14.24) | "…of the underlying tendencies to aversion"; "both unarisen taints do not arise and arisen taints are abandoned" | 6 |
+| 14_class.md:276 | `āsavānaṃ \| noun \| masc.gen.pl \| of impurities, defilements` | `āsava` is "effluents; taints" at lines 623, 628, 652; `sutte` "scripture(s)" (lines 369, 373) against "discourse(s)" (line 675); `pācittiyaṃ` "a case requiring confession" (line 298) against "an offence" (line 573); four wordings of the two robes (lines 551-564). (old 14.28) | One rendering each | 6 |
+| 14_class.md:348 | `āvuso \| ind \| voc.sg \| friend` | In MN18 Mahākaccāna addresses a group of monks; also the translation (line 361). (old 14.12) | "friends" | 6 |
+| 14_class.md:451 | `**they will practise accepting the training rules as they had been formulated.**` | The third condition of the `yāvakīvaṃ` clause reads as a main clause; "had been" is the wrong tense. (old 14.23) | "[and] will proceed, having undertaken the training rules as they have been laid down," | 6 |
+| 14_class.md:478 | `**[his] mind withdraws from, bends back from, rolls back from craving for tastes,**` | `na sampasāriyati` (lines 475-476) is not translated. (old 14.18) | Add "[and] is not drawn out towards it" | 9 |
+| 14_class.md:496 | `pan'idaṃ \| ind \| ind+pron \| moreover` | `idaṃ` is lost in the gloss, and `taṃ` (line 494) is glossed "this" to make up for it. (old 14.26) | "moreover, this"; `taṃ` "that" | 6 |
+| 14_class.md:585 | `asevitabbe \| ptp \| masc.acc.pl \| should not be associated with; should be followed` | The second gloss drops the negation. (old 14.19) | "should not be followed" | 9 |
+| 14_class.md:603 | `**He doesn't know the things that should be adhered to, he doesn't know the practices that should not be adhered to.**` | `dhamme` is "things" and "practices" inside one sentence (also line 590); `padabyañjanāni` "words and letters" (line 667) but "words and phrases" (line 671). (old 14.25) | Align | 7 |
+| 15_class.md:65 | `gacchati, \| verb \| pr.3rd.sg \| he gets; lit. goes; moves` | The subject is the neuter "what has been eaten, drunk…" (lines 59-62), not "he". (old 15.9) | "it goes (to)" | 7 |
+| 15_class.md:137 | `paṭikaroti, \| verb \| pr.3rd.sg (+acc) \| redress, fix, make amends` | Bare verbs for pr.3rd.sg, where other rows inflect; also `engage in` (line 355), `grasp; cling to` (line 357). (old 15.13) | "redresses…"; "engages in"; "grasps" | 7 |
+| 15_class.md:147 | `desentassa \| prp \| masc.gen.sg (gen abs) \| when pointing out; preaching; expounding` | `accayaṃ deseti` is "confesses a fault"; "pointing out" (also the translation, line 153) reads as another person criticising the fool. (old 15.7) | "when another is confessing a fault" | 7 |
+| 15_class.md:187 | `**Monks, speech endowed with five factors is well-spoken` | `aṅgehi` is "factors" here and "these five qualities" in the closing sentence (line 247); glosses "parts, factors; qualities" (line 174) against "qualities" (line 234). (old 15.12) | One rendering | 6 |
+| 15_class.md:265 | `kittāvatā \| ind \| adv+interr \| in what way` | The correlative `ettāvatā` (line 397) is "to this extent"; also the translation (line 272). (old 15.10) | "to what extent" | 6 |
+| 15_class.md:309 | `**Certainly, for one seeing the source of the world as it truly is` | Vocative `kaccāna` (line 298) is left out here and at line 328, but translated at lines 341 and 403. (old 15.11) | Add "Kaccāna" | 6 |
+| 15_class.md:362 | `**But this (person) does not grasp, does not get involved, with engagement and grasping` | Verb order reversed against the Pāli and the table (`upeti` line 355, then `upādiyati` line 357); stray comma before "with". (old 15.8) | "does not get involved with, does not grasp, that engagement…" | 7 |
+| 15_class.md:429 | `**"Everything does not exist": this is the second extreme.**` | `sabbaṃ n'atthi` is "nothing exists"; "everything does not exist" reads as "not everything exists". | "'Nothing exists': this is the second extreme." | 6 |
+| 5_class.md:629 | `**Monk, don't be careless about meditation` | Recurring terms rendered several ways: `brāhmaṇa` as Brahman / brahmin / priest / holy man and "Monk" here; `dhammavinaya` five ways; `samaṇa` ascetic / recluse / monk; `mettā`; `Venerable sir` / `venerable sir` / `Venerable Sir`; names without diacritics (`Ananda`, `Sariputta`, `Kalamas`). UK and US spelling mixed (`honor`/`honour`, `practiced`, `offence`): a recurring owner-decision topic. (old E18) | A short glossary; spelling: owner decision | 6 |
+
+## D. English typos and grammar
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 2_class.md:53 | `**the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**` | Lower-case start and a trailing comma; every other translation line ends without a comma. | Capitalise; end with a full stop | 6 |
+| 2_class.md:49 | `worthy of an enlightened` | Truncated gloss. (old 2.8) | "worthy of an enlightened one" | 8 |
+| 2_class.md:207 | `samaṇena \| noun \| masc.instr.sg \| with recluse` | Missing article; the same at lines 209 and 210 (`with brahmin`, `with deity`). (old 2.8) | "with a recluse", "with a brahmin", "with a deity" | 7 |
+| 2_class.md:211 | `mārena \| noun \| masc.instr.sg \| with Mara` | Missing diacritic; also in the translation (line 213). (old 2.12) | `Māra` | 9 |
+| 2_class.md:318 | `**in the discipline of the Kassapa**` | Article before a personal name; also `of the Kassapa` (line 315) and `of the Gotama` (line 309). (old 2.12) | "of Kassapa", "of Gotama" | 8 |
+| 2_class.md:287 | `O, brahmin!` | Comma after the vocative particle; also line 289. | "O brahmin!" | 6 |
+| 3_class.md:95 | `with born from seclusion` | Ungrammatical gloss. | "born from seclusion" | 7 |
+| 3_class.md:351 | `bhāsitassa \| noun \| nt.gen.sg \| statement` | Genitive gloss without "of"; `etassa` on line 350 has it. (old 3.4) | "of the statement" | 6 |
+| 3_class.md:43 | `he reaches, he attains.` | Stray full stop inside a gloss cell. (old 3.6) | Remove the full stop | 8 |
+| 3_class.md:134 | `is conducive for calmness` | Idiom: "conducive to". (old 3.6) | "conducive to calmness, full awakening and total emancipation" | 7 |
+| 3_class.md:278 | `come on!; come now! let's!` | Mixed `!;` and a missing separator before `let's!`. (old 3.6) | "come on; come now; let's" | 6 |
+| 4_class.md:72 | `upasaṅkami, \| verb \| aor.3rd.sg` | Punctuation inside a Pāli cell; also `nisīdi.` (line 74). (old 4.6) | Strip | 8 |
+| 4_class.md:83 | `rāhulo \| noun \| masc.nom.sg \| Rahula` | Missing diacritic; also line 88; `Angulimāla` (lines 312, 318) lacks `ṅ`. (old 4.15) | `Rāhula`, `Aṅgulimāla` | 9 |
+| 4_class.md:314 | `buddhaṃ \| noun \| masc.acc.sg \| The Buddha` | Capital `The` inside a gloss. (old 4.15) | "the Buddha" | 7 |
+| 4_class.md:209 | `**O, Builder of a house, you are seen.**` | Comma after "O" and a capital B mid-sentence. (old 4.15) | "O house-builder, you are seen." | 7 |
+| 4_class.md:49 | `taṇḍulā'ti \| noun \| masc.nom.pl \| dehusked rice"` | Stray closing quote in the gloss. (old 4.15) | "dehusked rice" | 9 |
+| 4_class.md:324 | `ariyassa \| adj \| masc.gen.sg \| of noble` | Truncated gloss; `samādhissa` (line 325) has no "of". (old 3.4) | "of the noble"; "of stillness, composure" | 6 |
+| 5_class.md:9 | `tumhākaṃ, \| pron \| 2nd.gen.pl` | Comma carried into the Pāli cell. (old 5.3) | `tumhākaṃ` | 8 |
+| 5_class.md:95 | `sāriputtena \| noun \| masc.instr.sg \| with Sariputta` | Missing diacritic; also line 99, and `Brahma` at lines 578 and 582 (`Sāriputta` at line 433). (old 6.18) | `Sāriputta`, `Brahmā` | 9 |
+| 5_class.md:190 | `**After my passing away, the Doctrine and Discipline taught by me to you, will become a teacher for you.**` | Comma between subject and verb. (old 6.19) | Remove the comma | 7 |
+| 5_class.md:320 | `in reference to us; on us; for us; \|` | Trailing semicolon in the gloss. (old 6.19) | Remove | 7 |
+| 5_class.md:287 | `"alaṃ, gāmaṇi. mā maṃ etaṃ pucchi` | Opening quotation mark never closed. (old 5.4) | Remove `"` or close it | 8 |
+| 6_class.md:45 | `ānandassa \| noun \| masc.dat.sg \| ānanda` | Lower-case name in the English column and no dative sense; `this[thought]` (line 46) lacks a space; `Ananda` (line 48) lacks the diacritic and the full stop. (old 6.17) | "to Ānanda"; "this [thought]"; "…Venerable Ānanda." | 9 |
+| 6_class.md:155 | `lit: one having eyes quality` | Unidiomatic; also `lit. breathing being` (line 87) for a plural. (old 6.16) | "lit. possessing eyes"; "lit. breathing beings" | 6 |
+| 6_class.md:380 | `are conducive for the non-decline` | Idiom "conducive to"; also the gloss `are conducive for` (line 378). Line 447 of class 5 has "conducive to". (old 6.19) | "conducive to" | 7 |
+| 6_class.md:322 | `**The intelligent man [who is] a giver of happiness, acquires happiness.**` | Comma between subject and verb. (old 6.19) | Remove the comma | 7 |
+| 7_class.md:32 | `mallā, \| noun \| masc.nom.pl` | Comma in the Pāli cell. (old 7.6) | `mallā` | 7 |
+| 7_class.md:35 | `was extinguished""` | Doubled stray quote in the gloss. (old 7.21) | "was extinguished" | 9 |
+| 7_class.md:34 | `kusinārāyaṃ \| noun \| fem.loc.sg \| in Kusinara` | Names without diacritics: `Kusinara` (also line 37), `Vesali` (lines 45, 51), `Ananda` (lines 216, 225). (old 7.22) | `Kusinārā`, `Vesālī`, `Ānanda` | 8 |
+| 7_class.md:115 | `**whichever monk should bathe sooner than a fortnight, that is an offence requiring confession**` | Lower-case start and no full stop; line 37 also lacks the full stop. (old 7.21) | Capitalise; add the full stop | 7 |
+| 7_class.md:374 | `[dat or purpse]` | Typos for "dat of purpose" (the form used elsewhere, e.g. line 444). (old 7.21) | `[dat of purpose]` | 9 |
+| 7_class.md:454 | `udapānena \| noun \| masc.instr.sg \| with well` | Missing article. (old 7.21) | "with a well" | 8 |
+| 7_class.md:321 | `"may I be of such form in the future, may I be having such feeling in the future.**` | Opening quote never closed. (old 7.21) | Close the quote | 8 |
+| 8_class.md:48 | `mahāmoggallāno \| noun \| masc.nom.sg \| The Great Mogallana` | Misspelt and without diacritics (line 84 of class 7 has "Moggallāna"); also line 59; `Ananda` at lines 79 and 162. (old 7.22) | "Mahāmoggallāna"; "Ānanda" | 8 |
+| 8_class.md:112 | `it remained, it stayed.` | Full stop inside a gloss cell. (old 8.16) | Remove | 7 |
+| 8_class.md:114 | `**Senior nun grabbed a bowl and threw it into the sky.` | Missing article; the same at line 304 (`of man's intention to a woman`). (old 8.16) | "The senior nun…"; "a man's intention … a woman's intention" | 7 |
+| 8_class.md:363 | `having done[something]` | Missing space; `&` in a gloss at line 138; missing commas in the list at line 470 (`not a female demon not a female ghost`). (old 8.16) | "having done [something]"; "and"; add commas | 7 |
+| 8_class.md:277 | `bārāṇasiyaṃ \| noun \| fem.loc.sg \| in Varanasi` | Modern spelling; the course writes Pāli names with diacritics elsewhere (`Isipatana`, `Ānanda`). | "in Bārāṇasī" | 5 |
+| 8_class.md:359 | `hotī"ti \| verb \| pr.3rd.sg \| there is` | The sentence (line 348) has a closing `"` with no opening one; a double quote inside a table word; the sandhi vowel is long here but short in `hoti"ti` at 15_class.md line 270. (old 8.2) (old F10) | Open the quote in the sentence; one treatment (`hotī'ti`) in both classes | 7 |
+| 8_class.md:468 | `mahattarī \| adj \| fem.nom.sg \| older than` | Stray "than": the comparative stands alone here ("[one] older", line 470). (old 8.15) | "older" | 5 |
+| 8_class.md:538 | `non-disappearance ,` | Space before a comma. (old A13) | Remove the space | 8 |
+| 9_class.md:11 | `brāhmaṇa \| noun \| masc.voc.sg \| Brahman` | "Brahman" here and in the translation (line 15), "brahmin" at line 447. (old 9.23) | "brahmin" | 7 |
+| 9_class.md:30 | `sāriputtassa \| noun \| masc.gen.sg \| of the Son of Sari` | Etymological gloss for a name; `Kalamas` (line 116) lacks the diacritic; `gotama` (line 178) is lower case; `Sāvatthi` (lines 138, 195) for the stem `Sāvatthī`. (old 9.22) | "of Sāriputta"; "Kālāmas"; "Gotama"; "Sāvatthī" | 7 |
+| 9_class.md:95 | `pañha-vyākaraṇāni .` | Space before the full stop; `vyākaraṇāni.` (line 103) keeps the full stop in the Pāli cell. (old A13) | Remove the space and the cell full stop | 8 |
+| 9_class.md:244 | `sukhāya \| noun \| nt.dat.sg \| for the comfort of` | Stray "of" in the gloss. (old 9.23) | "for the comfort" | 7 |
+| 9_class.md:417 | `āgato \| pp \| masc.nom.sg \| have come` | Agreement: "has come"; also "it will be" for "he will be" (line 421), `vaḍḍhati … increase` (line 581) and `actions; deed` (line 544). (old 9.20) | "has come"; "he will be"; "increases"; "deeds" | 7 |
+| 9_class.md:542 | `any states o existence` | Typo. (old 9.21) | "of" | 10 |
+| 10_class.md:21 | `jānāmī'ti \| verb \| pr.1st.sg \| I know"` | Closing quote with no opening quote; also lines 40, 197 (`I breathe in"`), 203. Lines 11 and 30 have both quotes. | `"I know"` | 7 |
+| 10_class.md:142 | `asamanupassanto \| prp \| masc.nom.sg \| not seeing perceiving` | Two glosses with no separator. Other broken English in the class: "When one investigating…" (line 389) and "When one seeing himself…" (line 555) have no verb after "when"; "How many staying awake", "By how many one grasps" (line 722); `pāragāmino` "cross over" (line 733) and `anudhāvati` "run along" (line 740) are bare verbs for an adjective and a 3rd sg verb; "wise would reprove" (line 356) lacks "the". (old 10.19) | "not seeing; not perceiving"; fix the others | 7 |
+| 10_class.md:551 | `samanupassato \| prp \| masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg \| when sees; perceives (or)<br>for one seeing` | "when sees" has no subject. | "when he sees; perceives" | 6 |
+| 11_class.md:15 | `**Bhikkhus you should dwell with yourselves as an island,` | "Bhikkhus" here, "Monks" everywhere else; no comma after it. Other English slips in the class: "imagine if…" starts lower-case (line 119); "pliable workable" lacks a comma (line 477); "conducive for" (line 319); "whoever acting according to" (line 665); `[lit:made a vehicle]` lacks a space (line 258); a closing `"` with no opening one in two gloss cells (`I will remain"` line 609, `doctrine of fools"` line 620). (old 11.23) | "Monks, you should…"; fix the others | 8 |
+| 11_class.md:141 | `ānanda \| noun \| masc.voc.sg \| ānanda` | Lower-case name in the English column; the translation (line 151) has "Ananda" without the macron and "[who] recently come". (old 11.22) | "Ānanda"; "[who have] recently come" | 9 |
+| 11_class.md:487 | `'khīṇā jāti vusitaṃ brahmacariyaṃ` | An opening quote that is never closed, carried into the table cell `'khīṇā` (line 504). (old 11.2) | Remove it, or close it | 7 |
+| 11_class.md:577 | `diṭṭhiṭṭhānaṃ, — so loko so attā` | Comma plus dash, twice in the sentence; the closing `'ti` of `ṭhassāmī'ti` has no opening quote. (old 11.3) | Tidy | 6 |
+| 12_class.md:46 | `there could be hen's eggs` | The supplied words are not in brackets. Also "I will clarify" (line 536) for the present `āvikaromi`, and "knowledge and vision were not" (line 281) for a singular. (old 12.17) | "[there were] a hen's eggs"; "I clarify"; "was not" | 5 |
+| 12_class.md:222 | `**Some monks and brahmins who speaking thus, holding such view…**` | Ungrammatical. Also "…noble truths, which four?" (line 135) is a comma splice, and `aspects….` (line 281) has an ellipsis plus a full stop. (old 12.18) | "…who speak thus and hold such a view…" | 8 |
+| 13_class.md:69 | `ovadati \| verb \| pr.3rd.sg \| advises, admonish` | Agreement. Also "that; that" (line 300), "who lies" in a plural row (line 329), "make subside" (line 505), "miniscule" (lines 507, 516), "; What indeed" (line 535). (old 13.24) | "admonishes"; "that"; "who lie"; "makes subside"; "minuscule"; ". What indeed" | 8 |
+| 13_class.md:129 | `nīyati \| verb.pass \| pr.3rd.sg \| is lead` | The past participle is "led"; also the translation (line 131). (old 13.23) | "is led" | 10 |
+| 13_class.md:141 | `na parimuccati jātiyā … , na parimuccati` | A space before the comma. (old A13) | Remove the space | 8 |
+| 13_class.md:582 | `yato tvaṃ, bāhiya, na tena tato tvaṃ, bāhiya, na tattha` | Comma missing after the second `na tena` (the parallel has one); `"ti` at the end has no opening quote. (old 13.6) | Add the comma | 6 |
+| 14_class.md:25 | `pāyāsi \| noun \| masc.nom.sg \| Payasi` | Names without diacritics (`Payasi`; `Bandhuma`, `Vipassi` at line 66); lower-case start `"monk, this is your bowl.` (line 777); the verse translation (line 658) opens a quote it never closes; `understood.` with a full stop inside a cell (line 179); `how!?` (line 174); "not approved of nor rejected" (line 671). (old 14.29) | Pāyāsi, Bandhumā, Vipassī; "Monk"; close the quote; drop the full stop; "how?"; "neither approved of nor rejected" | 7 |
+| 14_class.md:32 | `And then, having had summoned a young brahmin Uttara, Payasi, the young nobleman, said this.` | Ungrammatical ("having had summoned"); the name order hides the subject. (old 14.21) | "And then Pāyāsi the young nobleman, having had the young brahmin Uttara summoned, said this." | 8 |
+| 14_class.md:98 | `vicāreti \| verb.caus \| pr.3rd.sg \| investigate; examine` | Bare verbs (no "he"); "being cause to see together" (line 372); singular "fits with", "is seen together with" on 3rd pl verbs (lines 375, 378); "lit: causing to be heard along" on a passive (line 310); "lit. causes to know" on a future (line 356); "should cause pour" (line 296); "who restrained" (line 795); "with no patron; owner" (line 728). (old 14.27) | "investigates; examines"; "being caused…"; "fit with"; "are seen…"; "being caused to be heard"; "will cause to know"; "should cause to pour"; "who is restrained"; "with no patron or owner" | 7 |
+| 15_class.md:43 | `padhāna- \| noun \| nt \| exertion, energetic effort, striving,` | Trailing comma in a gloss; full stops in gloss cells (`understood.` line 72, `at the right moment.` line 201); `Thus- Gone` (line 442); `duality–on` (line 290); `"right view?"` with the question mark inside the quote (line 272). (old 15.14) | Fix the punctuation | 8 |
+| 3_class.md:318 | `gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…` | The quote is never closed; `...` and `…` in one line. Not placed in the class 3 slice. (old 3.2) | Close the quote; `…` | 8 |
+| 6_class.md:175 | `samaye corā balavanto honti..` | Two dots where an ellipsis is meant (the folder has 56 `…`). The old row also cited 5:413, 10:636 and 11:341: those have three ASCII dots (`...`, 10 in the folder by mech count), not two. (old A14) | `…` | 8 |
+
+## E. Markdown defects that affect rendering
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 2_class.md:298 | `**[Good are] friends in [arisen] need <br>[Good are] friends when need [arises]**` | Bold spans a `<br>`; two alternative translations in one bold line. | Bold each line separately, or keep one translation | 6 |
+| 3_class.md:354 | `**It would be good if the meaning of this statement may become evident to Venerable Sāriputta. (so that he could explain it to us)<br>fig: It would be good if Ven. Sāriputta would explain the meaning of this statement.**` | Bold spans a `<br>`; a bracketed clause stands after the full stop. (old 3.6) | Bold each line; put the bracket before the full stop | 7 |
+| 4_class.md:403 | `**Practice for restraint of the body (faculty), guard the body (faculty), <br>arouse restraint in regard to the body (faculty).**` | Bold spans a `<br>`. | Bold each line, or drop the `<br>` | 7 |
+| 8_class.md:252 | `**Having shaved hair and beard, and having clothed myself in brown robes, let me go forth from the household life to homelessness. <br>[What if I shave hair and beard, clothe myself in brown robes and go forth…?]**` | Bold spans a `<br>`. | Bold each line | 7 |
+| 15_class.md:25 | `katame pañca? \| \| \| \|` | The sentence is placed as the first table row with four empty cells; also `katamehi tīhi?` (line 112), `katamehi pañcahi?` (line 191). (old A8) | Move the sentence above the table | 7 |
+| 6_class.md:50 | `**This is a common Pāli idiom.**` | Notes and sub-headings in bold exactly like a sentence translation: also `**passive verbs:**` (13_class.md line 74), `**Potential Participles**` (14_class.md line 123), `**(or)**` (14_class.md line 553), `**Translation Assignment**` (15_class.md line 3). (old A17) | Plain text or a heading | 6 |
+
+## F. Convention drift
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 1_class.md:11 | `sammā - \| ind \| adv` | Space before the hyphen. The sentence (line 3) writes `sammā-sambuddhassa`; class 2 (2_class.md line 88) keeps the whole compound `sammāsambuddho`. (old 1.1) | `sammā-`; one treatment of the compound across classes | 7 |
+| 2_class.md:315 | `kassapassa \| proper noun` | The only `proper noun` POS; other names are `noun` (`gotamo`, lines 116, 304). (old 2.5) | `noun` | 8 |
+| 2_class.md:127 | `**for dispassion, for cessation**` | Phrase translations start lower case here and at lines 136, 154, 192, 201, 213, 253, but capitalised at lines 109, 118, 164, 234. | One style | 4 |
+| 3_class.md:1 | `# Class 3 Key to Exercises` | No blank line between the heading and item 1 (line 2); every other key file has one. (old A3) | Add a blank line | 6 |
+| 3_class.md:84 | `young gentleman, Brahman` | The translation (line 87) writes `(brahmin)`; the course elsewhere writes "brahmin". (old 3.6) | "young brahmin" | 7 |
+| 4_class.md:118 | `amha- \| verb \| pr.1st.pl \| we are` | The hyphen marks compound stems elsewhere; here it is on a finite verb shortened in sandhi (`amhā'ti`, line 113). (old 4.3) | `amha` | 6 |
+| 5_class.md:481 | `añña'd'atthu \| ind \| adv` | Two elision marks inside one indeclinable (`aññadatthu`), also in the sentence (line 470). | `aññadatthu` (DPD headword, `añña + [d] + atthu`), unless the marks are a deliberate sandhi notation: owner decision | 5 |
+| 6_class.md:203 | `thero \| adj \| masc.nom.sg \| elderly; senior` | The same word is `noun` at lines 251 and 267 (`therā`, `there`). | One POS | 5 |
+| 6_class.md:428 | `tam \| pron \| masc.acc.sg \| that` | Plain `m` on a free-standing word; also the sentence (line 421). (old F3) | `taṃ` | 9 |
+| 7_class.md:70 | `kinti \| ind \| pron+ind \| how then` | The sentence (line 66) writes `kin'ti`; the same word is tagged `interr` at line 417. (old 7.2) | `kin'ti`; one tag | 8 |
+| 7_class.md:125 | `vā \| ind \| - \| or` | The Grammar cell of a particle is `-` here (also lines 109, 127, 129), `conj` at line 299, and empty at lines 184, 399, 401, 438. | `conj` (or the class's usual label) throughout | 7 |
+| 7_class.md:170 | `yaṃnūn'āhaṃ \| idiom \| ind+pron.1st.nom.sg` | The same idiom is `yan'nūn'āhaṃ` with `pron+ind+pron.1st.nom.sg` at 8_class.md lines 238, 242 (and in class 13, line 44). (old 7.5) | One spelling and one analysis | 8 |
+| 7_class.md:295 | `ce \| ind \| ind \| if` | `ce` is `ind` here and at line 456 (and 8_class.md line 545), `cond` at line 386. (old 7.13) | `cond` | 7 |
+| 7_class.md:370 | `yāva'd'eva \| ind \| ind+adv` | Two elision marks inside one indeclinable (`yāvadeva`); also the sentence (line 366). | `yāvadeva` (DPD: `yāva + [d] + eva`), unless the marks are a deliberate sandhi notation: owner decision | 5 |
+| 8_class.md:159 | `etad- \| pron \| nt.acc.sg \| this` | A hyphen marks a compound stem elsewhere; here it marks sandhi with `avoca` (sentence `etadavoca`, line 142). Class 6 writes `etad` (6_class.md line 146). | `etad` | 5 |
+| 9_class.md:87 | `samanupassituṃ \| ind \| inf` | Infinitives are `verb \| inf` (18 rows), but `ind \| inf` here and at lines 117 and 708. (old E10) | `verb` | 8 |
+| 9_class.md:95 | `pañha-vyākaraṇāni` | The exercise (bpc_ex/9_class.md line 73) writes `pañhabyākaraṇāni`. (old B9) | One spelling (`pañhabyākaraṇāni`) | 6 |
+| 9_class.md:146 | `yaṃ nūna \| pron+ind \| interr \| what if, let's` | A third spelling and analysis of the idiom: `yaṃnūn'āhaṃ` (7_class.md line 170) and `yan'nūn'āhaṃ` (8_class.md line 242). | One spelling and one analysis | 6 |
+| 10_class.md:130 | `ca \| ind \| \| and, but` | Empty Grammar cell; `ca` is `conj` elsewhere in the class (lines 149, 347). Also `yāvatā-` (line 676). | `conj` | 6 |
+| 10_class.md:181 | `atthaṅ'gate \| pp \| masc.loc.sg<br>(loc abs)` | An elision mark inside the compound `atthaṅgata` where nothing is elided; same in the sentence (line 173). | `atthaṅgate` (DPD headword atthaṅgata, `atthaṃ + gata`), unless the mark is a deliberate sandhi notation: owner decision | 4 |
+| 10_class.md:203 | `passasāmī'ti \| verb \| pr.1st.sg + quote` | `+ quote` in the Grammar column here, not in the twin row at line 197; at lines 239 and 243 it sits in the English column (`I will breathe in + quote`). | One place, or drop it | 6 |
+| 10_class.md:212 | `seyyathāpi \| ind \| pron+adv+ind \| just like` | A construction in the Grammar column; line 90 has `seyyathāpi \| ind \| -`. | `-` | 5 |
+| 10_class.md:666 | `yāvat'āssa vigatamiddho` | The mark implies `yāvat` + `āssa`; the table splits `yāvatā-` + `assa` (lines 676, 677). (old 10.3) | Match the table (`yāvatā'ssa`) | 5 |
+| 10_class.md:678 | `(or) \| pron \| masc.dat.sg \| for him` | `(or)` stands in the Pāli column as if it were a word; also line 680. Line 377 gives alternatives inside the cell. (old A10) | Use the in-cell `(or)` pattern of line 377 | 7 |
+| 11_class.md:48 | `seyyathāpi \| ind \| \| just like, as` | Empty Grammar cell; the same word has `pron+adv+ind` at lines 112 and 241. `vā` has `disj` (lines 328, 330), `conj` (line 53) and an empty cell (lines 185, 187). | One value per word | 5 |
+| 11_class.md:104 | `sampajāna-kārī \| adj \| masc.nom.sg` | Hyphen in the table, none in the sentence (`sampajānakārī`, line 96); also `sammāsaṅkappa-gocarā` (line 543) against the sentence's `sammāsaṅkappagocarā`. | Match the sentence | 6 |
+| 11_class.md:126 | `abyatto \| adj \| masc.nom.sg \| untrained \| √añj･8 \*aya (distinguish)` | Sign `*aya` here; `byattaṃ` has `√añj･8 *e` (10_class.md line 602). This line follows DPD (abyatta, √añj \*aya); `byatta` was not looked up. | DPD lookup (byatta) | 3 |
+| 11_class.md:203 | `aniccato \| ind \| adv \| as impermanent` | The same "-to = as X" form is `ind \| adv` here and at lines 205–211, 363–373, but `noun \| masc.abl.sg` for `paṭilābhato` (line 422) and `accayato` (line 520). (old 11.14) | One tag | 6 |
+| 11_class.md:237 | `seyyathā'pi suddhaṃ vatthaṃ apagataṃ kāḷakā` | Sentence `seyyathā'pi`, table `seyyathāpi` (line 241); also sentence `vigat'ūpakkilese` (line 461) vs table `vigatūpakkilese` (line 471). (old 11.1) | Match | 8 |
+| 11_class.md:274 | `[AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl)` | No space before `(simpl)`; every other `(simpl)` in the class has one (lines 249, 301, 444). | `… (simpl)` | 5 |
+| 11_class.md:681 | `maṅgalam \| noun \| nt.nom.sg \| blessing` | The table keeps the sandhi `-m` of `maṅgalam'uttamaṃ`; the same phrase in class 10 has `maṅgalaṃ` (10_class.md line 661). | `maṅgalaṃ` | 5 |
+| 12_class.md:12 | `api \| ind \| \| just only` | `ekam'pi` is split into `ekaṃ` + `api` (lines 11–12), while `dve'pi`, `tisso'pi` … `jātisatasahassam'pi` (lines 14–27) keep the `'pi` in one row. | One way | 5 |
+| 12_class.md:48 | `evam'eva kho, bhikkhave, ayaṃ dhammavinayo` | Sentence `evam'eva`, table `evameva kho` (line 62). (old 11.1) | Match | 8 |
+| 12_class.md:86 | `pañca-mattehi \| adj \| nt.instr.pl \| with five in number; five measures` | Hyphens in the table that the sentence (line 71) does not have: also `bhikkhu-satehi` (line 87), `an-uppanno` (line 111), `yathā-idaṃ`, `paṭigha-nimittaṃ` (lines 119, 120; sentence `yathayidaṃ`, `paṭighanimittaṃ`), `ariya-saccāni.` (line 131). | Match the sentence | 6 |
+| 12_class.md:369 | `samanta'pāsādiko \| adj \| masc.nom.sg` | An elision mark where nothing is elided; also in the sentence (line 358). (old 12.4) | `samantapāsādiko` (DPD headword samantapāsādika, `samanta + pāsādika`), unless the mark is a deliberate compound notation: owner decision | 5 |
+| 12_class.md:454 | `tīṇi \| card \| nt.acc.pl \| three (3)` | Digits in brackets in this item only (lines 454–464). (old 12.19) | Remove them | 5 |
+| 12_class.md:506 | `seyyath'idaṃ \| ind \| pron+adv+pron \| namely; that is` | `seyyath'idaṃ` here and in the sentence (line 497), `seyyathidaṃ` in item 1 (lines 3, 10). | One spelling | 5 |
+| 13_class.md:297 | `samanuyuñjiyamāno \| prp. pass \| masc.nom.sg \| being cross-questioned by \| √yuj･2 ṃa + iya (yoke, join)` | The passive sign is written four ways in the class: `ṃa + iya` here, `iya` (lines 183, 298, 299), `īya` (lines 280, 281), `ya` (line 82 and most others). | One notation | 5 |
+| 13_class.md:351 | `dissanti \| verb \| pr.pass.3rd.pl \| are seen` | The same word in the same sentence is `verb.pass \| pr.3rd.pl` (line 343). (old 13.11) | `verb.pass \| pr.3rd.pl` | 9 |
+| 14_class.md:30 | `etadavoca \| verb \| aor.3rd.sg \| he said this` | The sentence (line 20) has `etad'avoca`; likewise the table has `tasmā't'iha` (line 129) against `tasmātiha` in the sentence (line 125). (old 14.3) | Match | 5 |
+| 14_class.md:62 | `tayo \| adj \| masc.acc.pl \| three` | Every other numeral in the key is `card` (`dve`, `tīṇi`, lines 76-78). (old 14.10) | `card` | 7 |
+| 14_class.md:91 | `ca- \| ind \| conj \| and, but` | Trailing hyphen on sandhi-split words that are not compound members: also `evaṃ-` (line 248), `cattāro-` (line 262). (old 14.5) | Drop the hyphen | 6 |
+| 14_class.md:294 | `√sic･2 ṃa (sprinkle, pour)+ ṃa \> siñca+eyya` | Free-form derivation inside the Root cell (also line 296); no other Root cell in the folder does this. (old D19) | `√sic･2 ṃa (sprinkle, pour)` | 7 |
+| 14_class.md:296 | `siñcāpeyya \| verb \| opt.caus.3rd.sg` | "caus" in the Grammar column, as `pabbājentī"ti \| verb \| pr.caus.3rd.pl` (line 537), while `pabbājenti` three rows earlier (line 534) is `verb. caus \| pr.3rd.pl`. (old 14.13) | `verb.caus` | 8 |
+| 14_class.md:302 | `sampajānamusāvādo assa hoti` | The rule reads `sampajānamusāvādassa hoti`; the Pāli line prints the commentarial resolution `-vādo assa` without saying so. Same silent resolution: `vā assa` (line 503), `evaṃ assa` (line 527), `rāgaṃ ca dosaṃ ca, avijjaṃ ca` (line 633), `ṭhānaṃ etaṃ` (line 342), `idha ahaṃ` (line 682); the file keeps `kathañ'ca` (line 170) and `evañ'ca` (line 244). (old 14.2) | One convention, or mark the resolution | 5 |
+| 14_class.md:372 | `√dis･1 \*e iya (see)` | Compound signs are written with `+` (`√bhū･1 \*e + iya` line 267, `√tar･1 \*e + iya` line 370, `√sar･1 \*e + iya` line 476, `√ṭhā･1 \*āpe + iya` line 835, `√vis･1 \*e + iya` line 837; also 13_class.md line 297) and once without. (old D18) | One notation | 8 |
+| 14_class.md:378 | `sandissanti \| verb. pass \| pr.3rd.pl (+loc)` | Root `√dis･1 iya`: passive sign `iya` where the key's convention is `ya` (`√vac･1 ya`, line 792); also `√vatt･1 iya` (line 269), `√hā･1 īya` (line 629). Folder count in the cross slice. (old D17) | `√dis･1 ya` | 6 |
+| 14_class.md:508 | `pana \| ind \| ind \| but; and so` | The same word in the same rule formula is `ind \| conj` at line 307; `ce` is `ind \| cond` at lines 326, 368, 569 but has an empty Grammar cell at line 141. | One Grammar value each | 6 |
+| 14_class.md:537 | `pabbājentī"ti` | A double quote as the quotation mark inside a word, also in the sentence (line 527); elsewhere an apostrophe (`paññāpessatī'ti`, line 356). verify_key cannot match it (NOT-FOUND). (old 14.4) | `pabbājentī'ti` | 8 |
+| 14_class.md:678 | `sandassetabbāni \| ptp caus pass \| nt.nom.pl` | The parallel `otāretabbāni` two rows up (line 676) is `ptp.caus`; a potential participle is passive by itself, and no other `ptp` row adds `pass`. | `ptp.caus` | 7 |
+| 14_class.md:835 | `vuṭṭhāpiyamānaṃ \| prp \| masc.acc.sg [+instr]` | Causative passive by its own Root cell (`\*āpe + iya`; also `saṃvesiyamānaṃ`, line 837) without the label that `bhāviyamānā` (line 267) and `otāriyamānāni` (line 370) carry; `ārādhayiṃsu` (line 691, `\*aya`) is plain `verb` while `vivattayi` (line 804) is `verb.caus`. (old 14.14) | `prp.caus.pass`; `verb.caus` | 6 |
+| 15_class.md:183 | `ananuvajjā \| adj, <br>(\<ptp)` | One POS written three ways in one item: `adj(\<ptp)` (line 181), `adj (\<ptp)` (line 241), `adj, <br>(\<ptp)` (here and line 243). | `adj (\<ptp)` | 6 |
+| 15_class.md:218 | `metta- \| adj \| masc (in comp)` | A gender on a compound-member adjective whose head (`cittena`) is nt; `attha-` (line 213) has `masc. (in comp)` with a full stop. (old 15.6) | `in comp` | 6 |
+| 15_class.md:253 | `"dvayanissito kho ayaṃ, kaccāna, loko yebhuyyena — atthitaṃ ca eva n'atthitaṃ ca.` | SN12.15 has `khvāyaṃ`, `atthitañceva natthitañca`, `tañcāyaṃ`, `dukkhameva`, `ñāṇamevassa`; item 4 prints every sandhi resolved without saying so, while item 1 shows its resolutions in brackets (line 9). | verify; mark the resolutions as in item 1 | 4 |
+| 11_class.md:511 | `saṁvarāya` | `ṁ` 6 times (mech count: 11_class 2, 12_class 4; also 11:523, 12:437, 12:448, 12:462, 12:466) against `ṃ` everywhere else. (old A6) | `ṃ` | 9 |
+| 3_class.md:57 | `so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti` | Curly opening `‘` (25 in the folder, 10 in class 15) closed by a straight `'`, or used as an elision mark; no `’` exists in the folder. 14_class.md line 735 has a doubled `‘‘`. (old A7) | Straight `'` throughout | 8 |
+| 6_class.md:292 | `visuddhiyā \| noun \| fem.dat.sg<br>fem.gen.sg` | Raw `<br>` inside table cells (Pāli, POS, Grammar and English columns); 614 `<br>` in the folder, most of them between citation and sentence. A recurring owner-decision topic. (old A11) | owner decision | 5 |
+| 9_class.md:68 | `samudayāya. \| noun \| masc.dat.sg` | Sentence punctuation kept inside the Pāli cell (classes 9–12, and class 15 throughout, e.g. `hoti,` at 15_class.md line 45); the other classes strip it. (old A12) | Strip | 7 |
+| 11_class.md:274 | `[AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl) <br>` | The gap between citation, `(simpl)` and `<br>` is written five ways: `) <br>` ×298, `)<br>` ×71, `) (simpl) <br>` ×52, `) (simpl)<br>` ×40, `)(simpl) <br>` ×1 (this line). (old A15) | One form | 6 |
+| 10_class.md:23 | `**Or knowing, he said, "I don't know"**` | Translations of a split sentence: some start upper-case and end without a full stop, others the reverse, even inside one item (10_class.md line 32 "or, not seeing"). (old A16) | One rule for split sentences | 4 |
+| 11_class.md:530 | `[DHP012](https://s.dhamma.gift/kn/dhp/index.html#dhp1)` | Zero-padded Dhp labels (`DHP012`, `DHP026`, `DHP085`–`DHP088`: 6) beside unpadded ones (`DHP76`, `DHP130` and 13 more). (old C13) | One form | 6 |
+| 6_class.md:52 | `[VIN1.2.12](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss12)` | Two label systems for the Vinaya: numeric `VIN1.2.12`, `VIN1.1.4`, `VIN2.5.1.2`, `VIN4.1.14` (7) against `VIN PAT SA 12`, `VIN PAT PC 20` (41 linked, 5 unlinked). (old C14) | One form | 6 |
+| 5_class.md:68 | `madāya \| noun \| masc.dat.sg \| for intoxication \| √mad･3 ya (be mad, intoxicated)` | Root glosses differ from current DPD wording in about 65 rows (`√chid` as `(cut, steal)` and `(cut)`; `(breath, blow)`; `(destroy, exhaust)`), mostly DPD rewording since the key was written. (old D22) | DPD lookup; refresh the glosses in one pass | 6 |
+| 5_class.md:81 | `ānanda \| noun \| masc.voc.sg \| O Ānanda! (lit. joyful)` | The same word has a root in one row and none in another: `ānanda` (here vs 6_class.md line 45), `medhāvī`, `saṅgha`, `atthi`, `khamo` (15:44 vs 15:36), `samannāgatā` (15:235 vs 15:104), `sādhukaṃ` (14:419 vs 14:668), `apaññattaṃ`/`paññāpessanti` (14:434, 14:436 vs 14:437). (old D25) | Fill or leave empty consistently | 6 |
+| 4_class.md:185 | `abhinanduṃ \| verb \| aor.3rd.pl \| they were pleased with (+acc)` | Governed case written `(+acc)` ×39, `[+acc]` ×36, bare `+acc` ×4 (e.g. `+loc` at 15_class.md line 381), sometimes after a `<br>`, and here in the English column. Supplied words in translations: `[and]` (2_class.md line 78) against `(and)`, `(about)`, `(for)` (3_class.md line 340, 4_class.md line 282). (old E2) (old 4.16) | One form, in the Grammar column | 7 |
+| 10_class.md:275 | `asante \| prp \| masc.loc.sg \| (when) … not present (loc abs)` | Absolute constructions written `(loc abs)` / `(gen abs)` ×37, `[loc abs]` ×14 (e.g. 11_class.md line 466), `(loc.abs)` ×4, `<br>loc abs` ×2; here in the English column. (old E3) | One form, in the Grammar column | 6 |
+| 11_class.md:496 | `vimuttam'iti \| pp \| nt.nom.sg \| liberated +endquote` | End of quotation written `+end quote` ×5, `+endquote` ×8, `+ endquote` ×2, `+ end quote` ×2, `+ quote` ×4, or as a separate `iti`/`'ti` row ×21; here in the English column; nothing at 11_class.md lines 609, 620, 13_class.md line 229, 15_class.md line 245. (old E4) | One form | 7 |
+| 13_class.md:351 | `dissanti \| verb \| pr.pass.3rd.pl \| are seen` | Passive and causative written in about 15 ways in the POS column (`verb.pass`, `verb. pass`, `prp. pass`, `prp caus pass`, `ptp caus pass` …) or inside Grammar (here; 14_class.md line 537); classes 3–12 tag the same words plain `verb` (`vuccati` 9_class.md line 303 vs 14_class.md line 792; `paripūreti` 3_class.md line 97 vs 14_class.md line 15). (old E5) | One form; decide whether earlier classes get the label | 8 |
+| 13_class.md:351 | `√dis･1 ya (see)` | The passive sign after a group-1 root is `ya` in 22 cells, `iya` in 5 and `īya` in 3 (e.g. 14_class.md lines 378, 629); compound signs `+ iya` ×6, `ṃa + iya` ×1, once without `+`. Folder counts for the rows in the class 13 and 14 slices. | `ya` throughout | 6 |
+| 11_class.md:630 | `atītā \| adj (pp) \| masc.nom.pl \| past` | Participle used as adjective: `adj (pp)` ×4, `adj [pp]` ×2, `adj<br>[pp]`, `pp [adj]`, `adj (\<ptp)`, `adj(\<ptp)`, `adj, <br>(\<ptp)` ×2, `adj<br>(ptp)`. (old E6) | One form | 6 |
+| 10_class.md:710 | `kati \| pron interr \| masc.nom.pl \| how many?` | Interrogative pronoun as `pron interr` ×4, `pron, interr`, `pron.<br>interr`, `pron<br>interr`; plain `pron` for `ko` ×3. (old E7) | `pron`, with `interr` in Grammar | 6 |
+| 5_class.md:145 | `bhogī \| adj. \| masc.nom.sg` | Stray POS values: `adj.` (also 13_class.md line 449), `noun (comp)`, `adj, comp`, `proper noun`, `ind<br>(comp)`, `pron+noun [idiom]`, `pron+verb`. (old E8) | Fold into the standard set | 6 |
+| 11_class.md:650 | `ca \| ind \| adv \| and` | Grammar cell of particles: `ca` `conj` ×80, empty ×4, `adv` (here), `ind` (15_class.md line 348); `vā`, `kho`, `eva`, `api`, `pana`, `ce`, `hi` likewise; 25 `ind` rows have an empty Grammar cell and 36 have `-`. `seyyathāpi`: `-` (10_class.md line 90), empty (11_class.md line 48), `pron+adv+ind` (11_class.md line 241). (old E9) | One tag per particle | 7 |
+| 8_class.md:412 | `āvuso \| ind \| voc.sg or voc.pl \| o friend; brother` | `āvuso` is `ind \| voc.sg` (5:589, 14:348) or `voc.sg or voc.pl`; verify_key flags the `voc.sg` cells IMPOSSIBLE (DPD: `ind`). `bhante` is `noun \| masc.voc.sg` ×14. (old E11) | `ind` with a plain note, or treat both alike | 5 |
+| 9_class.md:191 | `atha \| ind \| ind \| after` | Fixed phrases analysed several ways: `atha kho` (five tags; split here into `atha` "after" + `kho` "that"), `evam'eva`, `seyyathāpi`, `kiṃ nu kho`, `yo pana bhikkhu`, `n'eva`, `c'eva` (`sandhi \| ind+ind`, `ind \| ind+ind`, `ind \| ind+emph`). (old E12) | One analysis per phrase | 7 |
+| 1_class.md:11 | `sammā - \| ind \| adv \| fully; completely` | Compound members: Grammar `-` ×17 (class 2), empty, bare gender, `masc (in comp)`, full `masc.nom.sg` on a stem; stems written `sammā -` (space before the hyphen, here), `adhicittam-`, `divasaṃ-`, `ca-`. (old E13) | One form | 6 |
+| 6_class.md:34 | `sāvaka-saṅgho \| noun \| masc.nom.sg` | Hyphen in the table that the sentence does not have: also 8_class.md line 42, 10_class.md line 119, 13_class.md line 25, 15_class.md line 95 (`yathā-dhammaṃ` vs `yathādhammaṃ` at line 118), and the rows of classes 11–13 listed in their slices. (old E14) | Match the sentence | 6 |
+| 11_class.md:258 | `[lit:made a vehicle]` | The literal-meaning note is written `lit:` ×64 and `lit.` ×38 (mech count), in round or square brackets or none, once `Lit:`. (old E15) | One form | 6 |
+| 12_class.md:618 | `(The Buddha) taught the sublime teaching` | Supplied words in round brackets (`(The Buddha)`, `(his)`, `(done)`) beside the majority in square brackets (`[your]`). (old E16) | Square brackets | 5 |
+| 15_class.md:174 | `with parts, factors; qualities` | Gloss separators: comma and semicolon both used, often in one cell. (old E17) | One separator | 4 |
+| 5_class.md:32 | `parisuddho \| pp \| masc.nom.sg \| cleaned, purified` | Same word, different POS: `parisuddho` pp here, adj at 5_class.md line 344; `āyasmato` noun/adj; `sabba` adj/pron; `ekaṃ`/`eko` card/adj; `adassāvī` and `pariyāyena` inside one sentence; `āgatā` adj/pp; `subhāsitā` pp vs `dubbhāsitā` adj (15_class.md lines 177, 180). (old E19) | One POS per word and function | 6 |
+
+## G. Links
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 4_class.md:367 | `2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179)<br>nibbindati dukkhe esa maggo visuddhiyā` | `atha nibbindati dukkhe, esa maggo visuddhiyā` is the refrain of Dhp 277–279 (Maggavagga); Dhp 183 is `sabbapāpassa akaraṇaṃ`. Label and anchor are both wrong. (old C17) | `DHP277`, `#dhp273` | 9 |
+| 6_class.md:82 | `7. [SNP9](https://s.dhamma.gift/kn/snp/index.html#snp1.9)` | `ye keci pāṇabhūtatthi` is the Mettasutta, Snp 1.8; the exercise (bpc_ex/6_class.md line 79) and the key itself (line 353) cite `SNP8`. (old C5) | `SNP8`, `#snp1.8` | 9 |
+| 6_class.md:276 | `21. [DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273)` | `sabbe dhammā anattā` is Dhp 279; the exercise (bpc_ex/6_class.md line 286) cites `DHP185`, also wrong. (old C6) | `DHP279` in both, anchor `#dhp273` | 9 |
+| 9_class.md:3 | `1. VIN0 <br>āraddhaṃ kho pana me, brāhmaṇa, vīriyaṃ ahosi.` | Truncated label with no link; the same label at 11_class.md line 17, where the exercise has `[VIN1.0](…pli-tv-bu-vb-pj1)`. (old C8) | Use the exercise's labelled link | 9 |
+| 11_class.md:17 | `2. VIN0 <br>taṃ bhavantaṃ gotamaṃ` | The key has a truncated label and no link; the exercise (bpc_ex/11_class.md line 16) has `[VIN1.0](…#pli-tv-bu-vb-pj1)`. (old C8) | Use the exercise's label and link | 9 |
+| 11_class.md:61 | `[ITI111](https://s.dhamma.gift/kn/iti/index.html)` | The only KN link in the class with no anchor. (old C12) | Add the anchor if the site has one | 5 |
+| 13_class.md:373 | `2. APA 3 (simpl) <br>jahanti purimaṃ nāmaṃ` | Unlinked and too vague to locate. (old C9) | Add a precise reference and link if one exists | 7 |
+| 14_class.md:125 | `[AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82)` | The exercise (bpc_ex/14_class.md line 109) cites `AN4.73` for the same item; the label and the anchor also differ by one (folder-wide AN3 pattern, see the cross slice). (old C7) | Check the text; make key and exercise agree | 7 |
+| 14_class.md:244 | `[DN16.11](https://s.dhamma.gift/dn/dn16/index.html)` | `evañca kho eso, bhikkhu, pañho pucchitabbo` is from DN11 (Kevaddha), not DN16. (old C16) | `[DN11](https://s.dhamma.gift/dn/dn11/index.html)` | 8 |
+| 14_class.md:302 | `18. VIN PAT NID <br>yo pana bhikkhu yāvatatiyaṃ` | Unlinked reference; the other Pātimokkha items in this file are linked. (old C9) | Add the link (shape per kamma/tech.md → Sutta links) | 7 |
+| 9_class.md:526 | `[TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)` | The label gives the verse number; the anchor always points to the first poem of the nipāta (Raṭṭhapāla is Thag 16.4, Pārāpariya 16.10). Also 9_class.md line 550, 10_class.md line 312, 13_class.md line 477, 2_class.md line 14. (old C11) | Confirm whether the site has finer anchors | 5 |
+
+## H. Data to re-verify (forms, references, counts)
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 1_class.md:3 | `1. namo tassa bhagavato arahato sammā-sambuddhassa` | No source reference. In class 2, 13 phrase items (8–11, 13, 14, 17–19, 21, 24, 27, 30) have none either. (old C10) | owner decision: confirm intended | 5 |
+| 2_class.md:68 | `6. VIN PAT NID nidānuddeso<br>` | Reference with no link, unlike every other labelled item in the class. (old C9) | Add the s.dhamma.gift link to the Pātimokkha nidāna if the site has one; verify | 6 |
+| 2_class.md:245 | `aparena samayena buddho` | MN39 has the prison simile (`bandhanāgāre baddho assa. so aparena samayena …`): the word there is `baddho` "bound", and the three words are not contiguous. `buddho` "the Awakened One" (line 251) may rest on a misreading. (old C19) | verify against MN39 | 5 |
+| 2_class.md:236 | `vinipātaṃ nirayaṃ` | The old audit did not find the phrase in SN12.41 by text search (it found it in SN12.70). Not checked against a text here. (old C19) | verify | 4 |
+| 3_class.md:166 | `16. [MN2.4](https://s.dhamma.gift/mn/mn2/index.html)<br>parikkhāraṃ paṭisevāmi` | MN2 has the 3rd person (`… parikkhāraṃ paṭisevati`); the 1st person is the recollection chant. The item is not marked `(simpl)`. (old C19) | verify; mark `(simpl)` if the 1st person is kept | 5 |
+| 3_class.md:308 | `29. VIN<br>passasi taṃ āpattiṃ` | `VIN` alone cannot be located and has no link. (old C9) | Give the exact Vinaya reference and link; verify | 7 |
+| 4_class.md:200 | `17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)<br>gahassa kāraka, diṭṭho asi` | `gahakāraka diṭṭhosi` is verse 154; verse 153 is `anekajātisaṃsāraṃ` (cited correctly at 10_class.md line 744). (old C18) | `DHP154` (anchor unchanged) | 7 |
+| 4_class.md:259 | `22. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) (simpl)<br>bhikkhū paribbājakehi sammodiṃsu` | The old audit found the phrase in SN46.52 and 46.54 by text search, not in 46.53. Not checked against a text here. (old C19) | verify | 3 |
+| 5_class.md:49 | `5. UD-a 43 <br>ahaṃ te aparimitaṃ dhanaṃ dassāmi` | A commentary reference with no link (the site has no commentaries). (old C9) | owner decision: keep as plain text, or give a canonical source | 6 |
+| 6_class.md:3 | `1. [DN2.9](https://s.dhamma.gift/dn/dn2/index.html) <br>bhagavā bhikkhū āmantesi, bhikkhavo'ti.` | The exercise (bpc_ex/6_class.md line 3) cites the same item as `SN22.59`. (old C1) | verify the source; make both files agree | 8 |
+| 6_class.md:28 | `3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html) <br>esa bhagavato sāvakasaṅgho` | The old audit could not place the saṅgha formula in DN11. Not checked against a text here. (old C15) | verify | 4 |
+| 6_class.md:39 | `4. [DN16.7](https://s.dhamma.gift/dn/dn16/index.html) <br>atha kho āyasmato ānandassa etad'ahosi` | The exercise (bpc_ex/6_class.md line 35) has `DN16.17`. (old C2) | Make both agree | 8 |
+| 6_class.md:52 | `5. [VIN1.2.12](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-ss/index.html#pli-tv-bu-vb-ss12)` | The exercise (bpc_ex/6_class.md line 47) cites `VIN PAT SA 12` (Pātimokkha, `pm4`); the key cites the Vibhaṅga in another label style. (old C3) | Make both agree | 8 |
+| 6_class.md:68 | `6. [MN152](https://s.dhamma.gift/mn/mn152/index.html) (simpl)` | The exercise (bpc_ex/6_class.md line 64) cites `MN19`. The formula is in both suttas. (old C4) | Make both agree | 7 |
+| 6_class.md:199 | `16. [AN10.71](https://s.dhamma.gift/an/an10/index.html#an10.71)<br>thero bhikkhu sabrahmacārīnaṃ piyo ca hoti` | The old audit took the wording for AN5 (`thera` suttas), not AN10.71. Not checked here. (old C15) | verify | 4 |
+| 6_class.md:439 | `1. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho` | The Maṅgalasutta reads `puttadārassa saṅgaho`; the key splits the compound into `puttassa ca dārassa` without a `(simpl)` marker. | Mark `(simpl)`, or keep the compound | 6 |
+| 7_class.md:154 | `13. [MN10.16](https://s.dhamma.gift/mn/mn10/index.html)<br>aho vata mayaṃ na maraṇadhammā assāma` | The expanded truths passage with `na maraṇadhammā assāma` is in DN22; in MN10 it is found only in the Burmese edition. (old C15) | verify against the edition the course follows | 4 |
+| 7_class.md:188 | `avaṅkatā \| adj \| fem.nom.sg \| not dishonest` | Not in SN12.22 as the old audit read it (`avañjhā bhavissati saphalā saudrayā`); in DPD `avaṅkatā` is a fem. abstract noun "straightness". The item is `(simpl)`. (old 7.7) | `noun \| fem.nom.sg \| straightness; honesty` (DPD: avaṅkatā fem, abstr); verify the text | 6 |
+| 8_class.md:101 | `7. DNa2.3 <br>therī pattaṃ gahetvā ākāse khipi.` | A commentary reference with no link. (old C9) | owner decision: keep as plain text | 6 |
+| 8_class.md:181 | `11. [VIN PAT PA 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3) <br>yo pana bhikkhu sikkhaṃ apaccakkhāya` | The rule is shortened (`bhikkhūnaṃ sikkhāsājīvasamāpanno` and `antamaso tiracchānagatāyapi` are left out) with no `(simpl)` marker and no ellipsis. | Add `(simpl)` | 4 |
+| 8_class.md:331 | `19. VIN PAT SA <br>ciṇṇamānatto bhikkhu` | `VIN PAT SA` names a whole chapter and has no link. (old C9) | Add the link to `pm4`; verify | 7 |
+| 9_class.md:526 | `tasmā hi paññā eva dhanena seyyā, yāya vosānaṃ idha adhigacchati.` | Thag 16.4 / MN82 read `paññāva dhanena seyyo` and `karonti mohā` (pl); the key has `seyyā` and `karoti` (line 545) with no `(simpl)` marker. | verify; mark `(simpl)` if the changes are kept | 4 |
+| 9_class.md:585 | `vatthuṃ desanāya` | The Pātimokkha has the compound `vatthudesanāya`; the key splits it without `(simpl)`. (old 9.4) | verify; mark `(simpl)` | 4 |
+| 10_class.md:342 | `na ca khuddaṃ samācare kiñci` | The Mettasutta reads `khuddamācare` (= `khuddaṃ ācare`); `samācare` adds a syllable to the pāda. The exercise has the same text; the table tags `samācare` (line 349). (old 10.1) | verify; `khuddaṃ ācare` | 6 |
+| 11_class.md:409 | `lok'āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato` | Reworded against MN137 (`lokāmisapaṭisaṃyuttānaṃ … paṭilābhaṃ vā`) without `(simpl)`; line 237 likewise splits DN14's `apagatakāḷakaṃ` into `apagataṃ kāḷakā`. (old 11.6) | verify; add `(simpl)` | 5 |
+| 12_class.md:94 | `yena anuppanno byāpādo uppajjati, yathayidaṃ` | AN1.12 has `anuppanno vā byāpādo uppajjati uppanno vā …`; the key shortens it without `(simpl)`. Line 377 likewise drops `pi` and `bhikkhave` from AN10.61 (`pañcapāhaṃ, bhikkhave`); for line 339 see the `caturāsītīnaṃ` row. (old 11.6) | verify; add `(simpl)` | 5 |
+| 13_class.md:187 | `ce bhikkhuṃ aññe bhikkhū jāneyyuṃ` | The rule reads `tañce bhikkhuṃ`; enclitic `ce` cannot open a sentence, and the translation still supplies "[that]". Not marked `(simpl)`. (old 13.2) | verify; `tañ'ce bhikkhuṃ` + a `taṃ` row | 6 |
+| 13_class.md:210 | `bhiyyo'ti \| ind \| adv+end quote \| more"` | The rule continues `bhiyyo, na ca tassa bhikkhuno…`; the `'ti` and the closing quote are not in it. (old 13.3) | verify; `bhiyyo` | 5 |
+| 13_class.md:269 | `[MN10.18](https://s.dhamma.gift/mn/mn10/index.html)` | The expanded truths passage is in DN22; in MN10 only in the Burmese edition. (old C15) | verify | 4 |
+| 13_class.md:288 | `evam'pi kho bhikkhu tehi bhikkhūhi` | Abridged without `(simpl)`; line 458 splits the compound `chakkhattuparamaṃ` into `chakkhattuṃ paramaṃ`, also unmarked (items 2, 4, 7 are marked). (old 13.5) | verify; mark `(simpl)` | 5 |
+| 13_class.md:449 | `supatiṭṭhitā \| adj. \| fem.nom.sg \| well placed; well established` | Khp 7 in CST reads `suppatiṭṭhitā` (DPD has both lemmas); stray full stop in the POS cell. (old 13.4) | verify; `adj` | 5 |
+| 14_class.md:136 | `es'ev'anto paṭigh'ānusayānaṃ,` | MN18 lists `esevanto rāgānusayānaṃ` first, then `esevanto paṭighānusayānaṃ`; the key (and the exercise, bpc_ex/14_class.md line 119) jump to the second item with no `…` or `(simpl)`. | verify; add `…` or `(simpl)` | 5 |
+| 14_class.md:406 | `[DN16.21](https://s.dhamma.gift/dn/dn16/index.html)` | Sub-numbers after DN/MN labels (`DN16.21`, also for two other passages at 9_class.md lines 233, 267; `DN23.20`, `DN14.4`, `MN2.2`, `MN2.8`; 47 labels) match no SuttaCentral segment numbering, and the scheme is not stated. (old C20) | State the numbering scheme, or drop the sub-numbers | 5 |
+| 4_class.md:13 | `[AN3.66](https://s.dhamma.gift/an/an3/index.html#an3.65)` | AN3 labels run one higher than their anchors: AN3.66→#an3.65 (also 9_class.md line 109), AN3.70→#an3.69, AN3.71→#an3.70, AN3.79→#an3.78, AN3.156→#an3.155, AN3.83→#an3.82 (14_class.md line 125). The labels follow another edition's numbering; the anchors follow SuttaCentral. | Align the labels with the anchors, or state the numbering | 6 |
+
+## I. Further details on the material under review
+
+| Location | Current | Problem | Suggested | Conf. |
+| --- | --- | --- | --- | --- |
+| 11_class.md:527 | `## Class 11 Extra` | The line before this heading holds a single space (mech_checks trailing space). (old A4) | Empty line | 9 |
+| 15_class.md:9 | `**"pañcime (pañca + ime), bhikkhave, caṅkame ānisaṃsā.` | The source paragraph is bold with `(a + b)` sandhi notes in items 1–2 (also line 95), plain with none in items 3–4 (lines 166, 253-255); item 4 (line 249) lacks the `(paragraph N)` note. (old 15.2) | One layout for the four items | 6 |
+| 15_class.md:1 | `# Class 15 Key to Exercises` | Classes 1 and 15 have no `## Class N Extra` section; classes 2–14 all have one. Class 15 is a translation assignment, so this is probably intended. (old A2) | Confirm intended | 3 |
+| 5_class.md:120 | `assasissāmi \| verb \| fut.1st.sg \| I will breathe in \| √sas･1 a (breath)` | The root gloss is copied from DPD, which has a noun where a verb is expected; also 5_class.md line 132 and 10_class.md lines 195-243. DPD-side. (old D23) | Raise upstream ("breathe") | 6 |
+| 5_class.md:66 | `√dū×1 a (go, run)` | The root mark `×` (78 cells) beside `･` (1 729 cells, mech counts) is explained nowhere in docs/bpc, docs/bpc_ex or docs/bpc_key. (old D24) | Explain the two marks once (e.g. in index.md) | 8 |
+
+## Mechanical detail
+
+Counts from the scripts. Items that are also rows in the tables above are marked.
+
+### M1. Tables, footnotes, characters (`mech_checks.py docs/bpc_key`)
+
+- 16 files, 8 235 lines, 5 466 table rows, 0 column mismatches.
+- Index link text vs page H1: 0 differences.
+- Footnotes: 1 reference, 1 definition (`8_class.md`).
+- Cyrillic character: `13_class.md:412`. Row above.
+- Trailing space: `11_class.md:527`. Row above.
+- No tab, NBSP, zero-width or non-NFC character was reported. No line with a double space.
+- External links: 442 occurrences, 219 unique, all on `s.dhamma.gift`; 219 links on 104 pages pass `check_sutta_links.py`.
+
+### M2. Key sentence vs exercise sentence (`key_vs_ex.py`)
+
+- 15 class files, 465 numbered items compared.
+- 71 items differ after normalising quotes, bold, `<br>` spacing and `ṁ`. Most are by design: the exercise resolves sandhi (`jānāmī'ti` in the key, `jānāmi iti` in the exercise; `imam'eva` / `imaṃ eva`). The differences that are not sandhi are rows above (cross-file slice and the class slices).
+- 97 items differ only in the citation label or in the spacing around `<br>`.
+
+### M3. Project verifier (`verify_key.py --course bpc --warnings`)
+
+- Numbering, POS vocabulary, grammar vocabulary, root format, stray characters: 0 errors each.
+- Word coverage: 465 warnings ("row not in sentence", "sentence word has no row"). 209 of them are in `15_class.md`, which is laid out in paragraphs that the word check cannot align. The rest were read with their class; those that are real mismatches are rows above.
+
+### M4. Word forms vs DPD (`verify_key.py --dpd`, advisory)
+
+| Bucket | Rows |
+| --- | --- |
+| CONFIRMED | 1 123 |
+| AMBIGUOUS (more than one DPD reading; not reviewed one by one) | 2 087 |
+| SKIPPED | 1 079 |
+| IMPOSSIBLE | 17 |
+| NOT-FOUND | 12 |
+| ROOT-MISMATCH | 22 |
+| Total | 4 324 |
+
+Flagged rows per class:
+
+| Bucket | 2 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| IMPOSSIBLE | 0 | 1 | 3 | 2 | 0 | 1 | 1 | 1 | 0 | 3 | 1 | 3 | 1 |
+| NOT-FOUND | 1 | 1 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 1 | 1 | 1 | 2 |
+| ROOT-MISMATCH | 0 | 0 | 0 | 2 | 1 | 1 | 6 | 4 | 1 | 1 | 1 | 3 | 2 |
+
+The 51 flagged rows were read with their class. Those that are errors are rows above, with `verify_key` named in the `Problem` cell. A flag is not always an error: a compound that is not a DPD headword (`bahujanahitāya`, 9:239) is flagged IMPOSSIBLE because the report has nothing to compare it with.
+
+### M5. Convention counts
+
+| Item | Total | Where |
+| --- | --- | --- |
+| `ṁ` | 6 | classes 11 (2), 12 (4) |
+| straight `'` | 459 | classes 2–15 |
+| curly `’` | 0 | |
+| curly `‘` | 25 | classes 3, 4, 6, 9–15 (10 in class 15) |
+| straight `"` | 241 | classes 2–15 |
+| curly `“”` | 0 | |
+| `<br>` | 614 | classes 2–15 |
+| `...` | 10 | classes 3, 5, 10, 11, 12 (6 in class 12) |
+| `…` | 56 | classes 2–4, 6–15 |
+| ` - ` | 60 | classes 1, 2, 7–10, 12, 13 |
+| `–` | 9 | classes 4, 6, 11, 12, 15 |
+| `—` | 11 | classes 3, 4, 7, 9, 11, 14, 15 |
+| `Pāli` | 29 | all classes |
+| `Pāḷi` | 0 | |
+| `{:` | 0 | |
+| `lit:` | 64 | classes 2, 5–15 |
+| `lit.` | 38 | classes 3–6, 8–12, 14, 15 |
+| root mark `･` | 1 729 | classes 5–15 |
+| root mark `×` | 78 | classes 5–15 |
+
