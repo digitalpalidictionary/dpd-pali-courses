@@ -91,6 +91,8 @@ Format:
 
 ## Recurring owner decisions (do not decide these in the audit)
 
+If the project has `kamma/audit/owner-decisions.md`, read it first: it lists rejected patterns (never report them) and rulings (treat as correct).
+
 - `<br>` in table cells and `{: .align-right }` versus the "no raw HTML in sources" rule.
 - `Pāli` or `Pāḷi` in running text.
 - Kaccāyana citation style.
