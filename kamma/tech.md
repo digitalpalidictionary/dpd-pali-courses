@@ -51,6 +51,8 @@ All sutta/Vinaya references link to `https://s.dhamma.gift/...` (the old `find.d
 ## Multi-language support (added October 2026)
 Translations live in mirror folders that copy the English structure exactly (`docs/bpc_hi/`, `docs/bpc_hi_ex/`, `docs/bpc_hi_key/`; IPC Hindi would follow the same pattern). The Hindi sources currently contain the English text as a translation base.
 
+The Hindi folders live on the `hindi` branch and are absent from `main`, so every script tolerates a missing course folder (added November 2026): `generate_mkdocs_yaml.get_files_sorted()` and `build_class_nav()` return `[]` for a directory that does not exist, and `generate_pdfs.py` / `generate_docx.py` print `<folder>: sources not on this branch — skipped` and exit 0 when a missing Hindi folder is named explicitly (`generate_pdfs.py bpc_hi`, `generate_docx.py --folder bpc_hi`); a run that builds every folder skips silently. `just hindi` therefore survives on `main`. The `mkdocs.yaml` write in `generate_mkdocs_yaml.py` sits under `if __name__ == "__main__":`, so the module can be imported by a test without regenerating the config — the matching tests are in `tests/` (git-ignored, local-only).
+
 Folder names are hard-coded in several places — a new language must be registered in ALL of:
 - `scripts/generate_pdfs.py` — `FOLDER_NAMES`, lesson/ex folder checks (`bpc`, `bpc_ex` lists), `folders` list
 - `scripts/generate_docx.py` — same set as PDF script

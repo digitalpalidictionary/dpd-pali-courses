@@ -667,6 +667,11 @@ def main():
     args = parser.parse_args()
 
     docs_dir = "docs"
+    if args.folder in FOLDER_NAMES and not os.path.isdir(
+        os.path.join(docs_dir, args.folder)
+    ):
+        pr.amber(f"{args.folder}: sources not on this branch — skipped")
+        return
     output_dir = "pdf_exports"
     css_paths = [
         "identity/dpd-pdf-fonts.css",
