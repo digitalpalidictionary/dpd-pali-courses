@@ -1,7 +1,7 @@
 # Neuter Nouns
 
-These are very common, more than 17000 words in the current DPD database[^22].
-[^22]: Relevant for the year 2025.
+These are very common, more than 17000 words in the current DPD database[^21].
+[^21]: Relevant for the year 2025.
 
 | | |
 | --- | --- |
@@ -88,9 +88,9 @@ These are very rare; there are only a few of them in the Tipiṭaka.
 
 ## Neuter Nouns ending in -u
 
-These are less common, about 400 in the current DPD database[^23].
+These are less common, about 400 in the current DPD database[^22].
 
-[^23]: Relevant for the year 2025.
+[^22]: Relevant for the year 2025.
 
 | | |
 | --- | --- |

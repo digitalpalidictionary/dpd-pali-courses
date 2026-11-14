@@ -1,8 +1,8 @@
 # Possessives (atthyattha)
 
-Possessives are formed by taking a noun and adding a suffix at the end.[^18]
+Possessives are formed by taking a noun and adding a suffix at the end.[^17]
 
-[^18]: Traditional grammar counts -vant / -mant among the *atthyattha* (possession) secondary derivatives. English grammars often call these words **possessive adjectives**. The term *guṇanāma* is used for ordinary adjectives (see class 11).
+[^17]: Traditional grammar counts -vant / -mant among the *atthyattha* (possession) secondary derivatives. English grammars often call these words **possessive adjectives**. The term *guṇanāma* is used for ordinary adjectives (see class 11).
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ At which time, monks, the **thieves** are **powerful** …
 | 7.loc | bhagav**ati**<br>bhagav**ante**<br>bhagav**antamhi**<br>bhagav**antasmiṃ** | bhagav**antesu** |
 | 8.voc | bhagav**aṃ**<br>bhagav**a**<br>bhagav**ā** | bhagav**anto**<br>bhagav**antā** |
 
-bhagavā 4803[^19]
+bhagavā 4803[^18]
 
 bhagavantaṃ 1755
 
@@ -75,5 +75,5 @@ bhagavatā 1168
 
 bhagavato 1942
 
-[^19]: In the mūla part of the 4 Nikāyas
+[^18]: In the mūla part of the 4 Nikāyas
 

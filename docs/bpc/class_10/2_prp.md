@@ -83,9 +83,9 @@ There are 3 ways to form present participles
 
 Present participles ending in **-āna**
 
-DPD has only about 40[^25] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta
+DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta
 
-[^25]: This data is relevant for the year 2025
+[^24]: This data is relevant for the year 2025
 
 | | | | | |
 | --- | --- | --- | --- | --- |

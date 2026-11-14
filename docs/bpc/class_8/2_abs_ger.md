@@ -38,7 +38,7 @@ What are the **subordinate clauses**?
 
 Absolutives ending in **tvā** are very common and extensively used.
 
-7800 times in Vinaya[^20]
+7800 times in Vinaya[^19]
 
 1800 times in Dīgha Nikāya
 
@@ -50,7 +50,7 @@ Absolutives ending in **tvā** are very common and extensively used.
 
 9200 times in Khuddaka Nikāya
 
-[^20]: In the Mūla part
+[^19]: In the Mūla part
 
 ## How to form pubbakiriyā
 
@@ -136,14 +136,14 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 
 | | **-tvāna** | **-tūna** | **-(i)yāna** |
 | --- | --- | --- | --- |
-| VIN[^21] | 43 | 0 | 0 |
+| VIN[^20] | 43 | 0 | 0 |
 | DN | 35 | 0 | 1 |
 | MN | 15 | 0 | 0 |
 | SN | 48 | 0 | 1 |
 | AN | 51 | 0 | 1 |
 | KN | \>1000 | 4 | 17 |
 
-[^21]: In the Mūla part
+[^20]: In the Mūla part
 
 Examples: **disvāna ; vatvāna ; sutvāna ; ovariyāna ; akātūna**
 

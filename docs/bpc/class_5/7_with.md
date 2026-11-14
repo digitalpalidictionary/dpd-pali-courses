@@ -18,8 +18,8 @@ Another preposition which is similarly used is “**saha**” which also has the
 
 aṭṭhi tac**ena** onaddhaṃ,
 
-**saha** vatth**ehi[^17]** sobhati.
+**saha** vatth**ehi[^16]** sobhati.
 
-[^17]: In another edition it occurs as vatth**ebhi**
+[^16]: In another edition it occurs as vatth**ebhi**
 
 A bone covered with skin; it looks beautiful with clothes.
