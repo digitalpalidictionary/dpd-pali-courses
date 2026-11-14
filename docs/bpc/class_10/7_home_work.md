@@ -12,5 +12,5 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāḷi Grammar | p108-110 (the present participle) |
+| V. Perniola / Pāḷi Grammar | p108-110 (the present participle) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

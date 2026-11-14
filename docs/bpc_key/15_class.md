@@ -180,7 +180,7 @@ imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 | dubbhāsitā, | adj | fem.nom.sg | ill-spoken, badly spoken | √bhās･1 a (speak) |
 | anavajjā | adj(\<ptp) | fem.nom.sg | faultless; blameless; irreproachable | √vad･1 a (say, speak) |
 | ca | ind | conj | and | |
-| ananuvajjā | adj, <br>(\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･1 a (say, speak) |
+| ananuvajjā | adj, / (\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･1 a (say, speak) |
 | ca | ind | conj | and | |
 | viññūnaṃ. | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
 
@@ -240,7 +240,7 @@ imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, n
 | dubbhāsitā | adj | fem.nom.sg | ill-spoken, badly spoken | √bhās･1 a (speak) |
 | anavajjā | adj (\<ptp) | fem.nom.sg | faultless; blameless; irreproachable | √vad･8 \*e (salute, praise) |
 | ca | ind | conj | and | |
-| ananuvajjā | adj, <br>(\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･8 \*e (salute, praise) |
+| ananuvajjā | adj, / (\<ptp) | fem.nom.sg | not to be blamed, not censurable, not blameworthy | √vad･8 \*e (salute, praise) |
 | ca | ind | conj | and | |
 | viññūnan"ti | noun | masc.gen.pl | of wise people | √ñā･5 nā (know) |
 
@@ -357,7 +357,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | upādiyati | verb | pr.3rd.sg (+acc) | grasp; cling to | √ādā･3 ya (take, seize) |
 | n'ādhiṭṭhāti | verb | pr.3rd.sg | does not take a stand | √ṭhā･1 a (stand) |
 | attā | noun | masc.nom.sg | self | |
-| me'ti | pron | 1st.gen.sg <br>+endquote | my" | |
+| me'ti | pron | 1st.gen.sg / +endquote | my" | |
 
 **But this (person) does not grasp, does not get involved, with engagement and grasping, mental standpoint, adherence and underlying tendency, he does not take a stand "(this is) my self."**
 
@@ -421,7 +421,7 @@ ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | sabbaṃ | pron | nt.nom.sg | all, everything | |
-| n'atthī'ti | verb | pr.3rd.sg +neg<br>+endquote | there is not; it does not exist | √as･1 a (be) |
+| n'atthī'ti | verb | pr.3rd.sg +neg / +endquote | there is not; it does not exist | √as･1 a (be) |
 | ayaṃ | pron | masc.nom.sg | this | |
 | dutiyo | ordin | masc.nom.sg | the second | |
 | anto | noun | masc.nom.sg | extreme, end | |

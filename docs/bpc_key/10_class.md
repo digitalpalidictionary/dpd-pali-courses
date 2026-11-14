@@ -1,6 +1,7 @@
 # Class 10 Key to Exercises
 
-1. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176) <br>so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
+1. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176)
+   so ajānaṃ vā āha jānāmī'ti, jānaṃ vā āha na jānāmī'ti, apassaṃ vā āha passāmī'ti, passaṃ vā āha na passāmī'ti
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -41,7 +42,8 @@
 
 **or, seeing, he said, "I don't see"**
 
-2. [AN5.23](https://s.dhamma.gift/an/an5/index.html#an5.23) <br>so sace ākaṅkhati, dibbena cakkhunā satte passeyyaṃ cavamāne upapajjamāne
+2. [AN5.23](https://s.dhamma.gift/an/an5/index.html#an5.23)
+   so sace ākaṅkhati, dibbena cakkhunā satte passeyyaṃ cavamāne upapajjamāne
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -62,7 +64,8 @@
 
 **I myself could see beings passing away and re-arising with the divine eye**
 
-3. [MN86](https://s.dhamma.gift/mn/mn86/index.html) <br>atha kho āyasmā aṅgulimālo lohitena gaḷantena yena bhagavā ten'upasaṅkami
+3. [MN86](https://s.dhamma.gift/mn/mn86/index.html)
+   atha kho āyasmā aṅgulimālo lohitena gaḷantena yena bhagavā ten'upasaṅkami
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -78,7 +81,8 @@
 
 **And then Ven. Aṅgulimāla approached the Blessed One with blood dripping.**
 
-4. [AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82) <br>tassa na tādiso chando hoti seyyathāpi aññesaṃ bhikkhūnaṃ
+4. [AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82)
+   tassa na tādiso chando hoti seyyathāpi aññesaṃ bhikkhūnaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -93,7 +97,8 @@
 
 **His interest is not such as (that) of other monks.**
 
-5. [AN3.35](https://s.dhamma.gift/an/an3/index.html#an3.35) <br>ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro'ti
+5. [AN3.35](https://s.dhamma.gift/an/an3/index.html#an3.35)
+   ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -108,7 +113,8 @@
 
 **Those who sleep comfortably in the world, I am one of them.**
 
-6. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti
+6. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+   so imam'eva kāyaṃ vivekajena pītisukhena abhisandeti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -122,7 +128,8 @@
 
 **He fills up this very body with joy and ease born from seclusion.**
 
-7. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61) <br>ko ca āhāro avijjāya?
+7. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61)
+   ko ca āhāro avijjāya?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -133,7 +140,8 @@
 
 **And what is the nutriment of ignorance?**
 
-8. [SN35.234](https://s.dhamma.gift/sn/sn35/index.html#sn35.234) <br>so evaṃ asamanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ paccattaññ'eva parinibbāyati
+8. [SN35.234](https://s.dhamma.gift/sn/sn35/index.html#sn35.234)
+   so evaṃ asamanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ paccattaññ'eva parinibbāyati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -170,7 +178,8 @@
 
 **not shaking, he thus personally attains final liberation.**
 
-9. [VIN PAT PC 22](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>sammato api ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.
+9. [VIN PAT PC 22](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   sammato api ce bhikkhu atthaṅ'gate suriye bhikkhuniyo ovadeyya, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -178,7 +187,7 @@
 | api | ind | ind | even | |
 | ce | ind | cond | if | |
 | bhikkhu | noun | masc.nom.sg | a monk | |
-| atthaṅ'gate | pp | masc.loc.sg<br>(loc abs) | has set; has vanished (lit: has gone home) | |
+| atthaṅ'gate | pp | masc.loc.sg / (loc abs) | has set; has vanished (lit: has gone home) | |
 | suriye | noun | masc.loc.sg | the sun | |
 | bhikkhuniyo | noun | fem.acc.pl | the nuns | |
 | ovadeyya | verb | opt.3rd.sg | should exhort; should instruct | √vad･1 a (say, speak) |
@@ -186,7 +195,9 @@
 
 **Even if authorized, should a monk instruct the nuns when the sun has set, [this is] an offence requiring confession.**
 
-10. [MN118](https://s.dhamma.gift/mn/mn118/index.html) <br>dīghaṃ vā assasanto dīghaṃ assasāmī'ti pajānāti <br>dīghaṃ vā passasanto dīghaṃ passasāmī'ti pajānāti
+10. [MN118](https://s.dhamma.gift/mn/mn118/index.html)
+    dīghaṃ vā assasanto dīghaṃ assasāmī'ti pajānāti
+    dīghaṃ vā passasanto dīghaṃ passasāmī'ti pajānāti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -205,7 +216,8 @@
 
 **Breathing in long, he knows clearly, "I breathe in long" or breathing out long, he knows clearly, "I breathe out long."**
 
-11. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) <br>seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
+11. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)
+    seyyathāpi bhikkhave makkaṭo araññe pavane caramāno
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -218,7 +230,8 @@
 
 **Just like a monkey [who is] wandering around in a woodland, in a forest.**
 
-12. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
+12. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+    puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -230,7 +243,8 @@
 
 **A man could see a school of fish roaming about [and] standing still.**
 
-13. [MN62](https://s.dhamma.gift/mn/mn62/index.html) <br>abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
+13. [MN62](https://s.dhamma.gift/mn/mn62/index.html)
+    abhippamodayaṃ cittaṃ assasissāmī'ti sikkhati, abhippamodayaṃ cittaṃ passasissāmī'ti sikkhati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -245,7 +259,8 @@
 
 **He trains [thus]: "I will breathe in gladdening the mind," he trains [thus]: "I will breathe out gladdening the mind."**
 
-14. [MN75](https://s.dhamma.gift/mn/mn75/index.html) <br>aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
+14. [MN75](https://s.dhamma.gift/mn/mn75/index.html)
+    aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṃ, apassantā nibbānaṃ, atha ca pana imaṃ gāthaṃ bhāsanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -264,12 +279,13 @@
 
 **Wandering ascetics who belong to another sect, blind, visionless, not knowing freedom from disease, not seeing total emancipation, and yet they say this verse.**
 
-15. [VIN PAT NP 16](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) <br>paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
+15. [VIN PAT NP 16](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
+    paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | paṭiggahetvā | verb | abs | having accepted | √gah･6 ṇhā (grasp) |
-| tiyojanaparamaṃ | ind<br>(comp) | adv | for three units of linear measure (yojanas) at the most | |
+| tiyojanaparamaṃ | ind / (comp) | adv | for three units of linear measure (yojanas) at the most | |
 | sahatthā | ind | masc.instr.sg | by oneself; with own hand | |
 | haritabbāni | ptp | nt.nom.pl | it can be carried | √har･1 a (carry) |
 | asante | prp | masc.loc.sg | (when) … not present (loc abs) | |
@@ -277,7 +293,8 @@
 
 **Having accepted, it could be carried by oneself for three yojanas at the most, when there is no one (else) to carry.**
 
-16. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) <br>āturakāyassa me sato cittaṃ anāturaṃ bhavissati
+16. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1)
+    āturakāyassa me sato cittaṃ anāturaṃ bhavissati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -290,7 +307,8 @@
 
 **Although I am sick in body, (my) mind will be healthy.**
 
-17. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
+17. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    ‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -309,7 +327,8 @@
 
 **[Is what is impermanent…fit to be regarded thus:] "This is mine, this I am, this is my self?" Certainly not, venerable sir.**
 
-18. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) <br>saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
+18. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1)
+    saritvā pubbake yogī, tesaṃ vattaṃ anussaraṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -322,7 +341,8 @@
 
 **Remembering practitioners of old, recollecting their behavior.**
 
-19. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl) <br>paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
+19. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl)
+    paresaṃ atthaṃ vā hi bhikkhave sampassamānena alaṃ eva appamādena sampādetuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -339,7 +359,8 @@
 
 **Monks, by considering the benefit of others, it is enough just to strive with heedfulness.**
 
-20. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
+20. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
+    na ca khuddaṃ samācare kiñci, yena viññū pare upavadeyyuṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -350,12 +371,15 @@
 | kiñci | pron | nt.acc.sg | anything | |
 | yena | ind | adv | because of which; by which | |
 | viññū | adj | masc.nom.pl | wise | √ñā･5 nā (know) |
-| pare | pron | masc.nom.pl<br>or<br>masc.acc.pl | other<br>others | |
+| pare | pron | masc.nom.pl / or / masc.acc.pl | other / others | |
 | upavadeyyuṃ | verb | opt.3rd.pl | would reprove | √vad･1 a (say, speak) |
 
-**And he should not conduct himself in any small thing because of which other wise (people) would reprove [him].<br>(or)<br>And he should not conduct himself in any small thing because of which wise would reprove others.**
+**And he should not conduct himself in any small thing because of which other wise (people) would reprove [him].**
+**(or)**
+**And he should not conduct himself in any small thing because of which wise would reprove others.**
 
-21. [VIN PAT SE 71](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) <br>na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
+21. [VIN PAT SE 71](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9)
+    na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -370,41 +394,48 @@
 
 **I will not preach the Dhamma walking behind, to one going in front, who is not ill.**
 
-22. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3) <br>tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
+22. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)
+    tassa taṃ dhammaṃ paññāya pavicinato pavicarato parivīmaṃsaṃ āpajjato āraddhaṃ hoti vīriyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tassa | pron | masc.dat.sg<br>(or)<br>masc.gen.sg | for him<br>(or) <br>when he | |
+| tassa | pron | masc.dat.sg / (or) / masc.gen.sg | for him / (or) / when he | |
 | taṃ | pron | masc.acc.sg | that | |
 | dhammaṃ | noun | masc.acc.sg | the doctrine; Dhamma | √dhar･1 a (hold, carry, endure) |
 | paññāya | noun | fem.instr.sg | with wisdom | √ñā･5 nā (know) |
-| pavicinato | prp | masc.dat.sg<br>(or)<br>masc.gen.sg | for investigating<br>(or) when investigating | √ci･5 nā (gather, accumulate) |
-| pavicarato | prp | masc.dat.sg<br>(or)<br>masc.gen.sg | for examining<br>(or) when examining | √car･1 a (move, walk) |
+| pavicinato | prp | masc.dat.sg / (or) / masc.gen.sg | for investigating / (or) when investigating | √ci･5 nā (gather, accumulate) |
+| pavicarato | prp | masc.dat.sg / (or) / masc.gen.sg | for examining / (or) when examining | √car･1 a (move, walk) |
 | parivīmaṃsaṃ | noun | fem.acc.sg | thorough investigation | √man･3 sa (think) |
-| āpajjato | prp | masc.dat.sg<br>(or) <br>masc.gen.sg | for arousing; <br>(or) when exhibiting | √pad･3 ya (go, step) |
+| āpajjato | prp | masc.dat.sg / (or) / masc.gen.sg | for arousing; / (or) when exhibiting | √pad･3 ya (go, step) |
 | āraddhaṃ | pp | nt.nom.sg | applied; aroused | √rabh･1 a (begin) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
 | vīriyaṃ | noun | nt.nom.sg | energy; effort | √vīr×8 \*e (be heroic, hostile) |
 
-**For one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, energy is aroused.<br>(or)<br>When one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
+**For one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, energy is aroused.**
+**(or)**
+**When one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
 
-23. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
+23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+    tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tassa | pron | masc.gen.sg<br>(or)<br>masc.dat.sg | of him, his<br>(or)<br>for him | |
+| tassa | pron | masc.gen.sg / (or) / masc.dat.sg | of him, his / (or) / for him | |
 | evaṃ | ind | emph | thus; in this way | |
-| jānato | prp | masc.gen.sg<br>(or)<br>masc.dat.sg | who knows<br>(or)<br>for one knowing | √ñā･5 nā (know) |
+| jānato | prp | masc.gen.sg / (or) / masc.dat.sg | who knows / (or) / for one knowing | √ñā･5 nā (know) |
 | evaṃ | ind | adv | thus | |
-| passato | prp | masc.gen.sg<br>(or)<br>masc.dat.sg | who sees<br>(or)<br>for one seeing | √dis･1 a (see) |
+| passato | prp | masc.gen.sg / (or) / masc.dat.sg | who sees / (or) / for one seeing | √dis･1 a (see) |
 | kām'āsavā | noun | masc.abl.sg | from the effluent/taint of sensual pleasure | |
 | api | ind | - | too; also; as well | |
 | cittaṃ | noun | nt.nom.sg | [his] mind | √cit･8 \*e (think, intend) |
 | vimuccati | verb | pr.3rd.sg | is released | √muc･2 ya (release, free) |
 
-**The mind of him who sees and knows is released from the taint of sensual pleasure too.<br>(or)<br>The mind for him who sees and knows is released from the taint of sensual pleasure too.**
+**The mind of him who sees and knows is released from the taint of sensual pleasure too.**
+**(or)**
+**The mind for him who sees and knows is released from the taint of sensual pleasure too.**
 
-24. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
+24. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
+    ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -427,7 +458,8 @@
 
 **Those monks in the training who dwell aspiring for the highest security from bondage, [who] have not reached their goal; this is my instruction to them.**
 
-25. [DHP184](https://s.dhamma.gift/kn/dhp/index.html#dhp179) <br>na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
+25. [DHP184](https://s.dhamma.gift/kn/dhp/index.html#dhp179)
+    na hi pabbajito paraṃ upaghātī, na samaṇo hoti paraṃ viheṭhayanto.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -444,7 +476,8 @@
 
 **One who has gone forth certainly does not harm another, a monk is not troubling another.**
 
-26. [VIN PAT PA 2](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3) <br>tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
+26. [VIN PAT PA 2](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3)
+    tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -460,7 +493,8 @@
 
 **A monk, stealing of such a kind something that is not given, this one is also defeated, expelled.**
 
-27. [VIN PAT SA 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) <br>sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek'uddeso, phāsu viharati
+27. [VIN PAT SA 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
+    sametu āyasmā saṅghena, samaggo hi saṅgho, sammodamāno avivadamāno ek'uddeso, phāsu viharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -478,7 +512,8 @@
 
 **"Let the venerable one agree with the community of monks, for a unified community, which is on friendly terms, not quarrelling, following one Pātimokkha dwells comfortably."**
 
-28. [VIN PAT PC 14](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
+28. [VIN PAT PC 14](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+    taṃ pakkamanto n'eva uddhareyya na uddharāpeyya anāpucchaṃ vā gaccheyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -494,7 +529,8 @@
 
 **[When] departing, should he not remove it [i.e. the bed or mattress] nor cause it to be removed, or should he go not asking permission.**
 
-29. [VIN PAT PC 68](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n'ālaṃ antarāyāya
+29. [VIN PAT PC 68](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+    ye ime antarāyikā dhammā vuttā bhagavatā te paṭisevato n'ālaṃ antarāyāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -511,21 +547,22 @@
 
 **These obstructive things which have been spoken [of] by the Blessed One: they are not enough [to be] an obstruction for one engaging in [them]**
 
-30. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) <br>iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
+30. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)
+    iti imasmiṃ sati idaṃ hoti; imassa uppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti; imassa nirodhā idaṃ nirujjhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | iti | ind | adv | thus | |
-| imasmiṃ | pron | masc.loc.sg<br>(loc.abs) | when this | |
-| sati | prp | masc.loc.sg<br>(loc.abs) | when existing | √as･1 a (be) |
+| imasmiṃ | pron | masc.loc.sg / (loc.abs) | when this | |
+| sati | prp | masc.loc.sg / (loc.abs) | when existing | √as･1 a (be) |
 | idaṃ | pron | nt.nom.sg | that; lit. this | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | imassa | pron | nt.gen.sg | of this | |
 | uppādā | noun | masc.abl.sg | from the arising | √pad･3 ya (go, step) |
 | idaṃ | pron | nt.nom.sg | that; lit. this | |
 | uppajjati | verb | pr.3rd.sg | arises | √pad･3 ya (go, step) |
-| imasmiṃ | pron | masc.loc.sg<br>(loc.abs) | when this | |
-| asati | prp | masc.loc.sg<br>(loc.abs) | when not existing, when is not | √as･1 a (be) |
+| imasmiṃ | pron | masc.loc.sg / (loc.abs) | when this | |
+| asati | prp | masc.loc.sg / (loc.abs) | when not existing, when is not | √as･1 a (be) |
 | idaṃ | pron | nt.nom.sg | this | |
 | na | ind | neg | not | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
@@ -536,11 +573,12 @@
 
 **Thus, when this exists, there is that, from the arising of this, that arises, when this does not exist, there is not that, from the cessation of this, that ceases.**
 
-31. [MN40](https://s.dhamma.gift/mn/mn40/index.html) (simpl) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
+31. [MN40](https://s.dhamma.gift/mn/mn40/index.html) (simpl)
+    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tassa | pron | masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg | when he<br>(or)<br>for him | |
+| tassa | pron | masc.gen.sg / (gen abs) (or) / masc.dat.sg | when he / (or) / for him | |
 | sabbehi | pron | masc.abl.pl | from all | |
 | imehi | pron | masc.abl.pl | from these | |
 | pāpakehi | adj | masc.abl.pl | worthless; evil | |
@@ -548,13 +586,16 @@
 | dhammehi | noun | masc.abl.pl | states | √dhar･1 a (hold, carry, endure) |
 | visuddhaṃ | pp | masc.acc.sg | cleansed; purified; refined | √sudh･3 ya (be pure) |
 | attānaṃ | noun | masc.acc.sg | self; himself; herself; itself; yourself; oneself | |
-| samanupassato | prp | masc.gen.sg<br>(gen abs) (or)<br>masc.dat.sg | when sees; perceives (or)<br>for one seeing | √dis･1 a (see) |
+| samanupassato | prp | masc.gen.sg / (gen abs) (or) / masc.dat.sg | when sees; perceives (or) / for one seeing | √dis･1 a (see) |
 | pāmojjaṃ | noun | nt.nom.sg | happiness; gladness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | arises; is produced | √jan･3 ya (be born, produce) |
 
-**When one seeing himself purified from all these evil, unwholesome states, gladness arises.<br>(or)<br>For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
+**When one seeing himself purified from all these evil, unwholesome states, gladness arises.**
+**(or)**
+**For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
 
-32. [MN19](https://s.dhamma.gift/mn/mn19/index.html) <br>etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
+32. [MN19](https://s.dhamma.gift/mn/mn19/index.html)
+    etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -566,7 +607,8 @@
 
 **Monks, these [are] roots of trees, these [are] empty dwellings.**
 
-33. [SN22.85](https://s.dhamma.gift/sn/sn22/index.html#sn22.85) <br>yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
+33. [SN22.85](https://s.dhamma.gift/sn/sn22/index.html#sn22.85)
+    yato kho te bhikkhū n'āsakkhiṃsu āyasmantaṃ yamakaṃ etasmā pāpakā diṭṭhigatā vivecetuṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -584,7 +626,8 @@
 
 **Since those monks were unable to separate Venerable Yamaka from that wrong belief…**
 
-34. [VIN PAT PC 71](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
+34. [VIN PAT PC 71](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+    na tāva ahaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ, byattaṃ vinayadharaṃ, paripucchāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -605,7 +648,8 @@
 
 **Friends, I will not train in this training rule until I [can] question another monk, a competent expert in Vinaya, [about it].**
 
-35. [SN22.79](https://s.dhamma.gift/sn/sn22/index.html#sn22.79) <br>sabbe ete pañc'upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
+35. [SN22.79](https://s.dhamma.gift/sn/sn22/index.html#sn22.79)
+    sabbe ete pañc'upādānakkhandhe anussaranti etesaṃ vā aññataraṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -621,7 +665,8 @@
 
 ## Class 10 Extra
 
-1. [MN10.11](https://s.dhamma.gift/mn/mn10/index.html) <br>idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ, atthi me ajjhattaṃ kāmacchando'ti pajānāti
+1. [MN10.11](https://s.dhamma.gift/mn/mn10/index.html)
+   idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ, atthi me ajjhattaṃ kāmacchando'ti pajānāti
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -643,9 +688,12 @@
 | kāmacchando'ti | noun | masc.nom.sg | desire for sense pleasure | |
 | pajānāti | verb | pr.3rd.sg | he knows | √ñā･5 nā (know) |
 
-**He knows, "There is desire for sense pleasure for me internally."<br>(Internally, I have desire for sense pleasure)**
+**He knows, "There is desire for sense pleasure for me internally."**
+**(Internally, I have desire for sense pleasure)**
 
-2. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>bahū devā manussā ca, maṅgalāni acintayuṃ, <br>ākaṅkhamānā sotthānaṃ, brūhi maṅgalam'uttamaṃ.
+2. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4)
+   bahū devā manussā ca, maṅgalāni acintayuṃ,
+   ākaṅkhamānā sotthānaṃ, brūhi maṅgalam'uttamaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -661,9 +709,11 @@
 | maṅgalaṃ | noun | nt.acc.sg | blessing, benefit | √maṅg×1 a (be auspicious) |
 | uttamaṃ | adj | nt.acc.sg | highest, foremost | |
 
-**Many devas and humans thought about blessings,<br>wishing for well-being, say (what is) the highest blessing!**
+**Many devas and humans thought about blessings,**
+**wishing for well-being, say (what is) the highest blessing!**
 
-3. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvat'āssa vigatamiddho
+3. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
+   tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvat'āssa vigatamiddho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -679,9 +729,12 @@
 | vigatamiddho | adj | masc.nom.sg | without drowsiness | |
 | (or) | noun | masc.nom.sg | freedom from drowsiness | |
 
-**Standing, walking, seated or lying down, as long as he may be without drowsiness<br>(or)<br>… as long as there is freedom from drowsiness for him.**
+**Standing, walking, seated or lying down, as long as he may be without drowsiness**
+**(or)**
+**… as long as there is freedom from drowsiness for him.**
 
-4. [MN51](https://s.dhamma.gift/mn/mn51/index.html) <br>ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya
+4. [MN51](https://s.dhamma.gift/mn/mn51/index.html)
+   ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -703,15 +756,17 @@
 
 **Thus, having heard here, he does not tell there for a break of them; or having heard in such-and-such a place, he does not tell to these people for a schism of them.**
 
-5. [SN1.6](https://s.dhamma.gift/sn/sn1/index.html#sn1.6) <br>kati jāgarataṃ suttā, kati suttesu jāgarā. <br>katīhi rajaṃ ādeti, katīhi parisujjhati
+5. [SN1.6](https://s.dhamma.gift/sn/sn1/index.html#sn1.6)
+   kati jāgarataṃ suttā, kati suttesu jāgarā.
+   katīhi rajaṃ ādeti, katīhi parisujjhati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | kati | pron interr | masc.nom.pl | how many? | |
-| jāgarataṃ | prp | masc.gen.pl<br>gen abs | when [others] are awake | √jāgar･1 a (be awake, watchful) |
+| jāgarataṃ | prp | masc.gen.pl / gen abs | when [others] are awake | √jāgar･1 a (be awake, watchful) |
 | suttā | adj | masc.nom.pl | sleeping | √sup･1 a (lie down, sleep) |
 | kati | pron interr | masc.nom.pl | how many? | |
-| suttesu | adj | masc.loc.pl<br>loc abs | when [others] are sleeping | √sup･1 a (lie down, sleep) |
+| suttesu | adj | masc.loc.pl / loc abs | when [others] are sleeping | √sup･1 a (lie down, sleep) |
 | jāgarā | adj | masc.nom.pl | awake; alert | √jāgar･1 a (be awake, watchful) |
 | katīhi | pron interr | masc.instr.pl | by how many? | |
 | rajaṃ | noun | masc.acc.sg | a defilement; dust | √raj･1 a (colour) |
@@ -721,7 +776,9 @@
 
 **How many are sleeping when [others] are awake? How many staying awake when [others] are sleeping? By how many one grasps a defilement? By how many is one purified?**
 
-6. [DHP085](https://s.dhamma.gift/kn/dhp/index.html#dhp76) <br>appakā te manussesu, ye janā pāragāmino. <br>atha ayaṃ itarā pajā, tīraṃ eva anudhāvati.
+6. [DHP085](https://s.dhamma.gift/kn/dhp/index.html#dhp76)
+   appakā te manussesu, ye janā pāragāmino.
+   atha ayaṃ itarā pajā, tīraṃ eva anudhāvati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -741,7 +798,8 @@
 
 **Few among humans are those people who cross over, but the rest of the people only runs along the shore.**
 
-7. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) <br>anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
+7. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146)
+   anekajāti saṃsāraṃ, sandhāvissaṃ anibbisaṃ, gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

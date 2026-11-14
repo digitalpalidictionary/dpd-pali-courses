@@ -21,6 +21,8 @@ This project contains materials for Pāḷi language courses, specifically the D
 - `docs/ipc_key/`: Intermediate Pāḷi Course keys.
 - `docs/bpc_hi/`, `docs/bpc_hi_ex/`, `docs/bpc_hi_key/`: Hindi BPC translation (in progress, unpublished). See `kamma/tech.md` → Multi-language support.
 
+**HINDI IS ALWAYS OUT OF SCOPE.** The Hindi sources live on the separate `hindi` branch, not on `main`. Never include `bpc_hi*` in a thread's scope, spec, plan, conversion, audit or verification, and never ask whether to include it. Work on `main` covers the English folders only.
+
 ## GitHub (upstream repository)
 - Unless otherwise specified the repository in question is https://github.com/digitalpalidictionary/dpd-pali-courses.
 

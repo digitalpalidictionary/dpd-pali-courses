@@ -1,6 +1,7 @@
 # Class 4 Key to Exercises
 
-1. [DHP026](https://s.dhamma.gift/kn/dhp/index.html#dhp21) (simpl)<br>bālā pamādaṃ anuyuñjanti
+1. [DHP026](https://s.dhamma.gift/kn/dhp/index.html#dhp21) (simpl)
+   bālā pamādaṃ anuyuñjanti
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -10,7 +11,8 @@
 
 **Fools indulge in negligence.**
 
-2. [AN3.66](https://s.dhamma.gift/an/an3/index.html#an3.65) (simpl)<br>sugatiṃ saggaṃ lokaṃ upapajjāmi
+2. [AN3.66](https://s.dhamma.gift/an/an3/index.html#an3.65) (simpl)
+   sugatiṃ saggaṃ lokaṃ upapajjāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -21,7 +23,8 @@
 
 **I go towards a good destination, a heavenly plane of existence.**
 
-3. [AN3.70](https://s.dhamma.gift/an/an3/index.html#an3.69)<br>abhisaṅkharoti kāyena kusalaṃ.
+3. [AN3.70](https://s.dhamma.gift/an/an3/index.html#an3.69)
+   abhisaṅkharoti kāyena kusalaṃ.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -31,7 +34,8 @@
 
 **He does good deeds by means of the body.**
 
-4. [DN22.5](https://s.dhamma.gift/dn/dn22/index.html) <br>ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā'ti
+4. [DN22.5](https://s.dhamma.gift/dn/dn22/index.html)
+   ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā'ti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -51,7 +55,8 @@
 
 **"These are fine rices, these are paddy, these are mung beans, these are speckled beans, these are sesame, these are dehusked rice."**
 
-5. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>atha kho bhagavā bhikkhū āmantesi
+5. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5)
+   atha kho bhagavā bhikkhū āmantesi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -62,7 +67,8 @@
 
 **And then the Blessed One addressed the monks.**
 
-6. [SN21.9](https://s.dhamma.gift/sn/sn21/index.html#sn21.9) (simpl) <br>atha kho āyasmā tisso upasaṅkami, ekamantaṃ nisīdi.
+6. [SN21.9](https://s.dhamma.gift/sn/sn21/index.html#sn21.9) (simpl)
+   atha kho āyasmā tisso upasaṅkami, ekamantaṃ nisīdi.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -75,7 +81,8 @@
 
 **And then Venerable Tissa approached and sat down to one side.**
 
-7. [SN35.121](https://s.dhamma.gift/sn/sn35/index.html#sn35.121) <br>āyasmā rāhulo bhagavato bhāsitaṃ abhinandi
+7. [SN35.121](https://s.dhamma.gift/sn/sn35/index.html#sn35.121)
+   āyasmā rāhulo bhagavato bhāsitaṃ abhinandi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -87,7 +94,8 @@
 
 **Venerable Rahula delighted in the speech of the Blessed One.**
 
-8. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl) <br>ahaṃ sakamhā gāmā amuṃ gāmaṃ agacchiṃ
+8. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
+   ahaṃ sakamhā gāmā amuṃ gāmaṃ agacchiṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -100,7 +108,8 @@
 
 **I went from my own village to such and such a village.**
 
-9. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57) <br>byādhi dhammo amhi
+9. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57)
+   byādhi dhammo amhi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -110,7 +119,8 @@
 
 **I am of the nature to get sick. (lit. I am of the sickness nature)**
 
-10. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>samaṇā amhā'ti paṭijānātha
+10. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+    samaṇā amhā'ti paṭijānātha
 
 | | | | |
 | --- | --- | --- | --- |
@@ -121,7 +131,8 @@
 
 **You all claim, "We are ascetics."**
 
-11. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)<br>tatra evaṃ aṭṭhāsiṃ evaṃ nisīdiṃ evaṃ abhāsiṃ evaṃ tuṇhī ahosiṃ
+11. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
+    tatra evaṃ aṭṭhāsiṃ evaṃ nisīdiṃ evaṃ abhāsiṃ evaṃ tuṇhī ahosiṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -138,7 +149,8 @@
 
 **There I stood like this, I sat like this, I spoke like this and I remained silent like this.**
 
-12. [SN2.8](https://s.dhamma.gift/sn/sn2/index.html#sn2.8) (simpl)<br>chinda sotaṃ parakkama, kāme panūda brāhmaṇa
+12. [SN2.8](https://s.dhamma.gift/sn/sn2/index.html#sn2.8) (simpl)
+    chinda sotaṃ parakkama, kāme panūda brāhmaṇa
 
 | | | | |
 | --- | --- | --- | --- |
@@ -151,7 +163,8 @@
 
 **Cross the stream, strive, dispel sensual pleasures, O holy man!**
 
-13. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11)<br>paññā udapādi vijjā udapādi āloko udapādi
+13. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11)
+    paññā udapādi vijjā udapādi āloko udapādi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -164,7 +177,8 @@
 
 **Wisdom arose, knowledge arose, light arose.**
 
-14. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) (simpl)<br>evaṃ me saṅkhārā hontu
+14. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) (simpl)
+    evaṃ me saṅkhārā hontu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -175,7 +189,8 @@
 
 **Let my volitional formations be thus.**
 
-15. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>bhikkhū bhagavato bhāsitaṃ abhinanduṃ
+15. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    bhikkhū bhagavato bhāsitaṃ abhinanduṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -186,7 +201,8 @@
 
 **The monks were pleased with the utterance of the Blessed One.**
 
-16. [SN12.2](https://s.dhamma.gift/sn/sn12/index.html#sn12.2) (simpl)<br>dukkhassa khandhassa samudayo hoti
+16. [SN12.2](https://s.dhamma.gift/sn/sn12/index.html#sn12.2) (simpl)
+    dukkhassa khandhassa samudayo hoti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -197,7 +213,8 @@
 
 **There is the arising of the mass of suffering.**
 
-17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)<br>gahassa kāraka, diṭṭho asi
+17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
+    gahassa kāraka, diṭṭho asi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -208,7 +225,8 @@
 
 **O, Builder of a house, you are seen.**
 
-18. [MN10](https://s.dhamma.gift/mn/mn10/index.html) (simpl)<br>‘atthi kāyo'ti sati hoti.
+18. [MN10](https://s.dhamma.gift/mn/mn10/index.html) (simpl)
+    ‘atthi kāyo'ti sati hoti.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -220,7 +238,8 @@
 
 **There is mindfulness: "there is a body."**
 
-19. [VIN2.5.1.2](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pc/index.html#pli-tv-bu-vb-pc2)<br>"santi idha ekacce khattiyā ca brāhmaṇā"ti bhaṇati
+19. [VIN2.5.1.2](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pc/index.html#pli-tv-bu-vb-pc2)
+    "santi idha ekacce khattiyā ca brāhmaṇā"ti bhaṇati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -235,7 +254,8 @@
 
 **He says, "There are here some noblemen [and] brahmins."**
 
-20. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)<br>me āsi kāye balaṃ
+20. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
+    me āsi kāye balaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -246,7 +266,8 @@
 
 **Power was in my body.**
 
-21. [AN4.48](https://s.dhamma.gift/an/an4/index.html#an4.48) (simpl)<br>paggaṇhahi isīnaṃ dhajaṃ
+21. [AN4.48](https://s.dhamma.gift/an/an4/index.html#an4.48) (simpl)
+    paggaṇhahi isīnaṃ dhajaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -256,7 +277,8 @@
 
 **Raise up a banner of the sages!**
 
-22. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) (simpl)<br>bhikkhū paribbājakehi sammodiṃsu
+22. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53) (simpl)
+    bhikkhū paribbājakehi sammodiṃsu
 
 | | | | |
 | --- | --- | --- | --- |
@@ -266,7 +288,8 @@
 
 **The monks exchanged pleasantries with the wandering ascetics.**
 
-23. [MN95](https://s.dhamma.gift/mn/mn95/index.html) (simpl)<br>saccaṃ bhavantaṃ gotamaṃ apucchimha, saccaṃ bhavaṃ gotamo byākāsi
+23. [MN95](https://s.dhamma.gift/mn/mn95/index.html) (simpl)
+    saccaṃ bhavantaṃ gotamaṃ apucchimha, saccaṃ bhavaṃ gotamo byākāsi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -281,7 +304,8 @@
 
 **We asked master Gotama (about) the truth, master Gotama explained the truth.**
 
-24. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>bhikkhū bhagavato paccassosuṃ
+24. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    bhikkhū bhagavato paccassosuṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -291,7 +315,8 @@
 
 **The monks replied to the Blessed One.**
 
-25. [AN3.156](https://s.dhamma.gift/an/an3/index.html#an3.155)<br>arogā sukhitā hotha
+25. [AN3.156](https://s.dhamma.gift/an/an3/index.html#an3.155)
+    arogā sukhitā hotha
 
 | | | | |
 | --- | --- | --- | --- |
@@ -301,7 +326,8 @@
 
 **May you all be happy (and) free from disease.**
 
-26. [MN86](https://s.dhamma.gift/mn/mn86/index.html) (simpl)<br>coro ahaṃ pure āsiṃ, aṅgulimālo vissuto … buddhaṃ saraṇaṃ āgamiṃ.
+26. [MN86](https://s.dhamma.gift/mn/mn86/index.html) (simpl)
+    coro ahaṃ pure āsiṃ, aṅgulimālo vissuto … buddhaṃ saraṇaṃ āgamiṃ.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -317,7 +343,8 @@
 
 **I was formerly a thief, the famous Angulimāla… I came to the Buddha (for) refuge.**
 
-27. [AN5.28](https://s.dhamma.gift/an/an5/index.html#an5.28) (simpl)<br>ariyassa samādhissa bhāvanaṃ desesiṃ
+27. [AN5.28](https://s.dhamma.gift/an/an5/index.html#an5.28) (simpl)
+    ariyassa samādhissa bhāvanaṃ desesiṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -328,7 +355,8 @@
 
 **I taught the cultivation of noble composure.**
 
-28. [DN16.39](https://s.dhamma.gift/dn/dn16/index.html)<br>upaddutā homa — "idaṃ kappati, idaṃ na kappati" iti
+28. [DN16.39](https://s.dhamma.gift/dn/dn16/index.html)
+    upaddutā homa — "idaṃ kappati, idaṃ na kappati" iti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -345,7 +373,9 @@
 
 ## Class 4 Extra
 
-1. [MN98](https://s.dhamma.gift/mn/mn98/index.html) <br>kassako kammunā hoti, sippiko hoti kammunā,<br>vāṇijo kammunā hoti, pessako hoti kammunā.
+1. [MN98](https://s.dhamma.gift/mn/mn98/index.html)
+   kassako kammunā hoti, sippiko hoti kammunā,
+   vāṇijo kammunā hoti, pessako hoti kammunā.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -364,7 +394,8 @@
 
 **By one's actions, one is a farmer, a craftsman, a trader, a messenger**
 
-2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179)<br>nibbindati dukkhe esa maggo visuddhiyā
+2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179)
+   nibbindati dukkhe esa maggo visuddhiyā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -376,7 +407,8 @@
 
 **One is disenchanted in suffering, this [is] the path for purification.**
 
-3. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)<br>evaṃ gāme muni cari
+3. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)
+   evaṃ gāme muni cari
 
 | | | | |
 | --- | --- | --- | --- |
@@ -387,7 +419,8 @@
 
 **The sage walked in the village like this.**
 
-4. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl) <br>kāyassa saṃvarāya paṭipajjāhi, rakkhāhi kāyaṃ, kāye saṃvaraṃ āpajjāhi.
+4. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl)
+   kāyassa saṃvarāya paṭipajjāhi, rakkhāhi kāyaṃ, kāye saṃvaraṃ āpajjāhi.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -400,9 +433,11 @@
 | saṃvaraṃ | noun | masc.acc.sg | restraint |
 | āpajjāhi | verb | imp.2nd.sg | arouse |
 
-**Practice for restraint of the body (faculty), guard the body (faculty), <br>arouse restraint in regard to the body (faculty).**
+**Practice for restraint of the body (faculty), guard the body (faculty),**
+**arouse restraint in regard to the body (faculty).**
 
-5. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)<br>ādittaṃ rāga-agginā, dosa-agginā, moha-agginā
+5. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)
+   ādittaṃ rāga-agginā, dosa-agginā, moha-agginā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -416,7 +451,8 @@
 
 **It is burning with the fire of lust, with the fire of hatred, with the fire of delusion.**
 
-6. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (modif)<br>samaṇassa ahu vitakko
+6. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (modif)
+   samaṇassa ahu vitakko
 
 | | | | |
 | --- | --- | --- | --- |

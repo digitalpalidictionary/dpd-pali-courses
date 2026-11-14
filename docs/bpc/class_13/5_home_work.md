@@ -13,6 +13,6 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāḷi Grammar | Adverbs (p129 - 132)<br>The Passive (p89 – 101) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | Adverbs (p127 - 129)<br>The Passive (p110 - 112) |
+| V. Perniola / Pāḷi Grammar | Adverbs (p129 - 132) / The Passive (p89 – 101) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | Adverbs (p127 - 129) / The Passive (p110 - 112) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

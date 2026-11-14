@@ -22,7 +22,8 @@ This is constructed by reduplicating the root, which then undergoes some morphol
 | --- | --- | --- | --- |
 | √bhū | √bhū + bhū | babhū + a | babhūva |
 
-**Perfect Past Parassapada “had become; had existed”<br>(√bhū + bhū \> babhū)**
+**Perfect Past Parassapada “had become; had existed”**
+**(√bhū + bhū \> babhū)**
 
 | | | |
 | --- | --- | --- |
@@ -31,7 +32,9 @@ This is constructed by reduplicating the root, which then undergoes some morphol
 | 2 majjhima | babhūv**e** | babhūv**ittha** |
 | 1 uttama | babhūv**aṃ** | babhūv**imha** |
 
-**Perfect Past Attanopada “had become by oneself; <br>had existed by oneself”<br>(√bhū + bhū \> babhū)**
+**Perfect Past Attanopada “had become by oneself;**
+**had existed by oneself”**
+**(√bhū + bhū \> babhū)**
 
 | | | |
 | --- | --- | --- |

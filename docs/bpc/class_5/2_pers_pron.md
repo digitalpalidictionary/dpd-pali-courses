@@ -7,12 +7,12 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | | | |
 | --- | --- | --- |
 | | **singular “I”** | **plural “We”** |
-| 1. Nominative | ahaṃ | mayaṃ<br>amhe |
-| 2. Accusative | maṃ<br>mamaṃ<br>**me** | amhe<br>amhākaṃ<br>**no** |
-| 3. Instrumental | mayā<br>**me** | amhehi<br>**no** |
-| 4. Dative | mama<br>mayhaṃ<br>mamaṃ<br>**me** | amhaṃ<br>amhākaṃ<br>**no** |
+| 1. Nominative | ahaṃ | mayaṃ / amhe |
+| 2. Accusative | maṃ / mamaṃ / **me** | amhe / amhākaṃ / **no** |
+| 3. Instrumental | mayā / **me** | amhehi / **no** |
+| 4. Dative | mama / mayhaṃ / mamaṃ / **me** | amhaṃ / amhākaṃ / **no** |
 | 5. Ablative | mayā | amhehi |
-| 6. Genitive | mama<br>mayhaṃ<br>mamaṃ<br>**me** | amhaṃ<br>amhākaṃ<br>**no** |
+| 6. Genitive | mama / mayhaṃ / mamaṃ / **me** | amhaṃ / amhākaṃ / **no** |
 | 7. Locative | mayi | amhesu |
 
 **Frequency[^14]**
@@ -31,19 +31,19 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | mayi | in me, on me | 69 |
 | mayaṃ | we | **957** |
 | amhākaṃ | us, for us, our | 213 |
-| **no** | **us, by us, for us, our** <br>(no, isn't it?, indeed) | **3591**<br>(Including ind) |
+| **no** | **us, by us, for us, our** / (no, isn't it?, indeed) | **3591** / (Including ind) |
 
 **2nd person tvaṃ**
 
 | | | |
 | --- | --- | --- |
 | | **singular “you”** | **plural “you all”** |
-| 1. Nominative | tvaṃ<br>tuvaṃ | tumhe |
-| 2. Accusative | taṃ<br>tuvaṃ<br>tavaṃ<br>**te** | tumhe<br>tumhākaṃ<br>**vo** |
-| 3. Instrumental | tayā<br>**te** | tumhehi<br>**vo** |
-| 4. Dative | tava<br>tuyhaṃ<br>**te** | tumhaṃ<br>tumhākaṃ<br>**vo** |
+| 1. Nominative | tvaṃ / tuvaṃ | tumhe |
+| 2. Accusative | taṃ / tuvaṃ / tavaṃ / **te** | tumhe / tumhākaṃ / **vo** |
+| 3. Instrumental | tayā / **te** | tumhehi / **vo** |
+| 4. Dative | tava / tuyhaṃ / **te** | tumhaṃ / tumhākaṃ / **vo** |
 | 5. Ablative | tayā | tumhehi |
-| 6. Genitive | tava<br>tuyhaṃ<br>**te** | tumhaṃ<br>tumhākaṃ<br>**vo** |
+| 6. Genitive | tava / tuyhaṃ / **te** | tumhaṃ / tumhākaṃ / **vo** |
 | 7. Locative | tayi | tumhesu |
 
 **Frequency[^15]**
@@ -53,10 +53,10 @@ The various declensions of *ahaṃ* “I” and *tvaṃ* “you” are extensive
 | | | |
 | --- | --- | --- |
 | tvaṃ | you | **16207** |
-| **taṃ** | **you,** <br>(that) | **6995** <br>(Including 3rd) |
+| **taṃ** | **you,** / (that) | **6995** / (Including 3rd) |
 | tuvaṃ | you | 32 |
 | tayā | by you, from you | 44 |
-| **te** | **you, by you, for you, your,** <br>(they, those) | **6173** <br>(Including 3rd) |
+| **te** | **you, by you, for you, your,** / (they, those) | **6173** / (Including 3rd) |
 | tava | for you, your | 46 |
 | tumhe | you all | 461 |
 | tumhākaṃ | you all, for you all, your | 158 |

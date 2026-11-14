@@ -22,10 +22,10 @@
 | --- | --- | --- |
 | base | muñca | √muc + ṃa |
 | pr | muñca**ti** | he frees; releases |
-| prp | muñca**nta**<br>muñca**māna** | freeing; releasing |
-| passive base | mucca <br>muñcīya | √muc + ya<br>√muc + ṃa + īya |
-| pass pr | mucca**ti**<br>muñcīya**ti** | is freed; is released |
-| pass prp | mucca**nta**<br>mucca**māna** | being freed; being released |
+| prp | muñca**nta** / muñca**māna** | freeing; releasing |
+| passive base | mucca / muñcīya | √muc + ya / √muc + ṃa + īya |
+| pass pr | mucca**ti** / muñcīya**ti** | is freed; is released |
+| pass prp | mucca**nta** / mucca**māna** | being freed; being released |
 
 *[Additionally]*, in poetry, some passive verbs take different verbal endings, called the **attanopada** lit. “word for oneself”
 

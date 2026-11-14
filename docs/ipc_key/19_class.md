@@ -42,7 +42,8 @@
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
-1. [DN2.19](https://s.dhamma.gift/dn/dn2/index.html)<br>seyyathā'pi, mahārāja, puriso iṇaṃ ādāya kamm'ante payojeyya. tassa te kamm'antā samijjheyyuṃ.
+1. [DN2.19](https://s.dhamma.gift/dn/dn2/index.html)
+   seyyathā'pi, mahārāja, puriso iṇaṃ ādāya kamm'ante payojeyya. tassa te kamm'antā samijjheyyuṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -69,7 +70,8 @@
 
 **Imagine if, o great king, a man taking [out] a loan would engage in work. (And) these his business activities would succeed.**
 
-2. [MN48](https://s.dhamma.gift/mn/mn48/index.html)<br>cha'y'ime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.
+2. [MN48](https://s.dhamma.gift/mn/mn48/index.html)
+   cha'y'ime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -97,7 +99,8 @@
 
 **There are these six principles of cordiality[^4], monks, creating affection and respect, for maintaining relationships lead to, non-dispute, concord and unity.**
 
-3. [AN3.24](https://s.dhamma.gift/an/an3/index.html#an3.24)<br>puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati
+3. [AN3.24](https://s.dhamma.gift/an/an3/index.html#an3.24)
+   puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -130,7 +133,8 @@
 
 [^5]: Abhiññā is analysed here as a gerund, "directly knowing". Some read it as the instrumental singular of the noun abhiññā, "by direct knowledge".
 
-4. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22)<br>alam'eva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ
+4. [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22)
+   alam'eva saddhāpabbajitena kulaputtena vīriyaṃ ārabhituṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -148,7 +152,8 @@
 
 **It is quite enough for a respectable young man who ordained out of confidence to undertake the effort. (lit: it is enough to undertake the effort by a respectable young man…)**
 
-5. [AN10.58](https://s.dhamma.gift/an/an10/index.html#an10.58)<br>sat'ādhipateyyā sabbe dhammā, paññ'uttarā sabbe dhammā, vimuttisārā sabbe dhammā, amat'ogadhā sabbe dhammā, nibbānapariyosānā sabbe dhammā'ti
+5. [AN10.58](https://s.dhamma.gift/an/an10/index.html#an10.58)
+   sat'ādhipateyyā sabbe dhammā, paññ'uttarā sabbe dhammā, vimuttisārā sabbe dhammā, amat'ogadhā sabbe dhammā, nibbānapariyosānā sabbe dhammā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -170,7 +175,7 @@
 | \#ogadhā | pp | masc.nom.pl | immersed in; plunged into[^8] | ava√gāh･1 a (dive, plunge) |
 | sabbe | pron | masc.nom.pl | all | |
 | dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
-| nibbānapariyosānā | adj | masc.nom.pl | culminating in Nibbāna; (or) having Nibbāna as conclusion | sattamī tappurisa<br>or <br>kammadhāraya |
+| nibbānapariyosānā | adj | masc.nom.pl | culminating in Nibbāna; (or) having Nibbāna as conclusion | sattamī tappurisa / or / kammadhāraya |
 | \#nibbāne | noun | nt.loc.sg | in extinguishment | |
 | \#pariyosānā | noun | nt.nom.pl | conclusion; culmination | |
 | sabbe | pron | masc.nom.pl | all | |
@@ -180,7 +185,8 @@
 
 **"All things are governed by mindfulness, all things have understanding as (their) highest, all things have liberation as [their] core, all things are plunged into the deathless, all things are culminating in extinguishment."[^9]**
 
-6. [SN55.31](https://s.dhamma.gift/sn/sn55/index.html#sn55.31)<br>ayaṃ paṭhamo puññ'ābhisando kusal'ābhisando sukhass'āhāro.
+6. [SN55.31](https://s.dhamma.gift/sn/sn55/index.html#sn55.31)
+   ayaṃ paṭhamo puññ'ābhisando kusal'ābhisando sukhass'āhāro.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -206,7 +212,8 @@
 [^9]: Alt.: "All things have mindfulness as (their) controlling influence; all things have understanding as (their) highest; all things have liberation as their essence; all things have (their) immersion in the deathless; all things have extinguishment as (their) conclusion."
 [^10]: Can be simply a regular sandhi of sukhassa+āhāro
 
-7. [MN10.3](https://s.dhamma.gift/mn/mn10/index.html) <br>samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
+7. [MN10.3](https://s.dhamma.gift/mn/mn10/index.html)
+   samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -215,14 +222,14 @@
 | \#dhamma | noun | masc | phenomena | √dhar･1 a (hold, carry, endure) |
 | \#anupassī | adj | - | looking (at); observing; following | √dis･1 a (see) |
 | vā | ind | conj | or | |
-| kāyasmiṃ | noun | masc.loc.sg | in the body<br>(or)<br>in regard to the body | √ci･5 nā (gather, accumulate) |
+| kāyasmiṃ | noun | masc.loc.sg | in the body / (or) / in regard to the body | √ci･5 nā (gather, accumulate) |
 | viharati | verb | pr.3rd.sg | he lives, remains | √har･1 a (live) |
 | vayadhammānupassī | adj | masc.nom.sg | seeing the disappearance of phenomena; (or) contemplating the nature of disappearance | |
 | \#vaya | noun | masc | disintegration; decay; disappearance | |
 | \#dhamma | noun | masc | phenomena | √dhar･1 a (hold, carry, endure) |
 | \#anupassī | adj | - | looking (at); observing; following | √dis･1 a (see) |
 | vā | ind | conj | or | |
-| kāyasmiṃ | noun | masc.loc.sg | in the body<br>(or)<br>in regard to the body | √ci･5 nā (gather, accumulate) |
+| kāyasmiṃ | noun | masc.loc.sg | in the body / (or) / in regard to the body | √ci･5 nā (gather, accumulate) |
 | viharati | verb | pr.3rd.sg | he lives, remains, dwells | √har･1 a (live) |
 | samudayavayadhammānupassī | adj | masc.nom.sg | seeing the arising and disappearance of phenomena; (or) contemplating the nature of arising and disappearance | dutiyā tappurisa |
 | \#samudayavayadhamma | adj | masc | of the nature to appear and disappear | kammadhāraya |
@@ -232,10 +239,12 @@
 | \#\#dhamma | noun | masc | phenomena | √dhar･1 a (hold, carry, endure) |
 | \#anupassī | adj | - | looking (at); observing; following | √dis･1 a (see) |
 | vā | ind | conj | or | |
-| kāyasmiṃ | noun | masc.loc.sg | in the body<br>(or)<br>in regard to the body | √ci･5 nā (gather, accumulate) |
+| kāyasmiṃ | noun | masc.loc.sg | in the body / (or) / in regard to the body | √ci･5 nā (gather, accumulate) |
 | viharati | verb | pr.3rd.sg | he lives, remains | √har･1 a (live) |
 
-**He remains in the body observing arising phenomena, he remains in the body observing disappearing phenomena, he remains in the body observing arising and disappearing phenomena.<br>(or)<br>He remains observing in the body arising phenomena, he remains observing in the body disappearing phenomena, he remains observing in the body arising and disappearing phenomena.**
+**He remains in the body observing arising phenomena, he remains in the body observing disappearing phenomena, he remains in the body observing arising and disappearing phenomena.**
+**(or)**
+**He remains observing in the body arising phenomena, he remains observing in the body disappearing phenomena, he remains observing in the body arising and disappearing phenomena.**
 
 **samudayadhamma \< samudaya + dhamma (kammadhāraya)**
 
@@ -251,7 +260,8 @@
 
 **samudayavayadhammānupassī \< samudayavayadhamme + anupassī (dutiyā tappurisa)**
 
-8. [MN33](https://s.dhamma.gift/mn/mn33/index.html) <br>idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṃ, na labhati dhammavedaṃ, na labhati dhammūpasaṃhitaṃ pāmojjaṃ.
+8. [MN33](https://s.dhamma.gift/mn/mn33/index.html)
+   idha, bhikkhave, bhikkhu tathāgatappavedite dhammavinaye desiyamāne na labhati atthavedaṃ, na labhati dhammavedaṃ, na labhati dhammūpasaṃhitaṃ pāmojjaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -294,7 +304,8 @@
 
 **dhammūpasaṃhita \< dhammena + upasaṃhita (tatiyā tappurisa)**
 
-9. [SN20.7](https://s.dhamma.gift/sn/sn20/index.html#sn20.7) <br>ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti.
+9. [SN20.7](https://s.dhamma.gift/sn/sn20/index.html#sn20.7)
+   ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -331,7 +342,8 @@
 
 **suññatāpaṭisaṃyutta \< suññatāya + paṭisaṃyutta (tatiyā tappurisa)**
 
-10. [AN3.125](https://s.dhamma.gift/an/an3/index.html#an3.124) <br>imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.
+10. [AN3.125](https://s.dhamma.gift/an/an3/index.html#an3.124)
+    imasmiñca pana veyyākaraṇasmiṃ bhaññamāne sahassī lokadhātu akampitthāti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -353,7 +365,8 @@
 
 **lokadhātu \> loka + dhātu (kammadhāraya)**
 
-11. [AN5.157](https://s.dhamma.gift/an/an5/index.html#an5.157) <br>dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti.
+11. [AN5.157](https://s.dhamma.gift/an/an5/index.html#an5.157)
+    dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -361,7 +374,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | sīlakathāya | noun | fem.gen.sg (gen abs) | when talk about morality | chaṭṭhī tappurisa |
 | \#sīlassa | noun | nt.gen.sg | of ethical conduct; virtue | |
-| \#kathāya | noun | fem.gen.sg<br>(gen abs) | when talk; speech; conversation | |
+| \#kathāya | noun | fem.gen.sg / (gen abs) | when talk; speech; conversation | |
 | kacchamānāya | prp pass | fem.gen.sg (gen abs) | when is being spoken | √kath･8 ya (speak, narrate) |
 | abhisajjati | verb | pr.3rd.sg | he curses | √saj･3 ya (stick, cling) |
 | kuppati | verb | pr.3rd.sg | he gets angry | √kup･3 ya (shake, be angry) |
@@ -384,7 +397,8 @@
 
 **sīlakathā \< sīlaṃ + kathā (dutiyā tappurisa)**
 
-12. [AN6.62](https://s.dhamma.gift/an/an6/index.html#an6.62) <br>seyyathāpi vā panānanda, rattiyā paccūsasamayaṃ sūriye uggacchante, jāneyyāsi tvaṃ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatī"ti?
+12. [AN6.62](https://s.dhamma.gift/an/an6/index.html#an6.62)
+    seyyathāpi vā panānanda, rattiyā paccūsasamayaṃ sūriye uggacchante, jāneyyāsi tvaṃ, ānanda, andhakāro antaradhāyissati, āloko pātubhavissatī"ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -417,7 +431,8 @@
 
 **andhakāra \< andhaṃ + kāra (dutiyā tappurisa)**
 
-13. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5) <br>tatiyampi kho āyasmā ānando abhikkantāya rattiyā, nikkhante pacchime yāme, uddhaste aruṇe, nandimukhiyā rattiyā uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.
+13. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5)
+    tatiyampi kho āyasmā ānando abhikkantāya rattiyā, nikkhante pacchime yāme, uddhaste aruṇe, nandimukhiyā rattiyā uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -467,7 +482,8 @@
 
 ## Class 19 Extra Examples
 
-1. [SN1.13](https://s.dhamma.gift/sn/sn1/index.html#sn1.13)<br>sāvatthinidānaṃ. ekam'antaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi.
+1. [SN1.13](https://s.dhamma.gift/sn/sn1/index.html#sn1.13)
+   sāvatthinidānaṃ. ekam'antaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -489,15 +505,16 @@
 
 **[This] took place at Sāvatthi[^11]. That deity stood to one side in the presence of the Blessed One, [and] then spoke this verse.**
 
-2. [MN30](https://s.dhamma.gift/mn/mn30/index.html)<br>akuppā cetovimutti - etad'attham'idaṃ, brāhmaṇa, brahmacariyaṃ
+2. [MN30](https://s.dhamma.gift/mn/mn30/index.html)
+   akuppā cetovimutti - etad'attham'idaṃ, brāhmaṇa, brahmacariyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | akuppā | adj | fem.nom.sg | unshakable | kammadhāraya |
 | \#na | prefix | | not | |
 | \#kuppā | adj | fem.nom.sg | shakeable, lit. to be shaken | √kup･3 ya (shake) |
-| cetovimutti | noun | fem.nom.sg | mental liberation; emancipation of heart | kammadhāraya<br>or chaṭṭhī tappurisa |
-| \#ceto (or)<br>\#cetaso | noun (as adj) | -<br>masc.gen.sg | mind<br>of mind | √cit･8 \*e (think, intend) |
+| cetovimutti | noun | fem.nom.sg | mental liberation; emancipation of heart | kammadhāraya / or chaṭṭhī tappurisa |
+| \#ceto (or) / \#cetaso | noun (as adj) | - / masc.gen.sg | mind / of mind | √cit･8 \*e (think, intend) |
 | \#vimutti | noun | fem.nom.sg | liberation; emancipation | √muc･2 ṃa (release, free) |
 | etad'attham'idaṃ | sandhi | | this is that goal | |
 | \#etadatthaṃ | noun (as adj) | nt.nom.sg | (with) that [as] purpose | kammadhāraya \> bahubbīhi |
@@ -511,7 +528,8 @@
 
 **Unshakable mental liberation, brahmin, - this holy life [has] that as a goal[^12].**
 
-3. [MN70](https://s.dhamma.gift/mn/mn70/index.html)<br>kīva dūr'ev'ime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
+3. [MN70](https://s.dhamma.gift/mn/mn70/index.html)
+   kīva dūr'ev'ime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -532,7 +550,8 @@
 
 **Monks, just how far are these foolish men who have departed from this doctrine and discipline?**
 
-4. [VIN1.1.2](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj2)<br>ye te bhikkhū app'icchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti
+4. [VIN1.1.2](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj2)
+   ye te bhikkhū app'icchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te ujjhāyanti khiyyanti vipācenti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -555,7 +574,8 @@
 
 **Those monks who are of few wishes, content, conscientious, scrupulous, [and] desiring training, find fault, criticise and discuss widely [about Venerable Dhaniya]. (source text uses past tense)[^15]**
 
-5. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)<br>vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.
+5. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)
+   vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -599,7 +619,8 @@
 [^14]: bahubbīhi
 [^15]: The historical present can be translated in the past tense.
 
-6. [MN18](https://s.dhamma.gift/mn/mn18/index.html) <br>yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.
+6. [MN18](https://s.dhamma.gift/mn/mn18/index.html)
+   yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -304,7 +304,10 @@ upaya-upādāna-abhinivesa-vinibandho kho ayaṃ, kaccāna, loko yebhuyyena.
 
 
 
-upaya-<br>upādāna-<br>abhinivesa-<br>vinibandho
+upaya-
+upādāna-
+abhinivesa-
+vinibandho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -327,7 +330,8 @@ taṃ ce ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesa-anusayaṃ
 | adhiṭṭhānaṃ | | | | |
 | |
 
-abhinivesa-<br>anusayaṃ
+abhinivesa-
+anusayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |

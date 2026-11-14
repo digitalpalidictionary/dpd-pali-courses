@@ -2,7 +2,8 @@
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
-1. [MN107](https://s.dhamma.gift/mn/mn107/index.html)<br>byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī
+1. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
+   byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -14,7 +15,8 @@
 | sabbapāṇabhūtahitānukampī | | | | |
 | |
 
-2. [VIN PAT PC 70](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo
+2. [VIN PAT PC 70](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -32,7 +34,8 @@
 | apadisitabbo | | | | |
 | |
 
-3. [DHP064](https://s.dhamma.gift/kn/dhp/index.html#dhp60)<br>yāvajīvampi ce bālo, paṇḍitaṃ payirupāsati, na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
+3. [DHP064](https://s.dhamma.gift/kn/dhp/index.html#dhp60)
+   yāvajīvampi ce bālo, paṇḍitaṃ payirupāsati, na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -50,7 +53,8 @@
 | yathā | | | | |
 | |
 
-4. [VIN PAT PC 63](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
+4. [VIN PAT PC 63](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -65,7 +69,8 @@
 | pācittiyaṃ | | | | |
 | |
 
-5. [DHP356](https://s.dhamma.gift/kn/dhp/index.html#dhp334)<br>tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
+5. [DHP356](https://s.dhamma.gift/kn/dhp/index.html#dhp334)
+   tiṇadosāni khettāni, rāgadosā ayaṃ pajā, tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -82,7 +87,8 @@
 | mahapphalaṃ | | | | |
 | |
 
-6. [SN42.6](https://s.dhamma.gift/sn/sn42/index.html#sn42.6) <br>taṃ kiṃ maññasi, gāmaṇi, idhassa puriso pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhiko.
+6. [SN42.6](https://s.dhamma.gift/sn/sn42/index.html#sn42.6)
+   taṃ kiṃ maññasi, gāmaṇi, idhassa puriso pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhiko.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -104,7 +110,8 @@
 | micchādiṭṭhiko | | | | |
 | |
 
-7. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
+7. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
+   so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -122,7 +129,8 @@
 | upaṭṭhapetvā | | | | |
 | |
 
-8. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html) <br>savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati
+8. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)
+   savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -136,7 +144,8 @@
 | viharati | | | | |
 | |
 
-9. [MN51](https://s.dhamma.gift/mn/mn51/index.html) <br>kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ
+9. [MN51](https://s.dhamma.gift/mn/mn51/index.html)
+   kālavādī bhūtavādī atthavādī dhammavādī vinayavādī nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -155,7 +164,8 @@
 | atthasaṃhitaṃ | | | | |
 | |
 
-10. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61) <br>viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
+10. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61)
+    viggāhikāya moggallāna kathāya sati kathābāhullaṃ pāṭikaṅkhaṃ, kathābāhulle sati uddhaccaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -170,7 +180,8 @@
 | uddhaccaṃ | | | | |
 | |
 
-11. [SN12.23](https://s.dhamma.gift/sn/sn12/index.html#sn12.23) <br>seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti.
+11. [SN12.23](https://s.dhamma.gift/sn/sn12/index.html#sn12.23)
+    seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -188,7 +199,8 @@
 | paripūreti | | | | |
 | |
 
-12. [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>ehi tvaṃ, bhadramukha, saṅghāṭiko hohi, saṅghāṭikassa te sato saṅghāṭidhāraṇamattena abhijjhālussa abhijjhā pahīyissati.
+12. [MN40](https://s.dhamma.gift/mn/mn40/index.html)
+    ehi tvaṃ, bhadramukha, saṅghāṭiko hohi, saṅghāṭikassa te sato saṅghāṭidhāraṇamattena abhijjhālussa abhijjhā pahīyissati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -206,7 +218,8 @@
 | pahīyissati | | | | |
 | |
 
-13. [MN40](https://s.dhamma.gift/mn/mn40/index.html) <br>tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati
+13. [MN40](https://s.dhamma.gift/mn/mn40/index.html)
+    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -224,7 +237,8 @@
 | jāyati | | | | |
 | |
 
-14. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176) <br>brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemīti
+14. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176)
+    brāhmaṇā, bhante, pacchābhūmakā kamaṇḍalukā sevālamālikā aggiparicārikā udakorohakā soceyyāni paññapenti, tesāhaṃ soceyyāni rocemīti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -246,7 +260,8 @@
 
 **Break up all the sandhis and compounds in the following sentences. Underneath the translation, demonstrate how each compound is formed and name the type of compound.**
 
-1. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)<br>sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
+1. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)
+   sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -267,7 +282,8 @@
 | viharati | | | | |
 | |
 
-2. [MN91](https://s.dhamma.gift/mn/mn91/index.html)<br>dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati, kosohite ca vatthaguyhe, pahūtajivhatāya ca.
+2. [MN91](https://s.dhamma.gift/mn/mn91/index.html)
+   dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati, kosohite ca vatthaguyhe, pahūtajivhatāya ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -284,7 +300,8 @@
 | pahūtajivhatāya | | | | |
 | |
 
-3. [SN3.11](https://s.dhamma.gift/sn/sn3/index.html#sn3.11)<br>tena kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividhamādāya bhagavato avidūre atikkamanti.
+3. [SN3.11](https://s.dhamma.gift/sn/sn3/index.html#sn3.11)
+   tena kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividhamādāya bhagavato avidūre atikkamanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -314,7 +331,8 @@
 | atikkamanti | | | | |
 | |
 
-4. [MN12](https://s.dhamma.gift/mn/mn12/index.html) <br>assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
+4. [MN12](https://s.dhamma.gift/mn/mn12/index.html)
+   assosi kho āyasmā sāriputto sunakkhattassa licchaviputtassa vesāliyaṃ parisati evaṃ vācaṃ bhāsamānassa - natthi samaṇassa gotamassa uttarimanussadhammā alamariyañāṇadassanaviseso.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -2,9 +2,9 @@
 
 | **Pāḷi** | **POS** | **Grammar** | **English** | **2nd language[^4]** |
 | --- | --- | --- | --- | --- |
-| purisassa | noun | masc.gen.sg<br>masc.dat.sg | of the man<br>to the man | человека |
+| purisassa | noun | masc.gen.sg / masc.dat.sg | of the man / to the man | человека |
 | goṇo | noun | masc.nom.sg | the ox | бык |
-| **the man’s ox**<br>**бык человека** |
+| **the man’s ox** / **бык человека** |
 
 [^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorise words.
 
@@ -20,7 +20,7 @@
 
 | | |
 | --- | --- |
-| A.K. Warder <br>Introduction to Pāḷi | p1-9 |
-| V. Perniola<br>Pāḷi Grammar | p1-3 (alphabet & pronunciation) <br>p29 onwards (declension) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | p4-6 (alphabet & pronunciation)<br>p24-27 (declension of masculine nouns) |
+| A.K. Warder / Introduction to Pāḷi | p1-9 |
+| V. Perniola / Pāḷi Grammar | p1-3 (alphabet & pronunciation) / p29 onwards (declension) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p4-6 (alphabet & pronunciation) / p24-27 (declension of masculine nouns) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

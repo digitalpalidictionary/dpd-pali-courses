@@ -10,7 +10,9 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-1. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)<br>yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**. <br>tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
+1. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)
+   yath'indakhīlo pathaviṃ **sito** siyā, catubbhi vātehi **asampakampiyo**.
+   tath'ūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -39,7 +41,8 @@
 
 **Like Inda's column [that] would be planted [firmly] in the earth, unshakeable by the four winds, similar to that, I say [is] a virtuous man who perfectly understands the noble truths.**
 
-2. VIN PAT NID<br>yassa siyā āpatti, so āvikareyya, **asantiyā** āpattiyā tuṇhī **bhavitabbaṃ**, tuṇhībhāvena kho pan'āyasmante **parisuddhā**'ti vedissāmi.
+2. VIN PAT NID
+   yassa siyā āpatti, so āvikareyya, **asantiyā** āpattiyā tuṇhī **bhavitabbaṃ**, tuṇhībhāvena kho pan'āyasmante **parisuddhā**'ti vedissāmi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -51,7 +54,7 @@
 | \#āvi | ind | adv | openly; in full view | |
 | \#kareyya | verb | opt.3rd.sg | he should make | |
 | **asantiyā** | prp | fem.loc.sg (loc abs) | not existing; not being present | na + √as + a + nta |
-| āpattiyā | noun | fem.loc.sg<br>(loc abs) | [when] the offence | |
+| āpattiyā | noun | fem.loc.sg / (loc abs) | [when] the offence | |
 | tuṇhī | ind | adv | silent | |
 | **bhavitabbaṃ** | ptp | nt.nom.sg | there should be; it is to be | √bhū + \*itabba |
 | tuṇhībhāvena | noun | masc.instr.sg | by being silent | kammadhāraya |
@@ -68,7 +71,8 @@
 
 **For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), it is to be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
 
-3. [MN31](https://s.dhamma.gift/mn/mn31/index.html)<br>idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
+3. [MN31](https://s.dhamma.gift/mn/mn31/index.html)
+   idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -93,7 +97,8 @@
 
 **In this regard, Venerable Sir, whichever of us returns first from the village for the purpose of collecting alms food prepares the seats, sets out the drinking water, and water for rinsing, [and] sets out the bowl for leftovers.**
 
-4. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53)<br>**sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^41] nisīdiṃsu
+4. [SN46.53](https://s.dhamma.gift/sn/sn46/index.html#sn46.53)
+   **sammodanīyaṃ** kathaṃ **sāraṇīyaṃ** vītisāretvā ekam'antaṃ[^41] nisīdiṃsu
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -108,7 +113,8 @@
 
 **Having conducted a polite, friendly conversation, they sat down to one side.**
 
-5. [DN9.7](https://s.dhamma.gift/dn/dn9/index.html)<br>oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
+5. [DN9.7](https://s.dhamma.gift/dn/dn9/index.html)
+   oḷārikassa'pi kho ahaṃ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṃ desemi, yathā**paṭipannānaṃ** vo saṃkilesikā dhammā pahīyissanti, **vodāniyā** dhammā abhivaḍḍhissanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -137,7 +143,9 @@
 
 **But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and mental states to be purified will increase more and more.**
 
-6. [MN131](https://s.dhamma.gift/mn/mn131/index.html)<br>ajj'eva **kiccam'ātappaṃ**,<br>ko jaññā maraṇaṃ suve,
+6. [MN131](https://s.dhamma.gift/mn/mn131/index.html)
+   ajj'eva **kiccam'ātappaṃ**,
+   ko jaññā maraṇaṃ suve,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -154,7 +162,11 @@
 
 **Effort should be made this very day; who could know [if] death [is] tomorrow?**
 
-7. [DHP316](https://s.dhamma.gift/kn/dhp/index.html#dhp306)<br>**alajjitāye** lajjanti,<br>**lajjitāye** na lajjare,<br>micchādiṭṭhisamādānā,<br>sattā gacchanti duggatiṃ.
+7. [DHP316](https://s.dhamma.gift/kn/dhp/index.html#dhp306)
+   **alajjitāye** lajjanti,
+   **lajjitāye** na lajjare,
+   micchādiṭṭhisamādānā,
+   sattā gacchanti duggatiṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -163,7 +175,7 @@
 | **lajjitāye** | ptp | masc.loc.sg | should be ashamed (lit: to be ashamed) | √lajj + itāya |
 | na | ind | neg | not | |
 | lajjare | verb | pr.reflx.3rd.pl (+loc) | they embarrass themselves (about) | |
-| micchādiṭṭhisamādānā | noun | masc.nom.pl | believing in wrong views (lit: taking up wrong views) | dutiyā tappurisa as bahubbīhi<br> |
+| micchādiṭṭhisamādānā | noun | masc.nom.pl | believing in wrong views (lit: taking up wrong views) | dutiyā tappurisa as bahubbīhi / |
 | \#micchādiṭṭhiṃ | noun | fem.acc.sg | wrong view | kammadhāraya |
 | \#\#micchā | adj | fem. | wrong | |
 | \#\#diṭṭhiṃ | noun | fem.acc.sg | view | |
@@ -174,7 +186,8 @@
 
 **They [who] are ashamed of [what] they should not be ashamed, [and] do not embarrass themselves about what they should – undertaking wrong views – living beings go to a bad destination.**
 
-8. [MN35](https://s.dhamma.gift/mn/mn35/index.html)<br>taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
+8. [MN35](https://s.dhamma.gift/mn/mn35/index.html)
+   taṃ kiṃ maññasi, aggivessana, vatteyya rañño khattiyassa muddh'**āvasittassa** sakasmiṃ **vijite** vaso, **ghātetāyaṃ** vā ghātetuṃ, **jāpetāyaṃ** vā jāpetuṃ, **pabbājetāyaṃ** vā pabbājetuṃ?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -203,7 +216,8 @@
 
 **What do you think, Aggivessana, would a noble, head-anointed king[^42] wield power in his own realm, to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?**
 
-9. [VIN PAT AN 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm5)<br>nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
+9. [VIN PAT AN 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm5)
+   nisajjaṃ bhikkhu **paṭijānamāno** tiṇṇaṃ dhammānaṃ aññatarena **kāretabbo** pārājikena vā saṅghādisesena vā pācittiyena vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -223,7 +237,11 @@
 
 **The monk admitting the sitting down should be made to do by one of three rules[^44]: [what is] according to [a case] involving disqualification or [what is] according to [a case] involving the community from start to finish or [what is] according to a case involving confession.**
 
-10. [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3)<br>okaṃ pahāya aniketasārī,<br>gāme **akubbaṃ** muni santhavāni,<br>kāmehi ritto **apurekkharāno**,<br>kathaṃ na viggayha janena kayirā'ti.
+10. [SN22.3](https://s.dhamma.gift/sn/sn22/index.html#sn22.3)
+    okaṃ pahāya aniketasārī,
+    gāme **akubbaṃ** muni santhavāni,
+    kāmehi ritto **apurekkharāno**,
+    kathaṃ na viggayha janena kayirā'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -249,7 +267,8 @@
 
 **"Leaving behind home, the sage is wandering homeless, not making close associations in the village, free from sense pleasures, not preferring, he would not make talk quarrelling with people (lit: he would not, having quarrelled with people, make talk)."**
 
-11. VIN PAT SA<br>ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu **anabbhito**, te ca bhikkhū **gārayhā**
+11. VIN PAT SA
+    ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu **anabbhito**, te ca bhikkhū **gārayhā**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -278,7 +297,8 @@
 
 **If a community of monks, [which is] a quorum of twenty, [is] deficient even by one [monk], and should reinstate that monk, [then] that monk is not reinstated and those monks are blameworthy.**
 
-12. [VIN PAT NP 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)<br>**niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
+12. [VIN PAT NP 1](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
+    **niṭṭhita**cīvarasmiṃ bhikkhunā **ubbhatasmiṃ** kathine das'āhaparamaṃ atirekacīvaraṃ **dhāretabbaṃ**, taṃ **atikkāmayato** **nissaggiyaṃ** pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -316,7 +336,8 @@
 
 ## Class 27 Extra Examples
 
-1. [SN35.95](https://s.dhamma.gift/sn/sn35/index.html#sn35.95)<br>ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
+1. [SN35.95](https://s.dhamma.gift/sn/sn35/index.html#sn35.95)
+   ye te kāya**viññeyyā** **phoṭṭhabbā** **asamphuṭṭhā** asamphuṭṭhapubbā, na ca phusasi, na ca te hoti **phuseyyan**'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -343,7 +364,8 @@
 
 **"[Do you have any lust, desire, or affection] for those tangible objects known by the body, that [you have] not felt, never felt before, that you do not feel and could not be felt by you?**
 
-2. [MN43](https://s.dhamma.gift/mn/mn43/index.html)<br>te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
+2. [MN43](https://s.dhamma.gift/mn/mn43/index.html)
+   te ca h'āvuso, āyusaṅkhārā abhaviṃsu te **vedaniyā** dhammā, na'y'idaṃ saññā**vedayita**nirodhaṃ **samāpannassa** bhikkhuno vuṭṭhānaṃ paññāyetha.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -374,7 +396,8 @@
 
 **And if, friend, life forces were things that could be felt, [then] for a monk [who had] entered into the cessation of perception and feeling, emerging (from it) would not be evident.**
 
-3. [VIN PAT PC 18](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
+3. [VIN PAT PC 18](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   yo pana bhikkhu **saṅghike** vihāre uparivehāsakuṭiyā **āhaccapādakaṃ** mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -403,7 +426,11 @@
 
 **If any monk should sit down or lie down hard on a bench or on a bed with detachable legs in an upper-floor room in a dwelling belonging to the community, this is an offence requiring confession.**
 
-4. [SNP4](https://s.dhamma.gift/kn/snp/index.html#snp1.4) <br>gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,<br>**sampassataṃ** brāhmaṇa n'esa dhammo,<br>gāth'ābhigītaṃ panudanti buddhā,<br>dhamme satī brāhmaṇa vutti'r'esā.
+4. [SNP4](https://s.dhamma.gift/kn/snp/index.html#snp1.4)
+   gāth'**ābhigītaṃ** me **abhojaneyyaṃ**,
+   **sampassataṃ** brāhmaṇa n'esa dhammo,
+   gāth'ābhigītaṃ panudanti buddhā,
+   dhamme satī brāhmaṇa vutti'r'esā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -430,7 +457,11 @@
 
 **[Food] chanted over with verses is not fit for me to eat; this is not the principle of those[^48] who are seeing, Brahmin. The Awakened Ones reject [things] chanted over with verses; [that] being [their] principle[^49], Brahmin, this is [their] way of life.**
 
-5. [SNP42](https://s.dhamma.gift/kn/snp/index.html#snp4.4)<br>**diṭṭhena** ce suddhi narassa hoti,<br>ñāṇena vā so pajahāti dukkhaṃ,<br>aññena so sujjhati sopadhīko,<br>diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
+5. [SNP42](https://s.dhamma.gift/kn/snp/index.html#snp4.4)
+   **diṭṭhena** ce suddhi narassa hoti,
+   ñāṇena vā so pajahāti dukkhaṃ,
+   aññena so sujjhati sopadhīko,
+   diṭṭhī hi naṃ pāva tathā **vadānaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -442,7 +473,7 @@
 | ñāṇena | noun | nt.instr.sg | by means of knowing | |
 | vā | ind | conj | or | |
 | so | pron | masc.nom.sg | he | |
-| pajahati | verb | pr.3rd.sg | gives up; abandons | pa + √hā + a + ti<br>with metrically lengthened ā |
+| pajahati | verb | pr.3rd.sg | gives up; abandons | pa + √hā + a + ti / with metrically lengthened ā |
 | dukkhaṃ | noun | nt.acc.sg | suffering | |
 | aññena | pron | masc.instr.sg | by another; something else | |
 | so | pron | masc.nom.sg | he | |
@@ -455,7 +486,10 @@
 | tathā | ind | adv | thus; in such a way | |
 | **vadānaṃ** | prp | masc.acc.sg | speaking | √vad + āna |
 
-**If through the seeing there is a man’s purity,<br>or through knowledge he abandons suffering, <br>then he is purified by another, being with attachments. <br>the one with view revealed him as one who asserts thus.**
+**If through the seeing there is a man’s purity,**
+**or through knowledge he abandons suffering,**
+**then he is purified by another, being with attachments.**
+**the one with view revealed him as one who asserts thus.**
 
 [^50]: Norman reads diṭṭhī as fem.nom.sg: "his view [is what] proclaims him". The masc. reading "who has a view" taken here leaves the following pāva without a subject.
 

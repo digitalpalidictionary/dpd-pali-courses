@@ -47,9 +47,9 @@ a + √dā + si \> **a**dāsi (he gave)
 | | | | | |
 | --- | --- | --- | --- | --- |
 | | singular | | plural | |
-| 3rd | pac**i**<br>apac**i** | he cooked | pac**iṃsu**<br>apac**iṃsu**<br>pac**uṃ**<br>apac**uṃ** | they cooked |
-| 2nd | pac**i**<br>apac**i**<br>pac**o**<br>apac**o** | you cooked | pac**ittha**<br>apac**ittha** | you all cooked |
-| 1st | pac**iṃ**<br>apac**iṃ** | I cooked | pac**imha**<br>pac**imhā**<br>apac**imha**<br>apac**imhā** | we cooked |
+| 3rd | pac**i** / apac**i** | he cooked | pac**iṃsu** / apac**iṃsu** / pac**uṃ** / apac**uṃ** | they cooked |
+| 2nd | pac**i** / apac**i** / pac**o** / apac**o** | you cooked | pac**ittha** / apac**ittha** | you all cooked |
+| 1st | pac**iṃ** / apac**iṃ** | I cooked | pac**imha** / pac**imhā** / apac**imha** / apac**imhā** | we cooked |
 
 ## 8th conjugation group
 
@@ -62,7 +62,7 @@ a + √dā + si \> **a**dāsi (he gave)
 | | singular | | plural | |
 | 3rd | dese**si** | he taught | dese**suṃ** | they taught |
 | 2nd | dese**si** | you taught | des**ittha** | you all taught |
-| 1st | dese**siṃ** | I taught | des**imha**<br>des**imhā** | we taught |
+| 1st | dese**siṃ** | I taught | des**imha** / des**imhā** | we taught |
 
 Similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 
@@ -77,4 +77,4 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 | | singular | | plural | |
 | 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
 | 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
-| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha**<br>aṭṭha**mhā** | we stood |
+| 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha** / aṭṭha**mhā** | we stood |

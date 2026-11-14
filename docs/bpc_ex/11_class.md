@@ -1,6 +1,7 @@
 # Class 11 Exercises
 
-1. [SN22.43](https://s.dhamma.gift/sn/sn22/index.html#sn22.43) <br>**attadīpā**, bhikkhave, viharatha **attasaraṇā** **anaññasaraṇā**, **dhammadīpā** **dhammasaraṇā** **anaññasaraṇā**.
+1. [SN22.43](https://s.dhamma.gift/sn/sn22/index.html#sn22.43)
+   **attadīpā**, bhikkhave, viharatha **attasaraṇā** **anaññasaraṇā**, **dhammadīpā** **dhammasaraṇā** **anaññasaraṇā**.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -13,7 +14,8 @@
 | anaññasaraṇā | | | | |
 | |
 
-2. [VIN1.0](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj1) <br>taṃ bhavantaṃ gotamaṃ evaṃ **kalyāṇo** kittisaddo **abbhuggato**
+2. [VIN1.0](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj1)
+   taṃ bhavantaṃ gotamaṃ evaṃ **kalyāṇo** kittisaddo **abbhuggato**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -26,7 +28,8 @@
 | abbhuggato | | | | |
 | |
 
-3. [UD73](https://s.dhamma.gift/kn/ud/index.html#ud8.3) <br>atthi bhikkhave **ajātaṃ** **abhūtaṃ** **akataṃ** **asaṅkhataṃ**
+3. [UD73](https://s.dhamma.gift/kn/ud/index.html#ud8.3)
+   atthi bhikkhave **ajātaṃ** **abhūtaṃ** **akataṃ** **asaṅkhataṃ**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -38,7 +41,8 @@
 | asaṅkhataṃ | | | | |
 | |
 
-4. [AN8.74](https://s.dhamma.gift/an/an8/index.html#an8.74) <br>seyyathāpi, bhikkhave, **āditta**celo vā **āditta**sīso vā
+4. [AN8.74](https://s.dhamma.gift/an/an8/index.html#an8.74)
+   seyyathāpi, bhikkhave, **āditta**celo vā **āditta**sīso vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -54,7 +58,8 @@
 | vā | | | | |
 | |
 
-5. [ITI111](https://s.dhamma.gift/kn/iti/index.html) <br>**āraddhaṃ** hoti vīriyaṃ **asallīnaṃ**, **upaṭṭhitā** sati **asammuṭṭhā**, **passaddho** kāyo **asāraddho**, **samāhitaṃ** cittaṃ **ekaggaṃ**
+5. [ITI111](https://s.dhamma.gift/kn/iti/index.html)
+   **āraddhaṃ** hoti vīriyaṃ **asallīnaṃ**, **upaṭṭhitā** sati **asammuṭṭhā**, **passaddho** kāyo **asāraddho**, **samāhitaṃ** cittaṃ **ekaggaṃ**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -73,7 +78,8 @@
 | ekaggaṃ | | | | |
 | |
 
-6. [MN107](https://s.dhamma.gift/mn/mn107/index.html) <br>**asite** **pīte** **khāyite** **sāyite** sampajānakārī
+6. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
+   **asite** **pīte** **khāyite** **sāyite** sampajānakārī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -84,7 +90,8 @@
 | sampajāna-kārī | | | | |
 | |
 
-7. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>seyyathā’pi puriso **ābādhiko** assa **dukkhito** **bāḷhagilāno**
+7. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+   seyyathā’pi puriso **ābādhiko** assa **dukkhito** **bāḷhagilāno**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -96,7 +103,8 @@
 | bāḷhagilāno | | | | |
 | |
 
-8. [AN2.135](https://s.dhamma.gift/an/an2/index.html#an2.135) <br>bālo abyatto asappuriso **khataṃ** **upahataṃ** attānaṃ pariharati
+8. [AN2.135](https://s.dhamma.gift/an/an2/index.html#an2.135)
+   bālo abyatto asappuriso **khataṃ** **upahataṃ** attānaṃ pariharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -109,7 +117,8 @@
 | pariharati | | | | |
 | |
 
-9. [AN5.114](https://s.dhamma.gift/an/an5/index.html#an5.114) <br>ye te, ānanda, bhikkhū navā **acirapabbajitā** **adhunāgatā** imaṃ dhammavinayaṃ
+9. [AN5.114](https://s.dhamma.gift/an/an5/index.html#an5.114)
+   ye te, ānanda, bhikkhū navā **acirapabbajitā** **adhunāgatā** imaṃ dhammavinayaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -126,7 +135,8 @@
 | dhammavinayaṃ | | | | |
 | |
 
-10. [MN152](https://s.dhamma.gift/mn/mn152/index.html) <br>**upekkhako** tattha viharati **sato** **sampajāno**
+10. [MN152](https://s.dhamma.gift/mn/mn152/index.html)
+    **upekkhako** tattha viharati **sato** **sampajāno**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -137,7 +147,8 @@
 | sampajāno | | | | |
 | |
 
-11. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>**sakko** **ujū** ca **suhujū** ca **suvaco** c’assa **mudu** **anatimānī**
+11. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
+    **sakko** **ujū** ca **suhujū** ca **suvaco** c’assa **mudu** **anatimānī**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -152,7 +163,8 @@
 | anatimānī | | | | |
 | |
 
-12. [SN12.66](https://s.dhamma.gift/sn/sn12/index.html#sn12.66) <br>samaṇā vā brāhmaṇā vā yaṃ loke **piyarūpaṃ** **sātarūpaṃ** taṃ **aniccato** dakkhissanti **dukkhato** dakkhissanti **anattato** dakkhissanti **rogato** dakkhissanti **bhayato** dakkhissanti, te taṇhaṃ pajahissanti.
+12. [SN12.66](https://s.dhamma.gift/sn/sn12/index.html#sn12.66)
+    samaṇā vā brāhmaṇā vā yaṃ loke **piyarūpaṃ** **sātarūpaṃ** taṃ **aniccato** dakkhissanti **dukkhato** dakkhissanti **anattato** dakkhissanti **rogato** dakkhissanti **bhayato** dakkhissanti, te taṇhaṃ pajahissanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -180,7 +192,8 @@
 | pajahissanti. | | | | |
 | |
 
-13. [MN41](https://s.dhamma.gift/mn/mn41/index.html) <br>atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
+13. [MN41](https://s.dhamma.gift/mn/mn41/index.html)
+    atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -192,7 +205,8 @@
 | hutaṃ | | | | |
 | |
 
-14. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html) <br>seyyathā’pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
+14. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html)
+    seyyathā’pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -203,7 +217,8 @@
 | kāḷakā | | | | |
 | |
 
-15. [AN11.15](https://s.dhamma.gift/an/an11/index.html#an11.15) (simpl) <br>mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
+15. [AN11.15](https://s.dhamma.gift/an/an11/index.html#an11.15) (simpl)
+    mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -222,7 +237,8 @@
 | pāṭikaṅkhā | | | | |
 | |
 
-16. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl) <br>ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
+16. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl)
+    ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -243,7 +259,8 @@
 | hoti | | | | |
 | |
 
-17. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl) <br>yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
+17. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl)
+    yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -262,7 +279,8 @@
 | saṃvattanikāni | | | | |
 | |
 
-18. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
+18. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -283,7 +301,8 @@
 | rūpaṃ | | | | |
 | |
 
-19. [MN64](https://s.dhamma.gift/mn/mn64/index.html) <br>yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
+19. [MN64](https://s.dhamma.gift/mn/mn64/index.html)
+    yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -312,7 +331,8 @@
 | samanupassati | | | | |
 | |
 
-20. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) <br>idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
+20. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1)
+    idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -337,7 +357,8 @@
 | samanupassati | | | | |
 | |
 
-21. [MN137](https://s.dhamma.gift/mn/mn137/index.html) <br>cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok’āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
+21. [MN137](https://s.dhamma.gift/mn/mn137/index.html)
+    cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok’āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -354,7 +375,8 @@
 | samanupassato | | | | |
 | |
 
-22. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3) <br>svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
+22. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3)
+    svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -370,7 +392,8 @@
 | viññūhi | | | | |
 | |
 
-23. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl) <br>evam’eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
+23. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl)
+    evam’eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -386,7 +409,8 @@
 | piṇḍapātena | | | | |
 | |
 
-24. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat’ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
+24. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+    evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat’ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -406,7 +430,8 @@
 | abhininnāmeti | | | | |
 | |
 
-25. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam’iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
+25. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam’iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -424,7 +449,8 @@
 | brahmacariyaṃ | | | | |
 | |
 
-26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70) <br>tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
+26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70)
+    tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -441,7 +467,8 @@
 
 ## Class 11 Extra
 
-1. [DHP012](https://s.dhamma.gift/kn/dhp/index.html#dhp1) (simpl)<br>sāraṃ ca sārato ñatvā, asāraṃ ca asārato, te sāraṃ adhigacchanti, sammāsaṅkappe gocarā.
+1. [DHP012](https://s.dhamma.gift/kn/dhp/index.html#dhp1) (simpl)
+   sāraṃ ca sārato ñatvā, asāraṃ ca asārato, te sāraṃ adhigacchanti, sammāsaṅkappe gocarā.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -458,7 +485,11 @@
 | gocarā | | | | |
 | |
 
-2. [TH262](https://s.dhamma.gift/kn/thag/index.html#thag19.1) <br>satthā ca me lokaṃ imaṃ adhiṭṭhahi, <br>aniccato addhuvato asārato, <br>pakkhanda maṃ citta jinassa sāsane, <br>tārehi oghā mahatā suduttarā.
+2. [TH262](https://s.dhamma.gift/kn/thag/index.html#thag19.1)
+   satthā ca me lokaṃ imaṃ adhiṭṭhahi,
+   aniccato addhuvato asārato,
+   pakkhanda maṃ citta jinassa sāsane,
+   tārehi oghā mahatā suduttarā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -482,7 +513,8 @@
 | suduttarā | | | | |
 | |
 
-3. [MN22](https://s.dhamma.gift/mn/mn22/index.html) <br>attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yaṃ api taṃ diṭṭhiṭṭhānaṃ, — so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tath'eva ṭhassāmī'ti, — nanu ayaṃ, bhikkhave, kevalo paripūro bāladhammo'ti?
+3. [MN22](https://s.dhamma.gift/mn/mn22/index.html)
+   attani ca, bhikkhave, attaniye ca saccato thetato anupalabbhamāne, yaṃ api taṃ diṭṭhiṭṭhānaṃ, — so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo, sassatisamaṃ tath'eva ṭhassāmī'ti, — nanu ayaṃ, bhikkhave, kevalo paripūro bāladhammo'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -519,7 +551,9 @@
 | bāladhammo'ti | | | | |
 | |
 
-4. [SN6.2](https://s.dhamma.gift/sn/sn6/index.html#sn6.2) <br>ye ca atītā sambuddhā, ye ca buddhā anāgatā. <br>yo ca eta’r’ahi sambuddho, bahunnaṃ sokanāsano.
+4. [SN6.2](https://s.dhamma.gift/sn/sn6/index.html#sn6.2)
+   ye ca atītā sambuddhā, ye ca buddhā anāgatā.
+   yo ca eta’r’ahi sambuddho, bahunnaṃ sokanāsano.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -539,7 +573,8 @@
 | sokanāsano | | | | |
 | |
 
-5. [DHP086](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl) <br>ye ca kho sammā-akkhāte dhamme dhammaṃ anuvattino, te janā pāraṃ essanti, maccuno dheyyaṃ suduttaraṃ.
+5. [DHP086](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl)
+   ye ca kho sammā-akkhāte dhamme dhammaṃ anuvattino, te janā pāraṃ essanti, maccuno dheyyaṃ suduttaraṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -560,7 +595,8 @@
 | suduttaraṃ | | | | |
 | |
 
-6. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam’uttamaṃ.
+6. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4)
+   phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam’uttamaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

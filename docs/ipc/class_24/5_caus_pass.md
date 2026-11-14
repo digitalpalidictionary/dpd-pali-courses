@@ -58,7 +58,7 @@ My good man did you not see among men, a man or a woman very ill, suffering, ext
 | --- | --- | --- | --- |
 | √bhū + a | bhava | bhavati | he is; becomes |
 | √bhū + \*e | bhāve | bhāveti | he causes to be; causes to become |
-| √bhū + \*e + īya | bhāvīya | bhāvīyati | is caused to be = <br>is developed |
+| √bhū + \*e + īya | bhāvīya | bhāvīyati | is caused to be = / is developed |
 
 cattārome, bhikkhave, kālā sammā **bhāviyamānā** sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti ([AN4.147](https://s.dhamma.gift/an/an4/index.html#an4.147) dutiyakālasuttaṃ)
 

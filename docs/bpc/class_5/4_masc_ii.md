@@ -25,15 +25,15 @@ Many of these possessive nouns can also be used as adjectives.
 | macchara | stinginess | maccharī | has stinginess | stingy person |
 | ottappa | shame in wrongdoing | ottappī | has shame in wrongdoing | conscientious person |
 
-## Declension of -ī masc {: #declension-of-ii-masc}
+## Declension of -ī masc
 
 | | | |
 | --- | --- | --- |
-| 1. nom | pakkh**ī** | pakkh**ī**<br>pakkh**ino** |
-| 2. acc | pakkh**inaṃ**<br>pakkh**iṃ** | pakkh**ī**<br>pakkh**ino** |
+| 1. nom | pakkh**ī** | pakkh**ī** / pakkh**ino** |
+| 2. acc | pakkh**inaṃ** / pakkh**iṃ** | pakkh**ī** / pakkh**ino** |
 | 3. instr | pakkh**inā** | pakkh**īhi** |
-| 4. dat | pakkh**ino**<br>pakkh**issa** | pakkh**īnaṃ** |
-| 5. abl | pakkh**inā**<br>pakkh**imhā** | pakkh**īhi** |
-| 6. gen | pakkh**ino**<br>pakkh**issa** | pakkh**īnaṃ** |
-| 7. loc | pakkh**ini**<br>pakkh**imhi**<br>pakkh**ismiṃ** | pakkh**īsu** |
-| 8. voc | pakkh**i**<br>pakkh**ī** | pakkh**ī**<br>pakkh**ino** |
+| 4. dat | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
+| 5. abl | pakkh**inā** / pakkh**imhā** | pakkh**īhi** |
+| 6. gen | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
+| 7. loc | pakkh**ini** / pakkh**imhi** / pakkh**ismiṃ** | pakkh**īsu** |
+| 8. voc | pakkh**i** / pakkh**ī** | pakkh**ī** / pakkh**ino** |

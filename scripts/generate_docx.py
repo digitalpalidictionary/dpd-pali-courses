@@ -9,9 +9,11 @@ import re
 import subprocess
 import pypandoc
 from docx import Document
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 import argparse
+from tools.clean_markup import stack_table_cells
 from tools.printer import printer as pr
 
 # Ensure pandoc is available
@@ -34,6 +36,9 @@ FOLDER_NAMES = {
 }
 
 PAGEBREAK = '\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n'
+
+# Pandoc passes an openxml block through verbatim, giving a real line break in a cell.
+OPENXML_BR = "`<w:r><w:br/></w:r>`{=openxml}"
 
 
 def clean_markdown_content(content: str) -> str:
@@ -138,6 +143,7 @@ def aggregate_markdown(
 
     for i, (file_path, content) in enumerate(files_data):
         c = clean_markdown_content(content)
+        c = stack_table_cells(c, OPENXML_BR)
         c = fix_internal_links(c)
         c = preprocess_inline_images(c)
 
@@ -164,7 +170,7 @@ def generate_docx(aggregated_md: str, output_docx: str, folder: str = "") -> Non
     pypandoc.convert_text(
         aggregated_md,
         "docx",
-        format="markdown",
+        format="markdown+hard_line_breaks",
         outputfile=output_docx,
         extra_args=extra_args,
     )
@@ -188,6 +194,10 @@ def post_process_docx(docx_path: str, folder: str) -> None:
     update_fields = OxmlElement("w:updateFields")
     update_fields.set(qn("w:val"), "true")
     doc.settings.element.append(update_fields)
+
+    for paragraph in doc.paragraphs:
+        if paragraph.text.startswith("— "):
+            paragraph.alignment = WD_ALIGN_PARAGRAPH.RIGHT
 
     doc.save(docx_path)
 

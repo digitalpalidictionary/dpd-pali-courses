@@ -1,6 +1,7 @@
 # Class 13 Key to Exercises
 
-1. [DN30.2](https://s.dhamma.gift/dn/dn30/index.html) <br>samaṃ pādaṃ bhūmiyaṃ nikkhipati, samaṃ uddharati, samaṃ sabbāvantehi pādatalehi bhūmiṃ phusati.
+1. [DN30.2](https://s.dhamma.gift/dn/dn30/index.html)
+   samaṃ pādaṃ bhūmiyaṃ nikkhipati, samaṃ uddharati, samaṃ sabbāvantehi pādatalehi bhūmiṃ phusati.
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -28,7 +29,8 @@
 
 **He touches the earth evenly with the entire sole of [his] foot**
 
-2. [MN20](https://s.dhamma.gift/mn/mn20/index.html) <br>kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmi'ti. so saṇikaṃ gaccheyya
+2. [MN20](https://s.dhamma.gift/mn/mn20/index.html)
+   kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmi'ti. so saṇikaṃ gaccheyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -56,7 +58,8 @@
 
 **[So] he would walk slowly.**
 
-3. [SNP23](https://s.dhamma.gift/kn/snp/index.html#snp2.11) <br>bhagavā āyasmantaṃ rāhulaṃ imāhi gāthāhi abhiṇhaṃ ovadatī'ti
+3. [SNP23](https://s.dhamma.gift/kn/snp/index.html#snp2.11)
+   bhagavā āyasmantaṃ rāhulaṃ imāhi gāthāhi abhiṇhaṃ ovadatī'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -73,7 +76,8 @@
 
 **passive verbs:**
 
-4. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176) <br>ime sattā haññantu vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun'ti
+4. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176)
+   ime sattā haññantu vā bajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -94,7 +98,8 @@
 
 **"May these beings be killed, be tied up, be chopped up, be destroyed, may they cease to exist!"**
 
-5. [SN22.79](https://s.dhamma.gift/sn/sn22/index.html#sn22.79) <br>ahaṃ kho eta'r'ahi rūpena khajjāmi. atītam'p'āhaṃ addhānaṃ evam'eva rūpena khajjiṃ
+5. [SN22.79](https://s.dhamma.gift/sn/sn22/index.html#sn22.79)
+   ahaṃ kho eta'r'ahi rūpena khajjāmi. atītam'p'āhaṃ addhānaṃ evam'eva rūpena khajjiṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -118,7 +123,8 @@
 
 **In the past time, I was also eaten by matter in the same way.**
 
-6. [AN4.186](https://s.dhamma.gift/an/an4/index.html#an4.186) <br>kena nu kho, bhante, loko nīyati, kena loko parikassati
+6. [AN4.186](https://s.dhamma.gift/an/an4/index.html#an4.186)
+   kena nu kho, bhante, loko nīyati, kena loko parikassati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -138,7 +144,8 @@
 
 **By what is the world dragged around?**
 
-7. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html) <br>assutavā puthujjano na parimuccati jātiyā … , na parimuccati dukkhasmā'ti vadāmi
+7. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html)
+   assutavā puthujjano na parimuccati jātiyā … , na parimuccati dukkhasmā'ti vadāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -160,7 +167,8 @@
 
 **He is not completely freed from suffering."**
 
-8. [MN20](https://s.dhamma.gift/mn/mn20/index.html) <br>kiṃ nu kho ahaṃ saṇikaṃ gacchāmi?
+8. [MN20](https://s.dhamma.gift/mn/mn20/index.html)
+   kiṃ nu kho ahaṃ saṇikaṃ gacchāmi?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -173,7 +181,8 @@
 
 **Why on earth do I walk slowly?**
 
-9. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3) <br>passaddhakāyassa sukhino cittaṃ samādhiyati
+9. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)
+   passaddhakāyassa sukhino cittaṃ samādhiyati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -184,7 +193,8 @@
 
 **For one [whose] body [is] relaxed [and] who [is] at ease, the mind becomes composed.**
 
-10. [VIN PAT PC 73](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti
+10. [VIN PAT PC 73](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+    ce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -204,14 +214,15 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ko | pron<br>interr | masc.nom.sg | who, what | |
+| ko | pron / interr | masc.nom.sg | who, what | |
 | pana | ind | conj | but, moreover | |
 | vādo | noun | masc.nom.sg | saying; mentioning | √vad･1 a (say, speak) |
 | bhiyyo'ti | ind | adv+end quote | more" | |
 
 **what to say of more [times],"**
 
-11. [MN105](https://s.dhamma.gift/mn/mn105/index.html) <br>taṃ kiṃ maññasi, sunakkhatta, api nu tassa purisassa tasmiṃ vante puna bhottu'kamyatā assā'ti?
+11. [MN105](https://s.dhamma.gift/mn/mn105/index.html)
+    taṃ kiṃ maññasi, sunakkhatta, api nu tassa purisassa tasmiṃ vante puna bhottu'kamyatā assā'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -230,25 +241,27 @@
 
 **"What do you think, Sunakkhatta, after that man has vomited [some delectable food], would he have desire to eat [it] again?"**
 
-12. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>imasmiṃ ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū'ti.
+12. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+    imasmiṃ ca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | imasmiṃ | pron | nt.loc.sg (loc abs) | when this | |
 | ca | ind | conj | and | |
 | pana | ind | ind | so | |
-| veyyākaraṇasmiṃ | noun | nt.loc.sg <br>(loc abs) | when answer; detailed exposition | |
+| veyyākaraṇasmiṃ | noun | nt.loc.sg / (loc abs) | when answer; detailed exposition | |
 | bhaññamāne | prp. pass | nt.loc.sg (loc abs) | when being spoken | √bhaṇ･1 ya (talk, speak) |
 | pañcavaggiyānaṃ | adj | masc.gen.pl | of belonging to a group of five | |
 | bhikkhūnaṃ | noun | masc.gen.pl | of monks | √bhikkh･1 a (beg) |
 | anupādāya | verb | abs | not grasping onto; detaching from | √ādā･3 ya (take, seize) |
 | āsavehi | noun | masc.abl.pl | from taints; effluents | √su･1 a (flow) |
 | cittāni | noun | nt.nom.pl | minds | √cit･8 \*e (think, intend) |
-| vimucciṃsū'ti | verb. pass | aor.3rd.pl<br>+end quote | freed" | √muc･2 ya (release, free) |
+| vimucciṃsū'ti | verb. pass | aor.3rd.pl / +end quote | freed" | √muc･2 ya (release, free) |
 
 **"And so, while this detailed exposition was being spoken, the minds of the group of five monks, by not grasping, were freed from taints."**
 
-13. [MN75](https://s.dhamma.gift/mn/mn75/index.html) <br>aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante.
+13. [MN75](https://s.dhamma.gift/mn/mn75/index.html)
+    aññe satte passāmi kāmesu avītarāge kāmataṇhāhi khajjamāne kāmapariḷāhena pariḍayhamāne kāme paṭisevante.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -266,7 +279,8 @@
 
 **I see other living beings not free from desire in regard to sensual pleasures, being devoured by cravings for sensual pleasures, being tormented by a burning passion for sensual objects, indulging in sensual pleasures.**
 
-14. [MN10.18](https://s.dhamma.gift/mn/mn10/index.html) <br>yaṃ loke piyarūpaṃ sātarūpaṃ, ettha esā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
+14. [MN10.18](https://s.dhamma.gift/mn/mn10/index.html)
+    yaṃ loke piyarūpaṃ sātarūpaṃ, ettha esā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -277,7 +291,7 @@
 | ettha | ind | adv | here; in this place | |
 | esā | pron | fem.nom.sg | this | |
 | taṇhā | noun | fem.nom.sg | craving | √tas･6 ṇhā (thirst) |
-| pahīyamānā | prp.<br>pass | fem.nom.sg | being abandoned | √hā･1 īya (abandon) |
+| pahīyamānā | prp. / pass | fem.nom.sg | being abandoned | √hā･1 īya (abandon) |
 | pahīyati | verb. pass | pr.3rd.sg | is abandoned | √hā･1 īya (abandon) |
 | ettha | ind | adv | here; in this place | |
 | nirujjhamānā | prp. pass | fem.nom.sg | ceasing | √rudh･2 ya (obstruct) |
@@ -285,7 +299,8 @@
 
 **for what [is] pleasant and enticing in the world this craving here is being abandoned, is abandoned, here it is ceasing, is ceased.**
 
-15. [MN22](https://s.dhamma.gift/mn/mn22/index.html) <br>evam'pi kho bhikkhu tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno taṃ eva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati
+15. [MN22](https://s.dhamma.gift/mn/mn22/index.html)
+    evam'pi kho bhikkhu tehi bhikkhūhi samanuyuñjiyamāno samanugāhiyamāno samanubhāsiyamāno taṃ eva pāpakaṃ diṭṭhigataṃ thāmasā parāmāsā abhinivissa voharati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -308,7 +323,8 @@
 
 **Similarly, a monk being cross-questioned, interrogated, admonished by those monks, speaks adhering to that very wrong view, obstinately and with attachment.**
 
-16. [AN3.28](https://s.dhamma.gift/an/an3/index.html#an3.28) <br>tayo ime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? gūthabhāṇī, pupphabhāṇī, madhubhāṇī.
+16. [AN3.28](https://s.dhamma.gift/an/an3/index.html#an3.28)
+    tayo ime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? gūthabhāṇī, pupphabhāṇī, madhubhāṇī.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -332,7 +348,8 @@
 
 **Which three? [Those] who lie, [those] who speak the truth, [and] [those] who talk sweetly.**
 
-17. [VIN PAT SA 13](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) <br>tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
+17. [VIN PAT SA 13](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
+    tassa kho pāpakā samācārā dissanti c'eva suyyanti ca kulāni ca tena duṭṭhāni dissanti c'eva suyyanti ca
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -356,7 +373,9 @@
 
 ## Class 13 Extra
 
-1. [SNP37](https://s.dhamma.gift/kn/snp/index.html#snp3.11) <br>na munī gāmam'āgamma,<br>kulesu sahasā care
+1. [SNP37](https://s.dhamma.gift/kn/snp/index.html#snp3.11)
+   na munī gāmam'āgamma,
+   kulesu sahasā care
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -370,7 +389,8 @@
 
 **A monk, having arrived in the village, should not walk rashly among the households.**
 
-2. APA 3 (simpl) <br>jahanti purimaṃ nāmaṃ, buddhaputtā'ti ñāyanti
+2. APA 3 (simpl)
+   jahanti purimaṃ nāmaṃ, buddhaputtā'ti ñāyanti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -383,7 +403,9 @@
 
 **They give up their former names and are known as "Buddha's sons"**
 
-3. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) <br>mettaṃ ca sabbalokasmiṃ, mānasaṃ bhāvaye aparimāṇaṃ; <br>uddhaṃ adho ca tiriyaṃ ca, asambādhaṃ, averaṃ, asapattaṃ.
+3. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
+   mettaṃ ca sabbalokasmiṃ, mānasaṃ bhāvaye aparimāṇaṃ;
+   uddhaṃ adho ca tiriyaṃ ca, asambādhaṃ, averaṃ, asapattaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -409,7 +431,9 @@
 
 **above, below and across; unobstructed, without enmity, without hostility.**
 
-4. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) (simpl)<br>diṭṭhā vā ye ca adiṭṭhā, ye сa dūre vasanti avidūre, <br>bhūtā vā sambhavaṃ esī vā
+4. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) (simpl)
+   diṭṭhā vā ye ca adiṭṭhā, ye сa dūre vasanti avidūre,
+   bhūtā vā sambhavaṃ esī vā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -436,7 +460,8 @@
 
 **[those] [who] have been born or [those] seeking birth.**
 
-5. [KHP7](https://s.dhamma.gift/kn/kp/index.html#kp7) <br>ayaṃ ca kho dakkhiṇā dinnā, saṅghamhi supatiṭṭhitā. dīgharattaṃ hitāya assa, ṭhānaso upakappati.
+5. [KHP7](https://s.dhamma.gift/kn/kp/index.html#kp7)
+   ayaṃ ca kho dakkhiṇā dinnā, saṅghamhi supatiṭṭhitā. dīgharattaṃ hitāya assa, ṭhānaso upakappati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -455,7 +480,8 @@
 
 **And, indeed, this gift that has been given, [and is] well placed among the community of monks, would be for the benefit for a long time, and [also] is serving immediately.**
 
-6. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) <br>catukkhattuṃ pañcakkhattuṃ chakkhattuṃ paramaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ
+6. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
+   catukkhattuṃ pañcakkhattuṃ chakkhattuṃ paramaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -474,7 +500,9 @@
 
 **[If after] (a monk) standing silently for the sake of [it] four times, five times, six times at the most, (a helper) should come up with that robe cloth, that is good.**
 
-7. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)<br>aññathā lokanāthamhi, tiṭṭhante puris'uttame. <br>iriyā āsi bhikkhūnaṃ, aññathā dāni dissati.
+7. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)
+   aññathā lokanāthamhi, tiṭṭhante puris'uttame.
+   iriyā āsi bhikkhūnaṃ, aññathā dāni dissati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -496,7 +524,8 @@
 
 **conduct of the monks was different; now [it] is seen [to be] otherwise.**
 
-8. [DHP265](https://s.dhamma.gift/kn/dhp/index.html#dhp256) <br>yo ca sameti pāpāni, aṇuṃ thūlāni sabbaso, samitattā hi pāpānaṃ, samaṇo'ti pavuccati.
+8. [DHP265](https://s.dhamma.gift/kn/dhp/index.html#dhp256)
+   yo ca sameti pāpāni, aṇuṃ thūlāni sabbaso, samitattā hi pāpānaṃ, samaṇo'ti pavuccati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -515,7 +544,9 @@
 
 **He [is one] who makes subside evil deeds, [both] miniscule and large; because of the subsiding completely of evil deeds, he is indeed called "an ascetic."**
 
-9. [SNP22](https://s.dhamma.gift/kn/snp/index.html#snp2.10) <br>uṭṭhahatha nisīdatha, ko attho supitena vo, <br>āturānaṃ hi kā niddā, sallaviddhānaṃ ruppataṃ.
+9. [SNP22](https://s.dhamma.gift/kn/snp/index.html#snp2.10)
+   uṭṭhahatha nisīdatha, ko attho supitena vo,
+   āturānaṃ hi kā niddā, sallaviddhānaṃ ruppataṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -534,7 +565,8 @@
 
 **Arouse yourselves, sit up! What benefit [is there] for you by sleeping; What indeed is sleep for the afflicted, when they are being hurt, pierced by an arrow.**
 
-10. [AN9.11](https://s.dhamma.gift/an/an9/index.html#an9.11) <br>taggha taṃ, bhikkhu, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yo tvaṃ sāriputtaṃ asatā tucchā musā abhūtena abbhācikkhi
+10. [AN9.11](https://s.dhamma.gift/an/an9/index.html#an9.11)
+    taggha taṃ, bhikkhu, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yo tvaṃ sāriputtaṃ asatā tucchā musā abhūtena abbhācikkhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -556,7 +588,9 @@
 
 **O monk, truly you are at fault, you who so foolishly, so misguidedly, so unskilfully, unjustly, baselessly, untruthfully and falsely slandered Sāriputta.**
 
-11. [DHP201](https://s.dhamma.gift/kn/dhp/index.html#dhp197) <br>jayaṃ veraṃ pasavati, dukkhaṃ seti parājito, <br>upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
+11. [DHP201](https://s.dhamma.gift/kn/dhp/index.html#dhp197)
+    jayaṃ veraṃ pasavati, dukkhaṃ seti parājito,
+    upasanto sukhaṃ seti, hitvā jayaparājayaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -579,7 +613,8 @@
 
 **The one who is at peace sleeps comfortably, having left behind victory and defeat.**
 
-12. [UD10](https://s.dhamma.gift/kn/ud/index.html#ud1.10) <br>tato tvaṃ, bāhiya, na tena; yato tvaṃ, bāhiya, na tena tato tvaṃ, bāhiya, na tattha; yato tvaṃ, bāhiya, na tattha, tato tvaṃ, bāhiya, n'eva idha na huraṃ na ubhayam'antarena. es'ev'anto dukkhassā"ti.
+12. [UD10](https://s.dhamma.gift/kn/ud/index.html#ud1.10)
+    tato tvaṃ, bāhiya, na tena; yato tvaṃ, bāhiya, na tena tato tvaṃ, bāhiya, na tattha; yato tvaṃ, bāhiya, na tattha, tato tvaṃ, bāhiya, n'eva idha na huraṃ na ubhayam'antarena. es'ev'anto dukkhassā"ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

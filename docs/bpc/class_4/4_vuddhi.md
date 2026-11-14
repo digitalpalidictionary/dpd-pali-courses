@@ -83,10 +83,10 @@ These changes are very common in all areas of Pāḷi grammar and **worth learni
 
 | | | |
 | --- | --- | --- |
-| avuddhika <br>(weak) | guṇa <br>(strong) | vuddhi <br>(long) |
+| avuddhika / (weak) | guṇa / (strong) | vuddhi / (long) |
 | | **a** | **ā** |
-| **i** | **e / ay** | **āy** |
-| **ī** | **e / ay** | **āy** |
-| **u** | **o / av** | **āv** |
-| **ū** | **o / av** | **āv** |
+| **i** | **e/ay** | **āy** |
+| **ī** | **e/ay** | **āy** |
+| **u** | **o/av** | **āv** |
+| **ū** | **o/av** | **āv** |
 | **( ṛ )** | **ar** | **ār** |

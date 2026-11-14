@@ -34,7 +34,7 @@ depending on the context
 
 Potential Participles are easy to recognise. The most common endings are *-***tabba** *-***itabba** & *-***anīya -aṇīya -aniya**
 
-| | | | **should be / fit to be** |
+| | | | **should be/fit to be** |
 | --- | --- | --- | --- |
 | √kar | to do, make | kar**aṇīya** | done |
 | √vac | to say | vac**anīya** | said |
@@ -55,7 +55,7 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 
 ### 1. √root + -tabba or -itabba
 
-| | | | | **should be / fit to be** |
+| | | | | **should be/fit to be** |
 | --- | --- | --- | --- | --- |
 | abhi √nand | to approve | + itabba | abhinanditabba | approved |
 | abhi √vad | to welcome | + itabba | abhivaditabba | welcomed |
@@ -69,7 +69,7 @@ The most common formation is equivalent to Sanskrit *-***tavya**
 
 ### 2. √root + -anīya
 
-| | | | | **should be / fit to be** |
+| | | | | **should be/fit to be** |
 | --- | --- | --- | --- | --- |
 | √bandh | to tie | + anīya | bandhanīya | bound, tied |
 | √chaḍḍ | to discard | + anīya | chaḍḍanīya | discarded |
@@ -85,7 +85,7 @@ Because of sandhi, these examples are tricky to spot unless you know them.
 
 They can be used as nt. nouns.
 
-| | | | | **should be / fit to be** |
+| | | | | **should be/fit to be** |
 | --- | --- | --- | --- | --- |
 | √bhuj | to eat | + \*ya | bhojja | eaten (food) |
 | √has | to laugh | + ya | hassa | laughed at (joke) |
@@ -99,27 +99,27 @@ They can be used as nt. nouns.
 
 | | Masculine | | Feminine | | Neuter | |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1.nom | pac**itabbo** | pac**itabbā** | pac**itabbā** | pac**itabbā**<br>pac**itabbāyo** | pac**itabbaṃ** | pac**itabbā**<br>pac**itabbāni** |
-| 2.acc | pac**itabbaṃ** | pac**itabbe** | pac**itabbaṃ** | pac**itabbā**<br>pac**itabbāyo** | pac**itabbaṃ** | pac**itabbe**<br>pac**itabbāni** |
+| 1.nom | pac**itabbo** | pac**itabbā** | pac**itabbā** | pac**itabbā** / pac**itabbāyo** | pac**itabbaṃ** | pac**itabbā** / pac**itabbāni** |
+| 2.acc | pac**itabbaṃ** | pac**itabbe** | pac**itabbaṃ** | pac**itabbā** / pac**itabbāyo** | pac**itabbaṃ** | pac**itabbe** / pac**itabbāni** |
 | 3.inst | pac**itabbena** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbena** | pac**itabbehi** |
-| 4.dat | pac**itabbāya**<br>pac**itabbassa** | pac**itabbānaṃ** <br> | pac**itabbāya** | pac**itabbānaṃ** | pac**itabbāya**<br>pac**itabbassa** | pac**itabbānaṃ** |
-| 5.abl | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbā**<br>pac**itabbamhā**<br>pac**itabbasmā**<br>pac**itabbato** | pac**itabbehi** |
+| 4.dat | pac**itabbāya** / pac**itabbassa** | pac**itabbānaṃ** / | pac**itabbāya** | pac**itabbānaṃ** | pac**itabbāya** / pac**itabbassa** | pac**itabbānaṃ** |
+| 5.abl | pac**itabbā** / pac**itabbamhā** / pac**itabbasmā** / pac**itabbato** | pac**itabbehi** | pac**itabbāya** | pac**itabbāhi** | pac**itabbā** / pac**itabbamhā** / pac**itabbasmā** / pac**itabbato** | pac**itabbehi** |
 | 6.gen | pac**itabbassa** | pac**itabbānaṃ** | pac**itabbāya** | pac**itabbānaṃ** | pac**itabbassa** | pac**itabbānaṃ** |
-| 7.loc | pac**itabbe**<br>pac**itabbamhi**<br>pac**itabbasmiṃ** | pac**itabbesu** | pac**itabbāyaṃ**<br>pac**itabbāya** | pac**itabbāsu** | pac**itabbe**<br>pac**itabbamhi**<br>pac**itabbasmiṃ** | pac**itabbesu** |
-| 8.voc | pac**itabba**<br>pac**itabbā** | pac**itabbā** <br> | pac**itabbe** | pac**itabbā**<br>pac**itabbāyo** | pac**itabba**<br>pac**itabbā** | pac**itabbāni**<br> |
+| 7.loc | pac**itabbe** / pac**itabbamhi** / pac**itabbasmiṃ** | pac**itabbesu** | pac**itabbāyaṃ** / pac**itabbāya** | pac**itabbāsu** | pac**itabbe** / pac**itabbamhi** / pac**itabbasmiṃ** | pac**itabbesu** |
+| 8.voc | pac**itabba** / pac**itabbā** | pac**itabbā** / | pac**itabbe** | pac**itabbā** / pac**itabbāyo** | pac**itabba** / pac**itabbā** | pac**itabbāni** / |
 
 What do you notice?
 
 | | Masculine | | Feminine | | Neuter | |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1.nom | pac**anīyo** | pac**anīyā** | pac**anīyā** | pac**anīyā**<br>pac**anīyāyo** | pac**anīyaṃ** | pac**anīyā**<br>pac**anīyāni** |
-| 2.acc | pac**anīyaṃ** | pac**anīye** | pac**anīyaṃ** | pac**anīyā**<br>pac**anīyāyo** | pac**anīyaṃ** | pac**anīye**<br>pac**anīyāni** |
+| 1.nom | pac**anīyo** | pac**anīyā** | pac**anīyā** | pac**anīyā** / pac**anīyāyo** | pac**anīyaṃ** | pac**anīyā** / pac**anīyāni** |
+| 2.acc | pac**anīyaṃ** | pac**anīye** | pac**anīyaṃ** | pac**anīyā** / pac**anīyāyo** | pac**anīyaṃ** | pac**anīye** / pac**anīyāni** |
 | 3.inst | pac**anīyena** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyena** | pac**anīyehi** |
-| 4.dat | pac**anīyāya**<br>pac**anīyassa** | pac**anīyānaṃ** | pac**anīyāya** | pac**anīyānaṃ** | pac**anīyāya**<br>pac**anīyassa** | pac**anīyānaṃ** |
-| 5.abl | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā**<br>pac**anīyato** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyā**<br>pac**anīyamhā**<br>pac**anīyasmā**<br>pac**anīyato** | pac**anīyehi** |
+| 4.dat | pac**anīyāya** / pac**anīyassa** | pac**anīyānaṃ** | pac**anīyāya** | pac**anīyānaṃ** | pac**anīyāya** / pac**anīyassa** | pac**anīyānaṃ** |
+| 5.abl | pac**anīyā** / pac**anīyamhā** / pac**anīyasmā** / pac**anīyato** | pac**anīyehi** | pac**anīyāya** | pac**anīyāhi** | pac**anīyā** / pac**anīyamhā** / pac**anīyasmā** / pac**anīyato** | pac**anīyehi** |
 | 6.gen | pac**anīyassa** | pac**anīyānaṃ** | pac**anīyāya** | pac**anīyānaṃ** | pac**anīyassa** | pac**anīyānaṃ** |
-| 7.loc | pac**anīye**<br>pac**anīyamhi**<br>pac**anīyasmiṃ** | pac**anīyesu** | pac**anīyāyaṃ**<br>pac**anīyāya** | pac**anīyāsu** | pac**anīye**<br>pac**anīyamhi**<br>pac**anīyasmiṃ** | pac**anīyesu** |
-| 8.voc | pac**anīya**<br>pac**anīyā** | pac**anīyā** | pac**anīye** | pac**anīyā**<br>pac**anīyāyo** | pac**anīya**<br>pac**anīyā** | pac**anīyāni** |
+| 7.loc | pac**anīye** / pac**anīyamhi** / pac**anīyasmiṃ** | pac**anīyesu** | pac**anīyāyaṃ** / pac**anīyāya** | pac**anīyāsu** | pac**anīye** / pac**anīyamhi** / pac**anīyasmiṃ** | pac**anīyesu** |
+| 8.voc | pac**anīya** / pac**anīyā** | pac**anīyā** | pac**anīye** | pac**anīyā** / pac**anīyāyo** | pac**anīya** / pac**anīyā** | pac**anīyāni** |
 
 These are extensively used in the Canon, so please make sure you understand them clearly. A quick search of Sutta and Vinaya reveals more than **1000** examples, some of which are used around **1000** times![^27]
 

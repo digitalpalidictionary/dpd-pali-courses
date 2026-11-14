@@ -216,7 +216,11 @@ config = {
         "md_in_html",
         "nl2br",
     ],
-    "hooks": ["tools/footnote_hook.py", "tools/nav_hook.py"],
+    "hooks": [
+        "tools/markup_hook.py",
+        "tools/footnote_hook.py",
+        "tools/nav_hook.py",
+    ],
     "nav": [
         {"Home": "index.md"},
         {"About": "about.md"},

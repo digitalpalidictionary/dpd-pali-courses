@@ -13,6 +13,7 @@ import subprocess
 import sys
 from pathlib import Path
 from bs4 import BeautifulSoup
+from tools.clean_markup import mark_attributions, stack_table_cells
 from tools.printer import printer as pr
 
 # Ensure Homebrew libraries are found on macOS
@@ -78,8 +79,15 @@ def fix_list_numbering(html_content):
     return str(soup)
 
 
-def pre_process_content(text):
-    """Protects source footnote and list markers from renumbering."""
+def pre_process_content(text, stack_cells=True):
+    """Protects source footnote and list markers from renumbering.
+
+    stack_cells=False is for docs/generated/, where a spaced slash is plain text.
+    """
+
+    if stack_cells:
+        text = stack_table_cells(text, "<br>")
+    text = mark_attributions(text)
 
     # Collapse 3+ blank lines FIRST, before repl_def/repl_list inject extra newlines.
     # This prevents their injected newlines from triggering spurious <br> insertion.
@@ -603,7 +611,7 @@ def generate_reference_pdfs(
                     content = f.read()
                 c = deduplicate_vocab_table(content, seen_words)
                 c = clean_markdown_content(c)
-                c = pre_process_content(c)
+                c = pre_process_content(c, stack_cells=False)
                 md.reset()
                 html_fragment = md.convert(c)
                 page_break = (
@@ -634,7 +642,7 @@ def generate_reference_pdfs(
             with open(abbrev_file, "r", encoding="utf-8") as f:
                 content = f.read()
             c = clean_markdown_content(content)
-            c = pre_process_content(c)
+            c = pre_process_content(c, stack_cells=False)
             md.reset()
             html_fragment = md.convert(c)
             full_html = f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>Abbreviations</title></head><body>{post_process_html(html_fragment)}</body></html>"

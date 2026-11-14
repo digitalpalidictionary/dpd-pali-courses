@@ -90,37 +90,37 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 | 1.nom | gat**o** | gat**ā** |
 | 2.acc | gat**aṃ** | gat**e** |
 | 3.inst | gat**ena** | gat**ehi** |
-| 4.dat | gat**āya**<br>gat**assa** | gat**ānaṃ** |
-| 5.abl | gat**ā**<br>gat**amhā**<br>gat**asmā** | gat**ehi** |
+| 4.dat | gat**āya** / gat**assa** | gat**ānaṃ** |
+| 5.abl | gat**ā** / gat**amhā** / gat**asmā** | gat**ehi** |
 | 6.gen | gat**assa** | gat**ānaṃ** |
-| 7.loc | gat**e**<br>gat**amhi**<br>gat**asmiṃ** | gat**esu** |
-| 8.voc | gat**a**<br>gat**ā** | gat**ā** |
+| 7.loc | gat**e** / gat**amhi** / gat**asmiṃ** | gat**esu** |
+| 8.voc | gat**a** / gat**ā** | gat**ā** |
 
 **Feminine ending in -ā**
 
 | | | |
 | --- | --- | --- |
-| 1.nom | gat**ā** | gat**ā**<br>gat**āyo** |
-| 2.acc | gat**aṃ** | gat**ā**<br>gat**āyo** |
+| 1.nom | gat**ā** | gat**ā** / gat**āyo** |
+| 2.acc | gat**aṃ** | gat**ā** / gat**āyo** |
 | 3.inst | gat**āya** | gat**āhi** |
 | 4.dat | gat**āya** | gat**ānaṃ** |
 | 5.abl | gat**āya** | gat**āhi** |
 | 6.gen | gat**āya** | gat**ānaṃ** |
-| 7.loc | gat**āya**<br>gat**āyaṃ** | gat**āsu** |
-| 8.voc | gat**e** | gat**ā**<br>gat**āyo** |
+| 7.loc | gat**āya** / gat**āyaṃ** | gat**āsu** |
+| 8.voc | gat**e** | gat**ā** / gat**āyo** |
 
 **Neuter ending in -aṃ**
 
 | | | |
 | --- | --- | --- |
-| 1.nom | gat**aṃ** | gat**ā**<br>gat**āni** |
-| 2.acc | gat**aṃ** | gat**e**<br>gat**āni** |
+| 1.nom | gat**aṃ** | gat**ā** / gat**āni** |
+| 2.acc | gat**aṃ** | gat**e** / gat**āni** |
 | 3.inst | gat**ena** | gat**ehi** |
-| 4.dat | gat**āya**<br>gat**assa** | gat**ānaṃ** |
-| 5.abl | gat**ā**<br>gat**amhā**<br>gat**asmā** | gat**ehi** |
+| 4.dat | gat**āya** / gat**assa** | gat**ānaṃ** |
+| 5.abl | gat**ā** / gat**amhā** / gat**asmā** | gat**ehi** |
 | 6.gen | gat**assa** | gat**ānaṃ** |
-| 7.loc | gat**e**<br>gat**amhi**<br>gat**asmiṃ** | gat**esu** |
-| 8.voc | gat**a**<br>gat**ā** | gat**āni** |
+| 7.loc | gat**e** / gat**amhi** / gat**asmiṃ** | gat**esu** |
+| 8.voc | gat**a** / gat**ā** | gat**āni** |
 
 ## How to use Past Participles
 

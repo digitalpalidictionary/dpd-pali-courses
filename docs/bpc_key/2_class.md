@@ -1,6 +1,7 @@
 # Class 2 Key to Exercises
 
-1. [SN10.8](https://s.dhamma.gift/sn/sn10/index.html#sn10.8)<br>buddho kira loke uppanno
+1. [SN10.8](https://s.dhamma.gift/sn/sn10/index.html#sn10.8)
+   buddho kira loke uppanno
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -11,7 +12,8 @@
 
 **A Buddha has indeed arisen in the world.**
 
-2. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)<br>araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca
+2. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1) (simpl)
+   araññ**e** rukkh**ānaṃ** mūl**esu**, kandarā**su** guhā**su** ca
 
 | | | | |
 | --- | --- | --- | --- |
@@ -24,7 +26,8 @@
 
 **At the foot of a tree in a forest, in valleys, and in caves.**
 
-3. [DN22.1](https://s.dhamma.gift/dn/dn22/index.html) (simpl)<br>maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
+3. [DN22.1](https://s.dhamma.gift/dn/dn22/index.html) (simpl)
+   maggo hoti sokaparidevānaṃ samatikkamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -39,7 +42,9 @@
 
 **It is the path for the overcoming of sorrow and lamentation, for the attainment of the (right) method, for personal experience of total emancipation.**
 
-4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)<br>uttarimanussadhammo alam'ariyañāṇadassanaviseso<br>uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
+4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)
+   uttarimanussadhammo alam'ariyañāṇadassanaviseso
+   uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -52,7 +57,8 @@
 
 **the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**
 
-5. [VIN PAT SE 55](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl)<br>na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
+5. [VIN PAT SE 55](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl)
+   na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -65,7 +71,8 @@
 
 **I will not take a water cup with a soiled hand.**
 
-6. VIN PAT NID nidānuddeso<br>saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya
+6. VIN PAT NID nidānuddeso
+   saṅgh**o** uposath**aṃ** kareyya, pātimokkh**aṃ** uddiseyya
 
 | | | | |
 | --- | --- | --- | --- |
@@ -77,7 +84,8 @@
 
 **The community of monks should perform the observance day [and] should recite the training rules.**
 
-7. [SN55.7](https://s.dhamma.gift/sn/sn55/index.html#sn55.7)<br>itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
+7. [SN55.7](https://s.dhamma.gift/sn/sn55/index.html#sn55.7)
+   itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā'ti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -103,8 +111,8 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| kāyassa | noun | masc.gen.sg<br>masc.dat.sg | of the body<br>to/for the body |
-| bhedā | noun | masc.abl.sg<br>masc.nom.pl | from the break-up<br>break-ups |
+| kāyassa | noun | masc.gen.sg / masc.dat.sg | of the body / to/for the body |
+| bhedā | noun | masc.abl.sg / masc.nom.pl | from the break-up / break-ups |
 
 **From the break-up of the body**
 
@@ -130,16 +138,17 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| bālassa | noun | masc.gen.sg<br>masc.dat.sg | of the fool<br>to/for the fool |
+| bālassa | noun | masc.gen.sg / masc.dat.sg | of the fool / to/for the fool |
 | mohāya | noun | masc.dat.sg | for delusion |
 
 **for the delusion of the fool**
 
-12. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)<br>kāmehi lokamhi
+12. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)
+    kāmehi lokamhi
 
 | | | | |
 | --- | --- | --- | --- |
-| kāmehi | noun | masc.instr.pl<br>masc.abl.pl | with/by sensual pleasures<br>from sensual pleasures |
+| kāmehi | noun | masc.instr.pl / masc.abl.pl | with/by sensual pleasures / from sensual pleasures |
 | lokamhi | noun | masc.loc.sg | in the world |
 
 **[there is no satisfaction] by sensual pleasures in the world**
@@ -148,8 +157,8 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| devā | noun | masc.abl.sg<br>masc.nom.pl | from the deity<br>deities |
-| manussā | noun | masc.abl.sg<br>masc.nom.pl | from the human<br>humans |
+| devā | noun | masc.abl.sg / masc.nom.pl | from the deity / deities |
+| manussā | noun | masc.abl.sg / masc.nom.pl | from the human / humans |
 
 **gods and humans**
 
@@ -163,20 +172,22 @@
 
 **The relinquishing, the abandonment, the non-attachment**
 
-15. [MN107](https://s.dhamma.gift/mn/mn107/index.html)<br>pāde pādaṃ
+15. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
+    pāde pādaṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| pāde | noun | masc.loc.sg<br>masc.acc.pl | at/on the foot<br>the feet |
+| pāde | noun | masc.loc.sg / masc.acc.pl | at/on the foot / the feet |
 | pādaṃ | noun | masc.acc.sg | the foot (object) |
 
 **[he places] a foot on a foot**
 
-16. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)<br>dhammānaṃ uppādāya chandaṃ
+16. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)
+    dhammānaṃ uppādāya chandaṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| dhammānaṃ | noun | masc.gen.pl<br>masc.dat.pl | of states of mind<br>for/to states of mind |
+| dhammānaṃ | noun | masc.gen.pl / masc.dat.pl | of states of mind / for/to states of mind |
 | uppādāya | noun | masc.dat.sg | for the arising |
 | chandaṃ | noun | masc.acc.sg | desire (object) |
 
@@ -186,7 +197,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| khandhānaṃ | noun | masc.gen.pl<br>masc.dat.pl | of the aggregates<br>for/to the aggregates |
+| khandhānaṃ | noun | masc.gen.pl / masc.dat.pl | of the aggregates / for/to the aggregates |
 | bhedo | noun | masc.nom.sg | the break-up |
 
 **the break-up of the aggregates**
@@ -195,8 +206,8 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| dhammā | noun | masc.abl.sg<br>masc.nom.pl | from the quality<br>the qualities |
-| sekhassa | noun | masc.gen.sg<br>masc.dat.sg | of the trainee<br>for/to the trainee |
+| dhammā | noun | masc.abl.sg / masc.nom.pl | from the quality / the qualities |
+| sekhassa | noun | masc.gen.sg / masc.dat.sg | of the trainee / for/to the trainee |
 
 **qualities of a trainee**
 
@@ -212,15 +223,16 @@
 
 **with either a recluse or a brahmin or a deity or Mara**
 
-20. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)<br>sokehi paridevehi dukkhehi domanassehi upāyāsehi
+20. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)
+    sokehi paridevehi dukkhehi domanassehi upāyāsehi
 
 | | | | |
 | --- | --- | --- | --- |
-| sokehi | noun | masc.instr.pl<br>masc.abl.pl | with griefs<br>from griefs |
-| paridevehi | noun | masc.instr.pl<br>masc.abl.pl | with lamentations<br>from lamentations |
-| dukkhehi | noun | masc.instr.pl<br>masc.abl.pl | with sufferings, pains<br>from sufferings, pains |
-| domanassehi | noun | masc.instr.pl<br>masc.abl.pl | with distresses<br>from distresses |
-| upāyāsehi | noun | masc.instr.pl<br>masc.abl.pl | with afflictions<br>from afflictions |
+| sokehi | noun | masc.instr.pl / masc.abl.pl | with griefs / from griefs |
+| paridevehi | noun | masc.instr.pl / masc.abl.pl | with lamentations / from lamentations |
+| dukkhehi | noun | masc.instr.pl / masc.abl.pl | with sufferings, pains / from sufferings, pains |
+| domanassehi | noun | masc.instr.pl / masc.abl.pl | with distresses / from distresses |
+| upāyāsehi | noun | masc.instr.pl / masc.abl.pl | with afflictions / from afflictions |
 
 **[burning] with griefs, lamentations, pains, distresses, afflictions**
 
@@ -233,7 +245,8 @@
 
 **The Doctrine, the Discipline**
 
-22. [SN12.41](https://s.dhamma.gift/sn/sn12/index.html#sn12.41)<br>vinipātaṃ nirayaṃ
+22. [SN12.41](https://s.dhamma.gift/sn/sn12/index.html#sn12.41)
+    vinipātaṃ nirayaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -242,7 +255,8 @@
 
 **[is reborn in] a state of suffering, hell.**
 
-23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)<br>aparena samayena buddho
+23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+    aparena samayena buddho
 
 | | | | |
 | --- | --- | --- | --- |
@@ -256,25 +270,27 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| gabbhe | noun | masc.loc.sg<br>masc.acc.pl | in the room<br>rooms (object) |
-| cīvaraṃ | noun | nt.nom.sg<br>nt.acc.sg | the robe<br>the robe (object) |
+| gabbhe | noun | masc.loc.sg / masc.acc.pl | in the room / rooms (object) |
+| cīvaraṃ | noun | nt.nom.sg / nt.acc.sg | the robe / the robe (object) |
 
 **the robe in the room**
 
-25. [VIN1.1.4](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj4)<br>āvāse vassaṃ
+25. [VIN1.1.4](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj4)
+    āvāse vassaṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| āvāse | noun | masc.loc.sg<br>masc.acc.pl | in/at the dwelling place<br>dwelling places (object) |
+| āvāse | noun | masc.loc.sg / masc.acc.pl | in/at the dwelling place / dwelling places (object) |
 | vassaṃ | noun | masc.acc.sg | rainy season (object) |
 
 **[he entered] the rainy season at the dwelling place.**
 
-26. [MN99](https://s.dhamma.gift/mn/mn99/index.html)<br>nīvaraṇehi brāhmaṇo
+26. [MN99](https://s.dhamma.gift/mn/mn99/index.html)
+    nīvaraṇehi brāhmaṇo
 
 | | | | |
 | --- | --- | --- | --- |
-| nīvaraṇehi | noun | masc.instr.pl<br>masc.abl.pl | with the hindrances<br>from the hindrances |
+| nīvaraṇehi | noun | masc.instr.pl / masc.abl.pl | with the hindrances / from the hindrances |
 | brāhmaṇo | noun | masc.nom.sg | the brahmin |
 
 **The brahmin [is filled] with the [five] hindrances**
@@ -283,27 +299,30 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| kāme | noun | masc.loc.sg<br>masc.acc.pl | in sensual pleasure<br>sensual pleasures (object) |
+| kāme | noun | masc.loc.sg / masc.acc.pl | in sensual pleasure / sensual pleasures (object) |
 | brāhmaṇa | noun | masc.voc.sg | O, brahmin! |
 
 **O, brahmin! … sensual pleasures**
 
-28. [DHP331](https://s.dhamma.gift/kn/dhp/index.html#dhp320)<br>atthamhi sahāyā
+28. [DHP331](https://s.dhamma.gift/kn/dhp/index.html#dhp320)
+    atthamhi sahāyā
 
 | | | | |
 | --- | --- | --- | --- |
 | atthamhi | noun | masc.loc.sg | in the need; (when the need) |
-| sahāyā | noun | masc.abl.sg<br>masc.nom.pl | from the friend/companion<br>friends/companions |
+| sahāyā | noun | masc.abl.sg / masc.nom.pl | from the friend/companion / friends/companions |
 
-**[Good are] friends in [arisen] need <br>[Good are] friends when need [arises]**
+**[Good are] friends in [arisen] need**
+**[Good are] friends when need [arises]**
 
-29. [MN35](https://s.dhamma.gift/mn/mn35/index.html)<br>gotamo sāvake … gotamassa sāvakesu
+29. [MN35](https://s.dhamma.gift/mn/mn35/index.html)
+    gotamo sāvake … gotamassa sāvakesu
 
 | | | | |
 | --- | --- | --- | --- |
 | gotamo | noun | masc.nom.sg | Gotama |
-| sāvake | noun | masc.loc.sg<br>masc.acc.pl | at the disciple<br>the disciples (object) |
-| gotamassa | noun | masc.gen.sg<br>masc.dat.sg | of Gotama<br>for/to Gotama |
+| sāvake | noun | masc.loc.sg / masc.acc.pl | at the disciple / the disciples (object) |
+| gotamassa | noun | masc.gen.sg / masc.dat.sg | of Gotama / for/to Gotama |
 | sāvakesu | noun | masc.loc.pl | among the disciples |
 
 **Gotama [trains] disciples … among the disciples of the Gotama.**
@@ -312,14 +331,15 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| kassapassa | proper noun | masc.gen.sg<br>masc.dat.sg | of the Kassapa<br>for/to the Kassapa |
+| kassapassa | proper noun | masc.gen.sg / masc.dat.sg | of the Kassapa / for/to the Kassapa |
 | vinayasmiṃ | noun | masc.loc.sg | at/in the discipline |
 
 **in the discipline of the Kassapa**
 
 ## Class 2 Extra
 
-1. [SN12.1](https://s.dhamma.gift/sn/sn12/index.html#sn12.1)<br>avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
+1. [SN12.1](https://s.dhamma.gift/sn/sn12/index.html#sn12.1)
+   avijjāya tv'eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāmarūpa-nirodho, nāmarūpa-nirodhā saḷāyatana-nirodho, saḷāyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass'upāyāsā nirujjhanti.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -350,25 +370,28 @@
 
 **But from the complete fading away and cessation of ignorance there is cessation of volitional formations; from the cessation of volitional formations, cessation of consciousness; from the cessation of consciousness, cessation of name-and-form; from the cessation of name-and-form, cessation of the six sense bases; from the cessation of the six sense bases, cessation of contact; from the cessation of contact, cessation of feeling; from the cessation of feeling, cessation of craving; from the cessation of craving, cessation of clinging; from the cessation of clinging, cessation of becoming; from the cessation of becoming, cessation of birth; from the cessation of birth, aging-and-death, sorrow, lamentation, pain, displeasure, and despair cease.**
 
-2. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)<br>dhammā virāgāya
+2. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)
+   dhammā virāgāya
 
 | | | | |
 | --- | --- | --- | --- |
-| dhammā | noun | masc.abl.sg<br>masc.nom.pl | from a quality, thing<br>qualities, things |
+| dhammā | noun | masc.abl.sg / masc.nom.pl | from a quality, thing / qualities, things |
 | virāgāya | noun | masc.dat.sg | for dispassion |
 
 **[these] things/qualities [lead] to dispassion**
 
-3. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>saṅkhārā ābādhāya
+3. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+   saṅkhārā ābādhāya
 
 | | | | |
 | --- | --- | --- | --- |
-| saṅkhārā | noun | masc.abl.sg<br>masc.nom.pl | from the volitional formation<br>volitional formations |
+| saṅkhārā | noun | masc.abl.sg / masc.nom.pl | from the volitional formation / volitional formations |
 | ābādhāya | noun | masc.dat.sg | to sufferings |
 
 **Volitional formations [are conducive] to suffering**
 
-4. [AN8.19](https://s.dhamma.gift/an/an8/index.html#an8.19)<br>saṅghamhā saṅgho
+4. [AN8.19](https://s.dhamma.gift/an/an8/index.html#an8.19)
+   saṅghamhā saṅgho
 
 | | | | |
 | --- | --- | --- | --- |

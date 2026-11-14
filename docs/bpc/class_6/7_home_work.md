@@ -14,5 +14,5 @@
 
 | | |
 | --- | --- |
-| A.K. Warder Introduction to Pāḷi | p209-212 (nouns ending in u / ar) |
+| A.K. Warder Introduction to Pāḷi | p209-212 (nouns ending in u/ar) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

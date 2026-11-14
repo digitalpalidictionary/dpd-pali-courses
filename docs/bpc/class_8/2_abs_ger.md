@@ -97,14 +97,14 @@ Mostly group 8 verbs and causative verbs.
 | --- | --- | --- | --- | --- |
 | √bhuj | bhuñja | bhuñja + itvā | bhuñjitvā | having eaten |
 | √chid | chinda | chinda + itvā | chinditvā | having cut off |
-| √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā<br>(=gahetvā) | having grabbed |
+| √gah | gaṇhā | gaṇhā + itvā | gaṇhitvā / (=gahetvā) | having grabbed |
 | √lu | lāya | lāya + itvā | lāyitvā | having reaped |
 | √sad | sīda | ni + sīda + itvā | nisīditvā | having sat down |
 | √dis | passa | passa + itvā | passitvā | having seen |
 
 ### 5. -ya added to the root
 
-Sandhi very often takes place; please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from Class 4.
+Sandhi very often takes place; please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#some-basic-sandhi-the-assimilation-of-the-letter-y) from Class 4.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ The result from sandhi is the ending **tya \> cca**
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √i | to come | abhi + saṃ + √i + **ty**a | abhisame**cc**a | having completely understood |
-| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of<br>(lit. having gone back to) |
+| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of / (lit. having gone back to) |
 | √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
 | √vid | to know | anu + √vid + **ty**a | anuvi**cc**a | having investigated |
 

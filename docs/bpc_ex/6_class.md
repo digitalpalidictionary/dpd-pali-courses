@@ -1,6 +1,7 @@
 # Class 6 Exercises
 
-1. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59) <br>**bhagavā** **bhikkhū** āmantesi - “**bhikkhavo**’ti. “bhadante”ti
+1. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+   **bhagavā** **bhikkhū** āmantesi - “**bhikkhavo**’ti. “bhadante”ti
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -11,7 +12,8 @@
 | bhadante | | | | |
 | |
 
-2. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html) <br>**bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā
+2. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html)
+   **bhikkhave**, **assutavā** puthujjano na parimuccati jātiyā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -23,7 +25,8 @@
 | jātiyā | noun | fem.abl.sg | | |
 | |
 
-3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html) <br>esa **bhagavato** sāvakasaṅgho
+3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html)
+   esa **bhagavato** sāvakasaṅgho
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -32,7 +35,8 @@
 | sāvaka-saṅgho | | | | |
 | |
 
-4. [DN16.17](https://s.dhamma.gift/dn/dn16/index.html) <br>atha kho **āyasmato** ānandassa etad’ahosi[^10]
+4. [DN16.17](https://s.dhamma.gift/dn/dn16/index.html)
+   atha kho **āyasmato** ānandassa etad’ahosi[^10]
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -456,7 +460,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 
 ## Class 6 Extra
 
-1. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4) <br>mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho
+1. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4)
+   mātāpitu upaṭṭhānaṃ, puttassa ca dārassa saṅgaho
 
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
@@ -468,7 +473,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | saṅgaho | | | | |
 | |
 
-2. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl) <br>ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
+2. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl)
+   ajja eva ātappaṃ karohi, ko jānāti maraṇaṃ suve
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -482,7 +488,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | suve | | | | |
 | |
 
-3. [AN4.171](https://s.dhamma.gift/an/an4/index.html#an4.171) <br>sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
+3. [AN4.171](https://s.dhamma.gift/an/an4/index.html#an4.171)
+   sattā tamhā kāyā cutā āgāmino honti āgantāro itthattaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -496,7 +503,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | itthattaṃ | noun | nt. | | |
 | |
 
-4. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) <br>yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
+4. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
+   yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatu āyasmā kālena, cīvarena taṃ acchādessati
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -517,7 +525,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | acchādessati | | | | |
 | |
 
-5. [VIN PAT PC 7](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) <br>bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
+5. [VIN PAT PC 7](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseti, aññatra viññunā purisaviggahena, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -532,7 +541,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | pācittiyaṃ | noun | nt. | | |
 | |
 
-6. [DHP76](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl) <br>nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
+6. [DHP76](https://s.dhamma.gift/kn/dhp/index.html#dhp76) (simpl)
+   nidhīnaṃ va pavattāraṃ, vajjadassinaṃ niggayhavādiṃ medhāviṃ paṇḍitaṃ bhajāhi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -546,7 +556,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | bhajāhi | | | | |
 | |
 
-7. [SN7.15](https://s.dhamma.gift/sn/sn7/index.html#sn7.15) (simpl) <br>mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
+7. [SN7.15](https://s.dhamma.gift/sn/sn7/index.html#sn7.15) (simpl)
+   mātari pitari ca, atho jeṭṭhamhi bhātari. ācariye ca, tesu na mānaṃ karohi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -563,7 +574,8 @@ sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ br
 | karohi | | | | |
 | |
 
-8. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl) <br>tena mahāsenena maccunā saṅgaraṃ na hoti
+8. [MN131](https://s.dhamma.gift/mn/mn131/index.html) (simpl)
+   tena mahāsenena maccunā saṅgaraṃ na hoti
 
 | | | | | |
 | --- | --- | --- | --- | --- |

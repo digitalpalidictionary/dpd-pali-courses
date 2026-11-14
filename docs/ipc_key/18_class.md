@@ -53,7 +53,8 @@
 
 **Break up all the sandhis in the following sentences.**
 
-1. [VIN PAT SA 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)<br>yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
+1. [VIN PAT SA 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
+   yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -78,7 +79,8 @@
 
 **If, being admonished up to the third time, he should relinquish that, thus this [is] good; [but] if he should not relinquish [it], [this is a case] relating to the community in the beginning and in the end.**
 
-2. [SNP58](https://s.dhamma.gift/kn/snp/index.html#snp5.4)<br>"ye kec'ime isayo manujā, (icc'āyasmā puṇṇako)
+2. [SNP58](https://s.dhamma.gift/kn/snp/index.html#snp5.4)
+   "ye kec'ime isayo manujā, (icc'āyasmā puṇṇako)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -95,7 +97,8 @@
 
 **Whichever of these human beings [are] seers. (Thus said venerable Puṇṇaka)**
 
-3. [SN35.247](https://s.dhamma.gift/sn/sn35/index.html#sn35.247)<br>idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe n'ādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso
+3. [SN35.247](https://s.dhamma.gift/sn/sn35/index.html#sn35.247)
+   idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe n'ādhimuccati, appiyarūpe rūpe na byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -135,7 +138,8 @@
 
 **Here, monks, having seen a form with the eye, a monk is not drawn to a pleasing form, and he is not repelled by an unpleasant form; with mindfulness of the body present, he dwells with an immeasurable mind.**
 
-4. [DN16.32](https://s.dhamma.gift/dn/dn16/index.html)<br>cattāro'me, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?
+4. [DN16.32](https://s.dhamma.gift/dn/dn16/index.html)
+   cattāro'me, bhikkhave, acchariyā abbhutā dhammā raññe cakkavattimhi. katame cattāro?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -155,7 +159,8 @@
 
 **Monks, [there are] these four wonderful, extraordinary qualities about a wheel-turning monarch. Which four?**
 
-5. [AN5.51](https://s.dhamma.gift/an/an5/index.html#an5.51) <br>byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.
+5. [AN5.51](https://s.dhamma.gift/an/an5/index.html#an5.51)
+   byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -172,7 +177,11 @@
 
 **Monks, ill will is an obstruction, a hindrance of the mind, which overwhelms and weakens understanding.**
 
-6. [SNP54](https://s.dhamma.gift/kn/snp/index.html#snp4.16) <br>theyyaṃ na kāre na musā bhaṇeyya,<br>mettāya phasse tasathāvarāni,<br>yadāvilattaṃ manaso vijaññā,<br>kaṇhassa pakkho'ti vinodayeyya.
+6. [SNP54](https://s.dhamma.gift/kn/snp/index.html#snp4.16)
+   theyyaṃ na kāre na musā bhaṇeyya,
+   mettāya phasse tasathāvarāni,
+   yadāvilattaṃ manaso vijaññā,
+   kaṇhassa pakkho'ti vinodayeyya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -198,9 +207,14 @@
 | \#iti | ind | - | "" | |
 | vinodayeyya | verb | opt.3rd.sg | he should drive out, dispel, remove | √nud･1 \*aya (drive out, reject) |
 
-**One should not perform theft,<br>One should not speak falsely,<br>One should touch unstable and firm beings with kindness,<br>One should know any disturbance of mind and dispel it as "a flank of the <br>Dark One."**
+**One should not perform theft,**
+**One should not speak falsely,**
+**One should touch unstable and firm beings with kindness,**
+**One should know any disturbance of mind and dispel it as "a flank of the**
+**Dark One."**
 
-7. [AN8.2](https://s.dhamma.gift/an/an8/index.html#an8.2) <br>tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.
+7. [AN8.2](https://s.dhamma.gift/an/an8/index.html#an8.2)
+   tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -230,7 +244,8 @@
 
 **Teachings of such quality are well-learned by him, remembered, verbally practised, mentally reflected upon, and thoroughly understood by view.**
 
-8. [DN22.6](https://s.dhamma.gift/dn/dn22/index.html) <br>puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū'ti.
+8. [DN22.6](https://s.dhamma.gift/dn/dn22/index.html)
+   puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati, atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -271,7 +286,11 @@
 
 **And further, monks, a monk regards this body, as it is positioned, as it is directed, as elemental states. "In this very body there is the solid state, the liquid state, the fire state and the air state."**
 
-9. [DHP160](https://s.dhamma.gift/kn/dhp/index.html#dhp157) <br>attā hi attano nātho,<br>ko hi nātho paro siyā,<br>attanā hi sudantena,<br>nāthaṃ labhati dullabhaṃ.
+9. [DHP160](https://s.dhamma.gift/kn/dhp/index.html#dhp157)
+   attā hi attano nātho,
+   ko hi nātho paro siyā,
+   attanā hi sudantena,
+   nāthaṃ labhati dullabhaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -291,9 +310,13 @@
 | labhati | verb | pr.3rd.sg | he gets | √labh･1 a (get) |
 | dullabhaṃ | adj | masc.acc.sg | rare, hard to get | √labh･1 a (get) |
 
-**One is truly one's own protector,<br>How could another be (one's) protector?<br>With oneself truly well-tamed<br>one obtains a protector that is hard to get.**
+**One is truly one's own protector,**
+**How could another be (one's) protector?**
+**With oneself truly well-tamed**
+**one obtains a protector that is hard to get.**
 
-10. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) <br>na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ; na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ. 'ahaṃ rūpaṃ, mama rūpan'ti na pariyuṭṭhaṭṭhāyī hoti.
+10. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1)
+    na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ; na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ. 'ahaṃ rūpaṃ, mama rūpan'ti na pariyuṭṭhaṭṭhāyī hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -327,7 +350,8 @@
 
 **He does not consider physical form as the self, or the self as having physical form, or physical form as in the self, or the self as in physical form. He does not remain obsessed (by the idea) "I am physical form, physical form is mine."**
 
-11. [AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40) <br>yasmiṃ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye rañño phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.
+11. [AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40)
+    yasmiṃ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṃ samaye dubbalā honti. tasmiṃ, bhikkhave, samaye rañño phāsu hoti atiyātuṃ vā niyyātuṃ vā paccantime vā janapade anusaññātuṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -359,7 +383,8 @@
 
 **At whichever time kings are strong, robbers are weak. At that time it is easy for the king to re-enter or to go out and to visit the outlying districts.**
 
-12. [AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82) <br>tassa na tādiso vaṇṇo hoti seyyathā'pi gunnaṃ, na tādiso saro hoti seyyathā'pi gunnaṃ, na tādisaṃ padaṃ hoti seyyathā'pi gunnaṃ.
+12. [AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82)
+    tassa na tādiso vaṇṇo hoti seyyathā'pi gunnaṃ, na tādiso saro hoti seyyathā'pi gunnaṃ, na tādisaṃ padaṃ hoti seyyathā'pi gunnaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -385,7 +410,8 @@
 
 **His colour is not like that of the cows, his sound is not like that of the cows, his footprint is not like that of the cows.**
 
-13. [AN4.49](https://s.dhamma.gift/an/an4/index.html#an4.49) <br>anattani, bhikkhave, attāti saññāvipallāso cittavipallāso diṭṭhivipallāso.
+13. [AN4.49](https://s.dhamma.gift/an/an4/index.html#an4.49)
+    anattani, bhikkhave, attāti saññāvipallāso cittavipallāso diṭṭhivipallāso.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -410,7 +436,8 @@
 
 ## Class 18 Extra Examples
 
-1. [VIN PAT PC 57](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>tatth'āyaṃ samayo 'diyaḍḍho māso seso gimhānan'ti vassānassa paṭhamo māso icc'ete aḍḍhateyyamāsā
+1. [VIN PAT PC 57](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+   tatth'āyaṃ samayo 'diyaḍḍho māso seso gimhānan'ti vassānassa paṭhamo māso icc'ete aḍḍhateyyamāsā
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -440,7 +467,8 @@
 
 **This (is) the time in this case: One-and-a-half months (are) remaining of the hot season and the first month of the rainy season, thus these two-and-a-half months, ...**
 
-2. [AN5.140](https://s.dhamma.gift/an/an5/index.html#an5.140)<br>idha, bhikkhave, rañño nāgo yam'enaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
+2. [AN5.140](https://s.dhamma.gift/an/an5/index.html#an5.140)
+   idha, bhikkhave, rañño nāgo yam'enaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -496,7 +524,8 @@
 
 **having focused and paid attention on that (task), having concentrated completely with the mind, he listens with applied ear.**
 
-3. [AN3.71](https://s.dhamma.gift/an/an3/index.html#an3.70)<br>gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: "ajja kho gāvo amukasmiñ'ca amukasmiñ'ca padese cariṃsu"
+3. [AN3.71](https://s.dhamma.gift/an/an3/index.html#an3.70)
+   gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: "ajja kho gāvo amukasmiñ'ca amukasmiñ'ca padese cariṃsu"
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -525,7 +554,8 @@
 
 **In the evening, a young cowherd, having handed over the cattle to the owners, reflects thus: "Today, indeed, the cattle grazed in this place and in that place…"**
 
-4. [SN7.9](https://s.dhamma.gift/sn/sn7/index.html#sn7.9) <br>māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ
+4. [SN7.9](https://s.dhamma.gift/sn/sn7/index.html#sn7.9)
+   māno hi te brāhmaṇa khāribhāro, kodho dhūmo bhasmani mosavajjaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -545,7 +575,8 @@
 
 **Conceit, O brahmin, is indeed the burden carried across your shoulders; anger the smoke, false speech (is in) the ashes.**
 
-5. [AN3.51](https://s.dhamma.gift/an/an3/index.html#an3.50) <br>idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.
+5. [AN3.51](https://s.dhamma.gift/an/an3/index.html#an3.50)
+   idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -565,7 +596,8 @@
 
 **Here, monks, a master thief is dependent on a king or royal ministers.**
 
-6. [MN82](https://s.dhamma.gift/mn/mn82/index.html)<br>app'ekad'āhaṃ, bho raṭṭhapāla, 'idha pādaṃ karissāmī'ti aññen'eva pādaṃ karomī"ti.
+6. [MN82](https://s.dhamma.gift/mn/mn82/index.html)
+   app'ekad'āhaṃ, bho raṭṭhapāla, 'idha pādaṃ karissāmī'ti aññen'eva pādaṃ karomī"ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

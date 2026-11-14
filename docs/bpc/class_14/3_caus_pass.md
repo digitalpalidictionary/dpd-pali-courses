@@ -46,10 +46,10 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 | --- | --- | --- |
 | base | bhava | |
 | pr | bhava**ti** | he is, it exists |
-| prp | bhava**māna**<br>bhava**nta** | being, existing |
-| caus base | bhāve<br>bhāvaya | |
-| caus pr | bhāve**ti**<br>bhāvaya**ti** | he causes to be, develops |
-| caus prp | bhāve**nta**<br>bhāvaya**nta**<br>bhāvaya**māna** | causing to be, developing |
+| prp | bhava**māna** / bhava**nta** | being, existing |
+| caus base | bhāve / bhāvaya | |
+| caus pr | bhāve**ti** / bhāvaya**ti** | he causes to be, develops |
+| caus prp | bhāve**nta** / bhāvaya**nta** / bhāvaya**māna** | causing to be, developing |
 | caus pass base | bhāviya | |
 | caus pass pr | bhāviyati | it is caused to be; it is developed |
 | caus pprp | bhāviya**māna** | being caused to be; being developed |

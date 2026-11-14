@@ -10,7 +10,8 @@ Now, let’s look at the future tense **reflexive** **voice** and **passive voic
 
 (Theory) How is the future reflexive formed? How is the future reflexive passive formed?
 
-**Future Reflexive “will go by oneself”<br>(√gam + issate \> gamissate)**
+**Future Reflexive “will go by oneself”**
+**(√gam + issate \> gamissate)**
 
 | | | |
 | --- | --- | --- |
@@ -19,7 +20,8 @@ Now, let’s look at the future tense **reflexive** **voice** and **passive voic
 | 2 majjhima | gam**issase** | gam**issavhe** |
 | 1 uttama | gam**issaṃ** | gam**issāmhe** |
 
-**Future Passive Reflexive “will be killed (by oneself)”<br>(√han + ya \> hañña)**
+**Future Passive Reflexive “will be killed (by oneself)”**
+**(√han + ya \> hañña)**
 
 | | | |
 | --- | --- | --- |

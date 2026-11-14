@@ -13,6 +13,6 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāḷi Grammar | p122 – 126 (past gerund) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | p105 - 110 (the gerund) |
+| V. Perniola / Pāḷi Grammar | p122 – 126 (past gerund) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p105 - 110 (the gerund) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

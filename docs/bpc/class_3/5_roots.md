@@ -56,13 +56,13 @@ These roots are grouped together because the verbs derived from them have simila
 
 | **\#** | **conjugational sign** | **example** |
 | --- | --- | --- |
-| 1 | a | √bandh (tie) + a \> bandha<br>bandha + ti \> bandhati (he ties) |
-| 2 | ṃa | √rudh (obstruct) + ṃa \> ru**ṃ**dha \> ru**n**dha<br>rundha + ti \> rundhati (he obstructs) |
-| 3 | ya | √div (shine) + ya \> di**bb**a<br>dibba + ti \> dibbati (he shines) |
-| 4 | ṇā (ṇo[^8]) (after vowel)<br>uṇā (after consonant) | √su (hear) + ṇā \> suṇā<br>suṇā + ti \> suṇāti (he hears)<br>√ap (reach) + uṇā \> apuṇā<br>pa + apuṇā + ti \> pāpuṇāti (he reaches) |
-| 5 | nā | √ji (conquer) + nā \> jinā<br>jinā + ti \> jināti (he conquers) |
-| 6 | ṇhā | √gah (grasp) + ṇhā \> gaṇhā<br>gaṇhā + ti \> gaṇhāti (he grabs) |
-| 7 | o | √kar (do, make) + o \> karo<br>karo + ti \> karoti (he does, makes) |
-| 8 | \*e, \*aya | √cur (steal) + \*e \> c**o**re<br>core + ti \> coreti (he steals)<br>√cur (steal) + \*aya \> c**o**raya<br>coraya + ti \> corayati (he steals) |
+| 1 | a | √bandh (tie) + a \> bandha / bandha + ti \> bandhati (he ties) |
+| 2 | ṃa | √rudh (obstruct) + ṃa \> ru**ṃ**dha \> ru**n**dha / rundha + ti \> rundhati (he obstructs) |
+| 3 | ya | √div (shine) + ya \> di**bb**a / dibba + ti \> dibbati (he shines) |
+| 4 | ṇā (ṇo[^8]) (after vowel) / uṇā (after consonant) | √su (hear) + ṇā \> suṇā / suṇā + ti \> suṇāti (he hears) / √ap (reach) + uṇā \> apuṇā / pa + apuṇā + ti \> pāpuṇāti (he reaches) |
+| 5 | nā | √ji (conquer) + nā \> jinā / jinā + ti \> jināti (he conquers) |
+| 6 | ṇhā | √gah (grasp) + ṇhā \> gaṇhā / gaṇhā + ti \> gaṇhāti (he grabs) |
+| 7 | o | √kar (do, make) + o \> karo / karo + ti \> karoti (he does, makes) |
+| 8 | \*e, \*aya | √cur (steal) + \*e \> c**o**re / core + ti \> coreti (he steals) / √cur (steal) + \*aya \> c**o**raya / coraya + ti \> corayati (he steals) |
 
 [^8]: less common

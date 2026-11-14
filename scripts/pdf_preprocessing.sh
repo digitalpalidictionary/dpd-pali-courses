@@ -8,6 +8,8 @@ uv run python scripts/generate_mkdocs_yaml.py
 uv run python scripts/check_renumber.py
 uv run python scripts/renumber_footnotes.py
 uv run python scripts/clean_dead_links.py
+uv run python scripts/rewrite_sutta_links.py --write
+uv run python scripts/convert_br_markup.py --apply
 uv run python scripts/fix_heading_hierarchy.py
 uv run python scripts/fixing_tables.py
 

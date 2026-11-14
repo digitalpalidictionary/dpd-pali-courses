@@ -13,7 +13,7 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāḷi Grammar | p110 - 118 (the past participle) |
+| V. Perniola / Pāḷi Grammar | p110 - 118 (the past participle) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
 ## Example of the “SBS kuṭi udāna” task

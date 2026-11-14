@@ -9,7 +9,7 @@ All of them are pronounced phonetically.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | **a**tta | (self) | a | as in | c**u**t, h**u**t, **u**tter (not b**a**t) |
-| **ā**misa | (material) | ā | as in | f**a**ther, b**a**rn, **a**rt <br>(not h**a**te) |
+| **ā**misa | (material) | ā | as in | f**a**ther, b**a**rn, **a**rt / (not h**a**te) |
 | s**i**r**i** | (radiance) | i | as in | **i**t, b**i**t, m**i**nt, **i**nk |
 | s**ī**la | (behaviour) | ī | as in | b**ee,** tr**ee,** s**ee** (not sl**i**de) |
 | k**u**ṭi | (hut) | u | as in | p**u**t, f**oo**t, sh**oo**k, l**oo**k |
@@ -41,7 +41,8 @@ All of them are pronounced phonetically.
 | **jh**āna | (meditation) | **jh** | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
 | **ñ**āṇa | (understanding) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
 
-**5 Cerebral or Retroflex Consonants <br>(muddhaja – produced at the top)**
+**5 Cerebral or Retroflex Consonants**
+**(muddhaja – produced at the top)**
 These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate.
 
 | | | | | |
@@ -102,8 +103,8 @@ Note: ṁ and ŋ are other ways of writing ṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| avadhy**ai** | (disregards)<br>Pāḷi ujjhāyati | ai | as in | **ai**sle, p**ie** |
-| k**au**kṛtya | (worry)<br>Pāḷi kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
+| avadhy**ai** | (disregards) / Pāḷi ujjhāyati | ai | as in | **ai**sle, p**ie** |
+| k**au**kṛtya | (worry) / Pāḷi kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
 
 **2 more sibilants**
 

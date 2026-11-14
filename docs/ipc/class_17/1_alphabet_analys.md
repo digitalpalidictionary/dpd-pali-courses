@@ -32,11 +32,11 @@ Let’s look at the consonants in more detail. Unlike the English alphabet, you 
 
 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| Guttural <br>(*kaṇṭhaja*) | kavagga | **k** | **kh** | **g** | **gh** | **ṅ** |
-| Palatal<br>(*tāluja*) | cavagga | **c** | **ch** | **j** | **jh** | **ñ** |
-| Cerebral or Retroflex<br>(*muddhaja*) | ṭavagga | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
-| Dental<br>(*dantaja*) | tavagga | **t** | **th** | **d** | **dh** | **n** |
-| Labial<br>(*oṭṭhaja*) | pavagga | **p** | **ph** | **b** | **bh** | **m** |
+| Guttural / (*kaṇṭhaja*) | kavagga | **k** | **kh** | **g** | **gh** | **ṅ** |
+| Palatal / (*tāluja*) | cavagga | **c** | **ch** | **j** | **jh** | **ñ** |
+| Cerebral or Retroflex / (*muddhaja*) | ṭavagga | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
+| Dental / (*dantaja*) | tavagga | **t** | **th** | **d** | **dh** | **n** |
+| Labial / (*oṭṭhaja*) | pavagga | **p** | **ph** | **b** | **bh** | **m** |
 
 Please make sure your tongue is in the correct place when you pronounce each letter.
 
@@ -46,9 +46,9 @@ They are also grouped according to whether each letter is
 
 2\. aspirated or unaspirated.
 
-| Unvoiced<br>(*aghosa*) | Voiced<br>(*ghosavant*) | | | |
+| Unvoiced / (*aghosa*) | Voiced / (*ghosavant*) | | | |
 | --- | --- | --- | --- | --- |
-| Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Nasals[^3]<br>(*nāsika*) |
+| Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Nasals[^3] / (*nāsika*) |
 | **k** | **kh** | **g** | **gh** | **ṅ** |
 | **c** | **ch** | **j** | **jh** | **ñ** |
 | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
@@ -59,14 +59,14 @@ They are also grouped according to whether each letter is
 
 In the end, we can combine the consonants into a complex table like this, which you should learn and understand.
 
-| | Unvoiced<br>(*aghosa*) | Voiced<br>(*ghosavant*) | | | |
+| | Unvoiced / (*aghosa*) | Voiced / (*ghosavant*) | | | |
 | --- | --- | --- | --- | --- | --- |
-| | Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Unaspirates<br>(*sithila*) | Aspirates<br>(*dhanita*) | Nasals<br>(*nāsika*) |
-| Guttural <br>(*kaṇṭhaja*) | **k** | **kh** | **g** | **gh** | **ṅ** |
-| Palatal<br>(*tāluja*) | **c** | **ch** | **j** | **jh** | **ñ** |
-| Cerebral / Retroflex<br>(*muddhaja*) | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
-| Dental<br>(*dantaja*) | **t** | **th** | **d** | **dh** | **n** |
-| Labial<br>(*oṭṭhaja*) | **p** | **ph** | **b** | **bh** | **m** |
+| | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Nasals / (*nāsika*) |
+| Guttural / (*kaṇṭhaja*) | **k** | **kh** | **g** | **gh** | **ṅ** |
+| Palatal / (*tāluja*) | **c** | **ch** | **j** | **jh** | **ñ** |
+| Cerebral/Retroflex / (*muddhaja*) | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
+| Dental / (*dantaja*) | **t** | **th** | **d** | **dh** | **n** |
+| Labial / (*oṭṭhaja*) | **p** | **ph** | **b** | **bh** | **m** |
 
 You should know things like:
 

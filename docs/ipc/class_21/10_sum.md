@@ -41,7 +41,7 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 | --- | --- | --- | --- | --- | --- | --- |
 | | **3 paṭhama** | **2 majjhima** | **1 uttama** | | | |
 | | **s** | **pl** | **s** | **pl** | **s** | **pl** |
-| **vattamānā** | te | ante<br>re | se | vhe | e | mhe |
+| **vattamānā** | te | ante / re | se | vhe | e | mhe |
 | **pañcamī** | taṃ | antaṃ | ssu | vho | e | āmase |
 | **sattamī** | etha | eraṃ | etho | eyyāvho | eyyaṃ | eyyāmhe |
 | **parokkhā** | ttha | re | ttho | vho | iṃ | mhe |

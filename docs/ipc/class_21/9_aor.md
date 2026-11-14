@@ -18,7 +18,8 @@ Let’s look at the aorist **reflexive** **voice** and **passive voice**.
 
 (Theory) How is the reflexive formed? How is the passive formed?
 
-**Aorist Attanopada “gave by oneself”<br>√dā + dā + a \> dadā**
+**Aorist Attanopada “gave by oneself”**
+**√dā + dā + a \> dadā**
 
 | | | |
 | --- | --- | --- |
@@ -27,7 +28,8 @@ Let’s look at the aorist **reflexive** **voice** and **passive voice**.
 | 2 majjhima | adad**ise** | adad**ivhaṃ** |
 | 1 uttama | adad**aṃ** | adad**imhe** |
 
-**Aorist Passive Attanopada “was cut (by oneself)”<br>√chid + ya \> chijja**
+**Aorist Passive Attanopada “was cut (by oneself)”**
+**√chid + ya \> chijja**
 
 | | | |
 | --- | --- | --- |

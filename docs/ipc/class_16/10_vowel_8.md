@@ -74,7 +74,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | | | |
 | --- | --- | --- |
 | ajj**a** | **a**gge | ajja**t**agge |
-| today | first / top | from today onwards |
+| today | first/top | from today onwards |
 | tasm**ā** | **i**ha | tasmā**t**iha |
 | therefore | here | therefore in this regard |
 

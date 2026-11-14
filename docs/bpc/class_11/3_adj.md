@@ -39,67 +39,67 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 1.nom | dīgh**o** | dīgh**ā** | dīgh**aṃ** |
 | 2.acc | dīgh**aṃ** | dīgh**aṃ** | dīgh**aṃ** |
 | 3.inst | dīgh**ena** | dīgh**āya** | dīgh**ena** |
-| 4.dat | dīgh**āya**<br>dīgh**assa** | dīgh**āya** | dīgh**āya**<br>dīgh**assa** |
-| 5.abl | dīgh**ā**<br>dīgh**amhā**<br>dīgh**asmā** | dīgh**āya** | dīgh**ā**<br>dīgh**amhā**<br>dīgh**asmā** |
+| 4.dat | dīgh**āya** / dīgh**assa** | dīgh**āya** | dīgh**āya** / dīgh**assa** |
+| 5.abl | dīgh**ā** / dīgh**amhā** / dīgh**asmā** | dīgh**āya** | dīgh**ā** / dīgh**amhā** / dīgh**asmā** |
 | 6.gen | dīgh**assa** | dīgh**āya** | dīgh**assa** |
-| 7.loc | dīgh**e**<br>dīgh**amhi**<br>dīgh**asmiṃ** | dīgh**āyaṃ**<br>dīgh**āya** | dīgh**e**<br>dīgh**amhi**<br>dīgh**asmiṃ** |
-| 8.voc | dīgh**a**<br>dīgh**ā** | dīgh**e** | dīgh**a**<br>dīgh**ā** |
+| 7.loc | dīgh**e** / dīgh**amhi** / dīgh**asmiṃ** | dīgh**āyaṃ** / dīgh**āya** | dīgh**e** / dīgh**amhi** / dīgh**asmiṃ** |
+| 8.voc | dīgh**a** / dīgh**ā** | dīgh**e** | dīgh**a** / dīgh**ā** |
 
 **Adjectives ending in -a (plural)**
 
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | dīgh**ā** | dīgh**ā**<br>dīgh**āyo** | dīgh**ā**<br>dīgh**āni** |
-| 2.acc | dīgh**e** | dīgh**ā**<br>dīgh**āyo** | dīgh**e**<br>dīgh**āni** |
+| 1.nom | dīgh**ā** | dīgh**ā** / dīgh**āyo** | dīgh**ā** / dīgh**āni** |
+| 2.acc | dīgh**e** | dīgh**ā** / dīgh**āyo** | dīgh**e** / dīgh**āni** |
 | 3.inst | dīgh**ehi** | dīgh**āhi** | dīgh**ehi** |
 | 4.dat | dīgh**ānaṃ** | dīgh**ānaṃ** | dīgh**ānaṃ** |
 | 5.abl | dīgh**ehi** | dīgh**āhi** | dīgh**ehi** |
 | 6.gen | dīgh**ānaṃ** | dīgh**ānaṃ** | dīgh**ānaṃ** |
 | 7.loc | dīgh**esu** | dīgh**āsu** | dīgh**esu** |
-| 8. voc | dīgh**ā** | dīgh**ā**<br>dīgh**āyo** | dīgh**āni** |
+| 8. voc | dīgh**ā** | dīgh**ā** / dīgh**āyo** | dīgh**āni** |
 
 **Adjectives ending in -i (singular)**
 
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** [**(-i)**](../class_4/9_masc_i.md#declension-of-i-masc) | **fem** [**(-i)**](../class_8/3_fem.md#feminine-nouns-ending-in-i) | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
-| 1.nom | uttar**i** | uttar**i** | uttar**i**<br>uttar**iṃ** |
-| 2.acc | uttar**iṃ** | uttar**iṃ** | uttar**i**<br>uttar**iṃ** |
+| 1.nom | uttar**i** | uttar**i** | uttar**i** / uttar**iṃ** |
+| 2.acc | uttar**iṃ** | uttar**iṃ** | uttar**i** / uttar**iṃ** |
 | 3.inst | uttar**inā** | uttar**iyā** | uttar**inā** |
 | 4.dat | uttar**ino** | uttar**iyā** | uttar**ino** |
-| 5.abl | uttar**inā**<br>uttar**ismā**<br>uttar**imhā** | uttar**iyā** | uttar**inā**<br>uttar**ismā**<br>uttar**imhā** |
-| 6.gen | uttar**ino**<br>uttar**issa** | uttar**iyā** | uttar**ino**<br>uttar**issa** |
-| 7.loc | uttar**ismiṃ**<br>uttar**imhi** | uttar**iyā**<br>uttar**iyaṃ** | uttar**ini**<br>uttar**ismiṃ**<br>uttar**imhi** |
-| 8.voc | uttar**i** | uttar**i** | uttar**i**<br>uttar**iṃ** |
+| 5.abl | uttar**inā** / uttar**ismā** / uttar**imhā** | uttar**iyā** | uttar**inā** / uttar**ismā** / uttar**imhā** |
+| 6.gen | uttar**ino** / uttar**issa** | uttar**iyā** | uttar**ino** / uttar**issa** |
+| 7.loc | uttar**ismiṃ** / uttar**imhi** | uttar**iyā** / uttar**iyaṃ** | uttar**ini** / uttar**ismiṃ** / uttar**imhi** |
+| 8.voc | uttar**i** | uttar**i** | uttar**i** / uttar**iṃ** |
 
 **Adjectives ending in -i (plural)**
 
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | uttar**ī**<br>uttar**ayo** | uttar**ī**<br>uttar**iyo** | uttar**īni**<br>uttar**ī** |
-| 2.acc | uttar**ī**<br>uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
+| 1.nom | uttar**ī** / uttar**ayo** | uttar**ī** / uttar**iyo** | uttar**īni** / uttar**ī** |
+| 2.acc | uttar**ī** / uttar**ayo** | uttar**iyo** | uttar**īni** / uttar**ī** |
 | 3.inst | uttar**īhi** | uttar**īhi** | uttar**īhi** |
-| 4.dat | uttar**īnaṃ** | uttar**īnaṃ** | uttar**inaṃ**<br>uttar**īnaṃ** |
+| 4.dat | uttar**īnaṃ** | uttar**īnaṃ** | uttar**inaṃ** / uttar**īnaṃ** |
 | 5.abl | uttar**īhi** | uttar**īhi** | uttar**īhi** |
 | 6.gen | uttar**īnaṃ** | uttar**īnaṃ** | uttar**īnaṃ** |
 | 7.loc | uttar**īsu** | uttar**īsu** | uttar**īsu** |
-| 8. voc | uttar**ayo** | uttar**iyo** | uttar**īni**<br>uttar**ī** |
+| 8. voc | uttar**ayo** | uttar**iyo** | uttar**īni** / uttar**ī** |
 
 **Adjectives ending in -ī (singular)**
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-ii-masc) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
-| 1.nom | ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i**<br>ātāp**iṃ** |
-| 2.acc | ātāp**inaṃ**<br>ātāp**iṃ** | ātāp**iniṃ** | ātāp**i**<br>ātāp**iṃ** |
+| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| 1.nom | ātāp**ī** | ātāp**ī** / ātāp**inī** | ātāp**i** / ātāp**iṃ** |
+| 2.acc | ātāp**inaṃ** / ātāp**iṃ** | ātāp**iniṃ** | ātāp**i** / ātāp**iṃ** |
 | 3.inst | ātāp**inā** | ātāp**iniyā** | ātāp**inā** |
-| 4.dat | ātāp**ino**<br>ātāp**issa** | ātāp**iniyā** | ātāp**ino**<br>ātāp**issa** |
-| 5.abl | ātāp**inā**<br>ātāp**imhā** | ātāp**iniyā** | ātāp**inā**<br>ātāp**imhā**<br>ātāp**ismā** |
-| 6.gen | ātāp**ino**<br>ātāp**issa** | ātāp**iniyā** | ātāp**ino**<br>ātāp**issa** |
-| 7.loc | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** | ātāp**iniyā**<br>ātāp**iniyaṃ** | ātāp**ini**<br>ātāp**imhi**<br>ātāp**ismiṃ** |
-| 8.voc | ātāp**i**<br>ātāp**ī** | ātāp**ī**<br>ātāp**inī** | ātāp**i** |
+| 4.dat | ātāp**ino** / ātāp**issa** | ātāp**iniyā** | ātāp**ino** / ātāp**issa** |
+| 5.abl | ātāp**inā** / ātāp**imhā** | ātāp**iniyā** | ātāp**inā** / ātāp**imhā** / ātāp**ismā** |
+| 6.gen | ātāp**ino** / ātāp**issa** | ātāp**iniyā** | ātāp**ino** / ātāp**issa** |
+| 7.loc | ātāp**ini** / ātāp**imhi** / ātāp**ismiṃ** | ātāp**iniyā** / ātāp**iniyaṃ** | ātāp**ini** / ātāp**imhi** / ātāp**ismiṃ** |
+| 8.voc | ātāp**i** / ātāp**ī** | ātāp**ī** / ātāp**inī** | ātāp**i** |
 
 [^25]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
 
@@ -108,10 +108,10 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | ātāp**ī**<br>ātāp**ino** | ātāp**iniyo**<br>ātāp**inī** | ātāp**īni**<br>ātāp**ī** |
-| 2.acc | ātāp**ī**<br>ātāp**ino** | ātāp**iniyo**<br>ātāp**inī** | ātāp**īni**<br>ātāp**ī** |
+| 1.nom | ātāp**ī** / ātāp**ino** | ātāp**iniyo** / ātāp**inī** | ātāp**īni** / ātāp**ī** |
+| 2.acc | ātāp**ī** / ātāp**ino** | ātāp**iniyo** / ātāp**inī** | ātāp**īni** / ātāp**ī** |
 | 3.inst | ātāp**īhi** | ātāp**inīhi** | ātāp**īhi** |
-| 4.dat | ātāp**īnaṃ** | ātāp**inīnaṃ** | ātāp**īnaṃ**<br>ātāp**inaṃ** |
+| 4.dat | ātāp**īnaṃ** | ātāp**inīnaṃ** | ātāp**īnaṃ** / ātāp**inaṃ** |
 | 5.abl | ātāp**īhi** | ātāp**inīhi** | ātāp**īhi** |
 | 6.gen | ātāp**īnaṃ** | ātāp**inīnaṃ** | ātāp**īnaṃ** |
 | 7.loc | ātāp**īsu** | ātāp**inīsu** | ātāp**īsu** |
@@ -122,14 +122,14 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-u)**](../class_6/2_masc_u.md#declension-of-u-masc) | **fem** [**(-u)**](../class_8/3_fem.md#feminine-nouns-ending-in-u) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
-| 1.nom | bah**u** | bah**u** | bah**u**<br>bah**uṃ** |
-| 2.acc | bah**uṃ** | bah**uṃ** | bah**u**<br>bah**uṃ** |
+| | **masc** [**(-u)**](../class_6/2_masc_u.md#masculine-nouns-ending-in-u-like-bhikkhu) | **fem** [**(-u)**](../class_8/3_fem.md#feminine-nouns-ending-in-u) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
+| 1.nom | bah**u** | bah**u** | bah**u** / bah**uṃ** |
+| 2.acc | bah**uṃ** | bah**uṃ** | bah**u** / bah**uṃ** |
 | 3.inst | bah**unā** | bah**uyā** | bah**unā** |
-| 4.dat | bah**uno**<br>bah**ussa** | bah**uyā** | bah**uno**<br>bah**ussa** |
-| 5.abl | bah**unā**<br>bah**umhā**<br>bah**usmā** | bah**uyā** | bah**unā**<br>bah**umhā**<br>bah**usmā** |
-| 6.gen | bah**uno**<br>bah**ussa** | bah**uyā** | bah**uno**<br>bah**ussa** |
-| 7.loc | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** | bah**uyā**<br>bah**uyaṃ** | bah**uni**<br>bah**umhi**<br>bah**usmiṃ** |
+| 4.dat | bah**uno** / bah**ussa** | bah**uyā** | bah**uno** / bah**ussa** |
+| 5.abl | bah**unā** / bah**umhā** / bah**usmā** | bah**uyā** | bah**unā** / bah**umhā** / bah**usmā** |
+| 6.gen | bah**uno** / bah**ussa** | bah**uyā** | bah**uno** / bah**ussa** |
+| 7.loc | bah**uni** / bah**umhi** / bah**usmiṃ** | bah**uyā** / bah**uyaṃ** | bah**uni** / bah**umhi** / bah**usmiṃ** |
 | 8.voc | bah**u** | bah**u** | bah**u** |
 
 **Adjectives ending in -u (plural)**
@@ -137,27 +137,27 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | bah**ū**<br>bah**avo** | bah**ū**<br>bah**uyo** | bah**ū**<br>bah**ūni** |
-| 2.acc | bah**ū**<br>bah**avo** | bah**ū**<br>bah**uyo** | bah**ū**<br>bah**ūni** |
+| 1.nom | bah**ū** / bah**avo** | bah**ū** / bah**uyo** | bah**ū** / bah**ūni** |
+| 2.acc | bah**ū** / bah**avo** | bah**ū** / bah**uyo** | bah**ū** / bah**ūni** |
 | 3.inst | bah**ūhi** | bah**ūhi** | bah**ūhi** |
-| 4.dat | bah**ūnaṃ**<br>bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ**<br>bah**unnaṃ** |
+| 4.dat | bah**ūnaṃ** / bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ** / bah**unnaṃ** |
 | 5.abl | bah**ūhi** | bah**ūhi** | bah**ūhi** |
-| 6.gen | bah**ūnaṃ**<br>bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ**<br>bah**unnaṃ** |
-| 7.loc | bah**ūsu**<br>bah**usu** | bah**ūsu** | bah**ūsu** |
-| 8.voc | bah**ū**<br>bah**avo** | bah**ū**<br>bah**uyo** | bah**ū**<br>bah**ūni** |
+| 6.gen | bah**ūnaṃ** / bah**unnaṃ** | bah**ūnaṃ** | bah**ūnaṃ** / bah**unnaṃ** |
+| 7.loc | bah**ūsu** / bah**usu** | bah**ūsu** | bah**ūsu** |
+| 8.voc | bah**ū** / bah**avo** | bah**ū** / bah**uyo** | bah**ū** / bah**ūni** |
 
 **Adjectives ending in -ū (singular)**
 
 | | | | |
 | --- | --- | --- | --- |
-| | **masc** [**(-ū)**](../class_6/3_masc_uu.md#declension-of-uu-masc) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
+| | **masc** [**(-ū)**](../class_6/3_masc_uu.md#masculine-nouns-ending-in-u) | **fem** [**(unī)**](../class_8/3_fem.md#feminine-nouns-ending-in-uni) | **neuter** [**(-u)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-u) |
 | 1.nom | vid**ū** | vid**unī** | vid**uṃ** |
 | 2.acc | vid**uṃ** | vid**uniṃ** | vid**uṃ** |
 | 3.inst | vid**unā** | vid**uniyā** | vid**unā** |
 | 4.dat | vid**uno** | vid**uniyā** | vid**uno** |
 | 5.abl | vid**unā** | vid**uniyā** | vid**unā** |
-| 6.gen | vid**uno**<br>vid**ussa** | vid**uniyā** | vid**uno**<br>vid**ussa** |
-| 7.loc | vid**umhi**<br>vid**usmiṃ** | vid**uniyā**<br>vid**uniyaṃ** | vid**umhi**<br>vid**usmiṃ** |
+| 6.gen | vid**uno** / vid**ussa** | vid**uniyā** | vid**uno** / vid**ussa** |
+| 7.loc | vid**umhi** / vid**usmiṃ** | vid**uniyā** / vid**uniyaṃ** | vid**umhi** / vid**usmiṃ** |
 | 8.voc | vid**ū** | vid**unī** | vid**ū** |
 
 **Adjectives ending in -ū (plural)**
@@ -165,14 +165,14 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | | | | |
 | --- | --- | --- | --- |
 | | **masc** | **fem** | **neuter** |
-| 1.nom | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
-| 2.acc | vid**ū**<br>vid**uno**<br>vid**ūno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
+| 1.nom | vid**ū** / vid**uno** / vid**ūno** | vid**unī** / vid**uniyo** | vid**ūni** / vid**ū** |
+| 2.acc | vid**ū** / vid**uno** / vid**ūno** | vid**unī** / vid**uniyo** | vid**ūni** / vid**ū** |
 | 3.inst | vid**ūhi** | vid**unīhi** | vid**ūhi** |
 | 4.dat | vid**ūnaṃ** | vid**unīnaṃ** | vid**ūnaṃ** |
 | 5.abl | vid**ūhi** | vid**unīhi** | vid**ūhi** |
-| 6.gen | vid**ūnaṃ**<br>vid**unnaṃ** | vid**unīnaṃ** | vid**ūnaṃ**<br>vid**unnaṃ** |
+| 6.gen | vid**ūnaṃ** / vid**unnaṃ** | vid**unīnaṃ** | vid**ūnaṃ** / vid**unnaṃ** |
 | 7.loc | vid**ūsu** | vid**unīsu** | vid**ūsu** |
-| 8.voc | vid**ū**<br>vid**uno** | vid**unī**<br>vid**uniyo** | vid**ūni**<br>vid**ū** |
+| 8.voc | vid**ū** / vid**uno** | vid**unī** / vid**uniyo** | vid**ūni** / vid**ū** |
 
 ## Usage of adjectives
 

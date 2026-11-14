@@ -46,9 +46,9 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 | | | |
 | --- | --- | --- |
-| 3rd | gacche**yya**<br>gacche | gacche**yyuṃ** |
-| 2nd | gacche**yyāsi**<br>gacche | gacche**yyātha** |
-| 1st | gacche**yyāmi**<br>gacche | gacche**yyāma** |
+| 3rd | gacche**yya** / gacche | gacche**yyuṃ** |
+| 2nd | gacche**yyāsi** / gacche | gacche**yyātha** |
+| 1st | gacche**yyāmi** / gacche | gacche**yyāma** |
 
 ## Optative of √as
 
@@ -56,9 +56,9 @@ It has two forms:
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| 3rd | **assa**<br>**siyā** | he could be | **assu**<br>**siyaṃsu**<br>**siyuṃ** | they could be |
-| 2nd | **assa**<br>**siyā** | you could be | **assatha**<br>**-** | you all could be |
-| 1st | **assaṃ**<br>**siyaṃ** | I could be | **assāma**<br>**-** | we could be |
+| 3rd | **assa** / **siyā** | he could be | **assu** / **siyaṃsu** / **siyuṃ** | they could be |
+| 2nd | **assa** / **siyā** | you could be | **assatha** / **-** | you all could be |
+| 1st | **assaṃ** / **siyaṃ** | I could be | **assāma** / **-** | we could be |
 
 Very frequently used!
 

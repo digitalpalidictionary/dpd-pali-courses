@@ -10,7 +10,11 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-1. [KHP5](https://s.dhamma.gift/kn/kp/index.html#kp5)<br>**gāravo** ca **nivāto** ca,<br>**santuṭṭhi** ca **kataññutā**,<br>**kālena** **dhammassavanaṃ**,<br>etaṃ **maṅgalam'uttamaṃ**.
+1. [KHP5](https://s.dhamma.gift/kn/kp/index.html#kp5)
+   **gāravo** ca **nivāto** ca,
+   **santuṭṭhi** ca **kataññutā**,
+   **kālena** **dhammassavanaṃ**,
+   etaṃ **maṅgalam'uttamaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -32,7 +36,11 @@
 
 **Reverence and humility, satisfaction and gratitude, Hearing the teaching at the right time; this is the highest blessing.**
 
-2. [SN1.51](https://s.dhamma.gift/sn/sn1/index.html#sn1.51)<br>**sīlaṃ[^51]** yāva **jarā** **sādhu**,<br>**saddhā** sādhu **patiṭṭhitā**,<br>**paññā** narānaṃ ratanaṃ,<br>puññaṃ **corehi** **dūharan**'ti.
+2. [SN1.51](https://s.dhamma.gift/sn/sn1/index.html#sn1.51)
+   **sīlaṃ[^51]** yāva **jarā** **sādhu**,
+   **saddhā** sādhu **patiṭṭhitā**,
+   **paññā** narānaṃ ratanaṃ,
+   puññaṃ **corehi** **dūharan**'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -54,7 +62,8 @@
 
 **"Virtue up to old age [is] good; faith [that is] established [is] good; wisdom [is] the jewel of humans; merit [is] hard for thieves to steal."**
 
-3. [MN22](https://s.dhamma.gift/mn/mn22/index.html)<br>idha, bhikkhave, **ekacce** **mogha**purisā dhammaṃ pariyāpuṇanti, **suttaṃ**, **geyyaṃ**, **veyyākaraṇaṃ**, **gāthaṃ**, **udānaṃ**, **itivuttakaṃ**, **jātakaṃ**, **abbhuta**dhammaṃ, **vedallaṃ**.
+3. [MN22](https://s.dhamma.gift/mn/mn22/index.html)
+   idha, bhikkhave, **ekacce** **mogha**purisā dhammaṃ pariyāpuṇanti, **suttaṃ**, **geyyaṃ**, **veyyākaraṇaṃ**, **gāthaṃ**, **udānaṃ**, **itivuttakaṃ**, **jātakaṃ**, **abbhuta**dhammaṃ, **vedallaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -80,7 +89,11 @@
 
 **Here, monks, some foolish persons study well the teaching – discourses, mixed verses, detailed expositions, poems, inspired sayings, quotations, birth stories, marvellous accounts, questions-and-answers…**
 
-4. [THI71](https://s.dhamma.gift/kn/thig/index.html#thig14.1)<br>**madhurañ**'ca pavanti **sabbaso**,<br>kusuma**rajena** **samuṭṭhitā** dumā,<br>paṭhama**vasanto** **sukho** utu,<br>ehi ramāma **supupphite** vane.
+4. [THI71](https://s.dhamma.gift/kn/thig/index.html#thig14.1)
+   **madhurañ**'ca pavanti **sabbaso**,
+   kusuma**rajena** **samuṭṭhitā** dumā,
+   paṭhama**vasanto** **sukho** utu,
+   ehi ramāma **supupphite** vane.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -106,7 +119,8 @@
 
 **The trees laden with pollen exude a sweet smell all around by means of flower pollen; the first month of the season, spring, [is] pleasant; come! Let us take delight in the wood abounding in blossoms.**
 
-5. [AN5.36](https://s.dhamma.gift/an/an5/index.html#an5.36) <br>**āgantukassa** **dānaṃ** deti, **gamikassa** dānaṃ deti, **gilānassa** dānaṃ deti, **dubbhikkhe** dānaṃ deti.
+5. [AN5.36](https://s.dhamma.gift/an/an5/index.html#an5.36)
+   **āgantukassa** **dānaṃ** deti, **gamikassa** dānaṃ deti, **gilānassa** dānaṃ deti, **dubbhikkhe** dānaṃ deti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -125,7 +139,8 @@
 
 **One gives to a newcomer, one gives to a traveller, one gives to one who is ill, one gives during a famine.**
 
-6. [SN2.23](https://s.dhamma.gift/sn/sn2/index.html#sn2.23)<br>tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
+6. [SN2.23](https://s.dhamma.gift/sn/sn2/index.html#sn2.23)
+   tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -146,7 +161,8 @@
 
 **Thus, my gifts were offered at the four gates to ascetics, brahmins, tramps and travellers, mendicants and beggars.**
 
-7. [MN49](https://s.dhamma.gift/mn/mn49/index.html)<br>eso hi, bhikkhu, **brahmā** mahābrahmā **abhibhū** anabhibhūto añña'd'atthu**daso** **vasavattī** **issaro** **kattā** **nimmātā** seṭṭho **sajitā** vasī pitā **bhūtabhabyānaṃ**.
+7. [MN49](https://s.dhamma.gift/mn/mn49/index.html)
+   eso hi, bhikkhu, **brahmā** mahābrahmā **abhibhū** anabhibhūto añña'd'atthu**daso** **vasavattī** **issaro** **kattā** **nimmātā** seṭṭho **sajitā** vasī pitā **bhūtabhabyānaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -180,7 +196,11 @@
 
 **Indeed, monk, this is Brahmā, great god almighty, supreme being, unvanquished, all seeing, wielding power, god, creator, designer, foremost assigner, master [and] father for those who are and who will be.**
 
-8. [AN5.36](https://s.dhamma.gift/an/an5/index.html#an5.36)<br>ye **tattha** anumodanti,<br>**veyyāvaccaṃ** karonti vā,<br>na tena **dakkhiṇā** ūnā,<br>te'pi **puññassa** **bhāgino**.
+8. [AN5.36](https://s.dhamma.gift/an/an5/index.html#an5.36)
+   ye **tattha** anumodanti,
+   **veyyāvaccaṃ** karonti vā,
+   na tena **dakkhiṇā** ūnā,
+   te'pi **puññassa** **bhāgino**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -202,7 +222,11 @@
 
 **[Given with a clear mind, one's offering is vast]; they who are pleased in that regard or do service, by means of that the offering is not deficient; they, too, partake in the merit.**
 
-9. [MN12](https://s.dhamma.gift/mn/mn12/index.html)<br>**sotatto** **sosinno** c'eva,<br>eko **bhiṃsanake** vane,<br>naggo na c'**aggim**'**āsīno**,<br>**esanāpasuto** munī'ti.
+9. [MN12](https://s.dhamma.gift/mn/mn12/index.html)
+   **sotatto** **sosinno** c'eva,
+   eko **bhiṃsanake** vane,
+   naggo na c'**aggim**'**āsīno**,
+   **esanāpasuto** munī'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -229,7 +253,11 @@
 
 **"Scorched, freezing, alone in a frightening grove, naked and not seated [next to] a fire, the sage is devoted to the quest."**
 
-10. [TH133](https://s.dhamma.gift/kn/thag/index.html#thag2.1)<br>accayanti aho**rattā**,<br>**jīvitaṃ** uparujjhati,<br>**āyu** khīyati **maccānaṃ**,<br>ku**nnadīnaṃ**'va **odakaṃ**.
+10. [TH133](https://s.dhamma.gift/kn/thag/index.html#thag2.1)
+    accayanti aho**rattā**,
+    **jīvitaṃ** uparujjhati,
+    **āyu** khīyati **maccānaṃ**,
+    ku**nnadīnaṃ**'va **odakaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -249,7 +277,9 @@
 
 **Days and nights fly past, life is finished. The life of mortal men is exhausted like the water of small streams.**
 
-11. [MN131](https://s.dhamma.gift/mn/mn131/index.html)<br>evaṃ **vihārim'ātāpiṃ**, ahorattam'**atanditaṃ**. <br>taṃ ve **bhadd**'ekaratto'ti, **santo** ācikkhate **muni**.
+11. [MN131](https://s.dhamma.gift/mn/mn131/index.html)
+    evaṃ **vihārim'ātāpiṃ**, ahorattam'**atanditaṃ**.
+    taṃ ve **bhadd**'ekaratto'ti, **santo** ācikkhate **muni**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -277,7 +307,8 @@
 
 **"Living thus ardently, tirelessly throughout the day and night, – it is, indeed, he, whom the peaceful sage describes as having a single auspicious night."**
 
-12. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)<br>**samādhisambojjh'aṅgo** tasmiṃ samaye bhikkhuno **bhāvanāpāripūriṃ** gacchati. so **tathāsamāhitaṃ** **cittaṃ** sādhukaṃ **ajjhupekkhitā** hoti.
+12. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)
+    **samādhisambojjh'aṅgo** tasmiṃ samaye bhikkhuno **bhāvanāpāripūriṃ** gacchati. so **tathāsamāhitaṃ** **cittaṃ** sādhukaṃ **ajjhupekkhitā** hoti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -304,7 +335,8 @@
 
 **On that occasion, concentration as a factor of enlightenment comes to full development for a monk by meditation; he is one who looks well with equanimity on the thus composed mind.**
 
-13. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61)<br>no ce te evaṃ **viharato** taṃ middhaṃ pahīyetha **tato** tvaṃ, **moggallāna**, ubho kaṇṇa**sotāni** āviñjeyyāsi pāṇinā **gattāni** anumajjeyyāsi
+13. [AN7.61](https://s.dhamma.gift/an/an7/index.html#an7.61)
+    no ce te evaṃ **viharato** taṃ middhaṃ pahīyetha **tato** tvaṃ, **moggallāna**, ubho kaṇṇa**sotāni** āviñjeyyāsi pāṇinā **gattāni** anumajjeyyāsi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -330,7 +362,11 @@
 
 **If that drowsiness could not be abandoned when you're dwelling in such a way, then you, Moggallāna, should pull both ear holes [and] you should rub [your] limbs with your hands.**
 
-14. [SNP51](https://s.dhamma.gift/kn/snp/index.html#snp4.13)<br>sa sabbadhammesu visenibhūto,<br>yaṃ kiñci **diṭṭhaṃ** va **sutaṃ** **mutaṃ** vā,<br>sa **pannabhāro** muni **vippamutto**,<br>na **kappiyo** n'ūparato na patthiyo'ti.
+14. [SNP51](https://s.dhamma.gift/kn/snp/index.html#snp4.13)
+    sa sabbadhammesu visenibhūto,
+    yaṃ kiñci **diṭṭhaṃ** va **sutaṃ** **mutaṃ** vā,
+    sa **pannabhāro** muni **vippamutto**,
+    na **kappiyo** n'ūparato na patthiyo'ti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -364,7 +400,11 @@
 
 **"He, disassociated in all things, anything whatever that has been seen or heard or perceived, the sage who has laid down the load is freed, not fabricating concepts, not abstained, not desiring."**
 
-15. [ITI76](https://s.dhamma.gift/kn/iti/index.html)<br>**sīlaṃ** rakkheyya **medhāvī**,<br>**patthayāno** tayo sukhe,<br>**pasaṃsaṃ** **vittalābhañ**'ca,<br>pecca **sagge** **pamodanaṃ**.
+15. [ITI76](https://s.dhamma.gift/kn/iti/index.html)
+    **sīlaṃ** rakkheyya **medhāvī**,
+    **patthayāno** tayo sukhe,
+    **pasaṃsaṃ** **vittalābhañ**'ca,
+    pecca **sagge** **pamodanaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -386,7 +426,11 @@
 
 **The intelligent man should protect virtue, aspiring for three pleasures: praise, the gaining of wealth, and after death delighting in heaven [realms].**
 
-16. [SN1.49](https://s.dhamma.gift/sn/sn1/index.html#sn1.49)<br>sace enti **manussattaṃ**,<br>dalidde jāyare **kule**,<br>coḷaṃ **piṇḍo** **ratī** khiḍḍā,<br>**yattha** kicchena labbhati.
+16. [SN1.49](https://s.dhamma.gift/sn/sn1/index.html#sn1.49)
+    sace enti **manussattaṃ**,
+    dalidde jāyare **kule**,
+    coḷaṃ **piṇḍo** **ratī** khiḍḍā,
+    **yattha** kicchena labbhati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -402,11 +446,15 @@
 | khiḍḍā | noun | fem.nom.sg | amusement; play; entertainment | |
 | **yattha** | ind | adv | wherever; where | ya + ttha |
 | kicchena | ind | adv | with difficulty; with hardship | kiccha + ena |
-| labbhati | verb | pr.pass.3rd.sg | is obtained; is found<br>(used here in pl.) | √labh + ya + ti |
+| labbhati | verb | pr.pass.3rd.sg | is obtained; is found / (used here in pl.) | √labh + ya + ti |
 
 **If they (i.e. stingy people) come [back] to a human state, they are born in a poor family, where clothing, a bit of food, pleasure, [and] entertainment are obtained with difficulty.**
 
-17. [DHP326](https://s.dhamma.gift/kn/dhp/index.html#dhp320)<br>idaṃ pure cittam'acāri **cārikaṃ**,<br>yen'**icchakaṃ** **yattha**kāmaṃ yathāsukhaṃ,<br>tadajj'ahaṃ niggahessāmi **yoniso**,<br>**hatthippabhinnaṃ** viya **aṅkusaggaho**.
+17. [DHP326](https://s.dhamma.gift/kn/dhp/index.html#dhp320)
+    idaṃ pure cittam'acāri **cārikaṃ**,
+    yen'**icchakaṃ** **yattha**kāmaṃ yathāsukhaṃ,
+    tadajj'ahaṃ niggahessāmi **yoniso**,
+    **hatthippabhinnaṃ** viya **aṅkusaggaho**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -441,7 +489,9 @@
 
 **Formerly this mind wandered around on a walking tour wherever it wants, wherever it liked, according to its pleasure, now I will restrain that thoroughly like an elephant driver holding a hooked pole to an elephant in rut (i.e. with juices flowing).**
 
-18. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)<br>aṭṭha**padakatā** kesā, **nettā** **añjanamakkhitā**. <br>alaṃ bālassa **mohāya**, no ca pāra**gavesino**.
+18. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)
+    aṭṭha**padakatā** kesā, **nettā** **añjanamakkhitā**.
+    alaṃ bālassa **mohāya**, no ca pāra**gavesino**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -20,7 +20,7 @@
 
 | | |
 | --- | --- |
-| A.K. Warder Introduction to Pāḷi | p10 – 13 (1st conjugation group)<br>p15 – 17 (irregular bases)<br>p21 – 22 (7th conjugation group) |
-| V. Perniola<br>Pāḷi Grammar | p70 – 84 (chapter 6 verbs) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | p83 – 93 (chapter 10 verbs) |
+| A.K. Warder Introduction to Pāḷi | p10 – 13 (1st conjugation group) / p15 – 17 (irregular bases) / p21 – 22 (7th conjugation group) |
+| V. Perniola / Pāḷi Grammar | p70 – 84 (chapter 6 verbs) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p83 – 93 (chapter 10 verbs) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

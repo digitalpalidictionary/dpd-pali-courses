@@ -1,5 +1,6 @@
 # Class 3 Key to Exercises
-1. [MN4](https://s.dhamma.gift/mn/mn4/index.html)<br>ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
+1. [MN4](https://s.dhamma.gift/mn/mn4/index.html)
+   ahaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -11,7 +12,8 @@
 
 **I go for refuge to the master Gotama**
 
-2. [DHP130](https://s.dhamma.gift/kn/dhp/index.html#dhp129) <br>sabbe tasanti daṇḍassa.
+2. [DHP130](https://s.dhamma.gift/kn/dhp/index.html#dhp129)
+   sabbe tasanti daṇḍassa.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -21,7 +23,8 @@
 
 **All are fearful of a stick.**
 
-3. [MN27](https://s.dhamma.gift/mn/mn27/index.html) <br>tathāgate saddhaṃ paṭilabhati
+3. [MN27](https://s.dhamma.gift/mn/mn27/index.html)
+   tathāgate saddhaṃ paṭilabhati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -31,7 +34,8 @@
 
 **He obtains faith in the Tathāgata.**
 
-4. [MN64](https://s.dhamma.gift/mn/mn64/index.html) <br>so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.
+4. [MN64](https://s.dhamma.gift/mn/mn64/index.html)
+   so tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -44,7 +48,8 @@
 
 **Remaining there, he reaches the destruction of the defilements.**
 
-5. [DHP354](https://s.dhamma.gift/kn/dhp/index.html#dhp334) <br>sabbarasaṃ dhammaraso jināti
+5. [DHP354](https://s.dhamma.gift/kn/dhp/index.html#dhp334)
+   sabbarasaṃ dhammaraso jināti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -54,7 +59,8 @@
 
 **The flavour of the Dhamma surpasses every flavour.**
 
-6. [MN39](https://s.dhamma.gift/mn/mn39/index.html) <br>so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
+6. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+   so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -65,7 +71,8 @@
 
 **He knows clearly "this is suffering" as it truly is.**
 
-7. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) <br>paṭiggaṇhātu āyasmā cīvaracetāpannaṃ
+7. [VIN PAT NP 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
+   paṭiggaṇhātu āyasmā cīvaracetāpannaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -75,7 +82,8 @@
 
 **Let the venerable receive the robe-fund.**
 
-8. [DN19.7](https://s.dhamma.gift/dn/dn19/index.html) (simpl) <br>rājā jotipālaṃ māṇavaṃ āmantayati
+8. [DN19.7](https://s.dhamma.gift/dn/dn19/index.html) (simpl)
+   rājā jotipālaṃ māṇavaṃ āmantayati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -86,7 +94,8 @@
 
 **The king addresses the young gentleman (brahmin), Protector of the Light (Jotipāla).**
 
-9. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl) <br>so kāyaṃ vivekajena pītisukhena paripūreti
+9. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
+   so kāyaṃ vivekajena pītisukhena paripūreti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -98,7 +107,8 @@
 
 **He completely fills up the body with joy and happiness produced by seclusion.**
 
-10. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html) <br>sukhaṃ ca kāyena paṭisaṃvedeti
+10. [DN22.18](https://s.dhamma.gift/dn/dn22/index.html)
+    sukhaṃ ca kāyena paṭisaṃvedeti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -109,7 +119,8 @@
 
 **He experiences pleasure by means of the body.**
 
-11. [SNP22](https://s.dhamma.gift/kn/snp/index.html#snp2.10)<br>devā manussā ca sitā tiṭṭhanti
+11. [SNP22](https://s.dhamma.gift/kn/snp/index.html#snp2.10)
+    devā manussā ca sitā tiṭṭhanti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -121,7 +132,8 @@
 
 **Deities and human beings remain attached.**
 
-12. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11) (simpl)<br>paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
+12. [SN56.11](https://s.dhamma.gift/sn/sn56/index.html#sn56.11) (simpl)
+    paṭipadā upasamāya sambodhāya nibbānāya saṃvattati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -133,7 +145,8 @@
 
 **The path of practice is conducive for calmness, full awakening [and] total emancipation.**
 
-13. [MN27](https://s.dhamma.gift/mn/mn27/index.html) (simpl)<br>dhammaṃ suṇāti putto
+13. [MN27](https://s.dhamma.gift/mn/mn27/index.html) (simpl)
+    dhammaṃ suṇāti putto
 
 | | | | |
 | --- | --- | --- | --- |
@@ -143,7 +156,8 @@
 
 **The son listens to the Dhamma.**
 
-14. [AN3.71](https://s.dhamma.gift/an/an3/index.html#an3.70) (simpl)<br>sāvako dhammaṃ anussarati
+14. [AN3.71](https://s.dhamma.gift/an/an3/index.html#an3.70) (simpl)
+    sāvako dhammaṃ anussarati
 
 | | | | |
 | --- | --- | --- | --- |
@@ -153,7 +167,8 @@
 
 **The disciple recollects the Dhamma.**
 
-15. [AN4.180](https://s.dhamma.gift/an/an4/index.html#an4.180) (simpl)<br>āvāse therā viharanti
+15. [AN4.180](https://s.dhamma.gift/an/an4/index.html#an4.180) (simpl)
+    āvāse therā viharanti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -163,7 +178,8 @@
 
 **The elders dwell in the residence.**
 
-16. [MN2.4](https://s.dhamma.gift/mn/mn2/index.html)<br>parikkhāraṃ paṭisevāmi
+16. [MN2.4](https://s.dhamma.gift/mn/mn2/index.html)
+    parikkhāraṃ paṭisevāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -172,7 +188,8 @@
 
 **I make use of the requisite.**
 
-17. [AN3.79](https://s.dhamma.gift/an/an3/index.html#an3.78)<br>kusalā dhammā abhivaḍḍhanti
+17. [AN3.79](https://s.dhamma.gift/an/an3/index.html#an3.78)
+    kusalā dhammā abhivaḍḍhanti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -182,7 +199,8 @@
 
 **Wholesome states of mind increase more and more.**
 
-18. [SN22.25](https://s.dhamma.gift/sn/sn22/index.html#sn22.25) (simpl)<br>saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
+18. [SN22.25](https://s.dhamma.gift/sn/sn22/index.html#sn22.25) (simpl)
+    saṅkhāresu chandaṃ ca rāgaṃ pajahatha.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -194,7 +212,8 @@
 
 **Abandon interest and desire for volitional formations.**
 
-19. [MN104](https://s.dhamma.gift/mn/mn104/index.html) (simpl)<br>passatha, ānanda, vacanassa pathaṃ
+19. [MN104](https://s.dhamma.gift/mn/mn104/index.html) (simpl)
+    passatha, ānanda, vacanassa pathaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -205,18 +224,20 @@
 
 **You see, Ānanda, a course of speech**
 
-20. [SN55.6](https://s.dhamma.gift/sn/sn55/index.html#sn55.6) (simpl)<br>suṇāma: kosalehi mallesu pakkamati
+20. [SN55.6](https://s.dhamma.gift/sn/sn55/index.html#sn55.6) (simpl)
+    suṇāma: kosalehi mallesu pakkamati
 
 | | | | |
 | --- | --- | --- | --- |
 | suṇāma | verb | pr.1st.pl | we hear |
 | kosalehi | noun | masc.abl.pl | from the Kosalans |
-| mallesu | noun | masc.loc.pl | in / among the Mallans |
+| mallesu | noun | masc.loc.pl | in/among the Mallans |
 | pakkamati | verb | pr.3rd.sg | he goes away/sets out |
 
 **We hear: (the Blessed One) sets out from the Kosalans (on tour) in the Mallans.**
 
-21. [MN133](https://s.dhamma.gift/mn/mn133/index.html) (simpl)<br>dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
+21. [MN133](https://s.dhamma.gift/mn/mn133/index.html) (simpl)
+    dhārehi, bhikkhu, uddesaṃ ca vibhaṅgaṃ ca
 
 | | | | |
 | --- | --- | --- | --- |
@@ -228,7 +249,8 @@
 
 **Remember, monk, the summary and the analysis.**
 
-22. [SN35.248](https://s.dhamma.gift/sn/sn35/index.html#sn35.248) (simpl)<br>puthujjano punabbhavāya ceteti
+22. [SN35.248](https://s.dhamma.gift/sn/sn35/index.html#sn35.248) (simpl)
+    puthujjano punabbhavāya ceteti
 
 | | | | |
 | --- | --- | --- | --- |
@@ -238,7 +260,8 @@
 
 **A common person intends for rebirth.**
 
-23. [SNP34](https://s.dhamma.gift/kn/snp/index.html#snp3.8)<br>passa lokassa pariyāyaṃ.
+23. [SNP34](https://s.dhamma.gift/kn/snp/index.html#snp3.8)
+    passa lokassa pariyāyaṃ.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -248,7 +271,8 @@
 
 **See the nature of the world.**
 
-24. [MN36](https://s.dhamma.gift/mn/mn36/index.html)<br>taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
+24. [MN36](https://s.dhamma.gift/mn/mn36/index.html)
+    taṃ suṇāhi, sādhukaṃ manasi karohi, bhāsissāmi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -261,7 +285,8 @@
 
 **Listen to that, thoroughly pay attention, I will speak.**
 
-25. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl)<br>pātimokkhe saṃvarena viharāhi
+25. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl)
+    pātimokkhe saṃvarena viharāhi
 
 | | | | |
 | --- | --- | --- | --- |
@@ -271,7 +296,8 @@
 
 **Dwell with restraint according to the disciplinary code!**
 
-26. [VIN PAT PC 36](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)<br>handa bhikkhu khāda vā bhuñja vā
+26. [VIN PAT PC 36](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
+    handa bhikkhu khāda vā bhuñja vā
 
 | | | | |
 | --- | --- | --- | --- |
@@ -283,7 +309,8 @@
 
 **Come on, bhikkhu, eat or consume!**
 
-27. [MN43](https://s.dhamma.gift/mn/mn43/index.html)<br>āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
+27. [MN43](https://s.dhamma.gift/mn/mn43/index.html)
+    āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma
 
 | | | | |
 | --- | --- | --- | --- |
@@ -295,7 +322,8 @@
 
 **We understand the statement of venerable Sāriputta thus.**
 
-28. [MN48](https://s.dhamma.gift/mn/mn48/index.html)<br>labhāmi paccattaṃ samathaṃ
+28. [MN48](https://s.dhamma.gift/mn/mn48/index.html)
+    labhāmi paccattaṃ samathaṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -305,7 +333,8 @@
 
 **I obtain serenity individually.**
 
-29. VIN<br>passasi taṃ āpattiṃ
+29. VIN
+    passasi taṃ āpattiṃ
 
 | | | | |
 | --- | --- | --- | --- |
@@ -315,7 +344,8 @@
 
 **You see that offence.**
 
-30. [SN41.3](https://s.dhamma.gift/sn/sn41/index.html#sn41.3)<br>gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
+30. [SN41.3](https://s.dhamma.gift/sn/sn41/index.html#sn41.3)
+    gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
 
 | | | | |
 | --- | --- | --- | --- |
@@ -329,7 +359,8 @@
 
 ## Class 3 Extra
 
-1. [MN30](https://s.dhamma.gift/mn/mn30/index.html) (simpl) <br> brāhmaṇa, puggalaṃ vadāmi.
+1. [MN30](https://s.dhamma.gift/mn/mn30/index.html) (simpl)
+   brāhmaṇa, puggalaṃ vadāmi.
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |
@@ -339,7 +370,8 @@
 
 **O brahmin, I speak (about) a person.**
 
-2. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) (simpl) <br>sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
+2. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1) (simpl)
+   sādhu āyasmantaṃ sāriputtaṃ paṭibhātu etassa bhāsitassa attho
 
 | | | | |
 | --- | --- | --- | --- |
@@ -351,4 +383,5 @@
 | bhāsitassa | noun | nt.gen.sg | statement |
 | attho | noun | masc.nom.sg | the meaning |
 
-**It would be good if the meaning of this statement may become evident to Venerable Sāriputta. (so that he could explain it to us)<br>fig: It would be good if Ven. Sāriputta would explain the meaning of this statement.**
+**It would be good if the meaning of this statement may become evident to Venerable Sāriputta. (so that he could explain it to us)**
+**fig: It would be good if Ven. Sāriputta would explain the meaning of this statement.**

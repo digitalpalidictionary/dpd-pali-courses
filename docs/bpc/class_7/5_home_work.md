@@ -15,5 +15,5 @@
 | | |
 | --- | --- |
 | A.K. Warder Introduction to Pāḷi | p86-88 (optative mood) |
-| V. Perniola<br>Pāḷi Grammar | p85–87 (Optative verbs) |
+| V. Perniola / Pāḷi Grammar | p85–87 (Optative verbs) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

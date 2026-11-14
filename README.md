@@ -148,6 +148,9 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 - **`fix_heading_hierarchy.py`**: Normalizes heading levels across all Markdown files. Converts bolded top lines to H1 headings and ensures no heading levels are skipped (e.g., `#` to `###` becomes `#` to `##`).
   - Usage: `uv run python scripts/fix_heading_hierarchy.py`
 
+- **`convert_br_markup.py`**: Converts raw `<br>` and `{: … }` markup in the six English course folders to the plain text conventions: stacked table cells use ` / `, an exercise sentence sits on an indented line below its header, an attribution starts with `— `, and heading ids are left to the `toc` extension. Dry run by default; every file is checked so no text is lost. Already run on every build by the two `.sh` scripts below.
+  - Usage: `uv run python scripts/convert_br_markup.py [--apply]`
+
 - **`fixing_tables.py`**: Performs automated cleanup of Markdown tables. Normalizes cell padding, standardizes separator rows, and strips unnecessary bolding from footnote definitions.
   - Usage: `uv run python scripts/fixing_tables.py`
 
@@ -169,10 +172,10 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 
 Pre-processing scripts run a series of checks and corrections before building the website or documents:
 
-- **`web_preprocessing.sh`**: Runs all pre-processing steps required before building the MkDocs website (generates metadata, renumbers content, cleans links, updates CSS).
+- **`web_preprocessing.sh`**: Runs all pre-processing steps required before building the MkDocs website (generates metadata, renumbers content, cleans links, rewrites sutta links, converts `<br>`/`{: … }` markup, updates CSS).
   - Usage: `uv run bash scripts/web_preprocessing.sh`
 
-- **`pdf_preprocessing.sh`**: Runs pre-processing steps required before generating PDF and DOCX documents.
+- **`pdf_preprocessing.sh`**: Runs pre-processing steps required before generating PDF and DOCX documents (including the sutta-link rewrite and the markup conversion).
   - Usage: `uv run bash scripts/pdf_preprocessing.sh`
 
 ### Content Improvement & Writing

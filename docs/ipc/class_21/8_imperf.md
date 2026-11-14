@@ -12,16 +12,19 @@ This past tense has also almost completely died out in Pāli, apart from some co
 
 This verbal form also can take an **a-** augment in front, like the aorist. Let’s look at the conjugation.
 
-**Imperfect Past Parassapada “went or was going”<br>(√gam)**
+**Imperfect Past Parassapada “went or was going”**
+**(√gam)**
 
 | | | |
 | --- | --- | --- |
 | | **sg** | **pl** |
-| 3 paṭhama | agam**ā** | agam**u<br>**agam**ū**<br>agam**uṃ** |
+| 3 paṭhama | agam**ā** | agam**u / **agam**ū** / agam**uṃ** |
 | 2 majjhima | agam**o** | agam**attha** |
-| 1 uttama | agam**a**<br>agam**aṃ** | agam**amhā** |
+| 1 uttama | agam**a** / agam**aṃ** | agam**amhā** |
 
-**Imperfect Past Attanopada <br>“went by oneself or was going by oneself”<br>(√gam)**
+**Imperfect Past Attanopada**
+**“went by oneself or was going by oneself”**
+**(√gam)**
 
 | | | |
 | --- | --- | --- |

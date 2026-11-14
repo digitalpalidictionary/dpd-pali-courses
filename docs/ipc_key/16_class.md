@@ -62,7 +62,8 @@
 
 **Break up all the sandhis in the following sentences.**
 
-1. [MN48](https://s.dhamma.gift/mn/mn48/index.html)<br>idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca.
+1. [MN48](https://s.dhamma.gift/mn/mn48/index.html)
+   idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi c'eva raho ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -88,7 +89,8 @@
 
 **Here, monks, a monk has established (lit: there is established for a monk) kind bodily action(s) in regard to his spiritual companions, openly and even privately.**
 
-2. [SN22.63](https://s.dhamma.gift/sn/sn22/index.html#sn22.63)<br>yass'atthāya kulaputtā samma'd'eva agārasmā anagāriyaṃ pabbajanti tad'anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
+2. [SN22.63](https://s.dhamma.gift/sn/sn22/index.html#sn22.63)
+   yass'atthāya kulaputtā samma'd'eva agārasmā anagāriyaṃ pabbajanti tad'anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -126,7 +128,8 @@
 
 [^1]: Abhiññā is analysed here as a gerund, "directly knowing". Some read it as the instrumental singular of the noun abhiññā, "by direct knowledge".
 
-3. [MN117](https://s.dhamma.gift/mn/mn117/index.html)<br>iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
+3. [MN117](https://s.dhamma.gift/mn/mn117/index.html)
+   iti'ss'ime tayo dhammā sammādiṭṭhiṃ anuparidhāvanti anuparivattanti, seyyath'idaṃ, sammādiṭṭhi, sammāvāyāmo, sammāsati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -157,7 +160,8 @@
 
 **Thus, for him these three states circle around, rotate around right view; that is, right view, right effort, [and] right mindfulness.**
 
-4. [MN21](https://s.dhamma.gift/mn/mn21/index.html)<br>ubhatodaṇḍakena ce'pi kakacena corā ocarakā aṅgam'aṅgāni okanteyyuṃ, tatrā'pi yo mano padūseyya, na me so tena sāsanakaro.
+4. [MN21](https://s.dhamma.gift/mn/mn21/index.html)
+   ubhatodaṇḍakena ce'pi kakacena corā ocarakā aṅgam'aṅgāni okanteyyuṃ, tatrā'pi yo mano padūseyya, na me so tena sāsanakaro.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -190,7 +194,8 @@
 
 **Even if mean thieves should cut off [your] [limbs] limb by limb with a double-handled saw, even in that case, whoever would cause the mind to be corrupt because of that, he is not the one practising my teaching.**
 
-5. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)<br>yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
+5. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+   yaṃ pan'āniccaṃ dukkhaṃ vipariṇāma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ — 'etaṃ mama, eso'ham'asmi, eso me attā'ti? "no h'etaṃ, bhante".
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -225,7 +230,8 @@
 
 **Whatever is impermanent, suffering, and of a changing nature, is it suitable to regard that as "this [is] mine, this I am, this [is] my self"? Certainly not (lit: this indeed not), venerable sir.**
 
-6. [MN139](https://s.dhamma.gift/mn/mn139/index.html)<br>iti kho pan'etaṃ vuttaṃ. kiñ'c'etaṃ paṭicca vuttaṃ?
+6. [MN139](https://s.dhamma.gift/mn/mn139/index.html)
+   iti kho pan'etaṃ vuttaṃ. kiñ'c'etaṃ paṭicca vuttaṃ?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -244,7 +250,8 @@
 
 **Thus, indeed, it has been said. And depending on what has this been said?**
 
-7. [MN140](https://s.dhamma.gift/mn/mn140/index.html)<br>tass'eva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. sv'āssa pahīno hoti ucchinnamūlo tāl'āvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
+7. [MN140](https://s.dhamma.gift/mn/mn140/index.html)
+   tass'eva kho pana pubbe aviddasuno abhijjhā hoti chando sārāgo. sv'āssa pahīno hoti ucchinnamūlo tāl'āvatthukato anabhāvaṃkato āyatiṃ anuppādadhammo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -284,7 +291,9 @@
 
 **Formerly, indeed, for that ignorant one, there was covetousness, desire and passion. [But now] for him that has been abandoned, it has been uprooted like a palm tree, totally annihilated, never arising again in the future.**
 
-8. [SNP62](https://s.dhamma.gift/kn/snp/index.html#snp5.8)<br>santi loke munayo, janā vadanti ta'y'idaṃ kathaṃsu, <br>ñāṇ'ūpapannaṃ no muniṃ vadanti, udāhu ve jīviten'ūpapannaṃ.
+8. [SNP62](https://s.dhamma.gift/kn/snp/index.html#snp5.8)
+   santi loke munayo, janā vadanti ta'y'idaṃ kathaṃsu,
+   ñāṇ'ūpapannaṃ no muniṃ vadanti, udāhu ve jīviten'ūpapannaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -313,7 +322,8 @@
 
 **There are sages in the world, people say, but how is that so? Do they call one a sage (because of) having knowledge or rather (because of) having lifestyle?**
 
-9. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) <br>neso dhammo neso vinayo netaṃ satthusāsananti
+9. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)
+   neso dhammo neso vinayo netaṃ satthusāsananti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -335,7 +345,8 @@
 
 **This is not the teaching, this is not the discipline, this is not the teacher's instruction.**
 
-10. [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63) <br>cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
+10. [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63)
+    cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -356,7 +367,8 @@
 
 **Monks, there are these four fuels for the maintenance of existing sentient beings or for the support of those seeking birth.**
 
-11. [AN4.45](https://s.dhamma.gift/an/an4/index.html#an4.45) <br>na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
+11. [AN4.45](https://s.dhamma.gift/an/an4/index.html#an4.45)
+    na cāhaṃ, āvuso, appatvāva lokassa antaṃ dukkhassa antakiriyaṃ vadāmi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -376,7 +388,8 @@
 
 **But I also say, friends, that without reaching the end of the world, (there is) no ending of suffering.**
 
-12. [AN2.89](https://s.dhamma.gift/an/an2/index.html#an2.89) <br>dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
+12. [AN2.89](https://s.dhamma.gift/an/an2/index.html#an2.89)
+    dveme, bhikkhave, dhammā. katame dve? paggāho ca avikkhepo ca.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -394,7 +407,8 @@
 
 **Monks there are these two things. What two? Effort and tranquility.**
 
-13. [SN22.81](https://s.dhamma.gift/sn/sn22/index.html#sn22.81) <br>ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
+13. [SN22.81](https://s.dhamma.gift/sn/sn22/index.html#sn22.81)
+    ekova bhagavā tasmiṃ samaye viharitukāmo hoti na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotīti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -420,7 +434,11 @@
 
 **"At that time the Buddha wishes to just live alone, at that time he should not be followed by anyone."**
 
-14. [SN9.3](https://s.dhamma.gift/sn/sn9/index.html#sn9.3) <br>sacepi dasa pajjote,<br>dhārayissasi kassapa,<br>neva dakkhati rūpāni,<br>cakkhu hissa na vijjatīti.
+14. [SN9.3](https://s.dhamma.gift/sn/sn9/index.html#sn9.3)
+    sacepi dasa pajjote,
+    dhārayissasi kassapa,
+    neva dakkhati rūpāni,
+    cakkhu hissa na vijjatīti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -447,7 +465,8 @@
 
 **Even if you would carry ten lamps, Kassapa, he would not see forms, because he does not have sight.**
 
-15. [MN95](https://s.dhamma.gift/mn/mn95/index.html) <br>no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
+15. [MN95](https://s.dhamma.gift/mn/mn95/index.html)
+    no cetaṃ chando jāyetha, nayidaṃ ussaheyya.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -464,7 +483,8 @@
 
 **If this desire did not arise, one would not strive (lit: if this desire would not arise, one would not make this effort).**
 
-16. [SN47.10](https://s.dhamma.gift/sn/sn47/index.html#sn47.10) <br>yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
+16. [SN47.10](https://s.dhamma.gift/sn/sn47/index.html#sn47.10)
+    yassa khvāhaṃ atthāya cittaṃ paṇidahiṃ so me attho abhinipphanno
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -482,7 +502,8 @@
 
 **For whichever purpose I directed the mind, that purpose has definitely been accomplished by me.**
 
-17. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57) <br>maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
+17. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57)
+    maraṇadhammomhi, maraṇaṃ anatītoti abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -507,7 +528,11 @@
 
 **"I am of the nature to die, I am not free from death," should be reflected on often by a woman or a man, a householder or a renunciant.**
 
-18. [SNP7](https://s.dhamma.gift/kn/snp/index.html#snp1.7) <br>ekajaṃ vā dvijaṃ vāpi,<br>yodha pāṇaṃ vihiṃsati,<br>yassa pāṇe dayā natthi,<br>taṃ jaññā vasalo iti.
+18. [SNP7](https://s.dhamma.gift/kn/snp/index.html#snp1.7)
+    ekajaṃ vā dvijaṃ vāpi,
+    yodha pāṇaṃ vihiṃsati,
+    yassa pāṇe dayā natthi,
+    taṃ jaññā vasalo iti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -537,9 +562,11 @@
 | vasalo | noun | masc.nom.sg | outcast, low caste | |
 | iti | ind | - | "" | |
 
-**Whoever here harms a living being, once born or even twice born,<br>who has no compassion for a living being, one should know him as an "outcast".**
+**Whoever here harms a living being, once born or even twice born,**
+**who has no compassion for a living being, one should know him as an "outcast".**
 
-19. [MN3](https://s.dhamma.gift/mn/mn3/index.html) <br>yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
+19. [MN3](https://s.dhamma.gift/mn/mn3/index.html)
+    yaṃnūnāhaṃ imaṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā evaṃ imaṃ rattindivaṃ vītināmeyyanti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -565,7 +592,8 @@
 
 **What if I were to eat this alms-food, get rid of hunger and weakness, and spend this night and day in this way.**
 
-20. [AN4.35](https://s.dhamma.gift/an/an4/index.html#an4.35) <br>neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
+20. [AN4.35](https://s.dhamma.gift/an/an4/index.html#an4.35)
+    neva kho tyāhaṃ, brāhmaṇa, anumodāmi na paṭikkosāmi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -583,7 +611,9 @@
 
 **Brahmin, I neither endorse nor disapprove of you.**
 
-21. [DHP62](https://s.dhamma.gift/kn/dhp/index.html#dhp60)<br>puttā matthi dhanammatthi. iti bālo vihaññati.<br>attā hi attano natthi, kuto puttā kuto dhanaṃ.
+21. [DHP62](https://s.dhamma.gift/kn/dhp/index.html#dhp60)
+    puttā matthi dhanammatthi. iti bālo vihaññati.
+    attā hi attano natthi, kuto puttā kuto dhanaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -613,7 +643,9 @@
 
 ## Class 16 Extra Examples
 
-1. [DHP389](https://s.dhamma.gift/kn/dhp/index.html#dhp383)<br>na brāhmaṇassa pahareyya, n'āssa muñcetha brāhmaṇo, <br>dhī brāhmaṇassa hantāraṃ, tato dhī y'assa muñcati.
+1. [DHP389](https://s.dhamma.gift/kn/dhp/index.html#dhp383)
+   na brāhmaṇassa pahareyya, n'āssa muñcetha brāhmaṇo,
+   dhī brāhmaṇassa hantāraṃ, tato dhī y'assa muñcati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -637,7 +669,8 @@
 
 **One should not strike a brahmin, (but) a brahmin should not get angry with that one (who hits him); woe on the striker of a brahmin! More woe on him, whoever gets angry with one (who hits him)!**
 
-2. [MN12](https://s.dhamma.gift/mn/mn12/index.html)<br>abhijānāmi kho pan'āhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī su'daṃ homi paramatapassī
+2. [MN12](https://s.dhamma.gift/mn/mn12/index.html)
+   abhijānāmi kho pan'āhaṃ, sāriputta, caturaṅgasamannāgataṃ brahmacariyaṃ caritā, tapassī su'daṃ homi paramatapassī
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -667,7 +700,11 @@
 
 **And certainly, Sāriputta, I recall [that] I [was] an ascetic, one who practiced the spiritual path endowed with four components. Truly, I was that, a supreme ascetic.**
 
-3. [DHP338](https://s.dhamma.gift/kn/dhp/index.html#dhp334)<br>yathā'pi mūle anupaddave daḷhe, <br>chinno'pi rukkho puna'r'eva rūhati, <br>evam'pi taṇh'ānusaye anūhate, <br>nibbattatī dukkham'idaṃ punappunaṃ.
+3. [DHP338](https://s.dhamma.gift/kn/dhp/index.html#dhp334)
+   yathā'pi mūle anupaddave daḷhe,
+   chinno'pi rukkho puna'r'eva rūhati,
+   evam'pi taṇh'ānusaye anūhate,
+   nibbattatī dukkham'idaṃ punappunaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -696,7 +733,7 @@
 | anūhate | pp | masc.loc.sg | when not destroyed; not uprooted | √han･1 a (strike, kill) |
 | \#na | prefix | | not | |
 | \#ūhate | pp | masc.loc.sg | removed; taken away | √han･1 a (strike, kill) |
-| nibbattati | verb | pr.3rd.sg <br>(i \> ī) | re-arises; re-appears; regrows; is reborn | √vatt･1 a (be, proceed) |
+| nibbattati | verb | pr.3rd.sg / (i \> ī) | re-arises; re-appears; regrows; is reborn | √vatt･1 a (be, proceed) |
 | dukkham'idaṃ | sandhi | noun+pron | this suffering | |
 | \#dukkhaṃ | noun | nt.nom.sg | suffering | |
 | \#idaṃ | pron | nt.nom.sg | this | √dukkh･1 a (be painful) |
@@ -706,7 +743,8 @@
 
 **Just as when a root is free from danger and strong, even if the tree is cut down, it grows again; similarly, when the underlying tendency of craving is not uprooted, suffering arises again and again.**
 
-4. [VIN PAT SA 6](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) <br>saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā. tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā.
+4. [VIN PAT SA 6](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
+   saññācikāya pana bhikkhunā kuṭiṃ kārayamānena, assāmikaṃ att'uddesaṃ, pamāṇikā kāretabbā. tatr'idaṃ pamāṇaṃ: dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -749,7 +787,9 @@
 
 **Twelve spans of the sugata-span in length [and] seven [span] across inside.**
 
-5. [DHP407](https://s.dhamma.gift/kn/dhp/index.html#dhp383)<br>yassa rāgo ca doso ca, māno makkho ca pātito, <br>sāsapo'r'iva ār'aggā, tam'ahaṃ brūmi brāhmaṇaṃ.
+5. [DHP407](https://s.dhamma.gift/kn/dhp/index.html#dhp383)
+   yassa rāgo ca doso ca, māno makkho ca pātito,
+   sāsapo'r'iva ār'aggā, tam'ahaṃ brūmi brāhmaṇaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -775,7 +815,8 @@
 
 **[One] for whom desire and ill-will, conceit and denigrating are dropped (caused to fall), like a mustard seed from the tip of a needle - that one I call a brahmin.**
 
-6. [SN47.12](https://s.dhamma.gift/sn/sn47/index.html#sn47.12)<br>atha kiñ'carahi ty'āyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ek'aṃso gahito, sīhanādo nadito
+6. [SN47.12](https://s.dhamma.gift/sn/sn47/index.html#sn47.12)
+   atha kiñ'carahi ty'āyaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ek'aṃso gahito, sīhanādo nadito
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -802,7 +843,8 @@
 
 **So, how is it then, Sāriputta, that this lofty, imposing statement, taken as definite, has been spoken, (that) a lion's roar has been roared by you?**
 
-7. [MN18](https://s.dhamma.gift/mn/mn18/index.html) <br>esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
+7. [MN18](https://s.dhamma.gift/mn/mn18/index.html)
+   esevanto rāgānusayānaṃ, esevanto paṭighānusayānaṃ, esevanto diṭṭhānusayānaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -830,7 +872,8 @@
 
 **Just this is the end of the latent tendencies to passion, just this is the end of the latent tendencies to aversion, just this is the end of the latent tendencies to view.**
 
-8. [SNP7](https://s.dhamma.gift/kn/snp/index.html#snp1.7) <br>disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
+8. [SNP7](https://s.dhamma.gift/kn/snp/index.html#snp1.7)
+   disvāna bhagavantaṃ etadavoca, tatreva, muṇḍaka, tatreva, samaṇaka, tatreva, vasalaka tiṭṭhāhīti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

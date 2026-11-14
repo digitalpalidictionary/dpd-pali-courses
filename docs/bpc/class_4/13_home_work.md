@@ -9,7 +9,7 @@
 
 | | |
 | --- | --- |
-| A.K. Warder Introduction to Pāḷi | p23 – 26 (aorist)<br>p121 – 122 (masculine nouns ending in i) |
-| V. Perniola<br>Pāḷi Grammar | p32 – 34 (masculine nouns ending in i)<br>p73 – 74 (vowel gradation)<br>p91 – 98 (aorist) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | p19 – 20 (assimilation of y)<br>p30 – 31 (masculine nouns ending in i)<br>p93 – 97 (aorist) |
+| A.K. Warder Introduction to Pāḷi | p23 – 26 (aorist) / p121 – 122 (masculine nouns ending in i) |
+| V. Perniola / Pāḷi Grammar | p32 – 34 (masculine nouns ending in i) / p73 – 74 (vowel gradation) / p91 – 98 (aorist) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p19 – 20 (assimilation of y) / p30 – 31 (masculine nouns ending in i) / p93 – 97 (aorist) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

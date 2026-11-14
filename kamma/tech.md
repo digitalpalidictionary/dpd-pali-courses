@@ -35,6 +35,14 @@ The `--dpd` buckets still leave rows DPD alone cannot settle, so a human/agent p
 ## Sutta links (added November 2026)
 All sutta/Vinaya references link to `https://s.dhamma.gift/...` (the old `find.dhamma.gift/bw/` host is dead; GitHub #9). Rules live in `scripts/rewrite_sutta_links.py` (`map_url`): mn/dn -> `/mn/mnN/index.html`; sn/an -> `/sn|an/<book>/index.html#<id>`; snp, ud, kp, dhp, thag, thig, iti under `/kn/...` (dhp anchor `#dhpA`, tha/thi `#thagN.1`/`#thigN.1`); Vinaya under `/vin/tv/pli-tv-...` (old `bu-vb-sn` = new `ss`; `bu-vb-an` = `as`, page only; `bu-pt.html#pr|sg|np|pc|pd|sk` = `pli-tv-bu-pm3|4|6|7|8|9`; `vi/kd.html` is resolved from the link text, `VIN4.n` -> kd n, `VIN5.n` -> kd 10+n). Re-verify after any change with `uv run python scripts/check_sutta_links.py` (network; large pages, first run takes minutes, then cached). The site resolves anchors with JavaScript, so the checker accepts `<id>/0` too (dhp).
 
+## Clean markup conventions (added November 2026)
+The six English course folders hold plain Markdown only: no raw `<br>` and no kramdown/attr_list `{: … }`. `scripts/convert_br_markup.py` converts stray markup back to these shapes and runs in both preprocessing scripts.
+
+- **Stacked table cell:** `A / B` (spaced slash) renders as two lines in a cell. A tight slash (`e/ay`, URLs) stays inline. This is the one piece of layout logic shared by all three pipelines — `tools/clean_markup.py:stack_table_cells`, called by `tools/markup_hook.py` (web), `generate_pdfs.pre_process_content`, and `generate_docx.aggregate_markdown` (which emits a real `<w:br/>` via an openxml snippet). Stacking is scoped to the six course folders: `docs/generated/` is exporter output where ` / ` is ordinary prose (e.g. `(should / could / may / might)` in `abbreviations.md`), so the hook and the reference PDF builds pass `stack_cells=False` there.
+- **Exercise / key header:** `29. [DN16.27](…) (simpl)` on one line, the sentence on the next, indented to the list content (3 spaces for `N. `, 4 for `NN. `). `verify_key.parse_doc` appends that indented line to the item's sentence.
+- **Right-aligned attribution:** a line starting with `— ` that is its own paragraph. `tools/clean_markup.py:mark_attributions` adds `{: .align-right }` at render time for web and PDF (CSS: `identity/extra.css` → `.align-right`); DOCX right-aligns the paragraph in `post_process_docx` instead.
+- **Heading ids:** never written in the source. The `toc` extension generates the slug; a link fragment must match `markdown.extensions.toc.slugify(heading text, "-")`.
+
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.
@@ -49,6 +57,8 @@ All sutta/Vinaya references link to `https://s.dhamma.gift/...` (the old `find.d
 - Release archives (per-course PDF/DOCX zips) attached to GitHub Releases by `release_class.yaml`. Hindi is not released yet.
 
 ## Multi-language support (added October 2026)
+**Hindi is always out of scope for work on `main`** — the Hindi sources live on the `hindi` branch. Never include `bpc_hi*` in a thread's scope, spec, plan or verification (AGENTS.md → Project Structure).
+
 Translations live in mirror folders that copy the English structure exactly (`docs/bpc_hi/`, `docs/bpc_hi_ex/`, `docs/bpc_hi_key/`; IPC Hindi would follow the same pattern). The Hindi sources currently contain the English text as a translation base.
 
 The Hindi folders live on the `hindi` branch and are absent from `main`, so every script tolerates a missing course folder (added November 2026): `generate_mkdocs_yaml.get_files_sorted()` and `build_class_nav()` return `[]` for a directory that does not exist, and `generate_pdfs.py` / `generate_docx.py` print `<folder>: sources not on this branch — skipped` and exit 0 when a missing Hindi folder is named explicitly (`generate_pdfs.py bpc_hi`, `generate_docx.py --folder bpc_hi`); a run that builds every folder skips silently. `just hindi` therefore survives on `main`. The `mkdocs.yaml` write in `generate_mkdocs_yaml.py` sits under `if __name__ == "__main__":`, so the module can be imported by a test without regenerating the config — the matching tests are in `tests/` (git-ignored, local-only).

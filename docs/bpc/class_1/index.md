@@ -8,7 +8,7 @@ Please come up with at least 3 reasons why you want to study Pāḷi. Write them
 
 If you have one, make sure you know the literal and figurative meaning of your Pāḷi name. If you don't have one, you can create one for yourself. Use [DPD dictionary](https://dpdict.net): English - Pāḷi and Pāḷi - English.
 
-## Course Structure {: #course-structure}
+## Course Structure
 
 1. Class meeting once per two weeks (2h / class)
     - Short review test
@@ -27,7 +27,7 @@ If you have one, make sure you know the literal and figurative meaning of your P
 
 [^1]: Meant as a humorous element. The Pāḷi course was offered originally to the Bhikkhu Saṅgha, who ideally go forth from home to homelessness (agārasmā anagāriyaṃ pabbajanti).
 
-## Skills you need to develop {: #skills-you-need-to-develop}
+## Skills you need to develop
 
 1.  pronunciation
 2.  grammar
@@ -38,7 +38,7 @@ If you have one, make sure you know the literal and figurative meaning of your P
 7.  (listening)
 8.  (thinking)
 
-## How to set up basic digital tools {: #how-to-set-up-basic-digital-tools}
+## How to set up basic digital tools
 
 1. GoldenDict (MDict / DictTango)
     - [DPD](https://dpdict.net) (Digital Pāḷi Dictionary)

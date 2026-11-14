@@ -4,8 +4,8 @@ There are **2 Voices**
 
 | | |
 | --- | --- |
-| Active Voice<br>(parassapada) | the action transfers to another person<br>e.g. hana**ti** – he hits (someone else) |
-| Middle or Reflexive Voice<br>(attanopada)[^6] | the action comes back to the agent <br>e.g. hana**te** – he hits (himself) |
+| Active Voice / (parassapada) | the action transfers to another person / e.g. hana**ti** – he hits (someone else) |
+| Middle or Reflexive Voice / (attanopada)[^6] | the action comes back to the agent / e.g. hana**te** – he hits (himself) |
 
 [^6]: This is discussed in detail in the Intermediate Pāḷi Course.
 

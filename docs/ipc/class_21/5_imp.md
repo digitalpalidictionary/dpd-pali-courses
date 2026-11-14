@@ -10,7 +10,8 @@ Let’s look at the imperative **reflexive** **voice** and **passive voice.**
 
 (Theory) How is the reflexive formed? How is the passive formed?
 
-**Imperative Attanopada “oneself must train”<br>(√sikkh + a \> sikkha)**
+**Imperative Attanopada “oneself must train”**
+**(√sikkh + a \> sikkha)**
 
 | | | |
 | --- | --- | --- |
@@ -19,7 +20,8 @@ Let’s look at the imperative **reflexive** **voice** and **passive voice.**
 | 2 majjhima | sikkh**assu** | sikkh**avho** |
 | 1 uttama | sikkh**e** | sikkh**āmase** |
 
-**Imperative Passive Attanopada “must be bound (by oneself)”<br>(√badh + ya \> bajjha)**
+**Imperative Passive Attanopada “must be bound (by oneself)”**
+**(√badh + ya \> bajjha)**
 
 | | | |
 | --- | --- | --- |

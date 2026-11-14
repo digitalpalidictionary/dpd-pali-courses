@@ -45,7 +45,7 @@ Sometimes the only way to recognise if a verb is passive is by the passive base
 | **√tap** | to burn | + ya | **tappa** | **tappa**ti | is burned |
 | **√vac** | to say | + ya | **vucca** | **vucca**ti | is said |
 
-Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_assim.md#basic-assim-y) from the Class 4.
+Please refresh in memory the [“**assimilation of y**”](../class_4/7_basic_assim.md#some-basic-sandhi-the-assimilation-of-the-letter-y) from the Class 4.
 
 2\. root + **iya** + verbal ending (less common)
 
@@ -122,7 +122,7 @@ Aorist “it was given”
 | --- | --- | --- |
 | 3rd | dīy**i** | dīy**uṃ** |
 | 2nd | dīy**o** | dīy**ittha** |
-| 1st | dīy**iṃ** | dīy**imha**<br>dīy**imhā** |
+| 1st | dīy**iṃ** | dīy**imha** / dīy**imhā** |
 
 Future Tense “it will be given”
 

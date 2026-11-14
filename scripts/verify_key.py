@@ -123,7 +123,9 @@ def clean_word(cell: str) -> str:
 
 def sentence_of(item_line: str) -> str:
     text = ITEM_RE.sub("", item_line, count=1)
-    text = LINK_RE.sub("", text).replace("<br>", " ").replace("**", "")
+    text = (
+        LINK_RE.sub("", text).replace("<br>", " ").replace(" / ", " ").replace("**", "")
+    )
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -137,18 +139,25 @@ def parse_doc(text: str, course: str, file: str) -> Doc:
     skip_table = False
     seen: Counter[tuple[str, int, str]] = Counter()
     translations: dict[tuple[str, int], list[str]] = {}
+    sentence_cont = False
     for no, line in enumerate(text.splitlines(), start=1):
         if not line.startswith("|"):
             table_line = 0
             if EXTRA_RE.match(line) and section == "main":
                 section, item, sentence = "extra", 0, ""
+                sentence_cont = False
                 continue
             m = ITEM_RE.match(line)
             if m:
                 item = int(m.group(1))
                 sentence = sentence_of(line)
+                sentence_cont = True
                 (doc.main if section == "main" else doc.extra).append(item)
                 continue
+            if sentence_cont and line[:1] in (" ", "\t"):
+                sentence = f"{sentence} {sentence_of(line)}".strip()
+                continue
+            sentence_cont = False
             b = BOLD_RE.match(line.strip())
             if b and item:
                 translations.setdefault((section, item), []).append(b.group(1))
@@ -192,6 +201,7 @@ def strip_annotations(cell: str) -> str:
 
 def pos_problems(cell: str) -> list[str]:
     s = strip_annotations(cell).replace("<br>", " ")
+    s = re.sub(r"(?<=\s)/(?=\s)", " ", s)
     tokens = [t for t in re.split(r"\s+or\s+|[,;+.\s]+", s)]
     return [t for t in tokens if t not in POS_WORDS]
 
@@ -204,7 +214,7 @@ def grammar_problems(cell: str) -> list[str]:
         s,
     )
     bad: list[str] = []
-    for alt in re.split(r"<br>|\s+or\s+|[,;]", s):
+    for alt in re.split(r"<br>|(?<=\s)/(?=\s)|\s+or\s+|[,;]", s):
         for part in alt.split("+"):
             part = part.strip()
             if part == "or" or part in SIMPLE_GRAMMAR:
@@ -238,7 +248,7 @@ def stray_problems(cell: str, kind: str) -> list[str]:
     if re.search(r" {3,}", cell):
         bad.append("3+ consecutive spaces")
     if kind == "pali":
-        s = strip_annotations(cell).replace("<br>", " ")
+        s = strip_annotations(cell).replace("<br>", " ").replace(" / ", " ")
         letters = {c for c in s if c.isascii() and c.isalpha()} - PALI_ASCII
         if letters:
             bad.append("ASCII letters " + "".join(sorted(letters)))
@@ -546,6 +556,7 @@ def eligible_word(word: str) -> bool:
 
 def key_pos_tokens(cell: str) -> set[str]:
     s = strip_annotations(cell).replace("<br>", " ")
+    s = re.sub(r"(?<=\s)/(?=\s)", " ", s)
     return {t for t in re.split(r"\s+or\s+|[,;+.\s]+", s) if t}
 
 

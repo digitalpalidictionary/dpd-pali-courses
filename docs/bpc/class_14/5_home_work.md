@@ -13,8 +13,8 @@
 
 | | |
 | --- | --- |
-| V. Perniola<br>Pāḷi Grammar | Future Passive Participle (p119 – 122)<br>Causative Verbs (p101 - 104) |
-| Charles Duroiselle<br>A Practical Grammar of the Pāḷi Language | Causative Verbs (p112 - 114) |
+| V. Perniola / Pāḷi Grammar | Future Passive Participle (p119 – 122) / Causative Verbs (p101 - 104) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | Causative Verbs (p112 - 114) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |
 
 
