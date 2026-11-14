@@ -3,6 +3,7 @@
 Status: **seed only.** No `spec.md` or `plan.md` exists. Nothing in the repo was changed for this except this file.
 Next step: run `/kamma:1-plan` with this file as input. Present the plan inline for approval (do not use a multiple-choice tool for the approval gate).
 Written 2026-11-13. Everything under "Facts" and "Prototype" was measured or built on that date; nothing here is from memory.
+**Revised 2026-11-14** after owner feedback on the first draft (robe-orange, hue 28): *"The orange is violent! Why not just use a variation of the light and dark palette in dpd-db/identity?"* Sections 3, 4.1, 4.5, 5, 6 and 10 now describe the blue variant. `preview.png` was regenerated from a fresh prototype build of the blue variant.
 
 ## 1. The request
 
@@ -45,56 +46,64 @@ Read these before planning. Several are surprising.
 
 DPD contrast numbers, for comparison with the proposal (WCAG ratio): `--primary` on `--light` 2.17; `--primary` on `--dark` 8.00; `--primary-alt` on `--light` 4.23. Current brown links: 5.95 (light), 5.50 (dark).
 
-## 3. The idea: "same mould, robe-orange hue, dpc"
+## 3. The idea: "DPD's own palette, one step deeper, dpc"
 
-One sentence: **keep DPD's design system exactly and change one parameter, the hue, from sky blue to robe orange; and build the logo the same way as DPD's, with the letters `dpc`.**
+One sentence: **keep DPD's palette exactly (the same light and dark backgrounds, text, grays and green) and move only the primary colour one step deeper, to DPD's own `--primary-alt`; build the logo the same way as DPD's, with the letters `dpc`.**
+
+The source palette is `dpd-db/identity/css/dpd-variables.css` (checked 2026-11-14: byte-identical to our `identity/dpd-variables.css`).
 
 Why this fits the request:
 
-- **Family.** DPD's whole palette is one hue (198) at fixed saturation and lightness steps. Rotating only the hue keeps every lightness and saturation relationship, so the two sites read as two colourways of one design. The font becomes the same (Inter). The logo is the same construction: a disc in the primary colour with three bold lowercase Inter letters.
-- **Distinct.** Orange is close to the complement of sky blue, so the two tab icons cannot be confused, also for most colour-blind users. The letters differ too: `dpd` (Digital Pāḷi Dictionary) becomes `dpc` (**D**PD **P**āḷi **C**ourses, the site's own name).
-- **Not arbitrary.** Orange is the colour of the robe. The config already asks for `brown`/`orange`, and the links are already brown-orange (F6). The restyle finishes a direction the site half has.
+- **Family.** The page backgrounds, text colours and font (Inter) are the same as DPD's. The primary colour is a colour DPD already uses (`#0077cc`, its pressed-button colour), so no new hue enters the family. The logo has the same construction: a disc in the primary colour with three bold lowercase Inter letters.
+- **Distinct.** The tab bar and the logo disc are a deeper, darker blue than DPD's sky blue (luminance ratio 1.96 between the two discs). The letters differ too: `dpd` (Digital Pāḷi Dictionary) becomes `dpc` (**D**PD **P**āḷi **C**ourses, the site's own name). This is a weaker contrast than the rejected orange: at 16px both icons are blue discs, and you tell them apart by lightness and letters. See decision 1 for the stronger fallback.
+- **Calmer and more legible than DPD.** Light text on the tab bar is 4.24:1 (DPD 2.16:1). Light-mode links are 5.27:1 (DPD 4.24:1).
 - **Cheap and reversible.** One small CSS file, three small assets, a few lines in the yaml generator. No change in `docs/`. The shared DPD files stay byte-identical to upstream, so they can still be re-synced.
+
+Rejected: robe orange at hue 28 (first draft; owner: "violent"). Also rejected: a hue turn to cyan or teal, because the primary becomes neon and its contrast on `--light` falls to 1.2–1.4. Also rejected: muted blue `hsl(198, 60%, 45%)`, which reads as faded DPD rather than a sibling.
 
 ### 3.1 Palette
 
-Rule: take `dpd-variables.css`; replace hue 198 with **28** and hue 205 with **21**; keep saturation and lightness. (DPD's alternate colour is 7 degrees deeper into blue; ours is 7 degrees deeper into red.)
+Rule: take `dpd-variables.css` unchanged. Override only the primary pair, and add two link tokens.
 
 | token | DPD | Courses | hex |
 | --- | --- | --- | --- |
-| `--light` | `hsl(198, 100%, 95%)` | `hsl(28, 100%, 95%)` | `#fff1e5` |
-| `--light-shade` | `hsl(198, 100%, 93%)` | `hsl(28, 100%, 93%)` | `#ffecdb` |
-| `--dark` | `hsl(198, 100%, 5%)` | `hsl(28, 100%, 5%)` | `#1a0c00` |
-| `--dark-shade` | `hsl(198, 100%, 7%)` | `hsl(28, 100%, 7%)` | `#241100` |
-| `--primary` | `hsl(198, 100%, 50%)` | `hsl(28, 100%, 50%)` | `#ff7700` |
-| `--primary-alt` | `hsl(205, 100%, 40%)` | `hsl(21, 100%, 40%)` | `#cc4700` |
-| `--primary-text` | `hsl(205, 79%, 48%)` | `hsl(21, 79%, 48%)` | — |
-| `--link-on-light` (new) | — | `hsl(21, 100%, 33%)` | `#a83b00` |
-| `--link-on-dark` (new) | — | `hsl(28, 100%, 60%)` | `#ff9233` |
+| `--light`, `--light-shade`, `--dark`, `--dark-shade` | — | **unchanged** (DPD's) | `#e5f7ff`, `#00121a`, … |
+| `--primary` | `hsl(198, 100%, 50%)` | `hsl(205, 100%, 40%)` (= DPD `--primary-alt`) | `#0077cc` |
+| `--primary-alt` | `hsl(205, 100%, 40%)` | `hsl(210, 100%, 32%)` | `#0052a3` |
+| `--primary-text` | `hsl(205, 79%, 48%)` | **unchanged** | `#1a8bdb` |
+| `--link-on-light` (new) | — | `hsl(205, 100%, 35%)` | `#0068b2` |
+| `--link-on-dark` (new) | — | `hsl(198, 100%, 50%)` (= DPD `--primary`) | `#00b2ff` |
 
-Measured contrast for hue 28: `--primary` on `--light` 2.40 (DPD 2.17); `--primary` on `--dark` 7.20 (DPD 8.00); `--primary-alt` on `--light` 4.24 (DPD 4.23). So hue 28 reproduces DPD's contrast structure almost exactly. Hues 35 and 42 were also tried: they look more yellow and drop to 2.02 and 1.69 on light, so 28 is the recommendation.
+Measured contrast (WCAG):
 
-The two link tokens are new because lessons are full of sutta-reference links, and a link in `--primary` on `--light` would be 2.40:1. `--link-on-light` gives 5.76:1 and `--link-on-dark` gives 8.58:1. Both pass WCAG AA (4.5).
+- `--light` text on `--primary`: 4.24 (DPD 2.16).
+- `--dark` on `--primary`: 4.10 (DPD 8.05). This is the inactive tab text in light mode and the dark logo's letters.
+- `--primary-alt` on `--light`: 7.02 (DPD 4.24).
+- `--link-on-light` on `--light`: 5.27. `--link-on-dark` on `--dark`: 8.05. Both pass AA (4.5).
+
+The link tokens exist because lessons are full of sutta-reference links, and `--primary` on `--light` alone (4.24) is just under AA.
 
 Leave `--secondary` (green), the grays, the shadows and the `--freq*` tokens as they are.
 
 ### 3.2 Logo
 
-- Same viewBox as DPD (`0 0 132.29167 132.29167`), a full disc in `--primary` (`#ff7700`).
+- Same viewBox as DPD (`0 0 132.29167 132.29167`), a full disc in `--primary` (`#0077cc`).
 - Letters `dpc`, Inter Bold, lowercase, as outline paths (no `<text>`, so no font is needed to display it).
 - Wordmark ink width = 80.3% of the disc, the same proportion as DPD. Ink centre at x = 66.146 (the disc centre), y = 67.5 (same as DPD).
-- Light file: letters `#fff1e5` (`--light`). Dark file: letters `#1a0c00` (`--dark`). The disc is the same in both. This mirrors F8.
+- Light file: letters `#e5f7ff` (`--light`). Dark file: letters `#00121a` (`--dark`). The disc is the same in both. This mirrors F8.
 - Favicon: the light logo as a 96×96 transparent PNG. PNG rather than SVG because older Safari does not show SVG favicons.
 
-The complete light logo, ready to save as `identity/assets/dpc-logo.svg` (one line, 2562 bytes). It was generated from Inter Bold 4.001 with fontTools; the three letters are one path:
+The complete light logo, ready to save as `identity/assets/dpc-logo.svg` (one line, 2561 bytes). It was generated from Inter Bold 4.001 with fontTools; the three letters are one path:
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 132.29167 132.29167"><title>dpc</title><circle cx="66.145835" cy="66.145835" r="66.145835" fill="#ff7700"/><path fill="#fff1e5" d="M26.353 83.751Q22.606 83.751 19.575 81.804Q16.544 79.856 14.788 76.094Q13.031 72.331 13.031 66.885Q13.031 61.293 14.846 57.545Q16.662 53.797 19.677 51.923Q22.693 50.049 26.324 50.049Q29.106 50.049 30.95 50.986Q32.795 51.923 33.937 53.299Q35.079 54.675 35.635 55.963H35.928V39.566H44.712V83.194H36.075V77.953H35.635Q35.05 79.271 33.893 80.603Q32.737 81.935 30.892 82.843Q29.047 83.751 26.353 83.751ZM29.077 76.694Q31.302 76.694 32.883 75.464Q34.464 74.235 35.284 72.024Q36.104 69.813 36.104 66.856Q36.104 63.869 35.299 61.688Q34.493 59.506 32.912 58.291Q31.331 57.076 29.077 57.076Q26.763 57.076 25.197 58.335Q23.63 59.594 22.84 61.79Q22.049 63.986 22.049 66.856Q22.049 69.725 22.854 71.951Q23.66 74.176 25.226 75.435Q26.793 76.694 29.077 76.694ZM52.208 95.434V50.459H60.846V55.963H61.256Q61.871 54.675 62.998 53.299Q64.125 51.923 65.97 50.986Q67.815 50.049 70.596 50.049Q74.227 50.049 77.243 51.923Q80.259 53.797 82.06 57.545Q83.861 61.293 83.861 66.885Q83.861 72.331 82.104 76.094Q80.347 79.856 77.331 81.804Q74.315 83.751 70.538 83.751Q67.873 83.751 66.029 82.843Q64.184 81.935 63.027 80.603Q61.871 79.271 61.256 77.953H60.992V95.434ZM67.844 76.694Q70.128 76.694 71.695 75.435Q73.261 74.176 74.066 71.951Q74.871 69.725 74.871 66.856Q74.871 63.986 74.066 61.79Q73.261 59.594 71.709 58.335Q70.157 57.076 67.844 57.076Q65.59 57.076 64.008 58.291Q62.427 59.506 61.607 61.688Q60.787 63.869 60.787 66.856Q60.787 69.813 61.622 72.024Q62.456 74.235 64.038 75.464Q65.619 76.694 67.844 76.694ZM104.65 83.839Q99.701 83.839 96.115 81.716Q92.528 79.593 90.581 75.801Q88.633 72.009 88.633 66.973Q88.633 61.878 90.581 58.086Q92.528 54.294 96.115 52.172Q99.701 50.049 104.65 50.049Q107.549 50.049 110.008 50.81Q112.468 51.571 114.371 52.977Q116.274 54.382 117.504 56.403Q118.734 58.423 119.202 60.941L111.033 62.464Q110.77 61.175 110.213 60.165Q109.657 59.155 108.866 58.438Q108.076 57.72 107.036 57.34Q105.997 56.959 104.738 56.959Q102.395 56.959 100.799 58.218Q99.204 59.477 98.398 61.732Q97.593 63.986 97.593 66.944Q97.593 69.842 98.398 72.097Q99.204 74.352 100.799 75.64Q102.395 76.928 104.738 76.928Q105.997 76.928 107.051 76.533Q108.105 76.138 108.925 75.391Q109.745 74.644 110.301 73.59Q110.857 72.536 111.092 71.219L119.261 72.712Q118.792 75.318 117.563 77.353Q116.333 79.388 114.43 80.852Q112.526 82.316 110.052 83.077Q107.578 83.839 104.65 83.839Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 132.29167 132.29167"><title>dpc</title><circle cx="66.145835" cy="66.145835" r="66.145835" fill="#0077cc"/><path fill="#e5f7ff" d="M26.353 83.751Q22.606 83.751 19.575 81.804Q16.544 79.856 14.788 76.094Q13.031 72.331 13.031 66.885Q13.031 61.293 14.846 57.545Q16.662 53.797 19.677 51.923Q22.693 50.049 26.324 50.049Q29.106 50.049 30.95 50.986Q32.795 51.923 33.937 53.299Q35.079 54.675 35.635 55.963H35.928V39.566H44.712V83.194H36.075V77.953H35.635Q35.05 79.271 33.893 80.603Q32.737 81.935 30.892 82.843Q29.047 83.751 26.353 83.751ZM29.077 76.694Q31.302 76.694 32.883 75.464Q34.464 74.235 35.284 72.024Q36.104 69.813 36.104 66.856Q36.104 63.869 35.299 61.688Q34.493 59.506 32.912 58.291Q31.331 57.076 29.077 57.076Q26.763 57.076 25.197 58.335Q23.63 59.594 22.84 61.79Q22.049 63.986 22.049 66.856Q22.049 69.725 22.854 71.951Q23.66 74.176 25.226 75.435Q26.793 76.694 29.077 76.694ZM52.208 95.434V50.459H60.846V55.963H61.256Q61.871 54.675 62.998 53.299Q64.125 51.923 65.97 50.986Q67.815 50.049 70.596 50.049Q74.227 50.049 77.243 51.923Q80.259 53.797 82.06 57.545Q83.861 61.293 83.861 66.885Q83.861 72.331 82.104 76.094Q80.347 79.856 77.331 81.804Q74.315 83.751 70.538 83.751Q67.873 83.751 66.029 82.843Q64.184 81.935 63.027 80.603Q61.871 79.271 61.256 77.953H60.992V95.434ZM67.844 76.694Q70.128 76.694 71.695 75.435Q73.261 74.176 74.066 71.951Q74.871 69.725 74.871 66.856Q74.871 63.986 74.066 61.79Q73.261 59.594 71.709 58.335Q70.157 57.076 67.844 57.076Q65.59 57.076 64.008 58.291Q62.427 59.506 61.607 61.688Q60.787 63.869 60.787 66.856Q60.787 69.813 61.622 72.024Q62.456 74.235 64.038 75.464Q65.619 76.694 67.844 76.694ZM104.65 83.839Q99.701 83.839 96.115 81.716Q92.528 79.593 90.581 75.801Q88.633 72.009 88.633 66.973Q88.633 61.878 90.581 58.086Q92.528 54.294 96.115 52.172Q99.701 50.049 104.65 50.049Q107.549 50.049 110.008 50.81Q112.468 51.571 114.371 52.977Q116.274 54.382 117.504 56.403Q118.734 58.423 119.202 60.941L111.033 62.464Q110.77 61.175 110.213 60.165Q109.657 59.155 108.866 58.438Q108.076 57.72 107.036 57.34Q105.997 56.959 104.738 56.959Q102.395 56.959 100.799 58.218Q99.204 59.477 98.398 61.732Q97.593 63.986 97.593 66.944Q97.593 69.842 98.398 72.097Q99.204 74.352 100.799 75.64Q102.395 76.928 104.738 76.928Q105.997 76.928 107.051 76.533Q108.105 76.138 108.925 75.391Q109.745 74.644 110.301 73.59Q110.857 72.536 111.092 71.219L119.261 72.712Q118.792 75.318 117.563 77.353Q116.333 79.388 114.43 80.852Q112.526 82.316 110.052 83.077Q107.578 83.839 104.65 83.839Z"/></svg>
 ```
 
-`identity/assets/dpc-logo-dark.svg` is the same file with the single string `fill="#fff1e5"` replaced by `fill="#1a0c00"`. Nothing else differs (checked with `diff`).
+`identity/assets/dpc-logo-dark.svg` is the same file with the single string `fill="#e5f7ff"` replaced by `fill="#00121a"`. Nothing else differs (checked with `diff`).
 
-If the owner picks another hue, only the `fill` values change: disc = the new `--primary` hex; letters = the new `--light` / `--dark` hex. The path stays.
+If the owner picks other colours, only the `fill` values change: disc = the new `--primary` hex; letters = the `--light` / `--dark` hex. The path stays.
+
+Known weakness: in the dark file, the dark letters on the `#0077cc` disc are 4.10:1. At 16px the letters are hard to make out (see `preview.png`, row 2, right). DPD's dark logo has 8.05:1. If the owner minds, use light letters in both files (4.24:1). The disc then carries the dark-mode distinction alone.
 
 ## 4. Changes, file by file
 
@@ -103,19 +112,14 @@ Six items. Items 1-5 were built as a prototype (section 5). Item 6 is documentat
 ### 4.1 New file `identity/courses-variables.css`
 
 ```css
-/* DPD Pāḷi Courses palette: the DPD palette (dpd-variables.css) with the hue
-   turned from sky blue (198/205) to robe orange (28/21). Load after dpd-variables.css. */
+/* DPD Pāḷi Courses palette: the DPD palette (dpd-variables.css) with the primary
+   one step deeper: the course primary is DPD's own --primary-alt. Load after dpd-variables.css. */
 :root {
-  --light: hsl(28, 100%, 95%);
-  --light-shade: hsl(28, 100%, 93%);
-  --dark: hsl(28, 100%, 5%);
-  --dark-shade: hsl(28, 100%, 7%);
-  --primary: hsl(28, 100%, 50%);
-  --primary-alt: hsl(21, 100%, 40%);
-  --primary-text: hsl(21, 79%, 48%);
+  --primary: hsl(205, 100%, 40%);
+  --primary-alt: hsl(210, 100%, 32%);
   /* link colours, one per scheme, both above 4.5:1 on their background */
-  --link-on-light: hsl(21, 100%, 33%);
-  --link-on-dark: hsl(28, 100%, 60%);
+  --link-on-light: hsl(205, 100%, 35%);
+  --link-on-dark: hsl(198, 100%, 50%);
 }
 body[data-md-color-scheme="default"] {
   --md-typeset-a-color: var(--link-on-light);
@@ -165,7 +169,7 @@ The URL is relative to `extra.css`, which sits at the site root, so there is no 
 
 Data tests only, each failing for a different reason:
 
-1. `identity/courses-variables.css` defines every token in section 3.1's "Courses" column (parse `--name: value;` pairs).
+1. `identity/courses-variables.css` defines exactly `--primary`, `--primary-alt`, `--link-on-light` and `--link-on-dark` with the section 3.1 values (parse `--name: value;` pairs), and does **not** redefine `--light`, `--light-shade`, `--dark` or `--dark-shade`. Those must keep coming from DPD.
 2. Contrast: compute the WCAG ratio from the HSL values in that file; `--link-on-light` on `--light` ≥ 4.5 and `--link-on-dark` on `--dark` ≥ 4.5.
 3. Both logo SVGs parse as XML, have the DPD viewBox, and their `<path d>` strings are equal (only the fill differs).
 4. `identity/extra.css` contains no `dpd-logo` and no `url("../assets/`.
@@ -181,24 +185,26 @@ Run only `uv run pytest tests/test_restyle.py -v`. Never run a bare `uv run pyte
 
 ## 5. Prototype (already built once; proves the plan works)
 
-A throwaway copy of `identity/` plus the changes in 4.1-4.4 was built with `uv run mkdocs build -f <scratch>/mkdocs.yaml` into a scratch folder. The repo was not touched (`git status` stayed clean). The scratch folder is session-temporary and will be gone; rebuild it if a preview is needed.
+Rebuilt 2026-11-14 for the blue variant. Method: a throwaway copy of `identity/` plus the changes in 4.1-4.4. The config was loaded from the current `mkdocs.yaml` and given the 4.3 edits. `custom_dir`, `docs_dir` and the `hooks` paths were made absolute. The config was split into a light-only and a dark-only palette, so headless Chrome renders each scheme without a toggle. Each was built with `uv run mkdocs build -q -f <scratch>/mkdocs_<mode>.yaml`. The repo was not touched (`git status` unchanged). The scratch folder is session-temporary.
 
-Observed in the built site and in headless-Chrome screenshots of `/bpc/class_4/1_review/` (light and dark):
+`preview.png` (1340×1600) shows: row 1, the DPD logo next to the `dpc` logo at 16/24/32/64/120 px on DPD's light and dark backgrounds; rows 2-3, `/bpc/class_4/1_review/` in light and dark.
 
-- The header shows the orange `dpc` disc; dark mode shows the dark-letter variant.
-- `<link rel="icon" href="…/assets/dpc-favicon.png">` is present on root and nested pages.
+Observed:
+
+- The header shows the `#0077cc` `dpc` disc; dark mode shows the dark-letter variant.
+- `rel="icon"` points to `…/assets/dpc-favicon.png` on root and nested pages (`assets/…` and `../../../assets/…`).
 - `--md-text-font:"Inter"` and `data-md-color-primary="custom"` are in the HTML.
-- Page background is cream `#fff1e5` (light) / warm near-black `#1a0c00` (dark); the tab bar is orange; links are dark orange (light) / light orange (dark).
-- The build succeeded with no new warnings.
+- Page background is DPD's `#e5f7ff` (light) / `#00121a` (dark); the tab bar is `#0077cc`; links are `#0068b2` (light) / `#00b2ff` (dark).
+- Both builds finished with no output under `-q` (no warnings).
 
 Not checked in the prototype: the search box (it does not render from `file://`), mobile width, the nav drawer logo, PDFs.
 
 ## 6. Decisions for the owner (ask during planning; recommendation first)
 
-1. **Letters: `dpc` (recommended) or keep `dpd`?** `dpc` = the site's initials, and it differs from DPD in shape as well as colour. Keeping `dpd` and changing only the colour is the fallback; then only the two `fill` values in DPD's own SVGs change.
-2. **Hue: 28 robe orange (recommended).** Alternatives measured: 35 and 42 (yellower, weaker contrast). Another candidate with a family argument is DPD's own `--secondary` green (hue 158), but green on a light green page gave link contrast under 3.6 even at 30% lightness, and blue/green tab icons are harder to tell apart.
-3. **PDFs: leave blue for now (recommended), or restyle too?** To restyle PDFs, add `"identity/courses-variables.css"` after `dpd-variables.css` in `scripts/generate_pdfs.py` (lines 671-676) and in `tests/test_generate_pdfs.py:195`. Effect: PDF links change from `#00b2ff` to `#ff7700` on white. The `--md-typeset-a-color` rules do nothing in PDFs. Recommended as a separate later step because it changes every released PDF and needs the PDF checks in `kamma/tech.md`.
-4. **Tab bar.** It stays a full-saturation band, now orange. The active tab's text is `--light` on `--primary` (2.40:1; today 2.17:1 on blue). Recommended: leave as is in this thread, since it is inherited behaviour; note it as a possible follow-up.
+1. **Logo: `#0077cc` disc with `dpc` (recommended), or an inverted disc?** The inverted option is a `--dark` disc with `--primary` (`#00b2ff`) letters, using only DPD's own colours. It is the easiest to tell apart from DPD's icon at 16px, but it nearly disappears on a dark-themed browser tab strip. Last fallback: keep the letters `dpd` and change only the colour. Then only the two `fill` values in DPD's own SVGs change.
+2. **Primary: `hsl(205, 100%, 40%)` = DPD's `--primary-alt` (recommended).** Rejected: robe orange (owner, 2026-11-14: "violent"); cyan/teal hue turns (neon, 1.2–1.4:1 on light); muted `hsl(198, 60%, 45%)` (reads as faded DPD).
+3. **PDFs: leave as they are for now (recommended), or restyle too?** To restyle PDFs, add `"identity/courses-variables.css"` after `dpd-variables.css` in `scripts/generate_pdfs.py` (lines 671-676) and in `tests/test_generate_pdfs.py:195`. Effect: PDF links change from `#00b2ff` to `#0077cc` on white. The `--md-typeset-a-color` rules do nothing in PDFs. Recommended as a separate later step because it changes every released PDF and needs the PDF checks in `kamma/tech.md`.
+4. **Tab bar.** It stays a full-saturation band, now `#0077cc`. The active tab's text is `--light` on `--primary` (4.24:1; today 2.16:1). The inactive tab text is `--dark` on `--primary` (4.10:1; today 8.05:1). Recommended: leave as is in this thread, since it is inherited behaviour; note it as a possible follow-up.
 5. **Layout (F10).** Recommended: no layout change. The request is about look and icon; tabs and the small header are deliberate.
 
 ## 7. Verification steps for the thread
@@ -233,9 +239,11 @@ Draft commit message: `Related to #10 restyle website: course palette, dpc logo 
 
 ## 10. Not done / not verified
 
-- Owner has not seen or approved the hue, the letters or any screenshot.
+- Owner rejected the orange draft (2026-11-14). The owner has not yet seen or approved the blue variant, the letters or the new `preview.png`.
+- The reading of the owner's comment ("a variation of the light and dark palette") as "keep DPD's palette, deepen only the primary" is an interpretation. Confidence 7/10. Decision 1's inverted disc covers the other reading (DPD's colours exactly, distinct logo only).
+- The 16px tab-icon distinction from DPD (lighter vs darker blue disc) was judged only from `preview.png`, not in a real browser tab strip next to DPD.
 - The DPD logo was drawn with an older Inter than the 4.001 used for `dpc` (letter proportions differ by a few percent). Not visible at header or tab size; say so if the owner compares them enlarged.
-- No check of images inside `docs/` for baked-in blue that might clash with the orange page.
+- No check of images inside `docs/` for baked-in colours that might clash with the deeper-blue tab bar (less likely now than with orange).
 - Mobile layout, search panel and footnote pop-up colours were not looked at in the prototype.
 - PDF and DOCX output were not built.
 - Whether the DPD project owner wants to be told about the sibling logo: not asked.
