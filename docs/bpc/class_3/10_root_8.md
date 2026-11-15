@@ -16,13 +16,13 @@ The next most common root group with around 100 roots is the √cur group. Their
 
 1\. √cur (steal) + \*[^11]e \> c**o**re
 
-[^11]: We use symbol **\*** or traditionally **ṇa** (sign for strengthening)
-
 core + ti \> coreti (he steals)
 
 2\. √cur (steal) + \*aya \> c**o**raya
 
 coraya + ti \> corayati (he steals)
+
+[^11]: We use symbol **\*** or traditionally **ṇa** (sign for strengthening)
 
 1\. √mant (counsel) + \*e \> mante
 
