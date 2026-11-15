@@ -37,7 +37,9 @@ Not verified:
 
 Paths below are relative to `docs/bpc/`. In `Current`, `\|` is a table pipe in the source.
 
-## Summary
+## Summary 
+
+These numbers before approval - because user is removing rejected lines and keep only approved lines.
 
 | Category | idx–2 | 3 | 4 | 5–6 | 7–8 | 9 | 10 | 11 | 12–13 | 14 | cross | Total | Conf. ≥ 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
