@@ -1,4 +1,4 @@
-# Verbal roots (dhātu)
+# Verbal Roots (dhātu)
 
 Almost all verbs are formed from a root.
 
@@ -6,7 +6,7 @@ We are using the square root symbol “ √ ” to indicate root.
 
 Some common roots are:
 
-√kar (make)
+√kar (do)
 
 √bhū (be)
 
@@ -22,7 +22,7 @@ Some common roots are:
 
 For example:
 
-Some words which are derived from **√bandh** (bind, tie)
+Some words which are derived from **√bandh** (bind)
 
 adhibandho anuppabandha anubandha anubandhati anubandhamāna anubandhāpeti anubandhi anubandhita anubandhitabba anubandhituṃ anubandhitvā anubandho appaṭibaddha abandhana asambaddha asambandhanīya ābandhanaṃ ābandhitvā upanibandhati upanibandhanaṃ upanibandhanā upanibandhitvā ubbandhitvā ubbandho nānubandhati nānubandhitabba nibandhati nibandhana nibandhanaṃ nibandhita nibandhisaṃ nibandhissaṃ paṭibaddha paṭibaddhattaṃ paṭibandha paṭibandhati pabandhati paribandho palibandhanaṃ bandhakinī bandhako bandhati bandhana bandhanaṃ bandhanīya bandhano bandhanta bandhavāni bandhavo bandhāpita bandhāpetvā bandhāpesi bandhi bandhita bandhituṃ bandhitvā bandhiya bandhu bandhuka bandhumatī bandhumant bandhuro bandhulo bandho vinibandha vinibandho vibandhanaṃ sambaddha sambandha sambandhattaṃ sambandhana sambandhanaṃ sambandhanīya sambandhitabba sambandhitvā sambandho saṃbandho
 
@@ -56,13 +56,13 @@ These roots are grouped together because the verbs derived from them have simila
 
 | **\#** | **conjugational sign** | **example** |
 | --- | --- | --- |
-| 1 | a | √bandh (tie) + a \> bandha / bandha + ti \> bandhati (he ties) |
+| 1 | a | √bandh (bind) + a \> bandha / bandha + ti \> bandhati (he ties) |
 | 2 | ṃa | √rudh (obstruct) + ṃa \> ru**ṃ**dha \> ru**n**dha / rundha + ti \> rundhati (he obstructs) |
 | 3 | ya | √div (shine) + ya \> di**bb**a / dibba + ti \> dibbati (he shines) |
 | 4 | ṇā (ṇo[^8]) (after vowel) / uṇā (after consonant) | √su (hear) + ṇā \> suṇā / suṇā + ti \> suṇāti (he hears) / √ap (reach) + uṇā \> apuṇā / pa + apuṇā + ti \> pāpuṇāti (he reaches) |
 | 5 | nā | √ji (conquer) + nā \> jinā / jinā + ti \> jināti (he conquers) |
 | 6 | ṇhā | √gah (grasp) + ṇhā \> gaṇhā / gaṇhā + ti \> gaṇhāti (he grabs) |
-| 7 | o | √kar (do, make) + o \> karo / karo + ti \> karoti (he does, makes) |
+| 7 | o | √kar (do) + o \> karo / karo + ti \> karoti (he does, makes) |
 | 8 | \*e, \*aya | √cur (steal) + \*e \> c**o**re / core + ti \> coreti (he steals) / √cur (steal) + \*aya \> c**o**raya / coraya + ti \> corayati (he steals) |
 
 [^8]: less common

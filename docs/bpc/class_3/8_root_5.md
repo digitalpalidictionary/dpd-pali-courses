@@ -6,7 +6,7 @@
 
 This group has only about 20 roots which are very commonly used.
 
-It has the conjugational sign **nā.**
+It has the conjugational sign **nā**.
 
 e.g. √ci (collect) + **nā** \> cinā
 
@@ -22,9 +22,8 @@ jānā + ti \> jānāti (he knows)
 
 **Conjugation of -āti pr**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | so jānā**ti** | he knows | te jāna**nti** | they know |
 | 2nd | tvaṃ jānā**si** | you know | tumhe jānā**tha** | you all know |
 | 1st | ahaṃ jānā**mi** | I know | mayaṃ jānā**ma** | we know |

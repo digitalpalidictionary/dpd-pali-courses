@@ -14,73 +14,73 @@ What is the object / accusative of the first sentence?
 
 What is the object / accusative of the second sentence?
 
-## Transitive, Intransitive And Di-Transitive Verbs
+## Transitive, Intransitive and Di-Transitive Verbs
 
 Remember earlier we discussed **transitive**, **intransitive** and **di-transitive** verbs. Can you remember what they are?
 
 When you make a verb into a causative,
 
-1\. intransitive verbs become transitive
+1.  intransitive verbs become transitive
 
-2\. transitive verbs become di-transitive
+2.  transitive verbs become di-transitive
 
-3\. di-transitive verbs become multi-transitive (in theory anyway)
+3.  di-transitive verbs become multi-transitive (in theory anyway)
 
 ### Example 1: Intransitive \> Transitive
 
-1\. bhavati (active verb) “he is” is an intransitive verb which takes no object in the accusative case.
+bhavati (active verb) “he is” is an intransitive verb which takes no object in the accusative case.
 
 so bhikkhu **bhavati**
 
-he **is** a monk
+He **is** a monk.
 
-bhāveti (causative verb), literally “he causes to be”, is a transitive verb which takes one object in the accusative case
+bhāveti (causative verb), literally “he causes to be”, is a transitive verb which takes one object in the accusative case.
 
 so mettacittaṃ **bhāveti**
 
-he **develops** a friendly mind.
+He **develops** a friendly mind.
 
-(lit. he **causes** a friendly mind **to be.**)
+(lit. he **causes** a friendly mind **to be**.)
 
 ### Example 2: Transitive \> Di-Transitive
 
-**carati** (active verb) “he walks” is transitive and takes one object in the accusative case
+**carati** (active verb) “he walks” is transitive and takes one object in the accusative case.
 
-so gāmaṃ **carati.**
+so gāmaṃ **carati**.
 
 He **walks** to the village.
 
 **cāreti** (causative verb) “he causes to walk” is di-transitive and takes two objects in the accusative case.
 
-so naraṃ gāmaṃ **cāreti.**
+so naraṃ gāmaṃ **cāreti**.
 
 He **causes** the man **to walk** to the village.
 
-in this example, the instrumental case can also be used for the person who is caused to do the action.
+In this example, the instrumental case can also be used for the person who is caused to do the action.
 
-so narena gāmaṃ **cāreti.**
+so narena gāmaṃ **cāreti**.
 
 He **causes** the man **to walk** to the village.
 
 It makes no sense if you translate directly into English, so please be aware of this Pāḷi syntax.
 
-**Example 3: di-transitive \> multi-transitive**
+### Example 3: Di-transitive \> Multi-transitive
 
 **siñcati** is an example of a di-transitive verb, which takes two objects in the accusative case.
 
 bhikkhu udakaṃ mattikaṃ **siñceyya** [VIN PAT PC 20](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) (simpl)
 
-A monk **could pour** water to the earth.
+A monk **could pour** water on the soil.
 
 (In theory), when *siñcati* becomes causative, it can take three objects in the accusative case.
 
 bhikkhu aññaṃ bhikkhuṃ udakaṃ mattikaṃ **siñcāpeyya**
 
-A monk **could cause** another monk **to pour** water to the earth.
+A monk **could cause** another monk **to pour** water on the soil.
 
 In reality, if you find even one example of that, please let us know =)
 
-## How To Form Causative Verbs
+## How to Form Causative Verbs
 
 Causative Verbs are formed by adding suffixes to the root to create a **causative base**.
 
@@ -94,7 +94,7 @@ Causative Verbs are formed by adding suffixes to the root to create a **causativ
 
 ati + √pat + **\*āpaya \> pātāpaya** (causative base) \> atipātāpayati
 
-Notice that the vowel of the root gets **strengthened,** **pat** \> **pāt**. This is a common feature of causative verbs if the vowel which can be strengthened is followed by a single consonant.
+Notice that the vowel of the root gets **strengthened**, **pat** \> **pāt**. This is a common feature of causative verbs if the vowel which can be strengthened is followed by a single consonant.
 
 In summary:
 
@@ -106,7 +106,7 @@ In summary:
 
 4.  **Root + \*āpaya \> Causative Base**
 
-Now, where have you seen the suffix *-\****e** and *-\****aya** being added to the root?
+Now, where have you seen the suffix **-e** and **-aya** being added to the root?
 
 ## Group 8 Causative Verbs
 
@@ -114,19 +114,19 @@ Now, where have you seen the suffix *-\****e** and *-\****aya** being added to t
 
 √cud + \***aya** \> cod**aya**ti (he accuses)
 
-In the case of group 8 verbs, they only take the causative suffixes *-***āpe** and *-***āpaya**
+In the case of group 8 verbs, they only take the causative suffixes **-āpe** and **-āpaya**.
 
 √cud + \***āpe** \> cod**āpe**ti (he causes to accuse)
 
 √cud + \***āpaya** \> cod**āpaya**ti (he causes to accuse)
 
-## How To Conjugate Causative Verbs
+## How to Conjugate Causative Verbs
 
 Other than the base, the conjugation of causative verbs follows the normal pattern in all the tenses.
 
 √pac + \*āpe \> pācāpe (causes to cook)
 
-**present**: pācāpe**ti** pācāpe**nti** pācāpe**si**  pācāpe**tha** pācāpe**mi** pācāpe**ma**
+**present**: pācāpe**ti** pācāpe**nti** pācāpe**si** pācāpe**tha** pācāpe**mi** pācāpe**ma**
 
 **future**: pācāpe**ssati** pācāpe**ssanti** pācāpe**ssasi** pācāpe**ssatha** pācāpe**ssāmi** pācāpe**ssāma**
 
@@ -134,7 +134,7 @@ Other than the base, the conjugation of causative verbs follows the normal patte
 
 **optative**: pācāpe**yya** pācāpe**yyuṃ** pācāpe**yyāsi** pācāpe**yyātha** pācāpe**yyāmi** pācāpe**yyāma**
 
-How would you conjugate √**pac + \*e \> pāce**
+How would you conjugate **√pac + \*e \> pāce**?
 
 in the present?
 
@@ -144,7 +144,7 @@ in the imperative?
 
 in the optative?
 
-## How To Translate Causative Verbs
+## How to Translate Causative Verbs
 
 This can be tricky sometimes because if you translate every causative verb as “he causes someone to do something” or “he makes someone do something”, it can sound quite clumsy in English.
 
@@ -158,7 +158,7 @@ The king **gets** the servants **to build** a mansion.
 
 The king **has** a mansion **built** by the servants.
 
-Some causative verbs have natural English equivalents
+Some causative verbs have natural English equivalents.
 
 √mar (die) + \*e \> māre \> **māreti**
 

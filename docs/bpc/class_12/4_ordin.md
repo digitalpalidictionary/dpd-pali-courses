@@ -29,30 +29,28 @@ Ordinal numbers describe the position of something; first, second, third etc. Th
 | 90th | navuti**ma** | ninetieth |
 | 100th | sata**ma** | hundredth |
 
-**Declension - Singular**
+**Declension – Singular**
 
-| | | | | |
-| --- | --- | --- | --- | --- |
 | | **Masculine** | **Feminine ā** | **Feminine ī** | **Neuter** |
+| --- | --- | --- | --- | --- |
 | 1.nom | paṭham**o** | paṭham**ā** | catutth**ī** | paṭham**aṃ** |
 | 2.acc | paṭham**aṃ** | paṭham**aṃ** | catutth**iṃ** | paṭham**aṃ** |
-| 3.instr | paṭham**ena** | paṭham**āya** | catutth**iyā** | paṭham**ena** |
+| 3.inst | paṭham**ena** | paṭham**āya** | catutth**iyā** | paṭham**ena** |
 | 4.dat | paṭham**āya** / paṭham**assa** | paṭham**āya** | catutth**iyā** | paṭham**āya** / paṭham**assa** |
 | 5.abl | paṭham**ā** / paṭham**amhā** / paṭham**asmā** | paṭham**āya** | catutth**iyā** | paṭham**ā** / paṭham**amhā** / paṭham**asmā** |
 | 6.gen | paṭham**assa** | paṭham**āya** | catutth**iyā** | paṭham**assa** |
-| 7.loc | paṭham**e** / paṭham**amhi** / paṭham**asmiṃ** | paṭham**āyaṃ** / paṭham**āya** | catutth**iyā** / catutth**iyaṃ** | paṭham**e** / paṭham**amhi** / paṭham**asmiṃ** |
+| 7.loc | paṭham**e** / paṭham**amhi** / paṭham**asmiṃ** | paṭham**āya** / paṭham**āyaṃ** | catutth**iyā** / catutth**iyaṃ** | paṭham**e** / paṭham**amhi** / paṭham**asmiṃ** |
 | 8.voc | paṭham**a** / paṭham**ā** | paṭham**e** | catutth**i** / catutth**ī** | paṭham**a** / paṭham**ā** |
 
-**Declension - Plural**
+**Declension – Plural**
 
-| | | | | |
+| | **Masculine** | **Feminine ā** | **Feminine ī** | **Neuter** |
 | --- | --- | --- | --- | --- |
-| | **Masculine** | **Feminine / ā** | **Feminine / ī** | **Neuter** |
 | 1.nom | paṭham**ā** | paṭham**ā** / paṭham**āyo** | catutth**ī** / catutth**iyo** | paṭham**ā** / paṭham**āni** |
 | 2.acc | paṭham**e** | paṭham**ā** / paṭham**āyo** | catutth**ī** / catutth**iyo** | paṭham**e** / paṭham**āni** |
-| 3.instr | paṭham**ehi** | paṭham**āhi** | catutth**īhi** | paṭham**ehi** |
+| 3.inst | paṭham**ehi** | paṭham**āhi** | catutth**īhi** | paṭham**ehi** |
 | 4.dat | paṭham**ānaṃ** | paṭham**ānaṃ** | catutth**īnaṃ** | paṭham**ānaṃ** |
 | 5.abl | paṭham**ehi** | paṭham**āhi** | catutth**īhi** | paṭham**ehi** |
 | 6.gen | paṭham**ānaṃ** | paṭham**ānaṃ** | catutth**īnaṃ** | paṭham**ānaṃ** |
 | 7.loc | paṭham**esu** | paṭham**āsu** | catutth**īsu** | paṭham**esu** |
-| 8.voc | paṭham**ā** | paṭham**ā** / paṭham**āyo** | catutth**iyo** / catutth**ī** | paṭham**āni** |
+| 8.voc | paṭham**ā** | paṭham**ā** / paṭham**āyo** | catutth**ī** / catutth**iyo** | paṭham**āni** |

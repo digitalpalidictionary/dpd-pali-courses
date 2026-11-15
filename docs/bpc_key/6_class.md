@@ -211,7 +211,7 @@
 
 **"(He) who is equanimous [and] mindful lives at ease."**
 
-16. [AN10.71](https://s.dhamma.gift/an/an10/index.html#an10.71)
+16. [AN5.81](https://s.dhamma.gift/an/an5/index.html#an5.81)
     thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca.
 
 | | | | | |

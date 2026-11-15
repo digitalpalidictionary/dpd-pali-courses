@@ -4,7 +4,7 @@
 
 = √su + etc + group
 
-There are only a few roots in this group. This group has the conjugational sign **ṇā** (**ṇo)[^10]** after a vowel and **uṇā** after a consonant.
+There are only a few roots in this group. This group has the conjugational sign **ṇā** (**ṇo**)[^10] after a vowel and **uṇā** after a consonant.
 
 [^10]: less common
 
@@ -22,15 +22,14 @@ suṇā + ti \> suṇāti (he hears)
 
 suṇo + ti \> suṇoti (he hears)
 
-√ap (reach, attain) + u**ṇā** \> apuṇā
+√ap (reach, attain) + **uṇā** \> apuṇā
 
 pa + apuṇā + ti \> pāpuṇāti (he reaches, attains)
 
 **Conjugation of -āti pr**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | suṇā**ti** | he hears | suṇa**nti** | they hear |
 | 2nd | suṇā**si** | you hear | suṇā**tha** | you all hear |
 | 1st | suṇā**mi** | I hear | suṇā**ma** | we hear |

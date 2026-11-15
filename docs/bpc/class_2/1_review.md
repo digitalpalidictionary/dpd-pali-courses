@@ -9,21 +9,49 @@
 7.  pañcakkhandha
 8.  gen.
 9.  dhutaṅga
-10. inf.
-11. papañca
-12. ind.
-13. hitesī
-14. lit.
-15. indriyasaṃvara
-16. masc.
-17. kalyāṇamitta
-18. nom.
-19. dukkaṭa
-20. opt.
-21. manasikāra
-22. pl.
-23. muditā
-24. pp.
-25. nibbidā
-26. adv.
-27. catumadhura
+10.  inf.
+11.  papañca
+12.  ind.
+13.  hitesī
+14.  lit.
+15.  indriyasaṃvara
+16.  masc.
+17.  kalyāṇamitta
+18.  nom.
+19.  dukkaṭa
+20.  opt.
+21.  manasikāra
+22.  pl.
+23.  muditā
+24.  pp.
+25.  nibbidā
+26.  adv.
+27.  catumadhura
+
+## Abbreviations
+
+| Abbreviation | Meaning |
+| --- | --- |
+| adj | adjective |
+| adv | adverb |
+| card | cardinal number |
+| fem | feminine |
+| gen | genitive |
+| ind | indeclinable |
+| inf | infinitive |
+| lit | literally |
+| masc | masculine |
+| nom | nominative |
+| noun | noun |
+| nt | neuter |
+| opt | optative |
+| ordin | ordinal number |
+| pl | plural |
+| pp | past participle |
+| pron | pronoun |
+| pr | present tense |
+| prep | preposition |
+| prp | present participle |
+| ptp | potential participle |
+| sg | singular |
+| verb | verb |

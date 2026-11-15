@@ -1,10 +1,10 @@
-# Masculine nouns ending in -ū
+# Masculine Nouns Ending in -ū
 
 This is a small class of nouns, mostly formed with the endings **ññū** (knower) and **gū** (goer); e.g. *matta***ññū** (knower of the limit), *anta***gū** (one who has gone to the end).
 
 Many of these nouns can also be used as adjectives.
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | vid**ū** | vid**ū** / vid**uno** / vid**ūno** |
 | 2.acc | vid**uṃ** | vid**ū** / vid**uno** / vid**ūno** |

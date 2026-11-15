@@ -4,7 +4,7 @@
 - [Conjugation of Verbs](2_conjug.md)
 - [Present Tense Verbs](3_preset.md)
 - [Imperative Verbs!](4_imper.md)
-- [Verbal roots (dhātu)](5_roots.md)
+- [Verbal Roots (dhātu)](5_roots.md)
 - [Root Group 1 - bhūvādigaṇa](6_root_1.md)
 - [Root Group 4 - svādigaṇa](7_root_4.md)
 - [Root Group 5 - kiyādigaṇa](8_root_5.md)

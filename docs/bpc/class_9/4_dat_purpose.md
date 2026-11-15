@@ -1,8 +1,8 @@
-# The dative of purpose
+# The Dative of Purpose
 
 Another construction in Pāḷi, similar to the infinitive, is the Dative of Purpose.
 
-samaṇo gotamo arahati bhavantaṃ kūṭadantaṃ **dassanāya** upasaṅkamituṃ ([DN5.2](https://s.dhamma.gift/dn/dn5/index.html))
+samaṇo gotamo arahati bhavantaṃ kūṭadantaṃ **dassanāya** upasaṅkamituṃ ([DN5](https://s.dhamma.gift/dn/dn5/index.html))
 
 Ascetic Gotama ought to approach Sir Crooked Tooth **to see** (him).
 

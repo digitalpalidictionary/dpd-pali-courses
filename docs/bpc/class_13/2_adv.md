@@ -1,14 +1,14 @@
 # Adverbs
 
-Adverbs describe **how** or **when** an action is done, they give more information about the verb in the sentence.
+Adverbs describe **how** or **when** an action is done; they give more information about the verb in the sentence.
 
-kiṃ nu kho ahaṃ saṇikaṃ gacchāmi? *[MN20](https://s.dhamma.gift/mn/mn20/index.html)*
+kiṃ nu kho ahaṃ **saṇikaṃ** gacchāmi? *[MN20](https://s.dhamma.gift/mn/mn20/index.html)*
 
 Why am I going **slowly**?
 
 Adverbs are formed in various ways using **suffixes** and different **cases** of adjectives, and also using **indeclinable** particles. In all cases, adverbs are indeclinable.
 
-## How to form adverbs
+## How to Form Adverbs
 
 **Derivative Adverbs** are formed by adding suffixes to nouns and adjectives. You’ll go into these in more detail when you study primary and secondary derivatives.
 
@@ -16,17 +16,17 @@ Adverbs are formed in various ways using **suffixes** and different **cases** of
 | --- | --- | --- | --- | --- | --- |
 | satta | card | seven | satta**dhā** | adv | in 7 pieces |
 | pañca | card | five | pañca**so** | adv | five by five |
-| bahu | adj | many | bahuk**khattuṃ** | adv | many times |
+| bahu | adj | many | bahu**kkhattuṃ** | adv | many times |
 | ka | pron | what | ka**thaṃ** | adv | in what way? |
 | piṭṭhi | noun | back | piṭṭhi**to** | adv | behind |
 | pari | prep | around | pari**to** | adv | all around |
 | dūra | adj | far | dūra**to** | adv | from far away |
 | ta | pron | that | ta**tra** | adv | there |
-| añña | adj | another | añña**tra** | adv | elsewhere |
+| añña | pron | another | añña**tra** | adv | elsewhere |
 | sabba | pron | all | sabba**ttha** | adv | everywhere |
 | ka | pron | which | ku**hiṃ** | adv | where |
 
-and a very large number of others.
+And a very large number of others.
 
 **Case-form Adverbs** are formed by using nouns, pronouns and adjectives in certain cases, most commonly the accusative and instrumental cases.
 
@@ -39,18 +39,12 @@ and a very large number of others.
 | sacca | noun | truth | sacc**aṃ** | adv | truthfully |
 | sāya | noun | evening | sāy**aṃ** | adv | in the evening |
 | sukha | adj | easy | sukh**aṃ** | adv | easily |
-| tatiya | ordin | third | tatiy**aṃ** | adv | for third time |
+| tatiya | ordin | third | tatiy**aṃ** | adv | for the third time |
 | uddha | adj | upper | uddh**aṃ** | adv | upwards, above |
 
-Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?
+Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?[^28]
 
-1.  masculine, feminine, neuter acc s
-
-2.  neuter nom. s.
-
-3.  present participle masc nom. s.
-
-4.  adverbs
+[^28]: 1. masculine, feminine, neuter acc. sg.; 2. neuter nom. sg.; 3. present participle masc. nom. sg.; 4. adverbs.
 
 **Instrumental Case**
 
@@ -61,7 +55,7 @@ Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?
 | anupubba | adj | gradual | anupubb**ena** | adv | gradually |
 | cira | adj | long (time) | cir**ena** | adv | after a long time |
 | dhamma | noun | law | dhamm**ena** | adv | lawfully |
-| java | m | speed | jav**ena** | adv | quickly |
+| java | noun | speed | jav**ena** | adv | quickly |
 | kāla | noun | time | kāl**ena** | adv | timely |
 | kasira | adj | difficult | kasir**ena** | adv | with difficulty |
 | vega | noun | speed | veg**ena** | adv | quickly |
@@ -71,7 +65,7 @@ Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| svātana | adj | of tomorrow | svātan**āya** | adv | for tomorrow's (meal) |
+| svātana | adj | of tomorrow | svātan**āya** | adv | for tomorrow’s (meal) |
 | ajjatana | adj | of today | ajjatan**āya** | adv | for today; today |
 
 **Genitive Case**
@@ -88,9 +82,9 @@ Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?
 | bāhira | adj | external | bāhir**e** | adv | externally |
 | pubba | adj | former | pubb**e** | adv | formerly |
 
-The final group consists of the **Pure Adverbs,** which are not formed by adding suffixes or case declensions.
+The final group consists of the **Pure Adverbs**, which are not formed by adding suffixes or case declensions.
 
-There are about 200 such particles or **nipātā,** as they are called in traditional grammar books.
+There are about 200 such particles or **nipātā**, as they are called in traditional grammar books.
 
 | | |
 | --- | --- |

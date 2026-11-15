@@ -14,7 +14,7 @@
 
 4.  asantiyā āpattiyā, tuṇhī bhavamāno.
 
-— *VIN PAT NID* *modified*
+— *[VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)* (simpl)
 
 5.  dīghā jāgarato ratti,
     dīghaṃ santassa yojanaṃ,

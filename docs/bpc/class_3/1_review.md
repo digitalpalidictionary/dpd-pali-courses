@@ -2,13 +2,13 @@
 
 1.  saṅgho uposathaṃ **kareyya**
 
-— VIN PAT NID
+— [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)
 
 2.  āvāse saṅgho **viharati**
 
 — [AN4.180](https://s.dhamma.gift/an/an4/index.html#an4.180)
 
-3.  cattāro satipaṭṭhānā satta bojjh'aṅge **paripūrenti**
+3.  cattāro satipaṭṭhānā satta bojjh’aṅge **paripūrenti**
 
 — [MN118](https://s.dhamma.gift/mn/mn118/index.html) (simpl)
 
@@ -26,4 +26,4 @@
 
 7.  vitakkānaṃ ca vicārānaṃ ca vūpasamā
 
-— [DN22.18](https://s.dhamma.gift/dn/dn22/index.html) (simpl)
+— [DN22](https://s.dhamma.gift/dn/dn22/index.html) (simpl)

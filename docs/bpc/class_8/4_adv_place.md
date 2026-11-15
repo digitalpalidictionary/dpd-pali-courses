@@ -1,4 +1,4 @@
-# Adverbs of place
+# Adverbs of Place
 
 These get formed by adding some suffixes to common prepositions & pronouns. They are all indeclinable.
 
@@ -13,7 +13,11 @@ These get formed by adding some suffixes to common prepositions & pronouns. They
 | sabba | all, every | + ttha | sabbattha | everywhere |
 | eka | one | + ttha | ekattha | in one place |
 | añña | another | + ttha | aññattha | somewhere else |
-| **-to** “from a place” | | | | |
+
+**-to “from a place”**
+
+| | | | | |
+| --- | --- | --- | --- | --- |
 | ka | what? | + to | k**u**to | from where? |
 | ta | that | + to | tato | from there |
 | eka | one | + to | ekato | from one side |

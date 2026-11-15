@@ -1,7 +1,8 @@
 # Neuter Nouns
 
 These are very common, more than 17000 words in the current DPD database[^21].
-[^21]: Relevant for the year 2025.
+
+[^21]: This data is relevant for the year 2025.
 
 | | |
 | --- | --- |
@@ -18,9 +19,9 @@ These are very common, more than 17000 words in the current DPD database[^21].
 | cīvara | robe; cloth |
 | dāna | giving; offering |
 
-## Declension of Neuter Nouns ending in -a
+## Declension of Neuter Nouns Ending in -a
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | citt**aṃ** | citt**ā** / citt**āni** |
 | 2.acc | citt**aṃ** | citt**e** / citt**āni** |
@@ -46,7 +47,7 @@ What do you notice in regard to the declension of neuter nouns?
 | 7.loc | nar**e** / nar**amhi** / nar**asmiṃ** | citt**e** / citt**amhi** / citt**asmiṃ** | nar**esu** | citt**esu** |
 | 8.voc | nar**a** / nar**ā** | citt**a** / citt**ā** | nar**ā** | citt**ā** / citt**āni** |
 
-## Neuter Nouns ending in -i
+## Neuter Nouns Ending in -i
 
 These are very rare; there are only a few of them in the Tipiṭaka.
 
@@ -60,9 +61,9 @@ These are very rare; there are only a few of them in the Tipiṭaka.
 | vāri | water |
 | byanti | end |
 
-## Declension of Neuter Nouns ending in -i
+## Declension of Neuter Nouns Ending in -i
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | aṭṭh**i** | aṭṭh**ī** / aṭṭh**īni** |
 | 2.acc | aṭṭh**iṃ** | aṭṭh**ī** / aṭṭh**īni** |
@@ -86,11 +87,11 @@ These are very rare; there are only a few of them in the Tipiṭaka.
 | 7.loc | agg**imhi** / agg**ismiṃ** | aṭṭh**ini** / aṭṭh**imhi** / aṭṭh**ismiṃ** | agg**isu** / agg**īsu** | aṭṭh**isu** / aṭṭh**īsu** |
 | 8.voc | agg**i** | aṭṭh**i** | agg**ī** / agg**ayo** | aṭṭh**ī** / aṭṭh**īni** |
 
-## Neuter Nouns ending in -u
+## Neuter Nouns Ending in -u
 
 These are less common, about 400 in the current DPD database[^22].
 
-[^22]: Relevant for the year 2025.
+[^22]: This data is relevant for the year 2025.
 
 | | |
 | --- | --- |
@@ -105,9 +106,9 @@ These are less common, about 400 in the current DPD database[^22].
 | dhanu | bow |
 | sādu | delicious food; tasty food |
 
-## Declension of Neuter Nouns ending in -u
+## Declension of Neuter Nouns Ending in -u
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | āy**u** / āy**uṃ** | āy**ū** / āy**ūni** |
 | 2.acc | āy**uṃ** | āy**ū** / āy**ūni** |

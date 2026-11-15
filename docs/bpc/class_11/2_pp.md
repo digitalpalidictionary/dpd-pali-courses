@@ -13,15 +13,15 @@ The past participle is another **verbal adjective** which describes the action t
 
 Please note that the past participle is **usually passive** in meaning; it is **active** for intransitive verbs.
 
-## How to form a past participle
+## How to Form a Past Participle
 
-In theory the formation of past participles is very easy, just add -**ta**, -**ita** or -**na** to the root.
+In theory the formation of past participles is very easy: just add -**ta**, -**ita** or -**na** to the root.
 
-In practice, they can be quite tricky because many **sandhi** rules may apply, and their formation is heavily influenced by the **Sanskrit** **roots** from which they are derived.
+In practice, they can be quite tricky because many **sandhi** rules may apply, and their formation is heavily influenced by the **Sanskrit roots** from which they are derived.
 
-Until you learn more about Sandhi and Sanskrit roots, you will have to just learn the forms of the past participle by heart.
+Until you learn more about sandhi and Sanskrit roots, you will have to just learn the forms of the past participle by heart.
 
-There are, quite literally, thousands of examples...
+There are, quite literally, thousands of examples…
 
 ### 1. root + ta
 
@@ -49,7 +49,7 @@ When we study sandhi, we will study the rules related to the changes that happen
 | makkheti | √makkh | to smear | + ita | makkhita | smeared |
 | nandati | √nand | to delight | + ita | nandita | delighted |
 | pabbajati | √vaj | to go on | + ita | pabbajita | ordained |
-| vindati | √vid | to know | + ita | vidita | known |
+| vindati | √vid | to find | + ita | vidita | found |
 | yācati | √yāc | to beg | + ita | yācita | begged |
 
 ### 3. base + ita
@@ -81,11 +81,11 @@ Again, sandhi rules regarding the assimilation of **na** will be studied in deta
 
 ## Declension of Past Participles
 
-Past participles are declined, just like nouns ending in **-a** in all three genders. In masculine like *buddha*, in feminine like *vedanā*, and neuter like *cittaṃ*.
+Past participles are declined, just like nouns ending in **-a** in all three genders. In masculine like *nara*, in feminine like *vedanā*, and neuter like *citta*.
 
 **Masculine ending in -a**
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gat**o** | gat**ā** |
 | 2.acc | gat**aṃ** | gat**e** |
@@ -98,7 +98,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 
 **Feminine ending in -ā**
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gat**ā** | gat**ā** / gat**āyo** |
 | 2.acc | gat**aṃ** | gat**ā** / gat**āyo** |
@@ -111,7 +111,7 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 
 **Neuter ending in -aṃ**
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gat**aṃ** | gat**ā** / gat**āni** |
 | 2.acc | gat**aṃ** | gat**e** / gat**āni** |
@@ -122,36 +122,36 @@ Past participles are declined, just like nouns ending in **-a** in all three gen
 | 7.loc | gat**e** / gat**amhi** / gat**asmiṃ** | gat**esu** |
 | 8.voc | gat**a** / gat**ā** | gat**āni** |
 
-## How to use Past Participles
+## How to Use Past Participles
 
-1\. They often get used as the **verb** in the sentence, having a past passive meaning.
+1.  They often get used as the **verb** in the sentence, having a past passive meaning.
 
 evaṃ me **sutaṃ**
 
-lit. thus - by me – **heard**
+lit. thus – by me – **heard**
 
-fig. Thus **has been heard** by me
+fig. Thus **has been heard** by me.
 
 Notice that the **agent** of the sentence “**me**” is in the instrumental case. This is a normal construction for passive verbs.
 
-Active: **He** saw the tree (agent in nominative)
+Active: **He** saw the tree (agent in nominative).
 
-Passive: The tree was seen **by him.** (agent in instrumental)
+Passive: The tree was seen **by him**. (agent in instrumental)
 
-2\. Past participles are very often used as **nouns**
+2.  Past participles are very often used as **nouns**
 
 atthi **dinnaṃ** atthi **yiṭṭhaṃ** atthi **hutaṃ** *[MN41](https://s.dhamma.gift/mn/mn41/index.html)*
 
-lit. there is **given,** there is **sacrificed**, there is **offered**
+lit. there is **given**, there is **sacrificed**, there is **offered**
 
-there is (what is) **given,** there is (what is) **sacrificed**, there is (what is) **offered**
+there is (what is) **given**, there is (what is) **sacrificed**, there is (what is) **offered**
 
-there is (what has been) **given,** there is (what has been) **sacrificed**, there is (what has been) **offered**
+there is (what has been) **given**, there is (what has been) **sacrificed**, there is (what has been) **offered**
 
-3\. They are also very often used as **adjectives**, agreeing with the nouns in gender, case & number.
+3.  They are also very often used as **adjectives**, agreeing with the nouns in gender, case & number.
 
-seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *[DN14.14](https://s.dhamma.gift/dn/dn14/index.html)*
+seyyathāpi **suddhaṃ** vatthaṃ **apagataṃ** kāḷakaṃ … *[DN14](https://s.dhamma.gift/dn/dn14/index.html)* (simpl)
 
-lit. just like a **cleaned** cloth, **gone away** stains ...
+lit. just like a **purified** cloth, **gone away** stains …
 
 How would you translate that into English?

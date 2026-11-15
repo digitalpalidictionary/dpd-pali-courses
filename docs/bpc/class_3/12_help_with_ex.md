@@ -12,7 +12,7 @@ Pāḷi: naro gāmaṃ gacchati (man village he goes)
 
 There are, of course, numerous exceptions, but this is most common in Pāḷi prose.
 
-## The genitive case
+## The Genitive Case
 
 The genitive case usually comes *before* the noun it qualifies.
 
@@ -20,7 +20,7 @@ e.g. the body of the man, the man’s body
 
 manussassa kāyo
 
-## Agreement between nouns (pronouns…) and verbs
+## Agreement Between Nouns (Pronouns…) and Verbs
 
 The **subject** of the sentence and the **verb** must **agree** in **number**.
 

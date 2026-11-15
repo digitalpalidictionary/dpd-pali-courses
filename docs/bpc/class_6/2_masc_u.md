@@ -1,4 +1,4 @@
-# Masculine nouns ending in -u
+# Masculine Nouns Ending in -u
 
 | | **example** |
 | --- | --- |
@@ -7,22 +7,22 @@
 | -u/-ar (2) | pit**ar**; bhāt**ar** |
 | -ū | vid**ū** |
 
-## Masculine nouns ending in -u like bhikkhu
+## Masculine Nouns Ending in -u like bhikkhu
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
-| 1. nom | bhikkh**u** | bhikkh**ū** / bhikkh**avo** |
-| 2. acc | bhikkh**uṃ** | bhikkh**ū** / bhikkh**avo** |
-| 3. instr | bhikkh**unā** | bhikkh**ūhi** |
-| 4. dat | bhikkh**uno** / bhikkh**ussa** | bhikkh**ūnaṃ** |
-| 5. abl | bhikkh**unā** / bhikkh**umhā** / bhikkh**usmā** | bhikkh**ūhi** |
-| 6. gen | bhikkh**uno** / bhikkh**ussa** | bhikkh**ūnaṃ** |
-| 7. loc | bhikkh**umhi** / bhikkh**usmiṃ** | bhikkh**ūsu** |
-| 8. voc | bhikkh**u** | bhikkh**ū** / bhikkh**avo** / bhikkh**ave** |
+| 1.nom | bhikkh**u** | bhikkh**ū** / bhikkh**avo** |
+| 2.acc | bhikkh**uṃ** | bhikkh**ū** / bhikkh**avo** |
+| 3.inst | bhikkh**unā** | bhikkh**ūhi** |
+| 4.dat | bhikkh**uno** / bhikkh**ussa** | bhikkh**ūnaṃ** |
+| 5.abl | bhikkh**unā** / bhikkh**umhā** / bhikkh**usmā** | bhikkh**ūhi** |
+| 6.gen | bhikkh**uno** / bhikkh**ussa** | bhikkh**ūnaṃ** |
+| 7.loc | bhikkh**umhi** / bhikkh**usmiṃ** | bhikkh**ūsu** |
+| 8.voc | bhikkh**u** | bhikkh**ū** / bhikkh**avo** / bhikkh**ave** |
 
 gar**u**, het**u**, phās**u**, macc**u**, nhār**u**, paṃs**u** etc. similarly declined.
 
-## Masculine nouns ending in -u / -ar (1)
+## Masculine Nouns Ending in -u / -ar (1)
 
 These can also be found in some dictionaries with **-tu** or **-tar** ending, e.g. *satthu* or *satthar*, and the Sanskrit equivalent, ending in **-tṛ**.
 
@@ -38,11 +38,11 @@ They are collectively known as **agent nouns** because they describe a person wh
 | √dā | to give | √dā + tar \> dātar | giver |
 | √bhās | to speak | √bhās + itar \> bhāsitar | speaker |
 | √gam | to go | √gam + tar \> gantar | traveller |
-| √kar | to do, make | √kar + tar \> kattar | doer, maker |
-| √vac | to speak | pa + √vac + tar \> pavattar | proclaimer |
+| √kar | to do | √kar + tar \> kattar | doer, maker |
+| √vac | to say | pa + √vac + tar \> pavattar | proclaimer |
 | √dhar | to hold | √dhar + tar \> dhātar | upholder |
 | √su | to hear | √su \> so + tar \> sotar | hearer |
-| √vac | to speak | √vac + tar \> vattar | speaker |
+| √vac | to say | √vac + tar \> vattar | speaker |
 | √pucch | to ask | √pucch + itar \> pucchitar | questioner |
 | √ñā | to know | ā + √ñā + tar \> aññātar | knower |
 | √sah | to overcome | √sah + itar \> sahitar | who endures |
@@ -52,7 +52,7 @@ They are collectively known as **agent nouns** because they describe a person wh
 
 **Declension of -u / -ar (1)**
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | satth**ā** | satth**āro** |
 | 2.acc | satth**āraṃ** | satth**āre** / satth**āro** |
@@ -63,9 +63,9 @@ They are collectively known as **agent nouns** because they describe a person wh
 | 7.loc | satth**ari** | satth**āresu** |
 | 8.voc | satth**a** / satth**ā** | satth**āro** |
 
-Similarly bhāsi**tar**, vat**tar**, bhat**tar**, kat**tar**, dā**tar**, akkhā**tar**, man**tar**, ajjhāvasa**tar,** so**tar**, brūhe**tar**, aññā**tar** etc.
+Similarly bhāsi**tar**, vat**tar**, bhat**tar**, kat**tar**, dā**tar**, akkhā**tar**, man**tar**, ajjhāvasa**tar**, so**tar**, brūhe**tar**, aññā**tar** etc.
 
-## Masculine nouns ending in -u / -ar (2)
+## Masculine Nouns Ending in -u / -ar (2)
 
 These nouns include all the close family relations, like bhātar (brother), pitar (father) etc.
 
@@ -78,7 +78,7 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
 **Declension of -u / -ar (2)**
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | bhāt**ā** | bhāt**aro** |
 | 2.acc | bhāt**araṃ** | bhāt**are** / bhāt**aro** |
@@ -95,7 +95,7 @@ In some grammars and dictionaries, you can find these nouns listed as bhātu.
 
 | | -u | -u/-ar (2) | -u/-ar (1) | -u | -u/-ar (2) | -u/-ar (1) |
 | --- | --- | --- | --- | --- | --- | --- |
-| | singular | singular | singular | plural | plural | plural |
+| | Singular | Singular | Singular | Plural | Plural | Plural |
 | 1.nom | bhikkh**u** | bhāt**ā** | satth**ā** | bhikkh**ū** / bhikkh**avo** | bhāt**aro** | satth**āro** |
 | 2.acc | bhikkh**uṃ** | bhāt**araṃ** | satth**āraṃ** | bhikkh**ū** / bhikkh**avo** | bhāt**are** / bhāt**aro** | satth**āre** / satth**āro** |
 | 3.inst | bhikkh**unā** | bhāt**arā** / bhāt**unā** | satth**ārā** / satth**unā** | bhikkh**ūhi** | bhāt**ūhi** | satth**ārehi** |

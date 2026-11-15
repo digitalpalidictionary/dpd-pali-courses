@@ -1,8 +1,8 @@
 # Feminine Nouns
 
-## Feminine Nouns ending in -i
+## Feminine Nouns Ending in -i
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | bhūm**i** | bhūm**ī** / bhūm**iyo** |
 | 2.acc | bhūm**iṃ** | bhūm**ī** / bhūm**iyo** |
@@ -13,7 +13,7 @@
 | 7.loc | bhūm**iyā** / bhūm**iyaṃ** | bhūm**isu** / bhūm**īsu** |
 | 8.voc | bhūm**i** | bhūm**ī** / bhūm**iyo** |
 
-## Feminine Nouns ending in -ī
+## Feminine Nouns Ending in -ī
 
 This is a common way of forming feminine versions of masculine nouns.
 
@@ -29,11 +29,11 @@ This is a common way of forming feminine versions of masculine nouns.
 
 This group also includes common feminine nouns like:
 
-**itthī** (woman), **pathavī** (earth), **bhaginī** (sister) etc.
+**itthī** (woman), **paṭhavī** (earth), **bhaginī** (sister) etc.
 
-### Declension of Feminine Nouns ending in -ī
+### Declension of Feminine Nouns Ending in -ī
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | kumār**ī** | kumār**ī** / kumār**iyo** |
 | 2.acc | kumār**iṃ** | kumār**ī** / kumār**iyo** |
@@ -44,9 +44,9 @@ This group also includes common feminine nouns like:
 | 7.loc | kumār**iyā** / kumār**iyaṃ** | kumār**isu** / kumār**īsu** |
 | 8.voc | kumār**i** / kumār**ī** | kumār**ī** / kumār**iyo** |
 
-## Feminine Nouns ending in -u
+## Feminine Nouns Ending in -u
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | yāg**u** | yāg**ū** / yāg**uyo** |
 | 2.acc | yāg**uṃ** | yāg**ū** / yāg**uyo** |
@@ -57,24 +57,24 @@ This group also includes common feminine nouns like:
 | 7.loc | yāg**uyā** / yāg**uyaṃ** | yāg**usu** / yāg**ūsu** |
 | 8.voc | yāg**u** | yāg**ū** / yāg**uyo** |
 
-The most common feminine noun in this group - **dhātu**.
+The most common feminine noun in this group – **dhātu**.
 
-## Feminine nouns mātu (mātar) and dhītu (dhītar)
+## Feminine Nouns mātu (mātar) and dhītu (dhītar)
 
 These are irregular in form.
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | māt**ā** | māt**aro** |
 | 2.acc | māt**araṃ** | māt**aro** |
 | 3.inst | māt**arā** / māt**uyā** | māt**ūhi** / māt**arehi** |
-| 4.dat | māt**uyā** / m**ātu** | māt**arānaṃ** / māt**ānaṃ** / māt**ūnaṃ** |
+| 4.dat | māt**uyā** / māt**u** | māt**arānaṃ** / māt**ānaṃ** / māt**ūnaṃ** |
 | 5.abl | māt**arā** / māt**uyā** | māt**ūhi** / māt**arehi** |
 | 6.gen | māt**uyā** / māt**u** | māt**arānaṃ** / māt**ānaṃ** / māt**ūnaṃ** |
 | 7.loc | māt**ari** / māt**uyā** | māt**aresu** |
 | 8.voc | māt**a** / māt**ā** | māt**ā** / māt**aro** |
 
-## Feminine Nouns ending in -ikā
+## Feminine Nouns Ending in -ikā
 
 A common way to create masculine nouns is with **-aka** suffix. The feminine version of this is **-ikā**. These nouns are declined like **vedanā**.
 
@@ -89,7 +89,7 @@ A common way to create masculine nouns is with **-aka** suffix. The feminine ver
 | sāv**aka** | disciple | sāv**ikā** | fem. disciple |
 | gāy**aka** | singer | gāy**ikā** | fem. singer |
 
-## Feminine Nouns ending in -inī
+## Feminine Nouns Ending in -inī
 
 Masculine nouns ending in **-ī** have the feminine form **-inī**. They are declined like **kumārī**.
 
@@ -103,6 +103,6 @@ Masculine nouns ending in **-ī** have the feminine form **-inī**. They are dec
 | mant**ī** | minister | mant**inī** | fem. minister |
 | tapass**ī** | ascetic | tapass**inī** | fem. ascetic |
 
-## Feminine Nouns ending in -unī
+## Feminine Nouns Ending in -unī
 
 Similar to the previous one. The most common example is **bhikkhunī**. It is declined like **kumārī**.

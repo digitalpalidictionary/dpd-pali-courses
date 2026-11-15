@@ -6,7 +6,7 @@ Nouns have **3 genders** – masculine, neuter and feminine.
 
 Nouns have **2 numbers** – singular and plural.
 
-Nouns are declined in **8 cases.**
+Nouns are declined in **8 cases**.
 
 You will become very familiar with these cases in the upcoming weeks.
 
@@ -42,29 +42,29 @@ The **subject** of the sentence is in the nominative case.
 
 The **object** of a sentence is in the accusative case.
 
-The lion eats **the disciple.**
+The lion eats **the disciple**.
 
 sīho sāvak**aṃ** khādati.
 
 How would you say the disciple eats the lion in Pāḷi?
 
-The Accusative Case also expresses **going to** or **going along.**
+The Accusative Case also expresses **going to** or **going along**.
 
-The lay devotee goes **to** **the village.**
+The lay devotee goes **to the village**.
 
 upāsako gām**aṃ** gacchati.
 
-The elder walks **along the road.**
+The elder walks **along the road**.
 
 thero magg**aṃ** carati.
 
 This is called “**the accusative of motion**” and is very common.
 
-**3. The Instrumental Case (tatiyā & karaṇa)**
+## 3. Instrumental Case (tatiyā & karaṇa)
 
 Refers to an action done **by** or **with** someone or something.
 
-Usually translated using **by,** **with** or **through.**
+Usually translated using **by**, **with** or **through**.
 
 The elder goes to the village **with** **the disciple**.
 
@@ -82,9 +82,9 @@ sāvako sīh**ena** khajjati.
 
 Refers to the person or thing to which something is given or directed.
 
-Usually translated using **to** or **for.**
+Usually translated using **to** or **for**.
 
-The elder gives an alms bowl **to the lay devotee.**
+The elder gives an alms bowl **to the lay devotee**.
 
 thero **upāsakassa** pattaṃ deti.
 
@@ -100,9 +100,9 @@ namo **tassa** **bhagavato**.
 
 The opposite of the Dative case.
 
-Usually translated using **from, away from.**
+Usually translated using **from, away from**.
 
-The lay devotee goes **from the residence.**
+The lay devotee goes **from the residence**.
 
 upāsako **āvāsamhā** gacchati.
 
@@ -134,24 +134,24 @@ sīho gām**asmiṃ** carati.
 
 Used when addressing people directly.
 
-**O, lay devotee,** come here!
+**O, lay devotee**, come here!
 
 ehi **upāsaka**!
 
-ehi **paññādhammika!** (a name; names in ‑a take the same vocative as any a‑stem).
+ehi **paññādhammika!** (a name; names in -a take the same vocative as any a-stem).
 
 **In Summary**
 
 | | | |
 | --- | --- | --- |
-| 1. Nominative | nar**o** | the man (subject) |
-| 2. Accusative | nar**aṃ** | the man (object) |
-| 3. Instrumental | nar**ena** | by, with, through the man |
-| 4. Dative | nar**āya** / nar**assa** | to the man, for the man |
-| 5. Ablative | nar**ā** / nar**amhā** / nar**asmā** | from the man |
-| 6. Genitive | nar**assa** | of the man, the man’s |
-| 7. Locative | nar**e** / nar**amhi** / nar**asmiṃ** | in, on, at the man |
-| 8. Vocative | nar**a** / nar**ā** | hey, man! o, man! |
+| 1.nom | nar**o** | the man (subject) |
+| 2.acc | nar**aṃ** | the man (object) |
+| 3.inst | nar**ena** | by, with, through the man |
+| 4.dat | nar**āya** / nar**assa** | to the man, for the man |
+| 5.abl | nar**ā** / nar**amhā** / nar**asmā** | from the man |
+| 6.gen | nar**assa** | of the man, the man’s |
+| 7.loc | nar**e** / nar**amhi** / nar**asmiṃ** | in, on, at the man |
+| 8.voc | nar**a** / nar**ā** | hey, man! o, man! |
 
 What’s the difference between Thai and Sri Lankan bhikkhu names?
 
@@ -163,17 +163,16 @@ Which one is correct?
 
 ## Declension of -a masc
 
-| | | |
-| --- | --- | --- |
 | | Singular | Plural |
-| 1. Nominative | nar**o** | nar**ā** |
-| 2. Accusative | nar**aṃ** | nar**e** |
-| 3. Instrumental | nar**ena** | nar**ehi** |
-| 4. Dative | nar**āya** / nar**assa** | nar**ānaṃ** |
-| 5. Ablative | nar**ā** / nar**amhā** / nar**asmā** | nar**ehi** |
-| 6. Genitive | nar**assa** | nar**ānaṃ** |
-| 7. Locative | nar**e** / nar**amhi** / nar**asmiṃ** | nar**esu** |
-| 8. Vocative | nar**a** / nar**ā** | nar**ā** |
+| --- | --- | --- |
+| 1.nom | nar**o** | nar**ā** |
+| 2.acc | nar**aṃ** | nar**e** |
+| 3.inst | nar**ena** | nar**ehi** |
+| 4.dat | nar**āya** / nar**assa** | nar**ānaṃ** |
+| 5.abl | nar**ā** / nar**amhā** / nar**asmā** | nar**ehi** |
+| 6.gen | nar**assa** | nar**ānaṃ** |
+| 7.loc | nar**e** / nar**amhi** / nar**asmiṃ** | nar**esu** |
+| 8.voc | nar**a** / nar**ā** | nar**ā** |
 
 Please learn this table by heart. Why?
 

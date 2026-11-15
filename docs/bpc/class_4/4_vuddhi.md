@@ -79,7 +79,7 @@ saṃ + √sar + \*a \> saṃs**ā**ra
 
 karo + ti \> karoti (he does, makes)
 
-These changes are very common in all areas of Pāḷi grammar and **worth learning by heart.**
+These changes are very common in all areas of Pāḷi grammar and **worth learning by heart**.
 
 | | | |
 | --- | --- | --- |

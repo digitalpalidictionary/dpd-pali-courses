@@ -2,7 +2,7 @@
 
 = rudh + ādi + gaṇa
 
-= √rudh + etc. + group
+= √rudh + etc + group
 
 This group has only a few roots, but they are very commonly used.
 

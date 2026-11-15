@@ -2,17 +2,17 @@
 
 1.  Exercises for class 13
 2.  Learn the vocabulary from class 13 using Anki Deck “Vocab Pāḷi Class”
-3.  Learn adverbs from class 13 “Grammar Pāḷi Class”
+3.  Learn adverbs from class 13 using Anki Deck “Grammar Pāḷi Class”
 4.  Learn the most common roots from “Common Roots Pāḷi Class” or/and “Roots Class”
 
 **Extra:**
 
--   “**SBS kuṭi udāna**” based on sutta passages, describe particular qualities that should be developed and correspond to various names of SBS kuṭis.
+-   Write an “**SBS kuṭi udāna**”: based on sutta passages, describe particular qualities that should be developed and correspond to various names of [SBS kuṭis](https://docs.google.com/spreadsheets/d/1JZPHwIzZv8kC92vjNc2Oy6VdQmwIRT23Ae1DUKersTU/).
 
 ## Extra Reading
 
 | | |
 | --- | --- |
-| V. Perniola / Pāḷi Grammar | Adverbs (p129 - 132) / The Passive (p89 – 101) |
-| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | Adverbs (p127 - 129) / The Passive (p110 - 112) |
+| V. Perniola / Pāḷi Grammar | Adverbs (p129–132) / The Passive (p89–101) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | Adverbs (p127–129) / The Passive (p110–112) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

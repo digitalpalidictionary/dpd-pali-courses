@@ -6,11 +6,11 @@
 
 2.  sādhu **me**, bhante, bhagavā dhammaṃ desetu
 
-— [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) simpl
+— [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53) (simpl)
 
 3.  **mayaṃ** piṇḍapāte paribhuñjāma
 
-— [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) simpl
+— [SN12.22](https://s.dhamma.gift/sn/sn12/index.html#sn12.22) (simpl)
 
 4.  na etaṃ **mama**
 

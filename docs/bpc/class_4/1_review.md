@@ -22,4 +22,4 @@
 
 6.  suṇātu me, bhante, saṅgho
 
-— VIN PAT NID
+— [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)

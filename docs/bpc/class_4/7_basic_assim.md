@@ -40,7 +40,8 @@ vi + √ra**j** (desire) + **y**a + ti \> vira**jj**ati (he is detached)
 
 vi + √su**dh** (be pure) + **y**a + ti \> visu**jjh**ati (he is purified)
 
-**n + y \> ññ**  
+**n + y \> ññ**
+
 √ha**n** (kill) + **y**a + ti \> ha**ññ**ati (he is killed)
 
 √ma**n** (think) + **y**a + ti \> ma**ññ**ati (he thinks)
@@ -63,9 +64,9 @@ vi + √su**dh** (be pure) + **y**a + ti \> visu**jjh**ati (he is purified)
 
 **v + y \> vv \> bb**
 
-√si**v** (sew) + ya + ti \> si**vv**ati \> si**bb**ati (he sews)
+√si**v** (sew) + **y**a + ti \> si**vv**ati \> si**bb**ati (he sews)
 
-√di**v** (shine) + ya + ti \> di**vv**ati \> di**bb**ati (he shines)
+√di**v** (shine) + **y**a + ti \> di**vv**ati \> di**bb**ati (he shines)
 
 **s + y \> ss**
 

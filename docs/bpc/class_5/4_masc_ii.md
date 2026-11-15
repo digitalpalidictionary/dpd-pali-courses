@@ -1,4 +1,4 @@
-# Masculine nouns ending in -ī
+# Masculine Nouns Ending in -ī
 
 A large group of nouns is formed by adding the **ī** ending.
 
@@ -27,13 +27,13 @@ Many of these possessive nouns can also be used as adjectives.
 
 ## Declension of -ī masc
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
-| 1. nom | pakkh**ī** | pakkh**ī** / pakkh**ino** |
-| 2. acc | pakkh**inaṃ** / pakkh**iṃ** | pakkh**ī** / pakkh**ino** |
-| 3. instr | pakkh**inā** | pakkh**īhi** |
-| 4. dat | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
-| 5. abl | pakkh**inā** / pakkh**imhā** | pakkh**īhi** |
-| 6. gen | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
-| 7. loc | pakkh**ini** / pakkh**imhi** / pakkh**ismiṃ** | pakkh**īsu** |
-| 8. voc | pakkh**i** / pakkh**ī** | pakkh**ī** / pakkh**ino** |
+| 1.nom | pakkh**ī** | pakkh**ī** / pakkh**ino** |
+| 2.acc | pakkh**inaṃ** / pakkh**iṃ** | pakkh**ī** / pakkh**ino** |
+| 3.inst | pakkh**inā** | pakkh**īhi** |
+| 4.dat | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
+| 5.abl | pakkh**inā** / pakkh**imhā** | pakkh**īhi** |
+| 6.gen | pakkh**ino** / pakkh**issa** | pakkh**īnaṃ** |
+| 7.loc | pakkh**ini** / pakkh**imhi** / pakkh**ismiṃ** | pakkh**īsu** |
+| 8.voc | pakkh**i** / pakkh**ī** | pakkh**ī** / pakkh**ino** |

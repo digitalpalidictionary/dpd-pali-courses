@@ -22,4 +22,4 @@
 
 6.  yena eva bhagavā tena eva ahaṃ assaṃ
 
-— *[SN55.23](https://s.dhamma.gift/sn/sn55/index.html#sn55.23) godhasakkasutta*
+— *[SN55.23](https://s.dhamma.gift/sn/sn55/index.html#sn55.23) godhasakka sutta*

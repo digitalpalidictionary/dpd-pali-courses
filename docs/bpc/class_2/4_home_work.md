@@ -4,23 +4,24 @@
 | --- | --- | --- | --- | --- |
 | purisassa | noun | masc.gen.sg / masc.dat.sg | of the man / to the man | человека |
 | goṇo | noun | masc.nom.sg | the ox | бык |
-| **the man’s ox** / **бык человека** |
+
+**the man’s ox** / **бык человека**
 
 [^4]: If English is not your native language, it is strongly recommended to add a column with your native language. This will help create more brain connections and make it easier to memorise words.
 
 ## Homeless work
 
 1.  Exercises for class 2
-2.  Make 5 sentences (English - Pāḷi) using [vocabulary](../../generated/vocab/class-02.md) from class 2.
+2.  Make 5 sentences (English – Pāḷi) using [vocabulary](../../generated/vocab/class-02.md) from class 2.
 3.  Learn the vocabulary from class 2 using Anki Deck “Vocab Pāḷi Class”
-4.  Learn declension of masculine nouns in -a from “Grammar Pāḷi Class” class 2
+4.  Learn declension of masculine nouns in -a from class 2 using Anki Deck “Grammar Pāḷi Class”
 5.  Have a student meeting sometime before the class to discuss exercises. Go over each sentence.
 
 ## Extra Reading
 
 | | |
 | --- | --- |
-| A.K. Warder / Introduction to Pāḷi | p1-9 |
-| V. Perniola / Pāḷi Grammar | p1-3 (alphabet & pronunciation) / p29 onwards (declension) |
-| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p4-6 (alphabet & pronunciation) / p24-27 (declension of masculine nouns) |
+| A.K. Warder / Introduction to Pāḷi | p1–9 |
+| V. Perniola / Pāḷi Grammar | p1–3 (alphabet & pronunciation) / p29 onwards (declension) |
+| Charles Duroiselle / A Practical Grammar of the Pāḷi Language | p4–6 (alphabet & pronunciation) / p24–27 (declension of masculine nouns) |
 | A Bhikkhu Māgadhabhāsā (Pāḷi) | Corresponding chapters |

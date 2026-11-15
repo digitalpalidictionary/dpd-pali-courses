@@ -20,9 +20,9 @@ Just like the present tense.
 
 √bhuj 2 ṃa (eat, enjoy) \> bhuñja
 
-bhuñja + i \> bhuñji (he ate, enjoyed)
+bhuñja + **i** \> bhuñj**i** (he ate, enjoyed)
 
-√mant 8 aya (counsel, invite) \> mantaya
+√mant 8 \*aya (counsel, invite) \> mantaya
 
 ā + mantaya + **i** \> āmantayi (he addressed)
 
@@ -40,26 +40,24 @@ a + √ṭhā + si \> **a**ṭṭhāsi (he stood)
 
 a + √dā + si \> **a**dāsi (he gave)
 
-## 1st conjugation group & others
+## Root Group 1 & Others
 
 **Conjugation of -i aor**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | pac**i** / apac**i** | he cooked | pac**iṃsu** / apac**iṃsu** / pac**uṃ** / apac**uṃ** | they cooked |
 | 2nd | pac**i** / apac**i** / pac**o** / apac**o** | you cooked | pac**ittha** / apac**ittha** | you all cooked |
 | 1st | pac**iṃ** / apac**iṃ** | I cooked | pac**imha** / pac**imhā** / apac**imha** / apac**imhā** | we cooked |
 
-## 8th conjugation group
+## Root Group 8
 
-8th conjugation group and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”.
+Root group 8 and other bases ending in **e**, such as causative verbs, are conjugated with an inserted “s”.
 
 **Conjugation of -esi aor**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | dese**si** | he taught | dese**suṃ** | they taught |
 | 2nd | dese**si** | you taught | des**ittha** | you all taught |
 | 1st | dese**siṃ** | I taught | des**imha** / des**imhā** | we taught |
@@ -72,9 +70,8 @@ Some roots ending in long vowels also have the “s” aorist ending. Note the p
 
 **Conjugation of -āsi aor**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | aṭṭhā**si** | he stood | aṭṭha**ṃsu** | they stood |
 | 2nd | aṭṭhā**si** | you stood | aṭṭha**ttha** | you all stood |
 | 1st | aṭṭhā**siṃ** | I stood | aṭṭha**mha** / aṭṭha**mhā** | we stood |

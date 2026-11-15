@@ -4,7 +4,7 @@
 
 = √gah + etc + group
 
-It has the conjugational sign **ṇhā.**
+It has the conjugational sign **ṇhā**.
 
 √gah (grasp) + **ṇhā** \> gaṇhā
 

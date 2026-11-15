@@ -30,7 +30,7 @@ bhuñja + **eyyuṃ** \> bhuñjeyyuṃ (they might eat)
 
 nahāya + **eyyāsi** \> nahāyeyyāsi (you could bathe)
 
-√kath 8 e (tell) \> kathe
+√kath 8 \*e (tell) \> kathe
 
 kathe + **eyyātha** \> katheyyātha (you all might tell)
 
@@ -46,7 +46,7 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 | | | |
 | --- | --- | --- |
-| 3rd | gacche**yya** / gacche | gacche**yyuṃ** |
+| 3rd | gacch**eyya** / gacche | gacch**eyyuṃ** |
 | 2nd | gacche**yyāsi** / gacche | gacche**yyātha** |
 | 1st | gacche**yyāmi** / gacche | gacche**yyāma** |
 
@@ -54,7 +54,7 @@ suṇā + **eyyāma** \> suṇeyyāma (we could hear)
 
 It has two forms:
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
 | 3rd | **assa** / **siyā** | he could be | **assu** / **siyaṃsu** / **siyuṃ** | they could be |
 | 2nd | **assa** / **siyā** | you could be | **assatha** / **-** | you all could be |
@@ -72,6 +72,6 @@ evaṃrūpo **siyaṃ** anāgatam’addhānaṃ ([SN22.3](https://s.dhamma.gift/
 
 **I could be** of such a form in the future.
 
-aho vata mayaṃ na maraṇadhammā **assāma** ([MN10.16](https://s.dhamma.gift/mn/mn10/index.html))
+aho vata mayaṃ na maraṇadhammā **assāma** ([MN10](https://s.dhamma.gift/mn/mn10/index.html))
 
 Oh **may we** not **be** of a nature to die!

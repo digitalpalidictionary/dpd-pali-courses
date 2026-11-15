@@ -36,27 +36,27 @@ bandh**u** + **mant** \> bandhumant (one with relatives)
 
 When a possessive stands alone it **can** function as a noun.
 
-[SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) sā devatā **bhagavantaṃ** etad’avoca
+sā devatā **bhagavantaṃ** etad’avoca ([SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1))
 
 That deity said this to the **Fortunate One**.
 
-[DN3.15](https://s.dhamma.gift/dn/dn3/index.html) **cakkhumanto** rūpāni dakkhanti.
+**cakkhumanto** rūpāni dakkhanti. ([DN3](https://s.dhamma.gift/dn/dn3/index.html))
 
 **People with eyesight** will see forms.
 
 A possessive can also be used as an adjective. When it stands together with another noun, it **can** function as an adjective.
 
-[MN152](https://s.dhamma.gift/mn/mn152/index.html) seyyathāpi **balavā** **puriso** samiñjitaṃ vā bāhaṃ pasāreyya
+seyyathāpi **balavā** **puriso** samiñjitaṃ vā bāhaṃ pasāreyya ([MN152](https://s.dhamma.gift/mn/mn152/index.html))
 
 Just like a **strong man** would stretch out his bent arm or …
 
-[AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40) yasmiṃ, bhikkhave, samaye **corā balavanto** honti …
+yasmiṃ, bhikkhave, samaye **corā balavanto** honti … ([AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40))
 
 At which time, monks, the **thieves** are **powerful** …
 
-## Declension of *-ant masc*
+## Declension of -ant masc
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | bhagav**ā** / bhagav**anto** | bhagav**anto** / bhagav**antā** |
 | 2.acc | bhagav**antaṃ** | bhagav**ante** |
@@ -75,5 +75,5 @@ bhagavatā 1168
 
 bhagavato 1942
 
-[^18]: In the mūla part of the 4 Nikāyas
+[^18]: In the Mūla part of the 4 Nikāyas
 

@@ -2,9 +2,9 @@
 
 The present participle is a **verbal adjective**. That means it describes the action that a noun or pronoun is doing.
 
-dīghaṃ vā **assasanto** “dīghaṃ assasāmī’ti pajānāti
+dīghaṃ vā **assasanto** “dīghaṃ assasāmī”ti pajānāti
 
-dīghaṃ vā **passasanto** “dīghaṃ passasāmī’ti pajānāti *[MN118](https://s.dhamma.gift/mn/mn118/index.html)*
+dīghaṃ vā **passasanto** “dīghaṃ passasāmī”ti pajānāti *([MN118](https://s.dhamma.gift/mn/mn118/index.html))*
 
 **Breathing in** deeply, he knows, “I am breathing in deeply.”
 
@@ -12,9 +12,9 @@ dīghaṃ vā **passasanto** “dīghaṃ passasāmī’ti pajānāti *[MN118](h
 
 Which is the noun/pronoun that is being described by the present participles in these sentences?
 
-Although the present participle acts as a verb, it is declined like a noun. It agrees with the noun in **gender, case and number.**
+Although the present participle acts as a verb, it is declined like a noun. It agrees with the noun in **gender, case and number**.
 
-seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *[SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)*
+seyyathāpi bhikkhave **makkaṭo** araññe pavane **caramāno…** *([SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61))*
 
 Just like, monks, a **monkey**, **wandering** **in a forest, in wilderness**…
 
@@ -22,9 +22,9 @@ makkaṭo = masc.nom.sg
 
 caramāno = masc.nom.sg
 
-puriso passeyya **maccha-gumbaṃ** **carantaṃ** **tiṭṭhantaṃ** *[MN39](https://s.dhamma.gift/mn/mn39/index.html)*
+puriso passeyya **macchagumbaṃ** **carantaṃ** **tiṭṭhantaṃ** *([MN39](https://s.dhamma.gift/mn/mn39/index.html))*
 
-a man could see a **school of fish wandering around and remaining still.**
+A man could see a **school of fish wandering around and remaining still**.
 
 macchagumbaṃ = masc.acc.sg
 
@@ -32,15 +32,15 @@ carantaṃ = masc.acc.sg
 
 tiṭṭhantaṃ = masc.acc.sg
 
-## How to form a present participle
+## How to Form a Present Participle
 
-There are 3 ways to form present participles
+There are 3 ways to form present participles.
 
-1\. add -**nta** to the verbal base
+1.  add -**nta** to the verbal base
 
-2\. add -**māna** to the verbal base
+2.  add -**māna** to the verbal base
 
-3\. add -**āna** to the verbal base (found in verse)
+3.  add -**āna** to the verbal base (found in verse)
 
 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ There are 3 ways to form present participles
 | 2 | √gam | to go | gaccha | + māna | gaccha**māna** | going |
 | 3 | √gam | to go | gaccha | + āna | gacch**āna** | going |
 
-**present participles ending in -nta**
+**Present participles ending in -nta**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ There are 3 ways to form present participles
 | √sak | to be able | sakko | sakko**nta** | being able |
 | √vass | to rain | vassa | vassa**nta** | raining |
 
-**present participles ending in -māna**
+**Present participles ending in -māna**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -81,11 +81,11 @@ There are 3 ways to form present participles
 | √vad | to speak | vada | vada**māna** | speaking |
 | √yaj | to sacrifice | yaja | yaja**māna** | sacrificing |
 
-Present participles ending in **-āna**
+**Present participles ending in -āna**
 
-DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta
+DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta.
 
-[^24]: This data is relevant for the year 2025
+[^24]: This data is relevant for the year 2025.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -96,7 +96,7 @@ DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapa
 | √sī | to lie down | saya | say**āna** | lying down |
 | √vad | to speak | vada | vad**āna** | saying |
 
-## Declension of present participles
+## Declension of Present Participles
 
 Present participles are declined in all 3 genders to agree with nouns in all three genders.
 
@@ -106,7 +106,7 @@ then the **participle** is masculine / feminine / neuter
 
 **Masculine ending in -māna** (like nara)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gaccha**māno** | gaccha**mānā** |
 | 2.acc | gaccha**mānaṃ** | gaccha**māne** |
@@ -121,7 +121,7 @@ What do you notice?
 
 **Feminine ending in -māna** (like vedanā)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gaccha**mānā** | gaccha**mānā** / gaccha**mānāyo** |
 | 2.acc | gaccha**mānaṃ** | gaccha**mānā** / gaccha**mānāyo** |
@@ -129,25 +129,25 @@ What do you notice?
 | 4.dat | gaccha**mānāya** | gaccha**mānānaṃ** |
 | 5.abl | gaccha**mānāya** | gaccha**mānāhi** |
 | 6.gen | gaccha**mānāya** | gaccha**mānānaṃ** |
-| 7.loc | gaccha**mānāyaṃ** / gaccha**mānāya** | gaccha**mānāsu** |
+| 7.loc | gaccha**mānāya** / gaccha**mānāyaṃ** | gaccha**mānāsu** |
 | 8.voc | gaccha**māne** | gaccha**mānā** / gaccha**mānāyo** |
 
 **Neuter ending in -māna** (like cittaṃ)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gaccha**mānaṃ** | gaccha**mānā** / gaccha**mānāni** |
 | 2.acc | gaccha**mānaṃ** | gaccha**māne** / gaccha**mānāni** |
 | 3.inst | gaccha**mānena** | gaccha**mānehi** |
 | 4.dat | gaccha**mānāya** / gaccha**mānassa** | gaccha**mānānaṃ** |
 | 5.abl | gaccha**mānā** / gaccha**mānamhā** / gaccha**mānasmā** | gaccha**mānehi** |
-| 6.gen | gaccham**ānassa** | gaccha**mānānaṃ** |
+| 6.gen | gaccha**mānassa** | gaccha**mānānaṃ** |
 | 7.loc | gaccha**māne** / gaccha**mānamhi** / gaccha**mānasmiṃ** | gaccha**mānesu** |
 | 8.voc | gaccha**māna** / gaccha**mānā** | gaccha**mānāni** |
 
-**Masculine ending in -anta (**almost like bhagavant**)**
+**Masculine ending in -anta** (almost like bhagavant)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gacch**aṃ** / gacch**anto** | gacch**anto** / gacch**antā** |
 | 2.acc | gacch**antaṃ** | gacch**ante** |
@@ -160,7 +160,7 @@ What do you notice?
 
 **Feminine ending in -ntī** (like kumārī)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gaccha**ntī** | gaccha**ntī** / gaccha**ntiyo** |
 | 2.acc | gaccha**ntiṃ** | gaccha**ntī** / gaccha**ntiyo** |
@@ -173,7 +173,7 @@ What do you notice?
 
 **Neuter ending in -anta** (like bhagavant/cittaṃ)
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | gacch**aṃ** | gacch**antā** / gacch**antāni** |
 | 2.acc | gacch**antaṃ** | gacch**ante** / gacch**antāni** |
@@ -186,9 +186,9 @@ What do you notice?
 
 One thing to notice about present participles is the fact that they are verbs. Like other verbs, they can take an object in the accusative case.
 
-**abhippamodayaṃ** **cittaṃ** assasissāmī'ti sikkhati, **abhippamodayaṃ** **cittaṃ** passasissāmī'ti sikkhati.
+**abhippamodayaṃ** **cittaṃ** assasissāmī’ti sikkhati, **abhippamodayaṃ** **cittaṃ** passasissāmī’ti sikkhati.
 
-“I will breathe in **gladdening** the **mind” he trains,**
+“I will breathe in **gladdening** the **mind**” he trains,
 
 “I will breathe out **gladdening** the **mind**” he trains.
 
@@ -196,18 +196,18 @@ One thing to notice about present participles is the fact that they are verbs. L
 
 aññatitthiyā paribbājakā andhā acakkhukā **ajānantā** **ārogyaṃ**, **apassantā** **nibbānaṃ**, atha ca pana imaṃ gāthaṃ bhāsanti.
 
-Wandering ascetics who belong to other sects are blind and visionless, **not knowing health,** **not seeing Nibbāna**, and yet they say this verse.
+Wandering ascetics who belong to other sects are blind and visionless, **not knowing health**, **not seeing Nibbāna**, and yet they say this verse.
 
-([MN75](https://s.dhamma.gift/mn/mn75/index.html) māgaṇḍiyasuttaṃ)
+*([MN75](https://s.dhamma.gift/mn/mn75/index.html) māgaṇḍiyasuttaṃ)*
 
 A participle can also take a word in another case. Here it is in the **locative**.
 
-seyyathāpi, bhikkhave, makkaṭo **araññe pavane caramāno.**
+seyyathāpi, bhikkhave, makkaṭo **araññe pavane caramāno**.
 
-Just like, monks, a monkey, **wandering** **in a forest, in wilderness.**
+Just like, monks, a monkey, **wandering in a forest, in wilderness**.
 
 *([SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61) assutavāsuttaṃ)*
 
 Please keep this in mind when you work with present participles.
 
-Additionally, a present participle in the nominative case qualifying the subject (often in the short form like gacch**aṃ**) can sometimes be translated figuratively with "*when …*".
+Additionally, a present participle in the nominative case qualifying the subject (often in the short form like gacch**aṃ**) can sometimes be translated figuratively with “*when …*”.

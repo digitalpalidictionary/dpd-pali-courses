@@ -7,10 +7,10 @@
 | base | labha | |
 | pr | labhati | he gets, obtains |
 | prp | labhanta | getting; obtaining |
-| pass.pr | labbhati | it is got, is obtained |
-| pass.prp | labbhanta | being got; being obtained |
+| pass pr | labbhati | it is got, is obtained |
+| pass prp | labbhanta | being got; being obtained |
 
-## How To Form Passive Present Participles (pprp)
+## How to Form Passive Present Participles (pprp)
 
 **root + ya / iya / īya \> passive base**
 
@@ -27,21 +27,21 @@
 | pass pr | mucca**ti** / muñcīya**ti** | is freed; is released |
 | pass prp | mucca**nta** / mucca**māna** | being freed; being released |
 
-*[Additionally]*, in poetry, some passive verbs take different verbal endings, called the **attanopada** lit. “word for oneself”
+*[Additionally]*, in poetry, some passive verbs take different verbal endings, called the **attanopada** lit. “word for oneself”.
 
 All verbal endings that you have dealt with thus far have been **parassapada** “word for another”.
 
 | | parassapada | | attanopada | |
 | --- | --- | --- | --- | --- |
+| | Singular | Plural | Singular | Plural |
 | 3rd | ti | nti | **te** | **nte** |
 | 2nd | si | tha | **se** | **vhe** |
 | 1st | āmi | āma | **e** | **āmhe** |
 
-In English, these are called **reflexive** **verbs**, or the **middle** **voice**.
+In English, these are called **reflexive verbs**, or the **middle voice**.
 
 They are literally translated as **he himself**, **they themselves** etc.
 
 This form of the verb, while common in Sanskrit, has mostly died out in Pāḷi prose, but it is still commonly used in **idioms** and **verse**.
 
-Now, this idea, introduced only lightly at this stage, will be fully explored in the Intermediate Pāḷi Course.
-Specifically, it will be explained that every verb you’ve learned so far has both an *attanopada* and *parassapada* endings.
+Now, this idea, introduced only lightly at this stage, will be fully explored in the Intermediate Pāḷi Course. Specifically, it will be explained that every verb you’ve learned so far has both *attanopada* and *parassapada* endings.

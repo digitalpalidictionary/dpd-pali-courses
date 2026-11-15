@@ -8,17 +8,17 @@ Then a certain Brahman approached the Blessed One. **Having approached**, he exc
 
 The gerund denotes a **completed or continuing action** and can be translated according to the context as:
 
-1.  having approached, ...
+1.  having approached, …
 
 2.  he approached then …
 
 3.  he approached and …
 
-4.  while approaching, ...
+4.  while approaching, …
 
-5.  after approaching, ...
+5.  after approaching, …
 
-From now on you will be dealing with complex sentences which have a **subordinate** **clause** and a **main** **clause**.
+From now on you will be dealing with complex sentences which have a **subordinate clause** and a **main clause**.
 
 *ahaṃ odanaṃ bhuñjitvā, pattaṃ dhovitvā, dante sodhetvā, sālaṃ āgacchiṃ*
 
@@ -50,7 +50,7 @@ Absolutives ending in **tvā** are very common and extensively used.
 
 9200 times in Khuddaka Nikāya
 
-[^19]: In the Mūla part
+[^19]: In the Mūla part of the 4 Nikāyas
 
 ## How to form pubbakiriyā
 
@@ -102,7 +102,7 @@ Mostly group 8 verbs and causative verbs.
 | √sad | sīda | ni + sīda + itvā | nisīditvā | having sat down |
 | √dis | passa | passa + itvā | passitvā | having seen |
 
-### 5. -ya added to the root
+### 5. ya added to the root
 
 Sandhi very often takes place; please refer to the [“**assimilation of y**”](../class_4/7_basic_assim.md#some-basic-sandhi-the-assimilation-of-the-letter-y) from Class 4.
 
@@ -117,7 +117,7 @@ Sandhi very often takes place; please refer to the [“**assimilation of y**”]
 | √sad | to sit | ni + √sad + ya | nisa**jja** | having sat down |
 | √hā | to abandon | pa + √hā + ya | pahā**ya** | having abandoned |
 
-### 6. -tya added to the root
+### 6. tya added to the root
 
 This is another form of -ya, occurring in only a few words, but which are commonly used.
 
@@ -125,12 +125,12 @@ The result from sandhi is the ending **tya \> cca**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √i | to come | abhi + saṃ + √i + **ty**a | abhisame**cc**a | having completely understood |
-| √i | to come | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of / (lit. having gone back to) |
-| √i | to come | saṃ + √i + **ty**a | same**cc**a | having met |
+| √i | (come, go) | abhi + saṃ + √i + **ty**a | abhisame**cc**a | having completely understood |
+| √i | (come, go) | paṭi + √i + **ty**a | paṭi**cc**a | depending on; because of / (lit. having gone back to) |
+| √i | (come, go) | saṃ + √i + **ty**a | same**cc**a | having met |
 | √vid | to know | anu + √vid + **ty**a | anuvi**cc**a | having investigated |
 
-### 7. -tvāna -tūna -(i)yāna
+### 7. tvāna, tūna, (i)yāna
 
 These forms mostly occur in poetry, often for metrical reasons, but occasionally you can find them in suttas.
 
@@ -143,9 +143,9 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 | AN | 51 | 0 | 1 |
 | KN | \>1000 | 4 | 17 |
 
-[^20]: In the Mūla part
+[^20]: In the Mūla part of the 4 Nikāyas
 
-Examples: **disvāna ; vatvāna ; sutvāna ; ovariyāna ; akātūna**
+Examples: **disvāna; vatvāna; sutvāna; ovariyāna; akātūna**
 
 ## Practical Distinction between Absolutives and Gerunds
 
@@ -153,21 +153,21 @@ DPD is based on the study of hundreds of verbal forms found throughout the Tipi�
 
 -   Completed actions — **absolutives**, typically ending in **-tvā**, **-itvā**, **-tvāna**, etc.
 
-    atha kho bhagavā pubbaṇhasamayaṃ **nivāsetvā** … sāvatthiṃ piṇḍāya pāvisi ([MN18](https://s.dhamma.gift/mn/mn18/index.html))
+    atha kho bhagavā pubbaṇhasamayaṃ **nivāsetvā** … sāvatthiṃ piṇḍāya pāvisi ([MN26](https://s.dhamma.gift/mn/mn26/index.html))
 
     Then the Blessed One, **having dressed** in the morning, … entered Sāvatthī for alms.
 
     The dressing is fully completed *before* the going begins.
 
--   Ongoing or contemporaneous actions — **gerunds**, typically ending in **-ya**, **-iya**, **-eyya**, etc.
+-   Ongoing or contemporaneous actions — **gerunds**, typically ending in **-ya**, **-iya**, **-tya**, etc.
 
-    In some contexts **gerunds** can be translated the same as **absolutives** - as completed actions.
+    In some contexts **gerunds** can be translated the same as **absolutives** – as completed actions.
 
-    patta-cīvaram **ādāya** sāvatthiṃ piṇḍāya pāvisi ([MN18](https://s.dhamma.gift/mn/mn18/index.html))
+    patta-cīvaram **ādāya** sāvatthiṃ piṇḍāya pāvisi ([MN26](https://s.dhamma.gift/mn/mn26/index.html))
 
     **Taking** bowl and robe, he entered Sāvatthī for alms.
 
-    The "taking" continues during the going — he is carrying them, not "having taken" and left them behind.
+    The “taking” continues during the going — he is carrying them, not “having taken” and left them behind.
 
 The commentaries, of course, regularly gloss verbs ending in **-ya** with equivalent **-tvā** forms, without making any explicit distinction between them.
 

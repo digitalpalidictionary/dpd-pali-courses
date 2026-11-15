@@ -4,13 +4,11 @@ Just to really mess with your minds, you can combine **causative** and **passive
 
 The **causative** verb means “he causes to do”.
 
-The **causative passive** verb means "it is caused to be done" or, more rarely, "he causes it to be done," depending on the context.
+The **causative passive** verb means “it is caused to be done” or, more rarely, “he causes it to be done,” depending on the context.
 
-They are formed by adding the passive suffixes *-***ya** *-***iya** or *-***īya** onto the **causative** **base**
+They are formed by adding the passive suffixes **-ya**, **-iya** or **-īya** onto the **causative base**, or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \> √bhaj + ya + \*e).
 
-or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \> √bhaj + ya + \*e)
-
-**Here are some examples**
+**Here is an example**
 
 **√ṭhā 1 a (stand)**
 
@@ -18,29 +16,31 @@ or, much more rarely, adding a causative suffix to a passive base (vibhajjeti \>
 | --- | --- | --- | --- |
 | √ṭhā + ṭhā + a | tiṭṭha | tiṭṭhati | stands |
 | √ṭhā + \*āpe | ṭhāpe \> ṭhape | ṭhapeti | sets aside; lit. causes to stand |
-| ṭhape + īya | ṭhāpīya \> ṭhapiyya | ṭhapiyyati | is kept; is set aside; lit. is caused to stand |
+| ṭhape + īya | ṭhapīya \> ṭhapiyya | ṭhapiyyati | is kept; is set aside; lit. is caused to stand |
 
-[VIN1.4.2.8](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-np/index.html#pli-tv-bu-vb-np18) āyasmato upanandassa sakyaputtassa paṭiviso ṭhapiyyati.
+āyasmato upanandassa sakyaputtassa paṭiviso ṭhapiyyati. ([VIN1.4.2.8](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-np/index.html#pli-tv-bu-vb-np18))
+
+The portion of Venerable Upananda the Sakyan son is set aside.
 
 ## More Participles
 
 What are the different participles we have discussed so far?
 
-1\. active present participle. e.g. karonta
+1.  active present participle, e.g. karonta
 
-2\. (passive) past participle e.g. kata
+2.  (passive) past participle, e.g. kata
 
-3\. passive present participle e.g. kariyamāna
+3.  passive present participle, e.g. kariyamāna
 
 ## Causative Passive Present Participles (caus pprp)
 
-Please review [How To Form Passive Present Participles (pprp)](../class_13/4_pprp.md#how-to-form-passive-present-participles-pprp) in the previous class.
+Please review [How to Form Passive Present Participles (pprp)](../class_13/4_pprp.md#how-to-form-passive-present-participles-pprp) in the previous class.
 
 **root + ya / iya / īya \> passive base**
 
 **passive base + māna \> passive present participle**
 
-**bhū 1 a (be)**
+**√bhū 1 a (be)**
 
 | | | |
 | --- | --- | --- |
@@ -51,18 +51,18 @@ Please review [How To Form Passive Present Participles (pprp)](../class_13/4_ppr
 | caus pr | bhāve**ti** / bhāvaya**ti** | he causes to be, develops |
 | caus prp | bhāve**nta** / bhāvaya**nta** / bhāvaya**māna** | causing to be, developing |
 | caus pass base | bhāviya | |
-| caus pass pr | bhāviyati | it is caused to be; it is developed |
+| caus pass pr | bhāviya**ti** | it is caused to be; it is developed |
 | caus pprp | bhāviya**māna** | being caused to be; being developed |
 
-### How To Form Causative Passive Present Participle
+### How to Form Causative Passive Present Participle
 
-**√root + \*e / \*aya / \*āpe / \*āpaya \> causative base**
+**root + \*e / \*aya / \*āpe / \*āpaya \> causative base**
 
 **causative base + ya / iya / īya \> causative passive base**
 
 **causative passive base + māna \> causative passive present participle**
 
-Don't worry, that's probably the trickiest construction in the entire Pāḷi language. There are very few of them in the Tipiṭaka.
+Don’t worry, that’s probably the trickiest construction in the entire Pāḷi language. There are very few of them in the Tipiṭaka.
 
 [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36) devadūtasuttaṃ
 

@@ -22,14 +22,12 @@ Here is a link to [some useful videos](https://www.digitalpalireader.online/_dpr
 
 9.  How do I search for a word in the dictionaries?
 
-10. What are some of the other functions?
+10.  What are some of the other functions?
 
-11. What are the buttons on the side?
+11.  What are the buttons on the side?
 
 ## How to use TPR
 
-\- Tipiṭaka Pāḷi Reader: This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of the app.
-
-\- YouTube Channel: There’s a [YouTube](https://www.youtube.com/@tipitakaPali) channel that provides demos and manuals for TPR.
-
-\- Similar Questions: Try to find answers to the same questions as for DPR.
+- Tipiṭaka Pāḷi Reader: This is the [official webpage](https://americanmonk.org/tipitaka-pali-reader/) of the app.
+- YouTube Channel: There’s a [YouTube](https://www.youtube.com/@tipitakaPali) channel that provides demos and manuals for TPR.
+- Similar Questions: Try to find answers to the same questions as for DPR.

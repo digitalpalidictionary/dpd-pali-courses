@@ -1,6 +1,6 @@
-# Feminine Nouns ending in -ā
+# Feminine Nouns Ending in -ā
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | vedan**ā** | vedan**ā** / vedan**āyo** |
 | 2.acc | vedan**aṃ** | vedan**ā** / vedan**āyo** |

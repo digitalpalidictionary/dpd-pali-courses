@@ -11,7 +11,7 @@ All of them are pronounced phonetically.
 | **a**tta | (self) | a | as in | c**u**t, h**u**t, **u**tter (not b**a**t) |
 | **ā**misa | (material) | ā | as in | f**a**ther, b**a**rn, **a**rt / (not h**a**te) |
 | s**i**r**i** | (radiance) | i | as in | **i**t, b**i**t, m**i**nt, **i**nk |
-| s**ī**la | (behaviour) | ī | as in | b**ee,** tr**ee,** s**ee** (not sl**i**de) |
+| s**ī**la | (behaviour) | ī | as in | b**ee**, tr**ee**, s**ee** (not sl**i**de) |
 | k**u**ṭi | (hut) | u | as in | p**u**t, f**oo**t, sh**oo**k, l**oo**k |
 | th**ū**la | (large) | ū | as in | r**u**le, f**oo**l, b**oo**t, r**oo**ster, fl**u**te |
 | m**e**ttā | (friendliness) | e | as in | m**e**t, s**e**t, Z**e**n (short) |
@@ -23,45 +23,45 @@ All of them are pronounced phonetically.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **k**aruṇā | (compassion) | **k** | as in | **k**ey, **c**andle, **c**ook (not aspirate) |
-| **kh**etta | (field) | **kh[^2]** | as in | blac**kh**ead, bac**kh**and, bun**kh**ouse |
-| **g**āma | (village) | **g** | as in | **g**ood, **g**et |
-| **gh**ara | (house) | **gh** | as in | bi**g-h**ouse, lo**g h**ouse |
-| sa**ṅ**gha | (community) | **ṅ** | as in | si**ng**er |
+| **k**aruṇā | (compassion) | k | as in | **k**ey, **c**andle, **c**ook (not aspirate) |
+| **kh**etta | (field) | kh[^2] | as in | blac**kh**ead, bac**kh**and, bun**kh**ouse |
+| **g**āma | (village) | g | as in | **g**ood, **g**et |
+| **gh**ara | (house) | gh | as in | bi**g-h**ouse, lo**g h**ouse |
+| sa**ṅ**gha | (community) | ṅ | as in | si**ng**er |
 
-[^2]: h - aspirate sound
+[^2]: h – aspirate sound
 
 **5 Palatal Consonants (tāluja – produced on the front-palate)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **c**uṇṇa | (powder) | **c** | as in | **ch**urch, **ch**ild, **c**ello (not aspirate) |
-| **ch**atta | (umbrella) | **ch** | as in | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
-| **j**ina | (conqueror) | **j** | as in | **j**am, **j**ug, **j**elly |
-| **jh**āna | (meditation) | **jh** | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
-| **ñ**āṇa | (understanding) | **ñ** | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
+| **c**uṇṇa | (powder) | c | as in | **ch**urch, **ch**ild, **c**ello (not aspirate) |
+| **ch**atta | (umbrella) | ch | as in | wit**ch-h**azel, ran**ch-h**ouse, coa**ch-h**orse |
+| **j**ina | (conqueror) | j | as in | **j**am, **j**ug, **j**elly |
+| **jh**āna | (meditation) | jh | as in | sle**dgeh**ammer, ju**dgeh**ouse, he**dgeh**og |
+| **ñ**āṇa | (understanding) | ñ | as in | se**ñ**or, ca**ny**on, ba**ny**an, **ny**et |
 
-**5 Cerebral or Retroflex Consonants**
-**(muddhaja – produced at the top)**
+**5 Cerebral or Retroflex Consonants (muddhaja – produced at the top)**
+
 These retroflex consonants have no English equivalents. They are formed by curling the tip of the tongue back against the back of the palate.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| dukka**ṭ**a | (wrongdoing) | **ṭ** | | retroflex t |
-| **ṭh**āna | (place) | **ṭh** | | retroflex th |
-| gaṇ**ḍ**a | (boil) | **ḍ** | | retroflex d |
-| vuḍ**ḍh**i | (increase) | **ḍh** | | retroflex dh |
-| go**ṇ**a | (ox) | **ṇ** | | retroflex n |
+| dukka**ṭ**a | (wrongdoing) | ṭ | | retroflex t |
+| **ṭh**āna | (place) | ṭh | | retroflex th |
+| gaṇ**ḍ**a | (boil) | ḍ | | retroflex d |
+| vuḍ**ḍh**i | (increase) | ḍh | | retroflex dh |
+| go**ṇ**a | (ox) | ṇ | | retroflex n |
 
 **5 Dental Consonants (dantaja – produced on the teeth)**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| i**t**i | (thus) | **t** | as in | **t**op, **t**ap, s**t**ay (not aspirate) |
-| **th**era | (elder) | **th** | as in | **Th**omas, ligh**th**ouse, an**th**ill, boa**th**ouse |
-| **d**āna | (gift) | **d** | as in | **d**ead, **d**id, **d**og |
-| **dh**amma | (teaching) | **dh** | as in | dea**dh**and, a**dh**erent, ma**dh**ouse |
-| **n**amo | (veneration) | **n** | as in | **n**ow, **n**ame, **n**o, **n**ose |
+| i**t**i | (thus) | t | as in | **t**op, **t**ap, s**t**ay (not aspirate) |
+| **th**era | (elder) | th | as in | **Th**omas, ligh**th**ouse, an**th**ill, boa**th**ouse |
+| **d**āna | (gift) | d | as in | **d**ead, **d**id, **d**og |
+| **dh**amma | (teaching) | dh | as in | dea**dh**and, a**dh**erent, ma**dh**ouse |
+| **n**amo | (veneration) | n | as in | **n**ow, **n**ame, **n**o, **n**ose |
 
 **5 Labial Consonants (oṭṭhaja – produced by the lips)**
 
@@ -103,7 +103,7 @@ Note: ṁ and ŋ are other ways of writing ṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| avadhy**ai** | (disregards) / Pāḷi ujjhāyati | ai | as in | **ai**sle, p**ie** |
+| avadhy**ai** | (to disregard) / Pāḷi ujjhāyati | ai | as in | **ai**sle, p**ie** |
 | k**au**kṛtya | (worry) / Pāḷi kukkucca | au | as in | d**ow**n, h**ou**nd, br**ow**n |
 
 **2 more sibilants**

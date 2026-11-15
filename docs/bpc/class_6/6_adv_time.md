@@ -1,4 +1,4 @@
-# Adverbs of time
+# Adverbs of Time
 
 They are part of the group of indeclinable words in Pāḷi.
 

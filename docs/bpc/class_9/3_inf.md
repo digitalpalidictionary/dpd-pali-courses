@@ -25,7 +25,7 @@ The infinitive can be formed by adding the suffix **-tuṃ** to the root.
 | √dā | + tuṃ | dātuṃ | to give |
 | √gam | + tuṃ | ga**n**tuṃ | to go |
 | √han | + tuṃ | hantuṃ | to kill |
-| √kar | + tuṃ | k**ā**tuṃ | to do, to make |
+| √kar | + tuṃ | k**ā**tuṃ | to do |
 | √ñā | + tuṃ | ñātuṃ | to know |
 
 ### 2. root + -ituṃ
@@ -34,7 +34,7 @@ The infinitive can be formed by adding the suffix **-ituṃ** to the root.
 
 | | | | |
 | --- | --- | --- | --- |
-| √bandh | + ituṃ | bandhituṃ | to tie, bind |
+| √bandh | + ituṃ | bandhituṃ | to bind |
 | √bhakkh | + ituṃ | bhakkhituṃ | to eat |
 | √car | + ituṃ | carituṃ | to walk |
 | √jīv | + ituṃ | jīvituṃ | to live |
@@ -54,7 +54,7 @@ The infinitive can be formed by adding the suffix **-ituṃ** to the base.
 | √pā | piva | + ituṃ | pivituṃ | to drink |
 | √suc | soca | + ituṃ | socituṃ | to grieve |
 
-### 4. bases ending in -e + tuṃ
+### 4. base ending in -e + -tuṃ
 
 In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is added to the base ending in -*e*.
 
@@ -68,7 +68,7 @@ In the case of **group 8 verbs** (*e, aya*) and **causative verbs**, *-tuṃ* is
 | √pus | pose | + tuṃ | posetuṃ | to look after |
 | √sudh | sodhe | + tuṃ | sodhetuṃ | to clean |
 
-## Some verbs often take an infinitive
+## Some Verbs Often Take an Infinitive
 
 Some verbs like **arahati** (he deserves, is worthy), **sakkoti** (he is able) almost always take an infinitive, just like in English.
 
@@ -76,7 +76,7 @@ na te ahaṃ *sakkomi* vitthārena dhammaṃ **desetuṃ** ([VIN4.1.14](https://
 
 I *am* not *able* **to preach** the Dhamma in detail to you.
 
-samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** ([DN5.2](https://s.dhamma.gift/dn/dn5/index.html))
+samaṇo gotamo *arahati* bhavantaṃ kūṭadantaṃ **upasaṅkamituṃ** ([DN5](https://s.dhamma.gift/dn/dn5/index.html))
 
 Ascetic Gotama *ought* **to approach** Sir Crooked Tooth.
 

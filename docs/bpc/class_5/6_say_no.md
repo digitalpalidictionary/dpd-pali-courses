@@ -19,17 +19,17 @@ ime dhammā saṃyogāya saṃvattanti, **no** visaṃyogāya. ([AN8.53](https:/
 
 These qualities lead to attachment, **not** to detachment.
 
-## Negative particles “n'eva … na” = na eva … na
+## Negative particles “n’eva … na” = na eva … na
 
 This is used in the same way as **neither** … **nor** in English.
 
-n'eva = na eva; lit. not even; not only
+n’eva = na eva; lit. not even; not only
 
-**n'eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti ([MN74](https://s.dhamma.gift/mn/mn74/index.html))
+**n’eva** tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, **na** adukkham’asukhaṃ vedanaṃ vedeti ([MN74](https://s.dhamma.gift/mn/mn74/index.html))
 
 At that time, he **neither** feels an unpleasant sensation, **nor** does he feel a neither unpleasant nor pleasant sensation.
 
-āyasmā raṭṭhapālo **n'eva** dānaṃ alattha **na** paccakkhānaṃ, añña'd'atthu akkosaṃ eva alattha! ([MN82](https://s.dhamma.gift/mn/mn82/index.html))
+āyasmā raṭṭhapālo **n’eva** dānaṃ alattha **na** paccakkhānaṃ, añña’d’atthu akkosaṃ eva alattha! ([MN82](https://s.dhamma.gift/mn/mn82/index.html))
 
 Venerable Raṭṭhapāla **neither** received alms food **nor** rejection; on the contrary, he only received verbal abuse!
 
@@ -47,6 +47,6 @@ Why are you angry? Don’t be angry!
 
 **mā + imperative** can be used to express prohibition, especially in the 2nd person.
 
-jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://s.dhamma.gift/mn/mn19/index.html) simpl)
+jhāyatha, bhikkhave, mā pamādā attha ([MN19](https://s.dhamma.gift/mn/mn19/index.html)) (simpl)
 
 Meditate, monks! Don’t be negligent!

@@ -4,14 +4,14 @@ The meaning of the emphatic particle **eva** is mostly determined by the context
 
 -   *only; just; merely; exclusively; exactly*
 
-    tasmiṃ **eva** āsane **-** in that very seat; in that exact seat
+    tasmiṃ **eva** āsane – in that very seat; in that exact seat
 
 -   *even; too; as well*
 
-    dissanti ca **eva** suyyanti ca - are seen as well as heard
+    dissanti ca **eva** suyyanti ca – are seen as well as heard
 
--   *as soon as (less common)*
+-   *as soon as* (less common)
 
-    **disvā eva …** - as soon as having seen …
+    **disvā eva …** – as soon as having seen …
 
-Please always consider the context when you translate **eva**
+Please always consider the context when you translate **eva**.

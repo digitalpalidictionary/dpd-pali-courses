@@ -18,7 +18,7 @@
 
 5.  sabbe sattā sukhī **hontu**
 
-— Uddissan'ādhiṭṭhānā
+— Uddissan’ādhiṭṭhānā
 
 6.  na **āsi** kāye balaṃ
 

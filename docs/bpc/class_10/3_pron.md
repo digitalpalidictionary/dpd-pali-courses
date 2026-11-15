@@ -8,13 +8,13 @@ When used by themselves, they behave like a noun.
 
 na **sabbe** dhammaṃ jānissanti.
 
-Not **everyone** will understand the dhamma
+Not **everyone** will understand the dhamma.
 
-When they are used with another noun, they behave like an adjective
+When they are used with another noun, they behave like an adjective.
 
 na **sabbe** **manussā** dhammaṃ jānissanti.
 
-Not **all people** will understand the dhamma
+Not **all people** will understand the dhamma.
 
 Pronouns are declined in **all three genders** when standing by themselves.
 
@@ -30,9 +30,9 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | etassa bhāsitassa | nt.gen.sg | of this speech |
 | etaṃ cakkhu’ndriyaṃ | nt.acc.sg | this faculty of sight |
 
-**ta “he, that” masculine**
+## ta “he, that” masculine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | s**o** | t**e** |
 | 2.acc | t**aṃ** | t**e** |
@@ -45,22 +45,22 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | | |
 | --- | --- |
 | **tehi** pañcahi bhikkhusatehi | **with those** 500 monks |
-| **tamhi tamhi** satta-nikāye | in whichever class of beings / (literally: **in that in that)** |
+| **tamhi tamhi** satta-nikāye | in whichever class of beings / (literally: **in that in that**) |
 | **tesaṃ** bhikkhūnaṃ etadahosi | this occurred **to those** monks |
 | namo **tassa** bhagavato | homage **to him**, to the Blessed One |
 | **tamhā** gāmā nikkhamitvā | having left **from** **that** village |
 | **tesu** dhammesu | in those teachings |
 
-**ta “she, that” feminine**
+## ta “she, that” feminine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | s**ā** | t**ā** / t**āyo** |
 | 2.acc | t**aṃ** | t**ā** / t**āyo** |
 | 3.inst | t**āya** | t**āhi** |
 | 4.dat | t**assā** | t**āsaṃ** / t**āsānaṃ** |
 | 5.abl | t**āya** | t**āhi** |
-| 6.gen | t**assā** | t**āsaṃ** / **tāsānaṃ** |
+| 6.gen | t**assā** | t**āsaṃ** / t**āsānaṃ** |
 | 7.loc | t**issaṃ** / t**assaṃ** / t**āyaṃ** | t**āsu** |
 
 | | |
@@ -72,9 +72,9 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 | **tāyaṃ** velāyaṃ | **at that** point in time |
 | **tāhi** devatāhi saddhiṃ | together **with those** devas |
 
-**ta “it, that” neuter**
+## ta “it, that” neuter
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | t**aṃ** / t**ad** | t**e** / t**āni** |
 | 2.acc | t**aṃ** / t**ad** | t**e** / t**āni** |
@@ -90,7 +90,7 @@ When used together with other nouns, they agree with the noun in **gender**, **c
 
 **eta** generally refers to something that is **present or close at hand**.
 
-It is declined exactly like ta, but with an initial *“***e***”*.
+It is declined exactly like ta, but with an initial “**e**”.
 
 | | |
 | --- | --- |
@@ -98,16 +98,16 @@ It is declined exactly like ta, but with an initial *“***e***”*.
 | **etena** brāhmaṇo hoti | he is a Brahman **by this** |
 | **etassa** bhāsitassa attho | the meaning **of this** saying |
 
-**ima “this” masculine**
+## ima “this” masculine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**e** |
 | 2.acc | im**aṃ** | im**e** |
 | 3.inst | im**inā** | im**ehi** |
-| 4.dat | a**ssa** / ima**ssa** | im**esaṃ** |
-| 5.abl | a**smā** / ima**mhā** / ima**smā** | im**ehi** |
-| 6.gen | a**ssa** / ima**ssa** | im**esaṃ** |
+| 4.dat | a**ssa** / im**assa** | im**esaṃ** |
+| 5.abl | a**smā** / im**amhā** / im**asmā** | im**ehi** |
+| 6.gen | a**ssa** / im**assa** | im**esaṃ** |
 | 7.loc | a**smiṃ** / im**amhi** / im**asmiṃ** | im**esu** |
 
 Grammars give **many** forms, but these are the most common ones in the Tipiṭaka.
@@ -125,9 +125,9 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **imamhi** saṅghe | **in this** community |
 | **imesu** āyasmantesu | **in (among) these** venerables |
 
-**ima “this” feminine**
+## ima “this” feminine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | ay**aṃ** | im**ā** / im**āyo** |
 | 2.acc | im**aṃ** | im**ā** / im**āyo** |
@@ -146,21 +146,21 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | **imāsaṃ** dvinnaṃ diṭṭhīnaṃ | **of these** two views |
 | **imāsu** chasu dhātūsu | **in these** six elements |
 
-**ima “this” neuter**
+## ima “this” neuter
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | id**aṃ** / im**aṃ** | im**e** / im**āni** |
 | 2.acc | id**aṃ** / im**aṃ** | im**e** / im**āni** |
 | 3.inst | im**inā** | im**ehi** |
-| 4.dat | a**ssa** / ima**ssa** | imes**aṃ** |
-| 5.abl | a**smā** / ima**mhā** / ima**smā** | im**ehi** |
-| 6.gen | a**ssa** / ima**ssa** | im**esaṃ** |
-| 7.loc | a**smiṃ** / ima**mhi** / ima**smiṃ** | im**esu** |
+| 4.dat | a**ssa** / im**assa** | im**esaṃ** |
+| 5.abl | a**smā** / im**amhā** / im**asmā** | im**ehi** |
+| 6.gen | a**ssa** / im**assa** | im**esaṃ** |
+| 7.loc | a**smiṃ** / im**amhi** / im**asmiṃ** | im**esu** |
 
-**ya “whoever” masculine**
+## ya “whoever” masculine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | y**o** | y**e** |
 | 2.acc | y**aṃ** | y**e** |
@@ -170,21 +170,21 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | y**assa** | y**esaṃ** / y**esānaṃ** |
 | 7.loc | y**amhi** / y**asmiṃ** | y**esu** |
 
-**ya “whoever” feminine**
+## ya “whoever” feminine
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | y**ā** | y**ā** / y**āyo** |
 | 2.acc | y**aṃ** | y**ā** / y**āyo** |
 | 3.inst | y**āya** | y**āhi** |
 | 4.dat | y**assā** / y**āya** | y**āsaṃ** / y**āsānaṃ** |
-| 5.abl | y**āya** | **yāhi** |
+| 5.abl | y**āya** | y**āhi** |
 | 6.gen | y**assā** / y**āya** | y**āsaṃ** / y**āsānaṃ** |
 | 7.loc | y**assaṃ** / y**āyaṃ** / y**āya** | y**āsu** |
 
-**ya “whoever” neuter**
+## ya “whoever” neuter
 
-| | | |
+| | Singular | Plural |
 | --- | --- | --- |
 | 1.nom | y**aṃ** / y**ad** | y**e** / y**āni** |
 | 2.acc | y**aṃ** / y**ad** | y**e** / y**āni** |
@@ -194,7 +194,7 @@ Grammars give **many** forms, but these are the most common ones in the Tipiṭa
 | 6.gen | y**assa** | y**esaṃ** / y**esānaṃ** |
 | 7.loc | y**amhi** / y**asmiṃ** | y**esu** |
 
-The good news is that all the rest of the pronouns follow the same declension pattern as **ya***, (-a pron)* which is very similar to the normal declension of masculine, feminine and neuter nouns, with a few exceptions. So keep this table in mind!
+The good news is that all the rest of the pronouns follow the same declension pattern as **ya** *(-a pron)*, which is very similar to the normal declension of masculine, feminine and neuter nouns, with a few exceptions. So keep this table in mind!
 
 ## Comparison table for pronouns masc
 
@@ -204,10 +204,10 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 1.nom | s**o** | ay**aṃ** | y**o** | t**e** | im**e** | y**e** |
 | 2.acc | t**aṃ** | im**aṃ** | y**aṃ** | t**e** | im**e** | y**e** |
 | 3.inst | t**ena** | im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
-| 4.dat | t**assa** | a**ssa** / ima**ssa** | y**assa** | t**esaṃ** | imes**aṃ** | y**esaṃ** / y**esānaṃ** |
-| 5.abl | t**amhā** / t**asmā** | a**smā** / ima**mhā** / ima**smā** | y**amhā** / y**asmā** | t**ehi** | im**ehi** | y**ehi** |
-| 6.gen | t**assa** | a**ssa** / ima**ssa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
-| 7.loc | t**amhi** / t**asmiṃ** | a**smiṃ** / ima**mhi** / ima**smiṃ** | y**amhi** / y**asmiṃ** | t**esu** | im**esu** | y**esu** |
+| 4.dat | t**assa** | a**ssa** / im**assa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
+| 5.abl | t**amhā** / t**asmā** | a**smā** / im**amhā** / im**asmā** | y**amhā** / y**asmā** | t**ehi** | im**ehi** | y**ehi** |
+| 6.gen | t**assa** | a**ssa** / im**assa** | y**assa** | t**esaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
+| 7.loc | t**amhi** / t**asmiṃ** | a**smiṃ** / im**amhi** / im**asmiṃ** | y**amhi** / y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
 ## Comparison table for pronouns fem
 
@@ -218,8 +218,8 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 2.acc | t**aṃ** | im**aṃ** | y**aṃ** | t**ā** / t**āyo** | im**ā** / im**āyo** | y**ā** / y**āyo** |
 | 3.inst | t**āya** | im**āya** | y**āya** | t**āhi** | im**āhi** | y**āhi** |
 | 4.dat | t**assā** | a**ssā** / imi**ssā** / im**āya** | y**assā** / y**āya** | t**āsaṃ** / t**āsānaṃ** | im**āsaṃ** | y**āsaṃ** / y**āsānaṃ** |
-| 5.abl | t**āya** | im**āya** | y**āya** | t**āhi** | im**āhi** | **yāhi** |
-| 6.gen | t**assā** | a**ssā** / imi**ssā** / im**āya** | y**assā** / y**āya** | t**āsaṃ** / **tāsānaṃ** | im**āsaṃ** | y**āsaṃ** / y**āsānaṃ** |
+| 5.abl | t**āya** | im**āya** | y**āya** | t**āhi** | im**āhi** | y**āhi** |
+| 6.gen | t**assā** | a**ssā** / imi**ssā** / im**āya** | y**assā** / y**āya** | t**āsaṃ** / t**āsānaṃ** | im**āsaṃ** | y**āsaṃ** / y**āsānaṃ** |
 | 7.loc | t**issaṃ** / t**assaṃ** / t**āyaṃ** | imi**ssaṃ** / im**āyaṃ** | y**assaṃ** / y**āyaṃ** / y**āya** | t**āsu** | im**āsu** | y**āsu** |
 
 ## Comparison table for pronouns nt
@@ -230,14 +230,12 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | 1.nom | t**aṃ** / t**ad** | id**aṃ** / im**aṃ** | y**aṃ** / y**ad** | t**e** / t**āni** | im**e** / im**āni** | y**e** / y**āni** |
 | 2.acc | t**aṃ** / t**ad** | id**aṃ** / im**aṃ** | y**aṃ** / y**ad** | t**e** / t**āni** | im**e** / im**āni** | y**e** / y**āni** |
 | 3.inst | t**ena** | im**inā** | y**ena** | t**ehi** | im**ehi** | y**ehi** |
-| 4.dat | t**assa** | a**ssa** / ima**ssa** | y**assa** | t**esaṃ** / t**esānaṃ** | imes**aṃ** | y**esaṃ** / y**esānaṃ** |
-| 5.abl | t**amhā** / t**asmā** | a**smā** / ima**mhā** / ima**smā** | y**amhā** / y**asmā** | t**ehi** | im**ehi** | y**ehi** |
-| 6.gen | t**assa** | a**ssa** / ima**ssa** | y**assa** | t**esaṃ** / t**esānaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
-| 7.loc | t**amhi** / t**asmiṃ** | a**smiṃ** / ima**mhi** / ima**smiṃ** | y**amhi** / y**asmiṃ** | t**esu** | im**esu** | y**esu** |
+| 4.dat | t**assa** | a**ssa** / im**assa** | y**assa** | t**esaṃ** / t**esānaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
+| 5.abl | t**amhā** / t**asmā** | a**smā** / im**amhā** / im**asmā** | y**amhā** / y**asmā** | t**ehi** | im**ehi** | y**ehi** |
+| 6.gen | t**assa** | a**ssa** / im**assa** | y**assa** | t**esaṃ** / t**esānaṃ** | im**esaṃ** | y**esaṃ** / y**esānaṃ** |
+| 7.loc | t**amhi** / t**asmiṃ** | a**smiṃ** / im**amhi** / im**asmiṃ** | y**amhi** / y**asmiṃ** | t**esu** | im**esu** | y**esu** |
 
-**In summary:** learn the **ta** declension by heart — all other pronouns follow it with small
-variations. For **ima**, memorise only the high-frequency forms: ayaṃ, imaṃ, idaṃ, iminā, imassa,
-asmiṃ, ime, imāni, imesaṃ.
+**In summary:** learn the **ya** declension by heart — all other pronouns follow it with small variations. For **ima**, memorise only the high-frequency forms: ayaṃ, imaṃ, idaṃ, iminā, imassa, asmiṃ, ime, imāni, imesaṃ.
 
 ## Some common pronouns (in the nominative case)
 

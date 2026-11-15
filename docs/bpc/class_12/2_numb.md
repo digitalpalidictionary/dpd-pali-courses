@@ -2,12 +2,12 @@
 
 Numbers are **adjectives** that describe how many of something there are, etc.
 
-There are different types of numbers used in Pāḷi Grammar
+There are different types of numbers used in Pāḷi grammar.
 
 | | | |
 | --- | --- | --- |
-| 1. | cardinal | one, two, three, ... |
-| 2. | ordinal | first, second, third, ... |
+| 1. | cardinal | one, two, three, … |
+| 2. | ordinal | first, second, third, … |
 | 3. | distributive | one by one, two by two |
 | 4. | fractional | 1/2, 1/3, 1/4, 1/16 |
 | 5. | multiplicative | 1 time, 2 times, 3 times |
@@ -15,16 +15,16 @@ There are different types of numbers used in Pāḷi Grammar
 
 Today, let’s look at Cardinal and Ordinal numbers.
 
-1\. **Cardinal Numbers** are the **natural numbers** or **whole numbers**
+1.  **Cardinal Numbers** are the **natural numbers** or **whole numbers**
 
 measuring the quantity of something
 
-eka, dvi, ti, ...
+eka, dvi, ti, …
 
-one, two, three, ...
+one, two, three, …
 
-2\. **Ordinal numbers** indicate the order or position of something
+2.  **Ordinal numbers** indicate the order or position of something
 
 paṭhama, dutiya, tatiya, …
 
-first, second, third, etc
+first, second, third, etc.

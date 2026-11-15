@@ -6,7 +6,7 @@
 
 2.  thero bhikkhu piyo **ca** hoti garu **ca** bhāvanīyo **ca**
 
-— [AN5.4](https://s.dhamma.gift/an/an5/index.html#an5.4) simpl
+— [AN5.81](https://s.dhamma.gift/an/an5/index.html#an5.81) (simpl)
 
 3.  **satthā** devamanussānaṃ
 

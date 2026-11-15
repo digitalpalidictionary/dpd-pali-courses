@@ -4,7 +4,7 @@ The most common word for “*and*” in the Tipiṭaka is “**ca**”.
 
 It is never used at the beginning of a sentence. It gets put *after* the word it is joining.
 
-[AN5.4](https://s.dhamma.gift/an/an5/index.html#an5.4) thero bhikkhu sabrahmacārīnaṃ piyo **ca** hoti manāpo **ca** garu **ca** bhāvanīyo **ca.**
+thero bhikkhu sabrahmacārīnaṃ piyo **ca** hoti manāpo **ca** garu **ca** bhāvanīyo **ca**. ([AN5.81](https://s.dhamma.gift/an/an5/index.html#an5.81))
 
 A senior monk is well-liked **and** pleasing, **and** honoured **and** respected by his fellow companions in the holy life.
 

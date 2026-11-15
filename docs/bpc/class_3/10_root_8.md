@@ -14,38 +14,36 @@ The next most common root group with around 100 roots is the √cur group. Their
 
 **[prefix(es)] + base + verbal ending \> verb**
 
-1\. √cur (steal) + \*[^11]e \> c**o**re
+1.  √cur (steal) + \*e[^11] \> c**o**re
 
 core + ti \> coreti (he steals)
 
-2\. √cur (steal) + \*aya \> c**o**raya
+2.  √cur (steal) + \*aya \> c**o**raya
 
 coraya + ti \> corayati (he steals)
 
 [^11]: We use symbol **\*** or traditionally **ṇa** (sign for strengthening)
 
-1\. √mant (counsel) + \*e \> mante
+1.  √mant (counsel) + \*e \> mante
 
 mante + ti \> manteti (he advises)
 
-2\. √mant (counsel) + \*aya \> mantaya
+2.  √mant (counsel) + \*aya \> mantaya
 
 mantaya + ti \> mantayati (he advises)
 
 **Conjugation of -eti pr**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | so dhāre**ti** | he carries | te dhāre**nti** | they carry |
 | 2nd | tvaṃ dhāre**si** | you carry | tumhe dhāre**tha** | you all carry |
 | 1st | ahaṃ dhāre**mi** | I carry | mayaṃ dhāre**ma** | we carry |
 
-**Conjugation of -ati pr**
+**Conjugation of -ayati pr**
 
-| | | | | |
+| | Singular | | Plural | |
 | --- | --- | --- | --- | --- |
-| | singular | | plural | |
 | 3rd | dhāraya**ti** | he carries | dhāraya**nti** | they carry |
 | 2nd | dhāraya**si** | you carry | dhāraya**tha** | you all carry |
 | 1st | dhāray**āmi** | I carry | dhāray**āma** | we carry |

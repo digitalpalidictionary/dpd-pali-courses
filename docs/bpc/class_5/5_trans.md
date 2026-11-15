@@ -1,10 +1,10 @@
-# Intransitive, Transitive and di-transitive verbs
+# Intransitive, Transitive and Di-transitive Verbs
 
 ## Transitive Verbs (sakammaka “with object”)
 
 Most verbs of this sort take an object in the accusative case.
 
-bhikkh**u** paṭhav**iṃ** na khaṇati ([PC10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) simpl)
+bhikkh**u** paṭhav**iṃ** na khaṇati ([PC10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)) (simpl)
 
 A monk does not dig the earth.
 
@@ -12,7 +12,7 @@ t**e** suriy**aṃ** passiṃsu
 
 They saw the sun.
 
-mitt**o** saggassa magg**aṃ** ācikkhati ([DN31.13](https://s.dhamma.gift/dn/dn31/index.html) simpl)
+mitt**o** saggassa magg**aṃ** ācikkhati ([DN31](https://s.dhamma.gift/dn/dn31/index.html)) (simpl)
 
 A friend points out the path to heaven.
 
@@ -28,7 +28,7 @@ asur**ā** mahāsamudd**e** abhiramanti. ([UD45](https://s.dhamma.gift/kn/ud/ind
 
 The Asuras take delight in the great ocean.
 
-pakkh**ī** sakuṇ**o** ḍeti. ([MN51](https://s.dhamma.gift/mn/mn51/index.html) simpl)
+pakkh**ī** sakuṇ**o** ḍeti. ([MN51](https://s.dhamma.gift/mn/mn51/index.html)) (simpl)
 
 A winged bird flies.
 
@@ -36,11 +36,11 @@ s**o** rukkhassa mūl**asmiṃ** jhāyati.
 
 He meditates at the foot of a tree.
 
-## Di-transitive verbs (dvikammaka “two objects”)
+## Di-transitive Verbs (dvikammaka “two objects”)
 
 These verbs take **two objects** in the **accusative case**. They are quite rare. √yāc (beg) √pucch (ask) √pis (send) are the most common ones.
 
-kuṭṭhī nara**ṃ** odana**ṃ** yācati
+kuṭṭhī nar**aṃ** odan**aṃ** yācati
 
 The leper begs the man for food.
 
