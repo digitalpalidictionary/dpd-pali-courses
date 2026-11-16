@@ -86,7 +86,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 
 **Adjectives ending in -ī (singular)**
 
-| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^25] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
+| | **masc** [**(-ī)**](../class_5/4_masc_ii.md#declension-of-i-masc) | **fem** [**(-inī)**](../class_8/3_fem.md#feminine-nouns-ending-in-ini)[^26] | **neuter** [**(-i)**](../class_9/2_nt.md#declension-of-neuter-nouns-ending-in-i) |
 | --- | --- | --- | --- |
 | 1.nom | ātāp**ī** | ātāp**ī** / ātāp**inī** | ātāp**i** / ātāp**iṃ** |
 | 2.acc | ātāp**inaṃ** / ātāp**iṃ** | ātāp**iniṃ** | ātāp**i** / ātāp**iṃ** |
@@ -97,7 +97,7 @@ Adjectives are formed by adding various suffixes to the root. You’ll look at t
 | 7.loc | ātāp**ini** / ātāp**imhi** / ātāp**ismiṃ** | ātāp**iniyā** / ātāp**iniyaṃ** | ātāp**ini** / ātāp**imhi** / ātāp**ismiṃ** |
 | 8.voc | ātāp**i** / ātāp**ī** | ātāp**ī** / ātāp**inī** | ātāp**i** |
 
-[^25]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
+[^26]: When the masculine form of an adjective ends in -i, -ī, -u, or -ū, its feminine form usually ends in -ī or -inī. For example, ātāpī (ardent) has the feminine form ātāpī or ātāpinī.
 
 **Adjectives ending in -ī (plural)**
 

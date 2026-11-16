@@ -257,7 +257,7 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | ime | these |
 | asu | so and so |
 | sabbo | all, every |
-| ubho | both |
+| ubho[^25] | both |
 | kati | how many? |
 | yo | whoever |
 | ko | who? which? |
@@ -271,3 +271,5 @@ The good news is that all the rest of the pronouns follow the same declension pa
 | katamo | which (of the many)? |
 | aparo | the next, the following |
 | kiṃ | what? which? |
+
+[^25]: It is always plural but often agrees with nouns in singular.

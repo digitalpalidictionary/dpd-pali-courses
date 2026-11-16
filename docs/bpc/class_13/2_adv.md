@@ -42,9 +42,9 @@ And a very large number of others.
 | tatiya | ordin | third | tatiy**aṃ** | adv | for the third time |
 | uddha | adj | upper | uddh**aṃ** | adv | upwards, above |
 
-Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?[^28]
+Quick review: where do you find the -**aṃ** ending in Pāḷi grammar?[^29]
 
-[^28]: 1. masculine, feminine, neuter acc. sg.; 2. neuter nom. sg.; 3. present participle masc. nom. sg.; 4. adverbs.
+[^29]: 1. masculine, feminine, neuter acc. sg.; 2. neuter nom. sg.; 3. present participle masc. nom. sg.; 4. adverbs.
 
 **Instrumental Case**
 
