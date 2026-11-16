@@ -11,6 +11,7 @@ This project contains materials for Pāḷi language courses, specifically the D
 ## Project Principles
 - **Clean Markdown Sources:** Keep `.md` files extremely user-friendly and focused on content. NEVER use raw HTML, special symbols like `&nbsp;`, or complex `<div>` wraps in the source files. All necessary formatting fixes or UI elements (like navigation buttons or table adjustments) MUST be implemented via scripts or build hooks.
 - **Data Integrity:** All automated changes must be verified against original meaning and structure.
+- **Concurrent Exports:** `docs/generated/` is rewritten by exporter scripts (`scripts/regenerate_pages.sh`, dpd-db vocab exports) that may run while a thread is open. Check `git status --short docs/` immediately before reporting a thread complete; such changes are not the thread's and must stay out of its commit.
 
 ## Project Structure
 - `docs/bpc/`: Beginner Pāḷi Course materials.

@@ -167,12 +167,24 @@ config = {
         "name": "material",
         "language": "en",
         "custom_dir": "identity",
+        "font": {"text": "Inter"},
+        "logo": "assets/courses-logo.svg",
+        "favicon": "assets/courses-favicon.png",
         "palette": [
+            {
+                "media": "(prefers-color-scheme)",
+                "primary": "custom",
+                "accent": "custom",
+                "toggle": {
+                    "icon": "material/brightness-auto",
+                    "name": "Switch to light mode",
+                },
+            },
             {
                 "media": "(prefers-color-scheme: light)",
                 "scheme": "default",
-                "primary": "brown",
-                "accent": "orange",
+                "primary": "custom",
+                "accent": "custom",
                 "toggle": {
                     "icon": "material/brightness-7",
                     "name": "Switch to dark mode",
@@ -181,11 +193,11 @@ config = {
             {
                 "media": "(prefers-color-scheme: dark)",
                 "scheme": "slate",
-                "primary": "brown",
-                "accent": "orange",
+                "primary": "custom",
+                "accent": "custom",
                 "toggle": {
                     "icon": "material/brightness-4",
-                    "name": "Switch to light mode",
+                    "name": "Switch to system preference",
                 },
             },
         ],
@@ -198,7 +210,12 @@ config = {
             "hide.generator",
         ],
     },
-    "extra_css": ["dpd.css", "dpd-variables.css", "extra.css"],
+    "extra_css": [
+        "dpd.css",
+        "dpd-variables.css",
+        "courses-variables.css",
+        "extra.css",
+    ],
     "extra_javascript": [
         "footnotes.js",
         "search_order.js",

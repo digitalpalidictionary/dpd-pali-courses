@@ -46,6 +46,12 @@ The six English course folders hold plain Markdown only: no raw `<br>` and no kr
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.
+- `identity/courses-variables.css`: course colours live only here (loaded after `dpd-variables.css`); the course primary is DPD's `--primary-alt`. Never edit `dpd-variables.css` or `dpd.css`; they mirror upstream DPD.
+- `identity/assets/`: `courses-logo.svg` (DPD's `dpd` letter paths on a `#0077cc` disc, one file for both schemes) and `courses-favicon.png` (96×96 RGBA), published at `assets/`. Re-render the favicon after changing the logo (Fish, repo root; `src` is relative to `temp/`, which is gitignored):
+  `echo "<body style='margin:0;background:transparent'><img src='../identity/assets/courses-logo.svg' width=96 height=96 style='display:block'>" > temp/fav.html`
+  `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu --hide-scrollbars --default-background-color=00000000 --window-size=96,96 --screenshot=identity/assets/courses-favicon.png "file://"(pwd)"/temp/fav.html"`
+- Palette: three entries in `generate_mkdocs_yaml.py`, automatic first (`material/brightness-auto`, "A"). The toggle cycles auto → light → dark; Material remembers the choice in `localStorage` (`__palette`).
+- Dark-mode images: any `-b.png`/`-d.png` pair, in any folder, is swapped by `identity/theme-images.js`; every other content image is dimmed (`brightness(.85)`) by a rule in `identity/extra.css`, except pacman/arrow. To give a new image a real dark version, add it as a `-b.png`/`-d.png` pair and link the `-b.png`.
 - Project scripts for maintenance and generation in `scripts/`.
 - Static Inter TTFs at `../website_example/identity_dpd/fonts/` (outside the repo, local only).
 - Noto Sans Devanagari static TTFs + OFL licence vendored in `identity/fonts/` (committed, so CI renders Hindi).
