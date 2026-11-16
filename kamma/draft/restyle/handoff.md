@@ -273,3 +273,50 @@ Draft commit message: `Related to #10 restyle website: course palette, dpd logo 
 - Mobile layout, search panel and footnote pop-up colours were not looked at in the prototype.
 - PDF and DOCX output were not built.
 - Whether the DPD project owner wants to be told about the sibling logo: not asked.
+
+## 11. Automatic light/dark mode ("A" toggle) — copied from the study-tools thread
+
+Added 2026-11-16 at the owner's request. Source: `/Users/deva/Documents/sasanarakkha/study-tools/kamma/archive/20261116_website_restyle/` (`plan.md` Phase 5, tasks 5.1 and 5.8; `kamma/tech.md` "Automatic scheme" in that repo). Not yet tried in this repo; the Material version here is 9.7.1 (study-tools used 9.7.6), so re-check the points below.
+
+### 11.1 Requirement
+
+Light/dark mode must follow the browser/OS setting automatically (at least in Safari), and the visitor must always be able to return to "follow the system".
+
+### 11.2 Why the current toggle is not enough
+
+- Our palette already has `media: (prefers-color-scheme: light|dark)` entries, so the OS setting is used on a first visit.
+- Material saves the toggle choice in `localStorage` (`__palette`, see `material/templates/partials/javascripts/palette.html`). After one click the saved choice wins over the OS forever, and a 2-state toggle has no way back to "follow the system".
+- Fix (Material's own): a third palette entry with `media: "(prefers-color-scheme)"` and no `scheme`, which is the automatic mode, with the `material/brightness-auto` icon (shown as "A").
+
+### 11.3 Change (in `scripts/generate_mkdocs_yaml.py`, the `theme.palette` list; `mkdocs.yaml` is generated, F11)
+
+Add this entry **first** in the list:
+
+```yaml
+- media: "(prefers-color-scheme)"
+  primary: custom
+  accent: custom
+  toggle:
+    icon: material/brightness-auto
+    name: Switch to light mode
+```
+
+Then change the dark entry's `toggle.name` to `Switch to system preference`. Leave the light entry unchanged. (`primary: custom` / `accent: custom` is already item 4 of section 4.3; the new entry needs it too, otherwise the body starts as `indigo` until the JS switches it.) In `generate_mkdocs_yaml.py` this is a Python dict, so write the same keys as dict entries.
+
+Behaviour: the toggle cycles auto → light → dark → auto.
+
+### 11.4 Verification (from the study-tools thread)
+
+- `uv run python -c "import yaml;p=yaml.safe_load(open('mkdocs.yaml'))['theme']['palette'];print(len(p),[e['media'] for e in p])"` → `3 ['(prefers-color-scheme)', '(prefers-color-scheme: light)', '(prefers-color-scheme: dark)']`
+- After `uv run mkdocs build`: `site/index.html` contains `data-md-color-media="(prefers-color-scheme)"` as the first palette input.
+- Headless Chrome, fresh profile: with `--force-dark-mode` the home page body has `data-md-color-scheme="slate"`; without it, `default`.
+- Owner check in Safari: the system setting is followed; the toggle cycles auto → light → dark; if an old 2-state choice sticks, clear the site data once (stale `__palette` in `localStorage`).
+- Add a test to `tests/test_restyle.py`: the generated palette has three entries, the first with media `(prefers-color-scheme)`, no `scheme`, and icon `material/brightness-auto`.
+
+### 11.5 Settled: same behaviour as the study-tools thread
+
+Owner decision 2026-11-16: use exactly the behaviour described above. "A" (automatic) is the default on a first visit. After that Material remembers the visitor's last choice in `localStorage` (`__palette`), so a refresh keeps the chosen mode. No extra JS that resets to "A" on refresh. (The owner's earlier remark that every refresh goes to "A" was a mistake and is withdrawn.)
+
+### 11.6 Files this adds to section 9
+
+`scripts/generate_mkdocs_yaml.py` (palette entry) and `tests/test_restyle.py` (one more test); also one line in `kamma/tech.md` under the palette note.
