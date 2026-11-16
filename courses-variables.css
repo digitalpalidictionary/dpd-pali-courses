@@ -1,0 +1,17 @@
+/* DPD Pāḷi Courses palette: the DPD palette (dpd-variables.css) with the primary
+   one step deeper: the course primary is DPD's own --primary-alt. Load after dpd-variables.css. */
+:root {
+  --primary: hsl(205, 100%, 40%);
+  --primary-alt: hsl(210, 100%, 32%);
+  /* link colours, one per scheme, both above 4.5:1 on their background */
+  --link-on-light: hsl(205, 100%, 35%);
+  --link-on-dark: hsl(198, 100%, 50%);
+  /* inactive tab labels on the --primary-alt tab bar, 5.2:1 */
+  --on-primary-muted: hsl(205, 65%, 83.3%);
+}
+body[data-md-color-scheme="default"] {
+  --md-typeset-a-color: var(--link-on-light);
+}
+body[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: var(--link-on-dark);
+}
