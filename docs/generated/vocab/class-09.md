@@ -60,6 +60,7 @@
 | magga 2 | masc | way; means; method | √magg 1 a (seek, search) | √magg + a | a masc | 2 |
 | makkaṭa | masc | monkey; ape |  |  | a masc | 2 |
 | manussa | masc | human being; man; person |  | manu + ssa | a masc | 2 |
+| mitta 1 | masc | friend | √mitt 1 a (be friendly) | √mitt + a | a masc | 2 |
 | moggallāna 1 | masc | name of an arahant monk; chief disciple; great disciple of the Buddha; foremost monk in psychic power |  | muggala > moggala + *yāna | a masc | 2 |
 | moha 1 | masc | illusion; delusion; misapprehension | √muh 3 ya (be deluded, be confused) | √muh > moh + *a | a masc | 2 |
 | mugga | masc | mung beans | √mud 1 a (be soft, be happy) | √mud > mug + ga | a masc | 2 |
@@ -104,6 +105,7 @@
 | rukkha 1 | masc | tree |  |  | a masc | 2 |
 | rāga 1.1 | masc | desire; passion; lust; greed (for); infatuation (with) | √raj 3 ya (desire) | √raj > rag > rāg + *a | a masc | 2 |
 | rāhula | masc | name of an arahant monk; Buddha's son |  |  | a masc | 2 |
+| sagga 1.2 | masc | heaven; paradise | √sar 1 a (shine) | √sar + ga | a masc | 2 |
 | sakka 3 | masc | Sakyan; man of the Sakyan race | √sak 4 ṇo (be able, be powerful) | √sak + ya | a masc | 2 |
 | sakuṇa | masc | bird |  |  | a masc | 2 |
 | samatha 1.1 | masc | stilling (of); serenity (of); calming (of); settling (of); peace (of); (comm) mental unification | √sam 3 ya (be calm, be tired) | √sam + a + tha | a masc | 2 |
@@ -262,6 +264,7 @@
 | voharati 1 | pr | speaks; communicates; gives expression; uses language | √har 1 a (carry) | vi + ava + hara + ti | ati pr | 3 |
 | vāyamati | pr | tries (to); makes an effort (to); strives (for); exerts oneself (to) | √yam 1 a (control, strive, end) | vi + ā + yama + ti | ati pr | 3 |
 | yācati 1 | pr | asks; requests; begs (someone for) | √yāc 1 a (beg) | yāca + ti | ati pr | 3 |
+| ācikkhati 2 | pr | describes; points out; shows (something to) | √cikkh 1 a (show, tell) | ā + cikkha + ti | ati pr | 3 |
 | ājānāti 1 | pr | knows; understands; comprehends | √ñā 5 nā (know) | ā + jānā + ti | āti pr | 3 |
 | āmantayati 1 | pr | tells; informs; advises | √mant 8 *aya (counsel, invite) | ā + mantaya + ti | ati pr | 3 |
 | āpajjati 2 | pr | arouses; exhibits; produces; brings into being | √pad 3 ya (go, step) | ā + pajja + ti | ati pr | 3 |
