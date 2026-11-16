@@ -56,6 +56,7 @@ If you have one, make sure you know the literal and figurative meaning of your P
 5.  Useful Website:
     - [4nt DG](https://s.dhamma.gift)
     - The Buddha’s Words (local [SBS link](https://buddhas-words.sbs.rocks/home/index.html))
+    - [Pali Practice App](https://www.dhammabytes.org/pali-practice/)
 
 ## Homeless work
 
