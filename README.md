@@ -144,6 +144,8 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 
 - **`rewrite_sutta_links.py`**: Rewrites old `find.dhamma.gift/bw/...` sutta and Vinaya links in `docs/` to their `s.dhamma.gift` equivalents (link target only; link text untouched). Dry run by default; any old URL with no mapping is reported and exits 1.
   - Usage: `uv run python scripts/rewrite_sutta_links.py [--write]`
+- **`update_dpd_lists.py`**: Rebuilds five DPD-derived word lists in the BPC (cardinal numbers and very large numbers in class 12, the √bandh and √bhū families in class 3, potential participles in class 14) from the local DPD database (`$DPD_DB`). Dry run by default.
+  - Usage: `uv run python scripts/update_dpd_lists.py [--write]`
 
 - **`check_sutta_links.py`**: Checks every `s.dhamma.gift` link in `docs/` against the live site: HTTP 200 and, for links with a `#anchor`, that the id exists on the page. Page ids are cached in `temp/sutta_link_ids/` (`--refresh` to refetch). Exits 1 on any failure.
   - Usage: `uv run python scripts/check_sutta_links.py [PATH ...] [--refresh]`

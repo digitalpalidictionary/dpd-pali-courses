@@ -186,44 +186,98 @@ These are the only numbers encountered in the Tipiṭaka that have been *actuall
 | | |
 | --- | --- |
 | 1 | eka |
-| 2 | dvi / dve / duve |
-| 3 | ti / (tayo / tīni / tisso) |
-| 4 | catu / (caturo / cattāro / catasso / cattāri) |
-| 5 | pañca |
+| 2 | dvi / bā / (duve / dve) |
+| 3 | ti / (tayo / tisso / tīṇi / te) |
+| 4 | catu / (catasso / caturo / cattāri / cattāro) |
+| 5 | pañca / paṇṇa |
 | 6 | cha |
 | 7 | satta |
 | 8 | aṭṭha |
 | 9 | nava |
 | 10 | dasa |
 | 11 | ekādasa |
-| 12 | dvādasa |
-| 13 | terasa |
+| 12 | doḷasa / dvādasa |
+| 13 | terasa / telasa / teḷasa |
 | 14 | catuddasa / cuddasa |
-| 15 | pannarasa / paṇṇarasa |
+| 15 | paṇṇarasa / pannarasa |
 | 16 | soḷasa |
-| 1/16 | soḷasī |
-| 18 | aṭṭhārasa |
-| 20 | vīsaṃ / vīsati |
+| 17 | sattarasa |
+| 18 | aṭṭhārasa / ṭhārasa |
+| 19 | ekūnavīsati |
+| 20 | vīsati / vīsā / (vīsaṃ / vīse) |
 | 21 | ekavīsati |
-| 30 | tiṃsā / tiṃsaṃ |
-| 32 | dvattiṃsati |
-| 36 | chattiṃsā / chattiṃsati |
-| 40 | cattārīsa / cattālīsā |
-| 50 | paṇṇāsā / paññāsā |
+| 22 | bāvīsati / bāvīsā |
+| 24 | catubbīsati |
+| 25 | pañcavīsati / paṇṇavīsati |
+| 26 | chabbīsā |
+| 27 | sattabbīsā |
+| 28 | aṭṭhavīsati |
+| 29 | ekūnatiṃsā |
+| 30 | tiṃsati / tiṃsā / (tiṃsa / tiṃsaṃ / tiṃse) |
+| 31 | ekatiṃsā |
+| 32 | dvattiṃsati / dvattiṃsā / dvittiṃsā / bāttiṃsā |
+| 33 | tettiṃsā |
+| 36 | chattiṃsati / chattiṃsā |
+| 38 | aṭṭhatiṃsati / aṭṭhatiṃsā / aṭṭhattiṃsā |
+| 40 | cattārīsā / cattālīsati / cattālīsā / tālīsā |
+| 41 | ekacattālīsā / ekatālīsā |
+| 42 | dvācattālīsā / dvecattālīsā |
+| 43 | tecattālīsā |
+| 44 | catucattārīsā / catucattālīsā / catuttālīsā |
+| 45 | pañcatālīsā |
+| 46 | chacattālīsā |
+| 48 | aṭṭhacattālīsā |
+| 49 | ekūnapaññāsā |
+| 50 | paññāsā / paṇṇāsā |
+| 54 | catupaṇṇāsā |
+| 55 | pañcapaññāsā |
+| 57 | sattapaññāsā |
+| 58 | aṭṭhapaññāsā |
 | 60 | saṭṭhi |
+| 62 | dvaṭṭhi / dvāsaṭṭhi |
 | 64 | catusaṭṭhi |
+| 68 | aṭṭhasaṭṭhi |
+| 70 | sattati / sattari |
+| 72 | dvāsattati |
+| 73 | tesattati |
 | 74 | catusattati |
+| 76 | chasattati |
+| 77 | sattasattati / sattasattari |
 | 80 | asīti |
-| 84 | caturāsīti |
+| 82 | dvāsīti / dveasīti |
+| 84 | caturāsīti / cullāsīti / cūḷāsīti |
+| 88 | aṭṭhāsīti |
 | 90 | navuti |
 | 91 | ekanavuti |
 | 92 | dvenavuti |
-| 100 | sata |
+| 96 | channavuti |
+| 100 | ekasata / sata / (sate) |
+| 108 | aṭṭhasata |
+| 120 | vīsuttarasata |
+| 150 | diyaḍḍhasata |
+| 166 | chasaṭṭhisata |
+| 300 | tisata |
+| 400 | catussata |
 | 700 | sattasata |
 | 1 000 | sahassa |
-| 10 000 | dasasahassa |
+| 1 500 | diyaḍḍhasahassa |
+| 2 000 | dvisahassa |
+| 3 000 | tisahassa |
+| 4 000 | catusahassa |
+| 6 000 | chasahassa |
+| 7 000 | sattasahassa |
+| 10 000 | ekanahuta / dasasahassa / nahuta |
+| 16 000 | soḷasasahassa |
+| 20 000 | vīsatisahassa |
+| 84 000 | caturāsītisahassa / cullāsītisahassa / cūḷāsītisahassa |
 | 100 000 | satasahassa |
+| 110 000 | ekādasanahuta |
+| 800 000 | aṭṭhasatasahassa |
+| 2 400 000 | catuvīsatisatasahassa |
 | 10 000 000 | koṭi |
+| 1 000 000 000 | koṭisata |
+| 10 000 000 000 | koṭisahassa |
+| 1 000 000 000 000 | koṭisatasahassa |
 
 In summary, learn declensions 1, 2, 3, 4, 5, 20, 100.
 
@@ -231,9 +285,20 @@ That, of course, excludes all the “amazing” numbers which you’ll come acro
 
 | | | |
 | --- | --- | --- |
+| padma | 10^12 | 1 000 000 000 000 |
 | pakoṭi | 10^14 | 100 000 000 000 000 |
-| akkhobhinī | 10^42 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| koṭippakoṭi | 10^21 | 1 000 000 000 000 000 000 000 |
+| ninnahuta | 10^35 | 100 000 000 000 000 000 000 000 000 000 000 000 |
+| akkhobhinī / akkhohinī | 10^42 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | abbuda | 10^56 | 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | nirabbuda | 10^63 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | ahaha | 10^70 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
 | ababa | 10^76 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| aṭaṭa | 10^84 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| sogandhika | 10^91 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| uppala | 10^98 | 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| kumuda | 10^105 | 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| puṇḍarīka | 10^112 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| paduma | 10^119 | 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| kathāna | 10^127 | 10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
+| mahākathāna | 10^134 | 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 |
