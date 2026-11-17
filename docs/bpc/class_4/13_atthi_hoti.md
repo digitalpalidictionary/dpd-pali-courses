@@ -67,7 +67,7 @@ imasmiṃ asati idaṃ **na hoti** ([SN12.21](https://s.dhamma.gift/sn/sn12/inde
 
 When this is not, that **does not come to be**.
 
-Both verbs are in this sentence. The word *sati* here is not “mindfulness”. It is the locative of *santa*, the present participle of *atthi*: “when this is there”. The condition is simply present (√as), and the result comes to be (√hū).
+Both roots are in this sentence. The word *sati* here is not “mindfulness”. It is the locative of *santa*, the present participle of *atthi*: “when this is there”. The condition is simply present (√as), and the result comes to be (√hū).
 
 ### Happening
 
@@ -75,7 +75,7 @@ tassa mayhaṃ, bhikkhave, etad**ahosi** ([MN26](https://s.dhamma.gift/mn/mn26/i
 
 etaṃ + **ahosi**
 
-lit. monks, to me there was this
+lit. monks, to me (being such) there was this
 
 “Monks, this thought **occurred** to me”
 
@@ -109,7 +109,7 @@ Do not expect *atthi* or *hoti* in every sentence that has “is” in the Engli
 
 ## Two Roots, One Verb
 
-The two roots also work together as one verb “to be”. √as has no future tense, so the future always comes from √bhū, the full form of √hū.
+The two roots also work together as one verb “to be”. √as has no future tense, so the future usually comes from √bhū, the full form of √hū.
 
 | Time | Verb | Root |
 | --- | --- | --- |
@@ -143,7 +143,7 @@ The working rule describes what is usual. It is not a law, and no teaching shoul
 
 **There is** this world, **there is** another world.
 
-‘sabbam**atthī**’ti kho, kaccāna, ayameko anto ([SN12.15](https://s.dhamma.gift/sn/sn12/index.html#sn12.15))
+‘sabbaṃ **atthī**’ti kho, kaccāna, ayameko anto ([SN12.15](https://s.dhamma.gift/sn/sn12/index.html#sn12.15))
 
 “Everything **exists**”: this, Kaccāna, is one extreme.
 
