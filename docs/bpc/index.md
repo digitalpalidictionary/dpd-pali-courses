@@ -33,6 +33,7 @@
 - [The Aorist or Past Tense (ajjatanī)](class_4/10_aor.md)
 - [Irregular verb √as (be)](class_4/11_root_as.md)
 - [Irregular verb √hū (be)](class_4/12_root_huu.md)
+- [The Difference Between atthi and hoti](class_4/13_atthi_hoti.md)
 
 ## [Class 5](class_5/index.md)
 - [Personal Pronouns](class_5/2_pers_pron.md)
