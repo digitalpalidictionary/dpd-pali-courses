@@ -63,7 +63,7 @@ Overall confidence: 9/10 that the quoted text is where the row says (scripted). 
 These are not decided in the audit; the rows say `owner decision`, or give both options:
 
 - `# Homeless work` as the title of all 13 home-work pages: intended or not.
-- `<br>` in table cells (136 occurrences) and `{: .align-right }` (4, in `class_20/5_ex.md`) versus the "no raw HTML in sources" rule.
+- `<br>` in table cells (136 occurrences) and `{: .align-right }` (4, in `class_20/6_ex.md`) versus the "no raw HTML in sources" rule.
 - `Pāli` (53 times) or `Pāḷi` (once, class 18) in running text.
 - One term for the `-tvā` / `-ya` form: `ger.` / gerund or `abs.` / absolutive. The key has the same drift (`ipc-key-audit.md`), so one decision serves both.
 - Kaccāyana citation style (three styles; counts in the F row of the cross slice).
@@ -545,7 +545,7 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 | class_19/5_dvanda.md:25 | `brāhmaṇ**ānaṃ “of** ascetics` | One bold span runs from the Pāli ending across the quote mark into the English (old E17) | `**ānaṃ** “**of** ascetics` | 9 |
 | class_20/2_bahub.md:19 | `viharāmi**.**` | Bold full stop (old E18) | `viharāmi.` | 9 |
 | class_20/4_change_comp.md:10 | `*pañcagu[^9]*` | Footnote marker inside the italics (old E19) | `*pañcagu*[^9]` | 7 |
-| class_20/5_ex.md:8, 13, 18, 23 | `{: .align-right }` | attr_list markup in the source; the only file in `docs/ipc` that has it (project rule: clean Markdown) (old E20) | owner decision | 7 |
+| class_20/6_ex.md:8, 13, 18, 23 | `{: .align-right }` | attr_list markup in the source; the only file in `docs/ipc` that has it (project rule: clean Markdown) (old E20) | owner decision | 7 |
 | class_19/1_comp.md:1 | `# Compounds (*samāsa)*` | The closing `*` is outside the bracket (mech-output: index link differs) | `(*samāsa*)` | 10 |
 | class_19/4_tap.md:65 | `*tuṃpaccaya* *tappurisa*` | Italic split in two | `*tuṃpaccaya tappurisa*` | 8 |
 | class_21/4_pres.md:7, 9 | `(*parassapada)*` / `(*attanopada)*` | The closing `*` is outside the bracket (old E21) | `(*parassapada*)`, `(*attanopada*)` | 10 |
@@ -570,7 +570,7 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 | class_28/1_kita_1.md:346 | `a large group **of past participles**` | `of` is inside the bold span (old E39) | `of **past participles**` | 9 |
 | class_28/1_kita_1.md:469, 470 | `\| √gaves \| to seek \| **+ ī** \| gavesī \|` / `\| √dus \| to be corrupt \| **+ ī** \| dūsī \|` | The suffix is not bold in the result column (file 2: see p10) (old E40) | `gaves**ī**`, `dūs**ī**` | 9 |
 | class_28/2_kita_less.md:136, 177, 187, 320, 389, 396, 555, 562, 468, 474, 609, 426, 433 | `\| √cakkh \| to see \| **+ u** \| cakkhu \|` / `jīvikā` / `upāsikā` / `vattha` / `ārādhika` / `kathika` / `hutta` / `satta` / `kurara` / `pabhassara` / `p**o**ta` / `m**ū**sikā` / `n**āy**ikā` | The suffix is not bold in the result column (also the neighbouring rows 137, 138, 178–181, 188, 321, 390, 397, 556, 563, 610, 427, 434; file 1: see p09) (old E40) | Bold the suffix, as in the rest of the file | 9 |
-| class_20/5_ex.md:23 | `{: .align-right }` | The file ends without a final newline (mech_checks); the last line is this attribute line | Add the newline | 8 |
+| class_20/6_ex.md:23 | `{: .align-right }` | The file ends without a final newline (mech_checks); the last line is this attribute line | Add the newline | 8 |
 
 ## F. Convention drift
 
@@ -742,7 +742,7 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 | class_24/3_caus.md:53; class_18/1_phonetic.md:47 | `\| abs \| **bhāve**tvā \| having developed \|` / `(ger. descending)` | The `-tvā` / `-ya` form has two names across the course: `ger.` 11 times (class 18: 10, class 17: 1) and `gerund` 4 times; `abs.` twice (classes 17, 18), `abs` once (class 24), `absolutive` once (class 18) | owner decision (one term) | 8 |
 | class_17/3_cons_1.md:21; class_24/2_irreg_pass.md:81; class_28/1_kita_1.md:45 | `masc. impurity` / `\| f \| **vu**ddhi \|` / `\| **masc** \| 77 \|` | Gender labels across the course: `masc.` 16 and `m.` 11, `fem.` 8 and `f.` 13 (class 17), bare `m` / `f` / `nt` (class 24), `masc` / `fem` / `nt` (class 28), `m.n.s` (class 16 homework) | One set of abbreviations | 7 |
 | class_20/2_bahub.md:135; class_25/5_taddh_2.md:79; class_27/3_kita.md:78; class_17/8_nig_1.md:35 | `(a traveller)` / `traveler` / `trained, practised` / `often practiced in this way` | UK and US spellings side by side. US: `practiced` (2), `practices` (verb), `recognize(s)` (5), `analyze`, `discolored`, `traveler`, `realized`, `memorizer`. UK: `practised` (4), `recognise`, `analysing`, `traveller` (2), `realised`, `criticises`, `organised`, `honour`, `flavour`, `skilful` | owner decision (UK or US) | 8 |
-| class_21/10_sum.md:44; class_17/15_nig_8.md:18 | `ante<br>re` / `ariya-<br>saccāna**ṃ**` | `<br>` occurs 136 times in classes 17, 18, 20, 21, 22 and 24 (mech_checks), against the "no raw HTML in sources" rule; `{: .align-right }` 4 times in class_20/5_ex.md | owner decision (`<br>` and `{: }` in sources) | 7 |
+| class_21/10_sum.md:44; class_17/15_nig_8.md:18 | `ante<br>re` / `ariya-<br>saccāna**ṃ**` | `<br>` occurs 136 times in classes 17, 18, 20, 21, 22 and 24 (mech_checks), against the "no raw HTML in sources" rule; `{: .align-right }` 4 times in class_20/6_ex.md | owner decision (`<br>` and `{: }` in sources) | 7 |
 | class_16/8_vowel_6.md:62; class_21/7_perf.md:11; class_25/3_anub.md:17 | `this (...) of yours` / `“The ancient sages said...”` / `Except when ...` | Three full stops (7 times: classes 16, 20, 21, 25) beside the ellipsis character `…` (13 times: classes 20, 21, 24) | `…` | 8 |
 | class_16/1_sandhi.md:13; class_21/2_voices.md:85; class_25/3_anub.md:15 | `**euphonic combination** — sounds merging` / `reflexive meaning - sometimes` / `Please note - when` | Sentence dashes are `—` in classes 16–18 (60 with the index titles), ` - ` in 37 places (classes 16–25) and `–` in 27 (classes 20, 21, 23) | One dash for each use | 7 |
 | index.md:69; class_21/4_pres.md:1 | `- [Present Tense (vattamānā)](class_21/4_pres.md)` / `# Present Tense (*vattamānā*)` | mech_checks lists 24 index links whose text differs from the page H1. Three H1s have real markup defects (rows on class_16/2_vowel.md:1, class_17/2_cons.md:1, class_19/1_comp.md:1); in the other 9 pages (classes 21, 22, 28; root and class index each) the index only drops the italics | Accept, or add the italics to the link text | 5 |
@@ -775,11 +775,11 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 | class_18/10_irreg_masc.md:63 | `vay**o**anuppatto` | Usually two words, `vayo anuppatto`, so not a compound in `-o` (old H17) | verify; replace with a compound | 6 |
 | class_18/10_irreg_masc.md:91 | `similarly: asma, puma, bhasma, muddha, yuva, sakha etc.` | These nouns share some `-an` forms with `atta` but have their own irregular forms (`sakhā`, `pumā`, `yuvā`); "similarly" overstates it | verify; reword to "partly similar" | 5 |
 | class_19/2_kamm.md:81 | `(see *APA* for a lot of examples)` | `APA` is not explained anywhere in the class (old H20) | Expand the abbreviation | 6 |
-| class_20/5_ex.md:7 | `[AN3.80](https://s.dhamma.gift/an/an3/index.html#an3.79)` | Label and anchor disagree (old H22) | verify which sutta has the sentence | 8 |
+| class_20/6_ex.md:7 | `[AN3.80](https://s.dhamma.gift/an/an3/index.html#an3.79)` | Label and anchor disagree (old H22) | verify which sutta has the sentence | 8 |
 | class_20/1_abya.md:68 | `\| paccūsa \| early \|` | A noun (dawn) in a list of prefixes and indeclinables (old H27) | mark it as a noun, or take it out of the list (DPD: `paccūsa` masc, "before dawn; early morning") | 6 |
 | class_20/2_bahub.md:151 | `sapattabhāro – (a bird) carrying its own wings` | Listed under `sa- (with)` but glossed "own" (old H28) | move to `saka > sa` (DPD: `sa + patta + bhāra`, "carrying only one's wings"); DPD does not gloss `sa` itself: DPD lookup | 6 |
 | class_20/4_change_comp.md:12, 13, 20, 21 | `jayampatikā` / `jānipatī` / `samātar \| own mother` / `sayasaṃvuta \| enclosed in one’s own opinion` | Forms and glosses to be confirmed | `jānipatī` is not a DPD headword: DPD lookup; the other three are confirmed by DPD | 5 |
-| class_20/5_ex.md:12 | `[AN2.40]` | Not checked that the quoted sentence is in AN 2.40 (the link check proves only the anchor) | verify | 4 |
+| class_20/6_ex.md:12 | `[AN2.40]` | Not checked that the quoted sentence is in AN 2.40 (the link check proves only the anchor) | verify | 4 |
 | class_21/9_aor.md:43 | `bhagavantaṃ gāthāya **ajjhabhāsatha** ([SN1.1](https://s.dhamma.gift/sn/sn1/index.html#sn1.1) etc.)` | The SN prose has `ajjhabhāsi`; `ajjhabhāsatha` is not confirmed at SN 1.1 (old H23) | verify the source | 7 |
 | class_21/10_sum.md:5, 19 | `423, 426.` / `430, 373.` | The first numbers are Kaccāyana 423–430; the second numbers are not explained (another grammar?), `426` repeats (line 11) and `373` is out of sequence (old H24) | verify the numbers; name the second source | 7 |
 | class_23/22_dur_su_nir.md:62, 63 | `\| ku \| √sad + ya \| kosajja \|` / `\| ku \| √kar + ya \| kukkucca \|` | `kukkucca` lacks the `ta` step that DPD shows; `kosajja` is as in DPD (old H35) | `\| ku \| √kar + ta + ya \| kukkucca \|` (DPD: `ku + √kar + ta + ya` / `kukkata + ya`); `kosajja` agrees with DPD (`ku > ko + √sad + *ya`) | 7 |
@@ -853,7 +853,7 @@ Counts from `mech_checks.py docs/ipc --folder-footnotes`, the link checks and th
 ### M4. Stray characters, headings, whitespace
 
 - "RAW HTML" is reported on lines 6, 7, 10, 13 and 14 of `class_16/12_vowel_ref_table.md`. These are escaped `\<` and `\>` arrows, not HTML: false positives (row in I).
-- No final newline: `class_20/5_ex.md` (row in E).
+- No final newline: `class_20/6_ex.md` (row in E).
 - Lines with a double space: 165.
 - No tab, NBSP, zero-width, Cyrillic or non-NFC character, no heading-level defect and no odd `**` count was reported.
 

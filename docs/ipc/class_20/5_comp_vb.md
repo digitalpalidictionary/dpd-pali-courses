@@ -14,11 +14,11 @@ DPD defines it as: **compound verb** – when a verb is combined with another wo
 
 The seven types of *samāsa* we have studied are nouns, adjectives or indeclinables. A compound verb is different in three ways.
 
-1. The last member is a **verb form**, not a noun. It is conjugated, not declined: *sacchikaroti*, *sacchikari*, *sacchikatvā*, *sacchikātuṃ*, *sacchikata*.
+1. The last member is a **verb form**, not a noun. It takes the forms of a verb (tenses, absolutive, infinitive, participles): *sacchikaroti*, *sacchikari*, *sacchikatvā*, *sacchikātuṃ*, *sacchikata*.
 
-2. The first member often **keeps its case ending**: *kālaṃ* + akāsi, *manasi* + karoti, *tena* + upasaṅkami. In an ordinary compound it would normally appear in its stem form.
+2. The first member often **keeps its case ending**: *kālaṃ* + akāsi, *manasi* + karoti, *tena* + upasaṅkami. In an ordinary compound it would normally appear in its stem form; the exception is the *alutta tappurisa* ([Class 19](../class_19/4_tap.md)).
 
-3. DPD usually gives **no compound type** (kammadhāraya, tappurisa, etc.) and **no root** for a compound verb. To find the root, look up the verb part: *karoti*, *bhavati*, *upasaṅkamati*, and so on.
+3. DPD usually gives **no compound type** (kammadhāraya, tappurisa, etc.) and **no root** for a compound verb (a few exceptions exist: *bahulīkata* is also given as kammadhāraya). To find the root, look up the verb part: *karoti*, *bhavati*, *upasaṅkamati*, and so on.
 
 A compound verb is also not the same as a verb with a prefix (*upasagga*). In *upasaṅkamati* (upa + saṃ + √kam) the prefixes are not words of their own, and DPD gives the root √kam. In *tenupasaṅkami* the word *tena* is a separate word that has joined the verb, so it is a comp vb.
 
@@ -33,7 +33,7 @@ The most frequent type. A word that is not declined joins *karoti* (does, makes)
 | sacchikaroti | sacchi + karoti | personally experiences; realizes |
 | pātukaroti | pātu + karoti | displays; manifests |
 | pātubhavati | pātu + bhavati | appears; becomes evident |
-| tuṇhībhavati | tuṇhī + bhavati | becomes silent |
+| tuṇhībhavati | tuṇhī + bhavati | keeps silence |
 | sakkaroti | sat + karoti | honours; respects |
 | garukaroti | garu + karoti | honours; esteems |
 
