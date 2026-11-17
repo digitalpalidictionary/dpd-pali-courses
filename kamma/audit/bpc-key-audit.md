@@ -40,6 +40,8 @@ Paths below are relative to `docs/bpc_key/`. In `Current`, `\|` is a table pipe 
 
 ## Summary
 
+These numbers before approval - because user is removing rejected lines and keep only approved lines.
+
 | Category | idx–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | cross | Total | Conf. ≥ 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A. Pāli and grammar content errors | 3 | 1 | 6 | 6 | 3 | 10 | 9 | 11 | 10 | 12 | 10 | 12 | 13 | 6 | 4 | 116 | 35 |
@@ -56,12 +58,6 @@ Paths below are relative to `docs/bpc_key/`. In `Current`, `\|` is a table pipe 
 A row often covers several locations, so the number of places to edit is higher than the row count. The `cross` column holds the folder-wide findings and the old Part 1 rows that do not belong to one class.
 
 Overall confidence: 9/10 that the quoted text is where the row says (scripted). 8/10 for categories D, E, F and G (visible in the source). 7/10 for A, B, C and H as a group: DPD was consulted for the tags, roots and glosses that looked doubtful, but no text edition was. Use the per-row score.
-
-## Owner decisions carried over
-
-None. The owner has not reviewed the old key audit, so every old row was re-checked like a new finding.
-
-One decision from the BPC lesson audit was applied here: old row 5.1 (the split of `mā pamādattha`) is dropped, because the owner rejected the same point there (bpc A13) and the key follows the lesson. The owner may want to confirm this.
 
 ## Old rows: mapped, corrected, dropped
 
@@ -106,9 +102,7 @@ The starred sign `\*a` (9 cells, e.g. 5:83, 8:215, 10:473, 14:665) is DPD's own 
 
 These are not decided in the audit; the rows say `owner decision`:
 
-- `<br>` in table cells versus the "no raw HTML in sources" rule (614 in the folder).
 - Elision marks inside one word where a sandhi consonant is inserted or nothing is dropped: `añña'd'atthu` (5:481), `yāva'd'eva` (7:370), `eta'r'ahi` (11:638, 13:103), `atthaṅ'gate` (10:181), `samanta'pāsādiko` (12:369). DPD writes each as one word. If the marks are a deliberate notation for sandhi, they can stay, but the rule should be stated once in the key.
-- `kira` in SN10.8 (2:8): "it is said" or "truly". Both are DPD senses.
 - One rendering for recurring terms (`brāhmaṇa`, `dhammavinaya`, `samaṇa`, `mettā`, "Venerable sir").
 - Phrase items with no source reference (class 1, and 13 items in class 2), and commentary references with no link (5:49, 8:101).
 - AN3 labels run one higher than their link anchors (AN3.66 → `#an3.65`, and five more): the labels seem to follow the VRI numbering and the anchors SuttaCentral's. Decide which numbering the label should show.
