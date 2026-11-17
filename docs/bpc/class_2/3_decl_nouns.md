@@ -178,15 +178,15 @@ Please learn this table by heart. Why?
 
 | | **Number of nouns in DPD[^3]** |
 | --- | --- |
-| masculine nouns ending in **-a** | **11834** |
-| masculine nouns ending in **-i -ī -u -ū** | 1549 |
-| masculine nouns total | **13383** |
-| share of **-a** | **88%** |
-| neuter nouns ending in **-a** | **14747** |
-| neuter nouns ending in **-i -u** | 452 |
-| neuter nouns total | **15199** |
-| share of **-a** | **97%** |
+| masculine nouns ending in **-a** | **9223** |
+| masculine nouns ending in **-i -ī -u -ū** | 853 |
+| masculine nouns total | **10076** |
+| share of **-a** | **92%** |
+| neuter nouns ending in **-a** | **10199** |
+| neuter nouns ending in **-i -u** | 232 |
+| neuter nouns total | **10431** |
+| share of **-a** | **98%** |
 
 That’s just dictionary forms … not to mention adjectives and participles with the same declensions.
 
-[^3]: All the frequency data in this document was collected from DPD in the year 2023. Please note that the dictionary often has multiple meanings for a single word, and each meaning is considered a separate entry.
+[^3]: All the frequency data in this document was collected from DPD. Each unique word is counted once, even when the dictionary lists several meanings under separate entries. This data is relevant for the year 2026.

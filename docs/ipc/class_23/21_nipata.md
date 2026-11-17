@@ -94,9 +94,9 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 | | | | |
 | --- | --- | --- | --- |
 | √bhū | bhāva | vinābhāva | separation |
-| √kar | karoti | vinākaroti[^17] | separates |
+| √kar | karoti | vinākaroti[^18] | separates |
 
-[^17]: Not a textual example
+[^18]: Not a textual example
 
 ## sat-
 

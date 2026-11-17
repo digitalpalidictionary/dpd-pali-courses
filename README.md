@@ -133,6 +133,9 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 - **`renumber_footnotes.py`**: Renumbers footnotes sequentially across all files in a course folder. The counter starts at 1 and continues across files in course order, correcting duplicate numbers and out-of-order references automatically.
   - Usage: `uv run python scripts/renumber_footnotes.py [--dry-run]`
 
+- **`check_frequencies.py`**: Checks every corpus frequency and DPD count quoted in the BPC and IPC lessons against the local DPD database and the CST frequency JSON, and prints a report (`OK` / `CHANGED` / `NOT FOUND`). Needs the local DPD database (`$DPD_DB`, default `/Users/deva/Documents/dpd-db/dpd.db`). With `--write` it rewrites the numbers in place, sets every data footnote's year to the current year, may move sections between the two IPC class 28 kita pages (sorted by count), and renumbers footnotes. All definitions are in the script docstring.
+  - Usage: `uv run python scripts/check_frequencies.py [--write]`
+
 - **`check_renumber.py`**: Detects and corrects numbering inconsistencies in Pāḷi sentence lists. Supports dry-run and automatic re-numbering of exercises and answer keys.
   - Usage: `uv run python scripts/check_renumber.py [--dry-run]`
 

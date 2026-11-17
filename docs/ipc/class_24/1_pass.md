@@ -50,12 +50,12 @@ Passive Base + Verbal Ending \> Passive Verb
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^20] | is carried |
+| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^21] | is carried |
 | √pūj | to honour | iya | pūjiya | pūjiyati | is worshipped |
 | √cud | to accuse | iya | c**o**diya | codiyati | is accused |
 | √add | to afflict | iya | a**ṭṭ**iya | aṭṭiyati | is troubled |
 
-[^20]: These bases mostly exist in participle forms.
+[^21]: These bases mostly exist in participle forms.
 
 ## Root + īya
 

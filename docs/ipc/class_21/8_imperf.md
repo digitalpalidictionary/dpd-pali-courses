@@ -8,7 +8,9 @@ As the name implies, **hiyyo** means “yesterday”, this past tense was used f
 
 Modern grammars translate it as a continuous past tense “was going”, but it’s safe to translate it just as a normal past tense “went”.
 
-This past tense has also almost completely died out in Pāli, apart from some common roots like √gam √chid √dis √vac etc, and mostly in poetry. In DPD there are about **38** Tipiṭaka examples so far.
+This past tense has also almost completely died out in Pāli, apart from some common roots like √gam √chid √dis √vac etc, and mostly in poetry. In DPD there are **75**[^12] Tipiṭaka examples so far.
+
+[^12]: This data is relevant for the year 2026.
 
 This verbal form also can take an **a-** augment in front, like the aorist. Let’s look at the conjugation.
 

@@ -67,13 +67,13 @@ At which time, monks, the **thieves** are **powerful** …
 | 7.loc | bhagav**ati** / bhagav**ante** / bhagav**antamhi** / bhagav**antasmiṃ** | bhagav**antesu** |
 | 8.voc | bhagav**aṃ** / bhagav**a** / bhagav**ā** | bhagav**anto** / bhagav**antā** |
 
-bhagavā 4803[^18]
+bhagavā 4614[^18]
 
-bhagavantaṃ 1755
+bhagavantaṃ 2021
 
-bhagavatā 1168
+bhagavatā 1100
 
-bhagavato 1942
+bhagavato 1934
 
-[^18]: In the Mūla part of the 4 Nikāyas
+[^18]: In the Mūla part of the 4 Nikāyas. This data is relevant for the year 2026.
 

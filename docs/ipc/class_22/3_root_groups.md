@@ -14,7 +14,7 @@ These roots **end in a consonant** and the conjugational sign **-a-** is added d
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √gam[^13] | a | **gaccha** | gacchati | goes |
+| √gam[^14] | a | **gaccha** | gacchati | goes |
 | √dis | a | **passa** | passati | sees |
 | √kam | a | kama | kamati | goes, enters |
 | √as | a | **as**, **sa** | atthi | is |
@@ -34,7 +34,7 @@ These roots **end in a consonant** and the conjugational sign **-a-** is added d
 | √labh | a | labha | labhati | gets |
 | √vis | a | visa | nivisati | settles down; lit. enters down |
 
-[^13]: All the roots that follow are in order from most common to less common
+[^14]: All the roots that follow are in order from most common to less common
 
 **Group 1.2**
 
@@ -141,9 +141,9 @@ As you can see, these are quite rare.
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
-## 7. tanādigaṇa (-o- *-yira[^14]-*)
+## 7. tanādigaṇa (-o- *-yira[^15]-*)
 
-[^14]: It's in the traditional grammar books, but it's actually a more passive form.
+[^15]: It's in the traditional grammar books, but it's actually a more passive form.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

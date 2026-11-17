@@ -18,4 +18,4 @@ There are about 400 of these nouns in the DPD[^12].
 e.g. samādhi, gahapati, muni, gāmaṇi, isi, suci, ñāti, pāṇi, sārathi, añjali, upadhi, kāsi
 
 
-[^12]: This statistic is relevant for the year 2023.
+[^12]: This data is relevant for the year 2026.

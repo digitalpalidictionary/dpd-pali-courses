@@ -1,6 +1,6 @@
 # ā-
 
-up to, upwards, towards, near to, at, **backwards**, away, all round, **intensely**, *until*, *as far as*[^15]
+up to, upwards, towards, near to, at, **backwards**, away, all round, **intensely**, *until*, *as far as*[^16]
 
 | | | | |
 | --- | --- | --- | --- |
@@ -15,4 +15,4 @@ up to, upwards, towards, near to, at, **backwards**, away, all round, **intensel
 | √pucch | to ask | āpucchati | asks permission |
 | √vah | to carry | āvahati | brings, transfers |
 
-[^15]: The most common meanings are shown in **bold**, while forms that have not been seen in the text but are mentioned in some grammar books are shown in *italics*.
+[^16]: The most common meanings are shown in **bold**, while forms that have not been seen in the text but are mentioned in some grammar books are shown in *italics*.

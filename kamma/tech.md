@@ -43,6 +43,13 @@ The six English course folders hold plain Markdown only: no raw `<br>` and no kr
 - **Right-aligned attribution:** a line starting with `— ` that is its own paragraph. `tools/clean_markup.py:mark_attributions` adds `{: .align-right }` at render time for web and PDF (CSS: `identity/extra.css` → `.align-right`); DOCX right-aligns the paragraph in `post_process_docx` instead.
 - **Heading ids:** never written in the source. The `toc` extension generates the slug; a link fragment must match `markdown.extensions.toc.slugify(heading text, "-")`.
 
+## Frequency and DPD counts (added November 2026)
+`scripts/check_frequencies.py` (GitHub #7) recomputes every quoted frequency and DPD count; definitions live in its module docstring.
+- **Unique-words rule:** a DPD count is distinct `clean(lemma_1)` over rows with `meaning_1 != ''` (`clean` strips the homonym number); roots are counted directly.
+- **Corpus counts:** exact-form counts from `cst_file_freq.json` over the Mūla files of a section (`NIK4`, `VIN`, `DN`…`KN`); absolutive counts keep only forms that are DPD `abs`/`ger` headwords.
+- **Kita (IPC class 28):** primary-derivative rows only (`suffix`, `root_key`, one-line `construction`, six POS); a section total is the sum of its POS rows. `--write` ranks all 45 sections, keeps the top 18 on `1_kita_1.md`, and gives every section the same POS table with a bold total row (adding it where missing), and rebuilds the ranking table and the suffix lists; a content guard aborts if any other line would change.
+- **Year footnotes:** every data footnote ends with `This data is relevant for the year YYYY.`; `--write` sets the current year and renumbers footnotes.
+
 ## Resources
 - Original course materials from Google Docs (as reference).
 - DPD CSS and JavaScript assets in `identity/`.

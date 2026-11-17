@@ -38,19 +38,19 @@ What are the **subordinate clauses**?
 
 Absolutives ending in **tvā** are very common and extensively used.
 
-7800 times in Vinaya[^19]
+7700 times in Vinaya[^19]
 
 1800 times in Dīgha Nikāya
 
 3300 times in Majjhima Nikāya
 
-2700 times in Saṃyutta Nikāya
+2600 times in Saṃyutta Nikāya
 
 3100 times in Aṅguttara Nikāya
 
-9200 times in Khuddaka Nikāya
+5600 times in Khuddaka Nikāya
 
-[^19]: In the Mūla part of the 4 Nikāyas
+[^19]: In the Mūla part of the Vinaya and Sutta Piṭaka. This data is relevant for the year 2026.
 
 ## How to form pubbakiriyā
 
@@ -136,14 +136,14 @@ These forms mostly occur in poetry, often for metrical reasons, but occasionally
 
 | | **-tvāna** | **-tūna** | **-(i)yāna** |
 | --- | --- | --- | --- |
-| VIN[^20] | 43 | 0 | 0 |
-| DN | 35 | 0 | 1 |
+| VIN[^20] | 41 | 0 | 0 |
+| DN | 34 | 0 | 1 |
 | MN | 15 | 0 | 0 |
-| SN | 48 | 0 | 1 |
-| AN | 51 | 0 | 1 |
-| KN | \>1000 | 4 | 17 |
+| SN | 48 | 0 | 0 |
+| AN | 51 | 0 | 0 |
+| KN | \>1000 | 3 | 6 |
 
-[^20]: In the Mūla part of the 4 Nikāyas
+[^20]: In the Mūla part of the Vinaya and Sutta Piṭaka. This data is relevant for the year 2026.
 
 Examples: **disvāna; vatvāna; sutvāna; ovariyāna; akātūna**
 

@@ -85,7 +85,7 @@ There are 3 ways to form present participles.
 
 DPD has only about 40[^24] of these so far, mostly in the verses of the Dhammapada and Sutta Nipāta.
 
-[^24]: This data is relevant for the year 2025.
+[^24]: This data is relevant for the year 2026.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

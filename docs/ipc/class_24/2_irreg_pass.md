@@ -13,10 +13,10 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | √dā | to give | (ī)ya | d**ī**ya | dīyati | is given |
-| √dhā | to hold | (ī)ya | dh**ī**ya | dhīyati[^21] | is held |
+| √dhā | to hold | (ī)ya | dh**ī**ya | dhīyati[^22] | is held |
 | √pā | to drink | (ī)ya | p**ī**ya | pīyati | is drunk |
 
-[^21]: Commentary example
+[^22]: Commentary example
 
 ## In roots ending in a short vowel, that vowel gets lengthened
 
@@ -31,12 +31,12 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √chid + ṃa | to cut | īya | chi**n**dīya | chindīyati[^22] | is cut |
+| √chid + ṃa | to cut | īya | chi**n**dīya | chindīyati[^23] | is cut |
 | √muc + ṃa | to free | īya | mu**ñ**cīya | muñcīyati\* | is freed |
 | √rudh + ṃa | to obstruct | īya | ru**n**dhīya | rundhīyati\* | is obstructed |
 | √yuj + ṃa | to yoke | iya | yu**ñ**jiya | samanuyuñjiyati\* | being cross-questioned |
 
-[^22]: These bases (marked with \*) mostly exist in participle forms.
+[^23]: These bases (marked with \*) mostly exist in participle forms.
 
 ## Some passive verbs have two forms
 
@@ -55,9 +55,9 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √yaj | to sacrifice | ya | ijja | ijjati[^23] | is sacrificed |
+| √yaj | to sacrifice | ya | ijja | ijjati[^24] | is sacrificed |
 
-[^23]: Not a textual example
+[^24]: Not a textual example
 
 ## Some roots with va- change to vu- or u-
 

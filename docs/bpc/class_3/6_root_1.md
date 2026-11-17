@@ -4,9 +4,9 @@
 
 = √bhū + etc + group
 
-66% of roots in Pāḷi (around 500) [^9] belong to the first root group.
+67% of roots in Pāḷi (around 500) [^9] belong to the first root group.
 
-[^9]: Statistical numbers are based on DPD root analysis conducted in 2023.
+[^9]: Statistical numbers are based on DPD root analysis. This data is relevant for the year 2026.
 
 √gam (go) √ṭhā (stand)
 
