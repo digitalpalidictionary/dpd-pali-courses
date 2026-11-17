@@ -61,7 +61,8 @@
 - [Bahubbīhi-samāsa or Attributive Compounds](class_20/2_bahub.md)
 - [Missaka-samāsa or Complex Compounds](class_20/3_mis.md)
 - [Changes Of Certain Words In Compounds](class_20/4_change_comp.md)
-- [Practice](class_20/5_ex.md)
+- [Compound Verbs (comp vb) in DPD](class_20/5_comp_vb.md)
+- [Practice](class_20/6_ex.md)
 
 ## [Class 21](class_21/index.md)
 - [Three Voices: Active, Reflexive and Passive](class_21/2_voices.md)
