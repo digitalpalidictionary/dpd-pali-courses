@@ -312,7 +312,7 @@
 | |
 
 2. [MN30](https://s.dhamma.gift/mn/mn30/index.html)
-   akuppā cetovimutti etadatthamidaṃ brāhmaṇa brahmacariyaṃ
+   akuppā cetovimutti – etadatthamidaṃ, brāhmaṇa, brahmacariyaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |

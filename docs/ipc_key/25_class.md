@@ -13,7 +13,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| cātummahārājikānaṃ | adj | masc.gen.pl | of the Four Great Kings | *cātumahārāja + \*ika* |
+| cātummahārājikānaṃ | adj | masc.gen.pl | of the Four Great Kings | *catumahārāja + \*ika* |
 | \#catu | card | | four | |
 | \#mahārāja | noun | | Great Kings | kammadhāraya |
 | \#\#mahanta | adj | | great; powerful | |
@@ -47,7 +47,7 @@
 | \#\#telassa | noun | nt.gen.sg | of oil | *tila* + \*a |
 | \#\#dhārā | noun | fem.nom.sg | stream; flow | |
 | \#iva | ind | | like, as | |
-| ahosi | verb | aor.3rd.sg | was | √hū･1 a (be) / + a \> ho |
+| ahosi | verb | aor.3rd.sg | was | √hū･1 a (be) + a \> ho |
 | iriyāpatho | noun | masc.nom.sg | movement; mode of behaviour, deportment | chaṭṭhī tappurisa |
 | \#iriyāya | noun | fem.gen.sg | conduct, deportment | |
 | \#patho | noun | masc.nom.sg | way | |
@@ -67,25 +67,25 @@
 | \#kaṇṇānaṃ | noun | masc.dat.pl | for/to the ears | |
 | \#sukhā | adj | fem.nom.sg | pleasant, easy | |
 | pemanīyā | adj | fem.nom.sg | endearing; friendly | √pī + \*ma + anīya |
-| hadayaṅgamā | adj | fem.nom.sg | heart warming; from the heart; touching the heart; | alutta dutiyā tappurisa |
+| hadayaṅgamā | adj | fem.nom.sg | heart warming; from the heart; touching the heart | alutta dutiyā tappurisa |
 | \#hadayaṃ | noun | nt.acc.sg | to the heart | hada + ya |
-| \#gamā | adj. | fem.nom.sg | going; able to go | √gam + a |
+| \#gamā | adj | fem.nom.sg | going; able to go | √gam + a |
 | porī | adj | fem.nom.sg | urbane; polite | |
-| bahujanakantā | adj | fem.nom.sg | pleasing to many people; | catutthī (dat) tappurisa |
-| \#bahujanassa | adj | masc.dat.sg | to/for many people | kammadhāraya |
+| bahujanakantā | adj | fem.nom.sg | pleasing to many people | catutthī (dat) tappurisa |
+| \#bahujanassa | noun | masc.dat.sg | to/for many people | kammadhāraya |
 | \#\#bahu | adj | masc. | many | |
 | \#\#janassa | noun | masc.dat.sg | to/for the people | |
 | \#kantā | adj | fem.nom.sg | pleasing | |
-| bahujanamanāpā | adj | fem.nom.sg | charming to the people | catutthī (dat) tappurisa |
-| \#bahujanassa | adj | masc.dat.sg | to/for the people | kammadhāraya |
+| bahujanamanāpā | adj | fem.nom.sg | charming to many people | catutthī (dat) tappurisa |
+| \#bahujanassa | noun | masc.dat.sg | to/for many people | kammadhāraya |
 | \#\#bahu | adj | masc. | many | |
 | \#\#janassa | noun | masc.dat.sg | to/for the people | |
-| manāpā | adj | fem.nom.sg | pleasant; likeable | |
-| tathārūpiṃ | adj | fem.acc.sg | such; such kind | kammadhāraya |
+| \#manāpā | adj | fem.nom.sg | pleasant; likeable | |
+| tathārūpiṃ | adj | fem.acc.sg | such; such kind | kammadhāraya \> bahubbīhi |
 | \#tathā | ind | adv | so; thus; in such a way | |
 | \#rūpiṃ | adj | fem.acc.sg | of type; of kind; having the quality of | |
 | vācaṃ | noun | fem.acc.sg | speech | √vac + \*ā |
-| bhāsitā | noun | masc.nom.sg | speaker; who talks (about) | √bhās + ita |
+| bhāsitā | noun | masc.nom.sg | speaker; who talks (about) | √bhās + itar |
 | hoti | verb | pr.3rd.sg | becomes | √hū + a + ti |
 
 ***pema + anīya***
@@ -146,17 +146,17 @@
 
     **MW: "rūpa n. (perhaps connected with varpa, varpas; ifc. f.(ā), rarely (ī)) any outward appearance or phenomenon or colour (often pl.), form, shape, figure, RV. \&c. \&c. (rūpeṇa ifc. in the form of ; rūpam-√kṛ or √bhū, to assume a form; often ifc. = 'having the form or appearance or colour of', 'formed or composed of', 'consisting of', 'like to'; sometimes used after an adj. or p.p. to emphasize its meaning or almost redundantly cf. ghora-r°; or connected with a verb, e.g. pacati-rūpam, he cooks very well cf. Pāṇ. viii, 1, 57)"**
 
-6. [DN2.4](https://s.dhamma.gift/dn/dn2/index.html)
+6. [DN17](https://s.dhamma.gift/dn/dn17/index.html)
    kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kusāvatiyā | noun | fem.loc.sg | in Kusavati | |
-| ānanda | noun | masc.voc.sg | Ananda | |
+| kusāvatiyā | noun | fem.loc.sg | in Kusāvatī | |
+| ānanda | noun | masc.voc.sg | Ānanda | |
 | rājadhāniyā | noun | fem.loc.sg | in the royal capital | chaṭṭhī tappurisa |
 | \#rañño | noun | masc.gen.sg | of a king | |
 | \#dhāniyā | noun | fem.loc.sg | capital | |
-| catunnaṃ | adj | masc.gen.pl | of four | |
+| catunnaṃ | card | masc.gen.pl | of four | |
 | vaṇṇānaṃ | noun | masc.gen.pl | of colours | |
 | dvārāni | noun | nt.nom.pl | doors | |
 | ahesuṃ | verb | aor.3rd.pl | there were | |
@@ -166,21 +166,21 @@
 | ekaṃ | adj | nt.nom.sg | one | |
 | rūpiyamayaṃ | adj | nt.nom.sg | made of silver | |
 | ekaṃ | adj | nt.nom.sg | one | |
-| veḷuriyamayaṃ | adj | nt.nom.sg | made of cats eye | |
+| veḷuriyamayaṃ | adj | nt.nom.sg | made of cat's eye | |
 | ekaṃ | adj | nt.nom.sg | one | |
 | phalikamayaṃ | adj | nt.nom.sg | made of crystal | |
 
 **suvaṇṇa + \*a**
 **sovaṇṇa + maya**
 
-**rūpa + \*iya**
+**rūpa + iya**
 **rūpiya + maya**
 
 **veḷuriya + maya**
 
 **phalika + maya**
 
-**Ānanda, in Kusāvatī the royal capital, there were four gates of four colours, one made of gold, another of silver, another of cat's eye and another of crystals.**
+**Ānanda, in Kusāvatī the royal capital, there were gates of four colours, one made of gold, another of silver, another of cat's eye and another of crystal.**
 
 7. [DN16.11](https://s.dhamma.gift/dn/dn16/index.html)
    dhamme aveccappasādena samannāgato hoti, svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhī'ti
@@ -202,7 +202,7 @@
 | opanayiko | adj | masc.nom.sg | pragmatic; applicable; relevant | |
 | paccattaṃ | ind | adv | internally, personally | |
 | veditabbo | ptp | masc.nom.sg | to be experienced | |
-| viññūhī'ti | sandhi | masc.instr.pl | by wise people" | |
+| viññūhī'ti | sandhi | masc.instr.pl | by wise people | |
 | \#viññūhi | noun | masc.instr.pl | by the wise | |
 | \#iti | ind | - | "" | |
 
@@ -221,7 +221,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| samitāssa | - | - | calmed his | |
+| samitāssa | sandhi | | calmed his | |
 | \#samitā | pp | masc.nom.pl | calmed, settled | |
 | \#assa | pron | masc.gen.sg | his | |
 | honti | verb | pr.3rd.pl | they are | |
@@ -233,7 +233,7 @@
 | \#puna | ind | adv | again | |
 | \#bhava | noun | masc. | existence; becoming | |
 | sadarā | adj | masc.nom.pl | troublesome | |
-| dukkhavipākā | adj | masc.nom.pl | with painful results | kammadhāraya > bahubbīhi |
+| dukkhavipākā | adj | masc.nom.pl | with painful results | kammadhāraya \> bahubbīhi |
 | \#dukkha | noun | nt. | suffering | |
 | \#vipākā | noun | masc.nom.pl | results | |
 | āyatiṃ | ind | adv | in future | |
@@ -248,7 +248,7 @@
 
 **punabbhava + \*ika**
 
-**jātijarāmaraṇa + \*iya**
+**jātijarāmaraṇa + iya**
 
 **His evil unwholesome mental states are settled, (mental states which are) defiling, leading to rebirth, troublesome, having painful consequences and leading to birth, old age and death in the future.**
 
@@ -264,14 +264,16 @@
 | tāva | ind | adv | at least | |
 | āyasmā | noun | masc.voc.sg | Venerable | |
 | vācasikaṃ | noun | nt.acc.sg | verbal conduct | |
-| sikkhassū'ti | verb | imp.reflx.2nd.sg | you should train yourself in" | |
+| sikkhassū'ti | sandhi | | you should train yourself in | |
+| \#sikkhassu | verb | imp.reflx.2nd.sg | you should train yourself in | |
+| \#iti | ind | quotation mark | "" | |
 | iti'ssa | sandhi | | thus to him | |
 | \#iti | ind | - | "" | |
 | \#assa | pron | masc.dat.sg | to him | |
 | bhavanti | verb | pr.3rd.pl | there are, there will be | |
 | vattāro | noun | masc.nom.pl | those who say, speakers | |
 
-**vāca + \*ika**
+**vacas + \*ika**
 
 **There will be those who say to him: "Please, Venerable, you should train yourself in verbal conduct," there will be those who say thus to him.**
 
@@ -291,7 +293,7 @@
 
 **viggaha + \*ika**
 
-**When there is argumentative talk, Moggallana, then an excess of talk is to be expected.**
+**When there is argumentative talk, Moggallāna, then an excess of talk is to be expected.**
 
 11. [SN16.10](https://s.dhamma.gift/sn/sn16/index.html#sn16.10)
     atha kho āyasmā mahākassapo āyasmantaṃ ānandaṃ etad'avoca, kiṃ nu kho, āvuso ānanda, ahaṃ sūcivāṇijako, tvaṃ sūcikāro, udāhu ahaṃ sūcikāro, tvaṃ sūcivāṇijako'ti?
@@ -302,11 +304,13 @@
 | āyasmā | noun | masc.nom.sg | venerable | |
 | mahākassapo | noun | masc.nom.sg | great Kassapa | |
 | āyasmantaṃ | noun | masc.acc.sg | venerable | |
-| ānandaṃ | noun | masc.acc.sg | Ananada | |
-| etad'avoca | pron+verb | aor.3rd.sg | he said this | sandhi |
+| ānandaṃ | noun | masc.acc.sg | Ānanda | |
+| etad'avoca | sandhi | | he said this | |
+| \#etaṃ | pron | nt.acc.sg | this | |
+| \#avoca | verb | aor.3rd.sg | he said | |
 | kiṃ nu kho | idiom | interr | how indeed!?; which!? | |
 | āvuso | noun | masc.voc.sg | brother | |
-| ānanda | noun | masc.voc.sg | Ananda | |
+| ānanda | noun | masc.voc.sg | Ānanda | |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | sūcivāṇijako | noun | masc.nom.sg | needle peddler | chaṭṭhī tappurisa |
 | \#sūciyā | noun | fem.gen.sg | of a needle | |
@@ -319,11 +323,13 @@
 | ahaṃ | pron | 1st.nom.sg | I | |
 | sūcikāro | noun | masc.nom.sg | needle maker | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
-| sūcivāṇijako'ti | noun | masc.nom.sg | needle peddler | |
+| sūcivāṇijako'ti | sandhi | | needle peddler | |
+| \#sūcivāṇijako | noun | masc.nom.sg | needle peddler | |
+| \#iti | ind | quotation mark | "" | |
 
 **vāṇija + ka**
 
-**Then the great venerable Kassapa said this to venerable Ananda, "Am I the needle peddler and you are the needle maker? Or am I the needle maker and you are the needle peddler?"**
+**Then the venerable Mahākassapa said this to venerable Ānanda, "Am I the needle peddler and you are the needle maker? Or am I the needle maker and you are the needle peddler?"**
 
 12. [ITI100](https://s.dhamma.gift/kn/iti/index.html)
     tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.
@@ -343,29 +349,33 @@
 | dhammanimmitā | adj | masc.nom.pl | created by the Dhamma | tatiyā tappurisa |
 | \#dhammena | noun | masc.instr.sg | by the Dhamma | |
 | \#nimmitā | pp | masc.nom.pl | created | |
-| dhammadāy'ādā | noun | masc.nom.pl | inheritors of the Dhamma | chaṭṭhī tappurisa |
+| dhammadāyādā | noun | masc.nom.pl | inheritors of the Dhamma | chaṭṭhī tappurisa |
 | \#dhammassa | noun | masc.gen.sg | of the Dhamma | |
 | \#dāyādā | noun | masc.nom.pl | inheritors | dutiyā tappurisa |
 | \#\#dāyaṃ | noun | masc.acc.sg | inheritance; gift | |
 | \#\#ādā | noun | masc.nom.pl | one who takes; receiver | |
 | no | ind | neg | not | |
-| āmisadāy'ādā | noun | masc.nom.pl | inheritor of worldly things | chaṭṭhī tappurisa |
+| āmisadāyādā | noun | masc.nom.pl | inheritors of worldly things | chaṭṭhī tappurisa |
 | \#āmisassa | noun | nt.gen.sg | of worldly things | |
 | \#dāyādā | noun | masc.nom.pl | inheritors | |
 
 **urasa + \*a**
 
-**You all are my legitimate sons, born from my mouth, born from the Dhamma, created by the Dhamma, inheritors of the Dhamma, not inheritor of worldly things.**
+**You all are my legitimate sons, born from my mouth, born from the Dhamma, created by the Dhamma, inheritors of the Dhamma, not inheritors of worldly things.**
 
 13. [SN35.241](https://s.dhamma.gift/sn/sn35/index.html#sn35.241)
     evam'eva kho, bhikkhave, sace tumhe'pi na orimaṃ tīraṃ upagacchatha, na pārimaṃ tīraṃ upagacchatha, na majjhe saṃsīdissatha, na thale ussīdissatha
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| evam'eva kho | ind | - | in the same way | |
+| evam'eva kho | sandhi | | in the same way | |
+| \#evaṃ | ind | | thus | |
+| \#eva | ind | | just | |
 | bhikkhave | noun | masc.voc.pl | monks | |
 | sace | ind | - | if | |
-| tumhe'pi | pron | 2nd.nom.pl | you all too | |
+| tumhe'pi | sandhi | | you all too | |
+| \#tumhe | pron | 2nd.nom.pl | you all | |
+| \#api | ind | | too | |
 | na | ind | neg | not | |
 | orimaṃ | adj | nt.acc.sg | nearest | |
 | tīraṃ | noun | nt.acc.sg | bank | |
@@ -409,12 +419,12 @@
 | vā | ind | | or | |
 | sāmaṃ | ind | adv (masc./nt.acc.sg) | himself; by himself | |
 | cīvaraṃ | noun | nt.acc.sg | robe; cloth, robe-cloth | |
-| vikappetvā | verb | abs | having assigned ownership; | |
+| vikappetvā | verb | abs | having assigned ownership | |
 | appaccuddhāraṇaṃ | ind | adv (nt.acc.sg) | without withdrawing (the assignment) | |
 | paribhuñjeyya | verb | opt.3rd.sg | should/would use, make use of | |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession | |
 
-**Whatever Bhikkhu, having himself assigned a robe to a monk, a nun, a female probationer, a male novice or a female novice, should use (it) without withdrawing (the assignment), there is an offence requiring confession.**
+**Whatever monk, having himself assigned a robe to a monk, a nun, a female probationer, a male novice or a female novice, should use (it) without withdrawing (the assignment), there is an offence requiring confession.**
 
 2. [AN6.17](https://s.dhamma.gift/an/an6/index.html#an6.17)
    **indriyesu** guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṃ anuyuttā, vipassakā kusalānaṃ dhammānaṃ, pubbaratt'āpararattaṃ **bodhipakkhiyānaṃ** dhammānaṃ, bhāvanā'nuyogam'anuyuttā viharissāmā'ti.
@@ -422,7 +432,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | indriyesu | noun | nt.loc.pl | regarding the senses | *indra + iya* |
-| guttadvārā | adj | masc.nom.pl | with the doors guarded, protected; | kammadhāraya > bahubbīhi |
+| guttadvārā | adj | masc.nom.pl | with the doors guarded, protected | kammadhāraya \> bahubbīhi |
 | \#gutta | pp | nt. | guarded; protected | |
 | \#dvārāni | noun | nt.nom.pl | doors; entrances; gates | |
 | bhavissāma | verb | fut.1st.pl | we will be | |
@@ -433,9 +443,9 @@
 | jāgariyaṃ | noun | nt.acc.sg | being awake; wakefulness | |
 | anuyuttā | pp | masc.nom.pl (+acc) | devoted (to); applied oneself (to) | |
 | vipassakā | adj (as noun) | masc.nom.pl | who have clear insight; who perceive distinctly | |
-| kusalānaṃ | noun | masc.gen.pl | wholesome | |
+| kusalānaṃ | adj | masc.gen.pl | wholesome | |
 | dhammānaṃ | noun | masc.gen.pl | qualities | |
-| pubbarattā'pararattaṃ | sandhi | adv | in the first and last part of the night; in the late evening and early morning; | |
+| pubbaratt'āpararattaṃ | sandhi | adv | in the first and last part of the night; in the late evening and early morning | |
 | \#pubbarattaṃ | ind | adv | earlier part of the night; first third of the night; 6pm to 10pm | kammadhāraya |
 | \#\#pubbaṃ | adj | nt.acc.sg | previous | |
 | \#\#rattaṃ | noun | nt.acc.sg | night | |
@@ -446,7 +456,7 @@
 | \#bodhi | noun | fem. | awakening, enlightenment | |
 | \#pakkhiyānaṃ | adj | masc. | associated with; connected to | |
 | dhammānaṃ | noun | masc.gen.pl | qualities | |
-| bhāvanā'nuyogam'anuyuttā | adj, / sandhi | | engaged in mental cultivation; devoted to meditation practice | alutta dutiyā tappurisa |
+| bhāvanā'nuyogam'anuyuttā | sandhi | | engaged in mental cultivation; devoted to meditation practice | alutta dutiyā tappurisa |
 | \#bhāvanā'nuyogam | noun | masc.acc.sg | meditation practice (lit: devotion to development) | chaṭṭhī tappurisa |
 | \#\#bhāvanāya | noun | fem.gen.sg | developing; cultivating | |
 | \#\#anuyogaṃ | noun | masc.acc.sg (+gen) | pursuit of; devotion to | |
@@ -457,7 +467,7 @@
 
 **pakkha + iya**
 
-**"We will be guarded regarding the sense faculties, knowing the correct measure in regard to food, devoted to wakefulness, [and] having clear insight of wholesome qualities, We will live devoted to the practice of developing the qualities pertaining to enlightenment, during the early and late parts of the night. "**
+**"We will be guarded regarding the sense faculties, knowing the correct measure in regard to food, devoted to wakefulness, [and] having clear insight of wholesome qualities, we will live devoted to the practice of developing the qualities pertaining to enlightenment, during the early and late parts of the night."**
 
 3. [MN50](https://s.dhamma.gift/mn/mn50/index.html)
    bhūtapubb'āhaṃ, pāpima, dūsī nāma māro ahosiṃ, tassa me **kāḷī** nāma **bhaginī**. tassā tvaṃ putto. so me tvaṃ **bhāgineyyo** ahosi.
@@ -470,9 +480,9 @@
 | pāpima | adj (as noun) | masc.voc.sg | evil one; wicked one | |
 | dūsī | noun | masc.nom.sg | a corrupter | √dus + \*e + ī |
 | nāma | ind | adv | by the name of | |
-| māro | noun | masc.nom.sg | death; Mara | |
+| māro | noun | masc.nom.sg | death; Māra | |
 | ahosiṃ | verb | aor.1st.sg | I was | a + √hū + a + siṃ |
-| tassa | pron | masc.gen/dat.sg | to him; to that one | |
+| tassa | pron | masc.gen/dat.sg | of that [me] | |
 | me | pron | 1st.gen.sg | my | |
 | **kāḷī** | noun | fem.nom.sg | name of Mahāmoggallāna's sister in a previous incarnation | kāḷa + ī |
 | nāma | ind | adv | by the name of | |
@@ -486,7 +496,7 @@
 | **bhāgineyyo** | noun | masc.nom.sg | nephew; sister's son | √bhaj + inī + \*eyya |
 | ahosi | verb | aor.2nd.sg | were | |
 
-**Formerly, evil one, I was Mara (Death), by the name of dūsī (corrupter), [and] I had a sister by the name of kāḷī. You [were] her son, you were my nephew.**
+**Formerly, evil one, I was Māra (Death), by the name of Dūsī (corrupter), [and] I had a sister by the name of Kāḷī. You [were] her son, you were my nephew.**
 
 4. [MN51](https://s.dhamma.gift/mn/mn51/index.html)
    atha kho pesso ca **hatth**'ārohaputto **kandarako** ca paribbājako yena bhagavā ten'upasaṅkamiṃsu
@@ -540,7 +550,7 @@
 
 **bahussuta + ka**
 
-**tevijjā + ka**
+**tevijja + ka**
 
 **(Sarcastically) Oh, our wise man! Oh, our great scholar! Oh, our master of the three vedas!**
 
@@ -556,11 +566,11 @@
 | pitaraṃ | noun | masc.acc.sg | father | |
 | hantvā | verb | abs | having killed | |
 | rājāno | noun | masc.acc.pl | kings | |
-| dve | adj | x.acc.pl | two | |
+| dve | card | x.acc.pl | two | |
 | ca | ind | conj | and | |
 | sotthiye | noun | masc.acc.pl | brahmin, learned man | |
 | veyagghapañcamaṃ | adj | masc.acc.sg | having a tiger as the fifth | bahubbīhi |
-| \#veyaggha | noun | masc. | tiger | |
+| \#veyaggha | adj | masc. | belonging to a tiger | |
 | \#pañcamaṃ | adj | masc.acc.sg | fifth | |
 | hantvā | verb | abs | having killed | |
 | anīgho | adj | masc.nom.sg | untroubled, undisturbed | |

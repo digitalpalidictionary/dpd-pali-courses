@@ -17,14 +17,14 @@
 | saṅkā + sara | saṅkassara |
 | saṃ + √yam + a | saññama |
 | anu + ā + √su + a + ti | anvāssavati |
-| pati + √i + \*a | paccayā |
+| pati + √i + \*a | paccaya |
 
 **Disjoin the following words**
 
 | | |
 | --- | --- |
 | paggharati | pa + gharati |
-| mahabbhayaṃ | mahanta + bhayaṃ |
+| mahabbhayaṃ | mahā + bhayaṃ |
 | sappuriso | sat (santa) + puriso |
 | assāso | ā + sāso |
 | mahabbalo | mahā + balo |
@@ -68,25 +68,25 @@
 | \#puggalo | noun | masc.nom.sg | individual | |
 | lok'āmis'ādhimutto | adj | masc.nom.sg | focused on material pleasure | |
 | \#loka | noun | masc | the world | √lok･8 \*e (look) |
-| \#āmisa | noun | nt. | worldly thing; material stuff | |
+| \#āmisa | noun | nt | worldly thing; material stuff | |
 | \#adhimutto | pp | masc.nom.sg | focused on | √muc･2 ṃa (release, free) |
 | assa | verb | opt.3rd.sg | would be | √as･1 a (be) |
 
-**In the same way, Sunakkhatta, is it possible that here an individual person would be focused on material pleasure.**
+**In the same way, Sunakkhatta, it is possible that here an individual person would be focused on material pleasure.**
 
 2. [MN22](https://s.dhamma.gift/mn/mn22/index.html)
    tassa purisassa uttiṇṇassa pāraṅ'gatassa evam'assa – bahukāro kho me ayaṃ kullo, im'āhaṃ kullaṃ nissāya hatthehi ca pādehi ca vāyamamāno sotthinā pāraṃ uttiṇṇo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tassa | pron | masc.gen.sg | of that (gen abs) | |
-| purisassa | noun | masc.gen.sg | of the person (gen abs) | |
-| uttiṇṇassa | pp | masc.gen.sg | crossed over (gen abs) | √tar･1 a (cross) |
-| pāraṅ'gatassa | adj | masc.gen.sg | reached the other shore; gone beyond (gen abs) | |
+| tassa | pron | masc.gen.sg (gen abs) | of that | |
+| purisassa | noun | masc.gen.sg (gen abs) | of the person | |
+| uttiṇṇassa | pp | masc.gen.sg (gen abs) | crossed over | √tar･1 a (cross) |
+| pāraṅ'gatassa | adj | masc.gen.sg (gen abs) | reached the other shore; gone beyond | |
 | \#pāraṃ | noun | nt.acc.sg | far shore | |
 | \#gatassa | pp | masc.gen.sg | gone | √gam･1 a (go) |
 | evam'assa | sandhi | | he would [think] thus | |
-| \#evaṃ | ind | emph | thus | |
+| \#evaṃ | ind | adv | thus | |
 | \#assa | verb | opt.3rd.sg | he would | √as･1 a (be) |
 
 **When that person had crossed over and reached the far shore, he would think thus:**
@@ -94,7 +94,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | bahukāro | adj | masc.nom.sg | very useful; extremely helpful | |
-| \#bahu | adj | masc. | much | |
+| \#bahu | adj | masc | much | |
 | \#kāro | noun | masc.nom.sg | service | √kar･7 o (do, make) |
 | kho | ind | emph | indeed | |
 | me | pron | 1st.dat.sg | for me | |
@@ -113,7 +113,7 @@
 | pāraṃ | noun | nt.acc.sg | to the far shore | |
 | uttiṇṇo | pp | masc.nom.sg | crossed over | √tar･1 a (cross) |
 
-**This raft, indeed, [was] extremely helpful for me; being supported by this raft [and] exerting myself with (my) hands and (my) feet, I safely crossed over to the far shore.**
+**This raft, indeed, [was] extremely helpful for me; being supported by this raft [and] exerting myself with [my] hands and [my] feet, I safely crossed over to the far shore.**
 
 3. [MN70](https://s.dhamma.gift/mn/mn70/index.html)
    ev'āhaṃ ajānanto 'evarūpaṃ sukhaṃ vedanaṃ pajahathā'ti vadeyyaṃ
@@ -125,7 +125,7 @@
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | ajānanto | prp | masc.nom.sg | not knowing | √ñā･5 nā (know) |
 | evarūpaṃ | adj | fem.acc.sg | of such a kind | |
-| \#evaṃ | ind | emph | only; just | |
+| \#evaṃ | ind | adv | thus; such | |
 | \#rūpaṃ | adj | fem.acc.sg | of kind; of type | √rūp･8 \*e (form, produce) |
 | sukhaṃ | adj | fem.acc.sg | pleasant | √sukh･1 a (please, be comfortable) |
 | vedanaṃ | noun | fem.acc.sg | feeling | √vid･8 \*e (know, sense, feel) |
@@ -202,7 +202,7 @@
 | rattiyā | noun | fem.loc.sg (loc abs) | the night (idiom: as the night progressed, was advanced) | |
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
-| ten'añjaliṃ | sandhi | | there palm placed together; there venerated | |
+| ten'añjaliṃ | sandhi | | there palms placed together; there venerated | |
 | \#tena | ind | adv | there | |
 | \#añjaliṃ | noun | masc.acc.sg | palms placed together | √añj×1 a (pay respect) |
 | paṇāmetvā | verb | abs (caus) | having stretched out | √nam･1 \*e (bend) |
@@ -211,7 +211,7 @@
 | \#etad | pron | nt.acc.sg | this | |
 | \#avoca | verb | aor.3rd.sg | said | √vac･1 a (say, speak) |
 
-**Again, for the third time, as the night was (already) advanced, the venerable Ānanda, holding (hands forward in) añjali towards the Blessed One, said this to the Blessed one:**
+**Again, for the third time, as the night was (already) advanced, the venerable Ānanda, holding (hands forward in) añjali towards the Blessed One, said this to the Blessed One:**
 
 7. [SN15.1](https://s.dhamma.gift/sn/sn15/index.html#sn15.1)
    yāvañ'c'idaṃ, bhikkhave, alam'eva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun'ti.
@@ -219,15 +219,15 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yāvañ'c'idaṃ | sandhi | | and in this case; and in this regard | |
-| \#yāvaṃ | adj | nt.nom.sg | as many as; however many | |
+| \#yāva | ind | adv | as far as | |
 | \#ca | ind | conj | and | |
-| \#idaṃ | pron | nt. | this; that | |
+| \#idaṃ | pron | nt | this; that | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | alam'eva | sandhi | impers | it is enough; it is quite enough | |
 | \#alaṃ | ind | emph | enough | |
 | \#eva | ind | emph | only; just | |
 | sabbasaṅkhāresu | noun | masc.loc.pl | in regard to all formations | |
-| \#sabba | adj | masc. | all | |
+| \#sabba | pron | masc | all | |
 | \#saṅkhāresu | noun | masc.loc.pl | formations | √kar･7 o (do, make) |
 | nibbindituṃ | verb | inf | to become disenchanted | √vid･2 ṃa (feel, like) |
 | alaṃ | ind | emph (+inf) | [it is] enough | |
@@ -245,7 +245,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | etādisāni | adj | nt.acc.pl | of this kind | |
-| \#eta | pron | nt. | this | |
+| \#eta | pron | nt | this | |
 | \#ādisāni | adj | nt.acc.pl | of kind | |
 | katvāna | verb | abs (+acc) | having done | √kar･7 o (do, make) |
 | sabbattha'm'aparājitā | adj | masc.nom.pl | unconquered everywhere | *[+m]* |
@@ -261,7 +261,7 @@
 | \#uttamaṃ | adj | nt.nom.sg | highest | |
 | \#iti | ind | quotation mark | "" | |
 
-**"Having done [things] of this kind, unconquered everywhere, they go everywhere safely; this is for them highest blessing"**
+**"Having done [things] of this kind, unconquered everywhere, they go everywhere safely; this is the highest blessing for them."**
 
 9. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
    ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi m'ānubyañjanaggāhī.
@@ -273,7 +273,7 @@
 | bhikkhu | noun | masc.voc.sg | monk | √bhikkh･1 a (beg) |
 | indriyesu | noun | nt.loc.pl | in regard to the sense faculties | |
 | guttadvāro | adj | masc.nom.sg (+loc) | [one] guarding the door(s) [of] | |
-| \#gutta | pp | masc. | guarded | √gup･1 a (guard) |
+| \#gutta | pp | masc | guarded | √gup･1 a (guard) |
 | \#dvāro | noun | masc.nom.sg | the door | √dvar×1 a (obstruct, prohibit) |
 | hohi | verb | imp.2nd.sg | be | √hū･1 a (be) |
 | cakkhunā | noun | nt.instr.sg | with the eye | √cakkh･1 a (see) |
@@ -281,12 +281,12 @@
 | disvā | verb | abs | having seen | √dis･1 a (see) |
 | mā | ind | neg | do not | |
 | nimittaggāhī | adj | masc.nom.sg | enticed by appearances (lit: grasping signs) | |
-| \#nimitta | noun | nt. | sign | √mā･5 nā (measure) |
+| \#nimitta | noun | nt | sign | √mā･5 nā (measure) |
 | \#gāhī | adj | masc.nom.sg (+acc) | [one] grasping | √gah･6 ṇhā (grasp) |
 | hohi | verb | imp.2nd.sg | be | √hū･1 a (be) |
 | m'ānubyañjanaggāhī | adj | masc.nom.sg | don't be [one] enticed by the details | |
 | \#mā | ind | neg | do not | |
-| \#anubyañjana | noun | nt. | the detail; feature | √añj･8 \*e (distinguish) |
+| \#anubyañjana | noun | nt | the detail; feature | √añj･8 \*e (distinguish) |
 | \#gāhī | adj | masc.nom.sg (+acc) | [be one] grasping after | √gah･6 ṇhā (grasp) |
 
 **Come, monk, be one who has the doors guarded in regard to the sense faculties; having seen a form with the eye, do not be one enticed by appearances, do not be one grasping after features.**
@@ -313,7 +313,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yamahaṃ | - | - | whichever I | |
+| yamahaṃ | sandhi | - | whichever I | |
 | \#yaṃ | pron | masc.acc.sg | whatever, whichever | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhagavato | noun | masc.gen.sg | of the Blessed One | √bhaj･1 a (divide, distribute) |
@@ -361,7 +361,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kiñhi | - | - | what indeed | |
+| kiñhi | sandhi | - | what indeed | |
 | \#kiṃ | pron | nt.nom.sg | what | |
 | \#hi | ind | - | indeed | |
 | siyā | verb | opt.3rd.sg | there could be | √as･1 a (be) |
@@ -380,15 +380,15 @@
 | --- | --- | --- | --- | --- |
 | idamavoca | sandhi | | said that; this | |
 | \#idaṃ | pron | nt.acc.sg | this | |
-| \#avoca | verb | aor.3rd.sg | said | |
-| bhagavā | noun | masc.nom.sg | the Blessed One | |
+| \#avoca | verb | aor.3rd.sg | said | √vac･1 a (say, speak) |
+| bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | attamanā | adj | masc.nom.pl | delighted | |
 | te | pron | masc.nom.pl | they; those | |
-| bhikkhū | noun | masc.nom.pl | monks | |
+| bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | bhagavato | noun | masc.gen.sg | of the Blessed One | |
-| bhāsitaṃ | pp (as noun) | nt.acc.sg | the utterance; the word(s) | |
-| abhinandunti | sandhi | | "...approved of…" | |
-| \#abhinanduṃ | verb | aor.3rd.pl +acc | approved (of); were pleased (with) | √nand･1 a (delight, enjoy) |
+| bhāsitaṃ | pp (as noun) | nt.acc.sg | the utterance; the word(s) | √bhās･1 a (speak) |
+| abhinandunti | sandhi | | "…approved of…" | |
+| \#abhinanduṃ | verb | aor.3rd.pl (+acc) | approved (of); were pleased (with) | √nand･1 a (delight, enjoy) |
 | \#iti | ind | quotation mark | "" | |
 
 **The Blessed One said this. Those monks were delighted and pleased with the utterance/the words of the Blessed One.**
@@ -422,7 +422,7 @@
 | \#yaṃ | pron | nt.nom.sg | whatever | |
 | \#api | ind | - | even, just | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| alobho | noun | masc.nom.sg | not greed | √lubh･3 ya (be greedy) |
+| alobho | noun | masc.nom.sg | non-greed | √lubh･3 ya (be greedy) |
 | tadapi | sandhi | | that even | |
 | \#taṃ | pron | nt.nom.sg | that | |
 | \#api | ind | - | even, just | |
@@ -440,7 +440,7 @@
 | \#api | ind | - | even, just | |
 | kusalaṃ | noun | nt.nom.sg | wholesome | |
 
-**Whatever, monks, is not greed, that is a wholesome root. Whatever a non-greedy person creates by body, by speech or by mind, that too is wholesome.**
+**Whatever, monks, is non-greed, that is a wholesome root. Whatever a non-greedy person creates by body, by speech or by mind, that too is wholesome.**
 **(Sujato) Contentment is a root of the skilful. When a contented person chooses to act by way of body, speech, or mind, that too is skilful.**
 
 17. [MN19](https://s.dhamma.gift/mn/mn19/index.html)
@@ -475,7 +475,7 @@
 | cāhaṃ | sandhi | | and I | |
 | \#ca | ind | conj | and | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| āvuso | noun | masc.voc.pl | friends | |
+| āvuso | ind | voc.sg | friend | |
 | imasmiṃyeva | sandhi | | in this very, in this exact | |
 | \#imasmiṃ | pron | nt.loc.sg | in this | |
 | \#eva | ind | - | just, only | |
@@ -485,8 +485,8 @@
 | kaḷebare | noun | nt.loc.sg | in body | |
 | sasaññimhi | adj | nt.loc.sg | (in) with perception | √ñā･5 nā (know) |
 | samanake | adj | nt.loc.sg | (in) with mind | √man･3 ya (think) |
-| lokañca | - | - | the world and | √lok･8 \*e (look) |
-| \#lokaṃ | noun | masc.acc.sg | world | |
+| lokañca | sandhi | - | the world and | |
+| \#lokaṃ | noun | masc.acc.sg | world | √lok･8 \*e (look) |
 | \#ca | ind | conj | and | |
 | paññāpemi | verb | pr.1st.sg | I declare, I state, I define | √ñā･5 \*āpe (know) |
 | lokasamudayañca | sandhi | | and the source of the world | |
@@ -494,7 +494,7 @@
 | \#samudayaṃ | noun | masc.acc.sg | arising, source | √i･1 a (come, go) |
 | \#ca | ind | conj | and | |
 | lokanirodhañca | sandhi | | and the end of the world | |
-| \#loka | noun | masc | world | √lok･8 \*e (look) |
+| \#lokassa | noun | masc.gen.sg | world | √lok･8 \*e (look) |
 | \#nirodhaṃ | noun | masc.acc.sg | end | √rudh･2 ṃa (obstruct) |
 | \#ca | ind | conj | and | |
 | lokanirodhagāminiñca | sandhi | | and leading to the end of the world | |
@@ -506,14 +506,14 @@
 | \#paṭipadaṃ | noun | fem.acc.sg | path of practice, way | √pad･3 ya (go, step) |
 | \#iti | ind | - | "" | |
 
-**I also declare, friends, in this very fathom length body with its perception and intelligence (is) the world, the source of the world, the end of the world, and the path of practice leading to the end of the world.**
+**I also declare, friend, in this very fathom length body with its perception and intelligence (is) the world, the source of the world, the end of the world, and the path of practice leading to the end of the world.**
 
 19. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61)
     evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati, 'idappaccayā avijjā'ti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| evañcetaṃ | - | - | even if this | |
+| evañcetaṃ | sandhi | - | even if this | |
 | \#evaṃ | ind | - | thus | |
 | \#ce | ind | - | if | |
 | \#etaṃ | pron | nt.nom.sg | this | |
@@ -542,7 +542,7 @@
 | taṃ | pron | masc.acc.sg | that | |
 | ānanda | noun | masc.voc.sg | Ānanda | √nand･1 a (delight, enjoy) |
 | kāyasaṅkhāraṃ | noun | masc.acc.sg | intention which results in bodily action | |
-| \#kāya | noun | masc. | body | √ci･5 nā (gather, accumulate) |
+| \#kāya | noun | masc | body | √ci･5 nā (gather, accumulate) |
 | \#saṅkhāraṃ | noun | masc.acc.sg | intention; volitional formation | |
 | abhisaṅkharoti | verb | pr.3rd.sg | constructs; generates; forms | √kar･7 o (do, make) |
 | yaṃpaccay'āssa | sandhi | | on account of which for him | |
@@ -553,7 +553,7 @@
 | uppajjati | verb | pr.3rd.sg | arises | √pad･3 ya (go, step) |
 | ajjhattaṃ | ind | adv | internally | |
 | sukhadukkhaṃ | noun | nt.nom.sg | happiness and sorrow; pleasure and pain | |
-| \#sukha [ca] | noun | nt. | happiness; pleasure [and] | √sukh･1 a (please, be comfortable) |
+| \#sukha [ca] | noun | nt | happiness; pleasure [and] | √sukh･1 a (please, be comfortable) |
 | \#dukkhaṃ | noun | nt.nom.sg | sorrow; pain; discomfort | √dukkh･1 a (be painful) |
 
 **[Either] by himself he generates that bodily formation on account of which pleasure and pain arise for him internally or…**
@@ -572,11 +572,11 @@
 | ukkaṭṭhāyaṃ | noun | fem.loc.sg | in Ukkaṭṭhā | √kas･1 a (drag, draw) |
 | viharāmi | verb | pr.1st.sg | I dwell (here: I was dwelling) | √har･1 a (live) |
 | subhagavane | noun | nt.loc.sg | in the blessed wood | |
-| \#subhaga | adj | nt. | blessed | √bhaj･1 a (divide, distribute) |
+| \#subhaga | adj | nt | blessed | √bhaj･1 a (divide, distribute) |
 | \#vane | noun | nt.loc.sg | wood | |
 | sālarājamūle | noun | nt.loc.sg | at the root of a king of sāl trees | |
-| \#sāla | noun | masc. | sal tree | |
-| \#rāja | noun | masc. | king | √rāj･1 a (rule, shine) |
+| \#sāla | noun | masc | sāl tree | |
+| \#rāja | noun | masc | king | √rāj･1 a (rule, shine) |
 | \#mūle | noun | nt.loc.sg | at the root | √mūl･1 a (support) |
 
 **On this one occasion, monks, I was dwelling in the blessed wood, in Ukkaṭṭhā, at the root of a king of sāl trees.**
@@ -593,7 +593,7 @@
 | tiriyaṃ | ind | adv | across | √tir･1 a (cross) |
 | sabbadhi | ind | adv | everywhere | |
 | sabbattatāya | ind | adv | to all beings; encompassing all living beings; lit. to all states of being | abyayībhāva |
-| \#sabba | pron | masc. | all | |
+| \#sabba | pron | masc | all | |
 | \#attatāya | noun | fem.dat.sg | for selfness, selfhood, individual self state | |
 | sabbāvantaṃ | adj | masc.acc.sg | entire; whole; complete | |
 | lokaṃ | noun | masc.acc.sg | the world | √lok･8 \*e (look) |
@@ -603,7 +603,7 @@
 | cetasā | noun | masc.instr.sg | with a mind | √cit･8 \*e (think, intend) |
 | vipulena | adj | masc.instr.sg | with vast; extensive; expansive | √pul×8 \*e (increase) |
 | mahaggatena | adj | masc.instr.sg | with enlarged; exalted | |
-| \#maha | adj | masc. | great; large | √mah･1 a (venerate) |
+| \#maha | adj | masc | great; large | √mah･1 a (venerate) |
 | \#gatena | pp | masc.instr.sg | with become; gone into (a state) | √gam･1 a (go) |
 | appamāṇena | adj | masc.instr.sg | with immeasurable | |
 | \#na | prefix | neg | not | |
@@ -627,7 +627,7 @@
 | sa | pron | masc.nom.sg | one | |
 | ve | ind | emph | truly; definitely | |
 | vitakkāni | noun | nt.acc.pl | thoughts | √takk･8 \*e (think) |
-| vicāritāni | pp caus | nt.acc.pl | investigated ; examined (lit: caused to move about) | √car･1 \*e (move, walk) |
+| vicāritāni | pp caus | nt.acc.pl | investigated; examined (lit: caused to move about) | √car･1 \*e (move, walk) |
 | sameti | verb | pr.caus.3rd.sg | calms down | √sam･3 \*e (be calm, tired) |
 | vuṭṭhī'va | sandhi | | like rainfall | |
 | \#vuṭṭhi | noun | fem.nom.sg | rain; rainfall | √vass･1 a (rain) |
@@ -654,7 +654,7 @@
 | \#iti | ind | adv | thus; and so | |
 | \#assa | pron | masc.dat.sg | to him; to that one | |
 | evam'āgataṃ | sandhi | | thus concluded | |
-| \#evaṃ | ind | emph | thus | |
+| \#evaṃ | ind | adv | thus | |
 | \#āgataṃ | pp | nt.nom.sg | come | √gam･1 a (go) |
 | hoti | verb | pr.3rd.sg | it is | √hū･1 a (be) |
 
@@ -674,7 +674,7 @@
 
 **thus like this chattering, trembling on account of this or that.**
 
-7. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5).
+7. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5)
    dutiyampi kho bhagavā tuṇhī ahosi.
 
 | | | | | |
@@ -694,7 +694,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| bhūtapubbāhaṃ | - | - | once upon a time I | |
+| bhūtapubbāhaṃ | sandhi | - | once upon a time I | |
 | \#bhūtapubbaṃ | ind | adv | once upon a time | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
@@ -703,7 +703,7 @@
 | isi | noun | masc.nom.sg | sage, seer | |
 | ahosiṃ | verb | aor.1st.sg | I was | √hū･1 a (be) |
 | bhojaputto | noun | masc.nom.sg | resident of the Bhoja country; lit. son of Bhoja | chaṭṭhī tappurisa |
-| \#bhoja | noun | masc. | bhoja (a country) | |
+| \#bhoja | noun | masc | Bhoja (a country) | |
 | \#putto | noun | masc.nom.sg | son | |
 | iddhimā | adj | masc.nom.sg | with psychic powers | √idh･3 ya (succeed, accomplish) |
 | vehāsaṅgamo | noun | masc.nom.sg | sky walker; air walker; lit. going by air | |

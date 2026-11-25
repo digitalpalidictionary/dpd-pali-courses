@@ -4,7 +4,7 @@
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
-**Please make line by line translation. Breaking all sandhi and comp (naming type of comp). And fill construction of verbs and participles on the last column**
+**Translate line by line, resolve every sandhi and compound (naming the compound type), and give the construction of verbs and participles in the last column.**
 
 **example:**
 
@@ -184,7 +184,7 @@ te ve munī brūsi anuggahāya.
 | anuggahāya | | | | |
 | |
 
-ajjhattasantīti yametamatthaṃ
+ajjhattasantīti yametamatthaṃ,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@ samuggahītesu pamohamāgā
 | pamohamāgā | | | | |
 | |
 
-ito ca nāddakkhi aṇumpi saññaṃ
+ito ca nāddakkhi aṇumpi saññaṃ,
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -390,7 +390,7 @@ ito ca nāddakkhi aṇumpi saññaṃ
 | saññaṃ | | | | |
 | |
 
-tasmā tuvaṃ momuhato dahāsi
+tasmā tuvaṃ momuhato dahāsi.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

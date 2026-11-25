@@ -146,7 +146,7 @@
 | averena | | | | |
 | ca | | | | |
 | sammanti | | | | |
-| eso | | | | |
+| esa | | | | |
 | dhammo | | | | |
 | sanantano | | | | |
 | |

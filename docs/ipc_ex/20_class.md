@@ -34,7 +34,7 @@
 | apadisitabbo | | | | |
 | |
 
-3. [DHP064](https://s.dhamma.gift/kn/dhp/index.html#dhp60)
+3. [DHP64](https://s.dhamma.gift/kn/dhp/index.html#dhp60)
    yāvajīvampi ce bālo, paṇḍitaṃ payirupāsati, na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.
 
 | | | | | |
@@ -219,7 +219,7 @@
 | |
 
 13. [MN40](https://s.dhamma.gift/mn/mn40/index.html)
-    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati
+    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhamattānaṃ samanupassato, vimuttamattānaṃ samanupassato, pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -235,6 +235,18 @@
 | samanupassato | | | | |
 | pāmojjaṃ | | | | |
 | jāyati | | | | |
+| pamuditassa | | | | |
+| pīti | | | | |
+| jāyati | | | | |
+| pītimanassa | | | | |
+| kāyo | | | | |
+| passambhati | | | | |
+| passaddhakāyo | | | | |
+| sukhaṃ | | | | |
+| vedeti | | | | |
+| sukhino | | | | |
+| cittaṃ | | | | |
+| samādhiyati | | | | |
 | |
 
 14. [AN10.176](https://s.dhamma.gift/an/an10/index.html#an10.176)

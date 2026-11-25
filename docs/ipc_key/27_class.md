@@ -41,7 +41,7 @@
 
 **Like Inda's column [that] would be planted [firmly] in the earth, unshakeable by the four winds, similar to that, I say [is] a virtuous man who perfectly understands the noble truths.**
 
-2. VIN PAT NID
+2. [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)
    yassa siyā āpatti, so āvikareyya, **asantiyā** āpattiyā tuṇhī **bhavitabbaṃ**, tuṇhībhāvena kho pan'āyasmante **parisuddhā**'ti vedissāmi.
 
 | | | | | |
@@ -54,7 +54,7 @@
 | \#āvi | ind | adv | openly; in full view | |
 | \#kareyya | verb | opt.3rd.sg | he should make | |
 | **asantiyā** | prp | fem.loc.sg (loc abs) | not existing; not being present | na + √as + a + nta |
-| āpattiyā | noun | fem.loc.sg / (loc abs) | [when] the offence | |
+| āpattiyā | noun | fem.loc.sg (loc abs) | [when] the offence | |
 | tuṇhī | ind | adv | silent | |
 | **bhavitabbaṃ** | ptp | nt.nom.sg | there should be; it is to be | √bhū + \*itabba |
 | tuṇhībhāvena | noun | masc.instr.sg | by being silent | kammadhāraya |
@@ -69,7 +69,7 @@
 | \#iti | ind | quotation mark | "" | |
 | vedissāmi | verb | fut.1st.sg | I shall know | √vid + \*e + issa + mi |
 
-**For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), it is to be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
+**For whoever there may be an offence, he should disclose [it]. When there is not an offence (lit: when an offence is not existing), one should be silent. By being silent, then, indeed, I shall know "the Venerables [are] pure."**
 
 3. [MN31](https://s.dhamma.gift/mn/mn31/index.html)
    idha, bhante, amhākaṃ yo paṭhamaṃ gāmato piṇḍāya paṭikkamati so āsanāni paññapeti, **pānīyaṃ** **paribhojanīyaṃ** upaṭṭhāpeti, avakkārapātiṃ upaṭṭhāpeti
@@ -88,7 +88,7 @@
 | āsanāni | noun | nt.acc.pl | the seats | |
 | paññapeti | verb | pr.caus.3rd.sg | prepares | |
 | **pānīyaṃ** | noun (ptp) | nt.acc.sg | the drinking water (lit: to be drunk) | √pā + anīya |
-| **paribhojanīyaṃ** | adj (ptp) | nt.acc.sg | rinsing water (lit: to be used) | pari + √bhuj + \*anīya |
+| **paribhojanīyaṃ** | noun (ptp) | nt.acc.sg | rinsing water (lit: to be used) | pari + √bhuj + \*anīya |
 | upaṭṭhāpeti | verb | pr.caus.3rd.sg | sets out (lit: causes to stand near) | upa + √ṭhā + \*āpe + ti |
 | avakkārapātiṃ | noun | fem.acc.sg | the bowl for leftovers | catutthī tappurisa |
 | \#avakkārāya | noun | masc.dat.sg | for leftovers; remains | |
@@ -124,8 +124,8 @@
 | kho | ind | emph | indeed | |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | poṭṭhapāda | noun | masc.voc.sg | Poṭṭhapāda | |
-| attapaṭilābhassa | noun | masc.gen.sg | of the acquisition of a self | dutiyā tappurisa |
-| \#attānaṃ | noun | masc.acc.sg | a self | |
+| attapaṭilābhassa | noun | masc.gen.sg | of the acquisition of a self | chaṭṭhī tappurisa |
+| \#attano | noun | masc.gen.sg | of a self | |
 | \#paṭilābhassa | noun | masc.gen.sg | of the obtaining (of); of the acquiring (of) | |
 | pahānāya | noun | nt.dat.sg (+gen) | for the giving up; abandoning | |
 | dhammaṃ | noun | masc.acc.sg | the doctrine | |
@@ -133,15 +133,15 @@
 | yathā**paṭipannānaṃ** | sandhi | | when practiced (lit: like gone along) | |
 | \#yathā | ind | adv | like; as | |
 | \#**paṭipannānaṃ** | pp | masc.gen/dat.pl | for (those who are) practising; lit. gone along | pati + √pad + na |
-| vo | ind | emph | indeed; surely | |
+| vo | pron | 2nd.gen.pl | of you; your | |
 | saṃkilesikā | adj | masc.nom.pl | defiling; corrupting | |
 | dhammā | noun | masc.nom.pl | mental states | |
-| pahīyissanti | verb | fut.pass.3rd.pl | will be abandoned | pa + √hā + īya + ti |
+| pahīyissanti | verb | fut.pass.3rd.pl | will be abandoned | pa + √hā + īya + issa + nti |
 | **vodāniyā** | ptp | masc.nom.pl | purifying; cleansing (lit: to be purified) | vi + ava + √dā + aniya |
 | dhammā | noun | masc.nom.pl | mental states | |
-| abhivaḍḍhissanti | verb | fut.3rd.pl | will increase more and more | abhi + √vaḍḍh + a + ti |
+| abhivaḍḍhissanti | verb | fut.3rd.pl | will increase more and more | abhi + √vaḍḍh + a + issa + nti |
 
-**But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and mental states to be purified will increase more and more.**
+**But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and purifying mental states will increase more and more.**
 
 6. [MN131](https://s.dhamma.gift/mn/mn131/index.html)
    ajj'eva **kiccam'ātappaṃ**,
@@ -175,13 +175,13 @@
 | **lajjitāye** | ptp | masc.loc.sg | should be ashamed (lit: to be ashamed) | √lajj + itāya |
 | na | ind | neg | not | |
 | lajjare | verb | pr.reflx.3rd.pl (+loc) | they embarrass themselves (about) | |
-| micchādiṭṭhisamādānā | noun | masc.nom.pl | believing in wrong views (lit: taking up wrong views) | dutiyā tappurisa as bahubbīhi / |
+| micchādiṭṭhisamādānā | adj | masc.nom.pl | believing in wrong views (lit: taking up wrong views) | dutiyā tappurisa \> bahubbīhi |
 | \#micchādiṭṭhiṃ | noun | fem.acc.sg | wrong view | kammadhāraya |
 | \#\#micchā | adj | fem. | wrong | |
 | \#\#diṭṭhiṃ | noun | fem.acc.sg | view | |
 | \#samādānā | noun | nt.nom.pl | undertaking(s) | |
 | sattā | noun | masc.nom.pl | living beings | |
-| gacchanti | verb | pr.3rd.pl | go | √gam + a + ti |
+| gacchanti | verb | pr.3rd.pl | go | √gam + a + nti |
 | duggatiṃ | noun | fem.acc.sg | (to) a bad destination; state of misery | |
 
 **They [who] are ashamed of [what] they should not be ashamed, [and] do not embarrass themselves about what they should – undertaking wrong views – living beings go to a bad destination.**
@@ -225,7 +225,7 @@
 | bhikkhu | noun | masc.nom.sg | a monk | |
 | **paṭijānamāno** | prp | masc.nom.sg | admitting | pati + √ñā + nā + māna |
 | tiṇṇaṃ | card | masc.gen.pl | of three | |
-| dhammānaṃ | noun | masc.gen.pl | of[^43] law; case; rule | |
+| dhammānaṃ | noun | masc.gen.pl | of laws; cases; rules[^43] | |
 | aññatarena | pron | masc.instr.sg | with one (of); either one (of) | |
 | **kāretabbo** | ptp | masc.nom.sg | should be made to do; should be dealt with | √kar + \*e + tabba |
 | pārājikena | noun | nt.instr.sg | [what is] according to [a case] involving disqualification | |
@@ -262,12 +262,12 @@
 | viggayha | verb | ger | quarrelling (with); arguing (with) | vi + √gah + ya |
 | janena | noun | masc.instr.sg | with people | |
 | kayirā'ti | sandhi | | "...he would do" | |
-| \#kayirā | verb. | opt.3rd.sg | he would do | √kar + iya + ā |
+| \#kayirā | verb | opt.3rd.sg | he would do | √kar + iya + ā |
 | \#iti | ind | quotation mark | "" | |
 
 **"Leaving behind home, the sage is wandering homeless, not making close associations in the village, free from sense pleasures, not preferring, he would not make talk quarrelling with people (lit: he would not, having quarrelled with people, make talk)."**
 
-11. VIN PAT SA
+11. [VIN PAT SA](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
     ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu **anabbhito**, te ca bhikkhū **gārayhā**
 
 | | | | | |
@@ -277,7 +277,7 @@
 | \#api | ind | | even | |
 | ce | ind | cond | if | |
 | ūno | adj | masc.nom.sg | deficient; lacking | |
-| vīsatigaṇo | noun | masc.nom.sg | group of twenty | digu as bahubbīhi |
+| vīsatigaṇo | adj | masc.nom.sg | with a quorum of twenty | digu \> bahubbīhi |
 | \#vīsati | card | fem.nom.sg | twenty | |
 | \#gaṇo | noun | masc.nom.sg | group[^45] | |
 | bhikkhusaṅgho | noun | masc.nom.sg | community of monks | chaṭṭhī tappurisa |
@@ -302,11 +302,11 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **niṭṭhita**cīvarasmiṃ | noun | nt.loc.sg (loc abs) | when the robe cloth is complete (loc abs) | kammadhāraya |
+| **niṭṭhita**cīvarasmiṃ | noun | nt.loc.sg (loc abs) | when the robe cloth is complete | kammadhāraya |
 | \#niṭṭhita | pp | nt. | is completed; is finished (lit: stood down) | ni + √ṭhā + ita |
 | \#cīvarasmiṃ | noun | nt.loc.sg (loc abs) | when the robe cloth | |
 | bhikkhunā | noun | masc.instr.sg | by a monk | |
-| **ubbhatasmiṃ** | pp | nt.loc.sg (loc abs) | when has been withdrawn; lifted up | ud + √dhar + ta |
+| **ubbhatasmiṃ** | pp | nt.loc.sg (loc abs) | when has been withdrawn; lifted up | ud + √bhar + ta |
 | kathine | noun | nt.loc.sg (loc abs) | when Kathina [frame-privileges] | |
 | das'āhaparamaṃ | ind | adv | for ten days at the most | |
 | \#dasa | card | nt. | ten | |
@@ -324,11 +324,11 @@
 **When the robe(-cloth) is finished by a monk, [and] when the Kathina [privileges] have been withdrawn, [then] excess robe-cloth is to be kept for ten days at the most. For [one] exceeding [the ten days], this is an offence requiring confession and forfeiture.**
 
 [^39]: OR chaṭṭhī tappurisa
-[^40]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatva".
+[^40]: Cf. Cone s.v. and add: "understanding, having penetrated", cf. DN-a: "ñatvā".
 [^41]: This is to be understood as an (adverbial) acc. of direction rather than of the direct object.
-[^42]: The agens in the expression vaso vatteti stands in the genetive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"
+[^42]: The agent in the expression vaso vatteti stands in the genitive, cf. PED s.v. vattati: "(vatteti te tasmiṃ vaso 'have you power over that?')"
 
-    **"What do you think, Aggivessana, would a noble, head-anointed king in his own realm have the power to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?"**
+    "What do you think, Aggivessana, would a noble, head-anointed king in his own realm have the power to execute one worthy to be executed, or fine one worthy to be fined, or banish one worthy to be banished?"
 
 [^43]: Here: "for the saṃgha: a rule; the offence against that rule; the punishment or reparation for that offence; a procedure", cf. Cone II, p. 465, s.v. dhamma.
 [^44]: "should be dealt with by way of a certain of three rules"
@@ -385,7 +385,7 @@
 | \#na | ind | neg | not | |
 | \#idaṃ | pron | nt.nom.sg | this | |
 | saññā**vedayita**nirodhaṃ | noun | masc.acc.sg | cessation of perception and feeling | chaṭṭhī tappurisa |
-| \#saññāvedayitassa | noun | masc.gen.sg | of perception and feeling | dvanda |
+| \#saññāvedayitassa | noun | nt.gen.sg | of perception and feeling | dvanda |
 | \#\#saññā | noun | fem. | perception | |
 | \#\#vedayita | noun | nt. | feeling; felt experience | √vid + \*aya + ita |
 | \#nirodhaṃ | noun | masc.acc.sg (+gen) | cessation (of) | |
@@ -412,13 +412,13 @@
 | \#\#vehāsassa | noun | masc.gen.sg | (of the) sky | |
 | \#kuṭiyā | noun | fem. | hut | |
 | **āhaccapādakaṃ** | adj | masc.acc.sg | with removable legs | kammadhāraya |
-| \#āhacca | adj (ptp) | masc. | removable; detachable (lit: to be carried away) | ā + √han + tya |
+| \#āhacca | adj (ptp) | masc. | removable; detachable (lit: to be carried away) | ā + √har + tya |
 | \#pādakaṃ | adj | masc.acc.sg | having feet; with legs | √pad + \*a + ka |
 | mañcaṃ | noun | masc.acc.sg | bed | |
 | vā | ind | conj | or | |
 | pīṭhaṃ | noun | nt.acc.sg | chair; bench | |
 | vā | ind | conj | or | |
-| abhinisīdeyya | verb | opt.3rd.sg (+acc) | should sit down hard(on) | abhi + ni + √sad + a + eyya |
+| abhinisīdeyya | verb | opt.3rd.sg (+acc) | should sit down hard (on) | abhi + ni + √sad + a + eyya |
 | vā | ind | conj | or | |
 | abhinipajjeyya | verb | opt.3rd.sg (+acc) | should lie down hard (on) | abhi + ni + √pad + ya + eyya |
 | vā | ind | conj | or | |
@@ -434,7 +434,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| gāth'**ābhigītaṃ** | adj | nt.acc.sg | chanted over with verses; recited over | tatiyā tappurisa |
+| gāth'**ābhigītaṃ** | adj | nt.nom.sg | chanted over with verses; recited over | tatiyā tappurisa |
 | \#gāthāya | noun | fem.instr.sg | with verse(s) | |
 | \#abhigītaṃ | pp | | chanted over | abhi + √gā + ta |
 | me | pron | 1st.dat.sg | for me | |
@@ -446,7 +446,7 @@
 | \#esa | pron | masc.nom.sg | this | |
 | dhammo | noun | masc.nom.sg | principle[^47] | |
 | gāth'ābhigītaṃ | adj | nt.acc.sg | chanted over with verses | |
-| panudanti | verb | pr.3rd.pl | dispel; drive out; reject | pa + √nud + a + ti |
+| panudanti | verb | pr.3rd.pl | dispel; drive out; reject | pa + √nud + a + nti |
 | buddhā | noun | masc.nom.pl | the Awakened Ones | |
 | dhamme | noun | masc.loc.sg (loc abs) | when [their] principle | |
 | satī | prp | masc.loc.sg (loc abs) | when being; existing | with metrically lengthened ī |
@@ -465,7 +465,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| **diṭṭhena** | noun | nt.instr.sg | by the seen | √dis + ta |
+| **diṭṭhena** | noun | nt.instr.sg | through what is seen | √dis + ta |
 | ce | ind | cond | if | |
 | suddhi | noun | fem.nom.sg | the purity | |
 | narassa | noun | masc.gen.sg | of a man | |
@@ -473,7 +473,7 @@
 | ñāṇena | noun | nt.instr.sg | by means of knowing | |
 | vā | ind | conj | or | |
 | so | pron | masc.nom.sg | he | |
-| pajahati | verb | pr.3rd.sg | gives up; abandons | pa + √hā + a + ti / with metrically lengthened ā |
+| pajahāti | verb | pr.3rd.sg | gives up; abandons | pa + √hā + a + ti / with metrically lengthened ā |
 | dukkhaṃ | noun | nt.acc.sg | suffering | |
 | aññena | pron | masc.instr.sg | by another; something else | |
 | so | pron | masc.nom.sg | he | |
@@ -486,14 +486,13 @@
 | tathā | ind | adv | thus; in such a way | |
 | **vadānaṃ** | prp | masc.acc.sg | speaking | √vad + āna |
 
-**If through the seeing there is a man’s purity,**
+**If through what is seen there is a man's purity,**
 **or through knowledge he abandons suffering,**
 **then he is purified by another, being with attachments.**
-**the one with view revealed him as one who asserts thus.**
-
-[^50]: Norman reads diṭṭhī as fem.nom.sg: "his view [is what] proclaims him". The masc. reading "who has a view" taken here leaves the following pāva without a subject.
+**The one with view revealed him as one who asserts thus.**
 
 [^46]: Although Cone has not reached the letter s yet, under previous lemmata she suggests "motive force(s)" for saṅkhāra, which seems to be fitting here as well.
 [^47]: Here "the way things ought to be; the way one should act (depending on who one is); right, appropriate conduct; duty; what is right", cf. Cone II, p. 466, s.v. dhamma, who cites this passage.
 [^48]: alt. "the right way for those who are seeing".
 [^49]: alt. "as that is/that being the right way".
+[^50]: Norman reads diṭṭhī as fem.nom.sg: "his view [is what] proclaims him". The masc. reading "who has a view" taken here leaves the following pāva without a subject.

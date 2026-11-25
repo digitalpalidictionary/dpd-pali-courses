@@ -19,24 +19,24 @@
 | asissaṃ | verb | fut.reflx.1st.sg | I myself will eat | √as･1 a (eat) |
 | dukkhaṃ | ind | adv | badly; uncomfortably | √dukkh･1 a (be painful) |
 | vata | ind | excl | alas! oh dear! | |
-| settha | verb | aor.2nd.pl | you slept | √sī･1 a (lie, sleep) |
+| settha | verb | aor.reflx.1st.sg | I slept | √sī･1 a (lie, sleep) |
 | kv'ajja | sandhi | interr | where today? | |
 | \#kva | ind | adv | where | |
 | \#ajja | ind | adv | today | |
 | sessaṃ | verb | fut.reflx.1st.sg | I myself sleep | √sī･1 a (lie, sleep) |
 | ete | pron | masc.acc.pl | these | |
 | vitakke | noun | masc.acc.pl | reflections; thoughts | √takk･8 \*e (think) |
-| paridevaneyye | adj (ptp) | masc.acc.pl | sorrowful; lamentable | |
+| paridevaneyye | adj (ptp) | masc.acc.pl | sorrowful; lamentable | √dev･1 a (lament) |
 | vinayetha | verb | opt.reflx.3rd.sg | he should remove; dispel | √nī･1 a (lead, carry) |
 | sekho | noun | masc.nom.sg | a trainee | √sikkh･1 a (learn, train) |
 | aniketacārī | noun | masc.nom.sg | [one who is] wandering homeless | kammadhāraya |
 | \#aniketa | adj | masc. | homeless (lit: one who is without a home) | |
-| \#cārī | noun | masc.nom.sg | one who is wandering | √car･1 a (act, behave) |
+| \#cārī | noun | masc.nom.sg | one who is wandering | √car･1 a (move, walk) |
 
-**What will I eat? Where will I (myself) eat? Alas, you slept (lit: sleep) badly! Where do I (myself) sleep today? A trainee, one who is wandering without a home, should dispel these lamentable thoughts.**
+**What will I eat? Where will I (myself) eat? Alas, I slept (lit: sleep) badly! Where will I (myself) sleep today? A trainee, one who is wandering without a home, should dispel these lamentable thoughts.**
 
 2. [SN35.248](https://s.dhamma.gift/sn/sn35/index.html#sn35.248)
-   asmī'ti, bhikkhave, maññitam'etaṃ, 'ayam'aham'asmī'ti maññitam'etaṃ, 'bhavissan'ti maññitam'etaṃ, 'na bhavissan'ti maññitam'etaṃ
+   'asmī'ti, bhikkhave, maññitam'etaṃ, 'ayam'aham'asmī'ti maññitam'etaṃ, 'bhavissan'ti maññitam'etaṃ, 'na bhavissan'ti maññitam'etaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -51,21 +51,22 @@
 | \#ayaṃ | pron | masc.nom.sg | this | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | \#asmi | verb | pr.1st.sg | am | √as･1 a (be) |
+| \#iti | ind | quotation mark | "" | |
 | maññitam'etaṃ | sandhi | | this is imagination | |
-| \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
+| \#maññitaṃ | pp (as noun) | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | bhavissan'ti | sandhi | | "I will be" | |
 | \#bhavissaṃ | verb | fut.reflx.1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" | |
 | maññitam'etaṃ | sandhi | | this is imagination | |
-| \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
+| \#maññitaṃ | pp (as noun) | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | na | ind | neg | not | |
 | bhavissan'ti | sandhi | | "I will be" | |
 | \#bhavissaṃ | verb | fut.reflx.1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" | |
 
-**"I am" is imagination; "this I am" is imagination; "I will be." is imagination; "I will not be." is imagination.**
+**"I am" is imagination; "this I am" is imagination; "I will be" is imagination; "I will not be" is imagination.**
 
 3. [SNP37](https://s.dhamma.gift/kn/snp/index.html#snp3.11)
    moneyyaṃ te upaññissaṃ, dukkaraṃ durabhisambhavaṃ,
@@ -86,7 +87,7 @@
 | daḷho | adj | masc.nom.sg | strong; firm; steady | |
 | bhava | verb | imp.2nd.sg (+nom) | you must be | √bhū･1 a (be, become) |
 
-**I myself will explain sagehood to you, hard to achieve, hard to attain . Come, I will tell you [about] it: Stand yourself firm, you must be strong/steady.**
+**I myself will explain sagehood to you, hard to achieve, hard to attain. Come, I will tell you [about] it: Stand yourself firm, you must be strong/steady.**
 
 4. [TH262](https://s.dhamma.gift/kn/thag/index.html#thag19.1)
    ādittato'haṃ samathehi yutto,
@@ -119,7 +120,7 @@
 | aniccaṃ | adj (as noun) | nt.acc.sg | what is impermanent | |
 | aniccato | ind | adv | as impermanent | |
 | dakkhuṃ | verb | aor.3rd.pl | they saw | √dis･1 a (see) |
-| dukkham'addakkhu | sandhi | adj + nt | saw discomfort; saw suffering | |
+| dukkham'addakkhu | sandhi | | saw discomfort; saw suffering | |
 | \#dukkhaṃ | noun | nt.acc.sg | discomfort; suffering | √dukkh･1 a (be painful) |
 | \#addakkhu | verb | imperf.3rd.pl (+acc) | saw | √dis･1 a (see) |
 | dukkhato | ind | adv | as suffering | |
@@ -131,7 +132,7 @@
 | asubhat'addasuṃ | sandhi | adv + aor | they saw as ugly; they perceived as foul | |
 | \#asubhato | ind | adv | as ugly; foul | √subh･1 \*a (shine, adorn) |
 | \#addasuṃ | verb | aor.3rd.pl | they saw; perceived | √dis･1 a (see) |
-| sammādiṭṭhisamādānā | adj | masc.nom.pl | who have undertaken right view | dutiyā tappurisa |
+| sammādiṭṭhisamādānā | adj | masc.nom.pl | who have undertaken right view | dutiyā tappurisa \> bahubbīhi |
 | \#sammādiṭṭhiṃ | noun | fem.acc.sg | right view | kammadhāraya |
 | \#\#sammā | ind | adv | right | |
 | \#\#diṭṭhiṃ | noun | fem.acc.sg | view | √dis･1 a (see) |
@@ -144,12 +145,14 @@
 
 **"They saw what is impermanent as impermanent. They saw suffering as suffering. (They have seen) in what is non-self as 'non-self', they have perceived what is foul as foul. Taking upon themselves right view, they overcame all suffering."**
 
+[^26]: Alt. this could be seen as an abl.sg. "from/through the acquiring of Right View"
+
 6. [DHP143](https://s.dhamma.gift/kn/dhp/index.html#dhp129)
-   hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva
+   hirīnisedho puriso, koci lokasmiṃ vijjati, yo nindaṃ apabodheti, asso bhadro kasām'iva.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| hirīnisedho | adj | masc.nom.sg | restrained by conscience; constrained by a sense of shame | tatiyā tappurisa / \> bahubbīhi |
+| hirīnisedho | adj | masc.nom.sg | restrained by conscience; constrained by a sense of shame | tatiyā tappurisa \> bahubbīhi |
 | \#hiriyā | noun | fem.instr.sg | by conscience; by a sense of shame | √hir･3 ya (be ashamed) |
 | \#nisedho | noun (as adj) | masc.nom.sg | restrained (by); controlled, (by); held back (by) | √sidh･1 a (prevent, prohibit) |
 | puriso | noun | masc.nom.sg | a person | |
@@ -157,7 +160,7 @@
 | lokasmiṃ | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
 | vijjati | verb | pr.pass.3rd.sg | exists (in); is found (in) | √vid･3 ya (be found, exist) |
 | yo | pron | masc.nom.sg | who, whoever | |
-| nindaṃ | noun | fem.acc.sg | fault-finding; blame | |
+| nindaṃ | noun | fem.acc.sg | fault-finding; blame | √nind･1 a (blame, abuse) |
 | apabodheti | verb | pr.3rd.sg (+acc) | avoids; shies away from | √budh･3 \*e (know, wake up) |
 | asso | noun | masc.nom.sg | horse | |
 | bhadro | adj | masc.nom.sg | good; fortunate | |
@@ -180,11 +183,11 @@
 | yaṃ | pron | masc.acc.sg | which | |
 | dhammaṃ | noun | masc.acc.sg | state (or) mental objects | √dhar･1 a (hold, carry, endure) |
 | tattha tattha | idiom | | right there; here and now / (or) / in each and every case | |
-| tattha | ind | adv | there | |
-| tattha | ind | adv | there | |
+| \#tattha | ind | adv | there | |
+| \#tattha | ind | adv | there | |
 | vipassati | verb | pr.3rd.sg | sees deeply; understands with insight | √dis･1 a (see) |
 | asaṃhiraṃ | ptp | masc.acc.sg | unmovable; unshakable; unassailable (lit: not to be carried away) | √har･1 a (carry) |
-| asaṅkuppaṃ | adj | masc.acc.sg | immovable; steady | |
+| asaṅkuppaṃ | ptp | masc.acc.sg | immovable; steady | √kup･3 ya (shake, be angry) |
 | taṃ | pron | masc.acc.sg | that | |
 | vidvā | noun | masc.nom.sg | one who is wise | √vid･1 a (know) |
 | m'anubrūhaye | sandhi | | would/should cultivate | |
@@ -194,8 +197,6 @@
 **And he understands with insight right there any state which is presently arisen. (or)**
 **And he understands with insight in each and every case a state which is presently arisen.**
 **One who is wise should cultivate that unmovable and steady [state].**
-
-[^26]: Alt. this could be seen as an abl.sg. "from/through the acquiring of Right View"
 
 8. [TH206](https://s.dhamma.gift/kn/thag/index.html#thag5.1)
    satiyā taṃ **nibandhissaṃ**,
@@ -212,17 +213,17 @@
 | te | pron | 2nd.acc.sg | you | |
 | damessāmi | verb | fut.1st.sg | I will tame | √dam･3 \*e (be tame) |
 | vīriyadhuraniggahito | pp | masc.nom.sg | reined in by the yoke of effort | tatiyā tappurisa |
-| \#vīriyadhuraṃ | noun | nt.acc.sg | the yoke of effort | chaṭṭhī tappurisa |
+| \#vīriyadhurena | noun | nt.instr.sg | by the yoke of effort | chaṭṭhī tappurisa |
 | \#\#vīriyassa | noun | nt.gen.sg | of effort | √vīr×8 \*e (be heroic, hostile) |
-| \#\#dhuraṃ | noun | nt.acc.sg | yoke(-pole) | √dhar･1 a (hold, carry, endure) |
+| \#\#dhurena | noun | nt.instr.sg | yoke(-pole) | √dhar･1 a (hold, carry, endure) |
 | \#niggahito | pp | masc.nom.sg | restrained; reined in | √gah･6 ṇhā (grasp) |
 | na | ind | neg | not | |
 | yito | ind | adv | from here | |
 | dūraṃ | ind | adv | far away | |
-| gamissase | verb | fut.reflx.2nd.sg | you yourself will go | √gam･1 \*e (go) |
+| gamissase | verb | fut.reflx.2nd.sg | you yourself will go | √gam･1 a (go) |
 | cittā'ti | sandhi | | mind | |
 | \#citta | noun | nt.voc.sg | mind | √cit･8 \*e (think, intend) |
-| \#iti | ind | - | "" | |
+| \#iti | ind | quotation mark | "" | |
 
 **"I will bind you with mindfulness,**
 **intent, I will tame you,**
@@ -239,7 +240,7 @@
 | imāni | pron | nt.acc.pl | these | |
 | bhagavato | noun | masc.gen.sg | of the Blessed One | √bhaj･1 a (divide, distribute) |
 | vicitrāni | adj | nt.acc.pl | varied | √cit･1 a (mark) |
-| pañhapaṭibhānāni | noun | nt.acc.pl | intelligent answer to a question; eloquent response to a question; lucid reply to a question | kammadhāraya |
+| pañhapaṭibhānāni | noun | nt.acc.pl | intelligent answers to a question; eloquent responses to a question; lucid replies to a question | kammadhāraya |
 | \#pañha | noun | nt. | question | √pañh･1 a (ask, question) |
 | \#paṭibhānāni | noun | nt.acc.pl | wit; ingenuity; lit. speaking back | √bhaṇ･1 a (talk, speak) |
 | sotukāmo | adj | masc.nom.sg | wishing to hear | tuṃpaccaya tappurisa |
@@ -253,7 +254,7 @@
 | kātabbaṃ | ptp | nt.acc.sg | should be made | √kar･7 o (do, make) |
 | amaññissaṃ | verb | aor.1st.sg | I thought | √man･3 ya (think) |
 
-**But wishing to hear these varied intelligent answers of the Blessed One, I just thought I should oppose the Blessed One (lit. an opposition should be made)**
+**But wishing to hear these varied intelligent answers of the Blessed One, I just thought I should oppose the Blessed One (lit. an opposition should be made).**
 
 10. [SN22.96](https://s.dhamma.gift/sn/sn22/index.html#sn22.96)
     ettako cepi, bhikkhu, attabhāvapaṭilābho **abhavissa** nicco dhuvo sassato avipariṇāmadhammo, nayidaṃ brahmacariyavāso paññāyetha sammā dukkhakkhayāya.
@@ -265,8 +266,8 @@
 | \#ce | ind | cond | if | |
 | \#api | ind | | even | |
 | bhikkhu | noun | masc.voc.sg | monk | √bhikkh･1 a (beg) |
-| attabhāvapaṭilābho | noun | masc.nom.sg | personal existence | |
-| \#attabhāvaṃ | noun | masc. | incarnation; personal existence; individual being | kammadhāraya |
+| attabhāvapaṭilābho | noun | masc.nom.sg | personal existence | chaṭṭhī tappurisa |
+| \#attabhāvassa | noun | masc.gen.sg | incarnation; personal existence; individual being | kammadhāraya |
 | \#\#atta | noun | masc. | self | |
 | \#\#bhāvaṃ | noun | masc. | condition; state | √bhū･1 a (be, become) |
 | \#paṭilābho | noun | masc.nom.sg | acquiring (of); obtaining (of) | √labh･1 a (get) |
@@ -274,27 +275,27 @@
 | nicco | adj | masc.nom.sg | permanent | |
 | dhuvo | adj | masc.nom.sg | stable | |
 | sassato | adj | masc.nom.sg | eternal | |
-| avipariṇāmadhammo | adj | masc.nom.sg | unchanging nature | kammadhāraya / \> bahubbīhi |
+| avipariṇāmadhammo | adj | masc.nom.sg | unchanging nature | kammadhāraya \> bahubbīhi |
 | \#avipariṇāma | adj | masc. | without change | √nam･1 a (bend) |
 | \#dhammo | noun | masc.nom.sg | nature | √dhar･1 a (hold, carry, endure) |
 | nayidaṃ | sandhi | | not this | |
 | \#na | ind | neg | not | |
-| \#idaṃ | pron | nt.acc.sg | this | |
+| \#idaṃ | ind | adv | here; in this case | |
 | brahmacariyavāso | noun | masc.nom.sg | living the holy life | dutiyā tappurisa |
 | \#brahmacariyaṃ | noun | nt.acc.sg | holy life | kammadhāraya |
 | \#\#brahma | adj | nt. | holy | √brah×1 a (increase) |
 | \#\#cariyaṃ | noun | nt.acc.sg | way of behaving; state of life | √car･1 a (act, behave) |
-| \#vāsa | noun | masc.nom.sg | living | √vas･1 a (live) |
+| \#vāso | noun | masc.nom.sg | living | √vas･1 a (live) |
 | paññāyetha | verb | pass.opt.reflx.3rd.sg | would be evident | √ñā･5 ya (know) |
-| sammā | ind | adv | thorough, complete | |
+| sammā | ind | adv | thoroughly; completely | |
 | dukkhakkhayāya | noun | masc.dat.sg | for the destruction of suffering | chaṭṭhī tappurisa |
 | \#dukkhassa | noun | nt.gen.sg | of suffering | √dukkh･1 a (be painful) |
 | \#khayāya | noun | masc.dat.sg | for the destruction | √khī･1 a (destroy, exhaust) |
 
-**Monk, even if there were this much personal existence that is stable, permanent, eternal, with an unchanging nature, living this holy life for the complete destruction of suffering would not be evident.**
+**Monk, even if there were this much personal existence that is permanent, stable, eternal, of unchanging nature, living this holy life for the complete destruction of suffering would not be evident.**
 
 11. [MN73](https://s.dhamma.gift/mn/mn73/index.html)
-    sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
+    sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu**. evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -316,17 +317,17 @@
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | ārādhakā | adj | masc.nom.pl | successful | √rādh･3 \*e (succeed, please) |
 | abhavissaṃsu | verb | cond.3rd.pl | they could be | √bhū･1 a (be, become) |
-| evamidaṃ | pron | nt.nom.sg | thus this | |
+| evamidaṃ | sandhi | | thus this | |
 | \#evaṃ | ind | | thus | |
 | \#idaṃ | pron | nt.nom.sg | this | |
-| brahmacariyaṃ | noun | nt.nom.sg | holy life | |
+| brahmacariyaṃ | noun | nt.nom.sg | holy life | kammadhāraya |
 | aparipūraṃ | adj | nt.nom.sg | incomplete, lacking | √pūr･1 a (fill, fulfil) |
 | abhavissa | verb | cond.3rd.sg | it would be | √bhū･1 a (be, become) |
 | tenaṅgena | ind | adv | in that regard, in that respect | |
 | \#tena | pron | nt.instr.sg | by that; in that | |
 | \#aṅgena | noun | nt.instr.sg | respect; part | √añj･8 \*e (distinguish) |
 
-**Sir Gotama, if only you were successful in this holy life, but the monks would not be successful, this holy life would be incomplete in that regard.**
+**Sir Gotama, if only Master Gotama were successful in this teaching, but not the monks, this holy life would be incomplete in that regard.**
 
 12. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
     saṅkhārā ca hidaṃ, bhikkhave, attā **abhavissaṃsu**, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu — 'evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun'ti.
@@ -379,7 +380,7 @@
 | nayidha | sandhi | | not here | |
 | \#na | ind | | not | |
 | \#idha | ind | - | here | |
-| jātassa | pp (as noun) | nt.gen.sg | of born | √jan･3 ya (be born, produce) |
+| jātassa | pp (as noun) | nt.gen.sg | of the born | √jan･3 ya (be born, produce) |
 | bhūtassa | pp (as noun) | nt.gen.sg | of being; of the become | √bhū･1 a (be, become) |
 | katassa | pp (as noun) | nt.gen.sg | of the made | √kar･7 o (do, make) |
 | saṅkhatassa | pp (as noun) | nt.gen.sg | of the fabricated | √kar･7 o (do, make) |
@@ -414,7 +415,7 @@
 | \#dhāraṃ | noun | fem.acc.sg | rain shower | √dhar･1 a (hold, carry, endure) |
 | anuppaveccheyya | verb | opt.3rd.sg | would give; would bestow | √yam･1 a (support, stretch) |
 
-**If there were no water inflow from the eastern direction... and if the rain clouds would not provide thorough downpour from time to time**
+**If there were no water inflow from the eastern direction... and if the rain clouds would not provide thorough downpour from time to time.**
 
 ## Class 22 Extra Examples
 
@@ -429,7 +430,7 @@
 | devatāyo | noun | fem.nom.pl | deities | √div･3 ya (shine) |
 | bhiyyosomattāya | ind | adv | extremely; greatly (lit: even more than measure) | abyayībhāva |
 | \#bhiyyoso | ind | adv (+abl) | even more [than] | |
-| \#mattāya | adj | fem.abl.sg | from measure | √mā･5 nā (measure) |
+| \#mattāya | noun | fem.abl.sg | from measure | √mā･5 nā (measure) |
 | ujjhāyantiyo | prp | fem.nom.pl | finding fault; thinking badly of | √jhā･3 ya (think, meditate) |
 | vehāsaṃ | noun | masc.acc.sg | in the air; in the sky | |
 | abbhuggañchuṃ | verb | aor.3rd.pl (+acc) | rose up; flew up (into) | abhi+ud√gam･1 a (go) |
@@ -464,10 +465,10 @@
 | kiñcimattaṃ | noun | nt.acc.sg | a little something; small gift | kammadhāraya |
 | \#kiñci | ind | | something; anything | |
 | \#mattaṃ | adj | masc.acc.sg | amount of; measure of | √mā･5 nā (measure) |
-| anupadajjeyya | verb | opt.3rd.sg | should give | |
+| anupadajjeyya | verb | opt.3rd.sg | should give | √dā･1 a (give) |
 | antamaso | ind | adv | even so much as | |
 | piṇḍapātamattam'pi | sandhi | | just morsel of alms food | |
-| \#piṇḍapātamattaṃ | noun | masc.acc.sg | morsel of alms food | chaṭṭhī tappurisa |
+| \#piṇḍapātamattaṃ | noun | masc.acc.sg | mere alms food | kammadhāraya |
 | \#\#piṇḍapātassa | noun | masc.gen.sg | of alms food | dutiyā tappurisa |
 | \#\#\#piṇḍaṃ | noun | masc.acc.sg | lump; bit of food; alms | √piṇḍ･8 \*e (collect) |
 | \#\#\#pātaṃ | noun | masc.acc.sg | a dropping | √pat･1 a (fall) |
@@ -509,7 +510,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| etha | verb | imp.2nd.pl | come you all! | |
+| etha | verb | imp.2nd.pl | come you all! | √i･1 a (come, go) |
 | tumhepi | sandhi | 2nd.nom.pl | you all too | |
 | \#tumhe | pron | 2nd.nom.pl | you all | |
 | \#api | ind | | too | |
@@ -527,35 +528,37 @@
 | \#tumhe | pron | 2nd.nom.pl | you all | |
 | \#api | ind | | too | |
 | bhuñjamānā | prp | masc.nom.pl | eating | √bhuj･2 ṃa (use, eat, enjoy) |
-| appābādhatañ'ca | noun | fem.acc.sg | good health and | |
+| appābādhatañ'ca | sandhi | | good health and | |
 | \#appābādhataṃ | noun | fem.acc.sg | good health (lit. little illness state) | kammadhāraya |
-| \#\#appa | adj | fem. | few | |
-| \#\#ābādha | noun | fem. | disease; sickness; illness; affliction | √bādh･1 a (press, oppress) |
+| \#\#appa | adj | masc. | few | |
+| \#\#ābādha | noun | masc. | disease; sickness; illness; affliction | √bādh･1 a (press, oppress) |
 | \#\#tā | suffix | | state of | |
 | \#ca | ind | conj | and | |
-| sañjānissatha | verb | fut.2nd.pl | you will know, etc | √ñā･5 ya (know) |
-| appātaṅkatañ'ca | noun | fem.acc.sg | well-being and | |
+| sañjānissatha | verb | fut.2nd.pl | you will perceive; experience | √ñā･5 nā (know) |
+| appātaṅkatañ'ca | sandhi | | well-being and | |
 | \#appātaṅkataṃ | noun | fem.acc.sg | health; well-being | kammadhāraya |
-| \#\#appa | adj | fem. | few | |
+| \#\#appa | adj | masc. | few | |
 | \#\#ātaṅka | noun | masc | disease; illness; sickness | |
 | \#\#tā | suffix | | state of | |
 | \#ca | ind | conj | and | |
-| lahuṭṭhānañ'ca | noun | nt.acc.sg | physical lightness | |
+| lahuṭṭhānañ'ca | sandhi | | physical lightness | |
 | \#lahuṭṭhānaṃ | noun | nt.acc.sg | physical lightness | kammadhāraya |
 | \#\#lahu | adj | nt. | light | |
 | \#\#uṭṭhānaṃ | noun | nt. | rising; effort | √ṭhā･1 a (stand) |
 | \#ca | ind | conj | and | |
-| balañ'ca | noun | nt.acc.sg | strength | √bal･1 a (be strong, live) |
-| phāsuvihārañ'cā'ti | noun | masc.acc.sg | comfortable existence | |
+| balañ'ca | sandhi | | strength and | |
+| \#balaṃ | noun | nt.acc.sg | strength | √bal･1 a (be strong, live) |
+| \#ca | ind | conj | and | |
+| phāsuvihārañ'cā'ti | sandhi | | comfortable existence | |
 | \#phāsuvihāraṃ | noun | masc.acc.sg | comfortable dwelling | kammadhāraya |
 | \#\#phāsu | adj | masc. | comfortable | √phus･1 a (touch) |
 | \#\#vihāraṃ | noun | masc.acc.sg | mode of living | √har･1 a (live) |
 | \#ca | ind | conj | and | |
-| \#iti | ind | | "" | |
+| \#iti | ind | quotation mark | "" | |
 
 **"Come monks! You all too should eat (your) meal in one sitting. O monks, eating (your) meal in one sitting, you too will experience good health and well-being, physical lightness, strength and a comfortable existence".**
 
-5. [SN35.194](https://s.dhamma.gift/sn/sn35/index.html#sn35.194)
+5. [SN35.241](https://s.dhamma.gift/sn/sn35/index.html#sn35.241)
    evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
 
 | | | | | |
@@ -573,7 +576,7 @@
 | tīraṃ | noun | nt.acc.sg | bank | √tir･1 a (cross) |
 | upagacchatha | verb | pr.2nd.pl | you all approach, veer towards | √gam･1 a (go) |
 | na | ind | neg | not | |
-| pārimaṃ | adj | nt.acc.sg | far shore | |
+| pārimaṃ | adj | nt.acc.sg | furthest | |
 | tīraṃ | noun | nt.acc.sg | bank | √tir･1 a (cross) |
 | upagacchatha | verb | pr.2nd.pl | you all approach, veer towards | √gam･1 a (go) |
 | na | ind | neg | not | |
@@ -595,7 +598,7 @@
 | na | ind | neg | not | |
 | āvaṭṭaggāho | noun | masc.nom.sg | grabbing by whirlpool; in the clutch of a whirlpool | tatiyā tappurisa |
 | \#āvaṭṭena | noun | masc.instr.sg | by a whirlpool | |
-| \#gāho | noun | masc.nom.sg | grabbing; clutch | |
+| \#gāho | noun | masc.nom.sg | grabbing; clutch | √gah･6 ṇhā (grasp) |
 | gahessati | verb | fut.3rd.sg | it will grab | √gah･6 ṇhā (grasp) |
 | na | ind | neg | not | |
 | antopūtī | adj | masc.nom.pl | rotten inside | |
@@ -609,12 +612,12 @@
 | bhavissatha | verb | fut.2nd.pl | you will be | √bhū･1 a (be, become) |
 | nibbānapoṇā | adj | masc.nom.pl | slanting to nibbāna; inclining to | dutiyā tappurisa |
 | \#nibbānaṃ | noun | nt.acc.sg | to nibbāna | √vā･1 a (blow, emit odour) |
-| \#poṇā | noun | masc.nom.pl | slanting; inclining to | √nam･1 a (bend) |
+| \#poṇā | adj | masc.nom.pl | slanting; inclining to | √nam･1 a (bend) |
 | nibbānapabbhārā | adj | masc.nom.pl | inclining to nibbāna; slanting to | dutiyā tappurisa |
-| \#nibbānassa | noun | nt.acc.sg | nibbāna | √vā･1 a (blow, emit odour) |
-| \#pabbhārā | noun | masc.nom.pl | inclining; sloping | |
+| \#nibbānaṃ | noun | nt.acc.sg | to nibbāna | √vā･1 a (blow, emit odour) |
+| \#pabbhārā | adj | masc.nom.pl | inclining; sloping | |
 
-**Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, not sink down in the middle, nor wash up on dry land, nor be grabbed by humans, nor be grabbed by non-humans, nor be grabbed by a whirlpool, nor become rotten inside, like this you will be sloping to going out, (nibbāna) slanting to going out, inclining to going out.**
+**Similarly, monks, if you don't veer towards the near bank, nor veer towards the far bank, not sink down in the middle, nor wash up on dry land, nor be grabbed by humans, nor be grabbed by non-humans, nor be grabbed by a whirlpool, nor become rotten inside, like this you will be sloping to going out (nibbāna), slanting to going out, inclining to going out.**
 
 6. [AN2.9](https://s.dhamma.gift/an/an2/index.html#an2.9)
    ime kho, bhikkhave, dve sukkā dhammā lokaṃ na **pāleyyuṃ**, nayidha **paññāyetha** mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. sambhedaṃ loko **agamissa**, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā.
@@ -624,45 +627,49 @@
 | ime | pron | masc.nom.pl | these | |
 | kho | ind | - | - | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| dve | adj | x.nom.pl | two | |
+| dve | card | x.nom.pl | two | |
 | sukkā | adj | masc.nom.pl | bright, white; wholesome | √suc×1 a (be pure, bright) |
 | dhammā | noun | masc.nom.pl | principles | √dhar･1 a (hold, carry, endure) |
 | lokaṃ | noun | masc.acc.sg | world | √lok･8 \*e (look) |
 | na | ind | - | not | |
 | pāleyyuṃ | verb | opt.3rd.pl | they would protect | √pāl･8 \*e (protect) |
-| nayidha | ind | - | not here | |
+| nayidha | sandhi | | not here | |
+| \#na | ind | | not | |
+| \#idha | ind | - | here | |
 | paññāyetha | verb. pass | opt.reflx.3rd.sg | it would be evident | √ñā･5 ya (know) |
 | mātā'ti | sandhi | | mother | |
 | \#mātā | noun | fem.nom.sg | mother | |
-| \#iti | ind | - | "" | |
+| \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | mātucchā'ti | sandhi | | mother's sister | |
 | \#mātucchā | noun | fem.nom.sg | mother's sister | |
-| \#iti | ind | - | "" | |
+| \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | mātulānī'ti | sandhi | | uncle's wife | |
 | \#mātulānī | noun | fem.nom.sg | uncle's wife | |
-| \#iti | ind | - | "" | |
+| \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | ācariyabhariyā'ti | sandhi | | teacher's wife | |
 | \#ācariyabhariyā | noun | fem.nom.sg | teacher's wife | |
-| \#iti | ind | - | "" | |
+| \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | garūnaṃ | noun | masc.gen.pl | of teachers | √gar×1 a (esteem, be heavy) |
 | dārā'ti | sandhi | | wives | |
-| \#dārā | noun | fem.nom.pl | wives | |
-| \#iti | ind | - | "" | |
+| \#dārā | noun | masc.nom.pl | wives | |
+| \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | sambhedaṃ | noun | masc.acc.sg | mixed up, confusion | |
 | loko | noun | masc.nom.sg | world | √lok･8 \*e (look) |
 | agamissa | verb | cond.3rd.sg | would have gone, would become | √gam･1 a (go) |
 | yathā | ind | - | like | |
-| ajeḷakā | noun | masc.nom.pl | goats and sheep | |
+| ajeḷakā | noun | nt.nom.pl | goats and sheep | dvanda |
+| \#ajā (+ca) | noun | masc.nom.pl | goats | |
+| \#eḷakā (+ca) | noun | masc.nom.pl | sheep | |
 | kukkuṭasūkarā | noun | masc.nom.pl | chickens and pigs | dvanda |
 | \#kukkuṭā (+ca) | noun | masc.nom.pl | chickens | |
 | \#sūkarā (+ca) | noun | masc.nom.pl | pigs | |
 | soṇasiṅgālā | noun | masc.nom.pl | dogs and jackals | dvanda |
-| \#soṇa (+ca) | noun | masc.nom.pl | dogs | |
+| \#soṇā (+ca) | noun | masc.nom.pl | dogs | |
 | \#siṅgālā (ca) | noun | masc.nom.pl | jackals | |
 
-**If these two wholesome principles did not protect the world, it would not be clear, (this is my) mother, (this is my) mother's sister, (this is my) uncle's wife, (these are) wives of teachers. The world would become confused like goats and sheep, chickens and pigs, dogs and jackals.**
+**If these two wholesome principles did not protect the world, it would not be clear, (this is my) mother, (this is my) mother's sister, (this is my) uncle's wife, (this is my) teacher's wife, (these are) wives of teachers. The world would become confused like goats and sheep, chickens and pigs, dogs and jackals.**

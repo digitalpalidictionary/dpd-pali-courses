@@ -350,7 +350,7 @@
 
 **Break up every verb and participle into root, group and sign / prefix, base and verbal termination.**
 
-1. SN.2.8 (Dhp 313)
+1. [SN2.8](https://s.dhamma.gift/sn/sn2/index.html#sn2.8) (Dhp 313)
    kayirā ce, kayirāthenaṃ, daḷhamenaṃ parakkame.
    sithilo hi paribbājo, bhiyyo ākirate rajaṃ.
 

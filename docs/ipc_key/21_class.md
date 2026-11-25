@@ -19,7 +19,7 @@
 | \#yaṃ | pron | masc.acc.sg | which | |
 | \#āhu | verb | perf.3rd.pl | they say[^20] | √ah･1 a (speak) |
 
-**The foremost Buddha extolled pure stillness of the mind, which they say with immediate results.**
+**The foremost Buddha extolled pure stillness of the mind, which they say [is] with immediate results.**
 
 2. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)
    khayaṃ virāgaṃ amataṃ paṇītaṃ, yad'ajjhagā sakyamunī samāhito.
@@ -33,9 +33,9 @@
 | yad'ajjhagā | sandhi | | which…obtained; attained | |
 | \#yad | pron | nt.acc.sg | which | |
 | \#ajjhagā | verb | imperf.3rd.sg | obtained; attained | √gam･1 a (go) |
-| sakyamunī | noun | masc.nom.sg | the Sakyan sage | kammadhāraya |
+| sakyamunī | noun | masc.nom.sg (i \> ī) | the Sakyan sage | kammadhāraya |
 | \#sakya | adj | masc | of the Sakyan family | |
-| \#munī | noun | masc.nom.sg | the sage | √mun･5 nā (think, know) |
+| \#munī | noun | masc.nom.sg (i \> ī) | the sage | √mun･5 nā (think, know) |
 | samāhito | pp | masc.nom.sg | composed; settled; concentrated | √dhā･1 a (place, support) |
 
 **The wearing away, the dispassion, the deathless, the sublime (or sublime deathless) which the concentrated Sakyan sage attained…**
@@ -49,13 +49,13 @@
 | vo | pron | 2nd.acc.pl | you | |
 | mā | ind | neg | don't let | |
 | upaccagā | verb | imperf.3rd.sg | passed by | √gam･1 a (go) |
-| khaṇ'ātītā | noun | masc.nom.pl | who have missed the chance | kammadhāraya\> bahubbīhi |
+| khaṇ'ātītā | noun | masc.nom.pl | who have missed the chance | kammadhāraya \> bahubbīhi |
 | \#khaṇaṃ | noun | masc.acc.sg | the moment; the opportunity | |
-| \#ātītā | pp | masc.nom.pl | gone past | |
+| \#atītā | pp | masc.nom.pl | gone past | |
 | hi | ind | emph | indeed | |
 | socanti | verb | pr.3rd.pl | sorrow over | √suc･1 \*a (grieve) |
 | nirayamhi | noun | masc.loc.sg | in hell | √i･1 a (come, go) |
-| samappitā | pp | masc.nom.pl (+loc) | ended up (in); consigned (to); delivered (to); | √ar･1 \*āpe (move, attain) |
+| samappitā | pp | masc.nom.pl (+loc) | ended up (in); consigned (to); delivered (to) | √ar･1 \*āpe (move, attain) |
 
 **Don't let the opportunity pass by; they who have missed the chance are consigned to hell [and] sorrow over [it].**
 
@@ -80,7 +80,7 @@
 | kiñci | pron | nt.nom.sg | some; something; anything | |
 | pāpam'āgamā | sandhi | | [may] evil [not] come | |
 | \#pāpaṃ | noun | nt.nom.sg | evil action | |
-| \#āgamā | verb | imperf.3rd.sg +acc | came | √gam･1 a (go) |
+| \#āgamā | verb | imperf.3rd.sg (+acc) | came | √gam･1 a (go) |
 
 **May all creatures, all living beings, all existing entities, all of them, may they all encounter good fortune and may not any evil come to (them).**
 
@@ -91,9 +91,9 @@
 | --- | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | whoever | |
 | attano | noun | masc.gen.sg | one's own | |
-| sīlavatāni | noun | nt.acc.pl | precepts and practices; | dvanda |
-| \#sīla (ca) | noun | nt.nom.pl | precepts; virtues | √sīl×1 a (conduct oneself) |
-| \#vatāni (ca) | noun | nt.nom.pl | religious practices | √vat×1 a (be, proceed) |
+| sīlavatāni | noun | nt.acc.pl | precepts and practices | dvanda |
+| \#sīla (ca) | noun | nt | precepts; virtues | √sīl×1 a (conduct oneself) |
+| \#vatāni (ca) | noun | nt.acc.pl | religious practices | √vat×1 a (be, proceed) |
 | jantu | agent noun | masc.nom.sg | a man; a person (lit: one who is born) | √jan･3 ya (be born, produce) |
 | anānupuṭṭho'va | sandhi | | just unasked | |
 | \#anānupuṭṭho | pp | masc.nom.sg | unasked | √pucch･1 a (ask, question) |
@@ -130,15 +130,15 @@
 | kevalassa | adj | masc.gen.sg | of the whole lot; of the entire | |
 | dukkhakkhandhassa | noun | masc.gen.sg | heap of suffering | chaṭṭhī tappurisa |
 | \#dukkhassa | noun | nt.gen.sg | of suffering | √dukkh･1 a (be painful) |
-| \#khandhassa | noun | masc.gen.sg | of the heap | √khand･1 a (jump up, pile up) |
+| \#khandhassa | noun | masc.gen.sg | of the heap | √khandh×8 \*e (collect, accumulate) |
 | antakiriyā | noun | fem.nom.sg | the making an end of[^22]; ending | dutiyā tappurisa |
 | \#antaṃ | noun | masc.acc.sg | an end | |
 | \#kiriyā | noun | fem.nom.sg | making | √kar･7 o (do, make) |
 | paññāyethā'ti | sandhi | | "...it itself would be evident" | |
 | \#paññāyetha | verb | opt.reflx.3rd.sg | it could be discerned, would be apparent, lit. make itself known | √ñā･5 ya (know) |
-| \#ti | ind | quotation mark | "" | |
+| \#iti | ind | quotation mark | "" | |
 
-**"If only the ending of this whole mass of suffering would be apparent. (lit. make itself known)"**
+**"If only the ending of this whole mass of suffering would be apparent (lit. make itself known)."**
 
 7. [AN10.44](https://s.dhamma.gift/an/an10/index.html#an10.44)
    "iṅgha tāva āyasmā kāyikaṃ sikkhassū"ti, iti'ssa bhavanti vattāro.
@@ -149,9 +149,9 @@
 | tāva | ind | adv | that much; to that extent; first | |
 | āyasmā | noun | masc.voc.sg | venerable | √i･1 a (come, go) |
 | kāyikaṃ | adj (as adv) | nt.acc.sg | bodily; physical; related to the body | √ci･5 nā (gather, accumulate) |
-| sikkhassū'ti | sandhi | | "...you must train yourself" | |
+| sikkhassū"ti | sandhi | | "...you must train yourself" | |
 | \#sikkhassu | verb | imp.reflx.2nd.sg | you must train yourself | √sikkh･1 a (learn, train) |
-| \#ti | ind | quotation mark | "" | |
+| \#iti | ind | quotation mark | "" | |
 | iti'ssa | sandhi | | thus to him | |
 | \#iti | ind | emph | thus | |
 | \#assa | pron | masc.dat.sg | to him | |
@@ -182,11 +182,11 @@
 | na | ind | neg | not | |
 | passati | verb | pr.3rd.sg | sees | √dis･1 a (see) |
 
-**I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^24] [so that ] the king of death does not see [him]?**
+**I myself, a seeker, have come to [the one] of such excellent vision, with a question. How is one viewing the world[^24] [so that] the king of death does not see [him]?**
 
 [^20]: Cone s.v. āha, āhu gives āhu as a singular form: "perf. 3. sg. (perf expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as)". Instead CPD and Oberlies 2019 II s.v. list āhu as 3.pl.
 
-[^21]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + ✓vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.
+[^21]: A different derivation is suggested by Cone s.v.: "imperf. of pa5 + √vac;? or aor. of pa5 + avati2;?", but seems to be uncertain.
 [^22]: Slightly different is Cone: "putting an end to; destruction"
 [^23]: Alternatively, this could be interpreted as a periphrastic future inherited from Sanskrit: "They will say to him."
 [^24]: Lokaṃ avekkhantaṃ is object in the acc. for passati, which seems almost untranslatable in English.
@@ -252,10 +252,12 @@
 | pubbāpariyaṃ | adj | masc.acc.sg | successive, lit. before and after | |
 | visesaṃ | noun | masc.acc.sg | distinction(s), attainment(s) | √sis･8 \*e (remain, distinguish) |
 | adassanaṃ | noun | nt.acc.sg | out of sight | √dis･1 a (see) |
-| maccurājassa | noun | masc.gen.sg | of the king of death | √mar･1 a (die) / chaṭṭhī tappurisa |
-| \#maccuno | noun | masc.gen.sg | of death | |
+| maccurājassa | noun | masc.gen.sg | of the king of death | chaṭṭhī tappurisa |
+| \#maccuno | noun | masc.gen.sg | of death | √mar･1 a (die) |
 | \#rājassa | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
-| gacche'ti | verb | opt.3rd.sg | he could go | √gam･1 a (go) |
+| gacche'ti | sandhi | | he could go | |
+| \#gacche | verb | opt.3rd.sg | he could go | √gam･1 a (go) |
+| \#iti | ind | - | "" | |
 
 **With stationary body, with stationary mind,**
 **standing or sitting or lying down,**
@@ -278,7 +280,7 @@
 | nikubbetha | verb | opt.reflx.3rd.sg | should cheat; lit. should make down | √kar･7 o (do, make) |
 | n'ātimaññetha | sandhi | | he should not despise | |
 | \#na | ind | - | not | |
-| \#atimaññetha | verb | opt.reflx.3rd.sg | he should not despise | √man･3 ya (think) |
+| \#atimaññetha | verb | opt.reflx.3rd.sg | he should despise | √man･3 ya (think) |
 | katthaci | ind | adv | somewhere | |
 | naṃ | pron | masc.acc.sg | that, him | |
 | kiñci | pron | masc.acc.sg | anyone | |
@@ -286,7 +288,7 @@
 | paṭighasaññā(ya) | noun | fem.instr.sg | by dislike; ill-will | chaṭṭhī tappurisa |
 | \#paṭighassa | noun | masc.gen.sg | of aversion | √ghaṭ･8 \*e (strike, kill) |
 | \#saññāya | noun | fem.instr.sg | by concept; idea; notion | √ñā･5 nā (know) |
-| nāññamaññassa | pron | masc.dat.sg | not one for another | |
+| nāññamaññassa | sandhi | masc.dat.sg | not one for another | |
 | \#na | ind | neg | not | |
 | \#aññaṃ | pron | - | one person | |
 | \#aññassa | pron | masc.dat.sg | for another person | |
@@ -312,7 +314,7 @@
 | kusalaṃ | noun | nt.acc.sg | the good, merit | |
 | bhāvetuṃ | verb | inf | to cultivate; to develop | √bhū･1 \*e (be, become) |
 | no | ind | neg | not | |
-| cedaṃ | - | - | if this thing | |
+| cedaṃ | sandhi | - | if this thing | |
 | \#ce | ind | - | if | |
 | \#idaṃ | pron | nt.nom.sg | this | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
@@ -327,7 +329,9 @@
 | vadeyyaṃ | verb | opt.reflx.1st.sg | I would say myself | √vad･1 a (say, speak) |
 | kusalaṃ | noun | nt.acc.sg | the good, merit | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| bhāvethā'ti | verb | imp.2nd.pl | you all must cultivate; develop | √bhū･1 \*e (be, become) |
+| bhāvethā'ti | sandhi | | you all must cultivate; develop | |
+| \#bhāvetha | verb | imp.2nd.pl | you all must cultivate; develop | √bhū･1 \*e (be, become) |
+| \#iti | ind | - | "" | |
 
 **You all must develop skillful qualities (lit: the good), monks. It is possible to develop skillful qualities. If it would not be possible to develop skillful qualities, I myself would not say this, "Monks, develop skillful qualities."**
 
@@ -342,7 +346,7 @@
 | \#eva | ind | - | just, even | |
 | kho | ind | - | truly | |
 | pana | ind | | moreover | |
-| jarādhammo | adj | masc.nom.sg | liable to grow old | kammadhāraya / \> bahubbīhi |
+| jarādhammo | adj | masc.nom.sg | liable to grow old | kammadhāraya \> bahubbīhi |
 | \#jarā | noun | fem. | old age | √jar･1 a (age) |
 | \#dhammo | noun | masc.nom.sg | quality; characteristic | √dhar･1 a (hold, carry, endure) |
 | samāno | prp | masc.nom.sg | being | √as･1 a (be) |
@@ -350,14 +354,14 @@
 | anatīto | pp | masc.nom.sg | not passed; not exempt from | √i･1 a (come, go) |
 | \#na | ind | neg | not | |
 | \#atīto | pp | masc.nom.sg | passed; gone beyond | √i･1 a (come, go) |
-| paraṃ | adj | masc.acc.sg | another | |
+| paraṃ | pron | masc.acc.sg | another | |
 | jiṇṇaṃ | noun | masc.acc.sg | old man | √jīr･1 a (grow old, decay) |
 | disvā | verb | abs | having seen | √dis･1 a (see) |
 | aṭṭīyeyyaṃ | verb | opt.reflx.1st.sg | I would myself be troubled | √add･8 īya (afflict) |
 | harāyeyyaṃ | verb | opt.reflx.1st.sg | I would myself be ashamed | √har×3 āya (be ashamed) |
 | jiguccheyyaṃ | verb | opt.reflx.1st.sg | I would myself be disgusted | √gup･1 cha (dislike) |
 | na | ind | neg | not | |
-| metaṃ | - | - | for me this | |
+| metaṃ | sandhi | - | for me this | |
 | \#me | pron | 1st.dat.sg | for me | |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | assa | verb | opt.3rd.sg | it would be | √as･1 a (be) |
@@ -402,11 +406,11 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tayo | adj | masc.acc.pl | three | |
+| tayo | card | masc.acc.pl | three | |
 | vitakke | noun | masc.acc.pl | thoughts | √takk･8 \*e (think) |
 | kusale | adj | masc.acc.pl | healthy; beneficial; useful | |
 | vitakkaye | verb | opt.3rd.sg | one should think | √takk･8 \*e (think) |
-| tayo | adj | masc.acc.pl | three | |
+| tayo | card | masc.acc.pl | three | |
 | pana | ind | - | and | |
 | akusale | adj | masc.acc.pl | unskilful | |
 | nirākare | verb | opt.3rd.sg | one should reject | √kar･7 o (do, make) |
@@ -414,12 +418,12 @@
 | ve | ind | - | indeed, truly | |
 | vitakkāni | noun | nt.acc.pl | thoughts | √takk･8 \*e (think) |
 | vicāritāni | pp | nt.acc.pl | thought about; contemplated; investigated | √car･1 \*e (move, walk) |
-| sameti | verb | caus.pr.3rd.sg | he causes to be calm | √sam･3 \*e (be calm, tired) |
+| sameti | verb | pr.caus.3rd.sg | he causes to be calm | √sam･3 \*e (be calm, tired) |
 | vuṭṭhī'va | sandhi | fem.nom.sg | like the rain | |
 | \#vuṭṭhi | noun | fem.nom.sg | rain | |
 | \#iva | ind | | like | |
 | rajaṃ | noun | masc.acc.sg | dust | √raj･1 a (colour) |
-| samūhataṃ | pp | nt.acc.sg | stirred up; raised | √han･1 a (strike, kill) |
+| samūhataṃ | pp | masc.acc.sg | stirred up; raised | √han･1 a (strike, kill) |
 | sa | pron | masc.nom.sg | he | |
 | ve | ind | - | indeed, truly | |
 | vitakkūpasamena | noun | masc.instr.sg | with calming of thoughts; settling the mind | chaṭṭhī tappurisa |
@@ -429,7 +433,9 @@
 | idheva | ind | - | right here | |
 | so | pron | masc.nom.sg | that | |
 | santipadaṃ | noun | nt.acc.sg | peaceful state, path of peace | |
-| samajjhagā'ti | verb | imperf.3rd.sg | he has obtained | √gam･1 a (go) |
+| samajjhagā'ti | sandhi | | he has obtained | |
+| \#samajjhagā | verb | imperf.3rd.sg | he has obtained | √gam･1 a (go) |
+| \#iti | ind | - | "" | |
 
 **One should think three skilful thoughts,**
 **and one should reject three unskilful ones.**
@@ -446,10 +452,10 @@
 | tena samayena | ind | - | at that time | |
 | kho | ind | - | truly | |
 | pana | ind | - | and | |
-| dve | adj | x.nom.pl | two | |
+| dve | card | x.nom.pl | two | |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | sampayojesuṃ | verb | aor.3rd.pl | they quarreled | √yuj･2 \*e (yoke, join) |
-| tatreko | adj | masc.nom.sg | there one | |
+| tatreko | sandhi | masc.nom.sg | there one | |
 | \#tatra | ind | adv | there | |
 | \#eko | adj | masc.nom.sg | one | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
@@ -467,7 +473,7 @@
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | nappaṭiggaṇhāti | verb | pr.3rd.sg | he does not accept | √gah･6 ṇhā (grasp) |
 
-**And at that time two monks quarreled. There, one monk transgressed. Then that monk confessed his fault in the presence of that (other) monk, (but) that monk does not accept (his apology).**
+**And at that time two monks quarreled. There, one monk transgressed. Then that monk confessed his fault in the presence of that (other) monk, (but) that monk did not accept (his apology).**
 
 ## Class 21 Extra Examples
 
@@ -509,7 +515,7 @@
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
 | dīgham'āyuṃ | noun | nt.acc.sg | long life | kammadhāraya |
-| \#dīgham | adj | nt.acc.sg | long | |
+| \#dīghaṃ | adj | nt.acc.sg | long | |
 | \#āyuṃ | noun | nt.acc.sg | life | √i･1 a (come, go) |
 | labhate | verb | pr.reflx.3rd.sg | one oneself gets | √labh･1 a (get) |
 | dhanena | noun | nt.instr.sg | by means of wealth | √dhan×1 a (be rich) |
@@ -534,7 +540,7 @@
 | \#āhu | verb | perf.3rd.pl | they say | √ah･1 a (speak) |
 | dhīrā | noun | masc.nom.pl | the sages; the wise men | √dhā･1 a (place, support) |
 | asassataṃ | adj | nt.acc.sg | not eternal | |
-| vippariṇāmadhammaṃ | adj | nt.acc.sg | subject to change; changeable in nature | kammadhāraya |
+| vippariṇāmadhammaṃ | adj | nt.acc.sg | subject to change; changeable in nature | kammadhāraya \> bahubbīhi |
 | \#vippariṇāma | adj | masc. | of changing | √nam･1 a (bend) |
 | \#dhammaṃ | noun | masc.acc.sg | the nature | √dhar･1 a (hold, carry, endure) |
 
@@ -554,7 +560,7 @@
 | sakaṃ | noun | nt.nom.sg | what is one's own | |
 | vinassā"ti | sandhi | | "...get lost; perish" | |
 | \#vinassa | verb | aor.3rd.sg (with mā) | may [it] not perish | vi√nas･3 ya (be lost, disappear) |
-| \#ti | ind | quotation mark | "" | |
+| \#iti | ind | quotation mark | "" | |
 
 **"Let the venerables regain what is your own; do not let what is your own get lost."**
 
@@ -566,7 +572,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| visenikatvā | verb | abs | having disarmed; not opposing; at peace; | |
+| visenikatvā | verb | abs | having disarmed; not opposing; at peace | |
 | \#viseni | noun | fem. | disarming; not opposing | |
 | \#katvā | verb | abs | having made | √kar･7 o (do, make) |
 | pana | ind | - | and | |
@@ -579,15 +585,15 @@
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | kiṃ | pron | nt.acc.sg | what? | |
 | labhetho | verb | opt.reflx.2nd.sg | you could get yourself | √labh･1 a (get) |
-| pasūra | noun | masc.voc.sg | Pasura | |
-| yesīdha[^25] | - | - | in whoever here | |
+| pasūra | noun | masc.voc.sg | Pasūra | |
+| yesīdha[^25] | sandhi | - | in whoever here | |
 | \#yesu | pron | masc.loc.pl | in whoever | |
 | \#idha | ind | adv | here | |
-| natthī | verb | pr.3rd.sg | there is not | √as･1 a (be) |
-| paramuggahītaṃ | - | - | grasped as supreme | |
+| natthī | verb | pr.3rd.sg (i \> ī) | there is not | √as･1 a (be) |
+| paramuggahītaṃ | adj | nt.nom.sg | grasped as supreme | pañcamī tappurisa |
 | \#parama | adj | - | highest | |
-| \#uggahitaṃ | pp | nt.nom.sg | grasped | √gah･6 ṇhā (grasp) |
+| \#uggahītaṃ | pp | nt.nom.sg | grasped | √gah･6 ṇhā (grasp) |
 
-**They wander around at peace, not opposing a view with views. In them, what could you get yourself, Pasura, in whom there is nothing grasped as the highest.**
+**They wander around at peace, not opposing a view with views. In them, what could you get yourself, Pasūra, in whom there is nothing grasped as the highest?**
 
 [^25]: Here yesīdha is analysed as yesu + idha. Norman and most editors read yesaṃ + idha ("for whom here"), which would also match natthi + genitive.

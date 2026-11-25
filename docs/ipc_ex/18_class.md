@@ -1,6 +1,6 @@
 # Class 18
 
-**Disjoin the sandhis**
+**Disjoin the following words**
 
 | | |
 | --- | --- |

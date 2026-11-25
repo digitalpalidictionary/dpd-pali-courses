@@ -1,6 +1,6 @@
 # Class 18 Key to Exercises
 
-**Dis-join the sandhis**
+**Disjoin the following words**
 
 | | |
 | --- | --- |
@@ -66,15 +66,15 @@
 | taṃ | pron | nt.acc.sg | that | |
 | paṭinissajjeyya | verb | opt.3rd.sg | should relinquish | √sajj･1 a (relinquish) |
 | icc'etaṃ | sandhi | | thus this | |
-| \#iti | ind | emph | thus | |
-| \#etaṃ | pron | nt.acc.sg | this | |
+| \#iti | ind | adv | thus | |
+| \#etaṃ | pron | nt.nom.sg | this | |
 | kusalaṃ | noun | nt.nom.sg | good | |
 | no | ind | neg | not | |
 | ce | ind | cond | if | |
 | paṭinissajjeyya | verb | opt.3rd.sg | should relinquish; give up | √sajj･1 a (relinquish) |
 | saṅghādiseso | noun | masc.nom.sg | offence requiring suspension | |
-| \#saṅgha | noun | masc. | the community | √ghaṭ･1 a (join together) |
-| \#ādi | noun | masc. | beginning | |
+| \#saṅgha | noun | masc | the community | √ghaṭ･1 a (join together) |
+| \#ādi | noun | masc | beginning | |
 | \#seso | noun | masc.nom.sg | remains; remainder | √sis･8 \*e (remain, distinguish) |
 
 **If, being admonished up to the third time, he should relinquish that, thus this [is] good; [but] if he should not relinquish [it], [this is a case] relating to the community in the beginning and in the end.**
@@ -109,16 +109,16 @@
 | rūpaṃ | noun | nt.acc.sg | a form | √rūp･8 \*e (form, produce) |
 | disvā | verb | abs | having seen | √dis･1 a (see) |
 | piyarūpe | adj | nt.loc.sg | in agreeable; enticing | |
-| \#piya | adj | nt. | pleasing | √pī･5 nā (love, please) |
+| \#piya | adj | nt | pleasing | √pī･5 nā (love, please) |
 | \#rūpe | noun | nt.loc.sg | in form | √rūp･8 \*e (form, produce) |
 | rūpe | noun | nt.loc.sg | in form | √rūp･8 \*e (form, produce) |
 | n'ādhimuccati | sandhi | pr.3rd.sg | is not intent (on); is not drawn (to) | |
 | \#na | ind | neg | not | |
 | \#adhimuccati | verb | pr.3rd.sg (+loc) | is intent (on); is drawn (to) | √muc･2 ya (release, free) |
 | appiyarūpe | adj | nt.loc.sg | unpleasant; disagreeable | |
-| \#appiya | adj | nt. | unloved; disliked | |
+| \#appiya | adj | nt | unloved; disliked | |
 | \#\#na | prefix | | not | |
-| \#\#piya | adj | nt. | loved; liked; dear | √pī･5 nā (love, please) |
+| \#\#piya | adj | nt | loved; liked; dear | √pī･5 nā (love, please) |
 | \#rūpe | noun | nt.loc.sg | form [object of the eye] | √rūp･8 \*e (form, produce) |
 | rūpe | noun | nt.loc.sg | form [object of the eye] | √rūp･8 \*e (form, produce) |
 | na | ind | neg | not | |
@@ -126,14 +126,14 @@
 | upaṭṭhitakāyassati | adj | masc.nom.sg | with body awareness present | |
 | \#upaṭṭhitā | pp | fem.nom.sg | present | √ṭhā･1 a (stand) |
 | \#kāyassati | noun | fem.nom.sg | mindfulness of the body | |
-| \#\#kāya | noun | masc. | the body | √ci･5 nā (gather, accumulate) |
+| \#\#kāya | noun | masc | the body | √ci･5 nā (gather, accumulate) |
 | \#\#sati | noun | fem.nom.sg | mindfulness | √sar･1 a (remember) |
 | ca | ind | conj | and | |
-| viharati | verb | pr.3rd.sg | he dwells | |
-| appamāṇacetaso | adj | masc.nom.sg | with an immeasurable mind; with an unrestricted mind | √har･1 a (live) |
-| \#appamāṇa | adj | masc. | immeasurable | |
+| viharati | verb | pr.3rd.sg | he dwells | √har･1 a (live) |
+| appamāṇacetaso | adj | masc.nom.sg | with an immeasurable mind; with an unrestricted mind | |
+| \#appamāṇa | adj | masc | immeasurable | |
 | \#\#na | prefix | | not | |
-| \#\#pamāṇa | adj | masc. | measuring | √mā･5 nā (measure) |
+| \#\#pamāṇa | adj | masc | measuring | √mā･5 nā (measure) |
 | \#cetaso | adj | masc.nom.sg | having an immeasurable mind | √cit･8 \*e (think, intend) |
 
 **Here, monks, having seen a form with the eye, a monk is not drawn to a pleasing form, and he is not repelled by an unpleasant form; with mindfulness of the body present, he dwells with an immeasurable mind.**
@@ -152,7 +152,7 @@
 | dhammā | noun | masc.nom.pl | qualities; characteristics | √dhar･1 a (hold, carry, endure) |
 | raññe | noun | masc.loc.sg | about a king; ruler; monarch | √rāj･1 a (rule, shine) |
 | cakkavattimhi | noun | masc.loc.sg | about a wheel-turner | |
-| \#cakka | noun | nt. | wheel | |
+| \#cakka | noun | nt | wheel | |
 | \#vattimhi | noun | masc.loc.sg | turner; who turns something | |
 | katame | pron | masc.nom.pl | which? | |
 | cattāro | card | masc.nom.pl | four | |
@@ -210,8 +210,7 @@
 **One should not perform theft,**
 **One should not speak falsely,**
 **One should touch unstable and firm beings with kindness,**
-**One should know any disturbance of mind and dispel it as "a flank of the**
-**Dark One."**
+**One should know any disturbance of mind and dispel it as "a flank of the Dark One."**
 
 7. [AN8.2](https://s.dhamma.gift/an/an8/index.html#an8.2)
    tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.
@@ -221,7 +220,7 @@
 | tathārūpāssa | sandhi | | of such kind, for him | |
 | \#tathārūpā | adj | masc.nom.pl | of such quality | |
 | \#\#tathā | ind | adv | so, thus, in such a way | |
-| \#\#rūpa | adj | masc.nom.pl | of quality, of kind | |
+| \#\#rūpā | adj | masc.nom.pl | of quality, of kind | |
 | \#assa | pron | masc.dat.sg | for him; by him | |
 
 **(the reading tathārūpassa also exists)**
@@ -271,16 +270,16 @@
 | imasmiṃ | pron | masc.loc.sg | in this | |
 | kāye | noun | masc.loc.sg | in body | √ci･5 nā (gather, accumulate) |
 | pathavīdhātu | noun | fem.nom.sg | solid state, earth state | |
-| \#pathavī | noun | fem. | earth, solid | √path×1 a (expand) |
+| \#pathavī | noun | fem | earth, solid | √path×1 a (expand) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | āpodhātu | noun | fem.nom.sg | liquid state | |
-| \#āpa | noun | masc.nom.sg | water, liquid | √āp×4 uṇā (be wet) |
+| \#āpo | noun | masc | water, liquid | √āp×4 uṇā (be wet) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | tejodhātu | noun | fem.nom.sg | fire state | |
-| \#teja | noun | masc.nom.sg | fire, heat | √tij･8 \*e (be sharp, hot) |
+| \#tejo | noun | masc | fire, heat | √tij･8 \*e (be sharp, hot) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | vāyodhātū'ti | sandhi | fem.nom.sg | gaseous state | |
-| \#vāya | noun | masc.nom.sg | wind, air | √vā･1 a (blow, emit odour) |
+| \#vāyo | noun | masc | wind, air | √vā･1 a (blow, emit odour) |
 | \#dhātu | noun | fem.nom.sg | state, element | √dhā･1 a (place, support) |
 | \#iti | ind | - | "" | |
 
@@ -302,7 +301,7 @@
 | hi | ind | - | indeed, truly | |
 | nātho | noun | masc.nom.sg | protector; lord; refuge | |
 | paro | pron | masc.nom.sg | other, another | |
-| siyā. | verb | opt.3rd.sg | he could be | √as･1 a (be) |
+| siyā | verb | opt.3rd.sg | he could be | √as･1 a (be) |
 | attanā | noun | masc.instr.sg | by oneself | |
 | hi | ind | - | indeed, truly | |
 | sudantena | pp | masc.instr.sg | by well tamed, well-controlled | √dam･3 ya (be tame) |
@@ -381,7 +380,7 @@
 | janapade | noun | masc.acc.pl | countries, provinces, districts | |
 | anusaññātuṃ | verb | inf | to go around; to visit; to inspect | √yā･1 a (go) |
 
-**At whichever time kings are strong, robbers are weak. At that time it is easy for the king to re-enter or to go out and to visit the outlying districts.**
+**At whichever time kings are strong, robbers are weak. At that time it is easy for the king to re-enter or to go out or to visit the outlying districts.**
 
 12. [AN3.83](https://s.dhamma.gift/an/an3/index.html#an3.82)
     tassa na tādiso vaṇṇo hoti seyyathā'pi gunnaṃ, na tādiso saro hoti seyyathā'pi gunnaṃ, na tādisaṃ padaṃ hoti seyyathā'pi gunnaṃ.
@@ -432,7 +431,7 @@
 
 **vipallāsa = vi + pari \> pali \> paly \> pall + √as \> ās + \*a**
 
-**"In regard to what is not self, [the notion] "(This is) self" is the distortion of perception, the distortion of thought, the distortion of view.**
+**In regard to what is not self, monks, [the notion] "(This is) self" is the distortion of perception, the distortion of thought, the distortion of view.**
 
 ## Class 18 Extra Examples
 
@@ -450,7 +449,7 @@
 | \#aḍḍho | adj | masc.nom.sg | half | |
 | māso | noun | masc.nom.sg | month | √mā･5 nā (measure) |
 | seso | noun | masc.nom.sg | [what] remains, (is) remaining | √sis･8 \*e (remain) |
-| gimhānan'ti | sandhi | | "...hot season and so | |
+| gimhānan'ti | sandhi | | "…hot season and so | |
 | \#gimhānaṃ | noun | masc.gen.pl | of the hot [months] | |
 | \#iti | ind | adv[^2] | this is; and so; thus | |
 | vassānassa | noun | masc.gen.sg | of the rainy season | √vass･1 a (rain) |
@@ -460,12 +459,14 @@
 | \#iti | ind | adv | thus | |
 | \#ete | pron | masc.nom.pl | these | |
 | aḍḍhateyyamāsā | noun | masc.nom.pl | two-and-a-half months | |
-| \#aḍḍhateyya | adj | masc. | two-and-a-half (lit: three half) | |
+| \#aḍḍhateyya | adj | masc | two-and-a-half (lit: three half) | |
 | \#\#aḍḍha | adj | masc | half | |
 | \#\#ti + \*ya | card | masc | three | |
 | \#māsā | noun | masc.nom.pl | months | √mā･5 nā (measure) |
 
-**This (is) the time in this case: One-and-a-half months (are) remaining of the hot season and the first month of the rainy season, thus these two-and-a-half months, ...**
+**This (is) the time in this case: One-and-a-half months (are) remaining of the hot season and the first month of the rainy season, thus these two-and-a-half months, …**
+
+[^2]: The iti could here also simply indicate a list, cf. Cone s.v.: "a single word or name or expression; a list"
 
 2. [AN5.140](https://s.dhamma.gift/an/an5/index.html#an5.140)
    idha, bhikkhave, rañño nāgo yam'enaṃ hatthidammasārathi kāraṇaṃ kāreti, yadi vā katapubbaṃ yadi vā akatapubbaṃ, taṃ aṭṭhiṃ katvā manasi katvā sabbaṃ cetasā samannāharitvā ohitasoto suṇāti.
@@ -483,32 +484,32 @@
 | --- | --- | --- | --- | --- |
 | yam'enaṃ | sandhi | | that which | |
 | \#yaṃ | pron | nt.acc.sg | whichever | |
-| \#enaṃ | pron | masc.acc.sg | that | |
+| \#enaṃ | pron | masc.acc.sg | him | |
 | hatthidammasārathi | noun | masc.nom.sg | elephant tamer | |
-| \#hatthī | noun | masc. | elephant | |
-| \#damma | adj | masc. | able to be tamed; fit to be trained | √dam･3 ya (be tame) |
+| \#hatthī | noun | masc | elephant | |
+| \#damma | adj | masc | able to be tamed; fit to be trained | √dam･3 ya (be tame) |
 | \#sārathi | noun | masc.nom.sg | a trainer; a driver | |
 | kāraṇaṃ | noun | nt.acc.sg | a task | √kar･7 \*e (do, make) |
 | kāreti | verb | pr.caus.3rd.sg | makes one do; causes to make | √kar･7 \*e (do, make) |
 
-**to whichever task the elephant trainer has him perform,**
+**whichever task the elephant trainer has him perform,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yadi vā | idiom | ind | whether or | |
 | katapubbaṃ | adj | nt.acc.sg | previously performed | kammadhāraya |
-| \#kata | pp | nt. | done; performed | √kar･7 o (do, make) |
+| \#kata | pp | nt | done; performed | √kar･7 o (do, make) |
 | \#pubbaṃ | adj | nt.acc.sg | previous; earlier | |
 | yadi vā | idiom | ind | whether or | |
 | akatapubbaṃ | adj | nt.acc.sg | not previously done; not previously performed | kammadhāraya |
-| \#akata | pp | nt. | not done; not performed | √kar･7 o (do, make) |
+| \#akata | pp | nt | not done; not performed | √kar･7 o (do, make) |
 | \#pubbaṃ | adj | nt.acc.sg | previous; earlier | |
 
 **whether [it] has been previously done or not previously done,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| taṃ | pron | masc.acc.sg | that | |
+| taṃ | pron | nt.acc.sg | that | |
 | aṭṭhiṃ katvā | idiom | | having paid attention; lit. having made important | |
 | \#aṭṭhiṃ | noun | masc.acc.sg | purpose; goal | |
 | \#katvā | verb | abs | having made | √kar･7 o (do, make) |
@@ -517,12 +518,12 @@
 | sabbaṃ | ind | adv | completely | |
 | cetasā | noun | masc.instr.sg | with a mind; with thought; with intention | √cit･8 \*e (think, intend) |
 | samannāharitvā | verb | abs | having focused | √har･1 a (carry) |
-| ohitasoto | adj | masc.nom.sg | listening attentively lit. with applied ear | |
-| \#ohita | pp | masc. | applied; paid (of attention) | √dhā･1 a (place, support) |
+| ohitasoto | adj | masc.nom.sg | listening attentively; lit. with applied ear | |
+| \#ohita | pp | masc | applied; paid (of attention) | √dhā･1 a (place, support) |
 | \#soto | adj | masc.nom.sg | with applied ear | √su･4 ṇā (hear) |
 | suṇāti | verb | pr.3rd.sg | he listens | √su･4 ṇā (hear) |
 
-**having focused and paid attention on that (task), having concentrated completely with the mind, he listens with applied ear.**
+**having focused and paid attention to that (task), having concentrated completely with the mind, he listens with applied ear.**
 
 3. [AN3.71](https://s.dhamma.gift/an/an3/index.html#an3.70)
    gopālako sāyanhasamaye sāmikānaṃ gāvo niyyātetvā iti paṭisañcikkhati: "ajja kho gāvo amukasmiñ'ca amukasmiñ'ca padese cariṃsu"
@@ -533,7 +534,7 @@
 | \#gunnaṃ | noun | masc.gen.pl | of cattle | √gam･1 a (go) |
 | \#pālako | noun | masc.nom.sg | protector | √pāl･8 \*e (protect) |
 | sāyanhasamaye | noun | masc.loc.sg | in the early evening | |
-| \#sāyanha | noun | masc. | evening | |
+| \#sāyanha | noun | masc | evening | |
 | \#samaye | noun | masc.loc.sg | in occasion; time | √i･1 a (come, go) |
 | sāmikānaṃ | noun | masc.dat.pl | to the owners | |
 | gāvo | noun | masc.acc.pl | the cattle | |
@@ -564,13 +565,13 @@
 | te | pron | 2nd.gen.sg | your | |
 | brāhmaṇa | noun | masc.voc.sg | O brahmin | √brah×1 a (increase) |
 | khāribhāro | noun | masc.nom.sg | load carried on a yoke across the shoulders | |
-| \#khāri | noun | fem. | goods carried on a pole across the shoulders | |
+| \#khāri | noun | fem | goods carried on a pole across the shoulders | |
 | \#bhāro | noun | masc.nom.sg | a burden; a load | √bhar･1 a (carry, support) |
 | kodho | noun | masc.nom.sg | anger; wrath | |
 | dhūmo | noun | masc.nom.sg | smoke | |
 | bhasmani | noun | masc.loc.sg | in ashes | |
 | mosavajjaṃ | noun | nt.nom.sg | untruth; false speech | |
-| \#mosa | adj | nt. | untrue | √mus･1 a (steal) |
+| \#mosa | adj | nt | untrue | √mus･1 a (steal) |
 | \#vajjaṃ | adj (as noun) | nt.nom.sg | speaking; saying | √vad･1 a (say, speak) |
 
 **Conceit, O brahmin, is indeed the burden carried across your shoulders; anger the smoke, false speech (is in) the ashes.**
@@ -583,13 +584,13 @@
 | idha | ind | adv | here | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | mahācoro | noun | masc.nom.sg | master thief | |
-| \#mahā | adj | masc. | great | |
+| \#mahā | adj | masc | great | |
 | \#coro | noun | masc.nom.sg | thief | √cur･8 \*e (steal) |
 | rājānaṃ | noun | masc.acc.sg | the king | √rāj･1 a (rule, shine) |
 | vā | ind | conj | or | |
-| rājamahāmattānaṃ | noun | masc.gen.pl | of the royal minister | chaṭṭhī tappurisa |
+| rājamahāmattānaṃ | noun | masc.gen.pl | of the royal ministers | chaṭṭhī tappurisa |
 | \#rājino | noun | masc.gen.sg | of the king | √rāj･1 a (rule, shine) |
-| \#mahāmattānaṃ | noun | masc.gen.pl | of the chief minister | |
+| \#mahāmattānaṃ | noun | masc.gen.pl | of the chief ministers | |
 | vā | ind | conj | or (not translated) | |
 | nissito | pp | masc.nom.sg | attached to; dependent on | √si･1 a (depend on, associate with) |
 | hoti | verb | pr.3rd.sg | is | √hū･1 a (be) |
@@ -611,17 +612,15 @@
 | \#pāla | noun | masc.voc.sg | protector; keeper | |
 | idha | ind | adv | here | |
 | pādaṃ | noun | masc.acc.sg | [my] foot | √pad･3 ya (go, step) |
-| karissāmī'ti | sandhi | | "...I will make"; "...I will perform" | |
+| karissāmī'ti | sandhi | | "…I will make"; "…I will perform" | |
 | \#karissāmi | verb | fut.1st.sg | I will make; I will perform | √kar･7 o (do, make) |
 | \#iti | ind | quotation mark | "" | |
 | aññen'eva | sandhi | | still with the other | |
 | \#aññena | pron | masc.instr.sg | with the other | |
 | \#eva | ind | | just | |
 | pādaṃ | noun | masc.acc.sg | a foot | √pad･3 ya (go, step) |
-| karomī"ti | sandhi | | "...I make"; "...I perform" | |
+| karomī"ti | sandhi | | "…I make"; "…I perform" | |
 | \#karomi | verb | pr.1st.sg | I make; I perform | √kar･7 o (do, make) |
 | \#iti | ind | quotation mark | "" | |
 
 **"Just sometimes, master Raṭṭhapāla, thinking, "I will place the foot here", I place it at (lit.: with) another (place)."**
-
-[^2]: the iti could here also simply indicate a list, cf. Cone s.v.: "a single word or name or expression; a list"

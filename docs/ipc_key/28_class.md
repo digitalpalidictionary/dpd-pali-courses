@@ -34,10 +34,10 @@
 | \#maṅgalaṃ | noun | nt.nom.sg | blessing | √maṅg + ala |
 | \#uttamaṃ | adj | nt.nom.sg | highest | ud + tama |
 
-**Reverence and humility, satisfaction and gratitude, Hearing the teaching at the right time; this is the highest blessing.**
+**Reverence and humility, satisfaction and gratitude, hearing the teaching at the right time; this is the highest blessing.**
 
 2. [SN1.51](https://s.dhamma.gift/sn/sn1/index.html#sn1.51)
-   **sīlaṃ[^51]** yāva **jarā** **sādhu**,
+   **sīlaṃ**[^51] yāva **jarā** **sādhu**,
    **saddhā** sādhu **patiṭṭhitā**,
    **paññā** narānaṃ ratanaṃ,
    puññaṃ **corehi** **dūharan**'ti.
@@ -74,12 +74,12 @@
 | \#mogha | adj | masc. | stupid; foolish (lit: empty) | √muh + \*gha |
 | \#purisā | noun | masc.nom.pl | persons | |
 | dhammaṃ | noun | masc.acc.sg | the teaching | |
-| pariyāpuṇanti | verb | pr.3rd.pl | study well; learn thoroughly (lit: reach) | pari + ā + √ap + uṇā + ti |
+| pariyāpuṇanti | verb | pr.3rd.pl | study well; learn thoroughly (lit: reach) | pari + ā + √ap + uṇā + nti |
 | **suttaṃ** | noun | nt.acc.sg | discourse (lit: thread) | √siv + ta |
 | **geyyaṃ** | noun (ptp) | nt.acc.sg | mixed verse (lit: to be sung) | √gā + eyya |
 | **veyyākaraṇaṃ** | noun | nt.acc.sg | a detailed exposition | vi + ā + √kar + aṇa + \*a |
 | **gāthaṃ** | noun | fem.acc.sg | verse; poem (lit: song) | √gā + thā |
-| **udānaṃ** | noun | nt.acc.sg | inspired saying; exclamation | ud + √an + \*a |
+| **udānaṃ** | noun | masc.acc.sg | inspired saying; exclamation | ud + √an + \*a |
 | **itivuttakaṃ** | noun | nt.acc.sg | thus said; quotations | iti + vutta + ka |
 | **jātakaṃ** | noun | nt.acc.sg | stories of previous lives; birth stories (lit: about born) | √jan + ta + ka |
 | **abbhuta**dhammaṃ | noun | nt.acc.sg | marvellous accounts | kammadhāraya |
@@ -100,7 +100,7 @@
 | **madhurañ**'ca | sandhi | | and a sweet smell | |
 | \#**madhuraṃ** | noun | nt.acc.sg | sweet (smell) | madhu + ra |
 | \#ca | ind | conj | and | |
-| pavanti | verb | pr.3rd.pl | exude; diffuse | pa + √vā + a + ti |
+| pavanti | verb | pr.3rd.pl | exude; diffuse | pa + √vā + a + nti |
 | **sabbaso** | ind | adv | all around; from all sides | sabba + so |
 | kusuma**rajena** | noun | masc.instr.sg | by means of flower pollen | chaṭṭhī tappurisa |
 | \#kusumānaṃ | noun | nt.gen.pl | of flowers | |
@@ -108,7 +108,7 @@
 | **samuṭṭhitā** | pp (as adj) | masc.nom.pl (+instr) | laden (with); full (of) | saṃ + ud + √ṭhā + ita |
 | dumā | noun | masc.nom.pl | trees | |
 | paṭhama**vasanto** | noun | masc.nom.sg | first month of spring; early spring | kammadhāraya |
-| \#paṭhama | ordin | masc. | first | pa√ṭhā･1 a (stand)+ ma |
+| \#paṭhama | ordin | masc. | first | pa + tama |
 | \#**vasanto** | noun | masc.nom.sg | spring | √vas + a + nta |
 | **sukho** | adj | masc.nom.sg | pleasant | √sukh + a |
 | utu | noun | masc.nom.sg | the season | |
@@ -140,24 +140,24 @@
 **One gives to a newcomer, one gives to a traveller, one gives to one who is ill, one gives during a famine.**
 
 6. [SN2.23](https://s.dhamma.gift/sn/sn2/index.html#sn2.23)
-   tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇa**-**brāhmaṇa**-**kapaṇ'addhika**-vanibbaka-**yācakānaṃ**.
+   tassa mayhaṃ, **bhante**, catūsu **dvāresu** dānaṃ dīyittha **samaṇabrāhmaṇakapaṇ'addhika**vanibbaka**yācakānaṃ**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tassa | pron | masc.gen.sg | of that [me] | |
 | mayhaṃ | pron | 1st.gen.sg | mine; my | |
-| **bhante** | noun | masc.voc.sg | Venerable sir | √bhad + anta + e |
+| **bhante** | noun | masc.voc.sg | Venerable sir | bhava + nta + e |
 | catūsu | card | nt.loc.pl | in four; at four | |
 | **dvāresu** | noun | nt.loc.pl | doors; entrances; gates | √dvar + \*a |
 | dānaṃ | noun | nt.nom.sg | an offering; giving | |
 | dīyittha | verb | aor.pass.reflx.3rd.sg | was offered | √dā + īya + ittha |
-| samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ | noun | masc.dat.pl | to ascetics, priests, tramps, paupers and beggars | dvanda |
+| samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṃ | noun | masc.dat.pl | to ascetics, brahmins, tramps and travellers, mendicants and beggars | dvanda |
 | **\#samaṇa** (ca) | noun | masc. | ascetics | √sam + aṇa |
 | **\#brāhmaṇa** (ca) | noun | masc. | brahmins | √brah + ma + \*aṇa |
 | \#kapaṇa (ca) | noun | masc. | tramps; beggars; paupers | √kap + aṇa |
 | \#addhika (ca) | noun | masc. | travellers | addha + ika |
 | \#vanibbaka (ca) | noun | masc. | mendicants | |
-| **yācakānaṃ** (ca) | noun | masc.dat.pl | to beggars | √yāc + aka |
+| \#**yācakānaṃ** (ca) | noun | masc.dat.pl | to beggars | √yāc + aka |
 
 **Thus, my gifts were offered at the four gates to ascetics, brahmins, tramps and travellers, mendicants and beggars.**
 
@@ -206,9 +206,9 @@
 | --- | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | they who | |
 | **tattha** | ind | adv | in that regard | ta + ttha |
-| anumodanti | verb | pr.3rd.pl | approve (of); appreciate; are pleased (by) | anu + √mud + \*a + ti |
+| anumodanti | verb | pr.3rd.pl | approve (of); appreciate; are pleased (by) | anu + √mud + \*a + nti |
 | **veyyāvaccaṃ** | noun | nt.acc.sg | service; assistance | vi + ā + √par + ta + \*ya |
-| karonti | verb | pr.3rd.pl | they do; they act | √kar + o + ti |
+| karonti | verb | pr.3rd.pl | they do; they act | √kar + o + nti |
 | vā | ind | conj | or | |
 | na | ind | neg | not | |
 | tena | pron | masc.instr.sg | by that | |
@@ -261,7 +261,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| accayanti | verb | pr.3rd.pl | pass; fly past | ati + √i + a + ti |
+| accayanti | verb | pr.3rd.pl | pass; fly past | ati + √i + a + nti |
 | aho**rattā** | noun | nt.nom.pl | days and nights | dvanda |
 | \#aha (ca) | noun | nt. | days and | |
 | \#**rattā (ca)** | noun | nt.nom.pl | nights and | ratti + a |
@@ -341,16 +341,16 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | no | ind | neg | not | |
-| ce | ind | conj | if | |
+| ce | ind | cond | if | |
 | te | pron | 2nd.gen/dat.sg | when/for you | |
-| evaṃ | ind | emph | in such a way | |
+| evaṃ | ind | adv | in such a way | |
 | **viharato** | prp | masc.gen/dat.sg | when/for staying; dwelling | vi + √har + a + nta |
 | taṃ | pron | nt.nom.sg | that | |
 | middhaṃ | noun | nt.nom.sg | drowsiness; sluggishness | |
-| pahīyetha | verb | opt.pass.3rd.sg | decreases; is abandoned | pa + √hā + īya + etha |
+| pahīyetha | verb | opt.pass.reflx.3rd.sg | would decrease; would be abandoned | pa + √hā + īya + etha |
 | **tato** | ind | adv | after that; then; next | ta + to |
 | tvaṃ | pron | 2nd.nom.sg | you | |
-| **moggallāna** | noun | masc.voc.sg | **Moggallāna** | muggala + \*yāna |
+| **moggallāna** | noun | masc.voc.sg | Moggallāna | muggala + \*yāna |
 | ubho | pron | nt.acc.dual | both | |
 | kaṇṇa**sotāni** | noun | nt.acc.pl | ear holes (lit: ear streams) or ear passage | chaṭṭhī tappurisa |
 | \#kaṇṇa | noun | masc. | ear | |
@@ -383,7 +383,7 @@
 | va | ind | conj | or | |
 | **sutaṃ** | pp | nt.nom.sg | heard | √su + ta |
 | **mutaṃ** | pp | nt.nom.sg | sensed; perceived | √mun + ta |
-| va | ind | conj | or | |
+| vā | ind | conj | or | |
 | sa | pron | masc.nom.sg | he; the | |
 | **pannabhāro** | adj | masc.nom.sg | who has laid down the load | kammadhāraya \> bahubbīhi |
 | **\#panna** | adj (pp) | masc. | lowered; put down | √pat + na |
@@ -392,7 +392,9 @@
 | **vippamutto** | pp | masc.nom.sg | freed; released | vi + pa + √muc + ta |
 | na | ind | neg | not | |
 | **kappiyo** | adj | masc.nom.sg | fabricating concepts | √kapp + iya |
-| n'ūparato | pp | masc.nom.sg | not restrained; not stopped | na + upa + √ram + ta |
+| n'ūparato | sandhi | | not restrained; not stopped | |
+| \#na | ind | neg | not | |
+| \#uparato | pp | masc.nom.sg | restrained; stopped | upa + √ram + ta |
 | na | ind | neg | not | |
 | patthiyo'ti | sandhi | | "...desiring" | |
 | \#patthiyo | adj | masc.nom.sg | desiring; wishing | pa + √atth + iya |
@@ -435,7 +437,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | sace | ind | cond | if | |
-| enti | verb | pr.3rd.pl | they come [back] (to) | √i + a + ti |
+| enti | verb | pr.3rd.pl | they come [back] (to) | √i + a + nti |
 | **manussattaṃ** | noun | nt.acc.sg | human existence; human state | manu + ssa + tta |
 | dalidde | adj | nt.loc.sg | poor | |
 | jāyare | verb | pr.pass.reflx.3rd.pl | are born | √jan + ya + re |
@@ -465,11 +467,11 @@
 | \#acāri | verb | aor.3rd.sg | wandered around | a + √car + i |
 | **cārikaṃ** | noun | fem.acc.sg | walking tour; walking journey | √car + \*ikā |
 | yen'**icchakaṃ** | ind | | wherever it wants; according to desire | abyayībhāva |
-| \#yena | ind | adv | because of | |
+| \#yena | ind | adv | where; wherever | |
 | \#**icchakaṃ** | adj | nt.acc.sg | wanting; desiring | √is + a + ā + ka |
 | **yattha**kāmaṃ | ind | | as one wants; where one likes | abyayībhāva |
 | **\#yattha** | ind | adv | wherever | ya + ttha |
-| **\#**kāmaṃ | ind | adv | freely; according to one's wishes | |
+| \#kāmaṃ | ind | adv | freely; according to one's wishes | |
 | yathāsukhaṃ | ind | | according to one's pleasure | abyayībhāva |
 | \#yathā | ind | adv | according to | |
 | \#sukhaṃ | noun | nt.acc.sg | pleasure | |
@@ -477,7 +479,7 @@
 | \#tad | pron | nt. | that | |
 | \#ajja | ind | adv | today; now | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| niggahessāmi | verb | fut.1st.sg | will restrain; will hold back | ni + √gah + ṇhā + ssa + ssa + mi |
+| niggahessāmi | verb | fut.1st.sg | will restrain; will hold back | ni + √gah + e + ssa + mi |
 | **yoniso** | ind | adv | thoroughly; carefully; intelligently (lit: from the source) | √yu + \*ni + so |
 | **hatthippabhinnaṃ** | adj | masc.acc.sg | elephant in rut | kammadhāraya |
 | **\#hatthī** | noun | masc. | an elephant | hattha + ī |
@@ -487,7 +489,7 @@
 | \#**aṅkusaṃ** | noun | masc.acc.sg | hooked pole | √añc + usa |
 | \#**gaho** | noun | masc.nom.sg | holding | √gah + a |
 
-**Formerly this mind wandered around on a walking tour wherever it wants, wherever it liked, according to its pleasure, now I will restrain that thoroughly like an elephant driver holding a hooked pole to an elephant in rut (i.e. with juices flowing).**
+**Formerly this mind wandered around on a walking tour wherever it wanted, wherever it liked, according to its pleasure; now I will restrain that thoroughly like an elephant driver holding a hooked pole to an elephant in rut (i.e. with juices flowing).**
 
 18. [TH251](https://s.dhamma.gift/kn/thag/index.html#thag16.1)
     aṭṭha**padakatā** kesā, **nettā** **añjanamakkhitā**.
@@ -495,7 +497,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| aṭṭha**padakatā** | sandhi | | arranged in eight parts; plaited eightfold | dutiyā tappurisa |
+| aṭṭha**padakatā** | adj | masc.nom.pl | arranged in eight parts; plaited eightfold | kammadhāraya |
 | \#aṭṭhapadaṃ | adj | masc.acc.sg | in eight ways; eightfold | |
 | \#\#aṭṭha | card | x.nom.pl | eight | |
 | \#\#**pada** | noun | nt. | way | √pad + a |
@@ -510,11 +512,11 @@
 | **mohāya** | noun | masc.dat.sg | for delusion | √muh + \*a |
 | no | ind | neg | not | |
 | ca | ind | conj | and; here: but | |
-| pāra**gavesino** | adj | masc.nom.pl | seeking salvation; who is looking for the beyond; lit. seeking the far shore | dutiyā tappurisa |
+| pāra**gavesino** | adj | masc.dat.sg | seeking salvation; who is looking for the beyond; lit. seeking the far shore | dutiyā tappurisa |
 | \#pāraṃ | noun | nt.acc.sg | the far shore | |
-| \#**gavesino** | adj | masc.nom.pl | those seeking | √gaves + ī |
+| \#**gavesino** | adj | masc.dat.sg | those seeking | √gaves + ī |
 
-**Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore**
+**Head hair plaited eightfold, eyes with eyeliner. It is enough for the delusion of a fool, but not for those seeking the far shore.**
 
-[^51]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate
+[^51]: These are simple predicative sentences with the copula hoti being understood. The remaining part of each line is the predicate.
 [^52]: In connection with the following attribute, "conqueror, vanquisher" seems the more likely sense here.

@@ -1,6 +1,6 @@
 # Class 23 Key to Exercises
 
-**Break up following words in suitable ways**
+**Break up the following words in suitable ways.**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@
 | ca | ind | conj | and | |
 | **purohitena** | noun | masc.instr.sg | chief priest; lit. placed in front | kammadhāraya |
 | \#**puro** | ind | adv | in front; at the head | pura + o |
-| \#**hitena** | pp | masc.instr.sg | lit. placed | dhā + ita |
+| \#**hitena** | pp | masc.instr.sg | lit. placed | √dhā + ita |
 
 **He enters the new meeting hall together with the royal consort and the chief brahmin priest.**
 
@@ -92,6 +92,8 @@
 
 **Venerable, do not say so. Do not misrepresent the Blessed One. Misrepresenting the Blessed One [is] not good. The Blessed One would not speak in this way.**
 
+[^27]: The copula (hoti) is unexpressed, but syntactically this is predicative.
+
 3. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)
    idha, gahapati, ariyasāvako **vigata**malamaccherena cetasā agāraṃ **ajjhāvasati** muttacāgo **payata**pāṇi **vossagga**rato yācayogo dāna**saṃvibhāga**rato. ayaṃ vuccati, gahapati, cāgasampadā.
 
@@ -116,15 +118,15 @@
 | \#mutto | pp | masc.nom.sg | released; liberated | √muc + ta |
 | \#cāgo | noun | masc.nom.sg | generosity; sharing | |
 | **payata**pāṇi | adj | masc.nom.sg | open-handed; freely giving (lit: stretched-out hand) | kammadhāraya \> bahubbīhi |
-| **\#payata** | pp (as adj) | masc. | generous; liberal | pa + √yam + ta |
+| \#**payata** | pp (as adj) | masc. | generous; liberal | pa + √yam + ta |
 | \#pāṇi | noun | masc.nom.sg | hand | |
 | **vossagga**rato | adj | masc.nom.sg | delighting in generosity | sattamī tappurisa |
-| **\#vossaggasmiṃ** | noun | masc.loc.sg | generosity; donation; giving; lit. relinquishment | vi + ava + √sajj + a |
+| \#**vossaggasmiṃ** | noun | masc.loc.sg | generosity; donation; giving; lit. relinquishment | vi + ava + √sajj + a |
 | \#rato | adj | masc.nom.sg | delighting in; taking pleasure in | √ram + ta |
-| yācayogo | adj | masc.nom.sg | charitable; ready to give to beggars | dutiyā tappurisa \> bahubbīhi |
-| \#yācaṃ | noun | nt.acc.sg | something asked for; begged item | |
+| yācayogo | adj | masc.nom.sg | charitable; ready to give to beggars | sattamī tappurisa \> bahubbīhi |
+| \#yāce | noun | nt.loc.sg | something asked for; begged item | |
 | \#yogo | noun | masc.nom.sg | yoke; bond; devotion to | |
-| dāna**saṃvibhāga**rato | adj | masc.nom.sg | who delights in sharing gifts | sattamī tappurisa |
+| dāna**saṃvibhāga**rato | adj | masc.nom.sg | who delights in giving and sharing | sattamī tappurisa |
 | \#dānasaṃvibhāge | noun | masc.loc.sg | in giving and sharing | dvanda |
 | \#\#dāna (ca) | noun | nt. | giving [and] | |
 | \#\#saṃvibhāge | noun | masc.loc.sg | in sharing | saṃ + vi + √bhaj + \*a |
@@ -136,7 +138,7 @@
 | \#cāgassa | noun | masc.gen.sg | of generosity | |
 | \#sampadā | noun | fem.nom.sg (+gen) | attainment (of) | |
 
-**Here, householder, a noble disciple lives the household life with a mind free from the stain of stinginess, giving freely, open-handed, delighting in generosity, ready to give to beggars, and who delights in sharing gifts. This, householder, is called the attainment of generosity.**
+**Here, householder, a noble disciple lives the household life with a mind free from the stain of stinginess, giving freely, open-handed, delighting in generosity, ready to give to beggars, and who delights in giving and sharing. This, householder, is called the attainment of generosity.**
 
 4. [SNP13](https://s.dhamma.gift/kn/snp/index.html#snp2.1)
    khayaṃ **virāgaṃ** **amataṃ** **paṇītaṃ**,
@@ -149,9 +151,9 @@
 | **virāgaṃ** | noun | masc.acc.sg | fading of desire; dispassion | vi + √raj + \*a |
 | **amataṃ** | noun | nt.acc.sg | deathless state; immortality | na + √mar + ta |
 | **paṇītaṃ** | adj | nt.acc.sg | fine; superior | pa + √nī + ta |
-| yad'**ajjhagā** | sandhi | | which attained; was experienced that | |
+| yad'**ajjhagā** | sandhi | | which [he] attained | |
 | \#yad | pron | nt.acc.sg | whichever; whatever | |
-| **\#ajjhagā** | verb | imperf.3rd.sg | obtained; achieved | adhi + a + √gam + ā |
+| \#**ajjhagā** | verb | imperf.3rd.sg | obtained; achieved | adhi + a + √gam + ā |
 | sakyamunī | noun | masc.nom.sg | the Sakyan sage | kammadhāraya |
 | \#sakya | adj | masc. | of the Sakyan family | |
 | \#munī | noun | masc.nom.sg | sage | |
@@ -159,8 +161,8 @@
 | na | ind | neg | not | |
 | tena | pron | masc.instr.sg | by the; by that | |
 | dhammena | noun | masc.instr.sg | (by) the doctrine | |
-| sam'atthi | sandhi | | there is equal (to); there is comparable (to) +instr | |
-| \#samo | adj | masc.nom.sg | like; equal | |
+| sam'atthi | sandhi | (+instr) | there is equal (to); there is comparable (to) | |
+| \#samaṃ | adj | nt.nom.sg | like; equal | |
 | \#atthi | verb | pr.3rd.sg | there is | |
 | kiñci | ind | | anything | |
 
@@ -181,12 +183,12 @@
 | ariyañ'c'aṭṭh'aṅgikaṃ | sandhi | | and the noble eightfold | |
 | \#ariyaṃ | adj | masc.acc.sg | noble | |
 | \#ca | ind | conj | and | |
-| \#aṭṭhaṅgikaṃ | adj | masc.acc.sg | eightfold | kammadhāraya \> bahubbīhi |
+| \#aṭṭhaṅgikaṃ | adj | masc.acc.sg | eightfold | digu |
 | \#\#aṭṭha | card | x. | eight | |
 | \#\#aṅgikaṃ | adj | masc.acc.sg | consisting of x parts | |
 | maggaṃ | noun | masc.acc.sg | path | |
 | dukkh'**ūpasama**gāminaṃ | adj | masc.acc.sg | leading to release from suffering | dutiyā tappurisa |
-| \#dukkhūpasamaṃ | adj | masc.acc.sg | calming of suffering; relief from suffering | chaṭṭhī tappurisa |
+| \#dukkhūpasamaṃ | noun | masc.acc.sg | calming of suffering; relief from suffering | chaṭṭhī tappurisa |
 | \#\#dukkhassa | noun | nt.gen.sg | of suffering | |
 | \#\#upasamaṃ | noun | masc.acc.sg | calmness; peace | upa + √sam + a |
 | \#gāminaṃ | adj | masc.acc.sg | leading to | |
@@ -194,7 +196,7 @@
 **[one sees the four noble truths with right understanding:] suffering, the origin of suffering, the overcoming of suffering, and the noble eightfold path leading to release from suffering.**
 
 6. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
-   **santussako[^28]** ca **subharo** ca, appakicco ca **sallahuka**vutti,
+   **santussako**[^28] ca **subharo** ca, appakicco ca **sallahuka**vutti,
    sant'indriyo ca nipako ca, **appagabbho** kulesu **ananugiddho**.
 
 | | | | | |
@@ -207,7 +209,7 @@
 | \#appa | adj | masc. | few; not many | |
 | \#kicco | noun (ptp) | masc.nom.sg | obligation (for); duty (for); work (for) | √kar + tya |
 | ca | ind | conj | and | |
-| **sallahuka**vutti | adj | masc.nom.sg (fem?) | of frugal livelihood; living lightly | kammadhāraya \> bahubbīhi |
+| **sallahuka**vutti | adj | masc.nom.sg | of frugal livelihood; living lightly | kammadhāraya \> bahubbīhi |
 | \#**sallahuka** | adj | masc. | frugal; light | saṃ + lahu + ka |
 | \#vutti | noun | fem.nom.sg | livelihood | |
 | sant'indriyo | adj | masc.nom.sg | calm; at peace (lit: with calm faculties) | kammadhāraya \> bahubbīhi |
@@ -221,6 +223,8 @@
 | **ananugiddho** | adj (pp) | masc.nom.sg | not greedy | na + anu + √gidh + ta |
 
 **One who is satisfied and easy to support, with few obligations and whose livelihood is frugal; one whose (mental) faculties are calm and who is discerning, courteous among families and not greedy.**
+
+[^28]: All nominatives here belong to the Subject of assa, "one should be".
 
 7. [TH257](https://s.dhamma.gift/kn/thag/index.html#thag16.1)
    araññe rukkhamūlesu, kandarāsu guhāsu ca.
@@ -238,9 +242,9 @@
 | vivekam'**anubrūhantā** | sandhi | masc.nom.pl | fostering seclusion; developing solitude | |
 | \#vivekaṃ | noun | masc.acc.sg | solitude; seclusion | |
 | \#**anubrūhantā** | prp | masc.nom.pl | fostering; developing (lit: causing to increase) | anu + √brūh + a + nta |
-| **vihaṃsu** | verb | aor.3rd.pl | they lived | vi + √har + suṃ |
-| tap'**parāyaṇā** | adj | masc.nom.pl | with that as final goal (lit: culminating in that) | dutiyā tappurisa |
-| \#taṃ | pron | nt.acc.sg | that | |
+| **vihaṃsu** | verb | aor.3rd.pl | they lived | vi + √har \> ha + ṃsu |
+| tap'**parāyaṇā** | adj | masc.nom.pl | with that as final goal (lit: culminating in that) | kammadhāraya \> bahubbīhi |
+| \#tad | pron | nt. | that | |
 | \#**parāyaṇā** | adj | masc.nom.pl | destined for; culminating in | parā + √i + \*ana |
 
 **In the forest, at the bases of trees, in grottoes and in caves, fostering seclusion, they lived with that as [their] final goal.**
@@ -266,9 +270,6 @@
 
 **He [who is] lazy dwells in suffering, mingled with evil and unskillful things, and great is the personal benefit that he neglects.**
 
-[^27]: The copula (hoti) is unexpressed, but syntactically this is predicative.
-[^28]: All nominatives here belong to the Subject of assa, "one should be".
-
 9. [VIN5.4.7](https://s.dhamma.gift/vin/tv/pli-tv-kd14/index.html) tiṇavatthārakaṃ
    yadi saṅghassa pattakallaṃ, saṅgho imaṃ adhikaraṇaṃ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṃ, ṭhapetvā gihippaṭisaṃyuttan'ti.
 
@@ -284,16 +285,17 @@
 | adhikaraṇaṃ | noun | nt.acc.sg | legal case, dispute | |
 | tiṇavatthārakena | noun | masc.instr.sg | by covering with grass | tatiyā tappurisa |
 | \#tiṇena | noun | nt.instr.sg | with grass | |
-| \#avatthārakena | noun | nt.instr.sg | by covering over | |
+| \#avatthārakena | noun | masc.instr.sg | by covering over | |
 | vūpasameyya | verb | opt.3rd.sg | it could settle | √sam･3 \*e (be calm, be tired) |
 | ṭhapetvā | verb | abs | having set aside, apart from | √ṭhā･1 \*āpe (stand) |
 | thullavajjaṃ | noun | nt.acc.sg | serious offences | kammadhāraya |
 | \#thulla | adj | nt. | coarse, gross; strong | |
 | \#vajjaṃ | noun | nt.acc.sg | offence | |
 | ṭhapetvā | verb | abs | having set aside, apart from | √ṭhā･1 \*āpe (stand) |
-| gihippaṭisaṃyuttan'ti | adj | nt.acc.sg | (offences) concerning lay people | tatiyā tappurisa |
-| \#gihīhi | noun | masc.instr.pl | householders | |
-| \#paṭisaṃyuttaṃ | adj | nt.acc.sg | connected (to); concerned (about) | |
+| gihippaṭisaṃyuttan'ti | sandhi | | (offences) concerning lay people | |
+| \#gihippaṭisaṃyuttaṃ | adj | nt.acc.sg | (offences) concerning lay people | tatiyā tappurisa |
+| \#\#gihīhi | noun | masc.instr.pl | householders | |
+| \#\#paṭisaṃyuttaṃ | adj | nt.acc.sg | connected (to); concerned (about) | |
 | \#iti | ind | | "" | |
 
 **adhi + √kar + aṇa**
@@ -302,9 +304,9 @@
 
 **√sam 3 e (to be calm) \> same (caus). vi + upa + same + eyya \> vūpasameyya**
 
-**√ṭhā 1 āpe (to stand) \> ṭhape (caus). thape + tvā**
+**√ṭhā 1 āpe (to stand) \> ṭhape (caus). ṭhape + tvā**
 
-**√ṭhā 1 āpe (to stand) \> ṭhape (caus). thape + tvā**
+**√ṭhā 1 āpe (to stand) \> ṭhape (caus). ṭhape + tvā**
 
 **pati + saṃ + √yuj + ta**
 
@@ -327,11 +329,11 @@
 | apasādenti | verb | pr.3rd.pl | they disparage, put down, belittle | |
 | ime | pron | masc.nom.pl | these | |
 | pana | ind | - | and, but | |
-| jhāyinomhā | verb | pr.1st.pl | we are meditators | |
+| jhāyinomhā | sandhi | | we are meditators | |
 | \#jhāyino | noun | masc.nom.pl | meditators | |
 | \#amhā | verb | pr.1st.pl | we are | |
 | jhāyinomhāti | sandhi | | we are meditators" | |
-| \#jhāyinomhā | verb | pr.1st.pl | we are meditators | |
+| \#jhāyinomhā | sandhi | | we are meditators | |
 | \#iti | ind | | "" | |
 | jhāyanti | verb | pr.3rd.pl | they meditate | |
 | pajjhāyanti | verb | pr.3rd.pl | they brood; are anxious; are concerned; are overcome | |
@@ -348,7 +350,7 @@
 
 **√jhā 3 ya (to think) \> jhāya. ava + jhāya + nti**
 
-**Here friends, the monks devoted to the teaching belittle the meditator monks (saying), "These (monks say) 'We are meditators, we are meditators!" but they meditate, brood, overthink, mis-meditate."**
+**Here friends, the monks devoted to the teaching belittle the meditator monks (saying), "These (monks say) 'We are meditators, we are meditators!' but they meditate, brood, overthink, mis-meditate."**
 
 11. [SNP53](https://s.dhamma.gift/kn/snp/index.html#snp4.15)
     yodha kāme accatari,
@@ -358,19 +360,23 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yodha | ind | - | whoever here | |
+| yodha | sandhi | - | whoever here | |
+| \#yo | pron | masc.nom.sg | whoever | |
+| \#idha | ind | adv | here | |
 | kāme | noun | masc.acc.pl | sensual pleasures | |
-| accatari | verb | aor.3rd.sg | transcended, overcome, escaped | |
+| accatari | verb | aor.3rd.sg | transcended, overcame, escaped | |
 | saṅgaṃ | noun | masc.acc.sg | attachment, clinging | |
 | loke | noun | masc.loc.sg | in the world, to the world | |
 | duraccayaṃ | adj | masc.acc.sg | hard to overcome | |
 | na | ind | neg | not | |
 | so | pron | masc.nom.sg | he | |
 | socati | verb | pr.3rd.sg | he grieves, is sad | |
-| nājjheti | verb | pr.3rd.sg | he is not anxious | |
+| nājjheti | sandhi | pr.3rd.sg | he is not anxious | |
+| \#na | ind | neg | not | |
+| \#ajjheti | verb | pr.3rd.sg | he is anxious | |
 | chinnasoto | adj | masc.nom.sg | cut the stream (of craving) | dutiyā tappurisa \> bahubbīhi |
 | \#chinno | pp | masc.nom.sg | who has cut | |
-| \#sotaṃ | noun | masc.nom.sg | the stream | |
+| \#sotaṃ | noun | masc.acc.sg | the stream | |
 | abandhano | adj | masc.nom.sg | without bonds, free, unchained | |
 
 **√tar 1 a (to cross). ati + a + √tar + i**
@@ -379,7 +385,7 @@
 
 **√suc 1 a (to grieve) \> soca. soca + ti**
 
-**√jhe 1 a (to think) . na + ā + √jhe + ti**
+**√jhā 3 ya (to think) \> jhe. na + ā + jhe + ti**
 
 **na + √bandh + ana**
 
@@ -397,7 +403,7 @@
 | \#sabba | pron | masc. | all | |
 | \#phāliphullā | adj | masc.nom.pl | flowering | |
 | kho | ind | - | indeed | |
-| ānanda | noun | masc.voc.sg | Ananda | |
+| ānanda | noun | masc.voc.sg | Ānanda | |
 | yamakasālā | noun | masc.nom.pl | pair of Sal trees | kammadhāraya |
 | \#yamaka | adj | masc. | pair | |
 | \#sālā | noun | masc.nom.pl | sal trees | |
@@ -417,13 +423,13 @@
 
 **na + √kal + \*a**
 
-**√kir 1 a (to scatter, sprinkle) \> kira. ava + kira + ti**
+**√kir 1 a (to scatter, sprinkle) \> kira. ava + kira + nti**
 
-**√kir 1 a (to scatter, sprinkle) \> kira. adhi + ava + kira + ti**
+**√kir 1 a (to scatter, sprinkle) \> kira. adhi + ava + kira + nti**
 
 **√kir 1 a (to scatter, sprinkle) \> kira. abhi + pa + kira + nti**
 
-**Ananda, this pair of Sal trees is in full blossom with out of season flowers. They rain down, scatter down, completely cover the body of the Tathagata, in worship of the Tathagata.**
+**Ānanda, this pair of Sal trees is in full blossom with out of season flowers. They rain down, scatter down, completely cover the body of the Tathāgata, in worship of the Tathāgata.**
 
 13. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
     cakkhunā rūpaṃ disvā mā nimittaggāhino ahuvattha, mā anubyañjanaggāhino. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ.
@@ -453,7 +459,7 @@
 | viharantaṃ | prp | masc.acc.sg | living; remaining | |
 | abhijjhādomanassā | noun | masc.nom.pl | covetousness and grief | dvanda |
 | \#abhijjhā (+ca) | noun | fem. | greed, covetousness | |
-| \#domanassā (+ca) | noun | nt. | grief, distress | |
+| \#domanassa (+ca) | noun | nt. | grief, distress | |
 | pāpakā | adj | masc.nom.pl | evil | |
 | akusalā | adj | masc.nom.pl | unhealthy | |
 | dhammā | noun | masc.nom.pl | mental states | |
@@ -475,7 +481,7 @@
 
 **dur + √man + as + \*ya**
 
-**√su 1 a (to flow) \> sava. anu + ā + sava + ti**
+**√su 1 a (to flow) \> sava. anu + ā + sava + eyyuṃ**
 
 **Having seen a form with the eye, do not grasp at (its) signs and features. Since, if you were to leave the eye-faculty unguarded, evil unwholesome states of covetousness and grief might invade you.**
 
@@ -490,9 +496,9 @@
 | anekavihitaṃ | adj | fem.acc.sg | various types | kammadhāraya |
 | \#aneka | adj | fem. | various | |
 | \#vihitaṃ | pp | fem.acc.sg | arranged; prepared | |
-| iddhividhaṃ | noun | fem.acc.sg | kinds of psychic power | kammadhāraya |
+| iddhividhaṃ | noun | fem.acc.sg | kinds of psychic power | chaṭṭhī tappurisa |
 | \#iddhi | noun | fem. | psychic power | |
-| \#vidhaṃ | adj | fem.acc.sg | of the kind | |
+| \#vidhaṃ | noun | fem.acc.sg | of the kind | |
 | paccanubhaveyyaṃ | verb | opt.1st.sg | I could manifest | |
 | ekopi | sandhi | masc.nom.sg | just one | |
 | \#eko | adj | masc.nom.sg | one | |
@@ -504,12 +510,12 @@
 | \#bahudhā | ind | adv | in many ways; in many forms | |
 | \#api | ind | | just | |
 | hutvā | verb | abs | having been | |
-| eko | adj | masc.nom.sg | just one | |
+| eko | adj | masc.nom.sg | one | |
 | assaṃ | verb | opt.1st.sg | I could be | |
-| āvibhāvaṃ | noun | masc.acc.sg | appearance | abyayībhāva |
+| āvibhāvaṃ | noun | masc.acc.sg | appearance | kammadhāraya |
 | \#āvi | ind | adv | openly; in full view | |
 | \#bhāvaṃ | noun | masc.acc.sg | state; condition | |
-| tirobhāvaṃ | noun | masc.acc.sg | disappearance | abyayībhāva |
+| tirobhāvaṃ | noun | masc.acc.sg | disappearance | kammadhāraya |
 | \#tiro | ind | prep | across | |
 | \#bhāvaṃ | noun | masc.acc.sg | state | |
 
@@ -536,7 +542,7 @@
 | --- | --- | --- | --- | --- |
 | sace | ind | - | if | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
-| rāhula | noun | masc.voc.sg | Rahula | |
+| rāhula | noun | masc.voc.sg | Rāhula | |
 | paccavekkhamāno | prp | masc.nom.sg | reflecting, reviewing | |
 | evaṃ | ind | adv | thus, like this | |
 | jāneyyāsi | verb | opt.2nd.sg | you may know | |
@@ -551,14 +557,14 @@
 | \#kāmo | adj | masc.nom.sg | wanting; wishing | |
 | idaṃ | pron | nt.nom.sg | this | |
 | me | pron | 1st.gen.sg | my, of mine | |
-| kāyakammaṃ | noun | nt.nom.sg | physical action | kammadhāraya |
-| \#kāya | noun | masc. | body | |
+| kāyakammaṃ | noun | nt.nom.sg | physical action | tatiyā tappurisa |
+| \#kāyena | noun | masc.instr.sg | with the body | |
 | \#kammaṃ | noun | nt.nom.sg | action | |
-| attabyābādhāyapi | noun | masc.dat.sg | hurting oneself, harm to oneself | |
-| attabyābādhāya | noun | masc.dat.sg | hurting oneself; harm to oneself | catutthī tappurisa |
-| \#attano | noun | masc.dat.sg | to oneself | |
-| \#byābādhāya | noun | masc.dat.sg | injury; harm | |
-| \#api | ind | | only; just | |
+| attabyābādhāyapi | sandhi | masc.dat.sg | hurting oneself, harm to oneself | |
+| \#attabyābādhāya | noun | masc.dat.sg | hurting oneself; harm to oneself | catutthī tappurisa |
+| \#\#attano | noun | masc.dat.sg | to oneself | |
+| \#\#byābādhāya | noun | masc.dat.sg | injury; harm | |
+| \#api | ind | | also; even | |
 | saṃvatteyya | verb | opt.3rd.sg | it could lead | |
 
 **√ikkh 1 a (to see, mark) \> ikkha. pati + ava + ikkha + māno**
@@ -567,9 +573,9 @@
 
 **vi + ā + √bādh + a**
 
-**√vatt 1 a (to be, proceed) \> vatta. saṃ + vatta + ti**
+**√vatt 1 a (to be, proceed) \> vatta. saṃ + vatta + eyya**
 
-**Rahula, if you know this while reflecting, "Whichever action that I wish to do by body, that physical action could lead to harm to myself" ...**
+**Rāhula, if you know this while reflecting, "Whichever action that I wish to do by body, that physical action could lead to harm to myself" ...**
 
 ## Class 23 Extra Examples
 
@@ -579,13 +585,13 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | seyyathā'pi | sandhi | | just like; just as; imagine if | |
-| \#se | pron | masc.nom.sg | that; it | |
+| \#se | pron | nt.nom.sg | that; it | |
 | \#yathā | ind | adv | like; how | |
 | \#api | ind | | only; just | |
 | bhikkhave | noun | masc.voc.pl | monks | |
 | balavā | adj | masc.nom.sg | powerful | |
 | puriso | noun | masc.nom.sg | a man; person | |
-| dubbalataraṃ | adj, comparative | masc.acc.sg | weaker | dur + √bal + a + tara |
+| **dubbalataraṃ** | adj, comparative | masc.acc.sg | weaker | dur + √bal + a + tara |
 | purisaṃ | noun | masc.acc.sg | a man; a person | |
 | sīse | noun | nt.loc.sg | on the head | |
 | vā | ind | conj | or | |
@@ -593,10 +599,10 @@
 | vā | ind | conj | or | |
 | khandhe | noun | masc.loc.sg | on the shoulder | |
 | vā | ind | conj | or | |
-| gahetvā | verb | abs | having taken; having seized | √gah + ṇhā + tvā |
-| abhiniggaṇheyya | verb | opt.3rd.sg | would/should firmly grab hold (of) | abhi + ni + √gah + ṇhā + eyya |
-| abhinippīḷeyya | verb | opt.3rd.sg | would completely crush down | abhi + ni + √pīḷ + \*e + eyya |
-| abhisantāpeyya | verb | opt.3rd.sg | would torture; torment (lit: cause to burn extremely) | abhi + saṃ + √tap + \*e + eyya |
+| gahetvā | verb | abs | having taken; having seized | √gah \> gahe + tvā |
+| **abhiniggaṇheyya** | verb | opt.3rd.sg | would/should firmly grab hold (of) | abhi + ni + √gah + ṇhā + eyya |
+| **abhinippīḷeyya** | verb | opt.3rd.sg | would completely crush down | abhi + ni + √pīḷ + \*e + eyya |
+| **abhisantāpeyya** | verb | opt.3rd.sg | would torture; torment (lit: cause to burn extremely) | abhi + saṃ + √tap + \*e + eyya |
 
 **Just as a powerful man, having seized a weaker man on the head or neck or shoulder, might firmly grab hold of [him] [and] completely crush [him] down, [and] torture [him]....**
 
@@ -608,12 +614,12 @@
 | --- | --- | --- | --- | --- |
 | passāmi | verb | pr.1st.sg | I see | √dis + a + mi |
 | loke | noun | masc.loc.sg | in the world | |
-| sadhane | adj | masc.acc.pl | rich; wealthy (lit: with wealth) | sa + √dhan + a |
+| **sadhane** | adj | masc.acc.pl | rich; wealthy (lit: with wealth) | sa + √dhan + a |
 | manusse | noun | masc.acc.pl | men; persons | |
-| laddhāna | verb | abs | having got; having obtained | labh + tvāna |
+| laddhāna | verb | abs | having got; having obtained | √labh + tvāna |
 | vittaṃ | noun | nt.acc.sg | wealth; property | |
 | na | ind | neg | not | |
-| dadanti | verb | pr.3rd.pl | they give; they donate | √dā + a + ti |
+| dadanti | verb | pr.3rd.pl | they give; they donate | √dā + a + nti |
 | mohā | noun | masc.abl.sg | because of delusion | |
 | luddhā | adj (pp) | masc.nom.pl | who are greedy, who want | √lubh + ta |
 | dhanaṃ | noun | nt.acc.sg | wealth | |
@@ -623,16 +629,16 @@
 | \#bhiyyo | ind | adv | more than; greater than | |
 | \#eva | ind | emph | only; just; even | |
 | kāme | noun | masc.acc.pl | sensual pleasures | |
-| **abhipatthayanti** | verb | pr.3rd.pl | they long for; crave for | abhi + pa + √atth + \*aya + ti |
+| **abhipatthayanti** | verb | pr.3rd.pl | they long for; crave for | abhi + pa + √atth + \*aya + nti |
 
-**I see wealthy persons in the world; having obtained wealth, they do not donate [it], because of delusion. [And] because of greed, they make a stockpile [of] wealth; they crave even more sensual pleasures**
+**I see wealthy persons in the world; having obtained wealth, they do not donate [it], because of delusion. The greedy make a stockpile of wealth; they crave even more sensual pleasures**
 
 3. [SN46.3](https://s.dhamma.gift/sn/sn46/index.html#sn46.3)
    savanampāhaṃ, bhikkhave, tesaṃ bhikkhūnaṃ[^29] bahukāraṃ vadāmi; upasaṅkamanampāhaṃ … payirupāsanampāhaṃ … anussatimpāhaṃ … anupabbajjampāhaṃ
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| savanampāhaṃ | sandhi | | even I, by hearing | |
+| savanampāhaṃ | sandhi | | even hearing, I | |
 | \#savanaṃ | noun | nt.acc.sg | hearing (of); listening (to) | |
 | \#api | ind | | even; just | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
@@ -643,24 +649,26 @@
 | \#bahu | adj | masc. | much | |
 | \#kāraṃ | noun | masc.acc.sg | action; service | |
 | vadāmi | verb | pr.1st.sg | I say | √vad + a + mi |
-| upasaṅkamanampāhaṃ | sandhi | | even I, by approaching | |
+| upasaṅkamanampāhaṃ | sandhi | | even approaching, I | |
 | \#upasaṅkamanaṃ | noun | nt.acc.sg | approaching; visiting | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| payirupāsanampāhaṃ | sandhi | | even I, by attending closely | |
-| \#payirupāsanā | noun | fem.acc.sg | attending closely | |
+| payirupāsanampāhaṃ | sandhi | | even attending closely, I | |
+| \#payirupāsanaṃ | noun | fem.acc.sg | attending closely | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| anussatimpāhaṃ | sandhi | | even I, by recollection | |
-| \#anussati | noun | fem.acc.sg | memory (of); recollection (of) | |
+| anussatimpāhaṃ | sandhi | | even recollection, I | |
+| \#anussatiṃ | noun | fem.acc.sg | memory (of); recollection (of) | |
 | \#api | ind | | just; only | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
-| anupabbajjampāhaṃ | sandhi | | even I, by following into the monastic life | |
+| anupabbajjampāhaṃ | sandhi | | even following into the monastic life, I | |
 | \#anupabbajjaṃ | noun | fem.acc.sg | following into the monastic life | |
 | \#api | ind | | just | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 
 **Just hearing of those monks, just approaching [them], just attending closely to [them], just recollecting [them], just following [them] into the monastic life, is very helpful I say.**
+
+[^29]: Formally, this belongs to the object as it qualifies it.
 
 4. [AN7.67](https://s.dhamma.gift/an/an7/index.html#an7.67)
    seyyathā'pi rañño **paccantime** nagare **anupariyāya**patho hoti **ucco** c'eva **vitthato** ca, evam'evaṃ kho, ariyasāvako **ottappī** hoti, **ottappati** kāya**duccaritena** vacīduccaritena manoduccaritena[^30]
@@ -668,7 +676,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | seyyathā'pi | sandhi | | just as | |
-| \#se | pron | masc.nom.sg | he; that | |
+| \#se | pron | nt.nom.sg | that; it | |
 | \#yathā | ind | adv | like; as | |
 | \#api | ind | | just | |
 | rañño | noun | masc.gen.sg | of a king | |
@@ -678,7 +686,7 @@
 | \#anupariyāya | adj | masc. | going around; encircling | anu + pari + √yā + a |
 | \#patho | noun | masc.nom.sg | path; road | |
 | hoti | verb | pr.3rd.sg | there is | |
-| **ucco** | adj | masc.nom.sg | high; tall | ud + tya |
+| **ucco** | adj | masc.nom.sg | high; tall | ud + ya |
 | c'eva | sandhi | | and even | |
 | \#ca | ind | conj | and | |
 | \#eva | ind | emph | even | |
@@ -700,12 +708,13 @@
 | vacīduccaritena | noun | nt.instr.sg | verbal misconduct; misbehavior in speech | tatiyā tappurisa |
 | \#vaciyā | noun | fem.instr.sg | by speech | |
 | \#duccaritena | noun | nt.instr.sg | by means of misconduct | |
-| manoduccaritena | adj | nt.instr.sg | mental misconduct; misbehavior by mind | tatiyā tappurisa |
-| \#manasā | adj | nt.instr.sg | by mental; with mind | |
+| manoduccaritena | noun | nt.instr.sg | mental misconduct; misbehavior by mind | tatiyā tappurisa |
+| \#manasā | noun | nt.instr.sg | by mind; with mind | |
 | \#duccaritena | noun | nt.instr.sg | by means of misconduct | |
 
-**Just as the encircling path around the frontier fortress of the king is high and even broad [for protecting its inhabitants]; in the same way, indeed, a**
-**noble disciple is afraid of doing wrong and feels conscience about bodily misconduct, verbal misconduct, and mental misconduct.**
+**Just as the encircling path around the frontier fortress of the king is both high and broad [for protecting its inhabitants]; in the same way, indeed, a noble disciple is afraid of doing wrong and feels conscience about bodily misconduct, verbal misconduct, and mental misconduct.**
+
+[^30]: This can be regarded as an instrumental object, cf. Cone s.v.: "feels ashamed or bashful; is afraid (of doing wrong); is scrupulous (to avoid, with instr., gen., and, rarely, acc.)"
 
 5. [SN1.28](https://s.dhamma.gift/sn/sn1/index.html#sn1.28)
    aññam'aññ'**ābhigijjhanti**,
@@ -717,9 +726,9 @@
 | \#aññamaññaṃ | sandhi | | one another | |
 | \#\#aññaṃ | pron | masc.acc.sg | another | |
 | \#\#aññaṃ | pron | masc.acc.sg | another | |
-| \#**abhigijjhanti** | verb | pr.3rd.pl (+acc) | envy; begrudge | abhi + √gidh + ya + ti |
+| \#**abhigijjhanti** | verb | pr.3rd.pl (+acc) | envy; begrudge | abhi + √gidh + ya + nti |
 | kāmesu | noun | masc.loc.pl | in regard to sensual pleasures | |
-| **analaṅ'katā** | adj | masc.nom.pl (+loc) | with insatiable appetite (for) [lit: not made enough] | kammadhāraya \> bahubbīhi |
+| **analaṅ'katā** | adj | masc.nom.pl (+loc) | with insatiable appetite (for) [lit: not made enough] | kammadhāraya |
 | \#na | prefix | | not | |
 | \#alaṃ | ind | emph | enough | |
 | \#katā | pp | masc.nom.pl | made | √kar + ta |
@@ -790,13 +799,10 @@
 | \#**abbuyha** | verb | ger | pulling out | ā + √buh + ya |
 | **nicchāto** | adj | masc.nom.sg | satisfied; desireless (lit: without hunger) | nir + √chā + ta |
 | **parinibbuto**"ti | sandhi | | "...completely quenched; entirely liberated" | |
-| \#**parinibbuto** | pp | masc.nom.sg | completely quenched; entirely liberated | pari + nir + √vā + ta |
+| \#**parinibbuto** | pp | masc.nom.sg | completely quenched; entirely liberated | pari + nī + √vā + ta |
 | \#iti | ind | quotation mark | "" | |
 
 **"Having placed down the onerous burden [and] not taking up another burden, pulling out craving with the root, he is desireless (without being hungry), entirely liberated."**
-
-[^29]: Formally, this belongs to the object as it qualifies it.
-[^30]: This can be regarded as an instrumental object, cf. Cone s.v.: "feels ashamed or bashful; is afraid (of doing wrong); is scrupulous (to avoid, with instr., gen., and, rarely, acc.)"
 
 9. [SN20.10](https://s.dhamma.gift/sn/sn20/index.html#sn20.10)
    atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tam'enaṃ biḷāro gahetvā sahasā asaṅkhāditvā ajjhohari. tassa so mudumūsi antam'pi khādi, antaguṇam'pi khādi.
@@ -813,7 +819,7 @@
 | \#go | noun | masc. | cow; cattle | |
 | \#carāya | adj | masc.dat.sg | for walking | |
 | pakkāmi | verb | aor.3rd.sg | he set off, went out | |
-| tamenaṃ | pron | masc.acc.sg | that very (mouse) | |
+| tamenaṃ | sandhi | masc.acc.sg | that very (mouse) | |
 | \#taṃ | pron | masc.acc.sg | that | |
 | \#enaṃ | pron | masc.acc.sg | this; him | |
 | biḷāro | noun | masc.nom.sg | a cat | |
@@ -828,10 +834,10 @@
 | \#antaṃ | noun | nt.acc.sg | intestine | |
 | \#api | ind | emph | even | |
 | khādi | verb | aor.3rd.sg | it ate | |
-| antaguṇampi | noun | nt.acc.sg | mesentery, small intestine | |
-| antaguṇaṃ | noun | nt.acc.sg | mesentery (lit: intestine string) | kammadhāraya |
-| \#anta | noun | nt. | intestines | |
-| \#guṇaṃ | noun | masc.acc.sg | string | |
+| antaguṇampi | sandhi | nt.acc.sg | mesentery, small intestine | |
+| \#antaguṇaṃ | noun | nt.acc.sg | mesentery (lit: intestine string) | kammadhāraya |
+| \#\#anta | noun | nt. | intestines | |
+| \#\#guṇaṃ | noun | masc.acc.sg | string | |
 | \#api | ind | | as well; even | |
 | khādi | verb | aor.3rd.sg | it ate | |
 
@@ -875,7 +881,7 @@
 | viharantaṃ | prp | masc.acc.sg | living; remaining | |
 | abhijjhādomanassā | noun | masc.nom.pl | covetousness and grief | dvanda |
 | \#abhijjhā (+ca) | noun | fem. | greed, covetousness | |
-| \#domanassā (+ca) | noun | nt. | grief, distress | |
+| \#domanassa (+ca) | noun | nt. | grief, distress | |
 | pāpakā | adj | masc.nom.pl | evil | |
 | akusalā | adj | masc.nom.pl | unhealthy | |
 | dhammā | noun | masc.nom.pl | mental states | |
@@ -897,7 +903,7 @@
 
 **dur + √man + as + \*ya**
 
-**√su 1 a (to flow) \> sava. anu + ā + sava + ti**
+**√su 1 a (to flow) \> sava. anu + ā + sava + eyyuṃ**
 
 **Having seen a form with the eye, do not grasp at (its) signs and features. Since, if you were to leave the eye-faculty unguarded, evil unwholesome states of covetousness and grief might invade you.**
 
@@ -912,31 +918,33 @@
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhikkhave | noun | masc.voc.pl | monks | |
 | imesaṃ | pron | masc.gen.pl | of these | |
-| pañcannaṃ | adj | x.gen.pl | of five | |
-| upādānakkhandhānaṃ | noun | masc.gen.pl | of these grasping aggregates | kammadhāraya |
+| pañcannaṃ | card | x.gen.pl | of five | |
+| upādānakkhandhānaṃ | noun | masc.gen.pl | of the grasping aggregates | chaṭṭhī tappurisa |
 | \#upādāna | noun | nt. | grasping; clinging; fuel | |
 | \#khandhānaṃ | noun | masc.gen.pl | aggregates | |
 | evaṃ | ind | adv | thus, like this | |
-| assādañca | noun | masc.acc.sg | and the satisfaction, enjoyment | |
+| assādañca | sandhi | masc.acc.sg | and the satisfaction, enjoyment | |
 | \#assādaṃ | noun | masc.acc.sg | satisfaction; enjoyment | |
 | \#ca | ind | conj | and | |
 | assādato | noun | masc.abl.sg | as the satisfaction, enjoyment | |
-| ādīnavañca | noun | masc.acc.sg | and the disadvantage | |
+| ādīnavañca | sandhi | masc.acc.sg | and the disadvantage | |
 | \#ādīnavaṃ | noun | masc.acc.sg | disadvantage; danger | |
 | \#ca | ind | conj | and | |
 | ādīnavato | noun | masc.abl.sg | as the disadvantage | |
-| nissaraṇañca | noun | nt.acc.sg | and the escape | |
+| nissaraṇañca | sandhi | nt.acc.sg | and the escape | |
 | \#nissaraṇaṃ | noun | nt.acc.sg | escape | |
 | \#ca | ind | conj | and | |
 | nissaraṇato | noun | nt.abl.sg | as the escape | |
 | yathābhūtaṃ | ind | adv | as it truly is; in reality, lit. like become | abyayībhāva |
 | \#yathā | ind | adv | as; like | |
 | \#bhūtaṃ | pp | | become | |
-| nābbhaññāsiṃ | verb | aor.1st.sg | I did not directly know | |
+| nābbhaññāsiṃ | sandhi | aor.1st.sg | I did not directly know | |
+| \#na | ind | neg | not | |
+| \#abbhaññāsiṃ | verb | aor.1st.sg | I directly knew | |
 | neva | sandhi | | not just | |
 | \#na | ind | neg | not | |
 | \#eva | ind | emph | just | |
-| tāvāhaṃ | pron | 1st.nom.sg | that much I | |
+| tāvāhaṃ | sandhi | 1st.nom.sg | that much I | |
 | \#tāva | ind | adv | that much | |
 | \#ahaṃ | pron | 1st.nom.sg | I | |
 | bhikkhave | noun | masc.voc.pl | monks | |
@@ -944,7 +952,9 @@
 | sammāsambodhiṃ | noun | fem.acc.sg | the highest enlightenment | |
 | \#sammā | ind | adv | rightly; perfectly | |
 | \#sambodhiṃ | noun | fem.acc.sg | enlightenment | |
-| abhisambuddho'ti | pp | masc.nom.sg | " realised" | |
+| abhisambuddho'ti | sandhi | | "…realised" | |
+| \#abhisambuddho | pp | masc.nom.sg | realised | |
+| \#iti | ind | quotation mark | "" | |
 | paccaññāsiṃ | verb | aor.1st.sg | I claimed | |
 
 **upa + √ādā + ana**
@@ -965,4 +975,4 @@
 
 **√ñā 5 nā (to know). pati + a + √ñā + si**
 
-**Monks, as long as I did not directly know as it truly is, the satisfaction as satisfaction, the danger as the danger, and the escape as the escape of these five grasping aggregates ... I did not claim to have awakened to the unsurpassed perfect enlightenment."**
+**Monks, as long as I did not directly know as it truly is, the satisfaction as satisfaction, the danger as the danger, and the escape as the escape of these five grasping aggregates ... I did not claim to have awakened to the unsurpassed perfect enlightenment.**

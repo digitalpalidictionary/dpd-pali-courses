@@ -4,7 +4,7 @@
 
 **e.g. paṭiggaṇhāmi:**
 
-**pati + √gah + ṇhā + ti**
+**pati + √gah + ṇhā + mi**
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
@@ -315,7 +315,7 @@
 | |
 
 15. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
-    ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti navañca vedanaṃ na uppādessāma yātrā ca no bhavissati anavajjatā ca phāsu vihāro cāti
+    ehi tvaṃ bhikkhu bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi yātrā ca no bhavissati anavajjatā ca phāsuvihāro cāti navañca vedanaṃ na uppādessāma yātrā ca no bhavissati anavajjatā ca phāsuvihāro cāti
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -358,8 +358,7 @@
 | bhavissati | | | | |
 | anavajjatā | | | | |
 | ca | | | | |
-| phāsu | | | | |
-| vihāro | | | | |
+| phāsuvihāro | | | | |
 | cāti | | | | |
 | navañca | | | | |
 | vedanaṃ | | | | |
@@ -371,8 +370,7 @@
 | bhavissati | | | | |
 | anavajjatā | | | | |
 | ca | | | | |
-| phāsu | | | | |
-| vihāro | | | | |
+| phāsuvihāro | | | | |
 | cāti | | | | |
 | |
 
@@ -382,7 +380,7 @@
 
 **e.g. paṭiggaṇhāmi:**
 
-**pati + √gah + ṇhā + ti**
+**pati + √gah + ṇhā + mi**
 
 **Please pay attention to the syntax: underline the subject, object(s), and predicate of the sentences**
 
@@ -432,7 +430,7 @@
 | **kāriyamānassa** | | | | |
 | honti | | | | |
 | yeva | | | | |
-| ye | | | | |
+| y | | | | |
 | eva | | | | |
 | visūkāyitāni | | | | |
 | visevitāni | | | | |
@@ -465,7 +463,7 @@
 | tenupasaṅkameyya | | | | |
 | |
 
-5. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61) ko cāhāro ayonisomanasikārassa. assaddhiyantissa vacanīyaṃ. assaddhiyampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro assaddhiyassa. asaddhammassavanantissa vacanīyaṃ
+5. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61) ko cāhāro ayonisomanasikārassa? assaddhiyantissa vacanīyaṃ. assaddhiyampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro assaddhiyassa? asaddhammassavanantissa vacanīyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

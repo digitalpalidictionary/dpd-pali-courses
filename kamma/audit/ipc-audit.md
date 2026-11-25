@@ -41,6 +41,8 @@ Paths below are relative to `docs/ipc/`. In `Current`, `\|` is a table pipe in t
 
 ## Summary
 
+These numbers before approval - because user is removing rejected lines and keep only approved lines.
+
 | Category | idx–16 | 17 | 18 | 19–20 | 21–22 | 23 | 24–25 | 26–27 | 28a | 28b | cross | Total | Conf. ≥ 8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A. Pāli and grammar content errors | 3 | 7 | 4 | 9 | 7 | 2 | 7 | 7 | 7 | 5 | 0 | 58 | 37 |
@@ -184,6 +186,12 @@ The rows of this audit were compared with `ipc-key-audit.md` wherever both touch
 - `bhagavā` and `tathāgata`: the cross-slice C row here now names the key audit's rendering (`the Blessed One`, `ipc_key/24_class.md:209`).
 
 Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions in both audits; `pāva` is a perfect of `vadati` in both; the prefix is `nī` in `parinibbuta` and `niccheyya` (key) and in the verbs of class 23 (here); `veyaggha` is the derived adjective in both; `samādhiyati` is a passive in both.
+
+## The GOLDEN RULE
+
+When apply approved suggestions:
+
+Always correct corresponding sentences and tables in the docs/ipc_ex/ and docs/ipc_key/ since there we have exercise related to this class, and maybe something from here will be relevant there. key and ex need to be synced.
 
 ## A. Pāli and grammar content errors
 

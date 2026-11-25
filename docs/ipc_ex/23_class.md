@@ -1,6 +1,6 @@
 # Class 23
 
-**Break up following words in suitable ways**
+**Break up the following words in suitable ways.**
 
 | Pāli | POS | Grammar | English |
 | --- | --- | --- | --- |

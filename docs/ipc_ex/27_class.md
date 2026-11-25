@@ -32,7 +32,7 @@
 | passati | | | | |
 | |
 
-2. VIN PAT NID
+2. [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)
    yassa siyā āpatti, so āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṃ, tuṇhībhāvena kho panāyasmante parisuddhāti vedissāmi.
 
 | | | | | |
@@ -216,7 +216,7 @@
 | kayirāti | | | | |
 | |
 
-11. VIN PAT SA
+11. [VIN PAT SA](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
     ekenapi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā
 
 | | | | | |

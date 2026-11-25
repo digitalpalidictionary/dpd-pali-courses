@@ -94,7 +94,7 @@
 | ca | | | | |
 | |
 
-6. [DN2.4](https://s.dhamma.gift/dn/dn2/index.html)
+6. [DN17](https://s.dhamma.gift/dn/dn17/index.html)
    kusāvatiyā, ānanda, rājadhāniyā catunnaṃ vaṇṇānaṃ dvārāni ahesuṃ. ekaṃ dvāraṃ sovaṇṇamayaṃ, ekaṃ rūpiyamayaṃ, ekaṃ veḷuriyamayaṃ, ekaṃ phalikamayaṃ.
 
 | | | | | |

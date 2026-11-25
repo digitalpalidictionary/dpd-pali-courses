@@ -199,7 +199,7 @@
 | |
 
 11. [MN73](https://s.dhamma.gift/mn/mn73/index.html)
-    sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu.** evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
+    sace hi, bho gotama, imaṃ dhammaṃ bhavaṃyeva gotamo ārādhako **abhavissa**, no ca kho bhikkhū ārādhakā **abhavissaṃsu**. evamidaṃ brahmacariyaṃ aparipūraṃ **abhavissa** tenaṅgena.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -383,7 +383,7 @@
 | phāsuvihārañcāti | | | | |
 | |
 
-5. [SN35.194](https://s.dhamma.gift/sn/sn35/index.html#sn35.194)
+5. [SN35.241](https://s.dhamma.gift/sn/sn35/index.html#sn35.241)
    evameva kho, bhikkhave, sace tumhepi na orimaṃ tīraṃ **upagacchatha**, na pārimaṃ tīraṃ **upagacchatha**; na majjhe **saṃsīdissatha**, na thale **ussīdissatha**, na manussaggāho **gahessati**, na amanussaggāho **gahessati**, na āvaṭṭaggāho **gahessati**, na antopūtī **bhavissatha**; evaṃ tumhe, bhikkhave, nibbānaninnā **bhavissatha** nibbānapoṇā nibbānapabbhārā.
 
 | | | | | |
