@@ -43,19 +43,18 @@
 **It is the path for the overcoming of sorrow and lamentation, for the attainment of the (right) method, for personal experience of total emancipation.**
 
 4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)
-   uttarimanussadhammo alam'ariyañāṇadassanaviseso
-   uttari**ssa** manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**
+   uttari manuss**assa** dhamm**o** alam'ariy**o** ñāṇadassan**assa** vises**o**[^1]
 
 | | | | |
 | --- | --- | --- | --- |
-| uttarissa | adj | masc.gen.sg | of superior (than); higher (than); better (than) |
+| uttari | adj | masc.nom.sg | superior; higher; better |
 | manussassa | noun | masc.gen.sg | of a human being |
 | dhammo | noun | masc.nom.sg | the quality; state; nature |
-| alam'ariyo | adj | masc.nom.sg | suitable for a noble person; worthy of an enlightened |
+| alam'ariyo | adj | masc.nom.sg | suitable for a noble person; worthy of an enlightened one |
 | ñāṇadassanassa | noun | nt.gen.sg | of knowing and seeing |
 | viseso | noun | masc.nom.sg | attainment; distinction |
 
-**the state of a superior human being, the attainment of knowing and seeing, suitable for a noble person,**
+**superior state of a human being, the attainment of knowing and seeing, suitable for a noble person,**
 
 5. [VIN PAT SE 55](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl)
    na sāmisena hatthena pānīyassa thālakaṃ paṭiggahessāmi
@@ -215,13 +214,13 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| samaṇena | noun | masc.instr.sg | with recluse |
+| samaṇena | noun | masc.instr.sg | with a recluse |
 | vā | ind | conj | or |
-| brāhmaṇena | noun | masc.instr.sg | with brahmin |
-| devena | noun | masc.instr.sg | with deity |
-| mārena | noun | masc.instr.sg | with Mara |
+| brāhmaṇena | noun | masc.instr.sg | with a brahmin |
+| devena | noun | masc.instr.sg | with a deity |
+| mārena | noun | masc.instr.sg | with Māra |
 
-**with either a recluse or a brahmin or a deity or Mara**
+**with either a recluse or a brahmin or a deity or Māra**
 
 20. [SN35.28](https://s.dhamma.gift/sn/sn35/index.html#sn35.28)
     sokehi paridevehi dukkhehi domanassehi upāyāsehi
@@ -230,8 +229,8 @@
 | --- | --- | --- | --- |
 | sokehi | noun | masc.instr.pl / masc.abl.pl | with griefs / from griefs |
 | paridevehi | noun | masc.instr.pl / masc.abl.pl | with lamentations / from lamentations |
-| dukkhehi | noun | masc.instr.pl / masc.abl.pl | with sufferings, pains / from sufferings, pains |
-| domanassehi | noun | masc.instr.pl / masc.abl.pl | with distresses / from distresses |
+| dukkhehi | noun | nt.instr.pl / nt.abl.pl | with sufferings, pains / from sufferings, pains |
+| domanassehi | noun | nt.instr.pl / nt.abl.pl | with distresses / from distresses |
 | upāyāsehi | noun | masc.instr.pl / masc.abl.pl | with afflictions / from afflictions |
 
 **[burning] with griefs, lamentations, pains, distresses, afflictions**
@@ -325,16 +324,16 @@
 | gotamassa | noun | masc.gen.sg / masc.dat.sg | of Gotama / for/to Gotama |
 | sāvakesu | noun | masc.loc.pl | among the disciples |
 
-**Gotama [trains] disciples … among the disciples of the Gotama.**
+**Gotama [trains] disciples … among the disciples of Gotama.**
 
 30. kassapassa vinayasmiṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| kassapassa | proper noun | masc.gen.sg / masc.dat.sg | of the Kassapa / for/to the Kassapa |
+| kassapassa | noun | masc.gen.sg / masc.dat.sg | of Kassapa / for/to Kassapa |
 | vinayasmiṃ | noun | masc.loc.sg | at/in the discipline |
 
-**in the discipline of the Kassapa**
+**in the discipline of Kassapa**
 
 ## Class 2 Extra
 
@@ -386,7 +385,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | saṅkhārā | noun | masc.abl.sg / masc.nom.pl | from the volitional formation / volitional formations |
-| ābādhāya | noun | masc.dat.sg | to sufferings |
+| ābādhāya | noun | masc.dat.sg | to affliction |
 
 **Volitional formations [are conducive] to suffering**
 
@@ -399,3 +398,5 @@
 | saṅgho | noun | masc.nom.sg | the Saṅgha; community of monks |
 
 **[far] from the Saṅgha [and] the Saṅgha [is far from]…**
+
+[^1]: Original compounds are uttarimanussadhammo alam'ariyañāṇadassanaviseso

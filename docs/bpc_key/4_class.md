@@ -48,9 +48,9 @@
 | ime | pron | masc.nom.pl | these |
 | māsā | noun | masc.nom.pl | speckled beans |
 | ime | pron | masc.nom.pl | these |
-| tilā | noun | masc.nom.pl | sesame |
+| tilā | noun | nt.nom.pl | sesame |
 | ime | pron | masc.nom.pl | these |
-| taṇḍulā'ti | noun | masc.nom.pl | dehusked rice" |
+| taṇḍulā'ti | noun | masc.nom.pl | dehusked rice |
 | (honti) | verb | pr.3rd.pl | (these are) |
 
 **"These are fine rices, these are paddy, these are mung beans, these are speckled beans, these are sesame, these are dehusked rice."**
@@ -75,9 +75,9 @@
 | atha kho | idiom | ind | and then |
 | āyasmā | noun | masc.nom.sg | venerable |
 | tisso | noun | masc.nom.sg | Tissa |
-| upasaṅkami, | verb | aor.3rd.sg | he approached |
+| upasaṅkami | verb | aor.3rd.sg | he approached |
 | ekamantaṃ | ind | adv | on one side |
-| nisīdi. | verb | aor.3rd.sg | he sat |
+| nisīdi | verb | aor.3rd.sg | he sat |
 
 **And then Venerable Tissa approached and sat down to one side.**
 
@@ -87,12 +87,12 @@
 | | | | |
 | --- | --- | --- | --- |
 | āyasmā | noun | masc.nom.sg | venerable |
-| rāhulo | noun | masc.nom.sg | Rahula |
+| rāhulo | noun | masc.nom.sg | Rāhula |
 | bhagavato | noun | masc.gen.sg | of the Blessed One |
 | bhāsitaṃ | noun | nt.acc.sg | words, speech |
 | abhinandi | verb | aor.3rd.sg | delighted in, was happy with |
 
-**Venerable Rahula delighted in the speech of the Blessed One.**
+**Venerable Rāhula delighted in the speech of the Blessed One.**
 
 8. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
    ahaṃ sakamhā gāmā amuṃ gāmaṃ agacchiṃ
@@ -109,7 +109,7 @@
 **I went from my own village to such and such a village.**
 
 9. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57)
-   byādhi dhammo amhi
+   byādhi dhammo amhi[^1]
 
 | | | | |
 | --- | --- | --- | --- |
@@ -213,20 +213,20 @@
 
 **There is the arising of the mass of suffering.**
 
-17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
+17. [DHP154](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
     gahassa kāraka, diṭṭho asi
 
 | | | | |
 | --- | --- | --- | --- |
-| gahassa | noun | masc.gen.sg | of a house |
+| gahassa | noun | nt.gen.sg | of a house |
 | kāraka | noun | masc.voc.sg | builder |
 | diṭṭho | pp | masc.nom.sg | seen; found; visible |
 | asi | verb | pr.2nd.sg | you are |
 
-**O, Builder of a house, you are seen.**
+**O house-builder, you are seen.**
 
 18. [MN10](https://s.dhamma.gift/mn/mn10/index.html) (simpl)
-    ‘atthi kāyo'ti sati hoti.
+    'atthi kāyo'ti sati hoti.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -252,7 +252,7 @@
 | iti | ind | quote | " " |
 | bhaṇati | verb | pr.3rd.sg | he says |
 
-**He says, "There are here some noblemen [and] brahmins."**
+**He says, "There are here some noblemen and brahmins."**
 
 20. [MN39](https://s.dhamma.gift/mn/mn39/index.html) (simpl)
     me āsi kāye balaṃ
@@ -267,11 +267,11 @@
 **Power was in my body.**
 
 21. [AN4.48](https://s.dhamma.gift/an/an4/index.html#an4.48) (simpl)
-    paggaṇhahi isīnaṃ dhajaṃ
+    paggaṇhāhi isīnaṃ dhajaṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| paggaṇhahi | verb | imp.2nd.sg | raise up |
+| paggaṇhāhi | verb | imp.2nd.sg | raise up |
 | isīnaṃ | noun | masc.gen.pl | of the sages |
 | dhajaṃ | noun | masc.acc.sg | a banner |
 
@@ -321,7 +321,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | arogā | adj | masc.nom.pl | free from disease, healthy |
-| sukhitā | adj | masc.nom.pl | happy, at ease |
+| sukhitā | pp | masc.nom.pl | happy, at ease |
 | hotha | verb | imp.2nd.pl | may you all be |
 
 **May you all be happy (and) free from disease.**
@@ -335,13 +335,13 @@
 | ahaṃ | pron | 1st.nom.sg | I |
 | pure | ind | adv | formerly; previously; in the past |
 | āsiṃ | verb | aor.1st.sg | I was |
-| aṅgulimālo | noun | masc.nom.sg | Angulimāla; lit. garland of fingers |
-| vissuto | adj | masc.nom.sg | famous, renowned |
-| buddhaṃ | noun | masc.acc.sg | The Buddha |
+| aṅgulimālo | noun | masc.nom.sg | Aṅgulimāla; lit. garland of fingers |
+| vissuto | pp | masc.nom.sg | famous, renowned |
+| buddhaṃ | noun | masc.acc.sg | the Buddha |
 | saraṇaṃ | noun | nt.acc.sg | refuge |
 | āgamiṃ | verb | aor.1st.sg | I came to |
 
-**I was formerly a thief, the famous Angulimāla… I came to the Buddha (for) refuge.**
+**I was formerly a thief, the famous Aṅgulimāla… I came to the Buddha (for) refuge.**
 
 27. [AN5.28](https://s.dhamma.gift/an/an5/index.html#an5.28) (simpl)
     ariyassa samādhissa bhāvanaṃ desesiṃ
@@ -394,7 +394,7 @@
 
 **By one's actions, one is a farmer, a craftsman, a trader, a messenger**
 
-2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179)
+2. [DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273)
    nibbindati dukkhe esa maggo visuddhiyā
 
 | | | | |
@@ -461,3 +461,5 @@
 | vitakko | noun | masc.nom.sg | a thought |
 
 **It was a thought of the recluse.**
+
+[^1]: Originally byādhidhammomhi

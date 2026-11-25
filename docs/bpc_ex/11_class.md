@@ -450,7 +450,7 @@
 | |
 
 26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70)
-    tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
+    tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṃvarāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -462,7 +462,7 @@
 | accayato | | | | |
 | paṭiggaṇhātu | | | | |
 | āyatiṃ | | | | |
-| saṁvarāya | | | | |
+| saṃvarāya | | | | |
 | |
 
 ## Class 11 Extra

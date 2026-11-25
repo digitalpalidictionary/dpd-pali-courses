@@ -76,7 +76,7 @@
 | atha kho | idiom | ind | |
 | āyasmā | | | |
 | tisso | | | |
-| upasaṅkami, | | | |
+| upasaṅkami | | | |
 | ekam’antaṃ | ind | adv | |
 | nisīdi | | | |
 | |
@@ -203,7 +203,7 @@
 | hoti | | | |
 | |
 
-17. [DHP153](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
+17. [DHP154](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
     gahassa kāraka, diṭṭho asi
 
 | | | | |
@@ -253,11 +253,11 @@
 | |
 
 21. [AN4.48](https://s.dhamma.gift/an/an4/index.html#an4.48) (simpl)
-    paggaṇhahi isīnaṃ dhajaṃ
+    paggaṇhāhi isīnaṃ dhajaṃ
 
 | | | | |
 | --- | --- | --- | --- |
-| paggaṇhahi | | | |
+| paggaṇhāhi | | | |
 | isīnaṃ | | | |
 | dhajaṃ | | | |
 | |
@@ -304,7 +304,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | arogā | adj | | |
-| sukhitā | adj | | |
+| sukhitā | pp | | |
 | hotha | | | |
 | |
 
@@ -318,7 +318,7 @@
 | pure | ind | adv | |
 | āsiṃ | | | |
 | aṅgulimālo | | | |
-| vissuto | adj | masc.nom.sg | |
+| vissuto | pp | masc.nom.sg | |
 | buddhaṃ | | | |
 | saraṇaṃ | noun | nt. | |
 | āgamiṃ | | | |
@@ -375,7 +375,7 @@
 | kammunā | noun | nt.instr.sg | |
 | |
 
-2. [DHP183](https://s.dhamma.gift/kn/dhp/index.html#dhp179)
+2. [DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273)
    nibbindati dukkhe esa maggo visuddhiyā
 
 | | | | |

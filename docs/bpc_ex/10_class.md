@@ -506,7 +506,7 @@ yena bhagavā tena-upasaṅkami
 | |
 
 31.  [MN40](https://s.dhamma.gift/mn/mn40/index.html) (simpl)
-    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṁ samanupassato pāmojjaṁ jāyati.
+    tassa sabbehi imehi pāpakehi akusalehi dhammehi visuddhaṃ attānaṃ samanupassato pāmojjaṃ jāyati.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -519,7 +519,7 @@ yena bhagavā tena-upasaṅkami
 | visuddhaṃ | | | | |
 | attānaṃ | | | | |
 | samanupassato | | | | |
-| pāmojjaṁ | | | | |
+| pāmojjaṃ | | | | |
 | jāyati | | | | |
 | |
 

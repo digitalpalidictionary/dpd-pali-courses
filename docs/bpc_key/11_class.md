@@ -13,9 +13,9 @@
 | dhammasaraṇā | adj | masc.nom.pl | taking refuge in the Dhamma | |
 | anaññasaraṇā | adj | masc.nom.pl | with no other refuge; independent of others | |
 
-**Bhikkhus you should dwell with yourselves as an island, with yourselves as a refuge, with no other refuge, with the Dhamma as an island, with the Dhamma as a refuge with no other refuge**
+**Monks, you should dwell with yourselves as an island, with yourselves as a refuge, with no other refuge, with the Dhamma as an island, with the Dhamma as a refuge with no other refuge**
 
-2. VIN0
+2. [VIN1.0](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj1)
    taṃ bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato
 
 | | | | | |
@@ -126,7 +126,7 @@
 | dukkhito | adj | masc.nom.sg | miserable | √dukkh･1 a (be painful) |
 | bāḷhagilāno | adj | masc.nom.sg | very ill | |
 
-**imagine if a person would be ill, miserable, very sick.**
+**Imagine if a person would be ill, miserable, very sick.**
 
 8. [AN2.135](https://s.dhamma.gift/an/an2/index.html#an2.135)
    bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati
@@ -150,7 +150,7 @@
 | --- | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | those who | |
 | te | pron | masc.nom.pl | they, those | |
-| ānanda | noun | masc.voc.sg | ānanda | √nand･1 a (delight, enjoy) |
+| ānanda | noun | masc.voc.sg | Ānanda | √nand･1 a (delight, enjoy) |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | navā | adj | masc.nom.pl | fresh, newcomers | |
 | acira- | ind | adv | recently | |
@@ -160,7 +160,7 @@
 | imaṃ | pron | masc.acc.sg | this | |
 | dhammavinayaṃ | noun | masc.acc.sg | doctrine and discipline | |
 
-**Ananda, those monks who [are] recently ordained, [who] recently come to this teaching and discipline.**
+**Ānanda, those monks who [are] recently ordained, [who have] recently come to this teaching and discipline.**
 
 10. [MN152](https://s.dhamma.gift/mn/mn152/index.html)
     upekkhako tattha viharati sato sampajāno
@@ -181,9 +181,9 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | sakko | adj | masc.nom.sg | able, capable | √sak･4 ṇo (be able, powerful) |
-| ujū | adj | masc.nom.pl | straight, upright | √uj×1 a (be straight) |
+| ujū | adj | masc.nom.sg | straight, upright | √uj×1 a (be straight) |
 | ca | ind | conj | and | |
-| suhujū | adj | masc.nom.pl | very upright | √uj×1 a (be straight) |
+| suhujū | adj | masc.nom.sg | very upright | √uj×1 a (be straight) |
 | suvaco | adj | masc.nom.sg | meek, obedient | √vac･1 a (say, speak) |
 | ca-assa | verb | opt.3rd.sg | and he should be | |
 | mudu | adj | masc.nom.sg | soft; mild | √mud･1 a (be soft, happy) |
@@ -273,7 +273,7 @@
 | āsevitāya | pp | fem.loc.sg (loc abs) | when practiced persistently | √sev･1 a (serve, associate) |
 | bhāvitāya | pp | fem.loc.sg (loc abs) | when developed; cultivated | √bhū･1 \*e (be, become) |
 | bahulīkatāya | pp | fem.loc.sg (loc abs) | when often practiced; made much of | |
-| yānīkatāya | adj | fem.loc.sg (loc abs) | when mastered; [lit:made a vehicle] | |
+| yānīkatāya | adj | fem.loc.sg (loc abs) | when mastered; [lit: made a vehicle] | |
 | vatthukatāya | adj | fem.loc.sg (loc abs) | when firmly established; made a basis | |
 | anuṭṭhitāya | pp | fem.loc.sg (loc abs) | when established | √ṭhā･1 a (stand) |
 | paricitāya | pp | fem.loc.sg (loc abs) | when accustomed; familiarized | √ci･5 nā (gather, accumulate) |
@@ -323,7 +323,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yāni | pron | nt.nom.pl | whichever | |
-| tāni | pron | nt.nom.pl | these | |
+| tāni | pron | nt.nom.pl | those | |
 | sīlāni | noun | nt.nom.pl | virtues | √sīl×1 a (conduct oneself) |
 | akhaṇḍāni | adj | nt.nom.pl | unfragmented; unbroken | √khaṇḍ･8 \*e (break) |
 | acchiddāni | adj | nt.nom.pl | flawless; without cracks | √chid･2 ṃa (cut, steal) |
@@ -336,7 +336,7 @@
 | samādhino | noun | masc.dat.sg | to perfect peace of mind; stability of mind | √dhā･1 a (place, support) |
 | saṃvattanikāni | adj | nt.nom.pl | conducive to; leading to | √vatt･1 a (be, proceed) |
 
-**Whichever [of] those virtues, which are unbroken, without cracks, not mottled, unblemished, liberating, commended by wise persons, irreproachable and conducive for stability of mind…**
+**Whichever [of] those virtues, which are unbroken, without cracks, not mottled, unblemished, liberating, commended by wise persons, irreproachable and conducive to stability of mind…**
 
 18. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
     rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
@@ -501,7 +501,7 @@
 | ṭhite | pp | nt.loc.sg [loc abs] | when stabilized | √ṭhā･1 a (stand) |
 | āneñjappatte | adj | nt.loc.sg [loc abs] | when imperturbable | |
 
-**When [his] mind is thus collected, [when it] has become pure, bright, spotless, without defilement, pliable workable, stabilized, [and] imperturbable,**
+**When [his] mind is thus collected, [when it] has become pure, bright, spotless, without defilement, pliable, workable, stabilized, [and] imperturbable,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -520,7 +520,7 @@
 | virajjati | verb | pr.3rd.sg | becomes detached; becomes dispassionate | √raj･3 ya (desire) |
 | virāgā | noun | masc.abl.sg | [lit: from] on account of the fading of desire; dispassion | √raj･3 ya (desire) |
 | vimuccati | verb | pr.3rd.sg | he is released | √muc･2 ya (release, free) |
-| vimuttasmiṃ | pp | nt.loc.sg [loc abs] | when liberated | √muc･2 ya (release, free) |
+| vimuttasmiṃ | pp | nt.loc.sg [loc abs] | when liberated | √muc･2 ṃa (release, free) |
 | vimuttam'iti | pp | nt.nom.sg | liberated +endquote | |
 | ñāṇaṃ | noun | nt.nom.sg | knowledge | √ñā･5 nā (know) |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
@@ -537,23 +537,23 @@
 **[He understands:] "Birth is exhausted, the holy life is completed…"**
 
 26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70)
-    tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṁvarāya
+    tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṃvarāya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tassa | ind | adv | therefore; thus; so; because of that | |
 | me | pron | 1st.gen.sg | my | |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | accayaṃ | noun | masc.acc.sg | fault; transgression | √i･1 a (come, go) |
 | accayato | noun | masc.abl.sg | as fault; as transgression | √i･1 a (come, go) |
 | paṭiggaṇhātu | verb | imp.3rd.sg | let accept; may pardon | √gah･6 ṇhā (grasp) |
 | āyatiṃ | ind | adv | in the future | |
-| saṁvarāya | noun | masc.dat.sg | for the sake of restraint | √var･1 a (cover, dress, restrain) |
+| saṃvarāya | noun | masc.dat.sg | for the sake of restraint | √var･1 a (cover, dress, restrain) |
 
 **Therefore, Venerable Sir, may the Blessed One accept my fault as fault, for the sake of [my] restraint in the future.**
 
- 
+
 ## Class 11 Extra
 
 1. [DHP012](https://s.dhamma.gift/kn/dhp/index.html#dhp1) (simpl)
@@ -597,7 +597,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | pakkhanda | verb | imp.2nd.sg | [make me] leap forth | √khand･1 a (jump up, pile up) |
-| maṃ | pron | masc.acc.sg | me | |
+| maṃ | pron | 1st.acc.sg | me | |
 | citta | noun | nt.voc.sg | o mind | √cit･8 \*e (think, intend) |
 | jinassa | noun | masc.gen.sg | of the conqueror | √ji･5 nā (conquer) |
 | sāsane | noun | nt.loc.sg | the teachings | √sās･1 a (order, instruct) |
@@ -641,9 +641,9 @@
 | avipariṇāmadhammo | adj | masc.nom.sg | with unchanging nature | |
 | sassatisamaṃ | ind | adv | eternally; for ever and ever | |
 | tath'eva | ind | adv+ind | in the same way | |
-| ṭhassāmī'ti | verb | fut.1st.sg | I will remain" | √ṭhā･1 a (stand) |
+| ṭhassāmī'ti | verb | fut.1st.sg | I will remain | √ṭhā･1 a (stand) |
 
-**[then] the ground for views, [namely,] ‘that which the world [is] the self (world = self); after death I will be permanent, enduring, eternal; with an unchanging nature I will remain in the same way for ever and ever' –**
+**[then] the ground for views, [namely,] 'that which the world [is] the self (world = self); after death I will be permanent, enduring, eternal; with an unchanging nature I will remain in the same way for ever and ever' –**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -652,7 +652,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | kevalo | adj | masc.nom.sg | total; complete; entire | |
 | paripūro | adj | masc.nom.sg | full; complete | √pūr･1 a (fill, fulfil) |
-| bāladhammo'ti | noun | masc.nom.sg | doctrine of fools" | |
+| bāladhammo'ti | noun | masc.nom.sg | doctrine of fools | |
 
 **wouldn't this, monks, [be] a totally complete doctrine of fools?"**
 
@@ -685,7 +685,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | ye | pron | masc.nom.pl | whoever; those who | |
-| ca | ind | adv | and | |
+| ca | ind | conj | and | |
 | kho | ind | emph | indeed | |
 | sammā- | ind | adv | perfectly; completely | |
 | akkhāte | pp | masc.loc.sg | in announced; declared | √khā･1 a (tell, announce) |
@@ -700,7 +700,7 @@
 | dheyyaṃ | noun | nt.nom.sg | the realm of; the sphere of | √dhā･1 a (place, support) |
 | suduttaraṃ | adj | nt.nom.sg | extremely difficult to cross | √tar･1 a (cross) |
 
-**Indeed, whoever acting according to the teaching in the perfectly declared teaching, those people will go to the far shore; the realm of death, extremely difficult to cross.**
+**Indeed, whoever acts according to the teaching in the perfectly declared teaching, those people will go to the far shore; the realm of death, extremely difficult to cross.**
 
 6. [SNP16](https://s.dhamma.gift/kn/snp/index.html#snp2.4)
    phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati. asokaṃ virajaṃ khemaṃ, etaṃ maṅgalam'uttamaṃ.

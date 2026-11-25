@@ -316,7 +316,7 @@
 | voharati | | | | |
 | |
 
-19. VIN PAT SA
+19. [VIN PAT SA](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
     ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo.
 
 | | | | | |
@@ -334,7 +334,7 @@
 | |
 
 20. [VIN PAT PC 42](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
-    ekakassa me kathā vā nisajjā vā phāsu hotī”ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+    “ekakassa me kathā vā nisajjā vā phāsu hotī”ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

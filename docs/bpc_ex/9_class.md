@@ -1,6 +1,6 @@
 # Class 9 Exercises
 
-1. VIN0
+1. [VIN1.0](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj1)
    **āraddhaṃ** kho pana me, brāhmaṇa, **vīriyaṃ** ahosi.
 
 | Pāli | POS | Grammar | English | Root |
@@ -55,7 +55,7 @@
 | bhikkhave | | | | |
 | nidānāni | | | | |
 | kammānaṃ | | | | |
-| samudayāya. | | | | |
+| samudayāya | | | | |
 | (honti) | | | | |
 | |
 
@@ -68,7 +68,7 @@
 | aniccaṃ | adj | | | |
 | dukkhaṃ | adj | | | |
 | vipariṇāma- / dhammaṃ | adj | | | |
-| kallaṃ | ind | | | |
+| kallaṃ | adj | | | |
 | nu | | | | |
 | taṃ | pron | | | |
 | samanupassituṃ | | | | |
@@ -76,7 +76,7 @@
 | |
 
 6. [AN4.42](https://s.dhamma.gift/an/an4/index.html#an4.42)
-   **cattāri** **imāni**, bhikkhave, **pañhabyākaraṇāni** . **katamāni** cattāri?
+   **cattāri** **imāni**, bhikkhave, **pañhabyākaraṇāni**. **katamāni** cattāri?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@
 | imāni | pron | | | |
 | bhikkhave | | | | |
 | pañha- | | | | |
-| byākaraṇāni. | | | | |
+| byākaraṇāni | | | | |
 | katamāni | | | | |
 | cattāri | card | | | |
 | |
@@ -162,8 +162,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| atha | | | | |
-| kho | | | | |
+| atha kho | | | | |
 | te | pron | | | |
 | bhikkhū | | | | |
 | sāvatthiyaṃ | | | | (name) |
@@ -626,6 +625,7 @@
 | abhinisīdituṃ | | | | |
 | vā | | | | |
 | abhinipajjituṃ | | | | |
+| vā | | | | |
 | |
 
 8. [MN52](https://s.dhamma.gift/mn/mn52/index.html)
@@ -666,14 +666,14 @@
 | |
 
 10. [SNP46](https://s.dhamma.gift/kn/snp/index.html#snp4.8) (simpl)
-    yesu idha n'atthi paraṃaṃ uggahītaṃ, tesu tvaṃ kiṃ labhe pasūra?
+    yesu idha n'atthi paramaṃ uggahītaṃ, tesu tvaṃ kiṃ labhe pasūra?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yesu | | | | |
 | idha | | | | |
 | n'atthi | | | | |
-| paraṃaṃ | adj | | | |
+| paramaṃ | adj | | | |
 | uggahītaṃ | pp | | | |
 | tesu | | | | |
 | tvaṃ | | | | |

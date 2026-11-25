@@ -30,7 +30,7 @@
 **He touches the earth evenly with the entire sole of [his] foot**
 
 2. [MN20](https://s.dhamma.gift/mn/mn20/index.html)
-   kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmi'ti. so saṇikaṃ gaccheyya
+   kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmī'ti. so saṇikaṃ gaccheyya
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@
 | yaṃnūn'āhaṃ | idiom | pron+ind+pron.1st.nom.sg | what if I | |
 | saṇikaṃ | ind | adv | slowly | |
 | gaccheyyāmi | verb | opt.1st.sg | I should go | √gam･1 a (go) |
-| ‘ti | ind | quote | " " | |
+| 'ti | ind | quote | " " | |
 
 **"What if I were to go slowly?"**
 
@@ -69,7 +69,7 @@
 | imāhi | pron | fem.instr.pl | with these | |
 | gāthāhi | noun | fem.instr.pl | with verses, stanzas | √gā･3 ya (sing) |
 | abhiṇhaṃ | ind | adv | frequently | |
-| ovadati | verb | pr.3rd.sg | advises, admonish | √vad･1 a (say, speak) |
+| ovadati | verb | pr.3rd.sg | advises, admonishes | √vad･1 a (say, speak) |
 | 'ti | ind | quote | " " | |
 
 **The Blessed One frequently advises Venerable Rāhula with these verses.**
@@ -89,14 +89,14 @@
 | vā | ind | conj | or | |
 | ucchijjantu | verb.pass | imp.3rd.pl | may they be chopped up | √chid･2 ya (cut, steal) |
 | vā | ind | conj | or | |
-| vinassantu | verb.pass | imp.3rd.pl | may they be destroyed | √nas･3 ya (be lost, disappear) |
+| vinassantu | verb | imp.3rd.pl | may they perish | √nas･3 ya (be lost, disappear) |
 | vā | ind | conj | or | |
 | mā | ind | | don't; may they not | |
 | vā | ind | conj | or | |
 | ahesuṃ | verb | aor.3rd.pl | they were, existed | √hū･1 a (be) |
-| ‘ti | ind | quote | " " | |
+| 'ti | ind | quote | " " | |
 
-**"May these beings be killed, be tied up, be chopped up, be destroyed, may they cease to exist!"**
+**"May these beings be killed, be tied up, be chopped up, perish, may they cease to exist!"**
 
 5. [SN22.79](https://s.dhamma.gift/sn/sn22/index.html#sn22.79)
    ahaṃ kho eta'r'ahi rūpena khajjāmi. atītam'p'āhaṃ addhānaṃ evam'eva rūpena khajjiṃ
@@ -130,9 +130,9 @@
 | --- | --- | --- | --- | --- |
 | kena | pron | masc.instr.sg | by what? | |
 | nu kho | ind | interr | does?; is?; would? | |
-| bhante | noun | masc.voc.sg | lord, master | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | lord, master | √bhū･1 a (be, become) |
 | loko | noun | masc.nom.sg | the world | √lok･8 \*e (look) |
-| nīyati | verb.pass | pr.3rd.sg | is lead | √nī･1 ya (lead, carry) |
+| nīyati | verb.pass | pr.3rd.sg | is led | √nī･1 ya (lead, carry) |
 
 **Master, by what is the world lead?**
 
@@ -145,7 +145,7 @@
 **By what is the world dragged around?**
 
 7. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html)
-   assutavā puthujjano na parimuccati jātiyā … , na parimuccati dukkhasmā'ti vadāmi
+   assutavā puthujjano na parimuccati jātiyā …, na parimuccati dukkhasmā'ti vadāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -312,7 +312,7 @@
 | samanuyuñjiyamāno | prp. pass | masc.nom.sg | being cross-questioned by | √yuj･2 ṃa + iya (yoke, join) |
 | samanugāhiyamāno | prp. pass | masc.nom.sg | being interrogated by | √gāh･1 iya (dive, plunge) |
 | samanubhāsiyamāno | prp. pass | masc.nom.sg | being admonished by | √bhās･1 iya (speak) |
-| taṃ | pron | nt.acc.sg | that; that | |
+| taṃ | pron | nt.acc.sg | that | |
 | eva | ind | emph | just; only | |
 | pāpakaṃ | adj | nt.acc.sg | evil; wrong | |
 | diṭṭhigataṃ | noun | nt.acc.sg | belief; view, misconception | |
@@ -333,7 +333,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | puggalā | noun | masc.nom.pl | persons; individuals | |
 | santo | prp | masc.nom.pl | existing; being | √as･1 a (be) |
-| saṃvijjamānā | prp. pass | masc.nom.pl | existing in; being found in | √vid･3 ya (be found, exist) |
+| saṃvijjamānā | prp | masc.nom.pl | existing in; being found in | √vid･3 ya (be found, exist) |
 | lokasmiṃ | noun | masc.loc.sg | the world | √lok･8 \*e (look) |
 
 **Monks, [there are] these three [types of] persons being found existing in the world.**
@@ -342,7 +342,7 @@
 | --- | --- | --- | --- | --- |
 | katame | pron | masc.nom.pl | which | |
 | tayo | card | masc.nom.pl | three | |
-| gūthabhāṇī | adj | masc.nom.pl | who lies (lit: excrement talker) | |
+| gūthabhāṇī | adj | masc.nom.pl | who lie (lit: excrement talker) | |
 | pupphabhāṇī | adj | masc.nom.pl | who speak the truth (lit: flower talker) | |
 | madhubhāṇī | adj | masc.nom.pl | who talk sweetly (lit: honey talker) | |
 
@@ -365,7 +365,7 @@
 | ca | ind | conj | and | |
 | tena | pron | masc.instr.sg | by him | |
 | duṭṭhāni | adj (pp) | nt.nom.pl | corrupted; spoiled | √dus･3 ya (be angry, corrupt) |
-| dissanti | verb | pr.pass.3rd.pl | are seen | √dis･1 ya (see) |
+| dissanti | verb.pass | pr.3rd.pl | are seen | √dis･1 ya (see) |
 | c'eva | sandhi | ind+ind | as well as | |
 | suyyanti | verb.pass | pr.3rd.pl | they are heard | √su･4 ya (hear) |
 
@@ -432,7 +432,7 @@
 **above, below and across; unobstructed, without enmity, without hostility.**
 
 4. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) (simpl)
-   diṭṭhā vā ye ca adiṭṭhā, ye сa dūre vasanti avidūre,
+   diṭṭhā vā ye ca adiṭṭhā, ye ca dūre vasanti avidūre,
    bhūtā vā sambhavaṃ esī vā
 
 | | | | | |
@@ -531,9 +531,9 @@
 | --- | --- | --- | --- | --- |
 | yo | pron | masc.nom.sg | he who | |
 | ca | ind | conj | and | |
-| sameti | verb | pr.3rd.sg | calms down; make subside; stills | √sam･3 \*e (be calm, tired) |
+| sameti | verb | pr.3rd.sg | calms down; makes subside; stills | √sam･3 \*e (be calm, tired) |
 | pāpāni | noun | nt.acc.pl | evil deeds | |
-| aṇuṃ | adj | nt.acc.sg | small; miniscule (pl in meaning) | |
+| aṇuṃ | adj | nt.acc.sg | small; minuscule (pl in meaning) | |
 | thūlāni | adj | nt.acc.pl | gross; large | |
 | sabbaso | ind | adv | completely; altogether | |
 | samitattā | noun | nt.abl.sg (+gen) | because of the calming; subsiding | √sam･3 \*e (be calm, tired) |
@@ -542,7 +542,7 @@
 | samaṇo'ti | noun | masc.nom.sg +quotation marks | "an ascetic"; "a renunciant" | √sam･3 ya (exert, strive) |
 | pavuccati | verb. pass | pr.3rd.sg | is called; is said to be | √vac･1 ya (say, speak) |
 
-**He [is one] who makes subside evil deeds, [both] miniscule and large; because of the subsiding completely of evil deeds, he is indeed called "an ascetic."**
+**He [is one] who makes subside evil deeds, [both] minuscule and large; because of the subsiding completely of evil deeds, he is indeed called "an ascetic."**
 
 9. [SNP22](https://s.dhamma.gift/kn/snp/index.html#snp2.10)
    uṭṭhahatha nisīdatha, ko attho supitena vo,
@@ -563,7 +563,7 @@
 | sallaviddhānaṃ | adj | masc.gen.pl (gen abs) | when pierced by an arrow | |
 | ruppataṃ | prp | masc.gen.pl (gen abs) | when those being hurt | √rup･3 ya (be broken apart, hurt) |
 
-**Arouse yourselves, sit up! What benefit [is there] for you by sleeping; What indeed is sleep for the afflicted, when they are being hurt, pierced by an arrow.**
+**Arouse yourselves, sit up! What benefit [is there] for you by sleeping. What indeed is sleep for the afflicted, when they are being hurt, pierced by an arrow.**
 
 10. [AN9.11](https://s.dhamma.gift/an/an9/index.html#an9.11)
     taggha taṃ, bhikkhu, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yo tvaṃ sāriputtaṃ asatā tucchā musā abhūtena abbhācikkhi
@@ -577,6 +577,7 @@
 | accagamā | verb | imperf.3rd.sg | overcame; conquered (idiom: a fault overcame you - i.e. you are at fault) | √gam･1 a (go) |
 | yathābālaṃ | ind | adv | so foolishly | |
 | yathāmūḷhaṃ | ind | adv | so misguidedly | |
+| yathāakusalaṃ | ind | adv | so unskilfully | |
 | yo | pron | masc.nom.sg | who; that which | |
 | tvaṃ | pron | 2nd.nom.sg | you | |
 | sāriputtaṃ | noun | masc.acc.sg | Sāriputta | |
@@ -665,4 +666,4 @@
 | es'ev'anto | sandhi | pron+ind+masc (+gen) | just this is the end | |
 | dukkhassā"ti | noun | nt.gen.sg +end quote | of suffering" | √dukkh･1 a (be painful) |
 
-**therefore, you, Bāhiya, [are] neither not here, nor in another world, nor in-between the two; just this is the end of suffering."**
+**therefore, you, Bāhiya, [are] neither here, nor in another world, nor in-between the two; just this is the end of suffering."**

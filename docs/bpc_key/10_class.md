@@ -8,8 +8,8 @@
 | so | pron | masc.nom.sg | he | |
 | ajānaṃ | prp | masc.nom.sg | not knowing | √ñā･5 nā (know) |
 | vā | ind | - | or | |
-| āha | verb | perf.3rd.sg | he had said | √ah･1 a (speak) |
-| jānāmī‘ti | verb | pr.1st.sg | "I know" | √ñā･5 nā (know) |
+| āha | verb | perf.3rd.sg | he said | √ah･1 a (speak) |
+| jānāmī'ti | verb | pr.1st.sg | "I know" | √ñā･5 nā (know) |
 
 **Not knowing, he said, "I know"**
 
@@ -19,7 +19,7 @@
 | vā | ind | - | or | |
 | āha | verb | perf.3rd.sg | he said | √ah･1 a (speak) |
 | na | ind | neg | not | |
-| jānāmī'ti | verb | pr.1st.sg | I know" | √ñā･5 nā (know) |
+| jānāmī'ti | verb | pr.1st.sg | "I know" | √ñā･5 nā (know) |
 
 **Or knowing, he said, "I don't know"**
 
@@ -38,7 +38,7 @@
 | vā | ind | - | or | |
 | āha | verb | perf.3rd.sg | he said | √ah･1 a (speak) |
 | na | ind | neg | not | |
-| passāmī'ti | verb | pr.1st.sg | I see" | √dis･1 a (see) |
+| passāmī'ti | verb | pr.1st.sg | "I see" | √dis･1 a (see) |
 
 **or, seeing, he said, "I don't see"**
 
@@ -146,8 +146,8 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he | |
-| evaṃ | ind | emph | thus; in that way | |
-| asamanupassanto | prp | masc.nom.sg | not seeing perceiving | √dis･1 a (see) |
+| evaṃ | ind | adv | thus; in that way | |
+| asamanupassanto | prp | masc.nom.sg | not seeing; not perceiving | √dis･1 a (see) |
 
 **he's not perceiving in that way**
 
@@ -205,13 +205,13 @@
 | vā | ind | conj | or | |
 | assasanto | prp | masc.nom.sg | breathing in | √sas･1 a (breath) |
 | dīghaṃ | ind | adv | long | |
-| assasāmī'ti | verb | pr.1st.sg | I breathe in" | √sas･1 a (breath) |
+| assasāmī'ti | verb | pr.1st.sg | "I breathe in" | √sas･1 a (breath) |
 | pajānāti | verb | pr.3rd.sg | he knows clearly | √ñā･5 nā (know) |
 | dīghaṃ | ind | adv | long | |
 | vā | ind | conj | or | |
 | passasanto | prp | masc.nom.sg | breathing out | √sas･1 a (breath) |
 | dīghaṃ | ind | adv | long | |
-| passasāmī'ti | verb | pr.1st.sg + quote | I breathe out" | √sas･1 a (breath) |
+| passasāmī'ti | verb | pr.1st.sg + quote | "I breathe out" | √sas･1 a (breath) |
 | pajānāti | verb | pr.3rd.sg | he knows clearly | √ñā･5 nā (know) |
 
 **Breathing in long, he knows clearly, "I breathe in long" or breathing out long, he knows clearly, "I breathe out long."**
@@ -228,7 +228,7 @@
 | pavane | noun | nt.loc.sg | in a woodland | |
 | caramāno | prp | masc.nom.sg | wandering around | √car･1 a (move, walk) |
 
-**Just like a monkey [who is] wandering around in a woodland, in a forest.**
+**Just as, monks, a monkey wandering around in a forest, in a woodland…**
 
 12. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
     puriso passeyya macchagumbaṃ carantaṃ tiṭṭhantaṃ
@@ -308,7 +308,7 @@
 **Although I am sick in body, (my) mind will be healthy.**
 
 17. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
-    ‘etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
+    'etaṃ mama, eso ahaṃ asmi, eso me attā'ti? "no hi etaṃ, bhante".
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -323,7 +323,7 @@
 | no | ind | neg | not | |
 | hi | ind | emph | indeed; certainly | |
 | etaṃ | pron | nt.nom.sg | this [idiom: certainly not] | |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 
 **[Is what is impermanent…fit to be regarded thus:] "This is mine, this I am, this is my self?" Certainly not, venerable sir.**
 
@@ -376,7 +376,7 @@
 
 **And he should not conduct himself in any small thing because of which other wise (people) would reprove [him].**
 **(or)**
-**And he should not conduct himself in any small thing because of which wise would reprove others.**
+**And he should not conduct himself in any small thing because of which the wise would reprove others.**
 
 21. [VIN PAT SE 71](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9)
     na pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmi
@@ -413,7 +413,7 @@
 
 **For one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, energy is aroused.**
 **(or)**
-**When one investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
+**When one is investigating and examining that Dhamma with wisdom, exhibiting a thorough investigation, (his) energy is aroused.**
 
 23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
     tassa evaṃ jānato evaṃ passato kām'āsavā api cittaṃ vimuccati
@@ -421,7 +421,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | tassa | pron | masc.gen.sg / (or) / masc.dat.sg | of him, his / (or) / for him | |
-| evaṃ | ind | emph | thus; in this way | |
+| evaṃ | ind | adv | thus; in this way | |
 | jānato | prp | masc.gen.sg / (or) / masc.dat.sg | who knows / (or) / for one knowing | √ñā･5 nā (know) |
 | evaṃ | ind | adv | thus | |
 | passato | prp | masc.gen.sg / (or) / masc.dat.sg | who sees / (or) / for one seeing | √dis･1 a (see) |
@@ -430,9 +430,9 @@
 | cittaṃ | noun | nt.nom.sg | [his] mind | √cit･8 \*e (think, intend) |
 | vimuccati | verb | pr.3rd.sg | is released | √muc･2 ya (release, free) |
 
-**The mind of him who sees and knows is released from the taint of sensual pleasure too.**
+**The mind of him who knows thus, who sees thus, is released from the taint of sensual pleasure too.**
 **(or)**
-**The mind for him who sees and knows is released from the taint of sensual pleasure too.**
+**The mind for him who knows thus, who sees thus, is released from the taint of sensual pleasure too.**
 
 24. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
     ye kho te bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti.
@@ -474,7 +474,7 @@
 | paraṃ | pron | masc.acc.sg | another | |
 | viheṭhayanto. | prp | masc.nom.sg | harming; troubling | √heṭh･8 \*aya (harass, annoy) |
 
-**One who has gone forth certainly does not harm another, a monk is not troubling another.**
+**One who harms another is not one gone forth; one who troubles another is not an ascetic.**
 
 26. [VIN PAT PA 2](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3)
     tathārūpaṃ bhikkhu adinnaṃ ādiyamāno, ayaṃ api pārājiko hoti asaṃvāso.
@@ -484,7 +484,7 @@
 | tathārūpaṃ | adj | nt.acc.sg | of such a kind | |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | adinnaṃ | noun | nt.acc.sg | what is not given | √dā･1 a (give) |
-| ādiyamāno | prp | masc.nom.sg [+acc] | taking; stealing | √dā･1 a (give) |
+| ādiyamāno | prp | masc.nom.sg [+acc] | taking; stealing | √ādā･3 ya (take, seize) |
 | ayaṃ | pron | masc.nom.sg | this | |
 | api | ind | - | also | |
 | pārājiko | adj | masc.nom.sg | defeated | √ji･1 a (conquer) |
@@ -498,7 +498,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| sametu | verb | imp.3rd.sg | he should agree (with); let him harmonize (with) | √sam･3 \*e (be calm, tired) |
+| sametu | verb | imp.3rd.sg | he should agree (with); let him harmonize (with) | √i･1 a (come, go) |
 | āyasmā | noun | masc.nom.sg | the venerable | √i･1 a (come, go) |
 | saṅghena | noun | masc.instr.sg | with the community of monks | √ghaṭ･1 a (join together) |
 | samaggo | adj | masc.nom.sg | unified; in concord | |
@@ -522,7 +522,7 @@
 | n'eva | ind | neg | not; neither | |
 | uddhareyya | verb | opt.3rd.sg | should remove; take away | √dhar･1 a (hold, carry, endure) |
 | na | ind | neg | not; nor | |
-| uddharāpeyya | verb | opt.3rd.sg | should cause removing; make to take away; cause to pack up | √dhar･1 a (hold, carry, endure) |
+| uddharāpeyya | verb | opt.3rd.sg | should cause removing; make to take away; cause to pack up | √dhar･1 \*āpe (hold, carry, endure) |
 | anāpucchaṃ | prp | masc.nom.sg | not asking permission; not informing | √pucch･1 a (ask, question) |
 | vā | ind | conj | or | |
 | gaccheyya | verb | opt.3rd.sg | should go | √gam･1 a (go) |
@@ -553,23 +553,23 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | iti | ind | adv | thus | |
-| imasmiṃ | pron | masc.loc.sg / (loc.abs) | when this | |
-| sati | prp | masc.loc.sg / (loc.abs) | when existing | √as･1 a (be) |
+| imasmiṃ | pron | nt.loc.sg / (loc.abs) | when this | |
+| sati | prp | nt.loc.sg / (loc.abs) | when existing | √as･1 a (be) |
 | idaṃ | pron | nt.nom.sg | that; lit. this | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | imassa | pron | nt.gen.sg | of this | |
 | uppādā | noun | masc.abl.sg | from the arising | √pad･3 ya (go, step) |
 | idaṃ | pron | nt.nom.sg | that; lit. this | |
 | uppajjati | verb | pr.3rd.sg | arises | √pad･3 ya (go, step) |
-| imasmiṃ | pron | masc.loc.sg / (loc.abs) | when this | |
-| asati | prp | masc.loc.sg / (loc.abs) | when not existing, when is not | √as･1 a (be) |
+| imasmiṃ | pron | nt.loc.sg / (loc.abs) | when this | |
+| asati | prp | nt.loc.sg / (loc.abs) | when not existing, when is not | √as･1 a (be) |
 | idaṃ | pron | nt.nom.sg | this | |
 | na | ind | neg | not | |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | imassa | pron | nt.gen.sg | of this | |
 | nirodhā | noun | masc.abl.sg | from the cessation | √rudh･2 ṃa (obstruct) |
 | idaṃ | pron | nt.nom.sg | that | |
-| nirujjhati | verb | pr.3rd.sg | ceases | √rudh･2 ṃa (obstruct) |
+| nirujjhati | verb | pr.3rd.sg | ceases | √rudh･2 ya (obstruct) |
 
 **Thus, when this exists, there is that, from the arising of this, that arises, when this does not exist, there is not that, from the cessation of this, that ceases.**
 
@@ -590,7 +590,7 @@
 | pāmojjaṃ | noun | nt.nom.sg | happiness; gladness | √mud･1 a (be soft, happy) |
 | jāyati | verb | pr.3rd.sg | arises; is produced | √jan･3 ya (be born, produce) |
 
-**When one seeing himself purified from all these evil, unwholesome states, gladness arises.**
+**When one sees himself purified from all these evil, unwholesome states, gladness arises.**
 **(or)**
 **For one seeing himself purified from all these evil, unwholesome states, gladness arises.**
 
@@ -678,7 +678,7 @@
 | ajjhattaṃ | ind | adv | internally; personally | |
 | kāmacchandaṃ | noun | masc.acc.sg | desire for sense pleasure | |
 
-**When a monk having desire for sense pleasure internally...**
+**Here, monks, a monk, when sensual desire is present internally…**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -754,7 +754,7 @@
 | amūsaṃ | pron | masc.gen.pl | of them; of those people | |
 | bhedāya | noun | masc.dat.sg | for a schism; break | √bhid･2 ṃa (break, split) |
 
-**Thus, having heard here, he does not tell there for a break of them; or having heard in such-and-such a place, he does not tell to these people for a schism of them.**
+**Having heard from here, he does not tell there for a break of them; or having heard in such-and-such a place, he does not tell to these people for a schism of them.**
 
 5. [SN1.6](https://s.dhamma.gift/sn/sn1/index.html#sn1.6)
    kati jāgarataṃ suttā, kati suttesu jāgarā.
@@ -774,7 +774,7 @@
 | katīhi | pron interr | masc.instr.pl | by how many? | |
 | parisujjhati | verb | pr.3rd.sg | one is purified | √sudh･3 ya (be pure) |
 
-**How many are sleeping when [others] are awake? How many staying awake when [others] are sleeping? By how many one grasps a defilement? By how many is one purified?**
+**How many are sleeping when [others] are awake? How many are staying awake when [others] are sleeping? By how many does one grasp a defilement? By how many is one purified?**
 
 6. [DHP085](https://s.dhamma.gift/kn/dhp/index.html#dhp76)
    appakā te manussesu, ye janā pāragāmino.
@@ -787,14 +787,14 @@
 | manussesu | noun | masc.loc.pl | among humans | |
 | ye | pron | masc.nom.pl | who; which | |
 | janā | noun | masc.nom.pl | men; people | √jan･3 ya (be born, produce) |
-| pāragāmino | adj | masc.nom.pl | cross over | |
+| pāragāmino | adj | masc.nom.pl | who cross over | |
 | atha | ind | - | but | |
 | ayaṃ | pron | fem.nom.sg | this | |
 | itarā | pron | fem.nom.sg | the rest; common; ordinary | |
 | pajā | noun | fem.nom.sg | people; generation | √jan･3 ya (be born, produce) |
 | tīraṃ | noun | nt.acc.sg | the bank; the shore | √tir･1 a (cross) |
 | eva | ind | emph | only; just | |
-| anudhāvati | verb | pr.3rd.sg | run along | √dhāv･1 a (run, flow) |
+| anudhāvati | verb | pr.3rd.sg | runs along | √dhāv･1 a (run, flow) |
 
 **Few among humans are those people who cross over, but the rest of the people only runs along the shore.**
 

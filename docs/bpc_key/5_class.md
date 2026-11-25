@@ -7,7 +7,7 @@
 | --- | --- | --- | --- | --- |
 | viññāṇaṃ | noun | nt.nom.sg | consciousness, awareness | √ñā･5 nā (know) |
 | na | ind | neg | not | |
-| tumhākaṃ, | pron | 2nd.gen.pl | of you all, yours | |
+| tumhākaṃ | pron | 2nd.gen.pl | of you all, yours | |
 | taṃ | pron | nt.acc.sg | that, it | |
 | pajahatha | verb | imp.2nd.pl | you all must abandon | √hā･1 a (abandon) |
 
@@ -46,7 +46,7 @@
 | --- | --- | --- | --- | --- |
 | ahaṃ | pron | 1st.nom.sg | I | |
 | yathākammaṃ | ind | adv | according to actions | |
-| gamissāmi | verb | fut.1st.sg | I will go | √gam･1 \*e (go) |
+| gamissāmi | verb | fut.1st.sg | I will go | √gam･1 a (go) |
 
 **I will go according to my actions.**
 
@@ -100,11 +100,11 @@
 | --- | --- | --- | --- | --- |
 | upasaṅkamitvā | verb | abs | having approached | √kam･1 a (go) |
 | āyasmatā | noun | masc.instr.sg | with venerable | √i･1 a (come, go) |
-| sāriputtena | noun | masc.instr.sg | with Sariputta | |
+| sāriputtena | noun | masc.instr.sg | with Sāriputta | |
 | saddhiṃ | ind | prep (+instr) | with | |
 | sammodiṃsu | verb | aor.3rd.pl | they exchanged friendly conversation | √mud･1 \*a (be soft, happy) |
 
-**They approached and had polite conversation with venerable Sariputta.**
+**They approached and had polite conversation with venerable Sāriputta.**
 
 9. [TH195](https://s.dhamma.gift/kn/thag/index.html#thag4.1)
    adhammo nirayaṃ neti, dhammo pāpeti suggatiṃ
@@ -202,7 +202,7 @@
 | satthā | noun | masc.nom.sg | a teacher | |
 | bhavissati | verb | fut.3rd.sg | it will become | √bhū･1 a (be, become) |
 
-**After my passing away, the Doctrine and Discipline taught by me to you, will become a teacher for you.**
+**After my passing away, the Doctrine and Discipline taught by me to you will become a teacher for you.**
 
 16. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
     evaṃ me rūpaṃ hotu! evaṃ me rūpaṃ mā ahosi!
@@ -314,7 +314,7 @@
 | gāmaṇi | noun | masc.voc.sg | o chief; leader | |
 | mā | ind | neg | not; don't; don't let | |
 | maṃ | pron | 1st.acc.sg | me | |
-| etaṃ | pron | masc.acc.sg | this | |
+| etaṃ | pron | nt.acc.sg | this | |
 | pucchi | verb | aor.2nd.sg | you asked | √pucch･1 a (ask, question) |
 
 **That's enough, leader, do not ask me this!**
@@ -325,7 +325,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yathā | ind | adv | as; like; in whatever way | |
-| no | pron | 1st.acc.pl | us | |
+| no | pron | 1st.dat.pl | to us | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | byākarissati | verb | fut.3rd.sg | will explain | √kar･7 o (do, make) |
 | tathā | ind | adv | likewise; so | |
@@ -341,7 +341,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | kārā | noun | masc.nom.pl | deeds; actions; services | √kar･7 o (do, make) |
-| amhesu | pron | 1st.loc.pl | in reference to us; on us; for us; | |
+| amhesu | pron | 1st.loc.pl | in reference to us; on us; for us | |
 | mahapphalā | adj | masc.nom.pl | of great fruits; yield good results | |
 | bhavissanti | verb | fut.3rd.pl | they will be; could be | √bhū･1 a (be, become) |
 
@@ -385,7 +385,7 @@
 | kulāni | noun | nt.acc.pl | families | √kul･1 a (be close) |
 | upasaṅkamissāmi | verb | fut.1st.sg | I will approach | √kam･1 a (go) |
 
-**Having not raised up a high trunk, I will approach families. [I will not arrogantly approach families]**
+**I will not approach families with a raised trunk (arrogantly).**
 
 28. [VIN PAT PC 10](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7) (simpl)
     bhikkhu paṭhaviṃ na khaṇati
@@ -589,7 +589,7 @@
 | pāraṃ | noun | nt.acc.sg | the far shore; Nibbāna | |
 | gavesino | noun | masc.dat.sg | for one seeking; searching for | √gaves･1 a (seek, search) |
 
-**It is enough for deluding a fool not one seeking Nibbāna.**
+**It is enough to delude a fool, but not one seeking the far shore.**
 
 3. [MN19](https://s.dhamma.gift/mn/mn19/index.html) (simpl)
    jhāyatha, bhikkhave, mā pamādaṃ attha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī
@@ -620,11 +620,11 @@
 | tuvaṃ | pron | 2nd.nom.sg | you | |
 | hi | ind | emph | indeed | |
 | no | pron | 1st.dat.pl | to us; for us | |
-| brahmasamo | adj | masc.nom.sg | holy; equal to Brahma | |
+| brahmasamo | adj | masc.nom.sg | holy; equal to Brahmā | |
 | asi | verb | pr.2nd.sg | you are | |
 | saccaṃ | ind | adv | truly; really | √as･1 a (be) |
 
-**You are truly for us equal to the Brahma.**
+**You are truly for us equal to the Brahmā.**
 
 5. [VIN PAT PC 42](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
    gaccha āvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti
@@ -635,9 +635,10 @@
 | āvuso | ind | voc.sg | friend | |
 | na | ind | neg | no; not | |
 | me | pron | 1st.dat.sg | to me; for me | |
+| tayā | pron | 2nd.instr.sg | with you | |
 | saddhiṃ | ind | prep | together with | |
 | kathā | noun | fem.nom.sg | speech; talk | √kath･8 \*e (speak, narrate) |
-| vā | ind | | or | |
+| vā | ind | conj | or | |
 | nisajjā | noun | fem.nom.sg | sitting down | √sad･1 a (sink, sit, settle) |
 | phāsu | noun | masc.nom.sg | ease; comfort | √phus･1 a (touch) |
 | hoti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
@@ -674,4 +675,4 @@
 | ekodiṃ | adj | nt.acc.sg | (mentally) unified; single | |
 | karohi | verb | imp.2nd.sg | do!; make! | √kar･7 o (do, make) |
 
-**Monk, don't be careless about meditation, you must make [your] mind stable in meditation, you must make [your] mind unified!**
+**Monk, don't be careless about meditation, you must make [your] mind stable in meditation, you must make [your] mind unified in meditation!**

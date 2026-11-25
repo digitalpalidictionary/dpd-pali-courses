@@ -26,13 +26,14 @@
 | |
 
 3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html)
-   esa **bhagavato** sāvakasaṅgho
+   esa **bhagavato** sāvakasaṅgho āhuneyyo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | esa | pron | masc.nom.sg | | |
 | bhagavato | | | | |
 | sāvaka-saṅgho | | | | |
+| āhuneyyo | | | | |
 | |
 
 4. [DN16.17](https://s.dhamma.gift/dn/dn16/index.html)
@@ -287,7 +288,7 @@ bhikkhū there sakkarissanti garuṃ karissanti mānessanti pūjessanti
 | pūjessanti | | | | |
 | |
 
-21. **[DHP185](https://s.dhamma.gift/kn/dhp/index.html#dhp179)**
+21. **[DHP279](https://s.dhamma.gift/kn/dhp/index.html#dhp273)**
 
 sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
 

@@ -30,7 +30,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | assosuṃ | | | | |
-| mallā, | | | | (name) |
+| mallā | | | | (name) |
 | bhagavā | | | | |
 | kusinārāyaṃ | | | | (name) |
 | parinibbuto | pp | | | |
@@ -203,13 +203,13 @@
 | |
 
 17. [DN16.36](https://s.dhamma.gift/dn/dn16/index.html) (simpl)
-    siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
+    siyā kho pana ānanda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | siyā | | | | |
 | kho pana | ind | idiom | | |
-| ananda | | | | (name) |
+| ānanda | | | | (name) |
 | tumhākaṃ | | | | |
 | evaṃ | ind | adv | | |
 | assa | | | | |
@@ -260,10 +260,10 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| atītaṃ | adj | | | |
+| atītaṃ | noun | | | |
 | n’ānvāgameyya | | | | |
 | nappaṭikaṅkhe | | | | |
-| anāgataṃ | adj | | | |
+| anāgataṃ | noun | | | |
 | |
 
 22. [SN22.80](https://s.dhamma.gift/sn/sn22/index.html#sn22.80)
@@ -294,6 +294,7 @@
 | kupitā | adj | | | |
 | vā | | | | |
 | anattamanā | adj | | | |
+| vā | | | | |
 | tumhaṃ | | | | |
 | tena | ind | adv | on that account; thereby | |
 | antarāyo | | | | |
@@ -429,7 +430,7 @@
 | ca | | | | |
 | tassa | pron | masc.dat.sg | to that; for that | |
 | bhikkhuno | | | | |
-| koci'd'eva | ind | | | |
+| koci'd'eva | idiom | | | |
 | paccayo | | | | |
 | senaṃ | | | | |
 | gamanāya | noun | nt. | | |
@@ -444,7 +445,7 @@
 | kiṃ | ind | interr | what? | |
 | kareyya | | | | |
 | udapānena | | | | |
-| āpā | noun | masc.nom.pl | water | |
+| āpā | noun | nt.nom.pl | water | |
 | ce | | | | |
 | sabbadā | ind | adv | | |
 | siyuṃ | | | | |

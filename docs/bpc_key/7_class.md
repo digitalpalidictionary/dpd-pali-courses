@@ -32,12 +32,12 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | assosuṃ | verb | aor.3rd.pl | they heard | √su･4 ṇā (hear) |
-| mallā, | noun | masc.nom.pl | Mallans, wrestlers | |
+| mallā | noun | masc.nom.pl | Mallans, wrestlers | |
 | bhagavā | noun | masc.nom.sg | The Blessed One | √bhaj･1 a (divide, distribute) |
-| kusinārāyaṃ | noun | fem.loc.sg | in Kusinara | |
-| parinibbuto'ti | pp | masc.nom.sg | was extinguished"" | √vā･1 a (blow, emit odour) |
+| kusinārāyaṃ | noun | fem.loc.sg | in Kusinārā | |
+| parinibbuto'ti | pp | masc.nom.sg | was extinguished | √vā･1 a (blow, emit odour) |
 
-**The Mallans heard, "The Blessed One had final Nibbāna in Kusinara"**
+**The Mallans heard, "The Blessed One had final Nibbāna in Kusinārā."**
 
 4. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)
    ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgāra-sālāyaṃ
@@ -46,13 +46,13 @@
 | --- | --- | --- | --- | --- |
 | ekaṃ samayaṃ | idiom | masc.acc.sg (card+noun) | at one time | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
-| vesāliyaṃ | noun | fem.loc.sg | in Vesali | |
+| vesāliyaṃ | noun | fem.loc.sg | in Vesālī | |
 | viharati | verb | pr.3rd.sg | he lives; dwells | √har･1 a (live) |
 | mahāvane | noun | nt.loc.sg | in the great wood | |
 | kūṭāgāra- | noun | nt | building with peaked roof | |
 | sālāyaṃ | noun | fem.loc.sg | in the hall | |
 
-**At one time the Blessed One was living in Vesali, in the great wood, in the hall of the building with the peaked roof.**
+**At one time the Blessed One was living in Vesālī, in the great wood, in the hall of the building with the peaked roof.**
 
 5. [DN22.7](https://s.dhamma.gift/dn/dn22/index.html)
    bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ
@@ -121,7 +121,7 @@
 | nahāyeyya | verb | opt.3rd.sg | should bathe | √nhā･3 ya (bathe) |
 | pācittiyaṃ | noun | nt.nom.sg | a case requiring confession | |
 
-**whichever monk should bathe sooner than a fortnight, that is an offence requiring confession**
+**Whichever monk should bathe sooner than a fortnight, that is an offence requiring confession.**
 
 10. [VIN PAT PA 2](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm3)
     rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā
@@ -224,13 +224,13 @@
 **They would abandon covetousness with reference to the world, they would dwell with a mind free from covetousness, they would purify the mind from covetousness.**
 
 17. [DN16.36](https://s.dhamma.gift/dn/dn16/index.html) (simpl)
-    siyā kho pana ananda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
+    siyā kho pana ānanda, tumhākaṃ evaṃ assa — "n'atthi no satthā" iti.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | siyā | verb | opt.3rd.sg | there could be | √as･1 a (be) |
 | kho pana | ind | idiom | and now | |
-| ananda | noun | masc.voc.sg | Ananda | √nand･1 a (delight, enjoy) |
+| ānanda | noun | masc.voc.sg | Ānanda | √nand･1 a (delight, enjoy) |
 | tumhākaṃ | pron | 2nd.dat.pl | for you | |
 | evaṃ | ind | adv | thus; in this way | |
 | assa | verb | opt.3rd.sg | it may be; it could be | √as･1 a (be) |
@@ -239,7 +239,7 @@
 | satthā | noun | masc.nom.sg | teacher | √sās･1 a (order, instruct) |
 | iti | ind | quote | " " | |
 
-**And now there could be, Ananda, for you it would occur like this: "there is no teacher for us."**
+**And now there could be, Ānanda, for you it would occur like this: "there is no teacher for us."**
 
 18. [AN8.53](https://s.dhamma.gift/an/an8/index.html#an8.53)
     ye kho tvaṃ dhamme jāneyyāsi
@@ -285,10 +285,10 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| atītaṃ | adj | masc.acc.sg | the past | √i･1 a (come, go) |
+| atītaṃ | noun | nt.acc.sg | the past | √i･1 a (come, go) |
 | n'ānvāgameyya | verb | opt.3rd.sg | should not return to | √gam･1 \*e (go) |
 | nappaṭikaṅkhe | verb | opt.3rd.sg | should not anticipate | √kaṅkh･1 a (wish for) |
-| anāgataṃ | adj | masc.acc.sg | the future | √gam･1 \*e (go) |
+| anāgataṃ | noun | masc.acc.sg | the future | √gam･1 a (go) |
 
 **He should not return to the past, he should not anticipate the future.**
 
@@ -315,12 +315,13 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| ce | ind | ind | if | |
+| ce | ind | cond | if | |
 | tumhe | pron | 2nd.nom.pl | you | |
 | assatha | verb | opt.2nd.pl | would be; may be; were to be | √as･1 a (be) |
 | kupitā | adj | masc.nom.pl | angry; annoyed | √kup･3 ya (shake, be angry) |
 | vā | ind | conj | or | |
 | anattamanā | adj | masc.nom.pl | displeased; irritated | |
+| vā | ind | conj | or | |
 | tumhaṃ | pron | 2nd.dat.pl | for you all | |
 | tena | ind | adv | on that account; thereby | |
 | antarāyo | noun | masc.nom.sg | an obstacle | |
@@ -342,7 +343,7 @@
 | anāgatam'addhānaṃ | ind | adv | in the future | |
 | evaṃvedano | adj | masc.nom.sg | having such feeling | |
 
-**In this regard, householder, it occurs to someone [lit: for a certain one there is thus]: "may I be of such form in the future, may I be having such feeling in the future.**
+**In this regard, householder, it occurs to someone [lit: for a certain one there is thus]: "may I be of such form in the future, may I be having such feeling in the future."**
 
 25. [MN25](https://s.dhamma.gift/mn/mn25/index.html) (simpl)
     mayaṃ migajātānaṃ āsayaṃ passeyyāma, yattha te gāhaṃ gaccheyyun'ti.
@@ -355,7 +356,7 @@
 | passeyyāma | verb | opt.1st.pl | we could see | √dis･1 a (see) |
 | yattha | ind | adv | wherever | |
 | te | pron | masc.nom.pl | they | |
-| gāhaṃ | noun | masc.acc.sg | hiding place | √gah･6 ṇhā (grasp) |
+| gāhaṃ | noun | masc.acc.sg | hideaway | √gāh･1 a (dive, plunge) |
 | gaccheyyun'ti | verb | opt.3rd.pl+end quote | would go; would move | √gam･1 a (go) |
 
 **"We could see the lair of a species of deer, where they would go [for] a hiding place."**
@@ -386,7 +387,7 @@
 | upasaṅkamitāro | noun | masc.nom.pl | visitors; guests | √kam･1 a (go) |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
 | upāsakā | noun | masc.nom.pl | male lay disciples | √ās･1 a (sit) |
-| upāsikāyo | noun | fem.nom.pl | female disciples | √ās･1 a (sit) |
+| upāsikāyo | noun | fem.nom.pl | female lay disciples | √ās･1 a (sit) |
 
 **In this regard, for a monk dwelling secluded, there would be visitors - monks, male lay disciples, [and] female lay disciples.**
 
@@ -399,7 +400,7 @@
 | uppannānaṃ | pp | fem.gen.pl | of arisen | √pad･3 ya (go, step) |
 | veyyābādhikānaṃ | adj | fem.gen.pl | of oppressive | √bādh･1 a (press, oppress) |
 | vedanānaṃ | noun | fem.gen.pl | of feelings | √vid･8 \*e (know, sense, feel) |
-| paṭighātāya | noun | masc.dat.sg [dat or purpse] | for the warding off | √ghaṭ･8 \*e (strike, kill) |
+| paṭighātāya | noun | masc.dat.sg [dat of purpose] | for the warding off | √ghaṭ･8 \*e (strike, kill) |
 | abyāpajjhaparamatāya | noun | fem.dat.sg | for the freedom from oppressive pain at the most | |
 
 **Only as much as for the warding off of oppressive feelings that have arisen, for the freedom from oppressive pain at the most.**
@@ -469,7 +470,7 @@
 | ca | ind | | and if [with opt or cond] | |
 | tassa | pron | masc.dat.sg | to that; for that | |
 | bhikkhuno | noun | masc.dat.sg | for a monk | √bhikkh･1 a (beg) |
-| koci'd'eva | ind | pron+ind | some or other; just some | |
+| koci'd'eva | idiom | pron+ind | some or other; just some | |
 | paccayo | noun | masc.nom.sg | cause; reason | √i･1 a (come, go) |
 | senaṃ | noun | fem.acc.sg | a multitude; an army | |
 | gamanāya | noun | nt.dat.sg [dat of purpose] | for going to see | √gam･1 a (go) |
@@ -484,9 +485,9 @@
 | --- | --- | --- | --- | --- |
 | kiṃ | ind | interr | what? | |
 | kareyya | verb | opt.3rd.sg | could do; could make | √kar･7 o (do, make) |
-| udapānena | noun | masc.instr.sg | with well | |
-| āpā | noun | masc.nom.pl | water | |
-| ce | ind | ind | if | |
+| udapānena | noun | masc.instr.sg | with a well | |
+| āpā | noun | nt.nom.pl | water | |
+| ce | ind | cond | if | |
 | sabbadā | ind | adv | always; at all times | |
 | siyuṃ | verb | opt.3rd.pl | they would be; there could be | √as･1 a (be) |
 | taṇhāya | noun | fem.gen.sg | of craving | √tas･6 ṇhā (thirst) |
@@ -504,7 +505,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | desetu | verb | imp.3rd.sg | may…teach | √dis･1 \*e (point out, explain) |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | dhammaṃ | noun | masc.acc.sg | the doctrine | √dhar･1 a (hold, carry, endure) |
 | desetu | verb | imp.3rd.sg | may…teach | √dis･1 \*e (point out, explain) |

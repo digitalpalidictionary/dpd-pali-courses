@@ -9,7 +9,7 @@
 | bhikkhū | noun | masc.acc.pl | the monks | √bhikkh･1 a (beg) |
 | āmantesi | verb | aor.3rd.sg | he spoke to, addressed | √mant･8 \*e (counsel, invite) |
 | bhikkhavo | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| ‘ti | ind | quote | " " | |
+| 'ti | ind | quote | " " | |
 
 **The Blessed One addressed the monks, "O monks!"**
 
@@ -28,7 +28,7 @@
 **Monks, an unlearned common person is not liberated from birth.**
 
 3. [DN11.6](https://s.dhamma.gift/dn/dn11/index.html)
-   esa bhagavato sāvakasaṅgho
+   esa bhagavato sāvakasaṅgho āhuneyyo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -46,10 +46,10 @@
 | --- | --- | --- | --- | --- |
 | atha kho | ind | adv | then | |
 | āyasmato | adj | masc.dat.sg | for/to venerable | √i･1 a (come, go) |
-| ānandassa | noun | masc.dat.sg | ānanda | √nand･1 a (delight, enjoy) |
-| etad'ahosi | pron+verb | nt.nom.sg+aor.3rd.sg | this was; this[thought] occurred | |
+| ānandassa | noun | masc.dat.sg | to Ānanda | √nand･1 a (delight, enjoy) |
+| etad'ahosi | pron+verb | nt.nom.sg+aor.3rd.sg | this was; this [thought] occurred | |
 
-**Then, this [thought] occurred to Venerable Ananda**
+**Then, this [thought] occurred to Venerable Ānanda.**
 
 **This is a common Pāli idiom.**
 
@@ -85,7 +85,7 @@
 
 **What should be done by a teacher for (his) disciples, that has been done by me for you.**
 
-7. [SNP9](https://s.dhamma.gift/kn/snp/index.html#snp1.9)
+7. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
    ye keci pāṇabhūtā atthi, tasā vā thāvarā vā anavasesā
 
 | | | | | |
@@ -186,7 +186,7 @@
 **Just like a strong man would stretch out (his) bent arm or …**
 
 14. [AN2.40](https://s.dhamma.gift/an/an2/index.html#an2.40)
-    yasmiṃ, bhikkhave, samaye corā balavanto honti..
+    yasmiṃ, bhikkhave, samaye corā balavanto honti…
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -293,7 +293,7 @@
 
 **Monks will honor, respect, revere, [and] venerate the elders.**
 
-21. [DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273)
+21. [DHP279](https://s.dhamma.gift/kn/dhp/index.html#dhp273)
     sabbe dhammā anattā iti, yadā paññāya passati, atha nibbindati dukkhe – esa maggo visuddhiyā
 
 | | | | | |
@@ -309,7 +309,7 @@
 | nibbindati | verb | pr.3rd.sg | one is disenchanted; disillusioned | √vid･2 ṃa (feel, like) |
 | dukkhe | noun | nt.loc.sg | with regard to suffering | √dukkh･1 a (be painful) |
 | esa | pron | masc.nom.sg | this | |
-| maggo | noun | masc.nom.sg | the path | √magg･8 \*e (seek, search) |
+| maggo | noun | masc.nom.sg | the path | √magg･1 a (seek, search) |
 | visuddhiyā | noun | fem.dat.sg / fem.gen.sg | to purification / of purity | √sudh･3 ya (be pure) |
 
 **"All things are non-self." When one sees [this] with wisdom, then one is disenchanted with suffering. This is the path to purification.**
@@ -342,7 +342,7 @@
 | so | pron | masc.nom.sg | he | |
 | adhigacchati | verb | pr.3rd.sg | acquires; obtains | √gam･1 a (go) |
 
-**The intelligent man [who is] a giver of happiness, acquires happiness.**
+**The intelligent man [who is] a giver of happiness acquires happiness.**
 
 24. [MN107](https://s.dhamma.gift/mn/mn107/index.html)
     ehi tvaṃ bhikkhu bhojane mattaññū hohi
@@ -364,9 +364,9 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
-| hirimanto | adj | masc.nom.pl | conscientious | √hir･3 ya (be ashamed) |
+| hirimanto | adj | masc.nom.pl | having a sense of shame; having a conscience | √hir･3 ya (be ashamed) |
 | bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
-| ottappino | adj | masc.nom.pl | feeling shame | √tapp･1 a (regret) |
+| ottappino | adj | masc.nom.pl | afraid of wrong; conscientious | √tapp･1 a (regret) |
 | bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
 | satimanto | adj | masc.nom.pl | mindful; attentive | √sar･1 a (remember) |
 | bhavissanti | verb | fut.3rd.pl | will be; should be | √bhū･1 a (be, become) |
@@ -402,9 +402,9 @@
 | sekhassa | noun | masc.gen.sg | of a trainee | √sikkh･1 a (learn, train) |
 | bhikkhuno | noun | masc.gen.sg | of a monk | √bhikkh･1 a (beg) |
 | aparihānāya | noun | nt.dat.sg | for the non-decline | √hā･3 ya (decrease) |
-| saṃvattanti | verb | pr.3rd.pl | they are conducive for; lead to | √vatt･1 a (be, proceed) |
+| saṃvattanti | verb | pr.3rd.pl | they are conducive to; lead to | √vatt･1 a (be, proceed) |
 
-**These principles, o monks, are conducive for the non-decline of a monk who is a trainee.**
+**These principles, o monks, are conducive to the non-decline of a monk who is a trainee.**
 
 28. [VIN PAT SA 4](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) (simpl)
     mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ paricara
@@ -437,26 +437,26 @@
 **If that monk, previously uninvited, would approach [there], cause an alteration in a robe…**
 
 30. [VIN PAT SE 18](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm9) (simpl)
-    na bāhu-pacālakaṃ antaraghare nisīdissāmi
+    na bāhu-ppacālakaṃ antaraghare nisīdissāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
-| bāhu-pacālakaṃ | ind | adv | swinging the arms; swaying the arms | |
+| bāhu-ppacālakaṃ | ind | adv | swinging the arms; swaying the arms | |
 | antaraghare | noun | nt.loc.sg | in an inhabited area | |
 | nisīdissāmi | verb | fut.1st.sg | I will sit | √sad･1 a (sink, sit, settle) |
 
 **I will not sit in an inhabited area swinging [my] arms.**
 
 31. [SN21.10](https://s.dhamma.gift/sn/sn21/index.html#sn21.10) (simpl)
-    sabbābhibhuṃ sabbaviduṃ sumedhaṃ, tam naraṃ ekavihārī iti ahaṃ brūmi
+    sabbābhibhuṃ sabbaviduṃ sumedhaṃ, taṃ naraṃ ekavihārī iti ahaṃ brūmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | sabbābhibhuṃ | adj | masc.acc.sg | all-conquering | |
 | sabbaviduṃ | adj | masc.acc.sg | all-knowing; omniscient | |
 | sumedhaṃ | adj | masc.acc.sg | wise | |
-| tam | pron | masc.acc.sg | that | |
+| taṃ | pron | masc.acc.sg | that | |
 | naraṃ | noun | masc.acc.sg | man | |
 | ekavihārī | noun | masc.nom.sg | one who dwells alone | |
 | iti | ind | adv, quote | thus, "" | |
@@ -520,7 +520,7 @@
 | --- | --- | --- | --- | --- |
 | yaṃ | pron | masc.acc.sg | whom; whoever | |
 | kho | ind | emph | indeed | |
-| bhante | noun | masc.voc.sg | Venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | Venerable sir | √bhū･1 a (be, become) |
 | āyasmā | noun | masc.nom.sg | venerable | √i･1 a (come, go) |
 | veyyāvaccakaraṃ | noun | masc.acc.sg | steward | |
 | niddisi | verb | aor.3rd.sg | indicated; designated | √dis･1 a (point out, explain) |
@@ -583,7 +583,7 @@
 | ācariye | noun | masc.loc.sg | in the teacher; towards teacher | √car･1 a (act, behave) |
 | tesu | pron | masc.loc.pl | in them; towards them | |
 | na | ind | neg | not | |
-| mānaṃ | noun | nt.acc.sg | pride; conceit | √man･3 ya (think) |
+| mānaṃ | noun | masc.acc.sg | pride; conceit | √man･3 ya (think) |
 | karohi | verb | imp.2nd.sg | do; make | √kar･7 o (do, make) |
 
 **Towards mother and father, and after that, towards the eldest brother; and towards the teacher. Do not show conceit towards them.**

@@ -40,11 +40,11 @@
 | |
 
 4. [AN10.48](https://s.dhamma.gift/an/an10/index.html#an10.48)
-   **uttarissa** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
+   **uttari** **manussassa** **dhammo** **alam’ariyo** **ñāṇadassanassa** **viseso[^4]**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| uttarissa | adj | | | |
+| uttari | adj | | | |
 | manussassa | | | | |
 | dhammo | | | | |
 | alamariyo | adj | | | |

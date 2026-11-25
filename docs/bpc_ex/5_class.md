@@ -9,7 +9,7 @@
 | bhikkhave | | | | |
 | na | | | | |
 | (hoti) | | | | |
-| tumhākaṃ, | | | | |
+| tumhākaṃ | | | | |
 | taṃ | | | | |
 | pajahatha | | | | |
 | |
@@ -293,7 +293,7 @@
 | gāmaṇi | | | | |
 | mā | | | | |
 | maṃ | | | | |
-| etaṃ | pron | masc.acc.sg | | |
+| etaṃ | pron | nt.acc.sg | | |
 | pucchi | | | | |
 | |
 
@@ -591,6 +591,7 @@
 | āvuso | ind | voc.sg | | |
 | na | | | | |
 | me | | | | |
+| tayā | | | | |
 | saddhiṃ | | | | |
 | kathā | noun | fem.nom.sg | | |
 | vā | | | | |

@@ -1,6 +1,6 @@
 # Class 9 Key to Exercises
 
-1. VIN0
+1. [VIN1.0](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-pj/index.html#pli-tv-bu-vb-pj1)
    āraddhaṃ kho pana me, brāhmaṇa, vīriyaṃ ahosi.
 
 | Pāli | POS | Grammar | English | Root |
@@ -9,11 +9,11 @@
 | kho | ind | emph | indeed, truly | |
 | pana | ind | conj | and | |
 | me | pron | 1st.instr.sg | by me | |
-| brāhmaṇa | noun | masc.voc.sg | Brahman | √brah×1 a (increase) |
+| brāhmaṇa | noun | masc.voc.sg | brahmin | √brah×1 a (increase) |
 | vīriyaṃ | noun | nt.nom.sg | energy, effort | √vīr×8 \*e (be heroic, hostile) |
 | ahosi | verb | aor.3rd.sg | it was | √hū･1 a (be) |
 
-**Effort was truly aroused by me, Brahman.**
+**Effort was truly aroused by me, brahmin.**
 
 2. [MN9](https://s.dhamma.gift/mn/mn9/index.html)
    dūrato mayaṃ āgaccheyyāma āyasmato sāriputtassa santike etassa bhāsitassa atthaṃ aññātuṃ
@@ -29,7 +29,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | āyasmato | noun | masc.gen.sg | of venerable | √i･1 a (come, go) |
-| sāriputtassa | noun | masc.gen.sg | of the Son of Sari | |
+| sāriputtassa | noun | masc.gen.sg | of Sāriputta | |
 | santike | ind | prep [+gen] | near to, in the presence | |
 
 **in the presence of Ven. Sāriputta**
@@ -69,7 +69,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | nidānāni | noun | nt.nom.pl | sources, causes | √dā･3 ya (tie, bind) |
 | kammānaṃ | noun | nt.gen.pl | of actions, of kamma | √kar･7 o (do, make) |
-| samudayāya. | noun | masc.dat.sg | for the arising | √i･1 a (come, go) |
+| samudayāya | noun | masc.dat.sg | for the arising | √i･1 a (come, go) |
 
 **Monks, [there are] these three origins for the arising of kamma.**
 
@@ -78,18 +78,19 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃ | pron | nt.acc.sg | whatever | |
-| aniccaṃ | adj | nt.acc.sg | not stable, impermanent | |
-| dukkhaṃ | adj | nt.acc.sg | unsatisfactory | √dukkh･1 a (be painful) |
-| vipariṇāma- / dhammaṃ | adj | nt.acc.sg | changing-nature; subject to change | |
+| yaṃ | pron | nt.nom.sg | whatever | |
+| aniccaṃ | adj | nt.nom.sg | not stable, impermanent | |
+| dukkhaṃ | adj | nt.nom.sg | unsatisfactory | √dukkh･1 a (be painful) |
+| vipariṇāma- / dhammaṃ | adj | nt.nom.sg | changing-nature; subject to change | |
 
 **Whatever is impermanent, unsatisfactory, subject to change**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kallaṃ | ind | - | is it suitable? | |
+| kallaṃ | adj | nt.nom.sg | suitable; proper | |
+| nu | ind | interr | ? | |
 | taṃ | pron | nt.acc.sg | that | |
-| samanupassituṃ | ind | inf | to see, to regard, to consider | √dis･1 a (see) |
+| samanupassituṃ | verb | inf | to see, to regard, to consider | √dis･1 a (see) |
 
 **Is it suitable to regard that [as]:**
 
@@ -98,7 +99,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 **"this is mine, I am this, this is my self"?**
 
 6. [AN4.42](https://s.dhamma.gift/an/an4/index.html#an4.42)
-   cattāri imāni, bhikkhave, pañha-vyākaraṇāni . katamāni cattāri?
+   cattāri imāni, bhikkhave, pañha-vyākaraṇāni. katamāni cattāri?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -106,7 +107,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | imāni | pron | nt.nom.pl | these | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | pañha- | noun | masc | question | √pañh･1 a (ask, question) |
-| vyākaraṇāni. | noun | nt.nom.pl | answering; replying | √kar･7 o (do, make) |
+| vyākaraṇāni | noun | nt.nom.pl | answering; replying | √kar･7 o (do, make) |
 | katamāni | pron | nt.nom.pl | what? | |
 | cattāri | card | nt.nom.pl | four | |
 
@@ -120,12 +121,12 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | alaṃ | ind | impers | it is suitable | |
 | hi | ind | emph | definitely | |
 | vo | pron | 2nd.dat.pl | for you all | |
-| kālāmā | noun | masc.voc.pl | Kalamas | |
-| kaṅkhituṃ | ind | inf | to doubt | √kaṅkh･1 a (doubt) |
+| kālāmā | noun | masc.voc.pl | Kālāmas | |
+| kaṅkhituṃ | verb | inf | to doubt | √kaṅkh･1 a (doubt) |
 | alaṃ | ind | - | it is suitable | |
-| vicikicchituṃ | verb | inf | to be unsure, be confused | √cit･8 cha (think, intend) |
+| vicikicchituṃ | verb | inf | to be unsure, be confused | √cit･8 sa (think, intend) |
 
-**It is definitely suitable for you, Kalamas, to doubt, it is suitable to be unsure.**
+**It is definitely suitable for you, Kālāmas, to doubt, it is suitable to be unsure.**
 
 8. [MN13](https://s.dhamma.gift/mn/mn13/index.html)
    atha kho tesaṃ bhikkhūnaṃ etadahosi, atippago sāvatthiyaṃ piṇḍāya carituṃ, yaṃ nūna mayaṃ yena paribbājakānaṃ ārāmo tena upasaṅkameyyāmā'ti
@@ -143,11 +144,11 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | | | | | |
 | --- | --- | --- | --- | --- |
 | atippago | ind | adv | too early, too soon | |
-| sāvatthiyaṃ | noun | fem.loc.sg | in Sāvatthi | |
+| sāvatthiyaṃ | noun | fem.loc.sg | in Sāvatthī | |
 | piṇḍāya | noun | masc.dat.sg | for alms | √piṇḍ･8 \*e (collect) |
 | carituṃ | verb | inf [+loc] | to walk | √car･1 a (move, walk) |
 
-**It's too early to walk for alms in Sāvatthi**
+**It's too early to walk for alms in Sāvatthī**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -158,7 +159,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | ārāmo | noun | masc.nom.sg | park | √ram･1 a (delight, please) |
 | tena | ind | adv | there | |
 | upasaṅkameyyāma | verb | opt.1st.pl | we could approach | √kam･1 a (go) |
-| ‘ti | ind | quote | " " | |
+| 'ti | ind | quote | " " | |
 
 **Let us approach the park of the wandering ascetics.**
 
@@ -185,11 +186,11 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | | | | | |
 | --- | --- | --- | --- | --- |
 | samaṇo | noun | masc.nom.sg | the recluse | √sam･3 ya (exert, strive) |
-| gotamo | noun | masc.nom.sg | gotama | |
+| gotamo | noun | masc.nom.sg | Gotama | |
 | arahati | verb | pr.3rd.sg | should; ought (to) | √arah･1 a (deserve, be worthy) |
 | bhavantaṃ | noun | masc.acc.sg | master, sir | √bhū･1 a (be, become) |
 | kūṭadantaṃ | noun | masc.acc.sg | Kūṭadanta; lit. crooked tooth | |
-| dassanāya | noun | masc.dat.sg [dat of purpose] | to see; to look at | √dis･1 a (see) |
+| dassanāya | noun | nt.dat.sg [dat of purpose] | to see; to look at | √dis･1 a (see) |
 | upasaṅkamituṃ | verb | inf | to visit; to approach | √kam･1 a (go) |
 
 **The recluse Gotama ought to visit sir Kūṭadanta to see him.**
@@ -199,15 +200,14 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| atha | ind | ind | after | |
-| kho | ind | ind | that | |
+| atha kho | ind | adv | and then | |
 | te | pron | masc.nom.pl | those | |
 | bhikkhū | noun | masc.nom.pl | monks | √bhikkh･1 a (beg) |
-| sāvatthiyaṃ | noun | fem.loc.sg | in Sāvatthi | |
+| sāvatthiyaṃ | noun | fem.loc.sg | in Sāvatthī | |
 | piṇḍāya | noun | masc.dat.sg [dat of purpose] | for alms food | √piṇḍ･8 \*e (collect) |
 | caritvā | verb | abs | having walked | √car･1 a (move, walk) |
 
-**After that, those monks, having walked for alms food in Sāvatthi…**
+**After that, those monks, having walked for alms food in Sāvatthī…**
 
 12. [MN107](https://s.dhamma.gift/mn/mn107/index.html) (simpl)
     aṇumattesu vajjesu bhayaṃ dassāvī, samādāya sikkhāhi sikkhāpadesu
@@ -255,7 +255,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | lok'ānukampāya | noun | fem.instr.sg | because of the compassion for the world | |
 | atthāya | noun | masc.dat.sg | for the benefit | √ar･1 a (move, attain) |
 | hitāya | noun | nt.dat.sg | for the advantage | √dhā･1 a (place, support) |
-| sukhāya | noun | nt.dat.sg | for the comfort of | √sukh･1 a (please, be comfortable) |
+| sukhāya | noun | nt.dat.sg | for the comfort | √sukh･1 a (please, be comfortable) |
 | devamanussānaṃ | noun | masc.gen.pl | of gods and humans | |
 
 **That would be for the benefit [and] the happiness of many people, out of compassion for the world, [it would be] for the benefit, advantage and comfort of gods and humans.**
@@ -272,9 +272,9 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | imasmiṃ | pron | masc.loc.sg | in this | |
 | dhammavinaye | noun | masc.loc.sg | in Doctrine and Discipline | |
 | evam'eva | idiom | ind | similarly; in the same way | |
-| anupubbasikkhā | noun | fem.acc.pl | gradual training[s] | |
-| anupubbakiriyā | noun | fem.acc.pl | gradual undertaking[s]; step-by-step activity | |
-| anupubbapaṭipadā | noun | fem.acc.pl | gradual way[s]; gradual progress | |
+| anupubbasikkhā | noun | fem.nom.sg | gradual training | |
+| anupubbakiriyā | noun | fem.nom.sg | gradual undertaking; step-by-step activity | |
+| anupubbapaṭipadā | noun | fem.nom.sg | gradual way; gradual progress | |
 | paññapetuṃ | verb | inf | to define; to describe [lit: to make known] | √ñā･5 \*āpe (know) |
 
 **Master Gotama, is it possible, similarly, to describe gradual training, gradual undertaking, gradual progress in this Doctrine-and-Discipline?**
@@ -298,7 +298,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | bojjh'aṅgā | noun | masc.nom.pl | enlightenment factors; factors of enlightenment | |
 | ariyo | adj | masc.nom.sg | noble | |
 | aṭṭh'aṅgiko | adj | masc.nom.sg | eightfold | |
-| maggo | noun | masc.nom.sg | path | √magg･8 \*e (seek, search) |
+| maggo | noun | masc.nom.sg | path | √magg･1 a (seek, search) |
 
 **[They are] as follows: four foundations of mindfulness, four right efforts, four bases for psychic power, five faculties, five mental powers, seven enlightenment factors [and] the Noble Eightfold Path.**
 
@@ -350,7 +350,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | na | ind | neg | not | |
 | sukaraṃ | adj | nt.nom.sg | easily done [idiom: it is not easy to…] | √kar･7 o (do, make) |
 | agāraṃ | noun | nt.acc.sg | at home | |
-| ajjhāvasatā | noun | masc.nom.sg [+acc] | one who is domestically settled | √vas･1 a (live) |
+| ajjhāvasatā | prp | masc.instr.sg [+acc] | by one living in (a house) | √vas･1 a (live) |
 | ek'antaparipuṇṇaṃ | adj | nt.acc.sg | completely perfect | |
 | ek'antaparisuddhaṃ | adj | nt.acc.sg | completely pure | |
 | saṅkhalikhitaṃ | adj | nt.acc.sg | polished like mother-of-pearl | |
@@ -366,7 +366,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | --- | --- | --- | --- | --- |
 | bhagavā | noun | masc.nom.sg | The Blessed One | √bhaj･1 a (divide, distribute) |
 | pana | ind | conj | moreover; but | |
-| bhante | noun | masc.voc.sg | Venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | Venerable sir | √bhū･1 a (be, become) |
 | arahaṃ | noun | masc.nom.sg | Worthy one | √arah･1 a (deserve, be worthy) |
 | sammāsambuddho | noun | masc.nom.sg | Perfectly enlightened one | |
 | pahoti | verb | pr.3rd.sg | is able to | √hū･1 a (be) |
@@ -380,18 +380,18 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | paraṃ | ind | prep (+abl) | after | |
 | maraṇā | noun | nt.abl.sg | from death | √mar･1 a (die) |
 | sugatiṃ | noun | fem.acc.sg | a good destination | √gam･1 a (go) |
-| saggaṃ | adj | masc.acc.sg | heavenly | √gam･1 a (go) |
+| saggaṃ | adj | masc.acc.sg | heavenly | √sar･1 a (shine) |
 | lokaṃ | noun | masc.acc.sg | world | √lok･8 \*e (look) |
 | upapajjeyya | verb | opt.3rd.sg | would be reborn [lit: would go toward] | √pad･3 ya (go, step) |
 
-**Is the Blessed One, the Arahant, the Perfectly Enlightened One able to act in such a way that the whole world, after the breaking up of the body, after death, would be reborn in a good destination, in a heavenly world?**
+**But, venerable sir, is the Blessed One, the Arahant, the Perfectly Enlightened One able to act in such a way that the whole world, after the breaking up of the body, after death, would be reborn in a good destination, in a heavenly world?**
 
 21. [SN22.33](https://s.dhamma.gift/sn/sn22/index.html#sn22.33)
     yaṃ, bhikkhave, na tumhākaṃ, taṃ pajahatha. taṃ vo pahīnaṃ hitāya sukhāya bhavissati. kiñ'ca, bhikkhave, na tumhākaṃ?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| yaṃ | pron | nt.acc.sg | what; whatever | |
+| yaṃ | pron | nt.nom.sg | what; whatever | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | na | ind | neg | not | |
 | tumhākaṃ | pron | 2nd.gen.pl | yours | |
@@ -411,7 +411,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 **Whatever is not yours, monks, abandon that; [when] that has been abandoned by you, it will be for [your] benefit and happiness. And what, monks, is not yours?**
 
 22. [MN2.2](https://s.dhamma.gift/mn/mn2/index.html)
-    ‘ahaṃ nu kho asmi? no nu kho asmi? kiṃ nu kho asmi? kathaṃ nu kho asmi? ayaṃ nu kho satto kuto āgato? so kuhiṃ gāmī bhavissati iti?
+    'ahaṃ nu kho asmi? no nu kho asmi? kiṃ nu kho asmi? kathaṃ nu kho asmi? ayaṃ nu kho satto kuto āgato? so kuhiṃ gāmī bhavissati iti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -436,11 +436,11 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | kho | ind | emph | truly | |
 | satto | noun | masc.nom.sg | living being | √as･1 a (be) |
 | kuto | ind | interr | from where? | |
-| āgato | pp | masc.nom.sg | have come | √gam･1 a (go) |
+| āgato | pp | masc.nom.sg | has come | √gam･1 a (go) |
 | so | pron | masc.nom.sg | he; that | |
 | kuhiṃ | ind | interr | where? | |
 | gāmī | adj | masc.nom.sg | going; who goes | √gam･1 a (go) |
-| bhavissati | verb | fut.3rd.sg | it will be | √bhū･1 a (be, become) |
+| bhavissati | verb | fut.3rd.sg | he will be | √bhū･1 a (be, become) |
 | iti | ind | quote | " " | |
 
 **"Am I? Am I not? What am I? How am I? From where has this living being come? Where will he be heading?"**
@@ -481,13 +481,13 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | vadeyya | verb | opt.3rd.sg | would say; speak | √vad･1 a (say, speak) |
 | icchāmi | verb | pr.1st.sg | I wish | √is･1 a (wish for) |
 | ahaṃ | pron | 1st.nom.sg | I | |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 | rājagahaṃ | noun | nt.acc.sg | Rājagaha | |
 | gantuṃ | verb | inf | to go [to] | √gam･1 a (go) |
 | tassa | pron | masc.gen.sg | of that | |
 | me | pron | 1st.dat.sg | to me | |
 | rājagahassa | noun | nt.gen.sg | to Rājagaha | |
-| maggaṃ | noun | masc.acc.sg | the way; the path | √magg･8 \*e (seek, search) |
+| maggaṃ | noun | masc.acc.sg | the way; the path | √magg･1 a (seek, search) |
 | upadisā'ti | verb | imp.2nd.sg + end quote | show; point out | √dis･1 a (point out, explain) |
 
 **What do you think [about] this, brahmin; here, a man would come along wishing to go to Rājagaha. Having approached you, he would say, "Venerable sir, I wish to go to Rājagaha. Point out the way to Rājagaha to me."**
@@ -508,7 +508,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | ābādhāya | noun | masc.dat.sg | for illness; sickness; lit. oppression | √bādh･1 a (press, oppress) |
 | saṃvattati | verb | pr.3rd.sg [+dat] | is conducive; leads to | √vatt･1 a (be, proceed) |
 
-**But because form is not self, therefore it leads to oppression.**
+**But because form, monks, is not self, therefore form leads to affliction.**
 
 26. [MN22](https://s.dhamma.gift/mn/mn22/index.html)
     evam'eva kho, bhikkhave, kull'ūpamo mayā dhammo desito nittharaṇ'atthāya, no gahaṇ'atthāya.
@@ -567,9 +567,9 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | adhigacchati | verb | pr.3rd.sg | gets to; finds; attains | √gam･1 a (go) |
 | abyositattā | noun | nt.abl.sg | from state of not being perfected; not being accomplished | |
 | hi | ind | emph | because; for | |
-| bhav'ābhavesu | noun | masc.loc.pl | in existences or non-existences; any states o existence | |
+| bhav'ābhavesu | noun | masc.loc.pl | in existences or non-existences; any states of existence | |
 | pāpāni | adj | nt.acc.pl | evil | |
-| kammāni | noun | nt.acc.pl | actions; deed | √kar･7 o (do, make) |
+| kammāni | noun | nt.acc.pl | actions; deeds | √kar･7 o (do, make) |
 | karoti | verb | pr.3rd.sg | he/one makes; does | √kar･7 o (do, make) |
 | mohā | noun | masc.abl.sg | out of delusion | √muh･3 ya (be deluded, confused) |
 
@@ -590,7 +590,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | ussukā | adj | masc.nom.pl | zealously desiring | |
 | āsuṃ | verb | aor.3rd.pl | they were | √as･1 a (be) |
 
-**They were not overly zealously desiring medicines and requisites for life.**
+**They were not overly eager for the requisites of life, medicines and supports.**
 
 4. [DHP152](https://s.dhamma.gift/kn/dhp/index.html#dhp146) (simpl)
    appassuto puriso, balibaddho va jīrati, maṃsāni tassa vaḍḍhanti, paññā tassa na vaḍḍhati.
@@ -608,7 +608,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | paññā | noun | fem.nom.sg | wisdom | √ñā･5 nā (know) |
 | tassa | pron | masc.gen.sg | his | |
 | na | ind | neg | not | |
-| vaḍḍhati | verb | pr.3rd.sg | increase | √vaḍḍh･1 a (grow, increase) |
+| vaḍḍhati | verb | pr.3rd.sg | increases | √vaḍḍh･1 a (grow, increase) |
 
 **An unlearned man ages like an ox, his flesh increases, his wisdom does not increase.**
 
@@ -662,7 +662,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| jegucchī | adj | masc.nom.sg | who is disgusted | √gup･1 cha (dislike) |
+| jegucchī | adj | masc.nom.sg | who is disgusted | √gup･1 sa (dislike) |
 | hoti | verb | pr.3rd.sg | he is | √hū･1 a (be) |
 | uccāraṃ | noun | masc.acc.sg | excrement | √car･1 a (move, walk) |
 | vā | ind | conj | or | |
@@ -671,6 +671,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | abhinisīdituṃ | verb | inf | to sit down in/on | √sad･1 a (sink, sit, settle) |
 | vā | ind | conj | or | |
 | abhinipajjituṃ | verb | inf | to lie down on | √pad･3 ya (go, step) |
+| vā | ind | conj | or | |
 
 **He is one who is disgusted to sit or lie down on excrement or urine.**
 
@@ -682,7 +683,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | evam'eva | idiom | ind | similarly; in the same way | |
 | kho | ind | emph | indeed | |
 | ahaṃ | pron | 1st.nom.sg | I | |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 | imesaṃ | pron | nt.gen.pl | of these | |
 | ekādasannaṃ | card | x.gen.pl | of eleven | |
 | amatadvārānaṃ | noun | nt.gen.pl | of doors to the deathless state | |
@@ -742,6 +743,6 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | sakkomi | verb | pr.1st.sg | I am able | √sak･4 ṇo (be able, powerful) |
 | vitthārena | ind | adv | in detail; thoroughly | √thar･1 a (spread, expand) |
 | dhammaṃ | noun | masc.acc.sg | the Teaching | √dhar･1 a (hold, carry, endure) |
-| desetuṃ | ind | inf | to explain; to teach | √dis･1 \*e (point out, explain) |
+| desetuṃ | verb | inf | to explain; to teach | √dis･1 \*e (point out, explain) |
 
 **I am not able to explain the Teaching to you thoroughly.**

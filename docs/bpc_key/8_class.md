@@ -42,14 +42,14 @@
 | purimāni | adj | nt.acc.pl | previous | |
 | nāma-gottāni | noun | nt.acc.pl | name and family name | |
 
-**The great rivers, upon reaching the mighty ocean, they give up (their) old names.**
+**The great rivers, on reaching the great ocean, give up their former names and family names.**
 
 4. [UD45](https://s.dhamma.gift/kn/ud/index.html#ud5.5)
    mahāmoggallāno taṃ puggalaṃ bāhāyaṃ gahetvā nikkhāmetvā yena bhagavā tena upasaṅkami.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| mahāmoggallāno | noun | masc.nom.sg | The Great Mogallana | |
+| mahāmoggallāno | noun | masc.nom.sg | Mahāmoggallāna | |
 | taṃ | pron | masc.acc.sg | that | |
 | puggalaṃ | noun | masc.acc.sg | person, man | |
 | bāhāyaṃ | noun | fem.loc.sg | on the arm | √bah×1 a (increase) |
@@ -58,9 +58,9 @@
 | yena | ind | adv | where | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
 | tena | ind | adv | there | |
-| upasaṅkami | verb | aor.3rd.sg | he approached | √kam･1 \*e (go) |
+| upasaṅkami | verb | aor.3rd.sg | he approached | √kam･1 a (go) |
 
-**The Great Mogallana seized that person by the arm, expelled (him), then approached the Blessed One.**
+**Mahāmoggallāna seized that person by the arm, expelled (him), then approached the Blessed One.**
 
 5. [SN47.10](https://s.dhamma.gift/sn/sn47/index.html#sn47.10)
    āyasmā ānando tā bhikkhuniyo dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uṭṭhāya āsanā pakkāmi
@@ -81,7 +81,7 @@
 | āsanā | noun | nt.abl.sg | from seat, chair | √ās･1 a (sit) |
 | pakkāmi | verb | aor.3rd.sg | he left | √kam･1 a (go) |
 
-**Venerable Ananda taught, instigated, fired up and delighted those nuns with a righteous talk, stood up from his seat and went.**
+**Venerable Ānanda taught, instigated, fired up and delighted those nuns with a righteous talk, stood up from his seat and went.**
 
 6. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)
    seyyathāpi makkaṭo araññe sākhaṃ gaṇhati taṃ muñcitvā aññaṃ gaṇhati taṃ muñcitvā aññaṃ gaṇhati
@@ -116,9 +116,9 @@
 | khipi | verb | aor.3rd.sg | threw | √khip･1 a (throw) |
 | patto | noun | masc.nom.sg | the bowl | √pā･1 a (drink) |
 | ākāse | noun | masc.loc.sg | in the sky | |
-| aṭṭhāsi | verb | aor.3rd.sg | it remained, it stayed. | √ṭhā･1 a (stand) |
+| aṭṭhāsi | verb | aor.3rd.sg | it remained, it stayed | √ṭhā･1 a (stand) |
 
-**Senior nun grabbed a bowl and threw it into the sky. The bowl remained there.**
+**The senior nun grabbed a bowl and threw it into the sky. The bowl remained there.**
 
 8. [DN22.1](https://s.dhamma.gift/dn/dn22/index.html)
    dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ
@@ -143,7 +143,7 @@
 | --- | --- | --- | --- | --- |
 | vineyya | verb | abs | having removed, removing | √nī･1 a (lead, carry) |
 | loke | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
-| abhijjhā-domanassaṃ | noun | nt.acc.sg | craving & mental suffering | |
+| abhijjhā-domanassaṃ | noun | nt.acc.sg | craving and mental suffering | |
 
 **removing craving and mental suffering towards the world.**
 
@@ -168,7 +168,7 @@
 | etad- | pron | nt.acc.sg | this | |
 | avoca | verb | aor.3rd.sg | he said | √vac･1 a (say, speak) |
 
-**Venerable Ananda, rising from his seat and adjusting his upper robe over one shoulder, stretched out his palms towards the Blessed One and said this to the Blessed One.**
+**Venerable Ānanda, rising from his seat and adjusting his upper robe over one shoulder, stretched out his palms towards the Blessed One and said this to the Blessed One.**
 
 10. [SN6.5](https://s.dhamma.gift/sn/sn6/index.html#sn6.5)
     atha kho bhagavā tassa brahmuno upari vehāsaṃ pallaṅkena nisīdi tejodhātuṃ samāpajjitvā
@@ -215,7 +215,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | atha kho | ind | ind | then; and then; after that | |
-| aññataro | adj | masc.nom.sg | a certain | |
+| aññataro | pron | masc.nom.sg | a certain | |
 | brāhmaṇo | noun | masc.nom.sg | brahmin | √brah×1 a (increase) |
 | yena | ind | adv (+nom) | where | |
 | bhagavā | noun | masc.nom.sg | the Blessed One | √bhaj･1 a (divide, distribute) |
@@ -244,7 +244,7 @@
 | āgamma | verb | abs | coming; approaching | √gam･1 a (go) |
 | viveke | noun | masc.loc.sg | seclusion; detachment | √vic･1 a (separate) |
 | yattha | ind | adv | where | |
-| dūramaṃ | adj | masc.acc.sg [+loc] | difficult to find delight (in) | √ram･1 a (delight, please) |
+| dūramaṃ | adj | nt.nom.sg [+loc] | difficult to find delight (in) | √ram･1 a (delight, please) |
 
 **A wise person, completely abandoning dark qualities, would cultivate pure [qualities], coming from home to homelessness, [living] in seclusion, where [it is] difficult to find delight.**
 
@@ -319,7 +319,7 @@
 | vā | ind | conj | or | |
 | itthimatiṃ | noun | fem.acc.sg [+dat] | a woman's intention | |
 
-**If any monk should engage in carrying proposals of man's intention to a woman or woman's intention to a man…**
+**If any monk should engage in carrying proposals of a man's intention to a woman or a woman's intention to a man…**
 
 18. [VIN PAT SA 11](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4) (simpl)
     dhammavādī ca eso bhikkhu vinayavādī ca eso bhikkhu amhākaṃ ca eso bhikkhu chandaṃ ca ruciṃ ca ādāya voharati
@@ -347,7 +347,7 @@
 
 **This monk who speaks according to the Dhamma, and this monk who speaks according to the Vinaya, speaks according to (i.e. in accordance with) our preference and approval…**
 
-19. VIN PAT SA
+19. [VIN PAT SA](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
     ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho tattha so bhikkhu abbhetabbo.
 
 | | | | | |
@@ -356,7 +356,7 @@
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | yattha | ind | adv | where; in whichever place | |
 | siyā | verb | opt.3rd.sg | there could be; may be | √as･1 a (be) |
-| vīsatigaṇo | noun | masc.nom.sg | group of twenty | |
+| vīsatigaṇo | adj | masc.nom.sg | group of twenty | |
 | bhikkhusaṅgho | noun | masc.nom.sg | community of monks | |
 | tattha | ind | adv | there; in that place | |
 | so | pron | masc.nom.sg | he; that | |
@@ -366,7 +366,7 @@
 **A monk who has performed penance, where there could be a community of twenty monks, in that place he should be rehabilitated.**
 
 20. [VIN PAT PC 42](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm7)
-    ekakassa me kathā vā nisajjā vā phāsu hotī"ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
+    "ekakassa me kathā vā nisajjā vā phāsu hotī'ti, etaṃ eva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -377,11 +377,11 @@
 | nisajjā | noun | fem.nom.sg | sitting down | √sad･1 a (sink, sit, settle) |
 | vā | ind | conj | or | |
 | phāsu | noun | masc.nom.sg | ease; comfort | √phus･1 a (touch) |
-| hotī"ti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
+| hotī'ti | verb | pr.3rd.sg | there is | √hū･1 a (be) |
 | etaṃ | pron | masc.acc.sg | this | |
 | eva | ind | emph | thus; just | |
 | paccayaṃ | noun | masc.acc.sg | reason | √i･1 a (come, go) |
-| karitvā | verb | abs | having done[something] | √kar･7 o (do, make) |
+| karitvā | verb | abs | having done [something] | √kar･7 o (do, make) |
 | anaññaṃ | pron | masc.acc.sg | not another; no other | |
 | pācittiyaṃ | noun | nt.nom.sg | an offence requiring confession | |
 
@@ -395,8 +395,8 @@
 | rattiyā | noun | fem.gen.sg | of the night | |
 | majjhimaṃ | adj | masc.acc.sg | the middle | |
 | yāmaṃ | noun | masc.acc.sg | watch | √yam･1 a (control, strive, end) |
-| dakkhiṇena | adj | masc.instr.sg | with right | √dakkh×1 a (be able, please) |
-| passena | noun | nt.instr.sg | with the right side [of the body]; the right flank | |
+| dakkhiṇena | adj | nt.instr.sg | with the right | √dakkh×1 a (be able, please) |
+| passena | noun | nt.instr.sg | with the side [of the body]; the flank | |
 | sīhaseyyaṃ | noun | fem.acc.sg | the lion's pose | |
 | kappeyyāsi | verb | opt.2nd.sg | you should adopt | √kapp･1 a (be fit, be suitable) |
 | pāde | noun | masc.loc.sg | on a foot | √pad･3 ya (go, step) |
@@ -470,7 +470,7 @@
 | mātumātaro | noun | fem.nom.pl | mothers' mothers | |
 | assu | verb | opt.3rd.pl | they may be; they would be | √as･1 a (be) |
 
-**"This [is] my mother, this [is] the mother of my mother"; [the sequence] of that man's mothers' mothers would not even be exhausted.**
+**"This [is] my mother, this [is] the mother of my mother"; [the sequence] of that man's mothers' mothers would not even be exhausted, monks.**
 
 25. [VIN1.3.1](https://s.dhamma.gift/vin/tv/pli-tv-bu-vb-as/index.html)
     mātugāmo nāma manuss'itthī, na yakkhī na petī na tiracchānagatā. antamaso tad'ahujātā api dārikā, pag'eva mahattarī.
@@ -493,7 +493,7 @@
 | pag'eva | idiom | ind | to say nothing of | |
 | mahattarī | adj | fem.nom.sg | older than | |
 
-**[What] is called a woman [is] a human female, not a female demon not a female ghost not a female animal, even a girl born that very day, to say nothing of [one] older.**
+**[What] is called a woman [is] a human female, not a female demon, not a female ghost, not a female animal, even a girl born that very day, to say nothing of [one] older.**
 
 26. [AN5.207](https://s.dhamma.gift/an/an5/index.html#an5.207)
     khuddaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, ām'āvasesaṃ pāceti. ime kho, bhikkhave, pañca ānisaṃsā yāguyā.
@@ -564,7 +564,7 @@
 | paggaṇhāti | verb | pr.3rd.sg | he applies effort; he endeavors | √gah･6 ṇhā (grasp) |
 | padahati | verb | pr.3rd.sg | he exerts himself; he strives | √dhā･1 a (place, support) |
 
-**He generates interest, puts forth effort, arouses energy, exerts his mind and strives for the continuance, non-disappearance , increase and fulfillment by development, maturity, of wholesome qualities that have arisen.**
+**He generates interest, puts forth effort, arouses energy, exerts his mind and strives for the continuance, non-disappearance, increase and fulfillment by development, maturity, of wholesome qualities that have arisen.**
 
 3. [VIN PAT NP 3](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6) (simpl)
    no ce assa pāripūri, māsaparamaṃ so bhikkhu taṃ cīvaraṃ nikkhipeyya, ce assa ūnassa pāripūriyā paccāsā.
@@ -572,7 +572,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | no | ind | neg | not | |
-| ce | ind | ind | if | |
+| ce | ind | cond | if | |
 | assa | verb | opt.3rd.sg | it may be; could be; should be | √as･1 a (be) |
 | pāripūri | noun | fem.nom.sg | fulfilment; completion | √pūr･1 a (fill, fulfil) |
 | māsaparamaṃ | ind | adv | for a month at the most | |
@@ -581,7 +581,7 @@
 | taṃ | pron | nt.acc.sg | that | |
 | cīvaraṃ | noun | nt.acc.sg | robe[-cloth] | |
 | nikkhipeyya | verb | opt.3rd.sg | should set aside | √khip･1 a (throw) |
-| ce | ind | ind | if | |
+| ce | ind | cond | if | |
 | assa | verb | opt.3rd.sg | there should be | √as･1 a (be) |
 | ūnassa | noun | nt.gen.sg | of the deficiency; of the lack | |
 | pāripūriyā | noun | fem.dat.sg | for the completion; fulfilment | √pūr･1 a (fill, fulfil) |
@@ -597,16 +597,16 @@
 | --- | --- | --- | --- | --- |
 | yattha | ind | adv | wherever | |
 | nāmaṃ | noun | nt.nom.sg | name; mentality | |
-| ca | | | and | |
+| ca | ind | conj | and | |
 | rūpaṃ | noun | nt.nom.sg | form; materiality | √rūp･8 \*e (form, produce) |
-| ca | | | and | |
+| ca | ind | conj | and | |
 | asesaṃ | ind | adv | completely; without remnant | √sis･8 \*e (remain, distinguish) |
 | uparujjhati | verb | pr.3rd.sg | is stopped; is ended | √rudh･2 ya (obstruct) |
 | viññāṇassa | noun | nt.gen.sg | of consciousness | √ñā･5 nā (know) |
 | nirodhena | noun | masc.instr.sg | by means of the cessation; ending | √rudh･2 ṃa (obstruct) |
 | ettha | ind | adv | here; in this place | |
 | etaṃ | pron | nt.nom.sg | this thing/subject | |
-| uparujjhati | verb | pr.3rd.sg | is ended | √rudh･2 ṃa (obstruct) |
+| uparujjhati | verb | pr.3rd.sg | is ended | √rudh･2 ya (obstruct) |
 
 **Wherever name and form is completely ended, with the cessation of consciousness, here this is ended.**
 
@@ -631,7 +631,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | idha | ind | adv | here | |
-| bhante | noun | masc.voc.sg | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante | noun | masc.voc.sg | venerable sir | √bhū･1 a (be, become) |
 | koci'd'eva | idiom | pron+ind | even some; just some; some or other | |
 | dhammo | noun | masc.nom.sg | the teaching; the doctrine | √dhar･1 a (hold, carry, endure) |
 | samuppādo | noun | masc.nom.sg | issue; conflict; something that arises | √pad･3 ya (go, step) |
@@ -668,4 +668,4 @@
 | va | ind | adv | like; like as; as if | |
 | mātari | noun | fem.loc.sg | towards a mother; in reference to a mother | |
 
-**Indeed, as long as desire is not cut off, even the smallest, of a man enamoured with regard to women, just that long he [is] like a suckling calf towards [its] mother.**
+**Indeed, as long as desire, even the smallest, of a man with regard to women is not cut off, just that long is he bound in mind, like a suckling calf to [its] mother.**

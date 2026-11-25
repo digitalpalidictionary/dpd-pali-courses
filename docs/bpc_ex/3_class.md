@@ -71,7 +71,7 @@
 | | | | |
 | --- | --- | --- | --- |
 | so | pron | | |
-| ‘idaṃ dukkhan’ti | | nt.nom.sg | |
+| ‘idaṃ dukkhan’ti | | nt.nom.sg + nt.nom.sg + quote | |
 | yathābhūtaṃ | ind | adv | |
 | pajānāti | | | |
 | |
@@ -340,7 +340,7 @@
 | |
 
 30. [SN41.3](https://s.dhamma.gift/sn/sn41/index.html#sn41.3)
-    gahapati, pucchasi — “... diṭṭhiyo loke uppajjanti…
+    gahapati, pucchasi — “… diṭṭhiyo loke uppajjanti…”
 
 | | | | |
 | --- | --- | --- | --- |

@@ -44,7 +44,7 @@
 | ṭhito | pp | masc.nom.sg | stood, standing, remaining |
 | āsavānaṃ | noun | masc.gen.pl | of the effluents, defilements |
 | khayaṃ | noun | masc.acc.sg | destruction |
-| pāpuṇāti | verb | pr.3rd.sg | he reaches, he attains. |
+| pāpuṇāti | verb | pr.3rd.sg | he reaches, he attains |
 
 **Remaining there, he reaches the destruction of the defilements.**
 
@@ -60,12 +60,12 @@
 **The flavour of the Dhamma surpasses every flavour.**
 
 6. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
-   so ‘idaṃ dukkhan'ti yathābhūtaṃ pajānāti
+   so 'idaṃ dukkhan'ti yathābhūtaṃ pajānāti
 
 | | | | |
 | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he |
-| ‘idaṃ dukkhan'ti | pron+noun+ind | nt.nom.sg | "this is suffering"; "this is dissatisfaction" |
+| 'idaṃ dukkhan'ti | pron+noun+ind | nt.nom.sg + nt.nom.sg + quote | "this is suffering"; "this is dissatisfaction" |
 | yathābhūtaṃ | ind | adv | as it truly is |
 | pajānāti | verb | pr.3rd.sg | knows clearly; understands |
 
@@ -101,7 +101,7 @@
 | --- | --- | --- | --- |
 | so | pron | masc.nom.sg | he |
 | kāyaṃ | noun | masc.acc.sg | the body |
-| vivekajena | adj | nt.instr.sg | with born from seclusion |
+| vivekajena | adj | nt.instr.sg | born from seclusion |
 | pītisukhena | noun | nt.instr.sg | with joy and happiness |
 | paripūreti | verb | pr.3rd.sg | he completely fills; suffuses |
 
@@ -143,7 +143,7 @@
 | nibbānāya | noun | nt.dat.sg | for total emancipation |
 | saṃvattati | verb | pr.3rd.sg | is conducive |
 
-**The path of practice is conducive for calmness, full awakening [and] total emancipation.**
+**The path of practice is conducive to calmness, full awakening [and] total emancipation.**
 
 13. [MN27](https://s.dhamma.gift/mn/mn27/index.html) (simpl)
     dhammaṃ suṇāti putto
@@ -345,7 +345,7 @@
 **You see that offence.**
 
 30. [SN41.3](https://s.dhamma.gift/sn/sn41/index.html#sn41.3)
-    gahapati, pucchasi — "... diṭṭhiyo loke uppajjanti…
+    gahapati, pucchasi — "… diṭṭhiyo loke uppajjanti…"
 
 | | | | |
 | --- | --- | --- | --- |

@@ -24,14 +24,14 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | atha kho | ind | | and then | |
-| pāyāsi | noun | masc.nom.sg | Payasi | |
+| pāyāsi | noun | masc.nom.sg | Pāyāsi | |
 | rājañño | noun | masc.nom.sg | courtier, young nobleman | √rāj･1 a (rule, shine) |
-| uttaraṃ | noun | masc.acc.sg | Uttara; lit. higher | √tar･1 a (cross) |
+| uttaraṃ | noun | masc.acc.sg | Uttara; lit. higher | |
 | māṇavaṃ | noun | masc.acc.sg | young brahmin | |
 | āmantāpetvā | verb.caus | abs | having caused to call | |
 | etadavoca | verb | aor.3rd.sg | he said this | |
 
-**And then, having had summoned a young brahmin Uttara, Payasi, the young nobleman, said this.**
+**And then Pāyāsi the young nobleman, having had the young brahmin Uttara summoned, said this.**
 
 3. [AN2.19](https://s.dhamma.gift/an/an2/index.html#an2.19)
    kusalaṃ, bhikkhave, bhāvetha. sakkā, bhikkhave, kusalaṃ bhāvetuṃ
@@ -42,7 +42,7 @@
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhāvetha | verb.caus | imp.2nd.pl | you all should develop | √bhū･1 \*e (be, become) |
 
-**You should develop wholesome qualities.**
+**Monks, you should develop wholesome qualities.**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@
 | kusalaṃ | noun | nt.acc.sg | goodness, wholesome | |
 | bhāvetuṃ | verb.caus | inf | to develop | √bhū･1 \*e (be, become) |
 
-**It is possible to develop wholesome qualities.**
+**It is possible, monks, to develop wholesome qualities.**
 
 4. [DN14.4](https://s.dhamma.gift/dn/dn14/index.html)
    atha kho, bhikkhave, bandhumā rājā vipassissa kumārassa tayo pāsāde kārāpesi
@@ -60,14 +60,14 @@
 | --- | --- | --- | --- | --- |
 | atha kho | ind | | and then | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| bandhumā rājā | noun | masc.nom.sg | King Bandhuma | |
-| vipassissa | noun | masc.dat.sg | for Vipassi | √dis･1 a (see) |
-| kumārassa | noun | masc.dat.sg | for prince | √kumār×8 \*e (play) |
-| tayo | adj | masc.acc.pl | three | |
+| bandhumā rājā | noun | masc.nom.sg | King Bandhumā | |
+| vipassissa | noun | masc.dat.sg | for Vipassī | √dis･1 a (see) |
+| kumārassa | noun | masc.dat.sg | for prince | |
+| tayo | card | masc.acc.pl | three | |
 | pāsāde | noun | masc.acc.pl | palaces | √sad･1 a (sink, sit, settle) |
 | kārāpesi | verb.caus | aor.3rd.sg | he caused to build; had built | √kar･7 \*āpe (do, make) |
 
-**And then, monks, King Bandhuma had three palaces built for prince Vipassi.**
+**And then, monks, King Bandhumā had three palaces built for prince Vipassī.**
 
 5. [MN152](https://s.dhamma.gift/mn/mn152/index.html)
    divasaṃsantatte ayokaṭāhe dve vā tīṇi vā udakaphusitāni nipāteyya
@@ -101,7 +101,7 @@
 | vitakketi | verb | pr.3rd.sg | he thinks | √takk･8 \*e (think) |
 | na | ind | neg | not | |
 | ca | ind | conj | and | |
-| vicāreti | verb.caus | pr.3rd.sg | investigate; examine [lit: causes to go here and there] | √car･1 \*e (move, walk) |
+| vicāreti | verb.caus | pr.3rd.sg | investigates; examines [lit: causes to go here and there] | √car･1 \*e (move, walk) |
 
 **He withdraws [the mind] and does not think or examine.**
 
@@ -182,12 +182,12 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kathaṃ | ind | adv | how!? | |
+| kathaṃ | ind | adv | how? | |
 | ca | ind | conj | and | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | kabaḷīkāro | adj | masc.nom.sg | edible | |
 | āhāro | noun | masc.nom.sg | food | √har･1 a (take, seize) |
-| daṭṭhabbo | ptp | masc.nom.sg | should be seen, understood. | √dis･1 a (see) |
+| daṭṭhabbo | ptp | masc.nom.sg | should be seen, understood | √dis･1 a (see) |
 
 **And how, monks, should edible food be seen?**
 
@@ -255,7 +255,7 @@
 
 **These ten matters should be regularly reflected on by one who has gone forth.**
 
-15. [DN16.11](https://s.dhamma.gift/dn/dn16/index.html)
+15. [DN11](https://s.dhamma.gift/dn/dn11/index.html)
     evañ'ca kho eso, bhikkhu, pañho pucchitabbo
 
 | | | | | |
@@ -310,13 +310,13 @@
 | vā | ind | conj | or | |
 | siñceyya | verb | opt.3rd.sg | should pour (out) | √sic･2 ṃa (sprinkle, pour)+ ṃa \> siñca+eyya |
 | vā | ind | conj | or | |
-| siñcāpeyya | verb | opt.caus.3rd.sg | should cause pour (out) | √sic･2 ṃa + \*āpe (sprinkle, pour)\> siñcāpe (caus)+eyya |
+| siñcāpeyya | verb.caus | opt.3rd.sg | should cause to pour (out) | √sic･2 ṃa + \*āpe (sprinkle, pour)\> siñcāpe (caus)+eyya |
 | vā | ind | conj | or | |
 | pācittiyaṃ | noun | nt.nom.sg | a case requiring confession | |
 
 **If any monk should pour out, or should cause to pour out, water on grass or clay, knowing that [it] [is] containing living beings, it is a case requiring confession.**
 
-18. VIN PAT NID
+18. [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)
     yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvādo assa hoti.
 
 | | | | | |
@@ -325,7 +325,7 @@
 | pana | ind | conj | but; and so | |
 | bhikkhu | noun | masc.nom.sg | a monk | √bhikkh･1 a (beg) |
 | yāvatatiyaṃ | ind | adv | as many as three times; up to three times | |
-| anusāviyamāne | prp caus. pass. | masc.loc.sg (loc abs) | being announced; being declared (lit: causing to be heard along) | |
+| anusāviyamāne | prp caus. pass. | masc.loc.sg (loc abs) | being announced; being declared (lit: being caused to be heard along) | |
 | saramāno | prp | masc.nom.sg | remembering | √sar･1 a (remember) |
 | santiṃ | prp | fem.acc.sg | existing, being present | √as･1 a (be) |
 | āpattiṃ | noun | fem.acc.sg | offence | √pad･3 ya (go, step) |
@@ -344,7 +344,7 @@
 | orena | ind | adv (+gen) | earlier than; sooner than | |
 | ce | ind | cond | if | |
 | channaṃ | card | x.gen.pl | of six | |
-| vassānaṃ | noun | masc.gen.pl | of years | √vass･1 a (rain) |
+| vassānaṃ | noun | nt.gen.pl | of years | √vass･1 a (rain) |
 | taṃ | pron | nt.acc.sg | that | |
 | santhataṃ | noun | nt.acc.sg | bedspread; coverlet | √thar･1 a (spread, expand) |
 | vissajjetvā | verb. caus | abs | having given up; having released | √sajj･1 \*e (relinquish, let loose) |
@@ -373,7 +373,7 @@
 | cakkhuviññāṇe | noun | nt.loc.sg (loc abs) | when eye-consciousness | |
 | sati | prp | nt.loc.sg (loc abs) | when existing | √as･1 a (be) |
 | phassapaññattiṃ | noun | fem.acc.sg | what is known as sense impingement; concept of contact | |
-| paññāpessatī'ti | verb. caus | fut.3rd.sg + end quote | will assert; will declare; lit. causes to know | |
+| paññāpessatī'ti | verb. caus | fut.3rd.sg + end quote | will assert; will declare; lit. will cause to know | |
 | ṭhānaṃ | noun | nt.nom.sg | reason; grounds; basis; cause | √ṭhā･1 a (stand) |
 | etaṃ | pron | nt.nom.sg | this (not translated) | |
 | vijjati | verb. pass | pr.3rd.sg | is found; is present; exists | √vid･3 ya (be found, exist) |
@@ -390,13 +390,13 @@
 | sutte | noun | nt.loc.sg | in the scripture(s) | √siv･3 ya (sew) |
 | otāriyamānāni | prp caus pass | nt.nom.pl | being checked; being caused to cross down | √tar･1 \*e + iya (cross) |
 | vinaye | noun | masc.loc.sg | in reference to the discipline | √nī･1 a (lead, carry) |
-| sandassiyamānāni | prp caus pass | nt.nom.pl | being verified; being compared; being cause to see together | √dis･1 \*e iya (see) |
+| sandassiyamānāni | prp caus pass | nt.nom.pl | being verified; being compared; being caused to see together | √dis･1 \*e + iya (see) |
 | sutte | noun | nt.loc.sg | in the scripture(s) | √siv･3 ya (sew) |
 | c'eva | ind | ind+ind | and even; as well as | |
-| otaranti | verb | pr.3rd.pl (+loc) | are found in; fits with | √tar･1 a (cross) |
+| otaranti | verb | pr.3rd.pl (+loc) | are found in; fit with | √tar･1 a (cross) |
 | vinaye | noun | masc.loc.sg | in the discipline | √nī･1 a (lead, carry) |
 | ca | ind | conj | and | |
-| sandissanti | verb. pass | pr.3rd.pl (+loc) | they are seen in; (lit: is seen together with) | √dis･1 iya (see) |
+| sandissanti | verb. pass | pr.3rd.pl (+loc) | they are seen in; (lit: are seen together with) | √dis･1 iya (see) |
 
 **If when they are being checked in the scripture(s), [and] being verified in reference to the discipline, and they are found in the scripture(s) as well as seen in the discipline…**
 
@@ -435,7 +435,7 @@
 | te | pron | masc.nom.pl | these | |
 | mayā | pron | 1st.instr.sg | by me | |
 | dhammā | noun | masc.nom.pl | things | √dhar･1 a (hold, carry, endure) |
-| abhiññā | adj | masc.nom.pl | with direct knowledge | √ñā･5 nā (know) |
+| abhiññā | verb | abs | directly knowing; having directly known | √ñā･5 nā (know) |
 | desitā | pp | masc.nom.pl | have been taught; explained | √dis･1 \*e (point out, explain) |
 | te | pron | masc.nom.pl | they | |
 | vo | pron | 2nd.instr.pl | by you | |
@@ -462,7 +462,7 @@
 | na | ind | neg | not | |
 | samucchindissanti | verb | fut.3rd.pl | will cut off completely; eradicate | √chid･2 ṃa (cut, steal) |
 
-**As long as monks will not make known what is not declared [and] will not cut off completely what is declared,**
+**And as long as, monks, monks will not make known what is not declared [and] will not cut off completely what is declared,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -500,7 +500,7 @@
 | na | ind | neg | not | |
 | sampasāriyati | verb. caus.pass | pr.3rd.sg | is inclined towards (lit: caused to be stretched forward) | √sar･1 \*e + iya (go, flow) |
 
-**[his] mind withdraws from, bends back from, rolls back from craving for tastes,**
+**[his] mind withdraws from, bends back from, rolls back from craving for tastes, [and] is not drawn out towards it,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -552,7 +552,7 @@
 **If any monk should intentionally deprive a human being of life or should seek out an assassin for him or should commend the advantage of death or should incite [him] to death…**
 
 28. [VIN PAT SA 13](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
-    tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī"ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
+    tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī'ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -562,7 +562,7 @@
 | pabbājenti | verb. caus | pr.3rd.pl | they banish (lit: cause to leave) | √vaj･1 \*e (go on) |
 | ekaccaṃ | pron | masc.acc.sg | another one, a certain one | |
 | na | ind | neg | not | |
-| pabbājentī"ti | verb | pr.caus.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
+| pabbājentī'ti | verb.caus | pr.3rd.pl +endquote | they banish | √vaj･1 \*e (go on) |
 | so | pron | masc.nom.sg | that | |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
 | bhikkhūhi | noun | masc.instr.pl | by the monks | √bhikkh･1 a (beg) |
@@ -588,7 +588,7 @@
 | bhikkhunā | noun | masc.instr.sg | by a monk | √bhikkh･1 a (beg) |
 | tato | pron | nt.abl.sg | from that; therefrom; from him | |
 | cīvaraṃ | noun | nt.nom.sg | robe cloth | |
-| sāditabbaṃ | ptp | nt.nom.sg | could/should be accepted by | √sād･1 \*e (taste, relish) |
+| sāditabbaṃ | ptp | nt.nom.sg | could/should be accepted by | √sād･8 \*e (taste, relish) |
 
 **That robe cloth [for] an under [robe] and an upper [robe] at the most could be accepted from him by that monk;**
 **(or)**
@@ -599,7 +599,7 @@
 | tato | pron | nt.abl.sg | than that; more than that | |
 | ce | ind | cond | if | |
 | uttari | ind | adv (+abl) | more [than]; beyond | |
-| sādiyeyya | verb | opt.3rd.sg (+acc) | should accept; agree to | √sād･1 \*e + iya (taste, relish) |
+| sādiyeyya | verb | opt.3rd.sg (+acc) | should accept; agree to | √sād･8 \*e + iya (taste, relish) |
 | nissaggiyaṃ | adj / (ptp) | nt.nom.sg | involving relinquishment (lit: involving something to be forfeited) | √sajj･1 a (relinquish, let loose) |
 | pācittiyaṃ | noun | nt.nom.sg | an offence | |
 
@@ -614,7 +614,7 @@
 | dhamme | noun | masc.acc.pl | things; practices | √dhar･1 a (hold, carry, endure) |
 | na | ind | neg | not | |
 | jānāti | verb | pr.3rd.sg | knows; understands | √ñā･5 nā (know) |
-| asevitabbe | ptp | masc.acc.pl | should not be associated with; should be followed | √sev･1 a (serve, associate) |
+| asevitabbe | ptp | masc.acc.pl | should not be associated with; should not be followed | √sev･1 a (serve, associate) |
 | dhamme | noun | masc.acc.pl | things | √dhar･1 a (hold, carry, endure) |
 | na | ind | neg | not | |
 | jānāti | verb | pr.3rd.sg | he knows | √ñā･5 nā (know) |
@@ -689,7 +689,7 @@
 | lokasmiṃ | noun | masc.loc.sg | in the world | √lok･8 \*e (look) |
 | anussukā | adj | masc.nom.pl | not zealously desiring; unagitated | |
 
-**"Having abandoned the household life [and] gone forth, having left their dear child[ren] and livestock, having left behind passion and ill-will, removing ignorance, enlightened beings who have destroyed the taints, they are unagitated in the world.**
+**"Having abandoned the household life [and] gone forth, having left their dear child[ren] and livestock, having left behind passion and ill-will, removing ignorance, enlightened beings who have destroyed the taints, they are unagitated in the world."**
 
 33. [AN4.180](https://s.dhamma.gift/an/an4/index.html#an4.180)
     anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā, sutte otāretabbāni vinaye sandassetabbāni.
@@ -703,14 +703,14 @@
 | sādhukaṃ | ind | adv | thoroughly; carefully | √sādh･3 ya (accomplish) |
 | uggahetvā | verb | abs | having learned; having grasped | √gah･6 ṇhā (grasp) |
 
-**Having not approved of nor rejected these words and phrases, [and] having learned [them] thoroughly,**
+**Having neither approved of nor rejected these words and phrases, [and] having learned [them] thoroughly,**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | sutte | noun | nt.loc.sg | in the discourse(s) | √siv･3 ya (sew) |
 | otāretabbāni | ptp.caus | nt.nom.pl | should be checked; should be gone into | √tar･1 \*e (cross) |
 | vinaye | noun | masc.loc.sg | in the discipline | √nī･1 a (lead, carry) |
-| sandassetabbāni | ptp caus pass | nt.nom.pl | should be verified (lit: should be seen together with) | √dis･1 \*e (see) |
+| sandassetabbāni | ptp.caus | nt.nom.pl | should be verified (lit: should be seen together with) | √dis･1 \*e (see) |
 
 **they should be checked in the discourse[s] and should be verified in the discipline.**
 
@@ -748,7 +748,7 @@
 | ek'āsanabhojanaṃ | noun | nt.acc.sg | a meal in one sitting; eating one meal a day | |
 | bhuñjāmi | verb | pr.1st.sg | I eat | √bhuj･2 ṃa (use, eat, enjoy) |
 
-**Here (i.e. on that occasion) I addressed the monks [thus]: ‘Indeed, monks, I eat a meal in one sitting'."**
+**Here (i.e. on that occasion) I addressed the monks [thus]: 'Indeed, monks, I eat a meal in one sitting'."**
 
 ## Class 14 Extra
 
@@ -762,7 +762,7 @@
 | bhikkhunā | noun | masc.instr.sg | by a monk | √bhikkh･1 a (beg) |
 | kuṭiṃ | noun | fem.acc.sg | a hut | √kuṭ･1 a (be crooked, bent) |
 | kārayamānena | prp.caus | masc.instr.sg | by having built; lit. causing to build | √kar･7 \*aya (do, make) |
-| assāmikaṃ | adj | fem.acc.sg | with no patron; owner | |
+| assāmikaṃ | adj | fem.acc.sg | with no patron or owner | |
 | att'uddesaṃ | adj | fem.acc.sg | intended for himself | |
 | pamāṇikā | adj | fem.nom.sg | according to the correct measurement | √mā･5 nā (measure) |
 | kāretabbā | ptp.caus | fem.nom.sg | should be built; is to be built | √kar･7 \*e (do, make) |
@@ -770,7 +770,7 @@
 **Through one's own begging, by a monk who is having a hut built, without an owner, designated for himself, (it) is to be built according to the measurement.**
 
 2. [VIN PAT NP 22](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm6)
-   tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, ‘‘ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti, ayaṃ tattha sāmīci.
+   tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo, 'ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo'ti, ayaṃ tattha sāmīci.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -809,10 +809,10 @@
 | bhikkhu | noun | masc.voc.sg | monk | √bhikkh･1 a (beg) |
 | patto | noun | masc.nom.sg | bowl | √pā･1 a (drink) |
 | yāva | ind | prep (+dat) | as long as; until | |
-| bhedanāya | noun | nt.dat.sg | for breaking | √bhid･2 ṃa (break, split) |
+| bhedanāya | noun | nt.dat.sg | for breaking | √bhid･2 \*e (break, split) |
 | dhāretabbo'ti | ptp | masc.nom.sg +endquote | should be kept (lit: should be carried) | √dhar･8 \*e (wear, hold, carry) |
 
-**"monk, this is your bowl. It should be kept until breaking."**
+**"Monk, this is your bowl. It should be kept until breaking."**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -831,7 +831,7 @@
 | vuccati | verb. pass | pr.3rd.sg | is said to be; is called | √vac･1 ya (say, speak) |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | bhikkhu | noun | masc.nom.sg | monk | √bhikkh･1 a (beg) |
-| sabb'āsavasaṃvarasaṃvuto | adj | masc.nom.sg | who restrained with regard to all the effluents/taints | |
+| sabb'āsavasaṃvarasaṃvuto | adj | masc.nom.sg | who is restrained with regard to all the effluents/taints | |
 | viharati | verb | pr.3rd.sg | he dwells | √har･1 a (live) |
 
 **Monks, this one is called: "A monk who dwells restrained with regard to all the taints,**
@@ -843,11 +843,11 @@
 | vivattayi | verb.caus | aor.3rd.sg | untied | √vatt･1 \*aya (be, proceed) |
 | saṃyojanaṃ | noun | nt.acc.sg | fetter; bond | √yuj･2 \*e (yoke, join) |
 | sammā | ind | adv | completely; thoroughly | |
-| mān'ābhisamayā | noun | masc.instr.sg | by means of a complete comprehension of conceit | |
+| mān'ābhisamayā | noun | masc.abl.sg | through the full penetration of conceit | |
 | antam'akāsi | verb | aor.3rd.sg | made an end of | |
 | dukkhassā'ti | noun | nt.gen.sg + endquote | of suffering" | √dukkh･1 a (be painful) |
 
-**[who] completely cut out craving, untied the fetter[s], [and] by means of a thorough comprehension of conceit (thoroughly comprehending conceit), made an end of suffering"**
+**[who] completely cut out craving, untied the fetter[s], [and] through the full penetration of conceit (thoroughly comprehending conceit), made an end of suffering"**
 
 4. [AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36)
    ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi vuṭṭhāpiyamānaṃ, aññehi saṃvesiyamānaṃ?

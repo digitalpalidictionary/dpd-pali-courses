@@ -111,7 +111,7 @@
 | |
 
 7.  [MN2.2](https://s.dhamma.gift/mn/mn2/index.html)
-   assutavā puthujjano na **parimuccati** jātiyā … , na **parimuccati** dukkhasmā’ti vadāmi
+   assutavā puthujjano na **parimuccati** jātiyā …, na **parimuccati** dukkhasmā’ti vadāmi
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -365,7 +365,7 @@
 | |
 
 4. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8) (simpl)
-   diṭṭhā vā ye ca adiṭṭhā, ye сa dūre vasanti avidūre,
+   diṭṭhā vā ye ca adiṭṭhā, ye ca dūre vasanti avidūre,
    bhūtā vā sambhavaṃ esī vā
 
 | | | | | |

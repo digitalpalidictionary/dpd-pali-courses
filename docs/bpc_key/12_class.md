@@ -27,7 +27,7 @@
 | jātisahassam'pi | noun | nt.acc.sg | just one thousand births | |
 | jātisatasahassam'pi | noun | nt.acc.sg | just one hundred thousand births | |
 
-**I recollected manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births**
+**I recollect manifold past lives, that is, one birth, two births, three births, four births, five births, ten births, twenty births, thirty births, forty births, fifty births, a hundred births, a thousand births, a hundred thousand births**
 
 2. [MN16](https://s.dhamma.gift/mn/mn16/index.html)
    seyyathāpi, bhikkhave, kukkuṭiyā aṇḍāni aṭṭha vā dasa vā dvādasa vā.
@@ -103,10 +103,11 @@
 | --- | --- | --- | --- | --- |
 | na | ind | neg | not | |
 | ahaṃ | pron | 1st.nom.sg | I | |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | aññaṃ | adj | masc.acc.sg | another | |
 | eka- | card | - | one | |
 | dhammam | noun | masc.acc.sg | thing | √dhar･1 a (hold, carry, endure) |
-| ‘pi | ind | ind | even | |
+| 'pi | ind | ind | even | |
 | samanupassāmi | verb | pr.1st.sg | I see | √dis･1 a (see) |
 
 **I don't see even one single other thing, monks**
@@ -123,6 +124,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | yathā-idaṃ | ind | adv | like, such as this | |
+| bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
 | paṭigha-nimittaṃ | noun | nt.nom.sg | conflict-image; disliked image [in the mind] | |
 
 **such as a disliked image.**
@@ -135,9 +137,9 @@
 | cattāri | card | nt.nom.pl | four | |
 | imāni | pron | nt.nom.pl | these | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| ariya-saccāni. | noun | nt.nom.pl | noble truths. | |
+| ariya-saccāni | noun | nt.nom.pl | noble truths. | |
 | katamāni | pron | nt.nom.pl | which? what? | |
-| cattāri? | card | nt.nom.pl | four | |
+| cattāri | card | nt.nom.pl | four | |
 
 **Monks, [there are] these four noble truths, which four?**
 
@@ -166,7 +168,7 @@
 | --- | --- | --- | --- | --- |
 | mano- | noun | masc.nom.sg | mind, heart | √man･3 ya (think) |
 | sañcetanā | noun | fem.nom.sg | intention, volition | √cit･8 \*e (think, intend) |
-| tatiyā, | ordin | fem.nom.sg | third | |
+| tatiyā | ordin | fem.nom.sg | third | |
 
 **mental volition is the third**
 
@@ -230,7 +232,7 @@
 | evaṃvādino | adj | masc.nom.pl | who hold the view; lit. speaking thus | |
 | evaṃdiṭṭhino | adj | masc.nom.pl | of the opinion; of such view | |
 
-**Some monks and brahmins who speaking thus, holding such view…**
+**Some monks and brahmins who speak thus and hold such a view…**
 
 11. [SN36.22](https://s.dhamma.gift/sn/sn36/index.html#sn36.22)
     aṭṭhārasa api mayā vedanā vuttā pariyāyena; chattiṃsa api mayā vedanā vuttā pariyāyena; aṭṭhasataṃ api mayā vedanā vuttā pariyāyena.
@@ -390,7 +392,7 @@
 | sabb'ākāraparipūro | adj | masc.nom.sg | complete in every aspect | |
 | ca | ind | conj | and | |
 
-**Surely, a monk endowed with these ten qualities is one who inspires confidence in every way and complete in every aspect.**
+**Surely, monks, a monk endowed with these ten qualities is one who inspires confidence in every way and complete in every aspect.**
 
 18. [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61)
     pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
@@ -456,7 +458,7 @@
 **Homage to the Blessed One, homage to the seven Perfectly Enlightened Ones.**
 
 21. [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)
-    dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
+    dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṃ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -467,7 +469,7 @@
 | kāyo | noun | masc.nom.sg | body | √ci･5 nā (gather, accumulate) |
 | ekaṃ | card | nt.acc.sg | one | |
 | api | ind | ind | only | |
-| vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
+| vassaṃ | noun | nt.acc.sg | year | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
 | dve | card | x.acc.pl | two | |
 | api | ind | ind | even | |
@@ -481,11 +483,11 @@
 | tiṃsaṃ | card | fem.acc.sg | thirty (30) | |
 | cattārīsaṃ | card | fem.acc.sg | forty (40) | |
 | api | ind | ind | only | |
-| vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
+| vassāni | noun | nt.acc.pl | years | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
 | paññāsaṃ | card | fem.acc.sg | fifty (50) | |
 | api | ind | ind | only | |
-| vassaṁ | noun | nt.acc.sg | year | √vass･1 a (rain) |
+| vassāni | noun | nt.acc.pl | years | √vass･1 a (rain) |
 | tiṭṭhamāno | prp | masc.nom.sg | remaining; standing | √ṭhā･1 a (stand) |
 | vassasataṃ | noun | nt.acc.sg | one hundred years | |
 | api | ind | ind | even | |
@@ -502,7 +504,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | evaṃ | ind | emph | yes; indeed | |
-| bhante'ti | noun | masc.voc.sg +end quote | venerable sir | √bhad×1 a (be good, lucky) |
+| bhante'ti | noun | masc.voc.sg +end quote | venerable sir | √bhū･1 a (be, become) |
 | kho | ind | emph | certainly; surely; truly [not translated] | |
 | āyasmā | noun | masc.nom.sg | Venerable | √i･1 a (come, go) |
 | soṇo | noun | masc.nom.sg | Soṇa | |
@@ -624,7 +626,7 @@
 | vā | ind | conj | or | |
 | saṅghādisesena | noun | masc.instr.sg | by an offence requiring suspension | |
 | vā | ind | conj | or | |
-| pācittiyena | noun | masc.instr.sg | by an offence requiring confession | |
+| pācittiyena | noun | nt.instr.sg | by an offence requiring confession | |
 
 **…a lay woman, whose words can be trusted, having then seen that should speak in accordance with one of three rules: according to an offence involving defeat, according to an offence requiring suspension, according to an offence requiring confession.**
 

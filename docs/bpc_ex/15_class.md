@@ -16,7 +16,7 @@ pañcime, bhikkhave, caṅkame ānisaṃsā.
 | ime | | | | |
 | bhikkhave | | | | |
 | caṅkame | | | | |
-| ānisaṃsā. | | | | |
+| ānisaṃsā | | | | |
 | |
 
 katame pañca?
@@ -24,7 +24,7 @@ katame pañca?
 | | | | | |
 | --- | --- | --- | --- | --- |
 | katame | | | | |
-| pañca? | | | | |
+| pañca | | | | |
 | |
 
 addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti.
@@ -33,25 +33,25 @@ addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ kh
 | --- | --- | --- | --- | --- |
 | addhāna- | | | | |
 | khamo | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | padhāna- | | | | |
 | khamo | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | appa- | | | | |
 | ābādho | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | asitaṃ | | | | |
 | pītaṃ | | | | |
 | khāyitaṃ | | | | |
 | sāyitaṃ | | | | |
 | sammā | | | | |
 | pariṇāmaṃ | | | | |
-| gacchati, | | | | |
+| gacchati | | | | |
 | caṅkama- | | | | |
 | adhigato | | | | |
 | samādhi | | | | |
 | ciraṭṭhitiko | | | | |
-| hoti. | | | | |
+| hoti | | | | |
 | |
 
 ime kho, bhikkhave, pañca caṅkame ānisaṃsā”ti.
@@ -59,12 +59,12 @@ ime kho, bhikkhave, pañca caṅkame ānisaṃsā”ti.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | ime | | | | |
-| kho, | | | | |
-| bhikkhave, | | | | |
+| kho | | | | |
+| bhikkhave | | | | |
 | pañca | | | | |
 | caṅkame | | | | |
 | ānisaṃsā | | | | |
-| ”ti. | | | | |
+| ”ti | | | | |
 | |
 
 2\. [AN3.4](https://s.dhamma.gift/an/an3/index.html#an3.4) accaya-suttaṃ (paragraph 4)
@@ -75,12 +75,12 @@ tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| tīhi, | | | | |
-| bhikkhave, | | | | |
+| tīhi | | | | |
+| bhikkhave | | | | |
 | dhammehi | | | | |
 | samannāgato | | | | |
 | bālo | | | | |
-| veditabbo. | | | | |
+| veditabbo | | | | |
 | |
 
 katamehi tīhi?
@@ -88,7 +88,7 @@ katamehi tīhi?
 | | | | | |
 | --- | --- | --- | --- | --- |
 | katamehi | | | | |
-| tīhi? | | | | |
+| tīhi | | | | |
 | |
 
 accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappaṭikaroti , parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti.
@@ -98,14 +98,14 @@ accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappa�
 | accayaṃ | | | | |
 | accayato | | | | |
 | na | | | | |
-| passati, | | | | |
+| passati | | | | |
 | accayaṃ | | | | |
 | accayato | | | | |
 | disvā | | | | |
 | yathā- | | | | |
 | dhammaṃ | | | | |
 | na- | | | | |
-| paṭikaroti, | | | | |
+| paṭikaroti | | | | |
 | parassa | | | | |
 | kho | | | | |
 | pana | | | | |
@@ -114,7 +114,7 @@ accayaṃ accayato na passati, accayaṃ accayato disvā yathā-dhammaṃ nappa�
 | yathā- | | | | |
 | dhammaṃ | | | | |
 | na- | | | | |
-| paṭiggaṇhāti. | | | | |
+| paṭiggaṇhāti | | | | |
 | |
 
 imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
@@ -122,7 +122,7 @@ imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | imehi | | | | |
-| kho, | | | | |
+| kho | | | | |
 | |
 
 bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.
@@ -147,14 +147,14 @@ pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhās
 | samannāgatā | | | | |
 | vācā | | | | |
 | subhāsitā | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | no | | | | |
-| dubbhāsitā, | | | | |
+| dubbhāsitā | | | | |
 | anavajjā | | | | |
 | ca | | | | |
 | ananuvajjā | | | | |
 | ca | | | | |
-| viññūnaṃ. | | | | |
+| viññūnaṃ | | | | |
 | |
 
 katamehi pañcahi?
@@ -162,7 +162,7 @@ katamehi pañcahi?
 | | | | | |
 | --- | --- | --- | --- | --- |
 | katamehi | | | | |
-| pañcahi? | | | | |
+| pañcahi | | | | |
 | |
 
 kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti, attha-saṃhitā ca bhāsitā hoti, metta-cittena ca bhāsitā hoti.
@@ -172,25 +172,25 @@ kālena ca bhāsitā hoti, saccā ca bhāsitā hoti, saṇhā ca bhāsitā hoti,
 | kālena | | | | |
 | ca | | | | |
 | bhāsitā | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | saccā | | | | |
 | ca | | | | |
 | bhāsitā | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | saṇhā | | | | |
 | ca | | | | |
 | bhāsitā | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | attha- | | | | |
 | saṃhitā | | | | |
 | ca | | | | |
 | bhāsitā | | | | |
-| hoti, | | | | |
+| hoti | | | | |
 | metta- | | | | |
 | cittena | | | | |
 | ca | | | | |
 | bhāsitā | | | | |
-| hoti. | | | | |
+| hoti | | | | |
 | |
 
 imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.

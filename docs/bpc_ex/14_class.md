@@ -217,7 +217,7 @@
 | paccavekkhitabbā | | | | |
 | |
 
-15.  [DN16.11](https://s.dhamma.gift/dn/dn16/index.html)
+15.  [DN11](https://s.dhamma.gift/dn/dn11/index.html)
     evañca kho eso, bhikkhu, pañho **pucchitabbo**
 
 | | | | | |
@@ -270,7 +270,7 @@
 | pācittiyaṃ | | | | |
 | |
 
-18.  VIN PAT NID
+18.  [VIN PAT NID](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm1)
     yo pana bhikkhu yāvatatiyaṃ anusāviyamāne saramāno santiṃ āpattiṃ n'āvikareyya, sampajānamusāvādo assa hoti.
 
 | | | | | |
@@ -475,7 +475,7 @@
 | |
 
 28.  [VIN PAT SA 13](https://s.dhamma.gift/vin/tv/pli-tv-bu-pm/index.html#pli-tv-bu-pm4)
-    tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī”ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
+    tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti, so bhikkhu bhikkhūhi evaṃ assa vacanīyo
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -485,7 +485,7 @@
 | pabbājenti | | | | |
 | ekaccaṃ | | | | |
 | na | | | | |
-| pabbājentī”ti | | | | |
+| pabbājentī’ti | | | | |
 | so | | | | |
 | bhikkhu | | | | |
 | bhikkhūhi | | | | |

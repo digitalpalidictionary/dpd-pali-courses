@@ -89,6 +89,7 @@
 | --- | --- | --- | --- | --- |
 | na | | | | |
 | ahaṃ | | | | |
+| bhikkhave | | | | |
 | aññaṃ | | | | |
 | eka- | | | | |
 | dhammam | | | | |
@@ -100,6 +101,7 @@
 | uppajjati | | | | |
 | yathā | | | | |
 | idaṃ | | | | |
+| bhikkhave | | | | |
 | paṭigha-nimittaṃ | | | | |
 | |
 
@@ -113,7 +115,7 @@
 | bhikkhave | | | | |
 | ariya-saccāni | | | | |
 | katamāni | | | | |
-| cattāri? | | | | |
+| cattāri | | | | |
 | |
 
 7.  [SN12.63](https://s.dhamma.gift/sn/sn12/index.html#sn12.63)
@@ -131,7 +133,7 @@
 | dutiyo | | | | |
 | mano- | | | | |
 | sañcetanā | | | | |
-| tatiyā, | | | | |
+| tatiyā | | | | |
 | viññāṇaṃ | | | | |
 | catutthaṃ | | | | |
 | |
@@ -327,7 +329,7 @@
 | |
 
 18.  [AN10.61](https://s.dhamma.gift/an/an10/index.html#an10.61)
-    pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca ahāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
+    pañca ahaṃ nīvaraṇe sāhāre vadāmi, no anāhāre. ko ca āhāro pañcannaṃ nīvaraṇānaṃ? tīṇi duccaritāni
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -340,7 +342,7 @@
 | anāhāre | | | | |
 | ko | | | | |
 | ca | | | | |
-| ahāro | | | | |
+| āhāro | | | | |
 | pañcannaṃ | | | | |
 | nīvaraṇānaṃ | | | | |
 | tīṇi | | | | |
@@ -382,7 +384,7 @@
 | |
 
 21.  [SN12.61](https://s.dhamma.gift/sn/sn12/index.html#sn12.61)
-    dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṁ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
+    dissati ayaṃ, bhikkhave, cātumahābhūtiko kāyo ekaṃ api vassaṃ tiṭṭhamāno dve api vassāni tiṭṭhamāno tīṇi ... cattāri ... pañca ... dasa ... vīsati ... tiṃsaṃ ... cattārīsaṃ api vassāni tiṭṭhamāno paññāsaṃ api vassāni tiṭṭhamāno vassasataṃ api tiṭṭhamāno, bhiyyo api tiṭṭhamāno.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -393,7 +395,7 @@
 | kāyo | | | | |
 | ekaṃ | | | | |
 | api | | | | |
-| vassaṁ | | | | |
+| vassaṃ | | | | |
 | tiṭṭhamāno | | | | |
 | dve | | | | |
 | api | | | | |
@@ -407,11 +409,11 @@
 | tiṃsaṃ | | | | |
 | cattārīsaṃ | | | | |
 | api | | | | |
-| vassaṁ | | | | |
+| vassāni | | | | |
 | tiṭṭhamāno | | | | |
 | paññāsaṃ | | | | |
 | api | | | | |
-| vassaṁ | | | | |
+| vassāni | | | | |
 | tiṭṭhamāno | | | | |
 | vassasataṃ | | | | |
 | api | | | | |
