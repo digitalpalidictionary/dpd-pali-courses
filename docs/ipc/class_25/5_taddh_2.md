@@ -81,9 +81,9 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | arañña | + \*ika | **ā**raññ**ika** | forest dweller |
 | bhatta | + \*ika | bh**a**tt**ika** | eater |
 | dvāra | + \*ika | d**o**vār**ika** | door-keeper, guard |
-| gāma | + \*ika | g**ā**mi**ka** | villager |
+| gāma | + \*ika | g**ā**m**ika** | villager |
 | kathā | + \*ika | k**a**th**ika** | story-teller, narrator |
-| magadha | + \*ika | m**ā**gadhi**ka** | lives in Magadha |
+| magadha | + \*ika | m**ā**gadh**ika** | lives in Magadha |
 | navā | + \*ika | n**ā**v**ika** | sailor |
 | ratha | + \*ika | r**a**th**ika** | charioteer |
 | rukkhamūla | + \*ika | r**u**kkhamūl**ika** | tree dweller |
@@ -105,7 +105,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | | | | |
 | --- | --- | --- | --- |
 | samudda | + \*ika | s**ā**mudd**ika** | relating to sea, marine |
-| sarīra | + \*ika | s**ā**rīri**ka** | relating to body, bodily |
+| sarīra | + \*ika | s**ā**rīr**ika** | relating to body, bodily |
 
 ## \*ika (having quality of)
 
@@ -126,7 +126,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 ## ima (belonging to, *most*)
 
-| | | | belonging to the ... |
+| | | | belonging to the … |
 | --- | --- | --- | --- |
 | anta | + ima | ant**ima** | end \> final |
 | heṭṭhā | + ima | heṭṭh**ima** | lower \> lowest |
@@ -156,8 +156,8 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | | | | |
 | --- | --- | --- | --- |
 | samagga | + \*iya | s**ā**magg**iya** | harmonious |
-| bahi | + \*iya | b**ā**hiy**a** | foreign |
-| anuttara | + \*iya | **ā**nuttariya | ultimate end |
+| bahi | + \*iya | b**ā**h**iya** | foreign |
+| anuttara | + \*iya | **ā**nuttar**iya** | ultimate end |
 
 ## \*ī (from, belonging to)
 
@@ -172,7 +172,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | --- | --- | --- | --- |
 | kosa | + \*eyya | k**o**s**eyya** | from a cocoon, silk |
 | bhaginī | + \*eyya | bh**ā**gin**eyya** | from sister, nephew |
-| gaṅga | + \*eyya | g**a**ṅg**eyya** | from Ganges River |
+| gaṅgā | + \*eyya | g**a**ṅg**eyya** | from Ganges River |
 
 ## \*era (son of)
 
@@ -194,7 +194,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | kapāla | + ka | kapāla**ka** | small begging bowl |
 | khudda | + ka | khudda**ka** | small, minor |
 | māṇava | + ka | māṇava**ka** | young boy |
-| paṭā | + ka | paṭā**ka** | small flag, banner |
+| paṭa | + ka | paṭā**ka** | small flag, banner |
 | bubbuḷa | + ka | bubbuḷa**ka** | little bubble |
 | putta | + ka | putta**ka** | young son |
 
@@ -214,10 +214,10 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 
 | | | | |
 | --- | --- | --- | --- |
-| kāsi | + ka | kāsi**ka** | from Kasi |
+| kāsi | + ka | kāsi**ka** | from Kāsi |
 | rājagaha | + ka | rājagaha**ka** | from Rājagaha |
 | bāhira | + ka | bāhira**ka** | from outside, non-Buddhist |
-| kāsigāma | + ka | kāsigāma**ka** | from Kasi village |
+| kāsigāma | + ka | kāsigāma**ka** | from Kāsi village |
 
 ## maya (made of)
 
@@ -229,7 +229,7 @@ In traditional grammars, these fall under many categories, such as living-in, wo
 | manas | + maya | mano**maya** | mind-made |
 | phalika | + maya | phalika**maya** | made of crystal |
 | rūpiya | + maya | rūpiya**maya** | made of silver |
-| veḷuriya | + maya | veḷuriya**maya** | made of cats-eye |
+| veḷuriya | + maya | veḷuriya**maya** | made of cat’s-eye |
 
 ## tā (multitude of, collection of) feminine nouns
 

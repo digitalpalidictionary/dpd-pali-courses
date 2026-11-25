@@ -12,9 +12,9 @@ when a word ends in **i**,
 
 and the next word starts with **a**,
 
-**together they become ya**
+together they become **ya**
 
-In Kaccāyana this is called (21) **ivaṇṇo yaṃ navā**
+In Kaccāyana this is called (21) **ivaṇṇo yaṃ navā.**
 
 and (17) **yam’edantass’ādeso.**
 
@@ -48,7 +48,7 @@ and (17) **yam’edantass’ādeso.**
 | t**e** | **a**ssu | t**ya**ssu |
 | they | they may be | they may be |
 | k**e** | **a**ssa | k**ya**ssa |
-| who | for him | lit. who for whom |
+| who | for him | lit. who for him |
 
 **e![](../../assets/images/arrow.png)a \> yā**
 
@@ -59,7 +59,7 @@ and (17) **yam’edantass’ādeso.**
 | m**e** | **a**haṃ | m**yā**haṃ |
 | my | I | I my |
 | t**e** | **a**yaṃ | t**yā**yaṃ |
-| your | this | this (...) of yours |
+| your | this | this (…) of yours |
 
 what is **Possibility \#6 ?**
 

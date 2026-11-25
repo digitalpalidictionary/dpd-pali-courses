@@ -4,7 +4,7 @@ away from, off, **out**, removal
 
 | | | | |
 | --- | --- | --- | --- |
-| √veth | to twist | nibbeṭheti | wriggles out, untwists |
+| √veṭh | to twist | nibbeṭheti | wriggles out, untwists |
 | √vid | to feel, like | nibbindati | is disenchanted |
 | √dis | to point out | niddisati | defines, explains |
 | √har | to carry | nīharati | removes, extracts |

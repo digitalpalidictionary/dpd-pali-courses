@@ -8,7 +8,7 @@ e.g. kāla**ṃ** + **k**ata \> kāla**ṅ**kata
 
 In Kaccāyana this is called (31) **vagg’antaṃ vā vagge.**
 
-Please take note of the nasal of each group
+Please take note of the nasal of each group:
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -47,9 +47,9 @@ Please take note of the nasal of each group
 | | | | | |
 | --- | --- | --- | --- | --- |
 | **ṭ** | **ṭh** | **ḍ** | **ḍh** | **ṇ** |
-| sa**ṃ** | √ḍaṃs \> **ḍ**ās + \*a | sa**ṇ**ḍāsa | masc. pincers | |
-| sa**ṃ** | **ṭh**āna | sa**ṇ**ṭhāna | nt. standing still | |
+| sa**ṃ** | **ṭh**āna | sa**ṇ**ṭhāna | nt. shape; form | |
 | sa**ṃ** | **ṭh**ahati | sa**ṇ**ṭhahati | pr. settles in | |
+| sa**ṃ** | √ḍaṃs \> **ḍ**ās + \*a | sa**ṇ**ḍāsa | masc. pincers | |
 
 **ṃ + dental \> n**
 
@@ -67,10 +67,10 @@ Please take note of the nasal of each group
 | | | | | |
 | --- | --- | --- | --- | --- |
 | **p** | **ph** | **b** | **bh** | **m** |
-| upa sa**ṃ** | **p**adā | upasa**m**padā | f. higher ordination | |
+| upa + sa**ṃ** | **p**adā | upasa**m**padā | f. higher ordination | |
 | sa**ṃ** | **ph**assa | sa**m**phassa | m. touch, contact | |
-| abhi sa**ṃ** | **b**uddha | abhisa**m**buddha | pp. woke up completely | |
-| paṭi sa**ṃ** | **bh**idā | paṭisa**m**bhidā | f. analytical insight | |
+| abhi + sa**ṃ** | **b**uddha | abhisa**m**buddha | pp. woke up completely | |
+| paṭi + sa**ṃ** | **bh**idā | paṭisa**m**bhidā | f. analytical insight | |
 | sa**ṃ** | **m**ajjati | sa**m**majjati | pr. sweeps | |
 
 **Counter-examples:**

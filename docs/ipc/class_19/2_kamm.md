@@ -1,10 +1,10 @@
 # Kammadhāraya or Adjectival Compounds
 
-**“blackbird”**
+“blackbird”
 
 (object / bearer)
 
-*Kaccāyana 324.* dvipade tuly'ādhikaraṇe kammadhārayo.
+*Kaccāyana 324.* dvipade tuly’ādhikaraṇe kammadhārayo.
 
 Kammadhāraya compounds normally consist of two members in the **same case** which modify the meaning of each other. The resulting samāsa can be a **noun**, an **adjective** or an **adverb**.
 
@@ -42,15 +42,15 @@ dhammo + varo \> dhammavaro (excellent teaching)
 
 (description both words)
 
-adjective + adjectives
+adjective + adjective
 
 uppanna ca uppanna ca \> uppannuppanna (whatever arisen; lit. arisen and arisen)
 
-sukata ca dukkaṭa ca \> sukatadukkaṭānaṃ (well done and badly done)
+sukata ca dukkaṭa ca \> sukatadukkaṭa (well done and badly done)
 
-manāpa ca amanāpa ca \> manāpāmanāpaṃ (pleasant and unpleasant)
+manāpa ca amanāpa ca \> manāpāmanāpa (pleasant and unpleasant)
 
-they can be classified as *dvanda* type of compounds
+They can be classified as *dvanda* compounds.
 
 ## sambhāvanā-pubba-pada
 
@@ -60,13 +60,13 @@ noun + noun
 
 in which the first member indicates the origin of the second term, or the relation in which the second term stands to the first.
 
-**iti** ; **evaṃ**; **saṅkhāto** ; **hutvā**
+**iti**; **evaṃ**; **saṅkhāto**; **hutvā**
 
 attā (*iti*) diṭṭhi \> attadiṭṭhi (“the self” (is) the view)
 
 hetu (*hutvā*) paccayo \> hetupaccayo (having been a cause there is a condition \> causal relationship)
 
-Some of the above examples can be classified as a *tappurisa* type of compounds
+Some of the above examples can be classified as *tappurisa* compounds.
 
 ## upamāna-uttara-pada
 
@@ -88,7 +88,7 @@ sāvatthī *eva* nidāna \> sāvatthinidāna (Sāvatthī just source)
 
 rāga *eva* dosa \> rāgadosa (lust just corruption \> corrupted by lust)
 
-Some of the above examples can be classified as a *tappurisa* type of compounds
+Some of the above examples can be classified as *tappurisa* compounds.
 
 ## ku-nipāta-pubba-pada
 
@@ -132,13 +132,13 @@ saha \> sa + avajja \> sāvajja (blameworthy; wrong; lit. with fault)
 
 ## General rules for kammadhāraya samāsa
 
-1.  **mahanta** becomes **mahā, or**
+1.  **mahanta** becomes **mahā**, or
 
 **mahanta** becomes **maha** and the **consonant** is **reduplicated**
 
 e.g. mahanta moggallāna \> mahāmoggallāna (great Moggallāna)
 
-e.g. mahanta bhaya \> mah**abb**haya (great fear)
+e.g. mahanta bhaya \> maha**bbh**aya (great fear)
 
 2.  **santa** “good, virtuous” becomes **sat**
 

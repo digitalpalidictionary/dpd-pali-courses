@@ -14,7 +14,7 @@ There are six types of phonetic changes that happen in Sandhi. Some of them you 
 
 6.  Simplification
 
-1.  **Assimilation** happens when two consonants come into contact with each other. There are three types
+1.  **Assimilation** happens when two consonants come into contact with each other. There are three types.
 
 -   **Progressive Assimilation**
 
@@ -32,17 +32,17 @@ ud + √pa**d + n**a \> uppa**nn**a (pp. arisen)
 
 √la**bh + t**a \> la**bht**a \> la**ddh**a (pp. obtained)
 
-√jī**r + n**a \> ji**ṇṇ**a (adj. old)
+√jī**r + n**a \> ji**ṇṇ**a (pp. old)
 
 (mainly for ease in pronunciation)
 
-2.  **Adaption** occurs when a consonant changes from the influence of another consonant. We have seen this with nasal consonants
+2.  **Adaption** occurs when a consonant changes under the influence of another consonant. We have seen this with nasal consonants.
 
 sa**ṃ + t**iṭṭhati \> sa**nt**iṭṭhati
 
 sa**ṃ + j**ānāti \> sa**ñj**ānāti
 
-3.  **Metathesis** is the interchange of two consonants
+3.  **Metathesis** is the interchange of two consonants.
 
 ava + √ru**h + y**a \> oru**hy**a \> oru**yh**a (ger. descending)
 
@@ -60,7 +60,7 @@ hrī (sk) \> h**i**rī (f. conscience)
 
 pa + √hā + tvāna \> paha**n**tvāna (abs. having given up)
 
-5.  **Aspiration** an -h- is added
+5.  **Aspiration**: an -h- is added.
 
 √as + ti \> atti \> att**h**i (pr. there is)
 
@@ -90,4 +90,4 @@ Aspiration
 
 Simplification
 
-These are the general types of phonetic changes that can occur, let’s look at more specific examples.
+These are the general types of phonetic changes that can occur. Let’s look at more specific examples.

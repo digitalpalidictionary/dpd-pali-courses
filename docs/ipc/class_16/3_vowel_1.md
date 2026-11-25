@@ -2,13 +2,13 @@
 
 Vowel elision is of two types, **forward** and **backwards** elision.
 
-Think of a *Pac-Man* going forward, ![](../../assets/images/pacman-forward.png)it eats the letter in front of it. This is called **forward elision**.
+Think of a *Pac-Man* going forward, ![](../../assets/images/pacman-forward.png) it eats the letter in front of it. This is called **forward elision**.
 
-Think of a *Pac-Man* going backwards,![](../../assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and very common in Pāli.
+Think of a *Pac-Man* going backwards, ![](../../assets/images/pacman-backwards.png) it eats the letter behind it. This is called **backwards elision**, and is very common in Pāli.
 
 ## Possibility \#1
 
-a vowel before another vowel is sometimes elided
+A vowel before another vowel is sometimes elided.
 
 **ajja![](../../assets/images/pacman-backwards.png)uposatho \> ajjuposatho**
 
@@ -24,13 +24,13 @@ the **a** can be elided,
 
 and only the **u** will remain.
 
-In Kaccāyana this is called (12) **sarā sare lopaṃ**
+In Kaccāyana this is called (12) **sarā sare lopaṃ.**
 
 **a![](../../assets/images/pacman-backwards.png)a \> a**
 
 | | | |
 | --- | --- | --- |
-| pana | **assa** | pan**a**ssa |
+| pan**a** | **a**ssa | pan**a**ssa |
 | and | for him | and for him |
 | aṭṭh**a** | **a**ṅgika | aṭṭh**a**ṅgika |
 | eight | parts | with eight parts |
@@ -45,7 +45,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | --- | --- | --- |
 | kām**a** | **ā**sava | kām**ā**sava |
 | sensual pleasure | effluent | effluent of sensual pleasure |
-| yena | **āyasmā** | yen**ā**yasmā |
+| yen**a** | **ā**yasmā | yen**ā**yasmā |
 | where | venerable | where venerable |
 | khīṇ**a** | **ā**sava | khīṇ**ā**sava |
 | destroyed | effluent | who has destroyed the effluents |
@@ -57,7 +57,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | | | |
 | --- | --- | --- |
 | pañc**a** | **i**me | pañc**i**me |
-| these | five | these five |
+| five | these | these five |
 | bhāvit**a** | **i**ndriya | bhāvit**i**ndriya |
 | developed | faculty | (one with) developed faculties |
 | pāp**a** | **i**cchā | pāp**i**cchā |
@@ -107,9 +107,9 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | | | |
 | --- | --- | --- |
 | avijj**ā** | **ā**sava | avijj**ā**sava |
-| ignorance | defilement | defilement of ignorance |
+| ignorance | effluent | effluent of ignorance |
 | day**ā** | **ā**panna | day**ā**panna |
-| compassion | accomplished | full of compassion |
+| compassion | possessed of | full of compassion |
 | mah**ā** | **ā**nisaṃsa | mah**ā**nisaṃsa |
 | great | profit | great benefit |
 | m**ā** | **ā**yasmā | m**ā**yasmā |
@@ -122,7 +122,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | mah**ā** | **i**ccha | mah**i**ccha |
 | great | wish | greedy |
 | mah**ā** | **i**ddhika | mah**i**ddhika |
-| great | supernatural power | great supernatural power |
+| great | having supernatural power | of great supernatural power |
 | paññ**ā** | **i**ndriya | paññ**i**ndriya |
 | wisdom | faculty | faculty of wisdom |
 
@@ -149,7 +149,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | | | |
 | --- | --- | --- |
 | h**i** | **e**taṃ | h**e**taṃ |
-| indeed | thus | thus indeed |
+| indeed | this | this indeed |
 | idān**i** | **e**va | idān**e**va |
 | now | just | only now |
 | sabbeh**i** | **e**va | sabbeh**e**va |
@@ -176,7 +176,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | | | |
 | --- | --- | --- |
 | n**u** | **a**jja | n**a**jja |
-| ? | today | today? now? |
+| (?) | today | today? now? |
 
 **u![](../../assets/images/pacman-backwards.png)ā \> ā**
 
@@ -205,7 +205,7 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 | | | |
 | --- | --- | --- |
 | m**e** | **a**tthi | m**a**tthi |
-| my | these are | these are my |
+| my | there is | there is my |
 | sac**e** | **a**ssa | sac**a**ssa |
 | if | it could be | if it could be |
 
@@ -247,4 +247,4 @@ In Kaccāyana this is called (12) **sarā sare lopaṃ**
 
 what is **Possibility \#1** ?
 
-a vowel before another vowel is sometimes elided
+A vowel before another vowel is sometimes elided.

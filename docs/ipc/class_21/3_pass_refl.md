@@ -14,23 +14,23 @@ In theory passive voice with an **attanopada** verbal ending can be translated i
 
 cittaṃ samādhiya**te** – the mind becomes settled **by itself**.
 
-but practically the meaning is the same.
+But practically the meaning is the same.
 
 cittaṃ samādhiya**te** – the mind becomes settled.
 
 cittaṃ samādhiya**ti** – the mind becomes settled.
 
-as usual with a few exceptions
+As usual with a few exceptions.
 
-In Sanskrit, passive and intransitive verbs **must** take the attanopada endings e.g.
+In Sanskrit, passive verbs **must** take the attanopada endings e.g.
 
 “is said to be; is called”:
 
-Pāli - vucca**ti**
+Pāli – vucca**ti**
 
-Sanskrit - vācya**te**
+Sanskrit – ucya**te**
 
-In Pāli this is more flexible and either **parassapada** or **attanopada** verbal ending can be used.
+In Pāli this is more flexible and either **parassapada** or **attanopada** verbal endings can be used.
 
 In summary, in Pāli you can find the passive voice with **parassapada** and **attanopada** endings; the meaning is the same.
 
@@ -40,4 +40,4 @@ Please explain how the **reflexive voice** gets formed.
 
 Please explain how the **passive voice** gets formed.
 
-What is the meaning of Pāli words **parassapada** and **attanopada.**
+What is the meaning of the Pāli words **parassapada** and **attanopada**?

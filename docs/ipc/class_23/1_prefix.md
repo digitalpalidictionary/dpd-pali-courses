@@ -18,7 +18,7 @@ bhāti (shines)
 
 **2. dhātv’atthabādhaka**
 
-(root – meaning - obstructing)
+(root – meaning – obstructing)
 
 These prefixes completely change or even reverse the meaning of the root.
 
@@ -30,7 +30,7 @@ rajjati (is attached)
 
 **3. dhātv’atthavisesaka**
 
-(root – meaning - enhancer)
+(root – meaning – enhancer)
 
 These prefixes add some flavour and nuance to the meaning of the root.
 
@@ -40,17 +40,17 @@ harati (carries)
 
 **ā**harati (brings back)
 
-**o**harati (shaves, lit. takes down)
+**o**harati (takes off, lit. takes down)
 
 **nī**harati (removes, extracts)
 
 **pa**harati (beats, strikes)
 
-Here is the list of 20 prefixes according to traditional sources
+Here is the list of 20 prefixes according to traditional sources.
 
 **pa, parā, ni, nī, u(d), du(r), saṃ, vi, ava, anu, pari, adhi, abhi, pati, su, ā, ati, api, apa, upa**
 
-When adding prefixes, the normal rules of sandhi apply
+When adding prefixes, the normal rules of sandhi apply.
 
 ati + agā \> a**cc**agā
 

@@ -1,4 +1,4 @@
-# Phonetic changes of -s-
+# Phonetic Changes of -s-
 
 These mostly occur with **desiderative** **verbs** which have the verbal suffix **-sa**. Please refer back to this table when you study desiderative verbs in the future.
 
@@ -7,7 +7,7 @@ These mostly occur with **desiderative** **verbs** which have the verbal suffix 
 | | | |
 | --- | --- | --- |
 | √tij + tij \> titij + sa + ti | titi**kkh**ati | pr. endures |
-| √bhuj + bhuj\> bubhuj + sa + ita | bubhu**kkh**ita | adj. hungry |
+| √bhuj + bhuj \> bubhuj + sa + ita | bubhu**kkh**ita | adj. hungry |
 
 **t + s \> cch**
 

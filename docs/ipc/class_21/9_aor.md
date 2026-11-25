@@ -4,7 +4,7 @@ Kaccāyana 419. samīpe’jjatanī.
 
 “when recent, aorist.”
 
-Ajja “means” today in Pāli. As the name implies, this past tense was originally only used for the recent past, things that happened earlier today.
+Ajja means “today” in Pāli. As the name implies, this past tense was originally only used for the recent past, things that happened earlier today.
 
 Today **I went** to the village.
 
@@ -19,21 +19,21 @@ Let’s look at the aorist **reflexive** **voice** and **passive voice**.
 (Theory) How is the reflexive formed? How is the passive formed?
 
 **Aorist Attanopada “gave by oneself”**
-**√dā + dā + a \> dadā**
+**(√dā + dā + a \> dadā)**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | adad**ā** | adad**ū** |
 | 2 majjhima | adad**ise** | adad**ivhaṃ** |
 | 1 uttama | adad**aṃ** | adad**imhe** |
 
 **Aorist Passive Attanopada “was cut (by oneself)”**
-**√chid + ya \> chijja**
+**(√chid + ya \> chijja)**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | chijj**ā** | chijj**ū** |
 | 2 majjhima | chijj**ise** | chijj**ivhaṃ** |
 | 1 uttama | chijj**aṃ** | chijj**imhe** |

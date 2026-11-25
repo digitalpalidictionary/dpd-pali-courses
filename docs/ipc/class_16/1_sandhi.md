@@ -36,7 +36,7 @@ didn’t = did n**o**t
 
 shouldn’t = should n**o**t
 
-wouldn’t = would not
+wouldn’t = would n**o**t
 
 gonna = going to
 
@@ -44,7 +44,7 @@ wanna = want to
 
 Can you think of any others?
 
-Why is there sandhi?
+## Why is there sandhi?
 
 For ease and economy of pronunciation — the changes make the combined sounds easier to say.
 
@@ -52,6 +52,6 @@ There are three basic types of Sandhi in Pāli:
 
 1.  **Vowel Sandhi** (*sara-sandhi*) which occurs when vowels are joined together
 
-2.  **Consonant Sandhi** (*vyañjana-sandhi)* which occurs when consonants are joined together
+2.  **Consonant Sandhi** (*vyañjana-sandhi*) which occurs when consonants are joined together
 
-3.  **Ṃ Sandhi** *niggahīta-sandhi* which occurs when the nasal letter ṃ joins with vowels or consonants.
+3.  **Ṃ Sandhi** (*niggahīta-sandhi*) which occurs when the nasal letter ṃ joins with vowels or consonants.

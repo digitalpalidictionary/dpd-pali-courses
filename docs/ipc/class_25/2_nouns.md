@@ -1,4 +1,4 @@
-# Types of nouns
+# Types of Nouns
 
 1.  **concrete nouns** describe physical things related to the root, something you can perceive with at least one of your five senses.
 
@@ -12,7 +12,7 @@
 | √ad | to eat | + na | anna | food |
 | √ās | to sit | + ana | āsana | seat |
 
-2.  **process / action noun** is the action of doing the root, often translating with -ing
+2.  **process / action noun** is the action of doing the root, often translated with -ing
 
 **action nouns**
 
@@ -21,7 +21,7 @@
 | pa + √vatt | to be, proceed | + ana | pavattana | happening |
 | √bhar | to support | + aṇa | bharaṇa | supporting |
 | √cud | to impel, accuse | + \*anā | c**o**danā | prompting |
-| √ādā | to take, eat | + na | ādāna | eating |
+| √ādā | to take, eat | + ana | ādāna | eating |
 
 3.  **abstract noun** is a concept derived from the root
 
@@ -29,7 +29,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √sad | to sink, sit, settle | + \*a | pasāda | brightness |
+| pa + √sad | to sink, sit, settle | + \*a | pasāda | brightness |
 | √day | to take pity | + ā | dayā | compassion |
 | √iss | to be envious | + ā | issā | jealousy |
 | √sar | to remember | + ti | sati | memory |

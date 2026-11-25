@@ -1,6 +1,6 @@
 # Some Adverbs (nipāta) used as Prefixes
 
-A few adverbs are used very much in the same way as the verbal prefixes, but they are much less common
+A few adverbs are used very much in the same way as the verbal prefixes, but they are much less common.
 
 ## alaṃ-
 
@@ -31,7 +31,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 
 ## āvi-
 
-**in full view, in sight, in view, manifestly, visibly.**
+**in full view, in sight, in view, manifestly, visibly**
 
 | | | | |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ A few adverbs are used very much in the same way as the verbal prefixes, but the
 | √bhū | ahosi | pāturahosi | appeared, manifested |
 | √bhū | bhāva | pātubhāva | appearance |
 | √bhū | bhūta | pātubhūta | appeared |
-| √kar | karoti | pātukaroti | appears, manifests |
+| √kar | karoti | pātukaroti | displays, manifests |
 
 ## puna-
 

@@ -4,8 +4,8 @@
 | --- | --- | --- | --- |
 | kk | k + y | √sa**k y**a | sa**kk**a |
 | kk | c + t | √pa**c t**a | pa**kk**a |
-| kkh | j + s | tijti**j s**a ti | titi**kkh**ati |
-| gg | j + t | ni √mujj ta | nimu**gg**a |
+| kkh | j + s | titi**j s**a ti | titi**kkh**ati |
+| gg | j + t | ni √mu**jj t**a | nimu**gg**a |
 | cc | c + y | vi √vi**c y**a | vivi**cc**a |
 | cc | t + y | sa**t y**a | sa**cc**a |
 | cch | t + s | vi ciki**t s**a ti | viciki**cch**ati |
@@ -15,11 +15,11 @@
 | jj | j + y | ni √sa**j** **y**a | nisa**jj**a |
 | jj | d + y | √ma**d y**a | ma**jj**a |
 | jjh | dh + y | √bu**dh y**a ti | bu**jjh**ati |
-| ññ | n + y | √k**an y**a ā | ka**ññ**ā |
+| ññ | n + y | √ka**n y**a ā | ka**ññ**ā |
 | ṭ | r + t | vi √va**r t**a | viva**ṭ**a |
 | ṭṭh | ch + t | √puc**ch t**a | pu**ṭṭh**a |
 | ṭṭh | s + t | √di**s t**i | di**ṭṭh**i |
-| ṇṇ | r + n | √ti**r n**a | ti**ṇṇ**a |
+| ṇṇ | r + n | √tar \> ti**r n**a | ti**ṇṇ**a |
 | t | n + t | √ha**n t**a | ha**t**a |
 | t | m + t | √ga**m t**a | ga**t**a |
 | t | r + t | √ma**r t**a | ma**t**a |
@@ -33,7 +33,7 @@
 | ddh | bh + t | √la**bh t**a | la**ddh**a |
 | nt | m + t | abhi √ka**m t**a | abhikka**nt**a |
 | nn | d + n | √bhi**d n**a | bhi**nn**a |
-| pp | p + t | √tij \> tip + ta | tippa |
+| pp | p + t | √tij \> ti**p t**a | ti**pp**a |
 | pp | p + y | √ta**p y**a ti | ta**pp**ati |
 | bb | j + t | √ti**j t**a | ti**bb**a |
 | bb | v + y | √di**v y**a ti | di**bb**ati |
@@ -41,6 +41,6 @@
 | by | vi | **vi** anta | **by**anta |
 | mm | m + y | ā √ga**m y**a | āga**mm**a |
 | yh | h + y | abhi √ru**h y**a | abhiru**yh**a |
-| ll | l + y | √**jal y**a | ja**ll**a |
+| ll | l + y | √ja**l y**a | ja**ll**a |
 | ss | s + y | √mu**s y**a ti | mu**ss**ati |
 | ḷh | h + t | √mu**h t**a | mū**ḷh**a |

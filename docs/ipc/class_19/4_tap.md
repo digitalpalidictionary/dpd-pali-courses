@@ -18,7 +18,7 @@ tassa + purisa \> ta + purisa \> tappurisa (his man)
 
 3.  Generally, a tappurisa follows the **gender** of the last member.
 
-## dutiyā-tappurisa (accusative case)
+## dutiyā tappurisa (accusative case)
 
 araññ**aṃ** gato \> araññagato (gone to the forest)
 
@@ -48,7 +48,7 @@ ra**ñño** arahaṃ \> rāj**ā**rahaṃ (worthy **for** the King)
 
 lok**assa** anukampā \> lokānukampā (compassion **for** the world)
 
-mukh**assa** + udaka \> mukhodaka (water **for** face)
+mukh**assa** + udaka \> mukhodaka (water **for** the face)
 
 all compounds with infinitive/dative + kāma are in this category
 
@@ -60,9 +60,9 @@ aññāt**uṃ** kāma \> aññāt**u**kāma (wanting **to** know)
 
 bhott**uṃ** kamyatā \> bhott**u**kamyatā (desire **to** eat)
 
-cāvet**uṃ** kāma \> cāvet**u**kāma (wanting **to** distract)
+cāvet**uṃ** kāma \> cāvet**u**kāma (wanting **to** make fall)
 
-compounds with infinitive + kāma may be called *tuṃpaccaya* *tappurisa* in some grammar books.
+compounds with infinitive + kāma may be called *tuṃpaccaya tappurisa* in some grammar books.
 
 ## pañcamī tappurisa (ablative case)
 
@@ -72,9 +72,9 @@ yog**asmā** + khemo \> yogakkhemo (freedom **from** bondage)
 
 het**unā** samuppanna \> hetusamuppanna (arisen **from** cause)
 
-vivek**asmā** + ja \> vivekaja (born from seclusion)
+vivek**asmā** + ja \> vivekaja (born **from** seclusion)
 
-udak**ā** + anuggata \> udakānuggata (not risen out of the water)
+udak**ā** + anuggata \> udakānuggata (not risen **out of** the water)
 
 ## chaṭṭhī tappurisa (genitive case)
 
@@ -90,17 +90,17 @@ buddh**assa** sāvako \> buddhasāvako (disciple **of** the Buddha)
 
 bhikkh**ūnaṃ** + saṅgho \> bhikkhusaṅgho (assembly **of** monks)
 
-## sattāmī tappurisa (locative case)
+## sattamī tappurisa (locative case)
 
 araññ**e** vāso \> araññavāso (living **in** the forest)
 
 gām**e** vāsī \> gāmavāsī (living **in** a village = villager)
 
-guh**āyaṃ** āsaya \> guhāsayaṃ (resting **in** a cave)
+guh**āyaṃ** āsaya \> guhāsaya (resting **in** a cave)
 
-bhūm**iyaṃ** + ṭha \> bhūmaṭṭha (standing **on** the ground)
+bhūm**asmiṃ** + ṭha \> bhūmaṭṭha (standing **on** the ground)
 
-dhamm**e** rato \> dhammarato (enjoying **in** the teaching)
+dhamm**e** rato \> dhammarato (delighting **in** the teaching)
 
 indriy**esu** saṃvara \> indriyasaṃvara (restraint **in** the faculties)
 

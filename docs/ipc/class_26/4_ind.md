@@ -1,12 +1,12 @@
 # Indeclinable (abyayataddhita)
 
-## khattuṃ (times) adverbs of manner
+## kkhattuṃ (times) adverbs of manner
 
 | | | | |
 | --- | --- | --- | --- |
 | anekasata | + kkhattuṃ | anekasata**kkhattuṃ** | many 100’s of times |
 | cha | + kkhattuṃ | cha**kkhattuṃ** | 6 times |
-| chattiṃsā | + kkhattuṃ | chattiṃsa**kkhattuṃ** | **36 times** |
+| chattiṃsā | + kkhattuṃ | chattiṃsa**kkhattuṃ** | 36 times |
 | dvatti | + kkhattuṃ | dvatti**kkhattuṃ** | 2 or 3 times |
 | dvisahassa | + kkhattuṃ | dvisahassa**kkhattuṃ** | 2000 times |
 | kati | + kkhattuṃ | kati**kkhattuṃ** | how many times? |
@@ -14,7 +14,7 @@
 | satta | + kkhattuṃ | satta**kkhattuṃ** | 7 times |
 | ti | + kkhattuṃ | ti**kkhattuṃ** | 3 times |
 
-## thā (in such way) adverbs of manner
+## thā (in such a way) adverbs of manner
 
 | | | | |
 | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 | ya | + thā | ya**thā** | in which way |
 | ubhaya | + thā | ubhaya**thā** | in both ways |
 
-## thaṃ (in such way) adverbs of manner
+## thaṃ (in such a way) adverbs of manner
 
 | | | | |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| amu | + tra | amu**tra** | in such place, |
+| amu | + tra | amu**tra** | in that place, there |
 | añña | + tra | añña**tra** | in another place, elsewhere |
 | ima | + tra | a**tra** | in this place, here |
 | ka | + tra | ku**tra** | in what place, where? |
@@ -78,7 +78,7 @@
 | dvi | + dhā | dvi**dhā** | in two ways |
 | ti | + dhā | ti**dhā** | in three ways |
 | pañca | + dhā | pañca**dhā** | in five ways |
-| sata | + dhā | sata**dhā** | in hundred ways |
+| sata | + dhā | sata**dhā** | in a hundred ways |
 | satta | + dhā | satta**dhā** | in seven ways |
 
 ## so (in ways, by) distributive adverbs
@@ -105,42 +105,42 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| anicca | **+ to** | anicca**to** | as impermanent |
-| asāra | **+ to** | asāra**to** | as essenceless |
-| asubha | **+ to** | asubha**to** | as ugly |
-| atta | **+ to** | atta**to** | as oneself |
-| vajja | **+ to** | vajja**to** | as a mistake |
-| dukkha | **+ to** | dukkha**to** | as suffering |
-| khema | **+ to** | khema**to** | as safety |
-| momuha | **+ to** | momuha**to** | as foolish, stupid |
-| sacca | **+ to** | sacca**to** | as true |
-| suñña | **+ to** | suñña**to** | as empty |
+| anicca | + to | anicca**to** | as impermanent |
+| asāra | + to | asāra**to** | as essenceless |
+| asubha | + to | asubha**to** | as ugly |
+| atta | + to | atta**to** | as oneself |
+| vajja | + to | vajja**to** | as a mistake |
+| dukkha | + to | dukkha**to** | as suffering |
+| khema | + to | khema**to** | as safety |
+| momuha | + to | momuha**to** | as foolish, stupid |
+| sacca | + to | sacca**to** | as true |
+| suñña | + to | suñña**to** | as empty |
 
 ## to (from, in) adverbs
 
 | | | | |
 | --- | --- | --- | --- |
-| antara | **+ to** | antara**to** | from within |
-| dīgha | **+ to** | dīgha**to** | in length |
-| dūra | **+ to** | dūra**to** | from far away |
-| eka | **+ to** | eka**to** | on one side, together |
-| ima | **+ to** | et**to** | from this, from here |
-| ima | **+ to** | i**to** | from this, from here |
-| ka | **+ to** | ku**to** | from where? |
-| pacchā | **+ to** | paccha**to** | from behind |
-| pari | **+ to** | pari**to** | from all around, everywhere |
-| pura | **+ to** | pura**to** | in front of |
+| antara | + to | antara**to** | from within |
+| dīgha | + to | dīgha**to** | in length |
+| dūra | + to | dūra**to** | from far away |
+| eka | + to | eka**to** | on one side, together |
+| ima | + to | et**to** | from this, from here |
+| ima | + to | i**to** | from this, from here |
+| ka | + to | ku**to** | from where? |
+| pacchā | + to | paccha**to** | from behind |
+| pari | + to | pari**to** | from all around, everywhere |
+| pura | + to | pura**to** | in front of |
 
 ## haṃ (in such place) adverbs of place
 
 | | | | |
 | --- | --- | --- | --- |
-| ka | + haṃ | **kahaṃ** | in what place, where? |
-| ta | + haṃ | **tahaṃ** | in that place, there |
+| ka | + haṃ | ka**haṃ** | in what place, where? |
+| ta | + haṃ | ta**haṃ** | in that place, there |
 
 ## hiṃ (in such place) adverbs of place
 
 | | | | |
 | --- | --- | --- | --- |
-| ka | + hiṃ | **kuhiṃ** | in what place, where? |
-| ta | + hiṃ | **tahiṃ** | in that place, there |
+| ka | + hiṃ | ku**hiṃ** | in what place, where? |
+| ta | + hiṃ | ta**hiṃ** | in that place, there |

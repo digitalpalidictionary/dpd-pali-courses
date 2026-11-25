@@ -1,6 +1,6 @@
 # General “Rules” for Compounds
 
-1.  the **first member** can be a noun, adjective, participles, pronoun, number, adverb or prefix.
+1.  the **first member** can be a noun, adjective, participle, pronoun, number, adverb or prefix.
 
 2.  nouns, adjectives, pronouns, numbers and participles occur in the **stem form** / dictionary form / vocative singular.
 
@@ -14,7 +14,7 @@ bahula + kata \> bahul**ī**kata (frequent made = practiced a lot)
 
 4.  masculine stems ending in **-ū, ā, ī** get shortened to **-u, a, i**
 
-viññū + garahita \> viññugarahita (blamed by wise)
+viññū + garahita \> viññ**u**garahita (blamed by the wise)
 
 cattālīsā + danta \> cattālīs**a**danta (forty teeth)
 
@@ -42,7 +42,7 @@ mātar + gāma \> māt**u**gāma (woman, womankind; lit. collection of mothers)
 
 pitar + rakkhita \> pit**u**rakkhita (protected by a father)
 
-mātar + pitu \> māt**ā**pitaro (mother and father)
+mātar + pitar \> māt**ā**pitaro (mother and father)
 
 pitar + maha \> pit**ā**maha (grandfather)
 

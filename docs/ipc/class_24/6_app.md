@@ -1,6 +1,6 @@
 # Active Past Participle
 
-There is a rare verbal form that we have not discussed yet. It is called the **Active Past Participle or app.**
+There is a rare verbal form that we have not discussed yet. It is called the **Active Past Participle** or **app**.
 
 The most common example is the word **dassāvī**.
 
@@ -39,10 +39,11 @@ base + āvī \> app
 
 ## How to Decline Active Past Participle
 
-Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, in **feminine** like **nadī** and the **neuter** like **aṭṭhi**
+Active Past Participles are declined in all three genders. They are very regular. The **masculine declension** is like **pakkhī**, the **feminine** like **nadī** and the **neuter** like **aṭṭhi**.
 
-| | **Masculine** | **Feminine** | **Neuter** | | | |
+| | **Masculine** | | **Feminine** | | **Neuter** | |
 | --- | --- | --- | --- | --- | --- | --- |
+| | sg | pl | sg | pl | sg | pl |
 | nom | dass**āvī** | dass**āvino** | dass**āvinī** | dass**āviniyo** | dass**āvi** / dass**āviṃ** | dass**āvīni** / dass**āvī** |
 | acc | dass**āviṃ** / dass**āvinaṃ** | dass**āvino** | dass**āviniṃ** | dass**āviniyo** | dass**āvi** / dass**āviṃ** | dass**āvīni** / dass**āvī** |
 | instr | dass**āvinā** | dass**āvihi** / dass**āvīhi** | dass**āviniyā** | dass**āvinīhi** | dass**āvinā** | dass**āvihi** / dass**āvīhi** |
@@ -51,9 +52,7 @@ Active Past Participles are declined in all three genders. They are very regular
 | gen | dass**āvino** | dass**āvinaṃ** / dass**āvīnaṃ** | dass**āviniyā** | dass**āvinīnaṃ** | dass**āvino** / dass**āvissa** | dass**āvinaṃ** / dass**āvīnaṃ** |
 | loc | dass**āvini** / dass**āvismiṃ** / dass**āvimhi** | dass**āvisu** / dass**āvīsu** | dass**āviniyā** / dass**āviniyaṃ** | dass**āvinīsu** | dass**āvismiṃ** / dass**āvimhi** | dass**āvisu** / dass**āvīsu** |
 
-**In summary:** the forms that actually occur are almost always masculine nominative:
-dassāvī (sg) and dassāvino (pl). Learn those two; recognize the rest from the pakkhī
-pattern.
+**In summary:** the forms that actually occur are almost always masculine nominative: dassāvī (sg) and dassāvino (pl). Learn those two; recognize the rest from the pakkhī pattern.
 
 Please translate and highlight the syntax of the following:
 

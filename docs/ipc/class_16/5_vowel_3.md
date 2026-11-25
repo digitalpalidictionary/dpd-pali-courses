@@ -6,7 +6,7 @@ When the first vowel is elided, the following vowel may be lengthened.
 
 tatr**a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a**yaṃ **\>** tatr**ā**yaṃ
 
-a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā
+**a![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)a \> ā**
 
 This means:
 
@@ -38,7 +38,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | | | |
 | --- | --- | --- |
 | s**ā** | **a**ssa | s**ā**ssa |
-| she | for him | that for him |
+| that | for him | that for him |
 | manas**ā** | **a**nupekkhita | manas**ā**nupekkhita |
 | by mind | recollected | mentally recollected |
 
@@ -49,7 +49,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | ap**i** | **a**haṃ | ap**ā**haṃ |
 | even | I | even I |
 | asat**i** | **a**sampajañña | asat**ā**sampajañña |
-| unmindful | not aware | not mindful or aware |
+| lack of mindfulness | lack of clear comprehension | lack of mindfulness and clear comprehension |
 | idān**i** | **a**haṃ | idān**ā**haṃ |
 | now | I | now I |
 
@@ -83,7 +83,7 @@ In Kaccāyana this is called (15) **dīghaṃ.**
 | | | |
 | --- | --- | --- |
 | yān**i** | **i**dha | yān**ī**dha |
-| whoever | here | whoever here |
+| whatever | here | whatever here |
 
 **ī![](../../assets/images/pacman-backwards.png)![](../../assets/images/arrow.png)i \> ī**
 

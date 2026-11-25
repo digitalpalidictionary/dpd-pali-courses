@@ -1,6 +1,6 @@
 # Summary of Parassapada & Attanopada Conjugations
 
-from Kaccāyana:
+From Kaccāyana:
 
 423, 426. **Vattamānā** ti anti, si tha, mi ma, te ante, se vhe, e mhe.
 
@@ -24,8 +24,8 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 
 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| | **3 paṭhama** | **2 majjhima** | **1 uttama** | | | |
-| | s | pl | s | pl | s | pl |
+| | **3 paṭhama** | | **2 majjhima** | | **1 uttama** | |
+| | **sg** | **pl** | **sg** | **pl** | **sg** | **pl** |
 | vattamānā | ti | anti | si | tha | mi | ma |
 | pañcamī | tu | antu | hi | tha | mi | ma |
 | sattamī | eyya | eyyuṃ | eyyāsi | eyyātha | eyyāmi | eyyāma |
@@ -39,8 +39,8 @@ Here’s a large table of the full set of parassapada and attanopada verbal endi
 
 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| | **3 paṭhama** | **2 majjhima** | **1 uttama** | | | |
-| | **s** | **pl** | **s** | **pl** | **s** | **pl** |
+| | **3 paṭhama** | | **2 majjhima** | | **1 uttama** | |
+| | **sg** | **pl** | **sg** | **pl** | **sg** | **pl** |
 | **vattamānā** | te | ante / re | se | vhe | e | mhe |
 | **pañcamī** | taṃ | antaṃ | ssu | vho | e | āmase |
 | **sattamī** | etha | eraṃ | etho | eyyāvho | eyyaṃ | eyyāmhe |

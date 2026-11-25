@@ -19,10 +19,10 @@ All counts on this page are from DPD.[^26]
 | --- | --- | --- | --- | --- |
 | √dhan | to be rich | **+ ya** | dhañ**ña** | fortunate, lucky |
 | √div | to shine | **+ ya** | dib**ba** | divine, heavenly |
-| √jan | to be born | **+ ya** | ājañ**ña** | thoroughbred |
+| ā √jan | to be born | **+ ya** | ājañ**ña** | thoroughbred |
 | √kal | to calculate | **+ ya** | kal**la** | proper, valid |
 | √kam | to desire | **+ ya** | kam**ya** | desiring, wishing |
-| √kup | to shake | **+ ya** | akup**pa** | unshakable |
+| na √kup | to shake | **+ ya** | akup**pa** | unshakable |
 | √mā | to measure | **+ ya** | ma**ya** | made of |
 | √tul | to weigh | **+ ya** | tul**ya** | equal, similar |
 
@@ -32,9 +32,9 @@ All counts on this page are from DPD.[^26]
 | --- | --- | --- | --- | --- |
 | √dhan | to be rich | **+ ya** | dhañ**ña** | grain |
 | √mad | to be drunk | **+ ya** | maj**ja** | drug, intoxicant |
-| √puṇ | be skilful, precise | **+ ya** | apuñ**ña** | demerit |
+| na √puṇ | to be skilful, precise | **+ ya** | apuñ**ña** | demerit |
 | √rāj | to rule | **+ ya** | raj**ja** | kingdom |
-| √sīl | to conduct | **+ ya** | dussīl**ya** | bad behaviour |
+| dur √sīl | to conduct | **+ ya** | dussīl**ya** | bad behaviour |
 
 **+ ya masculine nouns**
 
@@ -46,7 +46,7 @@ All counts on this page are from DPD.[^26]
 
 ## \*ana
 
-suffix **\*ana** is used to form a large group of **neuter nouns** and a few **adjectives**
+Suffix **\*ana** is used to form a large group of **neuter nouns** and a few **adjectives**.
 
 | | |
 | --- | --- |
@@ -64,20 +64,20 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | √i | to come | **+ \*ana** | **ayana** | way |
 | √pus | to nourish | **+ \*ana** | p**o**s**ana** | taking care of |
 | √sī | to sleep | **+ \*ana** | s**ayana** | bed, couch |
-| √vis | to enter | **+ \*ana** | niv**e**s**ana** | house, home |
+| ni √vis | to enter | **+ \*ana** | niv**e**s**ana** | house, home |
 
 **+ \*ana adjectives**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| sa √bhuj | to eat, enjoy | + **\*ana** | sabh**o**jan**a** | with food |
-| na √cit | to think | + **\*ana** | ac**e**t**ana** | unconscious |
-| parā √i | to go | + **\*ana** | par**āyana** | destined for |
-| √ju | to be fast | + **\*ana** | j**avana** | speedy, quick |
-| √kudh | to be angry | + **\*ana** | k**o**dh**ana** | angry |
-| √subh | to shine | + **\*ana** | s**o**bh**ana** | radiant, shining |
-| abhi √vah | to carry | + **\*ana** | adhiv**ā**h**ana** | carrying |
-| na ni √vis | to enter | + **\*ana** | aniv**e**s**ana** | without attachment |
+| sa √bhuj | to eat, enjoy | **+ \*ana** | sabh**o**j**ana** | with food |
+| na √cit | to think | **+ \*ana** | ac**e**t**ana** | unconscious |
+| parā √i | to go | **+ \*ana** | par**āyana** | destined for |
+| √ju | to be fast | **+ \*ana** | j**avana** | speedy, quick |
+| √kudh | to be angry | **+ \*ana** | k**o**dh**ana** | angry |
+| √subh | to shine | **+ \*ana** | s**o**bh**ana** | radiant, shining |
+| adhi √vah | to carry | **+ \*ana** | adhiv**ā**h**ana** | carrying |
+| na ni √vis | to enter | **+ \*ana** | aniv**e**s**ana** | without attachment |
 
 ## itar
 
@@ -91,11 +91,11 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √bhās | to speak | **+ itar** | bhās**itar** | speaker |
-| √dā | to sleep | **+ itar** | niddāy**itar** | sleeper |
-| √kam | to go | **+ itar** | upasaṅkam**itar** | visitor, guest |
+| ni √dā | to sleep | **+ itar** | niddāy**itar** | sleeper |
+| upa saṃ √kam | to go | **+ itar** | upasaṅkam**itar** | visitor, guest |
 | √katth | to boast | **+ itar** | katth**itar** | boaster, braggart |
 | √pucch | to ask | **+ itar** | pucch**itar** | questioner, asker |
-| √sar | to remember | **+ itar** | anussar**itar** | memorizer |
+| anu √sar | to remember | **+ itar** | anussar**itar** | memorizer |
 | √sikkh | to learn | **+ itar** | sikkh**itar** | practitioner |
 
 ## u
@@ -114,11 +114,11 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | --- | --- | --- | --- | --- |
 | √bah | to increase | **+ u** | bah**u** | many, lots |
 | √bandh | to bind, tie | **+ u** | bandh**u** | tied to, connected |
-| √bhañj | to break | **+ u** | pabhaṅg**u** | brittle, breakable |
+| pa √bhañj | to break | **+ u** | pabhaṅg**u** | brittle, breakable |
 | √gar | to be heavy | **+ u** | gar**u** | heavy, serious |
-| √hū | to be | **+ u** | pah**u** | able, capable |
+| pa √hū | to be | **+ u** | pah**u** | able, capable |
 | √mud | to be soft | **+ u** | mud**u** | soft, flexible |
-| √path | to go, move | **+ u** | puth**u** | broad, wide, flat |
+| √puth | to expand | **+ u** | puth**u** | broad, wide, flat |
 | √sād | to relish | **+ u** | sād**u** | sweet, delicious |
 | √uj | to be straight | **+ u** | uj**u** | straight, upright |
 
@@ -133,9 +133,9 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √cakkh | to see | **+ u** | cakkhu | eye |
-| √ghaṇḍ | to speak | **+ u** | nighaṇḍu | glossary, dictionary |
-| √sādh | to accomplish | **+ u** | asādhu | badness, evil |
+| √cakkh | to see | **+ u** | cakkh**u** | eye |
+| nir √ganth | to tie | **+ u** | nighaṇḍ**u** | glossary, dictionary |
+| na √sādh | to accomplish | **+ u** | asādh**u** | badness, evil |
 
 ## ma
 
@@ -168,24 +168,24 @@ suffix **\*ana** is used to form a large group of **neuter nouns** and a few **a
 | **fem** | 37 |
 | **total** | **37** |
 
-suffix **ikā** is used to form feminine nouns and feminine agent nouns
+Suffix **ikā** is used to form feminine nouns and feminine agent nouns.
 
 **+ ikā feminine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √jīv | to live | **+ ikā** | jīvikā | livelihood |
-| √makkh | to smear | **+ ikā** | makkhikā | fly (smearer) |
-| √vass | to rain | **+ ikā** | vassikā | jasmine |
-| √khā | to tell | **+ ikā** | akkhāyikā | story, tale |
-| √jambh | to yawn | **+ ikā** | vijambhikā | yawn & stretch |
+| √jīv | to live | **+ ikā** | jīv**ikā** | livelihood |
+| √makkh | to smear | **+ ikā** | makkh**ikā** | fly (smearer) |
+| √vass | to rain | **+ ikā** | vass**ikā** | jasmine |
+| ā √khā | to tell | **+ ikā** | akkhāy**ikā** | story, tale |
+| vi √jambh | to yawn | **+ ikā** | vijambh**ikā** | yawn & stretch |
 
 **+ ikā feminine agent nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ās | to sit | **+ ikā** | upāsikā | female devotee |
-| √dā | to give | **+ ikā** | dāyikā | female giver |
+| upa √ās | to sit | **+ ikā** | upās**ikā** | female devotee |
+| √dā | to give | **+ ikā** | dāy**ikā** | female giver |
 
 ## iya
 
@@ -206,16 +206,16 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √car | to act | **+ iya** | ācar**iya** | teacher |
+| ā √car | to act | **+ iya** | ācar**iya** | teacher |
 
 **+ iya neuter nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √car | to act | **+ iya** | car**iya** | conduct, behaviour |
-| √dhā | to support | **+ iya** | asaddh**iya** | disbelief, lack of faith |
+| na sad √dhā | to support | **+ iya** | asaddh**iya** | disbelief, lack of faith |
 | √jāgar | to be awake | **+ iya** | jāgar**iya** | wakefulness |
-| √kar | to do, make | **+ iya** | akir**iya** | non-doing |
+| na √kar | to do, make | **+ iya** | akir**iya** | non-doing |
 | √vīr | to be heroic | **+ iya** | vīr**iya** | effort, energy, might |
 
 ## āna
@@ -226,7 +226,7 @@ suffix **ikā** is used to form feminine nouns and feminine agent nouns
 | **masc** | 2 |
 | **total** | **32** |
 
-suffix **āna**, as we saw last week, is used to form the **present participle**
+Suffix **āna**, as we saw last week, is used to form the **present participle**.
 
 ## ra
 
@@ -241,7 +241,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √cit | to mark | **+ ra** | vicit**ta** | diverse, varied |
+| vi √cit | to mark | **+ ra** | vicit**ta** | diverse, varied |
 | √dhā | to support | **+ ra** | dhī**ra** | stable, constant |
 | √dhī | to think | **+ ra** | dhī**ra** | wise, intelligent |
 | √dū | to run | **+ ra** | dū**ra** | far away, distant |
@@ -260,7 +260,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | --- | --- | --- | --- | --- |
 | √dhī | to think | **+ ra** | dhī**ra** | wise man, sage |
 | √suc | to be pure | **+ ra** | suk**ka** | planet Venus |
-| √ud | to be wet | **+ ra** | samud**da** | ocean |
+| saṃ √ud | to be wet | **+ ra** | samud**da** | ocean |
 
 ## \*i
 
@@ -276,10 +276,10 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √budh | to wake up | **+ \*i** | b**o**dh**i** | awakening |
-| √ghaṭ | to harm | **+ \*i** | nigh**ā**t**i** | defeat, loss |
-| √ghaṭ | to harm | **+ \*i** | uggh**ā**t**i** | victory |
+| ni √ghaṭ | to harm | **+ \*i** | nigh**ā**t**i** | defeat, loss |
+| ud √ghaṭ | to harm | **+ \*i** | uggh**ā**t**i** | victory |
 | √jut | to shine | **+ \*i** | j**o**t**i** | light |
-| √kuṭ | to be crooked | **+ \*i** | k**o**t**i** | end, point |
+| √kuṭ | to be crooked | **+ \*i** | k**o**ṭ**i** | end, point |
 
 **+ \*i masculine nouns**
 
@@ -300,9 +300,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ar | to move, attain | **+ tha** | at**tha** | meaning |
-| √ar | to move, attain | **+ tha** | at**tha** | benefit |
-| √ar | to move, attain | **+ tha** | at**tha** | goal, purpose |
+| √ar | to move, attain | **+ tha** | at**tha** | meaning; benefit; goal, purpose |
 | √kaṇ | to make sound | **+ tha** | kaṇ**ṭha** | throat, neck |
 | √ram | to delight | **+ tha** | ra**tha** | pleasure, joy |
 
@@ -310,15 +308,15 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ar | to move, attain | **+ tha** | samat**tha** | skilled, able |
-| √tir | to cross | **+ tha** | supatit**tha** | with beautiful banks |
+| saṃ √ar | to move, attain | **+ tha** | samat**tha** | skilled, able |
+| su pa √tir | to cross | **+ tha** | supatit**tha** | with beautiful banks |
 
 **+ tha neuter nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √vas | to wear, dress | **+ tha** | vattha | cloth, robe |
-| √tir | to cross | **+ tha** | tittha | bank; shore |
+| √vas | to wear, dress | **+ tha** | vat**tha** | cloth, robe |
+| √tir | to cross | **+ tha** | tit**tha** | bank; shore |
 
 ## \*aṇa
 
@@ -333,9 +331,9 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √har | to bring | **+ \*aṇa** | āh**ā**r**aṇa** | bringing |
-| √ruh | to climb | **+ \*aṇa** | ār**o**h**aṇa** | climbing |
-| √ruh | to climb | **+ \*aṇa** | or**o**h**aṇa** | descending |
+| ā √har | to bring | **+ \*aṇa** | āh**ā**r**aṇa** | bringing |
+| ā √ruh | to climb | **+ \*aṇa** | ār**o**h**aṇa** | climbing |
+| ava √ruh | to climb | **+ \*aṇa** | or**o**h**aṇa** | descending |
 
 ## as
 
@@ -352,8 +350,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √man | to think | **+ as** | man**as** | mind, intellect |
 | √sah | to overcome | **+ as** | sah**as** | power, might |
 | √sar | to go, flow | **+ as** | sar**as** | water, river, lake |
-| √tap | to burn | **+ as** | tap**as** | religious practice |
-| √tap | to burn | **+ as** | tap**as** | self-mortification |
+| √tap | to burn | **+ as** | tap**as** | religious practice; self-mortification |
 | √vā | to blow | **+ as** | vāy**as** | wind, air |
 | √vac | to say, speak | **+ as** | vac**as** | word, statement |
 
@@ -372,7 +369,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | --- | --- | --- | --- | --- |
 | √ñā | to know | **+ ū** | ñ**ū** | who knows, knower |
 | √vid | to know | **+ ū** | vid**ū** | who knows, wise man |
-| √ñā | to know | **+ ū** | viññ**ū** | who knows, sage |
+| vi √ñā | to know | **+ ū** | viññ**ū** | who knows, sage |
 
 ## ika
 
@@ -386,15 +383,15 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √rādh | to succeed | **+ ika** | ārādhika | successful |
-| √bādh | to oppress | **+ ika** | ubbādhika | annoying |
+| ā √rādh | to succeed | **+ ika** | ārādh**ika** | successful |
+| ud √bādh | to oppress | **+ ika** | ubbādh**ika** | annoying |
 
 **+ ika masculine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √kath | to speak | **+ ika** | kathika | story teller |
-| √phal | to split | **+ ika** | phalika | crystal, quartz |
+| √kath | to speak | **+ ika** | kath**ika** | story teller |
+| √phal | to split | **+ ika** | phal**ika** | crystal, quartz |
 
 ## \*ā
 
@@ -403,14 +400,14 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | **fem** | 15 |
 | **total** | **15** |
 
-**\*ā feminine nouns**
+**+ \*ā feminine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √likh | to scratch | **+ \*ā** | l**e**kh**ā** | writing |
 | √vac | to speak | **+ \*ā** | v**ā**c**ā** | speech |
 | √mitt | to be friendly | **+ \*ā** | m**e**tt**ā** | lit. friendliness |
-| √his | to hurt, harm | **+ \*ā** | vih**e**s**ā** | irritation |
+| vi √his | to hurt, harm | **+ \*ā** | vih**e**s**ā** | irritation |
 
 ## \*ikā
 
@@ -423,15 +420,15 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √mus | to steal | + \*ikā | m**ū**sikā | rat; mouse |
-| √cur | to steal | + \*ikā | c**o**rikā | theft |
+| √mus | to steal | **+ \*ikā** | m**ū**s**ikā** | rat; mouse |
+| √cur | to steal | **+ \*ikā** | c**o**r**ikā** | theft |
 
 **+ \*ikā feminine agent nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √nī | to lead | **+ \*ikā** | n**āy**ikā | mistress |
-| √car | to walk | **+ \*ikā** | paric**ā**rikā | female attendant |
+| √nī | to lead | **+ \*ikā** | n**āyikā** | mistress |
+| pari √car | to walk | **+ \*ikā** | paric**ā**r**ikā** | female attendant |
 
 ## \*anā
 
@@ -449,7 +446,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | √rus | to anger | **+ \*anā** | r**o**s**anā** | making angry |
 | √suc | to grieve | **+ \*anā** | s**o**c**anā** | sorrow |
 | √vid | to sense | **+ \*anā** | v**e**d**anā** | feeling |
-| √vis | to enter | **+ \*anā** | niv**e**s**anā** | attachment |
+| ni √vis | to enter | **+ \*anā** | niv**e**s**anā** | attachment |
 
 ## ara
 
@@ -465,13 +462,13 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | | | | | |
 | --- | --- | --- | --- | --- |
 | √bham | to buzz | **+ ara** | bham**ara** | bee, bumblebee |
-| √kur | to sound | **+ ara** | kurara | eagle |
+| √kur | to sound | **+ ara** | kur**ara** | eagle |
 
 **+ ara adjectives**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √bhās | to shine | **+ ara** | pabhassara | bright, brilliant |
+| pa √bhās | to shine | **+ ara** | pabhass**ara** | bright, brilliant |
 | √ṭhā | to stand | **+ ara** | thāv**ara** | stationary |
 
 ## yā
@@ -481,13 +478,13 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | **fem** | 13 |
 | **total** | **13** |
 
-**yā feminine nouns**
+**+ yā feminine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √vid | to know | + yā | vij**jā** | knowledge |
-| √kan | to shine | + yā | kañ**ñā** | young girl |
-| √yuj | to yoke | + yā | yog**gā** | training |
+| √vid | to know | **+ yā** | vij**jā** | knowledge |
+| √kan | to shine | **+ yā** | kañ**ñā** | young girl |
+| √yuj | to yoke | **+ yā** | yog**gā** | training |
 
 ## ala
 
@@ -498,7 +495,7 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | **nt** | 3 |
 | **total** | **11** |
 
-**+ ala neuter nouns and adjectives**
+**+ ala masculine nouns and adjectives**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -519,8 +516,8 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √dar | to split | + \*u | d**ā**r**u** | m | wood, timber |
-| √phus | to touch | + \*u | ph**ā**s**u** | adj | comfortable |
+| √dar | to split | **+ \*u** | d**ā**r**u** | m | wood, timber |
+| √phus | to touch | **+ \*u** | ph**ā**s**u** | adj | comfortable |
 
 ## tāvī
 
@@ -529,15 +526,15 @@ suffix **āna**, as we saw last week, is used to form the **present participle**
 | **adj** | 11 |
 | **total** | **11** |
 
-suffix **tāvī** is used to form **active past participles**
+Suffix **tāvī** is used to form **active past participles**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ñā | to know | **+ tāvī** | aññā**tāvī** | has understood |
+| ā √ñā | to know | **+ tāvī** | aññā**tāvī** | has understood |
 | √dis | to see | **+ tāvī** | dass**āvī** | has seen |
 | √bhuj | to eat | **+ tāvī** | bhut**tāvī** | has eaten |
-| √ji | to conquer | **+ tāvī** | viji**tāvī** | has conquered |
-| √i | to come | **+ tāvī** | abhisame**tāvī** | has realised |
+| vi √ji | to conquer | **+ tāvī** | viji**tāvī** | has conquered |
+| abhi saṃ √i | to come | **+ tāvī** | abhisame**tāvī** | has realised |
 
 ## tta
 
@@ -552,15 +549,15 @@ suffix **tāvī** is used to form **active past participles**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √hu | to offer | **+ tta** | hutta | sacrifice, offering |
-| √ñā | to know | **+ tta** | ñatta | knowledge, learning |
+| √hu | to offer | **+ tta** | hu**tta** | sacrifice, offering |
+| √ñā | to know | **+ tta** | ña**tta** | knowledge, learning |
 
 **+ tta masculine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √as | to be | **+ tta** | satta | being |
-| √mā | to measure | **+ tta** | nimitta | mark; sign |
+| √as | to be | **+ tta** | sa**tta** | being |
+| ni √mā | to measure | **+ tta** | nimi**tta** | mark; sign |
 
 ## \*tta
 
@@ -575,8 +572,8 @@ suffix **tāvī** is used to form **active past participles**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √khi | to live | + \***tta** | kh**etta** | field |
-| √yu | to unite | + \***tta** | y**otta** | rope; cord |
+| √khi | to live | **+ \*tta** | kh**etta** | field |
+| √yu | to unite | **+ \*tta** | y**otta** | rope; cord |
 
 ## tī
 
@@ -586,13 +583,13 @@ suffix **tāvī** is used to form **active past participles**
 | **adj** | 1 |
 | **total** | **8** |
 
-**tī feminine nouns**
+**+ tī feminine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ram | to delight | + **tī** | ara**tī** | dissatisfaction |
-| √sah | to overcome | + **tī** | uss**oḷhī** | exertion; activity |
-| √tus | to be content | + **tī** | tuṭ**ṭhī** | contentment |
+| na √ram | to delight | **+ tī** | ara**tī** | dissatisfaction |
+| ud √sah | to overcome | **+ tī** | uss**oḷhī** | exertion; activity |
+| √tus | to be content | **+ tī** | tuṭ**ṭhī** | contentment |
 
 ## \*ta
 
@@ -602,9 +599,9 @@ suffix **tāvī** is used to form **active past participles**
 | **nt** | 1 |
 | **total** | **6** |
 
-**\*ta masc nouns**
+**+ \*ta masculine nouns**
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √pus | to nourish | **+ \*ta** | p**o**ta | young animal |
-| √kus | to fill, enfold | **+ \*ta** | k**o**ṭṭha | abdomen |
+| √pus | to nourish | **+ \*ta** | p**o**t**a** | young animal |
+| √kus | to fill, enfold | **+ \*ta** | k**o**ṭ**ṭha** | abdomen |

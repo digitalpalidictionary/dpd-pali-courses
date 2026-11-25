@@ -4,7 +4,7 @@
 
 **kāmesumicchācārā** paṭivirato hoti
 
-— [AN3.80](https://s.dhamma.gift/an/an3/index.html#an3.79)
+— [AN3.79](https://s.dhamma.gift/an/an3/index.html#an3.79)
 
 **brāhmaṇagahapatikānampi** tasmiṃ samaye na phāsu hoti
 

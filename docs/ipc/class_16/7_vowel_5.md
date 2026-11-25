@@ -24,14 +24,14 @@ and the next word starts with **i**,
 
 together they become **e**
 
-In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
+In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ lutte.**
 
 **a![](../../assets/images/arrow.png)i \> e**
 
 | | | |
 | --- | --- | --- |
 | up**a** | **i**kkhati | up**e**kkhati |
-| towards, over | looks | looks over |
+| towards, over | looks | looks on |
 | aññass**a** | **i**va | aññass**e**va |
 | of another | like | like of another (person) |
 
@@ -67,7 +67,7 @@ In Kaccāyana this is called (14) **kvac’āsavaṇṇaṃ** **lutte**.
 | udak**a** | **ū**mi | udak**o**mi[^1] |
 | water | wave | wave of water |
 
-[^1]: not textual example
+[^1]: Not a textual example
 
 **i![](../../assets/images/arrow.png)u \> o**
 

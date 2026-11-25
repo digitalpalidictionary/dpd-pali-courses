@@ -8,7 +8,7 @@
 
 ## How to do the Homeless work
 
-1\. Find the suttas in DPR and use the translations available there to help you also use Buddha’s Words or SuttaCentral
+1\. Find the suttas in DPR and use the translations available there to help you. Also use Buddha’s Words or SuttaCentral
 
 2\. Do a full grammatical analysis, breaking up all sandhis. Please translate every sentence. For example:
 

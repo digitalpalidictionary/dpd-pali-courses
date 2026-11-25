@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | √bandh | to tie | anubandhati | follows |
 | √bhū | to be | anubhoti | experiences |
-| √bruh | to increase | anubrūhayati | nurtures, develops |
+| √brūh | to increase | anubrūhayati | nurtures, develops |
 | √dhāv | to run | anudhāvati | runs along |
 | √ñā | to know | anujānāti | agrees, permits |
 | √kar | to do | anukaroti | imitates, follows the example |

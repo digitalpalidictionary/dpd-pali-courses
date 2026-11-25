@@ -1,10 +1,10 @@
 # Pāli Alphabet Analysis
 
-In order to understand some of the lessons that follow, you need to understand the Pāli Alphabet in a bit more detail. So each week there will be given a little more information.
+In order to understand some of the lessons that follow, you need to understand the Pāli Alphabet in a bit more detail. A little more information will be given each week.
 
-Please learn the alphabetical-order, it will help you enormously with many of the lessons that follow. You can only understand some of the lessons that follow if you know the layout of the alphabet very well.
+Please learn the alphabetical order; it will help you enormously with many of the lessons that follow. You can only understand some of the lessons that follow if you know the layout of the alphabet very well.
 
-Just to refresh your memory, there are 41 letters
+Just to refresh your memory, there are 41 letters:
 
 **8 Vowels (sara)**
 
@@ -46,7 +46,7 @@ They are also grouped according to whether each letter is
 
 2\. aspirated or unaspirated.
 
-| Unvoiced / (*aghosa*) | Voiced / (*ghosavant*) | | | |
+| Unvoiced / (*aghosa*) | | Voiced / (*ghosavant*) | | |
 | --- | --- | --- | --- | --- |
 | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Nasals[^3] / (*nāsika*) |
 | **k** | **kh** | **g** | **gh** | **ṅ** |
@@ -59,7 +59,7 @@ They are also grouped according to whether each letter is
 
 In the end, we can combine the consonants into a complex table like this, which you should learn and understand.
 
-| | Unvoiced / (*aghosa*) | Voiced / (*ghosavant*) | | | |
+| | Unvoiced / (*aghosa*) | | Voiced / (*ghosavant*) | | |
 | --- | --- | --- | --- | --- | --- |
 | | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Unaspirates / (*sithila*) | Aspirates / (*dhanita*) | Nasals / (*nāsika*) |
 | Guttural / (*kaṇṭhaja*) | **k** | **kh** | **g** | **gh** | **ṅ** |
@@ -70,6 +70,6 @@ In the end, we can combine the consonants into a complex table like this, which 
 
 You should know things like:
 
-1\. what is the un-aspirate of the letter kh?
+1\. what is the unaspirate of the letter kh?
 
 2\. what is the nasal of the cavagga (Palatals)?

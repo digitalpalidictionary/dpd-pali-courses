@@ -1,6 +1,6 @@
 # Kicca
 
-You are already familiar with all these suffixes used to form **potential participles.**
+You are already familiar with all these suffixes used to form **potential participles**.
 
 Please note in many of the examples that follow
 
@@ -15,7 +15,7 @@ but the same applies to **prefix** + **root** or **base** + **suffix**
 | | | | |
 | --- | --- | --- | --- |
 | √dā | + tabba | dā**tabba** | to be given |
-| √gam | + tabba | ga**ntabba** | to be followed |
+| √gam | + tabba | ga**ntabba** | to be gone |
 | √hā | + tabba | hā**tabba** | to be abandoned |
 | √han | + tabba | han**tabba** | to be killed |
 | √kar | + tabba | ka**ttabba** | to be done |
@@ -34,7 +34,7 @@ but the same applies to **prefix** + **root** or **base** + **suffix**
 | √dhar | \*e | dh**ā**re | + tabba | dhāre**tabba** | to be worn |
 | √gah | ṇhā | gahe | + tabba | gahe**tabba** | to be held |
 
-what do you notice about all these words?
+What do you notice about all these words?
 
 ## itabba (ptp)
 
@@ -63,14 +63,14 @@ what do you notice about all these words?
 | √hā | a | jahā | + itabba | jah**itabba** | to be left |
 | √bhuj | ṃa | bhu**ñ**ja | + itabba | bhuñj**itabba** | to be eaten |
 
-what do you notice about these words?
+What do you notice about these words?
 
 ## \*anīya (ptp) \~17
 
 | | | | |
 | --- | --- | --- | --- |
-| √dis | + \*anīya | pāṭides**anīya** | to cause to be pointed out |
-| √muh | + \*anīya | moh**anīya** | to be deluded |
+| pati + √dis | + \*anīya | pāṭides**anīya** | to be acknowledged |
+| √muh | + \*anīya | moh**anīya** | able to cause delusion |
 | √vid | + \*anīya | ved**anīya** | to be felt |
 
 ## anīya (ptp) \~73
@@ -87,14 +87,14 @@ what do you notice about these words?
 | | | | |
 | --- | --- | --- | --- |
 | √vid | + \*aniya | ved**aniya** | to be felt |
-| √ghaṭ | + \*aniya | saṅghāt**aniya** | to be joined together |
+| saṃ + √ghaṭ | + \*aniya | saṅghāt**aniya** | to be joined together |
 | √bhaj | + \*aniya | bhāj**aniya** | to be divided |
 
 ## aniya (ptp) \~25
 
 | | | | |
 | --- | --- | --- | --- |
-| √ādā | + aniya | upād**āniya** | to be grasped |
+| upa + √ādā | + aniya | upād**āniya** | to be grasped |
 | √pūj | + aniya | pūj**aniya** | to be honoured |
 | √ṭhā | + aniya | ṭh**āniya** | to be stood |
 
@@ -105,31 +105,31 @@ what do you notice about these words?
 | √kar | + aṇīya | kar**aṇīya** | to be done |
 | √ram | + aṇīya | ram**aṇīya** | to be enjoyed |
 | √tar | + aṇīya | tar**aṇīya** | to be crossed |
-| √raj | + aṇīya | sār**aṇīya** | to be desired |
+| saṃ + √raj | + aṇīya | sār**aṇīya** | to be desired |
 
 ## aṇiya (ptp) \~2
 
 | | | | |
 | --- | --- | --- | --- |
 | √mar | + aṇiya | mār**aṇiya** | to be killed |
-| √sar | + aṇiya | nissar**aṇiya** | to be escaped |
+| nī + √sar | + aṇiya | nissar**aṇiya** | to be escaped |
 
-please note the small spelling differences that are present in the canon
+Please note the small spelling differences that are present in the canon
 
 ## \*ya (ptp)
 
 | | | | |
 | --- | --- | --- | --- |
-| √bhu | + \*ya | bh**abba** | to be able, capable |
+| √bhū | + \*ya | bh**abba** | to be able, capable |
 | √bhuj | + \*ya | bh**ogga** | to be used, useable |
 | √dam | + \*ya | da**mma** | to be tamed, tamable |
 | √garah | + \*ya | g**ā**ra**yha** | to be blamed |
 | √ghaṭ | + \*ya | gha**cca** | to be destroyed |
 | √has | + \*ya | ha**ssa** | to be laughed at |
 | √kath | + \*ya | ka**ccha** | to be talked to |
-| √khād | + \*ya | kha**jjaṃ** | to be chewed, eaten |
+| √khād | + \*ya | kha**jja** | to be chewed, eaten |
 | √kup | + \*ya | ku**ppa** | to be shaken |
-| √labh | + \*ya | la**ddha** | to be obtained |
+| √labh | + \*ya | la**bbha** | to be obtained |
 | √pūj | + \*ya | pu**jja** | to be praised |
 | √vadh | + \*ya | va**jjha** | to be slaughtered |
 
@@ -140,20 +140,20 @@ please note the small spelling differences that are present in the canon
 | √kamp | + \*iya | kamp**iya** | to be shaken |
 | √chaḍḍ | + \*iya | chaḍḍ**iya** | to be thrown away |
 | √nind | + \*iya | nind**iya** | to be blamed |
-| √saṃk | + \*iya | saṅk**iya** | to be suspected |
+| √saṅk | + \*iya | saṅk**iya** | to be suspected |
 | √kar | + \*iya | k**ā**r**iya** | to be done |
 | √pis | + \*iya | p**e**s**iya** | to be sent |
 
 ## eyya (ptp)
 
-after roots ending in vowels, \***ya** becomes **eyya**
+After roots ending in vowels, \***ya** becomes **eyya**
 
 | | | | |
 | --- | --- | --- | --- |
 | √dā | + eyya | d**eyya** | to be offered |
-| √hu | + eyya | āhun**eyya** | to be offered to |
-| √khā | + eyya | akkh**eyya** | to be said |
-| √ñā | + eyya | viññ**eyya** | to be understood |
+| ā + √hu | + eyya | āhun**eyya** | to be offered to |
+| ā + √khā | + eyya | akkh**eyya** | to be said |
+| vi + √ñā | + eyya | viññ**eyya** | to be understood |
 | √ñā | + eyya | ñ**eyya** | to be known |
 | √nī | + eyya | n**eyya** | to be led, guided |
 | √pā | + eyya | p**eyya** | to be drunk |
@@ -164,7 +164,7 @@ after roots ending in vowels, \***ya** becomes **eyya**
 | --- | --- | --- | --- |
 | √bhar | + tya | bha**cca** | to be supported |
 | √kar | + tya | k**icca** | to be done |
-| √mar | + tya | ma**cca** | to be dead |
+| √mar | + tya | ma**cca** | mortal |
 
 ## irreg (ptp)
 

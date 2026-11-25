@@ -14,7 +14,7 @@ There are two kinds of numerical compounds
 
 (collective numerical compounds)
 
-taken **collectively** or as group and occur in **neuter** **singular**
+taken **collectively** or as a group and occur in **neuter** **singular**
 
 ekabhattaṃ (one meal)
 

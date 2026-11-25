@@ -6,7 +6,7 @@ Kaccāyana 416. anumati-parikapp’atthesu sattamī.
 
 Please conjugate the word **gacchati** in the optative active voice.
 
-Let’s look at the optative in the reflexive **voice and passive voice.**
+Let’s look at the optative in the **reflexive voice** and **passive voice**.
 
 (Theory) How is the reflexive formed? How is the passive formed?
 
@@ -15,7 +15,7 @@ Let’s look at the optative in the reflexive **voice and passive voice.**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | dam**etha** | *dameraṃ*[^11] |
 | 2 majjhima | dam**etho** | *dameyyāvho* |
 | 1 uttama | dam**eyyaṃ** | *dameyyāmhe* / *damemase* |
@@ -27,7 +27,7 @@ Let’s look at the optative in the reflexive **voice and passive voice.**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | nīy**etha** | *nīyeraṃ* |
 | 2 majjhima | nīy**etho** | *nīyeyyāvho* |
 | 1 uttama | nīy**eyyaṃ** | *nīyeyyāmhe* / *nīyemase* |

@@ -2,7 +2,7 @@
 
 ## Possibility \#8
 
-The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v.**
+The consonants **y v m d n t r ḷ h** may be inserted between two vowels. The most frequently used are **d r m y v**.
 
 n**a**![](../../assets/images/arrow.png)**i**massa \> na**y**imassa
 
@@ -12,7 +12,7 @@ This means:
 
 **y** may be inserted between two vowels
 
-In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
+In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā.**
 
 **y (common)**
 
@@ -29,7 +29,7 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 | | | |
 | --- | --- | --- |
-| s**u** | **a**tthi | s**uva**tthi |
+| s**u** | **a**tthi | su**v**atthi |
 | (well) | there is | well-being |
 | kālass’ev**a** | **u**ṭṭhahanto | kālass’ev**a v**uṭṭhahanto |
 | early morning | rising | rising early |
@@ -42,9 +42,9 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 | --- | --- | --- |
 | idh**a** | **ā**hu | idha**m**āhu |
 | here | they say | here they say |
-| c**a** | **a**vajānāti | ca **m**avajānāti, |
+| c**a** | **a**vajānāti | ca **m**avajānāti |
 | and | despises | and despises |
-| saññ**ī** | **e**va | saññ**īme**va |
+| saññ**ī** | **e**va | saññī**m**eva |
 | conscious | just | even conscious |
 
 **d (common)**
@@ -109,4 +109,4 @@ In Kaccāyana this is called (35) **ya va ma da na ta ra lā c’āgamā**.
 
 **what is Possibility \#8 ?**
 
-The consonants **y v m d n t r l** may be inserted between two vowels. The most frequently used are **d r m y v**.
+The consonants **y v m d n t r ḷ h** may be inserted between two vowels. The most frequently used are **d r m y v**.

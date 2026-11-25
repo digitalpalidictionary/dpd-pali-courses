@@ -4,7 +4,7 @@ What are the 8 root groups?
 
 What are their conjugational signs?
 
-## 1. bhuvādigaṇa (-a-)
+## 1. bhūvādigaṇa (-a-)
 
 What are the **four** different kinds of Group 1 bhūvādigaṇa roots?
 
@@ -53,7 +53,7 @@ These roots **end in a vowel** and the verbal terminations are added directly to
 
 **Group 1.3**
 
-These roots **end in i ī u ū** and, when they take the conjugational sign **-a-**, they are transformed to **ay** and **av** according to **vuddhi**.
+These roots **end in i ī u ū** and, when they take the conjugational sign **-a-**, they are transformed to **ay** and **av** according to **guṇa**.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ These roots undergo reduplication to form the base.
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| √ṭhā | a | ṭhā + ṭhā \> tiṭṭhā | tiṭṭhāti | stands |
+| √ṭhā | a | ṭhā + ṭhā \> tiṭṭha | tiṭṭhati | stands |
 | √dā | a | dā + dā \> dadā | dadāti | gives |
 | √hā | a | hā + hā \> jahā | jahāti | abandons |
 | √hu | a | hu + hu \> juha | juhati | offers oblation |
@@ -126,7 +126,7 @@ As you can see, these are quite rare.
 | --- | --- | --- | --- | --- |
 | √ñā | nā | jānā | jānāti | knows |
 | √ci | nā | cinā | vicināti | examines |
-| √mun | nā | munā | munāti | knows, think |
+| √mun | nā | munā | munāti | knows, thinks |
 | √ji | nā | jinā | jināti | conquers |
 | √dhū | nā | dhunā | dhunāti | shakes, tosses |
 | √pu | nā | punā | punāti | cleans, sifts |
@@ -141,9 +141,9 @@ As you can see, these are quite rare.
 | √tas | ṇhā | (taṇhā) | (taṇhāti) | thirsts |
 | √us | ṇhā | (uṇhā) | (uṇhāti) | heats |
 
-## 7. tanādigaṇa (-o- *-yira[^15]-*)
+## 7. tanādigaṇa (-o- *-yira-*)[^15]
 
-[^15]: It's in the traditional grammar books, but it's actually a more passive form.
+[^15]: It’s in the traditional grammar books, but it’s actually a more passive form.
 
 | | | | | |
 | --- | --- | --- | --- | --- |

@@ -8,7 +8,7 @@ and the following **consonant** **reduplicated**.
 
 **ā** + **kh**āta \> **akkh**āta
 
-In Kaccāyana this is called (28) **para-dvebhāvo ṭhāne**
+In Kaccāyana this is called (28) **para dvebhāvo ṭhāne**
 
 and (26) **rassaṃ**.
 
@@ -26,7 +26,7 @@ and (26) **rassaṃ**.
 | **ā** | **l**īyati | **all**īyati | pr. sticks, clings |
 | **ā** | **s**asati | **ass**asati | pr. inhales, breathes in |
 
-Counter-examples:
+**Counter-examples:**
 
 avijj**ā** + **kh**andha \> avijj**ākkh**andha
 

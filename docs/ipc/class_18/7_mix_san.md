@@ -12,12 +12,12 @@
 | **pi \> py \> pp** | a**pi** ekadā | a**pp**ekadā |
 | **ri \> li \> ly \> ll** | pa**ri** aṅka | pa**ll**aṅka |
 | **ri \> li \> ly \> ll** | vi pa**ri** √as | vipa**ll**āsa |
-| **ti \> ty \> cc** | a**ti** **e**ti | a**cc**eti |
-| **ti \> ty \> cc** | a**ti** **u**ṇha | a**cc**uṇha |
+| **ti \> ty \> cc** | a**ti** eti | a**cc**eti |
+| **ti \> ty \> cc** | a**ti** uṇha | a**cc**uṇha |
 
 **Examples of -a- augment coming in-between prefixes and the root.**
 
-| **Pāli1** | **Construction** | **Meaning** |
+| **Pāli** | **Construction** | **Meaning** |
 | --- | --- | --- |
 | abbhaññāsi | abhi + a + √ñā + si | directly knew |
 | accaruci | ati + a + √ruc + i | outshone |
@@ -34,4 +34,4 @@
 | paccassosi | pati + a + so + si | replied |
 | pātvākāsi | pātu + a + kā + si | displayed |
 | udabbadhi | ud + a + √vadh \> badh + i | destroyed |
-| udabbahi | ud + a + √vah + i | pulled out |
+| udabbahi | ud + a + √vah \> bah + i | pulled out |

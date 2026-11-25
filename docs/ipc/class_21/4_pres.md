@@ -4,28 +4,28 @@ Kaccāyana 414. vattamānā paccuppanne.
 
 “present tense when present-time”
 
-Please conjugate the word **gacchati** in the present tense active voice (*parassapada)*.
+Please conjugate the word **gacchati** in the present tense active voice (*parassapada*).
 
-Let’s look at the present tense **reflexive** **voice** (*attanopada)* and **passive voice**.
+Let’s look at the present tense **reflexive** **voice** (*attanopada*) and **passive voice**.
 
 (Theory) How is the reflexive formed? How is the passive formed?
 
 **Present Tense Attanopada “kills by oneself”**
-**√han + a \> hana**
+**(√han + a \> hana)**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
-| 3 paṭhama | hana**te** | hanan**te** / hana**re** |
+| | **sg** | **pl** |
+| 3 paṭhama | hana**te** | hana**nte** / hana**re** |
 | 2 majjhima | hana**se** | hana**vhe** |
 | 1 uttama | han**e** | han**āmhe** |
 
 **Present Tense Passive Attanopada √han “is killed (by oneself)[^10]”**
-**√han + ya \> hañña**
+**(√han + ya \> hañña)**
 
 | | | |
 | --- | --- | --- |
-| | **s** | **pl** |
+| | **sg** | **pl** |
 | 3 paṭhama | hañña**te** | hañña**nte** / hañña**re** |
 | 2 majjhima | hañña**se** | hañña**vhe** |
 | 1 uttama | haññ**e** | haññ**āmhe** |

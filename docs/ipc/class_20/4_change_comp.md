@@ -1,4 +1,4 @@
-# Changes Of Certain Words In Compounds
+# Changes of Certain Words in Compounds
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -7,8 +7,8 @@
 | aṅguli | finger | aṅgula | caturaṅgula | four fingers |
 | attā | self | atta | pahitatto | resolute; lit. applied self |
 | bhūmi | ground | bhūma | bhūmaṭṭha | standing on the ground |
-| go | cow, cattle | gu | *pañcagu[^9]* | five cows |
-| go | cow, cattle | gavo | jaraggavo | old bull |
+| go | cow, cattle | gu | *pañcagu*[^9] | five cows |
+| go | cow, cattle | gava | jaraggava | old bull |
 | jāyā | wife | jayaṃ | jayampatikā | wife & husband |
 | jāyā | wife | jāni | jānipatī | wife & husband |
 | mahanta | great | mahā | mahāsamudda | great sea |
@@ -18,6 +18,6 @@
 | ratti | night | ratta | dīgharattaṃ | long time |
 | saha | with | sa- | sadevako | with gods |
 | saka | one’s own | sa | samātar | own mother |
-| saka | one’s own | saya | sayasaṃvuta | enclosed in one’s own opinion; lit. wrapped in one's own |
+| saka | one’s own | saya | sayasaṃvuta | enclosed in one’s own opinion; lit. wrapped in one’s own |
 
 [^9]: Not a textual example

@@ -6,19 +6,19 @@
 
 preposition or indeclinable particle in front (is an) indeclinable-nature (compound)
 
-1.  the first member of these compounds is an **adverb** or **preposition** or other **indeclinable particle**.
+1.  The first member of these compounds is an **adverb** or **preposition** or other **indeclinable particle**.
 
 e.g. **yāva**. ind, prep. as long as, as far as
 
-2.  the second member is generally a **noun** or **adjective**
+2.  The second member is generally a **noun** or **adjective**
 
 e.g. **jīva**. m. life
 
-3.  The resulting compound is most commonly an **adverb ending in an accusative case.**
+3.  The resulting compound is most commonly an **adverb with an accusative ending**.
 
-e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
+e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for the whole of life
 
-**yāvajīvaṃ \> yāva + jīva + aṃ**
+**yāvajīvaṃ \< yāva + jīva + aṃ**
 
 ## Some abyayībhāva compounds
 
@@ -26,7 +26,7 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 | --- | --- | --- | --- | --- | --- | --- |
 | **anu** | following | **vassa** | year | **anuvassaṃ** | adv | annually, yearly |
 | **pacchā** | after | **bhatta** | meal | **pacchābhattaṃ** | adv | after the meal |
-| **tato** | from | **nidāna** | source | **tatonidānaṃ** | adv | on account of that |
+| **tato** | from that | **nidāna** | source | **tatonidānaṃ** | adv | on account of that |
 | **tiro** | across | **pākāra** | rampart | **tiropākāraṃ** | adv | through a rampart |
 | **tiro** | across | **pabbata** | mountain | **tiropabbataṃ** | adv | through a mountain |
 | **yathā** | like, as | **bala** | power | **yathābalaṃ** | adv | according to one’s strength |
@@ -39,12 +39,12 @@ e.g. **yāvajīvaṃ**. ind, adv. as long as life lasts, for whole life
 
 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |
-| **pura** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^7] | before dawn |
+| **purā** | before | **aruṇā** | from dawn | **purāruṇā** | adv[^7] | before dawn |
 | **ajja** | today | **aṇho** | day | **ajjaṇho** | adv | this day |
 | **anu** | following | **pubbena** | with previous | **anupubbena** | adv | gradually |
 | **antarā** | between | **magge** | on road | **antarāmagge** | adv | along the road, / on the way |
 
-[^7]: some grammatical books take them just as adjectives used adverbially in context
+[^7]: Some grammar books take them just as adjectives used adverbially in context.
 
 ## Some prefixes and indeclinables used in abyayībhāva compounds
 

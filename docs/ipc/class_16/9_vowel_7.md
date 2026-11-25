@@ -23,7 +23,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | k**o** | **a**ttho | k**va**ttho |
 | what | meaning | what is the meaning? |
 | s**o** | **a**haṃ | s**va**haṃ |
-| then | I | so I |
+| that | I | that I |
 
 **o![](../../assets/images/arrow.png)a \> vā**
 
@@ -61,7 +61,7 @@ In Kaccāyana this is called (18) **vam’od’ud’antānaṃ.**
 | | | |
 | --- | --- | --- |
 | madh**u** | **ā**sava | madh**vā**sava |
-| honey | extract | honey liquor |
+| honey | liquor | honey liquor |
 | s**u** | **ā**gata | s**vā**gata |
 | (well) | arrived | mastered |
 | bah**u** | **ā**bādho | bah**vā**bādho |

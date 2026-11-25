@@ -2,14 +2,14 @@
 
 All the nouns we looked at in the Beginner Pāli Course had regular and predictable declensions. We will now start looking at nouns that have unusual or irregular declensions. These are often influenced by the old Sanskrit declensions.
 
-Today we will look at **manas**, **go, atta** and **rāja**
+Today we will look at **manas**, **go**, **atta** and **rāja**.
 
 **Declension of manas (mano) (masc & nt[^6])**
 
 | | | |
 | --- | --- | --- |
 | 1.nom | man**o** | man**ā** |
-| 2.acc | man**aṃ** / **mano** | man**e** |
+| 2.acc | man**aṃ** / man**o** | man**e** |
 | 3.inst | man**asā** / man**ena** | man**ehi** |
 | 4.dat | man**aso** / man**assa** | man**ānaṃ** |
 | 5.abl | man**asā** / man**ā** / man**amhā** / man**asmā** | man**ehi** |
@@ -17,7 +17,7 @@ Today we will look at **manas**, **go, atta** and **rāja**
 | 7.loc | man**asi** / man**e** / man**amhi** / man**asmiṃ** | man**esu** |
 | 8.voc | man**a** / man**ā** | man**ā** |
 
-[^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho'ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
+[^6]: mano-group nouns, while neuter in Sanskrit, are considered to be masculine by classical Pāḷi grammars such as Saddanīti. The example given is mano anicco, mano dukkho’ti. Counter-examples are amoghaṃ tapo and paramaṃ tapo.
 
 Similarly
 
@@ -99,12 +99,8 @@ similarly: asma, puma, bhasma, muddha, yuva, sakha etc.
 | 3.inst | ra**ññā** / rāj**ena** | rāj**ūhi** / rāj**ehi** |
 | 4.dat | ra**ñño** / rāj**ino** | ra**ññaṃ** / rāj**ānaṃ** / rāj**ūnaṃ** |
 | 5.abl | ra**ññā** / rāj**amhā** / rāj**asmā** | rāj**ūhi** / rāj**ehi** |
-| 6.gen | ra**ñño** / rāj**ino** | ra**ññaṃ** / rāj**ūnaṃ** / rāj**ānaṃ** |
+| 6.gen | ra**ñño** / rāj**ino** | ra**ññaṃ** / rāj**ānaṃ** / rāj**ūnaṃ** |
 | 7.loc | rāj**ini** / ra**ññe** / rāj**amhi** / rāj**asmiṃ** | rāj**ūsu** / rāj**esu** |
 | 8.voc | rāj**a** / rāj**ā** | rāj**āno** |
 
-**In summary:** for the **mano-group**, learn to recognize the compound form in **-o**
-(manokamma), and the endings **-asā** (inst/abl), **-aso** (dat/gen) and **-asi** (loc).
-For **go**: gāvo, gavaṃ, gunnaṃ. For **atta**: attā, attānaṃ, attanā, attano, attani.
-For **rāja**: rājā, rājānaṃ, raññā, rañño, raññe, rājūnaṃ. The remaining forms are rare —
-recognize them from context.
+**In summary:** for the **mano-group**, learn to recognize the compound form in **-o** (manokamma), and the endings **-asā** (inst/abl), **-aso** (dat/gen) and **-asi** (loc). For **go**: gāvo, gavaṃ, gunnaṃ. For **atta**: attā, attānaṃ, attanā, attano, attani. For **rāja**: rājā, rājānaṃ, raññā, rañño, raññe, rājūnaṃ. The remaining forms are rare — recognize them from context.

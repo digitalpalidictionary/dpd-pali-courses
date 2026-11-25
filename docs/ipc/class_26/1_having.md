@@ -38,7 +38,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | agāra | + ī | agār**ī** | householder |
 | anuyoga | + ī | anuyog**ī** | practitioner |
 | bhoga | + ī | bhog**ī** | wealthy man |
-| daṇḍa pāṇi | + ī | daṇḍapāṇ**ī** | having staff in hand |
+| daṇḍa + pāṇi | + ī | daṇḍapāṇ**ī** | having staff in hand |
 | māyā | + (v)ī | māyāv**ī** | magician |
 | medhā | + (v)ī | medhāv**ī** | wise person |
 
@@ -47,21 +47,21 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | | | | |
 | --- | --- | --- | --- |
 | ajja | + tana | ajja**tana** | belonging to today |
-| purā | + tana | purā**tana** | belonging to ancient |
-| sanaṃ | + tana | sanan**tana** | belonging to ancient |
+| purā | + tana | purā**tana** | ancient, of old |
+| sanaṃ | + tana | sanan**tana** | ancient, of old |
 | sve | + tana | svā**tana** | belonging to tomorrow |
 
 ### ka (having, possessing)
 
 | | | | |
 | --- | --- | --- | --- |
-| appa itthi | + ka | appitthi**ka** | having few women |
-| bahu itthi | + ka | bahutthi**ka** | having many women |
-| na cakkhu | + ka | acakkhu**ka** | having no eyes |
+| appa + itthi | + ka | appitthi**ka** | having few women |
+| bahu + itthi | + ka | bahutthi**ka** | having many women |
+| na + cakkhu | + ka | acakkhu**ka** | having no eyes |
 | adhivāsa | + ka | adhivāsa**ka** | having patience |
-| na gandha | + ka | agandha**ka** | having no scent |
+| na + gandha | + ka | agandha**ka** | having no scent |
 | anukampā | + ka | anukampa**ka** | having compassion |
-| na pāṇa | + ka | appāṇa**ka** | having no beings |
+| na + pāṇa | + ka | appāṇa**ka** | having no beings |
 
 ### tara (comparative adjectives)
 
@@ -114,7 +114,7 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | | | | |
 | --- | --- | --- | --- |
 | loma | + sa | loma**sa** | hairy |
-| nir āsā | + sa | nirāsā**sa** | desireless |
+| nir + āsā | + sa | nirāsā**sa** | desireless |
 
 ### sī (having, possessing)
 
@@ -123,4 +123,4 @@ Today we will look at the other categories of secondary derivatives, starting wi
 | tapas | + sī | tapa**ssī** | ascetic; lit. having burns |
 | yasas | + sī | yasa**ssī** | famous |
 
-what do you notice about these words?
+What do you notice about these words?

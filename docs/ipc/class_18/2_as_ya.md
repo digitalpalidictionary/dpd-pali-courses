@@ -1,6 +1,4 @@
-# Phonetic changes of -y-
-
-## Phonetic changes of -y-
+# Phonetic Changes of -y-
 
 This is by far the most common type of phonetic change and occurs with the formation of **passive verbs**, verbs of the **3rd** **conjugation**, **gerunds**, and numerous **derived** **nouns**.
 
@@ -30,8 +28,9 @@ mucca + ti \> muccati (is freed)
 
 prefixes + √root + ya \> ptp
 
-| | √guh | (to hide) | **+ ya** | guyha | could be hidden |
+| | | | | | |
 | --- | --- | --- | --- | --- | --- |
+| | √guh | (to hide) | **+ ya** | guyha | could be hidden |
 | a + saṃ | √kup | (to shake) | **+ ya** | asaṃku**pp**a | could not be shaken |
 | | √vadh | (to kill) | **+ ya** | va**jjh**a | could be killed |
 
@@ -39,10 +38,10 @@ prefixes + √root + ya \> ptp
 
 prefixes + √root + **ya** \> gerund
 
-| | | | | | | |
-| --- | --- | --- | --- | --- | --- | --- |
-| ā | √gam | (to go) | + ya | āga**mm**a | arriving | |
-| vi | √sajj | (to relinquish) | + ya | visajja | releasing | |
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| ā | √gam | (to go) | **+ ya** | āga**mm**a | arriving |
+| vi | √sajj | (to relinquish) | **+ ya** | visajja | releasing |
 
 **k + y \> kk**
 
@@ -55,7 +54,7 @@ prefixes + √root + **ya** \> gerund
 | | | |
 | --- | --- | --- |
 | vi + √vic + ya | vivi**cc**a | ger. separating |
-| √muc + ya + ti | mu**cc**ati | pr. is free |
+| √muc + ya + ti | mu**cc**ati | pr. is freed |
 
 **j + y \> jj**
 
@@ -110,7 +109,7 @@ prefixes + √root + **ya** \> gerund
 
 | | | |
 | --- | --- | --- |
-| √rup + ya + ti | ru**pp**ati | pr. is broken |
+| √rup + ya + ti | ru**pp**ati | pr. is hurt; is afflicted |
 | √tap + ya + ti | ta**pp**ati | pr. is burnt |
 | √dīp + ya + ti | di**pp**ati | pr. shines |
 

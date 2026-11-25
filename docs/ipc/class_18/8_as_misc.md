@@ -1,8 +1,8 @@
-# Another consonant assimilation
+# Other Consonant Assimilations
 
--   **Regressive Assimilation with prefixes ud- ; dur- ; nir-**
+-   **Regressive Assimilation with prefixes ud-, dur-, nir-**
 
-When prefixes **ud- ; dur- ; nir-** combine with roots beginning with a consonant, some regressive assimilation takes place.
+When prefixes **ud-, dur-, nir-** combine with roots beginning with a consonant, some regressive assimilation takes place.
 
 | **prefix** | **root** | **assimilation** | **word** | **meaning** |
 | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ When prefixes **ud- ; dur- ; nir-** combine with roots beginning with a consonan
 
 -   **Sanskrit influence assimilation**
 
-Some roots which in Sanskrit have a double consonant become one consonant in Pāli. The first consonant of such a root may duplicate in combination with a prefix(s) ending in a vowel.
+Some roots which in Sanskrit have a double consonant become one consonant in Pāli. The first consonant of such a root may duplicate in combination with a prefix(es) ending in a vowel.
 
 | **prefix** | **sk root** | **pāli root** | **word** | **meaning** |
 | --- | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 In English there are only **two voices**, active and passive.
 
-Active voice: The man cut the tree
+Active voice: The man cuts the tree.
 
 Passive: The tree is cut by the man.
 
@@ -20,7 +20,7 @@ The only time you will encounter the middle or reflexive voice is in poetry, but
 
 Almost all the verbs you have dealt with so far have been in the active **voice**.
 
-the way the active voice is constructed is:
+The way the active voice is constructed is:
 
 **root + conjugational sign \> base**
 
@@ -48,7 +48,7 @@ saṃ + ā + dhiya + ti \> samādhiyati
 
 As mentioned, this voice has virtually died out in prose, but still exists to a significant degree within verse. First let’s look at the construction, then at the meaning.
 
-the middle voice is constructed using an **active base** with **attanopada verbal endings**.
+The middle voice is constructed using an **active base** with **attanopada verbal endings**.
 
 **root + conjugational sign \> base**
 
@@ -60,7 +60,7 @@ labha + **te** \> labha**te**
 
 How to translate this?
 
-Reflexive verbs can be translated into English with a **reflexive pronoun.**
+Reflexive verbs can be translated into English with a **reflexive pronoun**.
 
 labha**te**
 
@@ -70,9 +70,7 @@ he obtains something **for himself**
 
 The reflexive voice contains the idea of an action coming back to the person who did the action, i.e. **reflecting back** to the doer.
 
-[DHP131](https://s.dhamma.gift/kn/dhp/index.html#dhp129)
-
-pecca so na labha**te** sukhaṃ.
+pecca so na labha**te** sukhaṃ. ([DHP131](https://s.dhamma.gift/kn/dhp/index.html#dhp129))
 
 after death, he does not **get** happiness **for himself**
 
@@ -82,4 +80,4 @@ after death, he **himself** does not get happiness
 
 after death, he **gets** no happiness.
 
-Please note! The Reflexive Voice is also sometimes used **just for the sake of the meter** of the verse, so you must judge for yourself when to apply the reflexive meaning - sometimes it will not make sense!
+Please note! The Reflexive Voice is also sometimes used **just for the sake of the meter** of the verse, so you must judge for yourself when to apply the reflexive meaning – sometimes it will not make sense!

@@ -4,15 +4,15 @@ Just to really mess with your minds (*again*), you can combine **causative** and
 
 the **causative** verb means “he causes to do”
 
-the **causative passive** means "it is caused to be done" or, more rarely, "he causes (it) to be done," depending on the context.
+the **causative passive** means “it is caused to be done” or, more rarely, “he causes (it) to be done,” depending on the context.
 
 They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto the **causative** **base**
 
-**root** + (\***e** \| \***aya** \| **\*āpe** \| **\*āpaya**) + (**ya** \| **iya** \| **īya**)
+**root** + (**\*e** \| **\*aya** \| **\*āpe** \| **\*āpaya**) + (**ya** \| **iya** \| **īya**)
 
 (or rarely)
 
-**root +** (**ya** \| **iya** \| **īya**) + (\***e** \| \***aya** \| **\*āpe** \| **\*āpaya**)
+**root +** (**ya** \| **iya** \| **īya**) + (**\*e** \| **\*aya** \| **\*āpe** \| **\*āpaya**)
 
 **Here are some sutta examples**
 
@@ -21,7 +21,7 @@ They are formed by adding the passive suffix -**ya** -**iya** or -**īya** onto 
 | | | | |
 | --- | --- | --- | --- |
 | √ñā + nā | jānā | pajānāti | he knows |
-| √ñā + \*āpe | ñāpē | paññāpeti | he teaches; causes to know |
+| √ñā + \*āpe | ñāpe | paññāpeti | he teaches; causes to know |
 | √ñā + \*āpe + iya | ñāpiya | paññāpiyati | is caused to be known |
 
 bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe ([MN65](https://s.dhamma.gift/mn/mn65/index.html) bhaddālisuttaṃ)
@@ -36,7 +36,7 @@ bhagavatā sikkhāpade **paññāpiyamāne** bhikkhusaṅghe ([MN65](https://s.d
 | √his + \*e | hese | viheseti | he harasses; causes to hurt |
 | √his + \*e + iya | hesiya | vihesiyati | is caused to be harmed |
 
-app'eva nāma tumhehi akkosiyamānānaṃ paribhāsiyamānānaṃ **rosiyamānānaṃ** **vihesiyamānānaṃ** siyā cittassa aññathattaṃ [MN50](https://s.dhamma.gift/mn/mn50/index.html)
+app’eva nāma tumhehi akkosiyamānānaṃ paribhāsiyamānānaṃ **rosiyamānānaṃ** **vihesiyamānānaṃ** siyā cittassa aññathattaṃ ([MN50](https://s.dhamma.gift/mn/mn50/index.html) māratajjanīyasuttaṃ)
 
 Hopefully there would be a change of mind for (them) being verbally abused, insulted, annoyed (**being caused to be angry**) and troubled (**being caused to be harmed**) by you.
 
@@ -50,7 +50,7 @@ Hopefully there would be a change of mind for (them) being verbally abused, insu
 
 ambho purisa, na tvaṃ addasa manussesu itthiṃ vā purisaṃ vā ābādhikaṃ dukkhitaṃ bāḷhagilānaṃ, sake muttakarīse palipannaṃ semānaṃ, aññehi **vuṭṭhāpiyamānaṃ**, aññehi **saṃvesiyamānanti**? ([AN3.36](https://s.dhamma.gift/an/an3/index.html#an3.36) devadūtasuttaṃ)
 
-My good man did you not see among men, a man or a woman very ill, suffering, extremely sick, sleeping immersed in their own urine and excrement, **being made to stand up** and **being put to bed (being caused to enter)** by others?
+My good man, did you not see among men, a man or a woman very ill, suffering, extremely sick, sleeping immersed in their own urine and excrement, **being made to stand up** and **being put to bed (being caused to enter)** by others?
 
 **√bhū (to be)**
 
@@ -69,5 +69,5 @@ Monks, these four times **being** well **developed,** being well rotated, cause 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | √ṭhā | to stand | \*āpe + īya | ṭhapiyya | ṭhapiyyati | is set aside; lit. is caused to stand |
-| √sad | to sink, sit | \*āpe + īya | sīdāpīya | nisīdāpīyati | causes to be seated |
+| √sad | to sink, sit | \*āpe + īya | sīdāpīya | nisīdāpīyati | is caused to sit down |
 | √ñā | to know | \*āpe + iya | ñapiya | paññapiyamāna | being taught; lit. being caused to be known |

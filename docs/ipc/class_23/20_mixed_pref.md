@@ -3,7 +3,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | abhi + ā | √cikkh | to show | abbhācikkhati | misrepresents |
-| abhi + ni | √sad | to sink | abhinisīdati | sit down hard |
+| abhi + ni | √sad | to sink | abhinisīdati | sits down hard |
 | abhi + pa | √atth | to wish | abhipatthayati | longs for |
 | adhi + ā | √vas | to live | ajjhāvasati | settles |
 | adhi + ava | √kir | to scatter | ajjhokirati | pours down |
@@ -19,7 +19,7 @@
 | saṃ + adhi | √gam | to go | samadhigacchati | attains |
 | saṃ + anu | √dis | to see | samanupassati | considers as |
 | saṃ + pa | √yuj | to join | sampayojeti | quarrels |
-| sam + pati | √is | to wish | sampaṭicchati | accepts, receives |
+| saṃ + pati | √is | to wish | sampaṭicchati | accepts, receives |
 | saṃ + ud | √chid | to cut | samucchindati | eradicates |
 | upa + ni | √bandh | to tie | upanibandhati | ties down onto |
 | upa + pari | √ikkh | to see | upaparikkhati | investigates |

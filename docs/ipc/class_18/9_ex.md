@@ -7,8 +7,8 @@
 | na + anu + √vad + ya | ananuvajja |
 | visujjhati | vi √sudh ya ti |
 | √raj + ta | ratta |
-| atta | √ādā + ta |
-| dur + pati + √vidh + ya | duppativijjha |
+| atta | √ādā ta |
+| dur + pati + √vidh + ya | duppaṭivijjha |
 | saṃvigga | saṃ √vij ta |
 | ud + √gah + ya | uggayha |
 | majjati | √mad ya ti |

@@ -4,11 +4,11 @@
 | --- | --- | --- | --- | --- | --- |
 | √jan | to produce | ya | janya \> jāya | jāyati | is born |
 | √kar | to do | iya | kariya \> kayira | kayirati | is done |
-| √dis | to see | iya | disiya \> dassiya | sandassiyamāna | being seen together |
+| √dis | to see | iya | disiya \> dassiya | sandassiyamāna | being taught; being instructed |
 
 ## Roots ending in -ā change to -ī
 
-Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam’ī**.
+Kacc 502, 493. **yamhi dā dhā mā ṭhā hā pā maha-math’ādīnam’ī**.
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -31,12 +31,12 @@ Kacc 502, 493**.** **yamhi** **dā dhā mā ṭhā hā pā maha-math’ādīnam�
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √chid + ṃa | to cut | īya | chi**n**dīya | chindīyati[^23] | is cut |
+| √chid + ṃa | to cut | īya | chi**n**dīya | chindīyati\* | is cut |
 | √muc + ṃa | to free | īya | mu**ñ**cīya | muñcīyati\* | is freed |
 | √rudh + ṃa | to obstruct | īya | ru**n**dhīya | rundhīyati\* | is obstructed |
-| √yuj + ṃa | to yoke | iya | yu**ñ**jiya | samanuyuñjiyati\* | being cross-questioned |
+| √yuj + ṃa | to yoke | iya | yu**ñ**jiya | samanuyuñjiyati\* | is cross-questioned |
 
-[^23]: These bases (marked with \*) mostly exist in participle forms.
+These bases (marked with \*) mostly exist in participle forms.
 
 ## Some passive verbs have two forms
 
@@ -79,16 +79,16 @@ While on the topic, **va \> vu** is a very common phonetic change in Pāli, espe
 | --- | --- | --- | --- | --- |
 | √**va**c | to speak | pp | **vu**tta | said, spoken |
 | √**va**ddh | to increase | f | **vu**ddhi | growth, increase |
-| **√va**ḍḍh | to increase | adj | **vu**ḍḍha | old, senior |
+| √**va**ḍḍh | to increase | adj | **vu**ḍḍha | old, senior |
 | √**va**p | to sow | pp | pa**vu**tta | cast off |
 | √**va**r | to cover | pp | saṃ**vu**ta | covered, restrained |
-| √**va**r | to cover | nt | pā**vu**raṇaṃ | blanket |
+| √**va**r | to cover | nt | pā**vu**raṇa | blanket |
 | √**va**s | to live | pp | **vu**ṭṭha | lived |
 | √**va**s | to live | pp | vippa**vu**ttha | gone abroad |
 | √**va**s | to live | pp | **vu**sita | lived, completed |
 | √**va**ss | to rain | pp | **vu**ṭṭha | rained |
 | √**va**ss | to rain | f | **vu**ṭṭhi | rain |
 | √**va**tt | to proceed | f | **vu**tti | way of life |
-| √**va**tt | to proceed | m | **vu**ttika | livelihood |
-| √**ph**ar | to pervade | pp | **phu**ṭa | pervaded |
+| √**va**tt | to proceed | adj | **vu**ttika | living (in comps) |
+| √**pha**r | to pervade | pp | **phu**ṭa | pervaded |
 | √**bha**r | to support | adj | pa**bhu**ti | beginning with |

@@ -1,4 +1,4 @@
-# Dvanda Samāsa or Copulative Compounds
+# Dvanda-samāsa or Copulative Compounds
 
 “twin compounds” or “copulative compounds”
 
@@ -18,11 +18,11 @@ There are two types of copulative compounds
 
 (not taken together twin compound)
 
-Some dvanda-samāsa occur in the **plural**, are taken **individually**, generally when they refer to **living beings**.
+Some dvanda-samāsa occur in the **plural** and are taken **individually**, generally when they refer to **living beings**.
 
 dev**a**manuss**ehi** “**with** gods and **with** men”
 
-samaṇ**a**brāhmaṇ**ānaṃ “of** ascetics and **of** priests”
+samaṇ**a**brāhmaṇ**ānaṃ** “**of** ascetics and **of** priests”
 
 the first member is in the dictionary form (vocative singular) and the compound takes the **gender** and **declension** of the last member.
 
@@ -52,7 +52,7 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 | anayabyasanaṃ | misfortune and disaster |
 | bhattavetanaṃ | food and wages |
 | dukkhadomanassaṃ | pain and stress |
-| hirottappaṃ | shame and fear |
+| hirottappaṃ | conscience and concern |
 | jarāmaraṇaṃ | old age and death |
 | jātarūparajataṃ | gold and silver |
 | kesamassuṃ | hair and beard |
@@ -73,7 +73,7 @@ tiṇa + kaṭṭha + sākhā + palāsa \> tiṇakaṭṭhasākhāpalās**aṃ**
 | uddhaccakukkuccaṃ | restlessness and remorse |
 | vijjācaraṇaṃ | understanding and conduct |
 
-Other than those in masculine plural and neuter singular, *dvandasamāsa* occur in the **gender** of the **last word** in the compound.
+Other than those in masculine plural and neuter singular, *dvanda-samāsa* occur in the **gender** of the **last word** in the compound.
 
 lābho + sakkāro \> masc. lābhasakkāro “gain and honour”
 
@@ -85,7 +85,7 @@ kaṇhasukk**āni** rūp**āni** “dark and bright forms”
 
 kalyāṇapāpak**ānaṃ** kamm**ānaṃ** “of good and bad deeds”
 
-Dvandasamāsa also includes **numerals** like
+Dvanda-samāsa also includes **numerals** like
 
 aṭṭha + dasa \> aṭṭhārasa “18” eight **and** ten
 

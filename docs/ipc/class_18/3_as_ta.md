@@ -1,10 +1,10 @@
-# Phonetic changes of -t-
+# Phonetic Changes of -t-
 
 This occurs with the **past participle** or **adjectives** ending -ta,
 
 **infinitive** -tuṃ, **absolutive** -tvā, **masculine nouns** ending in -tar,
 
-**neuter nouns ending** in -ta, **feminine nouns** ending in -ti, etc
+**neuter nouns** ending in -ta, **feminine nouns** ending in -ti, etc.
 
 **c + t \> tt**
 
@@ -143,7 +143,7 @@ This occurs with the **past participle** or **adjectives** ending -ta,
 
 | | | |
 | --- | --- | --- |
-| √kar + tabba | ka**tt**abba | ptp. could be done |
+| √kar + tabba | ka**tt**abba | ptp. should be done |
 | √kar + tuṃ | ka**tt**uṃ | inf. to do |
 
 **(ṛ) r + t \> ṭ**

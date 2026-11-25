@@ -1,6 +1,6 @@
-# Phonetic changes of -n-
+# Phonetic Changes of -n-
 
-This occurs with the **past participle** or **adjectives** ending -na, **neuter nouns ending** in -na, etc
+This occurs with the **past participle** or **adjectives** ending -na, **neuter nouns** ending in -na, etc.
 
 **d + n \> nn**
 
@@ -16,8 +16,8 @@ This occurs with the **past participle** or **adjectives** ending -na, **neuter 
 
 | | | |
 | --- | --- | --- |
-| √tir + na | ti**ṇṇ**a | pp. crossed |
-| √car + na | ci**ṇṇ**a | pp. completed |
+| √tar \> tir + na | ti**ṇṇ**a | pp. crossed |
+| √car + na | ci**ṇṇ**a | pp. practised |
 | dur + √var + na | dubba**ṇṇ**a | adj. ugly |
 | √jīr + na | ji**ṇṇ**a | pp. aged |
 | √pūr + na | pu**ṇṇ**a | pp. filled |

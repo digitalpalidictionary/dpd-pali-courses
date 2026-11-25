@@ -4,7 +4,7 @@ Kaccāyana 418. hiyyopabhuti paccakkhe hiyyattanī.
 
 “starting from yesterday, when seen, is imperfect past tense”
 
-As the name implies, **hiyyo** means “yesterday”, this past tense was used for events which happened before yesterday, but were seen by the speaker.
+As the name implies, **hiyyo** means “yesterday”, this past tense was used for events which happened from yesterday backwards, but were seen by the speaker.
 
 Modern grammars translate it as a continuous past tense “was going”, but it’s safe to translate it just as a normal past tense “went”.
 
@@ -20,7 +20,7 @@ This verbal form also can take an **a-** augment in front, like the aorist. Let�
 | | | |
 | --- | --- | --- |
 | | **sg** | **pl** |
-| 3 paṭhama | agam**ā** | agam**u / **agam**ū** / agam**uṃ** |
+| 3 paṭhama | agam**ā** | agam**u** / agam**ū** / agam**uṃ** |
 | 2 majjhima | agam**o** | agam**attha** |
 | 1 uttama | agam**a** / agam**aṃ** | agam**amhā** |
 

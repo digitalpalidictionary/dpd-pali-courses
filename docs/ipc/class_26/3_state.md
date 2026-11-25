@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | asoka | + tā | asoka**tā** | sorrow-less-ness |
 | bhabba | + tā | bhabba**tā** | capability |
-| dhamma | + tā | dhamma**tā** | nature, character, |
+| dhamma | + tā | dhamma**tā** | nature, character |
 | garu | + tā | garu**tā** | respectability |
 | khema | + tā | khema**tā** | safety |
 | mitta | + tā | mitta**tā** | friendship |
@@ -35,16 +35,16 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| dama | **+ tha** | dama**tha** | taming, control, mastery |
-| dara | **+ tha** | dara**tha** | anxiety, uneasiness, angst |
-| kilama | **+ tha** | kilama**tha** | fatigue, tiredness |
-| sama | **+ tha** | sama**tha** | stillness, peace |
+| dama | + tha | dama**tha** | taming, control, mastery |
+| dara | + tha | dara**tha** | anxiety, uneasiness, angst |
+| kilama | + tha | kilama**tha** | fatigue, tiredness |
+| sama | + tha | sama**tha** | stillness, peace |
 
 ## iya (state of) abstract neuter nouns
 
 | | | | |
 | --- | --- | --- | --- |
-| na agāra | + iya | anagār**iya** | homelessness |
+| na + agāra | + iya | anagār**iya** | homelessness |
 | issara | + iya | issar**iya** | rulership, lordship |
 | manda | + iya | mand**iya** | doziness, stupidity |
 | paviveka | + iya | pavivek**iya** | state of solitude |
@@ -58,11 +58,11 @@
 | alasa | + \*ya | **ā**las**ya** | lazy state, laziness |
 | anaṇa | + \*ya | **ā**ṇaṇ**ya** | debt free state |
 | aroga | + \*ya | **ā**rog**ya** | healthy state, healthiness |
-| bahu suta | + \*ya | b**ā**husa**cca** | well learned state |
+| bahu + suta | + \*ya | b**ā**husa**cca** | well learned state |
 | brāhmaṇa | + \*ya | br**a**hma**ñña** | brahman state, celibacy |
 | bāla | + \*ya | bāl**ya** | foolishness |
-| dur manas | + \*ya | d**o**mana**ssa** | bad mind state, distress |
-| dur medha | + \*ya | d**u**mme**jjha** | stupid state, stupidity |
+| dur + manas | + \*ya | d**o**mana**ssa** | bad mind state, distress |
+| dur + medha | + \*ya | d**u**mme**jjha** | stupid state, stupidity |
 | dussīla | + \*ya | d**u**ssīl**ya** | immoral state, immorality |
 | kusīta | + \*ya | k**o**sa**jja** | lazy state, laziness |
 | pamoda | + \*ya | p**ā**mo**jja** | happy state, happiness |
@@ -71,14 +71,14 @@
 | samaṇa | + \*ya | s**ā**ma**ñña** | monk state, monkhood |
 | sampajāna | + \*ya | s**a**mpaja**ñña** | attentive state |
 | satata | + \*ya | s**ā**ta**cca** | always state, perseverance |
-| su manas | + \*ya | s**o**mana**ssa** | good mind state, happiness |
-| tatha | + \*ya | t**accha** | true state, truth |
+| su + manas | + \*ya | s**o**mana**ssa** | good mind state, happiness |
+| tatha | + \*ya | ta**ccha** | true state, truth |
 
 ## \*eyya (state of) abstract neuter nouns
 
 | | | | |
 | --- | --- | --- | --- |
-| adhipati | + \*eyya | **a**dhipat**eyya** | ruler state, lordship |
+| adhipati | + \*eyya | **ā**dhipat**eyya** | ruler state, lordship |
 | jimha | + \*eyya | j**i**mh**eyya** | crooked state, deceit |
 | kūṭa | + \*eyya | k**ū**ṭ**eyya** | crooked state |
 | muṇḍa | + \*eyya | m**u**ṇḍ**eyya** | bald state, baldness |

@@ -4,25 +4,25 @@
 
 The best way to explain this type of compound is to start with some examples.
 
-**bahu** (adj. much, lots (of)) + **vīhi** (noun. paddy) \> **bahubbīhi**
+**bahu** (adj. much, lots (of)) + **vīhi** (n. paddy) \> **bahubbīhi**
 
 what part of speech is this?
 
 what kind of compound is this?
 
-**bahubbīhī** janapado
+**bahubbīhi** janapado
 
 how would you translate this?
 
-what part of speech is bahubbīhī?
+what part of speech is bahubbīhi?
 
-ahaṃ **bahubbīhismiṃ** viharāmi**.**
+ahaṃ **bahubbīhismiṃ** viharāmi.
 
 how would you translate this?
 
-what part of speech is bahubbīhī?
+what part of speech is bahubbīhi?
 
-odāta (adj. white) + vattha (noun. cloth) \> odātavattha
+odāta (adj. white) + vattha (n. cloth) \> odātavattha
 
 what part of speech is this?
 
@@ -92,17 +92,17 @@ how would you translate this?
 
 what part of speech is **pāpiccho**?
 
-**pāpiccho** musāvadaṃ kathesi.
+**pāpiccho** musāvādaṃ kathesi.
 
 how would you translate this?
 
 what part of speech is **pāpiccho**?
 
-From this we can see that any type of **compound**, kammadāraya, tappurisa etc., can be turned into an **adjective**, in which case it can become a **bahubbīhi-samāsa**.
+From this we can see that any type of **compound**, kammadhāraya, tappurisa etc., can be turned into an **adjective**, in which case it can become a **bahubbīhi-samāsa**.
 
-This compound needs to be **translated with a relative clause** such as “who...”, “which…”, “that …”, “with...” etc.
+This compound needs to be **translated with a relative clause** such as “who…”, “which…”, “that…”, “with…” etc.
 
-Furthermore, this compound can also be **used independently** as a noun with an implied subject. “the man who….”, “the ascetic who...”, “the robe which….” etc.
+Furthermore, this compound can also be **used independently** as a noun with an implied subject. “the man who…”, “the ascetic who…”, “the robe which…” etc.
 
 ## How to make a bahubbīhi compound?
 
@@ -130,15 +130,15 @@ bahubhāṇī – (a person) who speaks a lot
 
 chinnapapañco – (a person) who has cut mental proliferation
 
-chinnasoto - (an arahant) who has cut the stream (of craving)
+chinnasoto – (an arahant) who has cut the stream (of craving)
 
-cirappavāsī - (a traveller) who has long lived abroad
+cirappavāsī – (a traveller) who has long lived abroad
 
-dassanasampanno - (a meditator) who has vision
+dassanasampanno – (a meditator) who has vision
 
 dhammadharo – (a monk) who bears the teaching
 
-ekavihārī - (a monk) who lives alone
+ekavihārī – (a monk) who lives alone
 
 kālavādī – (a person) who speaks at the proper time
 
@@ -168,19 +168,19 @@ sappabhāsaṃ – (a mind) which is radiant
 
 adhano – (a person) without wealth
 
-arogo - (a person) without disease
+arogo – (a person) without disease
 
-averaṃ - (one) without hatred
+averaṃ – (one) without hatred
 
-acelo - (a person) without cloth
+acelo – (a person) without cloth
 
-aparisesaṃ - (something) without remainder
+aparisesaṃ – (something) without remainder
 
-anaṅgaṇo - (a man) without stains
+anaṅgaṇo – (a man) without stains
 
-avitakkaṃ - (state) free from thinking
+avitakkaṃ – (state) free from thinking
 
-avicāraṃ - (state) free from investigation
+avicāraṃ – (state) free from investigation
 
 4.  sometimes the suffixes **-ka**, **-aka** or **-ika** are added to nouns to create adjectives.
 
@@ -218,7 +218,7 @@ satta + vassa + **ika** \> sattavassiko
 
 (an illness) lasting for seven years
 
-In bahubbīhi compounds, **feminine** **nouns** take their **masculine** **forms** when they become adjectives
+In bahubbīhi compounds, **feminine nouns** take their **masculine forms** when they become adjectives
 
 mahantī + paññā \> mahāpañño
 
@@ -232,7 +232,7 @@ pahūtā + paññā \> pahūtapañño
 
 (a person) who is rich in wisdom
 
-tvaṁ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://s.dhamma.gift/an/an8/index.html#an8.14))
+tvaṃ **itthannāmaṃ** āpattiṃ āpanno ([AN8.14](https://s.dhamma.gift/an/an8/index.html#an8.14))
 
 You have committed an offence **of such-and-such name**.
 
@@ -260,11 +260,11 @@ In some grammar books you will find a detailed analysis of the 7 types of *bahub
 
 Please refer to Extra Reading if you would like the full story.
 
-The most important thing to remember with bahubbīhi compounds is that often the **missing** **subject has to be understood.**
+The most important thing to remember with bahubbīhi compounds is that often the **missing subject has to be understood**.
 
 Perhaps you can understand what Kaccāyana means now:
 
-**328. aññapad'atthesu bahubbīhi.**
+**328. aññapad’atthesu bahubbīhi.**
 
 when the meaning is another word - bahubbīhi
 

@@ -12,13 +12,13 @@ In Kaccāyana this is called (25) **dīghaṃ** and (26) **rassaṃ**
 
 an**ū**pavādo an**ū**paghāto,
 
-pātimokkañ’ca saṃvaro
+pātimokkhe ca saṃvaro
 
-([DN16.14](https://s.dhamma.gift/dn/dn16/index.html))
+([DN14](https://s.dhamma.gift/dn/dn14/index.html))
 
 yadattan**ī** passati ānisaṃsaṃ,
 
-diṭṭasute sīlavate mute vā
+diṭṭhe sute sīlavate mute vā
 
 ([SNP43](https://s.dhamma.gift/kn/snp/index.html#snp4.5))
 
@@ -48,7 +48,7 @@ saṃvaccharaṃ yajetha puññapekkho.
 
 ([DHP108](https://s.dhamma.gift/kn/dhp/index.html#dhp100))
 
-pūj'ārahe pūjayato, buddhe yadi v**a** sāvake.
+pūj’ārahe pūjayato, buddhe yadi v**a** sāvake.
 
 papañcasamatikkante, tiṇṇasokapariddave.
 

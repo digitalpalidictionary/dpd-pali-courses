@@ -10,7 +10,7 @@ upekkhāsambojjhaṅga \< upekkhā + sambojjhaṅga (kammadhāraya)
 
 sambojjhaṅga \< sambodh**iyā** + aṅga (chaṭṭhī tappurisa)
 
-*[MN53](https://s.dhamma.gift/mn/mn53/index.html)* **vijjācaraṇasampanno** so seṭṭho devamānuse'ti
+*[MN53](https://s.dhamma.gift/mn/mn53/index.html)* **vijjācaraṇasampanno** so seṭṭho devamānuse’ti
 
 vijjācaraṇasampanna \< vijjācaraṇ**ena** + sampanna (tatiyā tappurisa)
 

@@ -26,7 +26,7 @@
 | √ruh | to ascend | \*e | rope | āropeti | makes climb up |
 | √sad | to sink, sit | \*āpe | sīdāpe | nisīdāpeti | causes to sit down |
 | √sam | to be calm | \*e | same | vūpasameti | settles |
-| √siv | to warm | \*e | sivve | visibbeti | warms |
+| √siv | to warm | \*e | sibbe | visibbeti | warms |
 | √snih | to love | \*e | sinehe | sinehita | attractive |
 | √ṭhā | to stand | \*āpe | ṭhapāpe | ṭhapāpetvā | having caused to stand |
 | √vā | to blow | \*āpe | bāpe | nibbāpeti | makes cool down |

@@ -16,7 +16,7 @@ Monks, increase and decrease, taking (food) and elimination is seen for this bod
 
 Monks, increase and decrease, taking food and elimination of this body is seen (by the man).
 
-What is the subject(s) of this sentence?
+What is (are) the subject(s) of this sentence?
 
 What is the verb?
 
@@ -43,14 +43,14 @@ Passive Base + Verbal Ending \> Passive Verb
 | √kilis | to dirty | ya | kilissa | kilissati | is dirtied |
 | √luj | to break | ya | lujja | lujjati | is broken |
 | √ñā | to know | ya | ñāya | ñāyati | is known |
-| √rup | to break | ya | ruppa | ruppati | is broken |
-| √vad | to speak | ya | vajja | vajjati | is played |
+| √rup | to break | ya | ruppa | ruppati | is hurt; is afflicted |
+| √vad | to speak | ya | vajja | vajjati | is played (of a musical instrument) |
 
 ## Root + iya
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √dhar+ \*e | to carry | iya | dh**ā**riya | dhāriyati[^21] | is carried |
+| √dhar + \*e | to carry | iya | dh**ā**riya | dhāriyati[^21] | is carried |
 | √pūj | to honour | iya | pūjiya | pūjiyati | is worshipped |
 | √cud | to accuse | iya | c**o**diya | codiyati | is accused |
 | √add | to afflict | iya | a**ṭṭ**iya | aṭṭiyati | is troubled |
@@ -74,7 +74,7 @@ Please remember that these passive bases apply to all forms of the verb and even
 | --- | --- | --- |
 | pr | vi**mucc**ati | is freed |
 | aor | vi**mucc**i | was freed |
-| fut | vi**mucc**issati | will be free |
+| fut | vi**mucc**issati | will be freed |
 | prp | vi**mucc**amāna | being freed |
 | pp | vi**mucc**ita | freed |
 | nt | vi**mucc**ana | release |

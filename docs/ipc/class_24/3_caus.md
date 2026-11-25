@@ -26,7 +26,7 @@ his mind **does** not **shake** (intransitive)
 
 mahāvātā vāyantā udakaṃ **kampenti**
 
-great blowing winds **causes** the water **to shake** (transitive)
+great blowing winds **cause** the water **to shake** (transitive)
 
 2\. transitive verbs *may* become di-transitive.
 

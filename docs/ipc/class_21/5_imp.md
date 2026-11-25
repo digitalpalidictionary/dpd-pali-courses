@@ -6,7 +6,7 @@ Kaccāyana 415. āṇaty’āsiṭṭhe’nuttakāle pañcamī.
 
 Please conjugate the word **gacchati** in the imperative active voice.
 
-Let’s look at the imperative **reflexive** **voice** and **passive voice.**
+Let’s look at the imperative **reflexive** **voice** and **passive voice**.
 
 (Theory) How is the reflexive formed? How is the passive formed?
 

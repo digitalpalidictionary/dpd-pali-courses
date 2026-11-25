@@ -26,7 +26,7 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√ṭhā** | tiṭṭha | tiṭṭhati | stands |
 | **√vad** | vade | vadeti | speaks |
 | **√var** | pura | pāpurati | covers, wraps with |
-| **√vid** | binda | nibbindati | is dis-enchanted |
+| **√vid** | binda | nibbindati | is disenchanted |
 | **√yam** | veccha | anuppavecchati | gives, supports |
 
 **Irregular Aorist Bases**
@@ -57,7 +57,7 @@ Most verbs in Pāli are quite predictable in their formation, but there are a fe
 | **√kar** | kāhi | kāhiti | will do |
 | **√kar** | kassa | kassāmi | I will do |
 | **√labh** | laccha | lacchati | will get |
-| **√pal** | palehi | palehiti | will flee |
+| **√palā** | palehi | palehiti | will flee |
 | **√sak** | sakkha | sakkhati | will be able |
 | **√vac** | vakkha | vakkhati | will say |
 | **√vas** | vaccha | vacchati | will live |

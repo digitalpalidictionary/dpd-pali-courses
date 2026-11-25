@@ -45,11 +45,11 @@
 | aṭṭha | + ka | aṭṭha**ka** | consisting of eight |
 | nava | + ka | nava**ka** | consisting of nine |
 | dasa | + ka | dasa**ka** | consisting of ten |
-| sata | + ka | sata**ka** | consisting of hundred |
+| sata | + ka | sata**ka** | consisting of a hundred |
 
 ## ika (collective numerals)
 
 | | | | |
 | --- | --- | --- | --- |
-| sata | + ika | sat**ika** | consisting of hundred |
-| sahassa | + ika | sahass**ika** | consisting of thousand |
+| sata | + ika | sat**ika** | consisting of a hundred |
+| sahassa | + ika | sahass**ika** | consisting of a thousand |

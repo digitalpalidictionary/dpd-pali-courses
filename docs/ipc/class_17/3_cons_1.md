@@ -8,7 +8,7 @@ There are thousands of such examples.
 
 e.g. pañc**a** + **kh**andha \> pañca**kkh**andha
 
-In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
+In Kaccāyana this is called (28) **para dvebhāvo ṭhāne** and
 
 (29) **vagge ghosāghosānaṃ tatiyapaṭhamā**.
 
@@ -43,14 +43,14 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 | | | | |
 | --- | --- | --- | --- |
 | p**a** | **gh**aranta | pa**ggh**aranta | prp. dripping |
-| sakuṇ**a** | **gh**i | sakuṇa**ggh**i | masc. hawk; lit. bird killer |
+| sakuṇ**a** | **gh**i | sakuṇa**ggh**i | fem. hawk; lit. bird killer |
 | ek**a** | **gh**ana | eka**ggh**ana | adj. dense; lit. one mass |
 
 **vowel + c**
 
 | | | | |
 | --- | --- | --- | --- |
-| n**a** | **c**uta | a**cc**uta | adj. everlasting |
+| na \> **a** | **c**uta | a**cc**uta | adj. everlasting |
 | par**i** | **c**aja | pari**cc**aja | masc. rejection |
 | a + par**i** | **c**atta | apari**cc**atta | pp. not given up |
 
@@ -72,7 +72,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
 | | | | |
 | --- | --- | --- | --- |
-| p**a** | **jh**āyati | pa**jjh**āyati | pr. contemplates, thinks |
+| p**a** | **jh**āyati | pa**jjh**āyati | pr. broods; is anxious |
 | abh**i** | **jh**ā | abhi**jjh**ā | f. covetousness |
 
 **vowel + ñ**
@@ -111,7 +111,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
 | | | | |
 | --- | --- | --- | --- |
-| **na** | **th**addha | a**tth**addha | adj. not stubborn |
+| na \> **a** | **th**addha | a**tth**addha | adj. not stubborn |
 | v**i** | **th**āra | vi**tth**āra | m. breadth |
 | an**u** | **th**unāti | anu**tth**unāti | pr. wails, moans |
 | **o** | **th**arati | o**tth**arati | pr. spreads over |
@@ -140,7 +140,7 @@ In Kaccāyana this is called (28) **para** **dvebhāvo ṭhāne** and
 
 | | | | |
 | --- | --- | --- | --- |
-| **na** | **p**amāda | a**pp**amāda | m. carefulness |
+| na \> **a** | **p**amāda | a**pp**amāda | m. carefulness |
 | at**i** | **p**ago | ati**pp**ago | adv. very early |
 | āy**u** | **p**amāṇa | āyu**pp**amāṇa | nt. length of life |
 
@@ -157,15 +157,15 @@ after a vowel, **v** can become **bb**
 
 | | | | |
 | --- | --- | --- | --- |
-| gir**i** | **v**aja | giri**bb**aja | nt. mountain cave |
+| gir**i** | **v**aja | giri**bb**aja | nt. mountain enclosure |
 | ch**a** | **v**assa | cha**bb**assa | nt. six years |
 
 **vowel + bh**
 
 | | | | |
 | --- | --- | --- | --- |
-| n**a** | **b**haya | a**bbh**aya | adj. without fear |
-| puna \> pon**o** | **b**havika | pono**bbh**avika | adj. leading to repeated existence |
+| na \> **a** | **bh**aya | a**bbh**aya | adj. without fear |
+| puna \> pon**o** | **bh**avika | pono**bbh**avika | adj. leading to repeated existence |
 
 **vowel + m**
 

@@ -1,6 +1,6 @@
-# dur, su, nir & etc.
+# dur, su, nir, etc.
 
-Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**
+Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad- ku-** are not used with verbs, only with **nouns** and **adjectives**.
 
 ## dur-
 
@@ -48,7 +48,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | √mal | to stain | nimmala | spotless |
 | √pī | to love | nippītika | without delight |
 
-## kā- kad- ku
+## kā- kad- ku-
 
 **bad, negative, small, mean**
 
@@ -60,7 +60,7 @@ Three otherwise common prefixes, **dur-** **su- nir-** as well as **sa- kā- kad
 | kad | anna | kadanna | rotten food |
 | kad | asana | kadasana[^20] | little food |
 | ku | √sad + ya | kosajja | laziness, inactivity |
-| ku | √kar + ya | kukkucca | misbehaviour, remorse |
+| ku | √kar + ta + ya | kukkucca | misbehaviour, remorse |
 | ku | magga | kummagga | wrong road, bad way |
 | ku | nadī | kunnadī | small stream |
 | ku | sobbha | kusobbha | small pool |

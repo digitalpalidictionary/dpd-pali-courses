@@ -22,7 +22,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 
 | | | |
 | --- | --- | --- |
-| iti’ss**a** | **i**me | itiss**a**me |
+| itiss**a** | **i**me | itiss**a**me |
 | thus for him | these | thus for him these |
 
 **ā![](../../assets/images/pacman-forward.png)i \> ā**
@@ -32,7 +32,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | chāy**ā** | **i**va | chāy**ā**va |
 | shadow | like | like a shadow |
 | att**ā** | **i**ti | att**ā**ti |
-| self | thus/” | “self” |
+| self | thus (end quote) | “self” |
 
 **ā![](../../assets/images/pacman-forward.png)e \> ā**
 
@@ -41,7 +41,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | tamh**ā** | **e**va | tamh**ā**va |
 | from that | just | just from that |
 | s**ā** | **e**va | s**ā**va |
-| she | just | just that |
+| that | just | just that |
 
 **i![](../../assets/images/pacman-forward.png)a \> i**
 
@@ -57,7 +57,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | | | |
 | --- | --- | --- |
 | n**u** | **a**si | n**u**si |
-| are? | you are | are you? |
+| (?) | you are | are you? |
 | ut**u** | **a**kkhāna | ut**u**kkhāna |
 | season | announcing | announcing seasons |
 
@@ -75,7 +75,7 @@ In Kaccāyana this is called (13) **vā paro asarūpo.**
 | | | |
 | --- | --- | --- |
 | n**u** | **e**ttha | n**u**ttha |
-| what? | here | what here? |
+| (?) | here | what here? |
 
 **ū![](../../assets/images/pacman-forward.png)a \> ū**
 

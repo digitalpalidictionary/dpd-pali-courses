@@ -8,7 +8,7 @@ for the sake of meter in verse.
 
 In Kaccāyana this is called (27) **lopañ’ca tatr’ākāro.**
 
-e.g. atha nibbindati dukkhe, **esa** **m**aggo visuddhiyā.
+e.g. atha nibbindati dukkhe, **esa m**aggo visuddhiyā.
 
 ([DHP277](https://s.dhamma.gift/kn/dhp/index.html#dhp273))
 
@@ -54,4 +54,4 @@ sampassataṃ brāhmaṇa **n’esa d**hammo.
 
 **Counter-examples:**
 
-All the normal cases when the word remains **so**, **eso**, or **neso**
+All the normal cases when the word remains **so**, **eso**, or **n’eso**

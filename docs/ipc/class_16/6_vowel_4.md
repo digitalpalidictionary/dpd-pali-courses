@@ -26,7 +26,8 @@ In Kaccāyana this is called (16) **pubbo ca.**
 | for such an existence | thus | for such an existence” |
 | dukkhass**a** | **i**ti | dukkhass**ā**ti |
 | of suffering | thus | of suffering” |
-| this occurs with all words ending in **a + iti** | | |
+
+This occurs with all words ending in **a + iti**.
 
 **i![](../../assets/images/arrow.png)![](../../assets/images/pacman-forward.png)a \> ī**
 
@@ -49,7 +50,8 @@ In Kaccāyana this is called (16) **pubbo ca.**
 | what? | here | what here? |
 | vāyodhāt**u** | **i**ti | vāyodhāt**ū**ti |
 | wind element | thus | wind element” |
-| this occurs with all words ending in **u + iti** | | |
+
+This occurs with all words ending in **u + iti**.
 
 what is **Possibility \#4 ?**
 
