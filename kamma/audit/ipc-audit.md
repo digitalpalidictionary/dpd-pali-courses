@@ -193,6 +193,10 @@ When apply approved suggestions:
 
 Always correct corresponding sentences and tables in the docs/ipc_ex/ and docs/ipc_key/ since there we have exercise related to this class, and maybe something from here will be relevant there. key and ex need to be synced.
 
+**SBS sync.** Every key sentence is also stored in the SBS table of dpd-db (`class_*` fields, `class_anki` = class number), which feeds Anki and the other exports, so the SBS table must correspond to the key. When a fix changes a key sentence's translation, its Pāli text, or the POS/headword of a word (e.g. noun → adj/pp, a separate DPD row), find and update the SBS rows with `uv run python kamma/audit/scripts/sbs_sync.py` (`check <key file> --since <rev>` lists what the edit put out of sync; `replace`, `set`, `move`, `clear` change the DB, dry run until `--apply`). Get the owner's approval before writing to the DB.
+
+**Word gloss vs sentence translation.** When a fix changes the gloss, POS or reading of a word in the analysis table, check the sentence translation below the table and change it to match (and then the SBS translation, see above). A table-only fix leaves the translation telling a different story (e.g. `vo` changed from "surely" to "your" in 27_class.md, but the translation kept "surely").
+
 ## A. Pāli and grammar content errors
 
 | Location | Current | Problem | Suggested | Conf. |

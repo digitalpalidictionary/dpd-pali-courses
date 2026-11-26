@@ -212,6 +212,10 @@ Helper scripts for the read-only audits live in `kamma/audit/scripts/`; the proc
   - Usage: `uv run python kamma/audit/scripts/verify_rows.py docs/ipc_key kamma/audit/scratch/key-*.md`
 - **`merge_audit.py`**: Merges the slice files into the final audit file, as described by a TOML config (format in the audit guide).
   - Usage: `uv run python kamma/audit/scripts/merge_audit.py kamma/audit/scratch/merge.toml`
+- **`sbs_sync.py`**: Keeps the SBS table of dpd-db in step with the course keys. It searches and edits any SBS column group (`class`, `sbs_1`, `sbs_2`, `dhp`, `pat`, `vib`, `discourses`, `extra`) and checks a key file against the `class_*` rows. Path from `$DPD_DB`. Writes only with `--apply`.
+  - Check: `uv run python kamma/audit/scripts/sbs_sync.py check docs/bpc_key/5_class.md [--since <rev>] [--only TRANS]` (TRANS / PALI spelling variant / POS / ORPHAN / NO-SBS; `--since` shows only what is new since that commit; `--only TRANS` is the translation sync alone)
+  - Search: `… sbs_sync.py show <lemma|id>…` · `… sbs_sync.py find "<pāli or english>" [--class N] [--source SN22.33] [--group class]`
+  - Edit: `… sbs_sync.py replace "<old>" "<new>" --field class_example_translation [--class N] [--source S] [--apply]` (matches through `<b>` tags and keeps the bold on the same letters) · `set <id> field=value … [--apply]` · `move <from_id> <to_id> [--force] [--apply]` (noun → adj/pp row) · `clear <id> [--apply]`
 
 ## Local Development
 

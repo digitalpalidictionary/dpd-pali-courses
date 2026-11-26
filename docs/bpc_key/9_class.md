@@ -87,7 +87,7 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| kallaṃ | adj | nt.nom.sg | suitable; proper | |
+| kallaṃ | ind | - | is it suitable? | |
 | nu | ind | interr | ? | |
 | taṃ | pron | nt.acc.sg | that | |
 | samanupassituṃ | verb | inf | to see, to regard, to consider | √dis･1 a (see) |

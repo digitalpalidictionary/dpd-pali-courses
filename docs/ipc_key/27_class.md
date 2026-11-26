@@ -141,7 +141,7 @@
 | dhammā | noun | masc.nom.pl | mental states | |
 | abhivaḍḍhissanti | verb | fut.3rd.pl | will increase more and more | abhi + √vaḍḍh + a + issa + nti |
 
-**But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for those who practice accordingly, surely the defiling mental states will be abandoned and purifying mental states will increase more and more.**
+**But I teach, Poṭṭhapāda, the doctrine for the giving up of the acquisition of the gross self, for you who practice accordingly, the defiling mental states will be abandoned and purifying mental states will increase more and more.**
 
 6. [MN131](https://s.dhamma.gift/mn/mn131/index.html)
    ajj'eva **kiccam'ātappaṃ**,

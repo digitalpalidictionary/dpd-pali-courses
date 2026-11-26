@@ -68,7 +68,7 @@
 | aniccaṃ | adj | | | |
 | dukkhaṃ | adj | | | |
 | vipariṇāma- / dhammaṃ | adj | | | |
-| kallaṃ | adj | | | |
+| kallaṃ | ind | | | |
 | nu | | | | |
 | taṃ | pron | | | |
 | samanupassituṃ | | | | |
