@@ -1270,6 +1270,7 @@
 | ūna 2 | nt | shortage (of); deficiency (of); lack (of); want (of); need (for) |  |  | a nt | 9 |
 | abhikkantāya rattiyā | idiom | as the evening passed; as the night progressed |  | abhikkantāya + rattiyā |  | 10 |
 | adhiṭṭhahāna | prp | concentrating; focusing; fixing one's attention (on) | √ṭhā 1 a (stand) | adhi + ṭhaha + āna | āna prp | 10 |
+| ajjhāvasanta 1 | prp | living; inhabiting; staying (in) | √vas 1 a (live) | adhi > adhy > ajjh + ā + vasa + nta | anta prp | 10 |
 | ajānanta | prp | not knowing; being ignorant (of) | √ñā 5 nā (know) | na > a + jānā + nta | anta prp | 10 |
 | ajīyamāna | prp | not growing old; not getting old; not ageing | √jī 3 ya (age, decay) | na > a + jīya + māna | māna prp | 10 |
 | amu | pron | (of person or place or thing) that; such; so and so; that yonder |  |  | amu pron | 10 |
@@ -2067,6 +2068,7 @@
 | virajjati 1 | pr | becomes detached (from); loses interest (in); becomes dispassionate (towards); gets bored (with) | √raj 3 ya (desire) | vi + rajja + ti | ati pr | 13 |
 | virajjituṃ | inf | to lose desire (for); to become detached (from); to lose interest (in); to become dispassionate (about); to get bored (of) | √raj 3 ya (desire) | vi + rajja + ituṃ |  | 13 |
 | vitthārena 1 | ind | in detail; in full; thoroughly | √thar 1 a (spread, expand) | vi + √thar > thār + *a + ena |  | 13 |
+| vo 3.1 | ind | indeed; truly; surely |  |  |  | 13 |
 | vuccati | pr | is said to be; is called | √vac 1 ya (say, speak) | vucca + ti | ati pr | 13 |
 | vuyhamāna | prp | being carried away; being swept along (by) | √vah 1 ya (carry, bring) | vuyha + māna | māna prp | 13 |
 | yadi 1 | ind | if; even; even if; perhaps |  | ya + di |  | 13 |

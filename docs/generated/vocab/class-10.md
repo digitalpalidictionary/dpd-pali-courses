@@ -719,6 +719,7 @@
 | āyu 2 | nt | life force; life energy | √i 1 a (come, go) | ā + √i > ay + *u | u nt | 9 |
 | ūna 2 | nt | shortage (of); deficiency (of); lack (of); want (of); need (for) |  |  | a nt | 9 |
 | abhikkantāya rattiyā | idiom | as the evening passed; as the night progressed |  | abhikkantāya + rattiyā |  | 10 |
+| ajjhāvasanta 1 | prp | living; inhabiting; staying (in) | √vas 1 a (live) | adhi > adhy > ajjh + ā + vasa + nta | anta prp | 10 |
 | ajānanta | prp | not knowing; being ignorant (of) | √ñā 5 nā (know) | na > a + jānā + nta | anta prp | 10 |
 | amu | pron | (of person or place or thing) that; such; so and so; that yonder |  |  | amu pron | 10 |
 | anañña | pron | not another; no other |  | na > an + añña | a pron | 10 |

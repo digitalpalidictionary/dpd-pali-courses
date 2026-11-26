@@ -343,6 +343,7 @@
 | ātāpī | adj | avid; ardent; zealous; keen; with continuous effort | √tap 1 a (burn, radiate heat) | ā + √tap > tāp + *ī | ī adj | 5 |
 | abhibhū 1 | masc | conqueror; victor; vanquisher; master (of) | √bhū 1 a (be, become) | abhi + √bhū + ū | ū masc | 6 |
 | ajja | ind | today; now |  | ima + jja |  | 6 |
+| ajjhāvasatar | masc | who lives in a home; who is domestically settled | √vas 1 a (live) | adhi > adhy > ajjh + ā + vasa + tar | ar masc | 6 |
 | assutavant | adj | unlearned; untaught; uninitiated; untrained | √su 4 ṇā (hear) | na > a + √su + ta + vant | ant adj | 6 |
 | balavant 1 | adj | strong; powerful | √bal 1 a (be strong, live) | √bal + a + vant | ant adj | 6 |
 | bhagavant 1 | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epithet of the Buddha | √bhaj 1 a (divide, distribute) | √bhaj > bhag + a + vant | ant masc | 6 |

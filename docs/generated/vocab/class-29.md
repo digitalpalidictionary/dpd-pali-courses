@@ -1478,6 +1478,7 @@
 | ūna 2 | nt | shortage (of); deficiency (of); lack (of); want (of); need (for) |  |  | a nt | 9 |
 | abhikkantāya rattiyā | idiom | as the evening passed; as the night progressed |  | abhikkantāya + rattiyā |  | 10 |
 | adhiṭṭhahāna | prp | concentrating; focusing; fixing one's attention (on) | √ṭhā 1 a (stand) | adhi + ṭhaha + āna | āna prp | 10 |
+| ajjhāvasanta 1 | prp | living; inhabiting; staying (in) | √vas 1 a (live) | adhi > adhy > ajjh + ā + vasa + nta | anta prp | 10 |
 | ajānanta | prp | not knowing; being ignorant (of) | √ñā 5 nā (know) | na > a + jānā + nta | anta prp | 10 |
 | ajīyamāna | prp | not growing old; not getting old; not ageing | √jī 3 ya (age, decay) | na > a + jīya + māna | māna prp | 10 |
 | akubbanta | prp | not doing; not making | √kar 7 o (do, make) | na > a + kubba + nta | anta prp | 10 |
