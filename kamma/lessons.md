@@ -34,3 +34,6 @@
 - 2026-11-26 [BEHAVIOR] sbs_sync replace and check missed rows where a <b> tag split the text or the Pāli was a spelling variant (mam'accayena, uṭṭhāy'āsanā, [^n] markers), and A was built from those pairings; a grouping by exact normalised text needs a leftover sweep (same class+source still holding the old value) before reporting done
 - 2026-11-26 [REPEATED] filed the DN9.7 translation (vo table row fixed, sentence still "surely") as a pre-existing problem, but a gap left by the commits under review belongs to the current task
 - 2026-11-26 [POSITIVE] backing up every touched sbs row to JSON before each --apply batch made the later corrections safe to make and easy to audit
+- 2026-11-26 [WORKFLOW] a six-task handoff (DB sync with approval tables plus script features) was passed to /kamma:quick; it had to be split into handoffs first — check scope against quick's limits before invoking it
+- 2026-11-26 [POSITIVE] comparing old vs new dpd_lookup.py output per form over all 5 481 key forms found a crash (957k lookup rows with empty headwords) that the fixture tests missed
+- 2026-11-26 [BEHAVIOR] asked the owner to run manual checks I could script myself; for CLI/data tools, run the real-data regression before Stop 2 and report it

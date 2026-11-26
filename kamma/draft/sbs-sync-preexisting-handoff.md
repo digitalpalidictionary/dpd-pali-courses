@@ -50,16 +50,8 @@ Rows changed in the commit-era fix are backed up in `kamma/audit/scratch/sbs_bac
    - Causes: spelling drift (e.g. `ananda`, `tam`, hyphens kept, spacing), sentences cut from the key, and class 1. SBS class 1 has 25 rows taken from other texts, but key class 1 has only one sentence.
    - For each: fix `class_example` to the key's Pāli and keep the `<b>` on the same word, or `clear` if the sentence was cut on purpose. Ask the owner about class 1.
 5. **NO-SBS.** Key sentences with no SBS row. This is often intentional: every word was already marked in an earlier class, or the line is a short question such as "katame pañca?". Report only the ones that look like gaps.
-6. **Make the DPD checks look for DPD's own example sentences.**
-   - **Rule (owner, 2026-11-26):** if a DPD headword has the key sentence (or a near-identical one) in `example_1` or `example_2`, that is a strong argument to keep the key's reading of the word under that headword (its POS, grammar and gloss). Change it only for a real grammatical error, not for a different but valid interpretation.
-   - **Case that set the rule:** `kallaṃ` in SN22.59 (`docs/bpc_key/9_class.md`). The audit fix in `d35b4299` changed it from `ind` "is it suitable?" to `adj nt.nom.sg` "suitable; proper". DPD's `kallaṃ` (id 20715, ind) quotes exactly this sentence in `example_1`, and SBS marks that headword/q. The owner had the key row (and the exercise row) reverted to `ind`.
-   - about dpd-lookup - We need to develop dpd_lookup.py - right now it is stop when it find one headword, example `pallaṅkena` match `pallaṅkena` and `pallaṅka 1&2` but it does not see `pallaṅkena` as option there. The material should be syned with DPD. In rare cases it also means suggest change to DPD.
-   - **Scripts to adjust:**
-     - `scripts/verify_key.py --dpd` (`DpdDb`, `classify_row`): for each word, record whether one of its DPD readings has the sentence in `example_1`/`example_2`. Report that reading as the preferred one, and flag a key POS or grammar that disagrees with it.
-     - `kamma/audit/scripts/dpd_lookup.py`: optionally take the sentence and mark the headword whose example contains it.
-     - `kamma/audit/scripts/sbs_sync.py check`: for a POS mismatch, say whether the SBS headword's DPD example is this sentence. If it is, the key is the side to question.
-   - **Matching:** normalise like `sbs_sync.norm` (strip tags, apostrophes, punctuation, case) and accept containment either way, because DPD examples are often longer or shorter than the key sentence (here DPD has `yaṃ pan'āniccaṃ …` against the key's simplified `yaṃ aniccaṃ …`).
-   - **Audits:** add the rule to `kamma/audit/audit-guide.md` (DPD lookups) once the scripts support it, so no audit row changes a reading that DPD documents with this very sentence.
+
+The former task 6 (make the DPD checks look for DPD's own example sentences, owner rule of 2026-11-26, `kallaṃ` case) moved to `kamma/draft/dpd-example-match-handoff.md`. Do it before task 2 (POS): if DPD quotes the key sentence under a headword, the key's reading there is the one to keep.
 
 Note: done on 2026-11-26, the DN9.7 translation (`vo` = "your") was fixed in the key and in SBS, as part of the commit-era task.
 

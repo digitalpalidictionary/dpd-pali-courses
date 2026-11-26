@@ -202,8 +202,8 @@ Pre-processing scripts run a series of checks and corrections before building th
 
 Helper scripts for the read-only audits live in `kamma/audit/scripts/`; the process is described in `kamma/audit/audit-guide.md`. The guide and the scripts hold no project paths and are symlinked into other projects (e.g. `study-tools`), so run them from the root of the project being audited.
 
-- **`dpd_lookup.py`**: Prints DPD headword rows (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. Needs a local `dpd.db` (path from `$DPD_DB`).
-  - Usage: `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> [<lemma> …]`
+- **`dpd_lookup.py`**: Prints every DPD headword row (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. An inflected form lists all headwords DPD's `lookup` table gives for it (e.g. `pallaṅkena` → `pallaṅka 1`, `pallaṅka 2`, `pallaṅkena`). Needs a local `dpd.db` (path from `$DPD_DB`).
+  - Usage: `uv run python kamma/audit/scripts/dpd_lookup.py <lemma or form> [<lemma or form> …]`
 - **`mech_checks.py`**: Mechanical checks over any folder of Markdown files (tables, links, anchors, index titles, headings, footnotes, stray characters, convention counts).
   - Usage: `uv run python kamma/audit/scripts/mech_checks.py docs/ipc [--links-out <file>] [--folder-footnotes]`
 - **`key_vs_ex.py`**: Compares the numbered sentences of a key folder with the same-named exercise files.

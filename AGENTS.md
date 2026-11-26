@@ -43,6 +43,7 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 ## Course Audits (`kamma/audit/`)
 - Read-only audits of course folders (findings lists, never edit `docs/`). Follow `kamma/audit/audit-guide.md` (process, row format, categories, limits). Output: `kamma/audit/<course>-audit.md`; work in progress and handoff state in `kamma/audit/scratch/STATE.md`.
 - Check every suspicious Pāli form, grammar tag, root or gloss in DPD with `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …` before reporting it.
+- After writing to the SBS table with `kamma/audit/scripts/sbs_sync.py`, re-check every row of the same class+source for the old value (spelling variants and `<b>`-split rows are not grouped together), and back up the touched rows first.
 
 ## Sutta Links
 - Every sutta/Vinaya reference must use `https://s.dhamma.gift/...`; the old `find.dhamma.gift/bw/` host is dead (GitHub #9). Never hand-write a URL shape — the mapping rules (mn/dn page-per-sutta, sn/an `#<id>`, `/kn/...` for snp/ud/kp/dhp/thag/thig/iti, and the Vinaya renames sn→ss, an→as, `bu-pt` → `pm3..pm9`) live in `kamma/tech.md` → Sutta links and in `scripts/rewrite_sutta_links.py`. Re-verify with `uv run python scripts/check_sutta_links.py` (network; cached in `temp/`).
