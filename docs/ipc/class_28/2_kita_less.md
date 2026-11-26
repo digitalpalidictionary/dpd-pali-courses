@@ -1,8 +1,8 @@
 # Less Frequent *kita*
 
-All counts on this page are from DPD.[^26]
+All counts on this page are from DPD.[^25]
 
-[^26]: This data is relevant for the year 2026.
+[^25]: This data is relevant for the year 2026.
 
 ## ya
 

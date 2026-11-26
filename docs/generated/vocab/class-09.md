@@ -666,6 +666,7 @@
 | yesu tesu | idiom | among whom… among them; in which… in those |  |  |  | 9 |
 | yāva 1 | ind | as long as; as far as; so much so; up to; until; from… to |  |  |  | 9 |
 | yāva tāva | idiom | as long as… then; as far as… that much; until… to that extent |  |  |  | 9 |
+| āpa | nt | water; liquid | √āp 4 uṇā (be wet) | √āp + a | a nt | 9 |
 | āsana 1 | nt | seat; chair | √ās 1 a (sit) | √ās + ana | a nt | 9 |
 | āyu 2 | nt | life force; life energy | √i 1 a (come, go) | ā + √i > ay + *u | u nt | 9 |
 | ūna 2 | nt | shortage (of); deficiency (of); lack (of); want (of); need (for) |  |  | a nt | 9 |

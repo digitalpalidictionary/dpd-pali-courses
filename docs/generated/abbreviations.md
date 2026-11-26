@@ -13,7 +13,7 @@
 | ◑ | word data is partially complete with a meaning in context but minimal other information. |  |  |  |
 | ✔ | word data is complete with contextual meaning, grammar, sutta example and other relevant information.  |  |  |  |
 | ✘ | word data is still under construction.   |  |  |  |
-| 1st | first person | uttama; uttamapurisa | mayaṃ - pron <b>1st</b> nom sg of ahaṃ | I; we |
+| 1st | first person | uttama; uttamapurisa | mayaṃ - pron <b>1st</b> nom pl of ahaṃ | I; we |
 | 2nd | second person | majjhima; majjhimapurisa | ehi - verb imp <b>2nd</b> sg from eti | you; you all |
 | 3rd | third person | paṭhama; paṭhamapurisa | hontu - verb imp <b>3rd</b> pl from hoti | he; they |
 | abbrev | abbreviation |  |  |  |

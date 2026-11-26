@@ -65,7 +65,6 @@
 - [Practice](class_20/6_ex.md)
 
 ## [Class 21](class_21/index.md)
-- [Review of Verbs](class_21/1_review_verbs.md)
 - [Three Voices: Active, Reflexive and Passive](class_21/2_voices.md)
 - [Passive Reflexive](class_21/3_pass_refl.md)
 - [Present Tense (vattamānā)](class_21/4_pres.md)

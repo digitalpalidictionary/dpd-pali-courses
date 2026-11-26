@@ -1,8 +1,8 @@
 # More Primary Derivatives
 
-In DPD there are more than 160 suffixes of primary derivatives that are used to form more than 9000 nouns, adjectives, substantives and participles.[^25]
+In DPD there are more than 160 suffixes of primary derivatives that are used to form more than 9000 nouns, adjectives, substantives and participles.[^24]
 
-[^25]: All counts on this page are from DPD. This data is relevant for the year 2026.
+[^24]: All counts on this page are from DPD. This data is relevant for the year 2026.
 
 The **first 18** account for **89%** of the words formed by *kita* suffixes, so these are the most important to know.
 

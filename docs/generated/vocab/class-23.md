@@ -1221,6 +1221,7 @@
 | ñāṇa 2 | nt | knowing (of); understanding (of); insight (into) | √ñā 5 nā (know) | √ñā + aṇa | a nt | 9 |
 | ādhipateyya | nt | authority; influence; power; determining factor | √pat 3 ya (command, control) | adhi > ādhi + √pat + i + *eyya | a nt | 9 |
 | āmisa 3 | nt | worldly thing; physical item; material stuff |  | āma + isa | a nt | 9 |
+| āpa | nt | water; liquid | √āp 4 uṇā (be wet) | √āp + a | a nt | 9 |
 | ārabhituṃ 1 | inf | (of energy) to arouse | √rabh 1 a (begin) | ā + √rabh + ituṃ |  | 9 |
 | ārogya 1 | nt | health; wellness; freedom from disease | √ruj 1 a (hurt, be painful) | na + √ruj > rog + *a + *ya | a nt | 9 |
 | āsana 1 | nt | seat; chair | √ās 1 a (sit) | √ās + ana | a nt | 9 |
@@ -1419,7 +1420,7 @@
 | asārato | ind | as unessential; as insubstantial; as valueless; as essenceless | √sar 1 a (go, flow) | na > a + √sar > sār + *a + to |  | 11 |
 | attaniya | adj | one's own; belonging to oneself; fit to be a self |  | atta + [n] + iya | a adj | 11 |
 | attato | ind | as oneself; as self |  | atta + to |  | 11 |
-| atīta 2 | pp | past; gone past; bygone | √i 1 a (come, go) | ati + √i + ta | a pp | 11 |
+| atīta 1 | nt | past; what is past | √i 1 a (come, go) | ati + √i + ta | a nt | 11 |
 | avakkhitta | pp | dropped; thrown down | √khip 1 a (throw) | ava + √khip + ta | a pp | 11 |
 | avatthu | adj | without base; without grounds; without foundation | √vas 1 a (live) | na > a + √vas + thu | u adj | 11 |
 | avañjha | adj | productive; profitable; successful |  | na > a + vañjha | a adj | 11 |
@@ -2415,7 +2416,6 @@
 | tejas 1 | masc | flame; fire; heat | √tij 8 *e (be sharp, be hot) | √tij > tej + *as | as masc | 18 |
 | vacasā | masc | by word; by speech; verbally | √vac 1 a (say, speak) | √vac + as + ā | as masc | 18 |
 | vāyas | masc | air; wind | √vā 1 a (blow, emit odour) | √vā + [y] + as | as masc | 18 |
-| āpas | masc | water; liquid | √āp 4 uṇā (be wet) | √āp + as | as masc | 18 |
 | ātuma 1 | masc | self; oneself; personality; individual |  |  | a2 masc | 18 |
 | abhedanamukha | nt | natural orifice |  | na > a + bhedana + mukha | a nt | 19 |
 | abhijjhādomanassa | masc | covetousness and depression; wanting and unhappiness; craving and aversion; greed and distress |  | abhijjhā + domanassa | a masc | 19 |

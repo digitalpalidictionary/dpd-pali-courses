@@ -55,9 +55,9 @@ These bases (marked with \*) mostly exist in participle forms.
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| √yaj | to sacrifice | ya | ijja | ijjati[^24] | is sacrificed |
+| √yaj | to sacrifice | ya | ijja | ijjati[^23] | is sacrificed |
 
-[^24]: Not a textual example
+[^23]: Not a textual example
 
 ## Some roots with va- change to vu- or u-
 

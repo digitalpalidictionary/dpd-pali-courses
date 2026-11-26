@@ -1412,6 +1412,7 @@
 | ādhipateyya | nt | authority; influence; power; determining factor | √pat 3 ya (command, control) | adhi > ādhi + √pat + i + *eyya | a nt | 9 |
 | ādhāna 2 | nt | placing; putting; keeping; (comm) strongly | √dhā 1 a (place, support) | ā + √dhā + ana | a nt | 9 |
 | āmisa 3 | nt | worldly thing; physical item; material stuff |  | āma + isa | a nt | 9 |
+| āpa | nt | water; liquid | √āp 4 uṇā (be wet) | √āp + a | a nt | 9 |
 | ārabhituṃ 1 | inf | (of energy) to arouse | √rabh 1 a (begin) | ā + √rabh + ituṃ |  | 9 |
 | ārogya 1 | nt | health; wellness; freedom from disease | √ruj 1 a (hurt, be painful) | na + √ruj > rog + *a + *ya | a nt | 9 |
 | āsana 1 | nt | seat; chair | √ās 1 a (sit) | √ās + ana | a nt | 9 |
@@ -1645,7 +1646,7 @@
 | atireka 1 | adj | surplus; excess; leftover; too much | √ric 2 ṃa (empty) | ati + √ric > rek + *a | a adj | 11 |
 | attaniya | adj | one's own; belonging to oneself; fit to be a self |  | atta + [n] + iya | a adj | 11 |
 | attato | ind | as oneself; as self |  | atta + to |  | 11 |
-| atīta 2 | pp | past; gone past; bygone | √i 1 a (come, go) | ati + √i + ta | a pp | 11 |
+| atīta 1 | nt | past; what is past | √i 1 a (come, go) | ati + √i + ta | a nt | 11 |
 | avakkhitta | pp | dropped; thrown down | √khip 1 a (throw) | ava + √khip + ta | a pp | 11 |
 | avasitta | pp | anointed; consecrated; crowned (on) | √sic 2 ṃa (sprinkle, pour) | ava + √sic + ta | a pp | 11 |
 | avatthu | adj | without base; without grounds; without foundation | √vas 1 a (live) | na > a + √vas + thu | u adj | 11 |
@@ -2847,7 +2848,6 @@
 | uras | masc | breast; heart; chest |  |  | as masc | 18 |
 | vacasā | masc | by word; by speech; verbally | √vac 1 a (say, speak) | √vac + as + ā | as masc | 18 |
 | vāyas | masc | air; wind | √vā 1 a (blow, emit odour) | √vā + [y] + as | as masc | 18 |
-| āpas | masc | water; liquid | √āp 4 uṇā (be wet) | √āp + as | as masc | 18 |
 | ātuma 1 | masc | self; oneself; personality; individual |  |  | a2 masc | 18 |
 | abbhutadhamma 1 | nt | marvellous accounts; unbelievable stories; one of the nine kinds of suttas |  | abbhuta + dhamma | a nt | 19 |
 | abhedanamukha | nt | natural orifice |  | na > a + bhedana + mukha | a nt | 19 |

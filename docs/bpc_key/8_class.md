@@ -419,7 +419,7 @@
 | dhītā | noun | fem.nom.sg | the daughter | |
 | abhikkantāya | adj [pp] | fem.loc.sg | in progressed | √kam･1 a (go) |
 | rattiyā | noun | fem.loc.sg | in the night | |
-| abhikkantavaṇṇā[^1] | adj | fem.nom.sg | stunningly beautiful | |
+| abhikkantavaṇṇā[^3] | adj | fem.nom.sg | stunningly beautiful | |
 | kevalakappaṃ | adj | nt.acc.sg | entire | |
 | mahāvanaṃ | noun | nt.acc.sg | the great forest | |
 | obhāsetvā | verb | abs [+acc] | having illuminated; [lit: caused to shine down] | √bhās･1 \*e (shine) |
@@ -519,7 +519,7 @@
 
 **It wards off hunger, dispels thirst, settles wind, purifies the bladder, [and] digests remnants of undigested food. Indeed, monks, these are the five benefits of rice porridge.**
 
-[^1]: Alternatively, can be taken as a noun masc instr sg - (having illuminated) with extraordinary appearance
+[^3]: Alternatively, can be taken as a noun masc instr sg - (having illuminated) with extraordinary appearance
 
 ## Class 8 Extra
 

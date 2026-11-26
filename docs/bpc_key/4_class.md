@@ -109,7 +109,7 @@
 **I went from my own village to such and such a village.**
 
 9. [AN5.57](https://s.dhamma.gift/an/an5/index.html#an5.57)
-   byādhi dhammo amhi[^1]
+   byādhi dhammo amhi[^2]
 
 | | | | |
 | --- | --- | --- | --- |
@@ -462,4 +462,4 @@
 
 **It was a thought of the recluse.**
 
-[^1]: Originally byādhidhammomhi
+[^2]: Originally byādhidhammomhi
