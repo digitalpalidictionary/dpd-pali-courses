@@ -11,7 +11,6 @@ This repository contains the source materials for the Digital Pāḷi Dictionary
     - `ipc/`: Intermediate Pāḷi Course (IPC) lessons.
     - `ipc_ex/`: IPC Exercises.
     - `ipc_key/`: IPC Answer Keys.
-    - `bpc_hi/`, `bpc_hi_ex/`, `bpc_hi_key/`: Hindi translation of the BPC (work in progress, done on the `hindi` branch). Built into PDF/DOCX locally, but kept off the website and out of releases until finished.
 - `identity/`: DPD CSS and JavaScript assets used for the website and document generation, plus the course palette override (`courses-variables.css`) and the logo/favicon in `identity/assets/`.
 - `scripts/`: Regularly used maintenance and generation scripts (runnable with `uv run`).
 - `kamma/audit/`: Read-only course audits (findings lists) with the audit guide, helper scripts and work-in-progress notes. Start with `kamma/audit/audit-guide.md`.
@@ -93,12 +92,6 @@ All scripts are located in the `scripts/` directory and can be run using `uv run
 ```bash
 ./scripts/cl/pali-build-pdf-doc
 ```
-
-**Generate only the Hindi BPC PDFs and DOCX (for translators, works offline):**
-```bash
-just hindi
-```
-Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the system dependencies above (Pango for PDF, Pandoc for DOCX). Output goes to `pdf_exports/bpc_hi*.pdf` and `docx_exports/bpc_hi*.docx`. It skips the footnote-renumbering and table-fixing pre-processing, so run `./scripts/cl/pali-build-pdf-doc` before a release.
 
 ### Content Verification & Validation
 

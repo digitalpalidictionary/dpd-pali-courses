@@ -2,6 +2,7 @@
 Verification script for PDF content integrity.
 Extracts text from generated PDFs and compares it with source Markdown to ensure no data loss.
 """
+
 import os
 import re
 import argparse
@@ -9,25 +10,39 @@ import unicodedata
 from pdfminer.high_level import extract_text
 from tools.printer import printer as pr
 
+
 def normalize_pali(text):
     """Robust normalization for Pāḷi text comparison."""
     if not text:
         return ""
-    text = unicodedata.normalize('NFD', text)
+    text = unicodedata.normalize("NFD", text)
     # Remove diacritics
     text = "".join([c for c in text if not unicodedata.combining(c)])
     text = text.lower()
     # Strip all non-alphanumeric
-    text = re.sub(r'[^a-z0-9]', '', text)
+    text = re.sub(r"[^a-z0-9]", "", text)
     return text
+
 
 def is_ignored(word):
     """Words to ignore in verification (UI, metadata, artifacts)."""
     ignored = {
-        'feedback', 'provide', 'suitable', 'viewform', 'google', 'usp_url', 
-        'entry', 'http', 'https', 'html', 'mailto', 'target', 'blank'
+        "feedback",
+        "provide",
+        "suitable",
+        "viewform",
+        "google",
+        "usp_url",
+        "entry",
+        "http",
+        "https",
+        "html",
+        "mailto",
+        "target",
+        "blank",
     }
     return word.lower() in ignored or len(word) < 6
+
 
 def verify_content(pdf_path, md_files):
     try:
@@ -37,34 +52,39 @@ def verify_content(pdf_path, md_files):
         return [f"Error reading PDF: {e}"]
 
     missing_report = []
-    
+
     for md_file in md_files:
-        with open(md_file, 'r', encoding='utf-8') as f:
+        with open(md_file, "r", encoding="utf-8") as f:
             # Extract all words including Pāḷi diacritics
-            md_words = set(re.findall(r'\b[a-zāīūṃṅñṭḍṇḷļ]{6,}\b', f.read().lower()))
-            
+            md_words = set(re.findall(r"\b[a-zāīūṃṅñṭḍṇḷļ]{6,}\b", f.read().lower()))
+
         for word in sorted(list(md_words)):
             if is_ignored(word):
                 continue
-            
+
             term = normalize_pali(word)
             if term not in pdf_compact:
                 # FINAL FALLBACK: very flexible regex for badly broken words
                 # e.g. "passiṃsu" -> "p...s...s"
-                skeleton = ".*?".join([c for c in term if c.isalpha()][::2]) # check every 2nd char
+                skeleton = ".*?".join(
+                    [c for c in term if c.isalpha()][::2]
+                )  # check every 2nd char
                 if not re.search(skeleton, pdf_compact):
                     missing_report.append(f"{word} ({os.path.basename(md_file)})")
-                    
+
     return missing_report
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Reliable integrity verification of PDF content.")
+    parser = argparse.ArgumentParser(
+        description="Reliable integrity verification of PDF content."
+    )
     parser.add_argument("--pdf", help="Specific PDF file")
     parser.add_argument("--md", help="Specific MD file")
     parser.add_argument("--pdf_dir", default="pdf_exports")
     parser.add_argument("--docs_dir", default="docs")
     args = parser.parse_args()
-    
+
     if args.pdf and args.md:
         pr.green_tmr(f"Verifying {os.path.basename(args.pdf)}")
         missing = verify_content(args.pdf, [args.md])
@@ -77,17 +97,14 @@ def main():
         return
 
     volumes = {
-        'bpc.pdf': ['docs/bpc', 'docs/about.md', 'docs/literature.md'],
-        'bpc_ex.pdf': ['docs/bpc_ex'],
-        'bpc_key.pdf': ['docs/bpc_key'],
-        'bpc_hi.pdf': ['docs/bpc_hi', 'docs/about.md', 'docs/literature.md'],
-        'bpc_hi_ex.pdf': ['docs/bpc_hi_ex'],
-        'bpc_hi_key.pdf': ['docs/bpc_hi_key'],
-        'ipc.pdf': ['docs/ipc', 'docs/about.md', 'docs/literature.md'],
-        'ipc_ex.pdf': ['docs/ipc_ex'],
-        'ipc_key.pdf': ['docs/ipc_key'],
+        "bpc.pdf": ["docs/bpc", "docs/about.md", "docs/literature.md"],
+        "bpc_ex.pdf": ["docs/bpc_ex"],
+        "bpc_key.pdf": ["docs/bpc_key"],
+        "ipc.pdf": ["docs/ipc", "docs/about.md", "docs/literature.md"],
+        "ipc_ex.pdf": ["docs/ipc_ex"],
+        "ipc_key.pdf": ["docs/ipc_key"],
     }
-    
+
     pr.green_tmr("Verifying PDF content")
     warnings = []
     for pdf_name, source_dirs in volumes.items():
@@ -103,9 +120,9 @@ def main():
                 for root, _, files in os.walk(s_dir):
                     for f in files:
                         rel_p = os.path.relpath(os.path.join(root, f), args.docs_dir)
-                        if len(rel_p.split(os.sep)) == 2 and f == 'index.md':
+                        if len(rel_p.split(os.sep)) == 2 and f == "index.md":
                             continue
-                        if f.endswith('.md'):
+                        if f.endswith(".md"):
                             md_files.append(os.path.join(root, f))
 
         missing = verify_content(pdf_path, md_files)
@@ -121,6 +138,7 @@ def main():
         exit(1)
     else:
         pr.yes("ok")
+
 
 if __name__ == "__main__":
     main()

@@ -114,4 +114,3 @@ Four stages: one switch to the Pro model and back, and one owner approval.
 - Creating SBS rows for NO-SBS gaps (report only).
 - Changes to DPD headwords (at most suggested in the report).
 - `kamma/audit/ipc-audit.md` (it covers the IPC lessons, not the key).
-- Hindi (`bpc_hi*`).

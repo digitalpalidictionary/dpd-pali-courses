@@ -6,7 +6,7 @@ Automatically generates the navigation section using headings from Markdown file
 import os
 import posixpath
 import re
-import yaml
+import yaml  # pyrefly: ignore [untyped-import]
 
 from tools.printer import printer as pr
 
@@ -55,7 +55,7 @@ def build_class_nav(base_dir):
         ],
         key=lambda x: int(x.split("_")[1]) if x.split("_")[1].isdigit() else 0,
     )
-    nav = []
+    nav: list[dict] = []
     section_index = posixpath.join(base_dir, "index.md").replace("docs/", "")
     if os.path.exists(posixpath.join("docs", section_index)):
         nav.append({"Lessons Index": section_index})
@@ -108,7 +108,7 @@ def build_anki_nav():
 
 
 def build_reference_nav():
-    nav = []
+    nav: list[dict] = []
     abbrev_path = "docs/generated/abbreviations.md"
     if os.path.exists(abbrev_path):
         nav.append({"Abbreviations": "generated/abbreviations.md"})
@@ -261,21 +261,6 @@ config = {
         {"Reference": build_reference_nav()},
     ],
     "plugins": ["search"],
-    # Translations stay off the website until finished. The PDF/DOCX scripts
-    # still read 'unpublished_nav' for file order, so drafts can be built locally.
-    # To publish: move the entry into 'nav' and drop its 'exclude_docs' pattern.
-    "exclude_docs": "/bpc_hi/\n/bpc_hi_ex/\n/bpc_hi_key/\n",
-    "extra": {
-        "unpublished_nav": [
-            {
-                "Beginner Course Hindi (BPC-HI)": [
-                    {"Lessons": build_class_nav("docs/bpc_hi")},
-                    {"Exercises": build_file_nav("docs/bpc_hi_ex")},
-                    {"Answer Keys": build_file_nav("docs/bpc_hi_key")},
-                ]
-            },
-        ]
-    },
 }
 
 if __name__ == "__main__":

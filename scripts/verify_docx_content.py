@@ -7,7 +7,7 @@ import os
 import sys
 import re
 from docx import Document
-import yaml
+import yaml  # pyrefly: ignore [untyped-import]
 from tools.printer import printer as pr
 
 
@@ -143,9 +143,6 @@ def main():
         "bpc",
         "bpc_ex",
         "bpc_key",
-        "bpc_hi",
-        "bpc_hi_ex",
-        "bpc_hi_key",
         "ipc",
         "ipc_ex",
         "ipc_key",

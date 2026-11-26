@@ -4,7 +4,7 @@ Maintains visual parity with PDF output for offline study.
 """
 
 import os
-import yaml
+import yaml  # pyrefly: ignore [untyped-import]
 import re
 import subprocess
 import pypandoc
@@ -27,9 +27,6 @@ FOLDER_NAMES = {
     "bpc": "Beginner Pāḷi Course (BPC)",
     "bpc_ex": "Beginner Pāḷi Course (BPC) - Exercises",
     "bpc_key": "Beginner Pāḷi Course (BPC) - Answer Key",
-    "bpc_hi": "Beginner Pāḷi Course (BPC) - Hindi",
-    "bpc_hi_ex": "Beginner Pāḷi Course (BPC) - Hindi Exercises",
-    "bpc_hi_key": "Beginner Pāḷi Course (BPC) - Hindi Answer Key",
     "ipc": "Intermediate Pāḷi Course (IPC)",
     "ipc_ex": "Intermediate Pāḷi Course (IPC) - Exercises",
     "ipc_key": "Intermediate Pāḷi Course (IPC) - Answer Key",
@@ -136,9 +133,7 @@ def aggregate_markdown(
     if folder.endswith(("_ex", "_key")):
         aggregated += build_manual_toc(files_data) + PAGEBREAK
 
-    needs_file_pagebreaks = folder in ("bpc", "ipc", "bpc_hi") or folder.endswith(
-        ("_ex", "_key")
-    )
+    needs_file_pagebreaks = folder in ("bpc", "ipc") or folder.endswith(("_ex", "_key"))
     is_ex = folder.endswith("_ex")
 
     for i, (file_path, content) in enumerate(files_data):
@@ -232,9 +227,6 @@ def get_markdown_files(docs_dir: str) -> dict[str, list[str]]:
         "bpc",
         "bpc_ex",
         "bpc_key",
-        "bpc_hi",
-        "bpc_hi_ex",
-        "bpc_hi_key",
         "ipc",
         "ipc_ex",
         "ipc_key",
@@ -365,15 +357,6 @@ def main() -> None:
     args = parser.parse_args()
 
     docs_dir = "docs"
-    # The isdir(docs_dir) half keeps a wrong-cwd run failing loudly further down
-    # instead of claiming a folder "is not on this branch".
-    if (
-        os.path.isdir(docs_dir)
-        and args.folder in FOLDER_NAMES
-        and not os.path.isdir(os.path.join(docs_dir, args.folder))
-    ):
-        pr.amber(f"{args.folder}: sources not on this branch — skipped")
-        return
     output_dir = "docx_exports"
     f_by_dir = get_markdown_files(docs_dir)
 
@@ -419,8 +402,8 @@ def main() -> None:
                 title,
                 data,
                 folder=fld,
-                about_content=about_c if fld in ("bpc", "ipc", "bpc_hi") else "",
-                lit_content=lit_c if fld in ("bpc", "ipc", "bpc_hi") else "",
+                about_content=about_c if fld in ("bpc", "ipc") else "",
+                lit_content=lit_c if fld in ("bpc", "ipc") else "",
             )
 
             output_file = os.path.join(output_dir, f"{fld}.docx")

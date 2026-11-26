@@ -94,9 +94,6 @@ def get_all_pages(paths: SSGPaths):
         "ipc_ex",
         "bpc_key",
         "ipc_key",
-        "bpc_hi",
-        "bpc_hi_ex",
-        "bpc_hi_key",
     ]
     for section in sections:
         section_path = paths.docs_dir / section
@@ -248,9 +245,6 @@ def main(paths=None):
         "bpc_key": "BPC Keys",
         "ipc_ex": "IPC Exercises",
         "ipc_key": "IPC Keys",
-        "bpc_hi": "Content (BPC Hindi)",
-        "bpc_hi_ex": "BPC Hindi Exercises",
-        "bpc_hi_key": "BPC Hindi Keys",
     }
     for folder, title in sections.items():
         section_path = paths.docs_dir / folder

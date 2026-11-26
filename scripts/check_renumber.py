@@ -2,22 +2,24 @@
 Script to detect and correct numbering inconsistencies in Pāḷi sentence lists.
 Supports dry-run and automatic re-numbering of exercises and answer keys.
 """
+
 import os
 import re
 import argparse
 from tools.printer import printer as pr
 
+
 def renumber_file(file_path, dry_run=False):
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
 
     lines = content.splitlines()
     new_lines = []
     current_num = 0
     changed = False
-    
+
     # Pattern to match starting numbers like "1. ", "2.  ", "10. "
-    num_pattern = re.compile(r'^(\s*)(\d+)\.\s+(.*)$')
+    num_pattern = re.compile(r"^(\s*)(\d+)\.\s+(.*)$")
 
     for line in lines:
         match = num_pattern.match(line)
@@ -26,7 +28,7 @@ def renumber_file(file_path, dry_run=False):
             old_num = int(match.group(2))
             text = match.group(3)
             current_num += 1
-            
+
             if old_num != current_num:
                 changed = True
                 new_lines.append(f"{indent}{current_num}.  {text}")
@@ -34,31 +36,38 @@ def renumber_file(file_path, dry_run=False):
                 new_lines.append(line)
         else:
             # If we hit a heading, reset numbering
-            if line.strip().startswith('#'):
+            if line.strip().startswith("#"):
                 current_num = 0
             new_lines.append(line)
 
     if changed:
         if not dry_run:
-            with open(file_path, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(new_lines) + ('\n' if content.endswith('\n') else ''))
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write("\n".join(new_lines) + ("\n" if content.endswith("\n") else ""))
         return True
     return False
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Renumber Pāli sentences in markdown files.")
-    parser.add_argument("--dry-run", action="store_true", help="Print what would be changed without modifying files.")
+    parser = argparse.ArgumentParser(
+        description="Renumber Pāli sentences in markdown files."
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Print what would be changed without modifying files.",
+    )
     args = parser.parse_args()
 
     pr.green_tmr("Checking sentence numbering")
-    target_dirs = ['docs/bpc_ex', 'docs/bpc_key', 'docs/ipc_ex', 'docs/ipc_key', 'docs/bpc_hi_ex', 'docs/bpc_hi_key']
+    target_dirs = ["docs/bpc_ex", "docs/bpc_key", "docs/ipc_ex", "docs/ipc_key"]
     count = 0
     for d in target_dirs:
         if not os.path.exists(d):
             continue
         for root, _, files in os.walk(d):
             for file in files:
-                if file.endswith('.md') and file != 'index.md':
+                if file.endswith(".md") and file != "index.md":
                     fp = os.path.join(root, file)
                     if renumber_file(fp, args.dry_run):
                         count += 1
@@ -67,6 +76,7 @@ def main():
         pr.yes(f"{count} files")
     else:
         pr.yes("ok")
+
 
 if __name__ == "__main__":
     main()

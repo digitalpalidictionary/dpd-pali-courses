@@ -4,7 +4,7 @@ The single home for every rule and step of an owner-requested change to course m
 
 ## Scope
 
-- English folders only: `docs/bpc*` and `docs/ipc*`. Hindi (`bpc_hi*`) is always out of scope; never ask whether to include it.
+- English folders only: `docs/bpc*` and `docs/ipc*`.
 - One edit = one owner request. It may touch several sentences.
 - Never write DPD headwords; a needed DPD change is only a suggestion listed for the owner. The SBS table is the only part of dpd-db an edit writes.
 - Use this guide for: a key row, an exercise row, a translation, a lesson-page fix, an item moved between main and Extra, the SBS sync of any such change, and applying approved audit fixes.

@@ -6,8 +6,8 @@ It applies course-specific styling, cleans UI elements, and handles footnote ref
 import argparse
 import os
 import time
-import yaml
-import markdown
+import yaml  # pyrefly: ignore [untyped-import]
+import markdown  # pyrefly: ignore [untyped-import]
 import re
 import subprocess
 import sys
@@ -34,9 +34,6 @@ FOLDER_NAMES = {
     "bpc": "Beginner Pāḷi Course (BPC)",
     "bpc_ex": "Beginner Pāḷi Course (BPC) - Exercises",
     "bpc_key": "Beginner Pāḷi Course (BPC) - Answer Key",
-    "bpc_hi": "Beginner Pāḷi Course (BPC) - Hindi",
-    "bpc_hi_ex": "Beginner Pāḷi Course (BPC) - Hindi Exercises",
-    "bpc_hi_key": "Beginner Pāḷi Course (BPC) - Hindi Answer Key",
     "ipc": "Intermediate Pāḷi Course (IPC)",
     "ipc_ex": "Intermediate Pāḷi Course (IPC) - Exercises",
     "ipc_key": "Intermediate Pāḷi Course (IPC) - Answer Key",
@@ -170,7 +167,7 @@ def remove_empty_thead(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     for thead in soup.find_all("thead"):
         th_cells = thead.find_all("th")
-        if th_cells and all(not th.get_text(strip=True) for th in th_cells):
+        if len(th_cells) > 0 and all(not th.get_text(strip=True) for th in th_cells):
             thead.decompose()
     return str(soup)
 
@@ -260,7 +257,7 @@ def post_process_html(html_content: str) -> str:
     # Remove empty thead (prevents double border on headerless tables)
     for thead in soup.find_all("thead"):
         th_cells = thead.find_all("th")
-        if th_cells and all(not th.get_text(strip=True) for th in th_cells):
+        if len(th_cells) > 0 and all(not th.get_text(strip=True) for th in th_cells):
             thead.decompose()
 
     # Mark wide/long tables with sizing classes
@@ -439,7 +436,7 @@ def build_html_document(
         # Shift heading levels only for bpc/ipc which have a class→topic hierarchy.
         # ex/key folders have flat class files — their h1s stay at h1 so they appear
         # as top-level bookmarks alongside "Table of Contents".
-        if not is_idx and folder_type in ("bpc", "ipc", "bpc_hi"):
+        if not is_idx and folder_type in ("bpc", "ipc"):
             topic_html = re.sub(
                 r"<(/?)h([1-5])",
                 lambda m: f"<{m.group(1)}h{int(m.group(2)) + 1}",
@@ -472,7 +469,7 @@ def build_html_document(
 
     full_body_html = f"{title_html}{about_html}{lit_html}{toc_html}<div class='content'>{full_course_html}</div>"
     full_body_html = post_process_html(full_body_html)
-    if folder_type in ("bpc_ex", "ipc_ex", "bpc_hi_ex"):
+    if folder_type in ("bpc_ex", "ipc_ex"):
         full_body_html = equalize_table_columns(full_body_html)
 
     body_class = f' class="{folder_type}"' if folder_type else ""
@@ -507,9 +504,6 @@ def get_markdown_files(docs_dir: str):
         "bpc",
         "bpc_ex",
         "bpc_key",
-        "bpc_hi",
-        "bpc_hi_ex",
-        "bpc_hi_key",
         "ipc",
         "ipc_ex",
         "ipc_key",
@@ -675,15 +669,6 @@ def main():
     args = parser.parse_args()
 
     docs_dir = "docs"
-    # The isdir(docs_dir) half keeps a wrong-cwd run failing loudly further down
-    # instead of claiming a folder "is not on this branch".
-    if (
-        os.path.isdir(docs_dir)
-        and args.folder in FOLDER_NAMES
-        and not os.path.isdir(os.path.join(docs_dir, args.folder))
-    ):
-        pr.amber(f"{args.folder}: sources not on this branch — skipped")
-        return
     output_dir = "pdf_exports"
     css_paths = [
         "identity/dpd-pdf-fonts.css",
@@ -717,7 +702,7 @@ def main():
                     data.append((file_path, f.read()))
             ri_path = os.path.join(docs_dir, fld, "index.md")
             ri_c = ""
-            if fld in ["bpc", "ipc", "bpc_hi"] and os.path.exists(ri_path):
+            if fld in ["bpc", "ipc"] and os.path.exists(ri_path):
                 with open(ri_path, "r", encoding="utf-8") as f:
                     ri_c = f.read()
 
@@ -725,8 +710,8 @@ def main():
             html = build_html_document(
                 FOLDER_NAMES.get(fld, fld),
                 data,
-                title_c if fld in ["bpc", "ipc", "bpc_hi"] else "",
-                lit_c if fld in ["bpc", "ipc", "bpc_hi"] else "",
+                title_c if fld in ["bpc", "ipc"] else "",
+                lit_c if fld in ["bpc", "ipc"] else "",
                 fld,
                 root_index_content=ri_c,
             )
