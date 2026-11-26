@@ -2,6 +2,7 @@
 
 import argparse
 import difflib
+import json
 import os
 import re
 import sqlite3
@@ -59,8 +60,8 @@ def norm(text: str) -> str:
     return " ".join(text.split())
 
 
-EXAMPLE_MIN_WORDS = 4  # twin of scripts/verify_key.py: change both together
-EXAMPLE_COVERAGE = 0.80  # twin of scripts/verify_key.py: change both together
+EXAMPLE_MIN_WORDS = 4  # twin of verify_key.py (same folder): change both together
+EXAMPLE_COVERAGE = 0.80  # twin of verify_key.py (same folder): change both together
 
 
 ITEM_MARK_RE = re.compile(r"^\s*(?:\([^)]*\)|[A-Z][A-Za-z-]*\.?\s?\d[\d.,:-]*)\s*")
@@ -415,6 +416,59 @@ def cmd_clear(a: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_restore(a: argparse.Namespace) -> int:
+    """Put sbs rows back to a JSON backup made with `sqlite3 -json … select * from sbs where id in (…)`."""
+    rows = json.loads(Path(a.backup).read_text(encoding="utf-8"))
+    if not isinstance(rows, list) or not all(
+        isinstance(r, dict) and "id" in r for r in rows
+    ):
+        print(f"!! {a.backup}: not a list of sbs rows with an id")
+        return 1
+    con = connect(a.apply)
+    valid = set(cols_of(con))
+    for r in rows:
+        if unknown := set(r) - valid:
+            print(f"!! {r['id']}: unknown fields {sorted(unknown)}")
+            return 1
+    changed = 0
+    for r in rows:
+        hid, cols = r["id"], [c for c in r if c != "id"]
+        lemma, pos = headword(con, hid)
+        cur = con.execute(
+            f"select {', '.join(cols)} from sbs where id = ?", (hid,)
+        ).fetchone()
+        if cur is None:
+            print(
+                f"{hid} | {lemma} | {pos}\n   (no sbs row: insert it from the backup)"
+            )
+        else:
+            diffs = [(c, o) for c, o in zip(cols, cur) if o != r[c]]
+            if not diffs:
+                continue
+            print(f"{hid} | {lemma} | {pos}")
+            for c, o in diffs:
+                print(f"   {c}: {o!r}\n   {' ' * len(c)}→ {r[c]!r}")
+        changed += 1
+        if a.apply:
+            if cur is None:
+                con.execute(
+                    f"insert into sbs (id, {', '.join(cols)}) values (?, {', '.join('?' * len(cols))})",
+                    (hid, *(r[c] for c in cols)),
+                )
+            else:
+                sets = ", ".join(f"{c} = ?" for c in cols)
+                con.execute(
+                    f"update sbs set {sets} where id = ?", (*(r[c] for c in cols), hid)
+                )
+    print(f"-- {changed} of {len(rows)} rows differ from the backup")
+    if not a.apply:
+        print("-- dry run, add --apply to write")
+        return 0
+    con.commit()
+    print("-- written")
+    return 0
+
+
 def _insert_blank_sql(con: sqlite3.Connection) -> str:
     cols = [c for c in cols_of(con) if c != "id"]
     vals = [
@@ -693,6 +747,13 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("--group", **grp)
     s.add_argument("--apply", action="store_true")
     s.set_defaults(fn=cmd_clear)
+
+    s = sub.add_parser(
+        "restore", help="put sbs rows back to a JSON backup (sqlite3 -json output)"
+    )
+    s.add_argument("backup", help="backup file, e.g. kamma/edits/backups/….json")
+    s.add_argument("--apply", action="store_true")
+    s.set_defaults(fn=cmd_restore)
 
     s = sub.add_parser("check", help="compare a key file with sbs class_* rows")
     s.add_argument("key")

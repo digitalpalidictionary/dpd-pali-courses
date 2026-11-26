@@ -39,3 +39,5 @@
 - 2026-11-26 [BEHAVIOR] asked the owner to run manual checks I could script myself; for CLI/data tools, run the real-data regression before Stop 2 and report it
 - 2026-11-26 [WORKFLOW] Audit row line numbers go stale after any key edit (verify_rows bpc FAIL 2 → 250 within two weeks); refresh them with a line diff from the audit's base commit plus an excerpt re-anchor, and do it at the end of a key-editing thread
 - 2026-11-26 [WORKFLOW] A one-off apply script worked best with a dry run that logs every stored command, a refuse-to-overwrite backup of every touched id, and a post-write re-check of old values; the final `check` then needs matching by sbs-id sets because fixes merge issues
+- 2026-11-26 [POSITIVE] a fresh-session review caught two guide steps whose prose promised a guard (keep a named backup, never overwrite a backup) that the shown shell command did not implement; test the literal command, not the sentence about it
+- 2026-11-26 [WORKFLOW] moving scripts across folders (git mv) changes repo-root detection (`parents[N]`) and cross-repo symlinks; grep every old path and run the script from another cwd before declaring done

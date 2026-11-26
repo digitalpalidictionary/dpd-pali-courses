@@ -33,3 +33,8 @@ mkdocs.yaml
 
 # audit work in progress
 kamma/audit/scratch/
+
+# course edits: per-session state, write-only log, SBS backups
+kamma/edits/handoff.md
+kamma/edits/history/
+kamma/edits/backups/

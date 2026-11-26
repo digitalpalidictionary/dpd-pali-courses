@@ -40,4 +40,4 @@ dev = [
 norecursedirs = ["tests", "archive", "scripts/archive", "conductor", "site", ".venv"]
 
 [tool.pyrefly]
-search-path = ["kamma/audit/scripts"]
+search-path = ["kamma/audit/scripts", "kamma/edits/scripts"]

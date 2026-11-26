@@ -18,7 +18,7 @@ Related to #6 Course enhancement with AI
 | Sutta links | `uv run python scripts/check_sutta_links.py docs/ipc` | 37 links / 23 pages, all pass |
 | Full read of every file | Line by line, by the main session, 10 class slices and 1 cross-file slice; the guide's "What to look for" list and categories A–I applied to each | Done; every slice file ends with its checklist note. 727 rows before the DPD round |
 | Re-check of the old audit | Every old row kept, corrected or dropped, slice by slice | 415 old ids are carried by a row here; 77 were dropped, each with its reason (see "Old rows dropped") |
-| DPD lookups | `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`, run once over the 436 lemmas the reader had listed as suspicious | 217 rows waited for it: 123 dropped because DPD agrees with the text, 94 finalised against the DPD entry. 8 more rows that had not been marked as waiting were dropped for the same reason, and 1 was restored by the cross-check. 18 lemmas are not DPD headwords (M6) |
+| DPD lookups | `uv run python kamma/edits/scripts/dpd_lookup.py <lemma> …`, run once over the 436 lemmas the reader had listed as suspicious | 217 rows waited for it: 123 dropped because DPD agrees with the text, 94 finalised against the DPD entry. 8 more rows that had not been marked as waiting were dropped for the same reason, and 1 was restored by the cross-check. 18 lemmas are not DPD headwords (M6) |
 | Old-id accounting | Shell loop over the 492 ids: `grep -qF "(old $id)"` in the slice files, or `grep -q "^- $id "` in the dropped list | 0 missing, after the read and again after the DPD round |
 | Cross-check with the key audit | One-off token match of the A, B and C rows against the rows of `ipc-key-audit.md` (3 199 candidate lines, 221 tokens), then a search of the key rows for every form, root and gloss that a row here deals with | 2 overlaps aligned (see "Cross-check with the key audit"); no other conflict found |
 | Excerpt check | `uv run python kamma/audit/scripts/verify_rows.py docs/ipc …` on every slice file and on this file: each backtick excerpt in `Current` searched in the cited file within 2 lines of the cited line | OK 1037, FAIL 0 (slices and final); 0 rows with no source file |
@@ -170,13 +170,7 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 
 ## The GOLDEN RULE
 
-When apply approved suggestions:
-
-Always correct corresponding sentences and tables in the docs/ipc_ex/ and docs/ipc_key/ since there we have exercise related to this class, and maybe something from here will be relevant there. key and ex need to be synced.
-
-**SBS sync.** Every key sentence is also stored in the SBS table of dpd-db (`class_*` fields, `class_anki` = class number), which feeds Anki and the other exports, so the SBS table must correspond to the key. When a fix changes a key sentence's translation, its Pāli text, or the POS/headword of a word (e.g. noun → adj/pp, a separate DPD row), find and update the SBS rows with `uv run python kamma/audit/scripts/sbs_sync.py` (`check <key file> --since <rev>` lists what the edit put out of sync; `replace`, `set`, `move`, `clear` change the DB, dry run until `--apply`). Get the owner's approval before writing to the DB.
-
-**Word gloss vs sentence translation.** When a fix changes the gloss, POS or reading of a word in the analysis table, check the sentence translation below the table and change it to match (and then the SBS translation, see above). A table-only fix leaves the translation telling a different story (e.g. `vo` changed from "surely" to "your" in 27_class.md, but the translation kept "surely").
+Applying approved fixes follows kamma/edits/guide.md (all course-edit rules live there).
 
 ## A. Pāli and grammar content errors
 

@@ -18,7 +18,7 @@ Related to #6 Course enhancement with AI
 | Key sentence vs exercise sentence | `uv run python kamma/audit/scripts/key_vs_ex.py docs/ipc_key docs/ipc_ex --glob "*_class.md"` | The same 28 differing sentences as old M2, plus 31 label and `<br>`-spacing items, all covered: 68 script items covered, 0 new |
 | Non-sutta links | `curl -s -o /dev/null -w '%{http_code}' -L --max-time 15 <url>` for each link not on `s.dhamma.gift` | No such link: all 271 link occurrences (185 unique) are on `s.dhamma.gift` |
 | DPD triage | Every row with confidence below 8, or with `verify` or `DPD lookup` in `Suggested`, re-read against its source line (254 rows) | 68 rows had a question DPD can answer; the others say `verify` (a reading, an inflection, a translation choice) or `owner decision`. 4 note-only rows moved to category I |
-| DPD lookups | `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`, run once over the 81 lemmas of those 68 rows | All 68 finalised against the DPD entry; none dropped. 1 lemma is not a DPD headword (`assādato`) |
+| DPD lookups | `uv run python kamma/edits/scripts/dpd_lookup.py <lemma> …`, run once over the 81 lemmas of those 68 rows | All 68 finalised against the DPD entry; none dropped. 1 lemma is not a DPD headword (`assādato`) |
 | Old-id accounting | Shell loop over the 703 ids: `grep -qF "(old $id)"` in the slice files | 0 missing; no old row was dropped |
 | Cross-check with the ipc audit | One-off token match of the A, B and C rows of `ipc-audit.md` against the rows here (3 199 candidate lines, 221 tokens), then a search of these rows for every form, root and gloss the ipc audit deals with | 2 overlaps aligned on the ipc side; no row here had to change (see "Cross-check with the ipc audit") |
 | Excerpt check | `uv run python kamma/audit/scripts/verify_rows.py docs/ipc_key …` on every slice file and on this file: each backtick excerpt in `Current` searched in the cited file within 2 lines of the cited line | OK 813, FAIL 0 (slices and final); 0 rows with no source file |
@@ -27,8 +27,8 @@ Related to #6 Course enhancement with AI
 Carried from the audit of 2026-11-12 and not run again:
 
 - The full line-by-line read of every file, by the main session, one class per slice.
-- `uv run python scripts/verify_key.py --course ipc --warnings`: exit 0; 63 word-coverage warnings (Mechanical detail, M1).
-- `uv run python scripts/verify_key.py --course ipc --dpd` (advisory): 85 IMPOSSIBLE, 21 NOT-FOUND, 4 ROOT-MISMATCH, all looked at during the read (M4).
+- `uv run python kamma/edits/scripts/verify_key.py --course ipc --warnings`: exit 0; 63 word-coverage warnings (Mechanical detail, M1).
+- `uv run python kamma/edits/scripts/verify_key.py --course ipc --dpd` (advisory): 85 IMPOSSIBLE, 21 NOT-FOUND, 4 ROOT-MISMATCH, all looked at during the read (M4).
 - `uv run python scripts/check_sutta_links.py docs/ipc_key`: 185 links / 79 pages, all pass.
 - The targeted DPD lookups made during the read.
 
@@ -94,20 +94,7 @@ Agreeing without change: `ger` / `abs` and UK / US spelling are owner decisions 
 
 ## The GOLDEN RULE
 
-When apply approved suggestions:
-
-Always correct corresponding sentences and tables in the docs/ipc_ex/ since there we have exercise related to this class, just without gramatical analisis but still with tables and maybe something from here will be relevant there. key and ex need to be synced.
-
-**SBS sync.** Every key sentence is also stored in the SBS table of dpd-db (`class_*` fields, `class_anki` = class number), which feeds Anki and the other exports, so the SBS table must correspond to the key. When a fix changes a key sentence's translation, its Pāli text, or the POS/headword of a word (e.g. noun → adj/pp, a separate DPD row), find and update the SBS rows with `uv run python kamma/audit/scripts/sbs_sync.py` (`check <key file> --since <rev>` lists what the edit put out of sync; `replace`, `set`, `move`, `clear` change the DB, dry run until `--apply`). Get the owner's approval before writing to the DB.
-
-**Word gloss vs sentence translation.** When a fix changes the gloss, POS or reading of a word in the analysis table, check the sentence translation below the table and change it to match (and then the SBS translation, see above). A table-only fix leaves the translation telling a different story (e.g. `vo` changed from "surely" to "your" in 27_class.md, but the translation kept "surely").
-
-**Moving an item between main and Extra.** When an approved fix moves an exercise item from the main list to `## Class N Extra` or back (e.g. it turns out to be an irregular case):
-1. Move the whole item (header line with its link, Pāli line, table, bold translation) byte for byte, in the key and in `docs/ipc_ex/` together; no line may be lost.
-2. Append it at the end of the target list, then renumber both lists in both files (only the leading `N.` of each item header).
-3. SBS: set `class_extra=extra` on the item's rows when it moves to Extra, `class_extra=` (empty) when it moves to main: `uv run python kamma/audit/scripts/sbs_sync.py set <id> class_extra=extra` (dry run, then `--apply` after approval and a backup). `check` does not compare `class_extra`; confirm with a query on `class_anki` + `class_source`.
-4. Run `uv run python scripts/verify_key.py`; it must exit 0.
-5. Log the move in "Item moves (main ↔ Extra)" below. Move rows are a permanent record: they are **not** removed when applied, only their Status changes.
+Applying approved fixes follows kamma/edits/guide.md (all course-edit rules live there).
 
 ## Item moves (main ↔ Extra)
 

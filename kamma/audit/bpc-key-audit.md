@@ -14,12 +14,12 @@ Related to #6 Course enhancement with AI
 | --- | --- | --- |
 | Mechanical checks | `uv run python kamma/audit/scripts/mech_checks.py docs/bpc_key --links-out kamma/audit/scratch/bpc-key/links.txt` (footnotes per file: the folder has one definition) | Exit 0. 0 table column mismatches, 0 index/H1 differences, footnotes 1 ref / 1 def, 2 stray-character lines (Mechanical detail, M1) |
 | Key sentence vs exercise sentence | `uv run python kamma/audit/scripts/key_vs_ex.py docs/bpc_key docs/bpc_ex --glob "*_class.md"` | 465 items compared; 71 differ after normalising quotes, bold, `<br>` spacing and `ṁ`; 97 label or `<br>`-spacing differences (M2) |
-| Project verifier | `uv run python scripts/verify_key.py --course bpc --warnings --dpd --report kamma/audit/scratch/bpc-key/verify-key-dpd.txt` | Exit 0. Numbering, POS vocabulary, grammar vocabulary, root format, stray characters: 0 errors. Word coverage: 465 warnings (M3) |
+| Project verifier | `uv run python kamma/edits/scripts/verify_key.py --course bpc --warnings --dpd --report kamma/audit/scratch/bpc-key/verify-key-dpd.txt` | Exit 0. Numbering, POS vocabulary, grammar vocabulary, root format, stray characters: 0 errors. Word coverage: 465 warnings (M3) |
 | Word forms vs DPD | The `--dpd` report of the same run (advisory) | 4 324 rows: 1 123 confirmed, 2 087 ambiguous, 1 079 skipped, 17 IMPOSSIBLE, 12 NOT-FOUND, 22 ROOT-MISMATCH. The 51 flagged rows were read with their class (M4) |
 | Sutta links | `uv run python scripts/check_sutta_links.py docs/bpc_key` | 219 links / 104 pages, all pass (exit 0). The folder has no other external links |
 | Full read of every file | Line by line, by the main session, 14 class slices and 1 cross-file slice; the guide's "What to look for" list, categories A–I and the key checks (tag against the sentence, Root column, gloss against translation, translation against sentence, the same word tagged in two ways) applied to each | Done; every slice file ends with its checklist note |
 | Re-check of the old audit | Every row of the old Part 1 and Part 2 re-checked against the source | 369 old ids all accounted for: in a row here or in the dropped list (see "Old rows") |
-| DPD lookups | `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …`, run once over the 107 lemmas the reader had listed as suspicious | 104 rows waited for it: 30 dropped because DPD agrees with the text, 74 finalised against the DPD entry. 6 lemmas are not DPD headwords: `accagacchati`, `bahujanahita`, `bāhuppacālaka`, `ceto`, `panuda`, `uccāsoṇḍa` |
+| DPD lookups | `uv run python kamma/edits/scripts/dpd_lookup.py <lemma> …`, run once over the 107 lemmas the reader had listed as suspicious | 104 rows waited for it: 30 dropped because DPD agrees with the text, 74 finalised against the DPD entry. 6 lemmas are not DPD headwords: `accagacchati`, `bahujanahita`, `bāhuppacālaka`, `ceto`, `panuda`, `uccāsoṇḍa` |
 | Excerpt check | `uv run python kamma/audit/scripts/verify_rows.py docs/bpc_key …` on every slice file and on this file: each backtick excerpt in `Current` searched in the cited file within 2 lines of the cited line | 488 excerpts pass, 0 fail (rows with no source file found: 0) |
 | Merge | `uv run python kamma/audit/scripts/merge_audit.py kamma/audit/scratch/bpc-key/merge.toml` | This file |
 
@@ -90,20 +90,7 @@ These are not decided in the audit; the rows say `owner decision`:
 
 ## The GOLDEN RULE
 
-When apply approved suggestions:
-
-Always correct corresponding sentences and tables in the docs/bpc_ex/ since there we have exercise not only sentences but also some pre-filled values in gramatical analisis. Keep those pre filed values, which deliberatley has been choosen for material which has not been covered by the time of that exact senteces. So when you change some of the grammar in the key - dounde check maybe in the exercise that grammar is prefilled as well and need to be corrected and synced with the key.
-
-**SBS sync.** Every key sentence is also stored in the SBS table of dpd-db (`class_*` fields, `class_anki` = class number), which feeds Anki and the other exports, so the SBS table must correspond to the key. When a fix changes a key sentence's translation, its Pāli text, or the POS/headword of a word (e.g. noun → adj/pp, a separate DPD row), find and update the SBS rows with `uv run python kamma/audit/scripts/sbs_sync.py` (`check <key file> --since <rev>` lists what the edit put out of sync; `replace`, `set`, `move`, `clear` change the DB, dry run until `--apply`). Get the owner's approval before writing to the DB.
-
-**Word gloss vs sentence translation.** When a fix changes the gloss, POS or reading of a word in the analysis table, check the sentence translation below the table and change it to match (and then the SBS translation, see above). A table-only fix leaves the translation telling a different story (e.g. `vo` changed from "surely" to "your" in 27_class.md, but the translation kept "surely").
-
-**Moving an item between main and Extra.** When an approved fix moves an exercise item from the main list to `## Class N Extra` or back (e.g. it turns out to be an irregular case):
-1. Move the whole item (header line with its link, Pāli line, table, bold translation) byte for byte, in the key and in `docs/bpc_ex/` together; no line may be lost.
-2. Append it at the end of the target list, then renumber both lists in both files (only the leading `N.` of each item header).
-3. SBS: set `class_extra=extra` on the item's rows when it moves to Extra, `class_extra=` (empty) when it moves to main: `uv run python kamma/audit/scripts/sbs_sync.py set <id> class_extra=extra` (dry run, then `--apply` after approval and a backup). `check` does not compare `class_extra`; confirm with a query on `class_anki` + `class_source`.
-4. Run `uv run python scripts/verify_key.py`; it must exit 0.
-5. Log the move in "Item moves (main ↔ Extra)" below. Move rows are a permanent record: they are **not** removed when applied, only their Status changes.
+Applying approved fixes follows kamma/edits/guide.md (all course-edit rules live there).
 
 ## Item moves (main ↔ Extra)
 

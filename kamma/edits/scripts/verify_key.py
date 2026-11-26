@@ -1,10 +1,10 @@
 """Verify BPC/IPC answer keys against their exercises and a tag vocabulary (10a), optionally against the DPD database (10b).
 
 Run (exit 0 is required before any commit touching the keys):
-    uv run python scripts/verify_key.py                       # structural checks, both courses
-    uv run python scripts/verify_key.py --course bpc|ipc|all
-    uv run python scripts/verify_key.py --warnings            # also list word-coverage warnings (never affect exit code)
-    uv run python scripts/verify_key.py --course all --dpd --report temp/key_dpd_report.tsv
+    uv run python kamma/edits/scripts/verify_key.py                       # structural checks, both courses
+    uv run python kamma/edits/scripts/verify_key.py --course bpc|ipc|all
+    uv run python kamma/edits/scripts/verify_key.py --warnings            # also list word-coverage warnings (never affect exit code)
+    uv run python kamma/edits/scripts/verify_key.py --course all --dpd --report temp/key_dpd_report.tsv
 
 Structural checks (gating, exit 1 on error): numbering vs the exercise files, POS vocabulary, Grammar
 vocabulary, root-cell format, compound-type spelling (ipc), stray characters. A hand edit that breaks a
@@ -52,7 +52,7 @@ from pathlib import Path
 
 from tools.printer import printer as pr
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
+ROOT_DIR = Path(__file__).resolve().parents[3]  # kamma/edits/scripts/ → repo root
 COURSES: dict[str, tuple[str, str, range]] = {
     "bpc": ("docs/bpc_key", "docs/bpc_ex", range(1, 16)),
     "ipc": ("docs/ipc_key", "docs/ipc_ex", range(16, 30)),
@@ -607,10 +607,10 @@ def pos_agrees(key_pos: set[str], dpd_pos: str) -> bool:
     )
 
 
-# Twin of kamma/audit/scripts/sbs_sync.py (norm, example_coverage, example_matches and the two
-# constants are byte-identical there; the audit kit cannot import scripts/). Change both together.
-EXAMPLE_MIN_WORDS = 4  # twin of kamma/audit/scripts/sbs_sync.py: change both together
-EXAMPLE_COVERAGE = 0.80  # twin of kamma/audit/scripts/sbs_sync.py: change both together
+# Twin of kamma/edits/scripts/sbs_sync.py (norm, example_coverage, example_matches and the two
+# constants are byte-identical there). Change both together.
+EXAMPLE_MIN_WORDS = 4  # twin of kamma/edits/scripts/sbs_sync.py: change both together
+EXAMPLE_COVERAGE = 0.80  # twin of kamma/edits/scripts/sbs_sync.py: change both together
 
 
 def norm(text: str) -> str:
