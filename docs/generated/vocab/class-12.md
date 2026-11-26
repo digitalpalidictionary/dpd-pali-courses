@@ -964,6 +964,7 @@
 | mahanta 1 | adj | big; great; large; grand; vast; extensive | √mah 1 a (increase) | maha + nta | anta adj | 11 |
 | majjhima 01 | adj | middle; middling; medium; medium-sized; moderate |  | majjha + ima | a adj | 11 |
 | manāpa 1 | adj | pleasant; likeable; attractive; agreeable |  |  | a adj | 11 |
+| matta 1.1 | pp | amount of; as many as; measure of; consisting of | √mā 5 nā (measure) | √mā + ta | a pp | 11 |
 | methuna 1 | adj | sexual | √mith 1 a (pair) | √mith > meth + una + *a | a adj | 11 |
 | mudu 1 | adj | soft; mild | √mud 1 a (be soft, be happy) | √mud + u | u adj | 11 |
 | nava 1.1 | adj | new; fresh |  |  | a adj | 11 |

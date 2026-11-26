@@ -856,6 +856,7 @@
 | khuddā 1.1 | fem | hunger | √khud 1 a (be hungry) | √khud + yā | ā fem | 7 |
 | kiriyā 1 | fem | act; action; activity; deed; performance | √kar 7 o (do, make) | √kar > kir + iyā | ā fem | 7 |
 | mattikā 1 | fem | clay; earth | √madd 1 a (crush, grind) | √madd > matt + ikā | ā fem | 7 |
+| mattā 1 | fem | measure; measurement; quantity; modicum; degree (of) | √mā 5 nā (measure) | √mā + tā | ā fem | 7 |
 | mettā | fem | goodwill (towards); friendliness (to); benevolence (for) | √mitt 1 a (be friendly) | √mitt > mett + *ā | ā fem | 7 |
 | mettāvatā | fem | goodwill; friendship | √mitt 1 a (be friendly) | √mitt > mett + *ā + vant + tā | ā fem | 7 |
 | muditā | fem | happiness (for); appreciation; sympathetic joy | √mud 1 a (be soft, be happy) | √mud + ita + ā | ā fem | 7 |
