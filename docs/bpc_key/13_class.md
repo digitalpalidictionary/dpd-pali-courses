@@ -29,7 +29,7 @@
 
 **He touches the earth evenly with the entire sole of [his] foot**
 
-2. [MN20](https://s.dhamma.gift/mn/mn20/index.html)
+2. [MN20](https://s.dhamma.gift/mn/mn20/index.html) (simpl)
    kiṃ nu kho ahaṃ sīghaṃ gacchāmi? yaṃnūn'āhaṃ saṇikaṃ gaccheyyāmī'ti. so saṇikaṃ gaccheyya
 
 | | | | | |

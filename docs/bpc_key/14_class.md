@@ -577,25 +577,12 @@
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| santar'uttaraparamaṃ | ind | adv | with an inner and upper robe at most | |
-
-**(or)**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| santar'uttaraparamaṃ | noun | nt.nom.sg | an underrobe and upper robe at most; not more than an inner and outer robe | |
+| santar'uttaraparamaṃ | noun / or / ind | nt.nom.sg / or / adv | an underrobe and upper robe at most; not more than an inner and outer robe / or / with an inner and upper robe at most | |
 | tena | pron | masc.instr.sg | by that | |
 | bhikkhunā | noun | masc.instr.sg | by a monk | √bhikkh･1 a (beg) |
 | tato | pron | nt.abl.sg | from that; therefrom; from him | |
 | cīvaraṃ | noun | nt.nom.sg | robe cloth | |
 | sāditabbaṃ | ptp | nt.nom.sg | could/should be accepted by | √sād･8 \*e (taste, relish) |
-
-**That robe cloth [for] an under [robe] and an upper [robe] at the most could be accepted from him by that monk;**
-**(or)**
-**With an inner and upper robe at most, therefrom the robe-cloth can be accepted by that monk;**
-
-| | | | | |
-| --- | --- | --- | --- | --- |
 | tato | pron | nt.abl.sg | than that; more than that | |
 | ce | ind | cond | if | |
 | uttari | ind | adv (+abl) | more [than]; beyond | |
@@ -603,7 +590,9 @@
 | nissaggiyaṃ | adj / (ptp) | nt.nom.sg | involving relinquishment (lit: involving something to be forfeited) | √sajj･1 a (relinquish, let loose) |
 | pācittiyaṃ | noun | nt.nom.sg | an offence | |
 
-**if he should accept [robe cloth] more than that, [it is] an offence involving relinquishment.**
+**That robe cloth [for] an under [robe] and an upper [robe] at the most could be accepted from him by that monk; if he should accept [robe cloth] more than that, [it is] an offence involving relinquishment.**
+**(or)**
+**With an inner and upper robe at most, therefrom the robe-cloth can be accepted by that monk; if he should accept [robe cloth] more than that, [it is] an offence involving relinquishment.**
 
 30. [MN46](https://s.dhamma.gift/mn/mn46/index.html)
     sevitabbe dhamme na jānāti asevitabbe dhamme na jānāti, bhajitabbe dhamme na jānāti abhajitabbe dhamme na jānāti.

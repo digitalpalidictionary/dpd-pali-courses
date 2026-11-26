@@ -376,7 +376,7 @@ taṃ ca ayaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinives'ānusayaṃ
 | nirujjhamānaṃ | prp | nt.nom.sg | ceasing | √rudh･2 ya (obstruct) |
 | nirujjhatī'ti | verb | pr.3rd.sg +endquote | ceases | √rudh･2 ya (obstruct) |
 
-**What arises is only suffering arising; what ceases is only suffering ceasing.**
+**(What) arises is only suffering arising; (what) ceases is only suffering ceasing.**
 
 | | | | | |
 | --- | --- | --- | --- | --- |

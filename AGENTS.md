@@ -10,6 +10,8 @@ This project contains materials for Pāḷi language courses, specifically the D
 
 ## Project Principles
 - **Clean Markdown Sources:** Keep `.md` files extremely user-friendly and focused on content. NEVER use raw HTML, special symbols like `&nbsp;`, or complex `<div>` wraps in the source files. All necessary formatting fixes or UI elements (like navigation buttons or table adjustments) MUST be implemented via scripts or build hooks.
+- **Reserved ` / ` (stacked table cell):** in the six course folders a spaced slash `A / B` in a table cell is a line break: the build renders it as two lines (web, PDF and DOCX; implementation in `kamma/tech.md` → Clean markup conventions). A tight slash (`e/ay`, URLs) stays inline. So a spaced slash in a cell is never an inline separator. Alternatives in a cell are written ` / or / ` (e.g. `docs/bpc_key/10_class.md:377`: `masc.nom.pl / or / masc.acc.pl`).
+- **Reserved `— ` (right-aligned attribution):** on every page (unlike ` / `, also in `docs/generated/`), a line starting with `— ` (em dash + space) that is its own paragraph is an attribution: the build right-aligns it (web, PDF and DOCX; implementation in `kamma/tech.md` → Clean markup conventions). Do not start any other paragraph with `— `.
 - **Data Integrity:** All automated changes must be verified against original meaning and structure.
 - **Concurrent Exports:** `docs/generated/` is rewritten by exporter scripts (`scripts/regenerate_pages.sh`, dpd-db vocab exports) that may run while a thread is open. Check `git status --short docs/` immediately before reporting a thread complete; such changes are not the thread's and must stay out of its commit.
 
@@ -44,6 +46,8 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 - Read-only audits of course folders (findings lists, never edit `docs/`). Follow `kamma/audit/audit-guide.md` (process, row format, categories, limits). Output: `kamma/audit/<course>-audit.md`; work in progress and handoff state in `kamma/audit/scratch/STATE.md`.
 - Check every suspicious Pāli form, grammar tag, root or gloss in DPD with `uv run python kamma/audit/scripts/dpd_lookup.py <lemma> …` before reporting it.
 - After writing to the SBS table with `kamma/audit/scripts/sbs_sync.py`, re-check every row of the same class+source for the old value (spelling variants and `<b>`-split rows are not grouped together), and back up the touched rows first.
+- Before calling a key word "not in SBS", search `class_example`/`class_source` for its forms in every class (`sbs_sync.py find`), not only by lemma or the exact bold form: `abhinanduṃ` is carded under `abhinandi 1`.
+- Translation brackets: words added for English that are not in the Pāli go in brackets. Exception: the copula in "this is that" sentences (implied `hoti`) takes none.
 
 ## Sutta Links
 - Every sutta/Vinaya reference must use `https://s.dhamma.gift/...`; the old `find.dhamma.gift/bw/` host is dead (GitHub #9). Never hand-write a URL shape — the mapping rules (mn/dn page-per-sutta, sn/an `#<id>`, `/kn/...` for snp/ud/kp/dhp/thag/thig/iti, and the Vinaya renames sn→ss, an→as, `bu-pt` → `pm3..pm9`) live in `kamma/tech.md` → Sutta links and in `scripts/rewrite_sutta_links.py`. Re-verify with `uv run python scripts/check_sutta_links.py` (network; cached in `temp/`).

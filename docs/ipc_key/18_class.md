@@ -166,7 +166,7 @@
 | --- | --- | --- | --- | --- |
 | byāpādo | noun | masc.nom.sg | ill-will | √pad･3 ya (go, step) |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| āvaraṇo | noun | masc.nom.sg | obstruction; obstacle; blockage; impediment | √var･1 a (cover, dress, restrain) |
+| āvaraṇo | adj | masc.nom.sg | obstructing; blocking; impeding | √var･1 a (cover, dress, restrain) |
 | nīvaraṇo | noun | masc.nom.sg | obstacle; obstruction; barrier; hindrance | √var･1 a (cover, dress, restrain) |
 | cetaso | noun | masc.gen.sg | of mind | √cit･8 \*e (think, intend) |
 | ajjhāruho | adj | masc.nom.sg | which grows over, overwhelms | √ruh･1 a (ascend, grow) |
@@ -175,7 +175,7 @@
 | \#dubbalī | adj | - | weak | √bal･1 a (be strong, live) |
 | \#karaṇo | adj | masc.nom.sg | making, producing, causing | √kar･7 o (do, make) |
 
-**Monks, ill will is an obstruction, a hindrance of the mind, which overwhelms and weakens understanding.**
+**Monks, ill will is an obstructing hindrance of the mind, which overwhelms and weakens understanding.**
 
 6. [SNP54](https://s.dhamma.gift/kn/snp/index.html#snp4.16)
    theyyaṃ na kāre na musā bhaṇeyya,

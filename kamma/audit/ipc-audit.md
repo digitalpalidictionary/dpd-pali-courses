@@ -39,25 +39,6 @@ Not verified:
 
 Paths below are relative to `docs/ipc/`. In `Current`, `\|` is a table pipe in the source, and ` / ` separates excerpts from different lines.
 
-## Summary
-
-These numbers before approval - because user is removing rejected lines and keep only approved lines.
-
-| Category | idx–16 | 17 | 18 | 19–20 | 21–22 | 23 | 24–25 | 26–27 | 28a | 28b | cross | Total | Conf. ≥ 8 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A. Pāli and grammar content errors | 3 | 7 | 4 | 9 | 7 | 2 | 7 | 7 | 7 | 5 | 0 | 58 | 37 |
-| B. Tables, paradigms and lists that disagree with each other or themselves | 12 | 5 | 8 | 11 | 9 | 4 | 10 | 7 | 6 | 5 | 1 | 78 | 30 |
-| C. Translation and gloss problems | 16 | 7 | 6 | 11 | 2 | 6 | 10 | 11 | 7 | 4 | 2 | 82 | 26 |
-| D. English typos and grammar | 11 | 9 | 11 | 14 | 11 | 7 | 9 | 6 | 11 | 5 | 0 | 94 | 62 |
-| E. Markdown defects that affect rendering | 5 | 5 | 9 | 8 | 4 | 2 | 9 | 3 | 3 | 1 | 1 | 50 | 40 |
-| F. Convention drift | 22 | 24 | 17 | 27 | 16 | 10 | 18 | 12 | 8 | 8 | 9 | 171 | 102 |
-| G. Links | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 |
-| H. Data to re-verify (forms, references, counts) | 9 | 5 | 2 | 6 | 2 | 2 | 4 | 1 | 1 | 1 | 1 | 34 | 2 |
-| I. Further details on the material under review | 2 | 3 | 1 | 2 | 2 | 2 | 3 | 2 | 1 | 1 | 4 | 23 | 8 |
-| **Total** | **80** | **65** | **58** | **88** | **53** | **35** | **70** | **49** | **44** | **31** | **18** | **591** | **308** |
-
-A row often covers several locations, so the number of places to edit is higher than the row count.
-
 Overall confidence: 9/10 that the quoted text is where the row says (scripted). 8/10 for categories D, E, F and G (visible in the source). 7/10 for A, B, C and H as a group: DPD was consulted for every form that looked doubtful, but no text edition was. Use the per-row score.
 
 ## Decisions for the owner

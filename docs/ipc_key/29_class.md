@@ -323,7 +323,7 @@ asīlatā abbatā no'pi tena.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | asīlatā(ya) | noun | fem.instr.sg | without moral conduct | |
-| abbatā | noun | fem.instr.sg | without religious practice; without ritual observance(s) | |
+| abbatā | adj | nt.instr.sg | without religious practice; without ritual observance(s) | |
 | no'pi | sandhi | | nor even | |
 | \#no | ind | neg | nor | |
 | \#api | ind | | even | |
@@ -412,7 +412,7 @@ asīlatā abbatā no'pi tena.
 | | | | | |
 | --- | --- | --- | --- | --- |
 | asīlatā | noun | fem.instr.sg | without moral conduct | |
-| abbatā | noun | fem.instr.sg | without religious practice; without ritual observance(s) | |
+| abbatā | adj | nt.instr.sg | without religious practice; without ritual observance(s) | |
 | no'pi | sandhi | | nor even | |
 | \#no | ind | neg | nor | |
 | \#api | ind | | even | |

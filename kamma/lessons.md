@@ -37,3 +37,5 @@
 - 2026-11-26 [WORKFLOW] a six-task handoff (DB sync with approval tables plus script features) was passed to /kamma:quick; it had to be split into handoffs first — check scope against quick's limits before invoking it
 - 2026-11-26 [POSITIVE] comparing old vs new dpd_lookup.py output per form over all 5 481 key forms found a crash (957k lookup rows with empty headwords) that the fixture tests missed
 - 2026-11-26 [BEHAVIOR] asked the owner to run manual checks I could script myself; for CLI/data tools, run the real-data regression before Stop 2 and report it
+- 2026-11-26 [WORKFLOW] Audit row line numbers go stale after any key edit (verify_rows bpc FAIL 2 → 250 within two weeks); refresh them with a line diff from the audit's base commit plus an excerpt re-anchor, and do it at the end of a key-editing thread
+- 2026-11-26 [WORKFLOW] A one-off apply script worked best with a dry run that logs every stored command, a refuse-to-overwrite backup of every touched id, and a post-write re-check of old values; the final `check` then needs matching by sbs-id sets because fixes merge issues
