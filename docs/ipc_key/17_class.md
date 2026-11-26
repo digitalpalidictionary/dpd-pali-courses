@@ -611,7 +611,7 @@
 | averena | adj | masc.instr.sg | with friendly; free of ill-will | |
 | \#na | prefix | | not | |
 | \#verena | noun | nt.instr.sg | with ill-will; hatred | √vīr×8 \*e (be heroic, hostile) |
-| abyāpajjhena | noun | masc.instr.sg | with good heartedness; benevolence; harmlessness | |
+| abyāpajjhena | adj | masc.instr.sg | free from ill will | |
 | \#na | prefix | neg | not | |
 | \#byāpajjhena | noun | masc.instr.sg | with malevolence | √bādh･1 a (press, oppress) |
 | pharitvā | verb | abs | having suffused; having pervaded | √phar･1 a (suffuse, pervade) |

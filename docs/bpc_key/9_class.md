@@ -357,7 +357,7 @@ etaṃ mama, esohamasmi, eso me attā'ti?
 | brahmacariyaṃ | noun | nt.acc.sg | the holy life | |
 | carituṃ | verb | inf | to live | √car･1 a (move, walk) |
 
-**It is not easy [for] one domestically settled at home to live the completely perfect, completely pure holy life, polished like mother-of-pearl.**
+**It is not easy for one living in a house to live the completely perfect, completely pure holy life, polished like mother-of-pearl.**
 
 20. [SN42.6](https://s.dhamma.gift/sn/sn42/index.html#sn42.6)
     bhagavā pana, bhante, arahaṃ sammāsambuddho pahoti tathā kātuṃ yathā sabbo loko kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyya?

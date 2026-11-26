@@ -152,10 +152,10 @@
 | assutavā | adj | masc.nom.sg | unlearned, uneducated | √su･4 ṇā (hear) |
 | puthujjano | noun | masc.nom.sg | common person | |
 | na | ind | neg | not | |
-| parimuccati | verb.pass | pr.3rd.sg | he is released | √muc･2 ya (release, free) |
+| parimuccati | verb.pass | pr.3rd.sg | he is completely freed | √muc･2 ya (release, free) |
 | jātiyā | noun | fem.abl.sg | from birth | √jan･3 ya (be born, produce) |
 
-**I say: "An unlearned common person is not freed from birth.**
+**I say: "An unlearned common person is not completely freed from birth.**
 
 | | | | | |
 | --- | --- | --- | --- | --- |

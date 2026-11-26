@@ -218,7 +218,7 @@
 | tathā | ind | adv | like this, likewise | |
 | tatiyaṃ | ordin | fem.acc.sg | the third (direction) | |
 | tathā | ind | adv | like this, likewise | |
-| catutthaṃ | ordin | fem.acc.sg | the fourth (direction) | |
+| catutthaṃ | ordin | nt.acc.sg | the fourth (direction) | |
 
 **Likewise, the second, third and fourth.**
 

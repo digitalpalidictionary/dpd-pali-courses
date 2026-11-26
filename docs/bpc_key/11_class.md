@@ -51,7 +51,7 @@
 | --- | --- | --- | --- | --- |
 | seyyathāpi | ind | | just like, as | |
 | bhikkhave | noun | masc.voc.pl | monks | √bhikkh･1 a (beg) |
-| ādittacelo | noun | masc.nom.sg | whose clothes are on fire; with blazing garments | |
+| ādittacelo | adj | masc.nom.sg | whose clothes are on fire; with blazing garments | |
 | āditta- | pp | masc.nom.sg | blazing, on fire | √dīp･3 ya (shine, blaze) |
 | -celo | adj | masc.nom.sg | with clothes | √cil･1 a (clothe) |
 | vā | ind | conj | or | |
@@ -175,23 +175,7 @@
 
 **He remains there, equanimous, mindful and completely comprehending.**
 
-11. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
-    sakko ujū ca suhujū ca suvaco cassa mudu anatimānī
-
-| | | | | |
-| --- | --- | --- | --- | --- |
-| sakko | adj | masc.nom.sg | able, capable | √sak･4 ṇo (be able, powerful) |
-| ujū | adj | masc.nom.sg | straight, upright | √uj×1 a (be straight) |
-| ca | ind | conj | and | |
-| suhujū | adj | masc.nom.sg | very upright | √uj×1 a (be straight) |
-| suvaco | adj | masc.nom.sg | meek, obedient | √vac･1 a (say, speak) |
-| ca-assa | verb | opt.3rd.sg | and he should be | |
-| mudu | adj | masc.nom.sg | soft; mild | √mud･1 a (be soft, happy) |
-| anatimānī | adj | masc.nom.sg | not arrogant | |
-
-**He should be able, straight, upright, meek, soft and not arrogant.**
-
-12. [SN12.66](https://s.dhamma.gift/sn/sn12/index.html#sn12.66)
+11. [SN12.66](https://s.dhamma.gift/sn/sn12/index.html#sn12.66)
     samaṇā vā brāhmaṇā vā yaṃ loke piyarūpaṃ sātarūpaṃ taṃ aniccato dakkhissanti dukkhato dakkhissanti anattato dakkhissanti rogato dakkhissanti bhayato dakkhissanti, te taṇhaṃ pajahissanti.
 
 | | | | | |
@@ -236,7 +220,7 @@
 
 **they will abandon craving.**
 
-13. [MN41](https://s.dhamma.gift/mn/mn41/index.html)
+12. [MN41](https://s.dhamma.gift/mn/mn41/index.html)
     atthi dinnaṃ atthi yiṭṭhaṃ atthi hutaṃ
 
 | | | | | |
@@ -250,7 +234,7 @@
 
 **There is what is given, there is what is sacrificed, there is what is offered**
 
-14. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html)
+13. [DN14.14](https://s.dhamma.gift/dn/dn14/index.html)
     seyyathā'pi suddhaṃ vatthaṃ apagataṃ kāḷakā …
 
 | | | | | |
@@ -263,7 +247,7 @@
 
 **Just as clean cloth free from stain…**
 
-15. [AN11.15](https://s.dhamma.gift/an/an11/index.html#an11.15) (simpl)
+14. [AN11.15](https://s.dhamma.gift/an/an11/index.html#an11.15) (simpl)
     mettāya cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasa ānisaṃsā pāṭikaṅkhā.
 
 | | | | | |
@@ -289,7 +273,7 @@
 
 **eleven benefits are to be expected.**
 
-16. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl)
+15. [AN4.61](https://s.dhamma.gift/an/an4/index.html#an4.61)(simpl)
     ariyasāvako uṭṭhānavīriyena adhigatehi bhogehi bāhābalena paricitehi seda-avakkhittehi dhammikehi dhammena laddhehi imāni cattāri pattakammāni kattā hoti.
 
 | | | | | |
@@ -317,7 +301,7 @@
 
 **is one who does these four worthy deeds.**
 
-17. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl)
+16. [MN48](https://s.dhamma.gift/mn/mn48/index.html) (simpl)
     yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññūhi pasatthāni aparāmaṭṭhāni samādhino saṃvattanikāni
 
 | | | | | |
@@ -338,7 +322,7 @@
 
 **Whichever [of] those virtues, which are unbroken, without cracks, not mottled, unblemished, liberating, commended by wise persons, irreproachable and conducive to stability of mind…**
 
-18. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+17. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
     rūpaṃ atīt'ānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sabbaṃ rūpaṃ
 
 | | | | | |
@@ -361,7 +345,7 @@
 
 **Materiality in the past, future and present, internally or externally, coarse or fine, low or superior, [that] which [is] near or far away – all materiality ...**
 
-19. [MN64](https://s.dhamma.gift/mn/mn64/index.html)
+18. [MN64](https://s.dhamma.gift/mn/mn64/index.html)
     yad eva tattha hoti rūpagataṃ vedanāgataṃ saññāgataṃ saṅkhāragataṃ viññāṇagataṃ, te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato samanupassati.
 
 | | | | | |
@@ -397,7 +381,7 @@
 
 **he sees those states as impermanent, as suffering, as illness, as a boil, as a dagger, as pain, as disease, as alien, as disintegrating, as empty, as not oneself.**
 
-20. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1)
+19. [SN22.1](https://s.dhamma.gift/sn/sn22/index.html#sn22.1)
     idha, gahapati, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati
 
 | | | | | |
@@ -429,7 +413,7 @@
 
 **who has no regard for righteous men, [who is] not proficient in the teaching of righteous men, [who is] uneducated about the teaching of righteous men, regards form as self.**
 
-21. [MN137](https://s.dhamma.gift/mn/mn137/index.html)
+20. [MN137](https://s.dhamma.gift/mn/mn137/index.html)
     cakkhuviññeyyānaṃ rūpānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ manoramānaṃ lok'āmisena paṭisaṃyuttānaṃ paṭilābhaṃ paṭilābhato samanupassato …
 
 | | | | | |
@@ -448,7 +432,7 @@
 
 **For one perceiving acquisition as a personal acquisition of forms perceivable by the eye, related to worldly pleasure, wished for, desirable, pleasant, [and] delightful …**
 
-22. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3)
+21. [SN11.3](https://s.dhamma.gift/sn/sn11/index.html#sn11.3)
     svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhi
 
 | | | | | |
@@ -466,7 +450,7 @@
 
 **The teaching by the Blessed One [is] well taught, directly visible, timeless, inviting one to come and see, practical, [and is] to be experienced individually by wise persons.**
 
-23. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl)
+22. [MN51](https://s.dhamma.gift/mn/mn51/index.html) (simpl)
     evam'eva kho bhikkhu santuṭṭho hoti kāyaṃ parihārikena cīvarena kucchiṃ parihārikena piṇḍapātena.
 
 | | | | | |
@@ -484,7 +468,7 @@
 
 **In the same way, a monk is content with robe taking care of the body, [and] with alms food taking care of the stomach.**
 
-24. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
+23. [MN39](https://s.dhamma.gift/mn/mn39/index.html)
     evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigat'ūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivās'ānussatiñāṇāya cittaṃ abhininnāmeti.
 
 | | | | | |
@@ -511,7 +495,7 @@
 
 **he inclines [his] mind for the knowledge from the recollection of previous lives.**
 
-25. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
+24. [SN22.59](https://s.dhamma.gift/sn/sn22/index.html#sn22.59)
     nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttam'iti ñāṇaṃ hoti. 'khīṇā jāti vusitaṃ brahmacariyaṃ
 
 | | | | | |
@@ -536,7 +520,7 @@
 
 **[He understands:] "Birth is exhausted, the holy life is completed…"**
 
-26. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70)
+25. [SN12.70](https://s.dhamma.gift/sn/sn12/index.html#sn12.70)
     tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu, āyatiṃ saṃvarāya
 
 | | | | | |
@@ -721,3 +705,19 @@
 | uttamaṃ | adj | nt.nom.sg | ultimate; supreme | |
 
 **A mind of [a person] who, touched by worldly matters, is not disturbed, [but rather] free from sadness, untainted, at peace – this [is] the ultimate blessing.**
+
+7. [SNP8](https://s.dhamma.gift/kn/snp/index.html#snp1.8)
+    sakko ujū ca suhujū ca suvaco cassa mudu anatimānī
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| sakko | adj | masc.nom.sg | able, capable | √sak･4 ṇo (be able, powerful) |
+| ujū | adj | masc.nom.sg (u \> ū) | straight, upright | √uj×1 a (be straight) |
+| ca | ind | conj | and | |
+| suhujū | adj | masc.nom.sg (u \> ū) | very upright | √uj×1 a (be straight) |
+| suvaco | adj | masc.nom.sg | meek, obedient | √vac･1 a (say, speak) |
+| ca-assa | verb | opt.3rd.sg | and he should be | |
+| mudu | adj | masc.nom.sg | soft; mild | √mud･1 a (be soft, happy) |
+| anatimānī | adj | masc.nom.sg | not arrogant | |
+
+**He should be able, straight, upright, meek, soft and not arrogant.**

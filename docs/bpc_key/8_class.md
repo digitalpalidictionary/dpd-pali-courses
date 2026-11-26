@@ -6,7 +6,7 @@
 | Pāli | POS | Grammar | English | Root |
 | --- | --- | --- | --- | --- |
 | nisajja | verb | abs | sitting down; having sat down | √sad･1 a (sink, sit, settle) |
-| kho | ind | - | - | |
+| kho | ind | emph | indeed | |
 | bhagavā | noun | masc.nom.sg | The Blessed One | √bhaj･1 a (divide, distribute) |
 | bhikkhū | noun | masc.acc.pl | monks | √bhikkh･1 a (beg) |
 | āmantesi | verb | aor.3rd.sg | he addressed | √mant･8 \*e (counsel, invite) |
@@ -491,7 +491,7 @@
 | api | ind | emph | even | |
 | dārikā | noun | fem.nom.sg | a girl | |
 | pag'eva | idiom | ind | to say nothing of | |
-| mahattarī | adj | fem.nom.sg | older than | |
+| mahattarī | adj | fem.nom.sg | older | |
 
 **[What] is called a woman [is] a human female, not a female demon, not a female ghost, not a female animal, even a girl born that very day, to say nothing of [one] older.**
 

@@ -53,13 +53,13 @@
 | \#asmi | verb | pr.1st.sg | am | √as･1 a (be) |
 | \#iti | ind | quotation mark | "" | |
 | maññitam'etaṃ | sandhi | | this is imagination | |
-| \#maññitaṃ | pp (as noun) | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
+| \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | bhavissan'ti | sandhi | | "I will be" | |
 | \#bhavissaṃ | verb | fut.reflx.1st.sg | I will be; I will become | √bhū･1 a (be, become) |
 | \#iti | ind | quotation mark | "" | |
 | maññitam'etaṃ | sandhi | | this is imagination | |
-| \#maññitaṃ | pp (as noun) | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
+| \#maññitaṃ | noun | nt.nom.sg | imagination (lit. what is thought) | √man･3 ya (think) |
 | \#etaṃ | pron | nt.nom.sg | this | |
 | na | ind | neg | not | |
 | bhavissan'ti | sandhi | | "I will be" | |
@@ -655,14 +655,14 @@
 | vā | ind | - | or | |
 | garūnaṃ | noun | masc.gen.pl | of teachers | √gar×1 a (esteem, be heavy) |
 | dārā'ti | sandhi | | wives | |
-| \#dārā | noun | masc.nom.pl | wives | |
+| \#dārā | noun | fem.nom.pl | wives | |
 | \#iti | ind | quotation mark | "" | |
 | vā | ind | - | or | |
 | sambhedaṃ | noun | masc.acc.sg | mixed up, confusion | |
 | loko | noun | masc.nom.sg | world | √lok･8 \*e (look) |
 | agamissa | verb | cond.3rd.sg | would have gone, would become | √gam･1 a (go) |
 | yathā | ind | - | like | |
-| ajeḷakā | noun | nt.nom.pl | goats and sheep | dvanda |
+| ajeḷakā | noun | masc.nom.pl | goats and sheep | dvanda |
 | \#ajā (+ca) | noun | masc.nom.pl | goats | |
 | \#eḷakā (+ca) | noun | masc.nom.pl | sheep | |
 | kukkuṭasūkarā | noun | masc.nom.pl | chickens and pigs | dvanda |

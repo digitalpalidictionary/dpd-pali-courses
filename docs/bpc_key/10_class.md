@@ -299,7 +299,7 @@
 | | | | | |
 | --- | --- | --- | --- | --- |
 | āturakāyassa | adj | masc.gen.sg (gen abs) | while sick in body | |
-| me | pron | 1st.gen.sg (gen abs) | while me | |
+| me | pron | 1st.gen.sg (gen abs) | (while) I | |
 | sato | prp | masc.gen.sg (gen abs) | while being | |
 | cittaṃ | noun | nt.nom.sg | mind | |
 | anāturaṃ | adj | nt.nom.sg | healthy | |

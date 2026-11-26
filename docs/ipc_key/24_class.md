@@ -202,7 +202,7 @@
 | mayaṃ | pron | 1st.nom.pl | we | |
 | āyasmato | noun | masc.dat.sg | to, for venerable | |
 | anuruddhassa | noun | masc.dat.sg | to, for Anuruddha | anu + √rudh + ta |
-| evamārocimha | sandhi | | we informed thus | |
+| evamārocimha | verb | aor.1st.pl | we informed thus | |
 | \#evaṃ | ind | adv | thus | |
 | \#ārocimha | verb | aor.1st.pl | we informed | ā + √ruc + \*e + imha |
 | imāsañ'ca | sandhi | | of such and | |

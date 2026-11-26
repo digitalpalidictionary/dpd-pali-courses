@@ -121,6 +121,20 @@ Always correct corresponding sentences and tables in the docs/ipc_ex/ since ther
 
 **Word gloss vs sentence translation.** When a fix changes the gloss, POS or reading of a word in the analysis table, check the sentence translation below the table and change it to match (and then the SBS translation, see above). A table-only fix leaves the translation telling a different story (e.g. `vo` changed from "surely" to "your" in 27_class.md, but the translation kept "surely").
 
+**Moving an item between main and Extra.** When an approved fix moves an exercise item from the main list to `## Class N Extra` or back (e.g. it turns out to be an irregular case):
+1. Move the whole item (header line with its link, Pāli line, table, bold translation) byte for byte, in the key and in `docs/ipc_ex/` together; no line may be lost.
+2. Append it at the end of the target list, then renumber both lists in both files (only the leading `N.` of each item header).
+3. SBS: set `class_extra=extra` on the item's rows when it moves to Extra, `class_extra=` (empty) when it moves to main: `uv run python kamma/audit/scripts/sbs_sync.py set <id> class_extra=extra` (dry run, then `--apply` after approval and a backup). `check` does not compare `class_extra`; confirm with a query on `class_anki` + `class_source`.
+4. Run `uv run python scripts/verify_key.py`; it must exit 0.
+5. Log the move in "Item moves (main ↔ Extra)" below. Move rows are a permanent record: they are **not** removed when applied, only their Status changes.
+
+## Item moves (main ↔ Extra)
+
+One row per move, kept after it is applied. Item numbers are the ones at the time of the move; the Source column identifies the item after later renumbering. Status: `proposed` → `approved` (owner) → `applied <commit>`; a rejected proposal is removed. Paths are relative to `docs/ipc_key/` and `docs/ipc_ex/`. No move recorded yet.
+
+| Date | File | From | To | Source | Reason | SBS (`class_extra`) | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
 ## A. Pāli and grammar content errors
 
 | Location | Current | Problem | Suggested | Conf. |
@@ -158,7 +172,6 @@ Always correct corresponding sentences and tables in the docs/ipc_ex/ since ther
 | 16_class.md:101–103 | `samma'd'eva \| sandhi` / `\#sammā` / `\#eva` | The inserted consonant `d` has no row, while the first table writes `sammā + [d] + akkhāto` (line 23). Same for `puna'r'eva` (686), `sāsapo'r'iva` (764), `ta'y'idaṃ` (296) (old B7) | owner decision: show `[d]`, `[r]`, `[y]` or not | 6 |
 | 16_class.md:351 | `sambhavesīnaṃ \| noun \| masc.gen.pl \| for those seeking birth` | Tag genitive, gloss dative ("for") (old B9) | `masc.dat.pl`, or gloss "of those seeking birth"; verify | 6 |
 | 17_class.md:301 | `vihareyyan'ti` | Sentence has an apostrophe, the row (318) has `vihareyyanti` (old B11) | Same form in both | 9 |
-| 17_class.md:590 | `abyāpajjhena \| noun \| masc.instr.sg \| with good heartedness; benevolence; harmlessness` | In the sentence it qualifies `cetasā` like `averena` (line 587, `adj`). DPD has both the masculine noun (2.1, the key's gloss) and the adjective (2.2) (old B14) | `adj \| masc.instr.sg \| free from ill will` (DPD `abyāpajjha` 2.2); verify | 6 |
 | 17_class.md:166–168 | `tathārūpaṃ \| adj \| nt.acc.sg` / `\#rūpaṃ \| noun \| nt.acc.sg \| kind; type` | In `evarūpaṃ` (126) the same member is `adj \| fem.acc.sg \| of kind; of type` (old B16) | One treatment of the member `rūpa` in `tathārūpa` and `evarūpa`; `noun \| nt` fits (DPD types both as kammadhāraya with `rūpa`, and does not tag the member) | 7 |
 | 17_class.md:442–443 | `tathā \| ind \| adv \| such` / `tathā \| ind \| adv \| such` | Repeated adverb split into two rows; `tato tato` at 646 is one `idiom` row (old B17) | One treatment; verify | 7 |
 | 17_class.md:278–279 | `m'ānubyañjanaggāhī \| adj \| masc.nom.sg \| don't be [one] enticed by the details` / `\#mā \| ind \| neg` | Sandhi of `mā` + compound tagged as one adjective; the sandhi part and the compound members are mixed in one level of `\#` rows (old B18) | `sandhi` row, compound rows at `\#\#`; verify | 7 |
@@ -238,7 +251,6 @@ Always correct corresponding sentences and tables in the docs/ipc_ex/ since ther
 | 20_class.md:235 | `joy and happiness born from solitude` | Row 224: "born from separation" (old C22) | One word; verify | 7 |
 | 20_class.md:366 | `\#saṅghāṭidhāraṇa \| noun \| nt. \| wearing an outer robe` | `saṅghāṭi` is "patchwork robe" at 360, 362, 365 and in the translation, "outer robe" at 366–367 (old C24) | One gloss; verify | 7 |
 | 20_class.md:307 | `an excess of speech is to be expected. When there is an abundance of talk` | `kathābāhulla` rendered two ways in one sentence (rows 299, 303 likewise) (old C25) | One rendering; verify | 7 |
-| 20_class.md:503 | `somanassadomanassānaṃ \| noun \| nt.gen.pl \| satisfaction and dissatisfaction` | Genitive not shown; translation 526 has "joy and dejection" (old C26) | "of joy and dejection"; verify | 7 |
 | 20_class.md:76 | `[Even] if a fool associates closely with a wise person for the rest of his life` | "Even" is in the text (`api`, row 61, glossed "just; only"), so not a supplied word; row 57 says "as long as one lives", not "the rest of" (old C27) | "Even if … for his whole life"; `api` "even"; verify | 7 |
 | 20_class.md:459 | `garlanded with aquatic plants; aquatic plant garland maker` | Translation 478 has "who wear moss garlands" (old C28) | One rendering; verify | 6 |
 | 21_class.md:165 | `āgamaṃ \| verb \| aor.reflx.1st.sg \| I myself have come` | Reflexive endings translated literally throughout the class: "I myself" (165, 175, 291, 296, 319–321), "associate oneself" (191), "make oneself" (193), "one oneself gets" (459), "you could get yourself" (521). In verse these are ordinary middle forms (old C30) | owner decision; plain active in translations | 7 |
@@ -387,7 +399,6 @@ Always correct corresponding sentences and tables in the docs/ipc_ex/ since ther
 | 23_class.md:152 | `**samāhito** \| pp (as adj.) \| masc.nom.sg` | `pp (as adj.)` with a full stop; `pp (as adj)` at 105, 116; `adj (pp)` at 212, 590, 655; `adj, comparative` at 562 (old F81) | One notation | 8 |
 | 23_class.md:883 | `assādato \| noun \| masc.abl.sg \| as the satisfaction, enjoyment` | `-to` forms meaning "as …" are `ind \| adv` in class 22 (`aniccato`, `dukkhato`, 22_class.md:108, 113) and ablative nouns here (883, 887, 891) (old F82) | One treatment: `ind \| adv` in both classes; `assādato` is not a DPD headword, but DPD tags such `-to` forms as `ind, adv` (e.g. `momuhato`): DPD lookup | 6 |
 | 23_class.md:41 | `**e.g. viññāṇaṃ : vi + √ñā + aṇa**` | Space before the colon (not at 29); root meaning "(to grasp)" at 35, "(know)" at 45 (old F84) | One form; verify | 7 |
-| 23_class.md:472 | `paccanubhaveyyaṃ \| verb \| opt.1st.sg \| I could manifest` | DPD tags `-eyyaṃ` as reflexive opt 1st sg (flagged IMPOSSIBLE); the key tags the parallel `-ssaṃ` futures `fut.reflx.1st.sg` in class 22 (old F85) | owner decision | 6 |
 | 24_class.md:24 | `**jāyetha** \| verb \| opt.reflx.pass.3rd.sg` | Order of tense, voice and mood varies: `opt.reflx.pass` (24), `pass.opt.reflx` (22_class.md:261), `pass.pr` (304) against `pr.pass` (23_class.md:130), `caus.pr` (239), `caus.fut` (438), `opt.caus` (509), `abs (caus)` (57) (old F86) | One order | 9 |
 | 24_class.md:229 | `seti \| verb \| pr.3rd.sg \| he sleeps \| √sī + a \> se` | Constructions change form within the class: `√root + sign + ending` in items 1–9; base only (229, 391, 396, 447) or `base + ending` without the root (233 `soca + ti`, 239, 286, 301, 304, 596) from item 10; old root cells at 290, 368, 369 (old F87) | One form | 8 |
 | 24_class.md:215 | `na \> a + vi + √bhaj + ta` | Negative written `na \> a` (215, 262, 339, 365, 366, 448, 586) or `na` (25, 28, 31, 34, 67, 81, 158, 535, 554, 598) (old F88) | One form | 8 |

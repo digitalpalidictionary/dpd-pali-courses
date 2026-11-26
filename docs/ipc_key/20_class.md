@@ -514,7 +514,7 @@
 | pubb'eva | sandhi | | just before | |
 | \#pubbe | ind (or adj) | adv | previously; in the past | |
 | \#eva | ind | emph | just; only | |
-| somanassadomanassānaṃ | noun | nt.gen.pl | satisfaction and dissatisfaction | dvanda |
+| somanassadomanassānaṃ | noun | nt.gen.pl | of satisfaction and dissatisfaction | dvanda |
 | \#somanassa [ca] | noun | nt. | mental pleasure; satisfaction of mind, joy [and] | √man･3 ya (think) |
 | \#domanassānaṃ [ca] | noun | nt.gen.pl | of distress; dissatisfaction; dejection [and] | √man･3 ya (think) |
 | atthaṅ'gamā | noun | masc.abl.sg (+gen)[^18] | from the passing away (of); with the disappearance (of) | alutta dutiyā tappurisa |

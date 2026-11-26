@@ -59,6 +59,37 @@ def norm(text: str) -> str:
     return " ".join(text.split())
 
 
+EXAMPLE_MIN_WORDS = 4  # twin of scripts/verify_key.py: change both together
+EXAMPLE_COVERAGE = 0.80  # twin of scripts/verify_key.py: change both together
+
+
+ITEM_MARK_RE = re.compile(r"^\s*(?:\([^)]*\)|[A-Z][A-Za-z-]*\.?\s?\d[\d.,:-]*)\s*")
+
+
+def strip_item_marks(text: str) -> str:
+    """Remove leading `(simpl)`-style and citation marks (`UD-a 43`, `DNa2.3`) from a key sentence."""
+    while True:
+        stripped = ITEM_MARK_RE.sub("", text, count=1)
+        if stripped == text:
+            return text
+        text = stripped
+
+
+def example_coverage(a: str, b: str) -> float:
+    """Share of the shorter sentence's words found in the longer one (0.0 if it has under EXAMPLE_MIN_WORDS words)."""
+    wa, wb = norm(strip_item_marks(a)).split(), norm(strip_item_marks(b)).split()
+    short, long_ = (wa, wb) if len(wa) <= len(wb) else (wb, wa)
+    if len(short) < EXAMPLE_MIN_WORDS:
+        return 0.0
+    have = set(long_)
+    return sum(w in have for w in short) / len(short)
+
+
+def example_matches(a: str, b: str) -> bool:
+    """True when two Pāli sentences are the same or near-identical (see example_coverage)."""
+    return example_coverage(a, b) >= EXAMPLE_COVERAGE
+
+
 def norm_tr(text: str) -> str:
     """Translation key: no tags, footnote markers or markdown bold, whitespace collapsed."""
     text = re.sub(r"\[\^\w+\]", "", re.sub(r"<[^>]+>", "", text)).replace("**", "")
@@ -496,7 +527,7 @@ def check_key(
 ) -> tuple[list[Issue], str]:
     sentences = parse_key(text)
     rows = con.execute(
-        "select s.id, h.lemma_1, h.pos, s.class_source, s.class_example, s.class_example_translation "
+        "select s.id, h.lemma_1, h.pos, s.class_source, s.class_example, s.class_example_translation, h.example_1, h.example_2 "
         "from sbs s join dpd_headwords h on h.id = s.id where s.class_anki = ? and s.class_example != ''",
         (cls,),
     ).fetchall()
@@ -542,10 +573,12 @@ def check_key(
         for chunk in chunks:
             for c, p in chunk.table:
                 cells.setdefault(norm(c), p)
-        for hid, lemma, pos, _src, exs, _tr in hits:
+        for hid, lemma, pos, _src, exs, _tr, dpd_ex1, dpd_ex2 in hits:
             key_pos = cells.get(norm(bold_word(exs)))
             if key_pos is not None and not pos_ok(pos, key_pos):
                 msg = f"{loc} id {hid} {lemma} | dpd {pos} vs key '{key_pos.strip()}' ({bold_word(exs)})"
+                if any(example_matches(e or "", s.pali) for e in (dpd_ex1, dpd_ex2)):
+                    msg += " | DPD example = this sentence: question the key"
                 issues.append(Issue("POS", str(hid), msg, norm(s.pali)))
     for s in sentences:
         if s.line not in used:

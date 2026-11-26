@@ -18,6 +18,8 @@ DPD buckets (each key row gets one):
     IMPOSSIBLE      the key's tag is not among the DPD readings of the form (likely a real error)
     NOT-FOUND       the form is not in DPD
     ROOT-MISMATCH   key root differs from the DPD root
+    EXAMPLE-CONFLICT  a DPD headword quotes this key sentence in example_1/example_2 and the key's
+                    POS/grammar disagrees with it (owner rule: the DPD reading wins unless it is a real error)
     AMBIGUOUS       tag is a valid DPD reading, but the form has other readings (gen/dat, nom/acc,
                     gender only, ...); only the sentence can decide
     CONFIRMED / SKIPPED   fine / not checkable (multi-alternative Grammar cells); not reviewed
@@ -43,6 +45,7 @@ import json
 import re
 import sqlite3
 import sys
+import unicodedata
 from collections import Counter
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -604,6 +607,57 @@ def pos_agrees(key_pos: set[str], dpd_pos: str) -> bool:
     )
 
 
+# Twin of kamma/audit/scripts/sbs_sync.py (norm, example_coverage, example_matches and the two
+# constants are byte-identical there; the audit kit cannot import scripts/). Change both together.
+EXAMPLE_MIN_WORDS = 4  # twin of kamma/audit/scripts/sbs_sync.py: change both together
+EXAMPLE_COVERAGE = 0.80  # twin of kamma/audit/scripts/sbs_sync.py: change both together
+
+
+def norm(text: str) -> str:
+    """Pāli sentence key: no tags, apostrophes, punctuation, case or extra spaces."""
+    text = re.sub(r"\[\^\w+\]", "", re.sub(r"<[^>]+>", "", text))
+    text = unicodedata.normalize("NFC", text).lower()
+    text = re.sub(r"[^\w\s]", "", text)
+    return " ".join(text.split())
+
+
+ITEM_MARK_RE = re.compile(r"^\s*(?:\([^)]*\)|[A-Z][A-Za-z-]*\.?\s?\d[\d.,:-]*)\s*")
+
+
+def strip_item_marks(text: str) -> str:
+    """Remove leading `(simpl)`-style and citation marks (`UD-a 43`, `DNa2.3`) from a key sentence."""
+    while True:
+        stripped = ITEM_MARK_RE.sub("", text, count=1)
+        if stripped == text:
+            return text
+        text = stripped
+
+
+def example_coverage(a: str, b: str) -> float:
+    """Share of the shorter sentence's words found in the longer one (0.0 if it has under EXAMPLE_MIN_WORDS words)."""
+    wa, wb = norm(strip_item_marks(a)).split(), norm(strip_item_marks(b)).split()
+    short, long_ = (wa, wb) if len(wa) <= len(wb) else (wb, wa)
+    if len(short) < EXAMPLE_MIN_WORDS:
+        return 0.0
+    have = set(long_)
+    return sum(w in have for w in short) / len(short)
+
+
+def example_matches(a: str, b: str) -> bool:
+    """True when two Pāli sentences are the same or near-identical (see example_coverage)."""
+    return example_coverage(a, b) >= EXAMPLE_COVERAGE
+
+
+NOUN_POS = {"masc", "nt", "fem"}
+VERB_POS = {"pr", "aor", "fut", "imp", "opt", "perf", "cond", "imperf", "cs"}
+HOMONYM_RE = re.compile(r" \d+(?:\.\d+)?$")
+
+
+def headword_key_pos(pos: str) -> str:
+    """DPD headword pos (masc/pr/...) as the key's POS word (noun/verb/...)."""
+    return "noun" if pos in NOUN_POS else "verb" if pos in VERB_POS else pos
+
+
 class DpdDb:
     """Read-only access to the DPD tables used by the 10b check."""
 
@@ -612,6 +666,8 @@ class DpdDb:
         self._forms: dict[str, list[Reading] | None] = {}
         self._form_roots: dict[str, set[str]] = {}
         self._hw: dict[int, tuple[str, str, str]] = {}
+        self._form_ids: dict[str, list[int]] = {}
+        self._examples: dict[int, tuple[str, str]] = {}
         self.root_groups: dict[str, set[int]] = {}
         for root, group in con.execute("select root, root_group from dpd_roots"):
             self.root_groups.setdefault(bare_root(root), set()).add(int(group))
@@ -646,7 +702,8 @@ class DpdDb:
                     roots: set[str] = set()
                     for lemma, pos, gram in json.loads(row[1] or "[]"):
                         found.append(Reading(lemma, pos, gram))
-                    for hid in json.loads(row[0] or "[]"):
+                    self._form_ids[form] = json.loads(row[0] or "[]")
+                    for hid in self._form_ids[form]:
                         lemma, pos, root_key = self._headword(hid)
                         if pos in NONINFLECTING:
                             found.append(Reading(lemma, pos, ""))
@@ -659,6 +716,23 @@ class DpdDb:
                 return found
         return None
 
+    def example_headwords(self, word: str, sentence: str) -> list[tuple[str, str]]:
+        """(lemma_1, pos) of the form's headwords whose example_1/example_2 quotes `sentence`."""
+        if self.lookup(word) is None:
+            return []
+        out: list[tuple[str, str]] = []
+        for hid in self._form_ids.get(getattr(self, "_last_form", ""), []):
+            if hid not in self._examples:
+                row = self.con.execute(
+                    "select example_1, example_2 from dpd_headwords where id=?", (hid,)
+                ).fetchone()
+                self._examples[hid] = (row[0] or "", row[1] or "") if row else ("", "")
+            if any(e and example_matches(e, sentence) for e in self._examples[hid]):
+                lemma, pos, _root = self._headword(hid)
+                if (lemma, pos) not in out:
+                    out.append((lemma, pos))
+        return out
+
     def form_roots(self, word: str) -> set[str]:
         self.lookup(word)
         return self._form_roots.get(getattr(self, "_last_form", ""), set())
@@ -666,6 +740,27 @@ class DpdDb:
 
 def bare_root(root: str) -> str:
     return re.sub(r"\s+\d+$", "", root.strip())
+
+
+def example_conflict(
+    row: Row, readings: list[Reading], example_hws: list[tuple[str, str]]
+) -> list[Reading] | None:
+    """The example headwords' readings if the key agrees with none of them, else None."""
+    kp = key_pos_tokens(row.cells[1])
+    tag = parse_key_tag(row.cells[2]) if len(row.cells) > 2 else None
+    preferred: list[Reading] = []
+    for lemma, pos in example_hws:
+        base = HOMONYM_RE.sub("", lemma)
+        grams = [r for r in readings if r.lemma == base and r.grammar]
+        agrees = pos_agrees(kp, headword_key_pos(pos)) and (
+            tag is None or not grams or any(reading_matches(tag, r) for r in grams)
+        )
+        if agrees:
+            return None
+        for r in grams or [Reading(lemma, pos, "")]:
+            if r not in preferred:
+                preferred.append(r)
+    return preferred
 
 
 def classify_row(row: Row, db: DpdDb) -> list[DpdFinding]:
@@ -693,6 +788,12 @@ def classify_row(row: Row, db: DpdDb) -> list[DpdFinding]:
                         out.append(
                             DpdFinding(row, "form", "AMBIGUOUS", sorted(cand, key=str))
                         )
+    if ok_word and row.sentence and readings is not None:
+        example_hws = db.example_headwords(word, row.sentence)
+        if example_hws:
+            preferred = example_conflict(row, readings, example_hws)
+            if preferred is not None:
+                out.append(DpdFinding(row, "example", "EXAMPLE-CONFLICT", preferred))
     if len(row.cells) == 5:
         m = ROOT_CELL.search(row.cells[4].replace("\\*", "*"))
         if m:
@@ -774,6 +875,7 @@ def run_dpd(courses: list[str], db_path: Path, report_path: Path) -> int:
             "AMBIGUOUS",
             "NOT-FOUND",
             "ROOT-MISMATCH",
+            "EXAMPLE-CONFLICT",
             "CONFIRMED",
             "SKIPPED",
         ):

@@ -75,7 +75,7 @@
 | na | ind | neg | nor | |
 | maṇḍanāya | noun | nt.dat.sg | for adornment, for beauty | √maṇḍ･1 a (adorn) |
 | na | ind | neg | nor | |
-| vibhūsanāya | noun | nt.dat.sg | for decoration, for bulk | √bhūs･1 a (adorn, decorate) |
+| vibhūsanāya | noun | nt.dat.sg | for decoration; for embellishment | √bhūs･1 a (adorn, decorate) |
 
 **Neither for fun, nor for intoxication, nor for adornment, nor for physical appearance.**
 

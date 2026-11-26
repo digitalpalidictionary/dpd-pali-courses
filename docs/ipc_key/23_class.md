@@ -371,7 +371,7 @@
 | na | ind | neg | not | |
 | so | pron | masc.nom.sg | he | |
 | socati | verb | pr.3rd.sg | he grieves, is sad | |
-| nājjheti | sandhi | pr.3rd.sg | he is not anxious | |
+| nājjheti | verb | pr.3rd.sg | he is not anxious | |
 | \#na | ind | neg | not | |
 | \#ajjheti | verb | pr.3rd.sg | he is anxious | |
 | chinnasoto | adj | masc.nom.sg | cut the stream (of craving) | dutiyā tappurisa \> bahubbīhi |
@@ -499,7 +499,7 @@
 | iddhividhaṃ | noun | fem.acc.sg | kinds of psychic power | chaṭṭhī tappurisa |
 | \#iddhi | noun | fem. | psychic power | |
 | \#vidhaṃ | noun | fem.acc.sg | of the kind | |
-| paccanubhaveyyaṃ | verb | opt.1st.sg | I could manifest | |
+| paccanubhaveyyaṃ | verb | opt.reflx.1st.sg | I could manifest | |
 | ekopi | sandhi | masc.nom.sg | just one | |
 | \#eko | adj | masc.nom.sg | one | |
 | \#api | ind | emph | even; just | |
@@ -938,7 +938,7 @@
 | yathābhūtaṃ | ind | adv | as it truly is; in reality, lit. like become | abyayībhāva |
 | \#yathā | ind | adv | as; like | |
 | \#bhūtaṃ | pp | | become | |
-| nābbhaññāsiṃ | sandhi | aor.1st.sg | I did not directly know | |
+| nābbhaññāsiṃ | verb | aor.1st.sg | I did not directly know | |
 | \#na | ind | neg | not | |
 | \#abbhaññāsiṃ | verb | aor.1st.sg | I directly knew | |
 | neva | sandhi | | not just | |

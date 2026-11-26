@@ -38,3 +38,6 @@ dev = [
 
 [tool.pytest.ini_options]
 norecursedirs = ["tests", "archive", "scripts/archive", "conductor", "site", ".venv"]
+
+[tool.pyrefly]
+search-path = ["kamma/audit/scripts"]

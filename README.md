@@ -113,7 +113,7 @@ Needs [`just`](https://github.com/casey/just), `uv sync` done once, and the syst
 - **`verify_numbering.py`**: Verifies consistency of sentence numbering (footnotes, lists) across Markdown, website, and PDF. Identifies discrepancies where numbering resets or differs between formats.
   - Usage: `uv run python scripts/verify_numbering.py`
 
-- **`verify_key.py`**: Verifies the BPC and IPC answer keys (`docs/bpc_key/`, `docs/ipc_key/`) against the exercise files and the tag vocabulary: numbering, POS/Grammar tags, root-cell format, compound-type spelling, stray characters. Exits 1 on any error; word-coverage warnings never affect the exit code. With `--dpd`, also checks each row's form, tag and root against the local DPD database and writes a TSV report (advisory only, never affects the exit code; local-only because the DB lives outside the repo).
+- **`verify_key.py`**: Verifies the BPC and IPC answer keys (`docs/bpc_key/`, `docs/ipc_key/`) against the exercise files and the tag vocabulary: numbering, POS/Grammar tags, root-cell format, compound-type spelling, stray characters. Exits 1 on any error; word-coverage warnings never affect the exit code. With `--dpd`, also checks each row's form, tag and root against the local DPD database (bucket `EXAMPLE-CONFLICT`: a DPD headword quotes the key sentence in `example_1`/`example_2` but the key's POS/grammar disagrees with it) and writes a TSV report (advisory only, never affects the exit code; local-only because the DB lives outside the repo).
   - Usage: `uv run python scripts/verify_key.py [--course bpc|ipc|all] [--warnings] [--dpd [PATH]] [--report PATH]`
   - `--course`: which course to check (default `all`). `--warnings`: list the word-coverage warnings instead of only counting them. `--dpd [PATH]`: run the DPD check (default DB `/Users/deva/Documents/dpd-db/dpd.db`). `--report PATH`: TSV report location (default `temp/key_dpd_report.tsv`).
 
@@ -202,8 +202,8 @@ Pre-processing scripts run a series of checks and corrections before building th
 
 Helper scripts for the read-only audits live in `kamma/audit/scripts/`; the process is described in `kamma/audit/audit-guide.md`. The guide and the scripts hold no project paths and are symlinked into other projects (e.g. `study-tools`), so run them from the root of the project being audited.
 
-- **`dpd_lookup.py`**: Prints every DPD headword row (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. An inflected form lists all headwords DPD's `lookup` table gives for it (e.g. `pallaṅkena` → `pallaṅka 1`, `pallaṅka 2`, `pallaṅkena`). Needs a local `dpd.db` (path from `$DPD_DB`).
-  - Usage: `uv run python kamma/audit/scripts/dpd_lookup.py <lemma or form> [<lemma or form> …]`
+- **`dpd_lookup.py`**: Prints every DPD headword row (pos, grammar, root, compound type, construction, meaning) to check a suspicious form. An inflected form lists all headwords DPD's `lookup` table gives for it (e.g. `pallaṅkena` → `pallaṅka 1`, `pallaṅka 2`, `pallaṅkena`). With `--sentence "<pāli>"`, a headword whose `example_1`/`example_2` quotes that sentence (≥80 % of the shorter side's words) is prefixed `EXAMPLE `. Needs a local `dpd.db` (path from `$DPD_DB`).
+  - Usage: `uv run python kamma/audit/scripts/dpd_lookup.py <lemma or form> [<lemma or form> …] [--sentence "<pāli>"]`
 - **`mech_checks.py`**: Mechanical checks over any folder of Markdown files (tables, links, anchors, index titles, headings, footnotes, stray characters, convention counts).
   - Usage: `uv run python kamma/audit/scripts/mech_checks.py docs/ipc [--links-out <file>] [--folder-footnotes]`
 - **`key_vs_ex.py`**: Compares the numbered sentences of a key folder with the same-named exercise files.
