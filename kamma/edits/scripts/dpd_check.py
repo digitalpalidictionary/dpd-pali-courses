@@ -58,7 +58,8 @@ VERB = re.compile(rf"^(?:{_M}\.)*{_T}\.(?:{_M}\.)*{_P}(?:/{_P})*\.{_N}(?:/{_N})*
 
 SKIP_WORD_CHARS = ("'", "‘", "’", " ", "-", "<br>", "(", "[")
 NOUN_POS = {"masc", "nt", "fem"}
-VERB_POS = {"pr", "aor", "fut", "imp", "opt", "perf", "cond", "imperf", "cs"}
+# cs (conjugational sign) is a grammar term, not a verb
+VERB_POS = {"pr", "aor", "fut", "imp", "opt", "perf", "cond", "imperf"}
 HOMONYM_RE = re.compile(r" \d+(?:\.\d+)?$")
 
 # Console order of the buckets.

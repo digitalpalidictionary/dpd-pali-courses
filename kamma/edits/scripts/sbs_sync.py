@@ -12,6 +12,8 @@ import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from kamma.edits.scripts.dpd_check import headword_key_pos
+
 DB = os.environ.get("DPD_DB", "/Users/deva/Documents/dpd-db/dpd.db")
 
 GROUPS: dict[str, list[str]] = {
@@ -47,8 +49,6 @@ GROUPS: dict[str, list[str]] = {
 }
 INT_COLS = {"class_anki", "sbs_class", "sbs_index"}
 
-NOUN_POS = {"masc", "nt", "fem"}
-VERB_POS = {"pr", "aor", "fut", "imp", "opt", "perf", "cond"}
 POS_ALIAS = {"ger": "abs"}  # DPD ger = key abs
 
 
@@ -563,9 +563,7 @@ def _is_boundary(line: str) -> bool:
 
 
 def pos_ok(dpd_pos: str, key_pos: str) -> bool:
-    mapped = (
-        "noun" if dpd_pos in NOUN_POS else "verb" if dpd_pos in VERB_POS else dpd_pos
-    )
+    mapped = headword_key_pos(dpd_pos)
     tokens = set(re.findall(r"[a-z]+", key_pos.lower()))
     return mapped in tokens or dpd_pos in tokens or POS_ALIAS.get(dpd_pos) in tokens
 
