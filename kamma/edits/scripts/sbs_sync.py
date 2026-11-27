@@ -588,7 +588,7 @@ def load_rows(
     ex = ex_col(group)
     return con.execute(
         f"select s.id, h.lemma_1, h.pos, s.{source}, s.{ex}, {trans}, h.example_1, h.example_2 "
-        f"from sbs s join dpd_headwords h on h.id = s.id where {where} and s.{ex} != ''",
+        f"from sbs s join dpd_headwords h on h.id = s.id where ({where}) and s.{ex} != ''",
         params,
     ).fetchall()
 

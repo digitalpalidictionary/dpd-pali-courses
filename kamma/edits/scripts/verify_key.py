@@ -252,14 +252,14 @@ def parse_doc(text: str, course: str, file: str) -> Doc:
 
 
 def pos_problems(cell: str) -> list[str]:
-    s = strip_annotations(cell).replace("<br>", " ")
+    s = strip_annotations(cell, braces=False).replace("<br>", " ")
     s = re.sub(r"(?<=\s)/(?=\s)", " ", s)
     tokens = [t for t in re.split(r"\s+or\s+|[,;+.\s]+", s)]
     return [t for t in tokens if t not in POS_WORDS]
 
 
 def grammar_problems(cell: str) -> list[str]:
-    s = strip_annotations(cell)
+    s = strip_annotations(cell, braces=False)
     s = re.sub(
         r"\+\s*(?:end\s?quote|quotation marks?|nom|acc|instr|dat|abl|gen|loc|voc)\b",
         "",
@@ -300,7 +300,11 @@ def stray_problems(cell: str, kind: str) -> list[str]:
     if re.search(r" {3,}", cell):
         bad.append("3+ consecutive spaces")
     if kind == "pali":
-        s = strip_annotations(cell).replace("<br>", " ").replace(" / ", " ")
+        s = (
+            strip_annotations(cell, braces=False)
+            .replace("<br>", " ")
+            .replace(" / ", " ")
+        )
         letters = {c for c in s if c.isascii() and c.isalpha()} - PALI_ASCII
         if letters:
             bad.append("ASCII letters " + "".join(sorted(letters)))

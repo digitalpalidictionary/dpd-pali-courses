@@ -75,14 +75,16 @@ BUCKETS = (
 # ---------------------------------------------------------------- cells
 
 
-def strip_annotations(cell: str) -> str:
+def strip_annotations(cell: str, braces: bool = True) -> str:
+    """Drop footnotes and (…)/[…] notes, and {…} unless braces=False (the courses' gate keeps braces so they are flagged)."""
     s = FOOTNOTE_RE.sub("", cell)
     prev = None
     while prev != s:
         prev = s
         s = re.sub(r"\([^()]*\)", "", s)
         s = re.sub(r"\[[^\[\]]*\]", "", s)
-        s = re.sub(r"\{[^{}]*\}", "", s)
+        if braces:
+            s = re.sub(r"\{[^{}]*\}", "", s)
     return s
 
 
@@ -187,7 +189,9 @@ def parse_tag(cell: str, dialect: str) -> Tag | None:
         return None
     if s in ("abs", "ger", "inf"):
         return Tag("simple", tense=s)
-    s = re.sub(r"^(?:" + "|".join(sorted(POS_WORDS - {"", "-"})) + r")\.", "", s)
+    # A leading reflexive marker is a verb modifier, not a POS word: keep it for VERB.
+    pos_prefix = sorted(POS_WORDS - {"", "-", "refl", "reflx", "reflex"})
+    s = re.sub(r"^(?:" + "|".join(pos_prefix) + r")\.", "", s)
     s = s.replace("./", "/")
     if VERB.match(s):
         toks = s.split(".")
