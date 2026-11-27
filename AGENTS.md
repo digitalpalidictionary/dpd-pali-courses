@@ -38,6 +38,7 @@ All files placed in `scripts/cl/` MUST be made executable with `chmod +x` immedi
 
 ## Key Verification
 - Before any commit touching `docs/bpc_key/`, `docs/bpc_ex/`, `docs/ipc_key/` or `docs/ipc_ex/`, run `uv run python kamma/edits/scripts/verify_key.py`; it must exit 0. `--dpd` is optional, local-only and advisory.
+- The DPD layer is `kamma/edits/scripts/dpd_check.py`. It and `sbs_sync.py` are shared: edit them here; they are linked into study-tools (`../sasanarakkha/study-tools`).
 
 ## Course Audits (`kamma/audit/`)
 - Read-only audits of course folders (findings lists, never edit `docs/`). Follow `kamma/audit/audit-guide.md` (process, row format, categories, limits). Output: `kamma/audit/<course>-audit.md`; work in progress and handoff state in `kamma/audit/scratch/STATE.md`.

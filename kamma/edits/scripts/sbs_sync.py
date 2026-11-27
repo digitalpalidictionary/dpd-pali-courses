@@ -60,8 +60,8 @@ def norm(text: str) -> str:
     return " ".join(text.split())
 
 
-EXAMPLE_MIN_WORDS = 4  # twin of verify_key.py (same folder): change both together
-EXAMPLE_COVERAGE = 0.80  # twin of verify_key.py (same folder): change both together
+EXAMPLE_MIN_WORDS = 4
+EXAMPLE_COVERAGE = 0.80
 
 
 ITEM_MARK_RE = re.compile(r"^\s*(?:\([^)]*\)|[A-Z][A-Za-z-]*\.?\s?\d[\d.,:-]*)\s*")
@@ -482,6 +482,8 @@ def _insert_blank_sql(con: sqlite3.Connection) -> str:
 
 @dataclass
 class Sentence:
+    """One key sentence: study-tools builds this too; keep the fields stable."""
+
     line: int
     source: str
     pali: str
@@ -576,15 +578,39 @@ class Issue:
     pali: str = ""  # normalised key sentence the issue belongs to ("" for ORPHAN)
 
 
+def load_rows(
+    con: sqlite3.Connection, group: str, where: str, params: tuple = ()
+) -> list[tuple]:
+    """SBS rows of a group with an example, as (id, lemma_1, pos, source, example, translation or "", example_1, example_2)."""
+    cols = GROUPS[group]
+    source = next(c for c in cols if "source" in c)
+    trans = next((f"s.{c}" for c in cols if "translation" in c), "''")
+    ex = ex_col(group)
+    return con.execute(
+        f"select s.id, h.lemma_1, h.pos, s.{source}, s.{ex}, {trans}, h.example_1, h.example_2 "
+        f"from sbs s join dpd_headwords h on h.id = s.id where {where} and s.{ex} != ''",
+        params,
+    ).fetchall()
+
+
 def check_key(
     con: sqlite3.Connection, text: str, cls: int, label: str
 ) -> tuple[list[Issue], str]:
-    sentences = parse_key(text)
-    rows = con.execute(
-        "select s.id, h.lemma_1, h.pos, s.class_source, s.class_example, s.class_example_translation, h.example_1, h.example_2 "
-        "from sbs s join dpd_headwords h on h.id = s.id where s.class_anki = ? and s.class_example != ''",
-        (cls,),
-    ).fetchall()
+    return compare(
+        parse_key(text),
+        load_rows(con, "class", "s.class_anki = ?", (cls,)),
+        label,
+        f"class {cls}",
+    )
+
+
+def compare(
+    sentences: list[Sentence], rows: list[tuple], label: str, scope: str
+) -> tuple[list[Issue], str]:
+    """Pair key sentences with SBS rows (see load_rows) and list the differences; scope names the group in ORPHAN messages.
+
+    TRANS needs a key translation, so Sentences built with translation="" (groups without a translation column) never give TRANS.
+    """
     by_ex: dict[str, list[tuple]] = {}
     for r in rows:
         by_ex.setdefault(norm(r[4]), []).append(r)
@@ -610,7 +636,7 @@ def check_key(
         if not chunks:
             first = hits[0][4].splitlines()[0][:70]
             issues.append(
-                Issue("ORPHAN", ids, f"class {cls} {hits[0][3]} ids {ids} | {first}")
+                Issue("ORPHAN", ids, f"{scope} {hits[0][3]} ids {ids} | {first}")
             )
             continue
         s = chunks[0]
@@ -664,6 +690,24 @@ def _ikey(i: Issue) -> tuple[str, str]:
     return (i.kind, i.pali if i.kind == "NO-SBS" else i.ids)
 
 
+def text_at(path: Path, rev: str) -> str:
+    """The text of path at git revision rev; ValueError(stderr) if git cannot show it."""
+    old = subprocess.run(
+        ["git", "-C", str(path.resolve().parent), "show", f"{rev}:./{path.name}"],
+        capture_output=True,
+        text=True,
+    )
+    if old.returncode != 0:
+        raise ValueError(old.stderr.strip())
+    return old.stdout
+
+
+def new_since(issues_now: list[Issue], issues_then: list[Issue]) -> list[Issue]:
+    """The issues of issues_now that issues_then did not already have (same kind and target)."""
+    before = {_ikey(i) for i in issues_then}
+    return [i for i in issues_now if _ikey(i) not in before]
+
+
 def cmd_check(a: argparse.Namespace) -> int:
     con = connect(False)
     path = Path(a.key)
@@ -675,23 +719,12 @@ def cmd_check(a: argparse.Namespace) -> int:
     text = path.read_text(encoding="utf-8")
     issues, summary = check_key(con, text, cls, str(path))
     if a.since:
-        old = subprocess.run(
-            [
-                "git",
-                "-C",
-                str(path.resolve().parent),
-                "show",
-                f"{a.since}:./{path.name}",
-            ],
-            capture_output=True,
-            text=True,
-        )
-        if old.returncode != 0:
-            print(f"!! cannot read {path} at {a.since}: {old.stderr.strip()}")
+        try:
+            old_text = text_at(path, a.since)
+        except ValueError as err:
+            print(f"!! cannot read {path} at {a.since}: {err}")
             return 1
-        old_text = old.stdout
-        before = {_ikey(i) for i in check_key(con, old_text, cls, str(path))[0]}
-        issues = [i for i in issues if _ikey(i) not in before]
+        issues = new_since(issues, check_key(con, old_text, cls, str(path))[0])
         summary += f", showing only issues new since {a.since}"
     if a.only:
         issues = [i for i in issues if i.kind in a.only]

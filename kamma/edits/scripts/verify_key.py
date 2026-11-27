@@ -13,10 +13,12 @@ tag format is caught here.
 --dpd [PATH] checks every row against the local DPD SQLite DB (default
 /Users/deva/Documents/dpd-db/dpd.db; local-only; advisory: never affects the exit code).
 --report defaults to temp/key_dpd_report.tsv (git-ignored). Output is deterministic.
+The DPD layer (tag parsing, readings, buckets) lives in dpd_check.py, shared with study-tools;
+the report columns and row_key stay here.
 
 DPD buckets (each key row gets one):
     IMPOSSIBLE      the key's tag is not among the DPD readings of the form (likely a real error)
-    NOT-FOUND       the form is not in DPD
+    NOT-FOUND       the form is not in DPD, or DPD has no reading for it
     ROOT-MISMATCH   key root differs from the DPD root
     EXAMPLE-CONFLICT  a DPD headword quotes this key sentence in example_1/example_2 and the key's
                     POS/grammar disagrees with it (owner rule: the DPD reading wins unless it is a real error)
@@ -41,15 +43,23 @@ Key table format (what edits touch): row `| word | pos | grammar | gloss | root 
 """
 
 import argparse
-import json
 import re
-import sqlite3
 import sys
-import unicodedata
 from collections import Counter
 from dataclasses import dataclass, field
 from pathlib import Path
 
+from kamma.edits.scripts.dpd_check import (
+    BUCKETS,
+    FOOTNOTE_RE,
+    DpdFinding,
+    classify_rows,
+    open_db,
+    split_cells,
+    strip_annotations,
+    write_tsv,
+)
+from kamma.edits.scripts.sbs_sync import example_matches
 from tools.printer import printer as pr
 
 ROOT_DIR = Path(__file__).resolve().parents[3]  # kamma/edits/scripts/ → repo root
@@ -127,6 +137,26 @@ class Row:
     def word(self) -> str:
         return clean_word(self.cells[0])
 
+    @property
+    def pos(self) -> str:
+        return self.cells[1]
+
+    @property
+    def grammar(self) -> str:
+        return self.cells[2] if len(self.cells) > 2 else ""
+
+    @property
+    def headword_ids(self) -> tuple[int, ...]:
+        return ()
+
+    @property
+    def dpd_root(self) -> tuple[str, str] | None:
+        """(`√root`, group) of a 5-cell row's root cell, else None."""
+        if len(self.cells) != 5:
+            return None
+        m = ROOT_CELL.search(self.cells[4].replace("\\*", "*"))
+        return ("√" + m.group(1), m.group(2)) if m else None
+
 
 @dataclass
 class Doc:
@@ -144,15 +174,6 @@ ITEM_RE = re.compile(r"^(\d+)\\?\.\s")
 EXTRA_RE = re.compile(r"^##.*Extra")
 BOLD_RE = re.compile(r"^\*\*(.+)\*\*\s*$")
 LINK_RE = re.compile(r"\[[^\]]*\]\([^)]*\)")
-FOOTNOTE_RE = re.compile(r"\[\^\w+\]")
-
-
-def split_cells(line: str) -> list[str]:
-    s = line.strip()
-    s = s[1:] if s.startswith("|") else s
-    if s.endswith("|") and not s.endswith("\\|"):
-        s = s[:-1]
-    return [c.strip() for c in re.split(r"(?<!\\)\|", s)]
 
 
 def clean_word(cell: str) -> str:
@@ -228,16 +249,6 @@ def parse_doc(text: str, course: str, file: str) -> Doc:
 
 
 # ---------------------------------------------------------------- cell checks
-
-
-def strip_annotations(cell: str) -> str:
-    s = FOOTNOTE_RE.sub("", cell)
-    prev = None
-    while prev != s:
-        prev = s
-        s = re.sub(r"\([^()]*\)", "", s)
-        s = re.sub(r"\[[^\[\]]*\]", "", s)
-    return s
 
 
 def pos_problems(cell: str) -> list[str]:
@@ -482,371 +493,32 @@ REPORT_COLUMNS = [
     "grammar", "root", "gloss", "sentence", "translation", "check", "bucket",
     "dpd_readings",
 ]  # fmt: skip
-GENDERS = {"masc", "fem", "nt", "x", "1st", "2nd", "3rd"}
-CASES = {"nom", "acc", "instr", "dat", "abl", "gen", "loc", "voc"}
-NUMBERS = {"sg", "pl", "dual"}
-PERSONS = {"1st", "2nd", "3rd"}
-NONINFLECTING = {"abs", "ger", "inf", "ind"}
-SKIP_WORD_CHARS = ("'", "‘", "’", " ", "-", "<br>", "(", "[")
-PLUS_CASE = re.compile(
-    r"\+\s*(?:end\s?quote|quotation marks?|nom|acc|instr|dat|abl|gen|loc|voc)\b"
-)
 ROOT_CELL = re.compile(r"√([^\s･×]+)[･×](\d+)")
-
-
-@dataclass(frozen=True)
-class Tag:
-    kind: str  # infl | verb | simple
-    genders: frozenset[str] = frozenset()
-    cases: frozenset[str] = frozenset()
-    persons: frozenset[str] = frozenset()
-    numbers: frozenset[str] = frozenset()
-    tense: str = ""
-    reflx: bool = False
-
-
-@dataclass(frozen=True)
-class Reading:
-    lemma: str
-    pos: str
-    grammar: str
-
-    def __str__(self) -> str:
-        return " ".join(x for x in (self.lemma, self.pos, self.grammar) if x)
-
-
-@dataclass
-class DpdFinding:
-    row: Row
-    check: str
-    bucket: str
-    readings: list[Reading] = field(default_factory=list)
-
-
-def slot(text: str) -> frozenset[str]:
-    return frozenset(t for t in text.split("/") if t)
-
-
-def parse_key_tag(cell: str) -> Tag | None:
-    """Parse a single key Grammar tag; None if the cell is not one checkable tag."""
-    s = PLUS_CASE.sub("", strip_annotations(cell)).strip()
-    if not s or re.search(r"<br>|\s+or\s+|[,;+\s]", s):
-        return None
-    if s in ("abs", "ger", "inf"):
-        return Tag("simple", tense=s)
-    s = re.sub(r"^(?:" + "|".join(sorted(POS_WORDS - {"", "-"})) + r")\.", "", s)
-    s = s.replace("./", "/")
-    if VERB.match(s):
-        toks = s.split(".")
-        mods = {t for t in toks if t in ("caus", "pass", "reflx")}
-        rest = [t for t in toks if t not in ("caus", "pass", "reflx")]
-        return Tag(
-            "verb",
-            persons=slot(rest[1]),
-            numbers=slot(rest[2]),
-            tense=rest[0],
-            reflx="reflx" in mods,
-        )
-    if INFLECTION.match(s):
-        toks = s.split(".")
-        genders = slot(toks[0]) if len(toks) == 3 else frozenset()
-        return Tag(
-            "infl", genders=genders, cases=slot(toks[-2]), numbers=slot(toks[-1])
-        )
-    return None
-
-
-def reading_matches(tag: Tag, r: Reading) -> bool:
-    if tag.kind == "simple":
-        if tag.tense == "inf":
-            return r.pos == "inf"
-        return r.pos in ("abs", "ger")
-    toks = r.grammar.split()
-    if not toks:
-        return False
-    is_verb = any(t in TENSES for t in toks)
-    if tag.kind == "verb":
-        if not is_verb:
-            return False
-        tense = next(t for t in toks if t in TENSES)
-        person = next((t for t in toks if t in PERSONS), "")
-        number = next((t for t in toks if t in NUMBERS), "")
-        return (
-            tense == tag.tense
-            and ("reflx" in toks) == tag.reflx
-            and person in tag.persons
-            and number in tag.numbers
-        )
-    if is_verb:
-        return False
-    number = (
-        "dual" if "dual" in toks else next((t for t in toks if t in ("sg", "pl")), "")
-    )
-    case = next((t for t in toks if t in CASES), "")
-    gender = next((t for t in toks if t in GENDERS), "")
-    if case not in tag.cases or number not in tag.numbers:
-        return False
-    if tag.genders and gender and "x" not in tag.genders and gender != "x":
-        return gender in tag.genders
-    return True
-
-
-def eligible_word(word: str) -> bool:
-    return bool(word) and not any(c in word for c in SKIP_WORD_CHARS)
-
-
-def key_pos_tokens(cell: str) -> set[str]:
-    s = strip_annotations(cell).replace("<br>", " ")
-    s = re.sub(r"(?<=\s)/(?=\s)", " ", s)
-    return {t for t in re.split(r"\s+or\s+|[,;+.\s]+", s) if t}
-
-
-def pos_agrees(key_pos: set[str], dpd_pos: str) -> bool:
-    return dpd_pos in key_pos or (
-        dpd_pos in ("abs", "ger", "inf") and "verb" in key_pos
-    )
-
-
-# Twin of kamma/edits/scripts/sbs_sync.py (norm, example_coverage, example_matches and the two
-# constants are byte-identical there). Change both together.
-EXAMPLE_MIN_WORDS = 4  # twin of kamma/edits/scripts/sbs_sync.py: change both together
-EXAMPLE_COVERAGE = 0.80  # twin of kamma/edits/scripts/sbs_sync.py: change both together
-
-
-def norm(text: str) -> str:
-    """Pāli sentence key: no tags, apostrophes, punctuation, case or extra spaces."""
-    text = re.sub(r"\[\^\w+\]", "", re.sub(r"<[^>]+>", "", text))
-    text = unicodedata.normalize("NFC", text).lower()
-    text = re.sub(r"[^\w\s]", "", text)
-    return " ".join(text.split())
-
-
-ITEM_MARK_RE = re.compile(r"^\s*(?:\([^)]*\)|[A-Z][A-Za-z-]*\.?\s?\d[\d.,:-]*)\s*")
-
-
-def strip_item_marks(text: str) -> str:
-    """Remove leading `(simpl)`-style and citation marks (`UD-a 43`, `DNa2.3`) from a key sentence."""
-    while True:
-        stripped = ITEM_MARK_RE.sub("", text, count=1)
-        if stripped == text:
-            return text
-        text = stripped
-
-
-def example_coverage(a: str, b: str) -> float:
-    """Share of the shorter sentence's words found in the longer one (0.0 if it has under EXAMPLE_MIN_WORDS words)."""
-    wa, wb = norm(strip_item_marks(a)).split(), norm(strip_item_marks(b)).split()
-    short, long_ = (wa, wb) if len(wa) <= len(wb) else (wb, wa)
-    if len(short) < EXAMPLE_MIN_WORDS:
-        return 0.0
-    have = set(long_)
-    return sum(w in have for w in short) / len(short)
-
-
-def example_matches(a: str, b: str) -> bool:
-    """True when two Pāli sentences are the same or near-identical (see example_coverage)."""
-    return example_coverage(a, b) >= EXAMPLE_COVERAGE
-
-
-NOUN_POS = {"masc", "nt", "fem"}
-VERB_POS = {"pr", "aor", "fut", "imp", "opt", "perf", "cond", "imperf", "cs"}
-HOMONYM_RE = re.compile(r" \d+(?:\.\d+)?$")
-
-
-def headword_key_pos(pos: str) -> str:
-    """DPD headword pos (masc/pr/...) as the key's POS word (noun/verb/...)."""
-    return "noun" if pos in NOUN_POS else "verb" if pos in VERB_POS else pos
-
-
-class DpdDb:
-    """Read-only access to the DPD tables used by the 10b check."""
-
-    def __init__(self, con: sqlite3.Connection) -> None:
-        self.con = con
-        self._forms: dict[str, list[Reading] | None] = {}
-        self._form_roots: dict[str, set[str]] = {}
-        self._hw: dict[int, tuple[str, str, str]] = {}
-        self._form_ids: dict[str, list[int]] = {}
-        self._examples: dict[int, tuple[str, str]] = {}
-        self.root_groups: dict[str, set[int]] = {}
-        for root, group in con.execute("select root, root_group from dpd_roots"):
-            self.root_groups.setdefault(bare_root(root), set()).add(int(group))
-
-    def _headword(self, hid: int) -> tuple[str, str, str]:
-        if hid not in self._hw:
-            row = self.con.execute(
-                "select lemma_1, pos, root_key from dpd_headwords where id=?", (hid,)
-            ).fetchone()
-            self._hw[hid] = tuple(row) if row else ("", "", "")  # type: ignore[assignment]
-        return self._hw[hid]
-
-    def lookup(self, word: str) -> list[Reading] | None:
-        """Readings for a form (None if absent); also caches the form's root keys."""
-        for form in dict.fromkeys(
-            [
-                word,
-                word.lower(),
-                re.sub(r"m$", "ṃ", word),
-                re.sub(r"m$", "ṃ", word.lower()),
-            ]
-        ):
-            if form in self._forms:
-                found = self._forms[form]
-            else:
-                row = self.con.execute(
-                    "select headwords, grammar from lookup where lookup_key=?", (form,)
-                ).fetchone()
-                found = None
-                if row:
-                    found = []
-                    roots: set[str] = set()
-                    for lemma, pos, gram in json.loads(row[1] or "[]"):
-                        found.append(Reading(lemma, pos, gram))
-                    self._form_ids[form] = json.loads(row[0] or "[]")
-                    for hid in self._form_ids[form]:
-                        lemma, pos, root_key = self._headword(hid)
-                        if pos in NONINFLECTING:
-                            found.append(Reading(lemma, pos, ""))
-                        if root_key:
-                            roots.add(bare_root(root_key))
-                    self._form_roots[form] = roots
-                self._forms[form] = found
-            if found is not None:
-                self._last_form = form
-                return found
-        return None
-
-    def example_headwords(self, word: str, sentence: str) -> list[tuple[str, str]]:
-        """(lemma_1, pos) of the form's headwords whose example_1/example_2 quotes `sentence`."""
-        if self.lookup(word) is None:
-            return []
-        out: list[tuple[str, str]] = []
-        for hid in self._form_ids.get(getattr(self, "_last_form", ""), []):
-            if hid not in self._examples:
-                row = self.con.execute(
-                    "select example_1, example_2 from dpd_headwords where id=?", (hid,)
-                ).fetchone()
-                self._examples[hid] = (row[0] or "", row[1] or "") if row else ("", "")
-            if any(e and example_matches(e, sentence) for e in self._examples[hid]):
-                lemma, pos, _root = self._headword(hid)
-                if (lemma, pos) not in out:
-                    out.append((lemma, pos))
-        return out
-
-    def form_roots(self, word: str) -> set[str]:
-        self.lookup(word)
-        return self._form_roots.get(getattr(self, "_last_form", ""), set())
-
-
-def bare_root(root: str) -> str:
-    return re.sub(r"\s+\d+$", "", root.strip())
-
-
-def example_conflict(
-    row: Row, readings: list[Reading], example_hws: list[tuple[str, str]]
-) -> list[Reading] | None:
-    """The example headwords' readings if the key agrees with none of them, else None."""
-    kp = key_pos_tokens(row.cells[1])
-    tag = parse_key_tag(row.cells[2]) if len(row.cells) > 2 else None
-    preferred: list[Reading] = []
-    for lemma, pos in example_hws:
-        base = HOMONYM_RE.sub("", lemma)
-        grams = [r for r in readings if r.lemma == base and r.grammar]
-        agrees = pos_agrees(kp, headword_key_pos(pos)) and (
-            tag is None or not grams or any(reading_matches(tag, r) for r in grams)
-        )
-        if agrees:
-            return None
-        for r in grams or [Reading(lemma, pos, "")]:
-            if r not in preferred:
-                preferred.append(r)
-    return preferred
-
-
-def classify_row(row: Row, db: DpdDb) -> list[DpdFinding]:
-    """Return non-CONFIRMED, non-SKIPPED findings for one key row."""
-    out: list[DpdFinding] = []
-    word = row.word
-    ok_word = eligible_word(word)
-    readings: list[Reading] | None = None
-    if ok_word:
-        readings = db.lookup(word)
-        tag = parse_key_tag(row.cells[2]) if len(row.cells) > 2 else None
-        if tag is not None:
-            if readings is None:
-                out.append(DpdFinding(row, "form", "NOT-FOUND"))
-            else:
-                matching = [r for r in readings if reading_matches(tag, r)]
-                if not matching:
-                    out.append(DpdFinding(row, "form", "IMPOSSIBLE", readings))
-                else:
-                    kp = key_pos_tokens(row.cells[1])
-                    cand = {r for r in readings if pos_agrees(kp, r.pos)} or set(
-                        readings
-                    )
-                    if len(cand) > 1:
-                        out.append(
-                            DpdFinding(row, "form", "AMBIGUOUS", sorted(cand, key=str))
-                        )
-    if ok_word and row.sentence and readings is not None:
-        example_hws = db.example_headwords(word, row.sentence)
-        if example_hws:
-            preferred = example_conflict(row, readings, example_hws)
-            if preferred is not None:
-                out.append(DpdFinding(row, "example", "EXAMPLE-CONFLICT", preferred))
-    if len(row.cells) == 5:
-        m = ROOT_CELL.search(row.cells[4].replace("\\*", "*"))
-        if m:
-            root, group = "√" + m.group(1), int(m.group(2))
-            groups = db.root_groups.get(root)
-            bad = groups is None or group not in groups
-            if not bad and ok_word and readings is not None:
-                roots = db.form_roots(word)
-                bad = bool(roots) and root not in roots
-            if bad:
-                out.append(DpdFinding(row, "root", "ROOT-MISMATCH", readings or []))
-    return out
-
-
-def status_of(row: Row) -> str:
-    """SKIPPED / CHECKED classification for the console summary counts."""
-    if not eligible_word(row.word):
-        return "SKIPPED"
-    tag = parse_key_tag(row.cells[2]) if len(row.cells) > 2 else None
-    return "SKIPPED" if tag is None else "CHECKED"
 
 
 def row_key(row: Row) -> str:
     return f"{row.course}/{Path(row.file).name}/{row.section}/{row.item}/{row.word}/{row.occ}"
 
 
-def report_line(f: DpdFinding) -> list[str]:
+def report_line(f: DpdFinding[Row]) -> list[str]:
     r = f.row
     root = r.cells[4] if len(r.cells) > 4 else ""
-    vals = [
+    return [
         row_key(r), r.course, r.file, str(r.line), r.section, str(r.item), str(r.occ),
         r.word, r.cells[1], r.cells[2], root, r.cells[3], r.sentence, r.translation,
         f.check, f.bucket, ";".join(str(x) for x in f.readings),
     ]  # fmt: skip
-    return [re.sub(r"[\t\r\n]+", " ", v) for v in vals]
 
 
-def sort_key(f: DpdFinding) -> tuple[str, int, int, int, int, str]:
+def sort_key(f: DpdFinding[Row]) -> tuple[str, int, int, int, int, str]:
     r = f.row
     num = int(re.match(r"\d+", Path(r.file).name).group())  # type: ignore[union-attr]
     return (r.course, num, 0 if r.section == "main" else 1, r.item, r.line, f.check)
 
 
-def write_report(findings: list[DpdFinding], path: Path) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    lines = ["\t".join(REPORT_COLUMNS)]
-    lines += ["\t".join(report_line(f)) for f in sorted(findings, key=sort_key)]
-    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-
-
-def open_db(path: Path) -> DpdDb:
-    con = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
-    return DpdDb(con)
+def write_report(findings: list[DpdFinding[Row]], path: Path) -> None:
+    rows = [report_line(f) for f in sorted(findings, key=sort_key)]
+    write_tsv(path, REPORT_COLUMNS, rows)
 
 
 def run_dpd(courses: list[str], db_path: Path, report_path: Path) -> int:
@@ -854,31 +526,16 @@ def run_dpd(courses: list[str], db_path: Path, report_path: Path) -> int:
     if not db_path.exists():
         pr.no(str(db_path))
         return 1
-    db = open_db(db_path)
+    db = open_db(db_path, example_matches)
     pr.yes("ok")
-    all_findings: list[DpdFinding] = []
+    all_findings: list[DpdFinding[Row]] = []
     for course in courses:
         pr.green_tmr(f"{course} DPD check")
         rows = course_rows(course)
-        counts: Counter[str] = Counter()
-        for row in rows:
-            fs = classify_row(row, db)
-            all_findings += fs
-            for f in fs:
-                counts[f.bucket] += 1
-            if not fs:
-                st = status_of(row)
-                counts["SKIPPED" if st == "SKIPPED" else "CONFIRMED"] += 1
+        findings, counts = classify_rows(rows, db, "tag")
+        all_findings += findings
         pr.yes(f"{len(rows)} rows")
-        for bucket in (
-            "IMPOSSIBLE",
-            "AMBIGUOUS",
-            "NOT-FOUND",
-            "ROOT-MISMATCH",
-            "EXAMPLE-CONFLICT",
-            "CONFIRMED",
-            "SKIPPED",
-        ):
+        for bucket in BUCKETS:
             pr.summary(f"  {bucket}", counts[bucket])
     pr.green_tmr("write report")
     write_report(all_findings, report_path)
